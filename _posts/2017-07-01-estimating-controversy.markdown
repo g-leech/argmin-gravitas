@@ -40,6 +40,8 @@ $$
 
 ---
 
+<br>
+
 ### Motivation
 
 To date, community attention has been focussed on low-controversy Pareto improvements. The proposed work is important because much potential value lies in controversial areas: for instance, state intervention offers vast resources and irreplaceable co-ordination power, but the use of these is often defeated by controversy and its entailed lobbying.
@@ -54,6 +56,8 @@ One month's work should allow for:
 4. coefficient estimates for some cause (e.g. birth control is data-rich and controversial enough).
 
 ---
+
+<br>
 
 ### Sub-questions
 
@@ -71,6 +75,8 @@ One month's work should allow for:
 
 ---
 
+<br>
+
 ### Uncertainties
 
 I’m not sure how to square the value of countercyclical moral leadership with the ITN model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval [5]. I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy.
@@ -79,12 +85,16 @@ I am not sure how much weight to put on historical case studies, relative to a c
 
 
 <a name="appendix"><a/>
+
 -----------------------
+-----------------------
+
 <br>
-#### Appendix: example of extra conceptual analysis work needed.
+
+#### Appendix: example of extra conceptual analysis needed.
 
 
-##### Sources of political controversy
+**Sources of political controversy**
 
 * _Asymmetric information_. A spurious controversy, based in error - as plausibly occurred when Boko Haram killed polio health workers. We might think that the sustainable strategy is simple: do not compromise, but spread the truth.
 
