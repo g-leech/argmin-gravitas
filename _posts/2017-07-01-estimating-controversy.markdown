@@ -16,14 +16,13 @@ Around 90 health workers were murdered while delivering polio vaccines to childr
 
 My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy (and associated social or political resistance to interventions) is a negative term for tractability. (And is a dominating factor, for any intervention requiring state resources, approval, or enforcement.) Naı̈vely, the relation would have at least the following terms:
 
-
-\[ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{\href{http://mathurl.com/z83m8zq}{asocial}}\\\text{\href{http://mathurl.com/z83m8zq}{cost:benefit}}}\,,\, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{resistance}} \]
+$$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{\href{http://mathurl.com/z83m8zq}{asocial}}\\\text{\href{http://mathurl.com/z83m8zq}{cost:benefit}}}\,,\, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{resistance}} $$
 \emph{where}
-\begin{align*}	
+$$\begin{align*}	
 	\text{resistance} &= 	\Large{f} \left(\,\,	\normalsize{ \text{counter-activism,\,\, controversy \,}}   \right) \\\\
 	\text{ counter-activism } &=	\Large{f} \left( \normalsize{ \text{ controversy},\,\, \substack{\text{social capital}\\\text{of opponents}}	\,,\,\, \text{P(violence)} } \,\,\right)
-\end{align*}
-\[ \text{controversy} = \left( \substack{\text{\% of population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}\]
+\end{align*}$$
+$$ \text{controversy} = \left( \substack{\text{\% of population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	$$
 
 (Resistance manifests as delay, negotiation & PR costs, extra legal costs, haz-
 ard insurance, or reduced volunteering and uptake. Controversy appears in the
