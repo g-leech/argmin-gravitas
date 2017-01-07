@@ -4,9 +4,10 @@ title:  "Estimating political controversy (research proposal)"
 date:   2017-07-01 20:31:40
 author:	Gavin
 categories: cause prioritisation, effective altruism, 
+summary:	_A tiny research proposal for the Centre for Effective Altruism_.
+confidence: 	60% on core equations. 80% that it is worth doing.
+warnings: 	terrorism, inexorable ideologies.
 ---
-
-Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
 def print_hi(name)
