@@ -15,10 +15,14 @@ warnings: 	terrorism, inexorable ideologies
 Around 90 health workers were murdered while delivering polio vaccines to children in [2014][Poliohno]. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
 My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy (and associated social or political resistance to interventions) is a negative term for tractability. (And is a dominating factor, for any intervention requiring state resources, approval, or enforcement.) Naı̈vely, the relation would have at least the following terms:<br><br>
-<!--http://mathurl.com/z83m8zq-->
+
+<!---->
 $$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{asocial}\\\text{cost:benefit}}, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{resistance}} $$
 <br><i>where</i>
-
+$$
+	\text{asocial cost:benefit}  = \Large{f}\left(\,\normalsize{ \substack{\text{prima facie}\\\text{cost:benefit}} \,,\,\, 				\substack{\text{intervention}\\\text{track record}} , \substack{\text{theoretical}\\\text{strength}} , 					\substack{\text{measurability}} }\,
+	\right)
+$$
 $$
 	\text{resistance} = 	\Large{f} \left(\,\,	\normalsize{ \text{counter-activism, controversy }}   \right) \\\\
 $$
