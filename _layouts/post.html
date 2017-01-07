@@ -1,6 +1,29 @@
 ---
 layout: default
 ---
+
+<script>
+function writeFootnote(p,label,text, print) {
+    if (typeof(print) == 'undefined' || print == null) {
+       print = true;
+    }
+    var chStr = '<strong>';
+    if (parseInt(label) == findNum(label)) {
+       if (typeof(chapterNumbers[cNum]) != 'undefined' && chapterNumbers[cNum] != null) {
+        chStr += 'Note ' + (chapterNumbers[cNum]).toString() + '-';
+       }
+    }
+    footnote = chStr + label + ':</strong> ' + text ;
+    var qStr = '<a href="#" class="fnLink" id="footnote' + fCtr.toString() + '">[+]</a></p>' +
+               '<div class="footnote"><p>' + footnote + '</p></div><p class="inline">';
+    if (print) {
+       document.writeln(qStr);
+       return true;
+    } else {
+       return qStr;
+    }
+}
+</script>
 <div class="post">
 	<!-- available: Simple -- Stylized -- Technical. -->
   	<header class="post-header">

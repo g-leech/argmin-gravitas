@@ -14,11 +14,16 @@ warnings: 	terrorism, inexorable ideologies
 
 Around 90 health workers were murdered while delivering polio vaccines to children in [2014][Poliohno]. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
+
+<script language="JavaScript1.8" type="text/javascript">var fStr='Rumors to the contrary notwithstanding, most students survive the class.';writeFootnote(fCtr++,fCtr.toString(),fStr);</script>
+
+
 My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy (and associated social or political resistance to interventions) is a negative term for tractability. (And is a dominating factor, for any intervention requiring state resources, approval, or enforcement.) Naı̈vely, the relation would have at least the following terms:<br><br>
 
-<!---->
+<div align="center">
+
 $$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{asocial}\\\text{cost:benefit}}, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{resistance}} $$
-<br><i>where</i>
+<br><i>where</i><br>
 $$
 	\text{asocial cost:benefit}  = \Large{f}\left(\,\normalsize{ \substack{\text{prima facie}\\\text{cost:benefit}} \,,\,\, 				\substack{\text{intervention}\\\text{track record}} , \substack{\text{theoretical}\\\text{strength}} , 					\substack{\text{measurability}} }\,
 	\right)
@@ -34,7 +39,8 @@ $$
 $$ 
 	\text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	
 $$
-<br><br>
+<br><br></div>
+
 (Resistance manifests as delay, negotiation & PR costs, extra legal costs, haz-
 ard insurance, or reduced volunteering and uptake. Controversy appears in the
 resistance equation, to model sensitivity to bad PR in politicians and NGOs.
