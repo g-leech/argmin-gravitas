@@ -16,14 +16,20 @@ Around 90 health workers were murdered while delivering polio vaccines to childr
 
 My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy (and associated social or political resistance to interventions) is a negative term for tractability. (And is a dominating factor, for any intervention requiring state resources, approval, or enforcement.) Naı̈vely, the relation would have at least the following terms:<br><br>
 <!--http://mathurl.com/z83m8zq-->
-$$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{asocial}\\\text{cost:benefit}}}, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{resistance}} $$
+$$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{asocial}\\\text{cost\:benefit}}}, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{resistance}} $$
 <br><i>where</i>
 
-$$\begin{align*}	
-	\text{resistance} &= 	\Large{f} \left(\,\,	\normalsize{ \text{counter-activism, controversy }}   \right) \\\\<br>
+$$
+	\text{resistance} &= 	\Large{f} \left(\,\,	\normalsize{ \text{counter-activism, controversy }}   \right) \\\\
+$$
+<br>
+$$
 	\text{ counter-activism } &=	\Large{f} \left( \normalsize{ \text{ controversy}, \substack{\text{social capital}\\\text{of opponents}}	, \text{P(violence)} } \right)
-\end{align*}$$<br>
-$$ \text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	$$
+$$
+<br>
+$$ 
+	\text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	
+$$
 <br><br>
 (Resistance manifests as delay, negotiation & PR costs, extra legal costs, haz-
 ard insurance, or reduced volunteering and uptake. Controversy appears in the
@@ -61,6 +67,6 @@ I’m not sure how to square the value of countercyclical moral leadership with 
 I am not sure how much weight to put on historical case studies, relative to a classifier based on chatter. I’m not sure of the predictive power of my proxies, especially sentiment intensity.
 
 [Poliohno]:		http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu 
-[Schools-out]:	http://www.protectingeducation.org/sites/default/files/documents/eua_2014_full.pdf 
+[Schoolsout]:	http://www.protectingeducation.org/sites/default/files/documents/eua_2014_full.pdf 
 [Ruined]:		https://en.wikipedia.org/wiki/Destruction_of_cultural_heritage_by_ISIL 				
 [Unabomb]:		https://en.wikipedia.org/wiki/Ted_Kaczynski#Casualties 

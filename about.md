@@ -6,7 +6,7 @@ permalink: /about/
 
 > over time amateurs blow their lead by focusing less and relying on easier, more direct methods. They rely more on informal conversation as analysis method, they prefer personal connections over open competitions in choosing people, and they rely more on a perceived consensus among a smaller group of fellow enthusiasts. As a result, their contributions just don’t appeal as widely or as long.
 
-<div align="center">— Robin Hanson</div>
+<div align="center">— Robin Hanson</div><br><br>
 
 
 I'm Gavin Leech, a data scientist at a large organisation and a '[research parasite][Parasite]'. This site is for original research into poverty, animal welfare, scientometrics, and [long content][LongContentIsLong] in general.
