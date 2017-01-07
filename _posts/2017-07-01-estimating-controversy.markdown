@@ -23,7 +23,7 @@ $$\begin{align*}
 	\text{resistance} &= 	\Large{f} \left(\,\,	\normalsize{ \text{counter-activism, controversy }}   \right) \\\\
 	\text{ counter-activism } &=	\Large{f} \left( \normalsize{ \text{ controversy}, \substack{\text{social capital}\\\text{of opponents}}	, \text{P(violence)} } \right)
 \end{align*}$$<br>
-$$ \text{controversy} = \left( \substack{\text{% of population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	$$
+$$ \text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	$$
 <br><br>
 (Resistance manifests as delay, negotiation & PR costs, extra legal costs, haz-
 ard insurance, or reduced volunteering and uptake. Controversy appears in the
