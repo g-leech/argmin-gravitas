@@ -5,11 +5,16 @@ layout: default
 	<!-- available: Simple -- Stylized -- Technical. -->
   	<header class="post-header">
     	<h1 class="post-title">{{ page.title }}</h1>
-    	<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    	<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}
+    	{% if page.summary %} <br>• {{	page.summary	}}{% endif %} 
+    	{% if page.categories %} <br>• {{	page.categories	}}{% endif %} 
+    	{% if page.confidence %} <br>• <i>Confidence</i>: {{	page.confidence	}}{% endif %} 
+    	{% if page.warnings %} <br>• <i>Content notes</i>: {{	page.warnings	}}{% endif %} 
+    	
+    	</p>
   	</header>
 
-  _Content notes_ : {{	page.warnings	}}
-
+  
   <article class="post-content">
     {{ content }}
   </article>
