@@ -4,56 +4,63 @@ title: Metrics
 permalink: /metrics/
 ---
 
-I use a few obscure scales of measurement to give you an idea. I use:
+When reporting the quality of things, I use the following scales of measurement:
 
 
-### David's Spiegelhalter's informal evidence quality!
+#### Spiegelhalter on quality of a statistic
 
-(For serious work I use the Cochrane Collaboration's GRADE scale:
+David Spiegelhalter, professor of statistics, has a nice rule of thumb for how much to trust estimates:
 
-* GRADE ⊕⊕⊕⊕ : Well-run randomized trials.
-* GRADE ⊕⊕⊕ : Downgraded randomized trials; or upgraded observational studies.
-* GRADE ⊕⊕ : Observational studies (or double-downgraded randomized trials).
-* GRADE ⊕ : Case reports (or triple-downgraded randomized trials; or downgraded observational studies).
+* 4* : 
+* 3* :
+* 2* :
+* 1* :
+* 0* : No information content; worse than useless.
+
+
+
+#### Cochrane on evidence quality
+
+For serious work I use the Cochrane Collaboration's [GRADE scale](http://handbook.cochrane.org/chapter_12/12_2_assessing_the_quality_of_a_body_of_evidence.htm):
+
+* GRADE ⊕⊕⊕⊕ : As good as a well-run randomized trial.
+* GRADE ⊕⊕⊕ : As good as a downgraded randomized trial; or an upgraded observational study.
+* GRADE ⊕⊕ : As good as an observational study (or a double-downgraded randomized trial).
+* GRADE ⊕ : As good as case reports (or triple-downgraded randomized trials...
+
 	
 
-1. Large magnitude effect.
-2. All plausible confounding would reduce a demonstrated effect or suggest a spurious effect when results show no effect.
-3. Dose-response gradient.
 
-1. Likely biased design and implementation.
-2. Indirect evidence (indirect population, intervention, control, outcomes).
-3. Unexplained inconsistency of results (subgroup analyses).
-4. Imprecision of results (wide confidence intervals).
-5. Likely publication bias.
+#### Spiegelhalter on confidence in an analysis 
 
+\*\*\*\* - 95%: We understand the underlying process. Although we cannot predict what is going to happen, we can provide good numerical assessments."
 
-### Spiegelhalter confidence 
+*** - 80%: "We are reasonably confident in our analysis. We can expect numbers to change as we learn more, but not sufficient to justify major policy shifts."
 
-**** - 95%: We understand the underlying process. 
-Although we cannot predict what is going to happen, we can provide good numerical assessments.
+** - 60%: "New evidence could have a substantial impact on our assessment, although no major new surprises are expected. We encourage a robust decision-making approach with some precaution and adaptivity."
 
-*** - 80%: We are reasonably confident in our analysis. 
-We can expect numbers to change as we learn more, but not sufficient to justify major policy shifts.
-
-** - 60%: New evidence could have a substantial impact on our assessment, although no major new surprises are expected. 
-We encourage a robust decision-making approach with some precaution and adaptivity
-
-* - 50%: We have very limited understanding of the process or possibilities. 
-Resilience to unexpected occurrences is called for.
+\* - 50%: "We have a very limited understanding of the process or possibilities. Resilience to unexpected occurrences is called for."
 
 
 
-### Christgau on universality of artworks
+#### Christgau on the universality of artworks
 
 One way an artwork can be important is if it is _universal_. The great music critic Robert Christgau scores all albums [on this scale](https://www.robertchristgau.com/xg/bk-cg90/grades-90s.php).
 
 
-### Galef on book impact 
+#### Galef on book impacts 
 
-Julia Galef has a neat taxonomy of ways that books can affect your worldview.
+Julia Galef has [a neat taxonomy](https://juliagalef.com/2017/01/06/a-taxonomy-of-books-that-change-your-worldview/) of ways that books can affect your worldview. Her model is that a book can 1) offer you new Data, or 2) Theories to explain data, or 3) arguments for Values, or 4) an entire Thinking style. She also assigns a number 1-5, roughly "Most Concrete -> Most General" for each type.
 
 
-### Leech on book durability
+#### Leech on book durability
 
-My 
+I approximate a book's value by guessing how often I'll reread them. This rewards dense books, sure, but also ones with long-term value, durability, appeal to people of different ages, and also just pleasure and beauty. I think most books are not worth the time and a small number (< 8% in [a highly selected sample](https://docs.google.com/spreadsheets/d/1qPIKI3TO5MpKtyg9DzsK6TOo6NhjHAHZbv3iS2yxnSo/edit?usp=sharing)) are worth more than one reading.
+
+* 1/5: Not worth one reading.
+* 2/5: One read maybe, if you're into the topic.	   	
+* 3/5: Worth one skim.
+* 3*/5: Great fun, one read. 'Mind candy'.
+* 4/5: Very good. but one read will do..
+* 5?/5: Amazing. Will reread.
+* 5/5: Have reread and expect to do so indefinitely. A companion.

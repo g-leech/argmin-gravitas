@@ -6,9 +6,16 @@ permalink: /quotes/
 
 > Se méfier des penseurs dont l'esprit ne fonctionne qu'à partir d'une citation.
 (Beware of thinkers whose minds function only when fuelled by a quotation.)
-— [Emil Cioran](http://afterallitcouldbeworse.blogspot.co.uk/p/cioran.html)
 
-I'm not sure I'll ever get around to a systematic statement of my worldview. But I like aphorisms, so here's the atomic version of it:
+— [Emil Cioran][Cioran]
+
+> An aphorism is an algorithm, of we know not what input,
+to we know not what output.
+
+— Gwern Branwen
+
+
+I probably won't get around to systematically stating a worldview. Such things are maybe bad for you. But I like aphorisms, so here's the atomic version of it:
 
 
 * [On epistemology](http://afterallitcouldbeworse.blogspot.co.uk/p/aggressive-epistemology.html)
@@ -25,18 +32,24 @@ I'm not sure I'll ever get around to a systematic statement of my worldview. But
 
 * [On maths](http://afterallitcouldbeworse.blogspot.co.uk/p/new-math.html)
 
+* [On philosophy](http://afterallitcouldbeworse.blogspot.co.uk/p/blog-page_13.html)
+
+* [On art](http://afterallitcouldbeworse.blogspot.co.uk/p/meiner-art.html)
 * [On humility]()
-
-
-> over time amateurs blow their lead by focusing less and relying on easier, more direct methods. They rely more on informal conversation as analysis method, they prefer personal connections over open competitions in choosing people, and they rely more on a perceived consensus among a smaller group of fellow enthusiasts. As a result, their contributions just don’t appeal as widely or as long.
-— Robin Hanson
+* [On destiny](http://afterallitcouldbeworse.blogspot.co.uk/p/blog-page_2.html)
+* [On nonsense]()
+* [Tersely]([http://afterallitcouldbeworse.blogspot.co.uk/p/tersely.html)
+* [Alan Perlis](http://afterallitcouldbeworse.blogspot.co.uk/p/perlisisms.html)
+* [Andre Gide]()
+* [Friedrich Nietzsche](http://afterallitcouldbeworse.blogspot.co.uk/p/nietzsche.html)
+* [EM Cioran]()
+* [Mine]()
 
 
 > all models are wrong; the practical question is how wrong can they be before they are not useful.
 — George Box
 
 
-One, what are they saying? Two, are they telling the truth? Three, does their reasoning follow? Four, what are they missing out? Five, or, zero: why are they writing about this at all? (The critical mantra.)
 
 
 What you can imagine depends on what you know. Philosophers who know only philosophy consign themselves to a janitorial role in the great enterprises of exploration that are illuminating the mysteries of our lives.
@@ -92,16 +105,14 @@ Questioning presuppositions will not be effective unless one can show that there
 
 
 
-SOME MORALISM
-
 Schneier's mantra of intervention:
-    What's the target variable?
-    What intervention promotes it?
-    How much will it help (B)?
-    What new problems will the intervention induce (P)?
-    At what cost (C)?
-
-    If (C + P) > B, don't intervene.
+>   1. What's the target variable?
+>   2. What intervention promotes it?
+>   3. How much will it help (B)?
+>   4. What new problems will the intervention induce (P)?
+>   5. At what cost (C)?
+>
+>   If (C + P) > B, don't intervene.
 
 
 MacAskill's rubric for an altruist act A:
@@ -114,6 +125,7 @@ MacAskill's rubric for an altruist act A:
 
 
 Καθ ἕτερον μὲν λόγον ἡμῖν ἐστιν οἰκειότατον ἄνθρωπος, καθ ὅσον εὖ ποιητέον αὐτοὺς καὶ ἀνεκτέον· καθ ὅσον δὲ ἐνίστανταί τινες εἰς τὰ οἰκεῖα ἔργα...
+
 (In a sense people are our proper occupation. Our job is to put up with them and do them good.)
 — Marcus Aurelius
 
@@ -396,7 +408,12 @@ Always leave them wanting more.
 
 
 
-An aphorism is an algorithm, of we know not what input,
-to we know not what output.
 
-— Gwern Branwen
+
+
+
+> One, what are they saying? Two, are they telling the truth? Three, does their reasoning follow? Four, what are they missing out? Five, or, zero: why are they writing about this at all? (The critical mantra.)
+
+
+
+[Cioran]:	http://afterallitcouldbeworse.blogspot.co.uk/p/cioran.html

@@ -1,6 +1,6 @@
 # Site settings
-title: technicalities, finings
-email: aberdeen.ac.uk, g.leech.08@  
+title: technicalities and finings
+email: g[dot]leech.08[at]aberdeen.ac.uk  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://technicalities.netlify.com/about/" # the base hostname & protocol for your site
 github_username:  gavin-leech
