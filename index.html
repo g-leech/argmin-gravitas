@@ -9,13 +9,13 @@ layout: default
     { include post_detail.html %}
   </div>-->
   <h1>Latest Post</h1>
-    {% for post in site.posts limit:1 %}
+    <!--{% for post in site.posts limit:1 %}
       {% assign content = post.content %}
-    {% endfor %}
+    {% endfor %}-->
   
   <h1 class="page-heading">Recent Posts</h1>
     <ul class="post-list">
-    {% for post in site.posts offset:1 limit:6 %}
+    {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
