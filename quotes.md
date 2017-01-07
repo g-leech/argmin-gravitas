@@ -1,3 +1,8 @@
+---
+layout: page
+title: Quotes
+permalink: /quotes/
+---
 
 > Se méfier des penseurs dont l'esprit ne fonctionne qu'à partir d'une citation.
 (Beware of thinkers whose minds function only when fuelled by a quotation.)

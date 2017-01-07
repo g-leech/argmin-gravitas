@@ -1,10 +1,15 @@
+---
+layout: page
+title: Metrics
+permalink: /metrics/
+---
 
 I use a few obscure scales of measurement to give you an idea. I use:
 
 
-David's Spiegelhalter's informal evidence quality!
+### David's Spiegelhalter's informal evidence quality!
 
-(For my most serious work I use the Cochrane Collaboration's GRADE scale:
+(For serious work I use the Cochrane Collaboration's GRADE scale:
 
 * GRADE ⊕⊕⊕⊕ : Well-run randomized trials.
 * GRADE ⊕⊕⊕ : Downgraded randomized trials; or upgraded observational studies.
@@ -23,7 +28,7 @@ David's Spiegelhalter's informal evidence quality!
 5. Likely publication bias.
 
 
-Spiegelhalter confidence 
+### Spiegelhalter confidence 
 
 **** - 95%: We understand the underlying process. 
 Although we cannot predict what is going to happen, we can provide good numerical assessments.
@@ -39,13 +44,16 @@ Resilience to unexpected occurrences is called for.
 
 
 
-Christgau on universality!
+### Christgau on universality of artworks
 
-One way an artwork can be important is if it is _universal_. One way of 
-
-
-Galef on book impact 
+One way an artwork can be important is if it is _universal_. The great music critic Robert Christgau scores all albums [on this scale](https://www.robertchristgau.com/xg/bk-cg90/grades-90s.php).
 
 
+### Galef on book impact 
 
-Leech on 
+Julia Galef has a neat taxonomy of ways that books can affect your worldview.
+
+
+### Leech on book durability
+
+My 
