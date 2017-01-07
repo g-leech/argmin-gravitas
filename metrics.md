@@ -15,6 +15,7 @@ When reporting the quality of things, I use the following scales of measurement:
 * [Book worthiness](#leech-books)
 
 <a name="spiegel-quality"></a>
+
 ---
 
 #### Spiegelhalter on the quality of a statistic
@@ -55,16 +56,19 @@ For serious work I use the Cochrane Collaboration's [GRADE scale](http://handboo
 <a name="christgau-art"></a>
 <br>---<br>
 #### Christgau on the universality of artworks
+
 One way an artwork can be important is if it is universal: is its quality obvious even to people who aren't into that sort of thing. Robert Christgau scores all albums [on this scale](https://www.robertchristgau.com/xg/bk-cg90/grades-90s.php).
 
 <a name="galef-books"></a>
 <br>---<br>
 #### Galef on book impacts 
+
 Julia Galef has [a neat taxonomy](https://juliagalef.com/2017/01/06/a-taxonomy-of-books-that-change-your-worldview/) of ways that books can affect your worldview. Her model is that a book can 1) offer you new Data, or 2) Theories to explain data, or 3) arguments for Values, or 4) an entire Thinking style. She also assigns a number 1-5, roughly "Most Concrete -> Most General" for each type.
 
 <a name="leech-books"></a>
 <br>---<br>
 #### Leech on book durability
+
 I approximate a book's value by guessing how often I'll reread them. This rewards dense books, sure, but also ones with long-term value, durability, appeal to people of different ages, and also just pleasure and beauty. I think most books are not worth the time and a small number (< 8% in [a highly selected sample](https://docs.google.com/spreadsheets/d/1qPIKI3TO5MpKtyg9DzsK6TOo6NhjHAHZbv3iS2yxnSo/edit?usp=sharing)) are worth more than one reading.
 
 * 1/5: Not worth one reading.
