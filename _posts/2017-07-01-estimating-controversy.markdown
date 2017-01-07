@@ -8,6 +8,9 @@ confidence: 60% on core equations. 80% that it is worth doing.
 warnings: 	terrorism, inexorable ideologies
 ---
 <!--categories: cause-prioritisation, effective-altruism, quantification-fever,-->
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
+</script>
 
 Around 90 health workers were murdered while delivering polio vaccines to chil-
 dren in [2014][Poliohno]. Violent campaigns have recently also been waged against
@@ -22,8 +25,13 @@ a dominating factor, for any intervention requiring state resources, approval, o
 enforcement.) Naı̈vely, the relation would have at least the following terms:
 
 
-tractability = ...
-
+\[ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{\href{http://mathurl.com/z83m8zq}{asocial}}\\\text{\href{http://mathurl.com/z83m8zq}{cost:benefit}}}\,,\, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{resistance}} \]
+\emph{where}
+\begin{align*}	
+	\text{resistance} &= 	\Large{f} \left(\,\,	\normalsize{ \text{counter-activism,\,\, controversy \,}}   \right) \\\\
+	\text{ counter-activism } &=	\Large{f} \left( \normalsize{ \text{ controversy},\,\, \substack{\text{social capital}\\\text{of opponents}}	\,,\,\, \text{P(violence)} } \,\,\right)
+\end{align*}
+\[ \text{controversy} = \left( \substack{\text{\% of population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}\]
 
 (Resistance manifests as delay, negotiation & PR costs, extra legal costs, haz-
 ard insurance, or reduced volunteering and uptake. Controversy appears in the
@@ -37,8 +45,7 @@ lies in controversial areas: for instance, state intervention offers vast resour
 and irreplaceable co-ordination power, but the use of these is often defeated by
 controversy and its entailed lobbying.
 
-Also, within limits, controversy is a proxy for harm: the harm of mass prefer-
-ence violation. It can, then, subtract from net impact as well as from tractability.
+Also, within limits, controversy is a proxy for harm: the harm of mass preference violation. It can, then, subtract from net impact as well as from tractability.
 
 One month's work should allow for 1) clarification of the relations, of this sort;
 2) ranking of exemplar controversies; 3) data collection and scoring; 4) coeffi-
