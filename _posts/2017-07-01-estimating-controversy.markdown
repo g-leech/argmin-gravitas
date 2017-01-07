@@ -1,22 +1,22 @@
 ---
-layout: post
-title:  "Estimating political controversy <br>(research proposal)"
-date:   2017-01-07 20:31:40
-author:	Gavin
-categories: cause-prioritisation, effective-altruism, quantification-fever,
+layout: 	post
+title:  	"Estimating political controversy <br>(research proposal)"
+date:   	2017-01-07 20:31:40
+author:		Gavin
 summary:	A tiny research proposal for the Centre for Effective Altruism.
 confidence: 60% on core equations. 80% that it is worth doing.
-warnings: 	terrorism, inexorable ideologies.
+warnings: 	terrorism, inexorable ideologies
 ---
+<!--categories: cause-prioritisation, effective-altruism, quantification-fever,-->
 
 Around 90 health workers were murdered while delivering polio vaccines to chil-
-dren in [2014][Polio]. Violent campaigns have recently also been [waged against
-schools][], ancient ruins [3], and mid-level STEM professors [4]. We can con-
+dren in [2014][Poliohno]. Violent campaigns have recently also been waged against
+[schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can con-
 clude that everything is controversial to someone. We can do better than this
 if we form a metric for political controversy.
 
-My research question is How can we estimate political controversy? How can
-we relate this to tractability? Intuitively, controversy (and associated social or
+My research question is _How can we estimate political controversy? How can
+we relate this to tractability?_ Intuitively, controversy (and associated social or
 political resistance to interventions) is a negative term for tractability. (And is
 a dominating factor, for any intervention requiring state resources, approval, or
 enforcement.) Naı̈vely, the relation would have at least the following terms:
@@ -61,4 +61,7 @@ I’m not sure how to square the value of countercyclical moral leadership with 
 
 I am not sure how much weight to put on historical case studies, relative to a classifier based on chatter. I’m not sure of the predictive power of my proxies, especially sentiment intensity.
 
-[Polio]: 
+[Poliohno]:		http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu 
+[Schools-out]:	http://www.protectingeducation.org/sites/default/files/documents/eua_2014_full.pdf 
+[Ruined]:		https://en.wikipedia.org/wiki/Destruction_of_cultural_heritage_by_ISIL 				
+[Unabomb]:		https://en.wikipedia.org/wiki/Ted_Kaczynski#Casualties 
