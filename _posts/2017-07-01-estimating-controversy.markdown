@@ -18,12 +18,12 @@ My research question is _How can we estimate political controversy? How can we r
 <!--http://mathurl.com/z83m8zq-->
 $$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{asocial}\\\text{cost:benefit}}} &nbsp;,&nbsp; \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{resistance}} $$
 <br><i>where</i>
-<&nbsp;>
+
 $$\begin{align*}	
-	\text{resistance} &= 	\Large{f} \left(\,\,	\normalsize{ \text{counter-activism,&nbsp;&nbsp; controversy &nbsp;}}   \right) \\\\
-	\text{ counter-activism } &=	\Large{f} \left( \normalsize{ \text{ controversy},&nbsp;&nbsp; \substack{\text{social capital}\\\text{of opponents}}	&nbsp;,&nbsp; \text{P(violence)} } &nbsp;\right)
+	\text{resistance} &= 	\Large{f} \left(\,\,	\normalsize{ \text{counter-activism, controversy }}   \right) \\\\
+	\text{ counter-activism } &=	\Large{f} \left( \normalsize{ \text{ controversy}, \substack{\text{social capital}\\\text{of opponents}}	, \text{P(violence)} } \right)
 \end{align*}$$<br>
-$$ \text{controversy} = \left( \substack{\text{\% of population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	$$
+$$ \text{controversy} = \left( \substack{\text{% of population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	$$
 <br><br>
 (Resistance manifests as delay, negotiation & PR costs, extra legal costs, haz-
 ard insurance, or reduced volunteering and uptake. Controversy appears in the
