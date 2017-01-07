@@ -16,15 +16,15 @@ Around 90 health workers were murdered while delivering polio vaccines to childr
 
 My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy (and associated social or political resistance to interventions) is a negative term for tractability. (And is a dominating factor, for any intervention requiring state resources, approval, or enforcement.) Naı̈vely, the relation would have at least the following terms:<br><br>
 <!--http://mathurl.com/z83m8zq-->
-$$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{asocial}\\\text{cost\:benefit}}}, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{resistance}} $$
+$$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{asocial}\\\text{cost:benefit}}, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{resistance}} $$
 <br><i>where</i>
 
 $$
-	\text{resistance} &= 	\Large{f} \left(\,\,	\normalsize{ \text{counter-activism, controversy }}   \right) \\\\
+	\text{resistance} = 	\Large{f} \left(\,\,	\normalsize{ \text{counter-activism, controversy }}   \right) \\\\
 $$
 <br>
 $$
-	\text{ counter-activism } &=	\Large{f} \left( \normalsize{ \text{ controversy}, \substack{\text{social capital}\\\text{of opponents}}	, \text{P(violence)} } \right)
+	\text{ counter-activism } =	\Large{f} \left( \normalsize{ \text{ controversy}, \substack{\text{social capital}\\\text{of opponents}}	, \text{P(violence)} } \right)
 $$
 <br>
 $$ 
