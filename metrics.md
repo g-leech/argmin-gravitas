@@ -65,7 +65,14 @@ One way an artwork can be important is if it is universal: is its quality obviou
 
 #### Galef on book impacts 
 
-Julia Galef has [a neat taxonomy](https://juliagalef.com/2017/01/06/a-taxonomy-of-books-that-change-your-worldview/) of ways that books can affect your worldview. Her model is that a book can 1) offer you new Data, or 2) Theories to explain data, or 3) arguments for Values, or 4) an entire Thinking style. She also assigns a number 1-5, roughly "Most Concrete -> Most General" for each type.
+Julia Galef has [a neat taxonomy](https://juliagalef.com/2017/01/06/a-taxonomy-of-books-that-change-your-worldview/) of ways that books can affect your worldview. Her model is that a book can 
+
+1. offer you new Data, or 
+2. Theories to explain data, or 
+3. arguments or scenes aimed at taking on particular Values, or 
+4. an entire Thinking style. 
+
+She also assigns a number 1-5, roughly "Most Concrete -> Most General" for each type.
 
 <a name="leech-books"></a>
 <br>---<br>
