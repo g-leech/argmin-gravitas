@@ -12,9 +12,6 @@ warnings: 	terrorism, inexorable ideologies
 ---
 
 
-
-
-
 <!-- WORDS  animation="true" html="true"-->
 
 <a href="javascript:void(0);" id="murderTip" class="tooltip" data-toggle="tooltip">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
@@ -125,10 +122,10 @@ I am not sure how much weight to put on historical case studies, relative to a c
 {%	assign murderTip = "<i>Estimate quality</i>: <a href=/#spiegel-quality/>Spiegelhalter (2*)</a>. No data, no names.<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low."	%}
 
 <script>
-	window.onload = function(){
+	(function() {
 		document.getElementById("murderTip")
 				.tooltip({ title:"<i>Estimate quality</i>", animation:true, html:true , trigger:"click hover" }); 	
-	};	
+	})();	
 </script>
 
 [Spiegel]:		http://technicalities.netlify.com/metrics/#spiegel-quality
