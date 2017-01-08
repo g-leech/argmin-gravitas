@@ -48,6 +48,7 @@ $$
 <br><br></div>
 
 <sup>[+]</sup> Or speculatively:
+
 <!--<div align="center">
 $$ 
 	\text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	
@@ -148,7 +149,7 @@ These are the senses I would investigate in relation to obstruction.
 * Kittur et al (2009), "[What’s in Wikipedia?: Mapping Topics and Conflict Using Socially Annotated Category Structure][Kittur]"
 * Rad and Barbosa (2009), "[Identifying controversial articles in Wikipedia: a comparative study][Rad]"
 * Steenbergen et al (2003), "[A Discourse Quality Index][Steen]".
-* Wiblin, Robert (2016), "[The Important/Neglected/Tractable framework needs to be applied with care][Wib]"(on misapplying ITN, its ambiguity).
+* Wiblin, Robert (2016), "[The Important/Neglected/Tractable framework needs to be applied with care][Wib]" (on misapplying ITN, its ambiguity).
 
     
 
