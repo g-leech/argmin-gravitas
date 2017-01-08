@@ -38,11 +38,11 @@ layout: default
 
 <script src="/js/tooltip.js" type="text/javascript"></script>
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
+//  document.addEventListener("DOMContentLoaded", function(event) {
       var tips = document.querySelectorAll('[data-toggle="tooltip"]'); 
       var i;
       for (i = 0; i < x.length; i++) {
         tips[i].tooltip( { title:"<i>Estimate quality</i>", animation:true, html:true , trigger:"click hover" } );
       }
-  });
+//  });
 </script>
