@@ -6,18 +6,26 @@ layout: default
   
   <h1 class="page-heading">Recent Posts</h1>
     <table class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:8 %}
       <tr>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <td style="width:65%;"><h2>
+        <td style="width:50%;"><h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a>
         </h2></td>
         <td> {{ post.summary }}</td>
+        
+        <!--<td> Available in:<ul>
+          {% if post.simple %} <li>[Simple]({{post.url}}/simple)</li>
+          {% if post.stylised %} <li>[Stylised]({{post.url}}/stylised)</li>
+          {% if post.technical %} <li>[Technical]({{post.url}}/technical)</li>
+        </td>-->
+
       </tr>
     {% endfor %}
-  <table>
+    </table>
 
-  <br><br><small><p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p></small>
+  <br><br>[See all posts](https://technicalities.netlify.com/archive).
+  <br><small><p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p></small>
 
 </div>
