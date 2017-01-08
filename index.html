@@ -20,13 +20,13 @@ layout: default
           {% if post.stylised %} <li>[Stylised]({{post.url}}/stylised)</li> {% endif %}
           {% if post.technical %} <li>[Technical]({{post.url}}/technical)</li> {% endif %}
         </small></td>
-    -->
+        -->
       </tr>
     {% endfor %}
 
     </table>
 
   <br><br><br><br><a href="{{ "/archive" | prepend: site.baseurl }}">See all posts</a>.
-  <br><small><p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p></small>
+  <br><small><p class="rss-subscribe">or subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p></small>
 
 </div>
