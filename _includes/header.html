@@ -24,8 +24,9 @@
             {% if page.title != "Archive" %}
             {% if page.title != "index" %}
             {% if page.url != "/feed.xml" %}
+            {% if page.url != "/css/main.css" %}
               <a class="headText" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | append: '&nbsp;&nbsp;|&nbsp;&nbsp;' }}</a>
-            {%  endif  %}{%  endif  %}{%  endif  %}
+            {%  endif  %}{%  endif  %}{%  endif  %}{%  endif  %}
         {% endfor %}
       </div>
     </nav>
