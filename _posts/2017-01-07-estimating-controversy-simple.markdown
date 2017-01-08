@@ -21,9 +21,10 @@ My question is _How can we estimate political controversy? How can we relate thi
 
 On the face of it, these two things would be connected in the following way:<br><br>
 
+<!--
+
 <div align="center">
 
-<!--
 
 $$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{asocial}\\\text{cost:benefit}}, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{obstruction}} $$
 </div><i>where</i>
