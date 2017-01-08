@@ -1,25 +1,32 @@
 ---
 layout: 	math_post
 title:  	"Estimating political controversy"
-date:   	2017-01-07 20:31:40
+date:   	2017-01-07 20:31:40  <!--site.time-->
 author:		Gavin
-summary:	A tiny research proposal for Centre for Effective Altruism - can we quantify controversy/obstructionism?
+summary:	A tiny research proposal for Centre for Effective Altruism - can we quantify controversy / obstructionism?
 confidence: 60% on core equations. 80% that it is worth doing.
 warnings: 	terrorism, inexorable ideologies
 ---
 <!--categories: cause-prioritisation, effective-altruism, quantification-fever,-->
+{%	
+	assign murderTip = "<i>Estimate quality</i>: [Spiegelhalter (2*)][Spiegel]. No data, no names.<br>
+						<i>Source</i>: Newsweek.<br>
+						<i>Importance to argument</i>: Low."	
+%}
 
-Around 90 health workers were murdered while delivering polio vaccines to children in [2014][Poliohno]. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
+<a href="#" data-toggle="tooltip" animation=true html=true delay=100 title="{{ murderTip }}">Around 90 </a>
+[health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
 
-My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy (and associated social or political resistance to interventions) is a negative term for tractability. (And is a dominating factor, for any intervention requiring state resources, approval, or enforcement.) 
+My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated social or political resistance to interventions, 'obstructionism' - is a negative term for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
 
 Naı̈vely, the relation would involve at least the following terms:<br><br>
 
 <div align="center">
 
 $$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{asocial}\\\text{cost:benefit}}, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{resistance}} $$
-<br><i>where</i><br>
+</div><i>where</i><br>
+<div align="center">
 $$
 	\text{asocial cost:benefit}  = \Large{f}\left(\,\normalsize{ \substack{\text{prima facie}\\\text{cost:benefit}} \,,\,\, 				\substack{\text{intervention}\\\text{track record}} , \substack{\text{theoretical}\\\text{strength}} , 					\substack{\text{measurability}} }\,
 	\right)
@@ -37,7 +44,7 @@ $$
 $$
 <br><br></div>
 
-(Resistance manifests as delay, negotiation &amp; PR costs, extra legal costs, hazard insurance, or reduced volunteering and uptake. Controversy appears in the resistance equation, to model sensitivity to bad PR in politicians and NGOs.
+(Obstructionism manifests as delay, negotiation &amp; PR costs, extra legal costs, hazard insurance, or reduced volunteering and uptake. Controversy appears in the resistance equation, to model sensitivity to bad PR in politicians and NGOs.
 ‘Counter-activism’ is to be understood as effective obstruction.)
 <br>
 
@@ -87,7 +94,7 @@ One month's work should allow for:
 I’m not sure how to square the value of countercyclical moral leadership with the ITN model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval [5]. I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy.
 
 I am not sure how much weight to put on historical case studies, relative to a classifier based on chatter. I’m not sure of the predictive power of my proxies, especially sentiment intensity.
-<br>
+<br><br>
 
 <a name="appendix"><a/>
 
@@ -109,7 +116,7 @@ I am not sure how much weight to put on historical case studies, relative to a c
 
 
 
-
+[Spiegel]:		http://technicalities.netlify.com/metrics/#spiegel-quality
 [Poliohno]:		http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu 
 [Schoolsout]:	http://www.protectingeducation.org/sites/default/files/documents/eua_2014_full.pdf 
 [Ruined]:		https://en.wikipedia.org/wiki/Destruction_of_cultural_heritage_by_ISIL 				

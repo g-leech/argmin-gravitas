@@ -1,8 +1,8 @@
 # Site settings
-title: technicalities and finings
+title: grit, or technicalities
 email: g[dot]leech.08[at]aberdeen.ac.uk  
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://technicalities.netlify.com/about/" # the base hostname & protocol for your site
+url: "http://technicalities.netlify.com/" # the base hostname & protocol for your site
 github_username:  gavin-leech
 
 # Build settings
