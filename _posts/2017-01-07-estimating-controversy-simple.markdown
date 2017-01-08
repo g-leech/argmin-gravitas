@@ -15,48 +15,25 @@ technical:	true
 
 First, what is "tractability"?
 
-<p><b>tractability</b>: how easy something is to solve - how much you get done for a given amount of money, for instance.</p>
+<p><span style="font-weight: bold">tractability</span>: how easy something is to solve - how much you get done for a given amount of money, for instance.</p>
 
-My question is _How can we estimate political controversy? How can we relate this to tractability?_ Controversy, and the difficulties that come with it, are a large drag on tractability. (They are a particularly big problem for anything which wants to use government resources.)
+My question is _How can we estimate political controversy? How can we relate this to tractability?_ Controversy, and the conflict that comes with it, are a large drag on tractability. They are a particularly big problem for anything which wants to use government resources.
 
-On the face of it, these two things would be connected in the following way:<br><br>
+On the face of it, these two things would be connected in the following way: consider the act of giving people free birth control in a highly religious country. This is often controversial. 
 
-<!--
+The tractability of giving out condoms depends on the cost of buying and shipping them and the diseases, as well as how well similar work has gone and how easy it is to track results. But we're pointing out that also depends heavily on social factors like controversy and conflict. So the tractability number obtained without at least trying to guess these factors is shaky - "asocial", you could call it. A positive social factor would be the reputation and connections of the people giving out the condoms. This can be guessed by things like "number of politicians known", but really it itself is a hidden factor - one which you might use the efficiency of the people's previous work to guess.  
 
-<div align="center">
+Conflict causes delays, extra costs (for lawyers, negotiators, marketers, security, and insurance), and might reduce the number of people willing to use the product, or to volunteer. This all reduces the efficiency, or 'tractability'.
 
+One source of conflict is people actively working against your medicine drop. But as well as inspiring direct action against your medicine drop, controversy would also make politicians and other organisations less likely to help you.
 
-$$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{asocial}\\\text{cost:benefit}}, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{obstruction}} $$
-</div><i>where</i>
+We can make a first guess at what controversy 'really is' with saying "the size of the group that is against condom distribution, plus a multiplier for the extent to which their (democratic) government is to be involved with the plan".
 
-<div align="center">
-
-$$
-	\text{asocial cost:benefit}  = \Large{f}\left(\,\normalsize{ \substack{\text{prima facie}\\\text{cost:benefit}} \,,\,\, 				\substack{\text{intervention}\\\text{track record}} , \substack{\text{theoretical}\\\text{strength}} , 					\substack{\text{measurability}} }\,	\right)
-$$
-$$
-	\text{obstruction} = 	\Large{f} \left(\,\,	\normalsize{ \text{counter-activism, controversy }}   \right) 
-$$
-$$
-	\text{ counter-activism } =	\Large{f} \left( \normalsize{ \text{ controversy}, \substack{\text{social capital}\\\text{of opponents}}	, \text{P(violence)} } \right)
-$$
-$$ 
-	\text{controversy} = \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) 
-$$
-
-<br><br></div>
-
-<sup>[+]</sup> Or speculatively:
-<!--<div align="center">
-$$ 
-	\text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	
-$$
-
-</div>-->
-
-(Conflict could cause delays, extra costs for lawyers, negotiators, marketers, insurance, and might reduce the number of people willing to use the product, or to volunteer. Controversy appears in the resistance equation, to model sensitivity to bad PR in politicians and NGOs.)
+In later versions you'd want to take account of the media spreading controversy, and the illusion of controversy, and how weird the goal is among the recipient people. (For instance, acting to reduce the suffering of animals in the wild is weird in every country in the world, except maybe parts of Tibet.)
 
 <br><br>
+
+This is no doubt an incomplete picture, and it's hard to measure basically every factor mentioned. But the value of getting imperfect guesses could still be high, especially if the work can't be done in an uncontroversial way (e.g. if we're trying to get a new law passed).
 
 ---
 
