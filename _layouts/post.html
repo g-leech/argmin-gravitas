@@ -25,7 +25,7 @@ layout: default
       	 {% if page.summary %} <br><br>•&nbsp;&nbsp;<i>Summary: {{	page.summary	}}</i>{% endif %} 
       	 {% if page.confidence %} <br>•&nbsp;&nbsp;<i>Confidence</i>: {{	page.confidence	}}{% endif %} 
       	 {% if page.warnings %} <br>•&nbsp;&nbsp;<i>Content notes</i>: {{	page.warnings	}}{% endif %} 
-          <br>•&nbsp;&nbsp;<i>Word count</i>: {{ content | number_of_words }}
+          <br>•&nbsp;&nbsp;<i>Word count</i>: {{ content | number_of_words }} words.
         </p>
   	</header>
   
@@ -39,7 +39,11 @@ layout: default
 
 <script src="/js/tooltip.js" type="text/javascript"></script>
 <script>
-$(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip();
-});
+  document.addEventListener("DOMContentLoaded", function() {
+      var tips = document.querySelectorAll('[data-toggle="tooltip"]'); 
+      var i;
+      for (i = 0; i < x.length; i++) {
+        tips[i].tooltip( { animation:true, html:true } );
+      }
+  });
 </script>
