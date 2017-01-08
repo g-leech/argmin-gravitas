@@ -4,7 +4,7 @@ title:  	"Estimating political controversy"
 permalink:	/controversy/
 date:   	2017-01-07  <!--site.time-->
 author:		Gavin	
-summary:	A tiny research proposal for the Centre for Effective Altruism <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- can we quantify controversy / obstructionism?
+summary:	A tiny research proposal for the Centre for Effective Altruism <br>- can we quantify controversy / obstructionism?
 confidence: 60% on core equations. 80% that it is worth doing.
 warnings: 	terrorism, inexorable ideologies
 ---
@@ -12,9 +12,14 @@ warnings: 	terrorism, inexorable ideologies
 available: Simple -- Stylized -- Technical.-->
 
 
-<!-- WORDS class="tooltip" -->
+<!--	Tooltips	-->
+{%	assign murderTip = "<i>Estimate quality</i>: <a href=/#spiegel-quality/>Spiegelhalter (2*)</a>. No data, no names.<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low."	%}
 
-<a href="javascript:void(0);" html="true" data-toggle="tooltip">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
+
+<!-- 	WORDS	-->
+
+
+<a href="javascript:void(0);" data-toggle="tooltip" title="{{murderTip}}">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
 My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated social or political resistance to interventions, '[obstructionism][Obs]' - is a negative term for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
 
@@ -119,14 +124,6 @@ I am not sure how much weight to put on historical case studies, relative to a c
 
 <!---->
 
-{%	assign murderTip = "<i>Estimate quality</i>: <a href=/#spiegel-quality/>Spiegelhalter (2*)</a>. No data, no names.<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low."	%}
-
-<script>
-	$(document).ready(function(){
-    	$('[data-toggle="tooltip"]').tooltip( { title:"<i>Estimate quality</i>", animation:true, html:true , trigger:"click hover" } );
-	});
-//		$("#murderTip").tooltip({ title:"<i>Estimate quality</i>", animation:true, html:true , trigger:"click hover" }); 	
-</script>
 
 [Spiegel]:		http://technicalities.netlify.com/metrics/#spiegel-quality
 [Poliohno]:		http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu 
