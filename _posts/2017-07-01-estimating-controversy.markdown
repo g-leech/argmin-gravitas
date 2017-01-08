@@ -12,13 +12,13 @@ warnings: 	terrorism, inexorable ideologies
 ---
 
 
-{%	assign murderTip = "<i>Estimate quality</i>: <a href="http://technicalities.netlify.com/metrics/#spiegel-quality">Spiegelhalter (2*)</a>. No data, no names.<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low."	%}
+{%	assign murderTip = "<i>Estimate quality</i>: <a href=\"http://technicalities.netlify.com/metrics/#spiegel-quality\">Spiegelhalter (2*)</a>. No data, no names.<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low."	%}
 
 
 
 <!-- WORDS -->
 
-<a href="#" data-toggle="tooltip" animation="true" html="true" delay="10" title="{{murderTip}}">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
+<a href="#" data-toggle="tooltip" animation="true" html="true" delay="5" title="<i>Estimate quality</i>: <a href=\"http://technicalities.netlify.com/metrics/#spiegel-quality\">Spiegelhalter (2*)</a>. No data, no names.<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low.">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
 My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated social or political resistance to interventions, 'obstructionism' - is a negative term for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
 
@@ -27,7 +27,8 @@ Naı̈vely, the relation would involve at least the following terms:<br><br>
 <div align="center">
 
 $$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{asocial}\\\text{cost:benefit}}, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{resistance}} $$
-</div><i>where</i><br>
+</div><i>where</i>
+
 <div align="center">
 
 $$
@@ -119,17 +120,8 @@ I am not sure how much weight to put on historical case studies, relative to a c
 
 
 
+
 <!---->
-
-{%	assign murderTip = "<i>Estimate quality</i>: <a href="http://technicalities.netlify.com/metrics/#spiegel-quality">Spiegelhalter (2*)</a>. No data, no names.<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low."	%}
-
-<script>
-	document.addEventListener("DOMContentLoaded", function() {
-		var murder = document.getElementById("murderTip"); 
-    	murder.tooltip({ title: "{{ murderTrip }}", html: true, animation: true, delay: 10 }); 
-	});
-</script>
-
 
 [Spiegel]:		http://technicalities.netlify.com/metrics/#spiegel-quality
 [Poliohno]:		http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu 
