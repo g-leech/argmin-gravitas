@@ -2,6 +2,23 @@
 layout: default
 ---
 
+<style>
+.test + .tooltip > .tooltip-inner {
+    background-color: #73AD21;
+    color: #FFFFFF;
+    border: 1px solid green;
+    padding: 15px;
+    font-size: 10px;
+}
+</style>
+
+<script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();
+});
+</script>
+
+
 <div class="post">
 	<!-- available: Simple -- Stylized -- Technical. -->
   	<header class="post-header">
@@ -22,3 +39,6 @@ layout: default
   </article>
   {{page.categories}}
 </div>
+
+
+<script src="/js/tooltip.js" type="text/javascript"></script>
