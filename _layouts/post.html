@@ -13,7 +13,7 @@ layout: default
       	{% if page.summary %} <br><br>•&nbsp;&nbsp;<i>Summary: {{	page.summary	}}</i>{% endif %} 
       	{% if page.confidence %} <br>•&nbsp;&nbsp;<i>Confidence</i>: {{	page.confidence	}}{% endif %} 
       	{% if page.warnings %} <br>•&nbsp;&nbsp;<i>Content notes</i>: {{	page.warnings	}}{% endif %} 
-        <br>•&nbsp;&nbsp;<i>Word count</i>: {{ content | number_of_words }} words.
+        <br>•&nbsp;&nbsp;<i>Word count</i>: {{ content | number_of_words | minus: 200 }} words.
       </p>
   	</header>
   
