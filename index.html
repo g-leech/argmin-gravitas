@@ -6,8 +6,9 @@ layout: default
   
   <h1 class="page-heading">Recent Posts</h1>
     <table class="post-list">
+    
     {% for post in site.posts limit:8 %}
-      {% if post.visible== 1  %}
+      {% if post.visible == 1  %}
       <tr>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -15,14 +16,13 @@ layout: default
         <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a>
         </h3></td>
-        <td> {{ post.summary }}</td>
-        <td> <small>Available in:<ul>
-          {% if post.simple %} <li><a href="{{post.url | prepend: site.baseurl}}-simple">Simple</a></li> {% endif %}
-          {% if post.stylised %} <li><a href="{{post.url | prepend: site.baseurl}}">Stylised</a></li> {% endif %}
-          {% if post.technical %} <li><a href="{{post.url | prepend: site.baseurl}}-technical">Technical</a></li> {% endif %}
+        <td> <small>{{ post.summary }}</small></td>
+        <td> <small><ul>
+          {% if post.simple %} <li><a href="{{post.baselink | prepend: site.baseurl}}-simple">Simple</a></li> {% endif %}
+          {% if post.stylised %} <li><a href="{{post.baselink | prepend: site.baseurl}}">Stylised</a></li> {% endif %}
+          {% if post.technical %} <li><a href="{{post.baselink | prepend: site.baseurl}}-technical">Technical</a></li> {% endif %}
         </small></td>
       </tr>
-
       {% endif  %}
     {% endfor %}
 

@@ -19,7 +19,7 @@ permalink: /archive/
           <h1> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a></h1>
         </td>
         <td> {{ post.summary }}</td>
-        <td> Available in: <ul>
+        <td><ul>
           {% if post.simple %} <li>[Simple]({{post.url}}/simple)</li> {% endif %}
           {% if post.stylised %} <li>[Stylised]({{post.url}}/stylised)</li> {% endif %}
           {% if post.technical %} <li>[Technical]({{post.url}}/technical)</li> {% endif %}
