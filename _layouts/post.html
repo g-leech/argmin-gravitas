@@ -21,13 +21,13 @@ layout: default
   {{ page.categories }}
 </div>
 
-
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script src="/js/jquery.min.js" ></script>
 <script src="/js/tooltip.js"></script>
 
 <script>
   $(document).ready(function(){
-      $('[data-toggle="tooltip"]').tooltip( { html:true , trigger:"click hover" } ); //animation:true,
+      $('[data-toggle="tooltip"]').tooltip( { html:true , trigger:"click hover", placement:"below" } ); //animation:true,
   });
 </script>
 
