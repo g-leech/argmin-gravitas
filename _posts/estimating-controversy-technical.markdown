@@ -1,10 +1,11 @@
 ---
 layout: 	math_post
 title:  	"Estimating political controversy"
-permalink:	/controversy/technical/
+permalink:	/controversy-technical/
 date:   	2017-01-07  <!--site.time-->
 author:		Gavin	
-style:		technical
+simple:		false
+technical:	true
 
 summary:	A tiny research proposal for the Centre for Effective Altruism - can we quantify controversy / obstructionism?
 confidence: 60% on core equations. 80% that it is worth doing.
@@ -144,7 +145,7 @@ These are the senses I would investigate in relation to obstruction.
 * Cotton-Barratt, Owen (2014), "[Estimating cost-effectiveness for problems of unknown difficulty][CB2]", (tractability with no prior).
 * Cotton-Barratt, Owen (2016), "Prospecting for Gold", talk at EAGxOxford 2016, 19/11/16.
 * Garimella et al (2015), "[Exploring Controversy in Twitter][Garim-Twitter]"
-* Garimella et al (2016), "[Quantifying Controversy in Social Media][]".
+* Garimella et al (2016), "[Quantifying Controversy in Social Media][Garim2]".
 * Kahan, Dan (2015), "[The Politically Motivated Reasoning Paradigm][Kahan]"  (on the growth of ideological disagreement on empirical questions).
 * Kittur et al (2009), "[What’s in Wikipedia?: Mapping Topics and Conflict Using Socially Annotated Category Structure][Kittur]"
 * Rad and Barbosa (2009), "[Identifying controversial articles in Wikipedia: a comparative study][Rad]"
@@ -191,6 +192,7 @@ These are the senses I would investigate in relation to obstruction.
 [80k]:			https://80000hours.org/2014/01/which-cause-is-most-effective-300/#TheList
 
 [Garim-Twitter]:	https://arxiv.org/pdf/1512.05550.pdf
+[Garim2]:		https://arxiv.org/pdf/1507.05224v1.pdf
 [CB2]:			https://www.fhi.ox.ac.uk/estimating-cost-effectiveness/
 [Kittur]:		http://www-users.cs.umn.edu/~echi/papers/2009-CHI2009/p1509.pdf
 [Steen]:		http://content.csbs.utah.edu/~burbank/steenbergen2003.pdf

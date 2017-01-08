@@ -1,10 +1,11 @@
 ---
 layout: 	math_post
 title:  	"Estimating political controversy"
-permalink:	/controversy/simple/
+permalink:	/controversy-simple/
 date:   	2017-01-07  <!--site.time-->
 author:		Gavin	
-style:		simple
+simple:		true
+technical:	false
 
 summary:	A tiny research proposal for the Centre for Effective Altruism - can we quantify controversy / obstructionism?
 confidence: 60% on core equations. 80% that it is worth doing.
