@@ -8,13 +8,13 @@ layout: default
     	<h1 class="post-title">{{ page.title }}</h1>
       <p style="line-height: 3px"></p>
     	<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} &nbsp;&nbsp;•&nbsp;&nbsp; {{ page.author }}{% endif %}
-      <blockquote>
-      	{% if page.summary %} <br><br>•&nbsp;&nbsp;<i>Summary: {{	page.summary	}}</i>{% endif %} 
-      	<!--{% if page.categories %} <br>• {{	page.categories	}}{% endif %} -->
-      	{% if page.confidence %} <br>•&nbsp;&nbsp;<i>Confidence</i>: {{	page.confidence	}}{% endif %} 
-      	{% if page.warnings %} <br>•&nbsp;&nbsp;<i>Content notes</i>: {{	page.warnings	}}{% endif %} 
-        <br>•&nbsp;&nbsp;<i>Word count</i>: {{ content | number_of_words }}
-      </blockquote>
+        <p style="margin-left:40px">
+      	 {% if page.summary %} <br><br>•&nbsp;&nbsp;<i>Summary: {{	page.summary	}}</i>{% endif %} 
+      	 <!--{% if page.categories %} <br>• {{	page.categories	}}{% endif %} -->
+      	 {% if page.confidence %} <br>•&nbsp;&nbsp;<i>Confidence</i>: {{	page.confidence	}}{% endif %} 
+      	 {% if page.warnings %} <br>•&nbsp;&nbsp;<i>Content notes</i>: {{	page.warnings	}}{% endif %} 
+          <br>•&nbsp;&nbsp;<i>Word count</i>: {{ content | number_of_words }}
+        </p>
     	</p>
   	</header>
   
