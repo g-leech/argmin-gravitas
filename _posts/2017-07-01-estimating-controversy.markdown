@@ -3,7 +3,7 @@ layout: 	math_post
 title:  	"Estimating political controversy"
 date:   	2017-01-07 20:31:40
 author:		Gavin
-summary:	A tiny research proposal for the Centre for Effective Altruism: can we quantify controversy and political resistance?
+summary:	A tiny research proposal for the Centre for Effective Altruism - can we quantify controversy and political resistance?
 confidence: 60% on core equations. 80% that it is worth doing.
 warnings: 	terrorism, inexorable ideologies
 ---
