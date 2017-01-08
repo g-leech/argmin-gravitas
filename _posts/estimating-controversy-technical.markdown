@@ -151,9 +151,6 @@ These are the senses I would investigate in relation to obstruction.
 * Steenbergen et al (2003), "[A Discourse Quality Index][Steen]".
 * Wiblin, Robert (2016), "[The Important/Neglected/Tractable framework needs to be applied with care][Wib]" (on misapplying ITN, its ambiguity).
 
-    
-
-
 
 
 <a name="appendix"><a/>
@@ -178,7 +175,6 @@ These are the senses I would investigate in relation to obstruction.
 
 
 <!---->
-
 
 [Spiegel]:		http://technicalities.netlify.com/metrics/#spiegel-quality
 [Poliohno]:		http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu 
