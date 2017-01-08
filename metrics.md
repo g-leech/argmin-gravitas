@@ -20,20 +20,20 @@ When reporting the quality of things, I use the following scales of measurement:
 ---
 
 #### Spiegelhalter on the quality of a statistic
-David Spiegelhalter, professor of statistics, has a nice rule of thumb for how much to trust estimates:
+[David Spiegelhalter][Spieg] has a nice rule of thumb for how much to trust estimates:
 
-* 4* : 
-* 3* :
-* 2* :
-* 1* :
-* 0* : No information content; worse than useless.
+* 4* : Very reliable.
+* 3* : Good, but could be 25% out either way.
+* 2* : Poor. Could be half or double the given value.
+* 1* : Some indication; maybe the correct order of magnitude?
+* 0* : No information content. Even odds of having correct sign.
 
 <a name="cochrane-quality"></a>
 
 <br>---<br>
 
 #### Cochrane on evidence quality
-For serious work I use the Cochrane Collaboration's [GRADE scale](http://handbook.cochrane.org/chapter_12/12_2_assessing_the_quality_of_a_body_of_evidence.htm):
+For serious work I use the Cochrane Collaboration's [GRADE scale][GRADE]:
 
 * GRADE ⊕⊕⊕⊕ : As good as a well-run randomized trial.
 * GRADE ⊕⊕⊕ : As good as a downgraded randomized trial; or an upgraded observational study.
@@ -59,14 +59,14 @@ For serious work I use the Cochrane Collaboration's [GRADE scale](http://handboo
 
 #### Christgau on the universality of artworks
 
-One way an artwork can be important is if it is universal: is its quality obvious even to people who aren't into that sort of thing. Robert Christgau scores all albums [on this scale](https://www.robertchristgau.com/xg/bk-cg90/grades-90s.php).
+One way an artwork can be important is if it is universal: is its quality obvious even to people who aren't into that sort of thing. Robert Christgau scores all albums [on this scale][Christg].
 
 <a name="galef-books"></a>
 <br>---<br>
 
 #### Galef on book impacts 
 
-Julia Galef has [a neat taxonomy](https://juliagalef.com/2017/01/06/a-taxonomy-of-books-that-change-your-worldview/) of ways that books can affect your worldview. Her model is that a book can 
+Julia Galef has [a neat taxonomy][Galef] of ways that books can affect your worldview. Her model is that a book can 
 
 1. offer you new Data, or 
 2. Theories to explain data, or 
@@ -80,7 +80,7 @@ She also assigns a number 1-5, roughly "Most Concrete -> Most General" for each 
 
 #### Leech on book durability
 
-I approximate a book's value by guessing how often I'll reread them. This rewards dense books, sure, but also ones with long-term value, durability, appeal to people of different ages, and also just pleasure and beauty. I think most books are not worth the time and a small number (< 8% in [a highly selected sample](https://docs.google.com/spreadsheets/d/1qPIKI3TO5MpKtyg9DzsK6TOo6NhjHAHZbv3iS2yxnSo/edit?usp=sharing)) are worth more than one reading.
+I approximate a book's value by guessing how often I'll reread them. This rewards dense books, sure, but also ones with long-term value, durability, appeal to people of different ages, and also just pleasure and beauty. I think most books are not worth the time and a small number (< 8% in [a highly selected sample][MyReading] are worth more than one reading.
 
 * 1/5: Not worth one reading.
 * 2/5: One read maybe, if you're into the topic.	   	
@@ -89,3 +89,12 @@ I approximate a book's value by guessing how often I'll reread them. This reward
 * 4/5: Very good. but one read will do..
 * 5?/5: Amazing. Will reread.
 * 5/5: Have reread and expect to do so indefinitely. A companion.
+
+
+
+
+[Spieg]:		http://www.statslab.cam.ac.uk/Dept/People/Spiegelhalter/davids.html
+[GRADE]:		http://handbook.cochrane.org/chapter_12/12_2_assessing_the_quality_of_a_body_of_evidence.htm
+[Christg]:		https://www.robertchristgau.com/xg/bk-cg90/grades-90s.php
+[Galef]:		https://juliagalef.com/2017/01/06/a-taxonomy-of-books-that-change-your-worldview/
+[MyReading]:	https://docs.google.com/spreadsheets/d/1qPIKI3TO5MpKtyg9DzsK6TOo6NhjHAHZbv3iS2yxnSo/edit?usp=sharing
