@@ -140,6 +140,8 @@ These are the senses I would investigate in relation to obstruction.
 
 ---
 
+<a name="bibliography"><a/>
+<br>
 <br>
 
 ### Bibliography
