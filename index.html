@@ -14,17 +14,22 @@ layout: default
     {% endfor %}-->
   
   <h1 class="page-heading">Recent Posts</h1>
-    <ul class="post-list">
+    <table>
+    <!--<ul class="post-list">-->
     {% for post in site.posts %}
-      <li>
+      <tr>
+      <!--<li>-->
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
+        <th><h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+        </h2></th>
+        <th> {{ post.summary }}</th>
+      </tr>
+      <!--</li>-->
     {% endfor %}
-  </ul>
+  <!--</ul>-->
+  <table>
 
   <small><p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p></small>
 

@@ -1,6 +1,6 @@
 ---
 layout: 	math_post
-title:  	"Estimating political controversy <br>(research proposal)"
+title:  	"Estimating political controversy <br>(a research proposal)"
 date:   	2017-01-07 20:31:40
 author:		Gavin
 summary:	A tiny research proposal for the Centre for Effective Altruism.
@@ -12,7 +12,9 @@ warnings: 	terrorism, inexorable ideologies
 Around 90 health workers were murdered while delivering polio vaccines to children in [2014][Poliohno]. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
 
-My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy (and associated social or political resistance to interventions) is a negative term for tractability. (And is a dominating factor, for any intervention requiring state resources, approval, or enforcement.) Naı̈vely, the relation would have at least the following terms:<br><br>
+My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy (and associated social or political resistance to interventions) is a negative term for tractability. (And is a dominating factor, for any intervention requiring state resources, approval, or enforcement.) 
+
+Naı̈vely, the relation would involve at least the following terms:<br><br>
 
 <div align="center">
 
@@ -23,7 +25,7 @@ $$
 	\right)
 $$
 $$
-	\text{resistance} = 	\Large{f} \left(\,\,	\normalsize{ \text{counter-activism, controversy }}   \right) \\\\
+	\text{resistance} = 	\Large{f} \left(\,\,	\normalsize{ \text{counter-activism, controversy }}   \right) 
 $$
 <br>
 $$
@@ -37,6 +39,7 @@ $$
 
 (Resistance manifests as delay, negotiation &amp; PR costs, extra legal costs, hazard insurance, or reduced volunteering and uptake. Controversy appears in the resistance equation, to model sensitivity to bad PR in politicians and NGOs.
 ‘Counter-activism’ is to be understood as effective obstruction.)
+<br>
 
 ---
 
@@ -54,6 +57,7 @@ One month's work should allow for:
 2. ranking of exemplar controversies; 
 3. data collection and scoring, maybe for a controversy classifier; 
 4. coefficient estimates for some cause (e.g. birth control is data-rich and controversial enough).
+<br>
 
 ---
 
@@ -72,6 +76,7 @@ One month's work should allow for:
 * _What level of controversy precludes effective intervention?_
 
 * _How does controversy accumulate and decay on an organisation like CEA? A movement like EA? What are its long-term effects?_
+<br>
 
 ---
 
@@ -82,7 +87,7 @@ One month's work should allow for:
 I’m not sure how to square the value of countercyclical moral leadership with the ITN model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval [5]. I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy.
 
 I am not sure how much weight to put on historical case studies, relative to a classifier based on chatter. I’m not sure of the predictive power of my proxies, especially sentiment intensity.
-
+<br>
 
 <a name="appendix"><a/>
 
