@@ -9,12 +9,14 @@ layout: default
     	<p style="margin-left:15px" class="post-meta">
         {{ page.date | date: "%b %-d, %Y" }}&nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://technicalities.netlify.com/about/">Gavin</a>
         &nbsp;&nbsp;•&nbsp;&nbsp; Available in: 
-        {% if page.simple %} Simple | {% endif %} 
-        {% if page.stylised %} Stylised | {% endif %} {% if page.technical %} Technical {% endif %} English
-      	{% if page.summary %} <br><br>•&nbsp;&nbsp;<i>Summary: {{	page.summary	}}</i>{% endif %} 
+        {% if page.simple %} <a href="{{page.baselink}}-simple">Simple</a> | {% endif %} 
+        {% if page.stylised %} <a href="{{page.baselink}}-stylised">Stylised</a> | {% endif %} 
+        {% if page.technical %} <a href="{{page.baselink}}-technical">Technical</a> {% endif %} English
+      	<br><br>
+        {% if page.summary %} •&nbsp;&nbsp;<i>{{	page.summary	}}</i>{% endif %} 
       	{% if page.confidence %} <br>•&nbsp;&nbsp;<i>Confidence</i>: {{	page.confidence	}}{% endif %} 
       	{% if page.warnings %} <br>•&nbsp;&nbsp;<i>Content notes</i>: {{	page.warnings	}}{% endif %} 
-        <br>•&nbsp;&nbsp;<i>Word count</i>: {{ content | number_of_words | minus: 200 }} words.
+        <br>•&nbsp;&nbsp;{{ content | number_of_words | minus: 200 }} words.
       </p>
   	</header>
   

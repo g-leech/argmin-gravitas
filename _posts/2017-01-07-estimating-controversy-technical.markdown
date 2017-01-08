@@ -2,7 +2,7 @@
 layout: 	math_post
 title:  	"Estimating political controversy"
 baselink:	/controversy
-permalink:	/controversy/
+permalink:	/controversy-technical/
 date:   	2017-01-07  <!--site.time-->
 author:		Gavin	
 
@@ -15,7 +15,6 @@ confidence: 60% on core equations. 80% that it is worth doing.
 warnings: 	terrorism, inexorable ideologies
 ---
 <!--categories: cause prioritisation, effective altruism, quantification fever
-available: Simple -- Stylized -- Technical.-->
 
 
 <!--	Tooltips	-->

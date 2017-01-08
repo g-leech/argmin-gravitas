@@ -11,8 +11,7 @@ simple:		true
 technical:	true
 ---
 
-<!-- 	WORDS	-->
-[Around 90 health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Lately, people have also attacked against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level science professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this if we formed a way of measuring controversy.
+[Around 90 health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Other people have attacked against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level science professors][Unabomb]. We can conclude that _everything is controversial to someone_. We could do better than this if we had a way to measure controversy.
 
 First, what is "tractability"?
 
