@@ -22,7 +22,7 @@
       <div class="trigger">
         {% for page in site.pages %}
             {% if page.title != "Archive" %}
-              <a class="page-link headText" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+              <a class="headText" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
             {%  endif  %}
         {% endfor %}
       </div>
