@@ -3,15 +3,13 @@ layout: 	math_post
 title:  	"Estimating political controversy"
 permalink:	/controversy/
 date:   	2017-01-07  <!--site.time-->
-author:		Gavin
-<!--categories: cause prioritisation, effective altruism, quantification fever
-available: Simple -- Stylized -- Technical.
--->
-
+author:		Gavin	
 summary:	A tiny research proposal for the Centre for Effective Altruism <br>- can we quantify controversy / obstructionism?
 confidence: 60% on core equations. 80% that it is worth doing.
 warnings: 	terrorism, inexorable ideologies
 ---
+<!--categories: cause prioritisation, effective altruism, quantification fever
+available: Simple -- Stylized -- Technical.-->
 
 
 <!-- WORDS  animation="true" -->
