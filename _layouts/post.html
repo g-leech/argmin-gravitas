@@ -3,7 +3,7 @@ layout: default
 ---
 
 <style>
-.test + .tooltip > .tooltip-inner {
+.tooltip > .tooltip-inner {
     background-color: #73AD21;
     color: #FFFFFF;
     border: 1px solid green;
@@ -12,11 +12,6 @@ layout: default
 }
 </style>
 
-<script>
-$(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip();
-});
-</script>
 
 
 <div class="post">
@@ -37,8 +32,14 @@ $(document).ready(function(){
   <article class="post-content">
     {{ content }}
   </article>
-  {{page.categories}}
+  {{ page.categories }}
 </div>
 
 
+
 <script src="/js/tooltip.js" type="text/javascript"></script>
+<script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();
+});
+</script>

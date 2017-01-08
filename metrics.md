@@ -14,6 +14,7 @@ When reporting the quality of things, I use the following scales of measurement:
 * [Types of impacts from books](#galef-books)
 * [Book worthiness](#leech-books)
 
+<br>
 <a name="spiegel-quality"></a>
 
 ---
