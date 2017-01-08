@@ -15,9 +15,9 @@ technical:	true
 
 First, what is "tractability"?
 
-  <b>tractability</b>: how easy something is to solve; how much you get done for a given amount of money, for instance.
+<p><b>tractability</b>: how easy something is to solve - how much you get done for a given amount of money, for instance.</p>
 
-My question is _How can we estimate political controversy? How can we relate this to tractability?_ Controversy and the difficulties that come with it are drag on tractability. (They are a particularly big problem for anything which wants to use government resources.)
+My question is _How can we estimate political controversy? How can we relate this to tractability?_ Controversy, and the difficulties that come with it, are a large drag on tractability. (They are a particularly big problem for anything which wants to use government resources.)
 
 On the face of it, these two things would be connected in the following way:<br><br>
 
@@ -54,8 +54,7 @@ $$
 
 </div>-->
 
-(Obstructionism manifests as delay, negotiation &amp; PR costs, extra legal costs, hazard insurance, or reduced volunteering and uptake. Controversy appears in the resistance equation, to model sensitivity to bad PR in politicians and NGOs.
-‘Counter-activism’ is to be understood as _effective_ obstruction.)
+(Difficulty could cause delays, extra costs for lawyers, negotiators, marketers, insurance, and might reduce the number of people willing to use the product, or to volunteer. Controversy appears in the resistance equation, to model sensitivity to bad PR in politicians and NGOs.)
 
 <br><br>
 
