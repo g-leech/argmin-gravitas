@@ -2,7 +2,7 @@
 layout: 	math_post
 title:  	"Controversy in numbers"
 permalink:	/controversy-simple/
-date:   	2017-01-07  <!--site.time-->
+date:   	2017-01-08  <!--site.time-->
 author:		Gavin	
 
 simple:		true
