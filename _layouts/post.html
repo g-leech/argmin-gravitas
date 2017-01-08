@@ -9,7 +9,7 @@ layout: default
     	<p style="margin-left:15px" class="post-meta">
       {%  assign s = "&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;"  %}
       {%  assign t = "•&nbsp;&nbsp;"  %}
-      
+
         {{ page.date | date: "%b %-d, %Y" }}{{s}} <a href="https://technicalities.netlify.com/about/">Gavin</a>{{s}} 
         Available in: 
         {% if page.simple %} <a href="{{page.baselink}}-simple">Simple</a> | {% endif %} 
@@ -18,7 +18,7 @@ layout: default
       	<br>
         {% if page.summary %} <br>{{t}}<i>{{	page.summary	}}</i>{% endif %} 
       	{% if page.confidence %} <br>{{t}}<i>Confidence</i>: {{	page.confidence	}}{% endif %} 
-      	{% if page.warnings %} <br>•{{t}}<i>Content notes</i>: {{	page.warnings	}}{% endif %} 
+      	{% if page.warnings %} <br>{{t}}<i>Content notes</i>: {{	page.warnings	}}{% endif %} 
         <br>{{t}}{{ content | number_of_words | minus: 200 }} words.
       </p>
   	</header>

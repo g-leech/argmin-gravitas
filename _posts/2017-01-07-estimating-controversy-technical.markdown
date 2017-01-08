@@ -111,7 +111,7 @@ One month's work should allow for:
 
 I’m not sure how to square the value of countercyclical moral leadership with the Impact-Tractability-Neglectedness (ITN) model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval.<sup>[+]</sup> I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy.
 
-<!-- [+] Though some detailed precursors exist, in the form of [Social Choice theory][SocialChoice]-->
+<!-- [+] Though some detailed precursors exist, e.g. [Social Choice theory][SocialChoice]-->
 
 I am not sure how much weight to put on historical case studies, relative to a classifier based on chatter. I’m not sure of the predictive power of my proxies, especially sentiment intensity.
 
@@ -155,8 +155,8 @@ These are the senses I would investigate in relation to obstruction.
 * Wiblin, Robert (2016), "[The Important/Neglected/Tractable framework needs to be applied with care][Wib]" (on misapplying ITN, its ambiguity).
 
 
-
 <a name="appendix"><a/>
+<br>
 
 -----------------------
 -----------------------
