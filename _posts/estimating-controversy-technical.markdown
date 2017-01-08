@@ -6,7 +6,7 @@ date:   	2017-01-07  <!--site.time-->
 author:		Gavin	
 style:		technical
 
-summary:	A tiny research proposal for the Centre for Effective Altruism <br>- can we quantify controversy / obstructionism?
+summary:	A tiny research proposal for the Centre for Effective Altruism - can we quantify controversy / obstructionism?
 confidence: 60% on core equations. 80% that it is worth doing.
 warnings: 	terrorism, inexorable ideologies
 ---

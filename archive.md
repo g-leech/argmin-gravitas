@@ -5,9 +5,6 @@ permalink: /archive/
 ---
 
 <div class="home">
-  
-  <h1 class="page-heading">All Posts</h1>
-
       {% for post in site.posts %}
 
         {% assign currentDate = post.date | date: "%Y" %}
@@ -19,8 +16,7 @@ permalink: /archive/
         {% endif %}
         
         <td style="width:50%;">
-          <h3> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}</a>
-          </h3>
+          <h3> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a></h3>
         </td>
         <td> {{ post.summary }}</td>
         <td> Available in: <ul>

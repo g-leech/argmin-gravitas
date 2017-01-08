@@ -10,22 +10,23 @@ layout: default
       <tr>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <td style="width:50%;"><h2>
+        <td style="width:55%;">
+        <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a>
-        </h2></td>
+        </h3></td>
         <td> {{ post.summary }}</td>
-          <!--<td> Available in:<ul>
+          <!--<td> <small>Available in:<ul>
           {% if post.simple %} <li>[Simple]({{post.url}}/simple)</li> {% endif %}
           {% if post.stylised %} <li>[Stylised]({{post.url}}/stylised)</li> {% endif %}
           {% if post.technical %} <li>[Technical]({{post.url}}/technical)</li> {% endif %}
-        </td>
+        </small></td>
     -->
       </tr>
     {% endfor %}
 
     </table>
 
-  <br><br>[See all posts](https://technicalities.netlify.com/archive).
+  <br><br><br><br><a href="{{ "/archive" | prepend: site.baseurl }}">See all posts</a>.
   <br><small><p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p></small>
 
 </div>
