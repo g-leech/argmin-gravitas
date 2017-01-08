@@ -1,12 +1,13 @@
 ---
 layout: 	math_post
 title:  	"Estimating political controversy"
+baselink:	/controversy
 permalink:	/controversy/
 date:   	2017-01-07  <!--site.time-->
 author:		Gavin	
 
 visible:	1
-simple:		false
+simple:		true
 technical:	true
 
 summary:	A tiny research proposal for the Centre for Effective Altruism - can we quantify controversy / obstructionism?

@@ -1,17 +1,15 @@
 ---
 layout: 	math_post
 title:  	"Controversy in numbers"
+baselink:	/controversy
 permalink:	/controversy-simple/
 date:   	2017-01-08  <!--site.time-->
 author:		Gavin	
 
 visible:	0
 simple:		true
-technical:	false
+technical:	true
 ---
-<!--categories: cause prioritisation, effective altruism, quantification fever
-available: Simple -- Stylised -- Technical.-->
-
 
 <!-- 	WORDS	-->
 [Around 90 health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Lately, people have also attacked against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level science professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this if we formed a way of measuring controversy.
