@@ -2,21 +2,23 @@
 layout: 	math_post
 title:  	"Estimating political controversy"
 permalink:	/controversy/
-date:   	2017-01-07 20:31:40  <!--site.time-->
+date:   	2017-01-07  <!--site.time-->
 author:		Gavin
-categories: cause prioritisation, effective altruism, quantification fever
+<!--categories: cause prioritisation, effective altruism, quantification fever
+available: Simple -- Stylized -- Technical.
+-->
 
-summary:	A tiny research proposal for the Centre for Effective Altruism - can we quantify controversy / obstructionism?
+summary:	A tiny research proposal for the Centre for Effective Altruism <br>- can we quantify controversy / obstructionism?
 confidence: 60% on core equations. 80% that it is worth doing.
 warnings: 	terrorism, inexorable ideologies
 ---
 
 
-<!-- WORDS  animation="true" html="true"-->
+<!-- WORDS  animation="true" -->
 
-<a href="javascript:void(0);" id="murderTip" class="tooltip" data-toggle="tooltip">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
+<a href="javascript:void(0);" id="murderTip" class="tooltip" data-html="true" data-toggle="tooltip" title="<em>Tooltip</em> <u>with</u> <b>HTML</b>">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
-My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated social or political resistance to interventions, 'obstructionism' - is a negative term for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
+My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated social or political resistance to interventions, '[obstructionism][Obs]' - is a negative term for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
 
 Naı̈vely, the relation would involve at least the following terms:<br><br>
 
@@ -133,3 +135,4 @@ I am not sure how much weight to put on historical case studies, relative to a c
 [Schoolsout]:	http://www.protectingeducation.org/sites/default/files/documents/eua_2014_full.pdf 
 [Ruined]:		https://en.wikipedia.org/wiki/Destruction_of_cultural_heritage_by_ISIL 				
 [Unabomb]:		https://en.wikipedia.org/wiki/Ted_Kaczynski#Casualties 
+[Obs]:			https://en.wikipedia.org/wiki/Obstructionism
