@@ -36,3 +36,9 @@ layout: default
 
 <script src="/js/jquery.min.js" ></script>
 <script src="/js/tooltip.js"></script>
+
+<script>
+  $(document).ready(function(){
+      $('[data-toggle="tooltip"]').tooltip( { title:"<i>Estimate quality</i>", animation:true, html:true , trigger:"click hover" } );
+  });
+</script>
