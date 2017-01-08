@@ -1,16 +1,24 @@
 ---
 layout: 	math_post
 title:  	"Estimating political controversy"
+permalink:	/controversy/
 date:   	2017-01-07 20:31:40  <!--site.time-->
 author:		Gavin
+categories: cause prioritisation, effective altruism, quantification fever
+
 summary:	A tiny research proposal for the Centre for Effective Altruism - can we quantify controversy / obstructionism?
 confidence: 60% on core equations. 80% that it is worth doing.
 warnings: 	terrorism, inexorable ideologies
 ---
-<!--categories: cause-prioritisation, effective-altruism, quantification-fever,-->
 
-<a href="#" id="murderTip" class="tooltip" data-toggle="tooltip">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
+{%	assign murderTip = "<i>Estimate quality</i>: <a href="http://technicalities.netlify.com/metrics/#spiegel-quality">Spiegelhalter (2*)</a>. No data, no names.<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low."	%}
+
+
+
+<!-- WORDS -->
+
+<a href="#" data-toggle="tooltip" animation="true" html="true" delay="10" title="{{murderTip}}">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
 My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated social or political resistance to interventions, 'obstructionism' - is a negative term for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
 
