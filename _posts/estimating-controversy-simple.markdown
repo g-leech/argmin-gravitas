@@ -1,30 +1,33 @@
 ---
 layout: 	math_post
 title:  	"Estimating political controversy"
-permalink:	/controversy/technical
+permalink:	/controversy/simple/
 date:   	2017-01-07  <!--site.time-->
 author:		Gavin	
-style:		technical
-summary:	A tiny research proposal for the Centre for Effective Altruism <br>- can we quantify controversy / obstructionism?
+style:		simple
+
+summary:	A tiny research proposal for the Centre for Effective Altruism - can we quantify controversy / obstructionism?
 confidence: 60% on core equations. 80% that it is worth doing.
 warnings: 	terrorism, inexorable ideologies
 ---
 <!--categories: cause prioritisation, effective altruism, quantification fever
-available: Simple -- Stylized -- Technical.-->
-
-
-<!--	Tooltips	-->
-{%	assign murderTip = "<i>Estimate quality</i>: <a href=/#spiegel-quality/>Spiegelhalter (2*)</a>. (No data, no names given.)<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low."	%}
+available: Simple -- Stylised -- Technical.-->
 
 
 <!-- 	WORDS	-->
-<a href="javascript:void(0);" data-toggle="tooltip" title="{{murderTip}}">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
+[Around 90 health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Lately, people have also attacked against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level science professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this if we formed a way of measuring controversy.
 
-My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated social or political resistance to interventions, '[obstructionism][Obs]' - is a negative term in any equation for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
+First, what is "tractability"?
 
-Naı̈vely, the relation would involve at least the following terms:<br><br>
+  <b>tractability</b>: how easy something is to solve; how much you get done for a given amount of money, for instance.
+
+My question is _How can we estimate political controversy? How can we relate this to tractability?_ Controversy and the difficulties that come with it are drag on tractability. (They are a particularly big problem for anything which wants to use government resources.)
+
+On the face of it, these two things would be connected in the following way:<br><br>
 
 <div align="center">
+
+<!--
 
 $$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{asocial}\\\text{cost:benefit}}, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{obstruction}} $$
 </div><i>where</i>
@@ -120,11 +123,11 @@ One weak source of validation would be [80,000 Hours' estimates][80k] of cause e
 
 ### Tractability, Formally
 
-Surprisingly few. Cotton-Barrett has (tentatively) characterised tractability as either: the effort elasticity of a solution, $S$ = solvedness, $W$ = total work completed:
+Cotton-Barrett has (tentatively) characterised tractability as either: the effort elasticity of a solution, where _S_ = solvedness, _W_ = total work completed:
 $$
 	\frac{ dS/S }{ dW/W }
 $$
-or as the probability of success weighted by inertia of effort, $p =$ the likelihood of eventual success:
+or as the probability of success weighted by inertia of effort, _p_ = the likelihood of eventual success:
 
 $$
 	k = p / ln(\frac{\text{marginal resources}}{ \text{total resources spent}})

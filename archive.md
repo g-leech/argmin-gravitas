@@ -16,7 +16,7 @@ permalink: /archive/
         {% endif %}
         
         <td style="width:50%;">
-          <h3> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a></h3>
+          <h1> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a></h1>
         </td>
         <td> {{ post.summary }}</td>
         <td> Available in: <ul>
