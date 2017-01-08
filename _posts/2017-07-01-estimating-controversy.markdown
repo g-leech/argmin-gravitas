@@ -12,9 +12,9 @@ warnings: 	terrorism, inexorable ideologies
 available: Simple -- Stylized -- Technical.-->
 
 
-<!-- WORDS -->
+<!-- WORDS class="tooltip" -->
 
-<a href="javascript:void(0);" id="murderTip" class="tooltip" data-html="true" data-toggle="tooltip" title="<em>Tooltip</em> <u>with</u> <b>HTML</b>">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
+<a href="javascript:void(0);" html="true" data-toggle="tooltip">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
 My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated social or political resistance to interventions, '[obstructionism][Obs]' - is a negative term for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
 
@@ -122,10 +122,10 @@ I am not sure how much weight to put on historical case studies, relative to a c
 {%	assign murderTip = "<i>Estimate quality</i>: <a href=/#spiegel-quality/>Spiegelhalter (2*)</a>. No data, no names.<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low."	%}
 
 <script>
-	(function() {
-		document.getElementById("murderTip")
-				.tooltip({ title:"<i>Estimate quality</i>", animation:true, html:true , trigger:"click hover" }); 	
-	})();	
+	$(document).ready(function(){
+    	$('[data-toggle="tooltip"]').tooltip( { title:"<i>Estimate quality</i>", animation:true, html:true , trigger:"click hover" } );
+	});
+//		$("#murderTip").tooltip({ title:"<i>Estimate quality</i>", animation:true, html:true , trigger:"click hover" }); 	
 </script>
 
 [Spiegel]:		http://technicalities.netlify.com/metrics/#spiegel-quality
