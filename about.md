@@ -7,7 +7,7 @@ permalink: /about/
 
 I'm Gavin Leech, a data scientist at a large private org and a '[research parasite][Parasite]'. This site is for original contributions into things like poverty, animal welfare, statistical reanalyses, [scientometrics][Sciento]. I aim to write essays and software still worth using [in 20 years' time][LongContentIsLong].
 
-I am inspired by writers and citizen scientists like [Uri Simonsohn][Colada], '[Scott Alexander](http://slatestarcodex.com/)', '[Gwern Branwen](https://gwern.net)', [Jeff Kauffman](https://www.jefftk.com/index), [Andrew Gelman](http://andrewgelman.com/), [Noah Smith](noahpinionblog.blogspot.co.uk/), '[Kelsey Caring](http://theunitofcaring.tumblr.com/http://theunitofcaring.tumblr.com/)', '[Artir Nintil](https://nintil.com/)', and [Chris Dillow](http://stumblingandmumbling.typepad.com/).
+I am inspired by writers and citizen scientists like [Uri Simonsohn][Colada], '[Scott Alexander](http://slatestarcodex.com/)', '[Gwern Branwen](https://gwern.net)', [Jeff Kauffman](https://www.jefftk.com/index), [Andrew Gelman](http://andrewgelman.com/), [Noah Smith](noahpinionblog.blogspot.co.uk/), '[Kelsey Caring](http://theunitofcaring.tumblr.com/)', '[Artir Nintil](https://nintil.com/)', and [Chris Dillow](http://stumblingandmumbling.typepad.com/).
 
 I'm a member of [Giving What We Can][GWWC], a group of people who have pledged substantial amounts of their lifetime income to the most effective charitable causes around. I'm giving [15% this year][MyGiving], aiming at 50% overall (or equivalent labour). My reasoning on which causes are most important is here; my present basket of charities is here. 
 

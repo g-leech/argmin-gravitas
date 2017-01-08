@@ -42,7 +42,7 @@ layout: default
       var tips = document.querySelectorAll('[data-toggle="tooltip"]'); 
       var i;
       for (i = 0; i < x.length; i++) {
-        tips[i].tooltip( { animation:true, html:true } );
+        tips[i].tooltip( { title:"<i>Estimate quality</i>", animation:true, html:true , trigger:"click hover" } );
       }
   });
 </script>
