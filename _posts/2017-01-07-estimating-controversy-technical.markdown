@@ -18,7 +18,7 @@ warnings: 	terrorism, inexorable ideologies
 
 
 <!--	Tooltips	-->
-{%	assign murderTip = "<i>Estimate quality</i>: <a href=/#spiegel-quality/>Spiegelhalter (2*)</a>. (No data, no names given.)<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low."	%}
+{%	assign murderTip = "<br><i>Estimate quality</i>: OK. (<a href=/#spiegel-quality/>Spiegelhalter (2*)</a>). (Since no data, no names given.)<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low.<br>"	%}
 
 
 <!-- 	WORDS	-->
