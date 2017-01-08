@@ -12,7 +12,6 @@ warnings: 	terrorism, inexorable ideologies
 ---
 
 
-{%	assign murderTip = "<i>Estimate quality</i>: <a href=/#spiegel-quality/>Spiegelhalter (2*)</a>. No data, no names.<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low."	%}
 
 
 
@@ -123,10 +122,13 @@ I am not sure how much weight to put on historical case studies, relative to a c
 
 <!---->
 
-<script>
-	
-	$('#myTooltip').tooltip(); 
+{%	assign murderTip = "<i>Estimate quality</i>: <a href=/#spiegel-quality/>Spiegelhalter (2*)</a>. No data, no names.<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low."	%}
 
+<script>
+	window.onload = function(){
+		document.getElementById("murderTip")
+				.tooltip({ title:"<i>Estimate quality</i>", animation:true, html:true , trigger:"click hover" }); 	
+	};	
 </script>
 
 [Spiegel]:		http://technicalities.netlify.com/metrics/#spiegel-quality
