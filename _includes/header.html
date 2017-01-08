@@ -22,6 +22,8 @@
       <div class="trigger">
         {% for page in site.pages %}
             {% if page.title != "Archive" %}
+            {% if page.title != "index" %}
+            {% if page.url != "/feed.xml" %}
               <a class="headText" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | append: '&nbsp;&nbsp;|&nbsp;&nbsp;' }}</a>
             {%  endif  %}
         {% endfor %}
