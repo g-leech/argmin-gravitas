@@ -10,7 +10,7 @@ warnings: 	terrorism, inexorable ideologies
 <!--categories: cause-prioritisation, effective-altruism, quantification-fever,-->
 {%	assign murderTip = "<i>Estimate quality</i>: [Spiegelhalter (2*)][Spiegel]. No data, no names.<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low."	%}
 
-<a href="#" data-toggle="tooltip" animation="true" html="true" delay="100" title="hmmm">Around 90</a> 
+<a href="#" data-toggle="tooltip" animation="true" html="true" delay="40" title="{{murderTip}}">Around 90</a> 
 
 [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
