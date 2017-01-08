@@ -3,22 +3,11 @@ layout: default
 ---
 
 <div class="home">
-
-  <!--<div class="blog-index">  
-    {% assign post = site.posts.first %}
-    { include post_detail.html %}
-  </div>
-  <h1>Latest Post</h1>-->
-    <!--{% for post in site.posts limit:1 %}
-      {% assign content = post.content %}
-    {% endfor %}-->
   
   <h1 class="page-heading">Recent Posts</h1>
-    <table>
-    <!--<ul class="post-list">-->
+    <table class="post-list">
     {% for post in site.posts %}
       <tr>
-      <!--<li>-->
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <td style="width:65%;"><h2>
@@ -26,9 +15,7 @@ layout: default
         </h2></td>
         <td> {{ post.summary }}</td>
       </tr>
-      <!--</li>-->
     {% endfor %}
-  <!--</ul>-->
   <table>
 
   <br><br><small><p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p></small>
