@@ -1,10 +1,11 @@
 ---
 layout: 	math_post
 title:  	"Estimating political controversy"
-permalink:	/controversy/technical
+permalink:	/controversy/technical/
 date:   	2017-01-07  <!--site.time-->
 author:		Gavin	
 style:		technical
+
 summary:	A tiny research proposal for the Centre for Effective Altruism <br>- can we quantify controversy / obstructionism?
 confidence: 60% on core equations. 80% that it is worth doing.
 warnings: 	terrorism, inexorable ideologies
@@ -120,11 +121,11 @@ One weak source of validation would be [80,000 Hours' estimates][80k] of cause e
 
 ### Tractability, Formally
 
-Surprisingly few. Cotton-Barrett has (tentatively) characterised tractability as either: the effort elasticity of a solution, $S$ = solvedness, $W$ = total work completed:
+Cotton-Barrett has (tentatively) characterised tractability as either: the effort elasticity of a solution, where _S_ = solvedness, _W_ = total work completed:
 $$
 	\frac{ dS/S }{ dW/W }
 $$
-or as the probability of success weighted by inertia of effort, $p =$ the likelihood of eventual success:
+or as the probability of success weighted by inertia of effort, _p_ = the likelihood of eventual success:
 
 $$
 	k = p / ln(\frac{\text{marginal resources}}{ \text{total resources spent}})
