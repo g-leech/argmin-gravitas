@@ -2,8 +2,9 @@
 layout: default
 ---
 
+<!-- > .tooltip-inner -->
 <style>
-.tooltip > .tooltip-inner {
+.tooltip {
     background-color: #73AD21;
     color: #FFFFFF;
     border: 1px solid green;
@@ -19,10 +20,9 @@ layout: default
   	<header class="post-header">
     	<h1 class="post-title">{{ page.title }}</h1>
       <p style="line-height: 3px"></p>
-    	<p style="margin-left:20px" class="post-meta">
+    	<p style="margin-left:15px" class="post-meta">
         {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} &nbsp;&nbsp;•&nbsp;&nbsp; {{ page.author }}{% endif %}
       	 {% if page.summary %} <br><br>•&nbsp;&nbsp;<i>Summary: {{	page.summary	}}</i>{% endif %} 
-      	 <!--{% if page.categories %} <br>• {{	page.categories	}}{% endif %} -->
       	 {% if page.confidence %} <br>•&nbsp;&nbsp;<i>Confidence</i>: {{	page.confidence	}}{% endif %} 
       	 {% if page.warnings %} <br>•&nbsp;&nbsp;<i>Content notes</i>: {{	page.warnings	}}{% endif %} 
           <br>•&nbsp;&nbsp;<i>Word count</i>: {{ content | number_of_words }}
