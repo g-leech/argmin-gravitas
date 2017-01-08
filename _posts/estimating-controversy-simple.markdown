@@ -1,34 +1,32 @@
 ---
 layout: 	math_post
-title:  	"Estimating political controversy"
-permalink:	/controversy/
-date:   	2017-01-07  <!--site.time-->
+title:  	"Controversy in numbers"
+permalink:	/controversy-simple/
+date:   	2017-01-08  <!--site.time-->
 author:		Gavin	
 
-visible:	1
-simple:		false
-technical:	true
-
-summary:	A tiny research proposal for the Centre for Effective Altruism - can we quantify controversy / obstructionism?
-confidence: 60% on core equations. 80% that it is worth doing.
-warnings: 	terrorism, inexorable ideologies
+visible: 	0
+simple:		true
+technical:	false
 ---
 <!--categories: cause prioritisation, effective altruism, quantification fever
-available: Simple -- Stylized -- Technical.-->
-
-
-<!--	Tooltips	-->
-{%	assign murderTip = "<i>Estimate quality</i>: <a href=/#spiegel-quality/>Spiegelhalter (2*)</a>. (No data, no names given.)<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low."	%}
+available: Simple -- Stylised -- Technical.-->
 
 
 <!-- 	WORDS	-->
-<a href="javascript:void(0);" data-toggle="tooltip" title="{{murderTip}}">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
+[Around 90 health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Lately, people have also attacked against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level science professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this if we formed a way of measuring controversy.
 
-My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated social or political resistance to interventions, '[obstructionism][Obs]' - is a negative term in any equation for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
+First, what is "tractability"?
 
-Naı̈vely, the relation would involve at least the following terms:<br><br>
+  <b>tractability</b>: how easy something is to solve; how much you get done for a given amount of money, for instance.
+
+My question is _How can we estimate political controversy? How can we relate this to tractability?_ Controversy and the difficulties that come with it are drag on tractability. (They are a particularly big problem for anything which wants to use government resources.)
+
+On the face of it, these two things would be connected in the following way:<br><br>
 
 <div align="center">
+
+<!--
 
 $$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{asocial}\\\text{cost:benefit}}, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{obstruction}} $$
 </div><i>where</i>
@@ -51,7 +49,6 @@ $$
 <br><br></div>
 
 <sup>[+]</sup> Or speculatively:
-
 <!--<div align="center">
 $$ 
 	\text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	
@@ -147,12 +144,15 @@ These are the senses I would investigate in relation to obstruction.
 * Cotton-Barratt, Owen (2014), "[Estimating cost-effectiveness for problems of unknown difficulty][CB2]", (tractability with no prior).
 * Cotton-Barratt, Owen (2016), "Prospecting for Gold", talk at EAGxOxford 2016, 19/11/16.
 * Garimella et al (2015), "[Exploring Controversy in Twitter][Garim-Twitter]"
-* Garimella et al (2016), "[Quantifying Controversy in Social Media][Garim2]".
+* Garimella et al (2016), "[Quantifying Controversy in Social Media][]".
 * Kahan, Dan (2015), "[The Politically Motivated Reasoning Paradigm][Kahan]"  (on the growth of ideological disagreement on empirical questions).
 * Kittur et al (2009), "[What’s in Wikipedia?: Mapping Topics and Conflict Using Socially Annotated Category Structure][Kittur]"
 * Rad and Barbosa (2009), "[Identifying controversial articles in Wikipedia: a comparative study][Rad]"
 * Steenbergen et al (2003), "[A Discourse Quality Index][Steen]".
-* Wiblin, Robert (2016), "[The Important/Neglected/Tractable framework needs to be applied with care][Wib]" (on misapplying ITN, its ambiguity).
+* Wiblin, Robert (2016), "[The Important/Neglected/Tractable framework needs to be applied with care][Wib]"(on misapplying ITN, its ambiguity).
+
+    
+
 
 
 
@@ -179,6 +179,7 @@ These are the senses I would investigate in relation to obstruction.
 
 <!---->
 
+
 [Spiegel]:		http://technicalities.netlify.com/metrics/#spiegel-quality
 [Poliohno]:		http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu 
 [Schoolsout]:	http://www.protectingeducation.org/sites/default/files/documents/eua_2014_full.pdf 
@@ -190,7 +191,6 @@ These are the senses I would investigate in relation to obstruction.
 [80k]:			https://80000hours.org/2014/01/which-cause-is-most-effective-300/#TheList
 
 [Garim-Twitter]:	https://arxiv.org/pdf/1512.05550.pdf
-[Garim2]:		https://arxiv.org/pdf/1507.05224v1.pdf
 [CB2]:			https://www.fhi.ox.ac.uk/estimating-cost-effectiveness/
 [Kittur]:		http://www-users.cs.umn.edu/~echi/papers/2009-CHI2009/p1509.pdf
 [Steen]:		http://content.csbs.utah.edu/~burbank/steenbergen2003.pdf
