@@ -4,7 +4,7 @@ title:  	"Estimating political controversy"
 permalink:	/controversy/
 date:   	2017-01-07  <!--site.time-->
 author:		Gavin	
-summary:	A tiny research proposal for the Centre for Effective Altruism <br>- can we quantify controversy / obstructionism?
+summary:	A tiny research proposal for the Centre for Effective Altruism <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- can we quantify controversy / obstructionism?
 confidence: 60% on core equations. 80% that it is worth doing.
 warnings: 	terrorism, inexorable ideologies
 ---
@@ -12,7 +12,7 @@ warnings: 	terrorism, inexorable ideologies
 available: Simple -- Stylized -- Technical.-->
 
 
-<!-- WORDS  animation="true" -->
+<!-- WORDS -->
 
 <a href="javascript:void(0);" id="murderTip" class="tooltip" data-html="true" data-toggle="tooltip" title="<em>Tooltip</em> <u>with</u> <b>HTML</b>">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
