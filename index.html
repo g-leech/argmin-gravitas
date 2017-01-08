@@ -14,15 +14,15 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a>
         </h2></td>
         <td> {{ post.summary }}</td>
-        
-        <!--<td> Available in:<ul>
-          {% if post.simple %} <li>[Simple]({{post.url}}/simple)</li>
-          {% if post.stylised %} <li>[Stylised]({{post.url}}/stylised)</li>
-          {% if post.technical %} <li>[Technical]({{post.url}}/technical)</li>
-        </td>-->
-
+          <!--<td> Available in:<ul>
+          {% if post.simple %} <li>[Simple]({{post.url}}/simple)</li> {% endif %}
+          {% if post.stylised %} <li>[Stylised]({{post.url}}/stylised)</li> {% endif %}
+          {% if post.technical %} <li>[Technical]({{post.url}}/technical)</li> {% endif %}
+        </td>
+    -->
       </tr>
     {% endfor %}
+
     </table>
 
   <br><br>[See all posts](https://technicalities.netlify.com/archive).

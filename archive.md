@@ -9,8 +9,8 @@ permalink: /archive/
   <h1 class="page-heading">All Posts</h1>
 
       {% for post in site.posts %}
-      {% endfor %}
-        <!--{% assign currentDate = post.date | date: "%Y" %}
+
+        {% assign currentDate = post.date | date: "%Y" %}
         {% if currentDate != myDate %}
            {% unless forloop.first %}</table>{% endunless %}
            <h1>{{ currentDate }}</h1>
@@ -24,11 +24,13 @@ permalink: /archive/
         </td>
         <td> {{ post.summary }}</td>
         <td> Available in: <ul>
-          {% if post.simple %} <li>[Simple]({{post.url}}/simple)</li>
-          {% if post.stylised %} <li>[Stylised]({{post.url}}/stylised)</li>
-          {% if post.technical %} <li>[Technical]({{post.url}}/technical)</li>
+          {% if post.simple %} <li>[Simple]({{post.url}}/simple)</li> {% endif %}
+          {% if post.stylised %} <li>[Stylised]({{post.url}}/stylised)</li> {% endif %}
+          {% if post.technical %} <li>[Technical]({{post.url}}/technical)</li> {% endif %}
         </ul></td>
-        {% if forloop.last %}</table>{% endif %}-->
+        {% if forloop.last %}</table>{% endif %}
+      
+      {% endfor %}
       
 
   <br><br><small><p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p></small>
