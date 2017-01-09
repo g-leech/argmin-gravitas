@@ -146,8 +146,7 @@ These are the senses I would investigate in relation to obstruction.
 * Wiblin, Robert (2016), "[The Important/Neglected/Tractable framework needs to be applied with care][Wib]" (on misapplying INT, its ambiguity).
 
 
-<a name="appendix"><a/>
-<br>
+<br><br>
 
 -----------------------
 -----------------------
