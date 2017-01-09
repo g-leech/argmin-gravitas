@@ -174,7 +174,7 @@ One example of the extra analysis needed: <span style="font-weight: bold">Source
         <br><i>Estimate quality</i>: OK, a <a href='/#spiegel-quality/'>Spiegelhalter (2*)</a>. (Since no data, no names given.)
         <br><i>Source</i>: 
         <a href="http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu ">Newsweek</a>.
-        <br><i>Importance to argument</i>: Low.<br>
+        <br><i>Importance to argument</i>: Low.<br>&nbsp;
     </li><br>
 
 	<!-- 2 -->
