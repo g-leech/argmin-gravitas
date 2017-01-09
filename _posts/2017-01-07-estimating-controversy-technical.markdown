@@ -18,13 +18,31 @@ warnings: 	terrorism, inexorable ideologies
 
 
 <!--	Tooltips	-->
-{%	assign murderTip = "<br><i>Estimate quality</i>: OK. (<a href='/#spiegel-quality/'>Spiegelhalter (2*)</a>). (Since no data, no names given.)<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low.<br>&nbsp;"	%}
+<div class="footnotes"><ol>
+    <li class="footnote" id="fn:1">
+        <br><i>Estimate quality</i>: OK, a <a href='/#spiegel-quality/'>Spiegelhalter (2*)</a>. (Since no data, no names given.)
+        <br><i>Source</i>: 
+        <a href="http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu ">Newsweek</a>a>.
+        <br><i>Importance to argument</i>: Low.<br>
+    </li>
+    <li class="footnote" id="fn:2">
+        Though detailed precursors exist, e.g. <a href='http://effective-altruism.com/ea/11i/the_effective_altruism_newsletter_open_thread/8m6'>Social Choice theory</a>.
+    </li>
+     <li class="footnote" id="fn:3">
+	    Or speculatively:
+		<div align="center">
+		
+		$$ 
+			\text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	
+		$$
 
-{%	assign socNote = "Though detailed precursors exist, e.g. <a href='http://effective-altruism.com/ea/11i/the_effective_altruism_newsletter_open_thread/8m6'>Social Choice theory</a>."	%}
+		</div>
+    </li>
+</ol></div>
 
 
 <!-- 	WORDS	-->
-[Around][Poliohno] <span data-toggle="tooltip" title="{{murderTip}}">90 *</span> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have also been waged recently against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
+Around 90 health workers were murdered while delivering polio vaccines to children in 2014<a href="#fn:1" id="fnref:1">1</a>. Violent campaigns have also been waged recently against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
 My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated [social or political resistance to interventions][Obs]' - is a negative term in any equation for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
 
@@ -50,17 +68,8 @@ $$
 	\text{controversy} = \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) 
 $$
 
-<sup>[+]</sup>
+<a href="#fn:3" id="fnref:3">3</a>
 <br><br></div>
-
- Or speculatively:
-
-<!--<div align="center">
-$$ 
-	\text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	
-$$
-
-</div>-->
 
 (Obstructionism manifests as delay, negotiation &amp; PR costs, extra legal costs, hazard insurance, or reduced volunteering and uptake. Controversy appears in the _obstruction_ equation, to model sensitivity to bad PR in politicians and NGOs.
 ‘Counter-activism’ is to be understood as _effective_ obstruction.)
@@ -114,7 +123,7 @@ One month's work should allow for:
 
 I'm not sure whether this research is best aimed at quantitative estimates of present controversies, a predictive model for identifying future ones, or as groundwork for some future scientific model. 
 
-I’m not sure how to square the value of countercyclical moral leadership with the 'Impact-Neglectedness-Tractability' (INT) model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval.<a href="" class="internote" data-toggle="internote" title="{{socNote}}">[+]</a>  I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy. 
+I’m not sure how to square the value of countercyclical moral leadership with the 'Impact-Neglectedness-Tractability' (INT) model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval.<a href="#fn:2" id="fnref:2">2</a>  I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy. 
 
 I am not sure how much weight to put on historical case studies, relative to a classifier based on chatter. I’m not sure of the predictive power of my proxies, especially sentiment intensity.
 
