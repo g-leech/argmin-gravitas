@@ -20,7 +20,7 @@ warnings: 	terrorism, inexorable ideologies
 <!--	Tooltips	-->
 {%	assign murderTip = "<br><i>Estimate quality</i>: OK. (<a href='/#spiegel-quality/'>Spiegelhalter (2*)</a>). (Since no data, no names given.)<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low.<br>&nbsp;"	%}
 
-{%	assign socNote = "Though detailed precursors exist, e.g. <a href="http://effective-altruism.com/ea/11i/the_effective_altruism_newsletter_open_thread/8m6">Social Choice theory</a>."	%}
+{%	assign socNote = "Though detailed precursors exist, e.g. <a href='http://effective-altruism.com/ea/11i/the_effective_altruism_newsletter_open_thread/8m6'>Social Choice theory</a>."	%}
 
 
 <!-- 	WORDS	-->
@@ -113,7 +113,7 @@ One month's work should allow for:
 
 I'm not sure whether this research is best aimed at quantitative estimates of present controversies, a predictive model for identifying future ones, or as groundwork for some future scientific model. 
 
-I’m not sure how to square the value of countercyclical moral leadership with the 'Impact-Neglectedness-Tractability' (INT) model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval.<sup>[+]</sup> I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy. <a href="">[+]</a> 
+I’m not sure how to square the value of countercyclical moral leadership with the 'Impact-Neglectedness-Tractability' (INT) model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval.<sup>[+]</sup> I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy. <a href="" title="{{socNote}}">[+]</a> 
 
 I am not sure how much weight to put on historical case studies, relative to a classifier based on chatter. I’m not sure of the predictive power of my proxies, especially sentiment intensity.
 
