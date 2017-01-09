@@ -13,13 +13,13 @@ technical:	true
 summary:	A tiny research proposal for the Centre for Effective Altruism - can we quantify controversy / obstructionism?
 confidence: 70% on equations' truth (because vague). 80% that it's worth doing.
 warnings: 	terrorism, inexorable ideologies
+categories: cause prioritisation, effective altruism, quantification fever
 ---
-<!--categories: cause prioritisation, effective altruism, quantification fever
 
 
 
 <!-- 	WORDS	-->
-Around 90 health workers were murdered while delivering polio vaccines to children in 2014 <a href="#fn:1" id="fnref:1">1</a>. Violent campaigns have also been waged recently against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
+Around 90 health workers were murdered while delivering polio vaccines to children in 2014. <a href="#fn:1" id="fnref:1">1</a> Violent campaigns have also been waged recently against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
 My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated [social or political resistance to interventions][Obs]' - is a negative term in any equation for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
 
@@ -45,7 +45,7 @@ $$
 	\text{controversy} = \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) 
 $$
 
-<a href="#fn:3" id="fnref:3">3</a>
+<a href="#appendix" id="fnref:4">4</a>
 <br><br></div>
 
 (Obstructionism manifests as delay, negotiation &amp; PR costs, extra legal costs, hazard insurance, or reduced volunteering and uptake. Controversy appears in the _obstruction_ equation, to model sensitivity to bad PR in politicians and NGOs.
@@ -65,7 +65,7 @@ Also, within limits, controversy is a proxy for harm: the harm of mass preferenc
 
 One month's work should allow for: 
 
-1. clarification of the relations, [of this sort](#appendix);
+1. clarification of the relations <a href="#fn:3" id="fnref:3">3</a>;
 2. ranking of exemplar controversies; 
 3. data collection and scoring, maybe for a controversy classifier; 
 4. coefficient estimates for some cause (e.g. birth control is data-rich and controversial enough).
@@ -98,7 +98,7 @@ One month's work should allow for:
 
 ### Uncertainties
 
-I'm not sure whether this research is best aimed at quantitative estimates of present controversies, a predictive model for identifying future ones, or as groundwork for some future scientific model. 
+I'm not sure whether this research is best aimed at quantitative estimates of present controversies, a predictive model for identifying future ones, or as groundwork for some unfeasibly ambitious future [simulation](TheTerritory). 
 
 I’m not sure how to square the value of countercyclical moral leadership with the 'Impact-Neglectedness-Tractability' (INT) model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval. <a href="#fn:2" id="fnref:2">2</a>  I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy. 
 
@@ -153,16 +153,16 @@ These are the senses I would investigate in relation to obstruction.
 -----------------------
 
 <br>
+Or, speculatively, something more involved like:
 
-One example of the extra analysis needed: <span style="font-weight: bold">Sources of political controversy</span>:<br>
+<div align="center">
+	
+	$$ 
+		\text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	
+	$$
 
-<ul>
-<li> <i>Asymmetric information</i>. Spurious controversies, based in error - as plausibly occurred when Boko Haram killed polio health workers on suspicion of being American spies. We might think that the sustainable strategy is simple: do not compromise, but spread the truth.</li><br>
+</div>
 
-<li> <i>Bias (thick empirical judgments)</i>. People will endorse different empirical claims according to their ideology. A major obstacle to working in controversial cause areas is, then, what Dan Kahan calls the "politically motivated reasoning paradigm", an apparently increasing tendency for people to interpret evidence in favour of their political side (especially highly educated people, he claims).</li><br>
-
-<li> <i>Irreconcilable value pluralism</i>. The least tractable of all: options are convert or overrule.</li>
-</ul>
 
 
 <br><br>
@@ -171,7 +171,7 @@ One example of the extra analysis needed: <span style="font-weight: bold">Source
 <div class="footnotes"><ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
-        <br><i>Estimate quality</i>: OK, a <a href='/#spiegel-quality/'>Spiegelhalter (2*)</a>. (Since no data, no names given.)
+        <br><i>Estimate quality</i>: OK, a <a href='/#spiegel-quality/'>Spiegelhalter (3*)</a>. (No data, no names given.)
         <br><i>Source</i>: 
         <a href="http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu ">Newsweek</a>.
         <br><i>Importance to argument</i>: Low.<br>&nbsp;
@@ -184,14 +184,16 @@ One example of the extra analysis needed: <span style="font-weight: bold">Source
     
     <!-- 3 -->
     <li class="footnote" id="fn:3">
-	    Or speculatively:
-		<div align="center">
-		
-		$$ 
-			\text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	
-		$$
+		e.g.: <span style="font-weight: bold">Sources of political controversy</span>:<br>
 
-		</div>
+		<ul>
+		<li> <i>Asymmetric information</i>. Spurious controversies, based in error - as plausibly occurred when Boko Haram killed polio health workers on suspicion of being American spies. We might think that the sustainable strategy is simple: do not compromise, but spread the truth.</li><br>
+
+		<li> <i>Bias (thick empirical judgments)</i>. People will endorse different empirical claims according to their ideology. A major obstacle to working in controversial cause areas is, then, what Dan Kahan calls the "politically motivated reasoning paradigm", an apparently increasing tendency for people to interpret evidence in favour of their political side (especially highly educated people, he claims).</li><br>
+
+		<li> <i>Irreconcilable value pluralism</i>. The least tractable of all: options are convert or overrule.</li>
+		</ul>
+	  
     </li><br>
 </ol></div>
 
@@ -215,3 +217,4 @@ One example of the extra analysis needed: <span style="font-weight: bold">Source
 [Kahan]:		https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703011
 [Rad]:			http://www.math.iit.edu/~rellis/teaching/454553All/GoodModules/WikipediaEditWars.pdf
 [Wib]:			http://effective-altruism.com/ea/ss/the_importantneglectedtractable_framework_needs/
+[TheTerritory]:	https://en.wikipedia.org/wiki/Data_generating_process
