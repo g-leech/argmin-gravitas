@@ -45,7 +45,7 @@ $$
 	\text{controversy} = \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) 
 $$
 
-<a href="#appendix"><button class="bigfoot-footnote__button"></button></a>
+<a href="#appendix"><button class="bigfoot-fake">...</button></a>
 <br><br></div>
 
 (Obstructionism manifests as delay, negotiation &amp; PR costs, extra legal costs, hazard insurance, or reduced volunteering and uptake. Controversy appears in the _obstruction_ equation, to model sensitivity to bad PR in politicians and NGOs.
