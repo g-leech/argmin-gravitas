@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="css/bigfoot-default.css">
 <div class="post">
   	<header class="post-header">
     	<h1 class="post-title">{{ page.title }}</h1>
@@ -32,12 +33,11 @@ layout: default
 <link rel="stylesheet" href="/css/tooltip.min.css">
 <script src="/js/jquery.min.js" ></script>
 <script type="text/javascript" src="js/bigfoot.min.js"></script>
-<!-- <script src="/js/tooltip.js"></script> -->
 
 <script>
-  $.bigfoot();
-  // $(document).ready(function(){
-  //     $('[data-toggle="tooltip"]').tooltip( { animation: true, html:true , trigger:"click hover", placement:"below" } );
-  // });
+  $.bigfoot(
+    {
+      positionContent: true
+    });
 </script>
 
