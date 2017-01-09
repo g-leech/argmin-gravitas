@@ -23,7 +23,7 @@ Around 90 health workers were murdered while delivering polio vaccines to childr
 
 My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated [social or political resistance to interventions][Obs]' - is a negative term in any equation for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
 
-Naı̈vely, the relation would involve at least the following terms:<br><br>
+Naı̈vely, the relation would involve at least the following terms:<a name="maths"></a><br><br>
 
 <div align="center">
 
@@ -160,7 +160,7 @@ Or, speculatively, something more involved like:
 	$$ 
 		\text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	
 	$$
-
+<big><a href="#maths">↵</a></big>
 </div>
 
 
