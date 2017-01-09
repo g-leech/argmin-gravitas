@@ -147,9 +147,23 @@ These are the senses I would investigate in relation to obstruction.
 
 
 <br><br>
+<a name="appendix"></a>
 
 -----------------------
 -----------------------
+
+<br>
+
+One example of the extra analysis needed: <span style="font-weight: bold">Sources of political controversy</span>:<br>
+
+<ul>
+<li> <i>Asymmetric information</i>. Spurious controversies, based in error - as plausibly occurred when Boko Haram killed polio health workers on suspicion of being American spies. We might think that the sustainable strategy is simple: do not compromise, but spread the truth.</li><br>
+
+<li> <i>Bias (thick empirical judgments)</i>. People will endorse different empirical claims according to their ideology. A major obstacle to working in controversial cause areas is, then, what Dan Kahan calls the "politically motivated reasoning paradigm", an apparently increasing tendency for people to interpret evidence in favour of their political side (especially highly educated people, he claims).</li><br>
+
+<li> <i>Irreconcilable value pluralism</i>. The least tractable of all: options are convert or overrule.</li>
+</ul>
+
 
 <br><br>
 
@@ -179,19 +193,6 @@ These are the senses I would investigate in relation to obstruction.
 
 		</div>
     </li><br>
-
-    <!-- 4 -->
-    <li class="footnote" id="fn:4">
-	   	One example of the extra analysis needed: <span style="font-weight: bold">Sources of political controversy</span>:<br>
-
-		<ul>
-			<li> <i>Asymmetric information</i>. Spurious controversies, based in error - as plausibly occurred when Boko Haram killed polio health workers on suspicion of being American spies. We might think that the sustainable strategy is simple: do not compromise, but spread the truth.</li><br>
-
-			<li> <i>Bias (thick empirical judgments)</i>. People will endorse different empirical claims according to their ideology. A major obstacle to working in controversial cause areas is, then, what Dan Kahan calls the "politically motivated reasoning paradigm", an apparently increasing tendency for people to interpret evidence in favour of their political side (especially highly educated people, he claims).</li><br>
-
-			<li> <i>Irreconcilable value pluralism</i>. The least tractable of all: options are convert or overrule.</li>
-		</ul>
-	</li>
 </ol></div>
 
 
