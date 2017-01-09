@@ -24,11 +24,13 @@ When reporting the quality of things, I use the following scales of measurement:
 #### Spiegelhalter on the quality of a statistic
 [David Spiegelhalter][Spieg] has a nice rule of thumb for how much to trust estimates:
 
-* 4* : Very reliable.
+* 4* : Very reliable: warranting belief.
 * 3* : Good, but could be 25% out either way.
 * 2* : Poor. Could be half or double the given value.
-* 1* : Some indication; maybe the correct order of magnitude?
-* 0* : No information content. Even odds of having correct sign.
+* 1* : Not a generalisable result; maybe within a few orders of magnitude.
+* 0* : Simply made up. No information content. Even odds of having correct sign.
+
+(Obviously for some things - pharmacology and space travel come to mind - anything but 4* is unacceptably poor.)
 
 <a name="cochrane-quality"></a>
 

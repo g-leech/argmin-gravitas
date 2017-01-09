@@ -6,19 +6,19 @@ visible:	true
 ---
 
 
-I'm Gavin Leech, a data scientist at a large private org and a '[research parasite][Parasite]'. This site is for original contributions to poverty, animal welfare, statistical reanalyses, [scientometrics][Sciento]. I aim to write essays and software still worth using [decades from now][LongContentIsLong].
+I'm Gavin Leech, a data scientist at a large private org and also a '[research parasite][Parasite]'. This site is for original contributions to poverty, animal welfare, statistical reanalyses, [scientometrics][Sciento]; I aim to write essays and software still worth using [decades from now][LongContentIsLong].
 
 
-My current projects are
+My current projects are:
 
 * Making up ways to measure political controversy.
 * A study of poverty's inefficiencies.
-* A critique of juries and maybe also all human law.
+* A critique of juries (and maybe also all human law).
 * [The most morally anachronistic people in history][PridePrescience].
 
-and, less
+and, less readably:
 
-* Reading the King James Bible in full, one chapter a day.
+* Reading the King James Bible in full, one chapter a day. (3 years' labour.)
 * Further stats education.
 * Joining a choir.
 * Kaggle for verifiable modelling skills.
