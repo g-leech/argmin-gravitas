@@ -20,6 +20,7 @@ warnings: 	terrorism, inexorable ideologies
 <!--	Tooltips	-->
 {%	assign murderTip = "<br><i>Estimate quality</i>: OK. (<a href='/#spiegel-quality/'>Spiegelhalter (2*)</a>). (Since no data, no names given.)<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low.<br>&nbsp;"	%}
 
+{%	assign socNote = "Though detailed precursors exist, e.g. <a href="http://effective-altruism.com/ea/11i/the_effective_altruism_newsletter_open_thread/8m6">Social Choice theory</a>."	%}
 
 
 <!-- 	WORDS	-->
@@ -110,11 +111,9 @@ One month's work should allow for:
 
 ### Uncertainties
 
-I'm not sure .
+I'm not sure whether this research is best aimed at quantitative estimates of present controversies, a predictive model for identifying future ones, or as groundwork for some future scientific model. 
 
-I’m not sure how to square the value of countercyclical moral leadership with the Impact-Tractability-Neglectedness (ITN) model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval.<sup>[+]</sup> I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy.
-
-<!-- [+] Though some detailed precursors exist, e.g. [Social Choice theory][SocialChoice]-->
+I’m not sure how to square the value of countercyclical moral leadership with the 'Impact-Neglectedness-Tractability' (INT) model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval.<sup>[+]</sup> I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy. <a href="">[+]</a> 
 
 I am not sure how much weight to put on historical case studies, relative to a classifier based on chatter. I’m not sure of the predictive power of my proxies, especially sentiment intensity.
 
@@ -157,7 +156,7 @@ These are the senses I would investigate in relation to obstruction.
 * Kittur et al (2009), "[What’s in Wikipedia?: Mapping Topics and Conflict Using Socially Annotated Category Structure][Kittur]"
 * Rad and Barbosa (2009), "[Identifying controversial articles in Wikipedia: a comparative study][Rad]"
 * Steenbergen et al (2003), "[A Discourse Quality Index][Steen]".
-* Wiblin, Robert (2016), "[The Important/Neglected/Tractable framework needs to be applied with care][Wib]" (on misapplying ITN, its ambiguity).
+* Wiblin, Robert (2016), "[The Important/Neglected/Tractable framework needs to be applied with care][Wib]" (on misapplying INT, its ambiguity).
 
 
 <a name="appendix"><a/>
@@ -190,7 +189,6 @@ These are the senses I would investigate in relation to obstruction.
 [Ruined]:		https://en.wikipedia.org/wiki/Destruction_of_cultural_heritage_by_ISIL 				
 [Unabomb]:		https://en.wikipedia.org/wiki/Ted_Kaczynski#Casualties 
 [Obs]:			https://en.wikipedia.org/wiki/Obstructionism
-[SocialChoice]:	http://effective-altruism.com/ea/11i/the_effective_altruism_newsletter_open_thread/8m6
 
 [80k]:			https://80000hours.org/2014/01/which-cause-is-most-effective-300/#TheList
 

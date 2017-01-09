@@ -21,18 +21,18 @@ visible:  false
         {% if currentMonth != myMonth %}
            <tr>
             <h1>{{ currentMonth }}</h1>
-           </tr>tr>
+           </tr>
            {% assign myMonth = currentMonth %}
         {% endif %}
         
-        <td style="width:50%;">
+        <tr style="width:50%;">
           <h1> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a></h1>
-        </td>
+        </tr>
         <td> {{ post.summary }}</td>
         <td><ul>
-          {% if post.simple %} <li>[Simple]({{post.url}}/simple)</li> {% endif %}
-          {% if post.stylised %} <li>[Stylised]({{post.url}}/stylised)</li> {% endif %}
-          {% if post.technical %} <li>[Technical]({{post.url}}/technical)</li> {% endif %}
+          {% if post.simple %} <li><a href="{{post.url}}">Simple</a></li> {% endif %}
+          {% if post.stylised %} <li><a href="{{post.url}}">Stylised</a></li> {% endif %}
+          {% if post.technical %} <li><a href="{{post.url}}">Technical</a></li> {% endif %}
         </ul></td>
         {% if forloop.last %}</table>{% endif %}
       
