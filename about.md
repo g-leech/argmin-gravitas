@@ -15,6 +15,7 @@ My current projects are:
 * A study of poverty's inefficiencies.
 * A critique of juries (and maybe also all human law).
 * [The most morally anachronistic people in history][PridePrescience].
+* A guide to _Adventure Time_ for international-relations realists.
 
 and, less readably:
 
