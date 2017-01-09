@@ -5,7 +5,7 @@ permalink: 	/metrics/
 visible:	true
 ---
 
-When reporting the quality of things, I use the following scales of measurement:
+I use the following scales for quality of stuff:
 
 
 * [Estimate quality](#spiegel-quality)

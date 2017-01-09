@@ -19,7 +19,7 @@ warnings: 	terrorism, inexorable ideologies
 
 
 <!-- 	WORDS	-->
-Around 90 health workers were murdered while delivering polio vaccines to children in 2014<a href="#fn:1" id="fnref:1">1</a>. Violent campaigns have also been waged recently against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
+Around 90 health workers were murdered while delivering polio vaccines to children in 2014 <a href="#fn:1" id="fnref:1">1</a>. Violent campaigns have also been waged recently against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
 My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated [social or political resistance to interventions][Obs]' - is a negative term in any equation for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
 
@@ -100,7 +100,7 @@ One month's work should allow for:
 
 I'm not sure whether this research is best aimed at quantitative estimates of present controversies, a predictive model for identifying future ones, or as groundwork for some future scientific model. 
 
-I’m not sure how to square the value of countercyclical moral leadership with the 'Impact-Neglectedness-Tractability' (INT) model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval.<a href="#fn:2" id="fnref:2">2</a>  I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy. 
+I’m not sure how to square the value of countercyclical moral leadership with the 'Impact-Neglectedness-Tractability' (INT) model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval. <a href="#fn:2" id="fnref:2">2</a>  I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy. 
 
 I am not sure how much weight to put on historical case studies, relative to a classifier based on chatter. I’m not sure of the predictive power of my proxies, especially sentiment intensity.
 
@@ -156,16 +156,20 @@ These are the senses I would investigate in relation to obstruction.
 
 <!--	Tooltips	-->
 <div class="footnotes"><ol>
+    <!-- 1 -->
     <li class="footnote" id="fn:1">
         <br><i>Estimate quality</i>: OK, a <a href='/#spiegel-quality/'>Spiegelhalter (2*)</a>. (Since no data, no names given.)
         <br><i>Source</i>: 
         <a href="http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu ">Newsweek</a>.
         <br><i>Importance to argument</i>: Low.<br>
-    </li>
+    </li><br>
+
+	<!-- 2 -->
     <li class="footnote" id="fn:2">
-        Though detailed precursors exist, e.g. <a href='http://effective-altruism.com/ea/11i/the_effective_altruism_newsletter_open_thread/8m6'>Social Choice theory</a>.
-    </li>
+        Though detailed precursors exist in the abstract, e.g. <a href='http://effective-altruism.com/ea/11i/the_effective_altruism_newsletter_open_thread/8m6'>Social Choice theory</a>.
+    </li><br>
     
+    <!-- 3 -->
     <li class="footnote" id="fn:3">
 	    Or speculatively:
 		<div align="center">
@@ -175,15 +179,18 @@ These are the senses I would investigate in relation to obstruction.
 		$$
 
 		</div>
-    </li>
+    </li><br>
+
+    <!-- 4 -->
     <li class="footnote" id="fn:4">
-	   	One example of the extra analysis needed: <b>Sources of political controversy</b>:
+	   	One example of the extra analysis needed: <span style="font-weight: bold">Sources of political controversy</span>:<br>
 
-		<ul><li> <i>Asymmetric information</i>. Spurious controversies, based in error - as plausibly occurred when Boko Haram killed polio health workers on suspicion of being American spies. We might think that the sustainable strategy is simple: do not compromise, but spread the truth.</li>
+		<ul>
+			<li> <i>Asymmetric information</i>. Spurious controversies, based in error - as plausibly occurred when Boko Haram killed polio health workers on suspicion of being American spies. We might think that the sustainable strategy is simple: do not compromise, but spread the truth.</li><br>
 
-		<li> <i>Bias (thick empirical judgments)</i>. People will endorse different empirical claims according to their ideology. A major obstacle to working in controversial cause areas is, then, what Dan Kahan calls the "politically motivated reasoning paradigm", an apparently increasing tendency for people to interpret evidence in favour of their political side (especially highly educated people, he claims).</li>
+			<li> <i>Bias (thick empirical judgments)</i>. People will endorse different empirical claims according to their ideology. A major obstacle to working in controversial cause areas is, then, what Dan Kahan calls the "politically motivated reasoning paradigm", an apparently increasing tendency for people to interpret evidence in favour of their political side (especially highly educated people, he claims).</li><br>
 
-		<li> <i>Irreconcilable value pluralism</i>. The least tractable of all: options are convert or overrule.</li>
+			<li> <i>Irreconcilable value pluralism</i>. The least tractable of all: options are convert or overrule.</li>
 		</ul>
 	</li>
 </ol></div>
