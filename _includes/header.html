@@ -22,10 +22,6 @@
       <div class="trigger">
         {% for page in site.pages %}
           {% if page.visible == true %}
-            <!--{% if page.title != "Archive" %}
-            {% if page.title != "grit / technicalities" %}
-            {% if page.url != "/feed.xml" %}
-            {% if page.url != "/css/main.css" %}-->
               <a class="headText" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> &nbsp;&nbsp;|&nbsp;&nbsp;
             {%  endif  %}<!-- {%  endif  %}{%  endif  %}{%  endif  %} -->
         {% endfor %}
@@ -35,3 +31,9 @@
   </div>
 
 </header>
+
+
+<!--{% if page.title != "Archive" %}
+            {% if page.title != "grit / technicalities" %}
+            {% if page.url != "/feed.xml" %}
+            {% if page.url != "/css/main.css" %}-->
