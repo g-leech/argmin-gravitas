@@ -35,17 +35,18 @@ layout: default
 
 <script>
   $(document).ready(function(){
-      $('[data-toggle="tooltip"]').tooltip( { animations: true, html:true , trigger:"click hover", placement:"below" } );
+      $('[data-toggle="tooltip"]').tooltip( { animation: true, html:true , trigger:"click hover", placement:"below" } );
+  });
+
+  $(document).ready(function(){
+      $('[data-toggle="internote"]').tooltip( { animation: true, html:true , trigger:"click hover", placement:"below" } );
   });
 </script>
 
 
-<!--<style>
+<style>
 .internote {
-    background-color: #73AD21;
-    color: #FFFFFF;
     border: 1px solid green;
-    font-size: 10px;
+    padding: 35px;
 }
-</style>-->
-
+</style>

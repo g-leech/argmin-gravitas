@@ -20,7 +20,7 @@ visible:  false
         {% assign currentMonth = post.date | date: "%b" %}
         {% if currentMonth != myMonth %}
            <tr>
-            <h1>{{ currentMonth }}</h1>
+            <b>{{ currentMonth }}</b>
            </tr>
            {% assign myMonth = currentMonth %}
         {% endif %}

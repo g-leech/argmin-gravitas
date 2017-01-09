@@ -14,13 +14,14 @@ My current projects are
 * Making up ways to measure political controversy.
 * A study of poverty's inefficiencies.
 * A critique of juries and maybe also all human law.
+* [The most morally anachronistic people in history][PridePrescience].
 
+and, less
 
-and 
-
-* Stats education.
-* Public singing.
-* Kaggle
+* Reading the King James Bible in full, one chapter a day.
+* Further stats education.
+* Joining a choir.
+* Kaggle for verifiable modelling skills.
 
 
 I am inspired by people like [Uri Simonsohn][Colada], '[Gwern Branwen](https://gwern.net)', [Jeff Kauffman](https://www.jefftk.com/index), [Andrew Gelman](http://andrewgelman.com/), '[Scott Alexander](http://slatestarcodex.com/)', [Noah Smith](noahpinionblog.blogspot.co.uk/), '[Kelsey Caring](http://theunitofcaring.tumblr.com/)', '[Artir Nintil](https://nintil.com/)', and [Chris Dillow](http://stumblingandmumbling.typepad.com/).
@@ -59,3 +60,4 @@ I hope to beat the trend [spotted by Robin Hanson][Doom] about independent schol
 [GWWC]:					https://www.givingwhatwecan.org/
 [MyGiving]:				https://www.givingwhatwecan.org/igivedisplay?publicid=7778&publicauth=747719919
 [Doom]:					http://www.overcomingbias.com/2016/12/chip-away-at-hard-problems.html
+[PridePrescience]:		https://docs.google.com/spreadsheets/d/1c2NrUwnWR-emBf6QGwVeTjkma67Ibeb9eGp4eYvnWmE/edit?usp=sharing
