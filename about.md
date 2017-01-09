@@ -11,7 +11,9 @@ I am inspired by writers and citizen scientists like [Uri Simonsohn][Colada], '[
 
 I'm a member of [Giving What We Can][GWWC], a group of people who have pledged substantial amounts of their lifetime income to the most effective charitable causes around. I'm giving [15% this year][MyGiving], aiming at 50% overall (or equivalent labour). My reasoning on which causes are most important is here; my present basket of charities is here. 
 
-I hope to beat the trend [predicted by Robin Hanson][Doom] about freelance scholars:
+---
+
+I hope to beat the trend [predicted by Robin Hanson][Doom] about independent scholars:
 
 > over time amateurs blow their lead by focusing less and relying on easier, more direct methods. They rely more on informal conversation as analysis method, they prefer personal connections over open competitions in choosing people, and they rely more on a perceived consensus among a smaller group of fellow enthusiasts. As a result, their contributions just don’t appeal as widely or as long.
 

@@ -11,18 +11,19 @@ simple:		true
 technical:	true
 
 summary:	A tiny research proposal for the Centre for Effective Altruism - can we quantify controversy / obstructionism?
-confidence: 60% on core equations. 80% that it is worth doing.
+confidence: 70% on equations' truth (because vague). 80% that it's worth doing.
 warnings: 	terrorism, inexorable ideologies
 ---
 <!--categories: cause prioritisation, effective altruism, quantification fever
 
 
 <!--	Tooltips	-->
-{%	assign murderTip = "<br><i>Estimate quality</i>: OK. (<a href=/#spiegel-quality/>Spiegelhalter (2*)</a>). (Since no data, no names given.)<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low.<br>"	%}
+{%	assign murderTip = "<br><i>Estimate quality</i>: OK. (<a href='/#spiegel-quality/'>Spiegelhalter (2*)</a>). (Since no data, no names given.)<br><i>Source</i>: Newsweek.<br><i>Importance to argument</i>: Low.<br>&nbsp;"	%}
+
 
 
 <!-- 	WORDS	-->
-<a href="javascript:void(0);" data-toggle="tooltip" title="{{murderTip}}">Around 90</a> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have recently also been waged against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
+[Around][Poliohno] <span data-toggle="tooltip" title="{{murderTip}}">90 *</span> [health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Violent campaigns have also been waged recently against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
 My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated [social or political resistance to interventions][Obs]' - is a negative term in any equation for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
 
@@ -109,6 +110,8 @@ One month's work should allow for:
 
 ### Uncertainties
 
+I'm not sure .
+
 I’m not sure how to square the value of countercyclical moral leadership with the Impact-Tractability-Neglectedness (ITN) model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval.<sup>[+]</sup> I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy.
 
 <!-- [+] Though some detailed precursors exist, e.g. [Social Choice theory][SocialChoice]-->
@@ -176,7 +179,7 @@ These are the senses I would investigate in relation to obstruction.
 
 * _Irreconcilable value pluralism_. The least tractable of all: options are convert or overrule.
 
-
+<br><br>
 
 
 <!---->

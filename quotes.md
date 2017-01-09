@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Quotes
-permalink: /quotes/
+layout: 	page
+title: 		Quotes
+permalink: 	/quotes/
+visible:	true
 ---
 
 > Se méfier des penseurs dont l'esprit ne fonctionne qu'à partir d'une citation.

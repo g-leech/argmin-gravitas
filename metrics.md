@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Metrics
-permalink: /metrics/
+layout: 	page
+title: 		Metrics
+permalink: 	/metrics/
+visible:	true
 ---
 
 When reporting the quality of things, I use the following scales of measurement:
@@ -13,6 +14,7 @@ When reporting the quality of things, I use the following scales of measurement:
 * [Art universality](#christgau-art)
 * [Types of impacts from books](#galef-books)
 * [Book worthiness](#leech-books)
+
 
 <br>
 <a name="spiegel-quality"></a>

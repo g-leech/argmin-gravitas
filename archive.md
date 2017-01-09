@@ -1,7 +1,9 @@
 ---
-layout: default
-title: Archive
+layout:   default
+title:    Archive
 permalink: /archive/
+
+visible:  false
 ---
 
 <div class="home">
@@ -13,6 +15,14 @@ permalink: /archive/
            <h1>{{ currentDate }}</h1>
             <table class="post-list">
            {% assign myDate = currentDate %}
+        {% endif %}
+
+        {% assign currentMonth = post.date | date: "%b" %}
+        {% if currentMonth != myMonth %}
+           <tr>
+            <h1>{{ currentMonth }}</h1>
+           </tr>tr>
+           {% assign myMonth = currentMonth %}
         {% endif %}
         
         <td style="width:50%;">
