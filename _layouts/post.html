@@ -14,9 +14,9 @@ layout: default
 
         {{ page.date | date: "%b %-d, %Y" }}{{s}} <a href="https://technicalities.netlify.com/about/">Gavin</a>{{s}} 
         Available in: 
-        {% if page.simple %} <a href="{{page.baselink}}-simple">Simple</a> | {% endif %} 
-        {% if page.stylised %} <a href="{{page.baselink}}-stylised">Stylised</a> | {% endif %} 
-        {% if page.technical %} <a href="{{page.baselink}}-technical">Technical</a> {% endif %} English
+        {% if page.simple %} <a href="{{page.baselink}}-simple">Simple</a> {% endif %} 
+        {% if page.stylised %} <a href="{{page.baselink}}">| Stylised</a> {% endif %} 
+        {% if page.technical %} <a href="{{page.baselink}}-technical">| Technical</a> {% endif %} English
       	<br>
         {% if page.summary %} <br>{{t}}<i>{{	page.summary	}}</i>{% endif %} 
       	{% if page.confidence %} <br>{{t}}<i>Confidence</i>: {{	page.confidence	}}{% endif %} 

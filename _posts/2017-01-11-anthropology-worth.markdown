@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "The presumed worth of cultural anthropology"
+title:      "The presumed worth of anthropology"
 baselink:   /anthropology
 permalink:  /anthropology/
 date:       2017-01-11  <!--site.time-->
@@ -9,17 +9,20 @@ author:     Gavin
 visible:    1
 stylised:   true
 
-summary:    Another research proposal - What is good about cultural anthropology? Plus reading list.
-confidence: 80% on there being a problem with the field. 60% that this is worth doing.
+summary:    Another research proposal - _What is good about cultural anthropology?_ Plus reading list.
+confidence: 80% that there's a problem with the field. 60% that this is worth doing.
 categories: philosophy of science, anthropology, scepticism
 ---
 
-<img src="/img/olduvai.jpg" />
-<small>Olduvai Gorge (2009), by <a href="http://www.flickr.com/photos/37563893@N00/4108809278/">Noel Feans</a></small>
+<img src="/img/Olduvai.jpg" />
+<div align="center"><small>Olduvai Gorge (2009), by <a href="http://www.flickr.com/photos/37563893@N00/4108809278/">Noel Feans</a></small></div>
+<br>
 
-Social science is _hard_. Social phenomena involve [thousands][Causa] [of subtle effects][Manzi], of several [different][Proph] [ontological sorts][Reason], all acting on relevant populations up to about [a billion units][Nation] in size - and even if you were ever able to cement any results about it, and publicise them, a portion of your subjects would immediately [change in response][Reflex] - to spite you.
+Social science is _hard_. Most social phenomena involve [thousands][Causa] [of subtle effects][Manzi], of several [different][Proph] [ontological sorts][Reason], all acting on relevant populations up to about [a billion units][Nation] in size - and even if you were ever able to cement any results about it, and publicise them, a portion of your subjects would immediately [change in response][Reflex] - to spite you.
 
-Some anthropologists I've talked to have declaimed the title of 'science' entirely - as, indeed, did the [American Anthropological Association in 2010][Wade]:
+But it's an important and noble goal to try anyway to understand human things using our greatest toolkit.
+
+However, some anthropologists I've talked to have declaimed the title of 'science' entirely - as, indeed, did the [American Anthropological Association in 2010][Wade]:
 
 > Until now, the association’s long-range plan was “to advance anthropology as the science that studies humankind in all its aspects.” The executive board revised this last month to say, “The purposes of the association shall be to advance public understanding of humankind in all its aspects.” This is followed by a list of anthropological subdisciplines that includes political research.
 
@@ -27,11 +30,11 @@ Some anthropologists I've talked to have declaimed the title of 'science' entire
 
 <a href="#fn:1" id="fnref:1">1</a>
 
-This is counterproductive for a few reasons. 
+To put it lightly, this is counterproductive for a few reasons: 
 
 1. First of all, it is a straightforwardly false claim about their peers - physical anthropologists and linguistic anthropologists have uncovered some of the most fascinating and enduring scientific discoveries ever. So this hegemonic statement is really a claim about _cultural_ anthropology, a subfield we can usually paraphrase as literary anthropology. 
 
-<a href="#fn:4" id="fnref:4">4</a>). 
+<a href="#fn:2" id="fnref:2">2</a>. 
 
 
 2. It treats science as something alien to ordinary life, something distinctively Western. However, the only thing uniting the sciences is _taking evidence as seriously as possible_: pragmatically, 'science' is the practice of making systematic observations, relating these to possible explanations, and offering data and argument to peers for criticism and replication or disconfirmation. Ethnographers are absolutely scientists in this broad sense, even though some of their judgments (for instance about the semantic and symbolic aspects of a culture) have not been amenable to computational or statistical analysis. And it is absurd to suggest that non-Westerners have not played large and fast-increasing parts in this endeavour.
@@ -40,42 +43,52 @@ This is counterproductive for a few reasons.
 
 <a href="#fn:3" id="fnref:3">3</a>
 
-As a result, taking pride in not 'doing science' is chilling to me. Yes: they're trying to be humane. Yes, they're trying to resist [eliminative reductionism][ElMat], [mathiness][Mathy], and racism (the "arrogant perceptions of the weaker peoples as instrumental means of the global projects of the stronger" 
+As a result, taking pride in not 'doing science' is chilling to me. Yes: they're trying to be humane. Yes, they're trying to resist [eliminative reductionism][ElMat], [mathiness][Mathy], and racism (the "arrogant perceptions of the weaker peoples as instrumental means of the global projects of the stronger"). <a href="#fn:4" id="fnref:4">4</a>. 
 
-<a href="#fn:2" id="fnref:2">2</a>). 
+<a href="#fn:5" id="fnref:5">5</a>. 
 
+---
+
+<br><br>
+
+Anti-scientific attitudes are discreditable on their own. But it's paired with active disdain of cultural anthropologists who do attempt science: e.g. Jared Diamond, Napoleon Chagnon, Pascal Boyer. Scientific cultural anthropology is a serious, interdisciplinary research programme shared with genetics and psychology. (It can be googled with the term "[cultural evolution][CultEv] [theory][DualInt]" or "coevolution".)
+
+<br><br>
 
 
 ---
 
-An anti-scientific attitude would be discreditable on its own. But it's paired with active disdain of cultural anthropologists who do attempt science: e.g. Jared Diamond, Napoleon Chagnon, Pascal Boyer. Scientific cultural anthropology is a serious, interdisciplinary research programme shared with genetics and psychology. (It can be googled with the term "cultural evolutionary theory".)
-
----
+<br><br>
 
 I continue to struggle to distinguish sociology and anthropology. Both are about humans in groups; both do ethnography; both are comfortable with symbolic [_Verstehen_][Weber] work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.
 
+<br><br>
+
+
 ---
 
-I'm not saying that c-anthropology's _average_ confusion makes all of them not worth reading. For instance: I only recently realised the distinctive value of the philosopher Rousseau, an anthropologist in spirit: few Europeans really considered that there could be value in foreign cultures in his time. <a href="#fn:5" id="fnref:5">5</a>). 
+<br><br>
 
-This sounds incredible in our hybridised culture, for we are obsessed with [fleeing oneself][Travel] and a ridiculously rose-tinted idea of what pastoral life was and is actually like. But you can see it in most intelligent commentators from the C17th, for instance Samuel Johnson. <a href="#fn:6" id="fnref:6">6</a>
+I'm not saying that c-anthropology's _average_ confusion makes all of them not worth reading. For instance: I only recently realised the distinctive value of the philosopher Rousseau, an anthropologist in spirit: few Europeans really considered that there could be value in foreign cultures in his time. <a href="#fn:5" id="fnref:6">6</a>). 
 
-
-
+This sounds incredible in our hybridised culture, for we are obsessed with [fleeing oneself][Travel] and have a ridiculously rose-tinted idea of what pastoral life was and is actually like. But you can see disdainful total superiority in even the most intelligent commentators from the C17th, for instance Samuel Johnson. <a href="#fn:7" id="fnref:7">7</a>
 
 If anthropology is _a_ cause of the huge shift in attitudes from then until now, then they will have done us a great service. (For all that it is anthropologists who now lead the quest for segregation and cultural purity, in the form of attacking often-harmless cultural exchange as cultural appropriation.)
 
+<br><br>
+
 ---
 
-So, in spite of them, I'm going to find the best of the field. Some questions I would like answers for:
+So, in spite of them, I'm going to find the best of the field, to "[steel-man][Steel]" them. Some questions I would like answers for:
 
-* How does cultural or social anthropology differ from sociology?
-* What has cultural anthropology achieved?
-* What is cultural anthropology's method?
-* Is cultural anthropology unusually ideologically polluted?
-* How much of the modern love of foreign experience and culture can be attributed to the influence of ethnographers?
-* What is the anthropological method? I'll settle for a [family resemblance][Fam].
-* Does [cultural evolution][CultEv] [theory][DualInt] subsume or supercede cultural anthropology?
+* _What has cultural anthropology achieved?_
+* _How much of the modern love of foreign experience and culture can be attributed to the influence of ethnographers?_
+* _Is cultural anthropology unusually ideologically polluted?_
+* _How does cultural or social anthropology differ from sociology?_
+* _What is cultural anthropology's method?_
+* _Does [cultural evolution][CultEv] [theory][DualInt] subsume or supercede cultural anthropology?_
+
+First: _What is the anthropological method?_
 
 I don't really know and neither of the textbooks I tried were very illuminating. Here's a preliminary attempt, after contact with some theoretical cultural anthropologists:
 
@@ -85,11 +98,16 @@ I don't really know and neither of the textbooks I tried were very illuminating.
 
 * _Universalisation of culture_. Everything (every datum, every theory, every experience) is said to be culturally mediated if not reduced to mere cultural. Leads to e.g. scientific facts (not theories) being dismissed by reference to the experimenter's being part of a racist (etc) culture.
 
-* _Advocacy_. You can't just describe a dying way of life, you have to make political moves to save it.
+* _Advocacy_. That you can't just _describe_ a dying way of life, you have to make moves to save it. Your research is a political act.
+
+
+<br><br>
 
 ---
 
-I couldn't find a reading list for "the cultural anthropology canon". This is almost certainly because the field is against things like canons, as hierarchical and Westernising or whatnot. So [I made my own][ReadingList], of the most notable books in the nonscientific strand:
+<br><br>
+
+I couldn't find a reading list for "the cultural anthropology canon". This is _maybe_ because the field is against things like canons, as hierarchical and Westernising or whatnot. So [I made my own][ReadingList], of the most notable books in the nonscientific strand:
 
 
 
@@ -97,18 +115,25 @@ I couldn't find a reading list for "the cultural anthropology canon". This is al
 <iframe src="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
+<!--  -->
+
+{%   assign JHJ = "http://monkeysuncle.stanford.edu/?p=697"   %}
+{%   assign French = "http://ndpr.nd.edu/news/23732-french-theory-how-foucault-derrida-deleuze-co-transformed-the-intellectual-life-of-the-united-states/"   %}
+{%   assign JHJ = "http://monkeysuncle.stanford.edu/?p=697"   %}
+{%   assign JHJ = "http://monkeysuncle.stanford.edu/?p=697"   %}
+{%   assign JHJ = "http://monkeysuncle.stanford.edu/?p=697"   %}
+
+
 
 <!--    Fn  -->
 <div class="footnotes"><ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
-        Or as it was called at the time, "[#AAAFail][https://www.google.co.uk/?gfe_rd=cr&ei=2J12WIaHL-Wv8wf247nQAw#q=%23AAAFail]".
-        <br><br>
-        An anthropologist has pointed out to me that American anthropology remains highly scientific; most of the other geographical blocs diverged firmly into [theory][French] in the late 60s. This makes the AAA's 2010 statement a coup as well as a calumny - given the [many][Hawks] important (and numerate) physical and linguistic anthropologists who work in their jurisdiction.
-    </li>
+        An anthropologist friend has pointed out to me that American anthropology remains fairly scientific; most of the other geographical blocs diverged firmly into <a href="{{French}}">theory</a> in the late 60s. This makes the AAA's 2010 statement a coup as well as a calumny - given all the physical and linguistic anthropologists who work in their jurisdiction.
+    </li><br>
     <li class="footnote" id="fn:2">
-        [Marshall Sahlins][Sahlins], a noble line in the course of studiedly failing to condemn a book known to be a scurrilous conspiracy theory.
-    </li>
+        Sigh, [but not always][Dcosta].
+    </li><br>
     <li class="footnote" id="fn:3">
         Unless you conceive of the idea of objective truth as "cognitive imperialism", like [Marie Battiste][Batshitste]: 
         <blockquote><i>Cognitive imperialism is a form of cognitive manipulation used to disclaim other knowledge bases and values. Validated through one’s knowledge base and empowered through public education, it has been the means by which whole groups of people have been denied existence and have had their wealth confiscated. Cognitive imperialism denies people their language and cultural integrity by maintaining the legitimacy of only one language, one culture, and one frame of reference...</i></blockquote>
@@ -118,11 +143,15 @@ I couldn't find a reading list for "the cultural anthropology canon". This is al
         <blockquote><i>The [Bush] aide said that guys like me were "in what we call the reality-based community," which he defined as people who "believe that solutions emerge from your judicious study of discernible reality." I nodded and murmured something about enlightenment principles and empiricism. He cut me off. "That's not the way the world really works anymore," he continued. "We're an empire now, and when we act, we create our own reality. And while you're studying that reality -- judiciously, as you will -- we'll act again, creating other new realities, which you can study too, and that's how things will sort out. We're history's actors ... and you, all of you, will be left to just study what we do."</i></blockquote>
     </li><br>
     <li class="footnote" id="fn:4">
-        Sigh, [but not always][Dcosta].
-    </li>
+        A noble quote from [Marshall Sahlins][Sahlins], in the course of a book review where he _studiedly_ fails to condemn a book known to be a scurrilous conspiracy theory.
+    </li><br>
+    <li class="footnote" id="fn:4">
+        Since first getting shocked by the happily non-scientific methods of anthropologists I know, I've softened slightly. As [James Holland Jones][JHJ] notes, the wilful ignorance of some anthropologists is more of a tragedy than a scandal:
+        <blockquote>The reasons for the marginalization of scientific approaches to anthropology are complex and do not fit neatly into the simplistic narrative of “objective, scientific anthropology … under assault from interpretivists like Clifford Geertz who do not believe in truth.” No doubt, part of the problem is simply the compartmentalization of knowledge. As scholars become increasingly specialized, it becomes more and more difficult to be both scientist and humanist. Increasingly, hiring decisions are zero-sum games. The gain of a scientist represents the loss of a humanist and vice-versa. Gone is Eric Wolf’s conception of Anthropology as “both the most scientific of the humanities and the most humanist of the sciences”…</blockquote>
+    </li><br>
     <li class="footnote" id="fn:5">
         Sigh, but yes he was [in practice very xenophobic][Influx].
-    </li>
+    </li><br>
     <li class="footnote" id="fn:6">
         Who was, admittedly, not known as a beacon of tolerance even towards peoples as nearby as his fellow British:
         
@@ -130,6 +159,7 @@ I couldn't find a reading list for "the cultural anthropology canon". This is al
 
         <br>- Arthur Murphy
     </li>
+
 </ol></div>
 
 
@@ -154,7 +184,6 @@ I couldn't find a reading list for "the cultural anthropology canon". This is al
 [CultEv]:           https://en.wikipedia.org/wiki/Cultural_evolution
 [DualInt]:          https://en.wikipedia.org/wiki/Dual_inheritance_theory
 [ReadingList]:      https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/edit?usp=sharing
-[French]:           http://ndpr.nd.edu/news/23732-french-theory-how-foucault-derrida-deleuze-co-transformed-the-intellectual-life-of-the-united-states/
 [Hawks]:            https://en.wikipedia.org/wiki/John_D._Hawks
 [Batshitste]:       http://www.academia.edu/3375020/Indigenous_Knowledge_Foundations_for_First_Nations
 [Desapar]:          https://en.wikipedia.org/wiki/Forced_disappearance
