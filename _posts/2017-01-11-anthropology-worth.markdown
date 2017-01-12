@@ -22,7 +22,7 @@ categories: philosophy of science, anthropology, scepticism
 
 Social science is _hard_. Most social phenomena involve [thousands][Causa] [of subtle effects][Manzi], of several [different][Proph] [ontological sorts][Reason], all acting on relevant populations up to about [a billion units][Nation] in size - and even if you were ever able to cement any results about it, and publicise them, a portion of your subjects would immediately [change in response][Reflex] - to spite you.
 
-But it's important and noble to try, anyway, to understand human things using our greatest toolkit.
+But it's important and noble to try, anyway, to understand human things using our best toolkit.
 
 However, some anthropologists I've talked to declaim the title of 'science' entirely - as, indeed, did the [American Anthropological Association in 2010][Wade]:
 
@@ -167,7 +167,8 @@ I couldn't find a reading list for "the cultural anthropology canon". This is _m
         Sigh, but yes he was <a href="{{Influx}}">in practice very xenophobic</a>.
     </li><br>
     <li class="footnote" id="fn:7">
-        Who was, admittedly, not known as a beacon of tolerance even towards peoples as nearby as fellow Brits:<br>
+        Who was, admittedly, not known as a beacon of tolerance even towards peoples as nearby as fellow Brits:
+        <br>
         <blockquote>The author of these memoirs will remember, that Johnson one day asked him, 'Have you observed the difference between your own country impudence and Scottish impudence?' The answer being in the negative: 'Then I will tell you,' said Johnson. 'The impudence of an Irishman is the impudence of a fly, that buzzes about you, and you put it away, but it returns again, and flutters and teazes you. The impudence of a Scotsman is the impudence of a leech, that fixes and sucks your blood.' 
         </li>blockquote>
         <br>- Arthur Murphy<br>&nbsp;
@@ -178,7 +179,6 @@ I couldn't find a reading list for "the cultural anthropology canon". This is _m
 </ol></div>
 
 
-<!--  -->
 
 [Steel]:            http://rationalwiki.org/wiki/Straw_man#Steel_manning
 [Causa]:            http://thingfinder.blogspot.co.uk/2013/06/causal-density.html
