@@ -24,6 +24,110 @@ Social science is _hard_. Most social phenomena involve [thousands][Causa] [of s
 
 But it's important and noble to try, anyway, to understand human things using our best toolkit.
 
+However, some anthropologists I've talked to declaim the title of 'science' entirely - as, indeed, did the [American Anthropological Association in 2010][Wade]:
+
+> Until now, the association’s long-range plan was “to advance anthropology as the science that studies humankind in all its aspects.” The executive board revised this last month to say, “The purposes of the association shall be to advance public understanding of humankind in all its aspects.” This is followed by a list of anthropological subdisciplines that includes political research. The word “science” has been excised from two other places in the revised statement...
+
+<a href="#fn:1" id="fnref:1">1</a>
+
+To put it lightly, this is counterproductive. 
+
+1. First of all, it is a straightforwardly false claim about their peers - physical anthropologists and linguistic anthropologists have uncovered some of the most fascinating and enduring scientific discoveries ever. So this hegemonic statement is really a claim about _cultural_ anthropology, a subfield we can usually paraphrase as literary anthropology. <a href="#fn:2" id="fnref:2">2</a>
+
+
+2. It treats science as something alien to ordinary life, something distinctively Western. However, the only thing uniting the sciences is _taking evidence as seriously as possible_: pragmatically, 'science' is the practice of making systematic observations, relating these to possible explanations, and offering data and argument to peers for criticism and replication or disconfirmation. Ethnographers are absolutely scientists in this broad sense, even though some of their judgments (for instance about the semantic and symbolic aspects of a culture) have not been amenable to computational or statistical analysis. And it is absurd to suggest that non-Westerners have not played large and fast-increasing parts in this endeavour.
+
+3. Neither eliminative reductionism, excessive formalism or political dodginess are actually implied by the scientific method. <a href="#fn:3" id="fnref:3">3</a>
+
+As a result, taking pride in not 'doing science' is chilling to me. Yes: they're trying to be humane. Yes, they're trying to resist [eliminative reductionism][ElMat], [mathiness][Mathy], and racism (the "arrogant perceptions of the weaker peoples as instrumental means of the global projects of the stronger"). <a href="#fn:4" id="fnref:4">4</a>
+
+<br>
+
+---
+
+<br>
+
+Unscientific research, where science could be fruitfully applied, is just discreditable. Unfortunately, it is here paired with active disdain of cultural anthropologists who do attempt science: e.g. [Jared Diamond][Diamond], [Napoleon Chagnon][Chagnon], [Steven Pinker][Survive], Pascal Boyer. <a href="#fn:5" id="fnref:5">5</a> Scientific cultural anthropology is a serious, interdisciplinary research programme shared with genetics and psychology. (It can be googled via "[cultural evolution][CultEv] [theory][DualInt]" or "coevolution".) Given that I haven't read much of it, given that I value truth more than conjecture, why would I spend time on the non-scientific kind?
+
+<br>
+
+---
+
+<br>
+
+I've softened a bit since being first shocked by the happily non-scientific methods of some anthropologists. As [James Holland Jones][JHJ] notes, their wilful ignorance is more of a tragedy than a scandal:
+
+<blockquote>
+    The reasons for the marginalization of scientific approaches to anthropology are complex and do not fit neatly into the simplistic narrative of “objective, scientific anthropology ... under assault from interpretivists like Clifford Geertz who do not believe in truth.” No doubt, part of the problem is simply the compartmentalization of knowledge. <br><br>
+
+    As scholars become increasingly specialized, it becomes more and more difficult to be both scientist and humanist. Increasingly, hiring decisions are zero-sum games. The gain of a scientist represents the loss of a humanist and vice-versa. Gone is Eric Wolf’s conception of Anthropology as “both the most scientific of the humanities and the most humanist of the sciences”...
+</blockquote>
+
+<br>
+
+---
+
+<br>
+
+I continue to struggle to distinguish sociology and anthropology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic [_Verstehen_][Weber] work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.
+
+<br>
+
+---
+
+<br>
+
+I'm not saying that c-anthropology's _average_ confusion makes all of them not worth reading. For instance: I only recently realised the distinctive value of the philosopher Rousseau, an anthropologist in spirit: few Europeans really considered that there could be value in foreign cultures in his time. <a href="#fn:6" id="fnref:6">6</a> 
+
+This sounds incredible in our hybridised culture, for we are obsessed with [fleeing oneself][Travel] and have a ridiculously rose-tinted idea of what pastoral life was and is actually like. But you can see disdainful total superiority in even the most intelligent commentators from the C17th, for instance Samuel Johnson. <a href="#fn:7" id="fnref:7">7</a>
+
+If anthropology is _a_ cause of the huge shift in attitudes from then until now, then they will have done us a great service. (For all that it is anthropologists who now lead the quest for segregation and cultural purity, in the form of attacking often-harmless cultural exchange as cultural appropriation.)
+
+<br>
+
+---
+
+<br>
+
+So, in spite of them, I'm going to find the best of the field, to "[steel-man][Steel]" them. Out of charity, I won't cover the kind of writer who believes in the <i>[equipollence][Equi]</i> of ways of knowing. <br><br>
+        
+Some questions I would like answers for:
+
+* _What has cultural anthropology achieved?_
+* _How much of the modern love of foreign experience and culture can be attributed to the influence of ethnographers?_
+* _Is cultural anthropology unusually ideologically polluted?_
+* _How does cultural or social anthropology differ from sociology?_
+* _What is cultural anthropology's method?_
+* _Does [cultural evolution][CultEv] [theory][DualInt] subsume or supercede cultural anthropology?_
+
+<br>
+
+---
+
+<br>
+
+First: _What is the anthropological method?_
+
+I don't really know and neither of the textbooks I tried were very illuminating. Here's a preliminary attempt, after contact with some theoretical cultural anthropologists:
+
+* _Methodological relativism_. The ethnographer must put aside the literal truth of a culture's beliefs and try to look at them from the inside. (In the unsubtle common denominator, this slips into actual relativism: science as just the West's arrogant imperial way of knowing, with no superior claim.)
+
+* _Lionisation of culture_ as indispensable framework for human life (where they are, equally, oppressive brakes on human freedom).
+
+* _Universalisation of culture_. Everything (every datum, every theory, every experience) is said to be culturally mediated if not reduced to mere cultural. Leads to e.g. scientific facts (not theories) being dismissed by reference to the experimenter's being part of a racist (etc) culture.
+
+* _Advocacy_. That you can't just _describe_ a dying way of life, you have to make moves to save it. Your research is a political act.
+
+<br>
+
+---
+
+<br>
+
+I couldn't find a reading list for "the cultural anthropology canon". This is _maybe_ because the field is against things like canons, as hierarchical and Westernising or whatnot. So [I made my own][ReadingList], of the apparently most notable books in the nonscientific strand:
+
+<iframe src="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" height="400px" width="100%"></iframe>
+
 
 <!--  -->
 
@@ -38,7 +142,8 @@ But it's important and noble to try, anyway, to understand human things using ou
 
 
 <!--    Fn  -->
-<div class="footnotes"><ol>
+<div class="footnotes">
+<ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
         An anthropologist friend has pointed out to me that American anthropology remains fairly scientific; most of the other geographical blocs diverged firmly into <a href="{{French}}">theory</a> in the late 60s. This makes the AAA's 2010 statement a coup as well as a calumny - given all the physical and linguistic anthropologists who work in their jurisdiction.<br>&nbsp;
@@ -66,13 +171,14 @@ But it's important and noble to try, anyway, to understand human things using ou
         Who was, admittedly, not known as a beacon of tolerance even towards peoples as nearby as fellow Brits:
         <br>
         <blockquote>The author of these memoirs will remember, that Johnson one day asked him, 'Have you observed the difference between your own country impudence and Scottish impudence?' The answer being in the negative: 'Then I will tell you,' said Johnson. 'The impudence of an Irishman is the impudence of a fly, that buzzes about you, and you put it away, but it returns again, and flutters and teazes you. The impudence of a Scotsman is the impudence of a leech, that fixes and sucks your blood.' 
-        </li>blockquote>
+        </blockquote>
         <br>- Arthur Murphy<br>&nbsp;
     </li>
     <li class="footnote" id="fn:8">
         (Beyond trivial differences, like the typical skin colour and population density of their subjects.)
     </li>
-</ol></div>
+</ol>
+</div>
 
 
 
