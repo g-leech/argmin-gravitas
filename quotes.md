@@ -27,12 +27,6 @@ I probably won't get around to systematically stating a worldview. (Such things 
 	{% include quotes/epistemology.html %}
 
 	</div>
-
-	<h3>ethics</h3><div>
-
-	{% include quotes/morals.html %}
-
-	</div>
 	
 	<h3>politics</h3><div>
 
@@ -40,6 +34,12 @@ I probably won't get around to systematically stating a worldview. (Such things 
 
 	</div>
 	
+	<h3>ethics</h3><div>
+
+	{% include quotes/morals.html %}
+
+	</div>
+
 	<h3>programming</h3><div>
 
 	{% include quotes/code.html %}
