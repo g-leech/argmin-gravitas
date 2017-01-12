@@ -48,10 +48,9 @@ $$
 <br>
 <div class="accordion">
   <h3>Or, speculatively</h3>
-	something more involved like:
-
 	<div align="center">
-		
+		something more involved like:<br>
+
 		$$ 
 			\text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	
 		$$
