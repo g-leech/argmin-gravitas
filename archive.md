@@ -25,13 +25,15 @@ visible:  false
            {% assign myMonth = currentMonth %}
         {% endif %}
         
-        <tr style="width:50%;">
+        <tr style="width:70%;">
           <td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a></td>
-          <td> {{ post.summary }}</td>
+          <td> <small>{{ post.summary }}</small> </td>
           <td><ul>
+            <small>
             {% if post.simple %} <li><a href="{{post.url}}">Simple</a></li> {% endif %}
             {% if post.stylised %} <li><a href="{{post.url}}">Stylised</a></li> {% endif %}
             {% if post.technical %} <li><a href="{{post.url}}">Technical</a></li> {% endif %}
+            </small>
           </ul></td>
         </tr>
         

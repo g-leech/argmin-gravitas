@@ -10,6 +10,7 @@ visible:    1
 
 summary:    Another research proposal - <i>What is good about cultural anthropology?</i> Plus, reading list.
 confidence: 80% that there's a problem with the field. 60% that this is worth doing.
+content:    politicised epistemology, relativism
 categories: philosophy of science, anthropology, scepticism
 ---
 
@@ -36,9 +37,7 @@ To put it lightly, this is counterproductive.
 
 2. It treats science as something alien to ordinary life, something distinctively Western. However, the only thing uniting the sciences is _taking evidence as seriously as possible_: pragmatically, 'science' is the practice of making systematic observations, relating these to possible explanations, and offering data and argument to peers for criticism and replication or disconfirmation. Ethnographers are absolutely scientists in this broad sense, even though some of their judgments (for instance about the semantic and symbolic aspects of a culture) have not been amenable to computational or statistical analysis. And it is absurd to suggest that non-Westerners have not played large parts in the endeavour, fast increasing.
 
-3. Neither eliminative reductionism, excessive formalism or political dodginess are actually implied by the scientific method. <a href="#fn:3" id="fnref:3">3</a>
-
-As a result, taking pride in not 'doing science' is chilling to me. Yes: they're trying to be humane. Yes, they're trying to resist [eliminative reductionism][ElMat], [mathiness][Mathy], and racism (the "arrogant perceptions of the weaker peoples as instrumental means of the global projects of the stronger"). <a href="#fn:4" id="fnref:4">4</a>
+3. Neither eliminative reductionism, excessive formalism or political dodginess are actually implied by the scientific method. <a href="#fn:3" id="fnref:3">3</a>. As a result, taking pride in not 'doing science' is chilling to me. <a href="#fn:9" id="fnref:9">9</a> Yes: they're trying to be humane. Yes, they're trying to resist [eliminative reductionism][ElMat], [mathiness][Mathy], and racism (the "arrogant perceptions of the weaker peoples as instrumental means of the global projects of the stronger"). <a href="#fn:4" id="fnref:4">4</a>
 
 <br>
 
@@ -46,29 +45,12 @@ As a result, taking pride in not 'doing science' is chilling to me. Yes: they're
 
 <br>
 
-Unscientific research, where science could be fruitfully applied, is just discreditable. Unfortunately, it is here paired with active disdain of cultural anthropologists who do attempt science: e.g. [Jared Diamond][Diamond], [Napoleon Chagnon][Chagnon], [Steven Pinker][Survive], Pascal Boyer. <a href="#fn:5" id="fnref:5">5</a> Scientific cultural anthropology is a serious, interdisciplinary research programme shared with genetics and psychology. (It can be googled via "[cultural evolution][CultEv] [theory][DualInt]" or "coevolution".) Given that I haven't read much of it, given that I value truth more than conjecture, why would I spend time on the non-scientific kind?
+Unscientific research - in place of science, where scientific means could be applied fruitfully - is just discreditable. Unfortunately, it is paired with active disdain of those cultural anthropologists who do attempt science: e.g. [Jared Diamond][Diamond], [Napoleon Chagnon][Chagnon], [Steven Pinker][Survive], Pascal Boyer. <a href="#fn:5" id="fnref:5">5</a> Scientific cultural anthropology is a serious, interdisciplinary research programme shared with genetics and psychology. (It can be googled via "[cultural evolution][CultEv] [theory][DualInt]" or "coevolution".) Given that I haven't read much of it, given that I value general truth more than particular conjecture, why would I spend time on the non-scientific kind?
 
 <br>
-
----
-
-<br>
-
-I've softened a bit since being first shocked by the happily non-scientific methods of some anthropologists. As [James Holland Jones][JHJ] notes, their wilful ignorance is more of a tragedy than a scandal:
-
-<blockquote>
-    The reasons for the marginalization of scientific approaches to anthropology are complex and do not fit neatly into the simplistic narrative of “objective, scientific anthropology ... under assault from interpretivists like Clifford Geertz who do not believe in truth.” No doubt, part of the problem is simply the compartmentalization of knowledge. <br><br>
-
-    As scholars become increasingly specialized, it becomes more and more difficult to be both scientist and humanist. Increasingly, hiring decisions are zero-sum games. The gain of a scientist represents the loss of a humanist and vice-versa. Gone is Eric Wolf’s conception of Anthropology as “both the most scientific of the humanities and the most humanist of the sciences”...
-</blockquote>
-
-<br>
-
----
-
-<br>
-
-I continue to struggle to distinguish sociology and anthropology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic [_Verstehen_][Weber] work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.
+<div class="accordion"><h3>Mob science</h3>
+    <div>I continue to struggle to distinguish sociology and anthropology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic [_Verstehen_][Weber] work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.</div>
+</div>
 
 <br>
 
@@ -82,15 +64,15 @@ This sounds incredible in our hybridised culture, for we are obsessed with [flee
 
 If anthropology is _a_ cause of the huge shift in attitudes from then until now, then they will have done us a great service. (For all that it is anthropologists who now lead the quest for segregation and cultural purity, in the form of attacking often-harmless cultural exchange as cultural appropriation.)
 
-<br>
-
----
-
-<br>
-
 So, in spite of them, I'm going to find the best of the field, to "[steel-man][Steel]" them. Out of charity, I won't cover the kind of writer who believes in the <i>[equipollence][Equi]</i> of ways of knowing. <br><br>
         
-Some questions I would like answers for:
+
+<div class="accordion">
+    
+    <h3>Research programme</h3>
+    <div>
+
+I'm being combative, but I am actually interested, too. I'm looking for answers to:
 
 * _What has cultural anthropology achieved?_
 * _How much of the modern love of foreign experience and culture can be attributed to the influence of ethnographers?_
@@ -98,88 +80,45 @@ Some questions I would like answers for:
 * _How does cultural or social anthropology differ from sociology?_
 * _What is cultural anthropology's method?_
 * _Does [cultural evolution][CultEv] [theory][DualInt] subsume or supercede cultural anthropology?_
+* _How unscientific is cultural anthropology? How can we tell?_
 
-<br>
-
----
-
-<br>
-
-First: _What is the anthropological method?_
+</div>
+<h3>e.g.: <i>What is the anthropological method?</i></h3>
+<div>
 
 I don't really know and neither of the textbooks I tried were very illuminating. Here's a preliminary attempt, after contact with some theoretical cultural anthropologists:
 
-* _Methodological relativism_. The ethnographer must put aside the literal truth of a culture's beliefs and try to look at them from the inside. (In the unsubtle common denominator, this slips into actual relativism: science as just the West's arrogant imperial way of knowing, with no superior claim.)
+* _Methodological relativism_. The ethnographer must put aside the literal truth of a culture's beliefs and try to look at them from the inside. <a href="#fn:10" id="fnref:10">10</a> 
 
 * _Lionisation of culture_ as indispensable framework for human life (where they are, equally, oppressive brakes on human freedom).
 
-* _Universalisation of culture_. Everything (every datum, every theory, every experience) is said to be culturally mediated if not reduced to mere cultural. Leads to e.g. scientific facts (not theories) being dismissed by reference to the experimenter's being part of a racist (etc) culture.
+* _Universalisation of culture_. Everything (every datum, every theory, every experience) is said to be culturally mediated if not reduced to mere cultural. Leads to e.g. scientific facts (not theories) being dismissed by reference to the experimenter's being part of a racist culture.
 
 * _Advocacy_. That you can't just _describe_ a dying way of life, you have to make moves to save it. Your research is a political act.
 
-<br>
+</div>
+<h3>e.g.: <i>How unscientific is cultural anthropology?</i></h3>
+<div>
+Some ways we could investigate this:
 
----
+* Email everyone listed on every department page and ask.
+* Gather up all public responses to [#AAAFail][Fail] and see what % were dismayed by it.
+* Crawl JSTOR and look for signs of quantitative reason in papers (numerals, math notation).
 
-<br>
+My survey would probably just ask a Likert for each of the variables in my model of early modern science. <a href="#fn:11" id="fnref:11">11</a>
 
-I couldn't find a reading list for "the cultural anthropology canon". This is _maybe_ because the field is against things like canons, as hierarchical and Westernising or whatnot. So [I made my own][ReadingList], of the apparently most notable books in the nonscientific strand:
+</div>
+<h3>Reading List</h3>
+<div>I couldn't find a reading list for "the cultural anthropology canon". This is _maybe_ because the field is against things like canons, as hierarchical and Westernising or whatnot. So [I made my own][ReadingList], of the apparently most notable books in the nonscientific strand:
 
 <iframe src="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" height="400px" width="100%"></iframe>
+</div>
 
-
-<!--  -->
-
-{%   assign French = "http://ndpr.nd.edu/news/23732-french-theory-how-foucault-derrida-deleuze-co-transformed-the-intellectual-life-of-the-united-states/"   %}
-{%   assign Dcosta = "http://www.anthropologyinpractice.com/2010/12/anthropology-just-says-no-to-science.html"   %}
-{%   assign Batshitste = "http://www.academia.edu/3375020/Indigenous_Knowledge_Foundations_for_First_Nations"   %}
-
-{%   assign Desapar = "https://en.wikipedia.org/wiki/Forced_disappearance"   %}
-{%   assign Bush = "http://www.nytimes.com/2004/10/17/magazine/faith-certainty-and-the-presidency-of-george-w-bush.html"   %}
-{%   assign Influx = "https://books.google.co.uk/books?id=MfDnCwAAQBAJ&pg=PA196&lpg=PA196&dq=influx+of+foreigners+rousseau&source=bl&ots=s0fP7min2c&sig=eJnatuX5NgvLoKDWUsua8Q8-y_4&hl=en&sa=X&ved=0ahUKEwiOk_DciLvRAhUCG5oKHUVJCJcQ6AEIGjAA#v=onepage&q=influx%20of%20foreigners&f=false"   %}
-
-
-
-<!--    Fn  -->
-<div class="footnotes">
-<ol>
-    <!-- 1 -->
-    <li class="footnote" id="fn:1">
-        An anthropologist friend has pointed out to me that American anthropology remains fairly scientific; most of the other geographical blocs diverged firmly into <a href="{{French}}">theory</a> in the late 60s. This makes the AAA's 2010 statement a coup as well as a calumny - given all the physical and linguistic anthropologists who work in their jurisdiction.<br>&nbsp;
-    </li><br>
-    <li class="footnote" id="fn:2">
-        Sigh, <a href="{{Dcosta}}">but not always</a>.
-    </li><br>
-    <li class="footnote" id="fn:3">
-        Unless you conceive of objective truths as "cognitive imperialism", like <a href="{{Batshitste}}">Marie Battiste</a>: 
-        <blockquote><i>Cognitive imperialism is a form of cognitive manipulation used to disclaim other knowledge bases and values. Validated through one’s knowledge base and empowered through public education, it has been the means by which whole groups of people have been denied existence and have had their wealth confiscated. Cognitive imperialism denies people their language and cultural integrity by maintaining the legitimacy of only one language, one culture, and one frame of reference...</i></blockquote>
-        Perhaps objective truth <i>is</i> imperialist in some sense - but it wasn't scientists that made the truth imperial (not the mere humans who are just trying to get you to step outside your skull and <i>look</i> for a minute). Instead, it's the world. <br><br>
-        For one thing, the idea that a politicised and relativised epistemology will help the oppressed is straightforwardly false. <a href="{{Desapar}}">Dictators</a> and <a href="{{Bush}}">imperialists</a> of all stripes are perfectly happy with the idea that there's no objective truth to their crimes:<br>
-        <blockquote><i>The [Bush] aide said that guys like me were "in what we call the reality-based community," which he defined as people who "believe that solutions emerge from your judicious study of discernible reality." I nodded and murmured something about enlightenment principles and empiricism. He cut me off. "That's not the way the world really works anymore," he continued. "We're an empire now, and when we act, we create our own reality. And while you're studying that reality -- judiciously, as you will -- we'll act again, creating other new realities, which you can study too, and that's how things will sort out. We're history's actors ... and you, all of you, will be left to just study what we do."</i></blockquote>
-    </li><br>
-    <li class="footnote" id="fn:4">
-        This noble quote is from <a href="{{Sahlins}}">Marshall Sahlins</a>, in the course of a book review where he <i>studiedly</i> fails to condemn a book known to be a scurrilous conspiracy theory, perhaps because the subject of the conspiracy theory is <a href="{{Chagnon}}">a colleague</a> whose methods he dislikes.
-    </li><br>
-    <li class="footnote" id="fn:5">
-        I know that neither Diamond nor Pinker are self-described or institutionally 'anthropologists'. But they have written some of the most interesting Grand Anthropology work I have ever read, and they are indeed demonic figures in undergraduate anthropology courses.
-    </li><br>
-    <li class="footnote" id="fn:6">
-        Sigh, but yes he was <a href="{{Influx}}">in practice very xenophobic</a>.
-    </li><br>
-    <li class="footnote" id="fn:7">
-        Who was, admittedly, not known as a beacon of tolerance even towards peoples as nearby as fellow Brits:
-        <br>
-        <blockquote>The author of these memoirs will remember, that Johnson one day asked him, 'Have you observed the difference between your own country impudence and Scottish impudence?' The answer being in the negative: 'Then I will tell you,' said Johnson. 'The impudence of an Irishman is the impudence of a fly, that buzzes about you, and you put it away, but it returns again, and flutters and teazes you. The impudence of a Scotsman is the impudence of a leech, that fixes and sucks your blood.' 
-        </blockquote>
-        <br>- Arthur Murphy<br>&nbsp;
-    </li>
-    <li class="footnote" id="fn:8">
-        (Beyond trivial differences, like the typical skin colour and population density of their subjects.)
-    </li>
-</ol>
 </div>
 
 
+
+<!--  -->
 
 [Steel]:            http://rationalwiki.org/wiki/Straw_man#Steel_manning
 [Causa]:            http://thingfinder.blogspot.co.uk/2013/06/causal-density.html
@@ -216,3 +155,63 @@ I couldn't find a reading list for "the cultural anthropology canon". This is _m
 [Kurgan]:           https://en.wikipedia.org/wiki/Kurgan_hypothesis
 [Bones]:            http://www.people.fas.harvard.edu/~skeleton/pdfs/1997a.pdf
 [Homin]:            https://en.wikipedia.org/wiki/Hominidae#History
+
+{%   assign French = "http://ndpr.nd.edu/news/23732-french-theory-how-foucault-derrida-deleuze-co-transformed-the-intellectual-life-of-the-united-states/"   %}
+{%   assign Dcosta = "http://www.anthropologyinpractice.com/2010/12/anthropology-just-says-no-to-science.html"   %}
+{%   assign Batshitste = "http://www.academia.edu/3375020/Indigenous_Knowledge_Foundations_for_First_Nations"   %}
+
+{%   assign Desapar = "https://en.wikipedia.org/wiki/Forced_disappearance"   %}
+{%   assign Bush = "http://www.nytimes.com/2004/10/17/magazine/faith-certainty-and-the-presidency-of-george-w-bush.html"   %}
+{%   assign Influx = "https://books.google.co.uk/books?id=MfDnCwAAQBAJ&pg=PA196&lpg=PA196&dq=influx+of+foreigners+rousseau&source=bl&ots=s0fP7min2c&sig=eJnatuX5NgvLoKDWUsua8Q8-y_4&hl=en&sa=X&ved=0ahUKEwiOk_DciLvRAhUCG5oKHUVJCJcQ6AEIGjAA#v=onepage&q=influx%20of%20foreigners&f=false"   %}
+{%   assign ConRel = "https://plato.stanford.edu/entries/relativism/#ConRel" %}
+
+
+<!--    Fn  -->
+<div class="footnotes">
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+        An anthropologist friend has pointed out to me that American anthropology remains fairly scientific; most of the other geographical blocs diverged firmly into <a href="{{French}}">theory</a> in the late 60s. This makes the AAA's 2010 statement a coup as well as a calumny - given all the physical and linguistic anthropologists who work in their jurisdiction.<br>&nbsp;
+    </li><br>
+    <li class="footnote" id="fn:2">
+        Sigh, <a href="{{Dcosta}}">but not always</a>.
+    </li><br>
+    <li class="footnote" id="fn:3">
+        Unless you conceive of objective truths as "cognitive imperialism", like <a href="{{Batshitste}}">Marie Battiste</a>: 
+        <blockquote><i>Cognitive imperialism is a form of cognitive manipulation used to disclaim other knowledge bases and values. Validated through one’s knowledge base and empowered through public education, it has been the means by which whole groups of people have been denied existence and have had their wealth confiscated. Cognitive imperialism denies people their language and cultural integrity by maintaining the legitimacy of only one language, one culture, and one frame of reference...</i></blockquote>
+        Perhaps objective truth <i>is</i> imperialist in some sense - but it wasn't scientists that made the truth imperial (not the mere humans who are just trying to get you to step outside your skull and <i>look</i> for a minute). Instead, it's the world. <br><br>
+        For one thing, the idea that a politicised and relativised epistemology will help the oppressed is straightforwardly false. <a href="{{Desapar}}">Dictators</a> and <a href="{{Bush}}">imperialists</a> of all stripes are perfectly happy with the idea that there's no objective truth to their crimes:<br>
+        <blockquote><i>The [Bush] aide said that guys like me were "in what we call the reality-based community," which he defined as people who "believe that solutions emerge from your judicious study of discernible reality." I nodded and murmured something about enlightenment principles and empiricism. He cut me off. "That's not the way the world really works anymore," he continued. "We're an empire now, and when we act, we create our own reality. And while you're studying that reality -- judiciously, as you will -- we'll act again, creating other new realities, which you can study too, and that's how things will sort out. We're history's actors ... and you, all of you, will be left to just study what we do."</i></blockquote>
+    </li><br>
+    <li class="footnote" id="fn:4">
+        This noble quote is from <a href="{{Sahlins}}">Marshall Sahlins</a>, in the course of a book review where he <i>studiedly</i> fails to condemn a book known to be a scurrilous conspiracy theory, perhaps because the subject of the conspiracy theory is <a href="{{Chagnon}}">a colleague</a> whose methods he dislikes.
+    </li><br>
+    <li class="footnote" id="fn:5">
+        I know that neither Diamond nor Pinker are self-described or institutionally 'anthropologists'. But they have written some of the most interesting Grand Anthropology work I have ever read, and they are indeed demonic figures in undergraduate anthropology courses.
+    </li><br>
+    <li class="footnote" id="fn:6">
+        Sigh, but yes he was <a href="{{Influx}}">in practice very xenophobic</a>.
+    </li><br>
+    <li class="footnote" id="fn:7">
+        Who was, admittedly, not known as a beacon of tolerance even towards peoples as nearby as fellow Brits:
+        <br>
+        <blockquote>The author of these memoirs will remember, that Johnson one day asked him, 'Have you observed the difference between your own country impudence and Scottish impudence?' The answer being in the negative: 'Then I will tell you,' said Johnson. 'The impudence of an Irishman is the impudence of a fly, that buzzes about you, and you put it away, but it returns again, and flutters and teazes you. The impudence of a Scotsman is the impudence of a leech, that fixes and sucks your blood.' 
+        </blockquote>
+        <br>- Arthur Murphy<br>&nbsp;
+    </li><br>
+    <li class="footnote" id="fn:8">
+        (Beyond trivial differences, like the typical skin colour and population density of their subjects.)
+    </li><br>
+    <li class="footnote" id="fn:9">
+        I've softened a bit since being first shocked by the happily non-scientific methods of some anthropologists. As [James Holland Jones][JHJ] notes, their wilful ignorance is more tragedy than scandal:
+        <blockquote>
+            The reasons for the marginalization of scientific approaches to anthropology are complex and do not fit neatly into the simplistic narrative of “objective, scientific anthropology ... under assault from interpretivists like Clifford Geertz who do not believe in truth.” No doubt, part of the problem is simply the compartmentalization of knowledge. <br><br>
+            As scholars become increasingly specialized, it becomes more and more difficult to be both scientist and humanist. Increasingly, hiring decisions are zero-sum games. The gain of a scientist represents the loss of a humanist and vice-versa. Gone is Eric Wolf’s conception of Anthropology as “both the most scientific of the humanities and the most humanist of the sciences”...
+        </blockquote>
+    </li><br>
+    <li class="footnote" id="fn:10">
+        In the unsubtle common denominator, this slips into hard '<a href="{{ConRel}}">conceptual</a>' relativism: science as just the West's arrogant imperial way of knowing, with no superior claim to generality, replicability or authority.
+    </li><br>
+</ol>
+</div>
+
