@@ -5,7 +5,7 @@ permalink: 	/metrics/
 visible:	true
 ---
 
-I use the following scales for quality of stuff:
+I use the following scales for the quality of things:
 
 
 * [Estimate quality](#spiegel-quality)
@@ -21,16 +21,34 @@ I use the following scales for quality of stuff:
 
 ---
 
-#### Spiegelhalter on the quality of a statistic
+<div class="accordion">
+	<h3>Spiegelhalter on an estimate's quality</h3>
+	<div>
+
 [David Spiegelhalter][Spieg] has a nice rule of thumb for how much to trust estimates:
 
-* 4* : Very reliable: warranting belief.
-* 3* : Good, but could be 25% out either way.
-* 2* : Poor. Could be half or double the given value.
-* 1* : Not a generalisable result; maybe within a few orders of magnitude.
-* 0* : Simply made up. No information content. Even odds of having correct sign.
+	<div class="accordion">
+		<h3>4* : <i>numbers we can believe</i></h3>
+		<div><blockquote>so accurate than we can, to all intents and purposes, treat them as true</blockquote>.</div>
 
-(Obviously for some things - pharmacology and space travel come to mind - anything but 4* is unacceptably poor.)
+		<h3>3* : <i>numbers that are reasonably accurate</i></h3>
+		<div><blockquote>the figure is probably accurate within a relative ±25%: a claimed proportion of 12% could actually be anywhere between 9% and 15%</blockquote>.</div>
+
+		<h3>2* : <i>numbers that could be a long way out</i></h3>
+		<div></div>
+
+		<h3>1* : <i>numbers that are unreliable</i></h3>
+		<div><blockquote>the true figure could well be more than double or half what is claimed.<br>
+		(On the odds scale, for proportions.)</blockquote></div>
+
+		<h3>1* : <i>numbers that were just made up</i></h3>
+		<div>Not evidence; negative information. Even odds of having the correct sign.</div>
+	</div>
+	</div>
+	(Obviously for some things - pharmacology and space travel come to mind - anything but 4* is unacceptably poor.)
+
+</div>
+
 
 
 <a name="cochrane-quality"></a>

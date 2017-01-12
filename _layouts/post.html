@@ -9,15 +9,18 @@ layout: default
     	<h1 class="post-title">{{ page.title }}</h1>
       <p style="line-height: 3px"></p>
     	<p style="margin-left:15px" class="post-meta">
-      {%  assign s = "&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;"  %}
-      {%  assign t = "•&nbsp;&nbsp;"  %}
+        {%  assign s = "&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;"  %}
+        {%  assign t = "•&nbsp;&nbsp;"  %}
 
         {{ page.date | date: "%b %-d, %Y" }}{{s}} <a href="https://technicalities.netlify.com/about/">Gavin</a>{{s}} 
-        {% if page.simple or page.stylised or page.technical %} Available in {% endif %} 
-        {% if page.simple %} <a href="{{page.baselink}}-simple">Simple</a> {% endif %} 
-        {% if page.stylised %} | <a href="{{page.baselink}}">Stylised</a> {% endif %} 
-        {% if page.technical %} | <a href="{{page.baselink}}-technical">Technical</a> {% endif %} English
-      	<br>
+        
+        {% if page.simple or page.stylised or page.technical %} 
+          Available in  
+          {% if page.simple %} <a href="{{page.baselink}}-simple">Simple</a> {% endif %} 
+          {% if page.stylised %} | <a href="{{page.baselink}}">Stylised</a> {% endif %} 
+          {% if page.technical %} | <a href="{{page.baselink}}-technical">Technical</a> English {% endif %} 
+        {% endif %}
+        <br>
         {% if page.summary %} <br>{{t}}<i>{{	page.summary	}}</i>{% endif %} 
       	{% if page.confidence %} <br>{{t}}<i>Confidence</i>: {{	page.confidence	}}{% endif %} 
       	{% if page.warnings %} <br>{{t}}<i>Content notes</i>: {{	page.warnings	}}{% endif %} 
