@@ -18,3 +18,9 @@ confidence:
 warnings: 
 categories:	philosophy of science, 
 ---
+
+
+
+red /cyan
+
+blue / yellow
