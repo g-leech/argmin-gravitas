@@ -74,17 +74,17 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
 <div class="accordion">
     
     <h3>Research programme</h3>
-    <div>I'm being combative, but I am actually interested, too. I'm looking for answers to: <br>
-
-    <ul><i>
-    <li>What has cultural anthropology achieved?</li>
-    <li>How much of the modern love of foreign experience and culture can be attributed to the influence of ethnographers?</li>
-    <li>Is cultural anthropology unusually ideologically polluted?</li>
-    <li>How does cultural or social anthropology differ from sociology?</li>
-    <li>What is cultural anthropology's method?</li>
-    <li>Does cultural evolution theory subsume or supercede cultural anthropology?</li>
-    <li>How unscientific is cultural anthropology? How can we tell?</li>
-    </ul></i>
+    <div>
+        I'm being combative, but I am actually interested. I'm looking for answers to: <br>
+        <ul>
+        <li><i>What has cultural anthropology achieved?</i></li>
+        <li>How much of the modern love of foreign experience and culture can be attributed to the influence of ethnographers?</li>
+        <li>Is cultural anthropology unusually ideologically polluted?</li>
+        <li>How does cultural or social anthropology differ from sociology?</li>
+        <li>What is cultural anthropology's method?</li>
+        <li>Does cultural evolution theory subsume or supercede cultural anthropology?</li>
+        <li>How unscientific is cultural anthropology? How can we tell?</li>
+        </i></ul>
     </div>
     
 
