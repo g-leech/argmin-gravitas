@@ -3,7 +3,7 @@ layout:     post
 title:      "Analysis of all Kaggle-winning algorithms"
 baselink:   /kaggle
 permalink:  /kaggle/
-date:       site.time
+date:       2017-02-10
 author:     Gavin   
 
 visible:	1
