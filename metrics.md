@@ -8,7 +8,7 @@ visible:	true
 {% assign Spieg = "http://www.statslab.cam.ac.uk/Dept/People/Spiegelhalter/davids.html" %}
 {% assign GRADE = "http://handbook.cochrane.org/chapter_12/12_2_assessing_the_quality_of_a_body_of_evidence.htm" %}
 {% assign Christg = "https://www.robertchristgau.com/xg/bk-cg90/grades-90s.php" %}
-{% assign Galef = "https://juliagalef.com/2017/01/06/a-taxonomy-of-books-that-change-your-worldview/"
+{% assign Galef = "https://juliagalef.com/2017/01/06/a-taxonomy-of-books-that-change-your-worldview/" %}
 {% assign MyReading =	"https://docs.google.com/spreadsheets/d/1qPIKI3TO5MpKtyg9DzsK6TOo6NhjHAHZbv3iS2yxnSo/edit?usp=sharing" %}
 
 
