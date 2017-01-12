@@ -8,7 +8,6 @@ visible:	true
 I use the following scales for the quality of things:
 
 
-* [Estimate quality](#spiegel-quality)
 * [Study quality](#cochrane-quality)
 * [Confidence](#confidence)
 * [Art universality](#christgau-art)
@@ -17,15 +16,11 @@ I use the following scales for the quality of things:
 
 
 <br>
-<a name="spiegel-quality"></a>
-
----
+<a name="spiegel-quality"></a><br>
 
 <div class="accordion">
 	<h3>Spiegelhalter on an estimate's quality</h3>
-	<div>
-
-[David Spiegelhalter][Spieg] has a nice rule of thumb for how much to trust estimates:
+	<div><a href="http://www.statslab.cam.ac.uk/Dept/People/Spiegelhalter/davids.html">David Spiegelhalter</a> has a nice rule of thumb for how much to trust estimates:
 
 	<div class="accordion">
 		<h3>4* : <i>numbers we can believe</i></h3>

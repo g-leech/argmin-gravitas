@@ -48,8 +48,9 @@ To put it lightly, this is counterproductive.
 Unscientific research - in place of science, where scientific means could be applied fruitfully - is just discreditable. Unfortunately, it is paired with active disdain of those cultural anthropologists who do attempt science: e.g. [Jared Diamond][Diamond], [Napoleon Chagnon][Chagnon], [Steven Pinker][Survive], Pascal Boyer. <a href="#fn:5" id="fnref:5">5</a> Scientific cultural anthropology is a serious, interdisciplinary research programme shared with genetics and psychology. (It can be googled via "[cultural evolution][CultEv] [theory][DualInt]" or "coevolution".) Given that I haven't read much of it, given that I value general truth more than particular conjecture, why would I spend time on the non-scientific kind?
 
 <br>
+
 <div class="accordion"><h3>Mob science</h3>
-    <div>I continue to struggle to distinguish sociology and anthropology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic [_Verstehen_][Weber] work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.</div>
+    <div>I continue to struggle to distinguish sociology and anthropology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic <i><a href="https://en.wikipedia.org/wiki/Verstehen">Verstehen</a> work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.</div>
 </div>
 
 <br>
@@ -72,48 +73,51 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
     <h3>Research programme</h3>
     <div>
 
-I'm being combative, but I am actually interested, too. I'm looking for answers to:
+    I'm being combative, but I am actually interested, too. I'm looking for answers to: <i>
 
-* _What has cultural anthropology achieved?_
-* _How much of the modern love of foreign experience and culture can be attributed to the influence of ethnographers?_
-* _Is cultural anthropology unusually ideologically polluted?_
-* _How does cultural or social anthropology differ from sociology?_
-* _What is cultural anthropology's method?_
-* _Does [cultural evolution][CultEv] [theory][DualInt] subsume or supercede cultural anthropology?_
-* _How unscientific is cultural anthropology? How can we tell?_
+    <ul>
+    <li>What has cultural anthropology achieved?</li>
+    <li>How much of the modern love of foreign experience and culture can be attributed to the influence of ethnographers?</li>
+    <li>Is cultural anthropology unusually ideologically polluted?</li>
+    <li>How does cultural or social anthropology differ from sociology?</li>
+    <li>What is cultural anthropology's method?</li>
+    <li>Does [cultural evolution][CultEv] [theory][DualInt] subsume or supercede cultural anthropology?</li>
+    <li>How unscientific is cultural anthropology? How can we tell?</li>
+    </ul>
+    </div>
+    
 
-</div>
-<h3>e.g.: <i>What is the anthropological method?</i></h3>
-<div>
+    <h3>e.g.: <i>What is the anthropological method?</i></h3>
+    <div>I don't really know and neither of the textbooks I tried were very illuminating. Here's a preliminary attempt, after contact with some theoretical c-anthropologists:
 
-I don't really know and neither of the textbooks I tried were very illuminating. Here's a preliminary attempt, after contact with some theoretical cultural anthropologists:
+    <ul>
+        <li>Methodological relativism_. The ethnographer must put aside the literal truth of a culture's beliefs and try to look at them from the inside. <a href="#fn:10" id="fnref:10">10</a> </li>
 
-* _Methodological relativism_. The ethnographer must put aside the literal truth of a culture's beliefs and try to look at them from the inside. <a href="#fn:10" id="fnref:10">10</a> 
+        <li>Lionisation of culture_ as indispensable framework for human life (where they are, equally, oppressive brakes on human freedom).</li>
 
-* _Lionisation of culture_ as indispensable framework for human life (where they are, equally, oppressive brakes on human freedom).
+        <li>Universalisation of culture_. Everything (every datum, every theory, every experience) is said to be culturally mediated if not reduced to mere cultural. Leads to e.g. scientific facts (not theories) being dismissed by reference to the experimenter's being part of a racist culture.</li>
 
-* _Universalisation of culture_. Everything (every datum, every theory, every experience) is said to be culturally mediated if not reduced to mere cultural. Leads to e.g. scientific facts (not theories) being dismissed by reference to the experimenter's being part of a racist culture.
+        <li>Advocacy_. That you can't just _describe_ a dying way of life, you have to make moves to save it. Your research is a political act.</li></ul>
+    </div>
 
-* _Advocacy_. That you can't just _describe_ a dying way of life, you have to make moves to save it. Your research is a political act.
 
-</div>
-<h3>e.g.: <i>How unscientific is cultural anthropology?</i></h3>
-<div>
-Some ways we could investigate this:
+    <h3>e.g.: <i>How unscientific is cultural anthropology?</i></h3>
+    <div>Some ways we could investigate this:
+    <ul>
+        <li>Email everyone listed on every department page and ask. I can imagine impressive response rates - 60%?</li>
+        <li>Gather up all public responses to [#AAAFail][Fail] and see what % were dismayed by it.</li>
+        <li>Crawl JSTOR and look for signs of quantitative reason in papers (numerals, math notation).</li>
+    </ul>
 
-* Email everyone listed on every department page and ask.
-* Gather up all public responses to [#AAAFail][Fail] and see what % were dismayed by it.
-* Crawl JSTOR and look for signs of quantitative reason in papers (numerals, math notation).
+    My survey would probably just ask a Likert for each of the variables in <a href="https://docs.google.com/spreadsheets/d/14Bw1pqa-ZcGza9P3jV7wht8o9-xEJw0A0GpdN733MqE/edit?usp=sharing">my model of early modern science</a>. <a href="#fn:11" id="fnref:11">11</a>
+    </div>
+    
 
-My survey would probably just ask a Likert for each of the variables in [my model of early modern science][Curiosity]. <a href="#fn:11" id="fnref:11">11</a>
+    <h3>Reading List</h3>
+    <div>I couldn't find a reading list for "the cultural anthropology canon". This is _maybe_ because the field is against things like canons, as hierarchical and Westernising or whatnot. So <a href="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/edit?usp=sharing">I made my own</a>, of the most apparently notable books in the non-scientific strand:
 
-</div>
-<h3>Reading List</h3>
-<div>I couldn't find a reading list for "the cultural anthropology canon". This is _maybe_ because the field is against things like canons, as hierarchical and Westernising or whatnot. So [I made my own][ReadingList], of the apparently most notable books in the nonscientific strand:
-
-<iframe src="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" height="400px" width="100%"></iframe>
-</div>
-
+    <iframe src="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" height="400px" width="100%"></iframe>
+    </div>
 </div>
 
 
