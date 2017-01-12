@@ -32,7 +32,7 @@ However, some anthropologists I've talked to declaim the title of 'science' enti
 
 To put it lightly, this is counterproductive. 
 
-1. First of all, it is a straightforwardly false claim about their peers - physical anthropologists and linguistic anthropologists have uncovered some of the most fascinating and enduring scientific discoveries ever. So this hegemonic statement is really a claim about _cultural_ anthropology, a subfield we can usually paraphrase as literary anthropology. <a href="#fn:2" id="fnref:2">2</a>
+1. First of all, it is a straightforwardly false claim about their peers - physical anthropologists and linguistic anthropologists have uncovered many [great][Kurgan] [and][Bones] [enduring][Homin] scientific discoveries. So this hegemonic statement is really a claim about _cultural_ anthropology, a subfield we can usually paraphrase as literary anthropology. <a href="#fn:2" id="fnref:2">2</a>
 
 
 2. It treats science as something alien to ordinary life, something distinctively Western. However, the only thing uniting the sciences is _taking evidence as seriously as possible_: pragmatically, 'science' is the practice of making systematic observations, relating these to possible explanations, and offering data and argument to peers for criticism and replication or disconfirmation. Ethnographers are absolutely scientists in this broad sense, even though some of their judgments (for instance about the semantic and symbolic aspects of a culture) have not been amenable to computational or statistical analysis. And it is absurd to suggest that non-Westerners have not played large and fast-increasing parts in this endeavour.
@@ -214,3 +214,6 @@ I couldn't find a reading list for "the cultural anthropology canon". This is _m
 
 [Weber]:            https://en.wikipedia.org/wiki/Verstehen
 [Equi]:             https://en.wiktionary.org/wiki/equipollence#Noun
+[Kurgan]:           https://en.wikipedia.org/wiki/Kurgan_hypothesis
+[Bones]:            http://www.people.fas.harvard.edu/~skeleton/pdfs/1997a.pdf
+[Homin]:            https://en.wikipedia.org/wiki/Hominidae#History
