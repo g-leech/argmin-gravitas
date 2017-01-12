@@ -23,22 +23,28 @@ I use the following scales for the quality of things:
 <div class="accordion">
 	<h3>Spiegelhalter on an estimate's quality</h3>
 	<div><a href="{{Spieg}}">David Spiegelhalter</a> has a nice rule of thumb for how much to trust estimates:
-
-	<h3>4* : <i>numbers we can believe</i></h3>
+	<ul>
+	<li><b>4* : <i>numbers we can believe</i></b>
 		<div><blockquote>so accurate than we can, to all intents and purposes, treat them as true</blockquote>.</div>
-
-		<h3>3* : <i>numbers that are reasonably accurate</i></h3>
+	</li>
+	<li>
+		<b>3* : <i>numbers that are reasonably accurate</i></b>
 		<div><blockquote>the figure is probably accurate within a relative ±25%: a claimed proportion of 12% could actually be anywhere between 9% and 15%</blockquote>.</div>
-
-		<h3>2* : <i>numbers that could be a long way out</i></h3>
-		<div></div>
-
-		<h3>1* : <i>numbers that are unreliable</i></h3>
-		<div><blockquote>the true figure could well be more than double or half what is claimed.<br>
+	</li>
+	<li>
+		<b>2* : <i>numbers that could be a long way out</i></b>
+		<div><blockquote>Could be anywhere between half and double the given figure. (Proportions should be changed to odds before doubling.)</blockquote></div>
+	</li>
+	<li>
+		<b>1* : <i>numbers that are unreliable</i></b>
+		<div><blockquote>the true figure might be more than double or half what is claimed.<br>
 		(On the odds scale, for proportions.)</blockquote></div>
-
-		<h3>1* : <i>numbers that were just made up</i></h3>
+	</li>
+	<li>
+		<b>0* : <i>numbers that were just made up</i></b>
 		<div>Not evidence; negative information. Even odds of having the correct sign.</div>
+	</li>
+	</ul>
 	(Obviously for some things - pharmacology and space travel come to mind - anything but 4* is unacceptably poor.)
 	<a name="cochrane-quality"></a>
 	</div>
