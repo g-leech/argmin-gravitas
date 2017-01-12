@@ -13,8 +13,8 @@ simple:		true
 stylised:	true
 technical:	true
 
-summary:	
-confidence:
-warnings: 
-categories:	, 
+summary:		a
+confidence:		a
+warnings: 		a
+categories:		a
 ---
