@@ -49,17 +49,19 @@ Unscientific research - in place of science, where scientific means could be app
 
 <br>
 
-<div class="accordion"><h3>Mob science</h3>
-    <div>I continue to struggle to distinguish sociology and anthropology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic <i><a href="https://en.wikipedia.org/wiki/Verstehen">Verstehen</a> work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.</div>
+<div class="accordion">
+    <h3>Mob science</h3>
+    <div>I continue to struggle to distinguish sociology and anthropology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic <i><a href="https://en.wikipedia.org/wiki/Verstehen">Verstehen</a> work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.
     </div>
 </div>
+
 <br>
 
 ---
 
 <br>
 
-I'm not saying that c-anthropology's _average_ confusion makes all of them not worth reading. For instance: I only recently realised the distinctive value of the philosopher Rousseau, an anthropologist in spirit: few Europeans really considered that there could be value in foreign cultures in his time. <a href="#fn:6" id="fnref:6">6</a> 
+Just because c-anthropology is very confused on _average_ doesn't speak badly of the field. 90% of everything is crap after all. <a href="#fn:12" id="fnref:12">12</a> For instance: I only recently realised the distinctive value of the philosopher Rousseau, an anthropologist in spirit: few Europeans really considered that there could be value in foreign cultures in his time. <a href="#fn:6" id="fnref:6">6</a> 
 
 This sounds incredible in our hybridised culture, for we are obsessed with [fleeing oneself][Travel] and have a ridiculously rose-tinted idea of what pastoral life was and is actually like. But you can see disdainful total superiority in even the most intelligent commentators from the C17th, for instance Samuel Johnson. <a href="#fn:7" id="fnref:7">7</a>
 
@@ -161,6 +163,8 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
 [Homin]:            https://en.wikipedia.org/wiki/Hominidae#History
 [Curiosity]:        https://docs.google.com/spreadsheets/d/14Bw1pqa-ZcGza9P3jV7wht8o9-xEJw0A0GpdN733MqE/edit?usp=sharing
 
+
+{%   assign JHJ = "http://monkeysuncle.stanford.edu/?p=697" %}
 {%   assign French = "http://ndpr.nd.edu/news/23732-french-theory-how-foucault-derrida-deleuze-co-transformed-the-intellectual-life-of-the-united-states/"   %}
 {%   assign Dcosta = "http://www.anthropologyinpractice.com/2010/12/anthropology-just-says-no-to-science.html"   %}
 {%   assign Batshitste = "http://www.academia.edu/3375020/Indigenous_Knowledge_Foundations_for_First_Nations"   %}
@@ -208,7 +212,7 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
         (Beyond trivial differences, like the typical skin colour and population density of their subjects.)
     </li><br>
     <li class="footnote" id="fn:9">
-        I've softened a bit since being first shocked by the happily non-scientific methods of some anthropologists. As [James Holland Jones][JHJ] notes, their wilful ignorance is more tragedy than scandal:
+        I've softened a bit since being first shocked by the happily non-scientific methods of some anthropologists. As <a href="{{JHJ}}">James Holland Jones notes</a>, wilful ignorance is more tragedy than scandal:
         <blockquote>
             The reasons for the marginalization of scientific approaches to anthropology are complex and do not fit neatly into the simplistic narrative of “objective, scientific anthropology ... under assault from interpretivists like Clifford Geertz who do not believe in truth.” No doubt, part of the problem is simply the compartmentalization of knowledge. <br><br>
             As scholars become increasingly specialized, it becomes more and more difficult to be both scientist and humanist. Increasingly, hiring decisions are zero-sum games. The gain of a scientist represents the loss of a humanist and vice-versa. Gone is Eric Wolf’s conception of Anthropology as <br><br>“both the most scientific of the humanities and the most humanist of the sciences”...
@@ -218,7 +222,7 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
         The unsubtle common denominator of this slips into hard '<a href="{{ConRel}}">conceptual</a>' relativism: science as just the West's arrogant imperial way of knowing, with no superior claim to generality, replicability or authority.
     </li><br>
     <li class="footnote" id="fn:11">
-        For my purposes, <i>scienciness</i> is just an additive function of:
+        For my purposes, <i>scienciness</i> is a dumb additive function of:
         <ul>
             <li>Are their explanations naturalistic? </li>
             <li>Is their research based on going and looking at things?</li>  
@@ -229,6 +233,9 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
         </ul>
         (Obviously many self-described scientists fall short of these, for good and bad reasons. It might be sufficient to try.)
     </li><br>
+    <li class="footnote" id="fn:12">
+        <i>Estimate quality</i>: <a href="/metrics">Spiegelhalter 0*</a>.
+    </li>
 </ol>
 </div>
 
