@@ -13,7 +13,7 @@ layout: default
       {%  assign t = "•&nbsp;&nbsp;"  %}
 
         {{ page.date | date: "%b %-d, %Y" }}{{s}} <a href="https://technicalities.netlify.com/about/">Gavin</a>{{s}} 
-        Available in 
+        {% if page.simple or page.stylised or page.technical %} Available in {% endif %} 
         {% if page.simple %} <a href="{{page.baselink}}-simple">Simple</a> {% endif %} 
         {% if page.stylised %} | <a href="{{page.baselink}}">Stylised</a> {% endif %} 
         {% if page.technical %} | <a href="{{page.baselink}}-technical">Technical</a> {% endif %} English
@@ -30,14 +30,19 @@ layout: default
   </article>
 </div>
 
-<link rel="stylesheet" href="/css/tooltip.min.css">
+
+<link rel="stylesheet" href="/css/jquery-ui.min.css">
 <script src="/js/jquery.min.js" ></script>
 <script src="/js/bigfoot.min.js"></script>
-
+<script src="/js/jquery-ui.min.js"></script>
 <script>
   $.bigfoot(
     {
       positionContent: true
     });
+
+  $( function() {
+    $( ".accordion" ).accordion();
+  } );
 </script>
 
