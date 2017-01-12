@@ -105,7 +105,7 @@ Some ways we could investigate this:
 * Gather up all public responses to [#AAAFail][Fail] and see what % were dismayed by it.
 * Crawl JSTOR and look for signs of quantitative reason in papers (numerals, math notation).
 
-My survey would probably just ask a Likert for each of the variables in my model of early modern science. <a href="#fn:11" id="fnref:11">11</a>
+My survey would probably just ask a Likert for each of the variables in [my model of early modern science][Curiosity]. <a href="#fn:11" id="fnref:11">11</a>
 
 </div>
 <h3>Reading List</h3>
@@ -155,6 +155,7 @@ My survey would probably just ask a Likert for each of the variables in my model
 [Kurgan]:           https://en.wikipedia.org/wiki/Kurgan_hypothesis
 [Bones]:            http://www.people.fas.harvard.edu/~skeleton/pdfs/1997a.pdf
 [Homin]:            https://en.wikipedia.org/wiki/Hominidae#History
+[Curiosity]:        https://docs.google.com/spreadsheets/d/14Bw1pqa-ZcGza9P3jV7wht8o9-xEJw0A0GpdN733MqE/edit?usp=sharing
 
 {%   assign French = "http://ndpr.nd.edu/news/23732-french-theory-how-foucault-derrida-deleuze-co-transformed-the-intellectual-life-of-the-united-states/"   %}
 {%   assign Dcosta = "http://www.anthropologyinpractice.com/2010/12/anthropology-just-says-no-to-science.html"   %}
@@ -206,11 +207,23 @@ My survey would probably just ask a Likert for each of the variables in my model
         I've softened a bit since being first shocked by the happily non-scientific methods of some anthropologists. As [James Holland Jones][JHJ] notes, their wilful ignorance is more tragedy than scandal:
         <blockquote>
             The reasons for the marginalization of scientific approaches to anthropology are complex and do not fit neatly into the simplistic narrative of “objective, scientific anthropology ... under assault from interpretivists like Clifford Geertz who do not believe in truth.” No doubt, part of the problem is simply the compartmentalization of knowledge. <br><br>
-            As scholars become increasingly specialized, it becomes more and more difficult to be both scientist and humanist. Increasingly, hiring decisions are zero-sum games. The gain of a scientist represents the loss of a humanist and vice-versa. Gone is Eric Wolf’s conception of Anthropology as “both the most scientific of the humanities and the most humanist of the sciences”...
+            As scholars become increasingly specialized, it becomes more and more difficult to be both scientist and humanist. Increasingly, hiring decisions are zero-sum games. The gain of a scientist represents the loss of a humanist and vice-versa. Gone is Eric Wolf’s conception of Anthropology as <br><br>“both the most scientific of the humanities and the most humanist of the sciences”...
         </blockquote>
     </li><br>
     <li class="footnote" id="fn:10">
-        In the unsubtle common denominator, this slips into hard '<a href="{{ConRel}}">conceptual</a>' relativism: science as just the West's arrogant imperial way of knowing, with no superior claim to generality, replicability or authority.
+        The unsubtle common denominator of this slips into hard '<a href="{{ConRel}}">conceptual</a>' relativism: science as just the West's arrogant imperial way of knowing, with no superior claim to generality, replicability or authority.
+    </li><br>
+    <li class="footnote" id="fn:11">
+        For my purposes, <i>scienciness</i> is just an additive function of:
+        <ul>
+            <li>Are their explanations naturalistic? </li>
+            <li>Is their research based on going and looking at things?</li>  
+            <li>Is their method quantitative where appropriate?</li>   
+            <li>Is their method reductionist?</li>   
+            <li>Are they fallibilist about their conclusions?</li>
+            <li>Do they share their data and invite criticism and replication?</li>
+        </ul>
+        (Obviously many self-described scientists fall short of these, for good and bad reasons. It might be sufficient to try.)
     </li><br>
 </ol>
 </div>
