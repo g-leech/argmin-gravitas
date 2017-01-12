@@ -10,7 +10,7 @@ visible:    1
 
 summary:    Another research proposal - <i>What is good about cultural anthropology?</i> Plus, reading list.
 confidence: 80% that there's a problem with the field. 60% that this is worth doing.
-content:    politicised epistemology, relativism
+warnings:    politicised epistemology, relativism
 categories: philosophy of science, anthropology, scepticism
 ---
 
@@ -74,18 +74,18 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
 <div class="accordion">
     
     <h3>Research programme</h3>
-    <div>I'm being combative, but I am actually interested, too. I'm looking for answers to: <i><br>
+    <div>I'm being combative, but I am actually interested, too. I'm looking for answers to: <br>
 
-    <ul>
-    <li><i>What has cultural anthropology achieved?</li>
+    <ul><i>
+    <li>What has cultural anthropology achieved?</li>
     <li>How much of the modern love of foreign experience and culture can be attributed to the influence of ethnographers?</li>
     <li>Is cultural anthropology unusually ideologically polluted?</li>
     <li>How does cultural or social anthropology differ from sociology?</li>
     <li>What is cultural anthropology's method?</li>
     <li>Does cultural evolution theory subsume or supercede cultural anthropology?</li>
-    <li>How unscientific is cultural anthropology? How can we tell?</i></li>
-    </ul>
-    </i></div>
+    <li>How unscientific is cultural anthropology? How can we tell?</li>
+    </ul></i>
+    </div>
     
 
     <h3>e.g.: <i>What is the anthropological method?</i></h3>
