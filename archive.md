@@ -25,8 +25,8 @@ visible:  false
            {% assign myMonth = currentMonth %}
         {% endif %}
         
-        <tr style="width:70%;">
-          <td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a></td>
+        <tr>
+          <td style="width:60%;"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a></td>
           <td> <small>{{ post.summary }}</small> </td>
           <td><ul>
             <small>
