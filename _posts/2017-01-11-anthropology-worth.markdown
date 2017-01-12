@@ -74,16 +74,16 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
 <div class="accordion">
     
     <h3>Research programme</h3>
-    <div>I'm being combative, but I am actually interested, too. I'm looking for answers to: <i>
+    <div>I'm being combative, but I am actually interested, too. I'm looking for answers to: <i><br>
 
     <ul>
-    <li>What has cultural anthropology achieved?</li>
+    <li><i>What has cultural anthropology achieved?</li>
     <li>How much of the modern love of foreign experience and culture can be attributed to the influence of ethnographers?</li>
     <li>Is cultural anthropology unusually ideologically polluted?</li>
     <li>How does cultural or social anthropology differ from sociology?</li>
     <li>What is cultural anthropology's method?</li>
-    <li>Does [cultural evolution][CultEv] [theory][DualInt] subsume or supercede cultural anthropology?</li>
-    <li>How unscientific is cultural anthropology? How can we tell?</li>
+    <li>Does <a href="{{CultEv}}">cultural evolution</a> <a href="{{DualInt}}">theory</a> subsume or supercede cultural anthropology?</li>
+    <li>How unscientific is cultural anthropology? How can we tell?</i></li>
     </ul>
     </i></div>
     
@@ -92,18 +92,18 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
     <div>I don't really know and neither of the textbooks I tried were very illuminating. Here's a preliminary attempt, after contact with some theoretical c-anthropologists:
 
     <ul>
-        <li>Methodological relativism_. The ethnographer must put aside the literal truth of a culture's beliefs and try to look at them from the inside. <a href="#fn:10" id="fnref:10">10</a> </li>
+        <li><i>Methodological relativism</i>. The ethnographer must put aside the literal truth of a culture's beliefs and try to look at them from the inside. <a href="#fn:10" id="fnref:10">10</a> </li>
 
-        <li>Lionisation of culture_ as indispensable framework for human life (where they are, equally, oppressive brakes on human freedom).</li>
+        <li><i>Lionisation of culture</i> as the indispensable framework for human life (they are, but they are equally oppressive, gigantic brakes on human freedom).</li>
 
-        <li>Universalisation of culture_. Everything (every datum, every theory, every experience) is said to be culturally mediated if not reduced to mere cultural. Leads to e.g. scientific facts (not theories) being dismissed by reference to the experimenter's being part of a racist culture.</li>
+        <li><i>Universalisation of culture</i>. Everything (every datum, every theory, every experience) is said to be culturally mediated if not reduced to mere cultural. Leads to e.g. scientific facts (not theories) being dismissed by reference to the experimenter's being part of a racist culture.</li>
 
-        <li>Advocacy_. That you can't just _describe_ a dying way of life, you have to make moves to save it. Your research is a political act.</li></ul>
+        <li><i>Advocacy</i>. That you can't just _describe_ a dying way of life, you have to make moves to save it. Your research is a political act.</li></ul>
     </div>
 
 
     <h3>e.g.: <i>How unscientific is cultural anthropology?</i></h3>
-    <div>Some ways we could investigate this:
+    <div>Some ways we could investigate this:<br>
     <ul>
         <li>Email everyone listed on every department page and ask. I can imagine impressive response rates - 60%?</li>
         <li>Gather up all public responses to [#AAAFail][Fail] and see what % were dismayed by it.</li>
@@ -115,7 +115,7 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
 
 
     <h3>Reading List</h3>
-    <div>I couldn't find a reading list for "the cultural anthropology canon". This is _maybe_ because the field is against things like canons, as hierarchical and Westernising or whatnot. So <a href="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/edit?usp=sharing">I made my own</a>, of the most apparently notable books in the non-scientific strand:
+    <div>I couldn't find a reading list for "the cultural anthropology canon". This is _maybe_ because the field is against things like canons, as hierarchical and Westernising or whatnot. So <a href="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/edit?usp=sharing">I made my own</a>, of the most apparently notable books in the non-scientific strand:<br><br>
 
     <iframe src="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" height="400px" width="100%"></iframe>
     </div>
