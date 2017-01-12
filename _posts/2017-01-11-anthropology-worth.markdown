@@ -55,7 +55,7 @@ Anti-scientific attitudes are discreditable on their own. But it's paired with a
 
 <br>
 
-I've softened a bit since being first shocked by the happily non-scientific methods of anthropologists I know. As [James Holland Jones][JHJ] notes, the wilful ignorance of some is more of a tragedy than a scandal:
+I've softened a bit since being first shocked by the happily non-scientific methods of some anthropologists. As [James Holland Jones][JHJ] notes, their wilful ignorance is more of a tragedy than a scandal:
 
 <blockquote>
     The reasons for the marginalization of scientific approaches to anthropology are complex and do not fit neatly into the simplistic narrative of “objective, scientific anthropology ... under assault from interpretivists like Clifford Geertz who do not believe in truth.” No doubt, part of the problem is simply the compartmentalization of knowledge. <br><br>
@@ -168,10 +168,9 @@ I couldn't find a reading list for "the cultural anthropology canon". This is _m
     </li><br>
     <li class="footnote" id="fn:7">
         Who was, admittedly, not known as a beacon of tolerance even towards peoples as nearby as his fellow British:
-        
-        > The author of these memoirs will remember, that Johnson one day asked him, 'Have you observed the difference between your own country impudence and Scottish impudence?' The answer being in the negative: 'Then I will tell you,' said Johnson. 'The impudence of an Irishman is the impudence of a fly, that buzzes about you, and you put it away, but it returns again, and flutters and teazes you. The impudence of a Scotsman is the impudence of a leech, that fixes and sucks your blood.' 
-
-        <br>- Arthur Murphy
+        <blockquote>The author of these memoirs will remember, that Johnson one day asked him, 'Have you observed the difference between your own country impudence and Scottish impudence?' The answer being in the negative: 'Then I will tell you,' said Johnson. 'The impudence of an Irishman is the impudence of a fly, that buzzes about you, and you put it away, but it returns again, and flutters and teazes you. The impudence of a Scotsman is the impudence of a leech, that fixes and sucks your blood.' 
+        </li>blockquote>
+        <br>- Arthur Murphy<br>&nbsp;
     </li>
     <li class="footnote" id="fn:8">
         (Beyond trivial differences, like the typical skin colour and population density of their subjects.)
