@@ -45,7 +45,7 @@ To put it lightly, this is counterproductive.
 
 <br>
 
-Unscientific research - in place of science, where scientific means could be applied fruitfully - is just discreditable. Unfortunately, it is paired with active disdain of those cultural anthropologists who do attempt science: e.g. [Jared Diamond][Diamond], [Napoleon Chagnon][Chagnon], [Steven Pinker][Survive], Pascal Boyer. <a href="#fn:5" id="fnref:5">5</a> Scientific cultural anthropology is a serious, interdisciplinary research programme shared with genetics and psychology. (It can be googled via "[cultural evolution][CultEv] [theory][DualInt]" or "coevolution".) Given that I haven't read much of it, given that I value general truth more than particular conjecture, why would I spend time on the non-scientific kind?
+Unscientific research, where scientific means could be applied fruitfully, is just discreditable: it is easily and often the exquisite interpretation of statistical noise. Unfortunately, the unscientific manner is here paired with active disdain of those cultural anthropologists who do attempt science: e.g. [Jared Diamond][Diamond], [Napoleon Chagnon][Chagnon], [Steven Pinker][Survive], Pascal Boyer. <a href="#fn:5" id="fnref:5">5</a> Scientific cultural anthropology is a serious, interdisciplinary research programme shared with genetics and psychology. (It can be googled via "[cultural evolution][CultEv] [theory][DualInt]" or "coevolution".) Given that I haven't read much of it, given that I value general truth more than particular conjecture, why would I spend time on the non-scientific kind?
 
 <br>
 

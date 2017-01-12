@@ -13,12 +13,8 @@ visible:	true
 
 
 
-
 I use the following scales for the quality of things:
-
-
-<br>
-<a name="spiegel-quality"></a><br>
+<a name="spiegel-quality"></a>
 
 <div class="accordion">
 	<h3>Spiegelhalter on an estimate's quality</h3>
