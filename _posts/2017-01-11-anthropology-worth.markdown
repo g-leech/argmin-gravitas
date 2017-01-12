@@ -51,7 +51,8 @@ Unscientific research - in place of science, where scientific means could be app
 
 <div class="accordion">
     <h3>Mob science</h3>
-    <div>I continue to struggle to distinguish sociology and anthropology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic <i><a href="https://en.wikipedia.org/wiki/Verstehen">Verstehen</a> work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.
+    <div>
+        I continue to struggle to distinguish sociology and anthropology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic <i><a href="https://en.wikipedia.org/wiki/Verstehen">Verstehen</a></i> work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.
     </div>
 </div>
 
@@ -61,7 +62,7 @@ Unscientific research - in place of science, where scientific means could be app
 
 <br>
 
-Just because c-anthropology is very confused on _average_ doesn't speak badly of the field. 90% of everything is crap after all. <a href="#fn:12" id="fnref:12">12</a> For instance: I only recently realised the distinctive value of the philosopher Rousseau, an anthropologist in spirit: few Europeans really considered that there could be value in foreign cultures in his time. <a href="#fn:6" id="fnref:6">6</a> 
+Just because c-anthropology is very confused on _average_ doesn't allow us to write off the whole field. 90% of everything is crap after all. <a href="#fn:12" id="fnref:12">12</a> For instance: I only recently realised the distinctive value of the philosopher Rousseau, an anthropologist in spirit: few Europeans really considered that there could be value in foreign cultures in his time. <a href="#fn:6" id="fnref:6">6</a> 
 
 This sounds incredible in our hybridised culture, for we are obsessed with [fleeing oneself][Travel] and have a ridiculously rose-tinted idea of what pastoral life was and is actually like. But you can see disdainful total superiority in even the most intelligent commentators from the C17th, for instance Samuel Johnson. <a href="#fn:7" id="fnref:7">7</a>
 
@@ -73,9 +74,7 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
 <div class="accordion">
     
     <h3>Research programme</h3>
-    <div>
-
-    I'm being combative, but I am actually interested, too. I'm looking for answers to: <i>
+    <div>I'm being combative, but I am actually interested, too. I'm looking for answers to: <i>
 
     <ul>
     <li>What has cultural anthropology achieved?</li>
@@ -86,7 +85,7 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
     <li>Does [cultural evolution][CultEv] [theory][DualInt] subsume or supercede cultural anthropology?</li>
     <li>How unscientific is cultural anthropology? How can we tell?</li>
     </ul>
-    </div>
+    </i></div>
     
 
     <h3>e.g.: <i>What is the anthropological method?</i></h3>
