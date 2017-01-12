@@ -35,7 +35,7 @@ To put it lightly, this is counterproductive.
 1. First of all, it is a straightforwardly false claim about their peers - physical anthropologists and linguistic anthropologists have uncovered many [great][Kurgan] [and][Bones] [enduring][Homin] scientific discoveries. So this hegemonic statement is really a claim about _cultural_ anthropology, a subfield we can usually paraphrase as literary anthropology. <a href="#fn:2" id="fnref:2">2</a>
 
 
-2. It treats science as something alien to ordinary life, something distinctively Western. However, the only thing uniting the sciences is _taking evidence as seriously as possible_: pragmatically, 'science' is the practice of making systematic observations, relating these to possible explanations, and offering data and argument to peers for criticism and replication or disconfirmation. Ethnographers are absolutely scientists in this broad sense, even though some of their judgments (for instance about the semantic and symbolic aspects of a culture) have not been amenable to computational or statistical analysis. And it is absurd to suggest that non-Westerners have not played large parts in the endeavour, fast increasing.
+2. It treats science as something alien to ordinary life, something distinctively Western. However, the only thing uniting the sciences is _taking evidence as seriously as possible_: pragmatically, 'science' is the practice of making systematic observations, relating these to possible explanations, and offering data and argument to peers for criticism and replication or disconfirmation. Ethnographers are absolutely scientists in this broad sense, even though some of their judgments (for instance about the semantic and symbolic aspects of a culture) have not been amenable to computational or statistical analysis. <a href="#fn:13" id="fnref:13">13</a> And it is absurd to suggest that non-Westerners have not played large parts in the endeavour, fast increasing.
 
 3. Neither eliminative reductionism, excessive formalism or political dodginess are actually implied by the scientific method. <a href="#fn:3" id="fnref:3">3</a>. As a result, taking pride in not 'doing science' is chilling to me. <a href="#fn:9" id="fnref:9">9</a> Yes: they're trying to be humane. Yes, they're trying to resist [eliminative reductionism][ElMat], [mathiness][Mathy], and racism (the "arrogant perceptions of the weaker peoples as instrumental means of the global projects of the stronger"). <a href="#fn:4" id="fnref:4">4</a>
 
@@ -234,6 +234,10 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
     </li><br>
     <li class="footnote" id="fn:12">
         <i>Estimate quality</i>: <a href="/metrics">Spiegelhalter 0*</a>.
+    </li>
+    <li class="footnote" id="fn:13">
+        <br><blockquote>Science is what we understand well enough to explain to a computer. Art is everything else we do. </blockquote>
+        <div align="center">- Donald Knuth</div>
     </li>
 </ol>
 </div>
