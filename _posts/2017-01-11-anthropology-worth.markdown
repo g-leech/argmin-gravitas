@@ -47,7 +47,7 @@ As a result, taking pride in not 'doing science' is chilling to me. Yes: they're
 
 <br>
 
-Anti-scientific attitudes are discreditable on their own. But it's paired with active disdain of cultural anthropologists who do attempt science: e.g. [Jared Diamond][Diamond], [Napoleon Chagnon][Chagnon], [Steven Pinker][Survive], Pascal Boyer. <a href="#fn:5" id="fnref:5">5</a> Scientific cultural anthropology is a serious, interdisciplinary research programme shared with genetics and psychology. (It can be googled via "[cultural evolution][CultEv] [theory][DualInt]" or "coevolution".) Given that I haven't read much of it, given that I value truth more than conjecture, why would I spend time on the non-scientific kind?
+Unscientific research, where science could be fruitfully applied, is just discreditable. Unfortunately, it is here paired with active disdain of cultural anthropologists who do attempt science: e.g. [Jared Diamond][Diamond], [Napoleon Chagnon][Chagnon], [Steven Pinker][Survive], Pascal Boyer. <a href="#fn:5" id="fnref:5">5</a> Scientific cultural anthropology is a serious, interdisciplinary research programme shared with genetics and psychology. (It can be googled via "[cultural evolution][CultEv] [theory][DualInt]" or "coevolution".) Given that I haven't read much of it, given that I value truth more than conjecture, why would I spend time on the non-scientific kind?
 
 <br>
 
