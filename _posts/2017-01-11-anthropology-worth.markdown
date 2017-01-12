@@ -148,7 +148,7 @@ I couldn't find a reading list for "the cultural anthropology canon". This is _m
         An anthropologist friend has pointed out to me that American anthropology remains fairly scientific; most of the other geographical blocs diverged firmly into <a href="{{French}}">theory</a> in the late 60s. This makes the AAA's 2010 statement a coup as well as a calumny - given all the physical and linguistic anthropologists who work in their jurisdiction.<br>&nbsp;
     </li><br>
     <li class="footnote" id="fn:2">
-        Sigh, <a href="">but not always</a>.
+        Sigh, <a href="{{Dcosta}}">but not always</a>.
     </li><br>
     <li class="footnote" id="fn:3">
         Unless you conceive of objective truths as "cognitive imperialism", like <a href="{{Batshitste}}">Marie Battiste</a>: 
