@@ -51,8 +51,8 @@ Unscientific research - in place of science, where scientific means could be app
 
 <div class="accordion"><h3>Mob science</h3>
     <div>I continue to struggle to distinguish sociology and anthropology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic <i><a href="https://en.wikipedia.org/wiki/Verstehen">Verstehen</a> work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.</div>
+    </div>
 </div>
-
 <br>
 
 ---
@@ -111,7 +111,7 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
 
     My survey would probably just ask a Likert for each of the variables in <a href="https://docs.google.com/spreadsheets/d/14Bw1pqa-ZcGza9P3jV7wht8o9-xEJw0A0GpdN733MqE/edit?usp=sharing">my model of early modern science</a>. <a href="#fn:11" id="fnref:11">11</a>
     </div>
-    
+
 
     <h3>Reading List</h3>
     <div>I couldn't find a reading list for "the cultural anthropology canon". This is _maybe_ because the field is against things like canons, as hierarchical and Westernising or whatnot. So <a href="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/edit?usp=sharing">I made my own</a>, of the most apparently notable books in the non-scientific strand:
