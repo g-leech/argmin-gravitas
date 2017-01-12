@@ -82,7 +82,7 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
     <li>Is cultural anthropology unusually ideologically polluted?</li>
     <li>How does cultural or social anthropology differ from sociology?</li>
     <li>What is cultural anthropology's method?</li>
-    <li>Does <a href="{{CultEv}}">cultural evolution</a> <a href="{{DualInt}}">theory</a> subsume or supercede cultural anthropology?</li>
+    <li>Does cultural evolution theory subsume or supercede cultural anthropology?</li>
     <li>How unscientific is cultural anthropology? How can we tell?</i></li>
     </ul>
     </i></div>
