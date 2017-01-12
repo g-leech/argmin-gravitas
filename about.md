@@ -6,12 +6,14 @@ visible:	true
 ---
 
 
-I'm Gavin Leech, a data scientist at a large private org and also a '[research parasite][Parasite]'. This site is for original contributions to poverty, animal welfare, statistical reanalyses, [scientometrics][Sciento]; I aim to write essays and software still worth using [decades from now][LongContentIsLong].
+I'm Gavin Leech, a data scientist at a large private org, and also a '[research parasite][Parasite]'. This site is for original contributions to poverty, animal welfare, statistical reanalyses, [scientometrics][Sciento]; I aim to write essays and software still worth using [decades from now][LongContentIsLong].
 
 
 My current projects are:
 
-* Making up ways to measure political controversy.
+* [A library against link rot][Rot].
+* [Making up ways to measure political controversy][Contro]
+* [Looking for value in social anthropology][Anthro].
 * A study of poverty's inefficiencies.
 * A critique of juries (and maybe also all human law).
 * [The most morally anachronistic people in history][PridePrescience].
@@ -21,6 +23,7 @@ and, less readably:
 
 * Reading the King James Bible in full, one chapter a day. (3 years' labour.)
 * Further stats education.
+* O'Reilly Spark certification.
 * Joining a choir.
 * Kaggle for verifiable modelling skills.
 
@@ -54,6 +57,7 @@ I hope to beat the trend [spotted by Robin Hanson][Doom] about independent schol
 </script>
 
 
+
 [Parasite]:				http://blogs.sciencemag.org/pipeline/archives/2016/01/22/attack-of-the-research-parasites
 [Sciento]:				https://en.wikipedia.org/wiki/Scientometrics
 [LongContentIsLong]:	http://www.gwern.net/About#long-content
@@ -62,3 +66,6 @@ I hope to beat the trend [spotted by Robin Hanson][Doom] about independent schol
 [MyGiving]:				https://www.givingwhatwecan.org/igivedisplay?publicid=7778&publicauth=747719919
 [Doom]:					http://www.overcomingbias.com/2016/12/chip-away-at-hard-problems.html
 [PridePrescience]:		https://docs.google.com/spreadsheets/d/1c2NrUwnWR-emBf6QGwVeTjkma67Ibeb9eGp4eYvnWmE/edit?usp=sharing
+[Contro]:				/controversy-technical
+[Anthro]:				/anthropology
+[Rot]:					https://github.com/gavin-leech/rotgone
