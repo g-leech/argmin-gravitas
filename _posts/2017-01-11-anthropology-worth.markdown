@@ -167,7 +167,7 @@ I couldn't find a reading list for "the cultural anthropology canon". This is _m
         Sigh, but yes he was <a href="{{Influx}}">in practice very xenophobic</a>.
     </li><br>
     <li class="footnote" id="fn:7">
-        Who was, admittedly, not known as a beacon of tolerance even towards peoples as nearby as his fellow British:
+        Who was, admittedly, not known as a beacon of tolerance even towards peoples as nearby as fellow Brits:<br>
         <blockquote>The author of these memoirs will remember, that Johnson one day asked him, 'Have you observed the difference between your own country impudence and Scottish impudence?' The answer being in the negative: 'Then I will tell you,' said Johnson. 'The impudence of an Irishman is the impudence of a fly, that buzzes about you, and you put it away, but it returns again, and flutters and teazes you. The impudence of a Scotsman is the impudence of a leech, that fixes and sucks your blood.' 
         </li>blockquote>
         <br>- Arthur Murphy<br>&nbsp;
