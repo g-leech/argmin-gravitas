@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+
+<link rel="stylesheet" href="/css/jquery-ui.min.css">
+
+
 <div class="post">
 
   <header class="post-header">
@@ -10,5 +14,21 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
+
+
+  <script src="/js/jquery.min.js" ></script>
+  <script src="/js/bigfoot.min.js"></script>
+  <script src="/js/jquery-ui.min.js"></script>
+  <script>
+    $.bigfoot(
+    {
+      positionContent: true
+    });
+
+    $( function() {
+      $( ".accordion" ).accordion({ active: false, collapsible: true });
+    } );
+  </script>
+
 
 </div>
