@@ -17,6 +17,7 @@ categories: cause prioritisation, effective altruism, quantification fever
 ---
 
 
+
 <!-- 	WORDS	-->
 [Around 90 health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. <a href="#fn:1" id="fnref:1">1</a> Violent campaigns have also been waged recently against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
 
@@ -45,7 +46,7 @@ $$
 $$
 
 <br>
-<div id="speculatively">
+<div class="accordion">
   <h3>Or, speculatively</h3>
 	something more involved like:
 
@@ -55,11 +56,11 @@ $$
 			\text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	
 		$$
 	</div>
-
 </div>
 
 
-<br><br></div>
+<br><br>
+</div>
 
 (Obstructionism manifests as delay, negotiation &amp; PR costs, extra legal costs, hazard insurance, or reduced volunteering and uptake. Controversy appears in the _obstruction_ equation, to model sensitivity to bad PR in politicians and NGOs.
 ‘Counter-activism’ is to be understood as _effective_ obstruction.)
@@ -192,14 +193,7 @@ These are the senses I would investigate in relation to obstruction.
 		</ul>
     </li><br>
 </ol></div>
-
-<link rel="stylesheet" href="/css/jquery-ui.min.css">
-<script src="/js/jquery-ui.min.js"></script>
-<script>
-  $( function() {
-    $( "#speculatively" ).accordion();
-  } );
-</script>		
+	
 
 
 <!---->
