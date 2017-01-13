@@ -4,10 +4,6 @@ title:    argmin gravitas
 visible:  false
 ---
 
-<style>
-  table td + td { border-left:1px; }
-</style>
-
 
 <div class="home">
   
@@ -23,7 +19,7 @@ visible:  false
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a>
         </h3> <small>{{ post.summary }}</small></td>
 
-        <td> <small>
+        <td style="border-left:1px;"> <small>
           {% if post.simple %} <a href="{{post.baselink | prepend: site.baseurl}}-simple">Simple</a><br> {% endif %}
           {% if post.stylised %} <a href="{{post.baselink | prepend: site.baseurl}}">Stylised</a><br> {% endif %}
           {% if post.technical %} <a href="{{post.baselink | prepend: site.baseurl}}-technical">Technical</a> {% endif %}
