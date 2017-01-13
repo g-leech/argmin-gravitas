@@ -100,7 +100,7 @@ I probably won't get around to systematically stating a worldview. (Such things 
 
 	</ul></div>
 
-</div>
+</div><br>
 
 
 > An aphorism is an algorithm, of we know not what input,
