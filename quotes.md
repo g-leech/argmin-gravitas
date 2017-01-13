@@ -108,8 +108,12 @@ I probably won't get around to systematically stating a worldview. (Such things 
 		<li>Mantra: <i>One</i>, what are they saying? <i>Two</i>, are they telling the truth? <i>Three</i>, does their reasoning follow? <i>Four</i>, what are they missing out? <i>Five, or, zero</i>: why are they writing about this at all? </li>
 		<br /><br />
 
+		<li><i>Trust a work of criticism in proportion to the amount of direct quotations it makes.</i></li>
+		<br /><br />
+
 		<li>We must treat fools differently to assholes &#8211; and almost everyone is more fool than asshole.</li>
 		<br /><br />
+		
 	</ul></div>
 
 </div>
