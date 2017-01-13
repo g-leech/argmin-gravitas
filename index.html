@@ -1,8 +1,13 @@
 ---
 layout:   default
-title:    grit / technicalities
+title:    argmin gravitas
 visible:  false
 ---
+
+<style>
+  table td + td { border-left:1px; }
+</style>
+
 
 <div class="home">
   
@@ -18,10 +23,10 @@ visible:  false
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a>
         </h3> <small>{{ post.summary }}</small></td>
 
-        <td> <small><ul>
-          {% if post.simple %} <li><a href="{{post.baselink | prepend: site.baseurl}}-simple">Simple</a></li> {% endif %}
-          {% if post.stylised %} <li><a href="{{post.baselink | prepend: site.baseurl}}">Stylised</a></li> {% endif %}
-          {% if post.technical %} <li><a href="{{post.baselink | prepend: site.baseurl}}-technical">Technical</a></li> {% endif %}
+        <td> <small>
+          {% if post.simple %} <a href="{{post.baselink | prepend: site.baseurl}}-simple">Simple</a><br> {% endif %}
+          {% if post.stylised %} <a href="{{post.baselink | prepend: site.baseurl}}">Stylised</a><br> {% endif %}
+          {% if post.technical %} <a href="{{post.baselink | prepend: site.baseurl}}-technical">Technical</a> {% endif %}
         </small></td>
       </tr>
       {% endif  %}

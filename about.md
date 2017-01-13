@@ -20,7 +20,9 @@ I'm a member of [Giving What We Can][GWWC], a group of people who have pledged s
 ---
 
 <br>
-The blog title is a reference to Iain Banks' _[Culture][Cult]_ novels, in which AIs mock pompous aliens by giving themselves names with lots of _gravitas_ in. To take the <i>[arg min][Arg]</i> of a function is to find the thing which results in the lowest value. So I am what results in the least possible gravitas.
+
+The blog title is a reference to Iain Banks' _[Culture][Cult]_ novels, in which AIs mock pompous aliens by giving themselves names with lots of _gravitas_ in. To take the <i>[arg min][Arg]</i> of a function is to find the thing which results in the lowest value. So, I am what results in the least possible gravitas.
+
 <br>
 
 ---
@@ -32,15 +34,6 @@ Above all I hope to beat the trend [spotted by Robin Hanson][Doom] about indepen
 > over time amateurs blow their lead by focusing less and relying on easier, more direct methods. They rely more on informal conversation as analysis method, they prefer personal connections over open competitions in choosing people, and they rely more on a perceived consensus among a smaller group of fellow enthusiasts. As a result, their contributions just don’t appeal as widely or as long.
 
 <br><br>
-
-<script src="/js/jquery.min.js" ></script>
-<script src="/js/tooltip.js"></script>
-
-<script>
-  $(document).ready(function(){
-      $('[data-toggle="tooltip"]').tooltip( { animations: true, html:true , trigger:"click hover", placement:"below" } );
-  });
-</script>
 
 
 [Proj]:					/projects/
