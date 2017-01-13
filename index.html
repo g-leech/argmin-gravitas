@@ -7,7 +7,7 @@ visible:  false
 <div class="home">
   
   <h1 class="page-heading">Recent Posts</h1>
-    <table class="post-list">
+    <hr /><hr /><table class="post-list">
     
     {% for post in site.posts limit:8 %}
       {% if post.visible == 1  %}
@@ -23,7 +23,7 @@ visible:  false
           {% if post.technical %} <li><a href="{{post.baselink | prepend: site.baseurl}}-technical">Technical</a></li> {% endif %}
         </small></td>
       </tr>
-      <hr />
+      <tr><hr /></tr>
 
       {% endif  %}
     {% endfor %}
