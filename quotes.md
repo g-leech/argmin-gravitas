@@ -106,9 +106,9 @@ to we know not what output.
 <div align="center">— Gwern Branwen</div><br>
 
 
-
+<script src="/js/jquery.min.js" ></script>
 <script src="/js/bigfoot.min.js"></script>
-<script>$.bigfoot({ positionContent: true }});</script>
+<script>$.bigfoot({ positionContent: true });</script>
 
 <div class="footnotes"><ol>
     <!-- 1 -->
