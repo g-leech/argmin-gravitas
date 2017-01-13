@@ -6,29 +6,9 @@ visible:	true
 ---
 
 
-I'm Gavin Leech, a data scientist at a large private org, and also a '[research parasite][Parasite]'. This site is for original contributions to poverty, animal welfare, statistical reanalyses, [scientometrics][Sciento]; I aim to write essays and software still worth using [decades from now][LongContentIsLong].
+I'm Gavin Leech, a data scientist at a large private org, and also a '[research parasite][Parasite]'. This site is for original contributions to poverty, animal welfare, statistical reanalyses, [scientometrics][Sciento] and the quantified self; I aim to write essays and software still worth using [decades from now][LongContentIsLong]. [My current projects are here][Proj].
 
-
-My current projects are:
-
-* [A library against link rot][Rot].
-* [Making up ways to measure political controversy][Contro]
-* [Looking for value in social anthropology][Anthro].
-* A study of poverty's inefficiencies.
-* A critique of juries (and maybe also all human law).
-* [The most morally anachronistic people in history][PridePrescience].
-* A guide to _Adventure Time_ for international-relations realists.
-
-and, less readably:
-
-* Reading the King James Bible in full, one chapter a day. (3 years' labour.)
-* Further stats education.
-* O'Reilly Spark certification.
-* Joining a choir.
-* Kaggle for verifiable modelling skills.
-
-
-I am inspired by people like [Uri Simonsohn][Colada], '[Gwern Branwen](https://gwern.net)', [Jeff Kauffman](https://www.jefftk.com/index), [Andrew Gelman](http://andrewgelman.com/), '[Scott Alexander](http://slatestarcodex.com/)', [Noah Smith](noahpinionblog.blogspot.co.uk/), '[Kelsey Caring](http://theunitofcaring.tumblr.com/)', '[Artir Nintil](https://nintil.com/)', and [Chris Dillow](http://stumblingandmumbling.typepad.com/).
+People like [Uri Simonsohn][Colada], '[Gwern Branwen](https://gwern.net)', [Jeff Kauffman](https://www.jefftk.com/index), [Andrew Gelman](http://andrewgelman.com/), '[Scott Alexander](http://slatestarcodex.com/)', [Noah Smith](noahpinionblog.blogspot.co.uk/), '[Kelsey Caring](http://theunitofcaring.tumblr.com/)', '[Artir Nintil](https://nintil.com/)', and [Chris Dillow](http://stumblingandmumbling.typepad.com/) inspire me.
 
 
 <a name="giving"></a>
@@ -39,7 +19,9 @@ I'm a member of [Giving What We Can][GWWC], a group of people who have pledged s
 
 ---
 
-The blog title is a reference to Iain Banks' _Culture_ novels, in which AIs mock pompous aliens by giving themselves names with lots of _gravitas_ in. To take the <i>arg min</i> of a function is to find the thing which results in the lowest value. So I am what results in the least possible gravitas.
+<br>
+The blog title is a reference to Iain Banks' _[Culture][Cult]_ novels, in which AIs mock pompous aliens by giving themselves names with lots of _gravitas_ in. To take the <i>[arg min][Arg]</i> of a function is to find the thing which results in the lowest value. So I am what results in the least possible gravitas.
+<br>
 
 ---
 
@@ -61,7 +43,9 @@ Above all I hope to beat the trend [spotted by Robin Hanson][Doom] about indepen
 </script>
 
 
-
+[Proj]:					/projects/
+[Cult]:					http://bryanschuetz.github.io/culture-namer/ships/experiencing-significant-gravitas-shortfall/
+[Arg]:					http://math.stackexchange.com/questions/227626/explanation-on-arg-min
 [Parasite]:				http://blogs.sciencemag.org/pipeline/archives/2016/01/22/attack-of-the-research-parasites
 [Sciento]:				https://en.wikipedia.org/wiki/Scientometrics
 [LongContentIsLong]:	http://www.gwern.net/About#long-content
