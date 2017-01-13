@@ -13,9 +13,8 @@ visible:	true
 
 <br>
 
-I probably won't get around to systematically stating a worldview. (Such things are maybe bad for you anyway.) But I like aphorisms, so here's an atomic version of it:
+I probably won't get around to systematically stating a worldview. (Such things are maybe bad for you anyway. <a href="fn:1" id="fn:1">1</a>) But I like aphorisms, so here's an atomic version of it:
 
-<br>
 
 <div class="accordion">
 	<h3>epistemology</h3><div>
@@ -107,3 +106,17 @@ I probably won't get around to systematically stating a worldview. (Such things 
 to we know not what output.
 
 <div align="center">— Gwern Branwen</div><br>
+
+
+
+<div class="footnotes"><ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+	<blockquote>Gewöhnlich strebt man darnach, für alle Lebenslagen und Ereignisse eine Haltung des Gemüthes, eine Gattung von Ansichten zu erwerben, - das nennt man vornehmlich philosophisch gesinnt sein. Aber für die Bereicherung der Erkenntniss mag es höheren Werth haben, nicht in dieser Weise sich zu uniformiren, sondern auf die leise Stimme der verschiedenen Lebenslagen zu hören; diese bringen ihre eigenen Ansichten mit sich. So nimmt man erkennenden Antheil am Leben und Wesen Vieler, indem man sich selber nicht als starres, beständiges, Eines Individuum behandelt.</blockquote><br>
+
+	"Generally we strive to acquire one mental stance, one genre of views for all situations and events: we usually call that a 'philosophical' frame of mind. But, to enrich our knowledge, rather than making oneself uniform, one can listen to the soft voice of different situations... Thus we share the lives and natures of many people - by not treating ourselves like a rigid, invariable, singular atom."<br>
+
+	<div align="center">- Nietzsche</div>
+</li>
+</ol>
+<br>
