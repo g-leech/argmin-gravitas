@@ -11,11 +11,6 @@ visible:	true
 
 <div align="center">— Emil Cioran</div><br>
 
-> An aphorism is an algorithm, of we know not what input,
-to we know not what output.
-
-<div align="center">— Gwern Branwen</div><br>
-
 <br>
 
 I probably won't get around to systematically stating a worldview. (Such things are maybe bad for you anyway.) But I like aphorisms, so here's an atomic version of it:
@@ -100,6 +95,15 @@ I probably won't get around to systematically stating a worldview. (Such things 
 		<li>We must treat fools differently to assholes &#8211; and almost everyone is more fool than asshole.</li>
 		<br /><br />
 
+		<li><i></i>I don't love economics; I hate bad economics.</li>
+		<br /><br />
+
 	</ul></div>
 
 </div>
+
+
+> An aphorism is an algorithm, of we know not what input,
+to we know not what output.
+
+<div align="center">— Gwern Branwen</div><br>
