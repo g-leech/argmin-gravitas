@@ -106,7 +106,10 @@ I probably won't get around to systematically stating a worldview. (Such things 
 	<div><ul>
 
 		<li>Mantra: <i>One</i>, what are they saying? <i>Two</i>, are they telling the truth? <i>Three</i>, does their reasoning follow? <i>Four</i>, what are they missing out? <i>Five, or, zero</i>: why are they writing about this at all? </li>
+		<br /><br />
 
+		<li>We must treat fools differently to assholes &#8211; and almost everyone is more fool than asshole.</li>
+		<br /><br />
 	</ul></div>
 
 </div>
