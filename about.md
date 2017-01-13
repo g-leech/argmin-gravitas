@@ -21,7 +21,7 @@ I'm a member of [Giving What We Can][GWWC], a group of people who have pledged s
 
 <br>
 
-The blog title is a reference to Iain Banks' _[Culture][Cult]_ novels, in which AIs mock pompous aliens by giving themselves names with lots of _gravitas_ in. To take the <i>[arg min][Arg]</i> of a function is to find the thing which results in the lowest value. So, I am what results in the least possible gravitas.
+The title alludes to Iain Banks' _[Culture][Cult]_ novels, in which people mock pompous aliens by giving themselves names with lots of _gravitas_. To take the <i>[arg min][Arg]</i> of a function is to find the thing which results in the lowest value. 
 
 <br>
 
