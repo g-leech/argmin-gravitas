@@ -11,8 +11,6 @@ visible:	true
 
 <div align="center">— Emil Cioran</div><br>
 
-<br>
-
 I probably won't get around to systematically stating a worldview. (Such things are maybe bad for you anyway. <a href="fn:1" id="fn:1">1</a>) But I like aphorisms, so here's an atomic version of it:
 
 
@@ -109,6 +107,9 @@ to we know not what output.
 
 
 
+<script src="/js/bigfoot.min.js"></script>
+<script>$.bigfoot({ positionContent: true }});</script>
+
 <div class="footnotes"><ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
@@ -120,3 +121,4 @@ to we know not what output.
 </li>
 </ol>
 <br>
+
