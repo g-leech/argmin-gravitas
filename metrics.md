@@ -19,7 +19,7 @@ I use the following scales for the quality of things:
 <div class="accordion">
 	<h3>Spiegelhalter on an estimate's quality</h3>
 	<div><a href="{{Spieg}}">David Spiegelhalter</a> has a nice rule of thumb for how much to trust estimates:
-	<ul>
+	<br><ul>
 	<li><b>4* : <i>numbers we can believe</i></b>
 		<div><blockquote>so accurate than we can, to all intents and purposes, treat them as true</blockquote>.</div>
 	</li>
@@ -38,27 +38,27 @@ I use the following scales for the quality of things:
 	</li>
 	<li>
 		<b>0* : <i>numbers that were just made up</i></b>
-		<div>Not evidence; negative information. Even odds of having the correct sign.</div>
+		<div><blockquote>Not evidence; negative information. Even odds of having the correct sign.</blockquote></div>
 	</li>
-	</ul>
+	</ul><br>
 	(Obviously for some things - pharmacology and space travel come to mind - anything but 4* is unacceptably poor.)
 	<a name="cochrane-quality"></a>
 	</div>
 
 
 	<h3>Cochrane on evidence quality</h3>
-	<div>For serious work I use the Cochrane Collaboration's <a href="{{GRADE}}">GRADE scale</a>:
+	<div>For serious work I use the Cochrane Collaboration's <a href="{{GRADE}}">GRADE scale</a>:<br>
 		<ul><li>GRADE ⊕⊕⊕⊕ : As good as a well-run randomized trial.</li>
 		<li>GRADE ⊕⊕⊕ : As good as a downgraded randomized trial; or an upgraded observational study.</li>
 		<li>GRADE ⊕⊕ : As good as an observational study (or a double-downgraded randomized trial).</li>
 		<li>GRADE ⊕ : As good as case reports (or triple-downgraded randomized trials...</li>
-		</ul>
+		</ul><br>
 	<a name="confidence"></a>
 	</div>
 
 
 	<h3>Spiegelhalter on confidence in result </h3>
-	<div>
+	<div><br>
 		<ul>
 		<li>95%: "We understand the underlying process. Although we cannot predict what is going to happen, we can provide good numerical assessments."</li>
 
@@ -73,13 +73,31 @@ I use the following scales for the quality of things:
 
 
 	<h3>Christgau on the universality of artworks </h3>
-	<div>One way an artwork can be important is if it is universal: is its quality obvious even to people who aren't into that sort of thing? Robert Christgau scores all albums <a href="{{Christg}}">on this scale</a>.
+	<div>One way an artwork can be important is if it is universal: is its quality obvious even to people who aren't into that sort of thing? Robert Christgau's complicated <a href="{{Christg}}">album rating scale</a> has this at its apex, but also gives "Honourable Mention" credit conditional on the listener being open to that album's particular aesthetic - brilliant:<br>
+
+	<ul>	
+ 		<li>An A+ is a record of sustained beauty, power, insight, groove, and/or googlefritz that has invited and repaid repeated listenings in the daily life of someone with 500 other CDs to get to.</li><br>
+
+		<li>An A is a record that rarely flags for more than two or three tracks. Not every listener will feel what it's trying to do, but anyone with ears will agree that it's doing it.</li><br>
+
+		<li>An A- is the kind of garden-variety good record that is the great luxury of musical micromarketing and overproduction. Anyone open to its aesthetic will enjoy more than half its tracks.</li><br>
+
+		<li>A B+ is remarkable one way or another, yet also flirts with the humdrum or the half-assed.</li><br>
+
+		<li>A *** Honorable Mention is an enjoyable effort consumers attuned to its overriding aesthetic or individual vision may well treasure.</li><br>
+
+		<li>A ** Honorable Mention is an likable effort consumers attuned to its overriding aesthetic or individual vision may well enjoy.</li><br>
+
+		<li>A * Honorable Mention is a worthy effort consumers attuned to its overriding aesthetic or individual vision may well like.</li><br>
+
+		<li>A Neither (Neither) may impress once or twice with consistent craft or an arresting track or two. Then it won't...</li>
+
 	<a name="galef-books"></a>
 	</div>
 
 
 	<h3>Galef on book impacts  </h3>
-	<div>Julia Galef has <a href="{{Galef}}">a neat taxonomy</a> of ways that books can affect your worldview. Her model is that a book can 
+	<div>Julia Galef has <a href="{{Galef}}">a neat taxonomy</a> of ways that books can affect your worldview. Her model is that a book can <br>
 		<ol>
 		<li>offer you new Data, or </li>
 		<li>Theories to explain data, or </li>
@@ -93,7 +111,7 @@ I use the following scales for the quality of things:
 
 
 	<h3>Leech on book durability</h3>
-	<div>I approximate a book's value by guessing how often I'll reread it. This rewards dense books, sure, but also ones with broad and complex messages, durability, appeal to people of different ages, and also just the pleasure and beauty of them. I think most books are not worth the time and a small number (< 8% in <a href="{{MyReading}}">a highly selected sample</a> are worth more than one reading.
+	<div>I approximate a book's value by guessing how often I'll reread it. This rewards dense books, sure, but also ones with broad and complex messages, durability, appeal to people of different ages, and also just the pleasure and beauty of them. I think most books are not worth the time and a small number (< 8% in <a href="{{MyReading}}">a highly selected sample</a>) are worth more than one reading.<br>
 
 	<ul><li>1/5: Not worth one reading.</li>
 	<li>2/5: One read maybe, if you're into the topic.</li>
