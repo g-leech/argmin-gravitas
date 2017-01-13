@@ -25,41 +25,9 @@ My research question is _How can we estimate political controversy? How can we r
 
 Naı̈vely, the relation would involve at least the following terms:<a name="maths"></a><br><br>
 
-<div align="center">
 
-$$ \text{tractability} = \Large{f}\left( \normalsize{\substack{\text{asocial}\\\text{cost:benefit}}, \substack{\text{social capital of}\\\text{ intervening party }}} \right) - \normalsize{\text{obstruction}} $$
-</div><i>where</i>
+{%	include controversy/sums.html	%}
 
-<div align="center">
-
-$$
-	\text{asocial cost:benefit}  = \Large{f}\left(\,\normalsize{ \substack{\text{prima facie}\\\text{cost:benefit}} \,,\,\, 				\substack{\text{intervention}\\\text{track record}} , \substack{\text{theoretical}\\\text{strength}} , 					\substack{\text{measurability}} }\,	\right)
-$$
-$$
-	\text{obstruction} = 	\Large{f} \left(\,\,	\normalsize{ \text{counter-activism, controversy }}   \right) 
-$$
-$$
-	\text{ counter-activism } =	\Large{f} \left( \normalsize{ \text{ controversy}, \substack{\text{social capital}\\\text{of opponents}}	, \text{P(violence)} } \right)
-$$
-$$ 
-	\text{controversy} = \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) 
-$$
-
-<br>
-<div class="accordion">
-  <h3>Or, speculatively</h3>
-	<div align="center">
-		something more involved like:<br>
-
-		$$ 
-			\text{controversy} = \left( \substack{\text{\% population}\\\text{opposed}} \times  \left( 1 \,+\, \substack{\text{extent of state}\\ \text{involvement}}\right) + \,\substack{\text{weirdness}\\ \text{of cause}} \right) \times \substack{\text{media}\\ \text{coverage}}	
-		$$
-	</div>
-</div>
-
-
-<br><br>
-</div>
 
 (Obstructionism manifests as delay, negotiation &amp; PR costs, extra legal costs, hazard insurance, or reduced volunteering and uptake. Controversy appears in the _obstruction_ equation, to model sensitivity to bad PR in politicians and NGOs.
 ‘Counter-activism’ is to be understood as _effective_ obstruction.)
@@ -168,50 +136,5 @@ These are the senses I would investigate in relation to obstruction.
 
 <br><br>
 
-<!--	Fn	-->
-<div class="footnotes"><ol>
-    <!-- 1 -->
-    <li class="footnote" id="fn:1">
-    	Re: "Around 90":
-        <br><i>Estimate quality</i>: OK, a <a href='/#spiegel-quality/'>Spiegelhalter (3*)</a>. (No data, no names given.)
-        <br><i>Source</i>: 
-        <a href="http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu ">Newsweek</a>.
-        <br><i>Importance to argument</i>: Low.<br>&nbsp;
-    </li><br>
-	<!-- 2 -->
-    <li class="footnote" id="fn:2">
-        Though detailed precursors exist in the abstract, e.g. <a href='http://effective-altruism.com/ea/11i/the_effective_altruism_newsletter_open_thread/8m6'>Social Choice theory</a>.
-    </li><br>
-    <!-- 3 -->
-    <li class="footnote" id="fn:3">
-		e.g.: <span style="font-weight: bold">Sources of political controversy</span>:<br>
-		<ul>
-		<li> <i>Asymmetric information</i>. Spurious controversies, based in error - as plausibly occurred when Boko Haram killed polio health workers on suspicion of being American spies. We might think that the sustainable strategy is simple: do not compromise, but spread the truth.</li><br>
-		<li> <i>Bias (thick empirical judgments)</i>. People will endorse different empirical claims according to their ideology. A major obstacle to working in controversial cause areas is, then, what Dan Kahan calls the "politically motivated reasoning paradigm", an apparently increasing tendency for people to interpret evidence in favour of their political side (especially highly educated people, he claims).</li><br>
-		<li> <i>Irreconcilable value pluralism</i>. The least tractable of all: options are convert or overrule.</li>
-		</ul>
-    </li><br>
-</ol></div>
-	
-
-
-<!---->
-
-[Spiegel]:		http://technicalities.netlify.com/metrics/#spiegel-quality
-[Poliohno]:		http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu 
-[Schoolsout]:	http://www.protectingeducation.org/sites/default/files/documents/eua_2014_full.pdf 
-[Ruined]:		https://en.wikipedia.org/wiki/Destruction_of_cultural_heritage_by_ISIL 				
-[Unabomb]:		https://en.wikipedia.org/wiki/Ted_Kaczynski#Casualties 
-[Obs]:			https://en.wikipedia.org/wiki/Obstructionism
-
-[80k]:			https://80000hours.org/2014/01/which-cause-is-most-effective-300/#TheList
-
-[Garim-Twitter]:	https://arxiv.org/pdf/1512.05550.pdf
-[Garim2]:		https://arxiv.org/pdf/1507.05224v1.pdf
-[CB2]:			https://www.fhi.ox.ac.uk/estimating-cost-effectiveness/
-[Kittur]:		http://www-users.cs.umn.edu/~echi/papers/2009-CHI2009/p1509.pdf
-[Steen]:		http://content.csbs.utah.edu/~burbank/steenbergen2003.pdf
-[Kahan]:		https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703011
-[Rad]:			http://www.math.iit.edu/~rellis/teaching/454553All/GoodModules/WikipediaEditWars.pdf
-[Wib]:			http://effective-altruism.com/ea/ss/the_importantneglectedtractable_framework_needs/
-[TheTerritory]:	https://en.wikipedia.org/wiki/Data_generating_process
+{%	include controversy/foots.html	%}
+{%	include controversy/links.md	%}
