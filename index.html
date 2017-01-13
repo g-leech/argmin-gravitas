@@ -12,7 +12,7 @@ visible:  false
     {% for post in site.posts limit:8 %}
       {% if post.visible == 1  %}
       <tr>
-        <td style="width:80%;padding: 20px;">
+        <td style="width:80%;padding:20px;padding-bottom:30px;">
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h3 style="padding: 0px; margin: 0px;">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a>
