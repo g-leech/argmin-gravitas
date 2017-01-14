@@ -141,14 +141,13 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
     </div>
 
     <h3>Reading List</h3>
-    <div id="listFrame">I couldn't find a reading list for "the cultural anthropology canon". This is _maybe_ because the field is against things like canons, as hierarchical and Westernising or whatnot. So <a href="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/edit?usp=sharing">I made my own</a>, of the most apparently notable books in the non-scientific strand:<br><br>
+    <div id="listFrame">I couldn't find a reading list for "the cultural anthropology canon". This is <i>maybe</i> because the field is against things like canons, as hierarchical and Westernising or whatnot. So <a href="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/edit?usp=sharing">I made my own</a>, of the most apparently notable books in the non-scientific strand:<br><br>
     
     
     {%  include js/lazyFrame.html %}
     <script>  
-        src = "https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"
-        what = "listFrame"
-        definiteEvent( createIframe, [src, what] ); // ({{ReadingFrame}}, "listFrame"]);
+        src = "https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;chrome=false"
+        definiteEvent( createIframe, [src, "listFrame"] ); 
     </script>
     </div>
 </div>
