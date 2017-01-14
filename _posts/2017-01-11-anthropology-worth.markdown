@@ -146,7 +146,8 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
     
     {%  include js/lazyFrame.html %}
     <script>  
-        src = "https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;chrome=false"
+        var src = "https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?chrome=false"; 
+        //gid=0&amp;single=true&amp;headers=false&amp;widget=false&amp;chrome=false"
         definiteEvent( createIframe, [src, "listFrame"] ); 
     </script>
     </div>
