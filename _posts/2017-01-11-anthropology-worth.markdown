@@ -14,11 +14,12 @@ warnings:    politicised epistemology, relativism
 categories: philosophy of science, anthropology, scepticism
 ---
 
+{%  include anthro/links.md   %}
+
 <img src="/img/Olduvai.jpg" />
 
-<div align="center"><small>Olduvai Gorge (2009), by <a href="http://www.flickr.com/photos/37563893@N00/4108809278/">Noel Feans</a></small></div>
+<div align="center"><small>Olduvai Gorge (2009), by <a href="http://www.flickr.com/photos/37563893@N00/4108809278/">Noel Feans</a></small></div><br>
 
-<br>
 
 Social science is _hard_. Most social phenomena involve [thousands][Causa] [of subtle effects][Manzi], of several [different][Proph] [ontological sorts][Reason], all acting on relevant populations up to about [a billion units][Nation] in size - and even if you were ever able to cement any results about it, and publicise them, a portion of your subjects would immediately [change in response][Reflex] - to spite you.
 
@@ -41,6 +42,7 @@ To put it lightly, this is counterproductive.
 
 
 <br>
+
 <div class="accordion">
     <h3>Cognitive imperialism</h3>
     <div>Some people, like <a href="{{Batshitste}}">Marie Battiste</a>, call the discovery and diffusion of objective truths "cognitive imperialism": 
@@ -140,9 +142,6 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
 
     <h3>Reading List</h3>
     <div>I couldn't find a reading list for "the cultural anthropology canon". This is _maybe_ because the field is against things like canons, as hierarchical and Westernising or whatnot. So <a href="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/edit?usp=sharing">I made my own</a>, of the most apparently notable books in the non-scientific strand:<br><br>
-
-
-    {%  include anthro/links.md   %}
     
     <button onClick='document.getElementById("reading").src="{{ReadingFrame}}";'>Load canon</button>
     <iframe id="reading" frameborder="0" width="550" height="400"></iframe>
