@@ -47,3 +47,4 @@
 {%   assign Bush = "http://www.nytimes.com/2004/10/17/magazine/faith-certainty-and-the-presidency-of-george-w-bush.html"   %}
 {%   assign Influx = "https://books.google.co.uk/books?id=MfDnCwAAQBAJ&pg=PA196&lpg=PA196&dq=influx+of+foreigners+rousseau&source=bl&ots=s0fP7min2c&sig=eJnatuX5NgvLoKDWUsua8Q8-y_4&hl=en&sa=X&ved=0ahUKEwiOk_DciLvRAhUCG5oKHUVJCJcQ6AEIGjAA#v=onepage&q=influx%20of%20foreigners&f=false"   %}
 {%   assign ConRel = "https://plato.stanford.edu/entries/relativism/#ConRel" %}
+{%  assign ReadingFrame = 'https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" height="400px" width="100%"' %}
