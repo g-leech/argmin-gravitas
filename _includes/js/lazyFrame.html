@@ -1,0 +1,20 @@
+<script>
+function createIframe(src, what) {
+          var i = document.createElement("iframe");
+          i.src = src
+          i.frameborder = "0";
+          i.width = "100%";
+          i.height = "400px";
+          document.getElementById(what).appendChild(i);
+}
+
+function definiteEvent(callback, args) {
+	if (window.addEventListener) {
+	    window.addEventListener("load", callback.apply(this, args), false);
+	}
+	else if (window.attachEvent) {
+	    window.attachEvent("onload", callback.apply(this, args));
+	}
+	else window.onload = callback.apply(this, args);
+}
+</script>
