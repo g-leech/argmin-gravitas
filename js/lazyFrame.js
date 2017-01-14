@@ -1,6 +1,6 @@
 function createIframe() {
           var i = document.createElement("iframe");
-          i.src = "{{ReadingFrame}}";
+          i.src = "https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"
           i.frameborder = "0";
           i.width = "100%";
           i.height = "400px";
