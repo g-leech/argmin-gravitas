@@ -10,7 +10,6 @@ My current projects are:<br>
 
 {%  include js/lazyFrame.html %}
 <script>  
-	var gav_is_a_dweeb = True;
     var src = "https://docs.google.com/spreadsheets/d/1UPP_74QYHZ3wysRL9Oe7Qr8SNIyaa9A8E957S5F3NAY/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;chrome=false"
     definiteEvent( createIframe, [src, "listFrame"] ); 
 </script>
