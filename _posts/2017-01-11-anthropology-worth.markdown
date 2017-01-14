@@ -70,7 +70,7 @@ Unscientific research (where scientific means could be fruitful) is just discred
 <div class="accordion">
     <h3>Mob science</h3>
     <div>
-        I continue to struggle to distinguish anthropology and <a href="">soft</a> sociology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic <i><a href="https://en.wikipedia.org/wiki/Verstehen">Verstehen</a></i> work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.
+        I continue to struggle to distinguish anthropology and <a href="{{Phenom}}">soft</a> sociology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic <i><a href="https://en.wikipedia.org/wiki/Verstehen">Verstehen</a></i> work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.
     </div>
 </div>
 
