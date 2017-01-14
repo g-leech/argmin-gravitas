@@ -141,11 +141,13 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
     </div>
 
     <h3>Reading List</h3>
-    <div>I couldn't find a reading list for "the cultural anthropology canon". This is _maybe_ because the field is against things like canons, as hierarchical and Westernising or whatnot. So <a href="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/edit?usp=sharing">I made my own</a>, of the most apparently notable books in the non-scientific strand:<br><br>
+    <div id="listFrame">I couldn't find a reading list for "the cultural anthropology canon". This is _maybe_ because the field is against things like canons, as hierarchical and Westernising or whatnot. So <a href="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/edit?usp=sharing">I made my own</a>, of the most apparently notable books in the non-scientific strand:<br><br>
     
     <div align="center">
-        <button id="boom" onClick='document.getElementById("reading").src="{{ReadingFrame}}";document.getElementById("boom").display:none'>Load canon</button>
+        <button id="boom" onClick='document.getElementById("reading").src="{{ReadingFrame}}";'>Load canon</button>
     </div>  
+    <!-- <script src="/js/lazyFrame.js"></script> -->
+    <!-- document.getElementById("boom").display:none -->
     <iframe id="reading" frameborder="0"></iframe>
     </div>
 </div>
