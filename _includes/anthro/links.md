@@ -15,6 +15,7 @@
 [Diamond]:          http://www.tandfonline.com/doi/full/10.1080/10455752.2013.846490#.UoOgn_mkqaR
 [Chagnon]:          http://www.nytimes.com/2013/02/17/magazine/napoleon-chagnon-americas-most-controversial-anthropologist.html
 [Survive]:          http://www.survivalinternational.org/articles/3289-brutal-savages
+[Phenom]:			https://en.wikipedia.org/wiki/Phenomenological_sociology
 
 [JHJ]:              http://monkeysuncle.stanford.edu/?p=697
 [Fam]:              https://en.wikipedia.org/wiki/Family_resemblance

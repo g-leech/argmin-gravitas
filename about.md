@@ -6,13 +6,12 @@ visible:	true
 ---
 
 
-> Es ist gleich tödlich für den Geist, ein System zu haben, und keins zu haben. Er wird sich also wohl entschließen müssen, beides zu verbinden. 
+> It is equally fatal to the spirit to have a system and to not have a system. One will likely have to combine the two.
 
-&nbsp;&nbsp;&nbsp;&nbsp;(It is equally fatal to the spirit to have a system and to not have a system. One will likely have to combine the two.)<br>
 <div align="center">— Friedrich Schlegel</div><br /><br />
 
 
-I'm Gavin Leech, a data scientist at a large private org, and also a '[research parasite][Parasite]'. This site is for original contributions to poverty, animal welfare, statistical reanalyses, [scientometrics][Sciento] and the quantified self; I aim to write essays and software still worth using [decades from now][LongContentIsLong]. [My current projects are here][Proj].
+I'm Gavin Leech, a data scientist at a large private org, and also a '[research parasite][Parasite]'. This site is for original studies and statistical reanalyses of things like poverty, animal welfare, [scientometrics][Sciento] and the quantified self. I aim to write essays and software still worth using [decades from now][LongContentIsLong]. [My current projects are here][Proj].
 
 People like [Uri Simonsohn][Colada], '[Gwern Branwen](https://gwern.net)', [Jeff Kauffman](https://www.jefftk.com/index), [Andrew Gelman](http://andrewgelman.com/), '[Scott Alexander](http://slatestarcodex.com/)', [Noah Smith](noahpinionblog.blogspot.co.uk/), '[Kelsey Caring](http://theunitofcaring.tumblr.com/)', '[Artir Nintil](https://nintil.com/)', and [Chris Dillow](http://stumblingandmumbling.typepad.com/) inspire me.
 

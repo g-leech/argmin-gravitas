@@ -70,7 +70,7 @@ Unscientific research (where scientific means could be fruitful) is just discred
 <div class="accordion">
     <h3>Mob science</h3>
     <div>
-        I continue to struggle to distinguish sociology and anthropology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic <i><a href="https://en.wikipedia.org/wiki/Verstehen">Verstehen</a></i> work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.
+        I continue to struggle to distinguish anthropology and [soft][Phenom] sociology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic <i><a href="https://en.wikipedia.org/wiki/Verstehen">Verstehen</a></i> work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.
     </div>
 </div>
 
@@ -128,7 +128,7 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
         <li>Crawl JSTOR and look for signs of quantitative reason in papers (numerals, math notation).</li>
     </ul>
 
-    My survey would probably just ask a Likert for each of the variables in <a href="https://docs.google.com/spreadsheets/d/14Bw1pqa-ZcGza9P3jV7wht8o9-xEJw0A0GpdN733MqE/edit?usp=sharing">my model of early modern science</a>. For my purposes, <i>scienciness</i> is a dumb additive function of:<br>
+    My survey would probably just ask a Likert question for each variable in <a href="https://docs.google.com/spreadsheets/d/14Bw1pqa-ZcGza9P3jV7wht8o9-xEJw0A0GpdN733MqE/edit?usp=sharing">my model of early modern science</a>. For my purposes, <i>scienciness</i> is a dumb additive function of:<br>
         <ul>
             <li>Are their explanations naturalistic? </li>
             <li>Is their research based on going and looking at things?</li>  
@@ -141,19 +141,14 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
     </div>
 
     <h3>Reading List</h3>
-    <div id="listFrame">I couldn't find a reading list for "the cultural anthropology canon". This is <i>maybe</i> because the field is against things like canons, as hierarchical and Westernising or whatnot. So <a href="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/edit?usp=sharing">I made my own</a>, of the most apparently notable books in the non-scientific strand:<br><br>
+    <div id="listFrame">I couldn't find a reading list for "the cultural anthropology canon". This is <i>maybe</i> because the field is against things like canons, as hierarchical and Westernising or whatnot. So <a href="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/edit?usp=sharing">I made my own</a>, of the most apparently notable books in the non-scientific strand: <br><br>
     
-    
-    {%  include js/lazyFrame.html %}
-    <script>  
-        var src = "https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?chrome=false"; 
-        //gid=0&amp;single=true&amp;headers=false&amp;widget=false&amp;chrome=false"
-        definiteEvent( createIframe, [src, "listFrame"] ); 
-    </script>
+        {%  include js/lazyFrame.html %}
+        <script>  
+            var src = "https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?chrome=false"; 
+            definiteEvent( createIframe, [src, "listFrame"] ); 
+        </script>
     </div>
 </div>
 
-
-
 {%  include anthro/foots.html %}
-
