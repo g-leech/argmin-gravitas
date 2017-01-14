@@ -39,18 +39,24 @@ To put it lightly, this is counterproductive.
 
 3. Eliminative reductionism, excessive formalism and political domination are nowhere implied by the scientific method. As a result, taking pride in not 'doing science' is chilling to me. <a href="#fn:9" id="fnref:9">9</a> Yes: they're trying to be humane. Yes, they're trying to resist [eliminative reductionism][ElMat], [mathiness][Mathy], and racism (the "arrogant perceptions of the weaker peoples as instrumental means of the global projects of the stronger"). <a href="#fn:4" id="fnref:4">4</a>
 
-Some people, like <a href="{{Batshitste}}">Marie Battiste</a>, call the discovery and diffusion of objective truths "cognitive imperialism": 
-<blockquote><i>Cognitive imperialism is a form of cognitive manipulation used to disclaim other knowledge bases and values. Validated through one’s knowledge base and empowered through public education, it has been the means by which whole groups of people have been denied existence and have had their wealth confiscated. Cognitive imperialism denies people their language and cultural integrity by maintaining the legitimacy of only one language, one culture, and one frame of reference...</i></blockquote>
 
-<br><div class="accordion">
+<br>
+<div class="accordion">
     <h3>Cognitive imperialism</h3>
-    <div>Perhaps objective truth <i>is</i> imperialist in some sense - but it wasn't scientists that made the truth imperial (not the mere humans who are just trying to get you to step outside your skull and <i>look</i> for a minute). It's the world that imposes. <br><br>
-    The idea that politicised and relativised epistemology has helped or would help the oppressed is straightforwardly false. <a href="{{Desapar}}">Dictators</a> and <a href="{{Bush}}">imperialists</a> of all stripes are perfectly happy with the idea that there's no objective truth to their crimes:<br>
+    <div>Some people, like <a href="{{Batshitste}}">Marie Battiste</a>, call the discovery and diffusion of objective truths "cognitive imperialism": 
+    <blockquote>
+        <i>Cognitive imperialism is a form of cognitive manipulation used to disclaim other knowledge bases and values. Validated through one’s knowledge base and empowered through public education, it has been the means by which whole groups of people have been denied existence and have had their wealth confiscated. Cognitive imperialism denies people their language and cultural integrity by maintaining the legitimacy of only one language, one culture, and one frame of reference...</i>
+    </blockquote>
+    Objective truth <i>is</i> imperialist in some sense - but it wasn't scientists that made the truth imperial (not the mere humans who are just trying to get you to step outside your skull and <i>look</i> for a minute). It's the world that imposes. 
+    <br><br>
+    The idea that politicised and relativised epistemology has <i>helped</i> (or would help) the oppressed is straightforwardly false. <a href="{{Desapar}}">Dictators</a> and <a href="{{Bush}}">imperialists</a> of all stripes are perfectly happy with the idea that there's no objective truth to their crimes:<br>
         <blockquote>
         <i>The [Bush] aide said that guys like me were "in what we call the reality-based community," which he defined as people who "believe that solutions emerge from your judicious study of discernible reality." I nodded and murmured something about enlightenment principles and empiricism. He cut me off. "That's not the way the world really works anymore," he continued. "We're an empire now, and when we act, we create our own reality. And while you're studying that reality -- judiciously, as you will -- we'll act again, creating other new realities, which you can study too, and that's how things will sort out. We're history's actors ... and you, all of you, will be left to just study what we do."</i>
         </blockquote>
+    What's worse than being abducted, tortured and your family never hearing of you again? Surely: knowing that your captors will never be held accountable, that the process will go on and on with other lives, in eternal deniability. (Think <i>1984</i>. 
     </div>
 </div>
+
 <br>
 
 ---
@@ -135,12 +141,15 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
     <h3>Reading List</h3>
     <div>I couldn't find a reading list for "the cultural anthropology canon". This is _maybe_ because the field is against things like canons, as hierarchical and Westernising or whatnot. So <a href="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/edit?usp=sharing">I made my own</a>, of the most apparently notable books in the non-scientific strand:<br><br>
 
-    <iframe src="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" height="400px" width="100%"></iframe>
+
+    {%  include anthro/links.md   %}
+    
+    <button onClick='document.getElementById("reading").src="{{ReadingFrame}}";'>Load canon</button>
+    <iframe id="reading" frameborder="0" width="550" height="400"></iframe>
     </div>
 </div>
 
 
 
-{%  include anthro/links.md   %}
 {%  include anthro/foots.html %}
 
