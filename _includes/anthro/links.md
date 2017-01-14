@@ -15,7 +15,6 @@
 [Diamond]:          http://www.tandfonline.com/doi/full/10.1080/10455752.2013.846490#.UoOgn_mkqaR
 [Chagnon]:          http://www.nytimes.com/2013/02/17/magazine/napoleon-chagnon-americas-most-controversial-anthropologist.html
 [Survive]:          http://www.survivalinternational.org/articles/3289-brutal-savages
-[Phenom]:			https://en.wikipedia.org/wiki/Phenomenological_sociology
 
 [JHJ]:              http://monkeysuncle.stanford.edu/?p=697
 [Fam]:              https://en.wikipedia.org/wiki/Family_resemblance
@@ -49,3 +48,5 @@
 {%   assign Influx = "https://books.google.co.uk/books?id=MfDnCwAAQBAJ&pg=PA196&lpg=PA196&dq=influx+of+foreigners+rousseau&source=bl&ots=s0fP7min2c&sig=eJnatuX5NgvLoKDWUsua8Q8-y_4&hl=en&sa=X&ved=0ahUKEwiOk_DciLvRAhUCG5oKHUVJCJcQ6AEIGjAA#v=onepage&q=influx%20of%20foreigners&f=false"   %}
 {%   assign ConRel = "https://plato.stanford.edu/entries/relativism/#ConRel" %}
 {%  assign ReadingFrame = '\"https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false\"' %}
+{%	assign Fail = "https://www.google.co.uk/?gfe_rd=cr&ei=2J12WIaHL-Wv8wf247nQAw#q=%23AAAFail" 	%}
+{%	assign Phenom = "https://en.wikipedia.org/wiki/Phenomenological_sociology" 	%}

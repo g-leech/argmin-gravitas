@@ -70,7 +70,7 @@ Unscientific research (where scientific means could be fruitful) is just discred
 <div class="accordion">
     <h3>Mob science</h3>
     <div>
-        I continue to struggle to distinguish anthropology and [soft][Phenom] sociology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic <i><a href="https://en.wikipedia.org/wiki/Verstehen">Verstehen</a></i> work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.
+        I continue to struggle to distinguish anthropology and <a href="">soft</a> sociology. <a href="#fn:8" id="fnref:8">8</a>  Both are about humans in groups; both do ethnography; both are comfortable with symbolic <i><a href="https://en.wikipedia.org/wiki/Verstehen">Verstehen</a></i> work; both now cover the researchers' own culture as well as those of the Other. The difference - uncharitably, from the outside - is that sociology has less postmodernist baggage and can thus aspire to be more than political advocacy.
     </div>
 </div>
 
@@ -80,7 +80,7 @@ Unscientific research (where scientific means could be fruitful) is just discred
 
 <br>
 
-Just because c-anthropology is very confused on _average_ doesn't allow us to write off the whole field. 90% of everything is crap after all. <a href="#fn:12" id="fnref:12">12</a> For instance: I only recently realised the distinctive value of the philosopher Rousseau, an anthropologist in spirit: few Europeans really considered that there could be value in foreign cultures in his time. <a href="#fn:6" id="fnref:6">6</a> 
+Just because c-anthropology is very confused on _average_ doesn't allow us to write off the whole field. 90% of everything is crap after all. <a href="#fn:11" id="fnref:11">11</a> For instance: I only recently realised the distinctive value of the philosopher Rousseau, an anthropologist in spirit: few Europeans really considered that there could be value in foreign cultures in his time. <a href="#fn:6" id="fnref:6">6</a> 
 
 This sounds incredible in our hybridised culture, for we are obsessed with [fleeing ourselves][Travel], and have a ridiculously rose-tinted idea of what pastoral (read: foreign) life was and is actually like. But you can see disdainful total superiority in even the most intelligent commentators from the C17th, for instance Samuel Johnson. <a href="#fn:7" id="fnref:7">7</a>
 
@@ -124,7 +124,7 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
     <div>Some ways we could investigate this:<br>
     <ul>
         <li>Email everyone listed on every department page and ask. I can imagine impressive response rates - 60%?</li>
-        <li>Gather up all public responses to [#AAAFail][Fail] and see what % were dismayed by it.</li>
+        <li>Gather up all public responses to <a href="{{Fail}}">#AAAFail</a> and see what % were dismayed by it.</li>
         <li>Crawl JSTOR and look for signs of quantitative reason in papers (numerals, math notation).</li>
     </ul>
 
