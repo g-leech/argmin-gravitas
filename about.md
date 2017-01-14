@@ -6,6 +6,12 @@ visible:	true
 ---
 
 
+> Es ist gleich tödlich für den Geist, ein System zu haben, und keins zu haben. Er wird sich also wohl entschließen müssen, beides zu verbinden. 
+
+(It is equally fatal to the spirit to have a system and to not have a system. One will likely have to combine the two.)<br>
+— <a href="{{ Schlegel }}">Friedrich Schlegel</a><br /><br />
+
+
 I'm Gavin Leech, a data scientist at a large private org, and also a '[research parasite][Parasite]'. This site is for original contributions to poverty, animal welfare, statistical reanalyses, [scientometrics][Sciento] and the quantified self; I aim to write essays and software still worth using [decades from now][LongContentIsLong]. [My current projects are here][Proj].
 
 People like [Uri Simonsohn][Colada], '[Gwern Branwen](https://gwern.net)', [Jeff Kauffman](https://www.jefftk.com/index), [Andrew Gelman](http://andrewgelman.com/), '[Scott Alexander](http://slatestarcodex.com/)', [Noah Smith](noahpinionblog.blogspot.co.uk/), '[Kelsey Caring](http://theunitofcaring.tumblr.com/)', '[Artir Nintil](https://nintil.com/)', and [Chris Dillow](http://stumblingandmumbling.typepad.com/) inspire me.
@@ -36,6 +42,7 @@ Above all I hope to beat the trend [spotted by Robin Hanson][Doom] about indepen
 <br><br>
 
 
+[Schlegel]:				http://www.zeno.org/Literatur/M/Schlegel,+Friedrich/Fragmentensammlungen/Fragmente
 [Proj]:					/projects/
 [Cult]:					http://bryanschuetz.github.io/culture-namer/ships/experiencing-significant-gravitas-shortfall/
 [Arg]:					http://math.stackexchange.com/questions/227626/explanation-on-arg-min

@@ -2,7 +2,7 @@
 layout: 	math_post
 title:  	"Ludwig and the Machine"
 baselink:	/machine-wittgenstein
-permalink:	/machine-wittgenstein-technical/
+permalink:	/machine-wittgenstein/
 date:   	2017-01-07  <!--site.time-->
 author:		Gavin	
 
@@ -16,7 +16,7 @@ technical:	true
 summary:	
 confidence:
 warnings: 
-categories:	philosophy of science, 
+categories:	philosophy of science, language, machine learning
 ---
 
 <img src="/img/two-var.png" />
