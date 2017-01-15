@@ -58,10 +58,6 @@ Above all I hope to beat the trend [spotted by Robin Hanson][Doom] about indepen
 [Rot]:					https://github.com/gavin-leech/rotgone
 
 
-<!-- <script src="/js/jquery.min.js" ></script>
-{    include js/bigfoot.html       }
- -->
-
 <div class="footnotes">
 <ol>
     <!-- 1 -->
