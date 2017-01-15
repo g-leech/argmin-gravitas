@@ -6,9 +6,9 @@ visible:	true
 ---
 
 
-> It is equally fatal to the spirit to have a system and to not have a system. <br>One will likely have to combine the two.
+> It is equally fatal to the spirit to have a system and to not have a system. <br>One will likely have to combine the two. <a href="#fn:1" id="fnref:1">1</a>
 
-<div align="center">— Friedrich Schlegel <a href="#fn:1" id="fnref:1">1</a></div><br />
+<div align="center">— Friedrich Schlegel</div><br />
 
 
 I'm Gavin Leech, a data scientist at a large private org, and also a '[research parasite][Parasite]'. This site is for original studies and statistical reanalyses of things like poverty, animal welfare, [scientometrics][Sciento] and the quantified self. I aim to write essays and software still worth using [decades from now][LongContentIsLong]. [My current projects are here][Proj].
@@ -58,9 +58,9 @@ Above all I hope to beat the trend [spotted by Robin Hanson][Doom] about indepen
 [Rot]:					https://github.com/gavin-leech/rotgone
 
 
-<script src="/js/jquery.min.js" ></script>
-{%    include js/bigfoot.html       %}
-
+<!-- <script src="/js/jquery.min.js" ></script>
+{    include js/bigfoot.html       }
+ -->
 
 <div class="footnotes">
 <ol>
