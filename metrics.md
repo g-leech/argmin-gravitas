@@ -73,25 +73,26 @@ I use the following scales for the quality of things:
 
 
 	<h3>Christgau on the universality of artworks </h3>
-	<div>One way an artwork can be important is if it is universal: is its quality obvious even to people who aren't into that sort of thing? Robert Christgau's complicated <a href="{{Christg}}">album rating scale</a> has this at its apex, but also gives "Honourable Mention" credit conditional on the listener being open to that album's particular aesthetic - brilliant:<br>
+	<div>
+		One way an artwork can be important is if it is universal: is its quality obvious even to people who aren't into that sort of thing? Robert Christgau's complicated <a href="{{Christg}}">album rating scale</a> has this at its apex, but also gives "Honourable Mention" credit conditional on the listener being open to that album's particular aesthetic - brilliant:<br><br>
+		<ul>	
+	 		<li>> An A+ is a record of sustained beauty, power, insight, groove, and/or googlefritz that has invited and repaid repeated listenings in the daily life of someone with 500 other CDs to get to.</li><br>
 
-	<ul>	
- 		<li>An A+ is a record of sustained beauty, power, insight, groove, and/or googlefritz that has invited and repaid repeated listenings in the daily life of someone with 500 other CDs to get to.</li><br>
+			<li>An A is a record that rarely flags for more than two or three tracks. Not every listener will feel what it's trying to do, but anyone with ears will agree that it's doing it.</li><br>
 
-		<li>An A is a record that rarely flags for more than two or three tracks. Not every listener will feel what it's trying to do, but anyone with ears will agree that it's doing it.</li><br>
+			<li>An A- is the kind of garden-variety good record that is the great luxury of musical micromarketing and overproduction. Anyone open to its aesthetic will enjoy more than half its tracks.</li><br>
 
-		<li>An A- is the kind of garden-variety good record that is the great luxury of musical micromarketing and overproduction. Anyone open to its aesthetic will enjoy more than half its tracks.</li><br>
+			<li>A B+ is remarkable one way or another, yet also flirts with the humdrum or the half-assed.</li><br>
 
-		<li>A B+ is remarkable one way or another, yet also flirts with the humdrum or the half-assed.</li><br>
+			<li>A *** Honorable Mention is an enjoyable effort consumers attuned to its overriding aesthetic or individual vision may well treasure.</li><br>
 
-		<li>A *** Honorable Mention is an enjoyable effort consumers attuned to its overriding aesthetic or individual vision may well treasure.</li><br>
+			<li>A ** Honorable Mention is an likable effort consumers attuned to its overriding aesthetic or individual vision may well enjoy.</li><br>
 
-		<li>A ** Honorable Mention is an likable effort consumers attuned to its overriding aesthetic or individual vision may well enjoy.</li><br>
+			<li>A * Honorable Mention is a worthy effort consumers attuned to its overriding aesthetic or individual vision may well like.</li><br>
 
-		<li>A * Honorable Mention is a worthy effort consumers attuned to its overriding aesthetic or individual vision may well like.</li><br>
-
-		<li>A Neither (Neither) may impress once or twice with consistent craft or an arresting track or two. Then it won't...</li>
-
+			<li>A Neither (Neither) may impress once or twice with consistent craft or an arresting track or two. Then it won't...</li>
+		</ul>
+	</div>
 	<a name="galef-books"></a>
 	</div>
 

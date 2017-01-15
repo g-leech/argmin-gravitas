@@ -12,7 +12,7 @@ layout: default
         {%  assign s = "&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;"  %}
         {%  assign t = "•&nbsp;&nbsp;"  %}
 
-        {{ page.date | date: "%b %-d, %Y" }}{{s}} <a href="https://technicalities.netlify.com/about/">Gavin</a>{{s}} 
+        {{ page.date | date: "%b %-d, %Y" }}{{s}} <a href="{{site.url}}/about/">Gavin</a>{{s}} 
         
         {% if page.simple or page.stylised or page.technical %} 
           Available in  
@@ -48,6 +48,10 @@ layout: default
 
 </div>
 
+
+<script src="/js/jquery.min.js" ></script>
+{%    include js/accordion.html       %}
+{%    include js/bigfoot.html       %}
 
 <link rel="stylesheet" href="/css/jquery-ui.min.css">
 
