@@ -60,3 +60,13 @@ Above all I hope to beat the trend [spotted by Robin Hanson][Doom] about indepen
 
 <script src="/js/jquery.min.js" ></script>
 {%    include js/bigfoot.html       %}
+
+
+<div class="footnotes">
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+        <blockquote>Es ist gleich tödlich für den Geist, ein System zu haben, und keins zu haben. Es wird sich also wohl entschließen müssen beides zu verbinden.</blockquote>
+    </li>
+</ol>
+</div>

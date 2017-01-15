@@ -53,19 +53,3 @@ layout: default
 {%    include js/accordion.html       %}
 {%    include js/bigfoot.html       %}
 
-<link rel="stylesheet" href="/css/jquery-ui.min.css">
-
-<script src="/js/jquery.min.js" ></script>
-<script src="/js/bigfoot.min.js"></script>
-<script src="/js/jquery-ui.min.js"></script>
-<script>
-  $.bigfoot(
-    {
-      positionContent: true
-    });
-
-  $( function() {
-    $( ".accordion" ).accordion({ active: false, autoHeight: false, heightStyle: "content", collapsible: true });
-  } );
-</script>
-
