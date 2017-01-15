@@ -5,11 +5,11 @@ permalink: 	/quotes/
 visible:	true
 ---
 
-> Se méfier des penseurs dont l'esprit ne fonctionne qu'à partir d'une citation. <a href="#fn:1" id="fnref:1">1</a>
+> Beware of thinkers whose minds function only when fuelled by a quotation. <a href="#fn:1" id="fnref:1">1</a>
 
 <div align="center">— Emil Cioran</div><br>
 
-I probably won't get around to systematically stating a worldview. (Such things are maybe bad for you anyway. <a href="#fn:2" id="fn:2">1</a>) But I like aphorisms, so here's an atomic version of it:
+I probably won't get around to systematically stating a worldview. (Such things are maybe bad for you anyway. <a href="#fn:2" id="fn:2">1</a>) But I like aphorisms, so here's an atomic version of it:<br><br>
 
 
 <div class="accordion">
@@ -99,8 +99,7 @@ I probably won't get around to systematically stating a worldview. (Such things 
 	{%	include quotes/I.html	%}
 
 	</div><br>
-	}
-
+</div>
 
 
 <a name="nietz"></a><br><br><br>
@@ -110,7 +109,7 @@ I probably won't get around to systematically stating a worldview. (Such things 
 <div class="footnotes"><ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
-        <blockquote>Beware of thinkers whose minds function only when fuelled by a quotation.</blockquote>
+        <blockquote>Se méfier des penseurs dont l'esprit ne fonctionne qu'à partir d'une citation</blockquote>
     </li>
     <li class="footnote" id="fn:2">
 	<blockquote>Gewöhnlich strebt man darnach, für alle Lebenslagen und Ereignisse eine Haltung des Gemüthes, eine Gattung von Ansichten zu erwerben, - das nennt man vornehmlich philosophisch gesinnt sein. Aber für die Bereicherung der Erkenntniss mag es höheren Werth haben, nicht in dieser Weise sich zu uniformiren, sondern auf die leise Stimme der verschiedenen Lebenslagen zu hören; diese bringen ihre eigenen Ansichten mit sich. So nimmt man erkennenden Antheil am Leben und Wesen Vieler, indem man sich selber nicht als starres, beständiges, Eines Individuum behandelt.</blockquote><br>
