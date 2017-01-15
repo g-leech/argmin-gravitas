@@ -18,7 +18,7 @@ I use the following scales for the quality of things:
 
 <div class="accordion">
 	<h3>Spiegelhalter on an estimate's quality</h3>
-	<div><a href="{{Spieg}}">David Spiegelhalter</a> has a nice rule of thumb for how much to trust estimates:
+	<div><a href="{{Spieg}}">David Spiegelhalter</a> has a nice rule of thumb for how much to trust estimates:<br>
 	<br><ul>
 	<li><b>4* : <i>numbers we can believe</i></b>
 		<div><blockquote>so accurate than we can, to all intents and purposes, treat them as true</blockquote>.</div>
@@ -47,7 +47,7 @@ I use the following scales for the quality of things:
 
 
 	<h3>Cochrane on evidence quality</h3>
-	<div>For serious work I use the Cochrane Collaboration's <a href="{{GRADE}}">GRADE scale</a>:<br>
+	<div>For serious work I use the Cochrane Collaboration's <a href="{{GRADE}}">GRADE scale</a>:<br><br>
 		<ul><li>GRADE ⊕⊕⊕⊕ : As good as a well-run randomized trial.</li>
 		<li>GRADE ⊕⊕⊕ : As good as a downgraded randomized trial; or an upgraded observational study.</li>
 		<li>GRADE ⊕⊕ : As good as an observational study (or a double-downgraded randomized trial).</li>
@@ -76,7 +76,7 @@ I use the following scales for the quality of things:
 	<div>
 		One way an artwork can be important is if it is universal: is its quality obvious even to people who aren't into that sort of thing? Robert Christgau's complicated <a href="{{Christg}}">album rating scale</a> has this at its apex, but also gives "Honourable Mention" credit conditional on the listener being open to that album's particular aesthetic - brilliant:<br><br>
 		<ul>	
-	 		<li>> An A+ is a record of sustained beauty, power, insight, groove, and/or googlefritz that has invited and repaid repeated listenings in the daily life of someone with 500 other CDs to get to.</li><br>
+	 		<li><blockquote>An A+ is a record of sustained beauty, power, insight, groove, and/or googlefritz that has invited and repaid repeated listenings in the daily life of someone with 500 other CDs to get to.</blockquote></li><br>
 
 			<li>An A is a record that rarely flags for more than two or three tracks. Not every listener will feel what it's trying to do, but anyone with ears will agree that it's doing it.</li><br>
 
@@ -94,8 +94,6 @@ I use the following scales for the quality of things:
 		</ul>
 	</div>
 	<a name="galef-books"></a>
-	</div>
-
 
 	<h3>Galef on book impacts  </h3>
 	<div>Julia Galef has <a href="{{Galef}}">a neat taxonomy</a> of ways that books can affect your worldview. Her model is that a book can <br>
