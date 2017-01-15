@@ -23,13 +23,18 @@ I probably won't get around to systematically stating a worldview. (Such things 
 	<h3>ultimately</h3><div>{%	include quotes/existence.html	%}</div>
 	<h3>briefs</h3><div>{%		include quotes/tersely.html	%}</div>
 	<h3>art</h3><div>{%			include quotes/art.html		%}</div>
-	<h3>perlis</h3><div>{%		include quotes/perlis.html	%}</div>
-	<h3>pessoa</h3><div>{%		include quotes/pessoa.html	%}</div>
-	<h3>gide</h3><div>{%		include quotes/gide.html	%}</div>
-	<h3>cioran</h3><div>{%		include quotes/cioran.html	%}</div>
-	<h3>nietzsche</h3><div>{%	include quotes/fritz.html	%}</div>
-	<h3>gwern</h3><div>{%		include quotes/gwern.html	%}</div>
-	<h3>me</h3><div>{%			include quotes/I.html		%}</div><br>
+	<h3>aphorists</h3>
+	<div>
+		<div class="accordion">
+			<h3>perlis</h3><div>{%		include quotes/perlis.html	%}</div>
+			<h3>pessoa</h3><div>{%		include quotes/pessoa.html	%}</div>
+			<h3>gide</h3><div>{%		include quotes/gide.html	%}</div>
+			<h3>cioran</h3><div>{%		include quotes/cioran.html	%}</div>
+			<h3>nietzsche</h3><div>{%	include quotes/fritz.html	%}</div>
+			<h3>gwern</h3><div>{%		include quotes/gwern.html	%}</div>
+			<h3>me</h3><div>{%			include quotes/I.html		%}</div><br>	
+		</div>
+	</div>
 </div>
 
 
