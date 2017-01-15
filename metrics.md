@@ -78,47 +78,48 @@ I use the following scales for the quality of things:
 		<ul>	
 	 		<li><blockquote>An A+ is a record of sustained beauty, power, insight, groove, and/or googlefritz that has invited and repaid repeated listenings in the daily life of someone with 500 other CDs to get to.</blockquote></li><br>
 
-			<li>An A is a record that rarely flags for more than two or three tracks. Not every listener will feel what it's trying to do, but anyone with ears will agree that it's doing it.</li><br>
+			<li><blockquote>An A is a record that rarely flags for more than two or three tracks. Not every listener will feel what it's trying to do, but anyone with ears will agree that it's doing it.</blockquote></li><br>
 
-			<li>An A- is the kind of garden-variety good record that is the great luxury of musical micromarketing and overproduction. Anyone open to its aesthetic will enjoy more than half its tracks.</li><br>
+			<li><blockquote>An A- is the kind of garden-variety good record that is the great luxury of musical micromarketing and overproduction. Anyone open to its aesthetic will enjoy more than half its tracks.</blockquote></li><br>
 
-			<li>A B+ is remarkable one way or another, yet also flirts with the humdrum or the half-assed.</li><br>
+			<li><blockquote>A B+ is remarkable one way or another, yet also flirts with the humdrum or the half-assed.</blockquote></li><br>
 
-			<li>A *** Honorable Mention is an enjoyable effort consumers attuned to its overriding aesthetic or individual vision may well treasure.</li><br>
+			<li><blockquote>A *** Honorable Mention is an enjoyable effort consumers attuned to its overriding aesthetic or individual vision may well treasure.</blockquote></li><br>
 
-			<li>A ** Honorable Mention is an likable effort consumers attuned to its overriding aesthetic or individual vision may well enjoy.</li><br>
+			<li><blockquote>A ** Honorable Mention is an likable effort consumers attuned to its overriding aesthetic or individual vision may well enjoy.</blockquote></li><br>
 
-			<li>A * Honorable Mention is a worthy effort consumers attuned to its overriding aesthetic or individual vision may well like.</li><br>
+			<li><blockquote>A * Honorable Mention is a worthy effort consumers attuned to its overriding aesthetic or individual vision may well like.</blockquote></li><br>
 
-			<li>A Neither (Neither) may impress once or twice with consistent craft or an arresting track or two. Then it won't...</li>
+			<li><blockquote>A Neither (Neither) may impress once or twice with consistent craft or an arresting track or two. Then it won't...</blockquote></li>
 		</ul>
 	</div>
-	<a name="galef-books"></a>
+
 
 	<h3>Galef on book impacts  </h3>
-	<div>Julia Galef has <a href="{{Galef}}">a neat taxonomy</a> of ways that books can affect your worldview. Her model is that a book can <br>
+	<div>
+		Julia Galef has <a href="{{Galef}}">a neat taxonomy</a> of ways that books can affect your worldview. Her model is that a book can <br><br>
 		<ol>
 		<li>offer you new Data, or </li>
 		<li>Theories to explain data, or </li>
 		<li>arguments or scenes aimed at taking on particular Values, or </li>
 		<li>an entire Thinking style. </li>
-		</ol>
+		</ol><br>
 
 		She also assigns a number 1-5, roughly "Most Concrete -> Most General" for each type.
-		<a name="leech-books"></a>
 	</div>
 
 
 	<h3>Leech on book durability</h3>
 	<div>I approximate a book's value by guessing how often I'll reread it. This rewards dense books, sure, but also ones with broad and complex messages, durability, appeal to people of different ages, and also just the pleasure and beauty of them. I think most books are not worth the time and a small number (< 8% in <a href="{{MyReading}}">a highly selected sample</a>) are worth more than one reading.<br>
 
-	<ul><li>1/5: Not worth one reading.</li>
-	<li>2/5: One read maybe, if you're into the topic.</li>
-	<li>3/5: Worth one skim.</li>
-	<li>3*/5: Great fun, one read. 'Mind candy'.</li>
-	<li>4/5: Very good. but one read will do.</li>
-	<li>5?/5: Amazing. Will reread.</li>
-	<li>5/5: Have reread and expect to do so indefinitely. A companion.</li>
+	<ul>
+		<li>1/5: Not worth one reading.</li>
+		<li>2/5: One read maybe, if you're into the topic.</li>
+		<li>3/5: Worth one skim.</li>
+		<li>3*/5: Great fun, one read. 'Mind candy'.</li>
+		<li>4/5: Very good. but one read will do.</li>
+		<li>5?/5: Amazing. Will reread.</li>
+		<li>5/5: Have reread and expect to do so indefinitely. A companion.</li>
 	</ul>
 	</div>
 </div>
