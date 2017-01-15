@@ -16,13 +16,13 @@ visible:  false
         <td style="width:80%;padding:20px;padding-bottom:30px;">
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h3 style="padding: 0px; margin: 0px;">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.url }}">>> {{ post.title }}</a>
         </h3> <small>{{ post.summary }}</small></td>
 
         <td style="border-left:1px;"> <small>
-          {% if post.simple %} <a href="{{post.baselink | prepend: site.baseurl}}-simple">Simple</a><br> {% endif %}
-          {% if post.stylised %} <a href="{{post.baselink | prepend: site.baseurl}}">Stylised</a><br> {% endif %}
-          {% if post.technical %} <a href="{{post.baselink | prepend: site.baseurl}}-technical">Technical</a> {% endif %}
+          {% if post.simple %} <a href="{{post.baselink | prepend: site.url}}-simple">Simple</a><br> {% endif %}
+          {% if post.stylised %} <a href="{{post.baselink | prepend: site.url}}">Stylised</a><br> {% endif %}
+          {% if post.technical %} <a href="{{post.baselink | prepend: site.url}}-technical">Technical</a> {% endif %}
         </small></td>
       </tr>
       {% endif  %}
