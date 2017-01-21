@@ -14,9 +14,13 @@ layout: default
         
         {% if page.simple or page.stylised or page.technical %} 
           Available in  
-          {% if page.simple %} <a href="{{page.baselink}}-simple">Simple</a> {% endif %} 
-          {% if page.stylised %} | <a href="{{page.baselink}}">Stylised</a> {% endif %} 
-          {% if page.technical %} | <a href="{{page.baselink}}-technical">Technical</a> English {% endif %} 
+          {% if page.simple %} 
+          <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simple">Simple</a> {% endif %} 
+          {% if page.stylised %} | 
+          <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylised">Stylised</a> {% endif %} 
+          {% if page.technical %} | 
+          <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'technical')" id="technical">Technical</a> English {% endif %} 
+
         {% endif %}
         <br>
         {% if page.summary %} <br>{{t}}<i>{{	page.summary	}}</i>{% endif %} 
@@ -51,3 +55,29 @@ layout: default
 {%    include js/accordion.html       %}
 {%    include js/bigfoot.html       %}
 
+<script type="text/javascript">
+
+  function restyle(evt, style) {
+      var i, tabContent, tabLinks;
+
+      tabContents = document.getElementsByClassName("tabContent");
+      for (i = 0; i < tabContents.length; i++) {
+          tabContents[i].style.display = "none";
+      }
+      tabLinks = document.getElementsByClassName("tabLinks");
+      for (i = 0; i < tabLinks.length; i++) {
+          tabLinks[i].className = tabLinks[i].className.replace(" active", "");
+      }
+      document.getElementById(style).style.display = "block";
+      evt.currentTarget.className += " active";
+  }  
+
+  if(window.location.hash) {
+      document.getElementById(window.location.hash).click();
+  } else {
+      document.getElementByClassName("defaultOpen").click();
+  }
+  
+</script>
+
+</script>
