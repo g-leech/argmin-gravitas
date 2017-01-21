@@ -1,0 +1,196 @@
+---
+layout:     post
+title:      "What's the highest moral wage?"
+baselink:   /maximum-wage
+permalink:  /maximum-wage/
+date:       2017-01-11  <!--site.time-->
+author:     Gavin   
+
+visible:    1
+published: 	false
+
+summary:    
+confidence:	
+warnings:   
+categories: 
+count: 
+---
+<!-- USD GBP  -->
+
+<center>
+<a href="http://2.bp.blogspot.com/-T8bi3ac4lUg/VcYpcqP6QeI/AAAAAAAACOw/s0GbmHdKr0U/s1600/Irving_Jon_04.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="358" src="https://2.bp.blogspot.com/-T8bi3ac4lUg/VcYpcqP6QeI/AAAAAAAACOw/s0GbmHdKr0U/s640/Irving_Jon_04.jpg" width="555"></a><br />
+<small>(c) <a href="http://irvingprints.com/">Jon Irving</a> (2012), 'The Things I'll Have to Do Today Just to Eat' </small><br /><br /><br />
+<blockquote>
+<i>Because giving money is regarded as an act of </i>[unnecessary]<i> charity, it is not thought that there is anything wrong with not giving. People do not feel in any way ashamed or guilty about spending money on new clothes or a new car instead of giving it to famine relief. (Indeed, the alternative does not occur to them.) This way of looking at the matter cannot be justified... To&nbsp;give money&nbsp;away is not charitable, or generous.</i><br />
+<p style="line-height: 5px;">
+– Peter Singer</p>
+<br /><br>
+
+<i>Forget about your worries and your strife; I mean the bare necessities,<br />That's why a bear can rest at ease with just the bare necessities of life...</i><br />
+<p style="line-height: 5px;">
+– Terry Gilkyson</p>
+<br /></blockquote>
+</center><br>
+
+What&nbsp;amount of money can you rightly allocate to yourself, if&nbsp;you accept the premises of a <a href="http://www.utilitarian.net/singer/by/1972----.htm">hard-line</a>&nbsp;<a href="http://www.bbc.co.uk/ethics/introduction/consequentialism_1.shtml">consequentialist</a> life? Call this amount the <em>maximum consequentialist income</em> (MCI), all earnings beyond which an ideal utilitarian would just give to <a href="http://www.givewell.org/international/technical/criteria/cost-effectiveness">effective</a> causes. <br><br>
+
+We all know the minimum wage, but <a href="http://mainlymacro.blogspot.co.uk/2014/07/if-minimum-wages-why-not-maximum-wages.html">the idea of</a> <a href="http://www.vox.com/2014/8/6/5964369/maximum-wage">a maximum wage</a>, like this MCI, is not&nbsp;common. The Soviet nomenklatura <a href="http://en.wikipedia.org/wiki/Partmaximum">had one</a>&nbsp;at first, though it was easily subverted and later abandoned completely. The Venezuelan civil service <a href="http://venezuelanalysis.com/news/6002">supposedly</a> has one at the moment, though I imagine the same forces are acting on it as we speak. Those forces include our assumption of a right to unlimited accumulation, the <a href="http://en.wikipedia.org/wiki/Illusory_superiority">Lake Wobegon effect</a>, and <a href="http://en.wikipedia.org/wiki/Just-world_hypothesis">magical thinking</a> about the role of <i>our</i> effort in determining <i>our</i> earnings. Yet <a href="https://www.coursera.org/learn/altruism">at least one group of people</a> voluntarily impose a maximum wage on themselves to help others.<br><br><br>
+
+The classic argument for this, in case you're wondering what I'm on about:
+<blockquote><ol>
+<li>Many people suffer from lack of food, shelter or medical care.</li>
+<li>Suffering lack of food, shelter or medical care is bad.<a href="http://afterallitcouldbeworse.blogspot.com/2014/01/whats-highest-moral-wage.html#one">*</a></li>
+<li>"If it is in our power to prevent something bad from happening, without thereby sacrificing anything of <i>comparable </i>moral importance, we ought to do it." (<i><a href="http://ocw.mit.edu/courses/linguistics-and-philosophy/24-231-ethics-fall-2009/lecture-notes/MIT24_231F09_lec21.pdf">Strong</a> Singer Principle</i>)</li>
+<li>It is in our power to alleviate people's lack of food, shelter or medical care.
+<ul><li>Since most British people have disposable income, broadly defined.</li>
+<li>Since there <a href="http://www.givewell.org/charities/top-charities">are</a> anti-poverty organisations who verifiably do alleviate poverty.<a href="http://afterallitcouldbeworse.blogspot.com/2014/01/whats-highest-moral-wage.html#two">**</a></li>
+</ul>
+<li><span style="font-family: inherit;">Aside from what I spend on necessities, my consumption is <a href="http://en.wikipedia.org/wiki/Distributive_efficiency"><i>not</i> of comparable</a> moral importance.</span></li>
+<li><span style="font-family: inherit;">Therefore, give away what you earn above the cost of necessities (MCI)</span></li>
+</ol>
+</blockquote>
+
+<br><br>A further argument for the MCI, from the nature of world wages:
+<blockquote><ol>
+<li>Accidents of birth place some of us in positions of high&nbsp;<a href="http://en.wikipedia.org/wiki/Human_Development_Index">development</a>&nbsp;and economic advantage, and <a href="http://www.globalissues.org/article/26/poverty-facts-and-stats">most others</a> in more or less terrible poverty. (<i>Global moral luck</i>)</li>
+<li>Your income has <i>much</i> more to do with the average productivity of your country than your own productivity.&nbsp;(Baumol effect plus <a href="http://troublingadvocacy.blogspot.co.uk/2015/08/ha-joon-chang-thing-3.html">borders</a>)</li>
+<li><span style="font-family: inherit;">We can only deserve things we have some control over. (the <i><a href="http://plato.stanford.edu/entries/moral-luck/">Control principle</a></i>: as applied here, 'if an accident of birth put me on track for higher wages, then I don't strictly deserve the surplus wage I receive.')</span></li>
+<li><span style="font-family: inherit;">Therefore, you don't strictly deserve the global surplus you receive.</span></li>
+</ol>
+</blockquote>
+<br>
+If these arguments are right, it falls to the consequentialist to give away what they have not really earned and <i>cannot</i> use better than the world's extremely poor. The <a href="https://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CDIQFjAA&amp;url=http%3A%2F%2F80000hours.org%2Fwhat-is-an-effective-altruist&amp;ei=B1nQUvvBJe6X0AXhvYDICg&amp;usg=AFQjCNEG1gFxvXpQGCGcdYzkbdZlJEmulg&amp;sig2=zfVmeMjW6IjWUpPIG3_sJw&amp;bvm=bv.59026428,d.d2k">effective</a> <a href="http://lesswrong.com/lw/j8n/a_critique_of_effective_altruism/">altruism</a>&nbsp;movement tends to focus on <i>percentages</i> of income given or pledged -&nbsp;and this is only prudent, since it prevents the relatively low-income among us being turned off by stories of billionaires giving millions to thousands. (Incidentally, <a href="http://www.givingwhatwecan.org/why-give/how-rich-am-i">this</a> calculator shows just how rich you are, even on UK minimum wage, as I am at time of writing.)<br /><a name="one"></a>
+<br><br><br>
+<blockquote>* This form of the argument mentions poverty relief for reasons of <a href="http://en.wikipedia.org/wiki/Availability_heuristic">availability</a>: these things don't work well without an example, and extreme poverty relief is an uncontroversially good thing. But the case for&nbsp;animal rights&nbsp;work or <a href="http://www.jefftk.com/p/future-people-and-giving">existential risk</a>&nbsp;mitigation is often very strong indeed and I intend no prejudice.<br /><br>
+
+A less unpopular form of the argument, which doesn't entail the MCI, runs as follows:
+<ol>
+<li>Suffering and death from lack of food, shelter, and medical care are bad.</li>
+<li>"If it is in our power to prevent something bad from happening, without thereby sacrificing anything morally significant, we ought to do it.</li>
+<li>I can prevent people dying by giving more money to effective anti-poverty causes than I do. </li>
+<li>By giving more money to anti-poverty causes than I do, I would not be sacrificing anything morally significant.</li>
+<li>Therefore, I should give more to anti-poverty causes.</li><a name="two"></a>
+</ol><br><br>
+
+** Given reasonable interpersonal values, these organisations can use a unit of income <a href="http://80000hours.org/cost-effectiveness-research-and-prioritisation">thousands</a><i> </i>of times better than we can use it for ourselves, a margin far beyond econometric error or <a href="http://marginalrevolution.com/marginalrevolution/2012/02/is-charity-a-major-source-of-deadweight-loss.html">admin</a> <a href="http://en.wikipedia.org/wiki/Deadweight_loss">deadweight</a>.)
+</blockquote>
+<br /><br /><br />
+
+<div style="text-align: center;">*************************************************************************************</div>
+<br><br /><big>APPROACH #A: Give yourself world average.</big><br />
+<br />
+First let's try&nbsp;to calculate the MCI&nbsp;from the top-down. Since I'm no <i>less</i> worthy of consideration than anyone else, perhaps it's as simple as allocating oneself the global average income. For one childless person in OK health, then:<br />
+<br />
+<ul>
+<li>What's the average world income?: Something like <b>£6,486</b>&nbsp;($<a href="http://en.wikipedia.org/wiki/Gross_world_product#Historical_and_prehistorical_estimates">74</a><a href="http://www.economist.com/news/economic-and-financial-indicators/21586611-world-gdp">tn</a>&nbsp;/&nbsp;<a href="http://www.census.gov/popclock/">7.13bn</a>&nbsp;/ £). But the mean is ridiculous, taking into account as it does the aneurysmally rich as if normal; let's take the median instead: the abysmal&nbsp;<b>£1,772</b> at PPP. (World <a href="http://www.gallup.com/poll/166211/worldwide-median-household-income-000.aspx">median household per capita</a> / £)<b>.</b></li>
+</ul>
+<ul><br />
+<li>Given the unemployed (<a href="http://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_202326.pdf">6</a>-<a href="https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html">9</a>%), retirees (<a href="http://www.ilo.org/global/publications/magazines-and-journals/world-of-work-magazine/articles/WCM_041965/lang--en/index.htm#P5_1054">14</a>%), children (<a href="http://kff.org/global-indicator/population-under-age-15/">26</a>%) and those otherwise unable to work, only about two-fifths of the world is employed. So what's the average world <i>salary</i>? This is a&nbsp;<a href="http://www.bbc.co.uk/news/magazine-17512040">hard question</a>. Maybe&nbsp;<b>£11,290. </b>(Anyway it's not relevant for the fully strict utilitarian, see below.)</li>
+<br>
+
+<li>As you've probably noticed, this method has gone off the rails already: for a start, the most saintly (or monstrous) utilitarian must accept not the median but the <i>marginal</i>&nbsp;income ($<b>730</b> <a href="http://data.worldbank.org/indicator/SI.POV.2DAY">a year</a>). But much more because no-one can begin to live independently on&nbsp;£2000 a year, in Britain, except via homelessness or backwoods survivalism, neither of which conduce to many effective altruist jobs. (So the Singer principle is breached, and we try something else.)<br /><br />Of course this impossibility (even when you adjust for purchasing power) is the&nbsp;<i>point</i> about poverty, or 'average world income' as we're calling it.&nbsp;</li>
+<br>
+
+<li>If that were not bad enough, there are also hard limits to the aggregate amount we should give, and these fall well before the marginal utility limit (at which we’re no better off than those we’re helping). There are least three large rule-utilitarian problems with a whole society becoming Singerian:</li>
+</ul>
+<blockquote class="tr_bq">
+<ol>
+<li><i style="font-style: italic;">Economic sustainability for donors. </i>We're imagining an effective 75% <a href="http://en.wikipedia.org/wiki/Remittance">remittance</a> rate: the&nbsp;economic destructiveness&nbsp;of this cannot be overstated. A massive increase in giving is also a decrease by orders of magnitude in consumer spending, and so a proportionately tinier economy (millions of lost jobs, deflation, brain drain). There's also the foregone replacement of depleted capital stock, estimated at "11%" a year for Britain, whatever that means (chart 28 <a href="http://www.ecb.europa.eu/events/pdf/conferences/oulton.pdf">here</a>) 200bn? I concede this point (as does Singer by the way), though the more idealistic of us can argue there’d be non-negligible positive effects from decreasing consumption, if the change was gradual enough. (Think about the environment alone.) When conceded, this leads to&nbsp;the oldest sticking point in the distributive book: the smaller slice of the bigger pie.&nbsp;We might give more overall with 15% of GNP than 40%, since total GNP would be that much bigger (and the country would still <i>be there</i> the following year). Where the line should be drawn is legendarily hard to say.&nbsp;</li>
+<br>
+
+<li>Perverse effects for recipients. Resource flows just one percent as large as the donation from hypothetical hyper-altruist Britain have in the past had '<a href="http://www.bupedu.com/lms/admin/uploded_file/The%20Samaritan's%20Dilemma.pdf">hundreds</a>' of severe perverse&nbsp;<a href="http://www.peterleeson.com/SamaritanReview.pdf">economic effects</a>, from inflation to corruption to civil war. We sidestep this somewhat&nbsp;by emphasising that our work would be evidence-based (the 'effective' bit in effective altruism), but that much money is very unpredictable and genuinely hazardous.</li><br>
+
+<li><i>Cultural decline</i><i>. </i>Don't underestimate this; what becomes of culture, if no one pays for gigs or exhibits or such? (Even DIY nonprofit things rely on somebody willing to make a loss.) The consequentialist should be careful not to tear up all other kinds of value in pursuing economic justice, and become a mere 'machine for the redistribution of wealth'.</li>
+</ol>
+</blockquote>
+<br><br />But these are irrelevant for our decision, since we can safely assume that we're acting 'at the margin', where there will be no mass movement toward radical giving.<br /><br />
+
+One issue which does need solving now is the <i>problem of composition</i>. Note first that we&nbsp;<i>know</i>&nbsp;that the NGO&nbsp;<a href="http://www.givewell.org/international/top-charities/schistosomiasis-control-initiative">Schistosomiasis Control Initiative</a>&nbsp;can deworm someone for <a href="http://www.givewell.org/international/top-charities/schistosomiasis-control-initiative#Whatdoyougetforyourdollar">$1.28</a> including admin - a permanent substantial&nbsp;boost to one person's health, nutrition,&nbsp;and mental performance. Nothing I can get for myself can match this. (Nothing I could spend $1,000 on could.) So, naively it seems that any figure I set for the MCI could be eroded further, a dollar at a time, by applying the marginal utility rule - "Is this pie worth more to me than a deworming to someone in need? <i>No</i>." (ad infinitum). 
+
+<br><br>
+
+The answer is to reject the use of marginal utility on its own; you need to derive a minimum baseline first. On which note:<br />
+<br /><br />
+<div style="text-align: center;">*************************************************************************************</div>
+<br><br>
+<big>APPROACH #B: Give yourself the sum of the cost of necessities.</big><br /><br>
+Let's try from the bottom-up instead, adding<i>&nbsp;</i>basic annual costs, again for a childless Briton in OK health living in the average town:<br /><br>
+<ul>
+<li><span style="font-family: inherit;">Rent: £2700 (excluding London). ^</span></li>
+<li><span style="font-family: inherit;">Food: £1500 (<a href="http://www.theveganrd.com/2010/01/the-high-cost-of-ethical-eating.html">vegan</a>...) ^^</span></li>
+<li><span style="font-family: inherit;">Toiletries: £100? ^^^</span></li>
+<li><span style="font-family: inherit;">Clothes: £200 (thrift threads).&nbsp;</span></li>
+<li><span style="font-family: inherit;">Bills: £1100 (incl internet). ^^^^</span></li>
+<li><span style="font-family: inherit;">Tax: Depends entirely. Maybe £6500. *</span></li>
+<li>Transport: £1300.**</li>
+<li>'Participation' (going out, gifts, misc): £500.***</li>
+<li><big>MCI = <b>£7400</b> + tax</big></li>
+</li>
+</ul>
+
+<br>
+Surprisingly neat. Of course most British people would consider this to <i>be</i> poverty itself (though that's an abuse of the word). And this does propose you live a student life forever, but that seems to be the price of virtue by these lights.<br />
+<br /><br><br />
+<blockquote class="tr_bq">
+^ Average non-London rent: <a href="https://homelet.co.uk/rentalindex">£684</a> a month; 684 x 12 = £8208 a year. This is for "homes", so it covers massive 5 bedroom places as well as bedsits though. The <i>mode</i> is 3 bedrooms (p.26 <a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/6695/1750765.pdf">here</a>) so let's run with that. Assuming you can find bohemians to share with, we'll divide this by (say) three tenants = <b>£2736 each</b>. The median <i>will</i> be lower (as will Scotland), but I don't want to just guess.<br />
+<br />
+^^ £4 a day. Sparse: many pulses and little lush meat substitutes.<br />
+<br />^^^ Yeah I dunno.<br />
+<br />^^^^ UK average is £1,440, <a href="http://www.bbc.co.uk/consumer/23898038">which seems high</a>. (Mine was £940 between three people.)<br />
+<br />
+* <a href="http://www.jrf.org.uk/sites/files/jrf/MIS-2015-full.pdf">£26/week according to the JRF</a>.
+<br><br>
+** On a <a href="http://www.hmrc.gov.uk/incometax/basics.htm#6">£25k income</a>, £5k income tax, £1.5k council tax. (For someone not pushing the <a href="http://en.wikipedia.org/wiki/Earning_to_give">earning-to-give</a>&nbsp;line on the matter. Also without juggling tax brackets with <a href="http://www.hmrc.gov.uk/individuals/giving/basics.htm">deductibles</a> and their shady kin.)
+<br><br>
+*** <a href="http://www.jrf.org.uk/sites/files/jrf/MIS-2015-full.pdf">JRF says</a> more like £2400 but they don't have bookish consequentialists in mind.
+</blockquote>
+<br /><br /><br />
+<div style="text-align: center;">*************************************************************************************</div>
+<br><br>
+<span style="font-family: inherit; font-size: large;">APPROACH #C: Give yourself a rich-world 'Living wage'</span>
+<br />
+
+<br />Or we could accept the estimates of British activists for British 'living wage'. The obsessive thrift and cosmopolitanism of the above seems to go against the work of lovely people like the <a href="http://www.jrf.org.uk/focus-issue/minimum-income-standards">Joseph Rowntree Foundation</a>&nbsp;and <a href="http://www.minimumincome.org.uk/">MIS</a>&nbsp;towards ensuring a decent domestic minumum of about £16,000 (at 2013 prices). 
+
+<br><br>In pushing in the direction of the much lower MCI, we might be seen to oppose the push for better wages for working-class British people (who are nonetheless, and at worst, still in the <a href="http://www.givingwhatwecan.org/why-give/how-rich-am-i">global top 20%</a>). But thinking that the money should <i>come from</i> the lower end of the income spectrum is the same terrible mistake that people who rant about <a href="http://www.theguardian.com/commentisfree/2013/feb/01/welfare-fraud-tax-avoidance">benefit scrounging instead of tax avoidance</a> make: there's a vast amount of room for far less harmful redistribution at the top end.<br />
+<br />
+The calculator <a href="http://www.minimumincome.org.uk/">here</a> gives the UK living wage as&£16,852 for a singleton, at minimum (though it doesn't handle the flat-sharing setup I used in method B). This is what polled British people think one can really live on - "participating fully in the economic, social, and political life of the society in which they live". Who am I to say this is 'too much'? Well it's not too much, if we were the least well-off people in the <i>world.</i>&nbsp;
+
+It's just that&nbsp;the SCI's <a href="http://www.givewell.org/international/top-charities/schistosomiasis-control-initiative#Whatdoyougetforyourdollar">$1</a>&nbsp;offer remains, and using method B's baseline instead of this one is equivalent to 4,800 more doses a year.<br /><br><br>
+
+
+
+<b><u>Sources.</u></b><br />
+<ul>
+<li><a href="http://www.bbc.co.uk/news/magazine-17512040">BBC</a>.</li>
+<li><a href="http://laborsta.ilo.org/applv8/data/c5e.html">ILO</a>.</li>
+<li>OECD Stats.</li>
+<li><a href="http://www.jrf.org.uk/focus-issue/minimum-income-standards">Joseph Rowntree Foundation.</a></li>
+<li><a href="http://80000hours.org/research">80,000 Hours</a>, a strange group of activists and meta-activists indeed.</li>
+</ul>
+<br /><br>
+
+<div style="text-align: center;">*************************************************************************************
+<br />
+<br />
+<a href="http://2.bp.blogspot.com/-EphLn-wyJQg/VcYsq62cPyI/AAAAAAAACO8/xOr79KVZDqM/s1600/8_8_build-edite-for-website.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src="https://2.bp.blogspot.com/-EphLn-wyJQg/VcYsq62cPyI/AAAAAAAACO8/xOr79KVZDqM/s640/8_8_build-edite-for-website.jpg" width="350"></a><br>
+<small>(c) Jon Irving (2011), 'Now We Build'</small><br><br>
+
+<blockquote><br />
+<i>It was never contended&nbsp;by a sound utilitarian that the lover should kiss his mistress with an eye to the common weal</i>.<br /><br>
+– John Austin</blockquote>
+</div>
+<br /><br>
+
+The above took it for granted that strong individualist economic consequentialism is the right way to think about the right thing to do. I don't necessarily, though I respect it deeply. The real problem of utilitarianism (and other very demanding ethical schemes) is not that they require too much from us, but that they could easily be destructive of <a href="http://plato.stanford.edu/entries/consequentialism/#WhaGooHedVsPluCon">other (lesser) components of goodness</a> when taken beyond the margin - I go into this in <a href="http://afterallitcouldbeworse.blogspot.co.uk/2014/01/rorty-and-wild-party.html">another blog post here</a>. There's another! one about misgivings about the <a href="http://blog.practicalethics.ox.ac.uk/2011/11/banking-as-an-ethical-career/">earn more to give more</a>&nbsp;side of <a href="http://afterallitcouldbeworse.blogspot.com/2016/08/arguments-against-effective-altruism.html">EA here, too</a>.&nbsp; <br />
+
+<br />
+
+In short, a nasty consequence of strong consequentialism is that it invites us to disparage perfectly good activities (e.g. chess, poetry and anthropology) in the name of "People are dying!". The world according to Singer presents us with the choice of being irritating, or immoral. 
+
+<br><br>
+My shonky solution is that we only <i>have to</i> maximise the extremely<i>&nbsp;</i>publicly-consequential components of our lives - roughly, <a href="http://www.academia.edu/3619295/Replaceability_career_choice_and_making_a_difference">career,</a> <a href="http://www.carbontrust.com/media/84936/ctc603-the-carbon-emissions-generated-in-all-that-we-consume.pdf">consumption pattern</a>, and <a href="http://80000hours.org/blog/46-how-to-be-a-high-impact-philosopher">ideology</a>. Only those are worth the time it takes&nbsp;to&nbsp;do the research and run the optimisation properly, anyway. Maximise the big, satisfice the small. In this gap I plan to live.
+<br />
+<br />
+<br><br>
+<br>
