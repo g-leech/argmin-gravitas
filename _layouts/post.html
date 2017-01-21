@@ -60,10 +60,10 @@ layout: default
   $(document).ready(function() { 
 
     if(window.location.hash) {
-        document.getElementById(window.location.hash).click();
+        $("#" + window.location.hash).click();
     } 
     else {
-        document.getElementByClassName("defaultOpen").click();
+        $(".defaultOpen").click();
     }
   });
 </script>
