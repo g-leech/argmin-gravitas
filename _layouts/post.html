@@ -15,18 +15,18 @@ layout: default
         {% if page.simple or page.stylised or page.technical %} 
           Available in  
           {% if page.simple %} 
-          <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simple">Simple</a> {% endif %} 
+          <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simpleLink">Simple</a> {% endif %} 
           {% if page.stylised %} | 
-          <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylised">Stylised</a> {% endif %} 
+          <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylisedLink">Stylised</a> {% endif %} 
           {% if page.technical %} | 
-          <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'technical')" id="technical">Technical</a> English {% endif %} 
+          <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'technical')" id="technicalLink">Technical</a> English {% endif %} 
 
         {% endif %}
         <br>
         {% if page.summary %} <br>{{t}}<i>{{	page.summary	}}</i>{% endif %} 
       	{% if page.confidence %} <br>{{t}}<i>Confidence</i>: {{	page.confidence	}}{% endif %} 
       	{% if page.warnings %} <br>{{t}}<i>Content notes</i>: {{	page.warnings	}}{% endif %} 
-        <br> words.
+        <br>{{t}}{{page.count}} words.
       </p>
   	</header>
   
