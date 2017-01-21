@@ -1,0 +1,122 @@
+
+
+<!-- 	WORDS	-->
+[Around 90 health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. <a href="#fn:1" id="fnref:1">1</a> Violent campaigns have also been waged recently against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level STEM professors][Unabomb]. We can conclude that _everything is controversial to someone_. We can do better than this vague shrug if we form a metric for political controversy.
+
+My research question is _How can we estimate political controversy? How can we relate this to tractability?_ Intuitively, controversy - or, rather, the associated [social or political resistance to interventions][Obs]' - is a negative term in any equation for tractability. Obstructionism is a dominating factor for any intervention requiring state resources, approval, or enforcement.
+
+Naı̈vely, the relation would involve at least the following terms:<a name="maths"></a><br><br>
+
+
+{%	include controversy/sums.html	%}
+
+
+(Obstructionism manifests as delay, negotiation &amp; PR costs, extra legal costs, hazard insurance, or reduced volunteering and uptake. Controversy appears in the _obstruction_ equation, to model sensitivity to bad PR in politicians and NGOs.
+‘Counter-activism’ is to be understood as _effective_ obstruction.)
+
+<br><br>
+
+---
+
+<br>
+
+### Motivation
+
+To date, community attention has been focussed on low-controversy Pareto improvements. The proposed work is important because much potential value lies in controversial areas: for instance, state intervention offers vast resources and irreplaceable co-ordination power, but the use of these is often defeated by controversy and its entailed lobbying.
+
+Also, within limits, controversy is a proxy for harm: the harm of mass preference violation. It can, then, subtract from net impact as well as from tractability.
+
+One month's work should allow for: 
+
+1. clarification of the relations <a href="#fn:3" id="fnref:3">3</a>;
+2. ranking of exemplar controversies; 
+3. data collection and scoring, maybe for a controversy classifier; 
+4. coefficient estimates for some cause (e.g. birth control is data-rich and controversial enough).
+
+<br><br>
+
+---
+
+<br>
+
+### Sub-questions
+
+* _How to quantify political resistance?_
+(e.g. via historical studies: How much progress per million dollars on a cause? How often does violence attend work on it?)
+
+* _What predicts political controversy?_
+(_Leads_: social media sentiment analysis, news density, bipartisan lobbyist spending, legislation density, psychological availability, religious edicts.)
+
+* _If equations are helpful, what are appropriate forms?_
+
+* _What level of controversy precludes effective intervention?_
+
+* _How does controversy accumulate and decay on an organisation like CEA? A movement like EA? What are its long-term effects?_
+
+<br><br>
+
+---
+
+<br>
+
+### Uncertainties
+
+I'm not sure whether this research is best aimed at quantitative estimates of present controversies, a predictive model for identifying future ones, or as groundwork for some unfeasibly ambitious future [simulation](TheTerritory). 
+
+I’m not sure how to square the value of countercyclical moral leadership with the 'Impact-Neglectedness-Tractability' (INT) model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval. <a href="#fn:2" id="fnref:2">2</a>  I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy. 
+
+I am not sure how much weight to put on historical case studies, relative to a classifier based on chatter. I’m not sure of the predictive power of my proxies, especially sentiment intensity.
+
+One weak source of validation would be [80,000 Hours' estimates][80k] of cause effectiveness, on a simple 1-5 scale. (Note that the lowest tractability causes there, immigration reform and catastrophic risks, are indeed the most politically involved causes.)
+
+<br><br>
+
+---
+
+<br>
+
+### Tractability, Formally
+
+Cotton-Barrett has (tentatively) characterised tractability as either: the effort elasticity of a solution, where _S_ = solvedness, _W_ = total work completed:
+$$
+	\frac{ dS/S }{ dW/W }
+$$
+or as the probability of success weighted by inertia of effort, _p_ = the likelihood of eventual success:
+
+$$
+	k = p / ln(\frac{\text{marginal resources}}{ \text{total resources spent}})
+$$
+These are the senses I would investigate in relation to obstruction.
+
+<br>
+
+---
+
+<a name="bibliography"><a/>
+<br>
+<br>
+
+### Bibliography
+
+* Cotton-Barratt, Owen (2014), "[Estimating cost-effectiveness for problems of unknown difficulty][CB2]", (tractability with no prior).
+* Cotton-Barratt, Owen (2016), "Prospecting for Gold", talk at EAGxOxford 2016, 19/11/16.
+* Garimella et al (2015), "[Exploring Controversy in Twitter][Garim-Twitter]"
+* Garimella et al (2016), "[Quantifying Controversy in Social Media][Garim2]".
+* Kahan, Dan (2015), "[The Politically Motivated Reasoning Paradigm][Kahan]"  (on the growth of ideological disagreement on empirical questions).
+* Kittur et al (2009), "[What’s in Wikipedia?: Mapping Topics and Conflict Using Socially Annotated Category Structure][Kittur]"
+* Rad and Barbosa (2009), "[Identifying controversial articles in Wikipedia: a comparative study][Rad]"
+* Steenbergen et al (2003), "[A Discourse Quality Index][Steen]".
+* Wiblin, Robert (2016), "[The Important/Neglected/Tractable framework needs to be applied with care][Wib]" (on misapplying INT, its ambiguity).
+
+
+<br><br>
+<a name="appendix"></a>
+
+-----------------------
+-----------------------
+
+
+<br><br>
+
+{%	include controversy/foots.html	%}
+{%	include controversy/links.md	%}
