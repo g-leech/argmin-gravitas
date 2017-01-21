@@ -1,6 +1,6 @@
 # Site settings
 title: argmin gravitas
-email: g[dot]leech.08[at]aberdeen.ac.uk  
+email: g@gleech.org  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://gleech.org # the base hostname & protocol for your site
 github_username:  gavin-leech

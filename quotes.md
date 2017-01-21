@@ -1,7 +1,7 @@
 ---
 layout: 	page
-title: 		Quotes
-permalink: 	/quotes/
+title: 		Quotations
+permalink: 	/quotations/
 visible:	true
 ---
 

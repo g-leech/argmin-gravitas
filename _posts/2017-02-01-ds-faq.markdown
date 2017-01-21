@@ -1,8 +1,8 @@
 ---
 layout: 	math_post
-title:  	"Elements of data science work"
+title:  	"Data Science FAQ"
 baselink:	/data-science-faq
-permalink:	/data-science-faw/
+permalink:	/data-science-faq/
 date:   	2017-02-01  <!--site.time-->
 author:		Gavin	
 
@@ -19,45 +19,44 @@ categories:		data science
 
 (Alright, alright, a few of these are infrequently asked. But you should have asked them.)
 
-This post is inspired by [this][Snot] detailed list of concepts and skills that separate a freshman programmer from a lead engineer. (It is aggressively written, but when I was a clueless beginner, I found the detail and disdain invigorating.)
-
-
+This post is inspired by [this][Snot] detailed list of concepts and skills that separate a freshman programmer from a lead engineer. (It _is_ aggressively written, but when I was a clueless beginner, I found its detail and disdain invigorating.)
 
 
 <div class="accordion">
 	<h3>What's the best algorithm?</h3>
 	<div>
-	There is a proof that there is no such thing.<br><br>
-	Currently, the most competitive algorithm over a range of well-defined problems is gradient boosting.
+		There is a proof that there is no such thing (no free lunch).<br><br>
+		Currently, the most competitive algorithm over a range of well-defined problems is gradient boosting.
 	</div>
+	
 	<h3>What can modelling do?</h3>
 	<div>
-	<ul>
-	<li>summarise data</li>
-	<li>predict new data</li>
-	<li>simulate reality</li>
-	</ul>
-	<br>Note that these tasks are actually supersets: to predict new data is to summarise future data. To infer is to predict that these are the true parameters, and that repeat experiments (of the same quality) will find the same parameters (modulo noise). 
+		<ul>
+		<li>summarise data</li>
+		<li>predict new data</li>
+		<li>simulate reality</li>
+		</ul>
+	<br>Note that these three aims are actually supersets: to predict new data is to summarise future data. To infer is to predict that these are the true parameters, and that repeat experiments (of the same quality) will find the same parameters (modulo noise). 
 	</div>
+
 	<h3>What sorts of machine learning are there?</h3>
-	<div>
 	<div class="accordion">
 	<h3>Unsupervised learning</h3>
-	<div>
-	<div class="accordion">
-	<h3>Clustering: unlabelled inputs, discrete output.</h3>
-	<div>Centroid-based:
-	Density-based:
-	Distribution-based:
-	Hierarchical:</div>
+		<div class="accordion">
+			<h3>Clustering: unlabelled inputs, discrete output.</h3>
+			<div>Centroid-based:
+			Density-based:
+			Distribution-based:
+			Hierarchical:</div>
+		</div>
 	</div>
-	</div>
+	
 	<h3>Supervised learning</h3>
 	<div>
-	Classification: labelled inputs, discrete output
+		Classification: labelled inputs, discrete output
 	</div>
 	</div>
-	</div>
+
 	<h3>What is it that machines learn?</h3>
 	<div>Not "knowledge" or "tasks"; instances of computational structures:
 		<ul>
@@ -125,6 +124,7 @@ This post is inspired by [this][Snot] detailed list of concepts and skills that 
 	<!--<li>High-latency (economic and physical limits to the recency of your data)</li>-->
 	<!--<li>Approximate</li>-->
 	</div>
+	
 	<h3>What's the difference between machine learning and data mining?</h3>
 	<div>
 	They're not totally well-defined, but when explicitly distinguished: 
