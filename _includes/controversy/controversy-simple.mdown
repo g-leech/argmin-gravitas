@@ -1,15 +1,3 @@
----
-layout: 	post
-title:  	"Controversy in numbers"
-baselink:	/controversy
-permalink:	/controversy-simple/
-date:   	2017-01-08  <!--site.time-->
-author:		Gavin	
-
-visible:	0
-simple:		true
-technical:	true
----
 
 [Around 90 health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Other people have attacked against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level science professors][Unabomb]. We can conclude that _everything is controversial to someone_. We could do better than this if we had a way to measure controversy.
 
