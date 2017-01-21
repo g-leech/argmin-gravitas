@@ -26,7 +26,7 @@ layout: default
         {% if page.summary %} <br>{{t}}<i>{{	page.summary	}}</i>{% endif %} 
       	{% if page.confidence %} <br>{{t}}<i>Confidence</i>: {{	page.confidence	}}{% endif %} 
       	{% if page.warnings %} <br>{{t}}<i>Content notes</i>: {{	page.warnings	}}{% endif %} 
-        <br>{{t}}{{ content | number_of_words | minus: 200 }} words.
+        <br> words.
       </p>
   	</header>
   
@@ -52,32 +52,18 @@ layout: default
 
 
 <script src="/js/jquery.min.js" ></script>
-{%    include js/accordion.html       %}
+{%    include js/accordion.html     %}
 {%    include js/bigfoot.html       %}
+{%    include js/lazyFrame.html     %}
 
 <script type="text/javascript">
+  $(document).ready(function() { 
 
-  function restyle(evt, style) {
-      var i, tabContent, tabLinks;
-
-      tabContents = document.getElementsByClassName("tabContent");
-      for (i = 0; i < tabContents.length; i++) {
-          tabContents[i].style.display = "none";
-      }
-      tabLinks = document.getElementsByClassName("tabLinks");
-      for (i = 0; i < tabLinks.length; i++) {
-          tabLinks[i].className = tabLinks[i].className.replace(" active", "");
-      }
-      document.getElementById(style).style.display = "block";
-      evt.currentTarget.className += " active";
-  }  
-
-  if(window.location.hash) {
-      document.getElementById(window.location.hash).click();
-  } else {
-      document.getElementByClassName("defaultOpen").click();
-  }
-  
-</script>
-
+    if(window.location.hash) {
+        document.getElementById(window.location.hash).click();
+    } 
+    else {
+        document.getElementByClassName("defaultOpen").click();
+    }
+  });
 </script>
