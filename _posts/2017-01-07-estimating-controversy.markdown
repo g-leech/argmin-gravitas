@@ -17,8 +17,11 @@ categories: cause prioritisation, effective altruism, quantification fever
 count: 900
 ---
 
+{%	include controversy/links.md	%} 
+
+
 <div id="simple" class="tabContent">
-	{%	include controversy/controversy-simple.mdown	%}
+	{%	include controversy/controversy-simple.html	%}
 </div>
 
 <div id="technical" class="tabContent defaultOpen">
