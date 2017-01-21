@@ -27,6 +27,12 @@
           tabContents[i].style.display = "none";
 	    }
       	document.getElementById( style ).style.display = "block";
+
+      	tabLinks = document.getElementsByClassName("tabLinks");
+    	for (i = 0; i < tabLinks.length; i++) {
+        	tabLinks[i].className = tabLinks[i].className.replace(" active", "");
+    	}
+    	evt.currentTarget.className += " active";
   }
 
 </script>

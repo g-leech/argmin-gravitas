@@ -1,4 +1,4 @@
-<!---->
+
 
 {% 	assign Spiegel = 	"http://technicalities.netlify.com/metrics/#spiegel-quality" %}
 {% 	assign Poliohno = 	"http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu" %}
@@ -6,7 +6,7 @@
 {% 	assign Ruined = 	"https://en.wikipedia.org/wiki/Destruction_of_cultural_heritage_by_ISIL" %}
 {% 	assign Unabomb = 	"https://en.wikipedia.org/wiki/Ted_Kaczynski#Casualties " %}
 {% 	assign Obs = 		"https://en.wikipedia.org/wiki/Obstructionism" %}
-{%	assign 80k =		"https://80000hours.org/2014/01/which-cause-is-most-effective-300/#TheList"
+{%	assign 80k =		"https://80000hours.org/2014/01/which-cause-is-most-effective-300/#TheList" 	%}
 {%	assign Garim-Twitter =	"https://arxiv.org/pdf/1512.05550.pdf" 	%}
 {%	assign Garim2 =		"https://arxiv.org/pdf/1507.05224v1.pdf"	%}
 {%	assign CB2 =		"https://www.fhi.ox.ac.uk/estimating-cost-effectiveness/"	%}
