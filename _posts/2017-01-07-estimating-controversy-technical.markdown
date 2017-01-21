@@ -16,11 +16,10 @@ warnings: 	terrorism, inexorable ideologies
 categories: cause prioritisation, effective altruism, quantification fever
 ---
 
-<div id="technical">
+<div id="technical" class="tabcontent defaultOpen">
 	{%	include controversy/controversy-technical.html	%}
 </div>
 
-<!-- <div id="simple">
+<div id="simple" class="tabcontent">
 	{	include controversy/controversy-simple.md	%}
 </div>
- -->
