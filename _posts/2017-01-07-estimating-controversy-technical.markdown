@@ -21,5 +21,5 @@ categories: cause prioritisation, effective altruism, quantification fever
 </div>
 
 <div id="simple" class="tabcontent">
-	{	include controversy/controversy-simple.md	%}
+	{%	include controversy/controversy-simple.mdown	%}
 </div>
