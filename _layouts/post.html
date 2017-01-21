@@ -58,7 +58,8 @@ layout: default
 
 <script type="text/javascript">
   $(document).ready(function() { 
-
+    console.log(window.location.hash);
+    
     if(window.location.hash) {
       startingLink = window.location.hash + "Link";
     } 
@@ -66,6 +67,6 @@ layout: default
       startingLink = $(".defaultOpen").attr('id') + "Link";
     }
     $("#" + startingLink).click();
-    
+
   });
 </script>

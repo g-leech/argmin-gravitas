@@ -20,9 +20,10 @@ visible:  false
         </h3> <small>{{ post.summary }}</small></td>
 
         <td style="border-left:1px;"> <small>
-          {% if post.simple %} <a href="{{post.baselink | prepend: site.url}}-simple">Simple</a><br> {% endif %}
-          {% if post.stylised %} <a href="{{post.baselink | prepend: site.url}}">Stylised</a><br> {% endif %}
-          {% if post.technical %} <a href="{{post.baselink | prepend: site.url}}-technical">Technical</a> {% endif %}
+          {% if post.simple %} &#123;&#123;<a href="{{post.baselink | prepend: site.url}}/#simple">Simple</a>&#125;&#125;<br> {% endif %}
+          {% if post.stylised %} &#123;&#123;<a href="{{post.baselink | prepend: site.url}}/#stylised">Stylised</a>&#125;&#125;<br> {% endif %}
+          {% if post.technical %} &#123;&#123;<a href="{{post.baselink | prepend: site.url}}/#technical">Technical</a>&#125;&#125; 
+          {% endif %}
         </small></td>
       </tr>
       {% endif  %}
