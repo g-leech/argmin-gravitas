@@ -1,4 +1,5 @@
 <script>
+
 	function createIframe(src, what) {
 	          var i = document.createElement("iframe");
 	          i.src = src
@@ -17,4 +18,22 @@
 		}
 		else window.onload = callback.apply(this, args);
 	}
+
+	function restyle(evt, style) {
+    	var i, tabContent, tabLinks;
+      	tabContents = document.getElementsByClassName("tabContent");
+
+      	for (i = 0; i < tabContents.length; i++) {
+          tabContents[i].style.display = "none";
+	    }
+    	
+    	tabLinks = document.getElementsByClassName("tabLinks");
+      	for (i = 0; i < tabLinks.length; i++) {
+          tabLinks[i].className = tabLinks[i].className.replace(" active", "");
+    	}
+
+      	document.getElementById( style ).style.display = "block";
+	    evt.currentTarget.className += " active";
+  }
+
 </script>
