@@ -17,7 +17,7 @@ categories: cause prioritisation, effective altruism, quantification fever
 ---
 
 <div id="technical">
-	{%	include controversy/controversy-technical.mdown	%}
+	{%	include controversy/controversy-technical.md	%}
 </div>
 
 <!-- <div id="simple">

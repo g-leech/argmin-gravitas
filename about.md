@@ -14,7 +14,7 @@ visible:	true
 {%	include about-links.html	%}
 
 
-I'm Gavin Leech, a data scientist at a large private org, and also a '[research parasite][Parasite]'. This site is for original studies (and statistical reanalyses) of things like poverty, animal welfare, [scientometrics][Sciento], and the quantified self. I aim to write essays and software still worth using [decades][LongContentIsLong] from now. Current projects [here][Proj].
+I'm Gavin Leech, a data scientist at a large private org, and also a '[research parasite][Parasite]'. This site is for original studies (and statistical reanalyses) of things like poverty, animal welfare, [scientometrics][Sciento], and the quantified self. I aim to write essays and software still worth using [decades][LongContentIsLong] from now. Current projects [here][Proj].<br>
 
 
 <div class="accordion">
@@ -28,27 +28,25 @@ I'm Gavin Leech, a data scientist at a large private org, and also a '[research 
 		<div class="accordion">
 			<h3>Inspired by</h3>
 			<div>
-				People like <a href="{{Colada}}">Uri Simonsohn</a>, '<a href="{{Gwern}}">Gwern Branwen</a>', <a href="{{JeffK}}">Jeff Kauffman</a>, <a href="{{Gelman}}">Andrew Gelman</a>, '<a href="{{Scott}}">Scott Alexander</a>', <a href="{{Noah}}">Noah Smith</a>, '<a href="{{Kelsey}}">Kelsey of Caring</a>', '<a href="{{Artir}}">Artir Nintil</a>', and [<a href="{{Dillow}}">Chris Dillow</a> inspire me.
+				People like <a href="{{Colada}}">Uri Simonsohn</a>, '<a href="{{Gwern}}">Gwern Branwen</a>', <a href="{{JeffK}}">Jeff Kauffman</a>, <a href="{{Gelman}}">Andrew Gelman</a>, '<a href="{{Scott}}">Scott Alexander</a>', <a href="{{Noah}}">Noah Smith</a>, '<a href="{{Kelsey}}">Kelsey of Caring</a>', '<a href="{{Artir}}">Artir Nintil</a>', and <a href="{{Dillow}}">Chris Dillow</a> inspire me.<br>
 			</div>
 		</div>
 		<div class="accordion">
 			<h3>Title</h3>
 			<div>
-				The title alludes to Iain Banks' <i><a href="{{Cult}}">Culture</a></i> novels, in which pompous people are mocked by naming yourself with lots of <i>gravitas</i>. To take the <i>[arg min][Arg]</i> of a function is to find the thing which results in the lowest value. 			
+				The title alludes to Iain Banks' <i><a href="{{Cult}}">Culture</a></i> novels, in which pompous people are mocked with ship names that have lots of <i>gravitas</i>. To take the <i><a href="{{Arg}}">arg min</a></i> of something is to find the thing which results in its lowest value. 			
 			</div>
 		</div>
 		<div class="accordion">
 			<h3>Loss function</h3>
 			<div>Above all I hope to beat the trend spotted <a href="{{Doom}}">by Robin Hanson</a> about independent scholars:
-
-			> over time amateurs blow their lead by focusing less and relying on easier, more direct methods. They rely more on informal conversation as analysis method, they prefer personal connections over open competitions in choosing people, and they rely more on a perceived consensus among a smaller group of fellow enthusiasts. As a result, their contributions just don’t appeal as widely or as long.
-
+				<blockquote>over time amateurs blow their lead by focusing less and relying on easier, more direct methods. They rely more on informal conversation as analysis method, they prefer personal connections over open competitions in choosing people, and they rely more on a perceived consensus among a smaller group of fellow enthusiasts. As a result, their contributions just don’t appeal as widely or as long.</blockquote>
 			</div>
 		</div>
 		<div class="accordion">
 			<h3>What's with all these accordions?</h3>
 			<div>
-				<a href="{{Hide}}">Information hiding</a> is a basic condition of good large software; these accordions are a prose analogue. The hope is that, by tucking away wires, I can write long things without triggering anyone's TL;DR reflex. Should be some good effect from explicit voluntary engagement of a click.
+				<a href="{{Hide}}">Information hiding</a> is a basic condition of good large software; these accordions are a prose analogue. The hope is that, by tucking away wires, I can write long things without triggering anyone's TL;DR reflex. Should be some effect from the induced voluntary engagement of clicking, too.
 			</div>
 		</div>
 	</div>
