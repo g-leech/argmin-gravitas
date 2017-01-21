@@ -60,10 +60,12 @@ layout: default
   $(document).ready(function() { 
 
     if(window.location.hash) {
-        $("#" + window.location.hash).click();
+      startingLink = window.location.hash + "Link";
     } 
     else {
-        $(".defaultOpen").click();
+      startingLink = $(".defaultOpen").attr('id') + "Link";
     }
+    $("#" + startingLink).click();
+    
   });
 </script>
