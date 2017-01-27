@@ -15,7 +15,7 @@ visible:  false
       <tr>
         <td>
         <a class="post-link" href="{{ post.url | prepend: site.url }}">>> {{ post.title }}</a>
-          <img src={{post.img}} style="height:10%;width:10%"/>
+          <img src="{{post.img}}" style="height:10%;width:10%"/>
         </td>
         </td>
         <td style="width:80%;padding:20px;padding-bottom:30px;">
@@ -25,12 +25,12 @@ visible:  false
         </h3> <small>{{ post.summary }}</small></td>
 
         <td style="border-left:1px;"> <small>
-          {% if post.simple %} &#123;&#123;&bnsp;
-            <a href="{{post.baselink | prepend: site.url}}/#simple">Simple</a>&bnsp;&#125;&#125;<br> {% endif %}
-          {% if post.stylised %} &#123;&#123;&bnsp;
-            <a href="{{post.baselink | prepend: site.url}}/#stylised">Stylised</a>&bnsp;&#125;&#125;<br> {% endif %}
-          {% if post.technical %} &#123;&#123;&bnsp;
-            <a href="{{post.baselink | prepend: site.url}}/#technical">Technical</a>&bnsp;&#125;&#125; 
+          {% if post.simple %} &#123;&#123;&nbsp;
+            <a href="{{post.baselink | prepend: site.url}}/#simple">Simple</a>&nbsp;&#125;&#125;<br> {% endif %}
+          {% if post.stylised %} &#123;&#123;&nbsp;
+            <a href="{{post.baselink | prepend: site.url}}/#stylised">Stylised</a>&nbsp;&#125;&#125;<br> {% endif %}
+          {% if post.technical %} &#123;&#123;&nbsp;
+            <a href="{{post.baselink | prepend: site.url}}/#technical">Technical</a>&nbsp;&#125;&#125; 
           {% endif %}
         </small></td>
       </tr>
