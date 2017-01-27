@@ -20,20 +20,22 @@ visible:  false
         </td>
         </td>
         <td style="width:80%;padding:20px;padding-bottom:30px;">
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h3 style="padding: 0px; margin: 0px;">
           <a class="post-link" href="{{ post.url | prepend: site.url }}">>> {{ post.title }}</a>
-        </h3> <small>{{ post.summary }}</small></td>
+        </h3> 
+        <small>{{ post.summary }}</small></td>
 
-        <td style="border-left:1px;"> <small>
-          {% if post.simple %} &#123;&#123;&nbsp;
-            <a href="{{post.baselink | prepend: site.url}}/#simple">Simple</a>&nbsp;&#125;&#125;<br> {% endif %}
-          {% if post.stylised %} &#123;&#123;&nbsp;
-            <a href="{{post.baselink | prepend: site.url}}/#stylised">Stylised</a>&nbsp;&#125;&#125;<br> {% endif %}
-          {% if post.technical %} &#123;&#123;&nbsp;
-            <a href="{{post.baselink | prepend: site.url}}/#technical">Technical</a>&nbsp;&#125;&#125; 
-          {% endif %}
-        </small></td>
+        <td style="border-left:1px;"> 
+          <span class="post-meta" style="text-align:right">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <small>
+            {% if post.simple %} &#123;&#123;&nbsp;
+              <a href="{{post.baselink | prepend: site.url}}/#simple">Simple</a>&nbsp;&#125;&#125;<br> {% endif %}
+            {% if post.stylised %} &#123;&#123;&nbsp;
+              <a href="{{post.baselink | prepend: site.url}}/#stylised">Stylised</a>&nbsp;&#125;&#125;<br> {% endif %}
+            {% if post.technical %} &#123;&#123;&nbsp;
+              <a href="{{post.baselink | prepend: site.url}}/#technical">Technical</a>&nbsp;&#125;&#125; 
+            {% endif %}
+          </small></td>
       </tr>
       {% endif  %}
     {% endfor %}
