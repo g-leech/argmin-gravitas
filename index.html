@@ -20,10 +20,11 @@ visible:  false
         </td>
         </td>
         <td style="width:80%;padding:20px;padding-bottom:30px;">
-        <h3 style="padding: 0px; margin: 0px;">
-          <a class="post-link" href="{{ post.url | prepend: site.url }}">>> {{ post.title }}</a>
-        </h3> 
-        <small>{{ post.summary }}</small></td>
+          <h3 style="padding: 0px; margin: 0px;">
+            <a class="post-link" href="{{ post.url | prepend: site.url }}">>> {{ post.title }}</a>
+          </h3> 
+          <span style="padding-left:15%"><small>{{ post.summary }}</small></span>
+        </td>
 
         <td style="border-left:1px;"> 
           <span class="post-meta" style="text-align:right">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -42,7 +43,7 @@ visible:  false
 
     </table>
 
-  <br><br><br><br><a href="{{ "/archive" | prepend: site.baseurl }}">See all posts</a>.
+  <br><br><a href="{{ "/archive" | prepend: site.baseurl }}">See all posts</a>.
   <br><small><p class="rss-subscribe">or subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p></small>
 
 </div>
