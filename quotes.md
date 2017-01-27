@@ -23,6 +23,7 @@ I probably won't get around to systematically stating a worldview. (Such things 
 	<h3>ultimately</h3><div>{%	include quotes/existence.html	%}</div>
 	<h3>briefs</h3><div>{%		include quotes/tersely.html	%}</div>
 	<h3>art</h3><div>{%			include quotes/art.html		%}</div>
+	<h3>deaths</h3><div>{%		include quotes/deaths.html	%}</div>
 	<h3>aphorists</h3>
 	<div>
 		<div class="accordion">
@@ -44,7 +45,7 @@ I probably won't get around to systematically stating a worldview. (Such things 
         <blockquote>Se méfier des penseurs dont l'esprit ne fonctionne qu'à partir d'une citation</blockquote>
     </li>
     <li class="footnote" id="fn:2">
-	<blockquote>Generally we strive to acquire one mental stance, one genre of views for all situations and events: we usually call that a 'philosophical' frame of mind. But, to enrich our knowledge, rather than making oneself uniform, one can listen to the soft voice of different situations... We thereby share the lives and natures of many people, by not treating ourselves like a rigid, invariable, singular atom.</blockquote>
+	<blockquote>Generally we strive to acquire one mental stance, one genre of views for all situations and events: we usually call that a 'philosophical' frame of mind. But, to enrich your knowledge, rather than making yourself uniform, you might listen to the soft voice of different situations... In so doing, we share the lives and natures of many others, by not acting like a rigid, invariable, singular atom.</blockquote>
 	<div align="center">— Nietzsche</div>
 </li>
 </ol>

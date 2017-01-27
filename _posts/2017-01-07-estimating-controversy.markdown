@@ -5,6 +5,7 @@ baselink:	/controversy
 permalink:	/controversy/
 date:   	2017-01-07  <!--site.time-->
 author:		Gavin	
+img:		/img/smolControversy.png
 
 visible:	1
 simple:		true
