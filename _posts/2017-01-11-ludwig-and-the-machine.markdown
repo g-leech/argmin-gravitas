@@ -13,7 +13,7 @@ simple:		true
 stylised:	true
 technical:	true
 
-summary:	
+summary:	Recent formal results have addressed ancient philosophical questions, sometimes driving them as far as blessed irrelevance.
 confidence:
 warnings: 
 categories:	philosophy of science, language, machine learning
@@ -76,6 +76,16 @@ red /cyan
 blue / yellow
 -->
 
+
+This is far from the most important way ML affects old thought.
+
+Problem of induction
+
+Major development of recent decades has been guarantees on the results of induction, particularly if we’re willing to settle for probabilistic guarantees.
+
+
+
+Causality.
 
 
 <!--  -->
