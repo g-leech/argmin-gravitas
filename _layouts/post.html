@@ -10,10 +10,10 @@ layout: default
         {%  assign s = "&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;"  %}
         {%  assign t = "•&nbsp;&nbsp;"  %}
 
-        {{ page.date | date: "%b %-d, %Y" }}{{s}} <a href="{{site.url}}/about/">Gavin</a>{{s}} 
+        {{ page.date | date: "%b %-d, %Y" }}{{s}} <a href="{{site.url}}/about/">Gavin</a>
         
         {% if page.simple or page.stylised or page.technical %} 
-          Available in  
+          {{s}} Available in  
           {% if page.simple %} 
           <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simpleLink">Simple</a> {% endif %} 
           {% if page.stylised %} | 
