@@ -14,8 +14,9 @@ visible:  false
       {% if post.visible == 1  %}
       <tr>
         <td>
-        <a class="post-link" href="{{ post.url | prepend: site.url }}">>> {{ post.title }}</a>
-          <img src="{{post.img}}" style="height:10%;width:10%"/>
+          <a class="post-link" href="{{ post.url | prepend: site.url }}">
+            <img src="{{ post.img }}" style="height:10%;width:10%"/>
+          </a>
         </td>
         </td>
         <td style="width:80%;padding:20px;padding-bottom:30px;">
