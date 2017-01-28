@@ -37,7 +37,7 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 	<div>
 		It's just statistical programming, but with an emphasis on computer methods for getting answers out of annoyingly large amounts of data for poorly understood problems.<br><br>
 
-		It's a silly name for a few reasons: for all statisticians use science on data and have done for a hundred years, and all programming is data programming, and the actual job has much more and rote scripting in it than it has experimental science. A more honest name is <i>machine learning model development</i>, but we have to make a living somehow, and hype-plus-plagiarism is the strategy people settled on, without active collusion or malice aforethought, around 2012.<br><br>
+		It's a silly name for a few reasons: for all statisticians use science on data and have done for a hundred years, and all programming is data programming, and the actual job has much more data munging and rote scripting in it than it has experimental science. A more honest name is <i>machine learning model development</i>, but we have to make a living somehow, and hype-plus-plagiarism is the strategy people settled on, without active collusion or malice aforethought, around 2012.<br><br>
 
 		Similar roles have been played in the past by jobs like <i>expert system coder, decision support developer, knowledge discovery engineer, predictive analytics guy, data miner</i>. And the quant developer, in finance, is basically the same thing. The best you can say for us is, at least we don't claim that our poky little <a href="{{logReg}}">logistic regressor</a> is <a href="{{AIAI}}">An Artificial Intelligence</a>. (...)
 		<br><br>
