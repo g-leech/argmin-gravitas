@@ -21,8 +21,9 @@ count:			2650
 {%	assign logReg = "https://en.wikipedia.org/wiki/Logistic_regression" %}
 {%	assign leemis = "http://www.math.wm.edu/~leemis/chart/UDR/UDR.html" %}
 
-<img src="/img/relation.png" />
-<small>(c) Larry Leemis (2008). <a href="{{leemis}}">This is an incredible site</a>.</small>
+<img src="/img/relation.png" style="height:70%;width:70%;"/>
+<div align="center"><small>(c) Larry Leemis (2008). <a href="{{leemis}}">This is an incredible site</a>.</small></div><br>
+
 
 Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fresh programmer from an actual engineer. <a href="#fn:2" id="fnref:2">2</a> The following is also very long, but aims to enlighten, not chastise.<br><br>
 
