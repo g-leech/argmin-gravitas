@@ -3,13 +3,12 @@ layout: 		post
 title:  		"Data Science FAQ"
 baselink:		/data-science-faq
 permalink:		/data-science-faq/
-date:   		2017-02-01  <!--site.time-->
+date:   		2017-01-28  <!--site.time-->
 author:			Gavin	
 img:			/img/smolRelation.png
 
 visible:		1
 simple:			true
-technical:		true
 
 summary:		A catalogue of intuitive explanations I wish I'd known before getting into data science.
 confidence:		80%. I am more jejune than this lets on.
@@ -17,7 +16,7 @@ categories:		machine learning, data science
 count:			2650
 ---
 
-This post is inspired by <a href="{{Snot}}">this</a> list of the knowledge that separate a fresh programmer from a lead engineer. It is aggressively written, but I found it incredibly helpful as an ignorant script kiddie for someone to just <i>tell</i> me what exactly I was missing, even if that was a long list and 10 years' work to go. The following is also very long, but I aim to invigorate, not spook.<br><br>
+This post is inspired by [this][Snot] list of the knowledge that separate a fresh programmer from a lead engineer. It is aggressively written, but I found it incredibly helpful as an ignorant script kiddie for someone to just <i>tell</i> me what exactly I was missing, even if that was a long list and 10 years' work to go. The following is also very long, but I aim to invigorate, not spook.<br><br>
 
 
 <div class="accordion">
@@ -61,7 +60,7 @@ This post is inspired by <a href="{{Snot}}">this</a> list of the knowledge that 
 	<h3>Data janitoring</h3>
 	<div>
 		<div class="accordion">
-			{%	include dsfaq/cluster.html	%}
+			{%	include dsfaq/janitor.html	%}
 		</div>
 	</div>
 
