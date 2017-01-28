@@ -27,14 +27,14 @@ visible:  false
         </td>
 
         <td style="border-left:1px;"> 
-          <span class="post-meta" style="text-align:right">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <span class="post-meta" style="text-align:right">{{ post.date | date: "%b %-d, %Y" }}</span><br>
           <small>
-            {% if post.simple %} &#123; 
-              <a href="{{post.baselink | prepend: site.url}}/#simple">Simple</a> &#125;<br> {% endif %}
-            {% if post.stylised %} &#123; 
-              <a href="{{post.baselink | prepend: site.url}}/#stylised">Stylised</a> &#125;<br> {% endif %}
-            {% if post.technical %} &#123; 
-              <a href="{{post.baselink | prepend: site.url}}/#technical">Technical</a> &#125; 
+            {% if post.simple %} 
+              <a href="{{post.baselink | prepend: site.url}}/#simple">Simple</a> <br> {% endif %}
+            {% if post.stylised %} /
+              <a href="{{post.baselink | prepend: site.url}}/#stylised">Stylised</a> <br> {% endif %}
+            {% if post.technical %} /
+              <a href="{{post.baselink | prepend: site.url}}/#technical">Technical</a> 
             {% endif %}
           </small></td>
       </tr>
