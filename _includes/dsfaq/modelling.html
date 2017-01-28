@@ -1,0 +1,87 @@
+<h3>What's a model?</h3>
+<div>
+	A mathematical structure that approximates a part of the world. (Hopefully the part that caused your data.) <br><br>
+
+	Models are <i>intentionally</i> fake and smooth toys: adding too much detail takes too much time and computing to be useful, and makes it impossible to make general claims, and actually prevents you from understanding the class at hand.<br><br> 
+
+	A model's abstraction allows us to see the unity of seemingly unrelated problems (for instance, magnetisation and boiling water and are all very well explained by just one model, critical phase transition theory). Its formalism allows for clarity and precision (and thus computerisation). It summarises, simplifies, unifies, and guides. Occasionally it surpasses.<br><br>
+
+	A statistical model is one which admits that it's not going to get the exact right answer every time (or any time) but which offers a good approximation in an uncertain world given always-flawed data.
+</div>
+
+
+<h3>Why does data leave us uncertain?</h3>
+<div>Because
+	<ul>
+		<li>it is always incomplete (small samples, few features, physical limits)</li>
+		<li>it is usually an indirect reflection of the thing of interest. (proxies, latency)</li>
+		<li>it is noisy (measurement error, data corruption, unknown processes)</li>
+		<li>it always has some risk of being fabricated.</li>
+		<li>Ambiguous.</li>
+		<li>of the fundamental nature of induction: you can't be sure via sampling.</li>
+	</ul><
+<!--<li>High-latency (economic and physical limits to the recency of your data)</li>-->
+<!--<li>Approximate</li>-->
+</div>
+
+
+<h3>What can modelling do?</h3>
+<div>
+	<ul>
+		<li>summarise data</li>
+		<li>predict new data</li>
+		<li>simulate reality</li>
+	</ul>
+	<br>Note that these three aims are actually supersets: to predict new data is to summarise future data. To simulate reality requires you to infer the formal structure and parameter values of reality: and to infer these is also to <i>predict</i> that future data will confirm your estimates of them, that repeat experiments (of the same quality) will find the same parameters (modulo noise). 
+</div>
+
+
+<h3>Why is my model wrong?</h3>
+<div>Hoo boy.
+	<div class="accordion">
+	<h3>Model error</h3>
+	<div>
+		<ul><li>Model is approximation</li>
+		<li>Best fit sucks</li>
+		<li>Black swan</li>
+		</ul>
+	</div>
+	
+	<h3>Parameter error</h3>
+	<div>
+		<ul>
+			<li>Concept drift</li>
+			<li>Bad estimate</li>
+			<ul>
+				<li>Sampling error</li>
+				<li>Systematic measurement error</li>
+				<li>Numerical errors (discretization, truncation, round-off)</li>
+			</ul>
+		</ul>
+	</div>
+
+	<h3>Stochastic error</h3>
+	<div>
+		Everything's fine, you just got unlucky.
+	</div>
+	</div>
+</div>
+
+
+<h3>My model used to be right; why is it wrong now?</h3>
+<div>
+	<ul>
+		<li>It was overfitted to an imperfectly representative training set.</li>
+		<li>The population has changed ("Concept drift")</li>
+		<li>Your analysis environment has changed ("Data drift")</li>
+	</ul><br>
+	<div class="accordion">
+		<h3>What causes data drift?</h3>
+		<div>
+			<ul><li>Structural drift: the source schema is changed</li>
+			<li>Semantic drift: the data is constant but its meaning changes.</li>
+			<li>Infrastructure drift: breaking change in an update to some part of pipeline.</li>
+			</ul>
+		</div>
+	</div>
+</div>

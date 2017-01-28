@@ -5,300 +5,95 @@ baselink:		/data-science-faq
 permalink:		/data-science-faq/
 date:   		2017-02-01  <!--site.time-->
 author:			Gavin	
-
-published: 		false
+img:			/img/smolRelation.png
 
 visible:		1
 simple:			true
 technical:		true
 
-summary:		Questions I wish I'd asked before getting into data science.
+summary:		A catalogue of intuitive explanations I wish I'd known before getting into data science.
 confidence:		80%. I am more jejune than this lets on.
 categories:		machine learning, data science
-count:			
+count:			2650
 ---
+
+This post is inspired by <a href="{{Snot}}">this</a> list of the knowledge that separate a fresh programmer from a lead engineer. It is aggressively written, but I found it incredibly helpful as an ignorant script kiddie for someone to just <i>tell</i> me what exactly I was missing, even if that was a long list and 10 years' work to go. The following is also very long, but I aim to invigorate, not spook.<br><br>
+
+
+<div class="accordion">
+	<h3>What is data science?</h3>
+	<div>
+		It's just statistical programming, but with an emphasis on newer computer methods for getting answers out of annoyingly large amounts of data.<br><br>
+
+		It's a silly name for a few reasons: for all statisticians use science on data and have done for a hundred years, and all programming is data programming, and the actual job has much more rote programming in it than it has experimental science. A more honest name is <i>machine learning model development</i>, but we have to make a living somehow, and hype-plus-plagiarism is the strategy people settled on, without active collusion or malice aforethought, around 2012.<br><br>
+
+		Similar roles have been played in the past by jobs like <i>expert system coder, decision support developer, knowledge discovery engineer, predictive analytics guy, data miner</i>. And the quant developer, in finance, is basically the same thing. The best you can say for us is, at least we don't claim that fitting our poky little toy logistic regressor is Building An Artificial Intelligence. (...)
+		<br><br>
+
+		<div class="accordion">
+			{%	includes dsfaq/prozess.html	%}
+			
+		</div>
+
+	</div>
+	
+	<h3>Statistical modelling</h3>
+	<div>
+		<div class="accordion">
+			{%	includes dsfaq/modelling.html	%}
+		</div>
+	</div>
+
+	<h3>Machine learning</h3>
+	<div>
+		<div class="accordion">
+			{%	includes dsfaq/ml.html	%}
+		</div>
+	</div>
+
+	<h3>Programming</h3>
+	<div>
+		<div class="accordion">
+			{%	includes dsfaq/code.html	%}
+		</div>
+	</div>
+
+	<h3>Data janitoring</h3>
+	<div>
+		<div class="accordion">
+			{%	includes dsfaq/cluster.html	%}
+		</div>
+	</div>
+
+
+	<h3>Distributed computing</h3>
+	<div>
+		<div class="accordion">
+			{%	includes dsfaq/cluster.html	%}
+		</div>
+	</div>
+
+	<h3>Recommended reading</h3>
+	<div>
+		<div class="accordion">
+			{%	includes dsfaq/books.html	%}
+		</div>
+		<br>Full list here.
+	</div>
+
+	<h3>Glossary</h3>
+	<div>
+		{%	include dsfaq/gloss.html	%}
+	</div>	
+	
+</div>
 
 
 <a href="#fn:1" id="fnref:1">1</a>
 
-This post is inspired by [this][Snot] detailed list of concepts and skills that separate a fresh programmer from a lead engineer. 
-<a href="#fn:2" id="fnref:2">2</a> My one covers the intuitions and background behind data analysis, machine learning, distributed computing, and nonsystems programming, which have together been given a sort of stupid name, 'data science'. It is theoretical but there is no math, but please do understand that you will never be more than a fumbler and a without .
-
-
-
-<div class="accordion">
-	<h3>Glossary</h3>
-	<div>
-		<ul>
-			<li><b>algorithm</b>: a recipe for computing something.<br> 
-				When people talk about "ML algorithms" they tend to mean <i>learners</i>.</li>
-			<li><b>learner</b>: an inductive computer program; a recipe for fitting models. Takes in examples and outputs a model.</li>
-			<li><b>model</b>: a program that predicts outputs from examples. (see also classifier, regressor).</li>
-			<li><b>data scientist</b>: an inductive program. Takes a vaguely posed problem, plus a dataset, and outputs a learner.</li><br>
-
-			<li>examples: rows</li>
-			<li>features: columns</li>
-			<li>training set: the examples given to the learner</li>
-			<li>test set: the examples given to the model</li>
-			<li>Contamination: using test data at any stage during building the model</li>
-			<li>dimensionality: the number of features you give to the learner.</li><br>
-
-			<li>classifier: a model that takes input and gives you a type in response.</li>
-			<li>regressor: a model that takes input and gives you a number in response.</li>
-			* overfitting: hallucinating a classifier e.g. by encoding the noise of training set. 
-			* bias: underfitting. a learner’s tendency to consistently learn the same wrong thing. 
-
-			* variance: overfitting. a learner’s tendency to learn random things irrespective of the real signal
-
-			bias–variance tradeoff: finding a function that generalises v finding a function that captures particularities of the data.  Simplicity means bias, complexity means variance.
-
-
-			hypothesis space: the set of classifiers that a learner can learn. Determined by representation choice, and by opt fn if eval fn has multi optima.
-
-			<li>theory: a machine that answers a class of questions. <a href="#fn:3" id="fnref:3">3</a></li>
-		</ul>
-	</div>
-	<h3></h3>
-	<div>
-		
-	</div>
-	<h3>What's the best algorithm?</h3>
-	<div>
-		There exists a deductive proof that there is no such thing (no free lunch).<br><br>
-		
-		Currently, the most competitive algorithm over a range of <i>well-defined</i> problems is gradient boosting.
-	</div>
-	
-	<h3>What can modelling do?</h3>
-	<div>
-		<ul>
-		<li>summarise data</li>
-		<li>predict new data</li>
-		<li>simulate reality</li>
-		</ul>
-		<br>Note that these three aims are actually supersets: to predict new data is to summarise future data. To simulate reality requires you to infer structure and parameter values, and to infer is to <i>predict</i> that these are the true parameters, and that repeat experiments (of the same quality) will find the same parameters (modulo noise). 
-	</div>
-
-	<h3>What sorts of machine learning are there?</h3>
-	<div><br>Tasks and algorithms. We can classify ML tasks in a few ways:
-
-		<div class="accordion">
-			<h3>By nature of inputs</h3>
-			<div class="accordion">
-				<h3>Unsupervised learning</h3>
-					<div class="accordion">
-						<h3>Clustering: unlabelled inputs, discrete output.</h3>
-						<div>Centroid-based:
-						Density-based:
-						Distribution-based:
-						Hierarchical:</div>
-					</div>
-				
-				<h3>Supervised learning</h3>
-				<div>
-					Classification: labelled inputs, discrete output
-				</div>
-				<h3>Reinforcement learning</h3>
-				<div>
-					
-				</div>
-			</div>
-			<h3>By nature of output</h3>
-			<div>Classification, discrete output for given groups
-				Regression
-				Clustering, discrete output for unknown groups
-				Density estimation, output the distribution of inputs.
-				Dimensionality reduction 
-			</div>
-		</div>
-	</div>
-
-	<h3>What is it that machines learn?</h3>
-	<div>Not "knowledge" or "tasks"; each model is an instance of some computational structure, whether:
-		<ul>
-		<li>Functions</li>
-		<li>Rulesets (ILP)</li>
-		<li>State machines</li>
-		<li>Grammars</li>
-		<li>Problem solvers</li>
-		</ul>
-		<br>Finding functions (pairing machines, like equations) is by far the most common aim. Learning is usually "figuring out an equation to solve a specific problem based on some example data”.
-	</div>
-
-	<h3>R or Python or Java or Scala?</h3>
-	<div>
-		This decision is really not that important. Scala and Python are beautiful to write. Java is everywhere. R is academically cutting-edge.<br><br>
-
-		Alright, here's a deeper take - but you must add your own weights to the columns:
-
-		Productivity
-		Safe refactoring
-		Spark
-		ML packages
-		Community
-		Visualization
-	</div>
-
-	
-	<h3>Why is my model wrong?</h3>
-	<div class="accordion">
-		<h3>Model error</h3>
-		<div>
-			<ul><li>Model is approximation</li>
-			<li>Best fit sucks</li>
-			<li>Black swan</li>
-			</ul>
-		</div>
-		
-		<h3>Parameter error</h3>
-		<div>
-			<ul>
-			<li>Concept drift</li>
-			<li>Bad estimate</li>
-			<ul>
-				<li>Sampling error</li>
-				<li>Systematic measurement error</li>
-				<li>Numerical errors (discretization, truncation, round-off)</li>
-			</ul>
-		</div>
-
-		<h3>Stochastic error</h3>
-		<div>
-			Everything's fine, you just got unlucky.
-		</div>
-	</div>
-	
-	<h3>My model used to be right; why is it wrong now?</h3>
-	<div>
-		<ul>
-			<li>It was overfit.</li>
-			<li>The population has changed ("Concept drift")</li>
-			<li>Your analysis environment has changed ("Data drift")</li>
-		</ul><br>
-		<div class="accordion">
-			<h3>What causes data drift?</h3>
-			<div>
-				<ul><li>Structural drift: the source schema is changed</li>
-				<li>Semantic drift: the data is constant but its meaning changes.</li>
-				<li>Infrastructure drift: breaking change in an update to some part of pipeline.</li>
-				</ul>
-			</div>
-		</div>
-	</div>
-
-	<h3>Why is data uncertain?</h3>
-	<div>
-		<ul>
-		<li>It is always incomplete (small samples, few features, physical limits)</li>
-		<li>It is usually indirect (proxies, latency)</li>
-		<li>It is noisy (measurement error, data corruption, unknown processes)
-		<li>It has some risk of being fabricated.</li>
-		<li>Ambiguous</li>
-		</ul>
-	<!--<li>High-latency (economic and physical limits to the recency of your data)</li>-->
-	<!--<li>Approximate</li>-->
-	</div>
-	
-	<h3>What's the difference between machine learning and data mining?</h3>
-	<div>
-		They're not totally well-defined, but when explicitly distinguished: 
-		<ul><li>ML is pure statistical learning: hand over input-output pairs and tweak until function is approximated.</li>
-		<li>DM is learning for well-understood domains, where you can design your algorithms substantially.</li>
-	</div>
-
-	<h3>What's the difference between inference and prediction?</h3>
-	<div>
-		In a sense they are not different: to infer (parameters) is to predict what new data will look like, and to predict that repeat experiments will find similar parameters. But conventionally, inference is an attempt to learn the true parameters, to find the actual way that the data were generated, not just an empirically adequate tool that gets the input-output pairs correct enough.<br>
-
-		A better way of thinking about it: inference tries to get exactly how the data are generated, where prediction just wants the data.
-	</div>
-	
-	<h3>How do you design learners?</h3>
-	<div>You need to write the output model in a language the computer understands (<i>representation</i>), you need to encode the examples in a way the computer understands (data representation), you need a strict rule for distinguishing good models from bad ones, and you need a way of picking the highest-scoring classifier in the language (optimisation). 
-	</div>
-
-	<h3>How shall I represent the model?</h3>
-	<div>First, what do you know? The representation you choose limits the knowledge you can encode into the learner.
-
-		* if we have a lot of knowledge about what makes examples similar, instance-based methods 
-		* if we have knowledge about probabilistic dependencies, graphical models. 
-		* if we have knowledge about the strict conditions involved, use first-order logic. 
-		<ul>
-			<li>instance: no generalisation, just compare new to all previous, in memory
-			(e.g. k-nearest neighbors)</li>
-			<li>Hyperplane-based methods form a linear combination of the features per class and predict the class with the highest-valued combination.</li>
-			<li>Decision trees test one feature at each internal node, with one branch for each feature value, and have class predictions at the leaves.</li>
-		</ul>
-	</div>
-
-	<h3>How do I avoid overfitting?</h3>
-	<div>	
-
-		* Add a term to the eval function (Regularisation):
-			Tikhonov regularization: penalize complex functions 
-			Ivanov regularization: constrain the hypothesis space, either in the functional form or by adding constraints to the 
-
-		* Do a significance test before adding new features
-	</div>
-
-	<h3>Isn't trying millions of hypotheses going to find nonsense coincidences?</h3>
-	<div>Yes. The MULTIPLE TESTING of grid search .
-
-		We have to control the false discovery rate (fraction of falsely accepted non-null hypotheses).
-
-		Bonferroni.
-	</div>
-
-	<h3>When do you <i>have</i> to structure data?</h3>
-	<div>
-		When performance (network latency or model training speed or model accuracy) is more important than cost.
-	</div>
-
-
-	<h3>Why is machine learning hard?</h3>
-	<div>
-		Because of the curse of dimensionality.<br><br>
-
-		And also in the process: the size of the failure space is arguably the square of software engineering's (already enormous) failure space.
-	</div>
-
-	<h3>What is the curse of dimensionality?</h3>
-	<div>"most of the volume of a high-dimensional orange is in the skin, not the pulp."
-
-		Generalizing correctly becomes exponentially harder as the dimensionality grows, because a fixed-size training set covers a dwindling fraction of the input space. If features are binary, d = 100, and n_train = 10^12 examples, training still only covers 10^−18 of the input space.
-			2^100 = 1.3 e 30
-			trillion = 1 e 12
-			coverage = 1 e 12 / 1.3 e 30 = 1^-18 of all possible examples
-
-		* blessing of non-uniformity: examples are usually not spread uniformly throughout the instance space, but are concentrated near a lower-dimensional manifold. For example, k-nearest neighbor works quite well for handwritten digit recognition even though images of digits have one dimension per pixel, because the space of digit images is much smaller than the space of all possible images.
-	</div>
-</div>
-
-
-
-| Skill			|	As question									|	Typical of
-| 
-| Domain analysis	|	What does this vague request really mean?	|	Statistician, software dev	
-| Data collection	|	What evidence exists? What can I use?		|
-| Exploratory analysis |	What is the data like? What jumps out?	|
-| Tool choice		|	What software suits this task best?			|
-| Metric choice	|	How will we judge success?					|
-| Feature selection |	Which parts are useful?						|
-| Data cleaning	|	How to remove flawed data?					|
-| Data wrangling	|	How to transform data?						|
-| Modelling		|	What structure will answer the question?	|
-| Evaluation		|	How good is this model? Under conditions?	|
-| Deployment		|	How will this be used? Who will use it?		|
-| Communication	|	What result?								|
-
-
-<iframe src="https://docs.google.com/spreadsheets/d/1udu2AQuHDr7oP3E-bHkzBhyhSOZ7Y9UXKSzQqsvtZpI/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 
 [Snot]: 		http://www.starling-software.com/employment/programmer-competency-matrix.html 
-
-
-
 
 {%  include dsfaq/foots.html %}
