@@ -1,3 +1,5 @@
+{%	assign noFree = "https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization"		%}
+
 <h3>Why are statistics and machine learning treated so differently?</h3>
 <div>
 	Good question: pure tribal contingency. Because the methods were developed (and reinvented) in different university departments.<br><br>
@@ -20,7 +22,7 @@
 
 <h3>What's the best algorithm?</h3>
 <div>
-	<a href="(no free lunch)">There exists a sweeping and powerful proof that there is no such thing.</a><br><br>
+	<a href="{{noFree}}">There exists a sweeping and powerful proof that there is no such thing.</a><br><br>
 	
 	Currently, the most competitive algorithm over a range of <i>well-defined</i> problems is gradient boosting.
 </div>
@@ -41,21 +43,29 @@
 	
 <h3>What's deep about deep learning?</h3>
 <div> 
-	There's a boring and an exciting version. The boring reading is just that deep NNs have a big gap between the input and output layer: more hidden layers mean deep. The exciting reading is when we take recent successes to hint at a fundamental mechanism of all learning: successive abstractions, one per layer, until a clear signal rests atop the network: a newlyborn concept.
+	There's a boring and an exciting version. The boring reading is just that deep NNs have a big gap between the input and output layer: more hidden layers mean deep.<br><br> 
+
+	The exciting reading is when we take recent successes to hint at a fundamental mechanism of all learning: successive abstractions, one per layer, until a clear signal rests atop the network: a newlyborn concept.
 </div>
 
 <h3>What's the difference between machine learning and data mining?</h3>
 <div>
-	Surprisingly, they're not totally well-defined terms. But when they are being explicitly distinguished: 
+	Surprisingly, they're not totally well-defined terms. But when they are being explicitly distinguished:<br><br>
 	<ul>
-		<li>ML is pure statistical learning: you hand it input-output pairs and tweak until your function is approximated.</li>
+		<li>ML is pure statistical learning: you hand it input-output pairs and tweak until your function is approximated.</li><br>
 		<li>DM is learning over well-understood domains, where you can design your algorithms substantially.</li>
 	</ul>
 </div>
 
 <h3>How do you design learners?</h3>
 <div>
-	You need to write the output model in a language the computer understands (<i>representation</i>), you need to encode the examples in a way the computer understands (data representation), you need an unambiguous rule for distinguishing good models from bad ones (evaluation), and you need a way of picking the highest-scoring classifier in the language (optimisation). 
+	You need to write the output model in a language the computer understands (<i>model representation</i>),<br><br> 
+
+	you need to encode the examples in a way the computer understands (<i>data representation</i>),<br><br> 
+
+	you need an unambiguous rule for distinguishing good models from bad ones (<i>evaluation</i>),<br><br> 
+
+	and you need a way of picking the highest-scoring classifier in the language (<i>optimisation</i>). 
 </div>
 
 <h3>How shall I represent the model?</h3>
