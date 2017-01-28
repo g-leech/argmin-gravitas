@@ -16,7 +16,10 @@ categories:		machine learning, data science
 count:			2650
 ---
 
-This post is inspired by [this][Snot] list of the knowledge that separate a fresh programmer from a lead engineer. It is aggressively written, but I found it incredibly helpful as an ignorant script kiddie for someone to just <i>tell</i> me what exactly I was missing, even if that was a long list and 10 years' work to go. The following is also very long, but I aim to invigorate, not spook.<br><br>
+{%	assign Snot = "http://www.starling-software.com/employment/programmer-competency-matrix.html" 	%}
+
+
+This post is inspired by <a href="{{Snot}}">this</a> list of thing that separate a fresh programmer from a lead engineer. It is aggressively written, but I found it incredibly helpful as an ignorant script kiddie for someone to just <i>tell</i> me what exactly I was missing, even if that was a long list and 10 years' work to go. The following is also very long, but I aim to invigorate, not spook.<br><br>
 
 
 <div class="accordion">
@@ -43,7 +46,7 @@ This post is inspired by [this][Snot] list of the knowledge that separate a fres
 		</div>
 	</div>
 
-	<h3>Machine learning</h3>
+	<h3>Machine learning (ML)</h3>
 	<div>
 		<div class="accordion">
 			{%	include dsfaq/ml.html	%}
