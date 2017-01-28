@@ -8,7 +8,7 @@ author:			Gavin
 img:			/img/smolRelation.png
 
 visible:		1
-simple:			true
+<!-- simple:			true -->
 
 summary:		A catalogue of intuitive explanations I wish I'd had before getting into data science.
 confidence:		80%. I am more jejune than this lets on.
@@ -20,9 +20,13 @@ count:			2650
 {%	assign AIAI = "https://www.cbinsights.com/blog/artificial-intelligence-startup-hype-ai-suffix/" %}
 {%	assign logReg = "https://en.wikipedia.org/wiki/Logistic_regression" %}
 {%	assign leemis = "http://www.math.wm.edu/~leemis/chart/UDR/UDR.html" %}
+{%  include js/lazyFrame.html %}
 
-<img src="/img/relation.png" style="height:70%;width:70%;"/><br>
-<div align="center"><small>(c) Larry Leemis (2008). <a href="{{leemis}}">This is an incredible site</a>.</small></div><br>
+
+<div style="text-align:center">
+	<img src="/img/relation.png" style="height:70%;width:70%;"/><br>
+	<small>(c) Larry Leemis (2008). <a href="{{leemis}}">This is an incredible site</a>.</small>
+</div><br>
 
 
 Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fresh programmer from an actual engineer. <a href="#fn:2" id="fnref:2">2</a> The following is also very long, but aims to enlighten, not chastise.<br><br>
