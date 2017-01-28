@@ -22,7 +22,14 @@ categories:	philosophy of science, language, machine learning
 <img src="/img/two-var.png" />
 
 
-A toy model of aesthetics with just two binary variables, 'classiness' and 'busyness' <a href="#fn:1" id="fnref:1">1</a>:<br><br>
+* Howson on Bayes
+* Guaranteed induction
+* Parsimony refuted and rehabilitated
+* The logical analysis of concepts without use of necessities and sufficiencies.
+
+Ensemble success vs Strong Occam's razor
+
+Here is a toy model of aesthetics with just two binary variables, 'classiness' and 'busyness' <a href="#fn:1" id="fnref:1">1</a>:<br><br>
 
 <ul>
 <li><a href="http://cdn.freshome.com/wp-content/uploads/2016/01/minimalism-freshome-1.png"><i>Minimalism</i></a>: Simple Classy</li>

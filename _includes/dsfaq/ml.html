@@ -1,0 +1,115 @@
+<h3>Why are statistics and machine learning treated so differently?</h3>
+<div>
+	Good question: pure tribal contingency. Because the methods were developed (and reinvented) in different university departments.<br><br>
+
+	One real difference is that black-box prediction, which is so often the terminal goal in even academic ML, was . So the ideal type of statistics aims for inference to the data-generating mechanism, while the ideal type of ML aims for optimum prediction of future data. 
+</div>
+
+<h3>What's the difference between inference and prediction?</h3>
+<div>
+	In a sense they are not different at all: to infer (parameters) <i>is</i> to predict what new data will look like, <i>and</i> to predict that repeat experiments will find similar parameters. But conventionally, inference is an attempt to learn the true parameters, to find the actual way that the data were generated, not just an empirically adequate tool that gets the input-output pairs correct enough.<br>
+
+	A better way of thinking about it: inference tries to get exactly how the data are generated, where prediction just wants the right answer.
+</div>
+
+
+<h3>What sorts of machine learning are there?</h3>
+<div>
+	{%	include dsfaq/types.html	%}
+</div>
+
+<h3>What's the best algorithm?</h3>
+<div>
+	<a href="(no free lunch)">There exists a sweeping and powerful proof that there is no such thing.</a><br><br>
+	
+	Currently, the most competitive algorithm over a range of <i>well-defined</i> problems is gradient boosting.
+</div>
+
+
+<h3>What is it that machines learn?</h3>
+<div>Not "knowledge" or "tasks"; each model is an instance of some computational structure, whether:
+	<ul>
+	<li>Functions</li>
+	<li>Rulesets (ILP)</li>
+	<li>State machines</li>
+	<li>Grammars</li>
+	<li>Problem solvers</li>
+	</ul>
+	<br>Finding functions (pairing machines, like equations) is by far the most common aim. Learning is usually "figuring out an equation to solve a specific problem based on some example data”.
+</div>
+
+	
+<h3>What's deep about deep learning?</h3>
+<div> 
+	There's a boring and an exciting version. The boring reading is just that deep NNs have a big gap between the input and output layer: more hidden layers mean deep. The exciting reading is when we take recent successes to hint at a fundamental mechanism of all learning: successive abstractions, one per layer, until a clear signal rests atop the network: a newlyborn concept.
+</div>
+
+<h3>What's the difference between machine learning and data mining?</h3>
+<div>
+	Surprisingly, they're not totally well-defined terms. But when they are being explicitly distinguished: 
+	<ul>
+		<li>ML is pure statistical learning: you hand it input-output pairs and tweak until your function is approximated.</li>
+		<li>DM is learning over well-understood domains, where you can design your algorithms substantially.</li>
+	</ul>
+</div>
+
+<h3>How do you design learners?</h3>
+<div>
+	You need to write the output model in a language the computer understands (<i>representation</i>), you need to encode the examples in a way the computer understands (data representation), you need an unambiguous rule for distinguishing good models from bad ones (evaluation), and you need a way of picking the highest-scoring classifier in the language (optimisation). 
+</div>
+
+<h3>How shall I represent the model?</h3>
+<div>First, what do you know? The representation you choose limits the knowledge you can encode into the learner.
+
+	* if we have a lot of knowledge about what makes examples similar, instance-based methods 
+	* if we have knowledge about probabilistic dependencies, graphical models. 
+	* if we have knowledge about the strict conditions involved, use first-order logic. 
+	<ul>
+		<li>instance: no generalisation, just compare new to all previous, in memory
+		(e.g. k-nearest neighbors)</li>
+		<li>Hyperplane-based methods form a linear combination of the features per class and predict the class with the highest-valued combination.</li>
+		<li>Decision trees test one feature at each internal node, with one branch for each feature value, and have class predictions at the leaves.</li>
+	</ul>
+</div>
+
+<h3>How do I avoid overfitting?</h3>
+<div>	
+
+	* Add a term to the eval function (Regularisation):
+		Tikhonov regularization: penalize complex functions 
+		Ivanov regularization: constrain the hypothesis space, either in the functional form or by adding constraints to the 
+
+	* Do a significance test before adding new features
+</div>
+
+<h3>Isn't trying millions of hypotheses going to find nonsense coincidences?</h3>
+<div>Yes. The MULTIPLE TESTING of grid search .
+
+	We have to control the false discovery rate (fraction of falsely accepted non-null hypotheses).
+
+	Bonferroni.
+</div>
+
+<h3>When do you <i>have</i> to structure data?</h3>
+<div>
+	When performance (network latency or model training speed or model accuracy) is more important than cost.
+</div>
+
+
+<h3>Why is machine learning hard?</h3>
+<div>
+	Because of the curse of dimensionality.<br><br>
+
+	And also in the process: the size of the failure space is arguably the square of software engineering's (already enormous) failure space.
+</div>
+
+<h3>What is the curse of dimensionality?</h3>
+<div>"most of the volume of a high-dimensional orange is in the skin, not the pulp."
+
+	Generalizing correctly becomes exponentially harder as the dimensionality grows, because a fixed-size training set covers a dwindling fraction of the input space. If features are binary, d = 100, and n_train = 10^12 examples, training still only covers 10^−18 of the input space.
+		2^100 = 1.3 e 30
+		trillion = 1 e 12
+		coverage = 1 e 12 / 1.3 e 30 = 1^-18 of all possible examples
+
+	* blessing of non-uniformity: examples are usually not spread uniformly throughout the instance space, but are concentrated near a lower-dimensional manifold. For example, k-nearest neighbor works quite well for handwritten digit recognition even though images of digits have one dimension per pixel, because the space of digit images is much smaller than the space of all possible images.
+</div>
