@@ -31,7 +31,7 @@ This post is inspired by <a href="{{Snot}}">this</a> list of the knowledge that 
 		<br><br>
 
 		<div class="accordion">
-			{%	includes dsfaq/prozess.html	%}
+			{%	include dsfaq/prozess.html	%}
 			
 		</div>
 
@@ -40,28 +40,28 @@ This post is inspired by <a href="{{Snot}}">this</a> list of the knowledge that 
 	<h3>Statistical modelling</h3>
 	<div>
 		<div class="accordion">
-			{%	includes dsfaq/modelling.html	%}
+			{%	include dsfaq/modelling.html	%}
 		</div>
 	</div>
 
 	<h3>Machine learning</h3>
 	<div>
 		<div class="accordion">
-			{%	includes dsfaq/ml.html	%}
+			{%	include dsfaq/ml.html	%}
 		</div>
 	</div>
 
 	<h3>Programming</h3>
 	<div>
 		<div class="accordion">
-			{%	includes dsfaq/code.html	%}
+			{%	include dsfaq/code.html	%}
 		</div>
 	</div>
 
 	<h3>Data janitoring</h3>
 	<div>
 		<div class="accordion">
-			{%	includes dsfaq/cluster.html	%}
+			{%	include dsfaq/cluster.html	%}
 		</div>
 	</div>
 
@@ -69,14 +69,14 @@ This post is inspired by <a href="{{Snot}}">this</a> list of the knowledge that 
 	<h3>Distributed computing</h3>
 	<div>
 		<div class="accordion">
-			{%	includes dsfaq/cluster.html	%}
+			{%	include dsfaq/cluster.html	%}
 		</div>
 	</div>
 
 	<h3>Recommended reading</h3>
 	<div>
 		<div class="accordion">
-			{%	includes dsfaq/books.html	%}
+			{%	include dsfaq/books.html	%}
 		</div>
 		<br>Full list here.
 	</div>
