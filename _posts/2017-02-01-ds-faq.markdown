@@ -21,7 +21,7 @@ count:			2650
 {%	assign logReg = "https://en.wikipedia.org/wiki/Logistic_regression" %}
 {%	assign leemis = "http://www.math.wm.edu/~leemis/chart/UDR/UDR.html" %}
 
-<img src="/img/relation.png" style="height:70%;width:70%;"/>
+<img src="/img/relation.png" style="height:70%;width:70%;"/><br>
 <div align="center"><small>(c) Larry Leemis (2008). <a href="{{leemis}}">This is an incredible site</a>.</small></div><br>
 
 
