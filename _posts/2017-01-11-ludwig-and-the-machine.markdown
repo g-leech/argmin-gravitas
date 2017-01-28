@@ -13,7 +13,7 @@ simple:		true
 stylised:	true
 technical:	true
 
-summary:	Recent formal results have addressed ancient philosophical questions, sometimes driving them as far as blessed irrelevance.
+summary:	Recent formal results address ancient philosophical questions, sometimes driving them out as far as blessed irrelevance.
 confidence:
 warnings: 
 categories:	philosophy of science, language, machine learning

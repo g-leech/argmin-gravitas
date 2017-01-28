@@ -1,10 +1,28 @@
 {%	assign noFree = "https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization"		%}
+{%	assign breiman = "http://www.stat.uchicago.edu/~lekheng/courses/191f09/breiman.pdf"				%}
+{%	assign norvig = "http://www.datascienceassn.org/sites/default/files/Unreasonable%20Effectiveness%20of%20Data.pdf"		%}
+{%	assign Spark = "https://en.wikipedia.org/wiki/Apache_Spark"		%}
+
+
+<h3>Why is ML so hot right now?</h3>
+<div>
+	Because of a burst of successes in previously intractable tasks which make money, or should eventually make money.
+</div>
+
+<h3>Why the burst of successes?</h3>
+<div>
+	Substantially just because we have <a href="{{norvig}}">millions of times more data now</a>, <ahref="{{Spark}}">a wonderful architecture</a> for dealing with it quickly, and ways of using it without having to process it by hand. 
+
+	Also because of steady breakthroughs in statistical theory: nonparametric models so you don't compress away information.
+
+	what separates a successful applied machine learning company is often the novelty, quality and/or quantity of the data they have access to.
+</div>
 
 <h3>Why are statistics and machine learning treated so differently?</h3>
 <div>
-	Good question: pure tribal contingency. Because the methods were developed (and reinvented) in different university departments.<br><br>
+	Good question, since they are both modelling approaches: it's just a tribal separation. Because the methods were developed (and reinvented) in different university departments.<br><br>
 
-	One real difference is that black-box prediction, which is so often the terminal goal in even academic ML, was . So the ideal type of statistics aims for inference to the data-generating mechanism, while the ideal type of ML aims for optimum prediction of future data. 
+	<i>One</i> real difference is that black-box prediction, which is so often the terminal goal in ML, was <a href="breiman">heavily disparaged</a> in stats for a long time. So a cartoon statistician aimed to infer the data-generating mechanism, while a cartoon ML engineer aimed for optimum prediction of future data. This wall is breaking down, I'm told.  
 </div>
 
 <h3>What's the difference between inference and prediction?</h3>

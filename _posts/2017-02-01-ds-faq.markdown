@@ -10,33 +10,36 @@ img:			/img/smolRelation.png
 visible:		1
 simple:			true
 
-summary:		A catalogue of intuitive explanations I wish I'd known before getting into data science.
+summary:		A catalogue of intuitive explanations I wish I'd had before getting into data science.
 confidence:		80%. I am more jejune than this lets on.
 categories:		machine learning, data science
 count:			2650
 ---
 
 {%	assign Snot = "http://www.starling-software.com/employment/programmer-competency-matrix.html" 	%}
+{%	assign AIAI = "https://www.cbinsights.com/blog/artificial-intelligence-startup-hype-ai-suffix/" %}
+{%	assign logReg = "https://en.wikipedia.org/wiki/Logistic_regression" %}
+{%	assign leemis = "http://www.math.wm.edu/~leemis/chart/UDR/UDR.html" %}
 
+<img src="/img/relation.png" />
+<small>(c) Larry Leemis (2008). <a href="{{leemis}}">This is an incredible site</a>.</small>
 
-This post is inspired by <a href="{{Snot}}">this</a> list of thing that separate a fresh programmer from a lead engineer. It is aggressively written, but I found it incredibly helpful as an ignorant script kiddie for someone to just <i>tell</i> me what exactly I was missing, even if that was a long list and 10 years' work to go. The following is also very long, but I aim to invigorate, not spook.<br><br>
+Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fresh programmer from an actual engineer. <a href="#fn:2" id="fnref:2">2</a> The following is also very long, but aims to enlighten, not chastise.<br><br>
 
 
 <div class="accordion">
 	<h3>What is data science?</h3>
 	<div>
-		It's just statistical programming, but with an emphasis on newer computer methods for getting answers out of annoyingly large amounts of data.<br><br>
+		It's just statistical programming, but with an emphasis on computer methods for getting answers out of annoyingly large amounts of data for poorly understood problems.<br><br>
 
-		It's a silly name for a few reasons: for all statisticians use science on data and have done for a hundred years, and all programming is data programming, and the actual job has much more rote programming in it than it has experimental science. A more honest name is <i>machine learning model development</i>, but we have to make a living somehow, and hype-plus-plagiarism is the strategy people settled on, without active collusion or malice aforethought, around 2012.<br><br>
+		It's a silly name for a few reasons: for all statisticians use science on data and have done for a hundred years, and all programming is data programming, and the actual job has much more and rote scripting in it than it has experimental science. A more honest name is <i>machine learning model development</i>, but we have to make a living somehow, and hype-plus-plagiarism is the strategy people settled on, without active collusion or malice aforethought, around 2012.<br><br>
 
-		Similar roles have been played in the past by jobs like <i>expert system coder, decision support developer, knowledge discovery engineer, predictive analytics guy, data miner</i>. And the quant developer, in finance, is basically the same thing. The best you can say for us is, at least we don't claim that fitting our poky little toy logistic regressor is Building An Artificial Intelligence. (...)
+		Similar roles have been played in the past by jobs like <i>expert system coder, decision support developer, knowledge discovery engineer, predictive analytics guy, data miner</i>. And the quant developer, in finance, is basically the same thing. The best you can say for us is, at least we don't claim that our poky little <a href="{{logReg}}">logistic regressor</a> is <a href="{{AIAI}}">An Artificial Intelligence</a>. (...)
 		<br><br>
 
 		<div class="accordion">
 			{%	include dsfaq/prozess.html	%}
-			
 		</div>
-
 	</div>
 	
 	<h3>Statistical modelling</h3>
@@ -90,8 +93,7 @@ This post is inspired by <a href="{{Snot}}">this</a> list of thing that separate
 	
 </div>
 
-
-<a href="#fn:1" id="fnref:1">1</a>
+<br>
 
 
 
