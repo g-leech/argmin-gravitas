@@ -20,12 +20,12 @@
 <div>
 	Good question, since they are both just statistical modelling approaches: it's just a tribal separation. That is, the methods were developed (and reinvented) in different university departments.<br><br>
 
-	<i>One</i> real difference is that black-box prediction, which is so often the terminal goal in ML, was <a href="breiman">heavily disparaged</a> in stats for a long time. So a cartoon statistician aimed to infer the data-generating mechanism, while a cartoon ML engineer aimed for optimum prediction of future data. This wall is breaking down, I'm told.  
+	<i>One</i> real difference is that black-box prediction, which is so often the terminal goal in ML, was <a href="{{breiman}}">heavily disparaged</a> in stats for a long time. So a cartoon statistician aimed to infer the data-generating mechanism, while a cartoon ML engineer aimed for optimum prediction of future data. This wall is breaking down, I'm told.  
 </div>
 
 <h3>What's the difference between inference and prediction?</h3>
 <div>
-	In a sense they are not different at all: to infer (parameters) <i>is</i> to predict what new data will look like, <i>and</i> to predict that repeat experiments will find similar parameters. But conventionally, inference is an attempt to learn the true parameters, to find the actual way that the data were generated, not just an empirically adequate tool that gets the input-output pairs correct enough.<br>
+	In a sense they are not different at all: to infer (parameters) <i>is</i> to predict what new data will look like, <i>and</i> to predict that repeat experiments will find similar parameters. But conventionally, inference is an attempt to learn the true parameters, to find the actual way that the data were generated, not just an empirically adequate tool that gets the input-output pairs correct enough.<br><br>
 
 	A better way of thinking about it: inference tries to get exactly how the data are generated, where prediction just wants the right answer.
 </div>
@@ -45,7 +45,7 @@
 
 
 <h3>What is it that machines learn?</h3>
-<div>Not "knowledge" or "tasks"; each model is an instance of some computational structure, whether:<br>
+<div>Not "knowledge" or "tasks"; each model is an instance of some computational structure, whether:<br><br>
 	<ul>
 		<li>Functions</li>
 		<li>Rulesets (ILP)</li>
@@ -79,13 +79,13 @@
 
 	you need to encode the examples in a way the computer understands (<i>data representation</i>),<br><br> 
 
-	you need an unambiguous rule for distinguishing good models from bad ones (<i>evaluation</i>),<br><br> 
+	you need an unambiguous rule for distinguishing good models from bad ones (<i>evaluation function</i>),<br><br> 
 
-	and you need a way of picking the highest-scoring classifier in the language (<i>optimisation</i>). 
+	and you need a way of picking the best hypothesis in the model language (<i>optimisation function</i>). 
 </div>
 
 <h3>How shall I represent the model?</h3>
-<div>First, what do you know? The representation you choose limits the knowledge you can encode into the learner. If we have a lot of knowledge about what makes examples similar, you should use 'instance-based methods'. If we have knowledge about probabilistic dependencies, graphical models. If we have knowledge about the strict conditions involved, use first-order logic. 
+<div>First, what do you know? The representation you choose limits the knowledge you can encode into the learner. If we have a lot of knowledge about what makes examples similar, you should use 'instance-based methods'. If we have knowledge about probabilistic dependencies, graphical models. If we have knowledge about the strict conditions involved, use first-order logic. <br><br>
 	<ul>
 		<li>instance: no generalisation, just compare new to all previous, in memory
 		(e.g. k-nearest neighbors)</li>
@@ -105,7 +105,7 @@
 </div>
 
 <h3>Isn't trying millions of hypotheses going to find nonsense coincidences?</h3>
-<div>Yes. The MULTIPLE TESTING of grid search .
+<div>Yes. A grid search is the ultimate in multiple testing risk.
 
 	We have to control the false discovery rate (fraction of falsely accepted non-null hypotheses).
 
@@ -120,7 +120,7 @@
 
 <h3>Why is machine learning hard?</h3>
 <div>
-	Because of the curse of dimensionality.<br><br>
+	Because of the combinatorial explosion, or "curse of dimensionality".<br><br>
 
 	And also in the process: the size of the failure space is arguably the square of software engineering's (already enormous) failure space.
 </div>
@@ -128,7 +128,11 @@
 <h3>What is the curse of dimensionality?</h3>
 <div>"most of the volume of a high-dimensional orange is in the skin, not the pulp."
 
-	Generalizing correctly becomes exponentially harder as the dimensionality grows, because a fixed-size training set covers a dwindling fraction of the input space. If features are binary, d = 100, and n_train = 10^12 examples, training still only covers 10^−18 of the input space.
+	Generalizing correctly becomes exponentially harder as the dimensionality grows, because a fixed-size training set covers a dwindling fraction of the input space.<br><br> 
+
+	An example from Pedro Domingos:<br><br>
+
+	You have a training set with a trillion rows and a hundred columns which all just say "Yes" or "No" to the feature they're representing. If features are binary, d = 100, and  examples, training still only covers 10^−18 of the input space.<br><br>
 		2^100 = 1.3 e 30
 		trillion = 1 e 12
 		coverage = 1 e 12 / 1.3 e 30 = 1^-18 of all possible examples
