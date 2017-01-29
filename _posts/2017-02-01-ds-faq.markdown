@@ -40,15 +40,17 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 	<div>
 		It's just statistical programming, but with an emphasis on computer methods for getting answers out of annoyingly large amounts of data for poorly understood problems. And a truckful of marketing hype.<br><br>
 
-		It's a silly name for a few reasons: for all statisticians use science on data and have done for a hundred years, and all programming is data programming, and the actual job has much more data munging and rote scripting in it than it has experimental science. A more honest name is <i>machine learning model development</i>, but we have to make a living somehow, and hype-plus-plagiarism is the strategy people settled on, without active collusion or malice aforethought, around 2012. The best you can say for us is, at least we don't claim that our poky little <a href="{{logReg}}">logistic regressor</a> is <a href="{{AIAI}}">An Artificial Intelligence</a>. (...)<br><br>
+		It's a silly name for a few reasons: for all statisticians use science on data and have done for a hundred years, and all programming is data programming, and the actual job has much more data munging and rote scripting in it than it has experimental science.<br><br> 
 
-		Data analysis is an art, in Knuth's sense:<br>
+		A more honest name is <i>machine learning data analyst</i>... but we have to make a living somehow. The best you can say for us is, at least we don't claim that our poky little <a href="{{logReg}}">logistic regressor</a> is <a href="{{AIAI}}">An Artificial Intelligence</a>. (...)<br><br>
+
+		Data analysis is an art, in Knuth's sense:<br><br>
 
 		<blockquote>
 			Science is everything we understand well enough to explain to a computer. Art is everything else we do.
 		</blockquote>
 
-		but it isn't cool to call yourself a data analyst for some reason. <a href="#fn:5" id="fnref:5">5</a><br><br>
+		but it isn't cool to call yourself a data analyst for some reason. <a href="#fn:1" id="fnref:1">1</a><br><br>
 		<br><br>
 
 		<div class="accordion">
