@@ -96,12 +96,12 @@
 
 <h3>How do I avoid overfitting?</h3>
 <div>	
-
-	* Add a term to the eval function (Regularisation):
-		Tikhonov regularization: penalize complex functions 
-		Ivanov regularization: constrain the hypothesis space, either in the functional form or by adding constraints to the 
-
-	* Do a significance test before adding new features
+	<ul>
+	<li>Add a term to the eval function (Regularisation):
+		<ul><li>Tikhonov regularization: penalize complex functions </li>
+		<li>Ivanov regularization: constrain the hypothesis space, either in the functional form or by adding constraints to the </li>
+	</li>
+	<li>Simple significance test before and after, before adding new features</li>
 </div>
 
 <h3>Isn't trying millions of hypotheses going to find nonsense coincidences?</h3>
@@ -110,11 +110,6 @@
 	We have to control the false discovery rate (fraction of falsely accepted non-null hypotheses).
 
 	Bonferroni.
-</div>
-
-<h3>When do you <i>have</i> to structure data?</h3>
-<div>
-	When performance (network latency or model training speed or model accuracy) is more important than cost.
 </div>
 
 
