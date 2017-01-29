@@ -1,27 +1,73 @@
+{%	assign delug = "https://www.emc.com/leadership/digital-universe/2014iview/executive-summary.htm"		%}
+{%	assign backprop = "https://en.wikipedia.org/wiki/Backpropagation#History"		%}
+{%	assign backprop = "https://news.ycombinator.com/item?id=13232883"		%}
 
 
-<h3>I Am A Strange Loop</h3>
-<div>
+<h3>A Strange Loop</h3>
+<div><br>
 	We can also define a data scientist in a black-box manner, as follows:
 		<ul>
 			<li><b>learner</b>: an inductive program that takes in example data and outputs a model.</li>
 			<li><b>model</b>: a deterministic program that takes examples and outputs predictions. </li>
-			<li><b>data scientist</b>: an inductive program that takes a vague problem and data, and outputs a learner.</li>
+			<li><b>data scientist</b>: a pretentious inductive program that takes a vague problem and data, and outputs a learner.</li>
 		</ul><br>
  			
  		That ^ is vague; here's a breakdown of the actual tasks involved:<br>
 </div>
 
-
-<h3>The Data Science Process</h3>
-<div id="processFrame">
-
-    <script>  
-        var src = "https://docs.google.com/spreadsheets/d/1udu2AQuHDr7oP3E-bHkzBhyhSOZ7Y9UXKSzQqsvtZpI/pubhtml?chrome=false"; 
-        definiteEvent( createIframe, [src, "processFrame"] ); 
-    </script>		
+<h3>Predecessors</h3>
+<div>
+		Similar roles have been played in the past by jobs like <i>expert system designer, decision support developer, knowledge discovery engineer, predictive analytics guy, business intelligence analyst, data miner, and big data engineer</i>, with varying levels of rigour and bullshit. The <i>quant developer</i>, in finance, is basically the same thing but with far less variance in skill level.
 </div>
 
+<h3>Why is the hype happening now?</h3>
+<div>
+	<ol>
+		<li>The underlying cause of most of it is the <a href="{{delug}}">data deluge</a> (<a href="https://en.wikipedia.org/wiki/Information_explosion">explosion</a>) - we collect millions of times more data, basically for free.
+		<ul><li>Distributed computing, because the dataset doesn't fit in one computer's RAM.</li>
+				<li>Sudden great performance, because it turns out that scaling your sample size gives a qualitative change for some domains (“Unreasonable Effectiveness of Data”). Same algorithms <a href="{{backprop}}">as the 80s</a> sometimes!</li>
+				<li>huge potential value in scraping and extracting unstructured sources  ->   aggregation</li>
+			    <li>Data products (FitBit; restaurants, friends, jobs; credit ratings; health)</li>
+		</ul>
+		<br><br>(And <a href="https://en.wikipedia.org/wiki/Data_exhaust">the web and IoT</a> are the cause of that.)</li>
+		
+		<li>Unsupervised machine learning allows for cheap use of the much greater volume of data which isn't.</li>
+		
+		<li>Cognitive automation: we have recently been able to automate high-level things which used to require skilled humans: trading decisions, recommendations, portfolio allocation, maybe even hypothesis generation: i.e. creativity!</li>
+
+		<li>Demand for real-time summary of datasets means investment in stream processing algorithms and frameworks.</li>
+	</ol>
+</div>
+
+<h3>The Data Science Process</h3>
+<div>
+
+	Domain analysis	What does this vague request really mean?
+	Data collection	What evidence exists? What can I use?
+	Exploratory analysis	What is the data like? What jumps out?
+	Tool choice	What software suits this task best?
+	Metric choice	How will we judge success?
+	Feature selection	Which parts are useful?
+	Data cleaning	How to remove flawed data?
+	Data wrangling	How to transform data?
+	Modelling	What structure will answer the question?
+	Evaluation	How good is this model? Under conditions?
+	Deployment	How will this be used? Who will use it?
+	Communication	What result?	
+</div>
+
+<h3>Use data science to define data science</h3>
+<div>By surveying people with the job title "data scientist" and then clustering the data, Harris et al split "data scientist" into four real jobs:
+
+	<ul>
+		<li><i>Data researcher</i>: A postgrad statistician. Writes new algorithms, builds proof-of-concept ensembles, writes analysis libraries, disseminates. </li>
+		<li><i>Data developer</i>: Machine learning engineer. Application builder. </li>
+		<li><i>Data businessperson</i>: A knowledgeable interface between technical and non-technical people. Doesn’t code: steers modelling approach.</li>
+		<li><i>Data creative</i>: Bit of everything. Heavy on visualisations?</li>
+	</ul>
+
+	Many, many articles act as if all DS jobs were data researcher jobs; this is the root of the <a href="{{HN1}}">constant</a> HN catfighting about whether you need to know e.g. postgrad linear algebra <i>before</i> starting. (Answer: for data researchers, obviously, and for the others, not so much. Less widespread is the <i>ineliminable</i> need for decent coding skills. Maybe people are taking that as read, but I've seen actual job applications which fail to mention programming once.)
+</div>
 
 <h3>Do I need a Master's degree to get a data science job?</h3>
 <div>
