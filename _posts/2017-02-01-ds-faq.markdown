@@ -20,7 +20,8 @@ count:			2650
 {%	assign AIAI = "https://www.cbinsights.com/blog/artificial-intelligence-startup-hype-ai-suffix/" %}
 {%	assign logReg = "https://en.wikipedia.org/wiki/Logistic_regression" %}
 {%	assign leemis = "http://www.math.wm.edu/~leemis/chart/UDR/UDR.html" %}
-{%	assign spoilers = "https://docs.google.com/spreadsheets/d/1JOeYyhlhfq0YM1ipfoRfcnXO6_3JtoVybFPrIeJSO-Q/pubhtml?gid=0&single=true"		%}
+{%	assign spoilers = "https://docs.google.com/spreadsheets/d/1JOeYyhlhfq0YM1ipfoRfcnXO6_3JtoVybFPrIeJSO-Q/pubhtml?single=true"		%}
+{%	assign agrawal = "https://hbr.org/2016/11/the-simple-economics-of-machine-intelligence"	%}
 {%	assign Kelleh = "https://medium.com/@akelleh" %}
 
 {%  include js/lazyFrame.html %}
@@ -30,6 +31,11 @@ count:			2650
 	<img src="/img/relation.png" style="height:70%;width:70%;"/><br>
 	<small>(c) Larry Leemis (2008). <a href="{{leemis}}">This is an incredible site</a>.</small>
 </div><br>
+
+<blockquote>All human activities can be described by five high-level components: data, prediction, judgment, action, and outcomes. A visit to the doctor leads to: <b>1)</b> x-rays, blood tests, monitoring (data), <b>2)</b> diagnosis of the problem, such as “if we administer treatment A, then we predict outcome X, but if we administer treatment B, then we predict outcome Y” (prediction), <b>3)</b> weighing options: “given your age, lifestyle, and family status, I think you might be best with treatment A; let’s discuss how you feel about the risks and side effects” (judgment); <b>4)</b> administering treatment A (action), and <b>5)</b> full recovery with minor side effects (outcome)...<br><br>
+
+As machine intelligence improves, the value of human prediction skills will decrease because machine prediction will provide a cheaper and better substitute for human prediction, just as machines did for arithmetic.</blockquote>
+<div align="center">- <a href="{{agrawal}}">Agrawal et al</a></div><br><br>
 
 
 Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fresh programmer from an actual engineer. <a href="#fn:2" id="fnref:2">2</a> The following is also very long, but aims to enlighten, not chastise.<br><br>
