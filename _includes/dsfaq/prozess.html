@@ -1,15 +1,19 @@
 {%	assign delug = "https://www.emc.com/leadership/digital-universe/2014iview/executive-summary.htm"		%}
 {%	assign backprop = "https://en.wikipedia.org/wiki/Backpropagation#History"		%}
-{%	assign backprop = "https://news.ycombinator.com/item?id=13232883"		%}
+{%	assign HN1 = "https://news.ycombinator.com/item?id=13232883"		%}
+{%	assign HN2 = "https://news.ycombinator.com/item?id=13421672"		%}
+
+{%	assign oreilly = "http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf" 	%}
+
 
 
 <h3>A Strange Loop</h3>
 <div><br>
 	We can also define a data scientist in a black-box manner, as follows:<br><br>
 		<ul>
-			<li><b>learner</b>: an inductive program that takes in example data and outputs a model.</li>
-			<li><b>model</b>: a deterministic program that takes examples and outputs predictions. </li>
-			<li><b>data scientist</b>: a pretentious inductive program that takes a vague problem and data, and outputs a learner.</li>
+			<li><i>learner</i>: an inductive program that takes in example data and outputs a model.</li>
+			<li><i>model</i>: a deterministic program that takes examples and outputs predictions. </li>
+			<li><i>data scientist</i>: a pretentious inductive program that takes a vague problem and data, and outputs a learner.</li>
 		</ul><br>
  			
  		That ^ is vague; here's a breakdown of the actual tasks involved:<br>
@@ -65,11 +69,11 @@
 
 <h3>Predecessors</h3>
 <div>
-		Similar roles have been played in the past by jobs like <i>expert system designer, decision support developer, knowledge discovery engineer, predictive analytics guy, business intelligence analyst, data miner, and big data engineer</i>, with varying levels of rigour and bullshit. The <i>quant developer</i>, in finance, is basically the same thing but with far less variance in skill level.
+	Similar roles have been played in the past by jobs like <i>expert system designer, decision support developer, knowledge discovery engineer, predictive analytics guy, business intelligence analyst, data miner, and big data engineer</i>, with varying levels of rigour and bullshit. The <i>quant developer</i>, in finance, is basically the same thing but with far less variance in skill level.
 </div>
 
-<h3>Use data science to define data science</h3>
-<div>By surveying people with the job title "data scientist" and then clustering the data, Harris et al split "data scientist" into four real jobs:<br><br>
+<h3>Data science to define data science</h3>
+<div>By surveying people with the job title "data scientist" and then clustering the data, <a href="{{oreilly}}">Harris et al.</a> split "data scientist" into four real jobs:<br><br>
 
 	<ul>
 		<li><i>Data researcher</i>: A postgrad statistician. Writes new algorithms, builds proof-of-concept ensembles, writes analysis libraries, disseminates. </li>
@@ -78,10 +82,12 @@
 		<li><i>Data creative</i>: Bit of everything. Heavy on visualisations?</li>
 	</ul>
 
-	Many, many articles act as if all DS jobs were data researcher jobs; this is the root of the <a href="{{HN1}}">constant</a> HN catfighting about whether you need to know e.g. postgrad linear algebra <i>before</i> starting. (Answer: for data researchers, obviously, and for the others, not so much. Less widespread is the <i>ineliminable</i> need for decent coding skills. Maybe people are taking that as read, but I've seen actual job applications which fail to mention programming once.)
+	Many, many articles act as if all DS jobs were data researcher jobs; this is the root of the <a href="{{HN1}}">constant</a> <a href="{{HN2}}">HN catfighting</a> about whether you need to know e.g. postgrad linear algebra <i>before starting</i>, let alone before applying.<br><br>
+
+	Answer: data researchers obviously need to; the others, not so much. The <i>ineliminable</i> need is for decent coding skills. Maybe people take that need as too obvious to mention, but I've seen actual DS job applications which fail to mention programming once.
 </div>
 
-<h3>Why is the hype happening now?</h3>
+<h3>Why now?</h3>
 <div>
 	<ol>
 		<li>The underlying cause of most of it is the <a href="{{delug}}">data deluge</a> (<a href="https://en.wikipedia.org/wiki/Information_explosion">explosion</a>) - we collect millions of times more data, basically for free.
