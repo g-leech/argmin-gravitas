@@ -20,6 +20,8 @@ count:			2650
 {%	assign AIAI = "https://www.cbinsights.com/blog/artificial-intelligence-startup-hype-ai-suffix/" %}
 {%	assign logReg = "https://en.wikipedia.org/wiki/Logistic_regression" %}
 {%	assign leemis = "http://www.math.wm.edu/~leemis/chart/UDR/UDR.html" %}
+{%	assign Kelleh = "https://medium.com/@akelleh" %}
+
 {%  include js/lazyFrame.html %}
 
 
@@ -35,11 +37,19 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 <div class="accordion">
 	<h3>What is data science?</h3>
 	<div>
-		It's just statistical programming, but with an emphasis on computer methods for getting answers out of annoyingly large amounts of data for poorly understood problems.<br><br>
+		It's just statistical programming, but with an emphasis on computer methods for getting answers out of annoyingly large amounts of data for poorly understood problems. And a truckful of marketing hype.<br><br>
 
-		It's a silly name for a few reasons: for all statisticians use science on data and have done for a hundred years, and all programming is data programming, and the actual job has much more data munging and rote scripting in it than it has experimental science. A more honest name is <i>machine learning model development</i>, but we have to make a living somehow, and hype-plus-plagiarism is the strategy people settled on, without active collusion or malice aforethought, around 2012.<br><br>
+		It's a silly name for a few reasons: for all statisticians use science on data and have done for a hundred years, and all programming is data programming, and the actual job has much more data munging and rote scripting in it than it has experimental science. A more honest name is <i>machine learning model development</i>, but we have to make a living somehow, and hype-plus-plagiarism is the strategy people settled on, without active collusion or malice aforethought, around 2012. The best you can say for us is, at least we don't claim that our poky little <a href="{{logReg}}">logistic regressor</a> is <a href="{{AIAI}}">An Artificial Intelligence</a>. (...)<br><br>
 
-		Similar roles have been played in the past by jobs like <i>expert system coder, decision support developer, knowledge discovery engineer, predictive analytics guy, data miner</i>. And the quant developer, in finance, is basically the same thing. The best you can say for us is, at least we don't claim that our poky little <a href="{{logReg}}">logistic regressor</a> is <a href="{{AIAI}}">An Artificial Intelligence</a>. (...)
+		Data analysis is an art, in Knuth's sense:<br>
+
+		<blockquote>
+			Science is everything we understand well enough to explain to a computer. Art is everything else we do.
+		</blockquote>
+
+		but it isn't cool to call yourself a data analyst for some reason. <a href="#fn:5" id="fnref:5">5</a>
+
+		Similar roles have been played in the past by jobs like <i>expert system coder, decision support developer, knowledge discovery engineer, predictive analytics guy, business intelligence analyst, data miner, and big data engineer</i> (though with varying levels of rigour and bullshit). The <i>quant developer</i>, in finance, is basically the same thing. 
 		<br><br>
 
 		<div class="accordion">
@@ -70,11 +80,12 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 
 	<h3>Data janitoring</h3>
 	<div>
+		Medium articles and "Learn DS in 7 minutes" pieces usually fail to mention that 80% of the work in a data science project is spent gathering and cleaning data. Which is no damn fun at all.<br><br>
+
 		<div class="accordion">
 			{%	include dsfaq/janitor.html	%}
 		</div>
 	</div>
-
 
 	<h3>Distributed computing</h3>
 	<div>
@@ -88,7 +99,7 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 		<div class="accordion">
 			{%	include dsfaq/books.html	%}
 		</div>
-		<br>Full list here.
+		<br>Full list here. Note that these are all books: I don't care for MOOCs or Youtube series. You can ignore all Medium posts on the matter (or any matter), with the exception of <a href="{{Kelleh}}">@akelleh</a>, which you must read.
 	</div>
 
 	<h3>Glossary</h3>

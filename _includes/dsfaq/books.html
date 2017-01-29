@@ -1,57 +1,90 @@
+{%	assign gleick =	"https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood"		%}
+{%	assign howson =	"http://www.phil.vt.edu/dmayo/PhilStatistics/H%20&%20U%20chapters%208%20&%209.pdf"		%}
+{%	assign hofst =	"https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach"		%}
+{%	assign qai =	"http://ai.stanford.edu/~nilsson/QAI/qai.pdf"		%}
+{%	assign domingos = "http://www.goodreads.com/work/quotes/44223286-the-master-algorithm-how-the-quest-for-the-ultimate-learning-machine-wi" %}
+{%	assign floridi = "https://sites.sas.upenn.edu/sites/default/files/behav-ethics/files/the_20blackwell_20guide_20to_20the_20philosophy_20of_20computing_20and_20information_luciano_20floridi_20blackwell_202004_20376s.pdf"	%}
+{%	assign oneil =	"http://www.math.columbia.edu/~woit/wordpress/?p=8732"		%}
+{%	assign oreilly =	"shop.oreilly.com/category/browse-subjects/data.do"		%}
+{%	assign shaw =	"https://learnpythonthehardway.org/book/"		%}
+{%	assign downey =	"http://www.greenteapress.com/thinkstats/"		%}
+{%	assign blais =	"https://bblais.github.io/statistical-inference-for-everyone-sie.html"		%}
+{%	assign bayes =	"http://greenteapress.com/wp/think-bayes/"		%}
+{%	assign davison =	"https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/"		%}
+{%	assign cam =	"https://www.maths.cam.ac.uk/system/files/workbook2016.pdf"		%}
+{%	assign meyer =	"https://people.csail.mit.edu/meyer/mcs.pdf"		%}
+{%	assign mitchell =	"http://www.cs.cmu.edu/~tom/mlbook.html"		%}
+{%	assign efron =	"https://www.cambridge.org/core/books/computer-age-statistical-inference/E32C1911ED937D75CE159BBD21684D37"		%}
+{%	assign grus =	"https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/"		%}
+{%	assign ross =	"http://zalsiary.kau.edu.sa/Files/0009120/Files/119387_A_First_Course_in_Probability_8th_Edition.pdf"		%}
+{%	assign pearl =	"http://bayes.cs.ucla.edu/BOOK-2K/"		%}
+{%	assign oehler =	"http://users.stat.umn.edu/~gary/book/fcdae.pdf"		%}
+{%	assign etz =	"https://www.researchgate.net/publication/301981861_How_to_become_a_Bayesian_in_eight_easy_steps_An_annotated_reading_list"		%}
+{%	assign nielsen =	"http://neuralnetworksanddeeplearning.com/"		%}
+{%	assign mattuck =	"http://math.mit.edu/~apm/book.html"		%}
+{%	assign schutz =	"https://github.com/oreillymedia/doing_data_science"		%}
+{%	assign =	""		%}
+{%	assign chen =	"http://www.datasciencequestions.com/"		%}
+{%	assign =	""		%}
+
+
+
+
 <h3>Don't know higher maths, don't know code</h3>
-<div>Hell mode.<br>
+<div>Hell mode.<br><br>
 
-	If you're like me, you'll need qualitative meaning first, to get you fired up: Gleick's <i>The Information</i> and Nilsson's <i>Quest for Artificial Intelligence</i>, Hofstadter's <i>Goedel, Escher, Bach</i>, Floridi's <i>Blackwell Guide to the Philosophy of Computation</i>, Howson's , O'Neil's <i>Weapons of Math Destruction</i>, Domingos' <i>Master Algorithm</i>. Then the real work begins:
+	If you're like me, you'll need qualitative meaning first, to get you fired up: Gleick's <i><a href="{{gleick}}">The Information</a></i> and Nilsson's <i><a href="{{qai}}">Quest for Artificial Intelligence</a></i>, Hofstadter's <i><a href="{{hofst}}">Goedel, Escher, Bach</a></i>, Floridi's <i><a href="{{floridi}}">Blackwell Guide to the Philosophy of Computation</a></i>, Howson's <a href="{{howson}}">Scientific Reasoning</a>, O'Neil's <i><a href="{{oneil}}">Weapons of Math Destruction</a></i>, Domingos' <a href="{{domingos}}"><i>Master Algorithm</i></a>. Then the real work begins:<br>
 	<ul>
-		<li>Start with Python: Zed Shaw's <i>Learn the Hard Way</i> will get you moving, if you do as he tells you.</li>
-		<li>You <i>must</i> read other people's code to improve. Try a gamified site like CodeWars, which shows you elegant solutions only after you sweat out a dreadful hack.</li>
+		<li>Start with Python: Zed Shaw's <i><a href="{{shaw}}">Learn the Hard Way</a></i> will get you moving, if you do as he tells you.</li>
+		<li>You <i>must</i> read other people's code to improve. Try a gamified site like <a href="https://www.codewars.com/">CodeWars</a>, which shows you elegant solutions only after you sweat out a dreadful hack.</li>
 
-		<li>Once you are comfortable with functions, work through <i>Think Stats</i>.</li>
-		<li>I enjoyed <i>Statistical Inference for Everyone</i></li><br>
+		<li>Once you are comfortable with basic abstraction, work through Downey's <i><a href="{{downey}}">Think Stats</a></i>.</li>
+		<li>I enjoyed Blais' <i><a href="{{blais}}">Statistical Inference for Everyone</a></i> too.</li><br>
 		<li></li>
 
 	</ul>
 </div>
 
 <h3>Don't know higher maths, but can code</h3>
-<div>Danger zone.
+<div>Danger zone.<br><br>
 	<ul>
-		<li>Work through <i>Think Stats</i>, <i>Think Bayes</i> and for Hackers.</li>
-		<li>The Cambridge Maths for Science handbook is another focussed fave.</li> 
-		<li>Maths for cs</li>
-		<li>Tom Mitchell's <i>Machine Learning</i> is old but very clear.</li>
-		<li>Efron and Hastie's <i>Computer Age Statistical Inference</i> is a treat.</li>
-		<li>Ross' First Course in Probability</i></li>
-		<li>Oehler's <i>A First Course in Design and Analysis of Experiments</i></li>
-		<li>Mattuck's <i>Intro to Analysis</i>, chapters 1 - 17.</li>
-		<li>then Strang's <i>Linear Algebra</i>, chapters 1,2,3,6 at least.</li>
-
+		<li>Work through Downey's <i><a href="{{downey}}">Think Stats</a></i>, <i><a href="{{bayes}}">Think Bayes</a></i> and Davidson's <a href="{{davidson}}">Probabilistic Programming for Hackers</a>.</li>
+		<li>Grus' <i><a href="{{grus}}">Data Science from Scratch</a></i> will make you implement all kinds of cool statistical machines, which gives you an edge over even the highly mathematised people.</li>
+		<li>Efron and Hastie's <i><a href="{{efron}}">Computer Age Statistical Inference</a></i> is a treat. It will persuade you that statisticians are presently being plagiarised and shortchanged.</li>
+		<li>Ross' <a href="{{ross}}">First Course in Probability</a></i></li>
+		<li>The <a href="{{cam}}">Cambridge Maths for the Natural Science</a> workbook is another focussed fave.</li> 
+		<li>Similarly, Meyer's <a href="{{meyer}}">Mathematics for Computer Science</a>.</li>
+		<li>Tom Mitchell's <i><a href="{{mitchell}}">Machine Learning</a></i> is old but clear. And being old is good: cuts through hype and shows what is not new at all.</li>
+		<li>Oehler's <i><a href="{{oehler}}">A First Course in Design and Analysis of Experiments</a></i></li>
+		<li>Mattuck's <i><a href="{{mattuck}}">Intro to Analysis</a></i>, chapters 1 - 17.</li>
+		<li>then Strang's <i><a href="{{}}">Linear Algebra</a></i>, chapters 1,2,3,6 at least.</li>
+		<li>A partisan pick is Etz et al's <a href="{{etz}}">How to Become a Bayesian</a>.</li>
 	</ul>
 </div>
 
 <h3>Know higher maths, can't code</h3>
-<div>Grasp ten times reach.
+<div>A reach ten times your grasp.<br><br>
 	<ul>
 		<li><i>Learn the Hard Way</i> might be too slow.</li>
-		<li>Tom Mitchell's <i>Machine Learning</i> is old but very clear.</li>
-		<li>O'Neil's <i>Doing Data Science</i> is chatty but gives decently involved models in R.</li>
-		<li>Neural Networks and Deep Learning is a great read.</li>
-		<li>Jaynes' unfinished masterwork, <i>The Logic of Science</i> will tie together acres of mathematical ground. Start by reading his bitchy footnotes.</li>
-		<li>Ron Rivest's Intro to Algos.</li>
+		<li>Tom Mitchell's <i><a href="{{mitchell}}">Machine Learning</a></i> is old but very clear.</li>
+		<li>Schutz and O'Neil's <i><a href="{{schutz}}">Doing Data Science</a></i> is chatty but gives decently involved models in R.</li>
+		<li><a href="{{nielsen}}">Neural Networks and Deep Learning</a> is a great read.</li>
+		<li>Jaynes' unfinished masterwork, <i><a href="{{}}">The Logic of Science</a></i> will tie together acres of mathematical ground. Start by reading the bitchy footnotes!</li>
+		<li>Rivest et al's <a href="{{}}">Intro to Algos</a>.</li>
 	</ul>
 </div>
 
 <h3>Know higher maths, can code</h3>
 <div>Well what are you waiting for?
 	<ul>
-		<li>William Chen's <i>120 Data Science Interview Questions</i> gives you a good sense of how the field unfolds in business settings. And how brutal it's going to be (if you interview in America).</li>
-		<li>Mackay's</li>
-		<li>Pearl's <i>Causality</i></li>
-		<li>Shalizi's <i>Advanced Data Analysis</i> is a wonderful read.</li>
-		<li>Blum et al, <i>Foundations of Data Science.</i></li>
-		<li>Everybody always recommends Hastie and Tibshirani, but Mackay's my guy.</li>
-		<li>Bishop's <i>Pattern Recognition</i> is synoptic but hard work.</li>
-		<li>Then there are the tool books, but you'll have no problem with those</li>
+		<li>William Chen's <a href="{{chen}}"><i>120 Data Science Interview Questions</i></a> gives you a good sense of how the field unfolds in business settings. And how brutal it's going to be (if you interview in America).</li>
+		<li>Mackay's <a href="{{}}"></a>.</li>
+		<li>Pearl's <i><a href="{{pearl}}">Causality</a></i> is groundbreaking, exciting, and clear</li>
+		<li>Shalizi's <i><a href="{{}}">Advanced Data Analysis</a></i> is a wonderful read.</li>
+		<li>Blum et al, <i><a href="{{}}">Foundations of Data Science</a> is maybe the first heavy academic textbook that focusses entirely on the core problems of the DS mishmash: dimensionality, scale, Bonferroni ghosts...</i></li>
+		<li>Everybody always recommends <a href="{{}}">Hastie and Tibshirani</a>, but Mackay's my guy.</li>
+		<li>Bishop's <i><a href="{{}}">Pattern Recognition</a></i> is similarly hyped. It is synoptic and rigorous but hard work.</li>
+		<li>Then there are <a href="{{oreilly}}">the tool books</a>, but you'll have no problem with those</li>
 	</ul>
 </div>
 
