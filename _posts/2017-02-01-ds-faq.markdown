@@ -20,6 +20,7 @@ count:			2650
 {%	assign AIAI = "https://www.cbinsights.com/blog/artificial-intelligence-startup-hype-ai-suffix/" %}
 {%	assign logReg = "https://en.wikipedia.org/wiki/Logistic_regression" %}
 {%	assign leemis = "http://www.math.wm.edu/~leemis/chart/UDR/UDR.html" %}
+{%	assign spoilers = "https://docs.google.com/spreadsheets/d/1JOeYyhlhfq0YM1ipfoRfcnXO6_3JtoVybFPrIeJSO-Q/pubhtml?gid=0&single=true"		%}
 {%	assign Kelleh = "https://medium.com/@akelleh" %}
 
 {%  include js/lazyFrame.html %}
@@ -47,9 +48,7 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 			Science is everything we understand well enough to explain to a computer. Art is everything else we do.
 		</blockquote>
 
-		but it isn't cool to call yourself a data analyst for some reason. <a href="#fn:5" id="fnref:5">5</a>
-
-		Similar roles have been played in the past by jobs like <i>expert system coder, decision support developer, knowledge discovery engineer, predictive analytics guy, business intelligence analyst, data miner, and big data engineer</i> (though with varying levels of rigour and bullshit). The <i>quant developer</i>, in finance, is basically the same thing. 
+		but it isn't cool to call yourself a data analyst for some reason. <a href="#fn:5" id="fnref:5">5</a><br><br>
 		<br><br>
 
 		<div class="accordion">
@@ -99,7 +98,7 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 		<div class="accordion">
 			{%	include dsfaq/books.html	%}
 		</div>
-		<br>Full list here. Note that these are all books: I don't care for MOOCs or Youtube series. You can ignore all Medium posts on the matter (or any matter), with the exception of <a href="{{Kelleh}}">@akelleh</a>, which you must read.
+		<br><a href="{{spoilers}}">Full list here</a>. All books: I don't care for MOOCs or Youtube series. You can ignore all Medium posts on the matter (or any matter), with the exception of <a href="{{Kelleh}}">@akelleh</a>, which you must read.
 	</div>
 
 	<h3>Glossary</h3>
@@ -115,5 +114,6 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 
 
 [Snot]: 		http://www.starling-software.com/employment/programmer-competency-matrix.html 
+
 
 {%  include dsfaq/foots.html %}
