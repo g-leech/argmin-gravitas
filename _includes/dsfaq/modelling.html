@@ -45,33 +45,61 @@
 <h3>Why is my model wrong?</h3>
 <div>Hoo boy.<br><br>
 
+	The <i>error</i> of your model outputs is the uncertainty surrounding a number, not its blundering.
+
+	Systematic uncertainties:
+	<li>due to uncertainties in the apparatus, calibration, or model</li>
+	<li>usually correlated with previous measurements</li>
+	<li>because the theory is not mature</li>
+
+	Stochastic uncertainties *:
+	
+• arise from fluctuations (e.g. random quantum processes),
+• are uncorrelated with previous measurements,
+• follow well-developed theory;
+• examples are finite statistics (Poisson distribution) and measurement resolution
+
+
+* Also called statistical error or random error, but that is too vague. I suppose they get called statistical errors because you can use statistical methods to detect and control for them, unlike systematic error.
+
 	<div class="accordion">
 	<h3>Model error</h3>
 	<div>
-		<ul><li>Model is approximation</li>
-		<li>Best fit sucks</li>
-		<li>Black swan</li>
+		<ul>
+			<li>Model is approximation</li>
+			<li>Best fit sucks</li>
+			<li>Black swan</li>
+			<li>Unlucky with training set: fits wrong model by chance.</li>
 		</ul>
 	</div>
 	
 	<h3>Parameter error</h3>
 	<div>
+		The incorrectness of the numbers that define the model, <i>given that the model is correct</i>. 
+
 		<ul>
-			<li>Concept drift</li>
-			<li>Bad estimate</li>
+			<li><i>Concept drift</i>: the population values changed since you collected your data.</li>
+			<li>Bad estimation</li>
 			<ul>
-				<li>Sampling error</li>
-				<li>Systematic measurement error</li>
-				<li>Numerical errors (discretization, truncation, round-off)</li>
+				<li>via Sampling error</li>
+				<li>via Systematic measurement error</li>
+				<li>via numerical errors (in discretization, truncation, or round-off)</li>
 			</ul>
 		</ul>
+		<br>Can be estimated by taking confidence intervals for each parameter; using bootstrapping to obtain your parameter estimates; or by Bayesian estimation of parameters, which price in such uncertainty automatically.
 	</div>
 
 	<h3>Stochastic error</h3>
 	<div>
-		Everything's fine, you just got unlucky.
+		Everything's fine, you just got unlucky.<br><br>
+
+		Stochastic errors are neat and tidy: assumed to have a mean value of zero, to be uncorrelated with the predictor variables, to have constant variance, and to be uncorrelated with their own past values. Well-specified and easy to forecast (using simulation). 
 	</div>
-	</div>
+	</div><br>
+
+	Model error and parameter error seem like they could be unified: if a model error is just a sufficiency large (number of) parameter errors. Making bad assumptions about e.g. auto-correlation between your features seems like just parameter error, while using the wrong distribution is model error.<br><br>
+
+	This hinges on whether models are just big collections of parameters, I guess.
 </div>
 
 
