@@ -1,8 +1,8 @@
 ---
 layout: 		post
 title:  		"Data Science FAQ"
-baselink:		/data-science-faq
-permalink:		/data-science-faq/
+baselink:		/data-science
+permalink:		/data-science/
 date:   		2017-01-28  <!--site.time-->
 author:			Gavin	
 img:			/img/smolRelation.png
@@ -11,15 +11,14 @@ visible:		1
 <!-- simple:			true -->
 
 summary:		A catalogue of intuitive explanations I wish I'd had before getting into data science.
-confidence:		80%. I am more jejune than this lets on.
+confidence:		80%. A distillation of a few textbooks; borrowed authority.
 categories:		machine learning, data science
-count:			2650
+count:			3641
 ---
 
 {%	assign Snot = "http://www.starling-software.com/employment/programmer-competency-matrix.html" 	%}
 {%	assign AIAI = "https://www.cbinsights.com/blog/artificial-intelligence-startup-hype-ai-suffix/" %}
 {%	assign logReg = "https://en.wikipedia.org/wiki/Logistic_regression" %}
-{%	assign leemis = "http://www.math.wm.edu/~leemis/chart/UDR/UDR.html" %}
 {%	assign spoilers = "https://docs.google.com/spreadsheets/d/1JOeYyhlhfq0YM1ipfoRfcnXO6_3JtoVybFPrIeJSO-Q/pubhtml?single=true"		%}
 {%	assign agrawal = "https://hbr.org/2016/11/the-simple-economics-of-machine-intelligence"	%}
 {%	assign Kelleh = "https://medium.com/@akelleh" %}
@@ -31,36 +30,22 @@ count:			2650
 
 <div style="text-align:center">
 	<img src="/img/relation.png" style="height:70%;width:70%;"/><br>
-	<small>(c) Larry Leemis (2008). <a href="{{leemis}}">This is an incredible site</a>.</small>
+	<small>(c) Larry Leemis (2008) <a href="#fn:7" id="fnref:7">7</a></small>
 </div><br>
 
-<blockquote>All human activities can be described by five high-level components: data, prediction, judgment, action, and outcomes. A visit to the doctor leads to: <b>1)</b> x-rays, blood tests, monitoring (data), <b>2)</b> diagnosis of the problem, such as “if we administer treatment A, then we predict outcome X, but if we administer treatment B, then we predict outcome Y” (prediction), <b>3)</b> weighing options: “given your age, lifestyle, and family status, I think you might be best with treatment A; let’s discuss how you feel about the risks and side effects” (judgment); <b>4)</b> administering treatment A (action), and <b>5)</b> full recovery with minor side effects (outcome)...<br><br>
-
-As machine intelligence improves, the value of human prediction skills will decrease because machine prediction will provide a cheaper and better substitute for human prediction, just as machines did for arithmetic...</blockquote>
-<div align="center">- <a href="{{agrawal}}">Agrawal et al</a></div><br><br>
+<blockquote>if praise is given to those who have determined the number of geometric solids... how much better will it be to bring under mathematical laws human reasoning, the most excellent and useful thing we have.</blockquote>
+<div align="center">- Gottfried von Leibniz</div><br><br>
 
 
-Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fresh programmer from an actual engineer. <a href="#fn:2" id="fnref:2">2</a> The following is also very long, but aims to enlighten, not chastise.<br><br>
+
+Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fresh programmer from an actual engineer. <a href="#fn:2" id="fnref:2">2</a> The following is also very long, but aims to enlighten, not to chastise.<br><br>
 
 
 <div class="accordion">
 	<h3>What is data science?</h3>
 	<div>
-		It's just statistical programming, but with an emphasis on newer methods for getting answers out of annoyingly large amounts of data, for poorly understood problems. It also benefits from a truckful of marketing hype.<br><br>
-
-		"Data science" is a silly name for a few reasons: because all statisticians apply scientific methods to data, and have done for a hundred years; because all programming is data programming; because the actual job has much more data munging and rote scripting in it than it has experimental science.<br><br> 
-
-		A more honest name is <i>machine-learning data analyst</i>... but we have to make a living somehow. The best you can say for us is, at least we don't claim that our poky little <a href="{{logReg}}">logistic regressor</a> is <a href="{{AIAI}}">An Artificial Intelligence</a>. (...)<br><br>
-
-
-		Data analysis is an <i>art</i>, in <a href="{{Knuth}}">Knuth's sense</a>:<br><br>
-		<blockquote>
-			Science is everything we understand well enough to explain to a computer. Art is everything else we do.
-		</blockquote>
-
-		<a href="#fn:1" id="fnref:1">1</a> But it isn't cool to call yourself a data analyst for some reason. <br><br>
-		<br>
-
+		It's a trendy way of saying statistical programming, with emphasis on newer methods for getting answers out of annoyingly large piles of data, to solve poorly understood problems. "The art of growing programs with data; the education of machines; the mathematical construction of data analysts". Needless to say, it benefits from a truckful of marketing hype (for instance the preceding sentence).<br><br>
+	
 		<div class="accordion">
 			{%	include dsfaq/prozess.html	%}
 		</div>
@@ -89,7 +74,7 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 
 	<h3>Data janitoring</h3>
 	<div>
-		Medium articles and "Learn DS in 7 minutes" pieces usually fail to mention that 80% of the work in a data science project is spent gathering and cleaning data. Which is no damn fun at all.<br><br>
+		<i>Medium</i> pieces on "How to Learn Data Science in 19 seconds" usually fail to mention that 80% of the work is gathering and cleaning data, one column at a time. Which is no damn fun at all for obvious reasons.<br><br>
 
 		<div class="accordion">
 			{%	include dsfaq/janitor.html	%}
@@ -108,7 +93,7 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 		<div class="accordion">
 			{%	include dsfaq/books.html	%}
 		</div>
-		<br><a href="{{spoilers}}">Full list here</a>. All books: I don't care for MOOCs or Youtube series. You can ignore all Medium posts on the matter (or any matter), with the exception of <a href="{{Kelleh}}">@akelleh</a>, which you must read.
+		<br><a href="{{spoilers}}">Full list here</a>. All books: I don't care for MOOCs or Youtube series. You can ignore all <i>Medium</i> posts on the matter (or any matter), with the exception of <a href="{{Kelleh}}">@akelleh</a>, which you must read.
 	</div>
 
 	<h3>Glossary</h3>
@@ -117,6 +102,13 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 	</div>	
 	
 </div>
+
+<br><br>
+<blockquote>All human activities can be described by five components: data, prediction, judgment, action, and outcomes. A visit to the doctor leads to: <b>1)</b> x-rays, blood tests, monitoring (data), <b>2)</b> diagnosis: “if we administer treatment A, then we predict outcome X, but if we administer treatment B, then we predict outcome Y” (prediction), <b>3)</b> “given your age, lifestyle, and family status, I think you might be best with treatment A...” (judgment); <b>4)</b> administering treatment A (action), and <b>5)</b> full recovery with minor side effects (outcome).<br><br>
+
+As machine intelligence improves, the value of human prediction skills will decrease because machine prediction will provide a cheaper and better substitute, just as machines did for arithmetic...</blockquote>
+<div align="center">- <a href="{{agrawal}}">Agrawal et al.</a></div><br><br>
+
 
 <br>
 
