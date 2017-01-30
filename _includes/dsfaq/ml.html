@@ -11,7 +11,7 @@
 
 <h3>Why the burst of successes?</h3>
 <div>
-	Substantially just because we have <a href="{{norvig}}">millions of times more data now</a>, <a href="{{Spark}}">a wonderful architecture</a> for dealing with it quickly, and <a href="https://en.wikipedia.org/wiki/Unsupervised_learning">ways of using it</a> without having to process it by hand. <br><br>
+	Substantially just because we have <a href="{{norvig}}">millions of times more data now</a>, <a href="{{Spark}}">a wonderful architecture</a> for dealing with it quickly, and <a href="https://en.wikipedia.org/wiki/Unsupervised_learning">ways of using it</a> without a human having to touch it.<br><br>
 
 	Also because of steady breakthroughs in statistical theory: e.g. nonparametric models, so you don't compress away any of the information in your inputs.
 </div>
@@ -25,9 +25,9 @@
 
 <h3>What's the difference between inference and prediction?</h3>
 <div>
-	In a sense they are not different at all: to infer (parameters) <i>is</i> to predict what new data will look like, <i>and</i> to predict that repeat experiments will find similar parameters. But conventionally, inference is an attempt to learn the true parameters, to find the actual way that the data were generated, not just an empirically adequate tool that gets the input-output pairs correct enough.<br><br>
+	In a sense they're not different: to infer (parameters) <i>is</i> to predict what new data will look like, and is also to predict that repeat experiments will find similar parameters. But conventionally, inference is an attempt to find the actual way that the data were generated, not just an empirically adequate tool that gets the input-output pairs correct enough.<br><br>
 
-	A better way of thinking about it: inference tries to get exactly how the data are generated, where prediction just wants the right answer.
+	The question for inference is "how exactly were these data generated?", where prediction just wants a decent answer to "what output will new inputs result in?".
 </div>
 
 
@@ -40,7 +40,7 @@
 <div>
 	<a href="{{noFree}}">There exists a sweeping and powerful proof that there is no such thing.</a><br><br>
 	
-	Currently, the most competitive algorithm over a range of <i>well-defined</i> problems is gradient boosting.
+	Currently, the most competitive algorithm over a range of <i>well-defined</i> problems are gradient boosting machines.
 </div>
 
 
@@ -128,10 +128,11 @@
 
 	An example from Pedro Domingos:<br><br>
 
-	You have a training set with a trillion rows and a hundred columns which all just say "Yes" or "No" to the feature they're representing. If features are binary, d = 100, and  examples, training still only covers 10^−18 of the input space.<br><br>
-		2^100 = 1.3 e 30
-		trillion = 1 e 12
-		coverage = 1 e 12 / 1.3 e 30 = 1^-18 of all possible examples
+	Say you have a vast, vast training set: a trillion rows and a hundred columns (which all just say "Yes" or "No" about the feature they're representing). Your vast training set still only covers a tiny fraction, 0.0000000000000000001%, of the whole input space:<br><br>
+		
+		$$	\text{Number of possible inputs} = 2^{100} = 1.3 x 10^{30}.$$
+		$$	1 \text{trillion} = 1 x 10^{12}	$$
+		$$	\text{coverage} = 1 x 10^{12} / 1.3 x 10^{30} = 1^{-18}th \text{of all possible examples}	$$
 
 	* blessing of non-uniformity: examples are usually not spread uniformly throughout the instance space, but are concentrated near a lower-dimensional manifold. For example, k-nearest neighbor works quite well for handwritten digit recognition even though images of digits have one dimension per pixel, because the space of digit images is much smaller than the space of all possible images.
 </div>

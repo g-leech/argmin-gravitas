@@ -6,11 +6,13 @@
 <div>
 	A mathematical structure that approximates a part of the world. (Hopefully the part that caused your data.) <br><br>
 
-	Models are <i>intentionally</i> fake and smooth toys. This is because adding too much detail takes too much time and computing to be useful, and makes it impossible to make general claims, and actually prevents you from understanding the thing at hand.<br><br> 
+	Models are <i>intentionally</i> fake and smooth toys. This is because adding too much detail takes too much time and computing to be useful, and makes it impossible to make general claims, and actually prevents you from understanding the thing at hand. ("Can't see the wood for the trees.")<br><br> 
 
-	A model's abstraction allows us to see the unity of seemingly unrelated problems (for instance, magnetisation and the boiling water and riots are all very well explained by just one model, <a href="https://en.wikipedia.org/wiki/Critical_point_(thermodynamics)">criticality theory</a>). Its formalism allows for clarity and precision (and thus computerisation). It summarises, simplifies, unifies, and guides. Occasionally it surpasses.<br><br>
+	A model's abstraction allows us to see the unity of seemingly unrelated problems (for instance, magnetisation, the changes in states of matter, and riots are all explained by just one kind of model, <a href="https://en.wikipedia.org/wiki/Critical_point_(thermodynamics)">criticality theory</a>). And many phenomena fall under one "power law" distribution and can be said to share a deep structure.
 
-	A statistical model is one which admits that it's not going to get the exact right answer every time (or any time) but which offers a good approximation in an uncertain world given always-flawed data.
+	<br><br>Writing a model out in equations or programs allows us to make it completely clear and precise (and thus allows us to computerise it). A model summarises, simplifies, unifies, and guides. Occasionally it surpasses.<br><br>
+
+	A <i>statistical</i> model is one which admits that it's not going to get the exact right answer every time (or any time) but which offers a good approximation in an uncertain world, given always-flawed data.
 </div>
 
 
@@ -22,10 +24,8 @@
 		<li>it is noisy (measurement error, data corruption, unknown processes)</li>
 		<li>it always has some risk of being fabricated.</li>
 		<li>it is often ambiguous.</li>
-		<li>of the fundamental <a href="{{Induct}}">nature of inductive thought</a>: you can never be sure via sampling.</li>
+		<li>of the fundamental <a href="{{Induct}}">nature of inductive thought</a>: you can never be <i>sure</i> via sampling.</li>
 	</ul>
-<!--<li>High-latency (economic and physical limits to the recency of your data)</li>-->
-<!--<li>Approximate</li>-->
 </div>
 
 
@@ -38,12 +38,13 @@
 	</ul>
 	Note that these three aims are actually super-sets of each other:<br><br>
 
-	to predict new data is to use a model to summarise future data, since a model is also a compressed description of a dataset. To simulate reality requires you to infer actual structure and true parameter values: to infer these is also to <i>predict</i> that future data will confirm your estimates. And that repeat experiments of the same quality will find the same parameters, modulo noise. 
+	to predict new data is to use a model to summarise future data. (Since a model is also a compressed description of a dataset.) To simulate reality requires you to infer actual structure and true parameters: to infer these is to <i>predict</i> that future data will confirm your estimates of them, and the inference is also a prediction that repeat experiments will find the same parameters, if you factor out noise.
 </div>
 
 
 <h3>Why is my model wrong?</h3>
-<div>Hoo boy.<br>
+<div>Hoo boy.<br><br>
+
 	<div class="accordion">
 	<h3>Model error</h3>
 	<div>
