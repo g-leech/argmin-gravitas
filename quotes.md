@@ -39,15 +39,16 @@ I probably won't get around to systematically stating a worldview. (Such things 
 </div>
 
 
-<div class="footnotes"><ol>
-    <!-- 1 -->
-    <li class="footnote" id="fn:1">
-        <blockquote>Se méfier des penseurs dont l'esprit ne fonctionne qu'à partir d'une citation</blockquote>
-    </li>
-    <li class="footnote" id="fn:2">
-	<blockquote>Generally we strive to acquire one mental stance, one genre of views for all situations and events: we usually call that a 'philosophical' frame of mind. But, to enrich your knowledge, rather than making yourself uniform, you might listen to the soft voice of different situations... In so doing, we share the lives and natures of many others, by not acting like a rigid, invariable, singular atom.</blockquote>
-	<div align="center">— Nietzsche</div>
-</li>
-</ol>
+<div class="footnotes">
+	<ol>
+	    <li class="footnote" id="fn:1">
+	        <blockquote>Se méfier des penseurs dont l'esprit ne fonctionne qu'à partir d'une citation</blockquote>
+	    </li>
+	    <li class="footnote" id="fn:2">
+			<blockquote>Generally we strive to acquire one mental stance, one genre of views for all situations and events: we usually call that a 'philosophical' frame of mind. But, to enrich your knowledge, rather than making yourself uniform, you might listen to the soft voice of different situations... In so doing, we share the lives and natures of many others, by not acting like a rigid, invariable, singular atom.</blockquote>
+			<div align="center">— Nietzsche</div>
+		</li>
+	</ol>
+</div>
 <br>
 
