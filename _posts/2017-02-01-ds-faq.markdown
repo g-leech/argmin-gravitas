@@ -48,7 +48,14 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 	
 		<div class="accordion">
 			{%	include dsfaq/prozess.html	%}
-		</div>
+		</div><br>
+		A more honest name is <i>analytics developer</i>... but hey we all got to make a living. (The best you can say for us is, at least we don't claim that our poky little <a href="{{logReg}}">logistic regressor</a> is <a href="{{AIAI}}">An Artificial Intelligence</a>. (...))<br><br>
+
+		Data analysis is an <i>art</i>, in <a href="{{Knuth}}">Knuth's sense</a>:<br><br>
+		<blockquote>
+			Science is everything we understand well enough to explain to a computer. Art is everything else we do.
+		</blockquote>
+		and thus so is data science. <a href="#fn:1" id="fnref:1">1</a> But it isn't cool to call yourself a data analyst, for some reason. <br><br><br>
 	</div>
 	
 	<h3>Statistical modelling</h3>
