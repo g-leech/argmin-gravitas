@@ -8,14 +8,14 @@
 
 <h3>Is it a bullshit fad?</h3>
 <div>
-		Not exactly. All, and I mean <i>all</i> of its insights come straight out of academic statistics and computer science, and hacker lore. But just because something is made of other things doesn't mean it isn't real, or that it can't be a valuable permutation.<br><br>
+	Not exactly. All, and I mean <i>all</i> of its insights come straight out of academic statistics and computer science, and hacker lore. But just because something is made of other things doesn't mean it isn't real, or that it can't be a valuable permutation.<br><br>
 
-		"Data science" is a silly name for a few reasons: because all statisticians apply scientific methods to data, and have done for a hundred years; because all programming is data programming; because the actual job has much more data munging and rote scripting in it than it has experimental science.<br><br> 
+	"Data science" is a silly name for a few reasons: because all statisticians apply scientific methods to data, and have done for a hundred years; because all programming is data programming; because the actual job has much more data munging and rote scripting in it than it has experimental science.<br><br> 
 </div>
 
 <h3>A Strange Loop</h3>
 <div><br>
-	We can also define a data scientist in a black-box manner, as follows:<br><br>
+	We can define a data scientist in a black-box manner, as follows:<br><br>
 		<ul>
 			<li><i>learner</i>: an inductive program that takes in example data and outputs a model.</li>
 			<li><i>model</i>: a static program that takes examples and outputs predictions. </li>
@@ -32,7 +32,7 @@
 		<h3>1. Domain analysis</h3>	
 		<div><i>What does this vague request really mean?</i><br><br>
 		<ul>
-		<li>Metric choice - 	How will we judge success?</li>
+		<li>Metric choice - How will we judge success?</li>
 		<li>Tool choice</li>
 		<li>Abstraction from business to data</li>
 		<li>Abstraction from data to learner and models</li>
@@ -110,9 +110,50 @@
 	</div>
 </div>
 
+
+<h3>Skillset (for a unicorn)</h3>
+<div>Hard to beat the exhaustive list in <a href="{{oreilly}}">Harris et al</a> (2013). (Though it covers the things you'd expect a whole data science <i>team</i> to have: )<br>
+	
+	<ul>
+		<li>Classical statistics (general linear model, ANOVA)</li>
+		<li>Bayesian statistics (MCMC, BUGS)</li>
+		<li>Simulation (discrete, agent-based, continuous)</li>
+		<li>Spatial statistics (geographic covariates, GIS)</li>
+		<li>Temporal statistics (forecasting, time-series analysis)</li>
+		<li>Surveys and Marketing (multinomial modeling)</li><br>
+		<li>Visualization (statistical graphics, mapping, web-based data‐viz)</li><br>
+
+		<li>Distributed data (Hadoop, MapReduce)</li>
+		<li>Structured data (SQL, JSON, XML)</li>
+		<li>Unstructured data (noSQL, text mining)</li>
+		<li>Data manipulation (regexes, R, SAS, web scraping)</li>
+		<li>Systems administration (*nix, DBA, cloud tech.)</li>
+		<li>Frontend programming (JavaScript, HTML, CSS)</li>
+		<li>Backend programming (Java/Rails/Objective C)</li><br>
+
+		<li>Algorithms (computational complexity, CS theory)</li>
+		<li>Graphical models (social networks, Bayes networks)</li>
+		<li>Machine learning (decision trees, neural nets, SVM, clustering)</li>
+		<li>Math (linear algebra, real analysis, calculus)</li>
+		<li>Optimization (linear, integer, convex, global)</li>
+		<li>Science (experimental design, technical writing)</li><br>
+
+		<li>Business (management, business development, budgeting)</li>
+		<li>Product development (design, project management)</li><br>
+	</ul>
+</div>
+
+
 <h3>Predecessors</h3>
 <div>
-	Similar roles have been played in the past by jobs like <i>expert system designer, decision support developer, knowledge discovery engineer, predictive analytics guy, business intelligence analyst, data miner, and big data engineer</i>, with varying levels of rigour and bullshit. The <i>quant developer</i>, in finance, is basically the same thing but with far less variance in skill level.
+	Similar roles have been played in the past by jobs like <i>expert system designer, decision support developer, knowledge discovery engineer, predictive analytics guy, business intelligence analyst, data miner, and big data engineer</i>, with varying levels of rigour and bullshit. The <i>quant developer</i>, in finance, is basically the same thing but with far less variance in skill level.<br><br>
+	A more honest name for data scientist would be <i>analytics developer</i>... but hey we all got to make a living. The best you can say for us is, at least we don't claim that our poky little <a href="{{logReg}}">logistic regressor</a> is <a href="{{AIAI}}">An Artificial Intelligence</a>. (...)<br><br>
+
+	Data analysis is an <i>art</i>, in <a href="{{Knuth}}">Knuth's sense</a>:<br><br>
+	<blockquote>
+		Science is everything we understand well enough to explain to a computer. Art is everything else we do.
+	</blockquote>
+	and thus so is data science. <a href="#fn:1" id="fnref:1">1</a> But it isn't cool to call yourself a data analyst, for some reason. <br>
 </div>
 
 <h3>Data science to define data science</h3>
@@ -122,8 +163,9 @@
 		<li><i>Data researcher</i>: A postgrad statistician. Writes new algorithms, builds proof-of-concept ensembles, writes analysis libraries, disseminates. </li>
 		<li><i>Data developer</i>: Machine learning engineer. Application builder. </li>
 		<li><i>Data businessperson</i>: A knowledgeable interface between technical and non-technical people. Doesn’t code: steers modelling approach.</li>
-		<li><i>Data creative</i>: Bit of everything. Heavy on visualisations?</li>
-	</ul><a href="#fn:6" id="fnref:6">6</a><br><br>
+		<li><i>Data creative</i>: Bit of everything. Heavy on visualisations? <a href="#fn:6" id="fnref:6">6</a></li>
+	</ul>
+	<br><br>
 
 	Many, many articles act as if all DS jobs were data researcher jobs; this is the root of the <a href="{{HN1}}">constant</a> <a href="{{HN2}}">HN catfighting</a> about whether you need to know e.g. postgrad linear algebra <i>before starting</i>, let alone before applying.<br><br>
 
@@ -133,7 +175,7 @@
 <h3>Why now?</h3>
 <div>
 	<ol>
-		<li>The underlying cause of most of it is the <a href="{{delug}}">data deluge</a> - we collect millions of times more data, basically for free.
+		<li>The underlying cause of most of it is the <a href="{{delug}}">data deluge</a> - we collect millions of times more data, basically for free.<br>
 		<ul><li>Distributed computing, because the dataset doesn't fit in one computer's RAM.</li>
 				<li>Sudden great performance, because it turns out that scaling your sample size gives a qualitative change for some domains (“Unreasonable Effectiveness of Data”). Same algorithms <a href="{{backprop}}">as the 80s</a> sometimes!</li>
 				<li>Unprecedented aggregation. Huge potential value in scraping and extracting unstructured sources. Very large market in data. Acxiom is a $1bn company, for just one example; though Google is probably the pre-eminent example.</li>
@@ -152,7 +194,7 @@
 
 <h3>Do I need a Master's degree to get a data science job?</h3>
 <div>
-	<a href="http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf">The 2013 O'Reilly survey of self-described data scientists</a> found 70% of respondents holding a Master's. Unless you are highly skilled already, or unless your target company are enlightened, you likely will. <br><br>
+	<a href="http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf">The 2013 O'Reilly survey of self-described data scientists</a> found 70% of respondents holding a Master's. <a href="#fn:5" id="fnref:5">5</a> Unless you are highly skilled already, or unless your target company are enlightened, you likely will. <br><br>
 
 	You should be able to start as an analyst and work up though.
 </div>
