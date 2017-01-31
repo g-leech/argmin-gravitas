@@ -45,57 +45,56 @@
 <h3>Why is my model wrong?</h3>
 <div>Hoo boy.<br><br>
 
-	The <i>error</i> of your model outputs is the routine and non-blameworthy uncertainty surrounding a number, not a mark of blunders. There are two types of error: 
+	The <i>error</i> of your model outputs is the routine and non-blameworthy uncertainty surrounding a number, not a mark of blunders. There are two classes of error: <br><br>
 
-	Systematic uncertainties:
+	<b>Systematic uncertainties:</b>
 	<ul>
 		<li>due to problems with calibrating the data collector or with the modelling approach</li>
 		<li>usually correlated with previous measurements</li>
 		<li>when theory is not yet mature.</li>
 	</ul>
 
-	Stochastic uncertainties *:
+	<b>Stochastic uncertainties</b> <a href="#fn:133" id="fnref:133">133</a>:
 	<ul>
-	<li>can arise from real fluctuations (e.g. random quantum processes),</li>
-	<li>are uncorrelated with previous measurements,</li>
-	<li>follow a well-developed theory;</li>
-	
-
-	* Also called statistical error or random error, but those names are too vague. I suppose they get called statistical errors because you can use pure stats to detect and control for them, unlike systematic error.
+		<li>can arise from real fluctuations (e.g. random quantum processes),</li>
+		<li>are uncorrelated with previous measurements,</li>
+		<li>follow a well-developed theory;</li>
+	</ul><br>
+	We can split systematics into two:	
 
 	<div class="accordion">
-	<h3>Model error</h3>
-	<div>
-		<ul>
-			<li>Model is approximation</li>
-			<li>Best fit sucks</li>
-			<li>Black swan</li>
-			<li>Unlucky with training set: fits wrong model by chance.</li>
-		</ul>
-	</div>
-	
-	<h3>Parameter error</h3>
-	<div>
-		The incorrectness of the numbers that define the model, <i>given that the model is correct</i>. 
-
-		<ul>
-			<li><i>Concept drift</i>: the population values changed since you collected your data.</li>
-			<li>Bad estimation</li>
+		<h3>Model error</h3>
+		<div>
 			<ul>
-				<li>via Sampling error</li>
-				<li>via Systematic measurement error</li>
-				<li>via numerical errors (in discretization, truncation, or round-off)</li>
+				<li>Model is approximation</li>
+				<li>Best fit sucks</li>
+				<li>Black swan</li>
+				<li>Unlucky with training set: fits wrong model by chance.</li>
 			</ul>
-		</ul>
-		<br>Can be estimated by taking confidence intervals for each parameter; using bootstrapping to obtain your parameter estimates; or by Bayesian estimation of parameters, which price in such uncertainty automatically.
-	</div>
+		</div>
+		
+		<h3>Parameter error</h3>
+		<div>
+			The incorrectness of the numbers that define the model, <i>given that the model is correct</i>. 
 
-	<h3>Stochastic error</h3>
-	<div>
-		Everything's fine, you just got unlucky.<br><br>
+			<ul>
+				<li><i>Concept drift</i>: the population values changed since you collected your data.</li>
+				<li>Bad estimation</li>
+				<ul>
+					<li>via Sampling error</li>
+					<li>via Systematic measurement error</li>
+					<li>via numerical errors (in discretization, truncation, or round-off)</li>
+				</ul>
+			</ul>
+			<br>Can be estimated by taking confidence intervals for each parameter; using bootstrapping to obtain your parameter estimates; or by Bayesian estimation of parameters, which price in such uncertainty automatically.
+		</div>
 
-		Stochastic errors are neat and tidy: assumed to have a mean value of zero, to be uncorrelated with the predictor variables, to have constant variance, and to be uncorrelated with their own past values. Well-specified and easy to forecast (using simulation). 
-	</div>
+		<h3>Stochastic error</h3>
+		<div>
+			Everything's fine, you just got unlucky.<br><br>
+
+			Stochastic errors are neat and tidy: assumed to have a mean value of zero, to be uncorrelated with the predictor variables, to have constant variance, and to be uncorrelated with their own past values. Well-specified and easy to forecast (using simulation). 
+		</div>
 	</div><br>
 
 	Model error and parameter error seem like they could be unified: if a model error is just a sufficiency large (number of) parameter errors. Making bad assumptions about e.g. auto-correlation between your features seems like just parameter error, while using the wrong distribution is model error.<br><br>

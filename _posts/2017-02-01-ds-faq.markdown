@@ -13,6 +13,7 @@ visible:		1
 summary:		A catalogue of intuitive explanations I wish I'd had before getting into it. Plus, reading list.
 confidence:		80%. Distillation of a few textbooks; so, borrowed authority.
 categories:		machine learning, data science
+count: 			Many 
 ---
 
 {%	assign Snot = "http://www.starling-software.com/employment/programmer-competency-matrix.html" 	%}
@@ -28,7 +29,7 @@ categories:		machine learning, data science
 
 
 <div style="text-align:center">
-	<img src="/img/relation.png" style="height:80%;width:80%;"/><br>
+	<img src="/img/relation.png" style="height:60%;width:60%;"/><br>
 	<small>(c) Larry Leemis (2008) <a href="#fn:7" id="fnref:7">7</a></small>
 </div><br>
 
