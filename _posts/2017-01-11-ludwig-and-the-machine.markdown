@@ -23,6 +23,8 @@ categories:	philosophy of science, language, machine learning
 
 
 * Howson on Bayes
+* Cox on induction
+* Solomonoff
 * Guaranteed induction
 * Parsimony refuted and rehabilitated
 * The logical analysis of concepts without use of necessities and sufficiencies.

@@ -2,25 +2,43 @@
 {%	assign breiman = "http://www.stat.uchicago.edu/~lekheng/courses/191f09/breiman.pdf"				%}
 {%	assign norvig = "http://www.datascienceassn.org/sites/default/files/Unreasonable%20Effectiveness%20of%20Data.pdf"		%}
 {%	assign Spark = "https://en.wikipedia.org/wiki/Apache_Spark"		%}
+{%	assign zayd = "http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html"		%}
 
 
 <h3>Why is ML so hot right now?</h3>
 <div>
-	Because of a burst of successes in previously intractable tasks which make money, or should eventually make money.
+	Because of a burst of successes in previously intractable tasks (which make money, or should eventually make money).
 </div>
 
 <h3>Why the burst of successes?</h3>
 <div>
 	Substantially just because we have <a href="{{norvig}}">millions of times more data now</a>, <a href="{{Spark}}">a wonderful architecture</a> for dealing with it quickly, and <a href="https://en.wikipedia.org/wiki/Unsupervised_learning">ways of using it</a> without a human having to touch it.<br><br>
 
-	Also because of steady breakthroughs in statistical theory: e.g. nonparametric models, so you don't compress away any of the information in your inputs.
+	Also because of steady improvements in statistical theory: e.g. nonparametric models, which don't compress away any of the information in your inputs and still don't take long to compute.
 </div>
 
 <h3>Why are statistics and machine learning treated so differently?</h3>
 <div>
 	Good question, since they are both just statistical modelling approaches: it's just a tribal separation. That is, the methods were developed (and reinvented) in different university departments.<br><br>
 
-	<i>One</i> real difference is that black-box prediction, which is so often the terminal goal in ML, was <a href="{{breiman}}">heavily disparaged</a> in stats for a long time. So a cartoon statistician aimed to infer the data-generating mechanism, while a cartoon ML engineer aimed for optimum prediction of future data. This wall is breaking down, I'm told.  
+	<i>One</i> real difference is that black-box prediction, which is so often the terminal goal in ML, was <a href="{{breiman}}">heavily disparaged</a> in stats for a long time. So a cartoon statistician aimed to infer the data-generating mechanism, while a cartoon ML engineer aimed for optimum prediction of future data. This wall is breaking down, I'm told.
+
+	<div class="accordion">
+		<h3>Generation and discrimination</h3>
+		<div>
+			The above prediction / inference split can put into actual model terms:<br>
+
+			<ul>
+				<li>Generative model. $$p(x|\theta)$$. We think of the data as having been ``drawn from'' $p(x|\theta)$ but using the true value of $\theta$, which you don't actually know. 
+				
+				<br><br>
+				(AKA "sampling distribution" and "probability model for the data". You can see people gesturing towards this when they say "mechanistic, phenomenological, substantive, iconic" models.)
+				</li>
+				<li>Discriminative models: ("empirical, data-driven, descriptive" models).</li>
+			</ul>
+		</div>
+	</div>
+
 </div>
 
 <h3>What's the difference between inference and prediction?</h3>
@@ -118,7 +136,7 @@
 <div>
 	Because of the combinatorial explosion, or "curse of dimensionality".<br><br>
 
-	And also in the process: the size of the failure space is arguably the square of software engineering's (already enormous) failure space.
+	And also in the process: the size of the failure space is arguably <a href="{{zayd}}">the square</a> of software engineering's (already enormous) failure space.
 </div>
 
 <h3>What is the curse of dimensionality?</h3>
