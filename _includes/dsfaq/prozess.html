@@ -62,12 +62,10 @@
 		<h3>4. Exploratory analysis</h3>	
 		<div>	What is the data like? What jumps out?<br><br>
 			<ul>
-			<li>Inspect the distribution of target.</li>
-			<li>check for outliers.</li>
-			<li>Visualise: box plot, scatter plot to inspect their distributions</li>
+			<li>location (Inspect the distribution of target, ) 
+			<li>spread (box plot, scatter plot, check for outliers)</li>
+			<li>association (Pairwise distribution plots; What correlates with what?)</li>
 			<li>Classification: plot the data with label-coloured points</li>
-			<li>Pairwise distribution plots</li>
-			<li>What correlates with what?</li>
 			</ul>
 		</div>
 
@@ -111,7 +109,7 @@
 </div>
 
 
-<h3>Skillset (for a unicorn)</h3>
+<h3>Skillset (for unicorns)</h3>
 <div>Hard to beat the exhaustive list in <a href="{{oreilly}}">Harris et al</a> (2013). (Though it covers the things you'd expect a whole data science <i>team</i> to have: )<br>
 	
 	<ul>
@@ -134,7 +132,7 @@
 		<li>Algorithms (computational complexity, CS theory)</li>
 		<li>Graphical models (social networks, Bayes networks)</li>
 		<li>Machine learning (decision trees, neural nets, SVM, clustering)</li>
-		<li>Math (linear algebra, real analysis, calculus)</li>
+		<li>Analysis (linear algebra, real analysis, calculus)</li>
 		<li>Optimization (linear, integer, convex, global)</li>
 		<li>Science (experimental design, technical writing)</li><br>
 
@@ -169,7 +167,21 @@
 
 	Many, many articles act as if all DS jobs were data researcher jobs; this is the root of the <a href="{{HN1}}">constant</a> <a href="{{HN2}}">HN catfighting</a> about whether you need to know e.g. postgrad linear algebra <i>before starting</i>, let alone before applying.<br><br>
 
-	Answer: data researchers obviously need to; the others, not so much. The <i>ineliminable</i> need is for decent coding skills. Maybe people take that need as too obvious to mention, but I've seen actual DS job applications which fail to mention programming once.
+	Answer: data researchers obviously need to; the others, not so much. The <i>ineliminable</i> need is for decent coding skills. Maybe people take that need as too obvious to mention, but I've seen actual DS job applications which fail to mention programming once.<br><br>
+
+	<div class="accordion">
+		<h3>Alternative partition</h3>
+		<div>
+			You can also split data scientists by how well they understand the detail. This is surprisingly easy to operationalise:<br>
+			<ul>
+			<li>Can use libraries to build models</li>
+			<li>Can implement the algorithms themselves</li>
+			<li>Can invent new algorithms</li>
+			</ul><br>
+
+			I bet this correlates with model performance (r^2 > 0.4), but Kaggle don't have an interest in this study.
+		</div>
+	</div>
 </div>
 
 <h3>Why now?</h3>
