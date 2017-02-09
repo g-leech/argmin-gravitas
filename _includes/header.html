@@ -22,7 +22,10 @@
       <div class="trigger">
         {% for page in site.pages %}
           {% if page.visible == true %}
-              <a class="headText" href="{{ page.url | prepend: site.url }}">{{ page.title }}</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+              <a class="headText" href="{{ page.url | prepend: site.url }}">{{ page.title }}</a> 
+              {% if forloop.last == false %}
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+              {% endif %}
           {%  endif  %}
         {% endfor %}
       </div>

@@ -95,9 +95,9 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
     
     <h3>Research programme</h3>
     <div>
-        I'm being combative, but I am actually interested. I'm looking for answers to: <br>
+        I'm being combative, but I am actually interested. I'm looking for answers to: <br><br>
         <ul>
-        <li><i>What has cultural anthropology achieved?</i></li>
+        <li>What has cultural anthropology achieved?</li>
         <li>How much of the modern love of foreign experience and culture can be attributed to the influence of ethnographers?</li>
         <li>Is cultural anthropology unusually ideologically polluted?</li>
         <li>How does cultural or social anthropology differ from sociology?</li>
@@ -109,7 +109,7 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
     
 
     <h3>e.g.: <i>What is the anthropological method?</i></h3>
-    <div>I don't really know and neither of the textbooks I tried were very illuminating. Here's a preliminary attempt, after contact with some theoretical c-anthropologists:
+    <div>I don't really know and neither of the textbooks I tried were very illuminating. Here's a preliminary attempt, after contact with some theoretical c-anthropologists:<br><br>
 
     <ul>
         <li><i>Methodological relativism</i>. The ethnographer must put aside the literal truth of a culture's beliefs and try to look at them from the inside. <a href="#fn:10" id="fnref:10">10</a> </li>
@@ -123,22 +123,23 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
 
 
     <h3>e.g.: <i>How unscientific is cultural anthropology?</i></h3>
-    <div>Some ways we could investigate this:<br>
+    <div>Some ways we could investigate this:<br><br>
     <ul>
         <li>Email everyone listed on every department page and ask. I can imagine impressive response rates - 60%?</li>
         <li>Gather up all public responses to <a href="{{Fail}}">#AAAFail</a> and see what % were dismayed by it.</li>
         <li>Crawl JSTOR and look for signs of quantitative reason in papers (numerals, math notation).</li>
     </ul>
 
-    My survey would probably just ask a Likert question for each variable in <a href="https://docs.google.com/spreadsheets/d/14Bw1pqa-ZcGza9P3jV7wht8o9-xEJw0A0GpdN733MqE/edit?usp=sharing">my model of early modern science</a>. For my purposes, <i>scienciness</i> is a dumb additive function of:<br>
-        <ul>
-            <li>Are their explanations naturalistic? </li>
-            <li>Is their research based on going and looking at things?</li>  
-            <li>Is their method quantitative where appropriate?</li>   
-            <li>Is their method reductionist?</li>   
-            <li>Are they fallibilist about their conclusions?</li>
-            <li>Do they share their data and invite criticism and replication?</li>
-        </ul><br>
+    My survey would probably just ask a Likert question for each variable in <a href="https://docs.google.com/spreadsheets/d/14Bw1pqa-ZcGza9P3jV7wht8o9-xEJw0A0GpdN733MqE/edit?usp=sharing">my model of early modern science</a>. For my purposes, <i>scienciness</i> is a dumb additive function of:<br><br>
+
+    <ul>
+        <li>Are their explanations couched only in terms of natural phenomena? </li>
+        <li>Is their research based on going and looking at things?</li>  
+        <li>Is their method quantitative where appropriate?</li>   
+        <li>Is their method reductionist?</li>   
+        <li>Are they fallibilist about their conclusions?</li>
+        <li>Do they share their data and invite criticism and replication?</li>
+    </ul><br>
         (Obviously many self-described scientists fall short of these, for good and bad reasons. It might be sufficient to <i>try</i>.)
     </div>
 
