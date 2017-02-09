@@ -1,0 +1,31 @@
+---
+layout:     post
+title:      "<i>Age of Em</i> as graph"
+baselink:   /hansonia
+permalink:  /hansonia/
+date:       2017-04-11  <!--site.time-->
+author:     Gavin   
+
+
+visible:    1
+published:	false
+
+summary:    An interactive graph of the claims and implications in Hanson's <i>Age of Em</i>, the greatest intro to social science.
+confidence: 80%.
+warnings:   arguable dystopia
+categories: philosophy of science, scepticism
+count: 798
+---
+
+
+
+
+
+1. List claims and implications in AoE
+2. Investigate each and every one.
+3. Hansonia: Age of Em as visual digraph
+4. Turn off / on nodes, colour outcomes.
+5. First Order Future: Generalisation where you can play with Bostromian scenario
+6. Probabilism
+
+It's worth reading even if you don't care a single jot about the future, since he touches on a sizeable portion of all good sttled social science.
