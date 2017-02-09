@@ -14,7 +14,7 @@ visible:	true
 {%	include about-links.html	%}
 
 
-I'm Gavin Leech, a data scientist at a large private org and a '[research parasite][Parasite]', or independent scholar. I write about things like poverty, animal welfare, [scientometrics][Sciento], and the quantified self. I aim for these to still be worth using [decades][LongContentIsLong] from now. Current projects [here][Proj].<br>
+I'm Gavin Leech, a data scientist at a large private org and a '[research parasite][Parasite]', or independent scholar. I write about things like poverty, animal welfare, [scientometrics][Sciento], and the quantified self. I aim for these to still be worth using [decades][LongContentIsLong] from now. Current projects [here][Proj].<br><br>
 
 
 <div class="accordion">
@@ -39,7 +39,7 @@ I'm Gavin Leech, a data scientist at a large private org and a '[research parasi
 		</div>
 		<div class="accordion">
 			<h3>Loss function</h3>
-			<div>Above all I hope to beat the trend spotted <a href="{{Doom}}">by Robin Hanson</a> about independent scholars:
+			<div>Above all I hope to beat the trend spotted <a href="{{Doom}}">by Robin Hanson</a> about independent scholars:<br><br>
 				<blockquote>over time amateurs blow their lead by focusing less and relying on easier, more direct methods. They rely more on informal conversation as analysis method, they prefer personal connections over open competitions in choosing people, and they rely more on a perceived consensus among a smaller group of fellow enthusiasts. As a result, their contributions just don’t appeal as widely or as long.</blockquote>
 			</div>
 		</div>
