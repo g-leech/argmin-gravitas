@@ -42,7 +42,9 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 <div class="accordion">
 	<h3>What is data science?</h3>
 	<div>
-		It's a trendy way of saying 'statistical programming'. I'm stretching a little: it focusses on <a href="{{ML}}">newer methods</a> for getting answers out of <a href="{{eco}}">annoyingly large</a> piles of data. (<a href="{{Sas}}">SAS</a> doesn't count.) It benefits from these methods and a truckful of marketing hype.<br><br>
+		It's a trendy way of saying 'statistical programming'.<br><br> 
+
+		OK, that's a bit of a stretch: data science focusses on <a href="{{ML}}">newer methods</a> for getting answers out of <a href="{{eco}}">annoyingly large</a> piles of data. (So, <a href="{{Sas}}">SAS</a> work doesn't generally count.) 
 	
 		<div class="accordion">
 			{%	include dsfaq/prozess.html	%}
@@ -72,7 +74,7 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 
 	<h3>Data janitoring</h3>
 	<div>
-		<i>Medium</i> pieces on "How to Learn Data Science in 19 seconds" usually fail to mention that 80% of the work is gathering and cleaning data, one column at a time. Which is no damn fun at all for obvious reasons.<br><br>
+		Pieces on <i>Medium</i> professing "How to Learn Data Science in 19 seconds" usually fail to mention that 80% of the work is gathering and cleaning data, one column at a time. Which is no damn fun at all, obviously.<br><br>
 
 		<div class="accordion">
 			{%	include dsfaq/janitor.html	%}
