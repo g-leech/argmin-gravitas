@@ -28,7 +28,7 @@ I'm Gavin Leech, a data scientist at a large private org, and also a '[research 
 		<div class="accordion">
 			<h3>Inspired by</h3>
 			<div>
-				People like <a href="{{Colada}}">Uri Simonsohn</a>, '<a href="{{Gwern}}">Gwern Branwen</a>', <a href="{{JeffK}}">Jeff Kauffman</a>, <a href="{{Gelman}}">Andrew Gelman</a>, '<a href="{{Scott}}">Scott Alexander</a>', <a href="{{Noah}}">Noah Smith</a>, '<a href="{{Kelsey}}">Kelsey of Caring</a>', '<a href="{{Artir}}">Artir Nintil</a>', and <a href="{{Dillow}}">Chris Dillow</a> inspire me.<br>
+				People like <a href="{{Colada}}">Uri Simonsohn</a>, '<a href="{{Gwern}}">Gwern Branwen</a>', <a href="{{Luu}}">Dan Luu</a>, <a href="{{Gelman}}">Andrew Gelman</a>, '<a href="{{Scott}}">Scott Alexander</a>', <a href="{{Noah}}">Noah Smith</a>, '<a href="{{Kelsey}}">Kelsey of Caring</a>', '<a href="{{Artir}}">Artir Nintil</a>', and <a href="{{Dillow}}">Chris Dillow</a> inspire me.<br>
 			</div>
 		</div>
 		<div class="accordion">
