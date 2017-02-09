@@ -23,7 +23,10 @@ count: 			Many
 {%	assign agrawal = "https://hbr.org/2016/11/the-simple-economics-of-machine-intelligence"	%}
 {%	assign Kelleh = "https://medium.com/@akelleh" %}
 {%	assign Knuth = "https://www.math.upenn.edu/~wilf/a=b.txt" %}
-
+{%	assign Sas = "https://en.wikipedia.org/wiki/SAS_(software)" %}
+{%	assign Knuth = "https://www.math.upenn.edu/~wilf/a=b.txt" %}
+{%	assign eco = "https://hadoopecosystemtable.github.io/"		%}
+{%	assign ML = "https://en.wikipedia.org/wiki/Machine_learning"		%}
 
 {%  include js/lazyFrame.html %}
 
@@ -39,7 +42,7 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 <div class="accordion">
 	<h3>What is data science?</h3>
 	<div>
-		It's a trendy way of saying 'statistical programming'. Though the newer methods for getting answers out of annoyingly large piles of data are central to the idea. It benefits from these methods and a truckful of marketing hype.<br><br>
+		It's a trendy way of saying 'statistical programming'. I'm stretching a little: it focusses on <a href="{{ML}}">newer methods</a> for getting answers out of <a href="{{eco}}">annoyingly large</a> piles of data. (<a href="{{Sas}}">SAS</a> doesn't count.) It benefits from these methods and a truckful of marketing hype.<br><br>
 	
 		<div class="accordion">
 			{%	include dsfaq/prozess.html	%}
