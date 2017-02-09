@@ -14,7 +14,7 @@ visible:	true
 {%	include about-links.html	%}
 
 
-I'm Gavin Leech, a data scientist at a large private org, and also a '[research parasite][Parasite]'. This site is for original studies (and statistical reanalyses) of things like poverty, animal welfare, [scientometrics][Sciento], and the quantified self. I aim to write essays and software still worth using [decades][LongContentIsLong] from now. Current projects [here][Proj].<br>
+I'm Gavin Leech, a data scientist at a large private org and a '[research parasite][Parasite]', or independent scholar. I write about things like poverty, animal welfare, [scientometrics][Sciento], and the quantified self. I aim for these to still be worth using [decades][LongContentIsLong] from now. Current projects [here][Proj].<br>
 
 
 <div class="accordion">
