@@ -1,9 +1,26 @@
+{%	assign kernel = "https://www.linuxfoundation.org/news-media/announcements/2008/10/linux-foundation-publishes-study-estimating-value-linux"	%}
+{%	assign bibviz = "http://bibviz.com/" 	%}
+{%	assign marx = "http://www.stephenhicks.org/2010/03/02/marxs-three-failed-predictions-ep/" 	%}
+{%	assign freud = "http://articles.latimes.com/2004/feb/18/opinion/oe-dufresne18"	%}
+
 
 <h3>Why do I need to code? I just want to analyse data.</h3>
 <div>
+	Well - you accept you must use software. And you are accustomed to using other people's software.<br><br> 
+
+	But when your task is in any way unusual, or when you're a hotshot who needs more performance than the Enterprise people shovel at you, or when you need to glue together several other pieces of software, or when you want more than just one-off answers - i.e. a regular report, or millions of split-second decisions, or a giant real-time pipeline, or a whole weak AI of your very own - then .<br><br>
+
+	Minimally, code is glue for systems: take input from COTS #1, change the format a little, give to COTS #2. Maximally, code is the heart of your comparative advantage and the reason you haven't been steamrolled into the competitive sump yet.<br><br>
+
+	But there's a larger point, which is that coding is a novel way of thinking in general: yes it is like maths but testable, causal, interactive. A programming language is how you tell a computer what to do. But before that it is a way to express ideas and then test if they are clear, if they could even possibly be true, if you are not completely fooling yourself.<br><br>
+
+	(Consider the Bible, or Karl Marx's work, or Sigmund Freud's work. These works are rammed full of <a href="bibviz">invalid</a> <a href="marx">and</a> <a href="freud">unsound</a> ideas - and they are beautiful, unified, powerful, and they proved enormously persuasive to billions of people. Human language offers no easy test of consistency, no way of seeing , no way of <a href="https://en.wikipedia.org/wiki/Well-defined">really precisely</a> connecting idea to idea. We have had only hard, piecemeal, irreplicable interpretation. Imagine the economic value of a line-by-line description, in English, of the Linux kernel. It would be nothing compared to <a href="{{kernel}}">the billions the kernel has created and saved</a> <a href="#fn:200" id="fnref:200">200</a>)<br><br>
+
+	The computability of source code is a side effect of its clarity. Code is testable thought.
+
 	If you program your way through a data problem, you gain much power and efficiency. You:<br><br>
 	<ul>
-	<li>Can liberate the task from proprietary software. Done right, this yields 1) performance, 2) actual customisability, 3) massive cost savings.</li>
+	<li>Can liberate the task from proprietary software. Done right, this yields 1) performance, 2) actual customisability, 3) massive cost savings.<a href="#fn:201" id="fnref:201">201</a></li><br>
 	<li>Scalable. Neither SAS nor Oracle offer true distributed analysis. These distributed tools will come, but expensively. Hadoop is free, but for the 100 servers you have to buy.</li>
 	<li>Utterly flexible. Many of the best tools are just code libraries. (As opposed to full apps.) Can do unprecedented tasks.</li>
 	<li>Your programs can do without the overhead of a GUI. </li>
@@ -24,4 +41,20 @@
 
 	<br><br>Whatever you do, learn regex!
 </div>
+
+
+
+
+
+
+
+Two types for your purposes: scripting and application development.
+
+App unifies a whole process: networking, scraping and web API abuse, cleaning, crunching, graphics, mailing reports. 
+– Graphics – Matplotlib, VTK, gnuplot
+– Numerics – Numpy, Scipy
+– Data Transformation – XML, binary packing, NetCDF, HDF
+– Networking – MPI, easy TCP/IP, web services
+
+Helps with building GUIs, translating file formats, partitioning large tasks, testing algorithms.
 

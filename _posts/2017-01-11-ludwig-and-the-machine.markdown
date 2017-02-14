@@ -84,9 +84,22 @@ red /cyan
 
 blue / yellow
 -->
-
-
 This is far from the most important way ML affects old thought.
+
+What I clumsily call the formal sciences, math/stats/CS/decision theory.
+
+* inductive bias; the set of assumptions a learner uses to predict outputs given inputs that it has not encountered
+*Absolute bias: constraint on hypothesis space. e.g. search only linearly separable functions
+*Preference bias: select the optimal hypothesis according to some ordering scheme. e.g. least Kolmogorov complexity
+* statistical bias: directional error in an estimator.  error you cannot correct by repeating the experiment many times and averaging together the results.
+* cognitive bias: 
+
+
+Guarantees rarely have practical relevance: you're likely to have benchmarked and amortized a hundred thousand runs by the time the theoretician has thought up a proof for what you've already seen. And even if you have a guarantee before starting, your benchmarks will tell you far more about the system's actual usefulness - the guarantee tends to be a ridiculous underestimate. But proof is a fine thing even so, and it is on this level, the absolute apriori, that most philosophy thinks to live.
+
+You don't know how right or wrong it will end up being - but you do know that it won't be worse than [Bound]. You can't guarantee that it'll settle down in your lifetime, but you can guarantee that the probability of it never settling down is low.
+
+
 
 Problem of induction
 
