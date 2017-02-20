@@ -11,7 +11,7 @@ visible:		1
 <!-- simple:			true -->
 
 summary:		A catalogue of intuitive explanations I wish I'd had before getting into it. Plus, reading list.
-confidence:		80%. Distillation of a few textbooks; so, borrowed authority.
+confidence:		80%. Distillation of a few textbooks: borrowed authority.
 categories:		machine learning, data science
 count: 			Many 
 ---
@@ -44,7 +44,7 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 	<div>
 		It's a trendy way of saying 'statistical programming'.<br><br> 
 
-		OK, that's a bit of a stretch: data science is statistical programming that focusses on <a href="{{ML}}">newer methods</a> for getting answers out of <a href="{{eco}}">annoyingly large</a> piles of data. (So, <a href="{{Sas}}">SAS</a> work isn't said to count.) <a href="#fn:8" id="fnref:8">8</a><br>
+		OK, that's a bit of a stretch: data science is statistical programming that focusses on <a href="{{ML}}">newer methods</a> for getting answers out of <a href="{{eco}}">annoyingly large</a> piles of data. (So, <a href="{{Sas}}">SAS</a> work isn't said to count.) <a href="#fn:8" id="fnref:8">8</a><br><br>
 	
 		<div class="accordion">
 			{%	include dsfaq/prozess.html	%}
