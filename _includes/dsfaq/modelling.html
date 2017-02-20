@@ -5,15 +5,16 @@
 
 <h3>What's a model?</h3>
 <div>
-	A mathematical structure that approximates a part of the world. (Hopefully the part that caused your data.) <br><br>
+	A mathematical structure that approximates a part of the world. (Hopefully the part that caused your data.) Writing a model out in equations or programs can make it completely precise (and this allows us to computerise it). A model summarises, simplifies, unifies, and guides. Occasionally it surpasses.<br><br>
 
 	Models are <i>intentionally</i> fake and smooth toys. This is because adding too much detail takes too much time and computing to be useful, and makes it impossible to make general claims, and actually prevents you from understanding the thing at hand. ("Can't see the wood for the trees.")<br><br> 
 
 	A model's abstraction allows us to see the unity of seemingly unrelated problems (for instance, magnetisation, the changes in states of matter, and riots are all explained by just one kind of model, <a href="{{crit}}">criticality theory</a>). And many phenomena fall under one "power law" distribution and can be said to share a deep structure.
 
-	<br><br>Writing a model out in equations or programs can make it completely precise (and this allows us to computerise it). A model summarises, simplifies, unifies, and guides. Occasionally it surpasses.<br><br>
+	<br><br>
+	A <i>statistical</i> model is one which admits that it's not going to get the exact right answer every time (or any time) but which offers a good approximation to an uncertain world, by giving a weighted spread of possible values for a given input.<br><br> 
 
-	A <i>statistical</i> model is one which admits that it's not going to get the exact right answer every time (or any time) but which offers a good approximation to an uncertain world, by giving a weighted spread of possible values for a given input. In general, even when we call our model "highly predictive", we do not predict the future; rather we're reducing how wrong we are about the future.
+	In general, even when we call our model "highly predictive", we do not <i>predict</i> the future; rather we're reducing how wrong we are about the future.
 </div>
 
 
@@ -39,29 +40,31 @@
 	</ul>
 	Note that these three aims are actually super-sets of each other:<br><br>
 
-	to predict new data is to use a model to summarise future data. (Since a model is also a compressed description of a dataset.) To simulate reality requires you to infer actual structure and true parameters: to infer these is to <i>predict</i> that future data will confirm your estimates of them, and the inference is also a prediction that repeat experiments will find the same parameters, if you factor out noise.
+	To predict new data is to use a model to summarise future data. (Since a model is also a compressed description of a dataset.) 
+
+	<br><br>To simulate reality requires you to infer actual structure and true parameters: to infer these is to <i>predict</i> that future data will confirm your estimates of them, and the inference is also a prediction that repeat experiments will find the same parameters, if you factor out noise.
 </div>
 
 
 <h3>Why is my model wrong?</h3>
 <div>Hoo boy.<br><br>
 
-	The <i>error</i> of your model outputs is the routine and non-blameworthy uncertainty surrounding a number, not a mark of blunders. There are two classes of error: <br><br>
+	First, recall that the "<i>error</i>" of model outputs denotes the uncertainty surrounding a number, not the blunders. Error in this sense is routine and non-blameworthy. There are two classes of error: <br><br>
 
-	<b>Systematic uncertainties:</b>
+	1. <u>Systematic uncertainties:</u>
 	<ul>
-		<li>due to problems with calibrating the data collector or with the modelling approach</li>
-		<li>usually correlated with previous measurements</li>
-		<li>when theory is not yet mature.</li>
+		<li>are due to problems with calibrating the data collection process, or due to the modelling approach</li>
+		<li>are usually correlated with previous measurements</li>
+		<li>occur when a theory is not yet mature.</li>
 	</ul>
 
-	<b>Stochastic uncertainties</b> <a href="#fn:133" id="fnref:133">133</a>:
+	2. <u>Stochastic uncertainties</u> <a href="#fn:133" id="fnref:133">133</a>:
 	<ul>
 		<li>can arise from real fluctuations (e.g. random quantum processes),</li>
 		<li>are uncorrelated with previous measurements,</li>
 		<li>follow a well-developed theory;</li>
 	</ul><br>
-	We can split systematics into two:	
+	We can split systematics into two, model error and parameter error <a href="#fn:134" id="fnref:134">134</a>:	
 
 	<div class="accordion">
 		<h3>Model error</h3>
@@ -97,10 +100,6 @@
 			Stochastic errors are neat and tidy: assumed to have a mean value of zero, to be uncorrelated with the predictor variables, to have constant variance, and to be uncorrelated with their own past values. Well-specified and easy to forecast (using simulation). 
 		</div>
 	</div><br>
-
-	Model error and parameter error seem like they could be unified: if a model error is just a sufficiency large (number of) parameter errors. Making bad assumptions about e.g. auto-correlation between your features seems like just parameter error, while using the wrong distribution is model error.<br><br>
-
-	This hinges on whether models are just big collections of parameters, I guess.
 </div>
 
 
