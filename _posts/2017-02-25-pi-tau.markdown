@@ -1,0 +1,121 @@
+---
+layout:     post
+title:      "π vs τ as clash of worldviews"
+baselink:   /pi-tau
+permalink:  /pi-tau/
+date:       2017-01-11  <!--site.time-->
+author:     Gavin   
+
+img:        /img/pitau.png
+
+summary:    A pointless feud as a metaphor for your view of everything that is and could be.
+confidence:	Just an analogy (society is a tad different from maths). But 70% in a significant correlation.
+categories: maths, reason, ineffective altruism
+count:		
+---
+
+{%	assign wirehead = "https://slatestarcodex.com/2014/01/28/wirehead-gods-on-lotus-thrones/"		%}
+{%	assign laws = "https://www.quora.com/What-are-the-main-differences-between-English-Common-Law-and-the-Napoleonic-Code/answer/Ralph-Lohmann"	%}
+{%	assign adapt = "https://en.wikipedia.org/wiki/Adaptationism#Debate"		%}
+{%	assign raar =  "https://yougov.co.uk/news/2015/08/06/support-radical-left-and-right/" 		%}
+{%	assign photo = "https://en.wikipedia.org/wiki/Photosynthetic_efficiency" %}
+{%	assign nietz = "http://pastehtml.com/view/crz4xb2u4.html"		%}
+{%	assign soviet = "https://en.wikipedia.org/wiki/Collectivization_in_the_Soviet_Union#Results"		%}
+{%	assign dayuejin = "https://en.wikipedia.org/wiki/Great_Leap_Forward#Famine_deaths"		%}
+{%	assign vijiji = "https://en.wikipedia.org/wiki/Operation_Vijiji"		%}
+{%	assign columbian = "https://en.wikipedia.org/wiki/Native_American_disease_and_epidemics#European_contact"		%}
+
+
+<img src="/img/pitau.png" />
+
+<div align="center"><small>polemical circles (2010) by Michael Hartl</small>
+</div><br>
+
+
+I have never cared about the <a href="https://tauday.com/tau-manifesto">Pi vs Tau</a> debate. (If you haven't heard, the argument is over whether we should use 2π or the absolutely equivalent τ in maths texts. It's a wonderful, nominally bitter feud where both sides admit that the result of the feud has absolutely no <i>practical</i> importance.)<br><br>
+
+But I realise now that your view of Pi vs Tau actually has a really deep matter serve as an <a href="https://en.wikipedia.org/wiki/Intuition_pump">intution pump</a> for your position on a : how much you think we should change huge and complex systems.<br><br> 
+
+You can divide the confused term "liberalism" into <a href="https://en.wikipedia.org/wiki/Classical_liberalism#Hayek.27s_typology_of_beliefs">two great streams</a>: the metaphorically "French" and the metaphorically "British". <a href="#fn:4" id="fnref:4">4</a>
+
+'French' liberalism is top-down: it has a single large theory of the world, and is willing to make radical changes to make the world accord with the theory. (A stark example, maybe the inspiration for Hayek coining the distinction, is the difference between <a href="{{laws}}">Napoleonic civil law and English common law</a>.) 
+
+'British' liberalism is bottom-up: it emphasises the limits of our knowledge, the difficulty of making large changes successfully, and the value of evolved institutions, as repositories of successful adaptations.
+
+(It is in this sense that e.g. Marx is French - a top-down rationalist interventionist - where e.g. Taleb is British, a principled evaluator of what has persisted.)
+
+Your Hayekian Frenchness is not just a political question: it bears on how you interact with <i>any</i> current and <i>any</i> possible state of affairs.
+
+ANYWAY this ties in to the maths feud as follows:
+
+<ul>
+
+<li><i>Pi people</i> as British liberals. They hold to either traditionalism ("what's old is good because it is so invested with meaning") or cautionary pragmatism ("what's old is known and evolutionarily stable"). Why make obsolete perfectly good textbooks and course notes? Why create a generation gap?</li>
+
+<li><i>Tau people</i> as French liberals. They hold to rationalism ("what makes sense is good") or perfectionism ("only what is best is good") or aestheticism ("what looks nice is good"). If even mathematicians cannot get these things right, for want of courage and .</li>
+
+</ul>
+
+<div class="accordion">
+    <h3>This is a really bad analogy</h3>
+    <div>
+        Okay, okay: grand social reorganisations <i>might be</i> different from the inplace alteration of mathematical symbols in a couple ways (e.g. cost in billions, number of people affected in billions, risk to human life in megadeaths, extent of uncertainty, degrees of freedom in the policy space, tenor of the respective debates, average rationality of participants, guns brandished). I'd guess that most political radicals are incapable of caring about Pi vs Tau, and that most Tauists are not political radicals. <a href="#fn:3" id="fnref:3">3</a><br><br> 
+
+        But it's still good to think about, and <i>in the tiny sample of people who care about both</i>, I predict a correlation between political radicalism and Tauism of like R^2 > 0.5.
+    </div>
+</div>
+
+
+
+<br><br>
+
+You might wonder how 'French' I am. Boringly, I don't know. 
+
+Traditions are often internally incoherent, just because they are a giant heap of ideas all added without editorial care. <a href="#fn:5" id="fnref:5">5</a> Not everything which <a href="adapt">persists a long time is adaptive</a> <a href="#fn:1" id="fnref:1">1</a>: stubborn local maxima <a href="{{photo}}">exist</a> everywhere in nature and society. And <a href="http://apps.who.int/immunization_monitoring/diseases/en/">the status quo</a> is <a href="http://www.globalslaveryindex.org/findings/">monstrous</a> and <a href="https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#List_of_countries_and_dependencies">intolerable</a> in <a href="https://www.tauday.com/">many</a>, <a href="http://www.syriahr.com/en/?p=56923">many</a> <a href="https://en.wikipedia.org/wiki/Death">obvious ways</a>.
+
+But <a href="{{columbian}}">large</a>, <a href="{{dayuejin}}">sudden</a> <a href="{{soviet}}">social</a> <a href="{{vijiji}}">changes</a> have probably been destructive more often than constructive. I am instinctively top-down, but I'd like to be more empirical. 
+
+<br><br>In a world with <i>no actually pressing problems</i> (like malaria, adversarial geopolitics, pollution, imprudent AI research, suffering, death, or stubbed toes) <i>then</i> I would probably push for mass textbook revision in tau's favour. <a href="{{wirehead}}">de Condorcet on a lotus throne</a>. <a href="#fn:2" id="fnref:2">2</a>
+
+<br><br><br>
+
+
+
+
+<div class="footnotes">
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+    	Unless you define "adaptedness" as "extent of persistence through time", you rogue.
+	</li>
+
+	 <li class="footnote" id="fn:2">
+    	You might think it's churlish or pious to bring down Tauism in favour of heavy moral matters. But tauification would cost quite a lot, and since the invention of money, <a href="https://en.wikipedia.org/wiki/Trade#Development_of_money"><i>resources are resources</i></a>, and diverting them to an inconsequential aesthetic crusade <i>is</i> a morally loaded action (...if and only if the money could be diverted to something of moral importance.)
+	</li>
+
+	<li class="footnote" id="fn:3">
+    	Because, overwhelmingly, most people hate or don't care about maths, and most people are not political radicals even in word.<br><br> 
+
+    	(Though there's amusing weak evidence that Brits are <i>simultaneously</i> <a href="{{raar}}">more leftist and rightist</a> than their politicians are.)
+	</li>
+
+	<li class="footnote" id="fn:4">
+    	Of course, these concepts don't cleanly divide French or British thinkers: it just names a pair of tendencies in the C18th. 
+    	(Hayek, the modern populariser of the idea, knew this.) His exceptions include:<br><br>
+
+    	<ul>
+    		<li>British 'French' people: Thomas Hobbes, Joseph Priestley, Richard Price, Thomas Paine. </li>
+    		<li>French 'British' people: de Montesquieu, Benjamin Constant, Alexis de Tocqueville. </li>
+    	</ul><br><br>
+
+    	Hayek also came up with <a href="{{cowen}}">a competing binary</a> for liberalism: 'rationalist constructivism' vs 'skeptical individualism'. This division corresponds more closely to the familiar, more-or-less damaging left-right axis we use now.
+	</li>
+
+	<li class="footnote" id="fn:5">
+    	<a href="nietz">So, is incoherence adaptive?</a>
+	</li>
+
+	
+</ol>
+</div>
+
