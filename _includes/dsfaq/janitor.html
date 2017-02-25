@@ -72,3 +72,18 @@
     When performance (network latency or model training speed or model accuracy) is more important than the cost.
 </div>
 
+<h3>What are the downsides of more data?</h3>
+<div>
+  <ul>
+      <li>If you're just adding features but not rows, then you might be damaging your model with overfit and redundancy.</li>
+      <li>If most values are zero then you have a sparsity problem. (Yes, "zero" or "N/A" is still data.)</li>
+      <li>If it takes you above the 64GB sweet spot, so it doesn't fit in one computer's RAM, and doesn't gain much from parallelisation. Much harder to manipulate, even in these halcyon days of Spark and Sqoop.</li>
+      <li>Some datasets are fantastically expensive, and you don't necessarily know that it will even help before you buy.</li>
+  </ul>
+</div>
+
+
+Downside of more data:
+* If you're just adding features but not rows, then you might be damaging your model with overfit and redundancy
+* If most of the values are zero then you have a sparsity problem.
+* If it takes you above the 64GB sweet spot, so it doesn't fit in RAM but doesn't gain much from parallelisation. hard to manipulate

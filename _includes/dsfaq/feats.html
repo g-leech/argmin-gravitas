@@ -2,17 +2,14 @@
 {%	assign elisseff = "http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf"		%}
 
 
-feature extraction: curating raw data  
-feature selection: taking a subset of the data, or functions of the data, as predictors for models (or variables for algorithms).
+<style type="text/css">
+	td.rt {
+  		text-align: right;
+	}
+</style>
 
-
-Downside of more data:
-* If you're just adding features but not rows, then you might be damaging your model with overfit and redundancy
-* If most of the values are zero then you have a sparsity problem.
-* If it takes you above the 64GB sweet spot, so it doesn't fit in RAM but doesn't gain much from parallelisation. hard to manipulate
-
-
-The terminology has not settled down - the following terms are actually not disambiguated in common usage - but here's what language should arrive at:
+<br>
+The terminology hasn't settled down yet - the following terms are actually not disambiguated in common usage - but here's what a mature language might arrive at:<br>
 
 <ul>
 	<li><i>Feature engineering</i>: the manual design of inputs. Consists in
@@ -32,31 +29,31 @@ The terminology has not settled down - the following terms are actually not disa
 
 		<table>
 		<tr>
-			<td></td><td>Relevant</td> <td>Measurable</td> <td>Considered</td>
+			<td class="rt"></td><td class="rt">Relevant</td> <td class="rt">Measurable</td> <td class="rt">Considered</td>
 		</tr>
 		<tr>
-			<td>Include these features</td>	<td>Y</td> 	<td>Y</td> 	<td>Y</td>
+			<td class="rt">Include these features</td>	<td class="rt">Y</td> 	<td class="rt">Y</td> 	<td class="rt">Y</td>
 		</tr>
 		<tr>
-			<td>Drop these features</td>	<td>N</td> 	<td>Y</td> 	<td>Y</td>
+			<td class="rt">Drop these features</td>	<td class="rt">N</td> 	<td class="rt">Y</td> 	<td class="rt">Y</td>
 		</tr>
 		<tr>
-			<td>Look for proxies</td>	<td> Y</td> 	<td>N</td> 	<td>Y</td>
+			<td class="rt">Look for proxies</td>	<td class="rt"> Y</td> 	<td class="rt">N</td> 	<td class="rt">Y</td>
 		</tr>
 		<tr>
-			<td>Whose idea was this?</td>	<td>N</td> 	<td>N</td> 	<td>Y</td>
+			<td class="rt">Whose idea was this?</td>	<td class="rt">N</td> 	<td class="rt">N</td> 	<td class="rt">Y</td>
 		</tr>
 		<tr>
-			<td>Why we research</td>	<td>Y</td> 	<td>Y</td> 	<td>N</td>
+			<td class="rt">Why we research</td>	<td class="rt">Y</td> 	<td class="rt">Y</td> 	<td class="rt">N</td>
 		</tr>
 		<tr>
-			<td>Think about proxies<br>more</td>	<td>Y</td> 	<td>N</td> 	<td>N</td>
+			<td class="rt">Think about proxies<br>more</td>	<td class="rt">Y</td> 	<td class="rt">N</td> 	<td class="rt">N</td>
 		</tr>
 		<tr>
-			<td>Averted waste of<br> time</td>	<td>N</td> 	<td>Y</td> 	<td>N</td>
+			<td class="rt">Averted waste of<br> time</td>	<td class="rt">N</td> 	<td class="rt">Y</td> 	<td class="rt">N</td>
 		</tr>
 		<tr>
-			<td>Nobody cares</td>	<td>N</td> 	<td>N</td> 	<td>N</td>
+			<td class="rt">Nobody cares</td>	<td class="rt">N</td> 	<td class="rt">N</td> 	<td class="rt">N</td>
 		</tr>
 
 		</table>
