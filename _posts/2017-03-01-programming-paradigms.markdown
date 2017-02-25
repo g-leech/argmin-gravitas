@@ -1,17 +1,19 @@
 ---
-layout: 	math_post
-title:  	"Programming paradigms are abstractions about abstraction"
-baselink:	/programmings
-permalink:	/programmings/
-date:   	2017-03-01  <!--site.time-->
-author:		Gavin	
-img:		/img/smolControversy.png
+layout: 		math_post
+title:  		"Paradigms are abstractions about abstraction"
+baselink:		/paradigms
+permalink:		/paradigm/
+date:   		2017-03-01  <!--site.time-->
+author:			Gavin	
+img:			/img/smolLisp.jpg
 
+published:		false
+visible:		0
 
-summary:	An intuitive explanation of Norvig's advice to new programmers.
-confidence: 70% on equations' truth (because vague). 80% that it's worth doing.
-categories: code, 
-count: 600
+summary:		An intuitive explanation of Norvig's advice to new programmers.
+confidence: 	70% on equations' truth (because vague). 80% that it's worth doing.
+categories: 	code, 
+count: 			600
 ---
 
 Peter Norvig lists five programming paradigms to learn, divided by their most distinctive forms of abstraction. This is good advice and well-conceptualised. 
