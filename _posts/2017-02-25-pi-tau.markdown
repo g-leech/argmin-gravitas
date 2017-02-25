@@ -26,6 +26,9 @@ count:		870
 {%	assign dayuejin = "https://en.wikipedia.org/wiki/Great_Leap_Forward#Famine_deaths"		%}
 {%	assign vijiji = "https://en.wikipedia.org/wiki/Operation_Vijiji"		%}
 {%	assign columbian = "https://en.wikipedia.org/wiki/Native_American_disease_and_epidemics#European_contact"		%}
+{%	assign hayek = "https://en.wikipedia.org/wiki/Classical_liberalism#Hayek.27s_typology_of_beliefs"		%}
+
+
 
 
 <img src="/img/pitau.png" />
@@ -36,21 +39,26 @@ count:		870
 
 I have never cared about the <a href="https://tauday.com/tau-manifesto">Pi vs Tau</a> debate. (If you haven't heard, the argument is over whether we should use 2π or the absolutely equivalent τ in maths texts. It's a wonderful, nominally bitter feud where both sides admit that the result of the feud has absolutely no <i>practical</i> importance.)
 
-But I've realised that your view in Pi vs Tau forms an analogy for an actually deep question: it serves as an <a href="https://en.wikipedia.org/wiki/Intuition_pump">intution pump</a> for how much you think we should change huge and complex systems.
+But I've realised that your view in <i>Pi vs Tau</i> forms an analogy for an actually deep question: it serves as an <a href="https://en.wikipedia.org/wiki/Intuition_pump">intuition pump</a> for how much we should change huge and complex systems.
 
-<hr />
+<br><br><hr /><br><br>
 
-To make sense of that, let's get some machinery set up. 
+Let's get some machinery set up. 
 
-You can divide the confused term "liberalism" into <a href="https://en.wikipedia.org/wiki/Classical_liberalism#Hayek.27s_typology_of_beliefs">two great streams</a>: the metaphorically "French" and the metaphorically "British". <a href="#fn:4" id="fnref:4">4</a>
+One way of slicing the confused term "liberalism" is into <a href="{{hayek}}">two great streams</a>: the metaphorically "French" and the metaphorically "British". <a href="#fn:4" id="fnref:4">4</a>
 
-'French' liberalism is top-down: it has a single large theory of the world, and is willing to make radical changes to make the world accord with the theory. (A stark example, maybe the inspiration for Hayek coining the distinction, is the difference between <a href="{{laws}}">Napoleonic civil law and English common law</a>.) 
+<ul>
+<li>'French' liberalism is top-down: it has a single large theory of the world, and is willing to make radical changes to make the world accord with the theory. (A stark example, maybe the inspiration for Hayek coining the distinction, is the difference between <a href="{{laws}}">Napoleonic civil law and English common law</a>.) </li><br>
 
-'British' liberalism is bottom-up: it emphasises the limits of our knowledge, the difficulty of making large changes successfully, and the value of evolved institutions, as repositories of successful adaptations.
+<li>'British' liberalism is bottom-up: it emphasises the limits of our knowledge, the difficulty of making large changes successfully, and the value of evolved institutions, as repositories of successful adaptations.</li>
+</ul>
 
 (It is in this sense that e.g. Marx is French - a top-down rationalist interventionist - where e.g. Taleb is British, a principled evaluator of what has persisted.)
 
-Your Hayekian Frenchness is not just a political question: it bears on how you interact with <i>any</i> current and <i>any</i> possible state of affairs.
+Your 'Frenchness' is not just a political question: it bears on how you interact with <i>any</i> current and <i>any</i> possible state of affairs.
+
+<br><br><hr /><br><br>
+
 
 ANYWAY this ties in to the maths feud as follows:
 
@@ -58,9 +66,9 @@ ANYWAY this ties in to the maths feud as follows:
 
 <li><i>Pi people</i> as British liberals. They hold to either traditionalism ("what's old is good because it is so invested with meaning") or cautionary pragmatism ("what's old is known and evolutionarily stable"). Why make obsolete perfectly good textbooks and course notes? Why create a generation gap?</li>
 
-<li><i>Tau people</i> as French liberals. They hold to rationalism ("what makes sense is good") or perfectionism ("only what is best is good") or aestheticism ("what looks nice is good"). If even mathematicians cannot get these things right, for want of courage and .</li>
+<li><i>Tau people</i> as French liberals. They hold to rationalism ("what makes sense is good") or perfectionism ("only what is best is good") or aestheticism ("what looks nice is good"). If even mathematicians cannot get these things right, for want of courage and standards, then we are all screwed.</li>
 
-</ul>
+</ul><br><br>
 
 <div class="accordion">
     <h3>This is a really bad analogy</h3>
@@ -71,11 +79,9 @@ ANYWAY this ties in to the maths feud as follows:
     </div>
 </div>
 
+<br><br><hr /><br><br>
 
-
-<br><br>
-
-You might wonder how 'French' I am. Boringly, I don't know. 
+You might wonder how 'French' I am. Boringly, I don't know. <a href="#fn:6" id="fnref:6">6</a>
 
 Traditions are often internally incoherent, just because they are a giant heap of ideas all added without editorial care. <a href="#fn:5" id="fnref:5">5</a> Not everything which <a href="adapt">persists a long time is adaptive</a> <a href="#fn:1" id="fnref:1">1</a>: stubborn local maxima <a href="{{photo}}">exist</a> everywhere in nature and society. And <a href="http://apps.who.int/immunization_monitoring/diseases/en/">the status quo</a> is <a href="http://www.globalslaveryindex.org/findings/">monstrous</a> and <a href="https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#List_of_countries_and_dependencies">intolerable</a> in <a href="https://www.tauday.com/">many</a>, <a href="http://www.syriahr.com/en/?p=56923">many</a> <a href="https://en.wikipedia.org/wiki/Death">obvious ways</a>.
 
@@ -107,12 +113,14 @@ But <a href="{{columbian}}">large</a>, <a href="{{dayuejin}}">sudden</a> <a href
 
 	<li class="footnote" id="fn:4">
     	Of course, these concepts don't cleanly divide French or British thinkers: it just names a pair of tendencies in the C18th. 
-    	(Hayek, the modern populariser of the idea, knew this.) His exceptions include:<br><br>
+    	(Hayek, the modern populariser of the idea, knew this.)<br><br> 
+
+    	His exceptions include:<br><br>
 
     	<ul>
-    		<li>British 'French' people: Thomas Hobbes, Joseph Priestley, Richard Price, Thomas Paine. </li>
-    		<li>French 'British' people: de Montesquieu, Benjamin Constant, Alexis de Tocqueville. </li>
-    	</ul><br><br>
+    		<li><i>British 'French' people</i>: Thomas Hobbes, Joseph Priestley, Richard Price, Thomas Paine. </li><br>
+    		<li><i>French 'British' people</i>: de Montesquieu, Benjamin Constant, Alexis de Tocqueville. </li>
+    	</ul><br>
 
     	Hayek also came up with <a href="{{cowen}}">a competing binary</a> for liberalism: 'rationalist constructivism' vs 'skeptical individualism'. This division corresponds more closely to the familiar, more-or-less damaging left-right axis we use now.
 	</li>
@@ -121,7 +129,9 @@ But <a href="{{columbian}}">large</a>, <a href="{{dayuejin}}">sudden</a> <a href
     	<a href="nietz">So, is incoherence adaptive?</a>
 	</li>
 
-	
+	<li class="footnote" id="fn:6">
+    	God, what an insightful intuition pump this has been after all.</a>
+	</li>	
 </ol>
 </div>
 
