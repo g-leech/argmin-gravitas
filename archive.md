@@ -6,6 +6,15 @@ permalink: /archive/
 visible:  false
 ---
 
+<style type="text/css">
+  
+  tr.spaced > td
+  {
+    padding-bottom: 1em;
+  }
+
+</style>
+
 <div class="home">
       {% for post in site.posts %}
 
@@ -17,7 +26,7 @@ visible:  false
            {% assign myYear = currentYear %}
         {% endif %}
         
-        <tr>
+        <tr class="spaced">
           <td style="width:60%;"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a></td>
           <td> <small>{{ post.summary }}</small> </td>
           <td><ul>
@@ -27,7 +36,7 @@ visible:  false
             {% if post.technical %} <li><a href="{{post.url}}">Technical</a></li> {% endif %}
             </small>
           </ul></td>
-        </tr><br>
+        </tr>
         
         {% if forloop.last %}</table>{% endif %}
       
