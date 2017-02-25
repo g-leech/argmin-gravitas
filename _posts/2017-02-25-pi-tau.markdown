@@ -31,7 +31,7 @@ count:		870
 {%	assign hayek = "https://en.wikipedia.org/wiki/Classical_liberalism#Hayek.27s_typology_of_beliefs"		%}
 {%	assign christ = "https://sideways-view.com/2016/10/27/is-raising-tolls-a-massive-free-lunch/"		%}
 {%	assign wirehead = "https://slatestarcodex.com/2014/01/28/wirehead-gods-on-lotus-thrones/"		%}
-
+{%	assign cowen = "https://fee.org/articles/which-liberalism/"		%}
 
 
 
