@@ -16,7 +16,7 @@ warnings:	totalitarianism, slavery, famine, scrupulosity
 count:		870
 ---
 
-{%	assign wirehead = "https://slatestarcodex.com/2014/01/28/wirehead-gods-on-lotus-thrones/"		%}
+{%	assign tau = "https://tauday.com/tau-manifesto"		%}
 {%	assign laws = "https://www.quora.com/What-are-the-main-differences-between-English-Common-Law-and-the-Napoleonic-Code/answer/Ralph-Lohmann"	%}
 {%	assign adapt = "https://en.wikipedia.org/wiki/Adaptationism#Debate"		%}
 {%	assign raar =  "https://yougov.co.uk/news/2015/08/06/support-radical-left-and-right/" 		%}
@@ -27,6 +27,8 @@ count:		870
 {%	assign vijiji = "https://en.wikipedia.org/wiki/Operation_Vijiji"		%}
 {%	assign columbian = "https://en.wikipedia.org/wiki/Native_American_disease_and_epidemics#European_contact"		%}
 {%	assign hayek = "https://en.wikipedia.org/wiki/Classical_liberalism#Hayek.27s_typology_of_beliefs"		%}
+{%	assign christ = "https://sideways-view.com/2016/10/27/is-raising-tolls-a-massive-free-lunch/"		%}
+{%	assign wirehead = "https://slatestarcodex.com/2014/01/28/wirehead-gods-on-lotus-thrones/"		%}
 
 
 
@@ -37,7 +39,7 @@ count:		870
 </div><br>
 
 
-I have never cared about the <a href="https://tauday.com/tau-manifesto">Pi vs Tau</a> debate. (If you haven't heard, the argument is over whether we should use 2π or the absolutely equivalent τ in maths texts. It's a wonderful, nominally bitter feud where both sides admit that the result of the feud has absolutely no <i>practical</i> importance.)
+I have never cared about the <a href="{{tau}}">Pi vs Tau</a> debate. (If you haven't heard, the argument is over whether we should use 2π or the absolutely equivalent τ in maths texts. It's a wonderful, nominally bitter feud where both sides admit that the result of the feud has absolutely no <i>practical</i> importance.)
 
 But I've realised that your view in <i>Pi vs Tau</i> forms an analogy for an actually deep question: it serves as an <a href="https://en.wikipedia.org/wiki/Intuition_pump">intuition pump</a> for how much we should change huge and complex systems.
 
@@ -47,7 +49,7 @@ But I've realised that your view in <i>Pi vs Tau</i> forms an analogy for an act
 
 Let's get some machinery set up. 
 
-One way of slicing the confused term "liberalism" is into <a href="{{hayek}}">two great streams</a>: the metaphorically "French" and the metaphorically "British". <a href="#fn:4" id="fnref:4">4</a><br>
+One way of slicing the confused term "liberalism" is into <a href="{{hayek}}">two great streams</a>: the metaphorically "French" and the metaphorically "British". <a href="#fn:4" id="fnref:4">4</a><br><br>
 
 <ul>
 <li>'French' liberalism is top-down: it has a single large theory of the world, and is willing to make radical changes to make the world accord with the theory. (A stark example, maybe the inspiration for Hayek coining the distinction, is the difference between <a href="{{laws}}">Napoleonic civil law and English common law</a>.) </li><br>
@@ -55,7 +57,7 @@ One way of slicing the confused term "liberalism" is into <a href="{{hayek}}">tw
 <li>'British' liberalism is bottom-up: it emphasises the limits of our knowledge, the difficulty of making large changes successfully, and the value of evolved institutions, as repositories of successful adaptations.</li>
 </ul><br>
 
-(It is in this sense that e.g. Marx is French - a top-down rationalist interventionist - where e.g. Taleb is British, a principled evaluator of what has persisted.)
+(It is in this sense that e.g. Marx is French - a top-down rationalist interventionist - where e.g. Taleb is British, a halting curator of what has persisted.)
 
 Your Hayekian 'Frenchness' is not just a political question: it bears on how you interact with all current and possible states of affairs.
 
@@ -68,16 +70,23 @@ ANYWAY this ties in to the maths feud as follows:
 
 <ul>
 
-<li><i>Pi people</i> as British liberals. They hold to either traditionalism ("what's old is good because it is so invested with meaning") or cautionary pragmatism ("what's old is known and evolutionarily stable"). Why make obsolete perfectly good textbooks and course notes? Why create a generation gap?</li><br>
+<li><i>Pi people</i> as British liberals. They hold to either traditionalism ("what's old is good because it is so invested with meaning") or cautionary pragmatism ("what's old is known and evolutionarily stable"). 
+	<blockquote>Why make obsolete perfectly good textbooks and course notes? Why create a generation gap?</blockquote>
+</li><br>
 
-<li><i>Tau people</i> as French liberals. They hold to rationalism ("what makes sense is good") or perfectionism ("only what is best is good") or aestheticism ("what looks nice is good"). If even mathematicians cannot get these things right, for want of courage and standards, then we are all screwed.</li>
-
+<li><i>Tau people</i> as French liberals. They hold to rationalism ("what makes sense is good") or perfectionism ("only what is best is good") or aestheticism ("what looks nice is good"). 
+	<blockquote>If even mathematicians cannot get these things right, for want of courage and standards, then we are all screwed.</blockquote>
+</li>
 </ul><br>
 
 <div class="accordion">
     <h3>This is a really bad analogy</h3>
     <div>
-        Okay, okay: grand social reorganisations <i>might be</i> different from the inplace alteration of mathematical symbols in a couple ways (e.g. cost in billions, number of people affected in billions, risk to human life in megadeaths, extent of uncertainty, degrees of freedom in the policy space, tenor of the respective debates, average rationality of participants, guns brandished). I'd guess that most political radicals are incapable of caring about Pi vs Tau, and that most Tauists are not political radicals. <a href="#fn:3" id="fnref:3">3</a><br><br> 
+        Okay, okay:<br><br>  
+
+        grand social reorganisations <i>might be</i> different from the inplace alteration of mathematical symbols in a couple ways (e.g. cost in billions, number of people affected in billions, risk to human life in megadeaths, extent of uncertainty, degrees of freedom in the policy space, tenor of the respective debates, average rationality of participants, guns brandished).<br><br>  
+
+        I'd guess that most political radicals are incapable of caring about Pi vs Tau, and that most Tauists are not political radicals. <a href="#fn:3" id="fnref:3">3</a><br><br> 
 
         But it's still good to think about, and <i>in the tiny sample of people who care about both</i>, I predict a correlation between political radicalism and Tauism of like R^2 > 0.5.
     </div>
@@ -89,7 +98,7 @@ ANYWAY this ties in to the maths feud as follows:
 
 You might wonder how 'French' I am. Boringly, I don't know. <a href="#fn:6" id="fnref:6">6</a> 
 
-Traditions are often internally incoherent, just because they are a giant heap of ideas all added without editorial care. <a href="#fn:5" id="fnref:5">5</a> Not everything which <a href="{{adapt}}">persists a long time is adaptive</a> : stubborn local maxima <a href="{{photo}}">exist</a> everywhere in nature and society. <a href="#fn:1" id="fnref:1">1</a> And <a href="http://apps.who.int/immunization_monitoring/diseases/en/">the status quo</a> is <a href="http://www.globalslaveryindex.org/findings/">monstrous</a> and <a href="https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#List_of_countries_and_dependencies">intolerable</a> in <a href="https://www.tauday.com/">many</a>, <a href="http://www.syriahr.com/en/?p=56923">many</a> <a href="https://en.wikipedia.org/wiki/Death">obvious ways</a>.
+Traditions are often internally incoherent, just because they are a giant heap of ideas all added without editorial care. <a href="#fn:5" id="fnref:5">5</a> Not everything which <a href="{{adapt}}">persists a long time is adaptive</a> : bad local maxima <a href="{{photo}}">exist</a> all over nature and <a href="{{christ}}">society</a>. <a href="#fn:1" id="fnref:1">1</a> And <a href="http://apps.who.int/immunization_monitoring/diseases/en/">the status quo</a> is <a href="http://www.globalslaveryindex.org/findings/">monstrous</a> and <a href="https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#List_of_countries_and_dependencies">intolerable</a> in <a href="https://www.tauday.com/">many</a>, <a href="http://www.syriahr.com/en/?p=56923">many</a> <a href="https://en.wikipedia.org/wiki/Death">obvious ways</a>.
 
 But <a href="{{columbian}}">large</a>, <a href="{{dayuejin}}">sudden</a> <a href="{{soviet}}">social</a> <a href="{{vijiji}}">changes</a> have probably been destructive more often than constructive. I am instinctively top-down, but I'd like to be more empirical. 
 

@@ -16,12 +16,6 @@ visible:  false
             <table class="post-list">
            {% assign myYear = currentYear %}
         {% endif %}
-
-        {% assign currentMonth = post.date | date: "%b" %}
-        {% if currentMonth != myMonth %}
-           <tr><span style="font-weight: bold">{{ currentMonth }}</span></tr>
-           {% assign myMonth = currentMonth %}
-        {% endif %}
         
         <tr>
           <td style="width:60%;"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a></td>

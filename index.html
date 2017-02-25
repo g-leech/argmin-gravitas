@@ -10,7 +10,7 @@ visible:  false
   <h1 class="page-heading">Recent Posts</h1>
     <table class="post-list" border=1 frame=void rules=rows>
     
-    {% for post in site.posts limit:4 %}
+    {% for post in site.posts limit:5 %}
       {% if post.visible == 1  %}
       <tr>
         <td>
@@ -19,7 +19,7 @@ visible:  false
           </a>
         </td>
         </td>
-        <td style="width:75%;padding:20px;padding-bottom:30px;">
+        <td style="width:72%;padding:20px;padding-bottom:30px;">
           <h3 style="padding: 0px; margin: 0px;">
             <a class="post-link" href="{{ post.url | prepend: site.url }}">>> {{ post.title }}</a>
           </h3> 
