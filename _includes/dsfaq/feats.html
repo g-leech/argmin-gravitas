@@ -1,0 +1,133 @@
+
+
+
+feature extraction: curating raw data  
+feature selection: taking a subset of the data, or functions of the data, as predictors for models (or variables for algorithms).
+
+
+Downside of more data:
+* If you're just adding features but not rows, then you might be damaging your model with overfit and redundancy
+* If most of the values are zero then you have a sparsity problem.
+* If it takes you above the 64GB sweet spot, so it doesn't fit in RAM but doesn't gain much from parallelisation. hard to manipulate
+
+
+The terminology has not settled down - i.e. the following terms are actually <i>not</i> disambiguated in common usage - but here's what language should arrive at:
+
+Feature engineering: the manual design of inputs. Consists in
+Feature generation: finding all potentially relevant variables
+Feature selection: choosing predictive features 
+Feature construction: deriving predictive, low-dimension, non-redundant features from variables. ... Currently called feature extraction, ambiguously IMO.
+
+
+
+<h3>Feature generation</h3>
+<div>
+	<br>This is a mixture of research and guesswork. 
+
+	We can use the following 3 bit code to classify your ideas for features, applied epistemology:
+
+	<table>
+	<tr>
+		<td></td><td>Relevant</td> <td>Measurable</td> <td>Considered</td>
+	</tr>
+	<tr>
+		<td>Include these features</td>	<td>Y</td> 	<td>Y</td> 	<td>Y</td>
+	</tr>
+	<tr>
+		<td>Drop these features</td>	<td>Y</td> 	<td>Y</td> 	<td>Y</td>
+	</tr>
+	<tr>
+		<td></td>	<td></td> 	<td></td> 	<td></td>
+	</tr>
+	<tr>
+		<td></td>	<td></td> 	<td></td> 	<td></td>
+	</tr>
+	<tr>
+		<td></td>	<td></td> 	<td></td> 	<td></td>
+	</tr>
+	<tr>
+		<td></td>	<td></td> 	<td></td> 	<td></td>
+	</tr>
+	<tr>
+		<td></td>	<td></td> 	<td></td> 	<td></td>
+	</tr>
+	<tr>
+		<td></td>	<td></td> 	<td></td> 	<td></td>
+	</tr>
+
+	</table>
+
+
+Features to exclude N Y Y 
+Look for proxies Y N Y 
+Stupid idea N N Y
+More research Y Y N
+Think about proxies Y N N 
+Waste of time N Y N
+Who cares? N N N
+
+If you care, you can add further dimensions: <i>redundant</i>, <i>transformable</i>, <i>measurable</i> for a less readable 64 classes.
+
+	<br> 
+</div>
+
+<h3></h3>
+<div>
+	<br>
+
+	<br> 
+</div>
+
+<h3></h3>
+<div>
+	<br>
+
+	<br> 
+</div>
+
+<h3></h3>
+<div>
+	<br>
+
+	<br> 
+</div>
+
+<h3></h3>
+<div>
+	<br>
+
+	<br> 
+</div>
+
+
+
+Feature selection: Guyon and Elisseeff (2003):
+
+1. <blockquote>Do you have domain knowledge? If yes, construct a better set of “ad hoc” features.</blockquote>
+2. <blockquote>Are your features commensurate? If no, consider normalizing them.</blockquote>
+3. <blockquote>Do you suspect interdependence of features? If yes, expand your feature set by constructing conjunctive features or products of features, as much as your computer resources allow you.</blockquote>
+4. <blockquote>Do you need to prune the input variables (e.g. for cost, speed or data understanding reasons)? If no, construct disjunctive features or weighted sums of features (e.g. by clustering or matrix factorization).</blockquote>
+5. <blockquote>Do you need to assess features individually (e.g. to understand their influence on the system or because their number is so large that you need to do a first filtering)? If yes, use a variable ranking method; else, do it anyway to get baseline results.</blockquote>
+6. <blockquote>Do you need a predictor? If no, stop.</blockquote>
+7. <blockquote>Do you suspect your data is “dirty” (... has a few meaningless input patterns and/or noisy outputs or wrong class labels)? If yes, detect the outlier examples using the top ranking variables obtained in step 5 as representation; check and/or discard them.</blockquote>
+8. <blockquote>Do you know what to try first? If no, use a linear predictor. Use a forward selection method with the “probe” method as a stopping criterion or use the 0-norm embedded method. For comparison, following the ranking of step 5, construct a sequence of predictors of same nature using increasing subsets of features. Can you match or improve performance with a smaller subset? If yes, try a non-linear predictor with that subset.</blockquote>
+9. <blockquote>Do you have new ideas, time, computational resources, and enough examples? If yes, compare several feature selection methods, including your new idea, correlation coefficients, backward selection and embedded methods (Section 4). Use linear and non-linear predictors. Select the best approach with model selection.</blockquote>
+10. <blockquote>Do you want a stable solution (to improve performance and/or understanding)? If yes, subsample your data and redo your analysis for several “bootstraps” .</blockquote>
+
+
+
+Types of feature selection
+
+Filters. univariate evaluation then ordering of possible features.
+- treating the features as independent
+-- gives correlated features
+-- no treatment of interactions. something that appears useless alone could actually help when combined with another possibly useless-looking feature 
+
+Wrappers. find a subset of features. 
+
+- possible subsets grows exponentially with set size. So there’s a nasty opportunity for overfitting.
+
+1) selecting an algorithm to use to select features. e.g. stepwise regression 
+2) deciding on a selection criterion or filter to decide that your set of features is “good.” (objective function)
+
+

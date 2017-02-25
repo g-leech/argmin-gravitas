@@ -81,7 +81,9 @@
 			<li>Encoding categoricals</li>
 			<li>Identifying measurement bias</li>
 			<li>Clever anonymisation in a world where everyone can be sniffed out.</li>
-		</ul>
+		</ul><br>
+
+		See also data wrangling and <i>munging</i>.
 		</div>
 
 		<h3>4. Exploratory analysis</h3>	
@@ -95,15 +97,19 @@
 		</div>
 
 		<h3>5. Feature engineering</h3>	
-		<div>	Which parts are useful?<br><br>
+		<div>	<i>Which parts are useful?</i><br><br>
+			
+			<div class="accordion">
+				{%	include dsfaq/feats.html	%}
+			</div><br><br>
 
-		Also known as data wrangling or munging.
+		This and 6. are the Kaggle bit. (So if this Process defines the job well, then Kaggle is a ML platform, not a data science platform.)<br><br>
 		</div>
 
 		<h3>6. Modelling</h3>	
 		<div>	What structure will answer the question?<br><br>
 
-		The Kaggle bit.<br><br>
+		
 
 		<ul>
 			<li>Parameter tuning </li>
@@ -183,9 +189,9 @@
 <div>By surveying people with the job title "data scientist" and then clustering the data, <a href="{{oreilly}}">Harris et al.</a> split "data scientist" into four real jobs:<br><br>
 
 	<ul>
-		<li><i>Data researcher</i>: A postgrad statistician. Writes new algorithms, builds proof-of-concept ensembles, writes analysis libraries, disseminates. </li>
-		<li><i>Data developer</i>: Machine learning engineer. Application builder. </li>
-		<li><i>Data businessperson</i>: A knowledgeable interface between technical and non-technical people. Doesn’t code: steers modelling approach.</li>
+		<li><i>Data researcher</i>: A postgrad statistician. Writes new algorithms, builds proof-of-concept ensembles, writes analysis libraries, disseminates. </li><br>
+		<li><i>Data developer</i>: Machine learning engineer. Application builder. </li><br>
+		<li><i>Data businessperson</i>: A knowledgeable interface between technical and non-technical people. Doesn’t code: steers modelling approach.</li><br>
 		<li><i>Data creative</i>: Bit of everything. Heavy on visualisations? <a href="#fn:6" id="fnref:6">6</a></li>
 	</ul>
 	<br>

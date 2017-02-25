@@ -32,6 +32,7 @@ I probably won't get around to systematically stating a worldview. (Such things 
 			<h3>gide</h3><div>{%		include quotes/gide.html	%}</div>
 			<h3>cioran</h3><div>{%		include quotes/cioran.html	%}</div>
 			<h3>nietzsche</h3><div>{%	include quotes/fritz.html	%}</div>
+			<h3>wittgenstein</h3><div>{% include quotes/luki.html	%}</div>
 			<h3>gwern</h3><div>{%		include quotes/gwern.html	%}</div>
 			<h3>me</h3><div>{%			include quotes/I.html		%}</div><br>	
 		</div>
