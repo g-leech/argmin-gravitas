@@ -3,15 +3,17 @@ layout:     post
 title:      "π vs τ as clash of worldviews"
 baselink:   /pi-tau
 permalink:  /pi-tau/
-date:       2017-01-11  <!--site.time-->
+date:       2017-02-25  <!--site.time-->
 author:     Gavin   
 
 img:        /img/pitau.png
+visible:	1
 
 summary:    A pointless feud as a metaphor for your view of everything that is and could be.
 confidence:	Just an analogy (society is a tad different from maths). But 70% in a significant correlation.
 categories: maths, reason, ineffective altruism
-count:		
+warnings:	totalitarianism, slavery, famine, scrupulosity
+count:		870
 ---
 
 {%	assign wirehead = "https://slatestarcodex.com/2014/01/28/wirehead-gods-on-lotus-thrones/"		%}
@@ -32,9 +34,13 @@ count:
 </div><br>
 
 
-I have never cared about the <a href="https://tauday.com/tau-manifesto">Pi vs Tau</a> debate. (If you haven't heard, the argument is over whether we should use 2π or the absolutely equivalent τ in maths texts. It's a wonderful, nominally bitter feud where both sides admit that the result of the feud has absolutely no <i>practical</i> importance.)<br><br>
+I have never cared about the <a href="https://tauday.com/tau-manifesto">Pi vs Tau</a> debate. (If you haven't heard, the argument is over whether we should use 2π or the absolutely equivalent τ in maths texts. It's a wonderful, nominally bitter feud where both sides admit that the result of the feud has absolutely no <i>practical</i> importance.)
 
-But I realise now that your view of Pi vs Tau actually has a really deep matter serve as an <a href="https://en.wikipedia.org/wiki/Intuition_pump">intution pump</a> for your position on a : how much you think we should change huge and complex systems.<br><br> 
+But I've realised that your view in Pi vs Tau forms an analogy for an actually deep question: it serves as an <a href="https://en.wikipedia.org/wiki/Intuition_pump">intution pump</a> for how much you think we should change huge and complex systems.
+
+<hr />
+
+To make sense of that, let's get some machinery set up. 
 
 You can divide the confused term "liberalism" into <a href="https://en.wikipedia.org/wiki/Classical_liberalism#Hayek.27s_typology_of_beliefs">two great streams</a>: the metaphorically "French" and the metaphorically "British". <a href="#fn:4" id="fnref:4">4</a>
 
