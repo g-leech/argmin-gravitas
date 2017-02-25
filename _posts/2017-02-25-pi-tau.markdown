@@ -43,21 +43,21 @@ But I've realised that your view in <i>Pi vs Tau</i> forms an analogy for an act
 
 <br>
 <hr />
-<br><br>
+<br>
 
 Let's get some machinery set up. 
 
-One way of slicing the confused term "liberalism" is into <a href="{{hayek}}">two great streams</a>: the metaphorically "French" and the metaphorically "British". <a href="#fn:4" id="fnref:4">4</a>
+One way of slicing the confused term "liberalism" is into <a href="{{hayek}}">two great streams</a>: the metaphorically "French" and the metaphorically "British". <a href="#fn:4" id="fnref:4">4</a><br>
 
 <ul>
 <li>'French' liberalism is top-down: it has a single large theory of the world, and is willing to make radical changes to make the world accord with the theory. (A stark example, maybe the inspiration for Hayek coining the distinction, is the difference between <a href="{{laws}}">Napoleonic civil law and English common law</a>.) </li><br>
 
 <li>'British' liberalism is bottom-up: it emphasises the limits of our knowledge, the difficulty of making large changes successfully, and the value of evolved institutions, as repositories of successful adaptations.</li>
-</ul>
+</ul><br>
 
 (It is in this sense that e.g. Marx is French - a top-down rationalist interventionist - where e.g. Taleb is British, a principled evaluator of what has persisted.)
 
-Your 'Frenchness' is not just a political question: it bears on how you interact with <i>any</i> current and <i>any</i> possible state of affairs.
+Your Hayekian 'Frenchness' is not just a political question: it bears on how you interact with all current and possible states of affairs.
 
 <br><br>
 <hr />
@@ -73,6 +73,7 @@ ANYWAY this ties in to the maths feud as follows:
 <li><i>Tau people</i> as French liberals. They hold to rationalism ("what makes sense is good") or perfectionism ("only what is best is good") or aestheticism ("what looks nice is good"). If even mathematicians cannot get these things right, for want of courage and standards, then we are all screwed.</li>
 
 </ul><br>
+
 <div class="accordion">
     <h3>This is a really bad analogy</h3>
     <div>
@@ -82,13 +83,13 @@ ANYWAY this ties in to the maths feud as follows:
     </div>
 </div>
 
-<br><br>
+<br>
 <hr />
-<br><br>
+<br>
 
-You might wonder how 'French' I am. Boringly, I don't know. <a href="#fn:6" id="fnref:6">6</a>
+You might wonder how 'French' I am. Boringly, I don't know. <a href="#fn:6" id="fnref:6">6</a> 
 
-Traditions are often internally incoherent, just because they are a giant heap of ideas all added without editorial care. <a href="#fn:5" id="fnref:5">5</a> Not everything which <a href="{{adapt}}">persists a long time is adaptive</a> <a href="#fn:1" id="fnref:1">1</a>: stubborn local maxima <a href="{{photo}}">exist</a> everywhere in nature and society. And <a href="http://apps.who.int/immunization_monitoring/diseases/en/">the status quo</a> is <a href="http://www.globalslaveryindex.org/findings/">monstrous</a> and <a href="https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#List_of_countries_and_dependencies">intolerable</a> in <a href="https://www.tauday.com/">many</a>, <a href="http://www.syriahr.com/en/?p=56923">many</a> <a href="https://en.wikipedia.org/wiki/Death">obvious ways</a>.
+Traditions are often internally incoherent, just because they are a giant heap of ideas all added without editorial care. <a href="#fn:5" id="fnref:5">5</a> Not everything which <a href="{{adapt}}">persists a long time is adaptive</a> : stubborn local maxima <a href="{{photo}}">exist</a> everywhere in nature and society. <a href="#fn:1" id="fnref:1">1</a> And <a href="http://apps.who.int/immunization_monitoring/diseases/en/">the status quo</a> is <a href="http://www.globalslaveryindex.org/findings/">monstrous</a> and <a href="https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#List_of_countries_and_dependencies">intolerable</a> in <a href="https://www.tauday.com/">many</a>, <a href="http://www.syriahr.com/en/?p=56923">many</a> <a href="https://en.wikipedia.org/wiki/Death">obvious ways</a>.
 
 But <a href="{{columbian}}">large</a>, <a href="{{dayuejin}}">sudden</a> <a href="{{soviet}}">social</a> <a href="{{vijiji}}">changes</a> have probably been destructive more often than constructive. I am instinctively top-down, but I'd like to be more empirical. 
 
@@ -111,7 +112,7 @@ In a world with <i>no actually pressing problems</i> (like malaria, adversarial 
 
     	But tauification would cost quite a lot, and since the invention of money, <a href="https://en.wikipedia.org/wiki/Trade#Development_of_money"><i>resources are resources</i></a>; diverting them to an inconsequential aesthetic crusade <i>is</i> a morally loaded action. 
 
-    	<br><br>(...if and only if the money could be diverted to something of moral importance.)
+    	<br><br>(...if and only if the money could be diverted to something of moral importance.)<br><br>
 	</li>
 
 	<li class="footnote" id="fn:3">
@@ -135,7 +136,7 @@ In a world with <i>no actually pressing problems</i> (like malaria, adversarial 
 	</li>
 
 	<li class="footnote" id="fn:5">
-    	<a href="nietz">So, is incoherence adaptive?</a>
+    	So <a href="{{nietz}}">is incoherence adaptive?</a>
 	</li>
 
 	<li class="footnote" id="fn:6">
