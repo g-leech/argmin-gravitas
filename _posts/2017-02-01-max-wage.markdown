@@ -17,59 +17,82 @@ count:
 ---
 <!-- USD GBP  -->
 
-<center>
-<a href="http://2.bp.blogspot.com/-T8bi3ac4lUg/VcYpcqP6QeI/AAAAAAAACOw/s0GbmHdKr0U/s1600/Irving_Jon_04.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="358" src="https://2.bp.blogspot.com/-T8bi3ac4lUg/VcYpcqP6QeI/AAAAAAAACOw/s0GbmHdKr0U/s640/Irving_Jon_04.jpg" width="555"></a><br />
-<small>(c) <a href="http://irvingprints.com/">Jon Irving</a> (2012), 'The Things I'll Have to Do Today Just to Eat' </small><br /><br /><br />
-<blockquote>
-<i>Because giving money is regarded as an act of </i>[unnecessary]<i> charity, it is not thought that there is anything wrong with not giving. People do not feel in any way ashamed or guilty about spending money on new clothes or a new car instead of giving it to famine relief. (Indeed, the alternative does not occur to them.) This way of looking at the matter cannot be justified... To&nbsp;give money&nbsp;away is not charitable, or generous.</i><br />
-<p style="line-height: 5px;">
-– Peter Singer</p>
-<br /><br>
+{%	assign singerian = "http://www.utilitarian.net/singer/by/1972----.htm"		%}
+{%	assign irvingEat = "http://2.bp.blogspot.com/-T8bi3ac4lUg/VcYpcqP6QeI/AAAAAAAACOw/s0GbmHdKr0U/s1600/Irving_Jon_04.jpg"		%}
 
-<i>Forget about your worries and your strife; I mean the bare necessities,<br />That's why a bear can rest at ease with just the bare necessities of life...</i><br />
-<p style="line-height: 5px;">
-– Terry Gilkyson</p>
-<br /></blockquote>
+
+<center>
+	<a href="{{irvingEat}}" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="358" src="{{irvingEat}}" width="555"></a><br />
+	<small>(c) <a href="http://irvingprints.com/">Jon Irving</a> (2012), 'The Things I'll Have to Do Today Just to Eat' </small>
+	<br /><br /><br />
+
+<blockquote>
+	
+	<i>Because giving money is regarded as an act of </i>[unnecessary]<i> charity, it is not thought that there is anything wrong with not giving. People do not feel in any way ashamed or guilty about spending money on new clothes or a new car instead of giving it to famine relief. (Indeed, the alternative does not occur to them.) This way of looking at the matter cannot be justified... To&nbsp;give money&nbsp;away is not charitable, or generous.</i><br />
+	<p style="line-height: 5px;">
+	– Peter Singer</p>
+	<br /><br>
+
+	<i>Forget about your worries and your strife; I mean the bare necessities,<br />That's why a bear can rest at ease with just the bare necessities of life...</i><br />
+	<p style="line-height: 5px;">
+	– Terry Gilkyson</p><br />
+
+</blockquote>
 </center><br>
 
-What&nbsp;amount of money can you rightly allocate to yourself, if&nbsp;you accept the premises of a <a href="http://www.utilitarian.net/singer/by/1972----.htm">hard-line</a>&nbsp;<a href="http://www.bbc.co.uk/ethics/introduction/consequentialism_1.shtml">consequentialist</a> life? Call this amount the <em>maximum consequentialist income</em> (MCI), all earnings beyond which an ideal utilitarian would just give to <a href="http://www.givewell.org/international/technical/criteria/cost-effectiveness">effective</a> causes. <br><br>
+What&nbsp;amount of money can you rightly allocate to yourself, if&nbsp;you accept the premises of a <a href="{{singerian}}">hard-line</a>&nbsp;<a href="http://www.bbc.co.uk/ethics/introduction/consequentialism_1.shtml">consequentialist</a> life? Call this amount the <em>maximum consequentialist income</em> (MCI), all earnings beyond which an ideal utilitarian would just give to <a href="http://www.givewell.org/international/technical/criteria/cost-effectiveness">effective</a> causes. <br><br>
 
 We all know the minimum wage, but <a href="http://mainlymacro.blogspot.co.uk/2014/07/if-minimum-wages-why-not-maximum-wages.html">the idea of</a> <a href="http://www.vox.com/2014/8/6/5964369/maximum-wage">a maximum wage</a>, like this MCI, is not&nbsp;common. The Soviet nomenklatura <a href="http://en.wikipedia.org/wiki/Partmaximum">had one</a>&nbsp;at first, though it was easily subverted and later abandoned completely. The Venezuelan civil service <a href="http://venezuelanalysis.com/news/6002">supposedly</a> has one at the moment, though I imagine the same forces are acting on it as we speak. Those forces include our assumption of a right to unlimited accumulation, the <a href="http://en.wikipedia.org/wiki/Illusory_superiority">Lake Wobegon effect</a>, and <a href="http://en.wikipedia.org/wiki/Just-world_hypothesis">magical thinking</a> about the role of <i>our</i> effort in determining <i>our</i> earnings. Yet <a href="https://www.coursera.org/learn/altruism">at least one group of people</a> voluntarily impose a maximum wage on themselves to help others.<br><br><br>
 
 The classic argument for this, in case you're wondering what I'm on about:
-<blockquote><ol>
-<li>Many people suffer from lack of food, shelter or medical care.</li>
-<li>Suffering lack of food, shelter or medical care is bad.<a href="http://afterallitcouldbeworse.blogspot.com/2014/01/whats-highest-moral-wage.html#one">*</a></li>
-<li>"If it is in our power to prevent something bad from happening, without thereby sacrificing anything of <i>comparable </i>moral importance, we ought to do it." (<i><a href="http://ocw.mit.edu/courses/linguistics-and-philosophy/24-231-ethics-fall-2009/lecture-notes/MIT24_231F09_lec21.pdf">Strong</a> Singer Principle</i>)</li>
-<li>It is in our power to alleviate people's lack of food, shelter or medical care.
-<ul><li>Since most British people have disposable income, broadly defined.</li>
-<li>Since there <a href="http://www.givewell.org/charities/top-charities">are</a> anti-poverty organisations who verifiably do alleviate poverty.<a href="http://afterallitcouldbeworse.blogspot.com/2014/01/whats-highest-moral-wage.html#two">**</a></li>
-</ul>
-<li><span style="font-family: inherit;">Aside from what I spend on necessities, my consumption is <a href="http://en.wikipedia.org/wiki/Distributive_efficiency"><i>not</i> of comparable</a> moral importance.</span></li>
-<li><span style="font-family: inherit;">Therefore, give away what you earn above the cost of necessities (MCI)</span></li>
+<blockquote>
+<ol>
+	<li>Many people suffer from lack of food, shelter or medical care.</li>
+<!--  -->
+	<li>Suffering lack of food, shelter or medical care is bad. *</li>
+<!--  -->
+	<li>"If it is in our power to prevent something bad from happening, without thereby sacrificing anything of <i>comparable </i>moral importance, we ought to do it." (<i><a href="http://ocw.mit.edu/courses/linguistics-and-philosophy/24-231-ethics-fall-2009/lecture-notes/MIT24_231F09_lec21.pdf">Strong</a> Singer Principle</i>)</li>
+<!--  -->
+	<li>It is in our power to alleviate people's lack of food, shelter or medical care.
+<!--  -->
+		<ul>
+			<li>Since most British people have disposable income, broadly defined.</li>
+			<li>Since there <a href="http://www.givewell.org/charities/top-charities">are</a> anti-poverty organisations who verifiably do alleviate poverty.**</li>
+		</ul>
+	<li><span style="font-family: inherit;">Aside from what I spend on necessities, my consumption is <a href="http://en.wikipedia.org/wiki/Distributive_efficiency"><i>not</i> of comparable</a> moral importance.</span></li>
+<!-- --> 
+	<li><span style="font-family: inherit;">Therefore, give away what you earn above the cost of necessities (MCI)</span></li>
 </ol>
-</blockquote>
+</blockquote><br><br>
 
-<br><br>A further argument for the MCI, from the nature of world wages:
-<blockquote><ol>
-<li>Accidents of birth place some of us in positions of high&nbsp;<a href="http://en.wikipedia.org/wiki/Human_Development_Index">development</a>&nbsp;and economic advantage, and <a href="http://www.globalissues.org/article/26/poverty-facts-and-stats">most others</a> in more or less terrible poverty. (<i>Global moral luck</i>)</li>
-<li>Your income has <i>much</i> more to do with the average productivity of your country than your own productivity.&nbsp;(Baumol effect plus <a href="http://troublingadvocacy.blogspot.co.uk/2015/08/ha-joon-chang-thing-3.html">borders</a>)</li>
-<li><span style="font-family: inherit;">We can only deserve things we have some control over. (the <i><a href="http://plato.stanford.edu/entries/moral-luck/">Control principle</a></i>: as applied here, 'if an accident of birth put me on track for higher wages, then I don't strictly deserve the surplus wage I receive.')</span></li>
-<li><span style="font-family: inherit;">Therefore, you don't strictly deserve the global surplus you receive.</span></li>
-</ol>
-</blockquote>
-<br>
+
+A further argument for the MCI, from the nature of world wages:
+<!--  -->
+	<blockquote><ol>
+	<li>Accidents of birth place some of us in positions of high&nbsp;<a href="http://en.wikipedia.org/wiki/Human_Development_Index">development</a>&nbsp;and economic advantage, and <a href="http://www.globalissues.org/article/26/poverty-facts-and-stats">most others</a> in more or less terrible poverty. (<i>Global moral luck</i>)</li>
+	<li>Your income has <i>much</i> more to do with the average productivity of your country than your own productivity.&nbsp;(Baumol effect plus <a href="http://troublingadvocacy.blogspot.co.uk/2015/08/ha-joon-chang-thing-3.html">borders</a>)</li>
+	<li><span style="font-family: inherit;">We can only deserve things we have some control over. (the <i><a href="http://plato.stanford.edu/entries/moral-luck/">Control principle</a></i>: as applied here, 'if an accident of birth put me on track for higher wages, then I don't strictly deserve the surplus wage I receive.')</span></li>
+	<li><span style="font-family: inherit;">Therefore, you don't strictly deserve the global surplus you receive.</span></li>
+	</ol>
+	</blockquote><br>
+
+
 If these arguments are right, it falls to the consequentialist to give away what they have not really earned and <i>cannot</i> use better than the world's extremely poor. The <a href="https://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CDIQFjAA&amp;url=http%3A%2F%2F80000hours.org%2Fwhat-is-an-effective-altruist&amp;ei=B1nQUvvBJe6X0AXhvYDICg&amp;usg=AFQjCNEG1gFxvXpQGCGcdYzkbdZlJEmulg&amp;sig2=zfVmeMjW6IjWUpPIG3_sJw&amp;bvm=bv.59026428,d.d2k">effective</a> <a href="http://lesswrong.com/lw/j8n/a_critique_of_effective_altruism/">altruism</a>&nbsp;movement tends to focus on <i>percentages</i> of income given or pledged -&nbsp;and this is only prudent, since it prevents the relatively low-income among us being turned off by stories of billionaires giving millions to thousands. (Incidentally, <a href="http://www.givingwhatwecan.org/why-give/how-rich-am-i">this</a> calculator shows just how rich you are, even on UK minimum wage, as I am at time of writing.)<br /><a name="one"></a>
 <br><br><br>
 <blockquote>* This form of the argument mentions poverty relief for reasons of <a href="http://en.wikipedia.org/wiki/Availability_heuristic">availability</a>: these things don't work well without an example, and extreme poverty relief is an uncontroversially good thing. But the case for&nbsp;animal rights&nbsp;work or <a href="http://www.jefftk.com/p/future-people-and-giving">existential risk</a>&nbsp;mitigation is often very strong indeed and I intend no prejudice.<br /><br>
 
 A less unpopular form of the argument, which doesn't entail the MCI, runs as follows:
 <ol>
-<li>Suffering and death from lack of food, shelter, and medical care are bad.</li>
-<li>"If it is in our power to prevent something bad from happening, without thereby sacrificing anything morally significant, we ought to do it.</li>
-<li>I can prevent people dying by giving more money to effective anti-poverty causes than I do. </li>
-<li>By giving more money to anti-poverty causes than I do, I would not be sacrificing anything morally significant.</li>
-<li>Therefore, I should give more to anti-poverty causes.</li><a name="two"></a>
+	<li>Suffering and death from lack of food, shelter, and medical care are bad.</li>
+	<!--  -->
+	<li>"If it is in our power to prevent something bad from happening, without thereby sacrificing anything morally significant, we ought to do it.</li>
+	<!--  -->
+	<li>I can prevent people dying by giving more money to effective anti-poverty causes than I do. </li>
+	<!--  -->
+	<li>By giving more money to anti-poverty causes than I do, I would not be sacrificing anything morally significant.</li>
+	<!--  -->
+	<li>Therefore, I should give more to anti-poverty causes.</li><a name="two"></a>
+
 </ol><br><br>
 
 ** Given reasonable interpersonal values, these organisations can use a unit of income <a href="http://80000hours.org/cost-effectiveness-research-and-prioritisation">thousands</a><i> </i>of times better than we can use it for ourselves, a margin far beyond econometric error or <a href="http://marginalrevolution.com/marginalrevolution/2012/02/is-charity-a-major-source-of-deadweight-loss.html">admin</a> <a href="http://en.wikipedia.org/wiki/Deadweight_loss">deadweight</a>.)
