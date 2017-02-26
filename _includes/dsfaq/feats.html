@@ -39,7 +39,8 @@ Or, <i>column curation</i>. The terminology for FE hasn't settled down yet - tha
 
 		</table>
 
-		<br>(This is applied epistemology.)<div align="right><a href="#fn:402" id="fnref:402">402</a></div><br> 
+		<br>(An applied epistemology.)
+		<div align="right"><a href="#fn:402" id="fnref:402">402</a></div><br> 
 
 	</div>
 
@@ -47,73 +48,74 @@ Or, <i>column curation</i>. The terminology for FE hasn't settled down yet - tha
 	<div>
 		<i>How to pick the best ones from your shortlist.</i><br><br>
 
-			<div class="accordion">
-				<h3>Why feature selection?</h3>
-				<div>
-					<ol>
-						<li>For generalisability (out-of-sample accuracy): Reducing the number of features can reduce overfitting.</li><br>
-
-						<li><i>interpretability</i>: to understand the underlying process (via features' relationship to the output variable).</li>
-
-						<li><i>efficiency</i>: providing faster and more cost-effective predictors</li>
-					</ol>
-					You can't have everything though: feature selection which maximises accuracy isn’t necessarily good for (2). Previous model-based methods (linear model and random forest) are usually better for, while for the latter, univariate feature selection methods can be the most useful, since they do not underestimate features’ importance due to correlation with other features, as model-based feature selection does.
-
-				</div>
-
-				<h3>FS Checklist</h3>
-				<div>
-					from <a href="{{elisseff}}">Guyon and Elisseeff (2003)</a>:<br><br>
-
+		<div class="accordion">
+			<h3>Why should I select features?</h3>
+			<div>
 				<ol>
-				<li><blockquote>Do you have domain knowledge? If yes, construct a better set of “ad hoc” features.</blockquote></li>
-				
-				<li><blockquote>Are your features commensurate? If no, consider normalizing them.</blockquote></li>
+					<li>For generalisability (out-of-sample accuracy): Reducing the number of features can reduce overfitting.</li><br>
 
-				<li><blockquote>Do you suspect interdependence of features? If yes, expand your feature set by constructing conjunctive features or products of features, as much as your computer resources allow you.</blockquote></li>
+					<li><i>interpretability</i>: to understand the underlying process (via features' relationship to the output variable).</li><br>
 
-				<li><blockquote>Do you need to prune the input variables (e.g. for cost, speed or data understanding reasons)? If no, construct disjunctive features or weighted sums of features (e.g. by clustering or matrix factorization).</blockquote>
-				</li>
-				
-				<li><blockquote>Do you need to assess features individually (e.g. to understand their influence on the system or because their number is so large that you need to do a first filtering)? If yes, use a variable ranking method; else, do it anyway to get baseline results.</blockquote></li>
-
-				<li><blockquote>Do you need a predictor? If no, stop.</blockquote></li>
-
-				<li><blockquote>Do you suspect your data is “dirty” (... has a few meaningless input patterns and/or noisy outputs or wrong class labels)? If yes, detect the outlier examples using the top ranking variables obtained in step 5 as representation; check and/or discard them.</blockquote></li>
-
-				<li><blockquote>Do you know what to try first? If no, use a linear predictor. Use a forward selection method with the “probe” method as a stopping criterion or use the 0-norm embedded method. For comparison, following the ranking of step 5, construct a sequence of predictors of same nature using increasing subsets of features. Can you match or improve performance with a smaller subset? If yes, try a non-linear predictor with that subset.</blockquote></li>
-				
-				<li><blockquote>Do you have new ideas, time, computational resources, and enough examples? If yes, compare several feature selection methods, including your new idea, correlation coefficients, backward selection and embedded methods. Use linear and non-linear predictors. Select the best approach with model selection.</blockquote></li>
-
-				<li><blockquote>Do you want a stable solution (to improve performance and/or understanding)? If yes, subsample your data and redo your analysis for several “bootstraps” .</blockquote></li>
+					<li><i>efficiency</i>: providing faster (and so cost-effective) predictors</li>
 				</ol>
-				</div>
 
+				You can't have everything though: feature selection which maximises accuracy isn’t necessarily good for interpretability. Model-based feature selection (like linear regression and random forest) are easily intepreted; univariate feature selection often give the most accurate results, since they factor in interactions between features.
 
-				<h3>Types of feature selection</h3>
-				<div>
-				<ol>
-				<li>Filters. Score and rank each possible feature. (e.g. Univariate evaluation followed by ordering according to a criterion like RMS.) Typical filters treat features as independent; they thus return correlated features, and thus give no treatment of interactions.  
-				<br><br>
-				e.g. Chi-squared test, information gain, correlation coefficient.
-				</li>
-
-				<li>Wrappers. Picking features as a search problem. Of course, the possible subsets grow exponentially with set size. So there’s a nasty opportunity for overfitting.<br><br>
-					1) pick an algorithm for selecting features. e.g. stepwise regression, best-first, forward/backward passes. <br>
-					2) pick a criterion or filter to decide if an output set of features is good.<br><br>
-
-				Compare a great many subsets with other subsets.<br><br>
-
-				e.g. recursive feature elimination.
-				</li>
-
-				<li>Embedding. Find the best features as you construct the final model. e.g. Random forests do feature selection as part of their construction. The most common kind of embedding is regularisation: constrained optimization, to bias the constructed model toward lower complexity (that is, fewer coefficients).
-
-				<br><br>e.g. LASSO, Elastic Net, Ridge Regression.
-				</li>
-				</ol>
-				</div>
 			</div>
+
+			<h3>Feature selection checklist</h3>
+			<div>
+				from <a href="{{elisseff}}">Guyon and Elisseeff (2003)</a>:<br><br>
+
+			<ol>
+			<li><blockquote>Do you have domain knowledge? If yes, construct a better set of “ad hoc” features.</blockquote></li>
+			
+			<li><blockquote>Are your features commensurate? If no, consider normalizing them.</blockquote></li>
+
+			<li><blockquote>Do you suspect interdependence of features? If yes, expand your feature set by constructing conjunctive features or products of features, as much as your computer resources allow you.</blockquote></li>
+
+			<li><blockquote>Do you need to prune the input variables (e.g. for cost, speed or data understanding reasons)? If no, construct disjunctive features or weighted sums of features (e.g. by clustering or matrix factorization).</blockquote>
+			</li>
+			
+			<li><blockquote>Do you need to assess features individually (e.g. to understand their influence on the system or because their number is so large that you need to do a first filtering)? If yes, use a variable ranking method; else, do it anyway to get baseline results.</blockquote></li>
+
+			<li><blockquote>Do you need a predictor? If no, stop.</blockquote></li>
+
+			<li><blockquote>Do you suspect your data is “dirty” (... has a few meaningless input patterns and/or noisy outputs or wrong class labels)? If yes, detect the outlier examples using the top ranking variables obtained in step 5 as representation; check and/or discard them.</blockquote></li>
+
+			<li><blockquote>Do you know what to try first? If no, use a linear predictor. Use a forward selection method with the “probe” method as a stopping criterion or use the 0-norm embedded method. For comparison, following the ranking of step 5, construct a sequence of predictors of same nature using increasing subsets of features. Can you match or improve performance with a smaller subset? If yes, try a non-linear predictor with that subset.</blockquote></li>
+			
+			<li><blockquote>Do you have new ideas, time, computational resources, and enough examples? If yes, compare several feature selection methods, including your new idea, correlation coefficients, backward selection and embedded methods. Use linear and non-linear predictors. Select the best approach with model selection.</blockquote></li>
+
+			<li><blockquote>Do you want a stable solution (to improve performance and/or understanding)? If yes, subsample your data and redo your analysis for several “bootstraps” .</blockquote></li>
+			</ol>
+			</div>
+
+
+			<h3>Types of feature selection</h3>
+			<div>
+			<ol>
+			<li>Filters. Score and rank each possible feature. (e.g. Univariate evaluation followed by ordering according to a criterion like RMS.) Typical filters treat features as independent; they thus return correlated features, and thus give no treatment of interactions.  
+			<br><br>
+			e.g. Chi-squared test, information gain, correlation coefficient.
+			</li><br><br>
+
+			<li>Wrappers. Picking features as a search problem. Of course, the possible subsets grow exponentially with set size. So there’s a nasty opportunity for overfitting.<br><br>
+				1) pick an algorithm for selecting features. e.g. stepwise regression, best-first, forward/backward passes. <br>
+				2) pick a criterion or filter to decide if an output set of features is good.<br><br>
+
+			Compare a great many subsets with other subsets.<br><br>
+
+			e.g. recursive feature elimination.
+			</li><br><br>
+
+			<li>Embedding. Find the best features as you construct the final model. e.g. Random forests do feature selection as part of their construction. The most common kind of embedding is regularisation: constrained optimization, to bias the constructed model toward lower complexity (that is, fewer coefficients).
+
+			<br><br>e.g. LASSO, Elastic Net, Ridge Regression.
+			</li>
+			</ol>
+			</div>
+		</div>
 	</div>
 
 
