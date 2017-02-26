@@ -1,6 +1,4 @@
-
 {%	assign elisseff = "http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf"		%}
-
 
 <style type="text/css">
 	td.rt {
@@ -8,68 +6,64 @@
 	}
 </style>
 
-<br>
-The terminology hasn't settled down yet - the following terms are actually not disambiguated in common usage - but here's what a mature language might arrive at:<br>
+Or, <i>column curation</i>. The terminology for FE hasn't settled down yet - that is, the following terms are actually not disambiguated in common usage - but here's what a mature language might arrive at:<br><br>
 
 <ul>
-	<li><i>Feature engineering</i>: the manual design of inputs. Consists in
+	<li><i>Feature engineering</i>: the manual design of inputs for your learner. Consists in<br>
 		<ol>
-		<li><i>Feature generation</i>: finding all potentially relevant variables</li>
-		<li><i>Feature selection</i>: choosing predictive features </li>
-		<li><i>Feature construction</i>: deriving predictive, low-dimension, non-redundant features from variables with linear combinations, nonlinear transforms, etc.  <a href="#fn:401" id="fnref:401">401</a></li>
+		<li><i>Feature generation</i>: finding all potentially relevant variables.</li>
+		<li><i>Feature selection</i>: choosing the most predictive features.</li>
+		<li><i>Feature construction</i>: deriving predictive, low-dimension, non-redundant features from variables.  <a href="#fn:401" id="fnref:401">401</a></li>
 		</ol>
 	</li>
 </ul>
 <br>
 
+
+
 <div class="accordion">
 	<h3>1. Feature generation</h3>
 	<div>
-		<br>This is a mixture of research and guesswork. We can use the following 3 bit code to classify your ideas for features, applied epistemology:
+		<br><i>Getting ideas</i>. A mixture of research and guesswork. We can use the following 3 bit code to classify your ideas for features:<br>
 
 		<table>
-		<tr>
-			<td class="rt"></td><td class="rt">Relevant</td> <td class="rt">Measurable</td> <td class="rt">Considered</td>
-		</tr>
-		<tr>
-			<td class="rt">Include these features</td>	<td class="rt">Y</td> 	<td class="rt">Y</td> 	<td class="rt">Y</td>
-		</tr>
-		<tr>
-			<td class="rt">Drop these features</td>	<td class="rt">N</td> 	<td class="rt">Y</td> 	<td class="rt">Y</td>
-		</tr>
-		<tr>
-			<td class="rt">Look for proxies</td>	<td class="rt"> Y</td> 	<td class="rt">N</td> 	<td class="rt">Y</td>
-		</tr>
-		<tr>
-			<td class="rt">Whose idea was this?</td>	<td class="rt">N</td> 	<td class="rt">N</td> 	<td class="rt">Y</td>
-		</tr>
-		<tr>
-			<td class="rt">Why we research</td>	<td class="rt">Y</td> 	<td class="rt">Y</td> 	<td class="rt">N</td>
-		</tr>
-		<tr>
-			<td class="rt">Think about proxies<br>more</td>	<td class="rt">Y</td> 	<td class="rt">N</td> 	<td class="rt">N</td>
-		</tr>
-		<tr>
-			<td class="rt">Averted waste of<br> time</td>	<td class="rt">N</td> 	<td class="rt">Y</td> 	<td class="rt">N</td>
-		</tr>
-		<tr>
-			<td class="rt">Nobody cares</td>	<td class="rt">N</td> 	<td class="rt">N</td> 	<td class="rt">N</td>
-		</tr>
+		<tr><td class="rt"></td><td class="rt">Relevant</td> <td class="rt">Measurable</td> <td class="rt">Considered</td></tr>
+		<tr><td class="rt">Include these features</td>	<td class="rt">Y</td> 	<td class="rt">Y</td> 	<td class="rt">Y</td></tr>
+		<tr><td class="rt">Drop these features</td>	<td class="rt">N</td> 	<td class="rt">Y</td> 	<td class="rt">Y</td></tr>
+		<tr><td class="rt">Look for proxies</td>	<td class="rt"> Y</td> 	<td class="rt">N</td> 	<td class="rt">Y</td></tr>
+		<tr><td class="rt">Whose idea was this?</td>	<td class="rt">N</td> 	<td class="rt">N</td> 	<td class="rt">Y</td></tr>
+		<tr><td class="rt">Why we do research</td>	<td class="rt">Y</td> 	<td class="rt">Y</td> 	<td class="rt">N</td></tr>
+		<tr><td class="rt">Think, then proxy</td>	<td class="rt">Y</td> 	<td class="rt">N</td> 	<td class="rt">N</td></tr>
+		<tr><td class="rt">Averted waste</td>	<td class="rt">N</td> 	<td class="rt">Y</td> 	<td class="rt">N</td></tr>
+		<tr><td class="rt">Nobody cares</td>	<td class="rt">N</td> 	<td class="rt">N</td> 	<td class="rt">N</td></tr>
 
 		</table>
 
-		<br><a href="#fn:402" id="fnref:402">402</a><br> 
+		<br>(This is applied epistemology.)<div align="right><a href="#fn:402" id="fnref:402">402</a></div><br> 
 
 	</div>
 
 	<h3>2. Feature selection</h3>
 	<div>
-		<br>How to pick the best ones from your shortlist.<br><br>
+		<i>How to pick the best ones from your shortlist.</i><br><br>
 
 			<div class="accordion">
+				<h3>Why feature selection?</h3>
+				<div>
+					<ol>
+						<li>For generalisability (out-of-sample accuracy): Reducing the number of features can reduce overfitting.</li><br>
+
+						<li><i>interpretability</i>: to understand the underlying process (via features' relationship to the output variable).</li>
+
+						<li><i>efficiency</i>: providing faster and more cost-effective predictors</li>
+					</ol>
+					You can't have everything though: feature selection which maximises accuracy isn’t necessarily good for (2). Previous model-based methods (linear model and random forest) are usually better for, while for the latter, univariate feature selection methods can be the most useful, since they do not underestimate features’ importance due to correlation with other features, as model-based feature selection does.
+
+				</div>
+
 				<h3>FS Checklist</h3>
 				<div>
-					from <a href="{{elisseff}}">Guyon and Elisseeff (2003)</a>:<br>
+					from <a href="{{elisseff}}">Guyon and Elisseeff (2003)</a>:<br><br>
 
 				<ol>
 				<li><blockquote>Do you have domain knowledge? If yes, construct a better set of “ad hoc” features.</blockquote></li>
@@ -99,14 +93,23 @@ The terminology hasn't settled down yet - the following terms are actually not d
 				<h3>Types of feature selection</h3>
 				<div>
 				<ol>
-				<li>Filters. Univariate evaluation of possible features, followed by then ordering according to a criterion like RMS.
-					<br>treating the features as independent. It thus returns correlated features. It thus gives no treatment of interactions.  
+				<li>Filters. Score and rank each possible feature. (e.g. Univariate evaluation followed by ordering according to a criterion like RMS.) Typical filters treat features as independent; they thus return correlated features, and thus give no treatment of interactions.  
+				<br><br>
+				e.g. Chi-squared test, information gain, correlation coefficient.
 				</li>
 
-				<li>
-					Wrappers. Finds a subset of features. Of course, the possible subsets grow exponentially with set size. So there’s a nasty opportunity for overfitting.<br><br>
-					1) pick an algorithm for selecting features. e.g. stepwise regression <br>
-					2) pick a criterion or filter to decide if an output set of features is good.
+				<li>Wrappers. Picking features as a search problem. Of course, the possible subsets grow exponentially with set size. So there’s a nasty opportunity for overfitting.<br><br>
+					1) pick an algorithm for selecting features. e.g. stepwise regression, best-first, forward/backward passes. <br>
+					2) pick a criterion or filter to decide if an output set of features is good.<br><br>
+
+				Compare a great many subsets with other subsets.<br><br>
+
+				e.g. recursive feature elimination.
+				</li>
+
+				<li>Embedding. Find the best features as you construct the final model. e.g. Random forests do feature selection as part of their construction. The most common kind of embedding is regularisation: constrained optimization, to bias the constructed model toward lower complexity (that is, fewer coefficients).
+
+				<br><br>e.g. LASSO, Elastic Net, Ridge Regression.
 				</li>
 				</ol>
 				</div>
@@ -114,10 +117,10 @@ The terminology hasn't settled down yet - the following terms are actually not d
 	</div>
 
 
-	<h3>3. Feature construction</h3>
+	<h3>3. Feature construction / extraction</h3>
 	<div>
 		<br>
-
+			<DATA></DATA>imensionality reduction: reduce number of variables by combining them
 		<br> 
 	</div>
 
