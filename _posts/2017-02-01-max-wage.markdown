@@ -5,8 +5,8 @@ baselink:   /maximum
 permalink:  /maximum/
 date:       2017-02-26  <!--site.time-->
 author:     Gavin   
+img:		/img/fish.jpg
 
-img:		fish.jpg
 visible:    1
 simple:		true
 stylised:	true
