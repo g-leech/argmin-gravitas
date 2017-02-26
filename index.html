@@ -10,7 +10,7 @@ visible:  false
   <h1 class="page-heading">Recent Posts</h1>
     <table class="post-list" border=1 frame=void rules=rows>
     
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts limit:4 %}
       {% if post.visible == 1  %}
       <tr>
         <td>
@@ -37,7 +37,7 @@ visible:  false
           
         </td>
         
-        <td style="width:9%border-left:1px;"> 
+        <td style="width:9%;border-left:1px;"> 
           <span class="post-meta" style="text-align:right">{{ post.date | date: "%b %-d, %Y" }}</span>
         </td>
       </tr>

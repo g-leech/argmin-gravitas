@@ -3,7 +3,7 @@
 
 First, what is "tractability"?
 
-<p><span style="font-weight: bold">tractability</span>: how easy something is to solve - how much you get done for a given amount of money, for instance.</p>
+<p><span style="font-weight: bold"><br>tractability</span>: how easy something is to solve - how much you get done for a given amount of money, for instance.</p>
 
 My question is _How can we estimate political controversy? How can we relate this to tractability?_ Controversy, and the conflict that comes with it, are a large drag on tractability. They are a particularly big problem for anything which wants to use government resources.
 
