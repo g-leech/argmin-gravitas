@@ -63,9 +63,10 @@ layout: default
       startingLink = window.location.hash + "Link";
     } 
     else {
-      startingLink = $(".defaultOpen").attr('id') + "Link";
+      startingLink = "#"+ $(".defaultOpen").attr('id') + "Link";
     }
-    $("#" + startingLink).click();
+    console.log(startingLink)
+    $(startingLink).click();
 
   });
 </script>

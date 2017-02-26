@@ -9,6 +9,7 @@
 	          document.getElementById(what).appendChild(i);
 	}
 
+
 	function definiteEvent(callback, args) {
 		if (window.addEventListener) {
 		    window.addEventListener("load", callback.apply(this, args), false);
@@ -19,20 +20,31 @@
 		else window.onload = callback.apply(this, args);
 	}
 
-	function restyle(evt, style) {
-    	var i, tabContent, tabLinks;
+
+	function restyle(evt, writingStyle) {
+    	
+      	resetBlocks();
+      	resetLinks();
+      	document.getElementById( writingStyle ).style.display = "block";
+		document.getElementById( writingStyle + "Link" ).style.fontWeight = "bold";
+  	}
+
+  	function resetBlocks( ) {
+  		var i, tabContent;
       	tabContents = document.getElementsByClassName("tabContent");
 
-      	for (i = 0; i < tabContents.length; i++) {
+  		for (i = 0; i < tabContents.length; i++) {
           tabContents[i].style.display = "none";
 	    }
-      	document.getElementById( style ).style.display = "block";
+  	}
 
-      	tabLinks = document.getElementsByClassName("tabLinks");
+  	function resetLinks() {
+  		var i, tabContent;
+  		tabLinks = document.getElementsByClassName("tabLinks");
+
     	for (i = 0; i < tabLinks.length; i++) {
         	tabLinks[i].style.fontWeight = "normal";
     	}
-		document.getElementById( style + "Link" ).style.fontWeight = "bold";
-  }
+  	}
 
 </script>
