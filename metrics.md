@@ -68,10 +68,38 @@ I use the following scales for the quality of things:
 
 		<li>20%: "We have a very limited understanding of the process or possibilities. Resilience to unexpected occurrences is called for."</li>
 		</ul>
-		<a name="christgau-art"></a>
 	</div>
 
+	<h3><i>The Inference Review</i> on common academic flaws</h3>
+	<div>
+		<i><a href="http://inference-review.com/article/the-mother-lode">Inadequacies</a></i> is a list of silly statements by scientists or journalists. It's sort of their gag page. Entries fall into at least one of:<br>
 
+		<ul>
+    		<li>Exaggeration (E)</li>
+    		<li>Irreproducible results (IR)</li>
+    		<li>Inadequate data (ID)</li>
+    		<li>Begging the question (BQ)</li>
+    		<li>Confusing correlation with causation (CCC)</li>
+    		<li>Plagiarism (P)</li>
+    		<li>Ill-conceived experiments (ICE)</li>
+    		<li>Ill-defined concepts (IDC)</li>
+    		<li>Conflicts of interest (CI)</li>
+    		<li>Scientists behaving badly (SBB)</li>
+    		<li>The numbers don’t add up (2 + 2 = 5)</li>
+    		<li>Purely ornamental mathematics (POM)</li>
+    		<li>Appalling prose (AP)</li>
+    		<li>Why did someone publish this? (WDSPT)</li>
+    		<li>Just plain dumb (JPD)</li>
+    		<li>Don’t touch our funding (DTF)</li>
+    		<li>We told you so (WTYS)</li>
+    		<li>Too close to call (TCC)</li>
+    		<li>Could be (CB)</li>
+    		<li>Stating the Obvious (SO)</li>
+    		<li>All of the Above (AA)</li>
+		</ul>
+	</div>
+
+	<a name="christgau-art"></a>
 	<h3>Christgau on the universality of artworks </h3>
 	<div>
 		One way an artwork can be important is if it is universal: is its quality obvious even to people who aren't into that sort of thing? Robert Christgau's complicated <a href="{{Christg}}">album rating scale</a> has this at its apex, but also gives "Honourable Mention" credit conditional on the listener being open to that album's particular aesthetic - brilliant:<br><br>
