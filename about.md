@@ -14,7 +14,11 @@ visible:	true
 {%	include about-links.html	%}
 
 
-I'm Gavin Leech, a data scientist at a large private org and a '[research parasite][Parasite]', or independent scholar. I write about things like poverty, animal welfare, [scientometrics][Sciento], and the quantified self. I aim for these to still be worth using [decades][LongContentIsLong] from now. Current projects [here][Proj].<br><br>
+I'm Gavin Leech, a data scientist at the giant insurer [AXA][Axa]. I write prose and software about things like poverty, animal welfare, epistemic standards, [scientometrics][Sciento]. I aim for these to still be worth using [decades][LongContentIsLong] from now. Current projects [here][Proj].
+
+I never really mastered any domain: my schooling was in two meta-domains, philosophy and machine learning. But I'm doing a proper mathematics curriculum now, which is bound to bring me closer to reality <a href="#fn:3" id="fnref:3">3</a>.
+
+I am very fond of <a href="/quotations">aphorisms</a>, the densest store of insight, and I sometimes regret my instinctual distrust of Twitter: a lot of <a href="https://twitter.com/gwern">contemporary</a> <a href="https://twitter.com/dril">aphorists</a> must be whiling away the years on there.<br><br>
 
 
 <div class="accordion">
@@ -22,7 +26,7 @@ I'm Gavin Leech, a data scientist at a large private org and a '[research parasi
 	<div>
 		<div class="accordion">
 		<h3>Giving</h3>
-			<div>I'm a member of <a href="{{GWWC}}">Giving What We Can</a>, a group of people who have pledged substantial amounts of their lifetime income to the most effective charitable causes around. I'm giving <a href="{{MyGiving}}">10% this year</a>, aiming at 50% overall (or equivalent labour). My reasoning on which causes are most important is forthcoming; my present basket of charities is forthcoming.
+			<div>I'm a member of <a href="{{GWWC}}">Giving What We Can</a>, a group of people who pledge substantial amounts of their lifetime income to the most effective charitable causes around. I'm giving <a href="{{MyGiving}}">10% this year</a>, aiming at 50% overall <a href="#fn:2" id="fnref:2">2</a>. My reasoning on which causes are most important is forthcoming; my present basket of charities is forthcoming.
 			</div>
 		</div>
 		<div class="accordion">
@@ -31,6 +35,27 @@ I'm Gavin Leech, a data scientist at a large private org and a '[research parasi
 				People like <a href="{{Colada}}">Uri Simonsohn</a>, '<a href="{{Gwern}}">Gwern Branwen</a>', <a href="{{Luu}}">Dan Luu</a>, <a href="{{Gelman}}">Andrew Gelman</a>, '<a href="{{Scott}}">Scott Alexander</a>', <a href="{{Noah}}">Noah Smith</a>, '<a href="{{Kelsey}}">Kelsey of Caring</a>', '<a href="{{Artir}}">Artir Nintil</a>', and <a href="{{Dillow}}">Chris Dillow</a> inspire me.<br>
 			</div>
 		</div>
+
+		<div class="accordion">
+			<h3>Languages</h3>
+			<div>
+				I try to be nonpartisan about computer languages, since antagonism between language communities is a really clear example of how strong identities cause perversities. At work I write Python and bash, along with a little Pig.
+				<br><br>
+
+				Languages I like for various reasons:
+
+				<ul>
+					<li>For development speed: Python</li>
+					<li>For execution speed: Go</li>
+					<li>For static or for money: C#</li>
+					<li>For stats sophistication: Stan</li>
+					<li>For nostalgia and portability: bash</li>
+					<li>For elegance: Clojure</li>
+					<li>For puzzles: uKanren</li>
+				</ul>
+			</div>
+		</div>
+
 		<div class="accordion">
 			<h3>Title</h3>
 			<div>
@@ -68,6 +93,15 @@ I'm Gavin Leech, a data scientist at a large private org and a '[research parasi
     <!-- 1 -->
     <li class="footnote" id="fn:1">
         <blockquote>Es ist gleich tödlich für den Geist, ein System zu haben, und keins zu haben. Es wird sich also wohl entschließen müssen beides zu verbinden.</blockquote>
+    </li>
+
+    <li class="footnote" id="fn:2">
+    	(or an equivalent value of my labour.)
+    </li>
+
+    <li class="footnote" id="fn:3">
+    	<blockquote>Mathematics... is concerned with a wider domain than that domain which it is the object of the natural sciences to describe and categorize. The natural sciences are concerned with the actual world. Mathematics is concerned with &#8220;all possible worlds&#8221;.</blockquote>
+		&#8211; David Malet Armstrong
     </li>
 </ol>
 </div>
