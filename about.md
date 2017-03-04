@@ -80,6 +80,7 @@ I am very fond of <a href="/quotations">aphorisms</a>, the densest store of insi
 <br><br>
 
 
+[Axa]:					https://www.axa.com/en/about-us/emerging-risks
 [Schlegel]:				http://www.zeno.org/Literatur/M/Schlegel,+Friedrich/Fragmentensammlungen/Fragmente
 [Proj]:					/projects/
 [Parasite]:				http://blogs.sciencemag.org/pipeline/archives/2016/01/22/attack-of-the-research-parasites
