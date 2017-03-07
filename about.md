@@ -14,7 +14,9 @@ visible:	true
 {%	include about-links.html	%}
 
 
-I'm Gavin Leech, a data scientist at the giant insurer [AXA][Axa]. I write prose and software about things like poverty, animal welfare, epistemic standards, [scientometrics][Sciento]. I aim for these to still be worth using [decades][LongContentIsLong] from now. Current projects [here][Proj].
+I'm Gavin Leech, a <a href="/data-science">data scientist</a> at the giant insurer [AXA][Axa]. I write prose and software about things like <a href="{{stat}}">applied philosophy of science</a>, global poverty, animal welfare, epistemic standards, [scientometrics][Sciento]. I'm trying to be more empirical in my writing. I aim for these to still be worth using [decades][LongContentIsLong] from now. Those last two sentences pull in opposite directions. 
+
+Current projects [here][Proj].
 
 I never really mastered any domain: my schooling was in two meta-domains, philosophy and machine learning. But I'm doing a proper mathematics curriculum now, which is bound to bring me closer to reality <a href="#fn:3" id="fnref:3">3</a>.
 
@@ -71,7 +73,9 @@ I am very fond of <a href="/quotations">aphorisms</a>, the densest store of insi
 		<div class="accordion">
 			<h3>What's with all these accordions?</h3>
 			<div>
-				<a href="{{Hide}}">Information hiding</a> is a basic condition of good large software; these accordions are a prose analogue. The hope is that, by tucking away wires, I can write long things without triggering anyone's TL;DR reflex. Should be some effect from the induced voluntary engagement of clicking, too.
+				<a href="{{Hide}}">Information hiding</a> is a basic condition of good large software; these accordions are a prose analogue. The hope is that, by tucking away wires, I can write long things without triggering anyone's TL;DR reflex.<br><br> 
+
+				It also sort of simulates a dialogue with the reader: I plant a question, and then they prompt for the response.
 			</div>
 		</div>
 	</div>
@@ -101,7 +105,7 @@ I am very fond of <a href="/quotations">aphorisms</a>, the densest store of insi
     </li>
 
     <li class="footnote" id="fn:3">
-    	<blockquote>Mathematics... is concerned with a wider domain than that domain which it is the object of the natural sciences to describe and categorize. The natural sciences are concerned with the actual world. Mathematics is concerned with &#8220;all possible worlds&#8221;.</blockquote>
+    	<blockquote>Mathematics... is concerned with a wider domain than that domain which it is the object of the natural sciences to describe and categorize. The natural sciences are concerned with the actual world. Mathematics is concerned with &#8220;all possible worlds&#8221;.</blockquote><br><br>
 		&#8211; David Malet Armstrong
     </li>
 </ol>
