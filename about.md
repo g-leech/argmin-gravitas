@@ -105,7 +105,7 @@ I am very fond of <a href="/quotations">aphorisms</a>, the densest store of insi
     </li>
 
     <li class="footnote" id="fn:3">
-    	<blockquote>Mathematics... is concerned with a wider domain than that domain which it is the object of the natural sciences to describe and categorize. The natural sciences are concerned with the actual world. Mathematics is concerned with &#8220;all possible worlds&#8221;.</blockquote><br><br>
+    	<blockquote>Mathematics... is concerned with a wider domain than that domain which it is the object of the natural sciences to describe and categorize. The natural sciences are concerned with the actual world. Mathematics is concerned with &#8220;all possible worlds&#8221;.</blockquote><br>
 		&#8211; David Malet Armstrong
     </li>
 </ol>
