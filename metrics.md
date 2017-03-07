@@ -72,7 +72,7 @@ I use the following scales for the quality of things:
 
 	<h3><i>The Inference Review</i> on common academic flaws</h3>
 	<div>
-		<i><a href="http://inference-review.com/article/the-mother-lode">Inadequacies</a></i> is a list of silly statements by scientists or journalists. It's sort of their gag page. Entries fall into at least one of:<br>
+		<i><a href="http://inference-review.com/article/the-mother-lode">Inadequacies</a></i> is a catalogue of silly statements by scientists or journalists. It's sort of their gag page. Entries fall into at least one of:<br><br>
 
 		<ul>
     		<li>Exaggeration (E)</li>
@@ -96,10 +96,9 @@ I use the following scales for the quality of things:
     		<li>Could be (CB)</li>
     		<li>Stating the Obvious (SO)</li>
     		<li>All of the Above (AA)</li>
-		</ul>
+		</ul><br>
 	</div>
 
-	<a name="christgau-art"></a>
 	<h3>Christgau on the universality of artworks </h3>
 	<div>
 		One way an artwork can be important is if it is universal: is its quality obvious even to people who aren't into that sort of thing? Robert Christgau's complicated <a href="{{Christg}}">album rating scale</a> has this at its apex, but also gives "Honourable Mention" credit conditional on the listener being open to that album's particular aesthetic - brilliant:<br><br>

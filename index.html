@@ -25,11 +25,11 @@ visible:  false
           </h3> 
           <span style="display:inline-block;margin-left:7%"><small>{{ post.summary }}<br>
             {% if post.simple %} 
-              <a href="{{post.baselink | prepend: site.url}}/#simple">Simple</a> / {% endif %}
+              <a href="{{post.baselink | prepend: site.url}}/#simple">Simple</a> {% endif %}
             {% if post.stylised %}
-              <a href="{{post.baselink | prepend: site.url}}/#stylised">Stylised</a> / {% endif %}
+              <a href="{{post.baselink | prepend: site.url}}/#stylised">/ Stylised</a> {% endif %}
             {% if post.technical %} 
-              <a href="{{post.baselink | prepend: site.url}}/#technical">Technical</a> 
+              <a href="{{post.baselink | prepend: site.url}}/#technical">/ Technical</a> 
             {% endif %}
             </small>
           </span><br>
