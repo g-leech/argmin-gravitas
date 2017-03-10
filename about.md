@@ -14,13 +14,13 @@ visible:	true
 {%	include about-links.html	%}
 
 
-I'm Gavin Leech, a <a href="/data-science">data scientist</a> at the giant insurer [AXA][Axa]. I write prose and software about things like <a href="{{stat}}">applied philosophy of science</a>, global poverty, animal welfare, epistemic standards, [scientometrics][Sciento]. I'm trying to be more empirical in my writing. I aim for these to still be worth using [decades][LongContentIsLong] from now. Those last two sentences pull in opposite directions. 
+I'm Gavin Leech, a [data scientist][dsfaq] at the giant insurer [AXA][Axa]. I write prose and software about things like <a href="{{stat}}">applied philosophy of science</a>, global poverty, animal welfare, epistemic standards, [scientometrics][Sciento]. I'm trying to be more empirical in my writing. I aim for these to still be worth using [decades][LongContentIsLong] from now. Those last two sentences pull in opposite directions. 
 
 Current projects [here][Proj].
 
-I never really mastered any domain: my schooling was in two meta-domains, philosophy and machine learning. But I'm doing a proper mathematics curriculum now, which is bound to bring me closer to reality <a href="#fn:3" id="fnref:3">3</a>.
+I never really mastered any domain: my schooling was in two meta-domains, philosophy and software. But I'm doing a proper mathematics curriculum now, which is bound to bring me closer to reality <a href="#fn:3" id="fnref:3">3</a>.
 
-I am very fond of <a href="/quotations">aphorisms</a>, the densest store of insight, and I sometimes regret my instinctual distrust of Twitter: a lot of <a href="https://twitter.com/gwern">contemporary</a> <a href="https://twitter.com/dril">aphorists</a> must be whiling away the years on there.<br><br>
+I'm fond of [aphorisms][quot], and I sometimes regret my instinctual distrust of Twitter: a lot of [contemporary][gwern] <a href="https://twitter.com/dril">aphorists</a> must be whiling away the years on there.<br><br>
 
 
 <div class="accordion">
@@ -86,7 +86,10 @@ I am very fond of <a href="/quotations">aphorisms</a>, the densest store of insi
 
 [Axa]:					https://www.axa.com/en/about-us/emerging-risks
 [Schlegel]:				http://www.zeno.org/Literatur/M/Schlegel,+Friedrich/Fragmentensammlungen/Fragmente
-[Proj]:					/projects/
+[Proj]:					gleech.org/projects
+[quot]:					gleech.org/quotations
+[gwern]:				https://twitter.com/gwern
+[dsfaq]:				gleech.org/data-science
 [Parasite]:				http://blogs.sciencemag.org/pipeline/archives/2016/01/22/attack-of-the-research-parasites
 [Sciento]:				https://en.wikipedia.org/wiki/Scientometrics
 [LongContentIsLong]:	http://www.gwern.net/About#long-content

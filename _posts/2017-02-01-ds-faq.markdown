@@ -8,9 +8,9 @@ author:			Gavin
 img:			/img/smolRelation.png
 
 visible:		1
-<!-- simple:			true -->
+best:			1
 
-summary:		A catalogue of intuitive explanations I wish I'd had before getting into it. Plus, reading list.
+summary:		A catalogue of intuitive explanations I wish I'd had before getting into it. Plus, reading lists.
 confidence:		80%. Distillation of a few textbooks. borrowed authority.
 categories:		machine learning, data science
 count: 			Many 
