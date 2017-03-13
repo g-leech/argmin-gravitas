@@ -20,8 +20,6 @@ Current projects [here][Proj].
 
 I never really mastered any domain: my schooling was in two meta-domains, philosophy and software. But I'm doing a proper mathematics curriculum now, which is bound to bring me closer to reality <a href="#fn:3" id="fnref:3">3</a>.
 
-I'm fond of [aphorisms][quot], and I sometimes regret my instinctual distrust of Twitter: a lot of [contemporary][gwern] <a href="https://twitter.com/dril">aphorists</a> must be whiling away the years on there.<br><br>
-
 
 <div class="accordion">
 	<h3>TMI</h3>
@@ -34,14 +32,14 @@ I'm fond of [aphorisms][quot], and I sometimes regret my instinctual distrust of
 		<div class="accordion">
 			<h3>Inspired by</h3>
 			<div>
-				People like <a href="{{Colada}}">Uri Simonsohn</a>, '<a href="{{Gwern}}">Gwern Branwen</a>', <a href="{{Luu}}">Dan Luu</a>, <a href="{{Gelman}}">Andrew Gelman</a>, '<a href="{{Scott}}">Scott Alexander</a>', <a href="{{Noah}}">Noah Smith</a>, '<a href="{{Kelsey}}">Kelsey of Caring</a>', '<a href="{{Artir}}">Artir Nintil</a>', and <a href="{{Dillow}}">Chris Dillow</a> inspire me.<br>
+				People like '<a href="{{Gwern}}">Gwern Branwen</a>', <a href="{{Luu}}">Dan Luu</a>, <a href="{{Gelman}}">Andrew Gelman</a>, '<a href="{{Scott}}">Scott Alexander</a>', '<a href="{{Kelsey}}">Kelsey of Caring</a>', <a href="http://scaruffi.com/biblio.html">Piero Scaruffi</a>, <a href="{{dave}}">David Pearce</a> inspire me.<br>
 			</div>
 		</div>
 
 		<div class="accordion">
 			<h3>Languages</h3>
 			<div>
-				I try to be nonpartisan about computer languages, since antagonism between language communities is a really clear example of how strong identities cause perversities. At work I write Python and bash, along with a little Pig.
+				I try to be nonpartisan about computer languages, since antagonism between (and within) language communities is a really clear example of how strong identities cause perversities. At work I write Python and bash, along with a little Pig .
 				<br><br>
 
 				Languages I like for various reasons:
@@ -49,11 +47,14 @@ I'm fond of [aphorisms][quot], and I sometimes regret my instinctual distrust of
 				<ul>
 					<li>For development speed: Python</li>
 					<li>For execution speed: Go</li>
-					<li>For static or for money: C#</li>
-					<li>For stats sophistication: Stan</li>
+					<li>For static goodness or for money: C#</li>
+					<li>For sophistication: Stan</li>
 					<li>For nostalgia and portability: bash</li>
-					<li>For elegance: Clojure</li>
+					<li>For elegance: Scala</li>
 					<li>For puzzles: uKanren</li>
+					<li>A C: C#	</li>
+					<li>A Java:	Scala</li>
+					<li>A Lisp: Scheme</li>
 				</ul>
 			</div>
 		</div>
@@ -64,12 +65,31 @@ I'm fond of [aphorisms][quot], and I sometimes regret my instinctual distrust of
 				The title alludes to Iain Banks' <i><a href="{{Cult}}">Culture</a></i> novels, in which pompous people are mocked with ship names that have lots of <i>gravitas</i>. To take the <i><a href="{{Arg}}">arg min</a></i> of something is to find the thing which results in its lowest value. 			
 			</div>
 		</div>
+
+		<div class="accordion">
+			<h3>Why so many quotations?</h3>
+			<div>
+				<a href="{{quot}}">They are the densest store of insight</a>. We are not naturally or culturally empiricist, so this is my concession to the apeish narrative side of mind. 
+
+				<br><br>I sometimes regret my instinctual distrust of Twitter: a lot of <a href="https://twitter.com/gwern">contemporary</a> <a href="https://twitter.com/dril">aphorists</a> must be whiling away the years on there.<br><br>
+
+			</div>
+		</div>
+
 		<div class="accordion">
 			<h3>Loss function</h3>
 			<div>Above all I hope to beat the trend spotted <a href="{{Doom}}">by Robin Hanson</a> about independent scholars:<br><br>
 				<blockquote>over time amateurs blow their lead by focusing less and relying on easier, more direct methods. They rely more on informal conversation as analysis method, they prefer personal connections over open competitions in choosing people, and they rely more on a perceived consensus among a smaller group of fellow enthusiasts. As a result, their contributions just don’t appeal as widely or as long.</blockquote>
 			</div>
 		</div>
+
+		<div class="accordion">
+			<h3>Gavins Leeches</h3>
+			<div>
+				I am not an <a href="{{driving}}">English driving instructor</a>, nor an <a href="{{eire}}">Irish bank manager</a>, nor an <a href="{{oz}}">Australian sheep farmer</a>, nor an <a href="{{sugar}}">Australian sugar worker</a>. 
+			</div>
+		</div>
+
 		<div class="accordion">
 			<h3>What's with all these accordions?</h3>
 			<div>
@@ -86,10 +106,10 @@ I'm fond of [aphorisms][quot], and I sometimes regret my instinctual distrust of
 
 [Axa]:					https://www.axa.com/en/about-us/emerging-risks
 [Schlegel]:				http://www.zeno.org/Literatur/M/Schlegel,+Friedrich/Fragmentensammlungen/Fragmente
-[Proj]:					gleech.org/projects
-[quot]:					gleech.org/quotations
+[Proj]:					http://gleech.org/projects
+
 [gwern]:				https://twitter.com/gwern
-[dsfaq]:				gleech.org/data-science
+[dsfaq]:				http://gleech.org/data-science
 [Parasite]:				http://blogs.sciencemag.org/pipeline/archives/2016/01/22/attack-of-the-research-parasites
 [Sciento]:				https://en.wikipedia.org/wiki/Scientometrics
 [LongContentIsLong]:	http://www.gwern.net/About#long-content
@@ -109,7 +129,7 @@ I'm fond of [aphorisms][quot], and I sometimes regret my instinctual distrust of
 
     <li class="footnote" id="fn:3">
     	<blockquote>Mathematics... is concerned with a wider domain than that domain which it is the object of the natural sciences to describe and categorize. The natural sciences are concerned with the actual world. Mathematics is concerned with &#8220;all possible worlds&#8221;.</blockquote><br>
-		&#8211; David Malet Armstrong
+		&#8211; David Malet Armstrong<br>
     </li>
 </ol>
 </div>
