@@ -1,0 +1,24 @@
+---
+layout: 	math_post
+title:  	"Three Tsars"
+baselink:	/tsars
+permalink:	/tsars/
+date:   	2017-05-07  <!--site.time-->
+author:		Gavin	
+img:		
+
+visible:	0
+
+summary:	
+confidence: 
+warnings: 	
+categories: 
+count: 		
+---
+
+{%	include tsars/links.md	%} 
+
+
+
+
+(War toll, domestic murders, extent of secret police, foreign espionage, theft, growth)

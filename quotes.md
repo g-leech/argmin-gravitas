@@ -47,7 +47,7 @@ I probably won't get around to systematically stating a worldview. (Such things 
 	    </li>
 	    <li class="footnote" id="fn:2">
 			<blockquote>Generally we strive to acquire one mental stance, one genre of views for all situations and events: we usually call that a 'philosophical' frame of mind. But, to enrich your knowledge, rather than making yourself uniform, you might listen to the soft voice of different situations... In so doing, we share the lives and natures of many others, by not acting like a rigid, invariable, singular atom.</blockquote>
-			<div align="center">— Nietzsche</div>
+			<div align="center">— Nietzsche</div><br>
 		</li>
 	</ol>
 </div>
