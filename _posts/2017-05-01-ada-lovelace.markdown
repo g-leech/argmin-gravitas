@@ -16,3 +16,5 @@ warnings:
 categories: 
 count: 		
 ---
+
+Ada, Countess Lovelace, is often called the first programmer. But of the five programs in her notes 
