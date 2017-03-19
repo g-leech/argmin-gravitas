@@ -1,6 +1,6 @@
 ---
 layout: 		math_post
-title:  		"Paradigms are abstractions about abstraction"
+title:  		"Paradigms: abstractions on abstraction"
 baselink:		/paradigms
 permalink:		/paradigm/
 date:   		2017-03-01  <!--site.time-->
@@ -33,7 +33,11 @@ data abstraction (FORTRAN)
 
 class abstraction (C#) 
 functional abstraction (Haskell)
+<li>For type abstraction (Python)*</li><br>
 syntactic abstraction (Scheme) 
 implementation abstraction (Prolog)
 processor abstraction (Go)
 
+
+<br><br>
+* An extremely leaky abstraction, yes, but it's a leaky example of how it could work.

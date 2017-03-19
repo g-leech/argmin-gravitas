@@ -72,7 +72,7 @@ I use the following scales for the quality of things:
 
 	<h3><i>The Inference Review</i> on common academic flaws</h3>
 	<div>
-		<i><a href="http://inference-review.com/article/the-mother-lode">Inadequacies</a></i> is a catalogue of silly statements by scientists or journalists. It's sort of their gag page. Entries fall into at least one of:<br><br>
+		<i><a href="http://inference-review.com/article/the-mother-lode">Inadequacies</a></i> is a catalogue of silly statements by scientists or journalists. It's sort of the gag page of the Inference Review, a witty and arch journal for scientific prose. Entries fall into at least one of:<br><br>
 
 		<ul>
     		<li>Exaggeration (E)</li>
@@ -97,6 +97,37 @@ I use the following scales for the quality of things:
     		<li>Stating the Obvious (SO)</li>
     		<li>All of the Above (AA)</li>
 		</ul><br>
+	</div>
+
+	<h3>Lo amp&; Mueller on the possibility of modelling</h3>
+	<div>In a <a href="http://lfe.mit.edu/wp-content/uploads/2015/08/WarningPhysicsEnvy2010.pdf">great paper</a> reflecting on the Great Recession, Lo and Mueller build a taxonomy of uncertainty (arguing that economists mistook themselves as having physicists' luck (physics is level 3, economics level 4):
+
+	<ol>
+		<li>"Complete certainty". <i>You are in a Newtonian clockwork universe with no residuals, no observer effects, utterly stable parameters. So, given perfect information, you yield perfect predictions</i>.</li>
+
+		<li>"Risk without uncertainty". You know a probability distribution for an exhaustive set of outcomes. No statistical inference needed. This is life in a hypothetical honest casino, where the rules are transparent and always followed.  This situation bears little resemblance to financial markets.</li>
+
+		<li>"Fully Reducible Uncertainty". <i>There is one probability distribution over a set of known outcomes, but parameters are unknown. Like an honest casino, but one in which the odds are not posted and must therefore be inferred from experience. In broader terms, fully reducible uncertainty describes a world in which a single model generates all outcomes, and this model is parameterized by a finite number of unknown parameters that do not change over time and which can be estimated with an arbitrary degree of precision given enough data. As sample size increases, classical inference brings this level down to level 2.</i></li>
+		<li>"Partially Reducible Uncertainty". <i>The distribution generating the data changes too frequently or is too complex to be estimated or consists in several nonperiodic regimes, so statistical inference cannot ever reduce this uncertainty to risk. Four sources:
+		<blockquote>
+				(1) stochastic or time-varying parameters that vary too frequently to be estimated accurately; <br>
+				(2) nonlinearities too complex to be captured by existing models, techniques, and datasets; <br>
+				(3) non-stationarities and non-ergodicities that render useless the Law of Large Numbers, Central Limit Theorem, and other methods of statistical inference and approximation; <br>
+				and (4) the dependence on relevant but unknown and unknowable conditioning information.
+		</blockquote>
+		At this level of uncertainty, modeling philosophies and objectives in economics and finance begin to deviate significantly from those of the physical sciences... model-building in the social sciences should be much less informed by mathematical aesthetics, and much more by pragmatism in the face of partially reducible uncertainty. </i>
+		 </li>
+		
+		<li>"Irreducible uncertainty". <i>Ignorance so complete that it cannot be reduced using data: no distribution, so no success in risk management. Such uncertainty is beyond the reach of probabilistic reasoning, statistical inference, and any meaningful quantification. This type of uncertainty is the domain of philosophers and religious leaders, who focus on not only the unknown, but the unknowable.</i>	</li>
+
+		<li>"Zen uncertainty". <i>Yeah... I dunno. Attempts to understand uncertainty are mere illusions; there is only suffering.</i></li>
+	
+	</ol>
+	<br><br>
+	(This scheme subsumes Frank Knight's distinction between risk (level 2) and uncertainty (level 5), as well as Taleb's Mediocristan (level 3) and Extremistan (level 5). It is proudly subjectivist:
+	<blockquote>
+		<i>we can observe the full range of uncertainty from Level 5 to Level 1 just by varying the information available to the observer. Uncertainty is  often in the eyes of the beholder, but we can transition from one level of uncertainty to another as we deepen our understanding of a given phenomenon</i>
+	</blockquote>.)
 	</div>
 
 	<h3>Christgau on the universality of artworks </h3>
