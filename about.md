@@ -15,9 +15,9 @@ visible:	true
 {%	include about-links.html	%}
 
 
-I'm Gavin Leech, a [data scientist][dsfaq] at the giant insurer [AXA][Axa] <a href="#fn:4" id="fnref:4">4</a>. I write prose and software about things like <a href="{{stat}}">applied philosophy of science</a>, global poverty, animal welfare, epistemic standards, [scientometrics][Sciento]. I'm trying to be more empirical in my writing. I aim for these to still be worth using [decades][LongContentIsLong] from now. (Those last two sentences pull in opposite directions.)
+I'm Gavin Leech, a [data scientist][dsfaq] at the giant insurer [AXA][Axa] <a href="#fn:4" id="fnref:4">4</a>. I write prose and software about things like <a href="{{stat}}">applied philosophy of science</a>, global poverty, animal welfare, epistemic standards, [scientometrics][Sciento]. I'm trying to be more empirical in my writing. I aim for these to still be worth using [decades][LongContentIsLong] from now. (Those last two sentences pull in opposite directions.) I identify as as little as possible; my premises, projects and preferences say much more about me than my social identity does. 
 
-I identify as as little as possible; my premises, projects and preferences say much more about me than my social identity does. I never really mastered anything: my schooling was in two meta-domains, philosophy and software. But I'm doing a proper mathematics curriculum now, which is bound to bring me closer to reality <a href="#fn:3" id="fnref:3">3</a>.
+I never really mastered anything: my schooling was in two meta-domains, philosophy and software. But I'm doing a proper mathematics curriculum now, which is bound to bring me closer to reality <a href="#fn:3" id="fnref:3">3</a>.
 
 Current projects [here][Proj].
 
@@ -38,12 +38,12 @@ You can contact me by <a href="{{ site.email }}">email</a> or anonymously [here]
 		<div class="accordion">
 			<h3>Coding</h3>
 			<div>
-				I've been employed to code for <a href="{{yearsCode}}">{{fullYearsSince}}.{{partYearSince}}</a> years <a href="#fn:5" id="fnref:5">5</a>. It is some career. I have worked on a precision methadone pump, a website generator for bed & breakfasts, .<br><br>
+				I've been employed to code for <a href="{{yearsCode}}">{{fullYearsSince}}.{{partYearSince}}</a> years <a href="#fn:5" id="fnref:5">5</a>. It is some career. So far I have worked on a precision methadone pump, a website generator for bed & breakfasts, secure off-site credit card storage, procurement streamlining for e.g. 'aerospace' companies, a metre-precise 3D model of Britain's rivers, medical risk scoring models, countermeasures against machine-learning model extraction...<br><br>
 
 			<div class="accordion">
 				<h3>Experience with</h3>
 				<div>
-				I try to be nonpartisan about computer languages, since antagonism between (and within) language communities is a really clear example of how strong identities cause perversities. At my current job I write Python, Scala, Pig, and bash / Powershell.
+				I try to be nonpartisan about computer languages, since antagonism between (and within) language communities is a really clear example of how strong identities cause perversities. 
 				<br><br>
 
 				I have written production code in
@@ -52,25 +52,27 @@ You can contact me by <a href="{{ site.email }}">email</a> or anonymously [here]
 					<li>Python : <i>e.g.</i> a full notebooked ML pipeline, from sparse raw csvs to GBM to policy implications.</li>
 					<li>C# 6.0 : <i>e.g.</i> An ironclad medicine pump controller with WPF.</li>
 					<li>nodeJS : <i>e.g.</i> a secure pharmacy record ("Rx") system. </li>
+					<li>Spark <i>e.g.</i> for detecting model extraction attacks.</li>
+					<li>Pig <i>e.g.</i>.</li>
+					<li>Oozie XML <i>e.g.</i> for chaining Shell and Pig scripts to crunch and email reports.</li>
+					<li>Pandas</li>
 					<li>bash : e.g. Debugging Hadoop with Avrotools, schema issues. </li>
 					<li>Typescript: <i>e.g.</i> A CRUD procurement app with Angular and .NET.</li>
 					<li>PHP : <i>e.g.</i> websites, a cURL handler for a credit card storage API.</li>
 					<li>Powershell: <i>e.g.</i> a web scraper (before Python was provisioned).</li>
 				</ul>
 
+				I have also written side projects in
 
+				<ul>
+					<li> Java </li>
+					<li> Jekyll </li>
+					<li> Scala : Project Euler </li>
+					<li>  </li>
+					<li> Java </li>
+				</ul>
 				</div>
 				
-				<h3>Domain-specific languages</h3>
-				<div>
-					<ul>
-						<li>Spark <i>e.g.</i> for detecting model extraction attacks.</li>
-						<li>Pig <i>e.g.</i>.</li>
-						<li>Oozie XML <i>e.g.</i> for chaining Shell and Pig scripts to crunch and email reports.</li>
-						<li>R</li>
-						<li>Pandas</li>
-					</ul>
-				</div>
 				
 				<h3>Frameworks, tools, stacks, hardware</h3>
 				<div>
@@ -181,7 +183,7 @@ You can contact me by <a href="{{ site.email }}">email</a> or anonymously [here]
     </li>
 
     <li class="footnote" id="fn:4">
-    	Opinions expressed are solely my own and do not express the opinions of my employer, etc, etc.
+    	<i>Opinions expressed are solely my own and do not express the opinions of my employer</i>, etc, etc.
     </li>
 
     <li class="footnote" id="fn:5">
