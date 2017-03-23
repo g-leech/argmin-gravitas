@@ -1,0 +1,9 @@
+<!-- Calculate years since I started. 
+	 Liquid doesn't handle floats! Hack hack: -->
+
+{%	 assign today = site.time | date: '%s'		%}
+{%	 assign start = '20-01-2014' | date: '%s'	%}
+{%	 assign secondsSince = today | minus: start		%}
+{%   assign monthsSince = secondsSince | divided_by: 3600 | divided_by: 24 | divided_by: 30 %}
+{%	 assign fullYearsSince = monthsSince | divided_by: 12		%}
+{%	 assign partYearSince = monthsSince | modulo: 12 | times: 10 | divided_by: 12	%}
