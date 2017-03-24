@@ -1,0 +1,34 @@
+---
+layout:     post
+title:      "Index of Preventable Deaths in 2016"
+baselink:   /death-2016
+permalink:  /death-2016
+date:       2017-06-25  <!--site.time-->
+author:     Gavin   
+
+img:        
+visible:	false
+published:	false
+
+summary:    An estimate, a model, and a map concerning needless deaths worldwide, last year. 
+confidence:	
+categories: 
+warnings:	
+count:		
+---
+
+
+Definition of 'preventable'.
+With current technology and law, what deaths could have been prevented for less than £1m?
+
+Amenable
+
+Clear
+	Diarrhoea
+	Malaria
+
+Grey
+	Tobacco
+
+Exclusions
+	Senescent death
