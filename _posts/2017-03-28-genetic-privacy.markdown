@@ -13,19 +13,13 @@ summary:    Why would I care if someone else has my genetic data? What is the ha
 confidence:	Low; 60%. Huge speculations in the second and third sections.
 warnings:   behavioural genetics, evolutionary psychology, determinism
 categories: scary futurism
-count: 		
+count: 		924
 ---
 {%	include genes/links.md	%} 
 
 <div align="center"><img src="/img/bio.jpg" /><br>
 <small>Gene linkage in a small part of a genome</small></div><br>
 
-
-<style>
-
-
-
-</style>
 
 I am keen to get my genome sequenced. So I can [dig around][open] in my data, snooping for clues about my genealogy and health; so I can give to the amazing people behind [SNPedia][snp]; and so I can perform an [extremely novel][diy] kind of narcissism. In fact, I'm mostly just waiting for the cost to plummet some more.
 
