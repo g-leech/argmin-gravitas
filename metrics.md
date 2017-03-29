@@ -99,7 +99,7 @@ I use the following scales for the quality of things:
 		</ul><br>
 	</div>
 
-	<h3>Lo amp&; Mueller on the possibility of modelling</h3>
+	<h3>Lo &amp; Mueller on the possibility of modelling</h3>
 	<div>In a <a href="http://lfe.mit.edu/wp-content/uploads/2015/08/WarningPhysicsEnvy2010.pdf">great paper</a> reflecting on the Great Recession, Lo and Mueller build a taxonomy of uncertainty (arguing that economists mistook themselves as having physicists' luck (physics is level 3, economics level 4):
 
 	<ol>
