@@ -84,13 +84,13 @@ Here are some things you might worry about if you did such a thing.<br><br>
 
 			<li><span class="b">Mate choice</span> <br>
 
-			Once a majority of people are sequenced, we could easily see customs about the genetic quality of partners arise. We all already do this unconsciously, using proxy variables like <a href="{{symm}}">facial symmetry</a> and <a href="{{philo}}">sheer</a> <a href="{{signalling}}">conspicuousness</a>. I would expect genetic pre-nups <br><br>
+			Once a majority of people are sequenced, we could easily see customs about the genetic quality of partners arise. We all already do this unconsciously, using proxy variables like <a href="{{symm}}">facial symmetry</a> and <a href="{{philo}}">sheer</a> <a href="{{signalling}}">conspicuousness</a>. I would expect genetic pre-nups, at least among the kind of people who have pre-nups today. <br><br>
 
 			(You might think that postwar Europeans are completely inoculated against such things; <a href="{{app}}">see</a> <a href="{{bomp}}">Iceland</a> for how quickly this has already taken off.)<br><br>
 
 			(You might think that no one <i>you</i> loved would ditch you over some bad genes. After all, there's adoption! But most people are <a href="{{hyst}}">scary</a> <i>serious</i> about children: they'll do terrible things in their name.)<br><br>
 
-			<i>Risk applies to</i>: Anyone who wants kids. 
+			<i>Risk applies to</i>: Anyone who wants kids, or wants to be with someone who does. 
 			</li>
 		</ul>
 	</div>
@@ -108,7 +108,7 @@ Here are some things you might worry about if you did such a thing.<br><br>
 
 			<li><span class="b">Tailored bioweapons.</span><br>
 
-			You might worry about being assassinated with a virus which only kills you. Dunno know why this would worry you more than <a href="{{weapon}}">very real</a> weaponised things which would kill everyone around you too, seriously what is the matter with you?<br>
+			You might worry about being assassinated with a virus which only kills you. Dunno why this would worry you more than <a href="{{weapon}}">very real</a> weaponised things which would kill everyone around you too, seriously what is the matter with you?<br>
 
 			<i>Harm to me</i>: No. I am unlikely to sufficiently piss off anyone with a spare billion dollars.<br><br> 
 			</li>
