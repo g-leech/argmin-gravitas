@@ -38,7 +38,7 @@ You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously
 <div class="accordion">
 <h3>Coding</h3>
 <div>
-	I've been employed to code for <a href="{{yearsCode}}">{{fullYearsSince}}.{{partYearSince}}</a> years <a href="#fn:5" id="fnref:5">5</a>.<br><br> 
+	I've been employed to code for <a href="{{yearsCode}}">{{fullYearsSince}}.{{partYearSince}}</a> years <a href="#fn:5" id="fnref:5">5</a>. Of which, I've been employed in machine learning modelling for {{dsYears}}.{{dsModulus}} years.<br><br> 
 
 	It is some career. So far I have worked on a precision methadone pump, a website generator for bed & breakfasts, secure off-site credit card storage, procurement streamlining for e.g. 'aerospace' companies, a metre-precise 3D model of Britain's rivers, a performance dashboard for use by secondary school teachers, medical risk scoring models, countermeasures against machine-learning model extraction...<br><br>
 

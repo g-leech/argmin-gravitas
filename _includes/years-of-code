@@ -7,3 +7,13 @@
 {%   assign monthsSince = secondsSince | divided_by: 3600 | divided_by: 24 | divided_by: 30 %}
 {%	 assign fullYearsSince = monthsSince | divided_by: 12		%}
 {%	 assign partYearSince = monthsSince | modulo: 12 | times: 10 | divided_by: 12	%}
+
+
+<!-- Calculate years since I started DS.  -->
+
+{%	 assign today = site.time | date: '%s'		%}
+{%	 assign start = '01-09-2016' | date: '%s'	%}
+{%	 assign secondsSince = today | minus: start		%}
+{%   assign monthsSince = secondsSince | divided_by: 3600 | divided_by: 24 | divided_by: 30 %}
+{%	 assign dsYears = monthsSince | divided_by: 12		%}
+{%	 assign dsModulus = monthsSince | modulo: 12 | times: 100 | divided_by: 12	%}
