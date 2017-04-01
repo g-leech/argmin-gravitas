@@ -1,6 +1,6 @@
 ---
 layout: 	page
-title: 		Quotations
+title: 		Remarks
 permalink: 	/quotations/
 visible:	true
 ---
