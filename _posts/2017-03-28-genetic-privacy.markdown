@@ -9,7 +9,7 @@ img:		/img/bio.jpg
 
 visible:    1
 
-summary:    Why would I care if someone else has my genetic data? What is the harm of your genome being in the wild?
+summary:    What's the harm of your genome being in the wild?
 confidence:	Low; 60%. Huge speculations in the second and third sections.
 warnings:   behavioural genetics, evolutionary psychology, determinism
 categories: scary futurism

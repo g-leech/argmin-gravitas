@@ -5,6 +5,11 @@ permalink:	/projects/
 visible:	true
 ---
 
+{%		assign arch = "gleech.org/archive"		%}
+{%		assign sheet = "https://docs.google.com/spreadsheets/d/1UPP_74QYHZ3wysRL9Oe7Qr8SNIyaa9A8E957S5F3NAY/pubhtml?chrome=false"		%}
+{%		assign rotgone = "https://github.com/g-leech/rotgone"		%}
+
+
 
 My current projects are:<br>
 
@@ -13,14 +18,20 @@ My current projects are:<br>
 
 {%  include js/lazyFrame.html %}
 <script>  
-    var src = "https://docs.google.com/spreadsheets/d/1UPP_74QYHZ3wysRL9Oe7Qr8SNIyaa9A8E957S5F3NAY/pubhtml?chrome=false";
+    var src = "{{sheet}}";
     definiteEvent( createIframe, [src, "listFrame"] ); 
 </script>
 
+<br><br>
 
-and some less readable things:
 
-* Reading the King James Bible in full, one chapter a day. (3 years' labour.)
-* Further stats education.
-* O'Reilly Spark certification.
-* Joining a choir.
+<div class="accordion">
+	<h3>Done</h3>
+	<div>
+	<ul>
+		<li><a href="{{arch}}">These</a>.</li>
+		<li><i><a href="{{rotgone}}">rotgone</a></i>, a little bash module for batching hyperlinks into the Internet Archive.</li>
+	</ul>
+	</div>
+</div>
+<br><br>
