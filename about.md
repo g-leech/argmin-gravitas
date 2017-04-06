@@ -30,9 +30,17 @@ You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously
 
 <div class="accordion">
 
+<h3>Arguments</h3>
+<div>
+	{%		include about/arguments.html		%}
+</div>
+</div>
+
+<div class="accordion">
 <h3>Giving</h3>
-	<div>I'm a member of <a href="{{GWWC}}">Giving What We Can</a>, a group of people who pledge substantial amounts of their lifetime income to the most effective charitable causes around. I'm giving <a href="{{MyGiving}}">10% this year</a>, aiming at 50% overall <a href="#fn:2" id="fnref:2">2</a>. My reasoning on which causes are most important is forthcoming; my present basket of charities is forthcoming.<br><br>
-	</div>
+<div>
+	I'm a member of <a href="{{GWWC}}">Giving What We Can</a>, a group of people who pledge substantial amounts of their lifetime income to the most effective charitable causes around. I'm giving <a href="{{MyGiving}}">10% this year</a>, aiming at 50% overall <a href="#fn:2" id="fnref:2">2</a>. My reasoning on which causes are most important is forthcoming; my present basket of charities is forthcoming.<br><br>
+</div>
 </div>
 
 <div class="accordion">
