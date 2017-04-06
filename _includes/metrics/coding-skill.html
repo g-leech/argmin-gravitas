@@ -1,0 +1,118 @@
+<style>
+ol{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+
+</style>
+
+
+The best, most rigorous framework for understanding how good you are in a given language is <a href="{{poss}}">Raphel Poss' one</a>. It is simultaneously more practical (containing the communication and literacy skills that most jobs substantially consist in) <i>and</i> more theoretically sound (understanding exactly what it takes to make large systems in co-operation with others). It cleverly shadows a standard scale of natural language competency, the <a href="{{europ}}">CEFR</a>. 
+
+It is hard to summarise but:
+
+<ul>
+	<li>
+	<i>Writing code.</i> 
+		<ol>
+			<li>A1. Can implement basic functions given a clear spec and interface.</li>
+			<li>A2. Can determine interface and implement basic functions given a loose spec.</li>
+			<li>B1. Can estimate efficiency by eye and metric. Check invariants. Use stubs.</li>
+			<li>B2. Interfaces to plan coding. Can design & implement entire programs given clear spec. Generalize functions.</li>
+			<li>C1. Recognize inconsistent requirements. Can break down architecture into components. Use others' DSLs or 
+			metaprogramming.</li>
+			<li>C2. Recognize intentional underspecification. Exploit under-specification for productivity. Devise new DSLs.</li>
+		</ol>
+	</li>
+
+	<li>
+	<i>Refactoring.</i> 
+		<ol>
+			<li>A1. Can adapt to small spec changes. Can change my code given detailed natural language instructions.</li>
+			<li>A2. Can determine whether a small spec change is incremental or large. Can change my code given loose instructions.</li>
+			<li>B1. Can derive a refactoring strategy given small spec changes. Can change A's code given precise instructions from A.</li>
+			<li>B2. Can predict effort needed to adapt code base to a new spec. Can follow a refactoring strategy on someone else's code. Can take responsibility for integrating A's patch onto my code.</li>
+			<li>C1. Can reverse-engineer A's code base with the original spec, and predict effort needed to adapt it.</li>
+			<li>C2. Can reverse-engineer A's code base without the original spec, and predict effort needed to adapt it.</li>
+		</ol>
+	</li>
+
+
+
+	<li>
+	<i>Embedding.</i> 
+		<ol>
+			<li>A1. Entry points and terminations. Basic I/O channels.</li>
+			<li>A2. External parameters and error logging.</li>
+			<li>B1. Delegate out functions. Streaming and buffering. Locality. </li>
+			<li>B2. 1+ APIs for bidirectional communication with other processes. Client code for simple Internet protocols. Common packaging and redistribution. Can patterns to exploit platform parallelism.</li>
+			<li>C1. Both client and server software for arbitrary protocol specs. Can quantify the overheads of different comms. Familiar with hardware architectures and can predict how sequential programs behave on hardware. Can estimate the scalability of parallel code. </li>
+			<li>C2. Familiar with most software architectures in use. With system architects, can optimize my architecture with the overall system. Familiar with most design and operational cost/benefit trade-offs.</li>
+		</ol>
+	</li>
+
+	<li>
+	<i>Reuse.</i> 
+		<ol>
+			<li>A1. Can assemble fragments by renaming until the whole becomes compatible.</li>
+			<li>A2. Can reuse a pure library given detailed API documentation.</li>
+			<li>B1. Can recognize need for architecture for reuse (e.g. an event loop). Can plan code using multiple libraries.</li>
+			<li>B2. Can recognize and extract components from a code base. Can package, document and distribute a library. Can interface stateless 
+				code between languages.</li>
+			<li>C1. Can systematically remove constraints not mandated by specification. Can understand code that uses common APIs without docs. Can interface code between languages with distinct operational semantics.</li>
+			<li>C2. Can exploit undocumented behavior of any code written in a language I understand. </li>
+		</ol>
+	</li>
+
+	<li>
+	<i>Discussion</i> 
+		<ol>
+			<li>Can explain what I intend to someone more experienced.</li>
+			<li>Can read code at my level and explain it. Can recognize simple mismatches between specification and implementation at my level.</li>
+			<li>Can explain code I write in imperative or declarative style to someone else who knows a different language, so this person can reproduce the functionality in their language.</li>
+			<li>Can explain my data structures, algorithms and architecture patterns to someone else using standard terms in my domain, without reference to my code.</li>
+			<li>Can gauge the expertise of my audience and change talk accordingly. Can recognize when an explanation is overly or insufficiently detailed.</li>
+			<li>Can discuss effortlessly about the language; familiar with idiomatic constructs. Can spontaneously write demonstrative code examples for concepts I need to share.</li>
+		</ol>
+	</li>
+
+	<li>
+	<i>Exploring</i> 
+		<ol>
+			<li>A1. Distinguish shell prompt from program input prompt. Can follow online tutorials. Can search common error messages and adapt the experience of others.</li>
+			<li>A2. Can distinguish features general to a language and features specific to a particular implementation. Can understand error messages without search.</li>
+			<li>B1. Can read the docs for language or API, to clarify arbitrary code fragments. Can understand general concepts in presentations by experts. Can track and determine who is responsible for an arbitrary code fragment in a system.</li>
+			<li>B2. Can infer the abstract operating model of an API from its interface, without docs, and write tests for my model. Can recognize when docs for a language or API is incomplete or contradictory with a reference implementation.</li>
+			<li>C1. Able to understand most expert literature applicable to the language.  Able to recognize when an innovation is applicable and adapt it for use.</li>
+			<li>C2. Can expose tacit assumptions in expert literature in my domain. Can recognize when descriptions of a programming achievement are misleading, without testing explicitly.</li>
+		</ol>
+	</li>
+
+	<li>
+	<i>Environment</i> 
+		<ol>
+			<li>A1. Can use an environment and follow common workflows step-by-step to test/run a program.</li>
+			<li>A2. Can integrate my source files in a programming environment that automates large portions of my workflow. Use version control to track my progress and rollback unsuccessful changes.</li>
+			<li>B1. Use dependency tracking to avoid unnecessary processing in my dev cycles. Use different branches in VC for different tasks.</li>
+			<li>B2. Use different workflows for different assignments, with different trade-offs between set-up overhead and maintenance overhead. Can enter the environment of someone else at my level and make contributions with minimal training.</li>
+			<li>C1. Modify my environment to my personal style, can quantify how changes impact my productivity. Can productively use the preferred programming environments of 80% of all programmers at my level.</li>
+			<li>C2. Can reliably recognize and quantify friction between programmers and their environment. Can measurably improve the productivity of my peers by helping them tailor their environment.</li>
+		</ol>
+	</li>
+
+	<li>
+	<i>Troubleshooting</i> 
+		<ol>
+			<li>A1. Can distinguish between correct and incorrect output in my programs. Familiar with etiquette for asking for help. </li>
+			<li>A2. Can distinguish between incorrect output due to incorrect input, from incorrect output due to program error. Can narrow down the location of a program error to a single function. Can isolate and fix Bohr bugs in code.</li>
+			<li>B1. Can translate human knowledge about invariants into assertions or type constraints. Can inspect run-time to check it matches invariants. Write unit tests where applicable. </li>
+			<li>B2. Can reduce an error to the simplest program that demonstrates it. Have a working strategy to fix heisenbugs in code I can understand. Write and use regression tests for code that I work with.</li>
+			<li>C1. Can devise strategies to fix mandelbugs in code I can understand. Can recognize a hardware bug in a system driven mostly by software I designed.</li>
+			<li>C2. Can attribute responsibility for most unexpected behaviors in systems I develop for. Can track and isolate hardware bugs in systems where I have access to all code.</li>
+		</ol>
+	</li>
+
+<br><br>
+
+There's an interactive version <a href="{{test}}">here</a>. Note that you can get employed (and, in millions of bad jobs, stay employed) as a programmer without reaching A1 in any language!

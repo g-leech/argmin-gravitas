@@ -1,8 +1,8 @@
 ---
 layout: 	math_post
 title:  	"Ludwig and the Machine"
-baselink:	/machine-wittgenstein
-permalink:	/machine-wittgenstein/
+baselink:	/machine-epistemology
+permalink:	/machine-epistemology/
 date:   	2017-01-07  <!--site.time-->
 author:		Gavin	
 
@@ -13,9 +13,8 @@ simple:		true
 stylised:	true
 technical:	true
 
-summary:	Recent formal results address ancient philosophical questions, sometimes driving them out as far as blessed irrelevance.
-confidence:
-warnings: 
+summary:	Recent formal results address ancient philosophical questions, sometimes driving them to irrelevance.
+confidence:	70%. I am not a computer scientist.
 categories:	philosophy of science, language, machine learning
 ---
 
@@ -30,6 +29,9 @@ categories:	philosophy of science, language, machine learning
 * The logical analysis of concepts without use of necessities and sufficiencies.
 
 Ensemble success vs Strong Occam's razor
+
+Ryle's knowing-that (GOFAI) and knowing-how (CLT, SLT)
+
 
 Here is a toy model of aesthetics with just two binary variables, 'classiness' and 'busyness' <a href="#fn:1" id="fnref:1">1</a>:<br><br>
 

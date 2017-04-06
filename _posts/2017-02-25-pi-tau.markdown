@@ -90,7 +90,7 @@ That is, you can tie in the maths feud as follows:<br><br>
 
         I'd guess that most political radicals are incapable of caring about Pi vs Tau, and that most Tauists are not political radicals. <a href="#fn:3" id="fnref:3">3</a><br><br> 
 
-        But it's still good to think about, and <i>in the tiny sample of people who care about both</i>, I predict a correlation between political radicalism and Tauism of like R^2 > 0.5.<br><br>
+        But it's still good to think about, and <i>in the tiny sample of people who care about both</i>, I predict a correlation between political radicalism and Tauism of like <i>r</i> > 0.5.<br><br>
     </div>
 </div>
 

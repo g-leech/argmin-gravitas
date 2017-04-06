@@ -14,10 +14,10 @@ I probably won't get around to systematically stating a worldview. (Such things 
 
 <div class="accordion">
 	<h3>reason</h3><div>{%		include quotes/epistemology.html	%}</div>
-	<h3>politics</h3><div>{%	include quotes/politics.html	%}</div>
 	<h3>ethics</h3><div>{%		include quotes/morals.html	%}</div>
 	<h3>code</h3><div>{%		include quotes/code.html	%}</div>
 	<h3>maths</h3><div>{%		include quotes/maths.html	%}</div>
+	<h3>politics</h3><div>{%	include quotes/politics.html	%}</div>
 	<h3>work</h3><div>{%		include quotes/work.html	%}</div>
 	<h3>humility</h3><div>{%	include quotes/humble.html	%}</div>
 	<h3>ultimately</h3><div>{%	include quotes/existence.html	%}</div>

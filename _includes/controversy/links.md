@@ -1,5 +1,4 @@
 
-
 {% 	assign Spiegel = 	"http://technicalities.netlify.com/metrics/#spiegel-quality" %}
 {% 	assign Poliohno = 	"http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu" %}
 {% 	assign Schoolsout = "http://www.protectingeducation.org/sites/default/files/documents/eua_2014_full.pdf" %}
