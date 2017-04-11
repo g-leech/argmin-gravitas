@@ -2,7 +2,8 @@
 layout: 	page
 title: 		Metrics
 permalink: 	/metrics/
-visible:	true
+
+visible:  false
 ---
 
 {%	 include metrics/links.html		%}
