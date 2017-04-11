@@ -28,32 +28,30 @@ You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously
 
 
 
-<div class="accordion">
-
-<h3>Arguments</h3>
-<div>
-	{%		include about/arguments.html		%}
+<!-- <div class="accordion">
+	<h3>Arguments</h3>
+	<div>
+		{%		include about/arguments.html		%}
+	</div>
 </div>
-</div>
-
+ -->
 <div class="accordion">
 <h3>Giving</h3>
-<div>
-	I'm a member of <a href="{{GWWC}}">Giving What We Can</a>, a group of people who pledge substantial amounts of their lifetime income to the most effective charitable causes around. I'm giving <a href="{{MyGiving}}">10% this year</a>, aiming at 50% overall <a href="#fn:2" id="fnref:2">2</a>. My reasoning on which causes are most important is forthcoming; my present basket of charities is forthcoming.<br><br>
-</div>
+	<div>
+		I'm a member of <a href="{{GWWC}}">Giving What We Can</a>, a group of people who pledge substantial amounts of their lifetime income to the most effective charitable causes around. I'm giving <a href="{{MyGiving}}">10% this year</a>, aiming at 50% overall <a href="#fn:2" id="fnref:2">2</a>. My reasoning on which causes are most important is forthcoming; my present basket of charities is forthcoming.<br><br>
+	</div>
 </div>
 
 <div class="accordion">
-<h3>Coding</h3>
-<div>
-	{%		include about/code.html		%}
-</div>
+	<h3>Coding</h3>
+	<div>
+		{%		include about/code.html		%}
+	</div>
 </div>
 
 <div class="accordion">
 <h3>Misc</h3>
 <div>
-
 	<div class="accordion">
 		<h3>Inspired by</h3>
 		<div>
@@ -74,6 +72,13 @@ You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously
 			<a href="{{quot}}">Well, they're the densest store of insight</a>. We are not empiricists by nature or by culture, so they are my concession to the apeish narrative side of mind. That quotes page is like a message digest of 10 years of me reading and learning. 
 
 			<br><br>I sometimes regret my instinctual distrust of Twitter: a lot of <a href="https://twitter.com/gwern">contemporary</a> <a href="https://twitter.com/dril">aphorists</a> must be whiling away the years on there.<br><br>
+		</div>
+	</div>
+
+	<div class="accordion">
+		<h3>Metrics</h3>
+		<div>
+			<a href="{{metrics}}">Here are scales</a> for rating all kinds of things.
 		</div>
 	</div>
 
