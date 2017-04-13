@@ -21,17 +21,16 @@ categories:	philosophy of science, language, machine learning
 <img src="/img/two-var.png" />
 
 
-* Howson on Bayes
-* Cox on induction
-* Solomonoff
-* Guaranteed induction
-* Parsimony refuted and rehabilitated
-* The logical analysis of concepts without use of necessities and sufficiencies.
-
-Ensemble success vs Strong Occam's razor
-
-Ryle's knowing-that (GOFAI) and knowing-how (CLT, SLT)
-
+<ul>
+	<li>Howson on Bayes</li>
+	<li>Cox on induction</li>
+	<li>Solomonoff's razor</li>
+	<li>Guaranteed induction</li>
+	<li>Parsimony refuted and rehabilitated</li>
+	<li>The logical analysis of concepts without use of necessities and sufficiencies.</li>
+	<li>Ensemble success vs Strong Occam's razor</li>
+	<li>Ryle's knowing-that (GOFAI) and knowing-how (CLT, SLT)</li>
+</ul>
 
 Here is a toy model of aesthetics with just two binary variables, 'classiness' and 'busyness' <a href="#fn:1" id="fnref:1">1</a>:<br><br>
 

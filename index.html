@@ -39,7 +39,9 @@ visible:  false
         </td>
         
         <td style="width:9%;border-left:1px;"> 
-          <span class="post-meta" style="text-align:right">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <div align="right">
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          </div>
         </td>
       </tr>
       {% endif  %}
