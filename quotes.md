@@ -9,7 +9,7 @@ visible:	true
 
 <div align="center">— Emil Cioran</div><br>
 
-I probably won't get around to systematically stating a worldview. (Such things are maybe bad for you anyway.) <a href="#fn:2" id="fn:2">1</a> But I like aphorisms, so here's an atomic version of it:<br><br>
+I won't get around to stating a worldview systematically. (Such things are maybe bad for you anyway.) <a href="#fn:2" id="fn:2">2</a> But I like aphorisms, so here's an atomic version of it:<br><br>
 
 
 <div class="accordion">
@@ -27,17 +27,23 @@ I probably won't get around to systematically stating a worldview. (Such things 
 	<h3>aphorists</h3>
 	<div>
 		<div class="accordion">
-			<h3>perlis</h3><div>{%		include quotes/perlis.html	%}</div>
+			<h3>nietzsche</h3><div>{%	include quotes/fritz.html	%}</div>
 			<h3>pessoa</h3><div>{%		include quotes/pessoa.html	%}</div>
+			<h3>wittgenstein</h3><div>{% include quotes/luki.html	%}</div>
 			<h3>gide</h3><div>{%		include quotes/gide.html	%}</div>
 			<h3>cioran</h3><div>{%		include quotes/cioran.html	%}</div>
-			<h3>nietzsche</h3><div>{%	include quotes/fritz.html	%}</div>
-			<h3>wittgenstein</h3><div>{% include quotes/luki.html	%}</div>
+			<h3>perlis</h3><div>{%		include quotes/perlis.html	%}</div>
 			<h3>gwern</h3><div>{%		include quotes/gwern.html	%}</div>
 			<h3>me</h3><div>{%			include quotes/I.html		%}</div><br>	
 		</div>
 	</div>
 </div>
+
+<br><br>
+
+> Someone might say I have only made a bouquet of other people's flowers here, supplying nothing of my own but the thread to bind them. <a href="#fn:3" id="fnref:3">3</a>
+
+<div align="center">— Michel de Montaigne</div>
 
 
 <div class="footnotes">
@@ -45,9 +51,14 @@ I probably won't get around to systematically stating a worldview. (Such things 
 	    <li class="footnote" id="fn:1">
 	        <blockquote>Se méfier des penseurs dont l'esprit ne fonctionne qu'à partir d'une citation</blockquote>
 	    </li>
+
 	    <li class="footnote" id="fn:2">
 			<blockquote>Generally we strive to acquire one mental stance, one genre of views for all situations and events: we usually call that a 'philosophical' frame of mind. But, to enrich your knowledge, rather than making yourself uniform, you might listen to the soft voice of different situations... In so doing, we share the lives and natures of many others, by not acting like a rigid, invariable, singular atom.</blockquote>
 			<div align="center">— Nietzsche</div><br>
+		</li>
+
+	    <li class="footnote" id="fn:3">
+			Comme quelqu'un pourrait dire de moi que j'ai seulement fait gelé des amas de fleurs érodées, n'ayant plus de mien que le fichier à la lier.
 		</li>
 	</ol>
 </div>
