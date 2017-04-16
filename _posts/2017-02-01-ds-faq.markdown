@@ -95,6 +95,10 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 As machine intelligence improves, the value of human prediction skills will decrease because machine prediction will provide a cheaper and better substitute, just as machines did for arithmetic...</blockquote>
 <div align="center">- <a href="{{agrawal}}">Agrawal et al.</a></div>
 
+<blockquote>The learning process may be regarded as a search for a form of behaviour which will satisfy the teacher.</blockquote>
+<div align="center">- Alan Turing</div>
+<br><br><br>
+
 
 <br>
 
