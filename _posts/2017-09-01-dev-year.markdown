@@ -1,0 +1,23 @@
+---
+layout:     post
+title:      "What year is your development environment from?"
+baselink:   /dev-year
+permalink:  /dev-year/
+date:       2017-02-10
+author:     Gavin   
+
+visible:	1
+published:	false
+
+technical: 	true
+
+summary:     A nonrigorous test of how modern your programming practices are. 
+confidence:  
+categories:  programming, 
+---
+
+* Language (COBOL)
+* Language version
+* Version control
+* Continuous integration
+* Analytics

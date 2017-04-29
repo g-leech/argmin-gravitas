@@ -9,6 +9,7 @@ author:			Gavin
 published:		false
 visible:		0
 
+img:			/img/al-adli.png
 summary:		An intuitive explanation of Norvig's advice to new programmers.
 confidence: 	70% on equations' truth (because vague). 80% that it's worth doing.
 categories: 	code, 
