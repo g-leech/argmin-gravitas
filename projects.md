@@ -32,7 +32,7 @@ My current projects are:<br>
 	<ul>
 		<li><a href="{{arch}}">These</a>.</li>
 		<li><i><a href="{{rotgone}}">rotgone</a></i>, a little bash module for batching hyperlinks into the Internet Archive.</li>
-		<li><i>Dataset</i>: Robin Hanson's <i>Age of Em</i> <a href={{hanson}}>at the proposition level</a>.</li>
+		<li><i>Dataset</i>: Robin Hanson's <i>Age of Em</i> <a href="{{hanson}}">at the proposition level</a>.</li>
 	</ul>
 	</div>
 </div>
