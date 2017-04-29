@@ -8,8 +8,7 @@ visible:	true
 {%		assign arch = "http://gleech.org/archive"		%}
 {%		assign sheet = "https://docs.google.com/spreadsheets/d/1UPP_74QYHZ3wysRL9Oe7Qr8SNIyaa9A8E957S5F3NAY/pubhtml?chrome=false"		%}
 {%		assign rotgone = "https://github.com/g-leech/rotgone"		%}
-{%		assign hanson = "https://docs.google.com/spreadsheets/d/11wPNvIqjDglk7cWaSlG8ZOt2HjAJTx_19iTHu8w9T8s/edit?usp=sharing
-"		%}
+{%		assign hanson = "https://docs.google.com/spreadsheets/d/11wPNvIqjDglk7cWaSlG8ZOt2HjAJTx_19iTHu8w9T8s/edit?usp=sharing"		%}
 
 
 
