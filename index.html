@@ -28,9 +28,9 @@ visible:  false
             {% if post.simple %} 
               <a href="{{post.baselink | prepend: site.url}}/#simple" target="_blank">Simple</a> {% endif %}
             {% if post.stylised %}
-              <a href="{{post.baselink | prepend: site.url}}/#stylised" target="_blank">/ Stylised</a> {% endif %}
+              / <a href="{{post.baselink | prepend: site.url}}/#stylised" target="_blank"> Stylised</a> {% endif %}
             {% if post.technical %} 
-              <a href="{{post.baselink | prepend: site.url}}/#technical" target="_blank">/ Technical</a> 
+              / <a href="{{post.baselink | prepend: site.url}}/#technical" target="_blank"> Technical</a> 
             {% endif %}
             </small>
           </span><br>
