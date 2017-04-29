@@ -90,10 +90,6 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 <blockquote>if praise is given to those who have determined the number of Platonic solids... how much better will it be to bring under mathematical laws human reasoning, the most excellent and useful thing we have?</blockquote>
 <div align="center">- Gottfried von Leibniz</div><br><br><br>
 
-<blockquote>All human activities can be described by five components: data, prediction, judgment, action, and outcomes. A visit to the doctor leads to: <b>1)</b> x-rays, blood tests, monitoring (data), <b>2)</b> diagnosis: “if we administer treatment A, then we predict outcome X, but if we administer treatment B, then we predict outcome Y” (prediction), <b>3)</b> “given your age, lifestyle, and family status, I think you might be best with treatment A...” (judgment); <b>4)</b> administering treatment A (action), and <b>5)</b> full recovery with minor side effects (outcome).<br><br>
-
-As machine intelligence improves, the value of human prediction skills will decrease because machine prediction will provide a cheaper and better substitute, just as machines did for arithmetic...</blockquote>
-<div align="center">- <a href="{{agrawal}}">Agrawal et al.</a></div>
 
 <blockquote>The learning process may be regarded as a search for a form of behaviour which will satisfy the teacher.</blockquote>
 <div align="center">- Alan Turing</div>

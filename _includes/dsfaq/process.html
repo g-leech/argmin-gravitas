@@ -1,0 +1,115 @@
+
+
+<div class="accordion">
+	<h3>Prep</h3>	
+
+	<div class="accordion">
+		<h3>1. Domain analysis</h3>	
+		<div><i>What does this vague request really mean?</i><br><br>
+			<ul>
+			<li>Metric choice - How will we judge success?</li>
+			<li>Tool choice</li>
+			<li>Abstraction from business to data</li>
+			<li>Abstraction from data to learner and models</li>
+			<li>Output type. Real-time?</li>
+			</ul>
+		</div>
+
+		<h3>2. Data collection</h3>	
+		<div>	
+			What evidence exists? What can I use?
+		</div>
+
+		<h3>3. Data cleaning</h3>	
+		<div>How to handle flawed data?<br><br>
+
+			This isn't a deep skill so much as a bag of tricks, like:<br>
+			<ul>
+				<li>The outliers dilemma</li>
+				<li>Missing data imputation</li>
+				<li>Bad data</li>
+				<li>Encoding categoricals</li>
+				<li>Identifying measurement bias</li>
+				<li>Clever anonymisation in a world where everyone can be sniffed out.</li>
+			</ul><br>
+
+			See also data wrangling and <i>munging</i>.
+		</div>
+	
+		<h3>4. Exploratory analysis</h3>	
+		<div>	What is the data like? What jumps out?<br><br>
+			<ul>
+			<li>Descriptive: location (Inspect the distribution of target, ) </li>
+			<li>spread (box plot, scatter plot, check for outliers)</li>
+			<li>association (Pairwise distribution plots; What correlates with what?)</li>
+			<li>Comparative:</li>
+			<li>Classification: plot the data with label-coloured points</li>
+			</ul>
+
+			More generally there are four ways to investigate data: <i>Descriptively</i> (what's there?); <i>Associative</i> (what goes with what?); <i>Comparative</i> (what is big compared to what?), and <i>Predictive</i> (what next? what if?)
+		</div>
+
+	</div>
+
+	<h3>Modelling</h3>
+	<div>
+		<div class="accordion">
+		
+		<h3>5. Feature engineering</h3>	
+		<div>	
+			{%	include dsfaq/feats.html	%}			
+		</div>
+
+
+		<h3>6. Model building</h3>	
+		<div>	What structure will answer the question?<br><br>
+
+		<ul>
+			<li>Parameter tuning </li>
+			<li>Ensemble construction</li>
+			<li>Model selection </li>
+			<li>Identify constraints</li><br>
+
+			<li>Training </li>
+			<li>Testing </li>
+			<li>Validation </li>
+			<li>Interpretation</li>
+
+			<li>Evaluation - How good is this model? Under conditions?</li>
+			Experiment design to make causal sense.
+		</ul>
+		</div>
+
+		<h3>7. Criticism</h3>
+		<div>
+			Go back. How many forking paths have you taken? Is your sample distribution really exactly the same as the population's? What about rare events? Do you have any right to talk about causality here? Relax all assumptions. Ablate.
+		</div>
+
+		</div>
+	</div>
+
+	<h3>Use</h3>
+	<div>
+		<div class="accordion">
+
+		<h3>8. Communication</h3>	
+		<div>	
+			What result? What predictions?	What claims?	
+		</div>
+
+		<h3>9. Deployment</h3>	
+		<div>	
+			How will this be used? Who will use it?<br><br>
+
+			Create business rules 
+		</div>
+
+		<h3>GOTO 1. Feedback</h3>	
+		<div>	
+			Use the data from the deployed model to iterate the model.
+		</div>		
+
+		</div>
+	</div>
+
+</div>
