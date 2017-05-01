@@ -20,10 +20,6 @@ count: 		2169
 
 {%	include maxwage/links.md	%} 
 
-<center>
-	<a href="{{irvingEat}}" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="358" src="{{irvingEat}}" width="555"></a><br />
-	<small>(c) <a href="http://irvingprints.com/">Jon Irving</a> (2012), 'The Things I'll Have to Do Today Just to Eat' </small><br /><br />
-</center>
 
 
 <div id="simple" class="tabContent">

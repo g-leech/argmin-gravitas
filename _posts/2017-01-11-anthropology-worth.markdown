@@ -11,7 +11,7 @@ visible:    1
 
 summary:    Another research proposal - <i>What is good about cultural anthropology?</i> Plus, reading list.
 confidence: 80% that there's a problem with the field. 60% that this is worth doing.
-warnings:    politicised epistemology, relativism
+warnings:   politicised epistemology, relativism
 categories: philosophy of science, anthropology, scepticism
 count: 798
 ---
@@ -21,6 +21,7 @@ count: 798
 <img src="/img/Olduvai.jpg" />
 
 <div align="center"><small>Olduvai Gorge (2009), by <a href="http://www.flickr.com/photos/37563893@N00/4108809278/">Noel Feans</a></small></div><br>
+
 
 
 Social science is _hard_. Most social phenomena involve [thousands][Causa] [of subtle effects][Manzi], of several [different][Proph] [ontological sorts][Reason], all acting on relevant populations up to about [a billion units][Nation] in size - and even if you were ever able to cement any results about it, and publicise them, a portion of your subjects would immediately [change in response][Reflex] - to spite you.

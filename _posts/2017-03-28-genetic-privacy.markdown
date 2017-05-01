@@ -21,11 +21,11 @@ count: 		924
 <small>Gene linkage in a small part of a genome</small></div><br>
 
 
-I am keen to get my genome sequenced. So I can [dig around][open] in my data, snooping for clues about my genealogy and health; so I can give to the amazing people behind [SNPedia][snp]; and so I can perform an [extremely novel][diy] kind of narcissism. In fact, I'm mostly just waiting for the cost to plummet some more.
+I'm keen to get my genome sequenced. This is so I can [dig around][open] in my data, snooping for [clues][snp] about genealogy, psychology, and health. It's a highly [novel][diy] kind of narcissism.
 
-One reason it isn't cheap yet is the [regulation][regs] surrounding the commercial vendors. Most of this regulation concerns data privacy, including my right to be [protected][alex] from misinterpreting information I ask and pay for. 
+I'm mostly just waiting for the cost to plummet some more. One reason it isn't cheap yet is [regulation][regs]. Most of this concerns data privacy, including my right to be [protected][alex] from misinterpreting information I ask for and pay for. 
 
-I don't necessarily understand my society's extreme caution in this manner: I've long had an ambition to put my genome up online, more or less so I can say "[I am open source][ftp]". 
+I don't necessarily understand my society's extreme caution in this manner: I harbour an ambition to put my genome up online as a joke: so I can say "[I am open source][ftp]".
 
 Here are some things you might worry about if you did such a thing.<br><br>
 
@@ -36,7 +36,7 @@ Here are some things you might worry about if you did such a thing.<br><br>
 		<ul>
 			<li><span class="b">Health insurance</span> <br>
 
-			As a European, I found it hard to believe how callous American healthcare is. They absolutely do use all kinds of data sources to limit coverage, ramp up cost, or exclude people entirely. Our current knowledge of genetics is not so powerful at predicting your phenotypical health, but many people do have obvious risk markers, and it's only going to get better/worse. <br>
+			As a European, I found it hard to believe how callous American healthcare is. They absolutely do use all kinds of data sources to limit coverage, ramp up cost, or exclude people entirely. Our current knowledge of genetics is not <i>so</i> powerful at predicting your phenotypical health, but many people have obvious risk markers, and it's only going to get better/worse. <br>
 
 			<i>Risk applies to</i>: People with known pathological alleles living in non-<a href="{{singleton}}">single-payer</a> countries.</li><br>
 
@@ -117,17 +117,17 @@ Here are some things you might worry about if you did such a thing.<br><br>
 </div>
 
 <br><br>
-(Then, of course, there's everything I haven't thought of - and everything no-one has thought of - everything which the great random-situation generator called physics hasn't yet thrown up. You should probably seek privacy based on this, more than the above.)
+(Then, of course, there's everything I haven't thought of - and everything no-one has thought of - everything which the great random-situation generator called physics hasn't yet thrown up. You should probably seek privacy based on [this][Chester], more than the above.)
 
 <br><br>
 
 [ftp]:		ftp://ftp.ncbi.nih.gov/genomes/H_sapiens
 [snp]: 		http://www.snpedia.com/index.php/SNPedia:FAQ
 [diy]:		https://en.wikipedia.org/wiki/Do-it-yourself_biology
-[open]:			https://www.open-bio.org/wiki/Main_Page
-[regs]:			https://en.wikipedia.org/wiki/23andMe#FDA
+[open]:		https://www.open-bio.org/wiki/Main_Page
+[regs]:		https://en.wikipedia.org/wiki/23andMe#FDA
 [alex]:		http://slatestarcodex.com/2013/11/26/a-letter-i-will-probably-send-to-the-fda/
 [weapon]:	https://en.wikipedia.org/wiki/List_of_U.S._biological_weapons_topics#Weaponized_biological_agents
-
+[Chester]:			https://en.wikipedia.org/wiki/G._K._Chesterton#Chesterton.27s_fence
 
 {%  include genes/foots.html %}
