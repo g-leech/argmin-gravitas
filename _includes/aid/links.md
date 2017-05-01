@@ -17,3 +17,5 @@
 {%		assign vsl = "http://www.oxera.com/Latest-Thinking/Agenda/2015/You%E2%80%99re-worth-it!-The-economics-of-life-valuation.aspx"		%}
 {%		assign britRoads = "http://webarchive.nationalarchives.gov.uk/20050301192906/http:/dft.gov.uk/stellent/groups/dft_rdsafety/documents/pdf/dft_rdsafety_pdf_033069.pdf"		%}
 {%		assign oecd = "http://www.oecd-ilibrary.org/development/data/oecd-international-development-statistics/official-and-private-flows_data-00072-en" %}
+
+{%		assign bucket = "https://argmin-gravitas.netlify.com/img/aid/fig4.jpg"	%}
