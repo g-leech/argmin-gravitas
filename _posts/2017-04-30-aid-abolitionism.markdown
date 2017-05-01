@@ -13,7 +13,7 @@ published:	true
 summary:    The macroeconomics of the hypothesis that ODA is harmful. Very relevant when I wrote it, in 2011.
 confidence: 75% confident that aid is not harmful enough to abolish.<br>&nbsp;&nbsp;(Confidence is this low because my evidence is 5 years old.)
 warnings:   poverty, inexorability, extremely tl;dr
-count: 8,821 plus notes
+count: 		8,821 (plus notes)
 ---
 
 
@@ -68,7 +68,7 @@ It has some good bits - I anticipate the <a href="{{itn}}">"Important/Neglected/
 
 		Health interventions are the only aid we can confidently say is <i>really</i> good, though other things could be. Eradicating smallpox was such an amazing thing to do that it balances out literally everything bad about aid. Not that bad aid should get away with it.<br><br>
 
-		ODA probably is still pretty bad, but people started making encouraging noises in 2005.
+		ODA probably is still pretty bad, but people started making encouraging noises in 2005. Haven't checked since 2012, soz.
 	</div>
 
 	<h3>Introductions</h3>
@@ -108,7 +108,7 @@ It has some good bits - I anticipate the <a href="{{itn}}">"Important/Neglected/
 		
 	</div>
 
-	<h3>Analysing perverse aid</h3>
+	<h3>Seeking a zero lower bound on aid impact</h3>
 	<div>
 		{%		 include aid/analysis.html		%}
 	</div>
