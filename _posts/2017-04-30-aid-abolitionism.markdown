@@ -54,7 +54,7 @@ It has some good bits - I anticipate the <a href="{{itn}}">"Important/Neglected/
 
 	<h3>tl;dr</h3>
 	<div>
-		Government-to-government aid was pretty bad for like fifty straight years, 1950 through 2005. This conclusion doesn't depend on your ideological stance <a href="#fn:0" id="fnref:0">0</a>. Lots got wasted, lots got stolen, lots was thrown at stupid ideas, lots was used for naked realpolitik, and almost no one measured what almost any of it actually ending up doing. It still did a lot of good, surprisingly.<br><br>
+		Government-to-government aid was pretty bad for like fifty straight years, 1950 through 2005. This conclusion doesn't depend on your ideological stance <a href="#fn:0" id="fnref:0">0</a>. <a href="{{bucket}}" target="_blank">Lots got wasted, lots got stolen, lots was thrown at stupid ideas, lots was used for naked realpolitik</a>, and almost no one measured what almost any of it actually ending up doing. It still did a lot of good, surprisingly.<br><br>
 
 		Various clever people have claimed aid is so bad it has to stop. (For literally hundreds of different little reasons, but the big main one is<br><br>
 
