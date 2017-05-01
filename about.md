@@ -17,11 +17,9 @@ visible:	true
 
 I'm Gavin Leech, a data scientist at the giant insurer [AXA][Axa] <a href="#fn:4" id="fnref:4">4</a>. I write prose and software about things like <a href="{{stat}}">applied philosophy of science</a>, global poverty, animal welfare, epistemic standards, scientometrics. 
 
+I identify as as little as possible; my premises, projects and preferences say more about me than my social identity. 
 
-I'm trying to be more empirical. I also aim for my writing to be useful [decades][LongContentIsLong] from now. Those last two sentences pull in opposite directions.
-
-
-I identify as as little as possible; my premises, projects and preferences say much more about me than my social identity does. I never really mastered anything: my schooling was in two meta-domains, philosophy and software. But I'm doing a proper mathematics curriculum now, which is bound to bring me closer to reality <a href="#fn:3" id="fnref:3">3</a>.
+I never really mastered anything: my schooling was in two of the meta-domains, philosophy and software. But I'm doing a proper mathematics curriculum now, which is bound to bring me closer to reality <a href="#fn:3" id="fnref:3">3</a>.
 
 
 You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously [here][Form].<br><br><br>
@@ -39,7 +37,7 @@ You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously
 <div class="accordion">
 <h3>Giving</h3>
 	<div>
-		I'm a member of <a href="{{GWWC}}">Giving What We Can</a>, a group of people who pledge substantial amounts of their lifetime income to the most effective charitable causes around. I'm giving <a href="{{MyGiving}}">10% this year</a>, aiming at 50% overall <a href="#fn:2" id="fnref:2">2</a>. My reasoning on which causes are most important is forthcoming; my present basket of charities is forthcoming.<br><br>
+		I'm a member of <a href="{{GWWC}}">Giving What We Can</a>, people who pledge substantial amounts of their lifetime income to the most effective charitable causes. I'm giving <a href="{{MyGiving}}">10% this year</a>, aiming at 50% overall <a href="#fn:2" id="fnref:2">2</a>. My reasoning on which causes are most important is forthcoming; my present basket of charities is forthcoming.<br><br>
 	</div>
 </div>
 
