@@ -1,7 +1,9 @@
-
+{%	assign partmax		= "http://en.wikipedia.org/wiki/Partmaximum"				%}
 {%	assign singerian	= "http://www.utilitarian.net/singer/by/1972----.htm"		%}
 {%	assign irvingEat	= "http://2.bp.blogspot.com/-T8bi3ac4lUg/VcYpcqP6QeI/AAAAAAAACOw/s0GbmHdKr0U/s1600/Irving_Jon_04.jpg"		%}
 {%	assign ea			= "https://whatiseffectivealtruism.com/"	%}
+{%	assign ea			= "http://lesswrong.com/lw/j8n/a_critique_of_effective_altruism/"		%}
+
 {%	assign vox			= "http://www.vox.com/2014/8/6/5964369/maximum-wage"	%}
 {%	assign givew		= "http://www.givewell.org/international/technical/criteria/cost-effectiveness"	%}
 {%	assign maxw			= "http://mainlymacro.blogspot.co.uk/2014/07/if-minimum-wages-why-not-maximum-wages.html"	%}
@@ -22,3 +24,6 @@
 {%	assign worldPounds	= "http://en.wikipedia.org/wiki/Gross_world_product#Historical_and_prehistorical_estimates"	%}
 {%	assign ord			= "http://www.bbc.co.uk/news/magazine-11950843"			%}
 {%	assign jeffGive		= "https://www.jefftk.com/donations"			%}
+{%	assign distrib 		= "http://en.wikipedia.org/wiki/Distributive_efficiency"				%}
+{%	assign hdi 			= "http://en.wikipedia.org/wiki/Human_Development_Index"				%}
+{%	assign crouch 		= "http://www.academia.edu/1557895/Replaceability_Career_Choice_and_Making_a_Difference"			%}
