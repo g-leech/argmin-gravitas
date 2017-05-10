@@ -14,7 +14,10 @@ confidence:	Low; 60%. Huge speculations in the second and third sections.
 warnings:   behavioural genetics, evolutionary psychology, determinism
 categories: scary futurism
 count: 		924
+started:    2017
 ---
+
+
 {%	include genes/links.md	%} 
 
 <div align="center"><img src="/img/bio.jpg" /><br>

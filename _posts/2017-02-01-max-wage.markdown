@@ -16,6 +16,7 @@ confidence:	90% in the numbers, 70% in the ethics.
 warnings:   scrupulosity, scrupulosity, scrupulosity
 categories: effective altruism
 count: 		2169
+started:    2013
 ---
 
 {%	include maxwage/links.md	%} 

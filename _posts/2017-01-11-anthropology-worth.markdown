@@ -14,7 +14,9 @@ confidence: 80% that there's a problem with the field. 60% that this is worth do
 warnings:   politicised epistemology, relativism
 categories: philosophy of science, anthropology, scepticism
 count: 798
+started:    2015
 ---
+
 
 {%  include anthro/links.md   %}
 
