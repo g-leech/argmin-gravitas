@@ -12,6 +12,12 @@ visible:	true
 I won't get around to stating a worldview systematically. (Such things are maybe bad for you anyway.) <a href="#fn:2" id="fn:2">2</a> But I like aphorisms, so here's an atomic version of it:<br><br>
 
 
+<style>
+
+	ul { list-style-type: none; } 
+
+</style>
+
 <div class="accordion">
 	<h3>reason</h3><div>{%		include quotes/epistemology.html	%}</div>
 	<h3>ethics</h3><div>{%		include quotes/morals.html	%}</div>
