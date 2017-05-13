@@ -1,4 +1,4 @@
-<!-- Calculate years since I started. 
+<!-- Calculate years since I started coding. 
 	 Liquid doesn't handle floats! Hack hack: -->
 
 {%	 assign today = site.time | date: '%s'		%}
@@ -9,7 +9,7 @@
 {%	 assign partYearSince = monthsSince | modulo: 12 | times: 10 | divided_by: 12	%}
 
 
-<!-- Calculate years since I started DS.  -->
+<!-- Calculate years since I started ML.  -->
 
 {%	 assign today = site.time | date: '%s'		%}
 {%	 assign start = '01-09-2016' | date: '%s'	%}
