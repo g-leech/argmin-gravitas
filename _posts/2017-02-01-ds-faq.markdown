@@ -30,6 +30,8 @@ started:    	2017
 {%	assign ML = "https://en.wikipedia.org/wiki/Machine_learning"		%}
 
 {%  include js/lazyFrame.html %}
+{%  include dsfaq/links.md %}
+
 
 
 <div style="text-align:center">

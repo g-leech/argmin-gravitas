@@ -11,7 +11,6 @@ visible:	true
 <div align="center">— Friedrich Schlegel</div><br /><br />
 
 
-{%	include about/years-of-code		%}
 {%	include about/links.html	%}
 
 
