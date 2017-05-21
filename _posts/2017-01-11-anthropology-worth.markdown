@@ -22,7 +22,7 @@ started:    2015
 
 <img src="/img/Olduvai.jpg" />
 
-<div align="center"><small>Olduvai Gorge (2009), by <a href="http://www.flickr.com/photos/37563893@N00/4108809278/">Noel Feans</a></small></div><br>
+<div align="center"><small>Olduvai Gorge (2009), by <a href="{{feans}}">Noel Feans</a></small></div><br>
 
 
 
@@ -133,7 +133,7 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
         <li>Crawl JSTOR and look for signs of quantitative reason in papers (numerals, math notation).</li>
     </ul>
 
-    My survey would probably just ask a Likert question for each variable in <a href="https://docs.google.com/spreadsheets/d/14Bw1pqa-ZcGza9P3jV7wht8o9-xEJw0A0GpdN733MqE/edit?usp=sharing">my model of early modern science</a>. For my purposes, <i>scienciness</i> is a dumb additive function of:<br><br>
+    My survey would probably just ask a Likert question for each variable in <a href="{{earlyMoSci}}">my model of early modern science</a>. For my purposes, <i>scienciness</i> is a dumb additive function of:<br><br>
 
     <ul>
         <li>Are their explanations couched only in terms of natural phenomena? </li>
