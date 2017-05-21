@@ -38,6 +38,8 @@
 [Curiosity]:        https://docs.google.com/spreadsheets/d/14Bw1pqa-ZcGza9P3jV7wht8o9-xEJw0A0GpdN733MqE/edit?usp=sharing
 
 
+
+{%	 assign feans = "http://www.flickr.com/photos/37563893@N00/4108809278/"		%}
 {%   assign JHJ = "http://monkeysuncle.stanford.edu/?p=697" %}
 {%   assign French = "http://ndpr.nd.edu/news/23732-french-theory-how-foucault-derrida-deleuze-co-transformed-the-intellectual-life-of-the-united-states/"   %}
 {%   assign Dcosta = "http://www.anthropologyinpractice.com/2010/12/anthropology-just-says-no-to-science.html"   %}
@@ -50,3 +52,5 @@
 {%  assign ReadingFrame = '\"https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false\"' %}
 {%	assign Fail = "https://www.google.co.uk/?gfe_rd=cr&ei=2J12WIaHL-Wv8wf247nQAw#q=%23AAAFail" 	%}
 {%	assign Phenom = "https://en.wikipedia.org/wiki/Phenomenological_sociology" 	%}
+
+{%	assign earlyMoSci =	"https://docs.google.com/spreadsheets/d/14Bw1pqa-ZcGza9P3jV7wht8o9-xEJw0A0GpdN733MqE/edit?usp=sharing"		%}

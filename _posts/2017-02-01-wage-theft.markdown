@@ -20,11 +20,14 @@ Summary: How might employers steal wages? How prevalent is clipping in the UK?
 &nbsp;&nbsp;&nbsp;&nbsp;**clipping**: indirect reduction of employee wages
 
 
-* More than contracted hours. (Salaried people: all overtime.
-* no travel expenses
-* off the clock waiting or working
+* More than contracted hours. (Salaried people: all overtime.)
+* no travel expenses 
+* off the clock waiting or working (arrive early, skip a meal break, stick around after punching out)
 * travel during plan hour
+doctoring a pay sheet.
+listed as independent contractors
 
 
 Salaried (middle class) people are less
+
 
