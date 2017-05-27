@@ -18,7 +18,7 @@ visible:  false
 <div class="home">
       {% for post in site.posts %}
 
-        {% assign currentYear = post.date | date: "%Y" %}
+        {% assign currentYear = post.date | date: "%b %Y" %}
         {% if currentYear != myYear %}
            {% unless forloop.first %}</table>{% endunless %}
            <h1>{{ currentYear }}</h1>
