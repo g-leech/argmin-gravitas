@@ -30,7 +30,7 @@
 
 {%	assign pluralism 	= "http://plato.stanford.edu/entries/consequentialism/#WhaGooHedVsPluCon"		%}
 {%	assign carbonTrust 	= "http://www.carbontrust.com/media/84936/ctc603-the-carbon-emissions-generated-in-all-that-we-consume.pdf"	%}
-{%	assign ideol 		= "http://80000hours.org/blog/46-how-to-be-a-high-impact-philosopher"
+{%	assign ideol 		= "http://80000hours.org/blog/46-how-to-be-a-high-impact-philosopher"		%}
 {%	assign calc			= "http://www.givingwhatwecan.org/why-give/how-rich-am-i"		%}
 {%	assign totalGdp		= "http://en.wikipedia.org/wiki/Gross_world_product#Historical_and_prehistorical_estimates"	%}
 {%	assign totalGdp2	= "http://www.economist.com/news/economic-and-financial-indicators/21586611-world-gdp"		%}
