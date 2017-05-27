@@ -11,7 +11,7 @@ visible:	0
 simple:		true
 technical:	true
 
-Summary: How might employers steal wages? How prevalent is clipping in the UK?
+Summary: How do some employers steal wages? How prevalent is this in the UK?
 
 ---
 
