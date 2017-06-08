@@ -6,9 +6,23 @@ visible:  false
 
 <!-- My DNS is masking stupidly at the moment, so it doesn't pass any URL hashes to the server. Pardon _blank -->
 
-<div class="home">
-  
-  <h1 class="page-heading">Recent Posts:</h1>
+<style type="text/css">
+
+  html, body {
+    height: 100%;
+    margin: 0;
+  }
+
+  #whole {
+    padding-top: 3%;
+    padding-bottom: 5%;
+    min-height: 100%; 
+  }
+
+</style>
+
+
+<div id="whole" class="home">
     <table class="post-list" border=1 frame=void rules=rows>
     
     {% for post in site.posts limit:4 %}
@@ -48,10 +62,11 @@ visible:  false
     {% endfor %}
 
     </table>
-
-  <br><br><a href="{{ "/archive" | prepend: site.url }}">See all posts</a>.  <br>
-  <a href="{{ "/best" | prepend: site.url }}">See best posts</a>.  <br>
-
-  {%  include rss.html  %}
-  
 </div>
+
+<a href="{{ "/archive" | prepend: site.url }}">See all posts</a>.  <br>
+<a href="{{ "/best" | prepend: site.url }}">See best posts</a>.  <br>
+
+{%  include rss.html  %}
+  
+
