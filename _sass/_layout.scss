@@ -26,6 +26,8 @@
 .site-nav {
     float: right;
     line-height: 56px;
+    padding-left: 5%;
+    @media (max-width:600px) { padding-right: 5%; } 
 
     .menu-icon {
         display: none;
