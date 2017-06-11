@@ -7,7 +7,7 @@ visible:	true
 
 > Beware of thinkers whose minds function only when fuelled by a quotation. <a href="#fn:1" id="fnref:1">1</a>
 
-<div align="center">— Emil Cioran</div><br>
+<div align="center">— Emil Cioran</div><br><br>
 
 I won't get around to systematically stating a worldview. (It's maybe bad for you, anyway.) <a href="#fn:2" id="fn:2">2</a> But I like aphorisms, so here's an atomic version of it:<br><br>
 
@@ -16,14 +16,23 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 
 
 <div class="accordion">
-	<h3>reason</h3><div>	{%	include quotes/epistemology.html	%}	</div>
-	<h3>ethics</h3><div>	{%	include quotes/morals.html	%}			</div>
+	<h3>reason</h3>
+	<div>
+		<div class="accordion">
+			<h3>epistemology</h3><div>	{%	include quotes/epistemology.html	%}	</div>
+			<h3>ethics</h3><div>		{%	include quotes/morals.html	%}			</div>
+			<h3>maths</h3><div>			{%	include quotes/maths.html	%}			</div>
+			<h3>stats</h3><div>			{%	include quotes/stats.html	%}			</div>
+			<h3>code</h3><div>			{%	include quotes/code.html	%}			</div>
+			<h3>economics</h3><div>		{%	include quotes/econ.html	%}			</div>
+			<h3>metaphilosophy</h3><div>{%	include quotes/meta.html	%}			</div>
+			<h3>humility</h3><div>		{%	include quotes/humble.html	%}			</div>
+			<h3>ultimately</h3><div>	{%	include quotes/existence.html	%}		</div>
+		</div>
+	</div>
+
 	<h3>happiness</h3><div>	{%	include quotes/happ.html	%}			</div>
-	<h3>humility</h3><div>	{%	include quotes/humble.html	%}			</div>
-	<h3>ultimately</h3><div>{%	include quotes/existence.html	%}		</div>
 	<h3>work</h3><div>		{%	include quotes/work.html	%}			</div>
-	<h3>code</h3><div>		{%	include quotes/code.html	%}			</div>
-	<h3>maths</h3><div>		{%	include quotes/maths.html	%}			</div>
 	<h3>briefs</h3><div>	{%	include quotes/tersely.html	%}			</div>
 	<h3>politics</h3><div>	{%	include quotes/politics.html	%}		</div>
 	<h3>art</h3><div>		{%	include quotes/art.html		%}			</div>
@@ -52,9 +61,9 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 
 
 
-> If you embrace the opinions of [others] by your own reasoning, they will no longer be theirs but yours... And you'll boldly forget from who you heard them, but will still know them to be appropriate. Truth and reason are held in common by all [who understand something], and no more belong to those that uttered them first than to him that repeated them later.
+> If you embrace the opinions of [others] through your own reasoning, they will no longer be theirs, but also yours... Truths are held in common by all, and no more belong to those that uttered them first than to him that repeats them later.
 
-> It is no more 'according to Plato', it is according to me, since he and I both understand it. Bees plunder flowers, but they do so after honey, which is all theirs afterward; it is no longer thyme or marjoram: thus with the borrowed parts of others, you transform them and mingle them, to make a work which is entirely yours, namely your judgment. <a href="#fn:4" id="fnref:4">4</a>
+> It is no more 'according to Plato'; it is according to me, since he and I both understand it. Bees plunder flowers, but they do so after honey, which is afterwards all theirs; it is no longer thyme or marjoram. So too with borrowed parts of others: you transform them, mingle them, and make a work which is entirely yours, namely, your judgment. <a href="#fn:4" id="fnref:4">4</a>
 
 <div align="center">— Montaigne</div><br>
 
