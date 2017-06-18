@@ -33,7 +33,7 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 
 	<h3>happiness</h3><div>	{%	include quotes/happ.html	%}			</div>
 	<h3>work</h3><div>		{%	include quotes/work.html	%}			</div>
-	<h3>briefs</h3><div>	{%	include quotes/tersely.html	%}			</div>
+	<!-- <h3>briefs</h3><div>	{%	include quotes/tersely.html	%}			</div> -->
 	<h3>politics</h3><div>	{%	include quotes/politics.html	%}		</div>
 	<h3>art</h3><div>		{%	include quotes/art.html		%}			</div>
 	<h3>deaths</h3><div>	{%	include quotes/deaths.html	%}			</div>

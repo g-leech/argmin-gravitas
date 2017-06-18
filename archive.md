@@ -18,12 +18,14 @@ visible:  false
 <div class="home">
       {% for post in site.posts %}
 
-        {% assign currentYear = post.date | date: "%b %Y" %}
-        {% if currentYear != myYear %}
+        {% assign currentMonth = post.date | date: "%b %Y" %}
+        {% if currentMonth != myMonth %}
            {% unless forloop.first %}</table>{% endunless %}
-           <h1>{{ currentYear }}</h1>
+           <br>
+
+           <h1>{{ currentMonth }}</h1>
             <table class="post-list">
-           {% assign myYear = currentYear %}
+           {% assign myMonth = currentMonth %}
         {% endif %}
         
         <tr class="spaced">
@@ -31,9 +33,9 @@ visible:  false
           <td> <small>{{ post.summary }}</small> </td>
           <td><ul>
             <small>
-            {% if post.simple %} <li><a href="{{post.url}}">Simple</a></li> {% endif %}
-            {% if post.stylised %} <li><a href="{{post.url}}">Stylised</a></li> {% endif %}
-            {% if post.technical %} <li><a href="{{post.url}}">Technical</a></li> {% endif %}
+              {% if post.simple %} <li><a href="{{post.url}}">Simple</a></li> {% endif %}
+              {% if post.stylised %} <li><a href="{{post.url}}">Stylised</a></li> {% endif %}
+              {% if post.technical %} <li><a href="{{post.url}}">Technical</a></li> {% endif %}
             </small>
           </ul></td>
         </tr>
