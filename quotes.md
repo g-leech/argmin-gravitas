@@ -55,13 +55,9 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 
 <br><br>
 
-> Someone might say I have only made a bouquet of other people's flowers here, supplying nothing of my own but the thread to bind them. <a href="#fn:3" id="fnref:3">3</a>
+> Someone might say I have only made a bouquet of other people's flowers here, supplying nothing of my own but the thread to bind them... <a href="#fn:3" id="fnref:3">3</a>
 
-<div align="center">— Michel de Montaigne, but</div><br>
-
-
-
-> If you embrace the opinions of [others] through your own reasoning, they will no longer be theirs, but also yours... Truths are held in common by all, and no more belong to those that uttered them first than to him that repeats them later.
+> If you embrace the opinions of [others] through reasoning, they will no longer be theirs, they will be yours... You find nothing if you seek nothing... Truths are held in common by all, and no more belong to those that uttered them first than to him that repeats them later.
 
 > It is no more 'according to Plato'; it is according to me, since he and I both understand it. Bees plunder flowers, but they do so after honey, which is afterwards all theirs; it is no longer thyme or marjoram. So too with borrowed parts of others: you transform them, mingle them, and make a work which is entirely yours, namely, your judgment. <a href="#fn:4" id="fnref:4">4</a>
 
@@ -84,7 +80,11 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 		</li>
 
 	    <li class="footnote" id="fn:4">
-			Car s'il embrasse les opinions de Xénophon et de Platon par son propre discours, ce ne seront plus les leurs, ce seront les siennes. Qui suit un autre, il ne suit rien. Il ne trouve rien, voire il ne cherche rien. Non sumus sub rege ; sibi quisque se vindicet. Qu'il sache qu'il sait, au moins. Il faut qu'il emboive leurs humeurs, non qu'il apprenne leurs préceptes.<br><br>
+			Car s'il embrasse les opinions de Xénophon et de Platon par son propre discours, ce ne seront plus les leurs, ce seront les siennes. Qui suit un autre, il ne suit rien. Il ne trouve rien, voire il ne cherche rien.<br><br>
+
+			Non sumus sub rege; sibi quisque se vindicet.<br><br> 
+
+			Qu'il sache qu'il sait, au moins. Il faut qu'il emboive leurs humeurs, non qu'il apprenne leurs préceptes.<br><br>
 
 			Et qu'il oublie hardiment, s'il veut, d'où il les tient, mais qu'il se les sache approprier. La vérité et la raison sont communes à un chacun et ne sont non plus à qui les a dites premièrement, qu'à qui les dit après. Ce n'est non plus selon Platon que selon moi, puisque lui et moi l'entendons et voyons de même. Les abeilles pillottent deçà delà les fleurs, mais elles en font après le miel, qui est tout leur ; ce n'est plus thym ni marjolaine : ainsi les pièces empruntées d'autrui, il les transformera et confondra, pour en faire un ouvrage tout sien, à savoir son jugement.<br><br>
 		</li>
