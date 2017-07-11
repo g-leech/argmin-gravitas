@@ -35,14 +35,22 @@ started:    	2017
 
 
 <div style="text-align:center">
+
 	<img src="/img/relation.png" style="height:60%;width:60%;"/><br>
 	<small>(c) Larry Leemis (2008) <a href="#fn:7" id="fnref:7">7</a></small>
-</div><br><br>
+
+</div><br><br><br>
+
+> Data Scientist: Person who is worse at statistics than any statistician & worse at software engineering than any software engineer.
+
+<center>~ Will Cukierski</center><br><br>
+
 
 Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fresh programmer from an actual engineer. <a href="#fn:2" id="fnref:2">2</a> The following is also very long, but aims to enlighten, not to chastise.<br><br><br>
 
 
 <div class="accordion">
+
 	<h3>What is data science?</h3>
 	<div>
 		{%	include dsfaq/prozess.html	%}
@@ -90,6 +98,7 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 </div>
 
 <br><br><br>
+
 <blockquote>if praise is given to those who have determined the number of Platonic solids... how much better will it be to bring under mathematical laws human reasoning, the most excellent and useful thing we have?</blockquote>
 <div align="center">- Gottfried von Leibniz</div><br><br><br>
 
