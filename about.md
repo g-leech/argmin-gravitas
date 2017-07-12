@@ -14,9 +14,7 @@ visible:	true
 {%	include about/links.html	%}
 
 
-I'm Gavin Leech, a data scientist at the giant insurer [AXA][Axa] <a href="#fn:4" id="fnref:4">4</a>. I write prose and software about things like <a href="{{stat}}">applied philosophy of science</a>, global poverty, animal welfare, epistemic standards, scientometrics. 
-
-I identify as as little as possible; my premises, projects and preferences say more about me than my social identity does. My schooling was in two of the meta-domains, philosophy and software. But I'm following a full mathematics curriculum now, which is bound to bring me closer to reality <a href="#fn:3" id="fnref:3">3</a>.
+I'm Gavin Leech, a data scientist at the giant insurer [AXA][Axa] <a href="#fn:4" id="fnref:4">4</a>. I write prose and software about things like <a href="{{stat}}">applied philosophy of science</a>, global poverty, animal welfare, epistemic standards, scientometrics. <br><br>
 
 You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously [here][Form].<br><br><br>
 
