@@ -18,9 +18,8 @@ count:
 ---
 
 
-
-"a device that can be instructed to carry out an arbitrary set of arithmetic or logical operations, automatically."
-
+> "a device that can be instructed to carry out an arbitrary set of arithmetic or logical operations, automatically."
+<center>- Wikipedia "computer"</center>
 
 
 The ENIAC claimed the title by default, because so much of their work was destroyed during bombings or in official secrets.
@@ -34,4 +33,5 @@ first electronic programmable computer built in the US
 
 
 
+{%	include comput/tree.js		%}
 
