@@ -1,0 +1,16 @@
+Device,Year conceived,Year completed,Computes with,General-purpose / Turing-complete,Programmable,Stored-program,Automatic,Arithmetic,Values,Numerals,Memory,Country
+Difference engine,1786,1855,Mechanical,N,N,N,,Fixed-point,Digital,10,,UK
+Analytical Engine,1834,Design,Mechanical,Y,Y,,,Fixed-point,Digital,10,,UK
+South-pointing chariot,,,Mechnical,N,,,,,Analogue,,,China
+Torpedo Data Computer,,,,,,,,,,,,US
+Colossus,,1943,Electromechanical,Y,Y,N,,,Digital,2,,UK
+Bombe,,,,,,,,,,,,UK
+ENIAC,,,,,,,,,Digital,10,,US
+Z1,,,Mechanical,N,Y,N,,Floating-point,Analogue,2,,Germany
+Z2,,,Electromechanical,,,,,,,,,Germany
+Z3,,,Electromechanical,Y,,,,,,,,Germany
+Antikythera mechanism,-100,-100,Mechnical,N,N,N,,,Analogue,,,
+Pascaline,1642,,Mechnical,N,N,N,,,,,,
+Stepped Reckoner,1672,,Mechnical,N,N,N,,,,,,
+Harvard Mark I,,,,,,,,,,,,
+Atanasoff–Berry Computer ,,1942,Electronic,N,N,,,,,,,
