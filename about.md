@@ -5,20 +5,10 @@ permalink:	/about/
 visible:	true
 ---
 
-
-> It is equally fatal to the spirit to have a system and to not have a system. <br>One will likely have to combine the two. <a href="#fn:1" id="fnref:1">1</a>
-
-<div align="center">— Friedrich Schlegel</div><br /><br />
-
-
 {%	include about/links.html	%}
 
 
-I'm Gavin Leech, a data scientist at the giant insurer [AXA][Axa] <a href="#fn:4" id="fnref:4">4</a>. I write prose and software about things like <a href="{{stat}}">applied philosophy of science</a>, global poverty, animal welfare, epistemic standards, scientometrics. <br><br>
-
-You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously [here][Form].<br><br><br>
-
-
+I'm Gavin Leech, a data scientist at the giant insurer [AXA][Axa] <a href="#fn:4" id="fnref:4">4</a>. I write prose and software about things like poverty, animal welfare, epistemic standards, and the <a href="{{stat}}">applied philosophy of science</a>. <br><br>
 
 
 <!-- <div class="accordion">
@@ -28,11 +18,24 @@ You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously
 	</div>
 </div>
  -->
+
 <div class="accordion">
+
+<h3>Epigram</h3>
+<div>
+	<blockquote>It is equally fatal to the spirit to have a system and to not have a system. <br>One will likely have to combine the two. <a href="#fn:1" id="fnref:1">1</a></blockquote>
+	<div align="center">— Friedrich Schlegel</div><br /><br />
+</div>
+
+<h3>Contact</h3>
+<div>
+	You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously [here][Form].<br><br><br>
+</div>
+
 <h3>Giving</h3>
-	<div>
-		I'm a member of <a href="{{GWWC}}">Giving What We Can</a>, people who pledge substantial amounts of their lifetime income to the most effective charitable causes. I'm giving <a href="{{MyGiving}}">10% this year</a>, aiming at 50% overall <a href="#fn:2" id="fnref:2">2</a>. My reasoning on which causes are most important is forthcoming; my present basket of charities is forthcoming.<br><br>
-	</div>
+<div>
+	I'm a member of <a href="{{GWWC}}">Giving What We Can</a>, people who pledge substantial amounts of their lifetime income to the most effective charitable causes. I'm giving <a href="{{MyGiving}}">10% this year</a>, aiming at 50% overall <a href="#fn:2" id="fnref:2">2</a>. My reasoning on which causes are most important is forthcoming; my present basket of charities is forthcoming.<br><br>
+</div>
 </div>
 
 <div class="accordion">
