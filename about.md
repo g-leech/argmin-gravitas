@@ -8,7 +8,10 @@ visible:	true
 {%	include about/links.html	%}
 
 
-I'm Gavin Leech, a data scientist at the giant insurer [AXA][Axa] <a href="#fn:4" id="fnref:4">4</a>. I write prose and software about things like poverty, animal welfare, epistemic standards, and the <a href="{{stat}}">applied philosophy of science</a>. <br><br>
+
+<div style="padding:20px">
+	I'm Gavin Leech, a data scientist at the giant insurer <a href="{{Axa}}">AXA</a> <a href="#fn:4" id="fnref:4">4</a>. I write prose and software about things like poverty, animal welfare, epistemic standards, and the <a href="{{stat}}">applied philosophy of science</a>. <br><br>
+</div>
 
 
 <!-- <div class="accordion">
@@ -21,15 +24,10 @@ I'm Gavin Leech, a data scientist at the giant insurer [AXA][Axa] <a href="#fn:4
 
 <div class="accordion">
 
-<h3>Epigram</h3>
-<div>
-	<blockquote>It is equally fatal to the spirit to have a system and to not have a system. <br>One will likely have to combine the two. <a href="#fn:1" id="fnref:1">1</a></blockquote>
-	<div align="center">— Friedrich Schlegel</div><br /><br />
-</div>
 
 <h3>Contact</h3>
 <div>
-	You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously [here][Form].<br><br><br>
+	You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously <a href="{{Form}}">here</a>.<br>
 </div>
 
 <h3>Giving</h3>
@@ -50,16 +48,6 @@ I'm Gavin Leech, a data scientist at the giant insurer [AXA][Axa] <a href="#fn:4
 <br><br>
 
 
-[Axa]:					https://www.axa.com/en/about-us/emerging-risks
-[Schlegel]:				http://www.zeno.org/Literatur/M/Schlegel,+Friedrich/Fragmentensammlungen/Fragmente
-[Proj]:					http://gleech.org/projects
-[Form]:					https://docs.google.com/forms/d/e/1FAIpQLSf64CLW-qs7ypI3U7ArHWuLn_s7VvoV7Spn7FvbM_B29NG9Dg/viewform?usp=sf_link
-
-[gwern]:				https://twitter.com/gwern
-[dsfaq]:				http://gleech.org/data-science
-[Parasite]:				http://blogs.sciencemag.org/pipeline/archives/2016/01/22/attack-of-the-research-parasites
-[Sciento]:				https://en.wikipedia.org/wiki/Scientometrics
-[LongContentIsLong]:	http://www.gwern.net/About#long-content
 
 
 {%	include about/foots.html	%}
