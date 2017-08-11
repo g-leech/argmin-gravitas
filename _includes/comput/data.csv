@@ -1,16 +1,35 @@
-Device,Year conceived,Year completed,Computes with,General-purpose / Turing-complete,Programmable,Stored-program,Automatic,Arithmetic,Values,Numerals,Memory,Country
-Difference engine,1786,1855,Mechanical,N,N,N,,Fixed-point,Digital,10,,UK
-Analytical Engine,1834,Design,Mechanical,Y,Y,,,Fixed-point,Digital,10,,UK
-South-pointing chariot,,,Mechnical,N,,,,,Analogue,,,China
-Torpedo Data Computer,,,,,,,,,,,,US
-Colossus,,1943,Electromechanical,Y,Y,N,,,Digital,2,,UK
-Bombe,,,,,,,,,,,,UK
-ENIAC,,,,,,,,,Digital,10,,US
-Z1,,,Mechanical,N,Y,N,,Floating-point,Analogue,2,,Germany
-Z2,,,Electromechanical,,,,,,,,,Germany
-Z3,,,Electromechanical,Y,,,,,,,,Germany
-Antikythera mechanism,-100,-100,Mechnical,N,N,N,,,Analogue,,,
-Pascaline,1642,,Mechnical,N,N,N,,,,,,
-Stepped Reckoner,1672,,Mechnical,N,N,N,,,,,,
-Harvard Mark I,,,,,,,,,,,,
-Atanasoff–Berry Computer ,,1942,Electronic,N,N,,,,,,,
+Device,Principal,Year conceived,First operational,Made of,Turing-complete,Programmable,Stored-program,Arithmetic,Value representation,Base,Transmission,Program control,Country,Notes
+Difference engine,Charles Babbage,1786,1855,Mechanical,N,N,N,Fixed-point,Digital,10,,,UK,
+Analytical Engine,Charles Babbage,1834,Design,Mechanical,Y,Y,N,Fixed-point,Digital,10,,,UK,
+South-pointing chariot,Ma Jun,230,230,Mechnical,N,N,N,-,Analogue,-,Serial,Fixed job,China,The most dubious entry on my list: translated wheel motion into orientation
+Colossus Mk1,Tommy Flowers,01/03/43,01/01/44,Electromechanical,Y,Y,N,,Digital,2,,Fixed job,UK,first large electronic valve programmable logic calculator. Colossus was kept secret until the 1970s
+Bombe,Alan Turing and Gordon Welchman,1939,18/03/40,Electromechanical,N,N,N,,,,,Fixed job,UK,
+ENIAC,Wallace Eckert,01/07/43,01/11/45,Electronic,Y,Y,N,,Digital,10,,Plug wires,US,"first electronic, general purpose, large scale, digital computer"
+Z1,Konrad Zuse,1936,01/01/38,Mechanical,N,Y,N,Floating-point,Analogue,2,Serial,Punched tape,Germany,film not paper
+Z2,Konrad Zuse,1938,01/01/39,Electromechanical,,,N,Floating-point,,2,Serial,Punched tape,Germany,
+Z3,Konrad Zuse,1939,07/12/41,Electromechanical,Y,Y,N,Floating-point,,2,Serial,Punched tape,Germany,"first machine to execute a program successfully. universal if provided with
+indirect addressing"
+Z4,Konrad Zuse,1942,,Electromechanical,,,N,,,,,Punched tape,,
+Antikythera mechanism,?,-100,-100,Mechnical,N,N,N,-,Analogue,-,Serial,Fixed job,Greece,"""Didn't work very well"""
+Pascaline,Blaise Pascal,1642,1645,Mechnical,N,N,N,Fixed-point,Digital,10,Serial,Fixed job,France,Came in several bases for accounting currency
+Stepped Reckoner,Gottfried Leibniz,1672,1694,Mechnical,N,N,N,Fixed-point,Digital,10,Serial,Fixed job,Germany,Flawed carry mechanism
+"Harvard Mark I (IBM
+Automatic Sequence Control Calculator)",Howard Aiken,1939,30/04/1944,Electromechanical,,Y,N,,,10,,,,a convincing demonstration of the possibility of large-scale error-free complex calculations in a programmed sequence
+Atanasoff-Berry Computer ,John Atanasoff,1937,01/05/42,Electronic,N,N,N,,,2,,Fixed job,,first linear
+DEHOMAG tabulator,,1937,,Electromechanical,,,N,,,,,,,algebra computer
+Baby (University of Manchester Small-Scale Experimental Machine),F.C. Williams and Tom Kilburn,1946,21/06/48,Electronic,,,Y,,,,Serial,Stored program,UK,"first time a program stored in an electronic computing machine successfully ran and produced the expected answer. no earlier computer, not Zuse's Z3 in Germany, nor Colossus at Bletchley Park in Britain, nor ENIAC in the United States, was in that way ""like"" a modern computer."
+Mischgerät,Helmut Hoelzer,1935,1940,,N,Y,N,,Analogue,-,,,Germany,world's first on-board computer.
+Hoelzer Peenemünde device,Helmut Hoelzer,,1941,Electronic,Y,,N,,Analogue,-,,,Germany,first fully-electronic analogue computer
+Manchester Mark I (Intermediate),,,01/04/49,Electronic,,,Y,,,,,,UK,first full-sized
+EDSAC,M. V. Wilkes,01/04/46,01/05/49,Electronic,,,Y,,,,Serial,Stored program,UK,second stored-program computer
+ACE-PM,Alan Turing,01/01/45,10/05/50,Electronic,Y,Y,N,Fixed-point,Digital,2,Serial,Stored program,UK,
+Parametron Computer 1,Hidetosi Takahasi,1957,1958,,,,N,,,,,,Japan,majority logic
+EDVAC,Eckert and von Neumann,01/06/45,,,,,,,,,Serial,,,
+Schickard's calculating clock,Wilhelm Schickard,1621,1623,Mechnical,N,N,N,Fixed-point,Digital,?,Serial,Fixed job,Germany,First calculator?
+Reinmechanikers Rechenmaschine,Phillip Matthaeus Hahn,1770,1774,Mechanical,N,N,N,Fixed-point,Digital,10,Serial,Fixed job,Germany,First calculator to do all four arithmetic ops
+Bell Labs Model 1,George Stibitz,01/06/39,01/06/40,,,,,,,,Serial,TTY,,
+Heath Robinson,,,,,,,,,,,,,,
+IAS computer,von Neumann,,,,,,,,,10,Parallel,Punched tape,US,world’s first parallel modern computer
+IBM SSEC,,01/06/45,01/12/47,,,,,,,,,,,
+Setun ,Sergei Sobolev and Nikolai Brusentsov,1957,1959,Electronic,Y,Y,Y,?,Digital,3,Serial,?,Russia,Russian ternary computer
+The moving temple of Bacchus,Heron of Alexandria,,,,,,,,Analogue,-,,,,
