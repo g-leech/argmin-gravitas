@@ -31,15 +31,15 @@
 {% endif %}
 
 
+<div style="padding:20px; padding-bottom: 40px; text-align: center;">
+	<form method="POST" action="{{site.comments_integration_url}}" >
+	  	<input name="options[redirect]" type="hidden" value="gleech.org">
+		<!-- e.g. "2016-01-02-this-is-a-post" -->
+	  	<input name="options[slug]" type="hidden" value="{{ page.slug }}">
+		<input name="fields[name]" type="text" placeholder="your name">
+		<input name="fields[email]" type="email" placeholder="at@at.com"><br>
+		<textarea name="fields[message]"></textarea><br>
 
-<form method="POST" action="{{site.comments_integration_url}}" style="padding:20px; padding-bottom: 40px">
-  	<input name="options[redirect]" type="hidden" value="gleech.org">
-	<!-- e.g. "2016-01-02-this-is-a-post" -->
-  	<input name="options[slug]" type="hidden" value="{{ page.slug }}">
-	<input name="fields[name]" type="text" placeholder="your name">
-	<input name="fields[email]" type="email" placeholder="at@at.com"><br>
-	<textarea name="fields[message]"></textarea><br>
-
-	<legend><em>Comments appear after moderation.</em></legend>
-	<button type="submit">Post</button>
-</form>
+		<em>Comments appear after moderation btw.</em> 	<button type="submit">Post</button>
+	</form>
+</div>

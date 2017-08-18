@@ -5,7 +5,7 @@ email: g@gleech.org
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://gleech.org # the base hostname & protocol for your site
 github_username:  g-leech
-comments_integration_url: https://api.staticman.net/v2/entry/g-leech/argmin-gravitas/master
+comments_integration_url: https://api.staticman.net/v2/entry/g-leech/argmin-gravitas/master/comments/
 
 
 # Build settings
