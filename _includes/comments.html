@@ -1,18 +1,18 @@
-
-
-
-
 <!-- Partly based on https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/comments.html -->
 
-{% if site.data.comments[page.slug] %}
+{% 	assign slug = page.title | slugify %}
+
+
+{% if site.data.comments[slug] %}
+
 
 <p>
 <hr>
 <p>
 
   <h3>
-    {% if site.data.comments[page.slug].size > 1 %}
-      {{ site.data.comments[page.slug] | size }}
+    {% if site.data.comments[slug].size > 1 %}
+      {{ site.data.comments[slug] | size }}
     {% endif %}
     Comments:
   </h3>
@@ -20,7 +20,7 @@
   <p>
   <hr>
 
-  {% assign comments = site.data.comments[page.slug] | sort %}
+  {% assign comments = site.data.comments[slug] | sort %}
 
   {% for comment in comments %}
     <br>
@@ -42,7 +42,7 @@
 	<form method="POST" action="{{site.comments_integration_url}}" >
 	  	<input name="options[redirect]" type="hidden" value="gleech.org">
 		<!-- e.g. "2016-01-02-this-is-a-post" -->
-	  	<input name="options[slug]" type="hidden" value="{{ page.slug }}">
+	  	<input name="options[slug]" type="hidden" value="{{ slug }}">
 		<input name="fields[name]" type="text" placeholder="your name">
 		<input name="fields[email]" type="email" placeholder="at@at.com"><br>
 		<textarea name="fields[message]" style="width:75%;"></textarea><br>
