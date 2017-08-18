@@ -1,12 +1,14 @@
 
 
-<p>
-<hr>
-<p>
+
 
 <!-- Partly based on https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/comments.html -->
 
 {% if site.data.comments[page.slug] %}
+
+<p>
+<hr>
+<p>
 
   <h3>
     {% if site.data.comments[page.slug].size > 1 %}
@@ -30,15 +32,20 @@
   <p>
 {% endif %}
 
+<p>
+<hr>
+<p>
 
-<div style="padding:20px; padding-bottom: 40px; text-align: center;">
+<big>Post a comment</big>
+
+<div style="padding:20px; padding-bottom: 60px; text-align: center;">
 	<form method="POST" action="{{site.comments_integration_url}}" >
 	  	<input name="options[redirect]" type="hidden" value="gleech.org">
 		<!-- e.g. "2016-01-02-this-is-a-post" -->
 	  	<input name="options[slug]" type="hidden" value="{{ page.slug }}">
 		<input name="fields[name]" type="text" placeholder="your name">
 		<input name="fields[email]" type="email" placeholder="at@at.com"><br>
-		<textarea name="fields[message]"></textarea><br>
+		<textarea name="fields[message]" style="width:75%;"></textarea><br>
 
 		<em>Comments appear after moderation btw.</em> 	<button type="submit">Post</button>
 	</form>

@@ -29,3 +29,5 @@ count: 900
 	{%	include controversy/controversy-technical.html	%}
 </div>
 
+
+{%  include comments.html %}
