@@ -1,0 +1,45 @@
+
+
+<p>
+<hr>
+<p>
+
+<!-- Partly based on https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/comments.html -->
+
+{% if site.data.comments[page.slug] %}
+
+  <h3>
+    {% if site.data.comments[page.slug].size > 1 %}
+      {{ site.data.comments[page.slug] | size }}
+    {% endif %}
+    Comments:
+  </h3>
+
+  <p>
+  <hr>
+
+  {% assign comments = site.data.comments[page.slug] | sort %}
+
+  {% for comment in comments %}
+    <br>
+    <legend><strong>{{ comment[1].name }}</strong><legend>
+    <em>{{ comment[1].date | date: "%d %B %Y" }}</em>
+    <p>{{ comment[1].message | markdownify }}
+    <hr>
+  {% endfor %}
+  <p>
+{% endif %}
+
+
+<br>
+<form method="POST" action="{{site.comments_integration_url}}">
+  	<input name="options[redirect]" type="hidden" value="gleech.org">
+	<!-- e.g. "2016-01-02-this-is-a-post" -->
+  	<input name="options[slug]" type="hidden" value="{{ page.slug }}">
+	<label><input name="fields[name]" type="text">Name</label>
+	<label><input name="fields[email]" type="email">Email</label>
+	<label><textarea name="fields[message]"></textarea>Message</label><br>
+
+	<legend><em>Comments appear after moderation.</em></legend>
+	<button type="submit">Post</button>
+</form>
