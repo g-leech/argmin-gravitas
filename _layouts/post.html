@@ -34,6 +34,10 @@ layout: default
     {{ content }}
   </article>
 
+
+  {%  include comments.html %}
+
+
   <div class="PageNavigation">
     {% if page.previous.url %}
       <a class="prev" href="{{page.previous.baselink | prepend: site.url }}">&laquo; {{page.previous.title}}</a>
