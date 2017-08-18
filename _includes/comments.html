@@ -3,50 +3,42 @@
 {% 	assign slug = page.title | slugify %}
 
 
+<div class="accordion">
+<h3>Comments</h3>
+<div>
+
+
 {% if site.data.comments[slug] %}
-
-
-<p>
-<hr>
-<p>
-
-  <h3>
-    {% if site.data.comments[slug].size > 1 %}
-      {{ site.data.comments[slug] | size }}
-    {% endif %}
-    Comments:
-  </h3>
-
-  <p>
-  <hr>
 
   {% assign comments = site.data.comments[slug] | sort %}
 
   {% for comment in comments %}
     <br>
-    <legend><strong>{{ comment[1].name }}</strong><legend>
-    <em>{{ comment[1].date | date: "%d %B %Y" }}</em>
-    <p>{{ comment[1].message | markdownify }}
+    <b>{{ comment[1].name }}</b> commented on <em>{{ comment[1].date | date: "%d %B %Y" }}</em> :
+    <p><blockquote>{{ comment[1].message | markdownify }}</blockquote>
     <hr>
   {% endfor %}
   <p>
 {% endif %}
 
-<p>
-<hr>
-<p>
 
-<big>Post a comment</big>
 
 <div style="padding:20px; padding-bottom: 60px; text-align: center;">
+
+<big>Post a comment</big><br><br>
+
 	<form method="POST" action="{{site.comments_integration_url}}" >
-	  	<input name="options[redirect]" type="hidden" value="gleech.org">
+	  	<input name="options[redirect]" type="hidden" value="http://gleech.org">
 		<!-- e.g. "2016-01-02-this-is-a-post" -->
 	  	<input name="options[slug]" type="hidden" value="{{ slug }}">
 		<input name="fields[name]" type="text" placeholder="your name">
-		<input name="fields[email]" type="email" placeholder="at@at.com"><br>
-		<textarea name="fields[message]" style="width:75%;"></textarea><br>
+		<input name="fields[email]" type="email" placeholder="at@at.com"><br><br>
+		<textarea name="fields[message]" placeholder="
 
-		<em>Comments appear after moderation btw.</em> 	<button type="submit">Post</button>
+		Comments appear after moderation btw." style="height:130px;width:70%;"></textarea><br>
+
+		<button type="submit">Post</button>
 	</form>
+</div>
+
 </div>
