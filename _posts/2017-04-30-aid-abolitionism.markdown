@@ -124,6 +124,8 @@ It has some good bits - I anticipate the <a href="{{itn}}">"Important/Neglected/
 </div>
 
 
+{%  	include comments.html 		%}
+
 
 {%		include aid/foots.html		%}
 

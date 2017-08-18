@@ -133,4 +133,9 @@ Here are some things you might worry about if you did such a thing.<br><br>
 [weapon]:	https://en.wikipedia.org/wiki/List_of_U.S._biological_weapons_topics#Weaponized_biological_agents
 [Chester]:			https://en.wikipedia.org/wiki/G._K._Chesterton#Chesterton.27s_fence
 
+
+{%  include comments.html %}
+
 {%  include genes/foots.html %}
+
+

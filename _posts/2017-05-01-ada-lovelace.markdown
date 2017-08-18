@@ -25,3 +25,7 @@ This post conducts a static analysis on Analytical Engine pseudocode, to see if 
 
 
 (Implement in rotor assembly? Same accumulator, same operation sequence.)
+
+
+
+{%  include comments.html %}

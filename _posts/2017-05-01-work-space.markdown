@@ -18,3 +18,7 @@ count:
 ---
 
 What fraction of jobs are bad jobs? What fraction of candidates are bad candidates?
+
+
+
+{%  include comments.html %}

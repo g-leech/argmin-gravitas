@@ -17,3 +17,7 @@ categories:		stats, machine learning
 
 
 The deep way to study stats is to start off learning a model or a distribution or an estimator and see how they dwindle under a more general method, when you relax its assumptions one by one.
+
+
+
+{%  include comments.html %}

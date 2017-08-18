@@ -20,3 +20,7 @@ categories: kaggle, machine learning, homebrew science
 What I like in languages. 
 - Low syntactic noise (Python and Scala over Javascript and Java. But then there's bash)
 - Hybridity (Scala over Haskell, PySpark over Pig. )
+
+
+
+{%  include comments.html %}

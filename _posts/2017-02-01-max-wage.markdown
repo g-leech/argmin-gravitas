@@ -32,3 +32,6 @@ started:    2013
 </div>
 
 <br><br>
+
+
+{%  include comments.html %}

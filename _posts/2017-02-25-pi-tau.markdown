@@ -156,3 +156,6 @@ In a world with <i>no actually pressing problems</i> (like malaria, adversarial 
 </ol>
 </div>
 
+
+{%  include comments.html %}
+

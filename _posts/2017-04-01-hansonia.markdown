@@ -29,3 +29,7 @@ count: 798
 6. Probabilism
 
 It's worth reading even if you don't care a single jot about the future, since he touches on a sizeable portion of all good sttled social science.
+
+
+
+{%  include comments.html %}

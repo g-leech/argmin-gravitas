@@ -402,3 +402,7 @@ A zombie is physically identical to a human being but does not possess phenomena
 Inconceivable: We cannot fully conceive of a zombie.
 Conceivable but not metaphysically possible: One can arrive at a coherent conception of zombies, but objects that match this conception cannot possibly exist, not even in worlds with different laws of nature than ours.
 Metaphysically possible: The existence of zombies is possible.
+
+
+
+{%  include comments.html %}
