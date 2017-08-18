@@ -32,3 +32,7 @@ How much should we actually rate their theoretical? The Romans were better engin
 The economic collapse and the religious attack on intellect.
 
 So what I'm saying is that if the two biggest events in European history - the fall of Rome and monopoly/totalitarian Christianity - hadn't happened, THEN...
+
+
+
+{%  include comments.html %}

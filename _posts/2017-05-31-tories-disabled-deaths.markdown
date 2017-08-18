@@ -70,6 +70,7 @@ People [struggled with the DWP][struggle] to get these figures published. This i
 [struggle]: https://ico.org.uk/media/action-weve-taken/decision-notices/2015/1424160/fs_50557638.pdf 
 
 
+{%  include comments.html %}
 
 
 {%  include killer-tories/foots.html %}

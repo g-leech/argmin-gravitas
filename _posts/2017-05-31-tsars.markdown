@@ -18,9 +18,13 @@ categories:
 count: 		
 ---
 
-	<!-- include tsars/links.md	%}  -->
+<!-- include tsars/links.md	%}  -->
 
 
 
 
 (War toll, domestic murders, extent of secret police, foreign espionage, theft, growth)
+
+
+
+{%  include comments.html %}
