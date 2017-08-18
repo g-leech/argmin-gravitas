@@ -1,0 +1,219 @@
+<p>
+
+<style>
+  .top {
+    display: block;
+  }
+
+  #container
+  {
+    height: 650px;
+    margin: 0 auto;
+    text-align: left;
+  }
+
+  #container form
+  {
+    margin: 0 auto;
+  }
+
+  .roww
+  {
+    float: left;
+    width: 342px;
+  }
+
+</style>
+
+
+<div id="container">
+  <form action="">
+
+     <fieldset style="padding:40px">
+         <center><big><i>Specify what you mean by computer, and I'll tell you the first computer.</i></big></center>
+         <center><div id="computer"></div></center>
+      </fieldset>
+
+     <fieldset class="roww">
+          <label class="top">What are its processor signals made of?<br></label>
+          <input type = "radio"
+                 name = "signal"
+                 value = "nonelectro" />
+          <label>entirely nonelectrical parts<br></label>
+          <input type = "radio"
+                 name = "signal"
+                 value = "electromech" />
+          <label>electromechanical parts<br></label>
+          <input type = "radio"
+                 name = "signal"
+                 value = "electro"
+                 checked = "checked"/>
+          <label>fully electronic<br> </label>
+        </fieldset>
+
+     <fieldset class="roww">
+          <label class="top">Is it programmable? </label>
+          <input type = "radio"
+                 name = "program"
+                 value = "True" 
+                 checked = "checked" />
+          <label>Yes</label>
+          <input type = "radio"
+                 name = "program"
+                 value = "False" />
+          <label>No</label>
+        </fieldset>
+
+    <fieldset class="roww">
+          <label class="top">Can it approximate all Turing machines?</label>
+          <input type = "radio"
+                 name = "turing"
+                 value = "True" 
+                 checked = "checked" />
+          <label>Yes</label>
+          <input type = "radio"
+                 name = "turing"
+                 value = "False" />
+          <label>No</label>
+       </fieldset>
+
+    <fieldset class="roww">
+          <label class="top">Does it store programs as data?</label>
+          <input type = "radio"
+                 name = "stored"
+                 value = "True" 
+                 checked = "checked" />
+          <label>Yes</label>
+          <input type = "radio"
+                 name = "stored"
+                 value = "False" />
+          <label>No</label>
+
+        </fieldset>
+
+    <fieldset class="roww">
+          <label class="top">How does it represent numbers?</label>
+          <input type = "radio"
+                 name = "digit"
+                 value = "Digital" 
+                 checked = "checked" />
+          <label>Digital (with integers)</label><br>
+          <input type = "radio"
+                 name = "digit"
+                 value = "Analogue" />
+          <label>Analogue (with physical states)</label>
+        </fieldset>
+
+    <fieldset class="roww">
+          <label class="top">What real data type does it use?</label>
+          <input type = "radio"
+                 name = "points"
+                 value = "fix" />
+          <label>Fixed-point</label>
+          <input type = "radio"
+                 name = "points"
+                 value = "float" />
+          <label>Floating-point</label>
+
+        </fieldset>
+
+      <fieldset class="roww">
+          <label class="top">What base are its numbers?</label>
+          <input type = "radio"
+                 name = "bases"
+                 value = "2" />
+          <label>2 - Binary</label>
+          <input type = "radio"
+                 name = "bases"
+                 value = "3" />
+          <label>3 - Ternary</label>
+           <input type = "radio"
+                 name = "bases"
+                 value = "10" />
+          <label>10 - Decimal</label>
+
+        </fieldset>
+
+    <fieldset class="roww">
+          <label class="top">How many values are transmitted at once?</label>
+          <input type = "radio"
+                 name = "circ"
+                 value = "Serial" />
+          <label>Serial (one)</label><br>
+          <input type = "radio"
+                 name = "circ"
+                 value = "Parallel" />
+          <label>Parallel (several)</label>
+       </fieldset>
+
+      
+    <fieldset class="roww">
+          <label class="top">Is it made of transistors?</label>
+          <input type = "radio"
+                 name = "trans"
+                 value = "transFull" />
+          <label>Yes fully</label>
+          <input type = "radio"
+                 name = "trans"
+                 value = "transPart" />
+          <label>Yes partially</label>
+          <input type = "radio"
+                 name = "trans"
+                 value = "transNo" />
+          <label>No</label>
+       </fieldset>
+
+
+    <fieldset class="roww">
+          <label class="top">Does it have virtual memory addressing?</label>
+          <input type = "radio"
+                 name = "virt"
+                 value = "True" />
+          <label>Yes</label>
+          <input type = "radio"
+                 name = "virt"
+                 value = "False" />
+          <label>No</label>
+       </fieldset>
+     
+    <fieldset class="roww">
+        <label class="top">What kind of instruction set does it use?</label>
+        <input type = "radio"
+               name = "instruct"
+               value = "Hard" />
+        <label>Hard-wired gates</label>
+        <input type = "radio"
+               name = "instruct"
+               value = "CISC" />
+        <label>CISC</label>
+        <input type = "radio"
+               name = "instruct"
+               value = "RISC" />
+        <label>RISC</label>
+     </fieldset>
+
+
+    <fieldset class="roww">
+        <label class="top">Did it have a GUI as the primary interface?</label>
+        <input type = "radio"
+               name = "gui"
+               value = "True" />
+        <label>Yes</label>
+        <input type = "radio"
+               name = "gui"
+               value = "True" />
+        <label>No</label>
+     </fieldset>
+
+  </form>
+</div>
+
+
+<p style="padding-bottom: 30px"></p>
+
+
+<!-- <script src="computers/__javascript__/computers.min.js"></script> -->
+
+
+</p>
+
