@@ -8,7 +8,7 @@ visible:  false
 
 
 <div class="home">
-	  <h1 class="page-heading">Particularly good posts:</h1>
+	  <h1 class="page-heading">Particularly good posts:</h1><br>
     <table>
       {% for post in site.posts %}
       	
