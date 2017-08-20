@@ -57,9 +57,7 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 
 > Someone might say I have only made a bouquet of other people's flowers here, supplying nothing of my own but the thread to bind them... <a href="#fn:3" id="fnref:3">3</a>
 
-> If you embrace the opinions of [others] through reasoning, they will no longer be theirs, they will be yours... You find nothing if you seek nothing... Truths are held in common by all, and no more belong to those that uttered them first than to him that repeats them later.
-
-> It is no more 'according to Plato'; it is according to me, since he and I both understand it. Bees plunder flowers, but they do so after honey, which is afterwards all theirs; it is no longer thyme or marjoram. So too with borrowed parts of others: you transform them, mingle them, and make a work which is entirely yours, namely, your judgment. <a href="#fn:4" id="fnref:4">4</a>
+> But if you embrace the opinions of [others] through reasoning, they will no longer be theirs, they will be yours... Truths are held in common by all, and no more belong to those that uttered them first than to him that repeats them later. It is no more 'according to Plato'; it is according to me, since he and I both understand it. Bees plunder flowers, but they do so after honey, which is afterwards all theirs; it is no longer thyme or marjoram. So too with borrowed parts of others: you transform them, mingle them, and make a work entirely yours - namely, your judgment. <a href="#fn:4" id="fnref:4">4</a>
 
 <div align="center">— Montaigne</div><br>
 
