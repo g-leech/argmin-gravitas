@@ -13,6 +13,12 @@ visible:  false
     padding-bottom: 1em;
   }
 
+
+  h1.spaced 
+  {
+    padding-top: 15px;
+  }
+
 </style>
 
 <div class="home">
@@ -21,16 +27,21 @@ visible:  false
         {% assign currentMonth = post.date | date: "%b %Y" %}
         {% if currentMonth != myMonth %}
            {% unless forloop.first %}</table>{% endunless %}
-           <br>
+           
+           <br><hr>
 
-           <h1>{{ currentMonth }}</h1>
+           <h1 class="spaced">{{ currentMonth }}</h1>
             <table class="post-list">
            {% assign myMonth = currentMonth %}
         {% endif %}
         
         <tr class="spaced">
-          <td style="width:60%;"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">>> {{ post.title }}</a></td>
+          <td style="width:60%;"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}"
+            >>> {{ post.title }}</a>
+          </td>
+
           <td> <small>{{ post.summary }}</small> </td>
+
           <td><ul>
             <small>
               {% if post.simple %} <li><a href="{{post.url}}">Simple</a></li> {% endif %}
@@ -39,8 +50,9 @@ visible:  false
             </small>
           </ul></td>
         </tr>
-        
+
         {% if forloop.last %}</table>{% endif %}
+        
       
       {% endfor %}
       
