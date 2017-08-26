@@ -100,6 +100,12 @@ a {
         color: $text-color;
         text-decoration: underline;
     }
+
+
+    &:active {
+        color:white;
+    }
+
 }
 
 
@@ -177,7 +183,6 @@ pre {
 }
 
 
-
 /**
  * Clearfix
  */
@@ -189,7 +194,6 @@ pre {
         clear: both;
     }
 }
-
 
 
 /**
@@ -210,8 +214,6 @@ pre {
 }
 
 
-
-
 .b {
     font-weight: bold;
-}
+}   

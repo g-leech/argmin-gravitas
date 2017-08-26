@@ -14,7 +14,7 @@ comments:
   branch: "master"
 
   # Text to use as the commit message or pull request title. Accepts placeholders.
-  commitMessage: "Someone loves you! possibly"
+  commitMessage: "Someone loves you!: {options.slug}"
 
   # (*) REQUIRED
   #

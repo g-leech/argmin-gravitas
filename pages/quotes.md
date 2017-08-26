@@ -5,11 +5,14 @@ permalink: 	/quotations/
 visible:	true
 ---
 
-> Beware of thinkers whose minds function only when fuelled by a quotation. <a href="#fn:1" id="fnref:1">1</a>
+<div align="center" style="padding-top: 30px">
+	<blockquote>Beware of thinkers whose minds function only when fuelled by a quotation. <a href="#fn:1" id="fnref:1">1</a></blockquote>
+	— Emil Cioran
+</div><br><br>
 
-<div align="center">— Emil Cioran</div><br><br>
+I won't get around to systematically stating a worldview. (It's maybe bad for you, anyway.) But I like aphorisms, so here's a molecular version of a worldview:
 
-I won't get around to systematically stating a worldview. (It's maybe bad for you, anyway.) <a href="#fn:2" id="fn:2">2</a> But I like aphorisms, so here's an atomic version of it:<br><br>
+<br>
 
 
 <style>		ul { list-style-type: none; } 	</style>
@@ -68,10 +71,10 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 	        <blockquote>Se méfier des penseurs dont l'esprit ne fonctionne qu'à partir d'une citation</blockquote>
 	    </li>
 
-	    <li class="footnote" id="fn:2">
+	 <!--    <li class="footnote" id="fn:2">
 			<blockquote>Generally we strive to acquire one mental stance, one genre of views for all situations and events: we usually call that a 'philosophical' frame of mind. But, to enrich your knowledge, rather than making yourself uniform, you might listen to the soft voice of different situations... In so doing, we share the lives and natures of many others, by not acting like a rigid, invariable, singular atom.</blockquote>
 			<div align="center">— Nietzsche</div><br>
-		</li>
+		</li> -->
 
 	    <li class="footnote" id="fn:3">
 			Comme quelqu'un pourrait dire de moi que j'ai seulement fait gelé des amas de fleurs érodées, n'ayant plus de mien que le fichier à la lier.
