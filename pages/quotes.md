@@ -8,11 +8,11 @@ visible:	true
 <div align="center" style="padding-top: 30px">
 	<blockquote>Beware of thinkers whose minds function only when fuelled by a quotation. <a href="#fn:1" id="fnref:1">1</a></blockquote>
 	— Emil Cioran
-</div><br><br>
+</div><br><br><br>
 
 I won't get around to systematically stating a worldview. (It's maybe bad for you, anyway.) But I like aphorisms, so here's a molecular version of a worldview:
 
-<br>
+<br><br>
 
 
 <style>		ul { list-style-type: none; } 	</style>
@@ -56,7 +56,7 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 	</div>
 </div>
 
-<br><br>
+<br><br><br>
 
 > Someone might say I have only made a bouquet of other people's flowers here, supplying nothing of my own but the thread to bind them... <a href="#fn:3" id="fnref:3">3</a>
 
