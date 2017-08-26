@@ -1,0 +1,57 @@
+<div class="accordion">
+
+	<h3>Just give me a straight answer.</h3>
+	<div>
+		No. Here are some big candidates:<br><br>
+		
+		<ol>
+			<li>The <a href="{{Antikythera}}">Antikythera mechanism</a> is the first known computer, probably built around 100 BCE. It was just a 'calculator'.</li><br>
+
+			<li>Honourable mention to Charles Babbage and his unbuilt <a href="{{enjinn}}">Analytical Engine</a>: if he had had about 10 times more money, he might well have built the first general-purpose digital machine around 1850.</li><br>
+
+			<li>The <a href="{{Z3}}">Z3</a> (operational on 7th December 1941) was the first general-purpose digital machine to execute a program successfully. (Its inventor, Konrad Zuse, also rediscovered Shannon's <a href="{{shannon}}">great breakthrough</a> and much else besides.)</li><br>
+
+			<li>The <a href="{{colossus}}">Colossus Mark I</a> (operational on 8th December 1943) was the first fully-electronic programmable digital computer. It was just a '5KHz logic calculator'.</li><br>
+
+			<li>The <a href="{{ENIAC}}">ENIAC</a> (operational by November 1945) was the first fully-electronic general-purpose digital computer. <a href="#fn:1" id="fnref:1">1</a> </li><br>
+
+			<li>The <a href="{{Baby}}">Manchester Baby</a> (operational by June 1948) was the first fully-electronic, general-purpose digital computer to successfully execute a 'stored program', a set of instructions loaded into its own memory as data.</li>
+		</ol>
+	</div>
+
+	<h3>Definitions</h3>
+	<div>
+
+		{%	include comput/defs.html		%}
+
+	</div>
+
+
+	<h3>Other questions</h3>
+	<div>
+		<p style="font-weight:bold">How many first computers are there?</p>
+
+		My crude model (which has eight boolean variables and three ternary variables), implies that there are up to 2304 (<code>2^8 * 3^3</code>) first computers out there. I have only bothered to identify <a href="{{myData}}">41</a> of them. Who's pedantic now?<br><br><br>
+
+
+		<p style="font-weight:bold">What about newer first computers?</p>
+
+		I am not even counting developments after 1970. You could also add "synchronous/asynchronous", "uni/multiprocessing", classical/quantum", <a href="{{Flynn}}">Flynn's four streams</a>, a fourth value for the physical medium: "optical" computing... <br><br><br>
+
+
+		<p style="font-weight:bold">Are shit computers still computers?</p>
+
+		The Antikythera mechanism didn't work very well, because of a false astronomical theory and the crude engineering tolerances of the time. It probably systematically predicted planets to be a full 40 degrees off the real course. Nor could Leibniz's calculator carry through. <br><br>
+
+	</div>
+
+
+	<h3>Data</h3>
+	<div>
+		<a href="{{myData}}">Here</a>.<br><br> 
+
+		A lot of the specs are taken from the remarkable conference covered by Rojas' <i><a href="{{Rojas}}">The First Computers</a></i>. <a href="{{jaundice}}">John Morrice</a> wrote a Python decision tree which inspired my solution.
+	</div>
+
+
+</div>
