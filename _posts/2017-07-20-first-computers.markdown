@@ -1,21 +1,20 @@
 ---
 layout:     post
 title:      "Disambiguating the first computer"
-baselink:   /computers
-permalink:  /computers
+baselink:   /first-computers
+permalink:  /first-computers
 date:       2017-08-15  <!--site.time-->
 author:     Gavin
 
 img:        /img/smolBoo.jpg
-published:	false
+published:	true
 visible: 	1
 best:		1
-stylised:	true
 
-summary:    App for defining "computer" and so selecting between candidate first computers.
+summary:    App for defining "computer" and selecting between candidate first computers.
 confidence:	95%
 categories: computing, history
-warnings:	unfair posterity.
+warnings:	unfair posterity, .
 count:		
 ---
 
@@ -25,80 +24,32 @@ count:
 
 <center>
 	<img src="/img/boo.png" width="60%" height="60%" style="padding-bottom:80px;padding-top:20px">
-	
 </center>
 
 
 > Let me emphasize that there is no such thing as "first" in any activity associated with human invention. If you add enough adjectives to a description you can always claim your own favorite. For example the ENIAC is often claimed to be the "first electronic, general purpose, large scale, digital computer" and you certainly have to add all those adjectives before you have a correct statement... 
 
-<center style="padding-bottom:80px">- Michael Williams</center>
+<center style="padding-bottom:80px">– Michael Williams</center>
 
 
+People think they know what they mean when they say "computer" - it's the thing with a screen and a mouse that gives you cat photos. In that narrow sense, the <a href="{{SDS}}">SDS 940</a> (1968) that ran <a href="{{NLS}}">Engelbart's On-Line System</a> was 'the first computer'.
 
+But this is obviously no good: it disqualifies a hundred years of prior digital computers. Luckily, a clue is in the name: computers are devices for doing computations. However, <a href="{{Digit}}">all of reality</a> can be <a href="{{Aaronson}}">usefully considered as computation</a>. So a computer can't be just "a system which transforms physical information", because everything does that. 
+
+<b>Data</b>: A randomly selected atom is not a computer. A gun is not a computer. An abacus is not a computer, nor is its descendent the slide rule. A <a href="{{Monkey}}">primate doing addition</a> is not the <a href="{{wet}}">kind</a> <a href="{{homin}}">of computer</a> we are talking about. So we want the first <i>inorganic device that can do complex information-processing automatically, on demand</i>. <a href="#fn:2" id="fnref:2">2</a> 
+
+(Electricity isn't key, though. The fact that we use <a href="{{volt}}">voltages</a> to conduct most of our computations is a matter of <a href="{{flow}}">convenience</a>, not <a href="{{xkcd}}">essence</a>.)
+
+When asking "what was the first computer?", people usually mean the first <i>modern</i> computer, where "modern" is some collection of the following properties: fully-electronic, Turing-complete, stored-program, binary-digital, parallelised, integrated-circuit-transistorised, virtual-memory, instruction-set-architecture, presenting a <a href="{{metaphor}}">desktop metaphor</a> to the user.
+
+So. Specify what you mean by computer, and I'll tell you the first computer:
+<br><br><br>
 
 {%	include comput/app.html		%}
 
+{%	include comput/details.html 	%}
 
-
-<div class="accordion">
-
-	<h3>Just give me a straight answer.</h3>
-	<div>
-		No. Here are some big candidates:<br><br>
-		
-		<ol>
-			<li>The <a href="{{Antikythera}}">Antikythera mechanism</a> is the first known computer, probably built around 100 BCE. It was just a 'calculator'.</li><br>
-
-			<li>Honourable mention to Charles Babbage and his unbuilt <a href="{{enjinn}}">Analytical Engine</a>: if he had had about 10 times more money, he might well have built the first general-purpose digital machine around 1850.</li><br>
-
-			<li>The <a href="{{Z3}}">Z3</a> (operational on 7th December 1941) was the first general-purpose digital machine to execute a program successfully. (Its inventor, Konrad Zuse, also rediscovered Shannon's <a href="{{shannon}}">great breakthrough</a> and much else besides.)</li><br>
-
-			<li>The <a href="{{colossus}}">Colossus Mark I</a> (operational on 8th December 1943) was the first fully-electronic programmable digital computer. It was just a '5KHz logic calculator'.</li><br>
-
-			<li>The <a href="{{ENIAC}}">ENIAC</a> (operational by November 1945) was the first fully-electronic general-purpose digital computer. <a href="#fn:1" id="fnref:1">1</a> </li><br>
-
-			<li>The <a href="{{Baby}}">Manchester Baby</a> (operational by June 1948) was the first fully-electronic, general-purpose digital computer to successfully execute a 'stored program', a set of instructions loaded into its own memory as data.</li>
-		</ol>
-	</div>
-
-	<h3>Definitions</h3>
-	<div>
-
-		{%	include comput/defs.html		%}
-
-	</div>
-
-
-	<h3>Questions</h3>
-	<div>
-		<p style="font-weight:bold">How many first computers are there?</p>
-
-		My crude model (which has nine boolean variables and three ternary variables), implies that there are up to 4608 (<code>2^9 * 3^3</code>) first computers. I have only bothered to identify <a href="{{myData}}">41</a> of them. Who's pedantic now?<br><br><br>
-
-
-		<p style="font-weight:bold">What about newer first computers?</p>
-
-		I am not even counting developments after 1970. You could also add "synchronous/asynchronous", "uni/multiprocessing", classical/quantum", <a href="{{Flynn}}">Flynn's four streams</a>, a fourth value for the physical medium: "optical" computing... <br><br><br>
-
-
-		<p style="font-weight:bold">Are shit computers still computers?</p>
-
-		The Antikythera mechanism didn't work very well, because of a false astronomical theory and the crude engineering tolerances of the time. It probably systematically predicted planets to be a full 40 degrees off the real course. Nor could Leibniz's calculator carry through. <br><br>
-
-	</div>
-
-
-	<h3>Data</h3>
-	<div>
-		<a href="{{myData}}">Here</a>. A lot of the specs in that are from the remarkable conference papers in <i><a href="{{Rojas}}">The First Computers</a></i>. <a href="{{jaundice}}">John Morrice</a> wrote a decision tree in Python which inspired my solution.
-	</div>
-
-
-</div>
-
-
-
-{%  include comments.html %}
+{%  include comments.html 	%}
 
 {%  include comput/foots.html %}
 

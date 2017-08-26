@@ -9,7 +9,7 @@ img:		/img/bio.jpg
 
 visible:    1
 
-summary:    What's the harm of your genome being in the wild?
+summary:    A qualitative look at risks from publishing your genome.
 confidence:	Low; 60%. Huge speculations in the second and third sections.
 warnings:   behavioural genetics, evolutionary psychology, determinism
 categories: scary futurism

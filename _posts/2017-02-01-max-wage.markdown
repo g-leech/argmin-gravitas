@@ -11,7 +11,7 @@ visible:    1
 simple:		true
 stylised:	true
 
-summary:    How much money is a maximizing consequentialist allowed?
+summary:    Estimate of how much money a maximizing consequentialist is allowed.
 confidence:	90% in the numbers, 70% in the ethics.
 warnings:   scrupulosity, scrupulosity, scrupulosity
 categories: effective altruism
