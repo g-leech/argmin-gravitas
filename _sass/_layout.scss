@@ -4,15 +4,19 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    min-height: 72px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
+.headText {
+    color: white !important;       
+}
+
 .site-title {
     font-size: 26px;
-    line-height: 56px;
+    line-height: 72px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -25,7 +29,7 @@
 
 .site-nav {
     float: right;
-    line-height: 56px;
+    line-height: 72px;
     padding-left: 5%;
     @media (max-width:600px) { padding-right: 5%; } 
 

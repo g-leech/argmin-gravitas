@@ -1,6 +1,6 @@
 # Site settings
 title: argmin gravitas
-fmtTitle: <span style="font-size:15pt">argmin</span>&nbsp; gravitas
+fmtTitle: <span style="font-size:16pt">argmin</span> gravitas
 email: g@gleech.org  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://gleech.org # the base hostname & protocol for your site
