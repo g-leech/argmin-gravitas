@@ -10,7 +10,7 @@ visible:	true
 
 
 <div style="padding:20px">
-	I'm Gavin Leech, a data scientist at the giant insurer <a href="{{Axa}}">AXA</a> <a href="#fn:4" id="fnref:4">4</a>. I write prose and software about things like algorithms, welfare economics, animal rights, epistemic standards, and the <a href="{{stat}}">applied philosophy of science</a>. <br><br>
+	I'm Gavin Leech, a data scientist at the giant insurer <a href="{{Axa}}">AXA</a> <a href="#fn:4" id="fnref:4">4</a>. I write prose and software about things like algorithms, welfare economics, animal rights, epistemic standards, and the <a href="{{stat}}">applied philosophy of science</a>. I aim for about one big post a month.<br><br>
 </div>
 
 
@@ -46,6 +46,7 @@ visible:	true
 <div class="accordion">
 	{%		include about/misc.html		%}
 </div> 
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
