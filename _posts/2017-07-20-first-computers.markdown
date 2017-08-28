@@ -12,10 +12,10 @@ visible: 	1
 best:		1
 
 summary:    Tiny app for defining "computer" and selecting between first computers.
-confidence:	95%
+confidence:	Pretty sure, 90%. A few dates missing, but there's no crucial overlaps AFAIK.
 categories: computing, history
 warnings:	unfair posterity.
-count:		
+count:		1,039
 ---
 
 {%	include comput/links.html	%} 
