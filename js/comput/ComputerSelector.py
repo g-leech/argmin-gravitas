@@ -16,13 +16,14 @@ def refresh(name) :
     firstComputer = get_computer(computers, criteria)
 
     set_computer(firstComputer)
+    update_description(firstComputer)
 
 
 def filter_candidates(matches, criteria) :
     for key, criterion in criteria.items() :
-        if criterion:
-            for m in matches :
-                matches = [m for m in matches if m[key] == criterion]
+        # if criterion:
+        for m in matches :
+            matches = [m for m in matches if m[key] == criterion]
 
     return matches
 
@@ -69,8 +70,6 @@ def set_computer(computerDict) :
     document.getElementById(resultImg).src = "/img/comput/"+ imgName + ".jpg"
     document.getElementById(descriptionId).style.display = ""
 
-    update_description(computerDict)
-
 
 def set_html(id, result) :
     document.getElementById(id).innerHTML = result
@@ -81,42 +80,86 @@ def set_html(id, result) :
 def infer_predicates(data, name) :
     print(data)
 
+    if name == 'base' :
+        data = constrain_digital(data)
+    # elif name == 'representation' :
+    #     data = constrain_analogue(data)
+    elif name == 'programmables' :
+        data = constrain_single_program(data)
+    elif name == 'universal' :
+        data = constrain_turing(data)
+    elif name == 'transistorised' :
+        data = constrain_transistor(data)
+    elif name == 'stored' :
+        data = constrain_stored(data)
+    elif name == 'gui' :
+        data = constrain_gui(data)
+
+    return data
+
+
+def constrain(id) :
+    document.getElementById(id).checked = True
+
+
+def constrain_analogue(data):
     elements = document.getElementsByName(BASE)
 
-    # if data['representation'] == 'analogue' :
-    #     for el in elements :
-    #         el.checked = False
-    #         el.disabled = True
-    # else :
-    #     for el in elements :
-    #         el.disabled = False
+    if data['representation'] == 'analogue' :
+        for el in elements :
+            el.checked = False
+            el.disabled = True
+    else :
+        for el in elements :
+            el.disabled = False
 
+
+def constrain_digital(data) :
     if data['base'] != "" :
-        document.getElementById(digId).checked = True
+        data = constrain(digId)
         data['representation'] = 'digital'
+    return data
 
-    if data['programmables'] == '':
-        document.getElementById(specialId).checked = True
-        document.getElementById(generalId).checked = False
-        document.getElementById('nonstor').checked = True
-        # document.getElementById(nonprogramId).checked = True
+
+def constrain_single_program(data) :
+    if data['programmables'] == '' : # or None
+        constrain(specialId)
         data['universal'] = SPECIAL
+        constrain('nonstor')
         data['stored'] = ''
+        document.getElementById(generalId).checked = False
+        # document.getElementById(nonprogramId).checked = True
+        
+    return data
 
+
+def constrain_turing(data) :
     if data['universal'] == TURING :
-        document.getElementById(programId).checked = True
-        document.getElementById(generalId).checked = True
+        constrain(programId)
         data['programmables'] = PROG_YES
+        # document.getElementById(generalId).checked = True
+    return data
 
 
+def constrain_transistor(data) :
     if data['transistorised'] == TRANSIST :
-        document.getElementById(electroId).checked = True
-        data['signals'] = "fully-electronic"
+        constrain(electroId)
+        data['signals'] = ELECTRO
+        # document.getElementById(generalId).checked = True
+    return data
+    
 
+def constrain_stored(data) :
     if data['stored'] == STORED :
-        document.getElementById(programId).checked = True
+        constrain(programId)
         data['programmables'] = PROG_YES
-     
+    return data
+
+
+def constrain_gui(data) :
+    if data['gui'] == "gui-based" :
+        constrain(electroId)
+        data['signals'] = ELECTRO
     return data
 
 

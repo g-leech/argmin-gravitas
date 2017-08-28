@@ -5,8 +5,6 @@ resultDescription = "criteria"
 resultWho = "protagonists"
 resultDate = "date"
 resultImg = "computerImg"
-descriptionId = 'criteria'
-description = "was the first computer that was "
 
 # HTML IDs
 generalId = "general"
@@ -16,6 +14,7 @@ nonprogramId = "nonprogram"
 electroId = "electro"
 digId = 'digital'
 
+ELECTRO = "fully-electronic"
 TURING = 'general-purpose'
 SPECIAL = 'special-purpose'
 BASE = 'base'
