@@ -22,3 +22,6 @@ TRANSIST = 'transistorised'
 STORE = 'stored'
 STORED = STORE + "-" + programId
 PROG_YES = 'programmable'
+ANALOG = 'analogue'
+DIGITAL = digId
+GUI = "gui-based"
