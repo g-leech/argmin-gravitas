@@ -5,6 +5,7 @@
 		var nullComputer = __init__ (__world__.data).nullComputer;
 		var whats = __init__ (__world__.data).whats;
 		var BASE = __init__ (__world__.html_ids).BASE;
+		var ELECTRO = __init__ (__world__.html_ids).ELECTRO;
 		var PROG_YES = __init__ (__world__.html_ids).PROG_YES;
 		var SPECIAL = __init__ (__world__.html_ids).SPECIAL;
 		var STORE = __init__ (__world__.html_ids).STORE;
@@ -25,11 +26,12 @@
 		var resultWho = __init__ (__world__.html_ids).resultWho;
 		var sortCmp = __init__ (__world__.html_ids).sortCmp;
 		var specialId = __init__ (__world__.html_ids).specialId;
-		var refresh = function () {
+		var refresh = function (py_name) {
 			var criteria = get_criteria ();
-			var criteria = infer_predicates (criteria);
+			var criteria = infer_predicates (criteria, py_name);
 			var firstComputer = get_computer (computers, criteria);
 			set_computer (firstComputer);
+			update_description (firstComputer);
 		};
 		var filter_candidates = function (matches, criteria) {
 			var __iterable0__ = criteria.py_items ();
@@ -37,22 +39,20 @@
 				var __left0__ = __iterable0__ [__index0__];
 				var key = __left0__ [0];
 				var criterion = __left0__ [1];
-				if (criterion) {
-					var __iterable1__ = matches;
-					for (var __index1__ = 0; __index1__ < __iterable1__.length; __index1__++) {
-						var m = __iterable1__ [__index1__];
-						var matches = function () {
-							var __accu0__ = [];
-							var __iterable2__ = matches;
-							for (var __index2__ = 0; __index2__ < __iterable2__.length; __index2__++) {
-								var m = __iterable2__ [__index2__];
-								if (m [key] == criterion) {
-									__accu0__.append (m);
-								}
+				var __iterable1__ = matches;
+				for (var __index1__ = 0; __index1__ < __iterable1__.length; __index1__++) {
+					var m = __iterable1__ [__index1__];
+					var matches = function () {
+						var __accu0__ = [];
+						var __iterable2__ = matches;
+						for (var __index2__ = 0; __index2__ < __iterable2__.length; __index2__++) {
+							var m = __iterable2__ [__index2__];
+							if (m [key] == criterion) {
+								__accu0__.append (m);
 							}
-							return __accu0__;
-						} ();
-					}
+						}
+						return __accu0__;
+					} ();
 				}
 			}
 			return matches;
@@ -98,37 +98,95 @@
 			var imgName = computerDict ['name'].py_replace ('#', '%23');
 			document.getElementById (resultImg).src = ('/img/comput/' + imgName) + '.jpg';
 			document.getElementById (descriptionId).style.display = '';
-			update_description (computerDict);
 		};
 		var set_html = function (id, result) {
 			document.getElementById (id).innerHTML = result;
 		};
-		var infer_predicates = function (data) {
+		var infer_predicates = function (data, py_name) {
 			print (data);
+			if (py_name == 'base') {
+				var data = constrain_digital (data);
+			}
+			else if (py_name == 'programmables') {
+				var data = constrain_single_program (data);
+			}
+			else if (py_name == 'universal') {
+				var data = constrain_turing (data);
+			}
+			else if (py_name == 'transistorised') {
+				var data = constrain_transistor (data);
+			}
+			else if (py_name == 'stored') {
+				var data = constrain_stored (data);
+			}
+			else if (py_name == 'gui') {
+				var data = constrain_gui (data);
+			}
+			return data;
+		};
+		var constrain = function (id) {
+			document.getElementById (id).checked = true;
+		};
+		var constrain_analogue = function (data) {
 			var elements = document.getElementsByName (BASE);
+			if (data ['representation'] == 'analogue') {
+				var __iterable0__ = elements;
+				for (var __index0__ = 0; __index0__ < __iterable0__.length; __index0__++) {
+					var el = __iterable0__ [__index0__];
+					el.checked = false;
+					el.disabled = true;
+				}
+			}
+			else {
+				var __iterable0__ = elements;
+				for (var __index0__ = 0; __index0__ < __iterable0__.length; __index0__++) {
+					var el = __iterable0__ [__index0__];
+					el.disabled = false;
+				}
+			}
+		};
+		var constrain_digital = function (data) {
 			if (data ['base'] != '') {
-				document.getElementById (digId).checked = true;
+				var data = constrain (digId);
 				data ['representation'] = 'digital';
 			}
+			return data;
+		};
+		var constrain_single_program = function (data) {
 			if (data ['programmables'] == '') {
-				document.getElementById (specialId).checked = true;
-				document.getElementById (generalId).checked = false;
-				document.getElementById ('nonstor').checked = true;
+				constrain (specialId);
 				data ['universal'] = SPECIAL;
+				constrain ('nonstor');
 				data ['stored'] = '';
+				document.getElementById (generalId).checked = false;
 			}
+			return data;
+		};
+		var constrain_turing = function (data) {
 			if (data ['universal'] == TURING) {
-				document.getElementById (programId).checked = true;
-				document.getElementById (generalId).checked = true;
+				constrain (programId);
 				data ['programmables'] = PROG_YES;
 			}
+			return data;
+		};
+		var constrain_transistor = function (data) {
 			if (data ['transistorised'] == TRANSIST) {
-				document.getElementById (electroId).checked = true;
-				data ['signals'] = 'fully-electronic';
+				constrain (electroId);
+				data ['signals'] = ELECTRO;
 			}
+			return data;
+		};
+		var constrain_stored = function (data) {
 			if (data ['stored'] == STORED) {
-				document.getElementById (programId).checked = true;
+				constrain (programId);
 				data ['programmables'] = PROG_YES;
+			}
+			return data;
+		};
+		var constrain_gui = function (data) {
+			if (data ['gui'] == 'gui-based') {
+				constrain (electroId);
+				data ['signals'] = ELECTRO;
 			}
 			return data;
 		};
@@ -143,6 +201,7 @@
 		'</use>')
 		__pragma__ ('<all>')
 			__all__.BASE = BASE;
+			__all__.ELECTRO = ELECTRO;
 			__all__.PROG_YES = PROG_YES;
 			__all__.SPECIAL = SPECIAL;
 			__all__.STORE = STORE;
@@ -150,6 +209,14 @@
 			__all__.TRANSIST = TRANSIST;
 			__all__.TURING = TURING;
 			__all__.computers = computers;
+			__all__.constrain = constrain;
+			__all__.constrain_analogue = constrain_analogue;
+			__all__.constrain_digital = constrain_digital;
+			__all__.constrain_gui = constrain_gui;
+			__all__.constrain_single_program = constrain_single_program;
+			__all__.constrain_stored = constrain_stored;
+			__all__.constrain_transistor = constrain_transistor;
+			__all__.constrain_turing = constrain_turing;
 			__all__.description = description;
 			__all__.descriptionId = descriptionId;
 			__all__.digId = digId;

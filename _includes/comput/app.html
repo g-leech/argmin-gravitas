@@ -1,193 +1,244 @@
-<style>
-  .top {
-    display: block;
-  }
-
-  #container
-  {
-    height: 750px;
-    margin: 0 auto;
-    text-align: left;
-  }
-
-  #container form
-  {
-    margin: 0 auto;
-  }
-
-  .roww
-  {
-    float: left;
-    width: 342px;
-  }
-
-</style>
+{%    include comput/appCss.html    %}
 
 
 <div id="container">
 
-      <fieldset style="padding:40px">
-       <center><div id="computer"></div></center>
-      </fieldset>
+    <fieldset class="resultRow">
+      <center>
+        <img id="computerImg"></div>
 
-     <fieldset class="roww" style="padding-bottom: 32px">
-      <label class="top">What are its processor signals made of?<br></label>
+        <div id="resultText">
+          <div id="computer"></div><br>
+          <div id="protagonists"></div>
+          <span id="date"></span>
+        </div>
+
+      </center>
+    </fieldset>
+
+
+    <fieldset class="roww" ><!-- style="padding-bottom: 30px" -->
+      <label class="top">
+        <img src="/img/comput/activity.svg" />
+        What conveys its signals?<br>
+        </label>
       <input type = "radio"
-             name = "signal"
-             value = "nonelectro" />
+             name = "signals"
+             value = "mechanical"
+             onclick="ComputerSelector.refresh(this.name)" />
       <label>entirely nonelectrical parts<br></label>
       <input type = "radio"
-             name = "signal"
-             value = "electromech" />
+             name = "signals"
+             value = "electromechanical"
+             checked = "checked"
+             onclick="ComputerSelector.refresh(this.name)" />
       <label>electromechanical parts<br></label>
       <input type = "radio"
-             name = "signal"
-             value = "electro"
-             checked = "checked"/>
-      <label>fully electronic<br> </label>
+             name = "signals"
+             id = "electro"
+             value = "fully-electronic"
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label>fully electronic parts<br> </label>
     </fieldset>
 
-     <fieldset class="roww">
-      <label class="top">Is it programmable? </label>
-      <input type = "radio"
-             name = "program"
-             value = "True" 
-             checked = "checked" />
-      <label>Yes</label>
-      <input type = "radio"
-             name = "program"
-             value = "False" />
-      <label>No</label>
-    </fieldset>
 
     <fieldset class="roww">
-      <label class="top">Can it approximate all Turing machines?</label>
+      <label class="top">
+        <img src="/img/comput/list.svg" />&nbsp;
+        Is it programmable? 
+      </label>
       <input type = "radio"
-             name = "turing"
-             value = "True" 
+             name = "programmables"
+             value = "programmable"
+             id = "program"
+             onclick="ComputerSelector.refresh(this.name)"
              checked = "checked" />
       <label>Yes</label>
       <input type = "radio"
-             name = "turing"
-             value = "False" />
-      <label>No</label>
-   </fieldset>
-
-    <fieldset class="roww" style="padding-bottom: 37px">
-      <label class="top">Does it store programs as data?</label>
-      <input type = "radio"
-             name = "stored"
-             value = "True" 
-             checked = "checked" />
-      <label>Yes</label>
-      <input type = "radio"
-             name = "stored"
-             value = "False" />
+             name = "programmables"
+             id = "nonprogram"
+             value = ""
+             onclick="ComputerSelector.refresh(this.name)" />
       <label>No</label>
     </fieldset>
 
+
     <fieldset class="roww">
-      <label class="top">How does it represent numbers?</label>
+      <label class="top">
+        <img src="/img/comput/all.svg" style="height: 1.4em;" />
+        Can it approximate all Turing machines?
+      </label>
       <input type = "radio"
-             name = "digit"
-             value = "Digital" 
+             name = "universal"
+             id = "general"
+             value = "general-purpose"
+             onclick="ComputerSelector.refresh(this.name)"
+             checked = "checked" />
+      <label>Yes</label>
+      <input type = "radio"
+             name = "universal"
+             id = "special"
+             value = "special-purpose"
+             onclick="ComputerSelector.refresh(this.name)"  />
+      <label>No</label>
+    </fieldset>
+
+
+    <fieldset class="roww" style="padding-bottom: 36px">
+      <label class="top">
+        <img src="/img/comput/voicemail.svg" />&nbsp;
+        Does it store programs as data?</label>
+      <input type = "radio"
+             name = "stored"
+             id = "stor"
+             value = "stored-program"
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label>Yes</label>
+      <input type = "radio"
+             name = "stored"
+             id = "nonstor"
+             value = ""
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label>No</label>
+    </fieldset>
+
+
+    <fieldset class="roww">
+      <label class="top">
+        <img src="/img/comput/toggle-right.svg" style="height: 1.3em;" />&nbsp;
+        How does it represent numbers?
+      </label>
+      <input type = "radio"
+             name = "representation"
+             id = "digital"
+             value = "digital"
+             onclick="ComputerSelector.refresh(this.name)"
              checked = "checked" />
       <label>Digital (with integers)</label><br>
       <input type = "radio"
-             name = "digit"
-             value = "Analogue" />
+             name = "representation"
+             value = "analogue"
+             onclick="ComputerSelector.refresh(this.name)"  />
       <label>Analogue (with physical states)</label>
     </fieldset>
 
-    <fieldset class="roww" style="padding-bottom: 37px">
-      <label class="top">What base are its numbers?</label>
+
+    <fieldset class="roww" style="padding-bottom: 12px">
+      <label class="top">
+        <img src="/img/comput/clock.svg" style="height: 1.3em;" />&nbsp;
+        What base are its numbers?</label>
       <input type = "radio"
-             name = "bases"
-             value = "2" />
+             name = "base"
+             value = "binary"
+             onclick="ComputerSelector.refresh(this.name)"  />
       <label>2 - Binary</label>
       <input type = "radio"
-             name = "bases"
-             value = "3" />
-      <label>3 - Ternary</label>
+             name = "base"
+             value = "ternary"
+             onclick="ComputerSelector.refresh(this.name)"  />
+      <label>3 - Ternary</label><br>
        <input type = "radio"
-             name = "bases"
-             value = "10" />
+             name = "base"
+             value = "decimal"
+             onclick="ComputerSelector.refresh(this.name)"  />
       <label>10 - Decimal</label>
     </fieldset>
 
-    <fieldset class="roww">
-          <label class="top">How many values are transmitted at once?</label>
-          <input type = "radio"
-                 name = "circ"
-                 value = "Serial" />
-          <label>Serial (one)</label><br>
-          <input type = "radio"
-                 name = "circ"
-                 value = "Parallel" />
-          <label>Parallel (several)</label>
-       </fieldset>
 
-      
     <fieldset class="roww">
-          <label class="top">Is it made of transistors?</label>
-          <input type = "radio"
-                 name = "trans"
-                 value = "transFull" />
-          <label>Yes fully</label>
-          <input type = "radio"
-                 name = "trans"
-                 value = "transPart" />
-          <label>Yes partially</label>
-          <input type = "radio"
-                 name = "trans"
-                 value = "transNo" />
-          <label>No</label>
-       </fieldset>
+      <label class="top">
+        <img src="/img/comput/parallel.ico" style="height: 1.3em;" />&nbsp;
+        How many bits are transmitted at once?
+      </label>
+      <input type = "radio"
+             name = "transmission"
+             value = "serial"
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label>Serial (one)</label><br>
+      <input type = "radio"
+             name = "transmission"
+             value = "parallel"
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label>Parallel (several)</label>
+    </fieldset>
 
 
     <fieldset class="roww">
-          <label class="top">Does it have virtual memory addressing?</label>
-          <input type = "radio"
-                 name = "virt"
-                 value = "True" />
-          <label>Yes</label>
-          <input type = "radio"
-                 name = "virt"
-                 value = "False" />
-          <label>No</label>
-       </fieldset>
+       <label class="top">
+        <img src="/img/comput/transistor.svg" style="height: 1.3em;" />&nbsp;
+        Is it made of transistors?</label>
+      <input type = "radio"
+             name = "transistorised"
+             value = "transistorised"
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label>Yes</label>
+      <input type = "radio"
+             name = "transistorised"
+             value = ""
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label>No</label>
+    </fieldset>
+
+
+    <fieldset class="roww">
+      <label class="top">
+        <img src="/img/comput/map.svg" />&nbsp;
+        Does it use virtual memory addressing?
+      </label>
+      <input type = "radio"
+             name = "virtual"
+             value = "virtual-memory"
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label>Yes</label>
+      <input type = "radio"
+             name = "virtual"
+             value = ""
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label>No</label>
+    </fieldset>
+
      
     <fieldset class="roww">
-        <label class="top">What kind of instruction set does it use?</label>
-        <input type = "radio"
-               name = "instruct"
-               value = "Hard" />
-        <label>Hard-wired gates</label><br>
-        <input type = "radio"
-               name = "instruct"
-               value = "CISC" />
-        <label>CISC</label>
-        <input type = "radio"
-               name = "instruct"
-               value = "RISC" />
-        <label>RISC</label>
-     </fieldset>
+      <label class="top">
+        <img src="/img/comput/cpu.svg" />&nbsp;
+        What kind of instruction set does it use?</label>
+      <input type = "radio"
+             name = "instructions"
+             value = ""
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label>Hard-wired gates</label><br>
+      <input type = "radio"
+             name = "instructions"
+             value = "CISC"
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label>CISC</label>
+      <input type = "radio"
+             name = "instructions"
+             value = "RISC"
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label>RISC</label>
+    </fieldset>
 
 
     <fieldset class="roww" style="padding-bottom: 38px">
-        <label class="top">Did it have a GUI as the primary interface?</label>
-        <input type = "radio"
-               name = "gui"
-               value = "True" />
-        <label>Yes</label>
-        <input type = "radio"
-               name = "gui"
-               value = "True" />
-        <label>No</label>
+      <label class="top">
+        <img src="/img/comput/image.svg" />&nbsp;
+        Did it have a GUI as primary interface?</label>
+      <input type = "radio"
+             name = "gui"
+             value = "gui-based"
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label>Yes</label>
+      <input type = "radio"
+             name = "gui"
+             value = ""
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label>No</label>
      </fieldset>
 
 </div>
 
+<!-- <script src="/js/comput/data.js"></script> -->
+<!-- <script src="/js/comput/middleware.js"></script> -->
+<script src="/js/comput/ComputerSelector.js"></script>
 
-<!-- <p style="padding-bottom: 30px"></p> -->
-<!-- <script src="computers/__javascript__/computers.min.js"></script> -->

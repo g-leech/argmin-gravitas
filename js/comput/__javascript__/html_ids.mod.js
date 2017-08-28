@@ -18,6 +18,7 @@
 					var nonprogramId = 'nonprogram';
 					var electroId = 'electro';
 					var digId = 'digital';
+					var ELECTRO = 'fully-electronic';
 					var TURING = 'general-purpose';
 					var SPECIAL = 'special-purpose';
 					var BASE = 'base';
@@ -27,6 +28,7 @@
 					var PROG_YES = 'programmable';
 					__pragma__ ('<all>')
 						__all__.BASE = BASE;
+						__all__.ELECTRO = ELECTRO;
 						__all__.PROG_YES = PROG_YES;
 						__all__.SPECIAL = SPECIAL;
 						__all__.STORE = STORE;
