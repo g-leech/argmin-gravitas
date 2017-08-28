@@ -3,7 +3,7 @@ layout:     post
 title:      "Disambiguating the first computer"
 baselink:   /first-computers
 permalink:  /first-computers
-date:       2017-08-15  <!--site.time-->
+date:       2017-08-28  <!--site.time-->
 author:     Gavin
 
 img:        /img/smolBoo.jpg
