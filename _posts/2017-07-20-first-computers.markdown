@@ -20,7 +20,10 @@ count:		1,039
 
 {%	include comput/links.html	%} 
 
-<center><br>Specify what you mean by computer, and I'll tell you the first computer: <br><i>(click any radio button to start)</i>	</center>
+<center><br>
+	Specify what you mean by computer, and I'll tell you the first computer: <br>
+	<div id="intro"><i>(click any radio button to start)</i></div><br>
+</center>
 
 
 {%	include comput/app.html		%}

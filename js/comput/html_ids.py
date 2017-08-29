@@ -5,6 +5,7 @@ resultDescription = "criteria"
 resultWho = "protagonists"
 resultDate = "date"
 resultImg = "computerImg"
+intro = "intro"
 
 # HTML IDs
 generalId = "general"

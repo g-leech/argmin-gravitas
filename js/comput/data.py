@@ -4,9 +4,11 @@ fullModel = [ "index", "name", "protagonists", "date", "signals",
     "instructions", "gui", "notes", "link"
 ]
 
-fieldModel = fullModel[4:-1]
+fieldModel = fullModel[4:-2]
 whats = [ "?" for i in range(len(fullModel))]   # Transcrypt can't handle string multiplication
+whats[fullModel.index("name")] = "N&#47;A"
 nullComputer = dict(zip(fullModel, whats))
+
 
 computers = [
     [   1,"Antikythera mechanism","?","100 BCE","mechanical","special-purpose","","","analogue",None,"serial","","","","","'Didn't work very well'","https://en.wikipedia.org/wiki/Antikythera_mechanism"],
