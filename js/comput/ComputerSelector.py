@@ -16,13 +16,20 @@ def refresh(name) :
     firstComputer = get_computer(computers, criteria)
 
     set_computer(firstComputer)
+    hide_intro_text()
+
+
+def reset() :
+    for v in fieldModel:
+        for f in document.getElementsByName(v) :
+            f.checked = False
+                
+    set_computer(nullComputer)
 
 
 def filter_candidates(matches, criteria) :
     for key, criterion in criteria.items() :
-        # if criterion:
-        for m in matches :
-            matches = [m for m in matches if m[key] == criterion]
+        matches = [ m for m in matches if m[key] == criterion ] 
 
     return matches
 
@@ -55,9 +62,6 @@ def get_computer(data, criteria) :
 
 
 def set_computer(computerDict) :
-    if computerDict['name'] == "?" :
-        computerDict['name'] = "N&#47;A"
-
     name = "the " + computerDict['name']
     set_html(resultName, name)
     who = "by " + computerDict['protagonists']
@@ -80,11 +84,13 @@ def set_image(name) :
     imgDom.src = "/img/comput/"+ imgName + ".jpg"
 
 
+def hide_intro_text() :
+    document.getElementById(intro).style.display = "none"
+
+
 # First handle some special cases: e.g. analogs have no base.
 # UX is terrible without this
 def infer_predicates(data, name) :
-    print(data)
-
     if name == 'programmables' :
         data = constrain_single_program(data)
     elif name == 'universal' :
@@ -129,7 +135,7 @@ def constrain_digital(data) :
 
 
 def constrain_single_program(data) :
-    if data['programmables'] == '' : # or None
+    if data['programmables'] == '' : 
         constrain(specialId)
         data['universal'] = SPECIAL
         constrain('nonstor')
