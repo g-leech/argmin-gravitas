@@ -39,16 +39,17 @@ def get_earliest(data, compare) :
     return srted[0]
 
 
+# The first comprehension just stores DOM queries, avoids querying twice.
 def get_criteria() :
-    crits = {}
-    for v in fieldModel:
-        query = 'input[name="' + v + '"]:checked'
-        field = document.querySelector(query)
+    checked = { f : get_radio_val(f) for f in fieldModel }
+    return { f : checked[f] for f in fieldModel if checked[f] }
 
-        if field is not None :
-            crits[v] = field.value
 
-    return crits
+def get_radio_val( name ) :
+    query = 'input[name="' + name + '"]:checked'
+    dom = document.querySelector(query)
+
+    return dom.value if dom else None
 
 
 def get_computer(data, criteria) :
@@ -59,6 +60,19 @@ def get_computer(data, criteria) :
     else:
         return nullComputer
 
+
+var something = (function() {
+    var executed = false;
+    return function () {
+        if (!executed) {
+            executed = true;
+            hide_intro_text()
+            imgDom = document.getElementById(resultImg)
+            imgDom.style.height = "300px"
+            imgDom.style.width = "400px"
+        }
+    };
+})();
 
 
 def set_computer(computerDict) :
@@ -79,8 +93,6 @@ def set_html(id, result) :
 def set_image(name) :
     imgName = name.replace("#", "%23")
     imgDom = document.getElementById(resultImg)
-    imgDom.style.height = "300px"
-    imgDom.style.width = "400px"
     imgDom.src = "/img/comput/"+ imgName + ".jpg"
 
 
