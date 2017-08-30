@@ -26,3 +26,7 @@ PROG_YES = 'programmable'
 ANALOG = 'analogue'
 DIGITAL = digId
 GUI = "gui-based"
+
+
+# Global to expand image div
+isAppInitialised = False

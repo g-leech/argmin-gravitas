@@ -15,8 +15,8 @@ def refresh(name) :
     criteria = infer_predicates(criteria, name)
     firstComputer = get_computer(computers, criteria)
 
+    init_app()
     set_computer(firstComputer)
-    hide_intro_text()
 
 
 def reset() :
@@ -61,18 +61,16 @@ def get_computer(data, criteria) :
         return nullComputer
 
 
-var something = (function() {
-    var executed = false;
-    return function () {
-        if (!executed) {
-            executed = true;
-            hide_intro_text()
-            imgDom = document.getElementById(resultImg)
-            imgDom.style.height = "300px"
-            imgDom.style.width = "400px"
-        }
-    };
-})();
+#  Only once
+def init_app() :
+    global isAppInitialised
+
+    if not isAppInitialised :
+        hide_intro_text()
+        imgDom = document.getElementById(resultImg)
+        imgDom.style.height = "300px"
+        imgDom.style.width = "400px"
+        isAppInitialised = True
 
 
 def set_computer(computerDict) :
