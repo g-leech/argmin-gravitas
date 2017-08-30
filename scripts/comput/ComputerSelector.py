@@ -19,18 +19,6 @@ def refresh(name) :
     set_computer(firstComputer)
 
 
-def filter_candidates(matches, criteria) :
-    for key, criterion in criteria.items() :
-        matches = [ m for m in matches if m[key] == criterion ] 
-
-    return matches
-
-
-def get_earliest(data, compare) :
-    srted = sorted(data, key=lambda k: k[compare])
-    return srted[0]
-
-
 # The first comprehension just stores DOM queries, avoids querying twice.
 def get_criteria() :
     checked = { f : get_radio_val(f) for f in fieldModel }
@@ -44,6 +32,22 @@ def get_radio_val( name ) :
     return dom.value if dom else None
 
 
+###################################################################
+
+# Controller
+
+def filter_candidates(matches, criteria) :
+    for key, criterion in criteria.items() :
+        matches = [ m for m in matches if m[key] == criterion ] 
+
+    return matches
+
+
+def get_earliest(data, compare) :
+    srted = sorted(data, key=lambda k: k[compare])
+    return srted[0]
+
+
 def get_computer(data, criteria) :
     matches = filter_candidates(data, criteria)
 
@@ -51,6 +55,9 @@ def get_computer(data, criteria) :
         return get_earliest(matches, sortCmp)
     else:
         return nullComputer
+
+
+###################################################################
 
 
 # First handle some special cases: e.g. analogs have no base.
@@ -166,9 +173,10 @@ def set_html(id, result) :
 def set_image(name) :
     imgName = name.replace("#", "%23")
     imgDom = document.getElementById(resultImg)
+    document.getElementById("computerImg").src = "/img/spin.gif"
 
     set_image_size(100,100)
-    imgDom.src = "/img/spin.gif"
+    # imgDom.src = "/img/spin.gif"
     imgDom.src = "/img/comput/"+ imgName + ".jpg"
     set_image_size()
 
