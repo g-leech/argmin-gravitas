@@ -18,10 +18,12 @@ My current projects are:<br>
 
 
 {%  include js/lazyFrame.html %}
+
 <script>  
     var src = "{{sheet}}";
     definiteEvent( createIframe, [src, "listFrame"] ); 
 </script>
+
 
 <br><br>
 
