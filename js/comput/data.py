@@ -19,7 +19,7 @@ computers = [
     [   6,"Feinmechanikers Rechenmaschine","Phillip Matthaeus Hahn","1774","mechanical","special-purpose","","","digital","decimal","serial","","","","","First calculator to do all four arithmetic ops"],
     [   7,"Thomas Arithmomètre","Charles Xavier Thomas","1851","mechanical","special-purpose","","","digital","decimal","serial","","","","","first digital mechanical calculator strong enough and reliable enough to be used daily in an office environment"],
     [   8,"Difference engine","JH Müller, Charles Babbage, Per Georg Scheutz","1855","mechanical","special-purpose","","","digital","decimal","serial","","","","",None],
-    [   9,"Z1","Konrad Zuse","1938","mechanical","special-purpose","programmable","","analogue",None,"serial","","","","","film not paper"],
+    [   9,"Z1","Konrad Zuse","1938","mechanical","special-purpose","programmable","","digital","binary","serial","","","","","film not paper"],
     [   10,"Z2","Konrad Zuse","1939","electromechanical","special-purpose","programmable","","digital","binary","serial","","","","",None],
     [   11,"Mischgerät","Helmut Hoelzer","1940","electromechanical","special-purpose","programmable","","analogue",None,"serial","","","","","world's first on-board computer."],
     [   12,"Bombe","Alan Turing and Gordon Welchman","18/03/1940","electromechanical","special-purpose","","","digital","26?","serial","","","","",None ],
