@@ -107,7 +107,7 @@ def constrain_digital(data) :
 
 
 def constrain_single_program(data) :
-    if data['programmables'] == '' : 
+    if data['programmables'] == FIXIE : 
         constrain(specialId)
         data['universal'] = SPECIAL
         constrain('nonstor')
@@ -152,8 +152,8 @@ def init_app() :
     if not isAppInitialised :
         hide_intro_text()
         set_image_size()
-        # document.getElementById("computerImg").src = "/img/spin.gif"
-        # document.getElementById("computerImg").src = ""
+        document.getElementById("computerImg").src = "/img/spin.gif"
+        document.getElementById("computerImg").src = ""
         isAppInitialised = True
 
 
