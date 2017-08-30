@@ -144,9 +144,7 @@ def init_app() :
 
     if not isAppInitialised :
         hide_intro_text()
-        imgDom = document.getElementById(resultImg)
-        imgDom.style.height = "300px"
-        imgDom.style.width = "400px"
+        set_image_size()
         isAppInitialised = True
 
 
@@ -168,12 +166,21 @@ def set_html(id, result) :
 def set_image(name) :
     imgName = name.replace("#", "%23")
     imgDom = document.getElementById(resultImg)
+
+    set_image_size(100,100)
+    imgDom.src = "/img/spin.gif"
     imgDom.src = "/img/comput/"+ imgName + ".jpg"
+    set_image_size()
 
 
 def hide_intro_text() :
     document.getElementById(intro).style.display = "none"
 
+
+def set_image_size(x=400, y=300) :
+    imgDom = document.getElementById(resultImg)
+    imgDom.style.height = str(y) + "px"
+    imgDom.style.width = str(x) + "px"
 
 
 def reset() :
