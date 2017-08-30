@@ -152,6 +152,8 @@ def init_app() :
     if not isAppInitialised :
         hide_intro_text()
         set_image_size()
+        document.getElementById("computerImg").src = "/img/spin.gif"
+        document.getElementById("computerImg").src = ""
         isAppInitialised = True
 
 
