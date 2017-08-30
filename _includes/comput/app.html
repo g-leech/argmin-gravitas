@@ -86,25 +86,6 @@
     </fieldset>
 
 
-    <fieldset class="roww" style="padding-bottom: 36px">
-      <label class="top">
-        <img src="/img/comput/voicemail.svg" />&nbsp;
-        Does it store programs as data?</label>
-      <input type = "radio"
-             name = "stored"
-             id = "stor"
-             value = "stored-program"
-             onclick="ComputerSelector.refresh(this.name)" />
-      <label for="stor">Yes</label>
-      <input type = "radio"
-             name = "stored"
-             id = "nonstor"
-             value = ""
-             onclick="ComputerSelector.refresh(this.name)" />
-      <label for="nonstor">No</label>
-    </fieldset>
-
-
     <fieldset class="roww">
       <label class="top">
         <img src="/img/comput/toggle-right.svg" style="height: 1.3em;" />&nbsp;
@@ -126,7 +107,7 @@
     </fieldset>
 
 
-    <fieldset class="roww" style="padding-bottom: 12px">
+    <fieldset class="roww" >
       <label class="top">
         <img src="/img/comput/clock.svg" style="height: 1.3em;" />&nbsp;
         What base are its numbers?</label>
@@ -150,6 +131,24 @@
       <label for="base10">10 - Decimal</label>
     </fieldset>
 
+
+    <fieldset class="roww" >
+      <label class="top">
+        <img src="/img/comput/voicemail.svg" />&nbsp;
+        Does it store programs as data?</label>
+      <input type = "radio"
+             name = "stored"
+             id = "stor"
+             value = "stored-program"
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label for="stor">Yes</label>
+      <input type = "radio"
+             name = "stored"
+             id = "nonstor"
+             value = ""
+             onclick="ComputerSelector.refresh(this.name)" />
+      <label for="nonstor">No</label>
+    </fieldset>
 
     <fieldset class="roww">
       <label class="top">
@@ -235,7 +234,7 @@
     </fieldset>
 
 
-    <fieldset class="roww" style="padding-bottom: 38px">
+    <fieldset class="roww">
       <label class="top">
         <img src="/img/comput/image.svg" />&nbsp;
         Did it have a GUI as primary interface?</label>
@@ -254,12 +253,13 @@
      </fieldset>
 
      
-    <div id="nukem"> 
-      <button onclick="ComputerSelector.reset()" >Reset fields</button>
-    </div>
+</div>
+
+<div id="nukem"> 
+    <button onclick="ComputerSelector.reset()" >Reset fields</button>
 </div>
 
 
-<script src="/js/comput/ComputerSelector.min.js"></script>
+<script src="/scripts/comput/ComputerSelector.js"></script> 
 
 <br>
