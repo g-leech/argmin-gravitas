@@ -152,8 +152,6 @@ def init_app() :
     if not isAppInitialised :
         hide_intro_text()
         set_image_size()
-        document.getElementById("computerImg").src = "/img/spin.gif"
-        document.getElementById("computerImg").src = ""
         isAppInitialised = True
 
 
@@ -184,6 +182,7 @@ def set_image(name) :
 
 def hide_intro_text() :
     document.getElementById(intro).style.display = "none"
+    document.getElementById(resultImg).style.display = ""
 
 
 def set_image_size(x=400, y=300) :
