@@ -1,5 +1,5 @@
 
-sortCmp = "index"
+
 resultName = "computer"
 resultDescription = "criteria"
 resultWho = "protagonists"
