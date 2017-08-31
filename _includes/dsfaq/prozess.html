@@ -7,7 +7,7 @@ OK, that's a bit of a stretch: data science is statistical programming that focu
 <div class="accordion">
 	<h3>Is it a bullshit fad?</h3>
 	<div>
-		Not exactly. All, and I mean <i>all</i> of its insights come straight out of academic statistics and computer science, and hacker lore. But just because something is made of other things doesn't mean it isn't real, or that it can't be a valuable permutation.<br><br>
+		Not exactly. All, and I mean <i>all</i> of its insights come straight out of academic statistics, computer science, and dropout hacker lore. But just because something's made of other things doesn't mean it isn't real, that it isn't a valuable permutation.<br><br>
 
 		(I grant you that only half of the excitement is due to these methods, the other half being a truckful of <a href="{{Sex}}">marketing hype</a>.)<br><br>
 
@@ -64,6 +64,27 @@ OK, that's a bit of a stretch: data science is statistical programming that focu
 	<h3>The Data Science Process</h3>
 	<div>
 		{%	include dsfaq/process.html		%}
+	</div>
+
+	
+	<h3>ABSTRACT SOME MORE</h3>
+	<div>
+		Really your job is not coding or being able to read formulae or knowing where to find data without any <a href="{{}}">anti-scraping measures</a>: your job to optimise the difficult tradeoffs of using computers to optimise things. You're a computer economist, not much of a scientist.<br><br>
+
+			<ul>
+				<li><b><a href="{{biasvar}}">Bias / Variance</a></b>. After a point, you can minimise underfitting or overfitting, not both.</li><br>
+
+				<li><b><a href="{{acc_interp}}">Accuracy / Interpretability</a></b>. For some tasks, you can't have optimal performance while still being able to comprehend the final weights.</li><br>
+
+				<li><b>Easy Training / Optimality</b>. An instance of <a href="{{irontri}}">The Iron Triangle</a>: 'You can pick two of: fast, cheap, optimal'.</li><br>
+
+				<li><b><a href="{{spacetime}}">Space / time</a></b>. You can use more data <b>or</b> spend less runtime.</li><br>
+
+				<li><b><a href="{{natchy}}">Natural signal / Balanced classes</a></b>. In classification, you often want to train the model to recognise differing classes equally well, even if one is rarer. There are a few ways to do this, but one of them is just to use fewer examples of the common class.</li><br>
+
+				<li><b>Full signal / Validation</b>. You can train on all the available data <b>or</b> you can know if what you're doing is any good. This one we can defeat, with the bootstrap.</li>
+			</ul>
+
 	</div>
 
 

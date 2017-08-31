@@ -17,17 +17,6 @@ count: 			Many
 started:    	2017
 ---
 
-{%	assign Snot = "http://www.starling-software.com/employment/programmer-competency-matrix.html" 	%}
-{%	assign AIAI = "https://www.cbinsights.com/blog/artificial-intelligence-startup-hype-ai-suffix/" %}
-{%	assign logReg = "https://en.wikipedia.org/wiki/Logistic_regression" %}
-{%	assign spoilers = "https://docs.google.com/spreadsheets/d/1JOeYyhlhfq0YM1ipfoRfcnXO6_3JtoVybFPrIeJSO-Q/pubhtml?single=true"		%}
-{%	assign agrawal = "https://hbr.org/2016/11/the-simple-economics-of-machine-intelligence"	%}
-{%	assign Kelleh = "https://medium.com/@akelleh" %}
-{%	assign Knuth = "https://www.math.upenn.edu/~wilf/a=b.txt" %}
-{%	assign Sas = "https://en.wikipedia.org/wiki/SAS_(software)" %}
-{%	assign Knuth = "https://www.math.upenn.edu/~wilf/a=b.txt" %}
-{%	assign eco = "https://hadoopecosystemtable.github.io/"		%}
-{%	assign ML = "https://en.wikipedia.org/wiki/Machine_learning"		%}
 
 {%  include js/lazyFrame.html %}
 {%  include dsfaq/links.md %}
@@ -41,7 +30,7 @@ started:    	2017
 
 </div><br><br><br>
 
-> Data Scientist: Person who is worse at statistics than any statistician & worse at software engineering than any software engineer.
+> <span style="font-weight: bold;">Data Scientist</span>: Person who is worse at statistics than any statistician & worse at software engineering than any software engineer.
 
 <center>~ Will Cukierski</center><br><br>
 
@@ -87,7 +76,7 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 		<div class="accordion">
 			{%	include dsfaq/books.html	%}
 		</div>
-		<br><a href="{{spoilers}}">Full list here</a>. All books: I don't care for MOOCs or Youtube series. You can ignore all <i>Medium</i> posts on the matter (or any matter), with the exception of <a href="{{Kelleh}}">@akelleh</a>, which you must read.
+		<br><a href="{{spoilers}}">Full list here</a>. All books: I don't care for MOOCs or Youtube series. You can ignore all <i>Medium</i> posts on the matter (or any matter), with the exception of <a href="{{Kelleh}}">@akelleh</a>, which you must read.<br>
 	</div>
 
 	<h3>Glossary</h3>
