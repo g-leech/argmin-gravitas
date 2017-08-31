@@ -26,20 +26,20 @@
              name = "signals"
              id = "mech"
              value = "mechanical"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="mech">entirely nonelectrical parts<br></label>
       <input type = "radio"
              name = "signals"
              id = "elmech"
              value = "electromechanical"
              checked = "checked"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="elmech">electromechanical parts<br></label>
       <input type = "radio"
              name = "signals"
              id = "electro"
              value = "fully-electronic"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="electro">fully electronic parts<br> </label>
     </fieldset>
 
@@ -53,14 +53,14 @@
              name = "programmables"
              value = "programmable"
              id = "program"
-             onclick="ComputerSelector.refresh(this.name)"
+             onclick="ComputerViewer.refresh(this.name)"
              checked = "checked" />
       <label for="program">Yes</label>
       <input type = "radio"
              name = "programmables"
              id = "nonprogram"
              value = "fixed-job"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="nonprogram">No</label>
     </fieldset>
 
@@ -74,14 +74,14 @@
              name = "universal"
              id = "general"
              value = "general-purpose"
-             onclick="ComputerSelector.refresh(this.name)"
+             onclick="ComputerViewer.refresh(this.name)"
              checked = "checked" />
       <label for="general">Yes</label>
       <input type = "radio"
              name = "universal"
              id = "special"
              value = "special-purpose"
-             onclick="ComputerSelector.refresh(this.name)"  />
+             onclick="ComputerViewer.refresh(this.name)"  />
       <label for="special">No</label>
     </fieldset>
 
@@ -95,14 +95,14 @@
              name = "representation"
              id = "digital"
              value = "digital"
-             onclick="ComputerSelector.refresh(this.name)"
+             onclick="ComputerViewer.refresh(this.name)"
              checked = "checked" />
       <label for="digital">Digital (with integers)</label><br>
       <input type = "radio"
              name = "representation"
              id = "analog"
              value = "analogue"
-             onclick="ComputerSelector.refresh(this.name)"  />
+             onclick="ComputerViewer.refresh(this.name)"  />
       <label for="analog">Analogue (with physical states)</label>
     </fieldset>
 
@@ -115,19 +115,19 @@
              name = "base"
              id = "base2"
              value = "binary"
-             onclick="ComputerSelector.refresh(this.name)"  />
+             onclick="ComputerViewer.refresh(this.name)"  />
       <label for="base2">2 - Binary</label>
       <input type = "radio"
              name = "base"
              id = "base3"
              value = "ternary"
-             onclick="ComputerSelector.refresh(this.name)"  />
+             onclick="ComputerViewer.refresh(this.name)"  />
       <label for="base3">3 - Ternary</label><br>
        <input type = "radio"
              name = "base"
              id = "base10"
              value = "decimal"
-             onclick="ComputerSelector.refresh(this.name)"  />
+             onclick="ComputerViewer.refresh(this.name)"  />
       <label for="base10">10 - Decimal</label>
     </fieldset>
 
@@ -140,13 +140,13 @@
              name = "stored"
              id = "stor"
              value = "stored-program"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="stor">Yes</label>
       <input type = "radio"
              name = "stored"
              id = "nonstor"
              value = "structure-program"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="nonstor">No</label>
     </fieldset>
 
@@ -159,13 +159,13 @@
              name = "transmission"
              id = "seria"
              value = "serial"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="seria">Serial (one)</label><br>
       <input type = "radio"
              name = "transmission"
              id = "parall"
              value = "parallel"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="parall">Parallel (several)</label>
     </fieldset>
 
@@ -178,13 +178,13 @@
              name = "transistorised"
              id = "trans"
              value = "transistorised"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="trans">Yes</label>
       <input type = "radio"
              name = "transistorised"
              id = "nontrans"
              value = "nontransistorised"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="nontrans">No</label>
     </fieldset>
 
@@ -198,13 +198,13 @@
              name = "virtual"
              id = "virt"
              value = "virtual-memory"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="virt">Yes</label>
       <input type = "radio"
              name = "virtual"
              id = "nonvirt"
              value = "physical-memory"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="nonvirt">No</label>
     </fieldset>
 
@@ -217,19 +217,19 @@
              name = "instructions"
              id = "hardwire"
              value = ""
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="hardwire">Hard-wired gates</label><br>
       <input type = "radio"
              name = "instructions"
              id = "cisc"
              value = "CISC"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="cisc">CISC</label>
       <input type = "radio"
              name = "instructions"
              id = "risc"
              value = "RISC"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="risc">RISC</label>
     </fieldset>
 
@@ -242,13 +242,13 @@
              name = "gui"
              id = "hasGui"
              value = "gui-based"
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="hasGui">Yes</label>
       <input type = "radio"
              name = "gui"
              id = "noGui"
              value = ""
-             onclick="ComputerSelector.refresh(this.name)" />
+             onclick="ComputerViewer.refresh(this.name)" />
       <label for="hasGui">No</label>
      </fieldset>
 
@@ -256,15 +256,17 @@
 </div>
 
 <div id="nukem"> 
-    <button onclick="ComputerSelector.reset()" >Reset fields</button>
+    <button onclick="ComputerViewer.reset()" >Reset fields</button>
 </div>
 
 
-
+<!-- 
+     I wish I knew why I have to do this. But life is short:
+-->
 <script>
     document.getElementById("computerImg").src = "/img/spin.gif";
     document.getElementById("computerImg").style.display = "none";
 </script>
 
-<script src="/scripts/comput/ComputerSelector.min.js"></script> 
+<script src="/scripts/comput/ComputerViewer.min.js"></script> 
 <br>
