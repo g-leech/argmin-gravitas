@@ -8,7 +8,7 @@ author:		Gavin
 img:		/img/daniel.jpg
 
 visible:	1
-published: 	true
+published: 	false
 
 
 summary:	Actuarial check of the claim that welfare reforms killed thousands of people.
