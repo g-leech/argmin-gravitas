@@ -1,3 +1,38 @@
+<!-- Divide production equally -->
+{% 		assign gdp = 107500000000000 			%}
+{% 		assign pop = 7200000000 				%}
+{% 		assign percap =  gdp | divided_by: pop 	%}
+
+<!-- Subtract depreciation -->
+{% 		assign deprec_rate = 0.12 									%}
+{% 		assign nondeprec_share = 1 | minus: deprec_rate 			%}
+{% 		assign deprec = percap | times: nondeprec_share 			%}
+{% 		assign deprecStr = deprec | append: '' 						%}
+
+<!-- Subtract R&D -->
+{% 		assign research_rate = 0.025 							%}
+{% 		assign research_total = percap | times: research_rate	%}
+{% 		assign incResearch = deprec | minus: research_total		%}
+
+<!-- Subtract deadweight lower bound -->
+{% 		assign lo_dead_rate = 0.025 							%}
+{% 		assign lo_weight = percap | times: lo_dead_rate			%}
+{% 		assign lo_remnant = incResearch | minus: lo_weight		%}
+
+
+<!-- Subtract deadweight upper bound -->
+{% 		assign hi_dead_rate = 0.3 								%}
+{% 		assign hi_weight = percap | times: hi_dead_rate			%}
+{% 		assign hi_remnant = incResearch | minus: hi_weight		%}
+
+
+<!-- Subtract nonwelfare government -->
+{% 		assign govt_rate = 0.15 								%}
+{% 		assign govt_loss = percap | times: govt_rate			%}
+{% 		assign remnant = hi_remnant | minus: govt_loss			%}
+
+
+
 <div class="footnotes">
 <ol>
 
@@ -6,23 +41,26 @@
 	</li>
 
 	<li class="footnote" id="fn:2">
-		I cannot find good top-level estimates of world depreciation. <a href="http://www.ecb.europa.eu/events/pdf/conferences/oulton.pdf">See chart 28 here</a> for the only evidence I could find: ~12% depreciation per year for the UK.
+
+		<ul>
+			<li>Rough depreciation rate: {{ deprec_rate | times: 100 }}%	</li><br>
+			<li>Nondepreciated GWP per capita: {{ percap }} </li><br>
+			<li>{{ nondeprec_share }} * {{percap}} = ${{ deprecStr }}</li>
+		</ul>
+
+		<br>
+
+		(Re: "12%". I cannot find good top-level estimates of world depreciation. <a href="{{deprec}}">See chart 28 here</a> for the only evidence I could find: ~12% depreciation per year for the UK.)
 	</li>
 
 	
-	<li class="footnote" id="fn:3">
-		Socially conscious people are these days very ambivalent about economic growth, often for environmental reasons. But consider the enlightened definition of "productivity": it is not "amount of output", but the amount of output <i>per unit of input</i>. This is pure gain, and is actually environmentally positive, since it could reduce resource use and waste. But we do need output growth too: e.g. until every paraplegic on earth who wants <a href="https://www.technologyreview.com/s/546276/this-40000-robotic-exoskeleton-lets-the-paralyzed-walk/">one of these</a> has one.
-	</li>
-
-
 	<li class="footnote" id="fn:4">
 		Do read the comments <a href="http://www.sleuthsayers.org/2013/06/the-3500-shirt-history-lesson-in.html">on that article</a>; a heart-warming instance of critical attention producing better research by co-operation. Public redrafting! Why the internet doesn't do this more often... 
 	</li>
 
 
 	<li class="footnote" id="fn:5">
-		The hard problem of human life is boredom and dignity and meaning and all that. 
-		<br><br>
+		The hard problem of human life is boredom and dignity and meaning and all that. <br>
 	</li>
 
 
@@ -32,15 +70,68 @@
 
 
 	<li class="footnote" id="fn:7">
-		Another solution, which I don't trust myself to place in either category, is nationalised robot factories. (Food and clothes and houses, say.) But total state control of the means of production is too foreboding. Now, this could be my emotional overreaction to reading about e.g. Maoist China, with its <a href="https://books.google.co.uk/books?id=pcfYAQAAQBAJ&pg=PA298&lpg=PA298&dq=mao+cadres+withholding+food&source=bl&ots=BKOEZsDyka&sig=IOleNA0S1H_8DpgnnJn880AfbUE&hl=en&sa=X&ved=0ahUKEwjL_-nJnqHPAhWqIMAKHQX9DFEQ6AEIKDAD#v=snippet&q=food%20withheld%20as%20punishment&f=false">food terrorism</a> <a href="https://en.wikipedia.org/wiki/Backyard_furnace">and peasant-robbing</a>. But it rings malign: total control of production by <i>any</i> single entity is a terrible and unnecessary risk.<br><br>
-
 		"Come now!" you say, "A liberal democratic country would never deny <a href="https://www.theguardian.com/society/2012/jul/27/disability-benefit-assessors-film">basic subsistence</a> <a href="https://www.citizensadvice.org.uk/healthcare/help-with-health-costs/nhs-charges-for-people-from-abroad/">to people</a> <a href="http://www.bbc.co.uk/news/uk-36526158"><a href="https://www.theguardian.com/uk-news/2016/jul/28/hundreds-of-eritrea-asylum-applications-still-incorrectly-refused">for political reasons</a></a>!"
-
-		<br><br>
-
-		(But then, basic income is to come from the same pipe, and would thus be vulnerable to the same politicisation, the same horrible austerity cycles. This is another reason to focus on capital redistribution: put it right into people's hands, away from mob-shaped politicians, away from arbitrary denial.)
-		<br><br>
-
 	</li>
+
+	<li class="footnote" id="fn:8">
+		Basic income is like the basic-goods communism proposal, in that it transfers vast economic power to politicians - and is thus made unacceptably vulnerable. This is another reason to focus on capital redistribution: put it right into people's hands, away from mob-shaped politicians, away from arbitrary denial.
+	</li>
+
+	<li class="footnote" id="fn:9">
+		<ul>
+			<li>Gross world product, PPP (2014): $107.5 tn.</li><br>
+			<li>World population (2017): 7.2 billion.</li><br>
+			<li>So, Output per person: ${{ percap }}</li>
+		</ul>
+	</li>
+
+	<li class="footnote" id="fn:10">
+		<ul>
+			<li>Rough R&D share of GWP: {{ research_rate | times: 100 }}%	</li><br>
+			<li>R&D per person: {{ research_rate | times: 100 }}% of ${{ percap }} = ${{research_total}} </li><br>
+			<li>Output per person, after R&D and depreciation: ${{incResearch}}</li>
+		</ul>
+	</li>
+
+	<li class="footnote" id="fn:11">
+		<ul>
+			<li>Existing lower bound on the excess burden: 2.5%	</li>
+			<li>Per capita loss in the best case: ${{lo_weight}}</li>
+			<li>Remaining output per capita: ${{lo_remnant}}</li>
+		</ul>
+	</li>
+
+	<li class="footnote" id="fn:12">
+		<ul>
+			<li>Existing upper bound on excess burden: 30%	</li>
+			<li>Per capita loss on the worst ceteris paribus account: ${{hi_weight}}</li>
+			<li>Remaining output per capita: ${{hi_remnant}}</li>
+		</ul>
+	</li>
+
+	<li class="footnote" id="fn:13">
+		<ul>
+			<li>Nonwelfare government spending, as % of GWP: 15%	</li>
+			<li>Per capita spend on other government services : ${{govt_loss}}</li>
+			<li>Final extractable output per capita: ${{remnant}}</li>
+		</ul>
+	</li>
+
+	<li class="footnote" id="fn:14">
+		{%		assign wealth = 241000000000000		%}
+		{%		assign people = 7200000000			%}
+		{%		assign wealthPerCap = wealth | divided_by: people		%}
+		{%		assign incomePerCapPerAnnum = 10000			%}
+		{%		assign yearsLeft = wealthPerCap | divided_by: incomePerCapPerAnnum	%}
+		
+		{%   	assign modulus = wealthPerCap | times: 10 | divided_by: incomePerCapPerAnnum  %}
+		<ul>
+			<li>Total wealth: $241 tn.</li>
+			<li>Wealth per person: ${{wealthPerCap}}</li>
+			<li>Minimally acceptable basic income per year: ${{incomePerCapPerAnnum}}.</li>
+			<li>The wealth would last: {{yearsLeft}}.{{modulus}} years</li>
+		</ul>
+	</li>
+
 </ol>
 </div>
