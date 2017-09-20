@@ -26,10 +26,16 @@
 {%		assign cats = "https://en.wikipedia.org/wiki/Cataract_(beam_engine)"		%}
 {%		assign vaucans = "http://history-computer.com/Dreamers/Vaucanson.html"		%}
 {%		assign depreCost = "https://www.google.co.uk/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=15000%20*%200.88&oq=15000%20*%200.88&aqs=chrome..69i57j69i64.3391j0j7"		%}
-{%		assign rnd = "http://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS"		%}
+
+{%		assign rnd = "http://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS"			%}
+{%		assign ssc = "http://slatestarcodex.com/2014/09/24/book-review-red-plenty/"		%}
+{%		assign shalizi = "http://crookedtimber.org/2012/05/30/in-soviet-union-optimization-problem-solves-you/"			%}
 
 {%		assign rndCost = "https://www.google.co.uk/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=%2413%2C000%20-%20(%2415000%20*%200.025)&oq=%2413%2C000%20-%20(%2415000%20*%200.025)&aqs=chrome..69i57.22958j0j7" 		%}
 {%		assign excess = "https://en.wikipedia.org/wiki/Excess_burden_of_taxation" 		%}
+
+
+{%		assign foodTerror = "https://books.google.co.uk/books?id=pcfYAQAAQBAJ&pg=PA298&lpg=PA298&dq=mao+cadres+withholding+food&source=bl&ots=BKOEZsDyka&sig=IOleNA0S1H_8DpgnnJn880AfbUE&hl=en&sa=X&ved=0ahUKEwjL_-nJnqHPAhWqIMAKHQX9DFEQ6AEIKDAD#v=snippet&q=food%20withheld%20as%20punishment&f=false"	%}
 
 {%		assign lowerBound = "https://www.google.co.uk/search?espv=2&q=%2412%2C500+-+%28%2415000+*+0.025%29&oq=%2412%2C500+-+%28%2415000+*+0.025%29&gs_l=serp.3...130666.131829.0.135555.4.4.0.0.0.0.274.490.2-2.2.0....0...1c.1.64.serp..2.0.0.2Jmk13ywNL0" 		%}
 {%		assign upperBound = "https://www.google.co.uk/search?espv=2&q=%2412%2C500+-+%28%2415000+*+0.3%29&oq=%2412%2C500+-+%28%2415000+*+0.3%29&gs_l=serp.3...27305.28021.0.28419.4.4.0.0.0.0.83.307.4.4.0....0...1c.1.64.serp..0.0.0.djJaMZsaaE0" 		%}
@@ -47,3 +53,8 @@
 {%		assign loGrowth = "http://www.vox.com/2015/7/27/9038829/automation-myth" 		%}
 {%		assign smith = "http://noahpinionblog.blogspot.co.uk/2013/12/the-great-labor-dump.html" 		%}
 {%		assign ssc = "http://slatestarcodex.com/2016/05/28/book-review-age-of-em/" 		%}
+
+
+{%		assign deprec = "http://www.ecb.europa.eu/events/pdf/conferences/oulton.pdf"		%}	
+{%		assign household = "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_households"		%}
+{%		assign socialSpend = "https://stats.oecd.org/Index.aspx?DataSetCode=SOCX_AGG"			%}

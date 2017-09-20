@@ -93,7 +93,7 @@ Besides the obvious example - that we now produce a volume of food far beyond th
 
 <br><br>
 
-I am not very sure of any of the above; the <a href="{{loGrowth}}">actual stats on productivity growth</a> are worrying for the opposite reason: it has been too slow to support wages for a long time. Anyway other powerful forces (e.g. global outsourcing, the decay of unions) besides robots have led to the <a href="http://www.nber.org/papers/w19136">40-year decline</a> in labour's share of global income. But those will produce similar dystopian problems if the trend continues, and there's enough of a risk of the above scenario for us to put a lot of thought and effort into protecting people, either way.
+I am not very sure of any of the above; the <a href="{{loGrowth}}">actual stats on productivity growth</a> are worrying for the opposite reason: it has been too slow to support wages for a long time. Anyway other powerful forces (e.g. global outsourcing, the decay of unions) besides robots have led to the <a href="http://www.nber.org/papers/w19136">40-year decline</a> in labour's share of global income. But those will produce similar dystopian problems if the trend continues, and there's enough of a risk of the above scenario for us to put a lot of thought and effort into protecting people, either way.<br><br>
 
 
 <br><br>
