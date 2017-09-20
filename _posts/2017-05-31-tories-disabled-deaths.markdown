@@ -1,17 +1,17 @@
 ---
 layout: 	math_post
-title:  	"How many deaths from disability cuts?"
-baselink:	/killer-tories
-permalink:	/killer-tories/
-date:   	2017-05-20  <!--site.time-->
+title:  	"How lethal are the Tories?"
+baselink:	/esa-deaths
+permalink:	/esa-deaths/
+date:   	2017-09-20  <!--site.time-->
 author:		Gavin	
 img:		/img/daniel.jpg
 
-visible:	0
-published: 	false
+visible:	1
+published: 	true
 
 
-summary:	Actuarial look at the claim that Tory welfare reforms have killed thousands of people.
+summary:	Actuarial check of the claim that welfare reforms killed thousands of people.
 confidence: 80%
 warnings: 	bureaucracy, statistical illiteracy, UK-only
 categories: stats, social science
@@ -47,7 +47,7 @@ Deaths after unsuccessful DWP appeal:			1,360
 Deaths among ESA recipients, 2016:				50,580
 
 
-
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/459106/mortality-statistics-esa-ib-sda.pdf
 
 ## Age distribution of disabled people
 
@@ -71,13 +71,21 @@ I'm calling 'fit to work' a 'negative' result: the WCA test does not think you a
 False positive (disabled | not disabled): 20% ?
 False negative ( not disabled | disabled ): 20% ?
 
+
+Successful appeal = 40%
+
+
 We can use these to get the conditional probability of being disabled given a negative ("not disabled") WCA result.
 
 
 ## Comorbidity
 
-We could reduce the uncertainty of this given data on the cause of death - hypothermia and suicide being evidence of WCA killing, and decompensation of chronic illnesses being null evidence. 
+We could reduce the uncertainty of this, given data on the cause of death - hypothermia and suicide being evidence of WCA killing, and decompensation of chronic illnesses being null evidence. 
 
+
+## Known deaths
+
+[Michael O'Sullivan][sullivan], AKA "Mr A".
 
 
 ## Natural experiment: Scotland
@@ -86,7 +94,10 @@ We could reduce the uncertainty of this given data on the cause of death - hypot
 
 ## Note on data
 
-People [struggled with the DWP][struggle] to get these figures published. This is sometimes read as an admission of guilt. But given how naively the 2,380 figure was received, it is hard to blame them for their cowardly reticence.
+People [struggled with the Department for Work and Pensions][struggle] to get these figures published. This is sometimes read as an admission of guilt. But given how naively the 2,380 figure was received, it is hard to blame them for their cowardly reluctance.
+
+This doesn't cover the burden of life lost to admin and the distress caused to those who didn't die after it.
+
 
 
 ## Blaming mortals for mortality
@@ -94,9 +105,9 @@ People [struggled with the DWP][struggle] to get these figures published. This i
 That sockpuppet axeman, Iain Duncan Smith.
 
 
-* https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/459106/mortality-statistics-esa-ib-sda.pdf
+* 
 
-
+[sullivan]: http://www.newstatesman.com/politics/welfare/2015/09/disabled-man-killed-himself-over-benefit-cut-coroner-rules
 [esa]: https://en.wikipedia.org/wiki/Employment_and_Support_Allowance
 [naive]: https://www.theguardian.com/society/2015/aug/27/thousands-died-after-fit-for-work-assessment-dwp-figures
 [kilodeath]: https://www.gov.uk/government/statistics/mortality-statistics-esa-ib-and-sda-claimants
@@ -105,7 +116,7 @@ That sockpuppet axeman, Iain Duncan Smith.
 [struggle]: https://ico.org.uk/media/action-weve-taken/decision-notices/2015/1424160/fs_50557638.pdf 
 [cancer]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/cancersurvivalratescancersurvivalinenglandadultsdiagnosed
 
-{%  include comments.html %}
 
+{%  include comments.html %}
 
 {%  include killer-tories/foots.html %}
