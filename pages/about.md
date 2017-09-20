@@ -12,7 +12,8 @@ visible:	true
 <div style="padding:20px">
 	I'm Gavin Leech, a data scientist at the giant insurer <a href="{{Axa}}">AXA</a> <a href="#fn:4" id="fnref:4">4</a>. I write prose and software about things like <a href="{{welf}}">the unit of caring</a>, <a href="{{cs}}">quantitative epistemology</a>, and the <a href="{{stat}}">applied philosophy of science</a>. I aim for about one big post a month. I don't think of this as a blog (I see blogging as more like speech than writing).<br><br>
 
-	You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously <a href="{{Form}}">here</a>.<br><br>
+	You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously <a href="{{Form}}">here</a>.
+	<br><br>
 </div>
 
 
