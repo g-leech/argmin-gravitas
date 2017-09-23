@@ -1,0 +1,106 @@
+---
+layout: 	math_post
+title:  	"Modelling linguistic accommodation"
+baselink:	/accommodation
+permalink:	/accommodation/
+date:   	2017-09-23  <!--site.time-->
+author:		Gavin	
+img:		/img/accommodation/NFSM.jpg
+
+visible:	1
+published: 	true
+technical:	1
+
+summary:	Intro to computational linguistics, including a little observational study. 
+confidence: 80%
+warnings: 	A rewrite and replication is in progress.
+categories: stats, social science
+count: 		12,600
+---
+
+{%  include accommodation/links.html %}
+
+
+<center><img src="/img/bruegel.jpg" />
+
+<a href="#fn:0" id="fnref:0">0</a>
+<br>
+
+</center><br><br>
+
+
+> For example, you may come across definitions like this: "A finite state automaton
+is a quintuple ($$Q$$, $$\Sigma$$ , $$q_0$$, $$F$$, $$\delta$$) where Q is a finite set of states ($$q_0$$, $$q_1$$, ..., $$q_n$$ ), $$\Sigma$$ is a
+finite alphabet of input symbols, $$q_0$$ is the start state, $$F$$ is the set of final states $$F \in Q$$, and $$\delta \in Q \times \Sigma \times Q$$, the transition function."
+
+> That definition should be taken outside and shot.  <a href="#fn:3" id="fnref:3">3</a>
+
+<center>~ John Coleman</center>
+
+<br><br>
+
+(This is my MSc thesis, on using computers to detect changes in how people talk to each other. It represents no great advance, but I learned a ton and wrote <a href="{{py2htk}}">a little library</a> to ease future work. 
+
+The data isn't open, but I'm planning to record and annotate another set of conversations, so those of you at home can sing along.)<br><br><br>
+
+<hr />
+<br><br>
+
+'<a href="{{cat}}">Accommodation</a>' is that thing where you automatically mimic the person you're talking to. You might immediately think of baby talk and speaking loudly to old people, but these conscious games are not what I'm talking about. For humans also unconsciously shift speech, depending on the gender, status, and likeability of their interlocutor. Accomodation is pervasive, correlated with key bits of human interaction: empathy, status, and teamwork. Studying accommodation puts you at the intersection of statistical modelling, linguistics and social signal processing
+
+The trick is to detect accommodation using Hidden Markov models (HMMs). A speaker verification technique is adapted to detect accommodation: model-conditional probabilities are used to estimate the ‘distance’ of each speaker from their interlocutor for each word; this measure is the likelihood ratio of each word being uttered by one speaker, relative to their interlocutor uttering it. The correlation of these likelihood ratios over time is used to infer the presence of accommodation and to estimate effect sizes. Detecting accommodation through speaker verification techniques seems to be a novel approach to the problem.
+The modelling and data analysis was implemented in Python, with modelling tools from the open-source software suite, the ‘Hidden Markov Toolkit’ (HTK). <a href="#fn:2" id="fnref:2">2</a>
+
+We obtained highly significant correlations between speaker distances over time, in a range of models. We compare the effects of varying parameters on detections.<br><br><br>
+
+
+<hr /><br>
+
+
+<h2>1. Introduction</h2>
+
+{%		include accommodation/intro.md		%}
+
+
+<h2>2. Glossaries</h2>
+
+{%		include accommodation/gloss.md		%}
+{%		include accommodation/maths.md		%}
+
+
+<h2>3. Sequence modelling with state machines.</h2>
+
+{%		include accommodation/fsm.md		%}
+
+
+<h2>4. Hidden Markov modelling for linguistics</h2>
+
+{%		include accommodation/comp-ling.md		%}
+
+
+
+<h2>5. Present methodology</h2>
+
+{%		include accommodation/method.md	%}
+
+
+<h3>6. Results </h3>
+
+{%		include accommodation/results.md	%}
+
+
+<hr /><br>
+
+<h3>7. Conclusion</h3>
+
+{%		include accommodation/conc.md	%}
+
+
+<br><br>
+
+{%  	include accommodation/biblio.html %}
+
+{%  	include comments.html %}
+
+{%  	include accommodation/foots.html %}
+
