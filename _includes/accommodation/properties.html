@@ -1,0 +1,47 @@
+<br>
+
+<div class="accordion">
+
+<h3>Some resulting statistical properties of HMMs</h3>
+	<div>
+	
+		HMMs take the tractability and learnability of Markov models and add important properties:<br><br>
+
+		<ul>
+
+			<li><i>Statistical recovery of an unknown or underspecified process</i>. i.e. The approach can be
+			applied even where a target process is not repeatable, or a target data sequence (\(S\))
+			cannot itself be directly observed, as long as we are given an observable sequence (\(O\))
+			conditional on the target.</li><br><br>
+
+			<li><i>Statistical independence</i>. The structure of HMMs allows us to assume: 1) that state
+			transitions are conditionally independent of all prior and posterior states, except for the
+			state immediately prior; and 2) that each observation is conditionally independent of all
+			other observations.</li><br><br>
+
+			<li><i>Efficient parameter learning</i>. We can efficiently obtain good estimates for the
+			transition and emission function parameters by recursive expectation-maximisation over a
+			training set (see section 3.1.2 below).</li><br><br>
+
+			<li><i>Implicit modelling</i>. Given at least locally optimal parameters, HMMs implicitly model the
+			typical instance of a linguistic unit, as well as the ranges of variability to expect between
+			different tokens of the same unit. (Here, our unit is the typical word-independent utterance
+			of one speaker). <br><br>
+			This is fundamental to the present methodology, in which a holistic analysis
+			of the acoustic evidence is sought, and where no sufficient analytical understanding of the
+			process exists (e.g. a law-like neuroscientific model of accommodation).</li><br><br>
+
+			<li><i>Representation of more complex observation patterns.</i> The HMM’s stochastic emission
+			functions allow for differing patterns of observations conditional on the state. This includes
+			modelling continuous parameters via multivariate continuous-density distributions like the
+			Gaussian Mixture model. GMMs have further properties, e.g. multiple modes and non-
+			symmetrical input vectors (see Section 3.1.1).</li><br><br>
+
+		</ul>
+	</div>
+</div>
+
+<br><br>
+
+<br><br>
+<hr /><br>
