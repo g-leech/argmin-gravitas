@@ -11,7 +11,7 @@ To help locate us, let's define some subfields of computational linguistics:<br>
 	<li><span class="heav">Paralinguistics</span>: The analysis of the ‘supra-segmental’ parts of communication: including rhythm, pitch, volume and intonation. (That is, of those components that extend over multiple units of speech, e.g. phonemes.)</li><br>
 
 	<li><span class="heav">Social signal processing</span> (SSP): The analysis of interaction context (i.e. of properties beyond the literal communication). Involves automated inference from data to phenomena that cannot be directly observed, but only inferred from correlated behaviours.</li><br>
-</ul><br>
+</ul>
 
 
 We use techniques from each of the above: from speech processing, the vectorization of speech waves for tractable model inputs; from NLP, we adapt a mechanism (the general 'recogniser') initially developed for automatic word recognition; we incorporate paralinguistic content in considering more than the symbolic or phonemic content of speech; and in line with SSP we are attempting to make inferences about a social process indirectly.
