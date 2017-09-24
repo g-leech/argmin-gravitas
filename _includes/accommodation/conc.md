@@ -1,4 +1,4 @@
-This study sought to develop HMMs to investigate the presence and conditions of linguistic
+This study developed HMMs to investigate the presence and nature of linguistic
 accommodation. Two hyperparameters were varied, yielding eight permutations and three
 interesting results: 1) That multi-state HMMs consistently record fewer significant correlations; 2)
 That multi-state models consistently give evidence of the importance of temporal effects in linguistic
@@ -14,34 +14,20 @@ We had no control group or external measure to identify false positives generate
 validate any single judgment about a pair-task, or to enable definitive judgment about which of the
 above features or models are ‘better’ at detecting the real extent and nature of accommodation.
 This inherent limitation to inference aside, the present project’s limitations are mostly a matter of
-modelling extensions precluded by limited time:<br><br>
+modelling extensions precluded by haste:<br><br>
 
-The SSSV experiment’s method of pairing speakers created an extra variable, personality,
-that could have been incorporated: half of the participants were assigned each based on
-their compatibility as measured by a prior personality survey.<a href="#fn:66" id="fnref:66">66</a> The above analysis does not
-factor in this variable.<br><br>
+<ul>
+	<li>A larger range of HMMs should have been tried; however, on available computing (and zero budget), 100 hours of training was as far as we could go.</li><br>
 
- The range of models developed fell short of the given dataset’s potential in a few ways: in
-particular, there was no word-dependence and phoneme modelling. The more ambitious
-form would have been to create monophone and triphone models of each phoneme, and to
-reconstruct the accommodation in the phonemes and actual vocabulary spoken by each of
-the pairs.<br><br>
+	<li>Pairing speakers created an extra variable, estimated personality, that could have been incorporated: half of the participants were assigned each based on their compatibility as measured by a prior personality survey.<a href="#fn:66" id="fnref:66">66</a> The above doesn't factor this in.</li><br>
 
- Values for the hyperparameters (the number of Gaussians per mixture and the
-dimensionality of the vector space) were taken from the SSSV paper and were not varied. The flat-start initialisation and fixed rounds of re-estimation was also not optimal, relative to allowing dynamic
-convergence of parameters.<br><br>
+	<li>The range of models developed fell short of the given dataset’s potential in a few ways: in particular, there was no word-dependence and phoneme modelling. The more ambitious form would have been to create monophone and triphone models of each phoneme, and to reconstruct the accommodation in the phonemes and actual vocabulary spoken by each of the pairs.</li><br>
 
- There was no ‘cross-validation’ (that is, no alternative divisions of the data into the training
-and test categories, followed by an iteration of training and testing over these alternative
-categorisations, to more rigorously control for variation within the dataset).<br><br>
+	<li>Values for the hyperparameters (the number of Gaussians per mixture and the dimensionality of the vector space) weren't varied. The flat-start initialisation and fixed rounds of re-estimation was also not optimal, relative to allowing dynamic convergence of parameters.</li><br>
 
-These limitations offer a clear set of hyperparameters for future accommodation modelling on this
-or similar datasets, including most relevantly monophone or triphone modelling (using 40-phoneme
-HMMs and being able to breaking down accommodative effects by changes in each) . The development of feature vectors tailored to detect accommodation by combining acoustic variables it has identified in. 
+	<li>There was no ‘cross-validation’ (that is, no alternative divisions of the data into the training and test categories, followed by an iteration of training and testing over these alternative categorisations, to more rigorously control for variation within the dataset).</li><br>
+</ul>
 
-The statistical technique ‘Granger causality’ – inferring the causal direction of two
-variables in time-series – could be applied in order to get a better sense of which of the two sides of
-accommodation (changes in human air-pressure waves and changes in social signals) are the
-underlying process, if it is fact not fundamentally bi-directional. <a href="#fn:67" id="fnref:67">67</a>
+These offer clear hyperparameters for future modelling on similar datasets, including, most relevantly, monophone or triphone modelling (using 40-phoneme HMMs and so being able to break down accommodative effects by changes in each phoneme). This could also guide the development of feature vectors tailored to detect accommodation, by combining acoustic variables the models identified over states.
 
-<br><br>
+The statistical technique ‘Granger causality’ – inferring the causal direction of two variables in time-series – could be applied in order to get a better sense of which of the two sides of accommodation (changes in human air-pressure waves and changes in social signals) are the underlying process, if it is fact not fundamentally bi-directional. <a href="#fn:67" id="fnref:67">67</a>

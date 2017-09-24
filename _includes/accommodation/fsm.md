@@ -1,9 +1,17 @@
 Abstractly, we can consider any speech signal as a statistical sequence of observations . For a multi-level phenomenon like speech, the terms of $$O$$ might be words, phonemes, or lower-level features like vectors of spectral coefficients extracted from the signal. The signal is treated statistically in order to make the analysis tractable, to handle the massive variability found between tokens of linguistic symbols, and because of the automation it
 offers: the models we need can be optimised given just data and some initial guesses. <a href="#fn:27" id="fnref:27">27</a>
 
-This consideration made, we can define the pattern recognition (or sequence analysis) problem as: “How do we get a probability density function for the space of these sequences?” 
+This consideration made, we can define the pattern recognition (or sequence analysis) problem as: “<i>How do we get a probability density function for the space of these sequences</i>?” 
 
-There are two approaches: <i>Generative</i> models, which first describe the underlying data-generating process for \(O\) as a model \( \theta \), then categorises tokens of that process by computing the probability of \(O\) conditional on the model, i.e. \( p(O | \theta ) \). Or <i>discriminative</i> models, which don't model the original process, but instead directly categorise tokens via taking a conditional probability distribution over the signal, i.e. \( p( \theta | O ) \). <a href="#fn:28" id="fnref:28">28</a>
+There are two rough approaches: 
+
+<i>Generative</i> models, which first describe the underlying data-generating process for $$O$$ as a model $$ \theta $$, then categorises tokens of that process by computing the probability of $$O$$ conditional on the model, i.e. 
+$$
+p(O | \theta)
+$$ 
+
+
+Or <i>discriminative</i> models, which don't model the original process, but instead directly categorise tokens via taking a conditional probability distribution over the signal, i.e. $$ p( \theta \,|\, O ) $$. <a href="#fn:28" id="fnref:28">28</a>
 <br>
 
 In linguistics, we generally want to map $$O$$ to a series of symbols, ‘decoding’ the signal into one or other familiar categories, as in:<br><br>

@@ -1,7 +1,7 @@
 <center>
 <img src="/img/accommodation/fsms.png" width="55%" height="55%" />
 
-<br><br>	Fig.2. The relation between key classes of automata, as nested sets.<br><br>
+<br><br>	<i>Fig.2</i>. The relation between key classes of automata, as nested sets.<br><br>
 <br><br>
 </center>
 
@@ -73,7 +73,7 @@ designing HMMs and the standard algorithms used to overcome them:<br><br>
 
 <hr /><br>
 
-	<li><i>Conditional evaluation</i>: given a model \(\theta_A\), what’s the probability of a given observation sequence \( o_t\), or set thereof \( O^{(A)}\)?<br><br>
+	<li><h4><i>Conditional evaluation</i></h4>: given a model \(\theta_A\), what’s the probability of a given observation sequence \( o_t\), or set thereof \( O^{(A)}\)?<br><br>
 
 		: We use the Forward-Backward algorithm to find this: it is the sum of probabilities of generating \(O\), given all different state sequences it arises in (see equation E3, above or): 
 		$$
@@ -88,7 +88,7 @@ designing HMMs and the standard algorithms used to overcome them:<br><br>
 
 <hr /><br>
 
-	<li><i>Best decoding</i>: how to choose an optimal state sequence \(S*\) through \(\theta_A\)? <br><br>
+	<li><h4><i>Best decoding</i></h4>: how to choose an optimal state sequence \(S*\) through \(\theta_A\)? <br><br>
 
 		: We use the Viterbi algorithm to find the likeliest state sequence, such that: 
 		$$
@@ -100,7 +100,7 @@ designing HMMs and the standard algorithms used to overcome them:<br><br>
 
 <hr /><br>
 
-	<li><i>Model learning</i>: How do we choose model parameters that maximise the likelihood of the training data, \( P(O_{BW} \,|\, \theta_A) \)?<br><br>
+	<li><h4><i>Model learning</i></h4>: How do we choose model parameters that maximise the likelihood of the training data, \( P(O_{BW} \,|\, \theta_A) \)?<br><br>
 
 	We use Baum-Welch re-estimation to find the optimal parameters given a training set:
 	$$
