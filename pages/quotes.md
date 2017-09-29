@@ -5,9 +5,13 @@ permalink: 	/quotations/
 visible:	true
 ---
 
-<div align="center" style="padding-top: 30px">
-	<blockquote>Beware of thinkers whose minds function only when fuelled by a quotation. <a href="#fn:1" id="fnref:1">1</a></blockquote>
+<div align="center" style="padding-top: 30px;">
+	<blockquote style="border-left: none;">
+		Beware of thinkers whose minds function only when fuelled by a quotation. <a href="#fn:1" id="fnref:1">1</a>
+	</blockquote>
+	
 	— Emil Cioran
+	
 </div><br><br><br>
 
 I won't get around to systematically stating a worldview. (It's maybe bad for you, anyway.) But I like aphorisms, so here's a molecular version of a worldview:
@@ -50,7 +54,8 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 			<h3>cioran</h3><div>{%		include quotes/cioran.html	%}	</div>
 			<h3>perlis</h3><div>{%		include quotes/perlis.html	%}	</div>
 			<h3>gwern</h3><div>{%		include quotes/gwern.html	%}	</div>
-			<h3>me</h3><div>{%			include quotes/I.html		%}	</div>
+			<h3>me</h3><div>	{%		include quotes/I.html		%}	</div>
+			<h3>epigram for this page</h3><div>{%		include quotes/epigram.md		%}</div>
 		<br>	
 		</div>
 	</div>
@@ -58,11 +63,6 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 
 <br><br><br>
 
-> Someone might say I have only made a bouquet of other people's flowers here, supplying nothing of my own but the thread to bind them... <a href="#fn:3" id="fnref:3">3</a>
-
-> But if you embrace the opinions of [others] through reasoning, they will no longer be theirs, they will be yours... Truths are held in common by all, and no more belong to those that uttered them first than to him that repeats them later. It is no more 'according to Plato'; it is according to me, since he and I both understand it. Bees plunder flowers, but they do so after honey, which is afterwards all theirs; it is no longer thyme or marjoram. So too with borrowed parts of others: you transform them, mingle them, and make a work entirely yours - namely, your judgment. <a href="#fn:4" id="fnref:4">4</a>
-
-<div align="center">— Montaigne</div><br>
 
 
 <div class="footnotes">
