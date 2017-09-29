@@ -28,9 +28,12 @@ visible:	true
 <div class="accordion">
 	<h3>Giving</h3>
 	<div>
+		<a href="{{GWWC}}"><img src="/img/GWWC.jpg" hspace="20" width="100px" height="100px" align="left" /></a>
+		
 		I'm a member of <a href="{{GWWC}}">Giving What We Can</a>, people who pledge substantial amounts of their lifetime income to the most effective charitable causes.<br><br> 
 
-		I'm giving <a href="{{MyGiving}}">10% this year</a>, aiming at 50% overall <a href="#fn:2" id="fnref:2">2</a>. My reasoning on which causes are most important is forthcoming; my present basket of charities is forthcoming.<br><br>
+		I'm donating <a href="{{MyGiving}}">10% this year</a>, aiming at 50% overall <a href="#fn:2" id="fnref:2">2</a>. My reasoning on the most important causes, and my present basket of charities is forthcoming.<br><br>
+		<!-- </div> -->
 	</div>	
 </div>
 
