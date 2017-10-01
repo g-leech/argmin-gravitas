@@ -53,6 +53,7 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 			<h3>gide</h3><div>{%		include quotes/gide.html	%}	</div>
 			<h3>cioran</h3><div>{%		include quotes/cioran.html	%}	</div>
 			<h3>perlis</h3><div>{%		include quotes/perlis.html	%}	</div>
+			<h3>borges</h3><div>{%		include quotes/borges.html	%}	</div>
 			<h3>gwern</h3><div>{%		include quotes/gwern.html	%}	</div>
 			<h3>me</h3><div>	{%		include quotes/I.html		%}	</div>
 			<h3>epigram for this page</h3><div>{%		include quotes/epigram.md		%}</div>
