@@ -84,12 +84,12 @@ def constrain_digital(data) :
 
 def constrain_single_program(data) :
     if data['programmables'] == FIXIE : 
-        constrain(specialId)
-        data['universal'] = SPECIAL
-        constrain('nonstor')
-        data['stored'] = ''
         constrain(generalId, False)
-     
+        data['universal'] = SPECIAL
+        constrain(specialId)
+        data['stored'] = NOSTORE
+        constrain('nonstor')
+
     return data
 
 
