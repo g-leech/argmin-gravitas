@@ -1,0 +1,35 @@
+---
+layout:   post
+title:    "Conceptual conversions"
+baselink: /conversion
+permalink: /conversion/
+date:     2017-10-21
+author:   Gavin 
+img:      /img/table.jpg
+
+visible:    1
+published:  true
+
+summary:    Relating maths, metaphysics, & (OOP) programming, if you already know one.
+confidence: 90% that the main table are real commonalities.
+categories: philosophy
+count:      400
+---
+
+
+{%  include conversion/style.html    %}
+
+{%  include conversion/main_table.html    %}
+
+
+<div class="accordion">
+  <h3>Tenuous</h3>
+  <div>
+    {%  include conversion/tenuously.html    %}
+  </div>
+</div>
+
+
+{%  include comments.html %}
+
+{%  include conversion/foots.html    %}
