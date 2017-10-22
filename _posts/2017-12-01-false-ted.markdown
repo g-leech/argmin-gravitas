@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "How false is TED?"
+baselink:   /ted
+permalink:  /ted
+date:       2017-08-15  <!--site.time-->
+author:     Gavin
+
+img:        /img/
+published:	false
+visible: 	1
+best:		1
+
+summary:    Checking the replication of the science behind TED talks.
+confidence:	
+categories: 
+warnings:	
+count:		
+---
+
+
+Meta-meta-analysis.
+
+Compared to social science's average replication rate (50%)
