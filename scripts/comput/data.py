@@ -1,11 +1,14 @@
-fullModel = [ "index", "name", "protagonists", "date", "signals",
-    "universal", "programmables","stored", "representation","base",
-    "transmission", "transistorised",  "virtual",
-    "instructions", "gui", "notes", "link"
+
+
+fullModel = [ 
+        "index", "name", "protagonists", "date", "signals",
+        "universal", "programmables","stored", "representation","base",
+        "transmission", "transistorised",  "virtual",
+        "instructions", "gui", "notes", "link"
 ]
 
 fieldModel = fullModel[4:-2]
-whats = [ "?" for i in range(len(fullModel))]   # Transcrypt can't handle string multiplication
+whats = [ "?" for i in range(len(fullModel)) ]   # Transcrypt can't handle string multiplication
 whats[fullModel.index("name")] = "N&#47;A"
 nullComputer = dict(zip(fullModel, whats))
 
@@ -51,7 +54,7 @@ computers = [
     [   38,"Fairchild Solid-State Micrologic Element","Jay Last","26/5/1960","fully-electronic","general-purpose","programmable","stored-program","digital","binary","serial","transistorised","physical-memory","CISC","","first planar integrated circuit"],
     [   39,"Texas Instruments molecular computer","Jack Kilby and Harvey Cragon","01/10/61","fully-electronic","general-purpose","programmable","stored-program","digital","binary","serial","transistorised","physical-memory","CISC","","first basic integrated circuit computer. Invented 12/9/1958"],
     [   40,"Manchester Atlas Computer","Tom Kilburn","07/12/1962","fully-electronic","general-purpose","programmable","stored-program","digital","binary","serial","transistorised","virtual-memory","","",None],
-    [   41,"IBM System&#47;360","Gene Amdahl, Fred Brooks","07/04/1964","fully-electronic","general-purpose","programmable","stored-program","digital","binary","serial","transistorised","virtual-memory","CISC","","first use of an abstract instruction set architecture"],
+    [   41,"IBM System360","Gene Amdahl, Fred Brooks","07/04/1964","fully-electronic","general-purpose","programmable","stored-program","digital","binary","serial","transistorised","virtual-memory","CISC","","first use of an abstract instruction set architecture"],
     [   42,"CDC 6600","Seymour Cray","early 1965","fully-electronic","general-purpose","programmable","stored-program","digital","binary","serial","transistorised","virtual-memory","RISC","","first RISC computer (anachronistic name, but true)"],
     [   43,"Xerox Alto","Charles Thacker, Alan Kay, Butler Lampson","01/03/1973","fully-electronic","general-purpose","programmable","stored-program","digital","binary","serial","transistorised","virtual-memory","CISC","gui-based","first GUI-based computer (as opposed to the NLS, which was the first GUI software)"],
 ]
