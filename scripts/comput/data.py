@@ -9,7 +9,7 @@ fullModel = [
 
 fieldModel = fullModel[4:-2]
 whats = [ "?" for i in range(len(fullModel)) ]   # Transcrypt can't handle string multiplication
-whats[fullModel.index("name")] = "N&#47;A"
+whats[fullModel.index("name")] = "Not known"
 nullComputer = dict(zip(fullModel, whats))
 
 
