@@ -49,9 +49,9 @@ The data isn't open, but I'm planning to record and annotate another set of conv
 
 The trick is to detect it using Hidden Markov models (HMMs). A technique from speaker verification is adapted: model-conditional probabilities estimate the ‘distance’ of each speaker, from their interlocutor, for each word. This likelihood ratio is taken for each word uttered by a speaker, relative to their interlocutor uttering it. The correlation of these ratios over time is used to infer the presence of accommodation and estimate effect sizes. 
 
-The modelling and data analysis was <a href="{{py2htk}}">implemented in Python</a>, with modelling tools from the ‘Hidden Markov Toolkit’ (HTK). <a href="#fn:2" id="fnref:2">2</a>
+I used the dataset from <a href="{{sssv}}">Stuart-Smith et al (2015)</a> (henceforth "SSSV" after the surnames of the authors): n=120,000 words, from 6 pairs of speakers. The modelling and data analysis was <a href="{{py2htk}}">implemented in Python</a>, with modelling tools from the ‘Hidden Markov Toolkit’ (HTK). <a href="#fn:2" id="fnref:2">2</a>
 
-We obtained highly significant correlations between speaker distances over time, in a range of models. We compare the effects of varying parameters on detections.<br><br><br>
+<br><br><br>
 
 
 <hr /><br>
