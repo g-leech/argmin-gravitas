@@ -1,0 +1,188 @@
+%Compiled with LuaLaTeX with fontspec
+\documentclass[]{friggeri-cv}
+\hypersetup{%
+  colorlinks=true,% hyperlinks will be black
+  linkcolor=green,% hyperlink borders will be red
+  pdfborderstyle={/S/U/W 1}% border style will be underline of width 1pt
+}
+\definecolor{mygrey}{gray}{0.4}
+\newcommand{\email}{\underline{\href{mailto:g@gleech.org}{Email}}}%
+\newcommand{\predictions}{\underline{\href{http://predictionbook.com/users/technicalities}{Predictions}}}%
+\newcommand{\linkedIn}{\underline{\href{https://linkedin.com/in/gleech}{LinkedIn}}}%
+\newcommand{\github}{\underline{\href{https://github.com/g-leech}{Github}}}%
+\newcommand{\newBlog}{\underline{\href{www.gleech.org}{Blog}}}%
+\newcommand{\aidImpact}{\underline{\href{https://www.gleech.org/aid}{Aid impact bounds}}}%
+\newcommand{\hmms}{\underline{\href{https://www.gleech.org/accommodation}{Speaker similarity}}}%
+\newcommand{\analogies}{\underline{\href{https://www.gleech.org/conversion/}{Formal analogies}}}%
+\newcommand{\nonvicious}{\underline{\href{https://www.gleech.org/automatic}{Automation \& welfare}}}%
+\newcommand{\latex}{\underline{\href{https://www.gleech.org/cv.tex}{LaTeX}}}%
+%
+\newcommand{\livingWage}{\underline{\href{https://www.gleech.org/maximum}{Maximum wage}}}% 
+\newcommand{\dataScience}{\underline{\href{http://gleech.org/data-science}{On data science}}}%
+\newcommand{\axaJob}{\href{https://web.archive.org/web/20170113182017/https://www.kaggle.com/jobs/17128/axa-insurance-data-scientist-london}{\textbf{Data Scientist}}}% 
+\newcommand{\controversy}{\underline{\href{http://gleech.org/controversy}{Controversy vs impact}}}%
+\newcommand{\odyssey}{\underline{\href{https://docs.google.com/spreadsheets/d/1eAe55oEzFhSFB5qNZYMzjSRLcJOW34_DxdAscXSu0AQ/edit?usp=sharing}{vs publication bias}}}%
+\newcommand{\json}{\underline{\href{https://github.com/gavin-leech/MachineCV/blob/master/jobs_4_machines.json}{Career JSON}}}%
+\newcommand{\furoJob}{\href{https://web.archive.org/web/20170113184959/https://1.bp.blogspot.com/-8MTHkoAbScc/WHkd2EI0liI/AAAAAAAAC1k/0ZWr2XpO_ewW3Hd1RDHTfv3O_jki3bNigCLcB/s1600/furo.png}{\textbf{\textbf{Frontend Developer}}}}%
+\newcommand{\freeJob}{\href{http://web.archive.org/web/20170113190649/http://www.freetobook.com/}{\textbf{Software Developer}}}%
+\newcommand{\stugoJob}{\href{http://web.archive.org/web/20170113185418/http://stugo.co.uk/}{\textbf{Graduate Software Developer}}}%
+\newcommand{\govJob}{\href{http://web.archive.org/web/20170113190449/http://www.gov.scot/Resource/0047/00478784.pdf}{\textbf{Assistant Statistician}}}%
+\newcommand{\standJob}{\href{http://web.archive.org/web/20170113190135/http://standinternational.org/about-us}{\textbf{\,\,Database Developer}}}%
+\newcommand{\altHmms}{\underline{\href{https://www.gleech.org/accommodation}{Hidden Markov Models in the study of accommodation}}}%
+\newcommand{\altAid}{\underline{\href{https://www.gleech.org/aid}{Evaluating aid abolitionism}}}%
+\newcommand{\sparkCert}{\underline{\href{http://www.oreilly.com/data/sparkcert.html}{O'Reilly Developer Certification for Spark}}}%
+\newcommand{\scala}{\underline{\href{https://www.coursera.org/specializations/scala}{Odersky`s Scala Specialisation}}}%
+\newcommand{\iq}{\underline{\href{https://2.bp.blogspot.com/-T72346JIUhk/WKnGhDfOZTI/AAAAAAAAC2Q/08OJLVovi64flXyfz0RsSZ6mNsjSlvUCACLcB/s1600/2017-02-10-153628.jpg}{IQ: 99th percentile}}}
+\begin{document}
+%
+\header{gavin\,}{leech}
+       {data scientist, software developer} %/ research parasite}
+%
+\begin{aside}
+  \section{about}
+    London based.
+    ~
+    \email{}
+    \github{}
+    \newBlog{}
+    \linkedIn{}
+  	~
+  	~
+  \section{research} 
+	\hmms{}
+  	\aidImpact{}
+  	\nonvicious{}
+    \dataScience{} 
+  	\livingWage{}
+    \controversy{}
+   	\analogies{}
+%
+  ~
+  ~
+  \section{programming}
+    Python/SciPy/Spark, Keras, *nix, C\#, JS (ES6, node), PHP, Scala, Pig, \latex{} ...Powershell.
+  ~
+  ~
+  \section{metadata}
+    %\iq{}
+    \odyssey{}
+	\json{}
+  	%\antiresume{}
+  	%\pwem{}
+\end{aside}
+
+\smallskip
+\section{interests}
+
+effective altruism, failures of human reasoning, failures of human reasoning about human reasoning, statistics as applied philosophy, data mining as conceptual analysis, lists.\\
+%
+\\
+\section{experience}
+\begin{entrylist}
+	\smallskip\smallskip
+	\entry
+	{Sep‘16 – Now}
+	{\axaJob{}}
+    {AXA Insurance, London}
+    {Creating machine learning models (GLMs, GBMs, ANNs) for pricing, medical risk, image recognition on architectural plans; scraping at scale; orchestrating a TB/day Hadoop pipeline. I head a team of 3 junior engineers \& scientists.\\
+     \textit{Buzzwords:}	Python, Spark, Keras, Jupyter, Hadoop, Oozie, Avro, Pig, Pytest. }		
+    
+    \smallskip\smallskip    \smallskip\smallskip \smallskip\smallskip
+	\entry
+	{May – Aug‘16}
+	{\furoJob{}}
+    {Furo, London}
+    {Helped on a fresh procurement web app. Sole responsibility for design \& implementation of a tendering system, through TS controllers from APIs. \\
+    \textit{Buzzwords:}	C\# 6, Typescript, Angular, Visual Studio/SQL Server, Bitbucket. }	
+    \smallskip\smallskip\smallskip\smallskip \smallskip\smallskip
+    
+    \entry
+	{Oct‘15 – Jun‘16}
+	{\freeJob{}}
+    {Freetobook, Glasgow}
+    { Worked on a large legacy accommodation engine: PHP back-end, JS front-end, REST APIs.
+    Sole design of secure, PCI compliant, credit-card storage. \\
+	\textit{Buzzwords:}	PHP (5 \& 7), LAMP, SQL, Laravel, cURL, Gitlab, New Relic. }	
+	\smallskip\smallskip	\smallskip\smallskip	\smallskip\smallskip
+	
+	\entry
+	{Jun – Sep‘15}
+	{\stugoJob{}}
+    {Stugo, Glasgow}
+    { Jumped into web tech from scratch; wrote first production code within 2 weeks, deployed to pharmacies worldwide. Worked on a medicine pump manager (C\#) \& a secure pharmacy record system (nodeJS). 4th employee. 
+    \\
+	\textit{Buzzwords:}	C\#, WPF, node.JS, MEAN, Ractive, Mongo, Vagrant, VMWare. }	
+	\smallskip\smallskip	\smallskip\smallskip	\smallskip\smallskip
+	
+	\entry
+	{Dec‘14 – May‘15}
+	{\standJob{}}
+    {STAND International, Edinburgh}
+    {\,\,Built a small ops database for an international NGO. Greenfield design \& deployment; using the 365 nonprofit licence, I delivered this at zero cost. \\
+	\,\,\textit{Buzzwords:}	MS Access, Office365, SQL, UML, data protection. }
+	\smallskip\smallskip	\smallskip\smallskip	\smallskip\smallskip
+	
+	\entry
+	{Jan – Apr‘14}
+	{\govJob{}}
+    {The Scottish Government, Edinburgh}
+    {Produced \& explained official stats for Education Analytical Services. Worked on the `Insight' reporting platform, giving teachers hard data \& viz on their classes \& themselves. Prepped the national Social Care Survey 2015. \\
+	\textit{Buzzwords:}	SAS, SQL, OLAP, PCA, data protection, official statistics. }\\
+\end{entrylist}
+% 
+\\\\
+\section{software}
+% 
+\begin{entrylist}
+  \entry
+    {2017}
+    {sesame: SEarch for StAtistical MEthods}
+    {\href{}{work in progress}}
+    {Decision trees / search engine for which stats you can/should use. Scala.js}
+\\
+  \entry
+    {2017}
+    {The First Computers}
+    {\href{https://www.gleech.org/first-computers/}{deployed here}}
+    {Tiny app (and a conceptual analysis) to solve a historical question. Uses the Transcrypt Python transpiler - unfortunately.}
+\\
+  \entry
+     {2016}
+     {modernlove}
+     {\href{}{work in progress}}
+     {A visualiser for sexualities. Python / Django / nose / seaborn }
+\\
+  \entry
+    {2015}
+    {Py2HTK}
+    {\href{https://github.com/g-leech/Py2HTK}{github here}}
+    {Wrapper for venerable (creaky) ML library, the Hidden Markov model ToolKit. }
+
+\end{entrylist}
+\\\\
+\section{education}
+\begin{entrylist}
+  \entry
+    {2013 – Now}
+    {BSc Mathematics \& Statistics}
+    {The Open University}
+    {Proper foundation: Analysis, probability theory, functional analysis, linear algebra, ODEs \& PDEs, experiment design and RCTs, sampling theory, classical mechanics \& field theory, stochastic processes, medical statistics, Bayesian modelling, thus far. Part-time during full-time work.}\smallskip \\
+    
+  \entry
+    {2014 – 2015}
+    {MSc Software Development}
+    {University of Glasgow}
+    {Conversion Masters: Java, SQL, HTML/CSS/PHP, MC6800 assembly plus 'patterns, data structures \& algorithmics. The psychology of security, law of safety-critical systems, design of UX. Thesis in computational linguistics: '\altHmms{}'.} \smallskip\\
+  \entry
+    {2008 – 2012}
+    {MA (Hons) Economics with Philosophy} 
+    {University of Aberdeen}
+    {Topics covered included formal logic, micro- \& macro- economics, rudimentary
+statistics, health policy, development policy. I received a four-year Alumni Fund scholarship on merit. Dissertation in foreign aid effectiveness: '\altAid{}'.}
+%  \entry
+%    {2017}
+%    { Various online certificates }
+%    {Databricks, Coursera, edX}
+%    {\sparkCert{}; \scala{}; the Microsoft Professional Degree in Data Science (engineering \& analysis with T-SQL, PowerBI, R, Azure ML, HDInsight, Cortana).}\smallskip  
+\end{entrylist}
+\end{document}
