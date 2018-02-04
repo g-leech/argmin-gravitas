@@ -3,7 +3,7 @@ layout:     post
 title:      "A ceiling for human expertise"
 baselink:   /ceiling
 permalink:  /ceiling
-date:       2017-01-31  <!--site.time-->
+date:       2018-01-31  <!--site.time-->
 author:     Gavin
 
 img:        /img/agz_3b.png
