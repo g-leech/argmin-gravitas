@@ -1,6 +1,16 @@
 <div>
+	{%	include js/lazyFrame.html		%}
+	{%	assign ous = "http://www.jimaceverett.com/research/consequentialism/oxford-utilitarianism-scale/"	%}
+	{%	assign found = "http://www.moralfoundations.org/"	%}
+	{%	assign foundImg = "/img/psych/moral_found.png"		%}
+	{%	assign schwartzDoc = "http://www.yourmorals.org/schwartz.2006.basic%20human%20values.pdf"		%}
+	{%	assign schwartzImg = "/img/psych/schwartz_values.png"		%}
+	{%	assign big5 = "https://en.wikipedia.org/wiki/Big_Five_personality_traits"		%}
+	{%	assign fiveImg = "/img/psych/big_five.png"		%}
+
+
 	<ul>
-		<li><a href="http://www.jimaceverett.com/research/consequentialism/oxford-utilitarianism-scale/">Oxford Utilitarianism Scale</a>
+		<li><a href="{{ous}}">Oxford Utilitarianism Scale</a>
     	<ul>
     		<li>Impartial Beneficence: 33 out of 35</li>
     		<li>Instrumental Harm: 21 out of 28</li>
@@ -8,20 +18,24 @@
     	</li><br><br>
     
 
-		<li><a href="http://www.moralfoundations.org/">Moral Foundations</a>:
-			<a href="/img/psych/moral_found.png"><img src="/img/psych/moral_found.png" /></a>
+		<li>
+			<a href="{{found}}">Moral Foundations</a>:
+			<a href="{{foundImg}}"><div id="foundImg"></div></a>
 		</li><br><br>
 
 
-		<li><a href="http://www.yourmorals.org/schwartz.2006.basic%20human%20values.pdf">Schwartz' Value Survey</a>
-			<a href="/img/psych/schwartz_values.png"><img src="/img/psych/schwartz_values.png" /></a><br><br>
+		<li>
+			<a href="{{schwartzDoc}}">Schwartz' Value Survey</a>
+			<a href="{{schwartzImg}}"><div id="schwartzImg"></div></a>
+			<br><br>
 			
 			<center><a href="#fn:1" id="fnref:1">1</a></center>
 		</li><br><br>
 
 
-		<li><a href="https://en.wikipedia.org/wiki/Big_Five_personality_traits">The Big Five</a>
-			<a href="/img/psych/big_five.png"><img src="/img/psych/big_five.png" /></a>
+		<li>
+			<a href="{{big5}}">The Big Five</a>
+			<a href="{{fiveImg}}"><div id="fiveImg"></div></a>
 		</li>
 
 	</ul>
@@ -45,6 +59,16 @@
 
 	</ol>
 	</div>
+
+
+	<script>  
+    	var src = "{{foundImg}}";
+    	definiteEvent( createImg, [src, "foundImg"] ); 
+    	var src = "{{schwartzImg}}";
+    	definiteEvent( createImg, [src, "schwartzImg"] ); 
+    	var src = "{{fiveImg}}";
+    	definiteEvent( createImg, [src, "fiveImg"] ); 
+	</script>
 </div>
 
 
