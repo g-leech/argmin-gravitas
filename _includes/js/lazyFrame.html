@@ -1,12 +1,24 @@
 <script>
 
-	function createIframe(src, what) {
-	          var i = document.createElement("iframe");
-	          i.src = src
-	          i.frameborder = "0";
-	          i.width = "100%";
-	          i.height = "400px";
-	          document.getElementById(what).appendChild(i);
+	function create(src, parent, type) {
+		var i = document.createElement(type);
+		i.src = src;
+	    i.frameborder = "0";
+	    document.getElementById(parent).appendChild(i);
+
+	    return i
+	}
+
+
+	function createIframe(src, parent) {
+		var i = create(src, parent, "iframe")
+		i.width = "100%";
+		i.height = "400px";
+	}
+
+
+	function createImg(src, parent) {
+		create(src, parent, "img")
 	}
 
 
