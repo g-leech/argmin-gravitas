@@ -57,18 +57,25 @@ visible:	true
     -->
 	</div>
 	
-
 	<h3>Psychology</h3>
 	{%		include about/psychology.html		%}
 
 	{%		include about/code.html		%}
 
 	{%		include about/misc.html		%}
+</div>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+{%		include about/foots.html	%}
 
 
+<!-- If big screen, pad down the footer -->
+<style>
+	@media (min-width: 30em) {
+	#padder {
+		height: 29.5vh;
+	}
+}
+</style>
 
-
-{%	include about/foots.html	%}
+<div id="padder"></div>
