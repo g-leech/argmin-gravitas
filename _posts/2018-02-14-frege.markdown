@@ -1,0 +1,375 @@
+---
+layout:     post
+title:      "Frege's grand failure"
+baselink:   /frege
+permalink:  /frege
+date:       2018-02-16  <!--site.time-->
+author:     Gavin
+
+img:        /img/frege.jpg
+published:	true
+visible: 	1
+
+summary:    Quick sketch of Frege's reduction of arithmetic to logic, and why it fails.
+confidence:	90%. 
+categories: philosophy of mathematics
+warnings:	
+count:		3698
+---
+
+
+{%	include frege/links.md		%}
+
+<br>
+
+This is a brief and uncritical précis of Frege's <i><a href="{{grundlagen}}">Foundations of Arithmetic</a></i> (1884) and environs. I say uncritical, but inevitably it includes the irrevocable bane of his project, <a href="{{paradox}}">Russell’s Paradox</a>. 
+
+Logicism is interesting because it marks the exact boundary between philosophy and mathematics, two things which otherwise shade into each other. (Or: which post-C19th analytic philosophy tries to shade into each other.) Even though it fails, and even though the rest of his philosophy is not particularly convincing to me, it's a good-faith and enlightening thing to study. 
+
+<a href="{{neo}}">Some people</a> think it's interesting because actually it <i>can</i> be done - and good luck to them.
+
+It's also an object lesson in the integrity of formal thought. Only through Frege's rigour could Russell find the fatal flaw, and thereby enlighten us about set theory; a vaguer system might not have admitted it. This has sobering implications for philosophy. If you've ever worked on a long A2-paper-sized mathematical derivation, only to find that one of your early steps is fallacious, and that the rest must be thrown out, only then do you grok the difference between informal and formal.
+
+Also, his approach to metaphysics - attacking it via the <a href="{{sem}}">semantics</a> of the things at hand - is just unbelievably influential; perhaps <i>most</i> Anglo-American philosophy <a href="{{tourne}}">between 1910 and 1970</a> followed this mould. He's also a good Classical stooge for many contemporary debates, since his views on most things are philosophically traditional (realism, apriorism, Platonism, anti-vagueness, monaletheism).
+
+It's also just a really satisfying series of arguments: ambitious, archetypal, and clean. 
+
+<br> 
+<hr /> 
+<br>
+
+<h3>1.	Frege’s assumptions.</h3>
+
+The following are generally only tacit when he critiques other views but let's drag them out: <br><br>
+
+<ol type="A">
+	<li><i>Metaphysical realism</i>: The truth is objective, we have access to it. 
+		<a href="#fn:1" id="fnref:1">1</a>
+	</li><br>
+
+	<li><i>Logical realism</i>: Logic is objective, necessary, analytic, and known apriori. 
+		<a href="#fn:2" id="fnref:2">2</a>
+	</li><br>
+
+	<li><i>Transcendental language</i>: Properly analysed, linguistic categories mirror ontology.
+		<a href="#fn:3" id="fnref:3">3</a>
+	</li><br>
+
+	<li><i>Context Principle</i>: terms only have meaning in the context of a sentence.
+		<a href="#fn:4" id="fnref:4">4</a>
+	</li><br>
+
+	<li><i>Epistemicism</i>: There is a sharp distinction between the subjective & objective. There is no overlap or real vagueness between them.
+		<a href="#fn:5" id="fnref:5">5</a>
+	</li>
+</ol><br>
+
+(A sixth thesis, his Platonism (F), is not as much an assumption – since we will try and reconstruct arguments for it in sections i & v – but it’s important to introduce it early on. “Thoughts exist independently of minds. Propositions & their truth-values are independent of the fact or manner of thinking.”<a href="#fn:6" id="fnref:6">6</a>
+
+A key distinction that doesn't come over in English very well: For Frege, a ‘thought’ (<i>Gedanke</i>) is the objective and communicable content (this includes meanings and concepts); he calls our private, subjective impression of a thought an ‘idea’ (<i>Vorstellung</i>) instead. Fregean ideas are not communicable, and have no genuine content and no power over semantic value. His curious argument for this fine distinction is in section 1a.
+
+It’s also helpful to keep Frege’s goal in mind. His overarching project is to prove two theses of logicism: firstly that every arithmetical notion can be defined via logic alone; and secondly that every theorem in arithmetic can be proved using only basic (Peano) axioms of logic.<a href="#fn:7" id="fnref:7">7</a>
+
+
+<br> 
+<hr /> 
+<br>
+
+
+<h3>2.	Frege vs the world <br>(psychologism, property theories, and inductionism)</h3><br>
+
+Broadly, Frege is against treating numbers as a) mind-dependent (e.g. <i>mathematical subjectivism</i> or the wider thesis <i>psychologism</i>); b) as properties of objects; or c) in any way determined by concrete objects (as in <i>mathematical naturalism</i> and <i>inductionism</i>). 
+
+Any one of these would preclude a straightforward apriori proof of logicism like that of the <i>Grundlagen</i>, so first we try and kill them: 
+<br><br><br>
+
+
+<h4>a.	Argument for the objectivity of logic and meaning</h4>
+
+<i>Psychologism</i> holds that matters usually considered objective are in fact conditioned by facts about our minds.  Tim Crane breaks it into four theses: 
+
+<ul>
+	1) that logical laws are just laws of mind, <br>
+	2) that truth is identical with verification, <br>
+	3) that private mental states are the correct basis for epistemology, and <br>
+	4) that the meaning of words are ideas <a href="#fn:8" id="fnref:8">8</a>.  
+</ul>
+
+Clearly, Frege rejects these. He motivates this first with two general counter-proposals: <br><br>
+
+The first is a polemic: that what matters in philosophical (and mathematical) inquiry is public, universal content. (This relies on assumptions A and E.) The nature of an <i>idea</i> (a thought-token) entertained by someone considering something is irrelevant to the analysis of the <i>thought</i> (the concept type). Frege sees 'ideas' as arbitrary signs; we can make the analogy to words-as-sound-waves vs words-as-meanings. Understanding is external. 
+
+Secondly, on as wide a scope, Frege sees the whole family of theories as resting on a genetic fallacy which renders it doubly irrelevant: “Never let us take the description of the origin of an idea for a definition.” <a href="#fn:10" id="fnref:10">10</a> Frege sees psychologism as capable of providing only an account of how a concept was acquired; i.e. not definitions, and so not truth-conditions. Psychologism thus always exhibits 'explanatory inadequacy' over concepts – and particularly so over essentially definitional concepts, like those in mathematics. 
+
+Against (1) specifically, he can point to the normative force of logic: our intuition of it as an objective model for thought. He argues that psychologism cannot account for this power, since psychologism is, again, and at best, a descriptive theory. (While his logical realism can.) 
+
+Against (2): Again, the normative role of one universal standard is ignored by this thesis. And given (assumption A), we say that truths are heedless of how they are known, i.e. justification is actually unrelated to metaphysical truth.<a href="#fn:11" id="fnref:11">11</a>
+
+And against (4), Frege posits a problem regarding the communication of subjective content. Since he denies intersubjectivity (or degrees between the subjective and objective) in his first “guiding principle” (assumption E), the following is possible: <br><br>
+
+<ol>
+	<li>Thoughts can be shared.							(<code>∀x Sx</code>)</li>
+	<li>Whereas ideas are possessed exclusively.		(<code>∀y ~Sy</code>)</li>
+	<li>What is possessed exclusively cannot be shared. 	(<code>~∃x (Sx & ~Sx)</code> )</li>
+	<li>So if thoughts are ideas, we cannot communicate (share content). <code>(x = y) → ~∃x Sx</code></li>
+	<li>We communicate. (<code>∃x Sx</code>)</li>
+	<li>So thoughts are not ideas. <code>modus tollens, 4 & 5</code></li>
+</ol><br>
+
+(By undermining psychologism, whose scope was all thoughts, Frege also undermines the entailment that number is subjective.)<br><br><br>
+
+<h4>b.	Arguments that numbers aren’t properties of objects (& so aren’t about objects)</h4>
+
+(Reconstructing arguments:) <br><br>
+
+<ul>
+	<li>The 'number-relativity' of ascription is a strong challenge to property theories of number (though it's also awkward for any objective account):<br><br>
+
+	consider that objects can be ascribed contradictory numbers, apparently determined by how they are perceived. (“Gavin has one head”; “Gavin has no money”; “Gavin has 10 trillion cells”; “Gavin has 206 bones”.) One option is <i>idealism</i>: the difficulty can be resolved by saying mind does determine which number is attributable. But granting our argument about psychologism above, this isn't tenable. Another avenue, agreeable for Frege, is to reject outright our conception of numbers as about objects.</li><br>
+
+
+	<li>Frege argues that numbers are not properties because they don't work like other properties. This is counterintuitive: in natural language, numbers are often used as adjectives in number-ascribing sentences: “I have two arms” seems to share a structure with “I have long arms”. <br><br>
+
+	To prevent this supporting property theories, Frege argues that these uses are only <i>superficially</i> adjectival: observe that, while the adjective ‘long’ can be meaningfully predicated to each arm, this does not work for numbers – each of my arms is not ‘two’. He suggests that this quirk justifies the rearrangement of number-ascriptions like “I have two arms” to “the number of arms is two”, where the number appears as a <i>singular</i> term. 
+	</li><br>
+</ul><br>
+
+<h4>c.	Argument against naturalism</h4>
+<ul>
+	<li>Frege points out we can ascribe numbers to anything which can individuated – and this category is much larger than ‘the physical objects’ since it includes abstracts like <i>events</i> (“12 Christmases”), <i>reasonings</i> (“5 proofs”), and numbers themselves (“7 sevens”). So (naive) naturalism can't explain <i>number</i>.</li><br>
+
+	(There must be more than this, but I couldn't spot any.)<br><br>
+</ul>
+
+<br>
+
+<hr />
+
+<br><br>
+By now, Frege has ruled out (to his satisfaction): numbers as subjective, as abstract universals, and also as properties. Then the latter argument suggests a way forward, given assumption (C) and our new general form for number-ascription (“the number of x is n”), using numbers as singular terms. I return to this in section 4.
+
+
+<br> 
+<hr /> 
+<br>
+
+<h3>3.	Frege’s semantics </h3><br>
+Some terms:<br>
+
+First of all: everything representable in language is either an ‘object’ or a ‘function’. An object is that which is picked out by a name. A function is an incomplete expression taking one or more variables (‘arguments’) and producing a result (a ‘value’). Arithmetical functions (in which the arguments are numbers) are one familiar type: `( ) ÷ ( ) = ( )` . <a href="#fn:12" id="fnref:12">12</a>
+
+Functions can take recursive forms: a first-order function is one which takes objects as argument and is thereby completed; but a second-order function takes other functions as arguments; and so on. A concept is a function which gives a truth-value as its value. For instance: “John is named John.” can be read as the concept `( _ is a person named John)` for the argument “John”. <br>
+
+(Since it’s an analytic statement, we also know that its value in this case is the `True`.) <br><br>
+
+<div align="center">
+	<img src="/img/frege/fig1.jpg" /><br>
+
+	<small>Fig.1: Frege’s semantics/metaphysics, drawn as subsets.</small>
+</div><br>
+
+
+
+
+Frege's semantics and ontology are the same thing. It’s unclear whether extensions should be shown prior to the object/function division – i.e. drawn as a larger circle enclosing these two – since by the end of Frege’s analysis, much of the system depends on these things being defined in terms of extension. A reply to this is that there’s a difference between having an extension and being an extension. But a reply to that is that Frege uses extensions as objects throughout; that’s his trouble.
+
+The logical operators are functions which take only truth-values for arguments and give only truth-values for a value. (Hence their other name, ‘truth-functions’.) Quantifiers are those operators that are also second-order functions: here, only the existential quantifier “`x(_)` (“for some x it is the case that \_\_”) and `∀x (_)`, (“for any x it is the case that \_\_), the universal quantifier. Quantifier phrases are saturated by a first-order function itself saturated by an object (e.g. ““`x Fa`”: “for some x it is the case that a is F”).
+
+Finally, the difficult notion <i>extension</i>, analogous to the mathematical set, to reference, and to the truth-table, but which eludes these (and eludes Frege’s function/object distinction). Define for each Fregean term: a name's extension is its referent; a function's extension is its pairwise domain-and-codomain: i.e. an exhaustive list of all tuples of arguments and values that it can be applied to. 
+
+The extension of a concept is the set of pairs of its arguments and truth-values. A quantifier’s extension is the set of pairings of functions matched with truth-values. 
+
+Once a sentence has been analysed as above, Frege uses extensions to determine the circumstances where it is true (truth-conditions). Generally:
+
+	“a is F” is {T}  ↔  a is in the extension of F
+
+Frege resolves a minor issue with his system by positing the two truth-values to be objects. A beautiful implication of this is that all true sentences serve as names for the same object: ‘the `True`’, and all false sentences name ‘the `False`’.
+
+When we combine his semantics of quantification with the function-object analysis (described in section 4), we get a new mode of analysis: one that can take the structure of thoughts, as well as the components of thoughts, as central contributors to semantic values.
+
+
+<br> 
+<hr /> 
+<br>
+
+
+<h3>4.	Frege’s constructive theory of Number </h3><br>
+
+The main positive ‘argument’ for Frege's own theory is almost scientific: just that it fits the data better than others. His positive case for treating numbers as objects is similarly lightweight: just that arithmetic functions act as if numbers were objects, and that some uses in language also suggest this. So his negative case of alternative theories is the conclusive move.
+
+Frege realises that he cannot directly define the concept <i>number</i>, nor any specific number. (He can almost take this as good news – since the essence of a natural number is its relative magnitude to others.) In proceeding, he makes the historic ‘linguistic turn’:
+
+<blockquote>
+How, then, are numbers to be given to us…? Since it is only in the context of a proposition that words have any meaning, our problem becomes this: to define the sense of a proposition in which a number-word occurs. <a href="#fn:14" id="fnref:14">14</a>
+</blockquote>
+
+His Context Principle (assumption D) shifts the analysis to sentences that ascribe numbers: he addresses the ontological question “what is number?” via a semantic question “how are we to know the meaning of sentences which feature numbers?” 
+
+We derived a general form for number-ascription previously: “the number of __ is n”. We can now analyse this as a second-order concept in which the number is the object, e.g: “Gavin has 206 bones” becomes “(the number of xs such that x is [bones of Gavin] is 206)”. This is a pivotal conclusion: that “a statement of number contains an assertion about a concept.” <a href="#fn:15" id="fnref:15">15</a><br><br>
+
+
+<div align="center">
+	<img src="/img/frege/fig2.png" /><br>
+
+	<small>Fig.2: Subject-predicate ascription: suffers from number relativity. </small>
+</div><br><br>
+
+
+<div align="center">
+	<img src="/img/frege/fig3.jpg" /><br>
+
+	<small>Fig.3: Frege’s function-object turn, showing ascriptions to two second-order concepts.</small>
+</div><br><br>
+
+
+
+So, numbers are abstract objects, but we can only refer to them through their relation to certain second-order concepts. From here, we begin to dimly see the end. 
+
+<br>
+<hr />
+<br>
+
+Sketch Frege’s strategy for logicism as: 
+
+<ol type="i">
+	<li>From number-ascriptions, find an identity-condition for numbers (contextual definition);  </li>
+	<li>Logically abstract to their equivalence classes (so that number can be explicitly defined)</li>
+	<li>Define zero, one & the successor function via their extension (to generate the natural numbers)</li>
+	<li>Define extension with only logical concepts (to prove that number is purely logical); </li>
+	<li>Derive the axioms of arithmetic (to prove that Peano’s axioms are purely logical).</li>
+</ol>
+<br>
+
+
+<h3>i)</h3> 
+Frege takes from inductionism the idea that there is something to be abstracted out from a group of instances all ascribed a given number – but it’s not a property, like ‘twoness’. Instead, what all instances of 2 share is a relation: ‘equinumerosity’. He constructs Hume’s Principle to give an identity criterion for equinumerosity:
+
+We are thus defining number indirectly, by the operation of “the number of \_”; and we are defining that indirectly too, by its role in the left-hand of this formula.<br><br>
+
+<h3>ii)</h3> 
+He thus has a contextual definition of <i>number</i>: the number that fits the concept `F` will be the extension of the concept equinumerous with `F`. 
+
+
+<div align="center">
+	<img src="/img/frege/fig4.png" /><br>
+
+	<small>Fig.4: Equinumerosity relation between concepts F and G.</small>
+</div><br>
+
+
+
+Being equinumerous is a second-order concept and an equivalence relation, and so its extension gives him an equivalence class of concepts. He thus sets off a powerful process. An equivalence class is a set which logically and exhaustively partitions a domain into disjoint subdomains (that is, into completely separate parts) by some identity relation. For the concept being equinumerous – thanks to Hume’s Principle – the equivalence class results in each subset containing only equinumerous concepts, i.e. Frege has indirectly explicitly defined the general concept number. Number is the second-order concept that takes a countable concept as argument and maps it onto a concept that it is equinumerous with.
+<br><br>
+
+<h3>iii)</h3> 
+Moving swiftly: Zero is defined as the number of non-self-identical things (`#x ¬x = x`). Or: the equivalence class of empty concepts, the extension of the second-order concept collecting all concepts with no objects in their extension). Using equivalence classes to disjoint the whole set, Frege only needs one instance of this: he fixes zero logically by using the concept being non-self-identical (the extension of which is necessarily empty). 
+
+Similarly for one; Frege needs only one concept to fasten the equivalence class. Since there is only one object which is identical to zero (zero itself), Frege defines one as ‘being equinumerous with the concept being identical to zero’. 
+
+After this, you only need the successor relation to generate the natural numbers. It is: 
+
+‘`n succeeds m ↔ (the concepts in m’s equivalence class have one less thing in extension than the concepts in n’s equivalence class)`’.<br><br>
+
+
+<div align="center">
+	<img src="/img/frege/fig5.png" /><br>
+
+	<small>Fig.5: Definition of the natural numbers qua extensions, “stage (iii)”</small>
+</div><br>
+
+
+Despite this apparent progress, in the end Frege’s system does not survive past (iv), as discussed next.
+
+
+<br><br> 
+<hr /> 
+<br>
+
+<h3>5.	An explicit definition of <i>extension</i>, and thus Russell’s Paradox</h3><br>
+
+<center>
+	<blockquote>
+		I don’t want to belong to any club that will accept people like me as a member.
+	</blockquote>
+- Groucho Marx <a href="#fn:16" id="fnref:16">16</a>
+</center>
+<br><br>
+
+
+So Frege has logically defined number - it is the concept 'the extensions of the second-order concept of an equinumerosity relation' - and has a contextual definition of extension. But he is dissatisfied, finding a deficiency in his analysis, the ‘<a href="{{kaiser}}">Julius Caesar Problem</a>’, which entails that Hume's Principle, if the only thing offering identity conditions for numbers, doesn't describe the conditions under which an arbitrary object, say Julius Caesar, is or is not to be identified with the number of planets... <a href="#fn:17" id="fnref:17">17</a>
+
+i.e. It entails that we cannot tell apriori which names name numbers. (He cannot appeal to experience, since this would undermine the whole logicist deductive chain.) This issue leads him to seek a stronger definition than the one based on Hume’s Principle. 
+
+Frege uses an extra axiom, Basic Law V, to close the contextual problem. It does this by specifying a condition for strict identity between concepts: “a concept F is identical to a concept G if and only if the extension of F is identical to the extension of G”. Put slightly formally:
+
+
+	Axiom 5:  
+
+	        ∀x (Fx ≡ Gx) ↔ (extension of F = extension of G)
+
+
+Contraposed, this tells us that extensions differ when their concepts differ, which implies that every concept has an extension. Frege has been using extensions as objects for other extensions. These two corollaries create an irreconcilable tension: the total number of concepts is greater than the total number of extensions; but it is also implied that the total number of extensions is equal to the total number of concepts. It is this that primes the system for Russell’s paradox.
+
+The paradox turns on notions of concepts and extensions which are self-referential, or 'reflexive'. For instance: the extension of the concept is an extension is a member of itself, while the extension of the concept is a philosopher is not a member of itself. These are not problematic. However, the well-formed concept set of all sets that are not members of themselves is. Formalisation helps a lot here: so let’s call this killer concept ‘Q’, and say that ‘q’ is its extension. Then, a seemingly innocuous question: “does q belong to itself?” 
+
+We know the truth-conditions for this from Frege’s definition of extensions: `q` belongs to itself if and only if `Q` gives `q` to `True`. Though, we also know that `Q` only gives `q` to `True` if `q` is an extension which does not belong to itself. This results in the vicious circle:
+	
+	          q ∈ q  ->  q ∉ q
+	          q ∉ q  <-  q ∈ q
+	and thus	
+	          q ∈ q  ↔  q ∉ q
+
+This latter line is Russell’s Paradox. It is the contradiction generated by Basic Law V: thus, the naïve set theory which furnished Frege with his rules for using extensions is not coherent. 
+
+Any logical system which produces a contradiction is invalidated as a whole: so Frege must forgo axiom V to save his system. The issue is not, however, just that the Julius Caesar Problem goes unsolved: by this stage much of the system has been defined in terms of extension, and so much is compromised. Moreover, Frege uses Basic Law V in his attempted proof of Hume’s Principle, so even the definition via equinumerosity collapses.<a href="#fn:18" id="fnref:18">18</a> <br><br>
+
+: Frege’s logicism is unsuccessful.
+
+
+<br> 
+<hr /> 
+<br>
+
+
+<h3>6.	Frege on meaning</h3><br>
+This section is a bonus on 'Senses' and the reference puzzle that now bears Frege’s name.
+
+An innocuous claim: 'to understand a linguistic expression is to know its meaning'. Frege notes an issue for this claim, and then resolves it (to his satisfaction). One of his lasting impacts on philosophy of language is the focus on logical puzzles that always arise in naïve theories. (The puzzles are serious because they sometimes seem to challenge axioms of classical logic, like the law of the excluded middle.) 
+
+‘Frege’s Puzzle’ arose from an abstract question regarding logical identity: “Is it a relation? A relation between objects, or between names and sign of objects?” <a href="#fn:19" id="fnref:19">19</a>
+
+After considering some logical answers, he raises a specifically linguistic version: when an object has more than one proper name, a small but critical blind-spot in Millian theories of reference is uncovered. When we compare, e.g: 
+
+    1) “Molière is Molière”
+    2) “Molière is Jean-Baptiste Poquelin”
+
+The ‘referential theories of meaning’ suggests that all a name contributes to the meaning of its sentence is its referent (the object it names): so, under this conception, these sentences have exactly the same meaning. But we know this is not right, since, at very least, their epistemic nature differs: (1) is an apriori and analytic truth (it is known regardless of background knowledge) while (2) is synthetic and aposterior. 
+
+Frege’s Puzzle is that the naïve referential theory of meaning cannot account for this difference. This motivates Frege’s bisection of ‘meaning’ into two properties: a proposition’s ‘sense’ (<i>Sinn</i>) and its ‘reference’ (<i>Bedeutung</i>). Sense is a primitive in Frege’s system: the sense of a proposition is its mode of presentation, or, that which is grasped by someone who understands its content. 
+
+The relation between Frege’s two constituents of meaning is asymmetric: a given referent can have many senses, but if two expressions have the same sense, then their referent is the same. So reference is mediated by content; moreover Frege has reference supervening on sense. 
+
+
+So co-referentials can have different senses while sharing a referent, because they speak about a different aspect of it. ‘Moliere’ and ‘Jean-Baptiste Poquelin’ differ in sense, and this accounts for sentence (2) being informative. 
+
+As outlined, and by assumption (F), Frege holds that senses are objective and abstract. Frege’s arguments for his Platonism-with-regards-to-content largely overlap with our discussion of psychologism in section I, but here is a further Fregean argument, this time against ideational theories of semantics. Since they conceive of meaning as a correlation with ideas, these theories entail mind-dependence of Senses:
+
+<ol>
+	<li>Meaning depends on mental states.</li>
+	<li>Mental states are contingent and subjective. </li>
+	<li>Thus meaning is contingent and subjective.	[1&2]</li>
+	<li>Truth depends on meaning (and actual states of affairs).</li>
+	<li>Thus truth cannot be fully objective. 		[3&4] </li>
+	<li>But this contradicts assumption A (& also E).</li>
+	<li>So meaning does not depend on mind. 		[Reductio ad absurdum.]</li>
+</ol>
+
+
+
+{%	include frege/foots.html		%}
+
+<br><br>
+
+
+{%	include frege/biblio.html		%}
+{%  include comments.html %}
