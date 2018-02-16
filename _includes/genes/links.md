@@ -22,4 +22,5 @@
 {%	assign chunk =	"http://ilga.org/wp-content/uploads/2014/08/04_ILGA_WorldMap_ENGLISH_Crime_May2016.png"		%}
 
 
-{% assign weapon = 	"https://en.wikipedia.org/wiki/List_of_U.S._biological_weapons_topics#Weaponized_biological_agents" %}
+{% 	assign weapon = 	"https://en.wikipedia.org/wiki/List_of_U.S._biological_weapons_topics#Weaponized_biological_agents" %}
+{%	assign warrant = "https://www.local10.com/news/police-can-legally-use-23andme-other-ancestry-tools-to-obtain-your-dna?"	%}
