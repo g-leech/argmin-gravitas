@@ -50,6 +50,7 @@ Here are some things you might worry about if you did such a thing.<br><br>
 			<i>Risk applies to</i>: Extraordinarily ambitious people with known pathological alleles</li><br>
 
 			<li><span class="b">An unwarranted aid to police.</span><br>
+			This would open you to a small risk of false positive in DNA testing. Note that to avoid this completely you'd need to <a href="{{warrant}}">not get sequenced by anyone else at all</a>: police can probably subpoena genetech companies. Total aversion is almost certainly not the highest expected value option.
 			<i>Risk applies to</i>: Criminals and civil disobedients. Anyone living in an authoritarian regime with unpredictable antipathies.</li><br>
 
 			<li><span class="b">DNA framing.</span><br>
@@ -71,52 +72,52 @@ Here are some things you might worry about if you did such a thing.<br><br>
 	</div>
 
 
-	<h3>NEAR-FUTURE RISKS</h3>
-	<div>
-		<ul>
-			<li><span class="b">Probabilistic homophobia</span>. <br> 
-			
-				Homosexuality has a <a href="{{lg}}">strong genetic</a> component; this regularity means we will eventually develop a <a href="{{score}}">polygenic score</a> to predict it, if noisily. <a href="#fn:1" id="fnref:1">1</a>
-				In <a href="{{chunk}}">a large chunk</a> of the world, this is still not information that you can afford to make public. <br><br>
+<h3>NEAR-FUTURE RISKS</h3>
+<div>
+	<ul>
+		<li><span class="b">Probabilistic homophobia</span>. <br> 
+		
+			Homosexuality has a <a href="{{lg}}">strong genetic</a> component; this regularity means we will eventually develop a <a href="{{score}}">polygenic score</a> to predict it, if noisily. <a href="#fn:1" id="fnref:1">1</a>
+			In <a href="{{chunk}}">a large chunk</a> of the world, this is still not information that you can afford to make public. <br><br>
 
-				(I was going to put this risk in the 'actual threats' bit, but the <a href="{{credulous}}">recently</a> <a href="{{atlan}}">announced</a> predictive algorithm is based on a ludicrously tiny sample size, and was built with <a href="{{fork}}">forking paths</a> and was probably <a href="{{fit}}">overfit</a> to hell.)<br>
+			(I was going to put this risk in the 'actual threats' bit, but the <a href="{{credulous}}">recently</a> <a href="{{atlan}}">announced</a> predictive algorithm is based on a ludicrously tiny sample size, and was built with <a href="{{fork}}">forking paths</a> and was probably <a href="{{fit}}">overfit</a> to hell.)<br>
 
-				<i>Risk applies to</i>: Closeted gay people, and straight people who happen to score highly on what will always be a probabilistic score.<br>
-				<i>Risk to me</i>: Could be.
-			</li><br><br>
+			<i>Risk applies to</i>: Closeted gay people, and straight people who happen to score highly on what will always be a probabilistic score.<br>
+			<i>Risk to me</i>: Could be.
+		</li><br><br>
 
-			<li><span class="b">Mate choice</span> <br>
+		<li><span class="b">Mate choice</span> <br>
 
-			Once a majority of people are sequenced, we could easily see customs about the genetic quality of partners arise. We all already do this unconsciously, using proxy variables like <a href="{{symm}}">facial symmetry</a> and <a href="{{philo}}">sheer</a> <a href="{{signalling}}">conspicuousness</a>. I would expect genetic pre-nups, at least among the kind of people who have pre-nups today. <br><br>
+		Once a majority of people are sequenced, we could easily see customs about the genetic quality of partners arise. We all already do this unconsciously, using proxy variables like <a href="{{symm}}">facial symmetry</a> and <a href="{{philo}}">sheer</a> <a href="{{signalling}}">conspicuousness</a>. I would expect genetic pre-nups, at least among the kind of people who have pre-nups today. <br><br>
 
-			(You might think that postwar Europeans are completely inoculated against such things; <a href="{{app}}">see</a> <a href="{{bomp}}">Iceland</a> for how quickly this has already taken off.)<br><br>
+		(You might think that postwar Europeans are completely inoculated against such things; <a href="{{app}}">see</a> <a href="{{bomp}}">Iceland</a> for how quickly this has already taken off.)<br><br>
 
-			(You might think that no one <i>you</i> loved would ditch you over some bad genes. After all, there's adoption! But most people are <a href="{{hyst}}">scary</a> <i>serious</i> about children: they'll do terrible things in their name.)<br><br>
+		(You might think that no one <i>you</i> loved would ditch you over some bad genes. After all, there's adoption! But most people are <a href="{{hyst}}">scary</a> <i>serious</i> about children: they'll do terrible things in their name.)<br><br>
 
-			<i>Risk applies to</i>: Anyone who wants kids, or wants to be with someone who does. 
-			</li>
-		</ul>
-	</div>
+		<i>Risk applies to</i>: Anyone who wants kids, or wants to be with someone who does. 
+		</li>
+	</ul>
+</div>
 
-	<h3>FAR-FUTURE RISKS</h3>
-	<div>
-		<ul>
-			<li><span class="b">Clones.</span><br>
-			<i>Controversy</i>: People really seem to hate clones for no good reason. (It threatens their sense of self, or growth mindset, or divinity.)<br>
-			<i>Harm to me</i>: None; more of me is a <i>good</i> thing. I am a fragile combination of organic molecules; if someone wants to give me a backup, I am happy with this.<br><br> 
+<h3>FAR-FUTURE RISKS</h3>
+<div>
+	<ul>
+		<li><span class="b">Clones.</span><br>
+		<i>Controversy</i>: People really seem to hate clones for no good reason. (It threatens their sense of self, or growth mindset, or divinity.)<br>
+		<i>Harm to me</i>: None; more of me is a <i>good</i> thing. I am a fragile combination of organic molecules; if someone wants to give me a backup, I am happy with this.<br><br> 
 
-			I guess they could torture the clone to get to me? But this is silly and I do not negotiate with silly terrorists: it would be millions of times cheaper to just abduct my lover or something. But people in general sure are crazy about those genetically similar to them.<br> 
-			<i>Probability</i>: Of me being cloned off some ancient databank? Miniscule.
-			</li><br><br>
+		I guess they could torture the clone to get to me? But this is silly and I do not negotiate with silly terrorists: it would be millions of times cheaper to just abduct my lover or something. But people in general sure are crazy about those genetically similar to them.<br> 
+		<i>Probability</i>: Of me being cloned off some ancient databank? Miniscule.
+		</li><br><br>
 
-			<li><span class="b">Tailored bioweapons.</span><br>
+		<li><span class="b">Tailored bioweapons.</span><br>
 
-			You might worry about being assassinated with a virus which only kills you. Dunno why this would worry you more than <a href="{{weapon}}">very real</a> weaponised things which would kill everyone around you too, seriously what is the matter with you?<br>
+		You might worry about being assassinated with a virus which only kills you. Dunno why this would worry you more than <a href="{{weapon}}">very real</a> weaponised things which would kill everyone around you too, seriously what is the matter with you?<br>
 
-			<i>Harm to me</i>: No. I am unlikely to sufficiently piss off anyone with a spare billion dollars.<br><br> 
-			</li>
-		</ul>
-	</div>
+		<i>Harm to me</i>: No. I am unlikely to sufficiently piss off anyone with a spare billion dollars.<br><br> 
+		</li>
+	</ul>
+</div>
 </div>
 
 <br><br>
