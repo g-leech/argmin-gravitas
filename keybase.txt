@@ -1,0 +1,53 @@
+==================================================================
+https://keybase.io/gleech
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.gleech.org
+  * I am gleech (https://keybase.io/gleech) on keybase.
+  * I have a public key ASC5mJYMDOguo-dSEmSl4kBt8h6TPT_2zrKJJkIFsmrcPgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012016108a7ceaaba8fdc857b662bfaada768fa9b67198e184d64567c619bd6951390a",
+      "host": "keybase.io",
+      "kid": "0120b998960c0ce82ea3e7521264a5e2406df21e933d3ff6ceb289264205b26adc3e0a",
+      "uid": "e89adbac0c4164eca8b9cc38febd7419",
+      "username": "gleech"
+    },
+    "merkle_root": {
+      "ctime": 1519076758,
+      "hash": "26ff81f5eb5ac3ddf5e9f66a90c47b358a0ce61c77e47da7e8380c8a9a3ec6f9b53aa95f8ac9ae58cbaff444160b783775f939ea9939a2d0676adeffd6e963f8",
+      "hash_meta": "3781024f754e8af22e9b2c2ec63b380ad5fe4f2a95337db0eb2f5fc6804e71fe",
+      "seqno": 2124811
+    },
+    "service": {
+      "hostname": "www.gleech.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.41"
+  },
+  "ctime": 1519076897,
+  "expire_in": 504576000,
+  "prev": "5af7e274cdb16b369494fdfd8f905bd272047c82c3199541d664bf0944eb99ef",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguZiWDAzoLqPnUhJkpeJAbfIekz0/9s6yiSZCBbJq3D4Kp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMTYxMDhhN2NlYWFiYThmZGM4NTdiNjYyYmZhYWRhNzY4ZmE5YjY3MTk4ZTE4NGQ2NDU2N2M2MTliZDY5NTEzOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjk5ODk2MGMwY2U4MmVhM2U3NTIxMjY0YTVlMjQwNmRmMjFlOTMzZDNmZjZjZWIyODkyNjQyMDViMjZhZGMzZTBhIiwidWlkIjoiZTg5YWRiYWMwYzQxNjRlY2E4YjljYzM4ZmViZDc0MTkiLCJ1c2VybmFtZSI6ImdsZWVjaCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxOTA3Njc1OCwiaGFzaCI6IjI2ZmY4MWY1ZWI1YWMzZGRmNWU5ZjY2YTkwYzQ3YjM1OGEwY2U2MWM3N2U0N2RhN2U4MzgwYzhhOWEzZWM2ZjliNTNhYTk1ZjhhYzlhZTU4Y2JhZmY0NDQxNjBiNzgzNzc1ZjkzOWVhOTkzOWEyZDA2NzZhZGVmZmQ2ZTk2M2Y4IiwiaGFzaF9tZXRhIjoiMzc4MTAyNGY3NTRlOGFmMjJlOWIyYzJlYzYzYjM4MGFkNWZlNGYyYTk1MzM3ZGIwZWIyZjVmYzY4MDRlNzFmZSIsInNlcW5vIjoyMTI0ODExfSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5nbGVlY2gub3JnIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDEifSwiY3RpbWUiOjE1MTkwNzY4OTcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNWFmN2UyNzRjZGIxNmIzNjk0OTRmZGZkOGY5MDViZDI3MjA0N2M4MmMzMTk5NTQxZDY2NGJmMDk0NGViOTllZiIsInNlcW5vIjoxNiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECDW1y7GoF2mbPXqWurQwM0JYM3YJMrkqo6EvEEnCS625XTt3Y9k8SVhFgWYNylu9flQM4GAo44L4jePomuc9ILqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgDs+CVZ33+Dk3wmN0+j3pHcKHxN6u5ucO2/MDKibDRumjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gleech
