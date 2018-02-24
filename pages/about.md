@@ -12,7 +12,7 @@ visible:	true
 <div style="padding:20px">
 	I'm <a href="{{ "/cv.pdf" | prepend: site.url }}">Gavin Leech</a>, a data scientist at the giant insurer <a href="{{Axa}}">AXA</a> <a href="#fn:4" id="fnref:4">4</a>. I write prose and software about things like <a href="{{welf}}">the unit of caring</a>, <a href="{{cs}}">quantitative epistemology</a>, and the <a href="{{stat}}">applied philosophy of science</a>.<br><br> 
 
-    Technically <a href="{{ea}}">an EA blog</a>, though I don't think of this as a blog (blogging is more like speech than writing).<br><br>
+    Technically <a href="{{ea}}">an EA blog</a>, though I don't think of this as a blog. (Blogging is more like speech than writing.)<br><br>
 
 	You can contact me by <a href="mailto:{{ site.email }}">email</a> or anonymously <a href="{{Form}}">here</a>.
 	<br><br>
