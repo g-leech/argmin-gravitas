@@ -22,13 +22,13 @@ count: 		1300
 
 {%		include killer-tories/links.md				%}
 
-You sometimes [see][jones] [the claim][naive] that the Conservative-led <a href="{{camClegg}}">2010 coalition</a> killed "thousands" of disabled people by spuriously cutting them off from disability benefit. <a href="#fn:3" id="fnref:3">3</a>
+You sometimes [see][jones] [the claim][naive] that the Conservative-led <a href="{{camClegg}}">coalition</a> killed "thousands" of disabled people by spuriously cutting them off from disability benefit. <a href="#fn:3" id="fnref:3">3</a>
 
-This claim is extremely naive: between 2011 and 2014, [2,380][kilodeath] people died after being declared "fit for work" (FFW), i.e. after having their main income stopped. Media discussion of this fact was sloppy even by the low standards of public policy discussion. 
+This claim is extremely naive, as I'll show. But it is based on something which <i>sounds</i> similar: the fact that between 2011 and 2014, [2,380][kilodeath] people died after being declared "fit for work" (FFW), i.e. after having their main income stopped. 
 
-(For context, if we established causation and so responsibility, this would make the Tories about as lethal as uterine cancer, at [720 UK deaths][cancer] a year.)
+(For context, if we established causation, and so responsibility, this would make the Tories about as lethal as uterine cancer, at [720 UK deaths][cancer] a year.)
 
-It's not hard to find [cases][sullivan] where causation seems likely. But, by trying to imply causation from the above figure, the general claim implies that the Conservatives are responsible for <i>all</i> mortality during their reign - which, even speaking as a Scotsman, seems a bit strong. 
+It's not hard to find [cases][sullivan] where causation seems likely. But, by trying to imply causation from the above figure, the general claim implies that the Conservatives are responsible for <i>all</i> mortality during their reign - which, even speaking as a Scotsman, seems a bit strong. Media discussion of this fact was sloppy even by the low standards of public policy discussion.
 <br><br>
 _Terms_:
 
@@ -41,9 +41,9 @@ The following is just an <a href="{{obs}}">observational</a> argument: it doesn'
 
 If you take one thing from this, make it *You cannot infer anything about impact from one number at one point in time without a reference class.* 
 
-In particular, it doesn't make sense without accounting for the number of deaths in this group *before* the WCA reform. (Maybe 2380 is an improvement.) And it doesn't make sense to compare even those numbers without accounting for large known influences on mortality, e.g. seeing if ages and genders differ between the compared groups.
+In particular, it doesn't make sense without accounting for the number of deaths in this group *before* the WCA reform. (Maybe 2380 is an improvement.) And it doesn't make sense to compare even those numbers without accounting for large known influences on mortality, e.g. seeing if ages and genders differ between the compared groups. What we actually need is not 'deaths' but 'excess' deaths.
 
-It took me <a href="{{2003to13table}}">10 seconds</a> to find age-adjusted data on deaths, compared to the general population, before and after <a href="{{wca}}">WCA</a>:
+It took me <a href="{{2003to13table}}">10 seconds</a> to find age-adjusted data, compared to the general population, before and after <a href="{{wca}}">WCA</a>:
 
 
 <div align="center">
@@ -57,13 +57,13 @@ It took me <a href="{{2003to13table}}">10 seconds</a> to find age-adjusted data 
 No large changes: people on incapacity benefit have been dying very slightly less (1043 -> 1032), and there's a slight increase (116 to 138) among JSA recipients. Given ~[2.5m][totalEsa] people on <a href="{{esa}}">ESA</a>, this fall works out to about 275 fewer deaths per year. <a href="#fn:5" id="fnref:5">5</a> <a href="#fn:4" id="fnref:4">4</a> 
 
 <!-- 
-If I was a journalist or activist, I'd wrap up here: clearly Tory welfare reforms have been miraculous, saving hundreds of lives somehow. Never mind the big bold writing that correctly says _This information cannot be used as evidence to support a link or otherwise between mortality and benefit receipt._
+If I was a journalist or activist, I'd wrap up here: clearly Tory welfare reforms have been miraculous, saving hundreds of lives somehow. Never you mind the big bold writing that correctly says _This information cannot be used as evidence to support a link or otherwise between mortality and benefit receipt._
  -->
 
 
-But we're interested in the ones who <i>aren't</i> on disability any more, in particular the ones who were kicked off. (Many <a href="{{transition}}">move onto Jobseeker's Allowance</a>, which is actually the lowest-mortality group, even after adjusting for the relative youth of people on JSA. Then there's a group who presumably fall off the official stats entirely.)
+But we're interested in the ones who <i>aren't</i> on disability any more; in particular, the ones who were kicked off. (Many <a href="{{transition}}">move onto Jobseeker's Allowance</a> (JSA), which is actually the lowest-mortality group, even after adjusting for the relative youth of people on JSA. Then there's a group who presumably fall off the official stats entirely.)
 
-So compare the mortality rate of people on ESA (1.032%) with those kicked off it. The [published data for WCA results][wcaResults] only goes up to March 2013 at present; I'll update this when they're out, but for now let's plot a dumb model for the 2013-4 rate:
+So, compare the mortality rate of people on ESA (1.032%) with those kicked off it. The [published data for WCA results][wcaResults] only goes up to March 2013 at present; I'll update this when they're out, but for now let's plot a dumb model for the 2013-4 rate:
 
 <div align="center">
 	<img src="/img/esa-deaths/ffw.png" />
@@ -80,19 +80,19 @@ So compare the mortality rate of people on ESA (1.032%) with those kicked off it
 * _Death rate among ESA recipients_: 1.03%.
 
 <br>
-The death rate among those declared fit to work (0.64%) was halfway between the rates of those kept on ESA (1.03%) and the general population (0.24%).
+So the death rate among those declared fit to work (0.64%) was halfway between the unfit-to-work (1.03%) and the general population rate (0.24%).
 
 <div align="center">
 	<img src="/img/esa-deaths/est_rates.png" />
 </div>
 
-What does this tell us? The "fit-for-work" population is probably not the same as the general population - and you could see this as an indictment of <a href="{{wca}}">WCA</a>, since this is how they are treated. It's consistent with half of "FFW" people being just as disabled as the "unfit-for-work", or with all "FFW"s being "half" as disabled - or, more likely, with some mixture of these things.
+What does this tell us? That the "fit-for-work" population is probably not the same as the general population - and you could see this as an indictment of <a href="{{wca}}">WCA</a>, since this is exactly what they are treated as being. It's consistent with half of "FFW" people being equally unwell as the "unfit-for-work" are, or with all "FFW"s being half as disabled - or, more likely, with some mixture of these things.
 
-If the "FFW" had the same health as the general population, you'd expect them to suffer roughly 890 deaths a year. <a href="#fn:7" id="fnref:7">7</a>  As it is, there were 1058, or roughly `~172` excess deaths a year. <a href="#fn:8" id="fnref:8">8</a>  
+If the "FFW" had the same health as the general population, you'd expect them to suffer roughly 887 deaths a year. <a href="#fn:7" id="fnref:7">7</a>  As it is, there were 1057, or something like `~170` <i>excess</i> deaths a year. <a href="#fn:8" id="fnref:8">8</a>  
 
 "2,380" is thus many times too high, _even if_ it had been stated as a careful observation of the situation and not as the resounding proof of blame it was stated as. 
 
-This does not demonstrate causation; many other things besides WCA could have and will have borne on these. I don't even have the row-level data to properly establish that FFWs are a different population, let alone enough to isolate WCA's effects on them.
+The above has nothing to say about causation; many other things besides WCA could have and will have borne on these. I don't even have the row-level data to properly establish that FFWs are a different population, let alone enough to isolate WCA's effects on them.
 
 <br>
 
@@ -107,7 +107,7 @@ _This section has several made up numbers._
 <br>
 The main reasons to be suspicious of the 2011 WCA are: 1) they are sometimes not conducted by medical staff; 2) the private companies that run them are given [narrow norms][norms] that probably result in a de facto quota; 3) they penalise less visible conditions like major depression and chronic pain. 
 
-If we had just a couple of numbers, we could the awesome machinery of the [confusion matrix][confu] to objectively rate how good WCAs are at their allotted dirty job.
+If we had just a couple of numbers, we could use the awesome machinery of the [confusion matrix][confu] to objectively rate how good WCAs are at their allotted dirty job.
 
 Buckle up, because it's time for some Bayesian inference.
 
