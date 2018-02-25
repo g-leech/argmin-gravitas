@@ -1,72 +1,110 @@
 ---
 layout: 	math_post
-title:  	"How lethal are the Tories?"
+title:  	"How lethal are the Tories? Part 1"
 baselink:	/esa-deaths
 permalink:	/esa-deaths/
-date:   	2017-09-20  <!--site.time-->
+date:   	2018-02-25  <!--site.time-->
 author:		Gavin	
 img:		/img/daniel.jpg
 
 visible:	1
-published: 	false
+published: 	true
 
 
-summary:	Actuarial check of the claim that welfare reforms killed thousands of people.
-confidence: 80%
+summary:	Checking the claim that austerity in 2011-2014 killed thousands of disabled people.
+confidence: 80% in the observational argument; agnostic about causation.
 warnings: 	bureaucracy, statistical illiteracy, UK-only
-categories: stats, social science
-count: 		
+categories: stats, social science, data columbo
+count: 		1050
 ---
 
 
-You often see the claim that the Tories have killed "thousands" of disabled people by spuriously cutting them off from disability benefit. ([ESA][esa] is probably the only government program in the world with [a Palme d'Or winning film][blake] about how shit it is.)
 
-This claim is a [naive reading][naive] of mortality statistics: between 2011 and 2014, [2,380][kilodeath] people died after being declared "fit to work" (and so after having their main income removed). Media and blogosphere discussions of this fact are sloppy, even by the standards of public policy debate.
+{%		include killer-tories/links.md				%}
 
-If this were true, the Tories would be about as lethal as uterine cancer ([720 UK deaths][cancer] per year ).
+You sometimes [see][jones] [the claim][naive] that the Conservative-led <a href="{{camClegg}}">2010 coalition</a> killed "thousands" of disabled people by spuriously cutting them off from disability benefit. <a href="#fn:3" id="fnref:3">3</a>
 
-In particular: **You cannot infer anything about a program's impact from a single number, without a reference class.** It took me exactly 10 seconds to find age-adjusted data on deaths in this subpopulation, compared to the general population, before _and_ after the imposition of WCA <a href="#fn:1" id="fnref:1">1</a>:
+This claim is extremely naive: between 2011 and 2014, [2,380][kilodeath] people died after being declared "fit for work" (FFW), i.e. after having their main income stopped. Media discussion of this fact was sloppy even by the low standards of public policy discussion. 
 
+(For context, if we established causation and so responsibility, this would make the Tories about as lethal as uterine cancer, at [720 UK deaths][cancer] a year.)
+
+It's not hard to find [cases][sullivan] where causation seems likely. But, by trying to imply causation from the above figure, the general claim implies that the Conservatives are responsible for <i>all</i> mortality during their reign - which, even speaking as a Scotsman, seems a bit strong. 
+<br><br>
+_Terms_:
+
+* <span style="font-weight:bold">ESA</span> : <a href="{{esa}}">Employment and Support Allowance</a>; the UK's newish main disability benefit. <br><br>
+* <span style="font-weight:bold">WCA</span> : <a href="{{wca}}">Work Capacity Assessment</a>. Quasi-medical screening process for ESA. <br>
+Introduced by Labour in 2008, made universal and  by the Conservatives in 2011.
 <br><br>
 
-<!-- REDO IN PLOTLY BARS -->
+The following is just an <a href="{{obs}}">observational</a> argument: it doesn't exonerate or condemn. All I can say for it is that it's less pig-ignorant than parroting the uncontrolled figure.
+
+If you take one thing from this, make it *You cannot infer anything about impact from one number at one point in time without a reference class.* 
+
+In particular, it doesn't make sense without accounting for the number of deaths in this group *before* the WCA reform. (Maybe 2380 is an improvement.) And it doesn't make sense to compare even those numbers without accounting for large known influences on mortality, e.g. seeing if ages and genders differ between the compared groups.
+
+It took me <a href="{{2003to13table}}">10 seconds</a> to find age-adjusted data on deaths, compared to the general population, before and after WCA:
+
 
 <div align="center">
-	<img src="/img/killer-tories/rates.jpg" />
+	<img src="/img/esa-deaths/granular_rate.png" />
 
-	<br><br><small>Age-standardised mortality rates (deaths per 100,000) in various subpopulations .</small>
+	<small>Suggested headline: <i>"Go on the dole to save your life!"</i> <a href="#fn:2" id="fnref:2">2</a></small>
 </div><br>
 
 
-There. Overall, British disabled people have been dying less since 2010. Given a population of 2m, this fall works out to about 2000 fewer deaths per year. If I was a journalist or an activist, I'd wrap up here: clearly Tory welfare reforms have been miraculous, having saved hundreds of disabled people's lives on net. Somehow.
 
-The following is just a statistical argument. All I can say for it is that it is less pig-ignorant than going around parroting the uncontrolled, uncontextualised figure.
+No large changes: people on incapacity benefit have been dying very slightly less (1043 -> 1032), and there's a slight increase (116 to 138) among JSA recipients. Given ~[2.5m][totalEsa] people on ESA, this fall works out to about 2000 fewer deaths per year. <a href="#fn:5" id="fnref:5">5</a> <a href="#fn:4" id="fnref:4">4</a> 
 
-Deaths after "fit for work" WCA: 				2,380 
-Deaths after unsuccessful DWP appeal:			1,360
-Deaths among ESA recipients, 2016:				50,580
-
-
-https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/459106/mortality-statistics-esa-ib-sda.pdf
-
-## Age distribution of disabled people
-
-We're looking for the following subsets:
-
-	1. people on ESA  U  people with a disability
-	2. people with a disability  U  declared fit to work (negative WCA)
-	3. people without a disability  U  declared fit to work (negative WCA)
-
-and then comparing this to the people who kept their ESA.
-
-Age-standardised mortality rates (ASMR) 
+<!-- 
+If I was a journalist or activist, I'd wrap up here: clearly Tory welfare reforms have been miraculous, saving hundreds of lives somehow. Never mind the big bold writing that correctly says _This information cannot be used as evidence to support a link or otherwise between mortality and benefit receipt._
+ -->
 
 
-## How bad are work competency assessments?
+But we're interested in the ones who <i>aren't</i> on disability any more, in particular the ones who were kicked off. (Many <a href="{{transition}}">move onto Jobseeker's Allowance</a>, which is actually the lowest-mortality group, even after adjusting for the relative youth of people on JSA. Then there's a group who presumably fall off the official stats entirely.)
 
-The main reasons to be suspicious of WCA are: 1) they are mostly not conducted by medical staff; 2) in the worst years the private companies contracted to run them had a quota of people to kick off benefit; 3) they ignore less visible conditions like major depression and chronic pain. 
+So compare the mortality rate of people on ESA (1.032%) with those kicked off it. The [published data for WCA results][wcaResults] only goes up to March 2013 at present; I'll update this when they're out, but for now let's plot a dumb model for the 2013-4 rate:
 
-I'm calling 'fit to work' a 'negative' result: the WCA test does not think you are disabled enough. 
+<div align="center">
+	<img src="/img/esa-deaths/ffw.png" />
+	<a href="#fn:6" id="fnref:6">6</a> 
+</div><br>
+
+
+* _December 2011 to March 2013_: 238,100 declared fit for work.
+* _Extrapolation for April 2013 to February 2014_: <a href="{{ffwGist}}">131,500, if trend continued</a>.
+* _Estimated total "fit for work", December 2011 to February 2014_: 369,600. 
+* _December 2011 to February 2014_: 2,380 deaths among "fit for work" within 6 months of decision.
+
+* _Death rate among "fit for work"_: 0.64%.
+* _Death rate among ESA recipients_: 1.03%.
+
+<br>
+The death rate among those declared fit to work (0.64%) was halfway between the rates of those kept on ESA (1.03%) and the general population (0.24%).
+
+<div align="center">
+	<img src="/img/esa-deaths/est_rates.png" />
+</div>
+
+What does this tell us? The "fit-for-work" population is probably not the same as the general population - and you could see this as an indictment of WCA, since this is how they are treated. It's consistent with half of "FFW" people being just as disabled as the "unfit-for-work", or with all "FFW"s being "half" as disabled - or, more likely, with some mixture of these things.
+
+If the "FFW" had the same health as the general population, you'd expect them to suffer roughly 890 deaths a year. <a href="#fn:7" id="fnref:7">7</a>  As it is, there were 1058, or 171 excess deaths a year. <a href="#fn:8" id="fnref:8">8</a>  
+
+"2,380" is thus several times too high an estimate, _even when stated as a careful observational result_, which it never is. 
+
+This does not demonstrate causation; many other things besides WCA could have and will have borne on these. I don't even have the row-level data to properly establish that FFWs are a different population, let alone enough to isolate WCA's effects on them.
+
+<br>
+
+---
+
+<br>
+
+## How bad are/were work competency assessments?
+
+The main reasons to be suspicious of the 2011 WCA are: 1) they are sometimes not conducted by medical staff; 2) the private companies contracted to run them had, at one point, a quota of people to kick off the benefit; 3) they penalise less visible conditions like major depression and chronic pain. 
+
+Call 'fit for work' a 'negative' result: i.e. the WCA test does not think you are disabled enough. 
 
 False positive (disabled | not disabled): 20% ?
 False negative ( not disabled | disabled ): 20% ?
@@ -77,44 +115,70 @@ Successful appeal = 40%
 
 We can use these to get the conditional probability of being disabled given a negative ("not disabled") WCA result.
 
+<!-- 
+Between 2011 and 2013 around 40% of claimants found 'fit for work' appealed to a tribunal and around 40% of those appeals were successful.[44] The total number of external appeals dropped markedly over the course of 2013, although most appellants who reach the tribunal stage now see their 'fit for work' decision overturned.[45][46]
 
-## Comorbidity
+During 2012, Parliament's Office of Science and Technology analysed the WCA's performance and found that "the number of fit-for-work decisions being overturned on appeal has led to questions about the reliability of the assessment process". In the same year, a parliamentary committee heard evidence from welfare advisors that, in nearly two out of three successful appeals to tribunals against fit-for-work decisions, appellants were seeing their points rise from zero in the original assessments — meaning that the original WCA had detected no relevant disabilities at all — to at least 15 points after the tribunals had independently assessed their claims.[47]
 
-We could reduce the uncertainty of this, given data on the cause of death - hypothermia and suicide being evidence of WCA killing, and decompensation of chronic illnesses being null evidence. 
+A 2012 study of 28,000 tribunal hearings analysed the reasons for overturning the DWP's decisions:
 
+    In almost two-thirds of successful appeals, the tribunals found the appellants' descriptions of their difficulties, given in person on the day of the tribunal, sufficiently convincing for them to be awarded the benefit — known as presenting "cogent oral evidence" in legal jargon. By implication, in these cases, the tribunal found the oral evidence more persuasive than had the assessor who had conducted the original face-to-face assessment
+    In nearly a quarter of successful appeals, the tribunals agreed with the DWP on the facts of the case but decided that the DWP had come to the wrong conclusion based on those facts
+    In 13% of cases, documentary evidence was provided that had not been available at the initial assessment
+    In under 1% of cases, the assessment report was found to contain important technical errors.[45]
+ -->
 
-## Known deaths
+<br>
 
-[Michael O'Sullivan][sullivan], AKA "Mr A".
+---
 
+<br>
 
-## Natural experiment: Scotland
+## Data
 
+People [struggled with the Department for Work and Pensions][struggle] to get these figures published. This is sometimes read as an admission of guilt. But given how naively the 2,380 figure was received, it is hard to blame them for their cowardice.
 
+Although <a href="{{2003to13}}">this official figure</a> is very misleading
 
-## Note on data
+<div align="center">
+	<img src="/img/esa-deaths/rates.jpg" />
+</div><br>
 
-People [struggled with the Department for Work and Pensions][struggle] to get these figures published. This is sometimes read as an admission of guilt. But given how naively the 2,380 figure was received, it is hard to blame them for their cowardly reluctance.
+since it hides a recent rise in death rate (2010 - 2013) behind the big drop between 2003 - 2008.
 
-This doesn't cover the burden of life lost to admin and the distress caused to those who didn't die after it.
+We could reduce our uncertainty if we had data on the cause of death - e.g. hypothermia and suicide being evidence of WCA responsibility, while decompensation of chronic illnesses wouldn't be. But we don't.
 
+I had a look for people who disappear from the system entirely. Let's try and find them among the homeless. The government [doesn't collect this information][noHome] (an oversight I'm inclined to be cynical about), and the charity Crisis haven't updated [their numbers][homeless] since 2009, just outside our analytical window.
 
+This analysis doesn't cover public time lost to <a href="/img/esa-deaths/bureau.png">bureaucracy</a>, nor the [distress][mental] of those who didn't die.
 
-## Blaming mortals for mortality
+<br>
 
-That sockpuppet axeman, Iain Duncan Smith.
+---
 
+<br>
 
-* 
+Part 2 of this series will be about the [stronger academic claim][elder] that austerity caused 30,000 - [45,000][bmj] excess deaths, mostly among the elderly.
 
+Part 3 might be about the [mental health impact of WCA][mental], though maybe not - that report doesn't make very questionable claims.
+
+<br><br>
+ 
 [sullivan]: http://www.newstatesman.com/politics/welfare/2015/09/disabled-man-killed-himself-over-benefit-cut-coroner-rules
-[esa]: https://en.wikipedia.org/wiki/Employment_and_Support_Allowance
 [naive]: https://www.theguardian.com/society/2015/aug/27/thousands-died-after-fit-for-work-assessment-dwp-figures
 [kilodeath]: https://www.gov.uk/government/statistics/mortality-statistics-esa-ib-and-sda-claimants
-[blake]: https://en.wikipedia.org/wiki/I,_Daniel_Blake
+[totalEsa]: https://www.gov.uk/performance/dwp-incapacity-benefit-employment-support-allowance-esa-claims-maintained
 [public]: https://stat-xplore.dwp.gov.uk/webapi/jsf/login.xhtml
 [struggle]: https://ico.org.uk/media/action-weve-taken/decision-notices/2015/1424160/fs_50557638.pdf 
 [cancer]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/cancersurvivalratescancersurvivalinenglandadultsdiagnosed
+[foundFit]: https://www.gov.uk/government/news/million-new-esa-claimants-found-fit-for-work
+[wcaResults]: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/274091/esa_wca_140122.xls
+[noHome]: https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/deathsduetohomelessness
+[elder]: https://www.ncbi.nlm.nih.gov/pubmed/28208027
+[mental]: http://www.advocard.org.uk/wp-content/uploads/2017/02/2017-02-Heriot-Watt-Mental-Health-Report-on-WCA.pdf
+[bmj]: http://bmjopen.bmj.com/content/7/11/e017722
+[homeless]: https://www.crisis.org.uk/media/236799/crisis_homelessness_kills_es2012.pdf
+[jones]: https://www.theguardian.com/commentisfree/2016/mar/17/disabled-people-government-vulnerable-budget-labour
 
 
 {%  include comments.html %}
