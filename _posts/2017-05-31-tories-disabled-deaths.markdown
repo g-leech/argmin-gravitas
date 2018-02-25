@@ -11,7 +11,7 @@ visible:	1
 published: 	true
 
 
-summary:	Checking the claim that austerity in 2011-2014 killed thousands of disabled people.
+summary:	Checking the claim that austerity killed thousands of disabled people.
 confidence: 80% in the observational argument; agnostic about causation.
 warnings: 	bureaucracy, statistical illiteracy, UK-only
 categories: stats, social science, data columbo
@@ -34,7 +34,7 @@ _Terms_:
 
 * <span style="font-weight:bold">ESA</span> : <a href="{{esa}}">Employment and Support Allowance</a>; the UK's newish main disability benefit. <br><br>
 * <span style="font-weight:bold">WCA</span> : <a href="{{wca}}">Work Capacity Assessment</a>. Quasi-medical screening process for ESA. <br>
-Introduced by Labour in 2008, made universal and  by the Conservatives in 2011.
+Introduced by Labour in 2008, made much stricter by the Conservatives in 2011.
 <br><br>
 
 The following is just an <a href="{{obs}}">observational</a> argument: it doesn't exonerate or condemn. All I can say for it is that it's less pig-ignorant than parroting the uncontrolled figure.
@@ -43,7 +43,7 @@ If you take one thing from this, make it *You cannot infer anything about impact
 
 In particular, it doesn't make sense without accounting for the number of deaths in this group *before* the WCA reform. (Maybe 2380 is an improvement.) And it doesn't make sense to compare even those numbers without accounting for large known influences on mortality, e.g. seeing if ages and genders differ between the compared groups.
 
-It took me <a href="{{2003to13table}}">10 seconds</a> to find age-adjusted data on deaths, compared to the general population, before and after WCA:
+It took me <a href="{{2003to13table}}">10 seconds</a> to find age-adjusted data on deaths, compared to the general population, before and after <a href="{{wca}}">WCA</a>:
 
 
 <div align="center">
@@ -54,7 +54,7 @@ It took me <a href="{{2003to13table}}">10 seconds</a> to find age-adjusted data 
 
 
 
-No large changes: people on incapacity benefit have been dying very slightly less (1043 -> 1032), and there's a slight increase (116 to 138) among JSA recipients. Given ~[2.5m][totalEsa] people on ESA, this fall works out to about 2000 fewer deaths per year. <a href="#fn:5" id="fnref:5">5</a> <a href="#fn:4" id="fnref:4">4</a> 
+No large changes: people on incapacity benefit have been dying very slightly less (1043 -> 1032), and there's a slight increase (116 to 138) among JSA recipients. Given ~[2.5m][totalEsa] people on <a href="{{esa}}">ESA</a>, this fall works out to about 2000 fewer deaths per year. <a href="#fn:5" id="fnref:5">5</a> <a href="#fn:4" id="fnref:4">4</a> 
 
 <!-- 
 If I was a journalist or activist, I'd wrap up here: clearly Tory welfare reforms have been miraculous, saving hundreds of lives somehow. Never mind the big bold writing that correctly says _This information cannot be used as evidence to support a link or otherwise between mortality and benefit receipt._
@@ -86,11 +86,11 @@ The death rate among those declared fit to work (0.64%) was halfway between the 
 	<img src="/img/esa-deaths/est_rates.png" />
 </div>
 
-What does this tell us? The "fit-for-work" population is probably not the same as the general population - and you could see this as an indictment of WCA, since this is how they are treated. It's consistent with half of "FFW" people being just as disabled as the "unfit-for-work", or with all "FFW"s being "half" as disabled - or, more likely, with some mixture of these things.
+What does this tell us? The "fit-for-work" population is probably not the same as the general population - and you could see this as an indictment of <a href="{{wca}}">WCA</a>, since this is how they are treated. It's consistent with half of "FFW" people being just as disabled as the "unfit-for-work", or with all "FFW"s being "half" as disabled - or, more likely, with some mixture of these things.
 
-If the "FFW" had the same health as the general population, you'd expect them to suffer roughly 890 deaths a year. <a href="#fn:7" id="fnref:7">7</a>  As it is, there were 1058, or 171 excess deaths a year. <a href="#fn:8" id="fnref:8">8</a>  
+If the "FFW" had the same health as the general population, you'd expect them to suffer roughly 890 deaths a year. <a href="#fn:7" id="fnref:7">7</a>  As it is, there were 1058, or roughly `~172` excess deaths a year. <a href="#fn:8" id="fnref:8">8</a>  
 
-"2,380" is thus several times too high an estimate, _even when stated as a careful observational result_, which it never is. 
+"2,380" is thus many times too high, _even if_ it had been stated as a careful observation of the situation and not as the resounding proof of blame it was stated as. 
 
 This does not demonstrate causation; many other things besides WCA could have and will have borne on these. I don't even have the row-level data to properly establish that FFWs are a different population, let alone enough to isolate WCA's effects on them.
 
@@ -102,18 +102,42 @@ This does not demonstrate causation; many other things besides WCA could have an
 
 ## How bad are/were work competency assessments?
 
-The main reasons to be suspicious of the 2011 WCA are: 1) they are sometimes not conducted by medical staff; 2) the private companies contracted to run them had, at one point, a quota of people to kick off the benefit; 3) they penalise less visible conditions like major depression and chronic pain. 
+_This section has several made up numbers._
 
-Call 'fit for work' a 'negative' result: i.e. the WCA test does not think you are disabled enough. 
+<br>
+The main reasons to be suspicious of the 2011 WCA are: 1) they are sometimes not conducted by medical staff; 2) the private companies that run them are given [narrow norms][norms] that probably result in a de facto quota; 3) they penalise less visible conditions like major depression and chronic pain. 
 
-False positive (disabled | not disabled): 20% ?
-False negative ( not disabled | disabled ): 20% ?
+If we had just a couple of numbers, we could the awesome machinery of the [confusion matrix][confu] to objectively rate how good WCAs are at their allotted dirty job.
 
+Buckle up, because it's time for some Bayesian inference.
 
-Successful appeal = 40%
+If the WCA is a disability test, then call a fit-for-work judgment a 'negative' result: i.e. the WCA test doesn't think you are disabled enough. Assume that a successful appeal is the same as showing a false negative on the original test (though in fact appeals will have some error rate too). 
 
+<br>
 
-We can use these to get the conditional probability of being disabled given a negative ("not disabled") WCA result.
+* Base rate for disability `P(H)`: One estimate is <a href="{{popul}}">21%</a> of UK adults.
+* False positive `P(E | ~H)`: being flagged unfit-for-work despite not being disabled. Probably low: 10% ?
+* False negative `P(~E | H)`: being flagged fit-for-work despite being disabled: FNR = [59%][appeal]
+* True positive `P(E | H)`: being flagged unfit-for-work and being disabled: `1 - FNR = 41%`
+* True negative `P(~E | ~H)`: being flagged fit-for-work and not being disabled: 1 - FPR = 0.9
+
+<br>
+
+We can use these to guess the conditional probability that someone is disabled given a positive WCA result ("unfit-for-work"):
+
+	P(H | E) =  P(E|H) x P(H)  / P(E|H) x P(H) + P(E|~H) x (1 - P(H))
+		 = (0.41 x 0.21) / (0.41 x 0.21 + 0.1 x 0.79)
+		 = 52.2%
+
+Slightly better than a coin flip; and the conditional probability that someone is disabled in spite of a negative WCA result ("fit-for-work"):
+
+	P(H | ~E) =  P(~E| H) x P(H)  / P(~E|H) x P(H) + P(~E|~H) x P(~H)
+		  = (0.59 x 0.21) / (0.59 x 0.21 + 0.9 x 0.79)
+		  = 16%
+
+<br>
+i.e. Under these estimates, the test is fairly weak evidence. (Don't rely on this; there are too many assumptions, and of necessity I've used the UK population rather than the test-taking population, which is bound to have a higher base rate.)
+
 
 <!-- 
 Between 2011 and 2013 around 40% of claimants found 'fit for work' appealed to a tribunal and around 40% of those appeals were successful.[44] The total number of external appeals dropped markedly over the course of 2013, although most appellants who reach the tribunal stage now see their 'fit for work' decision overturned.[45][46]
@@ -179,7 +203,9 @@ Part 3 might be about the [mental health impact of WCA][mental], though maybe no
 [bmj]: http://bmjopen.bmj.com/content/7/11/e017722
 [homeless]: https://www.crisis.org.uk/media/236799/crisis_homelessness_kills_es2012.pdf
 [jones]: https://www.theguardian.com/commentisfree/2016/mar/17/disabled-people-government-vulnerable-budget-labour
-
+[norms]: https://www.theguardian.com/commentisfree/2013/dec/09/atos-disabled-people-assessment-fit-work-report
+[appeal]: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/558953/esa-wca-summary-september-2016.pdf#page=9
+[confu]: https://en.wikipedia.org/wiki/Sensitivity_and_specificity#Confusion_matrix
 
 {%  include comments.html %}
 
