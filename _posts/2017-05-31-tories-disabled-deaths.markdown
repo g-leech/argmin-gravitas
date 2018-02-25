@@ -54,7 +54,7 @@ It took me <a href="{{2003to13table}}">10 seconds</a> to find age-adjusted data 
 
 
 
-No large changes: people on incapacity benefit have been dying very slightly less (1043 -> 1032), and there's a slight increase (116 to 138) among JSA recipients. Given ~[2.5m][totalEsa] people on <a href="{{esa}}">ESA</a>, this fall works out to about 2000 fewer deaths per year. <a href="#fn:5" id="fnref:5">5</a> <a href="#fn:4" id="fnref:4">4</a> 
+No large changes: people on incapacity benefit have been dying very slightly less (1043 -> 1032), and there's a slight increase (116 to 138) among JSA recipients. Given ~[2.5m][totalEsa] people on <a href="{{esa}}">ESA</a>, this fall works out to about 275 fewer deaths per year. <a href="#fn:5" id="fnref:5">5</a> <a href="#fn:4" id="fnref:4">4</a> 
 
 <!-- 
 If I was a journalist or activist, I'd wrap up here: clearly Tory welfare reforms have been miraculous, saving hundreds of lives somehow. Never mind the big bold writing that correctly says _This information cannot be used as evidence to support a link or otherwise between mortality and benefit receipt._
