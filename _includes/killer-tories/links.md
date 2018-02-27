@@ -1,4 +1,5 @@
 {%	assign tenSecs = "https://www.gov.uk/government/statistics/mortality-statistics-out-of-work-benefit-claimants-march-2003-to-february-2014"		%}
+{%	assign huffPo = "http://www.huffingtonpost.co.uk/2015/08/27/fit-for-work-government-figures-seven-people-who-died_n_8047968.html"	%}
 
 {%	assign wca = "https://en.wikipedia.org/wiki/Work_Capability_Assessment"		%}
 
@@ -16,3 +17,4 @@
 {%	assign transition = "http://www.cpag.org.uk/content/benefit-during-employment-and-support-allowance-dispute"		%}
 
 {%	assign camClegg = "https://en.wikipedia.org/wiki/Cameron%E2%80%93Clegg_coalition"		%}
+{%	assign 2008to2012 = "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/223050/incap_decd_recips_0712.pdf"		%}
