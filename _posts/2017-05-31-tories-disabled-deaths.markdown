@@ -24,11 +24,11 @@ count: 		1300
 
 You sometimes [see][jones] [the claim][naive] that the Conservative-led <a href="{{camClegg}}">coalition</a> killed "thousands" of disabled people by spuriously cutting them off from disability benefit. <a href="#fn:3" id="fnref:3">3</a>
 
-This claim is extremely naive, as I'll show. But it is based on something which <i>sounds</i> similar: the fact that between 2011 and 2014, [2,380][kilodeath] people died after being declared "fit for work" (FFW), i.e. after having their main income stopped. 
+This claim is naive to the point of deceit, as I'll show. But it is based on something which <i>sounds</i> similar: the fact that between 2011 and 2014, [2,380][kilodeath] people died after being declared "fit for work" (FFW), i.e. after having their main income stopped. 
 
 (For context, if we established causation, and so responsibility, this would make the Tories about as lethal as uterine cancer, at [720 UK deaths][cancer] a year.)
 
-It's not hard to find [cases][sullivan] where causation seems likely. But, by trying to imply causation from the above figure, the general claim implies that the Conservatives are responsible for <i>all</i> mortality during their reign - which, even speaking as a Scotsman, seems a bit strong. Media discussion of this fact was sloppy even by the low standards of public policy discussion.
+It's not hard to find [cases][sullivan] where causation seems likely. But, by trying to imply causation from the above figure, the general claim implies that the Conservatives are responsible for <i>all</i> mortality during their reign - which, even speaking as a Scotsman, seems a bit strong. Media discussion of this fact was sloppy even by the low standards of public policy discussion. <a href="#fn:11" id="fnref:11">11</a> There is no justice without accuracy.
 <br><br>
 _Terms_:
 
@@ -76,23 +76,70 @@ So, compare the mortality rate of people on ESA (1.032%) with those kicked off i
 * _Estimated total "fit for work", December 2011 to February 2014_: 369,600. 
 * _December 2011 to February 2014_: 2,380 deaths among "fit for work" within 6 months of decision.
 
-* _Death rate among "fit for work"_: 0.64%.
-* _Death rate among ESA recipients_: 1.03%.
+* _Non-age-standardised death rate among "fit for work"_: 0.64%.
+* _Age-standardised death rate among ESA recipients_: 1.03%.
 
 <br>
-So the death rate among those declared fit to work (0.64%) was halfway between the unfit-to-work (1.03%) and the general population rate (0.24%).
+So the _non-age-standardised_ death rate among those declared fit to work (0.64%) was halfway between the unfit-to-work (1.03%) and the general population rate (0.24%). <a href="#fn:10" id="fnref:10">10</a> 
+
 
 <div align="center">
 	<img src="/img/esa-deaths/est_rates.png" />
 </div>
 
-What does this tell us? That the "fit-for-work" population is probably not the same as the general population - and you could see this as an indictment of <a href="{{wca}}">WCA</a>, since this is exactly what they are treated as being. It's consistent with half of "FFW" people being equally unwell as the "unfit-for-work" are, or with all "FFW"s being half as disabled - or, more likely, with some mixture of these things.
+What does this tell us? That the "fit-for-work" population is not the same as the general population in some way. Without age standardisation, the following explanations are equally consistent:
+<br><br>
 
-If the "FFW" had the same health as the general population, you'd expect them to suffer roughly 887 deaths a year. <a href="#fn:7" id="fnref:7">7</a>  As it is, there were 1057, or something like `~170` <i>excess</i> deaths a year. <a href="#fn:8" id="fnref:8">8</a>  
+* Those deemed "fit-for-work" were generally older than the general population. 
 
-"2,380" is thus many times too high, _even if_ it had been stated as a careful observation of the situation and not as the resounding proof of blame it was stated as. 
+* Half of "FFW" people were as unwell as the "unfit-for-work"; all "FFW" people were half as healthy as the general population; more likely, some mixture of these health statuses. This would be an indictment of <a href="{{wca}}">WCA</a>, since the general population is exactly what they're treated as being. 
 
-The above has nothing to say about causation; many other things besides WCA could have and will have borne on these. I don't even have the row-level data to properly establish that FFWs are a different population, let alone enough to isolate WCA's effects on them.
+* Some combination of the above.
+
+<br>
+If the "FFW" had the same age and health distribution as the general population, you'd expect them to suffer roughly 887 deaths a year. <a href="#fn:7" id="fnref:7">7</a>  As it is, there were 1057, or something like `~170` <i>excess</i> deaths a year. <a href="#fn:8" id="fnref:8">8</a>  
+
+What we can get from this is an _upper bound_ on responsibility. If we insist on extracting a figure to compare to the reported figure, then the WCA is associated with <i>at most</i> 383 deaths over this period, and probably less. <a href="#fn:9" id="fnref:9">9</a> "2,380" is many times too high, _even if_ it had been stated as an honest observation and not the resounding proof of blame it was stated as. 
+
+(Clearly this is too ambiguous for the purposes of political point-scoring. Things often are.)
+
+The above has nothing to say about causation; many other things besides WCA could have and will have borne on these (e.g. age distribution, accidents, violence, decompensation). I don't even have row-level data to properly establish that FFWs are a different population, let alone enough to isolate WCA's effects on them.
+
+<br>
+
+---
+
+<br>
+
+## Labour vs Tories
+
+Some people have told me that the above is incomplete without a comparison to the Labour period (2008-11); that it reads like a shrug. That's wrong - it is  reasonable and helpful to remove individual falsehoods from the pool - but neither is it unfair. 
+
+There were [537,800][wcaResults] "fit-for-work" judgments between October 2008 and January 2011.
+
+We don't have death data for them - the relevant <a href="{{2008to2012}}">Freedom of Information report for the period</a> gives us the following shrug:
+
+<blockquote>
+	Data on the number of incapacity benefits claimants that have died following a fit for work decision is not available, as the Department does not hold  information on a death if the person has already left benefit.  
+</blockquote>
+
+That's not a lie, but we know it to be half-arsed given that they came up with this data for a different window, two years later.
+
+Here's something even more circumstantial than my above analysis:
+
+<br>
+
+<div align="center">
+	<img src="/img/esa-deaths/08.png" />
+</div>
+<br>
+
+<div align="center">
+	<img src="/img/esa-deaths/10.png" />
+</div>
+<br><br>
+
+Too much going on there; we just don't know.
 
 <br>
 
@@ -172,9 +219,9 @@ since it hides a recent rise in death rate (2010 - 2013) behind the big drop bet
 
 We could reduce our uncertainty if we had data on the cause of death - e.g. hypothermia and suicide being evidence of WCA responsibility, while decompensation of chronic illnesses wouldn't be. But we don't.
 
-I had a look for people who disappear from the system entirely. Let's try and find them among the homeless. The government [doesn't collect this information][noHome] (an oversight I'm inclined to be cynical about), and the charity Crisis haven't updated [their numbers][homeless] since 2009, just outside our analytical window.
+I had a look for people who disappear from the system entirely, among the homeless. The government [doesn't collect this information][noHome] (an oversight I'm inclined to be cynical about), and the charity Crisis haven't updated [their numbers][homeless] since 2009, just outside our analytical window. They are not counted; they do not count.
 
-This analysis doesn't cover public time lost to <a href="/img/esa-deaths/bureau.png">bureaucracy</a>, nor the [distress][mental] of those who didn't die.
+This analysis doesn't cover public time lost to <a href="/img/esa-deaths/bureau.png">bureaucracy</a>, nor the poverty and [distress][mental] of those who didn't die.
 
 <br>
 
