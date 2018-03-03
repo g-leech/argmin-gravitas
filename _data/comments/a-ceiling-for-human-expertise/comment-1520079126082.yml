@@ -1,0 +1,5 @@
+_id: 16a72010-1edc-11e8-8af7-ab99598c81b0
+name: Luke
+email: 1875bcb39a3c78bc3134052882a033d4
+message: "Hey Gavin, you must have watched the AlphaGO documentary? I thought it was interesting when they were evaluating the game versus Lee Seedol (maybe the 2nd game?), they noticed how even when AG was ahead it was making very conservative moves.\r\n\r\nThe policy optimizes for the move which maximises win percentage, so it would choose a very boring move a with small advantage, but very high confidence on that advantage. Now I accept this probably is the best move, but looking at a more holistic approach humans play games for enjoyment.. so they won't play this style.\r\n\r\nThe same reason a football team generally doesn't get ahead, and then stay in their own half passing the ball around themselves for the rest of the game."
+date: 1520079126
