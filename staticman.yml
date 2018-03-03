@@ -55,4 +55,4 @@ comments:
 
   # # List of transformations to apply to any of the fields supplied.
   # transforms:
-  #   email: md5
+  email: ""
