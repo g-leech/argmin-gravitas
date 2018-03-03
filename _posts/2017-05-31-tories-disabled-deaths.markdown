@@ -90,7 +90,9 @@ So the _non-age-standardised_ death rate among those declared fit to work (0.64%
 What does this tell us? That the "fit-for-work" population is not the same as the general population in some way. Without age standardisation, the following explanations are equally consistent:
 <br><br>
 
-* Those deemed "fit-for-work" were generally older than the general population. 
+* People deemed "fit-for-work" were generally older than the general population. 
+
+* The "fit-for-work" consist of more men than the general population does.
 
 * Half of "FFW" people were as unwell as the "unfit-for-work"; all "FFW" people were half as healthy as the general population; more likely, some mixture of these health statuses. This would be an indictment of <a href="{{wca}}">WCA</a>, since the general population is exactly what they're treated as being. 
 
@@ -103,7 +105,7 @@ What we can get from this is an _upper bound_ on responsibility. If we insist on
 
 (Clearly this is too ambiguous for the purposes of political point-scoring. Things often are.)
 
-The above has nothing to say about causation; many other things besides WCA could have and will have borne on these (e.g. age distribution, accidents, violence, decompensation). I don't even have row-level data to properly establish that FFWs are a different population, let alone enough to isolate WCA's effects on them.
+The above has nothing to say about causation; many other things besides WCA could have and will have borne on these (e.g. age distribution, accidents, violence, decompensation). I don't even have row-level data to properly establish that FFWs are a different population, let alone enough to isolate WCA's effects on them. Actually all you'd need is the sample variances, but I can't see them.
 
 <br>
 
