@@ -54,5 +54,5 @@ comments:
   requiredFields: ["name", "message"]
 
   # # List of transformations to apply to any of the fields supplied.
-  # transforms:
-  email: ""
+  transforms:
+    email: ""
