@@ -46,7 +46,13 @@ The suicide rate would be higher for convicted people who have been castrated. B
 
 
 
-+ in mid-May 1954, when Alan went with the Greenbaum family for a Sunday visit to Blackpool. It was a very fine day, and they walked cheerfully along the Golden Mile of seaside amusements, until they came across the Gypsy Queen, the fortune-teller. Alan went in, to consult her. Had not a gypsy foretold his genius, in 1922? The Greenbaums waited outside, and found themselves waiting for half an hour. When he came out, he was as white as a sheet, and would not speak another word as they went back to Manchester on the bus. They did not hear from him again, until he called on the Saturday two days before his death when, as it happened, they were out. They heard of his death before returning the call.
+    suicide given death: 1%
+    suicide given ...
+    The way to get a probability for an event which only happens once is to use Bayesian updating.
+
+
+
+
 
 
 
@@ -66,6 +72,8 @@ The suicide rate would be higher for convicted people who have been castrated. B
 	<li>letters to Robin Gandy talks about his “shocking tendency at present to fritter my time away in anything but what I ought to be doing.”</li>
 
 	<li>Fond of Snow White</li>
+
+	+ in mid-May 1954, when Alan went with the Greenbaum family for a Sunday visit to Blackpool. It was a very fine day, and they walked cheerfully along the Golden Mile of seaside amusements, until they came across the Gypsy Queen, the fortune-teller. Alan went in, to consult her. Had not a gypsy foretold his genius, in 1922? The Greenbaums waited outside, and found themselves waiting for half an hour. When he came out, he was as white as a sheet, and would not speak another word as they went back to Manchester on the bus. They did not hear from him again, until he called on the Saturday two days before his death when, as it happened, they were out. They heard of his death before returning the call.
 
 	<li>
 </ul>
@@ -122,3 +130,9 @@ freedom from financial trouble
 <h3>Evidence neither way</h3>
 
 o  There was a half-eaten apple beside his bed. However, he usually ate an apple before bed. (At well-supplied-for-wartime Hanslope Park, "Alan was also able to have the apple that as a rule he would always eat before going to bed.")
+
+
+
+
+
+Given the weakness of the evidence, why is the suicide hypothesis the received wisdom? Well, without over-egging it: it makes a better story. And it gives the event meaning - terrible, but morally straightforward meaning. It makes Turing's death about homophobia, rather than absurd, empty accident.

@@ -52,4 +52,6 @@ This perhaps has implications for human expertise in general, by the following a
 
 <br><br>
 
+Regarding premise 4, <a href="{{kahn}}">Kahneman</a> has this to say:
+
 {%  include comments.html %}
