@@ -18,7 +18,7 @@ count:		400
 ---
 
 
-{%	include nonvicious/links.md		%}
+{%	include quality/links.md		%}
 
 
 <br>
