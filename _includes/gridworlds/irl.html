@@ -1,0 +1,41 @@
+<a href="{{IRL}}">Implemented here</a>.<br>
+
+
+<div class="accordion">
+	
+	<h3>IRL subproblems</h3>
+	<div>	
+	- <i>unknown optimal policy</i>: how to infer R without π? (Trajectory sampling)<br>
+	- underspecification: how to find one solution among infinite fitting functions?<br>
+	- degeneracy: how to avoid zero holes?<br>
+	- intractability of function search: LP doesn't scale. What does? (function approximation, linear combi)<br>
+	- biasedness of linear combinations (thus heuristics, soft constraints)<br>
+	- suboptimality of expert trajectories: how to learn from imperfect experts? how to trade off between ignoring inconsistencies and fitting signal?
+	</div>
+
+	<h3>Suboptimality of expert trajectories</h3>
+	<div>When using human advice, we need to trade off ignoring inconsistencies in it and trying to use every detail of it in case it has signal.<br><br>
+
+	Princip Max Ent: Subject to precisely stated prior data (such as a proposition that expresses testable information), the probability distribution which best represents the current state of knowledge is the one with largest entropy. Unifies joint, conditional, marginal distribution<br><br>
+
+	The probability of a trajectory demonstrated by the expert is exponentially higher for higher rewards than lower rewards,<br><br>
+
+	1. Solve for optimal policy pi(a | s) <br>
+	2. Solve for state visitation frequencies<br>
+	3. Compute gradient using visit freqs. <br>
+	4. Update theta one gradient step<br>
+	</div>
+
+	<h3>Discussion</h3>
+	<div>
+		Computationally tough, involves solving MDP repeatedly - this makes Bayesian methods extra hard. <br><br>
+
+		Standard methods need access to environment dynamics<br><br>
+
+		IRL trajectories can end up looking very different from demonstrations. Penalising the ‘distance’ from the demonstrations seems like an appealing idea, but a KL-divergence term will be infinity whenever the agent visits a state not seen in the demonstrations. Optimal transport might be a way to introduce a meaningful penalty.<br><br>
+
+		IRL can get the wrong idea about which features you cared about, especially if both are consistent with the data<br><br>
+
+		Our hand-engineered features are a little complex, but of the sort you might expect to be learnt by deep IRL - this is a reason for both optimism (the solution is in the space!) and pessimism (other solutions might look more plausible under the data)
+	</div>
+</div>
