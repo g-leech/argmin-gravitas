@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Testing Side-effects in Gridworlds"
+title:      "Preventing Side-effects in Gridworlds"
 baselink:   /grids
 permalink:  /grids
 date:       2018-04-22  <!--site.time-->
