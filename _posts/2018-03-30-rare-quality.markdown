@@ -39,7 +39,8 @@ I recently realised I don't know why quality is rare. Despite its obviousness an
 		<span style="font-weight: bold">
 			<i>Social constructionism</i><br>
 		</span>
-		'Quality is rare because we estimate a thing's quality by its rarity, or by how hard it is to do.' (Cop-out, true only of positional goods and not others.)
+		'Quality is rare because we estimate a thing's quality by its rarity, or by how hard it is to do.'<br> 
+		(Cop-out, true only of positional goods and not others.)
 	</li><br>
 
 	<li>
@@ -50,11 +51,22 @@ I recently realised I don't know why quality is rare. Despite its obviousness an
 		(<a href="{{cltv}}">False</a>, even for just explaining or moralising <i>exchange</i> value.)
 	</li><br>
 
+
+
+	<li>
+		<span style="font-weight: bold">
+			<i>Inverse labour theory of quality</i><br>
+		</span>
+		'Quality is much less rare than it used to be, because of machine production. Quality is proportional with driving humans out of manufacturies. The knowledge economy and the cultural economy are mostly crap because they are not automated enough.' <br>
+		(Fits disturbingly well.)
+	</li><br>
+
 	<li>  
 		<span style="font-weight: bold">
 			<i>Labour thermodynamics</i><br>
 		</span>
-		'Quality is rare because good things occupy lower-entropy states and so, by the <a href="{{law2}}">second law</a>, require more <a href="{{work}}">Work</a> to create and maintain.'<br> Is cleaning the best example of this?
+		'Quality is rare because good things occupy lower-entropy states and so, by the <a href="{{law2}}">second law</a>, require more <a href="{{work}}">Work</a> to create and maintain.'<br> 
+		Is cleaning the best example of this?
 	</li><br>
 	
 	<li>
