@@ -43,6 +43,8 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 	<!-- <h3>briefs</h3><div>	{%	include quotes/tersely.html	%}			</div> -->
 	<h3>politics</h3><div>	{%	include quotes/politics.html	%}		</div>
 	<h3>art</h3><div>		{%	include quotes/art.html		%}			</div>
+	<h3>education</h3><div>		{%	include quotes/education.html		%}			</div>
+
 	<h3>deaths</h3><div>	{%	include quotes/deaths.html	%}			</div>
 	<h3>aphorists</h3>
 	<div>

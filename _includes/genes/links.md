@@ -24,3 +24,7 @@
 
 {% 	assign weapon = 	"https://en.wikipedia.org/wiki/List_of_U.S._biological_weapons_topics#Weaponized_biological_agents" %}
 {%	assign warrant = "https://www.local10.com/news/police-can-legally-use-23andme-other-ancestry-tools-to-obtain-your-dna?"	%}
+{%	assign falsePos = "https://www.themarshallproject.org/2018/04/19/framed-for-murder-by-his-own-dna" 		%}
+{%	assign collision = "https://en.wikipedia.org/wiki/Collision_(computer_science)"		%}
+{%	assign ged = "https://www.gedmatch.com/login1.php"		%}
+{%	assign goldenkiller = "https://www.nytimes.com/2018/04/27/us/golden-state-killer-case-joseph-deangelo.html"		%}
