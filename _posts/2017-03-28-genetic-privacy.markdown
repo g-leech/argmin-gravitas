@@ -28,7 +28,7 @@ I'm keen to get my genome sequenced. This is so I can [dig around][open] in my d
 
 I'm mostly just waiting for the cost to plummet some more. One reason it isn't cheap yet is [regulation][regs]. Most of this concerns data privacy, including my right to be [protected][alex] from misinterpreting information I ask for and pay for. 
 
-I don't necessarily understand my society's extreme caution in this manner: I harbour an ambition to put my genome up online as a joke: so I can say "[I am open source][ftp]".
+I don't necessarily understand my society's extreme caution in this manner: I harbour an ambition to put my genome up online as a joke: so I can say "[I am open source][ftp]". But some people have already done this for serious reasons, <a href="{{ged}}">to find unknown relatives</a>.
 
 Here are some things you might worry about if you did such a thing.<br><br>
 
@@ -41,16 +41,18 @@ Here are some things you might worry about if you did such a thing.<br><br>
 
 			As a European, I found it hard to believe how callous American healthcare is. They absolutely do use all kinds of data sources to limit coverage, ramp up cost, or exclude people entirely. Our current knowledge of genetics is not <i>so</i> powerful at predicting your phenotypical health, but many people have obvious risk markers, and it's only going to get better/worse. <br>
 
-			<i>Risk applies to</i>: People with known pathological alleles living in non-<a href="{{singleton}}">single-payer</a> countries.</li><br>
+			<i>Risk applies to</i>: People with known pathological alleles living in non-<a href="{{singleton}}">single-payer</a> countries.<br>
+			<i>Risk to me</i>: Low.</li><br>
 
 
 			<li><span class="b">Adversarial dirt.</span><br> 
 
 			If you are ever in a position where someone needs to make you look bad - e.g. a very fierce job competition; an <a href="{{trump}}">election</a> <a href="{{hidden}}">campaign</a>; a custody battle - then any genetic frailty could be used against you.<br>
-			<i>Risk applies to</i>: Extraordinarily ambitious people with known pathological alleles</li><br>
+			<i>Risk applies to</i>: Extraordinarily ambitious people with known pathological alleles.<br>
+			<i>Risk to me</i>: Low?</li><br>
 
-			<li><span class="b">An unwarranted aid to police.</span><br>
-			This would open you to a small risk of false positive in DNA testing. Note that to avoid this completely you'd need to <a href="{{warrant}}">not get sequenced by anyone else at all</a>: police can probably subpoena genetech companies. Total aversion is almost certainly not the highest expected value option.
+			<li><span class="b">A flawed aid to police.</span><br>
+			Having your genome fully available would open you to a small risk of being <a href="{{falsePos}}">falsely implicated by a DNA test error</a> or <a href="{{collision}}">fragment collision</a>. Note that, to avoid this completely, you'd need to <a href="{{warrant}}">not get sequenced by anyone else at all</a>: police can subpoena genetics companies. (And total aversion is almost certainly not the highest expected value option.) This is in the "actual threats" section because <a href="{{goldenkiller}}">the Golden State Killer was caught</a> by uploading a crime-scene sample to an open genome database his relatives had used.<br>
 			<i>Risk applies to</i>: Criminals and civil disobedients. Anyone living in an authoritarian regime with unpredictable antipathies.</li><br>
 
 			<li><span class="b">DNA framing.</span><br>
