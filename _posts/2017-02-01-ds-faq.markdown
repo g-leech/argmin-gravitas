@@ -13,7 +13,7 @@ best:			1
 summary:		A catalogue of intuitive explanations I wish I'd had before getting into it. Plus, reading lists.
 confidence:		80%. Distillation of a few textbooks. borrowed authority.
 categories:		machine learning, data science
-count: 			Many 
+count: 			4500
 started:    	2017
 ---
 
@@ -28,67 +28,89 @@ started:    	2017
 	<img src="/img/relation.png" style="height:60%;width:60%;"/><br>
 	<small>(c) Larry Leemis (2008) <a href="#fn:7" id="fnref:7">7</a></small>
 
-</div><br><br><br>
+</div><br><br>
 
 > <span style="font-weight: bold;">Data Scientist</span>: Person who is worse at statistics than any statistician & worse at software engineering than any software engineer.
 
 <center>~ Will Cukierski</center><br><br>
 
 
-Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fresh programmer from an actual engineer. <a href="#fn:2" id="fnref:2">2</a> The following is also very long, but aims to enlighten, not to chastise.<br><br><br>
 
+<h3>What is data science?</h3>
+<div>
+	{%	include dsfaq/prozess.html	%}
+</div>
+
+<br><br>
+<hr />
+<br><br>
+
+<h3>Modelling</h3>
+<div>
+	<div class="accordion">
+		{%	include dsfaq/modelling.html	%}
+	</div>
+</div>
+
+<br><br>
+<hr />
+<br><br>
+
+<h3>Machine learning</h3>
+<div>
+	<div class="accordion">
+		{%	include dsfaq/ml.html	%}
+	</div>
+</div>
+
+<br><br>
+<hr />
+<br><br>
+
+<h3>Programming</h3>
+<div>
+	<div class="accordion">
+		{%	include dsfaq/code.html	%}
+	</div>
+</div>
+
+<br><br>
+<hr />
+<br><br>
+
+<h3>Data janitoring</h3>
+<div>
+	{%	include dsfaq/janitor.html	%}
+</div>
+
+<br><br>
+<hr />
+<br><br>
+
+<h3>Recommended reading</h3>
+<div>
+	<div class="accordion">
+		{%	include dsfaq/books.html	%}
+	</div>
+	<br><a href="{{spoilers}}">Full list here</a>. All books: I don't care for MOOCs or Youtube series. You can ignore all <i>Medium</i> posts on the matter (or any matter), with the exception of <a href="{{Kelleh}}">@akelleh</a>, which you must read.<br>
+</div>
+
+<br><br>
+<hr />
+<br><br>
 
 <div class="accordion">
-
-	<h3>What is data science?</h3>
-	<div>
-		{%	include dsfaq/prozess.html	%}
-	</div>
-	
-	<h3>Modelling</h3>
-	<div>
-		<div class="accordion">
-			{%	include dsfaq/modelling.html	%}
-		</div>
-	</div>
-
-	<h3>Machine learning</h3>
-	<div>
-		<div class="accordion">
-			{%	include dsfaq/ml.html	%}
-		</div>
-	</div>
-
-	<h3>Programming</h3>
-	<div>
-		<div class="accordion">
-			{%	include dsfaq/code.html	%}
-		</div>
-	</div>
-
-	<h3>Data janitoring</h3>
-	<div>
-		{%	include dsfaq/janitor.html	%}
-	</div>
-
-	<h3>Recommended reading</h3>
-	<div>
-		<div class="accordion">
-			{%	include dsfaq/books.html	%}
-		</div>
-		<br><a href="{{spoilers}}">Full list here</a>. All books: I don't care for MOOCs or Youtube series. You can ignore all <i>Medium</i> posts on the matter (or any matter), with the exception of <a href="{{Kelleh}}">@akelleh</a>, which you must read.<br>
-	</div>
-
 	<h3>Glossary</h3>
 	<div>
-		{%	include dsfaq/gloss.html	%}
-	</div>	
-	
+	{%	include dsfaq/gloss.html	%}
+	</div>
 </div>
+
 
 <br><br><br>
 
 
+Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fresh programmer from an actual engineer. <a href="#fn:2" id="fnref:2">2</a>.<br><br><br>
 
 
 
@@ -96,3 +118,4 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 
 
 {%  include dsfaq/foots.html %}
+{%  include comments.html %}
