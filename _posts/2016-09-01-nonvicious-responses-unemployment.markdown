@@ -21,7 +21,7 @@ count: 		1950
 {%	include nonvicious/links.md		%}
 
 
-<div style="text-align:center"><img src="/img/blueprint.jpg" /></div>
+<div style="text-align:center"><img width="100%" src="/img/blueprint.jpg" /></div>
 
 <br><br>
 
@@ -85,7 +85,7 @@ If so, our economy - resource allocation based on employment (which we use as a 
 </div>
 <br>
 
-Automation is maybe the main way that technology improves most people's lives: aside from foolish <a href="{{posit}}">status</a> exceptions like Apple products, big reductions in manufacturing cost usually mean big reduction in the end cost of goods. Obviously, replacing labour costs with lower machine costs benefits rich machine-owners <i>most</i>, but automation also allows giant price cuts in all kinds of things; over the last two centuries these cuts have transformed society, increasing equality enormously by making things affordable for the first time.<br><br>
+Automation is maybe the main way that technology improves most people's lives: aside from foolish <a href="{{posit}}">status</a> exceptions like Apple products, big reductions in manufacturing cost usually mean big reduction in the end cost of goods. Obviously, replacing labour costs with lower-marginal-cost machines benefits rich machine-owners <i>most</i>, but automation also allows giant price cuts in all kinds of things; over the last two centuries these cuts have transformed society, increasing equality enormously by making things affordable for the first time.<br><br>
 
 Besides the obvious example - that we now produce a volume of food far beyond the needs of the entire world population (<a href="{{food}}">2940kcal per person per day</a>, though with terrible distributive failures) - consider that a single ordinary shirt takes <a href="{{labour}}">508 hours of labour</a> to produce on a spinning wheel and hand-loom - so you would expect to pay something above <a href="{{wolfram}}">$3600</a> at current minimum wage (still $900 at 1400CE wage levels). <a href="#fn:4" id="fnref:4">4</a> Getting costs as near to zero as possible is the way we will solve the easy problem of human existence, scarcity of basic goods and leisure. <a href="#fn:5" id="fnref:5">5</a><br><br>
 
@@ -101,7 +101,7 @@ I am not very sure of any of the above; the <a href="{{loGrowth}}">actual stats 
 
 
 <div class="separator" style="clear: both; text-align: center;"><a href="/img/awwww.png" imageanchor="1" 
-	style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/img/awwww.png" /></a><br>
+	style="margin-left: 1em; margin-right: 1em;"><img width="100%" border="0" src="/img/awwww.png" /></a><br><br>
 <small>(c) GE Thyer (1988)</small></div>
 
 <br><br>
