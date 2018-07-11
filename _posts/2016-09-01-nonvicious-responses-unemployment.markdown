@@ -15,6 +15,7 @@ confidence: 90% that the ones I call vicious would be. 60% that the ones I call 
 warnings: 	totalitarianism, denial of basic goods
 categories: scary futurism, the machines!, transhumanism
 count: 		1950
+lw: 		https://www.lesswrong.com/posts/HK4rjtfKetGF9rHQM/automatic-for-the-people
 ---
 
 
