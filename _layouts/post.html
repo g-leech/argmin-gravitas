@@ -26,8 +26,9 @@ layout: default
         <br>
         {% if page.summary %} <br>{{t}}<i>{{	page.summary	}}</i>{% endif %} 
       	{% if page.confidence %} <br>{{t}}<i>Confidence</i>: {{	page.confidence	}}{% endif %} 
-      	{% if page.warnings %} <br>{{t}}<i>Content notes</i>: {{	page.warnings	}}{% endif %} 
+      	{% if page.warnings %} <br>{{t}}<i>Content notes</i>: {{	page.warnings	}}{% endif %}
         <br>{{t}}<i>Reading time</i>: About {{page.count | divided_by: 200 }} minutes.
+        {% if page.lw %} <br>{{t}}<a href="{{ page.lw }}">Cross-posted on LessWrong here</a>.{% endif %} 
       </p>
   	</header>
   
