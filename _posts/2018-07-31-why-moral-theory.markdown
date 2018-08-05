@@ -69,7 +69,7 @@ It's clear that humans are at best imperfect consequentialists: not least, you m
 Also - if I'm allowed a circular comment: intuitionism generally leads to poor actions. Intuitionism (e.g. "act as love demands you to act") is often wrong because our intuitions are rooted in our brutal and amoral natural history, where selfishness, nepotism, othering and myopia were all highly adaptive strategies. Vengeance is intuitive; honor killing is intuitive; actual political corruption is highly intuitive.
 
 
-The arch-rationalist Bentham predicted that <a href="{{gays}}">homosexuality</a> wasn't wrong, that <a href="{{animals}}">abusing animals</a> was wrong, that <a href="{{slaves}}">slavery was wrong</a>, <a href="{{women}}">that women deserved the vote</a>, that <a href="{{pun}}">retributive punishment</a> is wrong. These remain highly counterintuitive for most of the world. (An imperfect reasoner like all of us, he was wrong about other things, e.g. <a href="{{slaves}}">the colonies</a>.) Was it reason that made us comply with these? At least partially, yes.
+Around 1800, the arch-rationalist Bentham predicted that <a href="{{gays}}">homosexuality</a> wasn't wrong, that <a href="{{animals}}">abusing animals</a> was wrong, that <a href="{{slaves}}">slavery was wrong</a>, <a href="{{women}}">that women deserved the vote</a>, that <a href="{{pun}}">retributive punishment</a> is wrong. These remained highly counterintuitive to most of the world for the next two hundred (three hundred?) years. (An imperfect reasoner like all of us, he was wrong about other things, e.g. <a href="{{slaves}}">the colonies</a>.) Was it reason that made us comply with these? At least partially, yes.
 
 <br><br><br>
 
