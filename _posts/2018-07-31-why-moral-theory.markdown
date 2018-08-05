@@ -22,6 +22,8 @@ count:		14,501
 {%  assign austin = "https://books.google.co.uk/books?id=mHH4quX4rCQC&pg=PR17&lpg=PR17&dq=%22It+was+never+contended+by+a+sound%22&source=bl&ots=SZFLumKYKH&sig=i4lOHLSrrz-fjxUPyXu-Ds0jxmQ&hl=en&sa=X&ved=2ahUKEwi6xYmT_dXcAhWMMewKHehXDmcQ6AEwAHoECAAQAQ#v=onepage&q=%22It%20was%20never%20contended%20by%20a%20sound%22&f=false" %}
 {%  assign women = "https://blogs.ucl.ac.uk/museums/2016/03/03/bentham-the-feminist/" %}
 {%  assign pun = "https://plato.stanford.edu/entries/bentham/#PenLawPun"		%}
+{%	assign arch = "https://web.archive.org/web/20180805133058/https://www.gleech.org/img/why%20moral%20theory%20is%20boring%20and%20corrupt%20-%20Unknown.doc"	%}
+
 
 <br>
 
@@ -43,7 +45,7 @@ It reads like a farewell to academia, a cry of exhaustion from a foiled job-seek
 
 <br>
 
-I'm a thoroughgoing Boring-Corrupt consequentialist myself, but I like this paper and don't want it to fall down the digital hole. <span style="font-weight: bold"><a href="/img/why moral theory is boring and corrupt - Unknown.doc">Here's the original .doc</a></span> (Internet Archive) which I happened upon sometime in 2009. 
+I'm a thoroughgoing Boring-Corrupt consequentialist myself, but I like this paper and don't want it to fall down the digital hole. <span style="font-weight: bold"><a href="/img/why moral theory is boring and corrupt - Unknown.doc">Here's the original .doc</a></span> (<a href="{{arch}}">Internet Archive</a>) which I happened upon sometime in 2009. 
 
 (I spent a little while trying to work out who wrote it, based on their personal acknowledgments to various St Andrews, Leeds, and Sheffield philosophers, but decided I don't care.)
 
@@ -63,7 +65,10 @@ The standard response is to separate the 'criterion of rightness' (what is actua
 
 It's clear that humans are at best imperfect consequentialists: not least, you must have accurate beliefs to reliably have good effects on the world, and almost no-one generally does. The psychological possibility of living a strict moral code is an empirical question in general - but as existence-proof I can tell Anonymous that I'm a happy person with fairly strict consequentialist morals and as many loving relationships as I can take.  
 
-Also - if I'm allowed a circular comment: intuitionism generally leads to poor actions. Intuitionism (e.g. "act as love demands you to act") is often wrong because our intuitions are rooted in our brutal and amoral natural history, where selfishness, nepotism, othering and myopia were all highly adaptive strategies. The arch-rationalist Bentham predicted that <a href="{{gays}}">homosexuality</a> wasn't wrong, that <a href="{{animals}}">abusing animals</a> was wrong, that <a href="{{slaves}}">slavery was wrong</a>, <a href="{{women}}">that women deserved the vote</a>, that <a href="{{pun}}">retributive punishment</a> is wrong. These remain highly counterintuitive for most of the world. (An imperfect reasoner like all of us, he was wrong about other things, e.g. <a href="{{slaves}}">the colonies</a>.) Was it reason that made us comply with these? At least partially, yes.
+Also - if I'm allowed a circular comment: intuitionism generally leads to poor actions. Intuitionism (e.g. "act as love demands you to act") is often wrong because our intuitions are rooted in our brutal and amoral natural history, where selfishness, nepotism, othering and myopia were all highly adaptive strategies. Vengeance is intuitive; honor killing is intuitive; actual political corruption is highly intuitive.
+
+
+The arch-rationalist Bentham predicted that <a href="{{gays}}">homosexuality</a> wasn't wrong, that <a href="{{animals}}">abusing animals</a> was wrong, that <a href="{{slaves}}">slavery was wrong</a>, <a href="{{women}}">that women deserved the vote</a>, that <a href="{{pun}}">retributive punishment</a> is wrong. These remain highly counterintuitive for most of the world. (An imperfect reasoner like all of us, he was wrong about other things, e.g. <a href="{{slaves}}">the colonies</a>.) Was it reason that made us comply with these? At least partially, yes.
 
 <br><br><br>
 
