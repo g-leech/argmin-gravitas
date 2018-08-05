@@ -11,11 +11,12 @@ published:	true
 visible: 	1
 
 summary:    Reposting an anonymous essay attacking almost all academic ethical systems.
-confidence:	I do not agree with this essay.
+confidence:	I do not agree with the linked essay.
 categories: 
 count:		14,501
 ---
 
+{%	assign ea = "https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/"	%}
 {%  assign gays = "https://www.theguardian.com/books/2014/jun/26/sexual-irregularities-morality-jeremy-bentham-review" %}
 {%  assign animals = "https://www.utilitarianism.com/jeremybentham.html" %}
 {%  assign slaves = "https://ndpr.nd.edu/news/utilitarianism-and-empire/" %}
@@ -63,7 +64,7 @@ For instance, if we were perfect (first-order) consequentialists, we'd be consta
 
 The standard response is to separate the 'criterion of rightness' (what is actually good) from the 'deliberative procedure' (how we go about trying to achieve good). You only optimise the big things, using your limited information and cognitive bandwidth as much as you can, but without angst at being imperfect; you cannot be responsible for something you have no power over. (<a href="{{austin}}">Austin</a>: "<i>It was never contended... by a sound, orthodox utilitarian that the lover should kiss his mistress with an eye to the common weal.</i>") Anonymous says we can't do that.
 
-It's clear that humans are at best imperfect consequentialists: not least, you must have accurate beliefs to reliably have good effects on the world, and almost no-one generally does. The psychological possibility of living a strict moral code is an empirical question in general - but as existence-proof I can tell Anonymous that I'm a happy person with fairly strict consequentialist morals and as many loving relationships as I can take.  
+It's clear that humans are at best imperfect consequentialists: not least, you must have accurate beliefs to reliably have good effects on the world, and almost no-one generally does. The psychological possibility of living a strict moral code is an empirical question in general - but as existence-proof I can tell Anonymous that I'm a happy person with fairly strict consequentialist morals, a strong sense of <a href="{{ea}}">community</a>, and as many loving relationships as I can take.  
 
 Also - if I'm allowed a circular comment: intuitionism generally leads to poor actions. Intuitionism (e.g. "act as love demands you to act") is often wrong because our intuitions are rooted in our brutal and amoral natural history, where selfishness, nepotism, othering and myopia were all highly adaptive strategies. Vengeance is intuitive; honor killing is intuitive; actual political corruption is highly intuitive.
 
