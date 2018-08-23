@@ -1,88 +1,88 @@
-Rank, Philosopher, isSystemBuilder
-1, Aristotle, 1
-2, Plato, 1
-3, Kant, 1
-4, Hume, 0
-5, Descartes, 1
-6, Socrates, 0
-7, Locke, 0
-8, Wittgenstein, 0.5
-9, Aquinas, 1
-10, Leibniz, 1
-11, Hobbes, 0.5
-12, Marx, 1
-13, Mill, 1
-14, Spinoza, 0.5
-15, Augustine, 0
-16, Frege, 0
-17, Hegel, 1
-18, Nietzsche, 1
-19, Russell, 1
-20, Kierkegaard, 0
-21, Berkeley, 0
-22, Quine, 0
-23, Epicurus, 1
-24, Rousseau, 0
-25, Kripke, 0
-26, Rawls, 0
-27, Carnap, 0
-28, Bacon, 1
-29, Bentham, 0.5
-30, Lewis, 0
-31, Democritus, 1
-32, James, 0.5
-33, Parmenides, 0
-34, Heraclitus, 0
-35, Heidegger, 0
-36, Dewey,0.5
-37, Cicero, 0
-38, Epictetus, 0
-39, Austin, 0
-40, Duns Scotus, 0.5
-41, Plotinus, 1
-42, Peirce, 1
-43, Anselm, 0
-44, Husserl, 0
-45, Machiavelli, 0
-46, Pythagoras, 0
-47, Ockham, 0
-48, Schopenhauer, 0
-49, Sartre, 0
-50, Foucault, 0
-51, Smith, 0
-52, Anscombe, 0
-53, Popper, 0.5
-54, Abelard, 0.5
-55, Protagoras, 0
-56, Reid, 0
-57, Zeno, 0
-58, Habermas, 0
-59, Montaigne, 1
-60, Pyrrho, 0
-61, Sidgwick, 0
-62, Tarski, 0
-63, Fichte, 0
-64, Adorno, 0
-65, Merleau-Ponty, 0
-66, Ramsey, 0
-67, Feuerbach, 0.5
-68, Maimonides, 1
-69, Malebranche, 0
-70, Thales, 1
-71, Seneca, 0.5
-72, Sellars, 0.5
-73, Voltaire, 0.5
-74, Comte, 1
-75, Cavendish, 0
-76, Bergson, 0
-77, Grotius, 0
-78, Herder, 0
-79, Montesquieu, 0
-80, Schelling, 0.5
-81, Whitehead, 1
-82, Wollstonecraft, 0
-83, Deleuze, 0
-84, Dilthey, 0.5
-85, Emerson, 0.5
-86, Jacobi, 0
-87, Vico, 0
+Rank,Name,Broadness
+1,Aristotle,1
+2,Plato,1
+3,Kant,1
+4,Hume,0
+5,Descartes,1
+6,Socrates,0
+7,Locke,0
+8,Wittgenstein,0.5
+9,Aquinas,1
+10,Leibniz,1
+11,Hobbes,0.5
+12,Marx,1
+13,Mill,1
+14,Spinoza,0.5
+15,Augustine,0
+16,Frege,0
+17,Hegel,1
+18,Nietzsche,1
+19,Russell,1
+20,Kierkegaard,0
+21,Berkeley,0
+22,Quine,0
+23,Epicurus,1
+24,Rousseau,0
+25,Kripke,0
+26,Rawls,0
+27,Carnap,0
+28,Bacon,1
+29,Bentham,0.5
+30,Lewis,0
+31,Democritus,1
+32,James,0.5
+33,Parmenides,0
+34,Heraclitus,0
+35,Heidegger,0
+36,Dewey,0.5
+37,Cicero,0
+38,Epictetus,0
+39,Austin,0
+40,DunsScotus,0.5
+41,Plotinus,1
+42,Peirce,1
+43,Anselm,0
+44,Husserl,0
+45,Machiavelli,0
+46,Pythagoras,0
+47,Ockham,0
+48,Schopenhauer,0
+49,Sartre,0
+50,Foucault,0
+51,Smith,0
+52,Anscombe,0
+53,Popper,0.5
+54,Abelard,0.5
+55,Protagoras,0
+56,Reid,0
+57,Zeno,0
+58,Habermas,0
+59,Montaigne,1
+60,Pyrrho,0
+61,Sidgwick,0
+62,Tarski,0
+63,Fichte,0
+64,Adorno,0
+65,Merleau-Ponty,0
+66,Ramsey,0
+67,Feuerbach,0.5
+68,Maimonides,1
+69,Malebranche,0
+70,Thales,1
+71,Seneca,0.5
+72,Sellars,0.5
+73,Voltaire,0.5
+74,Comte,1
+75,Cavendish,0
+76,Bergson,0
+77,Grotius,0
+78,Herder,0
+79,Montesquieu,0
+80,Schelling,0.5
+81,Whitehead,1
+82,Wollstonecraft,0
+83,Deleuze,0
+84,Dilthey,1
+85,Emerson,0.5
+86,Jacobi,0
+87,Vico,0
