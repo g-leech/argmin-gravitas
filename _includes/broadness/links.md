@@ -1,3 +1,5 @@
+{%	assign py = "https://github.com/g-leech/argmin-gravitas/tree/master/scripts/broadness"	%}
+
 {%	assign leiter = "https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_eda5ae1764ba3af2"	%}
 {%  assign arch = "https://en.wikipedia.org/wiki/Architectonics"		%}
 {%	assign data = "https://gleech.org/img/ranked_philosophers.csv"	%}
@@ -23,7 +25,10 @@
 
 {%	assign apa = "https://www.apaonline.org/page/undergraduates" %}
 {%	assign raz = "https://www.lesswrong.com/rationality"		%}
+{%	assign mcmc = "https://twitter.com/nntaleb/status/881524997726109697"		%}
 {%	assign matt = "https://en.wikipedia.org/wiki/Matthew_effect"		%}
 {%	assign bias = "http://www.overcomingbias.com/"		%}
 {%	assign zeroth = "https://www.scottaaronson.com/blog/?p=3766"		%}
 {%	assign cite = "https://kieranhealy.org/blog/archives/2013/06/19/lewis-and-the-women/"	%}
+
+{%	assign anders = "http://aleph.se/andart2/"	%}
