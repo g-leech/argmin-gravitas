@@ -10,7 +10,7 @@ img:        /img/broad.jpg
 published:	true
 visible: 	1
 
-summary:    Investigating one predictor of long-term intellectual status.
+summary:    Investigating one possible predictor of long-term intellectual status.
 confidence:	60%. The data are a convenience sample from a skewed subpopulation.
 categories: 
 count:		1100
@@ -132,7 +132,7 @@ There's a trivial explanation for this correlation:
 
 ### Contemporary grand systems 
 
-The explosion in knowledge (or at least in the volume of writing) and academic incentives have led to intense specialisation in all fields. While there are some good reasons for specialisation (it's a special case of division of labour allowing more powerful work by the group), the above analysis suggests that it'll hurt the prospects of contemporary philosophers later on, because what inspires lasting devotion in a thinker is synthesis.
+The explosion in knowledge (or at least in the volume of writing) and academic incentives have led to intense specialisation in all fields. While there are some good reasons for specialisation (it's a special case of division of labour allowing more powerful work by the group), if there's a strong broadness effect (which, again, I haven't ascertained), this could hurt the prospects of contemporary philosophers later on.
 
 Is anyone building such systems today? The two clear examples I know are <a href="{{taleb}}">Nassim Taleb</a> and <a href="{{raz}}">Eliezer Yudkowsky</a>. Neither is primarily an academic, both sometimes have questionable judgment, but each is incredibly exciting in the same way that Kant or Nietzsche is exciting - if not more, since we have access to incredible resources they didn't, not least data and <a href="{{mcmc}}">simulation</a>. 
 
