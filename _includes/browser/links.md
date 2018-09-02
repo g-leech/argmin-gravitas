@@ -5,7 +5,7 @@
 {%    assign play = "https://arstechnica.com/information-technology/2018/04/malicious-apps-in-google-play-gave-attackers-considerable-control-of-phones/"          %}
 {%    assign spy = "https://en.wikipedia.org/wiki/Spyware"          %}
 {%    assign mal = "https://en.wikipedia.org/wiki/Malware#Purposes"          %}
-
+{%    assign mix = "https://www.wired.com/story/eternalblue-leaked-nsa-spy-tool-hacked-world/"		%}
 {%    assign chrome = "https://lifehacker.com/5763452/what-data-does-chrome-send-to-google-about-me"	%}
 {%    assign safari = "https://www.pcworld.com/article/250213/googles_safari_tracking_dilemma_reality_check.html"	%}
 {%    assign pwned = "https://haveibeenpwned.com/PwnedWebsites" 		%}
