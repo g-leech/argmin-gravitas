@@ -13,7 +13,7 @@ visible:    1
 summary:    Passable browser security for almost no money or effort.
 confidence: 70%. There are a lot of ways to subvert ordinary software. Definitely better than nothing.
 categories: 
-count:      
+count:      1000
 ---
 
 {%  include browser/links.md  %}
@@ -21,7 +21,7 @@ count:
 
 It's now common knowledge that we're being watched online, by a thick mix of <a href="{{xkey}}">nation</a>-<a href="{{ech}}">states</a>, <a href="{{enemy}}">private</a> <a href="{{fb}}">companies</a>, <a href="{{spy}}">and</a> <a href="{{play}}">criminals</a>. They sometimes do <a href="{{mal}}">worse than watch</a>. What do we do? Should we care?
 
-It's not totally clear what the probability of being port-scanned / having your password leaked in a breach / having your email read / or having your laptop being remotely disabled and wiped (unless you pay the creator Bitcoin) is. But one of them is bound to happen over your life, so I would take 10 mins now, if I were you.
+It's not totally clear what the probability of being port-scanned / having your password leaked in a breach / having your email read / having your laptop being remotely disabled and wiped (unless you pay the creator Bitcoin) is. But one of them is bound to happen over your life, so I would take 10 mins now, if I were you.
 
 Most of this article assumes you're using Firefox, because <a href="{{chrome}}">Chrome</a> (<a href="{{safari}}">and Google services on other browsers</a>) is (or was) an attack itself. That is, it protects you very well against everyone except Google. It is also <a href="{{incog}}">significantly faster</a> than Chrome in Private mode. It's not a big deal compared to the other parts of this list, you'll just need to find alternatives to the add-ons I recommend.
 
@@ -56,7 +56,7 @@ People can create convincing clones of websites just so you enter your password 
 ### Then: Browser
 
 
-#### Attacks: IP tracking, encrypted traffic, ISP ducking, public wifi spoofing
+#### Attacks: IP tracking, unencrypted traffic, ISP logs, public wifi spoofing
     
 <span style="font-weight:bold">Partial mitigation</span>: VPN. This is highly imperfect but not as useless <a href="{{sucks}}">as this guy thinks</a>. I use <a href="{{pia}}">PrivateInternetAccess</a>; check technical and legal specs. £30 a year. Do not use free ones.
 
@@ -74,7 +74,7 @@ Even when the URL is real, vulnerabilities built-in to the original internal pro
 * <a href="{{cookie}}">Cookie Autodelete</a>. This add-on deletes cookies (files placed on your computer to identify you) when the tab is closed. Good compromise.
 * <a href="{{noscript}}">NoScript</a>. Disables all Javascript by default; this stops 90% of attacks and trackers. It is the most important, but also the most costly in time by far. After about two weeks of use this burden decreases to negligible though.
 * <a href="{{badger}}">Privacy Badger</a>. Overlaps a bit with AdNauseam. Seems to cover the use case for Disconnect and Ghostery.
-* <a href="{{ddg}}">DuckDuckGo</a>. Zero-tracking search engine. Not quite as good as Google but it includes a built-in "use Google safely"
+* <a href="{{ddg}}">DuckDuckGo</a>. Zero-tracking search engine. Not quite as good as Google but it includes a built-in "use Google safely".
 * <a href="{{nausea}}">AdNauseam</a>. uBlock plus trolling: clicks every ad it finds (without loading them), which thus undermines the tracking system by injecting large amounts of noise. Just use uBlock or AdBlockPlus if you have rule-utilitarian scruples.
 * <a href="{{rua}}">RandomUserAgent</a>: changes the device and browser you're reporting, at random. Sometimes breaks things.
 
@@ -106,6 +106,18 @@ A new clever attack is identifying you by your repeated requests to a public Con
 
 <big>Daily time cost: 10 seconds adding particular NoScripted scripts. Once you get the KeePass keyboard shortcuts in your muscle memory.</big>
 
+<br>
+
+---
+
+<br>
+
+### Add-on risk
+
+Whenever you install a browser add-on, you're allowing unknown code to execute on your machine, behind NoScript. Processes are "sandboxed" in modern browsers - that is, browser malware is unlikely to break into your main OS account - but this is still a serious risk.
+
+You can be very confident in EFF products - HTTPS Everywhere, Privacy Badger - and relatively confident in open-source add-ons like <a href="{{openNo}}">NoScript</a>, <a href="{{autodel}}">Cookie-Autodelete</a>, and <a href="{{ublock}}">uBlock</a>, and <a href="{{ruaCode}}">RandomUserAgent</a>, especially if you built from source.
+
 
 <br>
 
@@ -115,9 +127,9 @@ A new clever attack is identifying you by your repeated requests to a public Con
 
 ### More things you could do:
 
-* Get Linux (99% malware doesn't work on it, strong prevention of state backdoors and 'obscurity)
+* Get Linux (<a href="{{linux}}">99</a>% of malware doesn't work on it, strong prevention of state backdoors and 'obscurity)
 * Add an additional <a href="{{keyfile}}">keyfile</a> for Keepass, on a USB. This is too far for me. You'd want it <a href="{{sweden}}">attached to your body</a>.
-* Tor. Slow!
+* <a href="{{tor}}">Tor</a>. Slow!
 * <a href="{{faraday}}">Faraday wallet</a> for phone and contactless card. Obviously this prevents all incoming calls too.
 * Airgapping one of your computers.
 * Consider not using <a href="{{huawei}}">Chinese</a> <a href="{{lindner}}">hardware</a>.
