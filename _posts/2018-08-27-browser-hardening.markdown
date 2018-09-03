@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Prudence/Paranoia: hardening the browser"
+title:      "hardening the browser"
 baselink:   /browser
 permalink:  /browser
 date:       2018-09-01
