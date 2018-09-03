@@ -11,9 +11,9 @@ published:  true
 visible:    1
 
 summary:    Browser security for normal people, for almost no money or effort.
-confidence: 70%. There are a lot of ways to subvert ordinary software. Definitely better than nothing.
+confidence: 95% that this is worth the time and better than nothing.
 categories: 
-count:      1000
+count:      1050
 ---
 
 {%  include browser/links.md  %}
