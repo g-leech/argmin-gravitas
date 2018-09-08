@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "hardening the browser"
+title:      "Hardening the browser"
 baselink:   /browser
 permalink:  /browser
 date:       2018-09-01
@@ -26,6 +26,9 @@ It's not very clear what the probability of having your password leaked in a bre
 
 There is no absolute security; it's always partial and relative to a goal. This guide is aimed at "not losing control of your accounts, not being surveilled by companies or criminals, not having your online banking subverted, not getting infected by trojans or ransomware or whatever". It's strictly for people with average risks: not that much money, not much tech cred, not much sensitive information to protect.
 
+
+
+
 Most of this article assumes you're using Firefox, because <a href="{{chrome}}">Chrome</a> (<a href="{{safari}}">and Google services on other browsers</a>) is or was an attack itself. That is, it protects you very well against everyone except Google. Firefox is also <a href="{{incog}}">significantly faster</a> than Chrome in Private mode. It's not a big deal compared to the other parts of this list, you'll just need to find alternatives to the add-ons I recommend.
 
 <br>
@@ -38,7 +41,7 @@ Most of this article assumes you're using Firefox, because <a href="{{chrome}}">
 If people hack a website you're registered on, they could easily get the encrypted 'hash' of your password even if the site owners do everything right. These can eventually be brute-force decoded, and then they have your password. To prevent <a href="{{pwned}}">this common occurrence</a>, we need our passwords to be very long (16 characters +) and have no English words. You also want a different password for each site, so that one brute-force doesn't open up all of your accounts at once.
 So, easy!: We want passwords that are too hard to remember, and we need to never reuse any of them.
 
-<span style="font-weight:bold"><span style="font-weight:bold">Mitigation</span></span>: Password manager. <a href="{{kee}}">KeePassX</a> with the database file kept on several devices, on a thumb drive, and an offsite. Can put it in the cloud if you think you're likely to lose those. LastPass and 1Password seem fine, maybe a bit slicker and more friendly, but they cost.
+<span style="font-weight:bold"><span style="font-weight:bold">Mitigation</span></span>: A 'password manager', for instance the free, open-source, cross-platform <a href="{{kee}}">KeePassX</a>. Keep the database file on several devices, and on a thumb drive, and an <a href="{{offs}}">offsite</a>. Can put it in the cloud if you think you're likely to lose those. LastPass and 1Password seem fine, maybe a bit slicker and more friendly, but they cost.
 
 <br>
 
@@ -133,6 +136,7 @@ However, you can be very confident in EFF products - HTTPS Everywhere, Privacy B
 
 ### More things you could do:
 
+* Turn off <a href="{{ff}}">these Firefox configs</a>.
 * Get Linux (<a href="{{linux}}">99</a>%+ of malware doesn't work on it, and there's strong prevention of state backdoors and 'security through obscurity' zero-days).
 * Add an additional <a href="{{keyfile}}">keyfile</a> for Keepass, on a USB. This is too far for me. You'd want it <a href="{{sweden}}">attached to your body</a>.
 * <a href="{{tor}}">Tor</a>. Slow!
