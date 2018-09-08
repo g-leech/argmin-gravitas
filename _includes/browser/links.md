@@ -10,6 +10,8 @@
 {%    assign safari = "https://www.pcworld.com/article/250213/googles_safari_tracking_dilemma_reality_check.html"	%}
 {%    assign pwned = "https://haveibeenpwned.com/PwnedWebsites" 		%}
 {%    assign kee = "https://www.keepassx.org/"	%}
+{%    assign offs = "https://en.wikipedia.org/wiki/Off-site_data_protection"		%}
+{%    assign ff = "https://gist.github.com/0XDE57/fbd302cef7693e62c769"			%}
 
 {%    assign sucks = "https://gist.github.com/joepie91/5a9909939e6ce7d09e29"	%}
 {%    assign keyfile = "https://keepass.info/help/base/keys.html"			%}
