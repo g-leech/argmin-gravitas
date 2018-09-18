@@ -17,6 +17,7 @@
 {%    assign keyfile = "https://keepass.info/help/base/keys.html"			%}
 {%    assign sweden = "https://futurism.com/sweden-microchip-trend/"		%}
 {%    assign nsa = "https://www.theguardian.com/us-news/2015/feb/23/nsa-director-defends-backdoors-into-technology-companies"	%}
+{%    assign rtc = "https://en.wikipedia.org/wiki/WebRTC#Concerns"		%}
 
 {%    	assign homoglyphs = "https://www.cisco.com/c/en/us/support/docs/security/email-security-appliance/200146-Homoglyph-Advanced-Phishing-Attacks.html"	%}
 {%    	assign yubi = "https://en.wikipedia.org/wiki/YubiKey"	%}

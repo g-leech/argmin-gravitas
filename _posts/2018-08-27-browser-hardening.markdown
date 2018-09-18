@@ -45,7 +45,7 @@ So, easy!: We want passwords that are too hard to remember, and we need to never
 
 <br>
 
-#### Attack: password phishing & hash breaches
+#### Attack: password phishing
 
 People can create convincing clones of websites just so you give them your password freely. (This isn't just about human inattention: attackers can register <a href="{{homoglyphs}}">urls which look exactly like the real one</a>).
 
@@ -67,6 +67,8 @@ People can create convincing clones of websites just so you give them your passw
 <span style="font-weight:bold">Partial mitigation</span>: VPN. This is highly imperfect but not as useless <a href="{{sucks}}">as this guy thinks</a>. I use <a href="{{pia}}">PrivateInternetAccess</a>; check technical and legal specs. £30 a year. Do not use free ones.
 
 The problem a VPN solves optimally is internet requests by non-browser apps. If you use e.g. Linux's built-in VPN client, everything goes through
+
+(NB: Modern browsers have this useful thing called <a href="{{rtc}}">WebRTC</a>. It leaks your IP, so if you really want to hide that you'll need to go into `about:config` and set `media.peerconnection.enabled` to false. uBlock seems to fix this too.)
 
 
 <br>
