@@ -27,9 +27,7 @@ It's not very clear what the probability of having your password leaked in a bre
 There is no absolute security; it's always partial and relative to a goal. This guide is aimed at "not losing control of your accounts, not being surveilled by companies or criminals, not having your online banking subverted, not getting infected by trojans or ransomware or whatever". It's strictly for people with average risks: not that much money, not much tech cred, not much sensitive information to protect.
 
 
-
-
-Most of this article assumes you're using Firefox, because <a href="{{chrome}}">Chrome</a> (<a href="{{safari}}">and Google services on other browsers</a>) is or was an attack itself. That is, it protects you very well against everyone except Google. Firefox is also <a href="{{incog}}">significantly faster</a> than Chrome in Private mode. It's not a big deal compared to the other parts of this list, you'll just need to find alternatives to the add-ons I recommend.
+Most of this article assumes you're using Firefox, because <a href="{{chrome}}">Chrome</a> <a href="https://blog.cryptographyengineering.com/2018/09/23/why-im-leaving-chrome/">is itself</a> an attack. That is, it protects you very well against everyone except Google. Firefox is also <a href="{{incog}}">significantly faster</a> than Chrome in Private mode. It's not a big deal compared to the other parts of this list, you'll just need to find alternatives to the add-ons I recommend.
 
 <br>
 <hr />
@@ -64,11 +62,11 @@ People can create convincing clones of websites just so you give them your passw
 
 #### Attacks: IP tracking, unencrypted traffic, ISP logs, public wifi spoofing
     
-<span style="font-weight:bold">Partial mitigation</span>: VPN. This is highly imperfect but not as useless <a href="{{sucks}}">as this guy thinks</a>. I use <a href="{{pia}}">PrivateInternetAccess</a>; check technical and legal specs. £30 a year. Do not use free ones.
+<span style="font-weight:bold">Partial mitigation</span>: VPN. This is highly imperfect but not as useless <a href="{{sucks}}">as this guy thinks</a>. I use <a href="{{pia}}">PrivateInternetAccess</a>; you can check the technical and legal specs of dozens of VPNs <a href="{{compare}}">here</a>. $30 a year. Do not use free ones.
 
-The problem a VPN solves optimally is internet requests by non-browser apps. If you use e.g. Linux's built-in VPN client, everything goes through
+The other problem a VPN solves, and solves optimally, is internet requests sent by non-browser apps on your machine. If you use e.g. Linux's built-in VPN client, everything goes through it.
 
-(NB: Modern browsers have this useful thing called <a href="{{rtc}}">WebRTC</a>. It leaks your IP, so if you really want to hide that you'll need to go into `about:config` and set `media.peerconnection.enabled` to false. uBlock seems to fix this too.)
+(NB: Modern browsers have a useful thing called <a href="{{rtc}}">WebRTC</a>. It leaks your IP though, so if you really want to hide that you'll need to go into `about:config` and set `media.peerconnection.enabled` to false. uBlock seems to fix this too.)
 
 
 <br>
@@ -82,12 +80,19 @@ Even when the URL is real, vulnerabilities in the original internet protocol mea
 
 #### Attack: Tracking and fingerprinting
 
+Here are some reputable add-ons for Firefox:
+
 * <a href="{{cookie}}">Cookie Autodelete</a>. This add-on deletes cookies (files placed on your computer to identify you) when the tab is closed. Good compromise.
 * <a href="{{noscript}}">NoScript</a>. Disables all Javascript by default; this stops 90% of attacks and trackers. It is the most important, but also the most costly in time by far. After about two weeks of use this burden decreases to negligible though.
-* <a href="{{nausea}}">AdNauseam</a>. uBlock plus trolling: clicks every ad it finds (without loading them), which thus undermines the tracking surveillance system by injecting large amounts of noise. (Real clickthroughs are rare.) Just use uBlock or AdBlockPlus if you have rule-utilitarian scruples.
 * <a href="{{badger}}">Privacy Badger</a>. Overlaps a bit with AdNauseam. Seems to cover the use case for Disconnect and Ghostery.
-* <a href="{{ddg}}">DuckDuckGo</a>. Zero-tracking search engine. Not quite as good as Google but it includes a built-in "use Google safely" command.
+* <a href="{{ddg}}">DuckDuckGo</a>. The zero-tracking search engine. Not as good as Google, but it includes a built-in "use Google safely" command.
 * <a href="{{rua}}">RandomUserAgent</a>: changes the device and browser you're reporting, at random. Sometimes breaks things.
+* Adblocking. Everyone knows <a href="{{abp}}">this one</a>, but the proper solution takes a bit of work. <a href="{{troy}}">The really safe thing</a> to do against ads is a <a href="{{hole}}">Pi-hole</a>, a tiny DNS server in your house. This stops ads at the source, for every device in your house at once. You can get <a href="{{pi}}">a Raspberry Pi</a> for $30, and it takes about 30 mins to set up as a Pi-hole.
+
+(Alternatively, there's the fun option:
+
+* <a href="{{nausea}}">AdNauseam</a>. uBlock, plus trolling: AdNauseam clicks every ad it finds (without loading them), which undermines the surveillance economy by injecting large amounts of noise into it. (Real clickthroughs are rare.) Just use uBlock or Pi-hole if you have rule-utilitarian scruples.)
+
 
 <br>
 
@@ -98,7 +103,7 @@ Not a lot you can do, short of undertaking the 100-hour hell of runnning your ow
 <br>
 
 #### Attack: deanonymisation
-No <a href="{{who}}">whois</a> entry on your sites. People will try and charge you £10 for this but it is mandated by GDPR so shop around.
+No <a href="{{who}}">whois</a> entry on your sites. People will try and charge you $10 for this but it is mandated by GDPR so shop around.
 
 <br>
 
