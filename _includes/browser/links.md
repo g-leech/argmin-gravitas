@@ -49,3 +49,9 @@
 
 {%		assign paranoia = "https://www.wired.com/2015/06/dark-web-drug-lords-got-away/"     %}
 {%		assign faraday = "https://www.amazon.co.uk/Contactless-Card-Shield-Faraday-Wallet/dp/B073Q6YLYL"	%}
+{%		assign compare = "https://thatoneprivacysite.net/vpn-comparison-chart/"		%}
+
+{%		assign pi = "https://www.raspberrypi.org/products/#buy-now-modal"		%}
+{%		assign troy = "https://www.troyhunt.com/mmm-pi-hole/"		%}
+{%		assign hole = "https://github.com/pi-hole/pi-hole#alternative-semi-automated-install-methods"	%}
+{%		assign abp = "https://adblockplus.org/"	%}
