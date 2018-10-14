@@ -22,7 +22,7 @@ count:		1000
 
 <br>
 
-The Turing test is sometimes portrayed as a proper <a href="https://en.wikipedia.org/wiki/Experimentum_crucis">crucial experiment</a> verifying the presence of intelligence - i.e. a sufficient condition for thought - and sometimes just as evidence for thought. But it was actually originally intended to _sidestep_ the question ‘Can machines think?’ which Turing deemed “too meaningless for discussion.”<a href="#fn:1" id="fnref:1">1</a> His replacement question is:
+The Turing test is sometimes portrayed as a proper <a href="https://en.wikipedia.org/wiki/Experimentum_crucis">crucial experiment</a> verifying the presence of intelligence - i.e. a sufficient condition for thought - and sometimes just as evidence for thought. But it was actually originally intended to _sidestep_ the question of whether machines can think: Turing deemed it “too meaningless for discussion.”<a href="#fn:1" id="fnref:1">1</a> His replacement question is:
 
 > Is it possible for a finite-state digital computer, provided with a large... program, to provide responses to questions that would fool an unknowing interrogator into thinking it is a human being? 
 
@@ -89,10 +89,20 @@ Worse: as reconstructed, there's an actual fallacy here. The Chinese Room implie
 	8. You're either a purely syntactic system or you're not.
 	9. Therefore premise (1) is either unwarranted or false. (by 6 & 7 & 8 )
 
-<a href="#fn:10" id="fnref:10">10</a>
+<br>
 
+<div class="accordion">
 
-Despite Turing's inspiring attempt to disambiguate and sideline it, the metaphysics of mind is a live concern; Searle’s objection, that the kind of minds _we know about_ seem to depend on / arise out of intentionality is fine as far as it goes. But we are too ignorant to go about generalising about minds given our solitary example of the species: we haven't seen enough (as <a href="https://arxiv.org/pdf/1410.0369.pdf">Sloman</a> puts it, enough of the "space of possible minds") to say that particular human correlates are necessary for intelligence. 
+<h3>Disclaimer</h3>
+<div>
+	These days I wouldn't use infallibilism as the baseball bat I did just there ("<i>Searle isn't certain so Searle doesn't know</i>."); I'd go for probabilism instead. That is, I think I now deny my premise (4).<br><br>
+
+	And I'd say more about Searle's odd dichotomy between representational machines who are 'pure' syntax vs those which are fully semantic. But I've mostly left it as it was because I enjoy it.<br><br>
+</div>
+</div>
+<br><br>
+
+Despite Turing's inspiring attempt to sideline it, the metaphysics of mind is a live concern; Searle’s objection, that the kind of minds _we know about_ seem to depend on / arise out of intentionality is fine as far as it goes. But we are too ignorant to go about generalising about minds given our solitary example of the species: we haven't seen enough (as <a href="https://arxiv.org/pdf/1410.0369.pdf">Sloman</a> puts it, enough of the "space of possible minds") to say that particular human correlates are necessary for intelligence. 
 
 <br><br>
 
