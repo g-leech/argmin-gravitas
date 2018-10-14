@@ -107,3 +107,4 @@
 {%	assign acc_interp =	"https://www.oreilly.com/ideas/predictive-modeling-striking-a-balance-between-accuracy-and-interpretability"	%}
 {%	assign irontri =	"https://en.wikipedia.org/wiki/Project_management_triangle"								%}
 {%	assign natchy =	"https://stats.stackexchange.com/questions/227088/when-should-i-balance-classes-in-a-training-data-set"		%}
+{%	assign cady =	"https://www.amazon.co.uk/Data-Science-Handbook-F-Cady/dp/1119092949"						%}

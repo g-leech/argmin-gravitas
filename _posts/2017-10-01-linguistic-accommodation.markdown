@@ -38,10 +38,10 @@ finite alphabet of input symbols, $$q_0$$ is the start state, $$F$$ is the set o
 
 <br><br>
 
-(This is my MSc thesis, on using computers to detect changes in how people talk to each other. It represents no great advance, but I learned a ton and wrote <a href="{{py2htk}}">a little library</a> to ease future work. 
+<!-- (This is my MSc thesis, on using computers to detect changes in how people talk to each other. It represents no great advance, but I learned a ton and wrote <a href="{{py2htk}}">a little library</a> to ease future work. 
 
 The data isn't open, but I'm planning to record and annotate another set of conversations, so those of you at home can sing along.)<br><br><br>
-
+ -->
 <hr />
 <br><br>
 
