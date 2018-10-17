@@ -15,6 +15,7 @@ summary:    Estimate of how much money a maximizing consequentialist is allowed.
 confidence:	90% in the numbers, 70% in the ethics.
 warnings:   scrupulosity, scrupulosity, scrupulosity
 categories: effective altruism
+importance: 8.
 count: 		2169
 started:    2013
 ---

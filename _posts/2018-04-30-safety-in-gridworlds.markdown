@@ -14,6 +14,7 @@ best:		1
 summary:    Work from the Gridworld team at AI Safety Camp Gran Canaria. 
 confidence:	DRAFT. Eventually, 90% because executable. 
 categories: 
+importance: 7
 count:		888
 ---
 

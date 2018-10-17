@@ -13,6 +13,7 @@ visible: 	0
 summary:    List of people I trust on various topics. A glorified blogroll.
 confidence:	Varies.
 categories: 
+importance: 9?
 count:		400
 ---
 

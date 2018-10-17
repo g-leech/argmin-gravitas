@@ -13,6 +13,7 @@ visible: 	1
 summary:    Reposting an anonymous essay attacking almost all academic ethical systems.
 confidence:	I do not agree with the linked essay.
 categories: 
+importance: 6
 count:		14,501
 ---
 

@@ -11,6 +11,7 @@ published: 	false
 
 summary:		A visualisation of when to use one of the many regressions 
 confidence:		90%
+importance: 4
 categories:		stats, machine learning
 ---
 

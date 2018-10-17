@@ -14,6 +14,7 @@ technical: 	true
 summary:    
 confidence: 80% that 
 categories: kaggle, machine learning, homebrew science
+importance: 4
 ---
 
 

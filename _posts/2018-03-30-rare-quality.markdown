@@ -14,6 +14,7 @@ best:		1
 summary:    Why in general is it harder to do things well than badly?
 confidence:	80% that I've captured the main possibilities / contributors.
 categories: 
+importance: 8
 count:		400
 ---
 

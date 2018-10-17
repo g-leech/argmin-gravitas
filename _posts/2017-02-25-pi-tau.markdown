@@ -13,6 +13,7 @@ summary:    A pointless feud as metaphor for your view of everything that is and
 confidence:	Just an analogy (society is a tad different from maths). But 70% in a significant correlation.
 categories: maths, reason, ineffective altruism
 warnings:	totalitarianism, slavery, famine, scrupulosity
+importance: 3
 count:		870
 ---
 

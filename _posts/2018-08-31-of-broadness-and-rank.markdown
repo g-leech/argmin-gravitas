@@ -13,6 +13,7 @@ visible: 	1
 summary:    Investigating one possible predictor of long-term intellectual status.
 confidence:	60%. The data are a convenience sample from a skewed subpopulation.
 categories: 
+importance: 4
 count:		1100
 ---
 
@@ -47,7 +48,7 @@ I check if broadness is predictively important with some basic statistics <a hre
 
 * Even if it was random, I don't know how close a proxy for <i>actual value</i> someone's status-among-philosophers is.
 
-* Broadness isn't the same as overall value - some of the very greatest thinkers are too technical to register in philosophy (e.g. Laplace, Jaynes, Zuse, Poincaré, Bellman, Shapley). (Turing has one foot in the philosophy-canon door, though his great work was of course elsewhere.)
+* Broadness isn't the same as overall value - some of the very greatest thinkers are too technical to register in philosophy (e.g. Laplace, Shannon, Kalman, Bellman, Hamming, Watkins, Jaynes, Zuse, Poincaré, Shapley). (Turing has one foot in the philosophy-canon door, though his great work was of course elsewhere.)
 
 
 * You might find ranking (even <a href="{{condor}}">Condorcet ranking</a>!) philosophies distasteful, a rank gamification of a higher pursuit. In that case, I ask you to replace every instance of "rank" in this piece with "perceived rank".
@@ -79,6 +80,9 @@ Let's use two handy methods: rank correlations (checking the general relationshi
 
 <center><img src="/img/broad/broad_kernel.png" width="70%" /></center>
 <br>
+
+# TODO: Contingency table
+
 
 
 #### What's the monotonic relationship?
@@ -117,6 +121,8 @@ The above assumes that it's just as good to move from 87th to 86th as it is to m
 We can guess how much better it is to be high-rank with the net contests won against Aristotle.
 
 <br>
+
+TODO: Ordinal trees?
 
 (**TODO**: Count the APA subfields each philosopher contributed to.
 
@@ -171,7 +177,9 @@ The interaction between broadness and how long ago they wrote would be interesti
 
 **TODO**: Taking the midpoint of their life as their "floreat" period. 
 
+#### Explanation and prediction
 
+Can you be explanatory if you aren't predictive? The converse happens all the time.
 
 <br><br>
 

@@ -14,6 +14,7 @@ visible:	1
 summary:	
 confidence:	
 categories:	
+importance: 4
 ---
 
 We demand

@@ -14,6 +14,7 @@ technical: 	true
 summary:     A nonrigorous test of how modern your programming practices are. 
 confidence:  
 categories:  programming, 
+importance: 5.
 ---
 
 * Language (COBOL)

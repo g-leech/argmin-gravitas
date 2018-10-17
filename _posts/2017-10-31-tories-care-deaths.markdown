@@ -15,6 +15,7 @@ summary:	Actuarial check of the claim that government austerity killed thousands
 confidence: 80%
 warnings: 	bureaucracy, statistical illiteracy, UK-only
 categories: stats, social science, data columbo
+importance: 6.
 count: 		
 ---
 

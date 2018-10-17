@@ -10,10 +10,11 @@ img:		/img/syllog.png
 visible:	1
 published: 	false
 
-summary:	Weighing the evidence about the death of Alan Turing.
+summary:	Weighing the evidence Alan Turing's death.
 confidence: 80% that you don't know.
 warnings: 	suicide, homophobia
 categories: 
+importance: 4.
 count: 		
 ---
 
@@ -22,7 +23,7 @@ count:
 <center>~ Alan Turing</center>
 
 
-The coroner's inquest into the death of Alan Turing was hasty and incompetent. For instance, the supposed suicide weapon, a poisoned apple, was never tested for poison. Turing's family ^
+The inquest into the death of Alan Turing was hasty and incompetent. For instance, the supposed suicide weapon, a poisoned apple, was never tested for poison. Turing's family ^
 
 One great biographer, Andrew Hodges, considers it "obvious" that it was suicide.* Another, Jack Copeland, argues that the evidence is more consistent with accidental poisoning.
 

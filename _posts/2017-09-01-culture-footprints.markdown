@@ -14,6 +14,7 @@ technical: 	true
 summary:    Per-capita estimations of the cultural impact of various places.
 confidence: 
 categories: 
+importance: 5.
 ---
 
 

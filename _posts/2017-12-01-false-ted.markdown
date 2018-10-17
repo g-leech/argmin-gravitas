@@ -15,6 +15,7 @@ summary:    Checking the replication of the science behind TED talks.
 confidence:	
 categories: 
 warnings:	
+importance: 6.
 count:		
 ---
 

@@ -11,10 +11,11 @@ visible:	1
 published:	true
 best:		1
 
-summary:    The macroeconomics of the hypothesis that ODA is harmful.
+summary:    The macroeconomics of the idea that government aid is harmful.
 confidence: 75% confident that aid is not harmful enough to abolish.<br>&nbsp;&nbsp;(Confidence is this low because my evidence is 5 years old.)
 warnings:   poverty, inexorability, extremely tl;dr.  Evidence summary is years old.
 count: 		8,821 (plus notes)
+importance: 8.
 started:    2012
 
 ---
