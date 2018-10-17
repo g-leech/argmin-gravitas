@@ -15,6 +15,7 @@ summary:    Tiny app for defining "computer" and selecting between first compute
 confidence:	Pretty sure, 90%. A few dates missing, but there's no crucial overlaps AFAIK.
 categories: computing, history
 warnings:	unfair posterity.
+importance: 4.
 count:		1,039
 ---
 

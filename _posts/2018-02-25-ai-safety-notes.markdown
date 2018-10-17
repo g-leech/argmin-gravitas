@@ -14,6 +14,7 @@ summary:    Summaries of good papers I've read.
 confidence:	mu %; half essential speculation, half mathematical theorems.
 categories: AI
 warnings:	
+importance: 9
 count:		
 ---
 

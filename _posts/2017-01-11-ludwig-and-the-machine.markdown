@@ -13,8 +13,9 @@ simple:		true
 stylised:	true
 technical:	true
 
-summary:	Recent formal results address ancient philosophical questions, sometimes driving them to irrelevance.
+summary:	Recent formal results address philosophical questions, sometimes driving them to irrelevance.
 confidence:	70%. I am not a computer scientist.
+importance: 6
 categories:	philosophy of science, language, machine learning
 ---
 
@@ -56,9 +57,8 @@ But we will probably have to wait for AI art critics for that, to go with <a hre
 <br><br>The polythetic wall held up against philosophers and computers for a long time, <a href="https://en.wikipedia.org/wiki/Philosophical_Investigations">sixty years</a> at least. But it's time.
 <br><br>
 Wittgenstein:
-
 <blockquote><i>
-someone might object against me: "You... have nowhere said what the essence of... language is: what is common to all these activities, and what makes them into language or parts of language.  So you let yourself off the very part of the investigation that once gave you yourself most headache, the part about the </i>general form of propositions<i> and of language."<br><br>
+someone might object: "You... have nowhere said what the essence of... language is: what is common to all these activities, and what makes them into language or parts of language.  So you let yourself off the very part of the investigation that once gave you yourself most headache, the part about the </i>general form of propositions<i> and of language."<br><br>
 
 And this is true. &#8212; Instead of producing something common to all that we call language, I am saying that these phenomena have no one thing in common which makes us use the same word for all, &#8212; but that they are related to one another in many different ways. And it is because of this relationship, or these relationships, that we call them
 all "language".  I will try to explain this.
@@ -87,7 +87,7 @@ blue / yellow
 -->
 This is far from the most important way ML affects old thought.
 
-What I clumsily call the formal sciences, math/stats/CS/decision theory.
+The formal sciences, math/stats/CS/decision theory.
 
 * inductive bias; the set of assumptions a learner uses to predict outputs given inputs that it has not encountered
 *Absolute bias: constraint on hypothesis space. e.g. search only linearly separable functions

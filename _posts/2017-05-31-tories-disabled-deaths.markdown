@@ -15,6 +15,7 @@ summary:	Checking the claim that austerity killed thousands of disabled people.
 confidence: 80% in the observational argument; agnostic about causation.
 warnings: 	bureaucracy, statistical illiteracy, UK-only
 categories: stats, social science, data columbo
+importance: 5.
 count: 		1300
 ---
 

@@ -11,9 +11,10 @@ visible:	1
 published: 	true
 
 summary:	Some vicious and potentially nonvicious responses to technological unemployment.
-confidence: 90% that the ones I call vicious would be. 60% that the ones I call nonvicious would be.
+confidence: 90% that the ones I call vicious would be. 60% that the ones I call nonvicious would be. Only about 50% that this scenario will come to pass in the first place.
 warnings: 	totalitarianism, denial of basic goods
 categories: scary futurism, the machines!, transhumanism
+importance: 8, conditional on unemployment.
 count: 		1950
 lw: 		https://www.lesswrong.com/posts/HK4rjtfKetGF9rHQM/automatic-for-the-people
 ---

@@ -15,6 +15,7 @@ summary:    The way we talk about the way postmodernists talk. An account of pos
 confidence:	70% that the accusations are overblown.
 categories: 
 warnings:	
+importance: 3
 count:		
 ---
 

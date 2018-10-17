@@ -13,6 +13,7 @@ summary:    Another research proposal - <i>What is good about cultural anthropol
 confidence: 80% that there's a problem with the field. 60% that this is worth doing.
 warnings:   politicised epistemology, relativism
 categories: philosophy of science, anthropology, scepticism
+importance: 3.
 count: 798
 started:    2015
 ---

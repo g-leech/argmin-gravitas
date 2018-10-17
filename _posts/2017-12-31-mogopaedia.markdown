@@ -14,6 +14,7 @@ summary:    Ranking of every Mountain Goats song on record.
 confidence:	99%
 categories: 
 warnings:	
+importance: 2
 count:		
 ---
 
@@ -21,15 +22,18 @@ count:
 
 Many of my tasteful friends disdain even his soft hi-fi work, and some of my tasteless friends are much enamoured of the lot. Just like anyone, I cannot rule out 'adaptive preferences', that I like it because I've put a lot into it.
 
+
 There's just a lot to it. He has a lot to say, a lot to remember. He does a dozen interviews a year, and I watch em all, and he remains full of new stories, recommendations, enthusiasms and disgusts. 
 
 B sides, deep cuts, no cuts.
 
 Major-key desolation
 
-Completism like this post is out of keeping with the man himself. Darnielle <i>likes</i> lost arcana. And his live shows are exciting because there is much old treasure, quite beside the new, quite besides the stories, and quite besides his joy.
+Completism like this post is out of keeping with the man himself. Darnielle <i>likes</i> lost arcana. (This was a joke: "Plenty of people take up painting; me, I like to hand-make little booklets and tuck them away in a shoebox where they'll never be seen again. There are twenty-two such booklets so far, and they're some of the best work I've ever done, and my plan is to bury them in the backyard when I've finished with them. In partial shade. Near the raspberry bushes." But it is not outside the realm of possibility.)
 
-The autobiographical ones can be split into childhood, vampires, and .
+And his live shows are exciting because there is much old treasure, quite beside the new, quite besides the stories, and quite besides his joy.
+
+The autobiographical ones can be split into childhood, vampires (drug squatting), and .
 
 
 The hoarse yell of deviance

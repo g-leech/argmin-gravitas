@@ -15,6 +15,7 @@ summary:	Intro to computational linguistics, including a little observational st
 confidence: 80% in the exposition.
 warnings: 	A rewrite and replication is in progress.
 categories: stats, social science
+importance: 5.
 count: 		12,600
 ---
 

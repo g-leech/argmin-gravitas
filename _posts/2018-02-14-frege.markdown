@@ -14,6 +14,7 @@ summary:    Quick sketch of Frege's reduction of arithmetic to logic, and why it
 confidence:	90%. 
 categories: philosophy of mathematics
 warnings:	
+importance: 4
 count:		3698
 ---
 

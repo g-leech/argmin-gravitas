@@ -14,6 +14,7 @@ summary:    Does this auxiliary result from AlphaGo Zero have large implications
 confidence:	60%; fairly speculative.
 categories: artificial intelligence, forecasting, expertise
 warnings:	
+importance: 7
 count:		192
 ---
 

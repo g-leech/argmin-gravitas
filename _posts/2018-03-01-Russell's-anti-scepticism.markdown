@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Notes on AI Safety"
+title:      "Russell on radical scepticism"
 baselink:   /russell
 permalink:  /russell
 date:       2018-03-01  <!--site.time-->
@@ -10,31 +10,32 @@ img:        /img/
 published:  false
 visible:    0
 
-summary:    Two extremely different responses to radical scepticism made by Bertrand Russell.
-confidence: 80%; revisionism, not history.
+summary:    Bertrand Russell's two extremely different responses to radical scepticism.
+confidence: 80%; revisionist, not actual history.
 categories: 
 warnings:   
+importance: 4
 count:      
 ---
 
 Two epistemologies of Russell (1912 & 1948) in terms of recent work in epistemology: as systems of epistemic and methodological norms. This revisionism cannot survive general application – but, all the same, it can articulate a uniquely faithful account of Russell’s strategy against radical scepticism. 
 
-<i>Human Knowledge</i> is a much more interesting book than it gets credit for; it prefigures several of the new schools: proto-virtue, proto-externalist, proto-Bayesian, and proto-naturalised epistemology.
+<i>Human Knowledge</i> is a much more interesting book than it gets credit for; it prefigures several of the new schools: that is, it is proto-virtue epistemology, proto-externalist, proto-Bayesian, and proto-naturalised epistemology.
 
 
 
 ---
 
 
-i. Reconstructing Russell
+### i. Reconstructing Russell
 
-“…the traditional epistemological project focused around a theory of knowledge as bulwark against scepticism; proponents of this approach anticipate its displacement by a more diverse set of concerns…”1
+> “…the traditional epistemological project \[was the\] theory of knowledge as bulwark against scepticism; proponents of this approach anticipate its displacement by a more diverse set of concerns…”1
 - Guy Axtell 
 
-“Mathematics and the stars consoled me when the human world seemed empty of comfort. But changes in my philosophy have robbed me of such consolations... It seemed that what we had thought of as laws of nature were only linguistic conventions, and that physics was not really concerned with an external world. I do not mean that I quite believed this, but that it became a haunting nightmare, increasingly invading my imagination.”2
+> “Mathematics and the stars consoled me when the human world seemed empty of comfort. But changes in my philosophy have robbed me of such consolations... It seemed that what we had thought of as laws of nature were only linguistic conventions, and that physics was not really concerned with an external world. I do not mean that I quite believed this, but that it became a haunting nightmare, increasingly invading my imagination.”2
 - Russell
 
-Did Russell naturalise epistemology, do virtue epistemology, or employ an ethics of belief? Well, given that his last major philosophical work, Human Knowledge in 1948, pre-dates Quine’s launching of the naturalising project by twenty years3, and the first explicit piece of ‘virtue epistemology’4 by some thirty years, saying so might look like absurd revisionism. But anachronism is not always invalid: and there are few novel concepts and questions involved in these approaches to epistemology; it is the shift in emphasis, away from the so-called “doxastic paradigm”5, and freedom of methodology that are fresh. (Aristotle, for instance, can be artlessly seen as a virtue epistemologist6, and there have recently been considered accounts of René Descartes7, Pierre Duhem8 and even, tenuously, WVO Quine9 as virtue epistemologists.) My drastic reconstruction of Russell is motivated by Sosa’s notes on HK10, and by the faithful account it can give us of Russell’s responses to radical scepticism. I focus on his use of tacit methodological principles and epistemic norms (hence, ‘ethics of belief’), rather than on virtue theory or naturalism. The trick will be to preserve Russell’s trenchant realism and HK’s early naturalistic epistemology in this meta-epistemological context. I draw on two of his books in isolation: The Problems of Philosophy of 1912 and Human Knowledge of 1948. (They were chosen largely to ensure two contrasting systems.)
+Did Russell naturalise epistemology, do virtue epistemology, or employ an ethics of belief? Well, his last major philosophical work, _Human Knowledge_ (1948) pre-dates Quine’s launching of the naturalising project by twenty years3, and also pre-dates the first explicit piece of ‘virtue epistemology’4 by thirty years - thus, saying so looks like absurd revisionism. But anachronism is not always invalid: and there are few novel concepts and questions involved in these approaches to epistemology; it is the shift in emphasis, away from the so-called “doxastic paradigm”5, and freedom of methodology that are fresh. (Aristotle, for instance, can be artlessly seen as a virtue epistemologist6, and there have recently been considered accounts of René Descartes7, Pierre Duhem8 and even, tenuously, WVO Quine9 as virtue epistemologists.) My drastic reconstruction of Russell is motivated by Sosa’s notes on HK10, and by the faithful account it can give us of Russell’s responses to radical scepticism. I focus on his use of tacit methodological principles and epistemic norms (hence, ‘ethics of belief’), rather than on virtue theory or naturalism. The trick will be to preserve Russell’s trenchant realism and HK’s early naturalistic epistemology in this meta-epistemological context. I draw on two of his books in isolation: The Problems of Philosophy of 1912 and Human Knowledge of 1948. (They were chosen largely to ensure two contrasting systems.)
 
 
 ---

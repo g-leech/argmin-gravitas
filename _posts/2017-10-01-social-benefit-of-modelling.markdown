@@ -1,8 +1,8 @@
 ---
 layout: 	post
-title:  	"The upside of algorithmic discrimination"
-baselink:	/social-risk
-permalink:	/social-risk/
+title:  	"Is modelling individuals good?"
+baselink:	/risk-good
+permalink:	/risk-good
 date:   	2017-10-20
 author:		Gavin	
 img:		/img/
@@ -14,10 +14,11 @@ summary:	Weighing the benefits again
 confidence: 
 warnings: 	
 categories: 
+importance: 7
 count: 		
 ---
 
-Cathy O'Neil does a great service in rendering clear the doubly obscure world of big-data modelling. (Doubly, because highly technical and private to corporation's internal code.)
+Cathy O'Neil does a great service in rendering clear the doubly obscure world of big-data modelling. (Doubly, because both highly technical and private to corporation's internal code.)
 
 But she doesn't do anything like a cost-benefit account of the practice. She likes FICO, because it had good effects on loans for underrepresented people. It did this by allowing better modelling.
 

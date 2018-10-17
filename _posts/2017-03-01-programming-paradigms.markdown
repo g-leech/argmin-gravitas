@@ -1,6 +1,6 @@
 ---
 layout: 		math_post
-title:  		"Paradigms: abstractions on abstraction"
+title:  		"Paradigms are abstractions of abstractions"
 baselink:		/paradigms
 permalink:		/paradigm/
 date:   		2017-03-01  <!--site.time-->
@@ -13,6 +13,7 @@ visible:		0
 summary:		An intuitive explanation of Norvig's advice to new programmers.
 confidence: 	70% on equations' truth (because vague). 80% that it's worth doing.
 categories: 	code, 
+importance: 3.
 count: 			600
 ---
 
