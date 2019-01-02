@@ -28,13 +28,14 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 		<div class="accordion">
 			<h3>epistemology</h3><div>	{%	include quotes/epistemology.html	%}	</div>
 			<h3>ethics</h3><div>		{%	include quotes/morals.html	%}			</div>
+			<h3>ultimately</h3><div>	{%	include quotes/existence.html	%}		</div>
 			<h3>maths</h3><div>			{%	include quotes/maths.html	%}			</div>
 			<h3>stats</h3><div>			{%	include quotes/stats.html	%}			</div>
 			<h3>code</h3><div>			{%	include quotes/code.html	%}			</div>
 			<h3>economics</h3><div>		{%	include quotes/econ.html	%}			</div>
+			<h3>research</h3><div>		{%	include quotes/research.html	%}			</div>
 			<h3>metaphilosophy</h3><div>{%	include quotes/meta.html	%}			</div>
 			<h3>humility</h3><div>		{%	include quotes/humble.html	%}			</div>
-			<h3>ultimately</h3><div>	{%	include quotes/existence.html	%}		</div>
 		</div>
 	</div>
 
