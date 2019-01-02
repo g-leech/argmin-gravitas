@@ -23,12 +23,12 @@ count:      1050
 
 It's now common knowledge that we're being watched online, by a <a href="{{mix}}">thick mix</a> of <a href="{{xkey}}">nation</a>-<a href="{{ech}}">states</a>, <a href="{{enemy}}">private</a> <a href="{{fb}}">companies</a>, <a href="{{spy}}">and</a> <a href="{{play}}">criminals</a>. They sometimes do <a href="{{mal}}">worse than watch</a>. What do we do? Should we care?
 
-It's not very clear what the probability of having your password leaked in a breach / having your email read / having your laptop being remotely disabled and wiped (unless you pay the creator Bitcoin) is. But one of these will probably happen to you in your lifetime, so I would take 10 mins to mitigate them now.
+It's not very clear what the probability of having your password leaked in a breach / having your email read / having your laptop being remotely disabled and wiped (unless you pay the creator Bitcoin) is. But something like this <a href="{{krebs}}">will probably happen</a> to you in your lifetime, so I would take 10 mins to mitigate them now.
 
 There is no absolute security; it's always partial and relative to a goal. This guide is aimed at "not losing control of your accounts, not being surveilled by companies or criminals, not having your online banking subverted, not getting infected by trojans or ransomware or whatever". It's strictly for people with average risks: not that much money, not much tech cred, not much sensitive information to protect.
 
 
-Most of this article assumes you're using Firefox, because <a href="{{chrome}}">Chrome</a> <a href="https://blog.cryptographyengineering.com/2018/09/23/why-im-leaving-chrome/">is itself</a> an attack. That is, it protects you very well against everyone except Google. Firefox is also <a href="{{incog}}">significantly faster</a> than Chrome in Private mode. It's not a big deal compared to the other parts of this list, you'll just need to find alternatives to the add-ons I recommend.
+Most of this article assumes you're using Firefox, because <a href="{{chrome}}">Chrome</a> <a href="https://blog.cryptographyengineering.com/2018/09/23/why-im-leaving-chrome/">is itself</a> <a href="{{proton}}">an attack</a>. That is, it protects you very well against everyone except Google. Firefox is also <a href="{{incog}}">significantly faster</a> than Chrome in Private mode. It's not a big deal compared to the other parts of this list, you'll just need to find alternatives to the add-ons I recommend.
 
 <br>
 <hr />
