@@ -1,0 +1,25 @@
+<style>
+.imgColumn {
+  float: left;
+  width: 17%;
+  padding-bottom: 10px;
+}
+
+.column {
+  padding-left: 160px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media only screen and (max-width: 600px) {
+  .imgColumn {
+    width: 45%;
+  }
+}
+
+</style>
