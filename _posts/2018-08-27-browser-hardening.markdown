@@ -83,17 +83,30 @@ Even when the URL is real, vulnerabilities in the original internet protocol mea
 
 Here are some reputable add-ons for Firefox:
 
-* <a href="{{cookie}}">Cookie Autodelete</a>. This add-on deletes cookies (files placed on your computer to identify you) when the tab is closed. Good compromise.
 * <a href="{{noscript}}">NoScript</a>. Disables all Javascript by default; this stops 90% of attacks and trackers. It is the most important, but also the most costly in time by far. After about two weeks of use this burden decreases to negligible though.
 * <a href="{{badger}}">Privacy Badger</a>. Overlaps a bit with AdNauseam. Seems to cover the use case for Disconnect and Ghostery.
 * <a href="{{ddg}}">DuckDuckGo</a>. The zero-tracking search engine. Not as good as Google, but it includes a built-in "use Google safely" command.
-* <a href="{{rua}}">RandomUserAgent</a>: changes the device and browser you're reporting, at random. Sometimes breaks things.
-* Adblocking. Everyone knows <a href="{{abp}}">this one</a>, but the proper solution takes a bit of work. <a href="{{troy}}">The really safe thing</a> to do against ads is a <a href="{{hole}}">Pi-hole</a>, a tiny DNS server in your house. This stops ads at the source, for every device in your house at once. You can get <a href="{{pi}}">a Raspberry Pi</a> for $30, and it takes about 30 mins to set up as a Pi-hole.
+* <a href="{{cookie}}">Cookie Autodelete</a>. Deletes cookies (files placed on your computer to identify you) when the tab is closed. Good compromise.
 
-(Alternatively, there's the fun option:
+<br>
+
+#### Attack: Ads
+
+This one is arguable: after all, the current web economy couldn't exist without ads. My response is that I precommit to using any micropayment solution that people can get to work. Also to actually buy things from creators I like. In the meantime no-one gets to spam me with gigabytes of unwanted content and follow me around.
+
+But besides being ugly, besides following you without your consent, they take your time. <a href="{{hulce}}">Two-thirds</a> of all script execution time is due to third-party scripts, mostly ads and trackers. My own network analytics say that 12% of all my requests are to ad servers. This is hours of your life per year. <a href="#fn:1" id="fnref:1">1</a>
+
+Everyone knows <a href="{{abp}}">this solution</a>, but a better solution takes a bit of work. 
+
+<a href="{{troy}}">The best thing</a> to do against ads at present is a <a href="{{hole}}">Pi-hole</a>, a tiny DNS server in your house. This stops ads at the source, for every device in your house at once. You can get <a href="{{pi}}">a Raspberry Pi</a> for $30, and it takes about 30 mins to set up as a Pi-hole. (Note that Chrome and Edge users need DNS-level blocking, since Google <a href="{{googblocked}}">is/was going to block</a> uBlock.)
+
+Because the internet is a Red Queen hellscape, we should expect this to gradually stop working over the next few years. Ads can avoid your DNS block in <a href="{{hell}}">a variety of ways</a>, up to and including them implementing their own custom domain-over-HTTPS protocol. <i>La lotta continua.</i>
+
+
+<!-- (Alternatively, there's the fun option:
 
 * <a href="{{nausea}}">AdNauseam</a>. uBlock, plus trolling: AdNauseam clicks every ad it finds (without loading them), which undermines the surveillance economy by injecting large amounts of noise into it. (Real clickthroughs are rare.) Just use uBlock or Pi-hole if you have rule-utilitarian scruples.)
-
+ -->
 
 <br>
 
@@ -154,6 +167,8 @@ However, you can be very confident in EFF products - HTTPS Everywhere, Privacy B
 * Consider not using <a href="{{nsa}}">American hardware</a>.
 * Consider not using Kaspersky (involuntary aid).
 * <a href="{{bank}}">Two-factor authenticated bank</a>.
+* <a href="{{cvb}}">CanvasBlocker</a>: people can get a wee bit of identifying info from <a href="{{canvas}}">spying on</a> your GPU and screen specs.
+* <a href="{{rua}}">RandomUserAgent</a>: changes the device and browser you're reporting, at random. Sometimes breaks things.
 * Store a PGP key somewhere public (e.g. <a href="{{keybase}}">Keybase</a>): makes it possible to authenticate yourself without identifying documents. (Softening the blow of identity theft, preventing chronic lulz).
 * Life / work separation. Never shop at work, never work on your home computers. This makes two of you, with two different attacks (and sets of attacks) needed.
 * Against reward hacking (that is, being distracted with push notifications and infinite feeds): Just don't have a smartphone, or keep it in your bag and use a dumbphone for interpersonal alerts. Also <a href="https://addons.mozilla.org/en-US/firefox/addon/impulse-blocker/">ImpulseBlocker</a>.
@@ -170,5 +185,7 @@ Note that you're not going to stop any nation-states except <a href="{{paranoia}
 
 
 <br><br>
+
+{%  include browser/foots.html %}
 
 {%  include comments.html %}
