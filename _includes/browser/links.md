@@ -21,6 +21,7 @@
 {%    assign nsa = "https://www.theguardian.com/us-news/2015/feb/23/nsa-director-defends-backdoors-into-technology-companies"	%}
 {%    assign rtc = "https://en.wikipedia.org/wiki/WebRTC#Concerns"		%}
 
+{%    	assign googblocked = "https://www.theregister.co.uk/2019/01/22/google_chrome_browser_ad_content_block_change/"	%}
 {%    	assign homoglyphs = "https://www.cisco.com/c/en/us/support/docs/security/email-security-appliance/200146-Homoglyph-Advanced-Phishing-Attacks.html"	%}
 {%    	assign yubi = "https://en.wikipedia.org/wiki/YubiKey"	%}
 {%    	assign keybase = "https://keybase.io/"	%}
@@ -57,3 +58,8 @@
 {%		assign troy = "https://www.troyhunt.com/mmm-pi-hole/"		%}
 {%		assign hole = "https://github.com/pi-hole/pi-hole#alternative-semi-automated-install-methods"	%}
 {%		assign abp = "https://adblockplus.org/"	%}
+
+{%		assign cvb = "https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/"		%}
+{%		assign hulce = "https://github.com/patrickhulce/third-party-web"				%}
+{%		assign canvas = "https://en.wikipedia.org/wiki/Canvas_fingerprinting"			%}
+{%		assign hell = "https://news.ycombinator.com/item?id=19259069"			%}
