@@ -28,37 +28,15 @@ count:
 </center>
 <br>
 
-Sometime in 2012, I realised that maths is ineliminable for serious truth-seeking - and that I didn't know enough to do science, or even real data analysis. Nor did I have the confidence to <a href="{{auto}}">self-study</a>. What to do?
+Sometime in 2012, I realised that you can't do without maths for serious truth-seeking - and that I didn't know enough of it to do science, or even real data analysis. Nor did I have the confidence to <a href="{{auto}}">self-study</a>. What to do?
 
-Maths is probably the best subject to learn from a distance, because set problems can _always_ be cracked with sufficient thought, and because learning it _can't be done_ without lots of independent thought and silent focus anyway. <a href="#fn:1" id="fnref:1">1</a> And Britain has been doing cheap, high-class MOOCs for 50 years, in the form of the giant public <a href="{{ou}}">Open University</a>.
+Maths is probably the best subject to learn online, because set problems can _always_ be cracked with sufficient thought, and because learning it _can't be done_ without lots of independent thought and silent focus anyway. <a href="#fn:1" id="fnref:1">1</a> And Britain has been doing cheap, high-class MOOCs for 50 years, in the form of the giant public <a href="{{ou}}">Open University</a>.
 
 6 years later, and I've got a <a href="{{bsc}}">BSc (Hons) in Maths and Stats</a>, working a full-time job throughout. I know something now. It was good! But it probably wouldn't be for you, if you're not strange in the particular ways I am.<br><br>
 
-To see if it's good in general, better than my emoting is checking the graduation rate: how often do people see enough value in it / get sufficient help to finish the course? The median completion rate for MOOCs is about <a href="{{edx}}">4%</a> (edX); the OU is <a href="{{completion}}">about 14%</a> for all courses. (This can be taken two ways though: the rate for face-to-face degrees is <a href="{{face}}">80%</a>.) <a href="#fn:2" id="fnref:2">2</a>
+To see if it's good in general, better than my emoting is checking the graduation rate: how often do people see enough value in it / get sufficient help to finish the course? The median completion rate for MOOCs is about <a href="{{edx}}">4%</a> (edX); the OU is <a href="{{completion}}">about 14%</a> for all courses. <a href="#fn:2" id="fnref:2">2</a>
 
-<br>
-
-<div class="accordion">
-    <h3>My syllabus</h3>
-    <div>
-        <ul>
-        	<li><i>MST121 Using mathematics</i> - Algebra refresher, trig, functions, calc, etc.  </li><br>
-			<li><i>M140 Introducing statistics</i> - descriptive stats, sampling theory, lines. 	</li><br>
-			<li><i>TM129 Technologies in practice</i> - toy robotics, home Linux admin, Windows networking.</li><br>
-			<li><i>MST125 Essential mathematics 2</i> - proof technique, number theory, conics, linear algebra, ODEs, mechanics, eigens, combinatorics.	</li><br>
-			<li><i>MST210 Mathematical methods and modelling</i> - Newtonian mechanics, oscillators, vector calculus, systems of particles and two-body problems. </li><br>
-			<li><i>M248 Analysing data</i> - exploration; distribution theory; inference; point & interval estimation; boring hypothesis tests; nonparametric tests; regression.</li><br>
-			<li><i>M249 Practical modern stats</i> - experimental design; time series; multivariates; basic Bayesianism.	</li><br>
-			<li><i>M343 Applications of probability theory</i> - spatial processes; discrete-time processes; queuing theory, epidemiology, birth-death and population genetics; renewal processes, Brownian motion models.</li><br>
-			<li><i>M346 Linear modelling</i> - the regression ladder up to the full, lovely, outmoded <a href="{{glmm}}">GLMM</a>.</li><br>
-			<li><i>M373 Optimization</i> - numerical analysis and iteratives; Gaussian elimination; linear and integer programming; constrained non-linear optimization.</li><br>
-			<li><i>M347 Mathematical statistics</i> - asymptotic results, distribution theory; Classical inference; Bayesian inference and simulation.</li><br>
-			<li>Electives I didn't take but wanted to: Complex analysis, graph theory, stochastics.</li>
-        </ul>
-	</div>
-</div>
-
-<br>
+{%  include ou/syllabus.html     %}
 
 ---
 
@@ -66,7 +44,7 @@ To see if it's good in general, better than my emoting is checking the graduatio
 
 ## Benefits 
 
-* _Absolutely maximal flexibility_. You _can_ do a full degree in 2 years if you're crazy, or in 16 years if a lot of life happens to you. (They estimate 16 hours a week for part-time study, but I managed with about half that.) There's a start date every 6 months. OU degrees are even available to <a href="{{sub}}">sailors on nuclear submarines</a> submersed for months at a time. No lectures, good riddance. Most tutorials are streamed and recorded. The _only_ physical requirement is going to an exam centre one week once a year. 
+* _Absolutely maximal flexibility_. You _can_ do a full degree in 2 years if you're crazy, or in 16 years if a lot of life happens to you. (They estimate 16 hours a week for part-time study, but I managed with about half that.) There's a start date every 6 months. OU degrees are even available to <a href="{{sub}}">sailors on nuclear submarines</a> submersed for months at a time. No lectures - good riddance. Most tutorials are streamed and recorded. The _only_ physical requirement is going to an exam centre one week once a year. 
 
 * _Structure and tempo_. I found the deadlines and personal tutoring incredibly helpful, relative to getting a textbook and trying to summon willpower. Much better than other MOOCs I've done, too, and not much less motivating than my face-to-face degree.
 
@@ -86,7 +64,7 @@ To see if it's good in general, better than my emoting is checking the graduatio
 
 * _Breadth_. I've got a rough idea of large parts of pure mathematics, even though I took every statistics elective I could. I won't pretend this is more than me being able to learn any subfield now.
 
-* _Time to marinate_. To me, taking twice as long is much better for learning. Lots more time for intuitions to be built, for shower-thought epiphanies, for the pieces to get joined up. This is also a serious test of the spaced recognition technique - I refreshed calculus once a year for six years. Obviously this is 
+* _Time to marinate_. To me, taking twice as long is much better for learning. Lots more time for intuitions to be built, for shower-thought epiphanies, for the pieces to get joined up. This is also a serious test of the spaced recognition technique - I refreshed calculus once a year for six years. (This is a strict positive, despite using up more of your life, because you can do it quicker if you like.)
 
 * _Beautiful, fixable typesetting_. When you're starting out in maths, you constantly make mistakes. (Later, mistakes are only very very frequent.) If you're writing by hand, this leads to hours of wasted effort rewriting fixed proofs. You're taught LaTeX in the second or third course, and from then on all your homework submissions can be in that.
 
@@ -105,15 +83,15 @@ To see if it's good in general, better than my emoting is checking the graduatio
 
 ## Problems
 
-* _Distance means dropout risk_. The OU graduation rate is much better than the average MOOC, but still way below traditional uni. This is probably mediated by lack of social interaction and meaning-making.
+* _Distance means dropout risk_. The graduation rate is much better than the average MOOC, but still way below traditional unis. Most of this gap is probably because the OU is so much less selective than the face-to-face unis; so despite appearances the gap is less a bug than a feature. (The remainder of the gap is probably mediated by lack of social interaction and meaning-making.)
 
-* _Not especially deep_. My second year courses were the first time I felt fully challenged. 
+* _Not especially deep_. You graze quite widely over geometry, number theory, calculus, diffeqs, first-year physics, combinatorics. As a result, you're regularly returning to elementary matters - so my second year courses were the first time I felt fully challenged. The only thing I covered in any depth was probability theory and stochastic processes, but that's because of my choices. 
 
 * _No undergraduate research_. No option for a maths dissertation, which is great if you've no ambitions in the matter.
 
 * _No continuity of teachers_. This mostly scuppers your chances of getting a single strong academic reference (instead there's a centralised bundle of comments from past tutors).
 
-* _Not especially prestigious_. The completely unselective start of the pipeline isn't as bad for the degree's signalling as you'd think, because you need to be pretty strong to make it out the end. You basically lose the entire bottom two-thirds of students. (<a href="{{firsts}}">One third of graduates in my course</a> get a First, which isn't so easy - takes 85%+ on all final courses.) Anyway it hasn't stopped me getting into a decent grad programme (after doing a bunch of additional side projects).
+* _Not especially prestigious_. The completely unselective start of the pipeline isn't as bad for the degree's signalling as you'd think, because you need to be pretty strong to make it out the end. You basically lose the entire bottom eight  deciles. (<a href="{{firsts}}">One third of graduates in my course</a> get a First, which isn't so easy - takes 85%+ on all final courses.) Anyway it hasn't stopped me getting into a decent grad programme (after doing a bunch of additional side projects).
 
 * _One nonmaths elective_. It's compulsory to take one course outside your major - but luckily the <a href="{{tm}}">Linux / Windows networking</a> one was useful.
 
@@ -121,13 +99,17 @@ To see if it's good in general, better than my emoting is checking the graduatio
 
 * _Crap proprietary software_ (MathCAD, Minitab, GenStat, SPSS). The stats courses demand that you install various meh packages. Licences are included in the fee, but it's still a wasted opportunity to learn superior and future-proofed data science tools. I did most of the exercises in SciPy anyway, and only lost a couple points to pedantic markers.
 
-* _Handwritten exams_. I never write with a pen anymore, so I have to spend a couple of weeks building up the muscles before exams. It's kind of painful.
+* _Handwritten exams_. I never write with a pen anymore, so I had to spend a couple of weeks building up hand muscles before exams. It's kind of painful.
 
 <br><br>
 
 ## Bottom line
 
-The full £18k sticker price probably isn't worth it, unless you have really hard constraints on your geography or time. If you can get subsidised - which is pretty easy - and if you're an introvert, it's great.
+On the spectrum between "buy a textbook and sweat it out alone" and "attend 20 hours of compulsory lectures, do 20 hours of compulsory exercises - and spend all your time with people doing the same", it's closer to the former. But this was no bad thing, for me.
+
+It doesn't develop your research skills very much - a _lot_ of the homework exercises involve spotting the right algorithm to use, out of a small number of given algos, then turning the crank. (Though I _occasionally_ came up with my own method - e.g. using the <a href="{{fundie}}">fundamental theorem of algebra</a> to terminate a root-finder - and got full marks.) Proof is underemphasised, relative to full university treatments.
+
+The full £18k sticker price probably isn't worth it unless you have really hard constraints on your geography or time. If you can get subsidised - which is pretty easy - and if you're an introvert, it's great.
 
 <br>
 

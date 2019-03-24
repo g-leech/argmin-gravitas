@@ -13,7 +13,7 @@ visible:    1
 summary:    A compressed version of what's important to me.
 categories: 
 importance: 9
-count:      
+count:      1000
 ---
 
 {%  include fivebooks/style.html %}
@@ -45,7 +45,7 @@ as of early 2019:<br><br>
 
 * _Heuristics and biases_: Humans are deluded in predictable and previously adaptive ways. Why we don't make sense. Implies scepticism.<br>
 
-* _Scientific imperialism_: Despite that, we sometimes <a href="https://plato.stanford.edu/entries/structural-realism/">succeed in knowing</a>. It's <a href="https://plato.stanford.edu/entries/ethics-belief/#EviOve">wrong</a> to believe things on insuffient evidence. Technical skill is vital for successful thought and some kinds of action. Naturalism works methodologically and maybe ontologically too.<br>
+* _Scientific imperialism_: Despite that, we sometimes <a href="https://plato.stanford.edu/entries/structural-realism/">succeed in knowing</a>. It's <a href="https://plato.stanford.edu/entries/ethics-belief/#EviOve">wrong</a> to believe things on insufficient evidence. Technical skill is vital for successful thought and some kinds of action. Naturalism works methodologically and maybe ontologically too.<br>
 
 * _Effective altruism_: outcome-oriented, maximizing, cause-impartial egalitarianism. You can't reliably act morally if you don't know the truth.<br>
 
