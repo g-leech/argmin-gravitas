@@ -14,3 +14,4 @@
 {%	assign firsts = "https://unistats.ac.uk/subjects/study/10007773PT-Q36/ReturnTo/"		%}
 {%	assign tm = "http://www.open.ac.uk/courses/modules/tm129"						%}
 {%	assign glmm = "https://en.wikipedia.org/wiki/Generalized_linear_mixed_model"		%}
+{%	assign fundie = "https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra"		%}
