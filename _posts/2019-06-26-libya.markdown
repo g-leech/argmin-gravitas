@@ -1,0 +1,75 @@
+---
+layout:     post
+title:      "Rebellion, and rebellion against rebellion"
+baselink:   /libya
+permalink:  /libya
+date:       2019-03-26
+author:     Gavin
+
+img:        /img/lib.jpg
+published:  true
+visible:    1
+
+summary:    What I learned from the Libyan Civil War.
+importance: 6
+warnings:	War, rape, disinformation.
+count:      500
+---
+
+{%	assign int = "https://en.wikipedia.org/wiki/2011_military_intervention_in_Libya"		%}
+{%	assign sing = "https://www.philosophyexperiments.com/singer/"		%}
+{%	assign fair = "http://www.michaeldello.com/fair-trade-worse-free-trade/"		%}
+{%	assign rec = "https://www.nytimes.com/2015/10/04/opinion/sunday/the-reign-of-recycling.html"		%}
+{%	assign lib1 = "https://www.foreignaffairs.com/articles/libya/2019-02-18/obamas-libya-debacle"		%}
+{%	assign lib2 = "https://foreignpolicy.com/2018/06/22/the-west-is-letting-libya-tear-itself-apart/"	%}
+{%	assign second = "https://en.wikipedia.org/wiki/Libyan_Civil_War_(2014%E2%80%93present)"		%}
+{%	assign rape = "https://www.independent.co.uk/news/world/africa/amnesty-questions-claim-that-gaddafi-ordered-rape-as-weapon-of-war-2302037.html"		%}
+{%	assign feb = "https://www.nytimes.com/2011/05/05/world/africa/05nations.html"		%}
+{%	assign islamist = "https://en.wikipedia.org/wiki/Justice_and_Construction_Party"		%}
+{%	assign reb = "https://en.wikipedia.org/wiki/Libya_Revolutionaries_Operations_Room"		%}
+{%	assign china = "https://www.technologyreview.com/the-download/612577/the-us-has-blamed-chinese-state-hackers-for-the-marriott-hotel-data-breach/"		%}
+
+
+<center>
+	<blockquote>The wiser course might often be to do nothing, but it will seldom be without moral cost. </blockquote>
+	― Clive James 
+</center><br>
+
+In 2011 my university hosted a debate about <a href="{{int}}">the fresh Libya intervention</a>. Alongside the pie-eyed political scientists, some Libyan students were on the panel. They described rapes and massacres, how their families were praying for NATO intervention, how it was the only hope for democracy, how in fact their families were otherwise sure to die.
+
+This was formative for me. I'd protested the 2003 Iraq War (reflexively, ineffectually) when I was in high school. But I'd been coming around to consequentialism, the worldview which forbids no action absolutely. It just made things make sense: suddenly I knew why I felt bad at luxury spending - because the same money could be <a href="{{sing}}">saving lives</a>. Other things which had seemed so important - <a href="{{rec}}">recycling</a>, <a href="{{fair}}">Fair Trade</a>, official foreign aid - took on ordinary proportions, stopped needling me, fell away. And so on. 
+
+I think a blanket rejection of war was the last deontological principle I had. I had a sure and accurate intuition of the horror of intervention. But here, unavoidable, was somebody telling me the horror of nonintervention.<br><br>
+
+Things got even more dramatic: The audience was packed with Quakers. They believed that nonviolent resistance is a simple and universal method for preventing violence. They were dogmatic, opposing even the no-fly zone; they didn't answer the questions people put to them, about the unarmed protestors killed; they were inarticulate and petulant, criticising the Transitional Council rebels for taking up arms, and forgetting to criticise Qaddafi at all. (In fact they almost defended him - in that particular dodgy New Left way - for his anti-imperialism.) <br><br>
+
+<a href="{{lib1}}">And yet they were completely</a> correct about Libya, which 8 years later is <a href="{{second}}">still at war</a>:
+
+> For the ninth time since 2011, rival Libyan factions are slugging it out to control the country’s strategic “oil crescent,” a coastal strip which begins 100 miles south of Benghazi and arcs westward 250 miles toward Sirte. 
+
+> Libya has not only failed to evolve into a democracy; it has devolved into a failed state. Violent deaths and other human rights abuses have increased severalfold. Rather than helping the United States combat terrorism, as Qaddafi did during his last decade in power, Libya now serves as a safe haven for militias affiliated with both al Qaeda and the Islamic State of Iraq and al-Sham (ISIS). The Libya intervention has harmed other U.S. interests as well: undermining nuclear nonproliferation, chilling Russian cooperation at the UN, and fueling Syria’s civil war. <br><br>Despite what defenders of the mission claim, there was a better policy available — not intervening at all, because peaceful Libyan civilians were not actually being targeted.
+
+<br>
+
+The pacifists were right, even though they're a stopped clock. <a href="{{rape}}">Amnesty didn't find any serious evidence</a> of rape as a tactic. After the <a href="{{feb}}">February killings</a> of unarmed protestors, civilians don't seem to have been intentionally targeted by Qaddafi's forces. <a href="#fn:1" id="fnref:1">1</a> (They were busy.) The rebels included <a href="{{reb}}">plenty of</a> <a href="{{islamist}}">horrible authoritarians</a>, as revolutionary cadres are wont to do.
+
+I don't know whether the Libyans on the panel were lying or misinformed, propagandists or victims of the same righteous fog of war that caught out Juppé, Cameron and Obama.
+
+The lesson is twofold: war can be justified and almost never is. Also: disinformation, which has always been war's companion, makes a mockery of journalism and policy, of straightforward evidence collation - and it'll only get worse <a href="{{china}}">now they can target you with specific lies</a>.
+
+<br>
+
+---
+
+<br>
+
+Don't understand me too quickly. The Quakers were right for the wrong reason.
+
+The consequentialist argument against seemingly good wars is simple: it just almost never works. Your prior should be heavily against it. This time is not different. And this looks like pacifism most of the time, if an unusually watchful kind.
+
+<br>
+
+{%  include comments.html %}
+
+
+{%  include libya/foots.html %}
