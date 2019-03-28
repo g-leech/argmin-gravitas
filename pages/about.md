@@ -27,19 +27,17 @@ visible:	true
 </div>
  -->
 
-<div class="accordion">
-	<h3>Now</h3>
-	<div>
-		{%	include about/now.md	%}
-	</div>
+<div class="accordion">	
+	{%	include about/now.md	%}
+<!--  -->
 <!--  -->
 	<h3>Giving</h3>
 	<div>
 		<a href="{{GWWC}}"><img src="/img/GWWC.jpg" hspace="20" width="100px" height="100px" align="left" /></a>
 		I'm a member of <a href="{{GWWC}}">Giving What We Can</a>, people who pledge substantial amounts of their lifetime income to the most effective charitable causes. I'm donating <a href="{{MyGiving}}">10% this year</a>, aiming at 50% overall <a href="#fn:2" id="fnref:2">2</a>. My reasoning on the most important causes, and my present basket of charities is forthcoming.<br><br><br>
-
+<!--  -->
 		I am cause-neutral (in the sense that I will support whatever is highest value, to the extent that objective evaluation is possible) and cause-sceptical (in the sense that we don't really know what the best thing to do is).
-
+<!--  -->
 		<!--     80,000 Hours on moral stance and strategy
         <ul>
             <li><i>By launching a concerted campaign, a relatively small group of people can make a significant and lasting change to society’s moral attitudes to an important issue.</i>
