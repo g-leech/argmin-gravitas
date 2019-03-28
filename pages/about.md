@@ -10,7 +10,7 @@ visible:	true
 
 
 <div style="padding:20px">
-	I'm <a href="{{ "/cv.pdf" | prepend: site.url }}">Gavin Leech</a>, a data scientist at the giant insurer <a href="{{Axa}}">AXA</a> <a href="#fn:4" id="fnref:4">4</a>. I write words and code about things like <a href="{{welf}}">the unit of caring</a>, <a href="{{cs}}">quantitative epistemology</a>, and the <a href="{{stat}}">applied philosophy of science</a>.<br><br> 
+	I'm <a href="{{ "/cv.pdf" | prepend: site.url }}">Gavin Leech</a>, a data scientist at the giant insurer <a href="{{Axa}}">AXA</a> <a href="#fn:4" id="fnref:4">4</a>. I write words and code about things - important things or, failing that, interesting things, or, failing that, boring true things. <br><br> 
 
     Technically <a href="{{ea}}">an EA blog</a>, though I don't consider this a blog. (Blogging is more speech than writing.)<br><br>
 
@@ -28,11 +28,14 @@ visible:	true
  -->
 
 <div class="accordion">
+	<h3>Now</h3>
+	<div>
+		{%	include about/now.md	%}
+	</div>
+<!--  -->
 	<h3>Giving</h3>
 	<div>
-
 		<a href="{{GWWC}}"><img src="/img/GWWC.jpg" hspace="20" width="100px" height="100px" align="left" /></a>
-		
 		I'm a member of <a href="{{GWWC}}">Giving What We Can</a>, people who pledge substantial amounts of their lifetime income to the most effective charitable causes. I'm donating <a href="{{MyGiving}}">10% this year</a>, aiming at 50% overall <a href="#fn:2" id="fnref:2">2</a>. My reasoning on the most important causes, and my present basket of charities is forthcoming.<br><br><br>
 
 		I am cause-neutral (in the sense that I will support whatever is highest value, to the extent that objective evaluation is possible) and cause-sceptical (in the sense that we don't really know what the best thing to do is).
@@ -59,8 +62,6 @@ visible:	true
 	
 	<h3>Psychology</h3>
 	{%		include about/psychology.html		%}
-
-	{%		include about/code.html		%}
 
 	{%		include about/misc.html		%}
 </div>
