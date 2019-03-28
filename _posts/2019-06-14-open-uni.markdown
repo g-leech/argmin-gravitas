@@ -13,7 +13,7 @@ visible:    1
 summary:    Review of a venerable online maths degree.
 confidence: 90%
 importance: 3
-count:      
+count:      1500
 ---
 
 {%  include ou/links.md     %}
@@ -48,7 +48,7 @@ To see if it's good in general, better than my emoting is checking the graduatio
 
 * _Structure and tempo_. I found the deadlines and personal tutoring incredibly helpful, relative to getting a textbook and trying to summon willpower. Much better than other MOOCs I've done, too, and not much less motivating than my face-to-face degree.
 
-* _Personal tutor_. Each course has a tutor who you can write to as much as you like, and who respond within a day. Most tutors give you their home phone number - which I never used, but which gives you an idea of the service ethic. Once you know LaTeX emailing precise questions becomes viable.
+* _Personal tutor_. Each course has a tutor who you can write to as much as you like, and who respond within a day. Most tutors give you their home phone number - which I never used, but which gives you an idea of the service ethic. The tutors are mostly maths PhDs or veteran longbeards. Once you know LaTeX emailing precise questions becomes viable.
 
 * _Excellent course materials_. These are mailed to you and are also available online. They're high quality and totally self-contained - which is a mixed blessing, since I didn't learn how to handle real maths references text (with their masses of irrelevant results and sadistic 'exercises left for the reader'. I will have to learn this for grad school.
 
