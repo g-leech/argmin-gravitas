@@ -20,10 +20,10 @@ model (GMM), a further nested stochastic process for the system:<br><br>
 The probability of generating an observation from a GMM is the {sum of the probability of selecting each Gaussian component ( $$ \pi_G $$ )} multiplied by the {probability of generating $$ o_t $$ from that Gaussian}:
 
 $$
-	 P(O^{(A)}_t \, | \,S_j) = \sum_{g=1}^G \,\, \pi_g \,\times\, \aleph\, \large( 	o_t, \mu_{jg}, \sigma_{jg}	\large) 				\qquad\qquad \text{(E8)} 
+	 P(O^{(A)}_t \, | \,S_j) = \sum_{g=1}^G \,\, \pi_g \,\times\, \mathcal{N}\, \large( 	o_t, \mu_{jg}, \sigma_{jg}	\large) 				\qquad\qquad \text{(E8)} 
 $$
 
-Where $$ \aleph $$ denotes the normal distribution. The product in (E8) can be understood by saying each state of an HMM possesses $$G$$ sub-states, the choice of which is a discrete latent variable, illustrated in figures 5 and 6.
+Where $$ \mathcal{N} $$ denotes the normal distribution. The product in (E8) can be understood by saying each state of an HMM possesses $$G$$ sub-states, the choice of which is a discrete latent variable, illustrated in figures 5 and 6.
 
 
 HMMs are actually a generalisation of GMMs in which the mixture weights that select the emission
@@ -34,7 +34,7 @@ a GMM is a single-state HMM.
 As such we can generalize (E8) for HMMs: the probability of an HMM generating an observation sequence $$O^{(A)}_t$$ is: 
 
 $$
-	 P(O^{(A)}_t \, | \,\theta_A) = \prod_{j=1}^n \,\, \large(\,\, \sum_{g=1}^G \,\, \pi_g \,\times\, \aleph\, \large( 	o_j^{(A,i)}, \mu_{g}, \sigma_{g}	\large) \,\,\large)				\qquad\qquad \text{(E9)} 
+	 P(O^{(A)}_t \, | \,\theta_A) = \prod_{j=1}^n \,\, \large(\,\, \sum_{g=1}^G \,\, \pi_g \,\times\, \mathcal{N}\, \large( 	o_j^{(A,i)}, \mu_{g}, \sigma_{g}	\large) \,\,\large)				\qquad\qquad \text{(E9)} 
 $$
 
 Where $$j$$ is the present frame of word $$i$$ and $$n$$ is the number of frames taken from $$i$$. i.e. When evaluating a given sequence of observations, the GMM-HMM takes the product of the probability sums of (E8). <br><br>

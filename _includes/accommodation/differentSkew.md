@@ -4,7 +4,7 @@ The HMM is a complex concept. So it's useful to illustrate all the different way
 <ul>
 	<li><h4>Represented in algebra as a parameter set \(\theta\):</h4>
 
-	$$ \theta_A = \{  N_S,M, Tr^{(A)}, E^{(A)}  \}  \qquad\qquad\text{(E2)} $$
+	$$ \theta_A = \{  N_S,M, \pi^{(A)}, Tr^{(A)}, E^{(A)}  \}  \qquad\qquad\text{(E2)} $$
 
 	(Which is to say: a hidden Markov model is specified completely by the number of
 	emitting states in the model \(N_S\); the symbols emitted per transition \(M\); a set of initial
