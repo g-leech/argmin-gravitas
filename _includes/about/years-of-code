@@ -16,4 +16,4 @@
 {%	 assign secondsSince = today | minus: start		%}
 {%   assign monthsSince = secondsSince | divided_by: 3600 | divided_by: 24 | divided_by: 30 %}
 {%	 assign dsYears = monthsSince | divided_by: 12		%}
-{%	 assign dsModulus = monthsSince | modulo: 12 | times: 100 | divided_by: 12	%}
+{%	 assign dsModulus = monthsSince | modulo: 12 | times: 10 | divided_by: 12	%}
