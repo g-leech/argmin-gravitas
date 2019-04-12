@@ -46,7 +46,7 @@ The data isn't open, but I'm planning to record and annotate another set of conv
 <hr />
 <br><br>
 
-'<a href="{{cat}}">Accommodation</a>' is that thing where you automatically mimic the person you're talking to. You might immediately think of baby talk and speaking loudly to old people, but these conscious games are not what I'm talking about. For humans also unconsciously shift speech, depending on the gender, status, and likeability of their interlocutor. Accomodation is pervasive, correlated with key bits of human interaction: empathy, status, and teamwork. Studying accommodation puts you at the intersection of statistical modelling, linguistics and social signal processing
+'<a href="{{cat}}">Accommodation</a>' is that thing where you automatically mimic the person you're talking to. You might immediately think of baby talk and speaking loudly to old people, but these conscious games are not what I'm talking about. For humans also unconsciously shift speech, depending on the gender, status, and likeability of their interlocutor. Accommodation is pervasive, correlated with key bits of human interaction: empathy, status, and teamwork. Studying accommodation puts you at the intersection of statistical modelling, linguistics and social signal processing.
 
 The trick is to detect it using Hidden Markov models (HMMs). A technique from speaker verification is adapted: model-conditional probabilities estimate the ‘distance’ of each speaker, from their interlocutor, for each word. This likelihood ratio is taken for each word uttered by a speaker, relative to their interlocutor uttering it. The correlation of these ratios over time is used to infer the presence of accommodation and estimate effect sizes. 
 
