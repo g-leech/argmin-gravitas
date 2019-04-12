@@ -14,7 +14,7 @@ summary:    Passable browser security for almost no money or effort.
 confidence: 95% that this is worth the time and better than nothing.
 categories: 
 importance: 6
-count:      1050
+count:      1550
 ---
 
 {%  include browser/links.md  %}
@@ -23,12 +23,13 @@ count:      1050
 
 It's now common knowledge that we're being watched online, by a <a href="{{mix}}">thick mix</a> of <a href="{{xkey}}">nation</a>-<a href="{{ech}}">states</a>, <a href="{{enemy}}">private</a> <a href="{{fb}}">companies</a>, <a href="{{spy}}">and</a> <a href="{{play}}">criminals</a>. They sometimes do <a href="{{mal}}">worse than watch</a>. What do we do? Should we care?
 
-It's not very clear what the probability of having your password leaked in a breach / having your email read / having your laptop being remotely disabled and wiped (unless you pay the creator Bitcoin) is. But something like this <a href="{{krebs}}">will probably happen</a> to you in your lifetime, so I would take 10 mins to mitigate them now.
+It's not clear what the probability of having your password leaked in a breach / having your email read / having your laptop being remotely wiped (unless you pay the creator Bitcoin) is. But something like this <a href="{{krebs}}">will probably happen</a> to you in your lifetime, so I would take 10 mins to mitigate them now.
 
-There is no absolute security; it's always partial and relative to a goal. This guide is aimed at "not losing control of your accounts, not being surveilled by companies or criminals, not having your online banking subverted, not getting infected by trojans or ransomware or whatever". It's strictly for people with average risks: not that much money, not much tech cred, not much sensitive information to protect.
+There is no absolute security; it's always partial and relative to a goal. This guide is aimed at "_not losing control of your accounts, not being surveilled by companies or criminals, not having your online banking subverted, not getting infected by ransomware or whatever_". It's strictly for people with average risks: not that much money, not much tech cred, not much sensitive information to protect.
 
+On a lighter note, security is an amazing way to learn about how the internet actually works. It's a lot easier to remember the <a href="{{tcpip}}">dozens</a> of abstract systems involved when you can think, smugly, "_And I've plugged that gap with this mitigation, and that one, and that one..._"
 
-Most of this article assumes you're using Firefox, because <a href="{{chrome}}">Chrome</a> <a href="https://blog.cryptographyengineering.com/2018/09/23/why-im-leaving-chrome/">is itself</a> <a href="{{proton}}">an attack</a>. That is, it protects you very well against everyone except Google. Firefox is also <a href="{{incog}}">significantly faster</a> than Chrome in Private mode. It's not a big deal compared to the other parts of this list, you'll just need to find alternatives to the add-ons I recommend.
+Most of this article assumes you're using Firefox, because <a href="{{chrome}}">Chrome</a> <a href="https://blog.cryptographyengineering.com/2018/09/23/why-im-leaving-chrome/">is itself</a> <a href="{{protonChrome}}">an attack</a>. That is, it protects you very well against everyone except Google. <a href="#fn:2" id="fnref:2">2</a> It's not a big deal compared to the other parts of this list, you'll just need to find alternatives to the add-ons I recommend.
 
 <br>
 <hr />
@@ -42,6 +43,8 @@ So, easy!: We want passwords that are too hard to remember, and we need to never
 
 <span style="font-weight:bold"><span style="font-weight:bold">Mitigation</span></span>: A 'password manager', for instance the free, open-source, cross-platform <a href="{{kee}}">KeePassX</a>. Keep the database file on several devices, and on a thumb drive, and an <a href="{{offs}}">offsite</a>. Can put it in the cloud if you think you're likely to lose those. LastPass and 1Password seem fine, maybe a bit slicker and more friendly, but they cost.
 
+You can also sign up to the security researcher Troy Hunt's <a href="{{troy}}">notification tool</a>: whenever a big leak becomes publicly known, he'll scan it for you and email you if you're in it.
+
 <br>
 
 #### Attack: password phishing
@@ -50,9 +53,15 @@ People can create convincing clones of websites just so you give them your passw
 
 <span style="font-weight:bold"><span style="font-weight:bold">Mitigation</span></span>: Password manager / no password reuse.
 
-<span style="font-weight:bold"><span style="font-weight:bold">Real mitigation</span></span>: 2FA everywhere you can, <a href="{{yubi}}">Yubikey</a>. If the site doesn't ask you for the access code from your phone, you should immediately change your password (from the top search result for that site).
+<span style="font-weight:bold"><span style="font-weight:bold">Real mitigation</span></span>: Two-factor authentication (2FA) everywhere you can, e.g. via a Universal device like <a href="{{yubi}}">Yubikey</a>. If the site doesn't ask you for the access code from your phone when you sign in, you _immediately_ change your password (from the top search result for that site). 
+
+(Sadly, SMS confirmation is relatively easy to subvert, so you should use a smartphone. An open-source 2FA app, <a href="{{auth}}">Authenticator</a>, is coming along though.)
 
 <span style="font-weight:bold">Cognitive burden</span>: once you have the Master passphrase memorised (not hard, give it a couple days): much less than remembering 40 different passwords.
+
+<br>
+
+In early 2019, there was splashy media coverage of a <a href="{{pwordman}}">vulnerability in all the big password managers</a>. It's true that passwords you've used during a session can persist in your RAM; however, it's of little importance, since if an attacker is in a position to read things off your RAM, you are already as screwed as you can be. (KeePass was the least vulnerable manager, incidentally.)
 
 <br>
 <hr />
@@ -61,11 +70,15 @@ People can create convincing clones of websites just so you give them your passw
 ### _Then_: Browser
 
 
-#### Attacks: IP tracking, unencrypted traffic, ISP logs, public wifi spoofing
-    
-<span style="font-weight:bold">Partial mitigation</span>: VPN. This is highly imperfect but not as useless <a href="{{sucks}}">as this guy thinks</a>. I use <a href="{{pia}}">PrivateInternetAccess</a>; you can check the technical and legal specs of dozens of VPNs <a href="{{compare}}">here</a>. $30 a year. Do not use free ones.
+#### Attacks: IP tracking, unencrypted traffic, ISP logs, public wifi spoofing, geo-locking, national bans
+
+In many jurisdictions (e.g. <a href="{{ispuk}}">UK</a>) your internet provider is legally required to record some info about your browsing. In others (<a href="{{ispus}}">US</a>) they do it apparently for kicks. They also implement <a href="{{ban}}">court orders</a> banning particular sites. Some content is only licenced for computers in particular locations. _And_ using public wi-fi (airports, coffee shops) is also extremely insecure without extra encryption.
+
+<span style="font-weight:bold">Partial mitigation for all these</span>: a VPN. This is highly imperfect but not as useless <a href="{{sucks}}">as this guy thinks</a>. They at least have some incentive not to log you: no one will use a VPN which is known to log. I use <a href="{{pia}}">PrivateInternetAccess</a>; you can check the technical and legal specs of dozens of VPNs <a href="{{compare}}">here</a>. $30 a year. Do not use free ones.
 
 The other problem a VPN solves, and solves optimally, is internet requests sent by non-browser apps on your machine. If you use e.g. Linux's built-in VPN client, everything goes through it.
+
+You should not consider this strong privacy, cover for anything illegal. It's just the minimum required to _do it_ in the first place nowadays.
 
 (NB: Modern browsers have a useful thing called <a href="{{rtc}}">WebRTC</a>. It leaks your IP though, so if you really want to hide that you'll need to go into `about:config` and set `media.peerconnection.enabled` to false. uBlock seems to fix this too.)
 
@@ -77,14 +90,16 @@ The other problem a VPN solves, and solves optimally, is internet requests sent 
 
 Even when the URL is real, vulnerabilities in the original internet protocol mean people can sometimes insert themselves inbetween your data and the receiving site. This is lethal (think online shopping, online banking). <a href="{{https}}">This add-on</a> prevents this where it can.
 
+(Previously I recommended <a href="{{httpse}}">HTTPS Everywhere</a>, but that depends on a big central database and sends all your requests there, which - though they're lovely people doing this for excellent reasons - is somewhat counter to the spirit of the thing.)
+
 <br>
 
 #### Attack: Tracking and fingerprinting
 
-Here are some reputable add-ons for Firefox:
+There are so many ways to identify someone on the internet, from obvious ones like IP to desperately cunning ones like <a href="{{canvas}}">making your graphics card identify itself</a> or spotting you based on <a href="{{typ}}">the way you type</a>. Here are some reputable add-ons for Firefox that kill most of this:
 
-* <a href="{{noscript}}">NoScript</a>. Disables all Javascript by default; this stops 90% of attacks and trackers. It is the most important, but also the most costly in time by far. After about two weeks of use this burden decreases to negligible though.
-* <a href="{{badger}}">Privacy Badger</a>. Overlaps a bit with AdNauseam. Seems to cover the use case for Disconnect and Ghostery.
+* <a href="{{noscript}}">NoScript</a>. Disables all Javascript by default; this stops 90% of attacks and trackers. It is the most important, but also the most costly in time by far. It remembers which sites you let through though, so after about two weeks this burden becomes negligible. NoScript has a bunch of other cool protections too, vs XSS, clickjacking...
+* <a href="{{badger}}">Privacy Badger</a>. Watches for processes sending information about you. Trying to fix sites' incentives by not blocking sites whose content actually obeys your Do No Track settings. Seems to cover the use case for both Disconnect and Ghostery.
 * <a href="{{ddg}}">DuckDuckGo</a>. The zero-tracking search engine. Not as good as Google, but it includes a built-in "use Google safely" command.
 * <a href="{{cookie}}">Cookie Autodelete</a>. Deletes cookies (files placed on your computer to identify you) when the tab is closed. Good compromise.
 
@@ -92,15 +107,17 @@ Here are some reputable add-ons for Firefox:
 
 #### Attack: Ads
 
-This one is arguable: after all, the current web economy couldn't exist without ads. My response is that I precommit to using any micropayment solution that people can get to work. Also to actually buy things from creators I like. In the meantime no-one gets to spam me with gigabytes of unwanted content and follow me around.
+This one is arguable: the current web economy couldn't exist without ads. My response is to precommit to using any micropayment solution that people can get to work. Also to actually buy things from creators I like. In the meantime no-one gets to spam me with gigabytes of unwanted content and follow me around.
 
 But besides being ugly, besides following you without your consent, they take your time. <a href="{{hulce}}">Two-thirds</a> of all script execution time is due to third-party scripts, mostly ads and trackers. My own network analytics say that 12% of all my requests are to ad servers. This is hours of your life per year. <a href="#fn:1" id="fnref:1">1</a>
 
 Everyone knows <a href="{{abp}}">this solution</a>, but a better solution takes a bit of work. 
 
-<a href="{{troy}}">The best thing</a> to do against ads at present is a <a href="{{hole}}">Pi-hole</a>, a tiny DNS server in your house. This stops ads at the source, for every device in your house at once. You can get <a href="{{pi}}">a Raspberry Pi</a> for $30, and it takes about 30 mins to set up as a Pi-hole. (Note that Chrome and Edge users need DNS-level blocking, since Google <a href="{{googblocked}}">is/was going to block</a> uBlock.)
+<a href="{{troy}}">The best thing</a> to do against ads at present is a <a href="{{hole}}">Pi-hole</a>, a tiny DNS server in your house. This stops ads at the source, for every device in your house at once. You can get <a href="{{pi}}">a Raspberry Pi</a> for $30, and it takes about 30 mins to set up as a Pi-hole. 
 
-Because the internet is a Red Queen hellscape, we should expect this to gradually stop working over the next few years. Ads can avoid your DNS block in <a href="{{hell}}">a variety of ways</a>, up to and including them implementing their own custom domain-over-HTTPS protocol. <i>La lotta continua.</i>
+(Note that Chrome and Edge users need DNS-level blocking, since Google <a href="{{googblocked}}">is/was going to block</a> uBlock.)
+
+Because the internet is a Red Queen hellscape, we should expect this to gradually stop working over the next few years. Ads can avoid a DNS block in <a href="{{hell}}">a variety of ways</a>, up to and including them implementing their own custom domain-over-HTTPS protocol. <i>La lotta continua.</i>
 
 
 <!-- (Alternatively, there's the fun option:
@@ -112,7 +129,7 @@ Because the internet is a Red Queen hellscape, we should expect this to graduall
 
 #### Attack: email surveillance
 
-Not a lot you can do, short of undertaking the 100-hour hell of runnning your own mail server. Try a Swiss company, e.g. <a href="{{proton}}">Protonmail</a> (they have no public data-sharing agreement with the Five Eyes and constitutional protections for foreigners).
+Not a lot you can do, short of undertaking the 100-hour hell of runnning your own mail server. Try a Swiss company, e.g. <a href="{{proton}}">Protonmail</a> (they have no public data-sharing agreement with the <a href="{{five}}">Five Eyes</a> and constitutional protections for foreigners).
 
 <br>
 
@@ -132,11 +149,15 @@ A new clever attack: identifying you by your repeat requests to a public Content
 
 <br>
 
-<big>Total annual cost: $40 ($40 VPN, $2 usb drive for your password DB)</big>
-
-<big>Daily time cost: 10 seconds adding particular NoScripted scripts. Once you get the KeePass keyboard shortcuts in your muscle memory it is faster than typing.</big>
+<big>Total annual cost: $45 </big><br>
+	($40 VPN, $2 usb drive for your password DB	+ maybe <a href="{{piholeCost}}">$4</a> electricity for the Pi-hole.)
 
 <br>
+
+<big>Daily time cost: Net negative? </big>
+
+You'll take 10 seconds adding new sites to your NoScript list. But the Pi-hole speeds up your internet by ~10%. And once you get the KeePass keyboard shortcuts in your muscle memory it is faster than typing. So net gain.
+<br><br>
 
 ---
 
@@ -146,8 +167,11 @@ A new clever attack: identifying you by your repeat requests to a public Content
 
 Whenever you install a browser add-on, you're allowing unknown code to execute on your machine, behind NoScript. Processes are "sandboxed" in modern browsers - that is, browser malware is unlikely to break into your main OS account - but this is still a risk.
 
+This is not hypothetical: for example, part of the Python central package repository <a href="{{pypi}}">was subverted in 2017</a>. And it can take months for someone to notice this.
+
 However, you can be very confident in EFF products - HTTPS Everywhere, Privacy Badger - and relatively confident in popular open-source add-ons like <a href="{{openNo}}">NoScript</a>, <a href="{{autodel}}">Cookie-Autodelete</a>, <a href="{{ublock}}">uBlock</a>, and <a href="{{ruaCode}}">RandomUserAgent</a>, especially if you built from source.
 
+Still, avoid others.
 
 <br>
 
@@ -161,15 +185,15 @@ However, you can be very confident in EFF products - HTTPS Everywhere, Privacy B
 * Get Linux (<a href="{{linux}}">99</a>%+ of malware doesn't work on it, and there's strong prevention of state backdoors and 'security through obscurity' zero-days).
 * Add an additional <a href="{{keyfile}}">keyfile</a> for Keepass, on a USB. This is too far for me. You'd want it <a href="{{sweden}}">attached to your body</a>.
 * <a href="{{tor}}">Tor</a>. Slow!
-* <a href="{{faraday}}">Faraday wallet</a> for phone and contactless card. Obviously this prevents all incoming calls too.
+* <a href="{{cvb}}">CanvasBlocker</a>: people can get a wee bit of identifying info from <a href="{{canvas}}">spying on</a> your GPU and screen specs.
 * Airgapping one of your computers.
 * Consider not using <a href="{{huawei}}">Chinese</a> <a href="{{lindner}}">hardware</a>.
 * Consider not using <a href="{{nsa}}">American hardware</a>.
 * Consider not using Kaspersky (involuntary aid).
 * <a href="{{bank}}">Two-factor authenticated bank</a>.
-* <a href="{{cvb}}">CanvasBlocker</a>: people can get a wee bit of identifying info from <a href="{{canvas}}">spying on</a> your GPU and screen specs.
 * <a href="{{rua}}">RandomUserAgent</a>: changes the device and browser you're reporting, at random. Sometimes breaks things.
 * Store a PGP key somewhere public (e.g. <a href="{{keybase}}">Keybase</a>): makes it possible to authenticate yourself without identifying documents. (Softening the blow of identity theft, preventing chronic lulz).
+* <a href="{{faraday}}">Faraday wallet</a> for phone and contactless card. Obviously this prevents all incoming calls too.
 * Life / work separation. Never shop at work, never work on your home computers. This makes two of you, with two different attacks (and sets of attacks) needed.
 * Against reward hacking (that is, being distracted with push notifications and infinite feeds): Just don't have a smartphone, or keep it in your bag and use a dumbphone for interpersonal alerts. Also <a href="https://addons.mozilla.org/en-US/firefox/addon/impulse-blocker/">ImpulseBlocker</a>.
 

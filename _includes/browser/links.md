@@ -9,7 +9,7 @@
 {%    assign krebs = "https://krebsonsecurity.com/2018/12/what-the-marriott-breach-says-about-security/"	%}
 {%    assign chrome = "https://lifehacker.com/5763452/what-data-does-chrome-send-to-google-about-me"	%}
 {%    assign safari = "https://www.pcworld.com/article/250213/googles_safari_tracking_dilemma_reality_check.html"	%}
-{%    assign proton = "https://old.reddit.com/r/ProtonMail/comments/9yl94k/never_connect_to_protonmail_using_chrome/"	%}
+{%    assign protonChrome = "https://old.reddit.com/r/ProtonMail/comments/9yl94k/never_connect_to_protonmail_using_chrome/"	%}
 {%    assign pwned = "https://haveibeenpwned.com/PwnedWebsites" 		%}
 {%    assign kee = "https://www.keepassx.org/"	%}
 {%    assign offs = "https://en.wikipedia.org/wiki/Off-site_data_protection"		%}
@@ -34,7 +34,7 @@
 {%    	assign proton = "https://protonmail.com"		%}
 {%    	assign who = "https://www.whois.net/"		%}
 {%    	assign rua = "https://addons.mozilla.org/en-US/firefox/addon/random_user_agent/"		%}
-{%    	assign https = "https://www.eff.org/https-everywhere"		%}
+{%    	assign https = "https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/"		%}
 {%    	assign cookie = "https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/"		%}
 {%    	assign decentral = "https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/"		%}
 {%		assign linux = "https://www.av-test.org/fileadmin/pdf/security_report/AV-TEST_Security_Report_2015-2016.pdf"		%}
@@ -63,3 +63,16 @@
 {%		assign hulce = "https://github.com/patrickhulce/third-party-web"				%}
 {%		assign canvas = "https://en.wikipedia.org/wiki/Canvas_fingerprinting"			%}
 {%		assign hell = "https://news.ycombinator.com/item?id=19259069"			%}
+{%		assign typ = "https://en.wikipedia.org/wiki/Keystroke_dynamics"			%}
+{%		assign tcpip = "https://en.wikipedia.org/wiki/Internet_protocol_suite"		%}
+{%		assign troy = "https://haveibeenpwned.com/NotifyMe"			%}
+{%		assign auth = "https://gitlab.gnome.org/World/Authenticator"		%}
+{%		assign pwordman = "https://www.securityevaluators.com/casestudies/password-manager-hacking/"		%}
+{%		assign httpse = "https://www.reddit.com/r/privacytoolsIO/comments/5qnq6j/time_to_stop_recommending_https_everywhere/"		%}
+{%		assign ban = "https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom#Court_ordered_implementations_targeting_copyright_and_trademark_infringement"		%}
+{%		assign ispuk = "https://www.ispreview.co.uk/index.php/2018/04/high-court-rules-uk-isp-internet-snooping-law-is-unlawful.html"		%}
+{%		assign ispus = "https://torrentfreak.com/how-long-does-your-isp-store-ip-address-logs-120629/"	%}
+{%		assign five = "https://en.wikipedia.org/wiki/Five_Eyes"	%}
+
+{% 		assign pypi = "https://lwn.net/Articles/733853/"		%}
+{% 		assign piholeCost = "https://raspberrypi.stackexchange.com/questions/5033/how-much-energy-does-the-raspberry-pi-consume-in-a-day"	%}
