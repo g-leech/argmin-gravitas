@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Hypothesis dump on yoga benefits"
+title:      "Yoga hypothesis dump"
 baselink:   /why-yoga
 permalink:  /why-yoga
 date:       2019-04-13
@@ -18,7 +18,7 @@ count:      500
 
 {%  include yoga/links.md     %}
 
-Mindfulness is trendy in my social circle, as part of a wider attempt to psychologise and appropriate the good bits from religion (<a href="{{solstice}}">gatherings, singing</a>, self-transcendence, gratitude, <a href="{{xhope}}">existential hope</a>, annual rituals). <a href="{{fett}}">Fettered</a> Brit that I am, I am suspicious of all this grinning and trusting and spirit. <a href="#fn:2" id="fnref:2">2</a>
+Mindfulness is trendy in my social circle, as part of a wider attempt to psychologise and appropriate the good bits from religion (<a href="{{solstice}}">gatherings, singing</a>, self-transcendence, gratitude, <a href="{{xhope}}">existential hope</a>, annual rituals). As a Brit - as a proudly and wilfully <a href="{{fett}}">fettered</a> person - I am suspicious of all this grinning and trusting and spirit. <a href="#fn:2" id="fnref:2">2</a>
 
 To my surprise I like yoga. (The hardish kind, 'ashtanga'.) I never regret going, and usually emerge with a clear head and a warm glow. Why?
 
@@ -44,7 +44,7 @@ At some point I'd like to do a proper literature review on the <a href="{{coch}}
 
 Most of these suggest their own tests naturally. You test (5) by doing your own thing, (6) by doing it alone, etc. The null hypothesis is that it's just (1), which you test by sitting still and trying not to think of anything. (I did. It wasn't nice.)
 
-Even after we find out the active ingredients of the pleasantness, we still don't know that yoga improves e.g. cognition or mental health or productivity, except insofar as feeling good is constitutive of those. (Which it certainly is to some degree.)
+Even after we find out the active ingredients of the pleasantness, we still don't know that yoga improves e.g. cognition or mental health or productivity, except insofar as feeling good is constitutive of those. (Which it is to some degree.)
 
 What else?
 
