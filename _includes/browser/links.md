@@ -76,3 +76,11 @@
 
 {% 		assign pypi = "https://lwn.net/Articles/733853/"		%}
 {% 		assign piholeCost = "https://raspberrypi.stackexchange.com/questions/5033/how-much-energy-does-the-raspberry-pi-consume-in-a-day"	%}
+{% 		assign fb2 = "https://addons.mozilla.org/en-GB/firefox/addon/facebook-container/"		%}
+{% 		assign feed = "https://www.reddit.com/r/simpleliving/comments/5ytjar/how_to_disable_facebook_news_feed/"		%}
+{% 		assign dl = "https://www.facebook.com/help/1701730696756992?helpref=hc_global_nav"		%}
+
+{% 		assign clean = "https://addons.mozilla.org/addon/clearurls/"		%}
+{% 		assign exfil = "https://addons.mozilla.org/addon/css-exfil-protection/"		%}
+{% 		assign israe = "https://www.reuters.com/article/us-apple-encryption-cellebrite-idUSKCN0WP17J"		%}
+{% 		assign librem = "https://puri.sm/products/librem-5/"		%}
