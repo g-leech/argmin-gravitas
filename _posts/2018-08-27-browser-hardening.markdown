@@ -10,7 +10,7 @@ img:        /img/attack.jpg
 published:  true
 visible:    1
 
-summary:    Passable browser security for almost no money or effort.
+summary:    Passable browser security for almost no money or effort. Updated March '19.
 confidence: 95% that this is worth the time and better than nothing.
 categories: 
 importance: 6
@@ -26,6 +26,7 @@ It's now common knowledge that we're being watched online, by a <a href="{{mix}}
 It's not clear what the probability of having your password leaked in a breach / having your email read / having your laptop being remotely wiped (unless you pay the creator Bitcoin) is. But something like this <a href="{{krebs}}">will probably happen</a> to you in your lifetime, so I would take 10 mins to mitigate them now.
 
 There is no absolute security; it's always partial and relative to a goal. This guide is aimed at "_not losing control of your accounts, not being surveilled by companies or criminals, not having your online banking subverted, not getting infected by ransomware or whatever_". It's strictly for people with average risks: not that much money, not much tech cred, not much sensitive information to protect.
+
 
 On a lighter note, security is an amazing way to learn about how the internet actually works. It's a lot easier to remember the <a href="{{tcpip}}">dozens</a> of abstract systems involved when you can think, smugly, "_And I've plugged that gap with this mitigation, and that one, and that one..._"
 
@@ -61,7 +62,7 @@ People can create convincing clones of websites just so you give them your passw
 
 <br>
 
-In early 2019, there was splashy media coverage of a <a href="{{pwordman}}">vulnerability in all the big password managers</a>. It's true that passwords you've used during a session can persist in your RAM; however, it's of little importance, since if an attacker is in a position to read things off your RAM, you are already as screwed as you can be. (KeePass was the least vulnerable manager, incidentally.)
+In early 2019, there was splashy media coverage of a <a href="{{pwordman}}">vulnerability in all the big password managers</a>. It's true that decoded passwords you've used during a session can persist in your RAM; however, it's of little importance, since if an attacker is in a position to read arbitrary things off your RAM, you are already as screwed as you can be. (KeePass was the least vulnerable manager, incidentally.)
 
 <br>
 <hr />
@@ -96,12 +97,15 @@ Even when the URL is real, vulnerabilities in the original internet protocol mea
 
 #### Attack: Tracking and fingerprinting
 
-There are so many ways to identify someone on the internet, from obvious ones like IP to desperately cunning ones like <a href="{{canvas}}">making your graphics card identify itself</a> or spotting you based on <a href="{{typ}}">the way you type</a>. Here are some reputable add-ons for Firefox that kill most of this:
+There are many, many ways to identify someone on the internet, from obvious ones like IP to desperately cunning ones like <a href="{{canvas}}">making your graphics card identify itself</a> or spotting you based on <a href="{{typ}}">the way you type</a>. Here are some reputable add-ons for Firefox that kill most of this:
 
 * <a href="{{noscript}}">NoScript</a>. Disables all Javascript by default; this stops 90% of attacks and trackers. It is the most important, but also the most costly in time by far. It remembers which sites you let through though, so after about two weeks this burden becomes negligible. NoScript has a bunch of other cool protections too, vs XSS, clickjacking...
 * <a href="{{badger}}">Privacy Badger</a>. Watches for processes sending information about you. Trying to fix sites' incentives by not blocking sites whose content actually obeys your Do No Track settings. Seems to cover the use case for both Disconnect and Ghostery.
 * <a href="{{ddg}}">DuckDuckGo</a>. The zero-tracking search engine. Not as good as Google, but it includes a built-in "use Google safely" command.
-* <a href="{{cookie}}">Cookie Autodelete</a>. Deletes cookies (files placed on your computer to identify you) when the tab is closed. Good compromise.
+* <a href="{{cookie}}">Cookie Autodelete</a>. Deletes cookies (files placed on your computer to identify you) when the tab is closed. Good compromise. <a href="#fn:3" id="fnref:3">3</a>
+* <a href="{{fb2}}">Facebook Container</a>. Facebook follows you around the internet to a surprising degree - e.g. any time you see a "Login via Facebook" button or a social-media bar with Share buttons, FB polls its cookies to tie you to that site. They sell this to advertisers, which explains the eerie echo effect of your searches. This official Mozilla extension puts the FB cookies in a "container", an impenetrable box, stopping the passive tracking (they'll still get you if you click the buttons). 
+
+I imagine everyone who will already has, but: consider quitting Facebook or <a href="{{feed}}">neutering it</a>. You can download all your data from them <a href="{{dl}}">here</a>, with like a week of waiting.
 
 <br>
 
@@ -109,13 +113,13 @@ There are so many ways to identify someone on the internet, from obvious ones li
 
 This one is arguable: the current web economy couldn't exist without ads. My response is to precommit to using any micropayment solution that people can get to work. Also to actually buy things from creators I like. In the meantime no-one gets to spam me with gigabytes of unwanted content and follow me around.
 
-But besides being ugly, besides following you without your consent, they take your time. <a href="{{hulce}}">Two-thirds</a> of all script execution time is due to third-party scripts, mostly ads and trackers. My own network analytics say that 12% of all my requests are to ad servers. This is hours of your life per year. <a href="#fn:1" id="fnref:1">1</a>
+But besides being ugly, besides following you without your consent, they take your time. <a href="{{hulce}}">Two-thirds</a> of all script execution time is due to third-party scripts, mostly ads and trackers. My own network analytics say that 15% of all my requests are to ad servers. This is hours of your life per year. <a href="#fn:1" id="fnref:1">1</a>
 
-Everyone knows <a href="{{abp}}">this solution</a>, but a better solution takes a bit of work. 
+Everyone knows <a href="{{abp}}">this solution</a>, but a better solution takes a bit of work:
 
-<a href="{{troy}}">The best thing</a> to do against ads at present is a <a href="{{hole}}">Pi-hole</a>, a tiny DNS server in your house. This stops ads at the source, for every device in your house at once. You can get <a href="{{pi}}">a Raspberry Pi</a> for $30, and it takes about 30 mins to set up as a Pi-hole. 
+<a href="{{troy}}">The best thing</a> to do against ads, at present, is a <a href="{{hole}}">Pi-hole</a>, a tiny DNS server in your house. This stops ads at the source, for every device in your house at once. You can get <a href="{{pi}}">a Raspberry Pi</a> for $30, and it takes about 30 mins to set up as a Pi-hole. 
 
-(Note that Chrome and Edge users need DNS-level blocking, since Google <a href="{{googblocked}}">is/was going to block</a> uBlock.)
+(Note that Chrome and Edge users _need_ DNS-level blocking like Pi-hole, since Google <a href="{{googblocked}}">is/was going to block</a> uBlock.)
 
 Because the internet is a Red Queen hellscape, we should expect this to gradually stop working over the next few years. Ads can avoid a DNS block in <a href="{{hell}}">a variety of ways</a>, up to and including them implementing their own custom domain-over-HTTPS protocol. <i>La lotta continua.</i>
 
@@ -154,9 +158,8 @@ A new clever attack: identifying you by your repeat requests to a public Content
 
 <br>
 
-<big>Daily time cost: Net negative? </big>
-
-You'll take 10 seconds adding new sites to your NoScript list. But the Pi-hole speeds up your internet by ~10%. And once you get the KeePass keyboard shortcuts in your muscle memory it is faster than typing. So net gain.
+<big>Daily time cost: Net time saving? </big><br>
+You'll take a minute a day adding new sites to your NoScript list. And Captchas pop up more often without cookies. But the Pi-hole speeds up your internet by ~10% by not loading ads. And once you get the KeePass keyboard shortcuts in your muscle memory it is faster than typing. So net gain.
 <br><br>
 
 ---
@@ -167,11 +170,11 @@ You'll take 10 seconds adding new sites to your NoScript list. But the Pi-hole s
 
 Whenever you install a browser add-on, you're allowing unknown code to execute on your machine, behind NoScript. Processes are "sandboxed" in modern browsers - that is, browser malware is unlikely to break into your main OS account - but this is still a risk.
 
-This is not hypothetical: for example, part of the Python central package repository <a href="{{pypi}}">was subverted in 2017</a>. And it can take months for someone to notice this.
+Worst is when someone replaces an honest add-on with a malwared version. This is not hypothetical: for example, part of the Python central package repository <a href="{{pypi}}">was subverted in 2017</a>. And it can take months for someone to notice this.
 
-However, you can be very confident in EFF products - HTTPS Everywhere, Privacy Badger - and relatively confident in popular open-source add-ons like <a href="{{openNo}}">NoScript</a>, <a href="{{autodel}}">Cookie-Autodelete</a>, <a href="{{ublock}}">uBlock</a>, and <a href="{{ruaCode}}">RandomUserAgent</a>, especially if you built from source.
+However, you can be very confident in EFF and Mozilla products - HTTPS Everywhere, Privacy Badger, Containers - and relatively confident in popular open-source add-ons like <a href="{{openNo}}">NoScript</a>, <a href="{{autodel}}">Cookie-Autodelete</a>, <a href="{{ublock}}">uBlock</a>, especially if you built from source.
 
-Still, avoid others.
+Still, lean toward avoiding others.
 
 <br>
 
@@ -187,14 +190,17 @@ Still, avoid others.
 * <a href="{{tor}}">Tor</a>. Slow!
 * <a href="{{cvb}}">CanvasBlocker</a>: people can get a wee bit of identifying info from <a href="{{canvas}}">spying on</a> your GPU and screen specs.
 * Airgapping one of your computers.
-* Consider not using <a href="{{huawei}}">Chinese</a> <a href="{{lindner}}">hardware</a>.
+* <a href="{{clean}}">ClearURLs</a> (truncate the identifying info from the end of your links).
+* <a href="{{exfil}}">CSS Exfil Protection</a> (yet another graphical fingerprinting technique).
+* Consider not using <a href="{{huawei}}">Chinese</a> <a href="{{linder}}">hardware</a>.
 * Consider not using <a href="{{nsa}}">American hardware</a>.
-* Consider not using Kaspersky (involuntary aid).
+* Consider not using Kaspersky (sad - seems to have been involuntary aid to Putin's people).
 * <a href="{{bank}}">Two-factor authenticated bank</a>.
 * <a href="{{rua}}">RandomUserAgent</a>: changes the device and browser you're reporting, at random. Sometimes breaks things.
 * Store a PGP key somewhere public (e.g. <a href="{{keybase}}">Keybase</a>): makes it possible to authenticate yourself without identifying documents. (Softening the blow of identity theft, preventing chronic lulz).
 * <a href="{{faraday}}">Faraday wallet</a> for phone and contactless card. Obviously this prevents all incoming calls too.
 * Life / work separation. Never shop at work, never work on your home computers. This makes two of you, with two different attacks (and sets of attacks) needed.
+* _Phone_: The iPhone's encryption has been defended in court against heavy pressure, but also subverted by <a href="{{israe}}">commercial tools</a>. The <a href="{{librem}}">Librem 5</a> will be better on many axes - hardware control, OS security, supply chain ethics - but is unlikely to do better in crypto.
 * Against reward hacking (that is, being distracted with push notifications and infinite feeds): Just don't have a smartphone, or keep it in your bag and use a dumbphone for interpersonal alerts. Also <a href="https://addons.mozilla.org/en-US/firefox/addon/impulse-blocker/">ImpulseBlocker</a>.
 
 <br>
