@@ -1,0 +1,9 @@
+{%    assign solstice = "https://secularsolstice.com/"		%}
+{%    assign grace = "https://meteuphoric.com/2017/12/31/16417/"	%}
+{%    assign xhope = "https://qz.com/1289425/existential-hope-is-the-website-the-world-needs/"		%}
+{%		assign fett = "https://en.wikipedia.org/wiki/Fetter_(Buddhism)"		%}
+{%		assign ioan = "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124"		%}
+{%		assign edlin = "https://statmodeling.stat.columbia.edu/2014/02/24/edlins-rule-routinely-scaling-published-estimates/"	%}
+{%		assign wwiii = "https://www.yogajournal.com/poses/warrior-iii-pose"		%}
+{%		assign prana = "https://en.wikipedia.org/wiki/Pranayama"		%}
+{%		assign chan = "https://buddhism.stackexchange.com/questions/23639/intellectualism-or-anti-intellectualism-and-buddhism"	%}
