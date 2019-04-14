@@ -2,7 +2,7 @@
 <div>	
 	* <i>Work</i>: Automating risk pricing models with Spark ML<br>
 	* <i>Work</i>: Building a summer internship programme <br>
-	* <i>Writing</i>: how utility theory explains the rationality of insurance <br>
+	* <i>Writing</i>: how utility theory explains the sometime rationality of insurance <br>
 	* <i>Learning</i>: constrained nonlinear optimisation, GLMs, Metropolis-Hastings. <br>
 	* <i>Exercise</i>: Per week - 60mi cycling for commute, 2hrs yoga, 1hr awesome home dumbbells.<br>
 	* <i>Experimentation</i>: Trying the <a href="https://queal.com/shop/flow/">Flow</a> stack, seeing if there's any effect besides the caffeine.<br>
