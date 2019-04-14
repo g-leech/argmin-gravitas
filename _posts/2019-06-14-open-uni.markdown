@@ -28,7 +28,7 @@ count:      1500
 </center>
 <br>
 
-Sometime in 2012, I realised that you can't do without maths for serious truth-seeking - and that I didn't know enough of it to do science, or even real data analysis. Nor did I have the confidence to <a href="{{auto}}">self-study</a>. What to do?
+Sometime in 2012, I realised that you can't do without maths for general impersonal truth-seeking - and that I didn't know enough of it to do science, or even real data analysis. Nor did I have the confidence to <a href="{{auto}}">self-study</a>. What to do?
 
 Maths is probably the best subject to learn online, because set problems can _always_ be cracked with sufficient thought, and because learning it _can't be done_ without lots of independent thought and silent focus anyway. <a href="#fn:1" id="fnref:1">1</a> And Britain has been doing cheap, high-class MOOCs for 50 years, in the form of the giant public <a href="{{ou}}">Open University</a>.
 
