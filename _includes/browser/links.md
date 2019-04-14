@@ -1,3 +1,5 @@
+{%		assign piholeImg = "/img/pi.png"		%}
+{%		assign attackImg = "/img/attack.jpg"	%}
 {%    assign xkey = "https://en.wikipedia.org/wiki/XKeyscore"       %}
 {%    assign ech = "https://en.wikipedia.org/wiki/ECHELON"         %}
 {%    assign fb = "https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy"  %}
@@ -10,6 +12,7 @@
 {%    assign chrome = "https://lifehacker.com/5763452/what-data-does-chrome-send-to-google-about-me"	%}
 {%    assign safari = "https://www.pcworld.com/article/250213/googles_safari_tracking_dilemma_reality_check.html"	%}
 {%    assign protonChrome = "https://old.reddit.com/r/ProtonMail/comments/9yl94k/never_connect_to_protonmail_using_chrome/"	%}
+{%    assign chromeCookies = "https://news.softpedia.com/news/chrome-69-does-not-delete-google-cookies-when-clearing-all-website-data-522884.shtml"		%}
 {%    assign pwned = "https://haveibeenpwned.com/PwnedWebsites" 		%}
 {%    assign kee = "https://www.keepassx.org/"	%}
 {%    assign offs = "https://en.wikipedia.org/wiki/Off-site_data_protection"		%}

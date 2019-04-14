@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/attack.jpg
 published:  true
 visible:    1
+best: 		1
 
 summary:    Passable browser security for almost no money or effort. Updated March '19.
 confidence: 95% that this is worth the time and better than nothing.
@@ -18,6 +19,7 @@ count:      1550
 ---
 
 {%  include browser/links.md  %}
+{%	include js/lazyFrame.html		%}
 
 <br>
 
@@ -27,10 +29,14 @@ It's not clear what the probability of having your password leaked in a breach /
 
 There is no absolute security; it's always partial and relative to a goal. This guide is aimed at "_not losing control of your accounts, not being surveilled by companies or criminals, not having your online banking subverted, not getting infected by ransomware or whatever_". It's strictly for people with average risks: not that much money, not much tech cred, not much sensitive information to protect.
 
+<center>
+	<div id="attackImg" style="width:50%"></div>
+	<small><i>"Wait, isn't that your own computer -"</i></small>
+</center><br>
 
 On a lighter note, security is an amazing way to learn about how the internet actually works. It's a lot easier to remember the <a href="{{tcpip}}">dozens</a> of abstract systems involved when you can think, smugly, "_And I've plugged that gap with this mitigation, and that one, and that one..._"
 
-Most of this article assumes you're using Firefox, because <a href="{{chrome}}">Chrome</a> <a href="https://blog.cryptographyengineering.com/2018/09/23/why-im-leaving-chrome/">is itself</a> <a href="{{protonChrome}}">an attack</a>. That is, it protects you very well against everyone except Google. <a href="#fn:2" id="fnref:2">2</a> It's not a big deal compared to the other parts of this list, you'll just need to find alternatives to the add-ons I recommend.
+Most of this article assumes you're using Firefox, <a href="{{chrome}}">because</a> <a href="{{chromeCookies}}">Chrome</a> <a href="https://blog.cryptographyengineering.com/2018/09/23/why-im-leaving-chrome/">is itself</a> <a href="{{protonChrome}}">an attack</a>. That is, it protects you very well against everyone except Google. <a href="#fn:2" id="fnref:2">2</a> It's not a big deal compared to the other parts of this list, you'll just need to find alternatives to the add-ons I recommend.
 
 <br>
 <hr />
@@ -111,7 +117,7 @@ I imagine everyone who will already has, but: consider quitting Facebook or <a h
 
 #### Attack: Ads
 
-This one is arguable: the current web economy couldn't exist without ads. My response is to precommit to using any micropayment solution that people can get to work. Also to actually buy things from creators I like. In the meantime no-one gets to spam me with gigabytes of unwanted content and follow me around.
+This one is arguable: the current web economy couldn't exist without ads. My response is to precommit to using any micropayment solution that people can get to work. Also to actually buy things from creators I like. In the meantime no-one gets to spam me with gigabytes of ugly unwanted content and follow me around.
 
 But besides being ugly, besides following you without your consent, they take your time. <a href="{{hulce}}">Two-thirds</a> of all script execution time is due to third-party scripts, mostly ads and trackers. My own network analytics say that 15% of all my requests are to ad servers. This is hours of your life per year. <a href="#fn:1" id="fnref:1">1</a>
 
@@ -119,8 +125,12 @@ Everyone knows <a href="{{abp}}">this solution</a>, but a better solution takes 
 
 <a href="{{troy}}">The best thing</a> to do against ads, at present, is a <a href="{{hole}}">Pi-hole</a>, a tiny DNS server in your house. This stops ads at the source, for every device in your house at once. You can get <a href="{{pi}}">a Raspberry Pi</a> for $30, and it takes about 30 mins to set up as a Pi-hole. 
 
-(Note that Chrome and Edge users _need_ DNS-level blocking like Pi-hole, since Google <a href="{{googblocked}}">is/was going to block</a> uBlock.)
+Another benefit of doing this at the router level is that it gives you a nice (rudimentary) network dashboard:
 
+<div id="piholeImg"></div><br>
+
+<!-- (Note that Chrome and Edge users _need_ DNS-level blocking like Pi-hole, since Google <a href="{{googblocked}}">is/was going to block</a> uBlock.)
+ -->
 Because the internet is a Red Queen hellscape, we should expect this to gradually stop working over the next few years. Ads can avoid a DNS block in <a href="{{hell}}">a variety of ways</a>, up to and including them implementing their own custom domain-over-HTTPS protocol. <i>La lotta continua.</i>
 
 
@@ -144,8 +154,7 @@ No <a href="{{who}}">whois</a> entry on your sites. People will try and charge y
 
 #### Attack: tracking over CDNs
 
-A new clever attack: identifying you by your repeat requests to a public Content Delivery Network. The add-on <a href="{{decentral}}">DecentralEyes</a> foils this by keeping a copy of commonly used files in your cache.
-
+A new clever attack: identifying you by your repeat requests to a public Content Delivery Network. This add-on <a href="{{decentral}}">DecentralEyes</a> foils this by keeping a copy of commonly-used files in your cache.
 
 <br>
 
@@ -154,7 +163,7 @@ A new clever attack: identifying you by your repeat requests to a public Content
 <br>
 
 <big>Total annual cost: $45 </big><br>
-	($40 VPN, $2 usb drive for your password DB	+ maybe <a href="{{piholeCost}}">$4</a> electricity for the Pi-hole.)
+($40 VPN, $2 usb drive for your password DB	+ maybe <a href="{{piholeCost}}">$4</a> electricity for the Pi-hole.)
 
 <br>
 
@@ -217,5 +226,16 @@ Note that you're not going to stop any nation-states except <a href="{{paranoia}
 <br><br>
 
 {%  include browser/foots.html %}
+
+
+
+
+<script>  
+	var src = "{{piholeImg}}";
+	definiteEvent( createImg, [src, "piholeImg"] ); 
+
+	var src = "{{attackImg}}";
+	definiteEvent( createImg, [src, "attackImg"] ); 
+</script>
 
 {%  include comments.html %}
