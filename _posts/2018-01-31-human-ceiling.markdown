@@ -53,6 +53,7 @@ This perhaps has implications for human expertise in general, by the following a
 
 <br><br>
 
-Regarding premise 4, <a href="{{kahn}}">Kahneman</a> has this to say:
+Regarding premise 4, <a href="{{ericsson}}">Ericsson</a> says learning occurs if people are "1) given a task with a well-defined goal, 2) motivated to improve, 3) provided with feedback, 4) provided with ample opportunities for repetition and gradual refinements of their performance"
+
 
 {%  include comments.html %}
