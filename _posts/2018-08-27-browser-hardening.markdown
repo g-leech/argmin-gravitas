@@ -145,6 +145,12 @@ Because the internet is a Red Queen hellscape, we should expect this to graduall
 
 Not a lot you can do, short of undertaking the 100-hour hell of runnning your own mail server. Try a Swiss company, e.g. <a href="{{proton}}">Protonmail</a> (they have no public data-sharing agreement with the <a href="{{five}}">Five Eyes</a> and constitutional protections for foreigners).
 
+Important caveat: you _really_ need to backup your Protonmail password well: If you lose it and reset, <a href="{{reset}}">you lose your email history</a>. This is the harsh nature of strong security.
+
+> Because of the encryption we use to protect your data, resetting your Login password in ProtonMail is different from other, less secure email services. Your password is used to decrypt your emails, and we do not have access to it. Therefore, if you forget your password, you will lose the ability to read your existing emails.
+
+PS: <a href="{{outlook}}">Hotmail and Outlook</a> have been a dumpster fire for many years.
+
 <br>
 
 #### Attack: deanonymisation
@@ -193,8 +199,9 @@ Still, lean toward avoiding others.
 
 ### More things you could do:
 
+* <a href="{{beginux}}">Get Linux</a> (<a href="{{linux}}">99</a>%+ of malware doesn't work on it, and there's strong prevention of state backdoors and 'security through obscurity' zero-days).
 * Turn off <a href="{{ff}}">these Firefox configs</a>.
-* Get Linux (<a href="{{linux}}">99</a>%+ of malware doesn't work on it, and there's strong prevention of state backdoors and 'security through obscurity' zero-days).
+* "Hacker tape" (putting a removable cover over your webcam) is a successful meme. Good for it! But an <a href="{{captivated}}">even more significant risk</a> is the <a href="{{mic}}">built-in mic</a>: your unguarded speech is a much more <i>high-res</i> thing to use against you. (Imagine your employer hearing you complain about them to your partner.) <a href="{{dummy}}">One solution</a> is leaving a 3.5mm jack plugged-in, with the wire trimmed off (and the wires taped-up separately to prevent a short circuit!) - but this is still software-mediated rather than hardware, and so could conceivably be bypassed.
 * Add an additional <a href="{{keyfile}}">keyfile</a> for Keepass, on a USB. This is too far for me. You'd want it <a href="{{sweden}}">attached to your body</a>.
 * <a href="{{tor}}">Tor</a>. Slow!
 * <a href="{{cvb}}">CanvasBlocker</a>: people can get a wee bit of identifying info from <a href="{{canvas}}">spying on</a> your GPU and screen specs.

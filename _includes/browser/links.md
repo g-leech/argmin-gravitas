@@ -87,3 +87,9 @@
 {% 		assign exfil = "https://addons.mozilla.org/addon/css-exfil-protection/"		%}
 {% 		assign israe = "https://www.reuters.com/article/us-apple-encryption-cellebrite-idUSKCN0WP17J"		%}
 {% 		assign librem = "https://puri.sm/products/librem-5/"		%}
+{% 		assign reset = "https://protonmail.com/support/knowledge-base/reset-password/"		%}
+{% 		assign outlook = "https://arstechnica.com/gadgets/2019/04/hackers-could-read-non-corporate-outlook-comhotmail-for-six-months/"	%}
+{% 		assign mic = "https://www.quora.com/Should-I-tape-over-my-laptop-camera"	%}
+{% 		assign captivated = "https://theintercept.com/2014/03/12/nsa-plans-infect-millions-computers-malware/"	%}
+{% 		assign dummy = "https://security.stackexchange.com/a/130402"		%}
+{% 		assign beginux = "https://www.pcworld.com/article/2918397/how-to-get-started-with-linux-a-beginners-guide.html"		%}
