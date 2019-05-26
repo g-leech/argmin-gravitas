@@ -9,3 +9,4 @@
 {%		assign chan = "https://buddhism.stackexchange.com/questions/23639/intellectualism-or-anti-intellectualism-and-buddhism"	%}
 {%		assign coch = "https://www.cochrane.org/search/site/yoga"		%}
 {%		assign woo = "https://sciencebasedmedicine.org/yoga-woo/"		%}
+{%		assign shav = "https://en.wikipedia.org/wiki/Shavasana"			%}
