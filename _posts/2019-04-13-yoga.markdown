@@ -22,33 +22,33 @@ Mindfulness is trendy in my social circle, as part of a wider attempt to psychol
 
 To my surprise I like yoga. (The hardish kind, 'ashtanga'.) I never regret going, and usually emerge with a clear head and a warm glow. Why?
 
-At some point I'd like to do a proper literature review on the <a href="{{coch}}">purported outcomes</a> of meditation and so on, with a suitable <a href="{{edlin}}">correction</a> for <a href="{{ioan}}">how bad</a> and inflated medical/psychological research is, but for now I just want to list hypotheses (in the manner of <a href="{{grace}}">this great post</a> by Katja Grace). <a href="#fn:1" id="fnref:1">1</a><br><br>
+At some point I'd like to do a proper literature review on the <a href="{{coch}}">purported outcomes</a> of yoga vs meditation and so on (with a suitable <a href="{{edlin}}">correction</a> for <a href="{{ioan}}">how bad</a> and inflated medical/psychological research is) but for now I just want to list hypotheses (in the manner of <a href="{{grace}}">this great post</a> by Katja Grace). <a href="#fn:1" id="fnref:1">1</a><br><br>
 
 
-1. <span class="b">Just endorphins</span>. It's resistance training of a kind, and so it produces the usual exercise high.<br><br>
-3. <span class="b">Stretching</span>: I don't stretch outside class. Maybe it's a de facto massage.<br><br>
+1. <span class="b">Just endorphins</span>. It's resistance training of a kind, so it produces the usual exercise high.<br><br>
+3. <span class="b">Stretching</span>: I don't stretch outside class. Maybe it's a _de facto_ massage.<br><br>
 2. <span class="b">Deep breathing</span>. 
 	* <i>Brute oxygenation</i>. Maybe I don't breathe enough in everyday situations.
-	* Most mindfulness gives <a href="{{prana}}">focussing on your breath</a> massive significance, as a way to occupy your stream of consciousness and sort of stop thinking (or stop identifying with your stream). As a <i>break</i> from thinking this seems plausibly good, but of course some strains of the source religion take it further and treat <a href="{{chan}}">thought and explanation as an enemy</a>. See hypothesis \#7.<br><br>
+	* Most mindfulness gives <a href="{{prana}}">focussing on your breath</a> massive significance, as a way to occupy your stream of consciousness and sort of stop thinking (or stop identifying with your stream). As a <i>break</i> from thinking this seems plausibly good, but of course some strains of the source religion take it further and treat <a href="{{chan}}">thought and explanation as an enemy</a>. See hypothesis \#6.<br><br>
 5. <span class="b">Giving up agency for an hour</span>: Maybe it's pleasant to do as you're told, to not make active decisions (in moderation!).<br><br>
 6. <span class="b">Focussing on concrete things</span>. For me, I think all of the supposedly therapeutic effect of not thinking comes from having to focus on moving carefully, from being actively distracted from my flywheel mind.<br><br>
-6. <span class="b">Corpse mode</span>: completely letting go of activity for 5 mins feels fantastic, though it doesn't work without the hour of strain. All exercise would probably produce great effects if it ended this way. (That's the <a href="{{shav}}">literal translation</a>, incidentally.)
-6. <span class="b">Group psychology</span>: Most people like doing things in a group.
+7. <span class="b">Corpse mode</span>: At the end of a session you completely let go for 5 whole mins. It feels fantastic (though it doesn't work without the preceding hour of strain). All exercise would probably produce great effects if it ended in this way. (That's the <a href="{{shav}}">literal translation</a>, incidentally.)<br>
+8. <span class="b">Group psychology</span>: Most people like doing things in a group.
 	* There's an aesthetic angle to doing things in unison, cf. choir singing.<br><br>
-7. <span class="b">Proprioception fun</span>: your eyes are closed for much of the time. Is it a pleasant challenge to move one's body without visual feedback and balancing?<br><br>
-4. <span class="b">Thought of being toned</span>: Usual optimism produced by physical activity.<br><br>
-8. <span class="b">Bare feet</span>: It's pleasant to take off my shoes.<br><br>
-9. <span class="b">Silliness</span>: I quite like silly things, and wobbling in <a href="{{wwiii}}">Warrior III</a> is silly.<br><br>
-10. <span class="b">Mystic decorations</span>: Maybe there's a guilty pleasure in listening to <a href="{{woo}}">woo</a> for once.
+9. <span class="b">Proprioception fun</span>: your eyes are closed for much of the time. Is it a pleasant challenge to move one's body without visual feedback and balancing?<br><br>
+10. <span class="b">Thought of being toned</span>: Usual optimism produced by physical activity.<br><br>
+11. <span class="b">Bare feet</span>: It's pleasant to take off my shoes.<br><br>
+12. <span class="b">Silliness</span>: I quite like silly things, and wobbling in <a href="{{wwiii}}">Warrior III</a> is silly.<br><br>
+13. <span class="b">Mystic decorations</span>: Maybe there's a guilty pleasure in listening to <a href="{{woo}}">woo</a> for once.<br>
 <!--  -->
-11. <span class="b">The company of women</span>. Gender split in my class is 9:1. This is a novelty, doesn't happen in any other part of my life. (Except choir.)
-11. Improved concentration. This could lead to insight or apparent insight into your stream of consciousness, how perception is really a real-time model of your surroundings.
-12. Improved body awareness / awareness of being an animal
-13. Improved mindfulness (though probably not if you're only doing it for an hour at a time)
+14. <span class="b">The company of women</span>. Gender split in my class is 9:1. This is a novelty, doesn't happen in any other part of my life. (Except choir.)<br>
+
+15. <span class="b">Improved concentration</span>. Insight or apparent insight into your stream of consciousness, how perception is really a real-time model of your surroundings.<br>
+16. <span class="b">Improved body awareness</span>. Awareness of being an animal
 
 <br>
 
-Most of these suggest their own tests naturally. You test (5) by doing your own thing, (6) by doing it alone, etc. The null hypothesis is that it's just (1), which you test by sitting still and trying not to think of anything. (I did. It wasn't nice.)
+Most of these suggest their own tests naturally. You test (5) by doing your own thing, (8) by doing it alone, etc. The null hypothesis is that it's just (1), which you test by sitting still and trying not to think of anything. (I did. It wasn't nice.)
 
 Even after we find out the active ingredients of the pleasantness, we still don't know that yoga improves e.g. cognition or mental health or productivity, except insofar as feeling good is constitutive of those. (Which it is to some degree.)
 
