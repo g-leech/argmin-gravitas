@@ -34,10 +34,13 @@ visible:	true
 	
 	{%	include about/favs.html	%}	
 	
+	{%	include about/misc.html	%}
+
 </div>
 
 
-{%		include about/foots.html	%}
+{%	include about/foots.html	%}
+
 
 
 <!-- If big screen, pad down the footer -->
