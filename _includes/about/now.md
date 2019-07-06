@@ -6,6 +6,6 @@
 	* <i>Exercise</i>: Per week - 60mi cycling for commute, 3hrs hard yoga, 1hr home dumbbells.<br>
 	* <i>Experimentation</i>: Sleep EEG at home. Planning a proper factorial analysis of supplements.<br>
 	* <i>People</i>: <a href="https://ealondon.com/events">EA London events</a>.<br>
-	* <i>Reading</i>: <a href="https://www.goodreads.com/review/list/68316850-gavin?shelf=currently-reading">Hirschman, Spiegelhalter, Soares.</a><br>
+	* <i>Reading</i>: <a href="https://www.goodreads.com/review/list/68316850-gavin?shelf=currently-reading">Joyce, Nostalgebraist, ISLR.</a><br>
 	* <i>Watching</i>: 'Evangelion' and 'The Office (US)'.
 </div>
