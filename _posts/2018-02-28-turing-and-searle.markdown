@@ -10,7 +10,7 @@ img:        /img/searle.jpg
 published:	1
 visible: 	1
 
-summary:    Elementary discussion of philosophy of mind with one original argument.
+summary:    Elementary philosophy of mind with one original argument.
 confidence:	75% because conclusion is wholly negative.
 categories: AI, philosophy
 warnings:	
@@ -23,7 +23,7 @@ count:		1000
 
 <br>
 
-The Turing test is sometimes portrayed as a proper <a href="https://en.wikipedia.org/wiki/Experimentum_crucis">crucial experiment</a> verifying the presence of intelligence - i.e. a sufficient condition for thought - and sometimes just as evidence for thought. But it was actually originally intended to _sidestep_ the question of whether machines can think: Turing deemed it “too meaningless for discussion.”<a href="#fn:1" id="fnref:1">1</a> His replacement question is:
+The Turing test is sometimes portrayed as a proper <a href="https://en.wikipedia.org/wiki/Experimentum_crucis">crucial experiment</a> verifying the presence of intelligence - i.e. a sufficient condition for thought - and sometimes just as evidence for thought. But it was actually originally intended to _sidestep_ the question of whether machines can think: Turing deemed that “too meaningless for discussion.”<a href="#fn:1" id="fnref:1">1</a> His replacement question is:
 
 > Is it possible for a finite-state digital computer, provided with a large... program, to provide responses to questions that would fool an unknowing interrogator into thinking it is a human being? 
 

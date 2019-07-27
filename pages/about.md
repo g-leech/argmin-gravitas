@@ -16,7 +16,7 @@ visible:	true
 	
     Technically <a href="{{ea}}">an EA blog</a>, though I don't consider this a blog. (Blogging is more speech than writing.)<br><br>
 
-	$10 to anyone who finds a factual or logical error in my posts. You can contact me by <a href="mailto:{{ site.email }}">email</a>, or anonymously <a href="{{Form}}">here</a>, or extremely privately (via PGP) <a href="{{pgp}}">here</a>.
+	$10 to anyone who finds a factual or logical error in my posts. Also, if I make a clear claim you want to bet against, get in touch for odds. You can contact me by <a href="mailto:{{ site.email }}">email</a>, or anonymously <a href="{{Form}}">here</a>, or extremely privately (via PGP) <a href="{{pgp}}">here</a>.
 	<br><br>
 </div>
 

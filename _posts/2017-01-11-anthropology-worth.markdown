@@ -80,6 +80,9 @@ Unscientific research (where scientific means could be fruitful) is just discred
     </div>
 </div>
 
+
+The first problem, beyond any of the totally speculative ideological effects, is its opportunity cost: people tend to wear only one hat, and wearing the cultural anthropology hat means they probably won't wear any of the fantastic, proven, world-changing hats.
+
 <br>
 
 ---
