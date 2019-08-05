@@ -30,3 +30,17 @@
 {%		assign bore = "https://en.wikipedia.org/wiki/Boreout"		%}
 {%		assign blow = "https://news.ycombinator.com/threads?id=jblow&next=7789438"		%}
 {%		assign marx = "https://en.m.wikipedia.org/wiki/Marx%27s_theory_of_alienation"		%}
+{%		assign wright = "https://mailchi.mp/f89989bbf9d1/mailinglist-473923"		%}
+{%		assign boy = "https://english.stackexchange.com/questions/35875/is-the-term-city-boy-a-commonly-used-appellation-for-london-bankers-does-it-o"		%}
+{%		assign performance = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.172.1733&rep=rep1&type=pdf"		%}
+{%		assign luu = "https://danluu.com/wat/"		%}
+{%		assign health = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2821100/"		%}
+{%		assign challenger = "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster"		%}
+{%		assign foone = "https://foone.wordpress.com/2019/02/14/normalization-of-deviance/"		%}
+{%		assign proof = "https://en.wikipedia.org/wiki/Social_proof"		%}
+{%		assign pollute = "https://www.huffpost.com/entry/the-grim-pollution-pictur_b_9266764?guccounter=1"	%}
+{%		assign cii = "https://www.cii.co.uk/fact-files/actuarial/basic-concepts-and-techniques-of-the-pricing-process/#fro"		%}
+{%		assign protected = "https://en.wikipedia.org/wiki/Protected_group"		%}
+{%		assign ogden = "https://www.intelligentinsurer.com/news/uk-insurers-hugely-disappointed-as-ogden-discount-rate-set-at-minus-0-25-18751"	%}
+{%		assign brex = "https://www.gov.uk/guidance/regulations-and-standards-after-brexit"		%}
+{%		assign drucker = "https://en.wikipedia.org/wiki/Peter_Drucker"		%}
