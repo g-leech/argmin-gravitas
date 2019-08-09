@@ -103,7 +103,7 @@ We know too little about suffering to act drastically according to merely intuit
 
 Even if it seems obvious that the physical pain of the dying man outweighs the satisfaction he gets from having his wishes respected, I don't have anything like warrant to act. Whether the benefit to him is pride in defying suffering, or in the <a href="{{halluc}}">deeply altered</a> <a href="{{dmt}}">states</a> involved is moot: absent deception, it is overwhelming evidence.
 
-My claim is that we don't even know the _sign_ of another person's valence, without their honest report.
+Call knowing something with enough confidence to do something prima facie bad as a result, _overknowing_. My claim is that we don't even overknow the _sign_ of another person's valence, without their honest report.
 
 (This might change a bit when welfare biology advances, giving us another source of evidence about the value of a state, but will never be countermanded unless we discover some <a href="{{pearce}}">far-out materialist theory</a> that lets us empirically measure the value of a conscious state.)
 
