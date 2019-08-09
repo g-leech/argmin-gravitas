@@ -10,7 +10,7 @@ img:        /img/psych/tick.png
 published:	true
 visible: 	1
 
-summary:    Dissolving a thought-experiment about consequentialism with basic uncertainty adjustments.
+summary:    Dissolving a thought-experiment about consequentialism.
 confidence:	80%. Surely not original.
 categories: 
 importance: 8
