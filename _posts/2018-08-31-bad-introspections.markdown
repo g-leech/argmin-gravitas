@@ -20,7 +20,9 @@ count:		800
 {%	include intro/links.md		%}
 
 
-A popular method for finding things out is introspection, first-person reflection on your current mental content. Many of the rankest falsehoods were born this way - from absurd religious dogmatism, to psychoanalytic fairytales, to everyday delusions about one's <a href="{{mot}}">motives</a> and <a href="{{pos}}">qualities</a>. But in the last decade, under the modest and retroactively scientific branding "mindfulness", <a href="{{mindful}}">it's been</a> rising again. As usual I'm suspicious. Knowledge comes from perception (sometimes), reason (sometimes), memory (sometimes), testimony (sometimes) - the contribution of this other thing is unclear. 
+A popular method for finding things out is introspection, first-person reflection on your current mental content. Many of the rankest falsehoods were born this way - from absurd religious dogmatism, to psychoanalytic fairytales, to everyday delusions about one's <a href="{{mot}}">motives</a> and <a href="{{pos}}">qualities</a>. It's my impression that it was driven out of mainstream intellectual life by the behaviourist pogrom against all subjectivity (~1930 - 1960). But <a href="{{mindful}}">it returned</a> in the last decade, under the modest and retroactively scientific branding "mindfulness". 
+
+As usual I'm suspicious. Knowledge comes from perception (sometimes), reason (sometimes), memory (sometimes), testimony (sometimes) - the contribution of this other thing is unclear. 
 
 <br>
 
