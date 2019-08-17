@@ -29,7 +29,7 @@ layout: default
         {% if page.importance %} <br>{{t}}<i>Importance</i>: {{  page.importance }} / 10{% endif %}
       	{% if page.warnings %} <br>{{t}}<i>Content notes</i>: {{	page.warnings	}}{% endif %}
         {% if page.count %}<br>{{t}}<i>Reading time</i>: About {{page.count | divided_by: 200 }} minutes.{% endif %}
-        {% if page.lw %} <br>{{t}}<a href="{{ page.lw }}">Cross-posted on LessWrong here</a>.{% endif %} 
+        {% if page.lw %} <br>{{t}}<a href="{{ page.lw }}">Cross-posted here</a>.{% endif %} 
       </p>
   	</header>
     <hr /><br>
