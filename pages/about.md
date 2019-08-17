@@ -12,7 +12,7 @@ visible:	true
 <div style="padding:20px">
 	I'm <a href="{{ "/cv.pdf" | prepend: site.url }}">Gavin</a>, an incoming PhD candidate in artificial intelligence at Bristol. I focus on <a href="{{debate}}">augmenting human oversight</a> over RL agents.
 
-	I write words and code about things - important things or, failing that, interesting things, or, failing that, boring true things. My favourite thing to write about <a href="{{sittler}}">is</a> <a href="{{cs}}">technical</a> <a href="{{gelman}}">solutions</a> <a href="{{welf}}">to</a> <a href="{{shminux}}">philosophical</a> <a href="{{comp1}}">problems</a>.<br><br>
+	I write words and code about important things or, failing that, interesting things, or, failing that, boring true things. My favourite topic is <a href="{{sittler}}">is</a> <a href="{{cs}}">technical</a> <a href="{{gelman}}">solutions</a> <a href="{{welf}}">to</a> <a href="{{shminux}}">philosophical</a> <a href="{{comp1}}">problems</a>.<br><br>
 	
     Technically <a href="{{ea}}">an EA blog</a>, though I don't consider this a blog. (Blogging is more speech than writing.)<br><br>
 

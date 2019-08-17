@@ -1,7 +1,10 @@
 <h3>Favourites</h3>
 <div>
 	<ul>
-		<li><a href="{{ "/favs/2018" | prepend: site.url }}">Media from 2018</a></li>
-		<li><a href="{{ "/favs/2019" | prepend: site.url }}">Media from 2019</a></li>
+		{% for i in (2015..2019) %}
+
+		<li><a href="https://www.gleech.org/favs/{{i}}">Media from {{i}}</a></li>
+
+		{% endfor %}
 	</ul>
 </div>
