@@ -19,12 +19,17 @@ count:		800
 
 {%	include intro/links.md		%}
 
+{%	assign homo = "https://en.wikipedia.org/wiki/Timeline_of_human_evolution#Homo"	%}
+{%	assign ax = "https://en.wikipedia.org/wiki/Axial_Age"		%}
+{%	assign germans = "https://en.wikipedia.org/wiki/Experimental_psychology#Early_experimental_psychology"		%}
 
-A popular method for finding things out is introspection, first-person reflection on your current mental content. Many of the rankest falsehoods were born this way - from absurd religious dogmatism, to psychoanalytic fairytales, to everyday delusions about one's <a href="{{mot}}">motives</a> and <a href="{{pos}}">qualities</a>. It's my impression that it was driven out of mainstream intellectual life by the behaviourist pogrom against all subjectivity (~1930 - 1960). But <a href="{{mindful}}">it returned</a> in the last decade, under the modest and retroactively scientific branding "mindfulness". 
+
+
+A popular method for finding things out is introspection, first-person reflection on your current mental content. Many of the rankest falsehoods were born this way - from absurd religious dogmatism, to psychoanalytic fairytales, to everyday delusions about one's <a href="{{mot}}">motives</a> and <a href="{{pos}}">qualities</a>. <a href="{{mindful}}">It has surged</a> in the last decade, under the modest and retroactively scientific branding "mindfulness". 
 
 As usual I'm suspicious. Knowledge comes from perception (sometimes), reason (sometimes), memory (sometimes), testimony (sometimes) - the contribution of this other thing is unclear. 
 
-<br>
+An apriori argument against introspection is that we've been introspecting for like <a href="{{homo}}">200,000 years</a> (or, properly, for <a href="{{ax}}">3,000</a>) and yet we didn't know very much about our minds until about <a href="{{germans}}">150 years</a> ago, when we started to use other methods. (Against this, you could separate out two goals for psychological work - _personal instrumental_ ones and _general scientific_ ones - and then argue that without introspection we'd have been even worse at the first goal, over our species' history.) <br><br>
 
 
 ### Bad kinds of introspection
@@ -43,11 +48,14 @@ As usual I'm suspicious. Knowledge comes from perception (sometimes), reason (so
 
 * **Inference to the unconscious mind**. e.g. People insist on trying to find deep truths about the unconscious mind via dream interpretation, expending lots of ingenuity on what might well be a semi-random <a href="{{dreemz}}">byproduct of long-term memory encoding</a>.  <br><br>
 * **Inference to latent identity**. It's now common to identify what you _feel like_ with what you are. This has <a href="{{gend}}">good</a> and <a href="{{other}}">bad</a> sides, but in general the idea of a personal essence (as opposed to a personal <a href="{{algo}}">family-resemblence</a> of contingent properties) is false, and might imply a bad epistemology. (False since you would be a different person if your circumstances changed, even as little as "who you are currently talking to".)<br><br>
+
+#### As waste
+
 * **Sitting with your eyes closed telling yourself you're not thinking**. Which much actual meditation probably is.
 
 <br>
 
-The common failure above is taking introspection too seriously. How seriously should we ever take it?<br><br>
+The common failure above is taking introspection too seriously. If you're doing it for fun or catharsis, and manage to prevent it leaking into your beliefs, then good for you. It's an art in fact - consider improv, freestyling, automatic writing, internal family systems. I'm only hostile to the epistemic side.<br><br>
 
 
 ### Phenomenology & mindfulness
@@ -64,7 +72,7 @@ Of course; consider what happens when you rate a film you just saw out of 5, or 
 
 The point is that what you get from introspection isn't truth, but raw data - data that may need tremendous processing (cross-referencing, explanation in evolutionary or personal terms, correction for known biases) to even on average increase your self-knowledge. And also that taking the measurement will alter the mental content, to a possibly useless degree.
 
-Rules of thumb might be: Don't take it literally; don't imagine you're in contact with your unconscious or your essence; don't generalise, even to your past or future _self_; use it as weak Bayesian evidence about the idea.
+Rules of thumb might be: Don't take it literally; don't imagine you're in contact with your unconscious or your essence; don't generalise, even to your past or future _self_; use it as at most weak Bayesian evidence about the idea.
 
 Justified uses for introspection, for me:
 
