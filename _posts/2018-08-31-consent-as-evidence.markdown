@@ -34,18 +34,17 @@ count:		1000
 
 A thought-experiment that shows a problem with naive utilitarianism:
 
-> Harry and Tom are soldiers on their way back from a mission deep in enemy territory, out of ammunition - when Tom steps in a trap set by the enemy. His leg is badly injured and caught in the trap. Harry cannot free him from this trap without killing him. However, if Harry leaves Tom behind, the enemy troops will find him and torture him to death. Tom begs Harry not to leave him behind to be cruelly tortured to death. Enemy troops are closing in on their position and it is not safe to remain with the trapped comrade any longer... <br><br> Tom pleads to Harry: "Please, don't kill me. I don't want to die out here in the field"<br><br> Should Harry stab Tom in the heart to prevent his suffering at the hands of the enemy?<br>
+> Harry and Tom are soldiers on their way back from a mission deep in enemy territory, out of ammunition - when Tom steps in a trap set by the enemy. His leg is badly injured and caught in the trap. Harry cannot free him from this trap without killing him. However, if Harry leaves Tom behind, the enemy troops will find him and torture him to death... Enemy troops are closing in on their position and it is not safe to remain with the trapped comrade any longer... <br><br> Tom pleads to Harry: "Please, don't kill me. I don't want to die out here in the field"<br><br> Should Harry stab Tom in the heart to prevent his suffering at the hands of the enemy?<br><a href="#fn:1" id="fnref:1">1</a>
 
-(modified from 'The Soldier's Dilemma' <a href="{{crockett}}">here</a>.)<br>
+<br>
 
-
-The point of it is: doesn't hedonic utilitarianism ignore consent in a perverse way? 
+Naively, Harry-as-Act-Hedonic-Utilitarian should kill Tom: he can't save him, so the choice is between \{a fast unpleasant death\} and \{a horribly slow unpleasant death\}. So the point is: doesn't hedonic utilitarianism perversely disregard consent?
 
 Two strong reasons it doesn't: <br>
 
-1. we really shouldn't have much confidence that our moral theory is the right one - and this implies giving some weight to other theories, particularly when they strongly conflict with yours. And this is enough to not kill Tom. 
+1. we really shouldn't have much confidence that _any_ moral theory of ours is the right one - and this implies giving weight to other theories, particularly when they strongly conflict with ours. This is enough to not kill Tom. 
 
-2. even on the object level, consent is very important to a hedonic utilitarian: it is the only strong, granular evidence we have about <a href="{{val}}">valence</a>. And this is also enough to not kill Tom.
+2. but even on the object level, consent is very important to a hedonic utilitarian: it is the only strong, granular evidence we have about <a href="{{val}}">valence</a>. This is also enough to not kill Tom.
 
 <br>
 
@@ -82,7 +81,7 @@ Maybe the rule "don't kill people against their will" is more than good enough t
 
 That consent is ignored by naive act hedonism is a main selling point of 'preference utilitarianism', the kind that maximises satisfied goals rather than raw feels. This is fine but is not an answer to the thought-experiment. 
 
-(Note that the main proponent of this view <a href="{{singer}}">has switched</a> to the hedonic view because of different edge cases.)
+(Note that the main proponent of this view <a href="{{singer}}">has switched</a> to the hedonic view because of more difficult edge cases.)
 
 <br>
 
@@ -105,11 +104,11 @@ The only hard reason I have to generalise my own situation-valence pairs to othe
 
 We know too little about suffering to act drastically according to merely intuitive external judgments of experience quality. 
 
-Even if it seems obvious that the physical pain of the dying man outweighs the satisfaction he gets from having his wishes respected, I don't have anything like warrant to act. Whether the benefit to him is pride in defying suffering, or in the <a href="{{halluc}}">deeply altered</a> <a href="{{dmt}}">states</a> involved is moot: absent deception, it is overwhelming evidence.
+Even if it seems obvious that the physical pain of the dying man outweighs the satisfaction he gets from having his wishes respected, I don't have anything like warrant to act. Whether the benefit to him is pride in defying suffering, or in the <a href="{{halluc}}">deeply altered</a> <a href="{{dmt}}">states</a> involved is moot: it is overwhelming evidence even accounting for the chance of Tom lying.
 
 Call knowing something with enough confidence to do something prima facie bad as a result, _overknowing_. My claim is that we don't even overknow the _sign_ of another person's valence, without their honest report.
 
-(This might change a bit when welfare biology advances, giving us another source of evidence about the value of a state, but will never be countermanded unless we discover some <a href="{{pearce}}">far-out materialist theory</a> that lets us empirically measure the value of a conscious state.)
+(This might change a bit when welfare biology advances, giving us another source of evidence about the value of a state, but it'll never be countermanded unless we discover some <a href="{{pearce}}">far-out materialist theory</a> that lets us empirically measure the value of a conscious state.)
 
 <br>
 
@@ -122,10 +121,25 @@ Call knowing something with enough confidence to do something prima facie bad as
 <!--  -->
 		<a href="{{benatar}}">David Benatar</a> argues an extreme version of this, that people are in fact much less happy than they honestly report, because of an adaptive "optimism bias", selected to make us resist suicide.<br><br>
 <!--  -->
-		I don't know what to make of this - it reminds me of <a href="{{frankish}}">illusionism</a> about consciousness, another cool position I literally cannot imagine being true - but all we need is to accept that the sufferer of a wound knows more about its intrinsic disvalue than I do.
+		I don't know what to make of this - it reminds me of <a href="{{frankish}}">illusionism</a> about consciousness, another cool position I literally cannot imagine being true - but in the present case all we need is to accept that the sufferer of a wound knows more about its intrinsic disvalue than I do.
 	</div>
 </div>
+{%  include comments.html %}
 
 <br> <br>
 
 _Thanks to Saulius Šimčikas and Jan Kulveit for conversations around this._
+
+
+
+<div class="footnotes">
+<ol>
+	<li class="footnote" id="fn:1">
+		(modified from 'The Soldier's Dilemma' <a href="{{crockett}}">here</a>.)
+	</li>
+</ol>
+</div>
+
+<br> <br>
+
+

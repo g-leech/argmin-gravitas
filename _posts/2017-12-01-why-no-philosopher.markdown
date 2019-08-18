@@ -127,7 +127,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 <!--  -->
 <!--  -->
 	<li>
-		<h4>philosophy as therapy for the human condition</h4>	
+		<h4>philosophy as therapy for the human condition</h4>
 	Another ancient view is that philosophy was good for your mental or spiritual health. For instance, it stops you fearing death, or envying others, or suffering as a result of misfortune. (And this is what "being philosophical about it" means.)
 	<br><br>
 <!--  -->
@@ -321,3 +321,4 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 <br><br>
 
 
+{%  include comments.html %}
