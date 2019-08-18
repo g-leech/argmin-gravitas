@@ -64,8 +64,8 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 <ul>
 <!--  -->
 	<li>
-		<b>philosopher as intellectual janitor: tidying concepts</b><br>
-	The standard rejoinder to the account of philosophy implied above is that philosophy is not about <i>adding</i> to a body of knowledge, but instead clarifying the concepts used in other bodies of knowledge. (<a href="{{midg}}">Mental plumbing</a>). This is how naturalist philosophers (must?) think of their role, e.g. WVO Quine: 
+		<h3>the philosopher as intellectual janitor</h3>
+	The standard rejoinder to the account of philosophy implied above is that philosophy is not about <i>adding</i> to a body of knowledge, but instead clarifying the concepts used in other bodies of knowledge. (<a href="{{midg}}">Mental plumbing</a>). This is how naturalist philosophers think of their role, e.g. WVO Quine: 
 	<br><br>
 <!--  -->
 	 <blockquote>
@@ -73,7 +73,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	 </blockquote>
 	<br>
 <!--  -->
-	Or of course Wittgenstein, the most radical janitor:
+	Or Wittgenstein, the radical janitor:
 	 "<i>In philosophy we are not laying foundations but tidying a room, in the process of which we have to touch everything a dozen times.</i>" 
 	<br><br>
 <!-- -->	 
@@ -83,7 +83,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 <!--  -->
 <!--  -->
 	<li>	
-		<b>philosophy as justification of belief and action</b><br>
+		<h3>philosophy as justification of belief and action</h3>
 	Maybe philosophy's job is giving a general "foundation" to what we do. That is, it doesn't discover new things, instead it provides pure rational backup for intuition or science. Descartes is the obvious example, though foundationalism remains extremely popular among philosophers and theologians:<br><br>
 	<blockquote>
 		Throughout my writings I have made it clear that my method imitates that of the architect. When an architect wants to build a house which is stable on ground where there is a sandy topsoil over underlying rock, or clay, or some other firm base, he begins by digging out a set of trenches from which he removes the sand, and anything resting on or mixed in with the sand, so that he can lay his foundations on firm soil. In the same way, I began by taking everything that was doubtful and throwing it out, like sand …
@@ -99,18 +99,18 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	<br><br>
 <!--  -->
 <!--  -->
-<li>
-	<b>philosophy as activity</b><br>
+	<li>
+		<h3>philosophy as activity</h3>
 	Another common one is that philosophy isn't a thing (e.g. a body of claims), but a process, which has idiosyncratic private value for each person who instantiates it. As Adorno has it: <br><br>
-	<blockquote>The crux is what <b>happens</b> in [philosophy], not any thesis or position... Essentially, therefore, philosophy is not expoundable. If it were, it would be superfluous...
+	<blockquote>The crux is what <span style="font-weight:bold">happens</span> in [philosophy], not any thesis or position... Essentially, therefore, philosophy is not expoundable. If it were, it would be superfluous...
 	</blockquote>
 <!--  -->
-(This <a href="{{grace}}">explains why we read so much old/obsolete work</a>: we're learning by demonstration!)
+	(This <a href="{{grace}}">explains why we read so much old/obsolete work</a>: we're learning by demonstration!)
 	<br><br>
 <!--  -->
 	<ul>
 	<li>
-		<b>philosophy as virtuous self-examination</b><br>
+		<h4>philosophy as virtuous self-examination</h4>
 	A <a href="{{delp}}">literally</a>  <a href="{{gnothi}}">classic</a>  view is that philosophy is the noble attempt to understand oneself and to rise thereby above the animals and your own mortality. And maybe this act is too personal to be a matter of facts and maxims, to be transmittable as mathematical theorems or biological taxonomies are. 
 	<!--  -->
 	Or, more recently, Alain de Botton:	<br><br>
@@ -127,7 +127,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 <!--  -->
 <!--  -->
 	<li>
-		<b>philosophy as therapy for the human condition</b>	<br>
+		<h4>philosophy as therapy for the human condition</h4>	
 	Another ancient view is that philosophy was good for your mental or spiritual health. For instance, it stops you fearing death, or envying others, or suffering as a result of misfortune. (And this is what "being philosophical about it" means.)
 	<br><br>
 <!--  -->
@@ -152,8 +152,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	</ul>
 <!--  -->
 <!--  -->
-	<li><b>philosophy as <a href="{{sss}}">state space search</a> over coherent worldviews</b>
-	<br>
+	<li><h3>philosophy as <a href="{{sss}}">state space search</a> over coherent worldviews</h3>
 	Maybe philosophy doesn't have to answer questions to be useful. We can read Cicero's ancient diss:
 	<br><br><blockquote>
 		There is nothing so absurd that it has not been said by some philosopher.
@@ -177,7 +176,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 <!-- 	 -->
 <!--  -->
 	<li>
-		<b>what about <a href="{{xphi}}">experimental philosophy</a> ?</b> <br>
+		<h3>what about <a href="{{xphi}}">experimental philosophy</a> ?</h3> 
 <!--  -->
 	They've got the right idea: they don't rely solely on intuition and deduction. Millions of intelligent words have been wasted because no one thought to check up on the core 'justification': the word "intuitively..." that pops up in the middle of the paper. 
 	<br><br>
@@ -194,7 +193,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 <!--  -->
 <!--  -->
 	<li>
-		<b>what about logic?</b> <br>
+		<h3>what about logic?</h3> 
 	The logic department get a lot of objective, objectively important stuff done. And there are <a href="{{fpis}}">other formalised subfields</a>  with similarly undeniable achievements.
 	<br><br>
 <!--  -->
@@ -205,7 +204,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	<br><br>
 <!--  -->
 <!--  -->
-	<li><b>philosophy as improving us for other enquiry</b><br>
+	<li><h3>philosophy as improving us for other enquiry</h3>
 	Bertrand Russell: <br><br>
 	<blockquote>
 	   "Philosophy is to be studied, not for the sake of any definite answers to its questions since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves; because these questions enlarge our conception of what is possible, enrich our intellectual imagination and diminish the dogmatic assurance which closes the mind against speculation." <br>
@@ -219,7 +218,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 <!--  -->
 <!--  -->
 	<li>
-		<b>philosophy as improving our view of what the world <i>should</i> be</b> <br>
+		<h3>philosophy as improving our view of what the world <i>should</i> be</h3>
 	Some ethical philosophies don't aim at discovering truths, and yet (a handful of) ethicists have improved the world greatly, via improving our view of what the world should be. This seems to me to have been mostly practical ethics - less "what are the principles of good and evil?" than "is it ok to be gay?", "is it ok to lock up and torment nonhuman animals?", "do we have responsibilities towards future people?" but <a href="{{jez}}">some</a> <a href="{{mill}}">great</a> <a href="{{will}}">theorists</a> are also great practitioners and activists.	<br><br>
 <!--  -->
 	Yes: there has been moral progress, and some of this is due to philosophy. (I know this, because I am a data point. 
@@ -232,7 +231,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 <!--  -->
 <!--  -->
 	<li>
-		<b>philosophy as about truth - we just haven't had enough time</b>	<br>
+		<h3>philosophy as about truth - we just haven't had enough time</h3>
 	There are <a href="{{greg}}">hundreds of times more</a>  philosophers working now than in past eras, and they can read and argue far more widely than those before them. We <i>could</i> see progress from this ten-thousand-fold increase in labour and networking. Greg Lewis notes that we should expect the greatest philosopher ever to be alive today, simply on statistical grounds: there are many more people alive and no reason to think that the culture or genes of e.g. Ancient Greece was inherently superior. 
 	<br><br>
 <!--  -->
@@ -247,7 +246,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 <!--  -->
 <!--  -->
 	<li>
-		<b>philosophy as defence against unavoidable philosophy</b>
+		<h3>philosophy as defence against unavoidable philosophy</h3>
 	<br>
 	Maybe you either do philosophy explicitly, or get pwned by a bad (or anyway unvetted) philosophy. Maybe we need philosophy to undo the damage of bad philosophy, to rid ourselves of philosophical delusions. As Wittgenstein puts it: <br><br>
 	<blockquote>
@@ -265,7 +264,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 <!--  -->
 <!--  -->
 	<li>
-		<b>philosophy as fun</b>	<br>
+		<h3>philosophy as fun</h3>
 	What if I just really like it? Like Hume: <br><br>
 	<blockquote>
 	   I cannot forbear having a curiosity to be acquainted with the principles of moral good and evil, the nature and foundation of government, and the cause of those several passions and inclinations, which actuate and govern me... I feel an ambition to arise in me of contributing to the instruction of mankind, and of acquiring a name by my inventions and discoveries. These sentiments spring up naturally in my present disposition; and should I endeavour to banish them by attaching myself to any other business or diversion, I feel I should be a loser in point of pleasure; and this is the origin of my philosophy. 
@@ -280,7 +279,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 <!--  -->
 <!--  -->
 	<li>
-		<b>the present work's sceptical empiricism as philosophy</b><br><br>
+		<h3>the present work's sceptical empiricism as philosophy</h3>
 	<center>
 		<blockquote>
 			To mock philosophy is to be a true philosopher.
@@ -289,15 +288,19 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	</center>
 	<br>
 <!--  -->
-	Isn't this essay a work of (meta)philosophy, and am I not drawing serious, useful inferences from it - to go do something else? Well, induction <a href="{{indu}}">tends</a> to be used in science, not philosophy. But I grant you that generalising hastily, like I have, is characteristic of philosophy. 
+	Isn't this essay a work of (meta)philosophy, and am I not drawing serious, useful inferences from it - "to go do something else"? Well, induction <a href="{{indu}}">tends</a> to be used in science, not philosophy. But I grant you that generalising hastily, like I have, is characteristic of philosophy. 
 	</li>
 
 </ul> 
-<br><br>
-
 </li></ul>
 
-Since my list of caveats is forty times longer than my original point, I must concede: obviously I am an amateur philosopher after all. But not first.
+<br><br>
+
+<hr />
+
+<br><br>
+
+Since my list of caveats is forty times longer than my original point, obviously I am an amateur philosopher after all. But not first.
 
 
 <br>
@@ -311,11 +314,7 @@ Since my list of caveats is forty times longer than my original point, I must co
 	</div>
 </div>
 
-<br>
- 
----
-
-<br>
+<br><br>
    
 _Dedicated to the University of Aberdeen, who in a 6 year period either fired, lost, or pushed out of teaching all but one of the excellent philosophers who taught me_: Gerald, Joe, Bob, Gerry, Guido, Nate, Tony, Catherine, Crispin, Grant, Russell, Aidan, Dylan, Aaron, Filippo, Francesco. 
 

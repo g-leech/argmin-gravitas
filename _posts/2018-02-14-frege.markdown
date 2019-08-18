@@ -23,7 +23,7 @@ count:		3698
 
 <br>
 
-This is a brief and uncritical précis of Frege's <i><a href="{{grundlagen}}">Foundations of Arithmetic</a></i> (1884) and environs. I say uncritical, but inevitably it includes the irrevocable bane of his project, <a href="{{paradox}}">Russell’s Paradox</a>. 
+Let's quickly dress down Frege's <i><a href="{{grundlagen}}">Foundations of Arithmetic</a></i> (1884). Like all discussions of the great work, we include its bane, <a href="{{paradox}}">Russell’s Paradox</a>. 
 
 Logicism is interesting because it marks the exact boundary between philosophy and mathematics, two things which otherwise shade into each other. (Or: which post-C19th analytic philosophy tries to shade into each other.) Even though it fails, and even though the rest of his philosophy is not particularly convincing to me, it's a good-faith and enlightening thing to study. 
 
