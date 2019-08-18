@@ -34,9 +34,9 @@ count:		1000
 
 A thought-experiment that shows a problem with naive utilitarianism:
 
-> Harry and Tom are soldiers on their way back from a mission deep in enemy territory, out of ammunition - when Tom steps in a trap set by the enemy. His leg is badly injured and caught in the trap. Harry cannot free him from this trap without killing him. However, if Harry leaves Tom behind, the enemy troops will find him and torture him to death. Tom begs Harry not to leave him behind to be cruelly tortured to death. The enemy troops are closing in on their position and it is not safe for Harry or his men to remain with the trapped comrade any longer... <br><br> Tom pleads to Harry: "Please, don't kill me. I don't want to die out here in the field"<br><br> Should Harry stab Tom in the heart to prevent his suffering at the hands of the enemy?
+> Harry and Tom are soldiers on their way back from a mission deep in enemy territory, out of ammunition - when Tom steps in a trap set by the enemy. His leg is badly injured and caught in the trap. Harry cannot free him from this trap without killing him. However, if Harry leaves Tom behind, the enemy troops will find him and torture him to death. Tom begs Harry not to leave him behind to be cruelly tortured to death. Enemy troops are closing in on their position and it is not safe to remain with the trapped comrade any longer... <br><br> Tom pleads to Harry: "Please, don't kill me. I don't want to die out here in the field"<br><br> Should Harry stab Tom in the heart to prevent his suffering at the hands of the enemy?<br>
 
-(modified from 'The Soldier's Dilemma' <a href="{{crockett}}">here</a>.)<br><br>
+(modified from 'The Soldier's Dilemma' <a href="{{crockett}}">here</a>.)<br>
 
 
 The point of it is: doesn't hedonic utilitarianism ignore consent in a perverse way? 
@@ -49,12 +49,16 @@ Two strong reasons it doesn't: <br>
 
 <br>
 
+---
+
+<br>
+
 I'll elaborate on that, but first some other answers:<br><br>
 
 
 #### 1. Appeal to downstream harm
 
-A weak response is that you'll make utilitarianism look really bad if it gets out. But we can stipulate this away in a thought-experiment.
+A weak response is that you'll make utilitarianism look really bad if it gets out, which we can expect to have larger bad effects. But we can stipulate this away in a thought-experiment.
 
 (Anyway, people are really good at making viewpoints they don't like look bad, even without actual cases.)
 

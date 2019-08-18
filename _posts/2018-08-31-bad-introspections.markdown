@@ -29,7 +29,7 @@ A popular method for finding things out is introspection, first-person reflectio
 
 As usual I'm suspicious. Knowledge comes from perception (sometimes), reason (sometimes), memory (sometimes), testimony (sometimes) - the contribution of this other thing is unclear. 
 
-An apriori argument against introspection is that we've been introspecting for like <a href="{{homo}}">200,000 years</a> (or, properly, for <a href="{{ax}}">3,000</a>) and yet we didn't know very much about our minds until about <a href="{{germans}}">150 years</a> ago, when we started to use other methods. (Against this, you could separate out two goals for psychological work - _personal instrumental_ ones and _general scientific_ ones - and then argue that without introspection we'd have been even worse at the first goal, over our species' history.) <br><br>
+An empirical argument against introspection is that we've been introspecting for like <a href="{{homo}}">200,000 years</a> (or, properly, for <a href="{{ax}}">3,000</a>) and yet we didn't know very much about our minds until about <a href="{{germans}}">150 years</a> ago, when we started to use other methods. (Against this, you could separate out two goals for psychological work - _personal instrumental_ ones and _general scientific_ ones - and then argue that without introspection we'd have been even worse at the first goal, over our species' history.) <br><br>
 
 
 ### Bad kinds of introspection
