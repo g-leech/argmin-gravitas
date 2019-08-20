@@ -23,6 +23,11 @@ count:		800
 {%	assign ax = "https://en.wikipedia.org/wiki/Axial_Age"		%}
 {%	assign germans = "https://en.wikipedia.org/wiki/Experimental_psychology#Early_experimental_psychology"		%}
 
+<style type="text/css">
+	.b {
+		font-weight: bold;
+	}
+</style>
 
 
 A popular method for finding things out is introspection, first-person reflection on your current mental content. Many of the rankest falsehoods were born this way - from absurd religious dogmatism, to psychoanalytic fairytales, to everyday delusions about one's <a href="{{mot}}">motives</a> and <a href="{{pos}}">qualities</a>. <a href="{{mindful}}">It has surged</a> in the last decade, under the modest and retroactively scientific branding "mindfulness". 
@@ -37,21 +42,21 @@ An empirical argument against introspection is that we've been introspecting for
 
 #### As backdoor to objective reality
 
-* **Revelation or kashf**. <a href="{{mig}}">Mistaking a</a> <a href="{{entheo}}">hallucination</a> for contact with ultimate reality.<br><br>
-* **Self-evident inference**. e.g. Descartes has this regrettable habit of leaping from "clear and distinct" (inconceivably-false) ideas to big synthetic claims. He thought he could establish the existence of God by <a href="{{descart}}">just noticing</a> that he has an idea of god, a perfect thing.<br><br>
-* **Inference to one's past**. If you use your current feelings as evidence for surprising claims about your distant past. e.g. From introspective things that <a href="{{anna}}">a patient</a> told someone else, Freud inferred that her serious respiratory/neurological illness was _caused_ by her resenting her father for his terminal illness. The history of psychoanalysis (cold-reading) from this <a href="{{anna}}">Patient Zero</a> on is full of this kind of thing, but the worst single event in it is maybe the <a href="{{falsem}}">lingering</a> false memory craze of the 90s, which harmed thousands of people by leading them to make horrible mistakes about their early childhood, based on Freud's false ideas about repression. (To what extent is predatory/collaborative delusion even introspection? I don't know.)<br><br>
-* **Inference to deep time**. Jung's idea of the <a href="{{jung}}">collective unconscious</a> is a mashup of a scientific hypothesis ("humans all share the following specific ideas as a result of our common ancestry") and a completely mad telepathic <a href="{{mono}}">world-mind thing</a>. Something like this might be possible - just not with this little data, or this method, or this investigator, or this entire worldview.
+* <span class="b">Revelation or kashf</span>.<br> <a href="{{mig}}">Mistaking a</a> <a href="{{entheo}}">hallucination</a> for contact with ultimate reality.<br><br>
+* <span class="b">Self-evident inference</span> <br>e.g. Descartes has this regrettable habit of leaping from "clear and distinct" (inconceivably-false) ideas to big synthetic claims. He thought he could establish the existence of God by <a href="{{descart}}">just noticing</a> that he has an idea of god, a perfect thing.<br><br>
+* <span class="b">Inference to one's past</span> <br>If you use your current feelings as evidence for surprising claims about your distant past. e.g. From introspective things that <a href="{{anna}}">a patient</a> told someone else, Freud inferred that her serious respiratory/neurological illness was _caused_ by her resenting her father for his terminal illness. The history of psychoanalysis (cold-reading) from this <a href="{{anna}}">Patient Zero</a> on is full of this kind of thing, but the worst single event in it is maybe the <a href="{{falsem}}">lingering</a> false memory craze of the 90s, which harmed thousands of people by leading them to make horrible mistakes about their early childhood, based on Freud's false ideas about repression. (To what extent is predatory/collaborative delusion even introspection? I don't know.)<br><br>
+* <span class="b">Inference to deep time</span> <br>Jung's idea of the <a href="{{jung}}">collective unconscious</a> is a mashup of a scientific hypothesis ("humans all share the following specific ideas as a result of our common ancestry") and a completely mad telepathic <a href="{{mono}}">world-mind thing</a>. Something like this might be possible - just not with this little data, or this method, or this investigator, or this entire worldview.
 
 <br>
 
 #### As backdoor to subjective reality
 
-* **Inference to the unconscious mind**. e.g. People insist on trying to find deep truths about the unconscious mind via dream interpretation, expending lots of ingenuity on what might well be a semi-random <a href="{{dreemz}}">byproduct of long-term memory encoding</a>.  <br><br>
-* **Inference to latent identity**. It's now common to identify what you _feel like_ with what you are. This has <a href="{{gend}}">good</a> and <a href="{{other}}">bad</a> sides, but in general the idea of a personal essence (as opposed to a personal <a href="{{algo}}">family-resemblence</a> of contingent properties) is false, and might imply a bad epistemology. (False since you would be a different person if your circumstances changed, even as little as "who you are currently talking to".)<br><br>
+* <span class="b">Inference to the unconscious mind</span> <br>e.g. People insist on trying to find deep truths about the unconscious mind via dream interpretation, expending lots of ingenuity on what might well be a semi-random <a href="{{dreemz}}">byproduct of long-term memory encoding</a>.  <br><br>
+* <span class="b">Inference to latent identity</span> <br>It's now common to identify what you _feel like_ with what you are. This has <a href="{{gend}}">good</a> and <a href="{{other}}">bad</a> sides, but in general the idea of a personal essence (as opposed to a personal <a href="{{algo}}">family-resemblence</a> of contingent properties) is false, and might imply a bad epistemology. (False since you would be a different person if your circumstances changed, even as little as "who you are currently talking to".)<br><br>
 
 #### As waste
 
-* **Sitting with your eyes closed telling yourself you're not thinking**. Which much actual meditation probably is.
+* <span class="b">Sitting with your eyes closed telling yourself you're not thinking</span>.<br> Which much actual meditation probably is.
 
 <br>
 
@@ -60,7 +65,9 @@ The common failure above is taking introspection too seriously. If you're doing 
 
 ### Phenomenology & mindfulness
 
-Phenomenology is a sort of philosophy that focusses on introspecting 'structures', facts about consciousness. (To me, philosophy is the impersonal attempt to be maximally pedantic, but who knows, maybe it pays to be pedantic about subjective experience.) Mindfulness is sanitised religious contemplation. I don't know very much about either, but <a href="{{chap}}">some normally</a> <a href="{{kaj}}">critical people</a> I admire think they are _very_ good, so they might not be bad introspections.
+Phenomenology is a sort of philosophy that focusses on introspecting 'structures', facts about consciousness. (I am frustrated that I can't find a list of facts that they claim to have found, in their century of striving, but not surprised.) This is as opposed to <a href="{{psyphy}}">psychophysics</a>, the cool quantitative study of stimuli and their mental results. To me, philosophy is the impersonal attempt to be maximally pedantic, but who knows, maybe it pays to be pedantic about subjective experience.<br>
+
+Mindfulness is sanitised religious contemplation. (Then there's 'Focussing'.) I don't know very much about either, but <a href="{{chap}}">some normally</a> <a href="{{kaj}}">critical people</a> I admire think they are _very_ good, so they might not be bad introspections.
 
 <br>
 
@@ -78,11 +85,9 @@ Justified uses for introspection, for me:
 
 * _Belief propagation_. It seems to help with aligning different parts of the mind, for instance getting my <a href="{{system}}">automatic and explicit</a> circuits to pass information. Often a premise will change ("System 2"), without the intuitive associations changing ("System 1"). (Though I endorse resisting the inverse changes, where your feelings determine a belief.)<br><br>
 * _Hypothesis generation_. If you don't know what's wrong it is obviously helpful to get ideas from an entangled source.<br><br>
+* _Aid to debiasing_. Noticing is moving things from the periphery of your attention into consciousness, where you can evaluate it. For instance, people often don't "notice" their own current emotional state in this sense, but that's vital information if you're trying to be rational - if you're feeling threatened by a person or a topic, you're primed to reject arguments around it. Cue to double-check your reasoning, or to revisit later, once you've calmed down.<br><br>
 * _Emotional processing_. I don't know how or <a href="{{rumi}}">when</a> thinking about things makes you feel better. But it usually works for me.<br><br>
 * _Pretext for deep conversations_. I've done a few of these kind of workshops, and every single time I meet really interesting people where they're there to open up.
-
-
-
 
 
 <br><br>

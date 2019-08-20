@@ -16,3 +16,4 @@
 {%	assign gend = "https://en.wikipedia.org/wiki/Transgender_rights"		%}
 {%	assign chap = "https://meaningness.com/"		%}
 {%	assign kaj = "https://kajsotala.fi/2017/11/meditation-and-mental-space/"		%}
+{%	assign psyphy = "https://en.wikipedia.org/wiki/Psychophysics"		%}

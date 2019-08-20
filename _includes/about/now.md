@@ -2,7 +2,7 @@
 <div>	
 	* <i>Work</i>: Funemployment!<br><br>
 	* <i>Writing</i>: how utility theory explains the sometime rationality of insurance <br><br>
-	* <i>Learning</i>: discrete maths, computational logic, GOFAI and deep learning. Waiting on the new Russell & Norvig.<br><br>
+	* <i>Learning</i>: discrete maths, computational logic, deep learning maths. Waiting on the new Russell & Norvig.<br><br>
 	* <i>Exercise</i>: Per week - 3hrs hard yoga, 4hrs home dumbbells.<br><br>
 	* <i>Experimentation</i>: Sleep EEG at home. Proper factorial analysis of supplements.<br><br>
 	* <i>People</i>: the Czech rationalists, <a href="https://ealondon.com/events">EA London events</a>.<br><br>
