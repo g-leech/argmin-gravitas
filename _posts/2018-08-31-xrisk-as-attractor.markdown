@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Existential risk as common cause"
-baselink:   /x-for-all
-permalink:  /x-for-all
+baselink:   /x
+permalink:  /x
 date:       2018-10-17
 author:     Gavin
 
@@ -14,7 +14,7 @@ best:		1
 summary:    Why many different worldviews should prioritise reducing existential risk.
 confidence:	70%.
 categories: x-risk
-importance: 9
+importance: 10
 count: 		1000
 lw:			https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause
 ---
