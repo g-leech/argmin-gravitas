@@ -3,7 +3,7 @@ layout:     math_post
 title:      "Insurance isn't necessarily a scam"
 baselink:   /insurance
 permalink:  /insurance
-date:       2019-08-21
+date:       2019-08-20
 author:     Gavin
 
 img:        /img/ins.jpg
