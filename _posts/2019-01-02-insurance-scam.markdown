@@ -12,7 +12,7 @@ visible:    1
 
 summary:    Two arguments against consuming insurance, and where they fail.
 categories: utility theory, rationality, finance
-confidence: 70%. Some details fuzzy.
+confidence: 80%. Some details fuzzy.
 importance: 5
 warnings:   Past conflict - I used to work in insurance.
 count:      2000
@@ -56,7 +56,7 @@ This has two things wrong with it: one nonfatal, and one fatal but slightly arca
 {%  include insurance/clar.html %}
 
 
-The real objection is that _humans are more complicated than that_. In particular, premise (5) obscures a fundamental fact about us: our utility is nonlinear, losses can hurt more than equal-sized gains, and uncertainty about losses is itself unpleasant. 
+The real objection is that _humans are more complicated than that_. In particular, premise (5) obscures a fundamental fact about us: our utility is nonlinear, losses can hurt more than equal-sized gains delight, and uncertainty about losses is itself unpleasant. 
 <br><br>
 
 ### Diminishing marginal utility
