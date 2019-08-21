@@ -56,7 +56,7 @@ An empirical argument against introspection is that we've been introspecting for
 
 #### As waste
 
-* <span class="b">Sitting with your eyes closed telling yourself you're not thinking</span>.<br> Which much actual meditation probably is.
+* <span class="b">Sitting with your eyes closed telling yourself you're not thinking</span>.<br> Which is what many 'meditation' sessions probably are.
 
 <br>
 
