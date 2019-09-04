@@ -109,9 +109,9 @@ This is a classic modelling mistake: to maximise <i>x</i> rather than <i>U(x)</i
 
 ### Risk aversion: uncertainty hurts
 
-Some people are willing to lose a bit to "buy peace of mind", i.e. a fixed cost <i>x</i> is preferred to a random cost with expected value, <i>E(θ) = x</i> (weak risk aversion), and will perhaps even pay a bit more to take the fixed cost. 
+Some people are willing to lose a bit to "buy peace of mind", i.e. they prefer a fixed cost <i>x</i> to a random cost with the same expected value, <i>E(θ) = x</i>. That's weak risk aversion, and people often act under a stronger version, paying a bit more to take a fixed cost, reducing their uncertainty. 
 
-(This is the origin of "premium": the risk premium is the extra someone is willing to pay to mitigate a risk, over the expected value. Note that the natural usage "premium" is something else...) 
+(This is the origin of "premium": the risk premium is the extra someone is willing to pay to mitigate a risk, over the expected value. The natural usage of "premium" is something else though...) 
 
 (NB: In utility theory this is the _same_ phenomenon as DMU, in the sense of being implied by the same shape of utility function. But it's psychologically distinct from the love of novelty in consumption, and I'm trying to stay close to psychological facts for <a href="#not_functions">these reasons</a>.)
 <br><br>
@@ -133,7 +133,7 @@ People often prefer to avoid losing £x more than they prefer to gain £x. This 
 
 ### How literally can we take this 'function' stuff?
 
-Strictly speaking, the above is at best a useful fiction, because <a href="{{gelman}}">we don't have</a> <a href="{{lw}}">"a" utility function</a>: humans aren't consistent enough to be described by a single payoff curve, or any specifiable set of curves - what we value depends on what mood we're in, which depends on a host of chemical and <a href="{{quarter}}">accidental</a> factors; and we often <i>don't know</i> what we like (or more: don't even <i>have</i> a preference) until we are made to choose things. So we violate the <a href="{{vnm}}">conditions</a> of utility theory. Utility theory is a nice neat mathematical object. Humans are mostly buzzing blooming confusions. <a href="#fn:9" id="fnref:9">9</a> <br>
+Strictly speaking, the above is at best a useful fiction, because <a href="{{gelman}}">we don't have</a> <a href="{{lw}}">"a" utility function</a>: humans aren't consistent enough to be described by a single payoff curve, or any specifiable set of curves - what we value depends on what mood we're in, which depends on a host of chemical and <a href="{{quarter}}">accidental</a> factors; and we often <i>don't know</i> what we like (or more: don't even <i>have</i> a preference) until we are made to choose things. So we violate the <a href="{{vnm}}">conditions</a> of utility theory. Utility theory is a nice neat mathematical object.<a href="#fn:10" id="fnref:10">10</a> Humans are mostly buzzing blooming confusions. <a href="#fn:9" id="fnref:9">9</a> <br>
 
 Functions are an analogy for the (fairly solid) psychological regularities involved, not to make big claims about human simplicity. One useful part of the 'function' analogy is normative: utility theory reminds us that preferences <i>should be</i> commensurate, if you don't want to <a href="{{pumped}}">lose</a> <a href="{{dutch}}">systematically</a>. 
 <br><br>
