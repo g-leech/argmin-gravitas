@@ -19,9 +19,6 @@ count:		800
 
 {%	include intro/links.md		%}
 
-{%	assign homo = "https://en.wikipedia.org/wiki/Timeline_of_human_evolution#Homo"	%}
-{%	assign ax = "https://en.wikipedia.org/wiki/Axial_Age"		%}
-{%	assign germans = "https://en.wikipedia.org/wiki/Experimental_psychology#Early_experimental_psychology"		%}
 
 <style type="text/css">
 	.b {
@@ -65,9 +62,11 @@ The common failure above is taking introspection too seriously. If you're doing 
 
 ### Phenomenology & mindfulness
 
-Phenomenology is a sort of philosophy that focusses on introspecting 'structures', facts about consciousness. (I am frustrated that I can't find a list of facts that they claim to have found, in their century of striving, but not surprised.) This is as opposed to <a href="{{psyphy}}">psychophysics</a>, the cool quantitative study of stimuli and their mental results. To me, philosophy is the impersonal attempt to be maximally pedantic, but who knows, maybe it pays to be pedantic about subjective experience.<br>
+Phenomenology is a sort of philosophy that focusses on introspecting 'structures', facts about consciousness. (I am frustrated that I can't find a list of facts they claim to have found, in their century of striving, but not surprised.) This is as opposed to <a href="{{psyphy}}">psychophysics</a>, the cool quantitative study of stimuli and their mental results. To me, philosophy is the impersonal attempt to be maximally pedantic, but who knows, maybe it pays to be pedantic about subjective experience.<br>
 
-Mindfulness is sanitised religious contemplation. (Then there's 'Focussing'.) I don't know very much about either, but <a href="{{chap}}">some normally</a> <a href="{{kaj}}">critical people</a> I admire think they are _very_ good, so they might not be bad introspections.
+Mindfulness is sanitised religious contemplation. (Then there's 'Focussing'.) 
+
+I don't know very much about either, but <a href="{{chap}}">some normally</a> <a href="{{kaj}}">critical people</a> I admire think they are _very_ good, so they might not be bad introspections.
 
 <br>
 
@@ -77,7 +76,7 @@ Of course; consider what happens when you rate a film you just saw out of 5, or 
 
 <!-- Dehaene. -->
 
-The point is that what you get from introspection isn't truth, but raw data - data that may need tremendous processing (cross-referencing, explanation in evolutionary or personal terms, correction for known biases) to even on average increase your self-knowledge. And also that taking the measurement will alter the mental content, to a possibly useless degree.
+The point is that what you get from introspection isn't truth, but raw data - data that may need tremendous processing (cross-referencing, explanation in evolutionary or personal-history terms, correction for known biases) to even on average increase your self-knowledge. Also that taking the measurement will alter the mental content, to a possibly useless degree.
 
 Rules of thumb might be: Don't take it literally; don't imagine you're in contact with your unconscious or your essence; don't generalise, even to your past or future _self_; use it as at most weak Bayesian evidence about the idea.
 
@@ -85,9 +84,9 @@ Justified uses for introspection, for me:
 
 * _Belief propagation_. It seems to help with aligning different parts of the mind, for instance getting my <a href="{{system}}">automatic and explicit</a> circuits to pass information. Often a premise will change ("System 2"), without the intuitive associations changing ("System 1"). (Though I endorse resisting the inverse changes, where your feelings determine a belief.)<br><br>
 * _Hypothesis generation_. If you don't know what's wrong it is obviously helpful to get ideas from an entangled source.<br><br>
-* _Aid to debiasing_. Noticing is moving things from the periphery of your attention into consciousness, where you can evaluate it. For instance, people often don't "notice" their own current emotional state in this sense, but that's vital information if you're trying to be rational - if you're feeling threatened by a person or a topic, you're primed to reject arguments around it. Cue to double-check your reasoning, or to revisit later, once you've calmed down.<br><br>
+* _Aid to debiasing_. Noticing is moving things from the periphery of your attention into consciousness, where you can evaluate it. For instance, people often don't "notice" their own current emotional state in this sense, but that's vital information if you're trying to be rational - if you're feeling threatened by a person or a topic, you're primed to reject arguments around it. A cue to double-check your reasoning, or to revisit once you've calmed down.<br><br>
 * _Emotional processing_. I don't know how or <a href="{{rumi}}">when</a> thinking about things makes you feel better. But it usually works for me.<br><br>
-* _Pretext for deep conversations_. I've done a few of these kind of workshops, and every single time I meet really interesting people where they're there to open up.
+* _Pretext for deep conversations_. I've done a few of these kind of workshops, and every single time I meet really interesting people who are there to open up and talk about fun serious things.
 
 
 <br><br>
