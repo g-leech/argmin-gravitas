@@ -1,3 +1,7 @@
+{%	assign homo = "https://en.wikipedia.org/wiki/Timeline_of_human_evolution#Homo"	%}
+{%	assign ax = "https://en.wikipedia.org/wiki/Axial_Age"		%}
+{%	assign germans = "https://en.wikipedia.org/wiki/Experimental_psychology#Early_experimental_psychology"		%}
+
 {%	assign mindful = "https://trends.google.com/trends/explore?date=all&geo=US&q=mindfulness,introspection"	%}
 {%	assign mig = "https://www.google.co.uk/search?q=migraine+aura&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiyrtv3-InkAhUfXhUIHfNRCJQQ_AUIESgB&biw=1280&bih=652"		%}
 {%	assign entheo = "https://en.wikipedia.org/wiki/Entheogen"	%}
