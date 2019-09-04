@@ -6,15 +6,15 @@ https://www.lesswrong.com/posts/3RJ3xFupXJKB8vE4q/post-ridiculous-munchkin-ideas
 
 <ul>
 <li><i>Idioms I love</i><br> 
-punk, Latin jazz, statistics & machine learning, black comedy, epistemology, <a href="https://en.wikipedia.org/wiki/4X">4X</a>, informal logic, economic rationality, eclecticism and pluralism, purism and monism. Birdwatching. American pragmatism, French liberalism, English liberalism, Afro-futurism, hacker lore, adult swim animation, synth-pop, hard science-fiction, effective altruism, transhumanism, empiricism of all kinds, lists. I love these things and find value in ordinary examples of them.</li><br>
+punk, Latin jazz, statistics & machine learning, black comedy, epistemology, <a href="https://en.wikipedia.org/wiki/4X">4X</a>, informal logic, economic rationality, eclecticism and pluralism, purism and monism. American pragmatism, 'French' liberalism, 'English' liberalism, Afro-futurism, hacker lore, adult swim animation, synth-pop, hard science-fiction, effective altruism, transhumanism, empiricism of all kinds, competence porn, lists. I love these things and find value in ordinary examples of them.</li><br>
 
 <li><i>Idioms I am open to</i><br>
-cinema in the arch sense, linguistics descriptive and prescriptive, hip-hop, free verse, country, trance, analytic philosophy, camp, mathematics, qawwali, sketch comedy, body positivity, <a href="https://np.reddit.com/r/gainit/comments/2zfjmf/bad_day_at_the_gym_completely_demoralized/cpksp8e/?context=3">bodybuilder positivity</a>, gender abolitionism, bondage, feminism, mono no aware, Early music, anime/manga, senryu, reggae, folk, drone, ambient, glitch, funk, Romanticism, modernism, Hollywood action films, Art Nouveau, Art Deco. I see the value of the best of these things.</li><br>
+cinema in the arch sense, linguistics descriptive and prescriptive, hip-hop, free verse, country, trance, analytic philosophy, camp, mathematics, qawwali, sketch comedy, body positivity, <a href="https://np.reddit.com/r/gainit/comments/2zfjmf/bad_day_at_the_gym_completely_demoralized/cpksp8e/?context=3">bodybuilder positivity</a>, gender abolitionism, <!-- bondage --> feminism, mono no aware, Early music, anime/manga, senryu, reggae, folk, drone, ambient, glitch, funk, Romanticism, modernism, Hollywood action films, birdwatching, Art Nouveau, Art Deco. I see the value of the best of these things.</li><br>
 
 
 
 <li><i>Idioms I am not very open to</i><br> 
-any kind of fashion, depressant chemicals, jurisprudence, house, faith, self-help and pseudo motivation, muscular hypertrophy, artspeak, MFA writing, video monologues (i.e. 90% of Youtube), infographics, enterprise computing, the illiberal or revolutionary left, haute cuisine, Palaeo, primitivism, Neoreaction, phenomenology and critical theory and psychoanalysis, telenovella and soap, ballet and Dance, wuxia, steampunk, haiku, aleatory, fanfiction, period drama, continental philosophy, celebrity culture, social theory, typography, education theory, cultural anthropology, noise. I can't feel the value of even the best of these things.</li>
+any kind of fashion, depressant chemicals, jurisprudence, house, faith, self-help and pseudo motivation, muscular hypertrophy, artspeak, MFA writing, video monologues (i.e. 90% of Youtube), infographics, enterprise computing, the illiberal left, haute cuisine, primitivism, Neoreaction, phenomenology and critical theory and psychoanalysis, telenovella and soap, ballet and Dance, wuxia, steampunk, haiku, aleatory, fanfiction, period drama tv, continental philosophy, celebrity culture, social theory, typography, education theory, cultural anthropology, noise music. I struggle to see the value of even the best of these things.</li>
 </ul>
 <br><br>
 
@@ -22,7 +22,6 @@ any kind of fashion, depressant chemicals, jurisprudence, house, faith, self-hel
 <hr />
 <br><br>
 
-<a href="http://afterallitcouldbeworse.blogspot.co.uk/p/vade-mecumae.html">These are my favourite and potentially favourite books</a>.<br /><br><br>
 
 My favourite philosophers, in terms of substantive agreement, are <a href="http://putnamphil.blogspot.co.uk/">Hilary Putnam</a><sub>90s</sub> (on meta-ethics and language), <a href="http://david-pearce.com/">David Pearce</a> (on animals, biochemicals, the ontology of qualia, the point of science), <a href="http://archive.today/0DdHk">Mary</a> <a href="http://books.google.co.uk/books?id=NCbsp4eVf9cC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Midgley</a> (on virtue, <a href="http://www.ghandchi.com/IONA/newsword.pdf">culture</a> and on scientism), <a href="http://www.philosophy.uncc.edu/mleldrid/cmt/rrtwo.html">Rorty</a> (on anything but ontology), Joseph Heath, and <a href="http://emilkirkegaard.dk/en/wp-content/uploads/A_Plea_for_Science_Studies_Philip_Kitcher.pdf">Philip</a> <a href="http://human-nature.com/nibbs/04/kitcher.html">Kitcher</a> (on inquiry as a thing). My favourites in terms of style are Epicurus, Hume, Wittgenstein, Taleb, and Nietzsche. <br />
 <br />
@@ -110,12 +109,8 @@ Favourite political revolutions: the American, the <a href="https://en.wikipedia
 My favourite statespeople on principle are: William Penn, Sun Yatsen, Tony Benn, John Wilkes; my favourite by effects are <a href="https://en.wikipedia.org/wiki/Empress_Dou_(Wen)">Dou Yifang</a> (<a href="https://en.wikipedia.org/wiki/Rule_of_Wen_and_Jing">竇猗房</a>), Edmund Burke, Peter the Great, Deng Xiaoping, Jefferson, Attlee; my favourite sitting politicians are Onora O'Neill, <a href="https://en.wikipedia.org/wiki/John_Lewis_(Georgia_politician)">John Lewis</a>...
 <br />
 <br />
-<br />
-<br />
-The best literal teachers I ever had were Gerald R Harrison (the transformations of reason), Bob Plant (indeterminacy, the importance of modesty and deflationism), David Newlands (anger is an energy), Luca Moretti, Karen Renaud, Lewis Mackenzie (the awe of the formal and physical), Chris W Johnson  (man in the machine), Shaomin Lee-Murray (who named me), John Morrice, Julian Lethbridge and Glen McIntosh.
+The best literal teachers I ever had were Gerald R Harrison (the transformations of reason), Bob Plant (indeterminacy, the importance of modesty and deflationism), David Newlands (anger is an energy), Luca Moretti, Karen Renaud, Lewis Mackenzie (the awe of the bridge of the formal and physical), Chris W Johnson (man in the machine), Shaomin Lee-Murray (who named me), John Morrice, Julian Lethbridge and Glen McIntosh.
 
-<br />
-<br />
 <br />
 <br />
 <!--
