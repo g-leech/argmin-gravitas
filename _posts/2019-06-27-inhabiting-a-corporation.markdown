@@ -114,7 +114,7 @@ That said, we shouldn't equivocate between state and private bureacracies, as th
 
 <br>
 
-### Insurance: the thrill of tedium
+### Insurance: the tedious thrill
 
 
 
@@ -132,7 +132,7 @@ That said, we shouldn't equivocate between state and private bureacracies, as th
 
 * Only 1% of the staff were actuaries, doing the distinctive work of the industry. The business-school notion of a "profit centre" (the part that makes the money) is spurious and nasty, but it's extremely useful if you're a rent-seeker looking for unearned rewards. Or an anthropologist seeking how people in organisations actually think. (<a href="{{drucker}}">The inventor</a> of the notion calls it "_One of the biggest mistakes I have made_".)
 
-* What is The Actuarial Problem? (For simplicity, just the scientific '<a href="{{cii}}">technical pricing</a>' one rather than the full price discrimination one.) 
+* What is The Actuarial Problem? <a href="#fn:4" id="fnref:4">4</a>
     * First, pass each customer through a boolean function of handcrafted rejection rules. 
     * If they survive, predict their expected loss. A stochastic model with a heavily skewed non-negative response distribution, with a multiplicative structure.
     * _Pricing constraints_: pro-rata (price per time); add some hand coded loadings and discounts (e.g. "expected loss should increase with the sum insured"); enforce monotonicity to prevent customer outrage; similarly, enforce only small changes on previous pricing for each customer.
