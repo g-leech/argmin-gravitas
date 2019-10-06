@@ -30,6 +30,7 @@ count:		1000
 {%	assign hedge = "https://thingofthings.wordpress.com/2018/11/14/moral-hedges/"		%}
 {%	assign parl = "http://users.ox.ac.uk/~mert2255/talks/parliamentary-model.pdf"		%}
 {%	assign arousal = "https://en.wikipedia.org/wiki/Misattribution_of_arousal"			%}
+{%	assign parf = "https://philpapers.org/archive/PAROAT-4.pdf"			%}
 
 
 A thought-experiment that shows a problem with naive utilitarianism:
@@ -100,7 +101,7 @@ plus<br><br>
 
 Self-report (and its subset, consent) is currently _overwhelmingly_ the strongest evidence we have for the wellbeing of others.
 
-The only hard reason I have to generalise my own situation-valence pairs to others is the deep similarities of our brains. But we know that people with quite similar brains can still have astonishing variance in preferences - witness kink, or addiction, or free soloing.
+The only hard reason I have to generalise my own situation-valence pairs to others is the deep similarities of our brains. But we know that people with quite similar brains can still have astonishing variance in preferences - witness kink, or addiction, or free soloing. <a href="#fn:2" id="fnref:2">2</a>
 
 We know too little about suffering to act drastically according to merely intuitive external judgments of experience quality. 
 
@@ -108,7 +109,7 @@ Even if it seems obvious that the physical pain of the dying man outweighs the s
 
 Call knowing something with enough confidence to do something prima facie bad as a result, _overknowing_. My claim is that we don't even overknow the _sign_ of another person's valence, without their honest report.
 
-(This might change a bit when welfare biology advances, giving us another source of evidence about the value of a state, but it'll never be countermanded unless we discover some <a href="{{pearce}}">far-out materialist theory</a> that lets us empirically measure the value of a conscious state.)
+(This might change a bit when welfare biology advances, giving us another source of evidence about the value of a state, but it'll never be countermanded unless we discover some <a href="{{pearce}}">far-out theory</a> that lets us empirically measure the value of a conscious state.)
 
 <br>
 
@@ -121,7 +122,7 @@ Call knowing something with enough confidence to do something prima facie bad as
 <!--  -->
 		<a href="{{benatar}}">David Benatar</a> argues an extreme version of this, that people are in fact much less happy than they honestly report, because of an adaptive "optimism bias", selected to make us resist suicide.<br><br>
 <!--  -->
-		I don't know what to make of this - it reminds me of <a href="{{frankish}}">illusionism</a> about consciousness, another cool position I literally cannot imagine being true - but in the present case all we need is to accept that the sufferer of a wound knows more about its intrinsic disvalue than I do.
+		I don't know what to make of this - it reminds me of <a href="{{frankish}}">illusionism</a> about consciousness (or "qualia eliminativism"), another cool position I literally cannot imagine being true - but in the present case all we need is to accept that the sufferer of a wound knows more about its intrinsic disvalue than I do.
 	</div>
 </div>
 {%  include comments.html %}
@@ -136,6 +137,10 @@ _Thanks to Saulius Šimčikas and Jan Kulveit for conversations around this._
 <ol>
 	<li class="footnote" id="fn:1">
 		(modified from 'The Soldier's Dilemma' <a href="{{crockett}}">here</a>.)
+	</li>
+<!--  -->
+	<li class="footnote" id="fn:2">
+		A personal example: <a href="{{parf}}">Derek Parfit says</a> that the <i>minimally</i> pleasant life, the one only just worth experiencing, is eating potatoes while easy-listening music plays. But I am delighted every time I eat potatoes, and have eaten them every day for years on end in the past.
 	</li>
 </ol>
 </div>
