@@ -120,6 +120,8 @@ That said, we shouldn't equivocate between state and private bureacracies, as th
 
 * I kept a volume of <a href="{{kafka}}">Kafka</a> on my desk at all times.
 
+* An insurer is like a bank, except you can't withdraw from your account unless something terrible happens to you. Then you win 100 times your balance. So it's a backwards-casino bank.
+
 * One of the nice things about insurance is that the companies' interests are much more aligned with yours, the policyholder's, than usual in capitalism. If you become safer (after paying them the premium) they make more money. There are a _few_ products that follow this gradient - flood detection gizmos for your pipes, discounts for doing exercise and quitting smoking, and so on. But not that many. <a href="{{wright}}">See here</a> for why insurers don't do more risk mitigation.
 
 * Related: The firm had an "emerging risks" research department, quite forward-thinking, doing epidemic modelling and future climate shocks. But the health insurance people concede that pandemic modelling is useless - since the claimants die before they can claim for health. (The life insurance people model it.)

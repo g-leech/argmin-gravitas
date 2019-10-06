@@ -26,6 +26,13 @@ count:		800
 	}
 </style>
 
+<center>
+	<blockquote>
+		Forces of digestion and metabolism are at work within me that are utterly beyond my perception or control. Most of my internal organs may as well not exist for all I know of them directly, and yet I can be reasonably certain that I have them, arranged much as any medical textbook would suggest.<br><br>
+		The taste of the coffee, my satisfaction at its flavor, the feeling of the warm cup in my hand — while these are immediate facts with which I am acquainted, they reach back into a dark wilderness of facts that I will never come to know... Where am I, that I have such a poor view of things? And what sort of thing am I that both my outside and my inside are so obscure?” 
+	</blockquote>
+― Sam Harris
+</center>
 
 A popular method for finding things out is introspection, first-person reflection on your current mental content. Many of the rankest falsehoods were born this way - from absurd religious dogmatism, to psychoanalytic fairytales, to everyday delusions about one's <a href="{{mot}}">motives</a> and <a href="{{pos}}">qualities</a>. <a href="{{mindful}}">It has surged</a> in the last decade, under the modest and retroactively scientific branding "mindfulness". 
 
