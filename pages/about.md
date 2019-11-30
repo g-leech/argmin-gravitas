@@ -12,7 +12,7 @@ visible:	true
 <div style="padding:20px">
 	I'm <a href="{{ "/cv.pdf" | prepend: site.url }}">Gavin</a>, a PhD candidate in AI at <a href="{{bris}}">Bristol</a>. I focus on <a href="{{debate}}">augmenting human oversight</a> over RL agents. <a href="#fn:18" id="fnref:18">18</a>
 
-	My favourite topic <a href="{{sittler}}">is</a> <a href="{{cs}}">technical</a> <a href="{{gelman}}">solutions</a> <a href="{{welf}}">to</a> <a href="{{shminux}}">philosophical</a> <a href="{{comp1}}">problems</a>.<br><br>
+	My favourite topic <a href="{{sittler}}">is</a> <a href="{{cs}}">technical</a> <a href="{{orseau}}">solutions</a> <a href="{{welf}}">to</a> <a href="{{shminux}}">philosophical</a> <a href="{{comp1}}">problems</a>.<br><br>
 	
     Technically <a href="{{ea}}">an EA blog</a>, though I don't consider this a blog. (Blogging is more speech than writing.)<br><br>
 
