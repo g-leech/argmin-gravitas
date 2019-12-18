@@ -184,7 +184,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	But the x-phi people aren't doing philosophy in the bit of their work that is distinctive. They're social scientists at that moment. And there's so much that they can't touch with surveys. 
 	<br><br>
 <!--  -->
-	Related: there are of course hybrid scientist/philosophers, with more hope. The most important current philosophers, in terms of likely moral effects, are people like <a href="{{bos}}">Nick Bostrom</a>, <a href="{{kat}}">Katja Grace</a>, <a href="{{ord}}">Toby Ord</a>, <a href="{{ask}}">Amanda Askell</a>, and <a href="{{beck}}">Nick Beckstead</a> . But their work could not function without mathematical argument and scientific research; they are as much speculating scientists as philosophers. (Two of the mainstream greats of the last century, David Lewis and Hilary Putnam both made serious mathematical discoveries too.)
+	Related: there are of course hybrid scientist/philosophers, with more hope. The most important current philosophers, in terms of likely moral effects, are people like <a href="{{bos}}">Nick Bostrom</a>, <a href="{{kat}}">Katja Grace</a>, <a href="{{ord}}">Toby Ord</a>, <a href="{{ask}}">Amanda Askell</a>, and <a href="{{beck}}">Nick Beckstead</a> . But their work could not function without mathematical argument and scientific research; they are as much speculating scientists as philosophers. (There are quite a few scientific philosophers, e.g. Julian Barbour and Clark Glymour. Two of the mainstream greats of the last century, David Lewis and Hilary Putnam both made serious mathematical discoveries too.)
 	<br><br>
 <!--  -->
 	This gives the game away again: it is really only apriorism I'm disparaging, the idea that informal reason alone can solve large questions. But <a href="{{surv}}">two-thirds of philosophers</a> endorse apriorism, so the point's probably relevant. 
@@ -234,6 +234,19 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 		<h3>philosophy as about truth - we just haven't had enough time</h3>
 	There are <a href="{{greg}}">hundreds of times more</a>  philosophers working now than in past eras, and they can read and argue far more widely than those before them. We <i>could</i> see progress from this ten-thousand-fold increase in labour and networking. Greg Lewis notes that we should expect the greatest philosopher ever to be alive today, simply on statistical grounds: there are many more people alive and no reason to think that the culture or genes of e.g. Ancient Greece was inherently superior. 
 	<br><br>
+
+Clock time vs anthropic time
+
+https://www.facebook.com/100002423798285/posts/2407342496023187/?app=fbl
+
+Other reasons philosophers today should be the best:
+
+- Actual bounds on reality from fundamental physics*
+- Powerful logics (FOL, HOLs, modal, utility theory)
+- Free library of almost every other philosopher ever
+- Computers for simulation & word processing even
+
+* What's that? Philosophers now hide from reality in that huger maze, conceivability?
 <!--  -->
 	Sure, the distribution of philosophical workers is skewed towards the present and future. But from my (amateur) stoop I don't see us converging on any answers - just frantically <a href="{{lpu}}">salami-slicing</a> to get something out there in a journal, <a href="{{paps}}">thousands</a>  of times a year. So we are trying to boil the ocean with 100,000 zippo lighters instead of just 1,000. 
 	<br><br>
