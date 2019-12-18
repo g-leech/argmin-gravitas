@@ -37,4 +37,4 @@ How common is this view? The PhilPapers survey (of mainly Anglophone philosopher
 
 {%  include comments.html %}
 
-{%  include metaphil/foots.html %}
+<!-- %  include metaphil/foots.html %} -->
