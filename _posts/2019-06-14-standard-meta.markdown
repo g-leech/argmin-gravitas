@@ -7,7 +7,7 @@ date:       2019-03-08
 author:     Gavin
 
 img:        /img/
-published:  true
+published:  false
 visible:    1
 
 summary:    What are the background assumptions of contemporary analytic philosophy?
@@ -18,7 +18,7 @@ count:
 
 The duration and depth of disagreement among philosophers - 2000 years, on pretty much everything - is funny. Why do we care?
 
-I think we care because of a particular metaphilosophy that persistent disagreement frustrates. Call the following set of claims the _Standard Analytic Metaphilosophy_:
+I think we care because of a particular metaphilosophy that is frustrated by persistent disagreement. Call the following set of claims the _Standard Analytic Metaphilosophy_:
 
 1. _Metaphilosophical realism_: Suitably sharpened philosophical questions have one objective answer. <a href="#fn:1" id="fnref:1">1</a>
 2. _Metaphilosophical naturalism_: "Philosophy is just one part of the empirical attempt to understand Nature." <a href="#fn:2" id="fnref:2">2</a>
