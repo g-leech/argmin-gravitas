@@ -23,13 +23,15 @@ count: 		1300
 
 {%		include killer-tories/links.md				%}
 
-You sometimes [see][jones] [the claim][naive] that the Conservative-led <a href="{{camClegg}}">coalition</a> killed "thousands" of disabled people by spuriously cutting them off from disability benefit. <a href="#fn:3" id="fnref:3">3</a>
+You sometimes [see][jones] [the claim][naive] that the Conservative-led <a href="{{camClegg}}">coalition</a> killed thousands of disabled people by spuriously cutting them off from disability benefit. <a href="#fn:3" id="fnref:3">3</a>
 
-This claim is naive to the point of deceit, as I'll show. But it is based on something which <i>sounds</i> similar: the fact that between 2011 and 2014, [2,380][kilodeath] people died after being declared "fit for work" (FFW), i.e. after having their main income stopped. 
+This is naive to the point of deceit, as I'll show. But it's based on something which sounds similar: the fact that between 2011 and 2014, [2,380][kilodeath] people died after being declared "fit for work" (FFW), i.e. after having their main income stopped. (If we were to establish causation, and so responsibility, this would make the Tories about as lethal as uterine cancer, at [720 UK deaths][cancer] a year.)
 
-(For context, if we established causation, and so responsibility, this would make the Tories about as lethal as uterine cancer, at [720 UK deaths][cancer] a year.)
+It's not hard to find [cases][sullivan] where causation seems likely. But, by inferring causation from the above raw figure, the "2,380" claim implies that the Conservatives are responsible for <i>all</i> mortality during their reign - which, even speaking as a Scotsman, seems a bit strong. 
 
-It's not hard to find [cases][sullivan] where causation seems likely. But, by trying to imply causation from the above figure, the general claim implies that the Conservatives are responsible for <i>all</i> mortality during their reign - which, even speaking as a Scotsman, seems a bit strong. Media discussion of this fact was sloppy even by the low standards of public policy discussion. <a href="#fn:11" id="fnref:11">11</a> There is no justice without accuracy.
+Media discussion of this fact was sloppy even by the low standards of public policy discussion. <a href="#fn:11" id="fnref:11">11</a> There is no justice without accuracy.
+
+
 <br><br>
 _Terms_:
 
@@ -38,9 +40,7 @@ _Terms_:
 Introduced by Labour in 2008, made much stricter by the Conservatives in 2011.
 <br><br>
 
-The following is just an <a href="{{obs}}">observational</a> argument: it doesn't exonerate or condemn. All I can say for it is that it's less pig-ignorant than parroting the uncontrolled figure.
-
-If you take one thing from this, make it *You cannot infer anything about impact from one number at one point in time without a reference class.* 
+The following is just an <a href="{{obs}}">observational</a> argument: it doesn't exonerate or condemn. All I can say for it is that it's less pig-ignorant than parroting the uncontrolled figure. If you take one thing from this, make it *You cannot infer anything about impact from one number, at one point in time, without a reference class.* 
 
 In particular, it doesn't make sense without accounting for the number of deaths in this group *before* the WCA reform. (Maybe 2380 is an improvement.) And it doesn't make sense to compare even those numbers without accounting for large known influences on mortality, e.g. seeing if ages and genders differ between the compared groups. What we actually need is not 'deaths' but 'excess' deaths.
 
