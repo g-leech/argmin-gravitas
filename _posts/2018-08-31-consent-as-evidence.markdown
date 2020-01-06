@@ -125,11 +125,13 @@ Call knowing something with enough confidence to do something prima facie bad as
 		I don't know what to make of this - it reminds me of <a href="{{frankish}}">illusionism</a> about consciousness (or "qualia eliminativism"), another cool position I literally cannot imagine being true - but in the present case all we need is to accept that the sufferer of a wound knows more about its intrinsic disvalue than I do.
 	</div>
 </div>
-{%  include comments.html %}
+
+
+{%  include consent/comments.html %}
 
 <br> <br>
 
-_Thanks to Saulius Šimčikas and Jan Kulveit for conversations around this._
+_Thanks to Saulius Šimčikas, Jan Kulveit and Hugh Panton for conversations around this._
 
 
 

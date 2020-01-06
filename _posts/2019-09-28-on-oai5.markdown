@@ -1,0 +1,73 @@
+---
+layout:     post
+title:      "Notes on OpenAI Five"
+baselink:   /dota
+permalink:  /dota
+date:       2019-08-23
+author:     Gavin
+
+img:        /img/
+published:	true
+visible: 	1
+
+summary:    Trying to define reward shaping by studying a DotA bot.
+confidence:	80%
+categories: 
+importance: 6
+count:		
+---
+
+
+<!-- _Do you think that *the extent of reward shaping* used in the OpenAI Five system counts as having “no domain-specific hardcoded knowledge”? Why, or why not? We’re of course not interested in what the “true meaning” of "reward shaping" is. What's the most plausible interpretation of the term is, for purposes of questions like above, and then what the verdict would be given that definition. (Or something like "the expected verdict across all definitions weighted by plausibility".)_ -->
+
+OpenAI Five has hardcoded Dota knowledge in its reward. Two readings of "hardcoded": 
+
+1. initialised by a human; 
+2. fixed by a human (i.e. no updates to R from self-play). 
+
+Both readings obtain here.
+
+A strict definition of "hardcoded reward knowledge": if the reward function includes human decisions about anything but {positive reward for winning} and {negative reward for losing}, it has hardcoded reward knowledge.
+
+(It's plausible that less strict definitions are fairer, e.g. in this case the software agents are handicapped by not using intra-team communication, so reward shaping to simulate communication - e.g. lane assignment - could be seen as _fair_ hardcoding.)
+
+_Domain-specific manual reward-feature selection_: The game API reports 20,000 features. The [handcrafted reward function](https://gist.github.com/dfarhi/66ec9d760ae0c49a5c492c9fae93984a#processing) includes only 28 (17 + 7 building healths + lanes). On top of the feature selection, the weights of each of these features are also handcrafted!
+
+Take "reward shaping" to mean supplementing or replacing the natural endpoint rewards (team win and team loss) with domain-specific intermediate rewards selected by a human. OAI5's reward is completely "designed by [OpenAI's] local Dota [human] experts", including selecting a tiny fraction of the most important features and setting the weights of the features, so it has domain-specific hardcoded knowledge.
+
+[The reward processing](https://gist.github.com/dfarhi/66ec9d760ae0c49a5c492c9fae93984a#processing) used is non-domain-specific, since it would apply to any mixed co-operative / competitive game.
+
+<br>
+
+---
+
+<br>
+
+That covers hardcoded knowledge in *the reward function*. Another vector for hardcoding is the inductive bias of the architecture used: we search a huge number of ANN structures to find a particular Dota-friendly one. I'm ambivalent about whether this counts as hardcoding, and ignore it in the following.
+
+Another kind of hardcoding, but uselessly intractable would be manually tinkering with e.g. buggy activation functions, e.g. using model explanation to select individual nodes. It is vanishingly unlikely that OpenAI did this.
+
+So my definition of hardcoding is "some degree of at least one of
+
+* a subset of features are selected by humans 
+* feature rewards are fixed by humans 
+* post-hoc manual edits are made to the network."
+
+<br><br>
+
+---
+
+<!-- <br>
+
+_Looking at the OpenAI Five reward function, what’s the *smallest* number of changes you could make such that you would be completely on the fence about whether the system uses “domain-specific hardcoded knowledge” or not? That is, such that you feel the case for both verdicts is equally strong?_
+
+I'd be ambivalent if
+* lane assignments are dropped
+* reward weights are discovered empirically.
+
+To make credit assignment possible it would be understandable to break the games into episodes (e.g. at least Prep vs Combat vs Finish) with single per-hero intermediate rewards.
+
+
+
+
+ -->
