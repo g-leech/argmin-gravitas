@@ -96,6 +96,84 @@ Justified uses for introspection, for me:
 * _Pretext for deep conversations_. I've done a few of these kind of workshops, and every single time I meet really interesting people who are there to open up and talk about fun serious things.
 
 
+
+---
+
+
 <br><br>
 
-{%  include comments.html %}
+
+<div class="accordion">
+	<h3>Comments</h3>
+	<div>
+	    <br>
+	    <b>Hugh</b> commented:
+	    <p><blockquote>   
+	    I suspect that introspection-done-right is largely about breaking or counteracting negative patterns, not establishing positive ones. I recently saw a video that I'd uncharitably sum up as "I used to harass random strangers for liking Marvel movies, but then I realised every tree is actually the same tree, so I stopped doing that and started feeling better." I'm genuinely glad that person had that revelation.<br><br> Also, if we're defining introspection widely enough, I think it's as much about constructing as discovering. As someone perennially low on sense-of-identity, I can't really begrudge people for putting in the time to build that for themselves, even if they tend to look (and/or be) crazy while doing so. 
+	    </blockquote>
+	    <hr>
+	    <!--  -->
+	    <br>
+	    <b>Max</b> commented:
+	    <p><blockquote>    
+	    Two prominent things many seem to find with mindfulness meditation are:<br>
+    	a) your experience (the „inner world simulation“+mental workspace+emotions+...) is not centered in your head or experienced by a seperate „self“-construct that resides behind your eyes. Experience in some sense is simply there.<br>
+    	b) thoughts can be observed. Somehow I mostly feel like my thoughts are being actively thought by some self that is phenominologically positioned behind my eyes. I can lose this sense during mindfulness meditation, where a thought becomes just another phenomenon in a space of experiences.<br>
+    	c) you can gain significant control over you being sucked into streams of ruminating thoughts. First you notice it and take a step back and switch into „these are all phenomena in a space of experience“ mode. This usually takes away the mental energy that was invested into the thoughts and the thoughts stop feeding your emotional state, and the emotional state stops eliciting more ruminating.<br><br>
+    	I recommend Sam Harris’ Waking Up meditation course if anybody is interested in exploring such things. Investment: 10 minutes for 50 days and you should get a solid impression of mindfulness meditation.“
+</blockquote>
+	    <hr>
+
+
+
+	{% if site.data.comments[slug] %}
+
+	  {% assign comments = site.data.comments[slug] | sort %}
+
+	  {% for comment in comments %}
+	    <br>
+	    <b>{{ comment[1].name }}</b> commented on <em>{{ comment[1].date | date: "%d %B %Y" }}</em> :
+	    <p><blockquote>{{ comment[1].message | markdownify }}</blockquote>
+	    <hr>
+	  {% endfor %}
+	  <p>
+	{% endif %}
+
+
+
+	<div style="padding:20px; padding-bottom: 80px; text-align: center;">
+
+	<big>Post a comment (with Markdown):</big><br><br>
+
+		<form method="POST" action="{{site.comments_integration_url}}" >
+		  	<input name="options[redirect]" type="hidden" value="http://gleech.org">
+			
+		  	<input name="options[slug]" type="hidden" value="{{ slug }}">
+			<input name="fields[name]" type="text" placeholder="your name">
+			<input name="fields[email]" type="email" placeholder="at@at.com"><br><br>
+			<textarea name="fields[message]" placeholder="
+
+			Comments appear after moderation btw." style="height:150px;width:70%;"></textarea><br>
+
+			<button id="sub" type="submit">Post</button><br>
+			<input type="checkbox" id="guardBox" name="guard" value="enableSubmit">Enable submit button<br>
+		</form>
+	</div>
+
+	</div>
+</div><br>
+
+
+<!-- Too much spam; let's see if this works -->
+<script>
+	const submit = document.getElementById("sub")
+	submit.disabled = true;
+
+	const checkbox = document.getElementById('guardBox')
+
+	checkbox.addEventListener('change', (event) => {
+	  if (event.target.checked) {
+	    submit.disabled = false;
+	  } 
+	})
+</script>
