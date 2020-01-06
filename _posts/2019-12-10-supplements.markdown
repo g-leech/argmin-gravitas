@@ -21,7 +21,7 @@ count:
 
 
 
-In the last century, half a revolution happened: you can now buy <a href="{{thousands}}">many thousands of substances</a> that claim to promote health, and some of them do. The promise is of fine control over health: the prevention of idiosyncratic disorders, and/or aiming at the huge and murky area of "subclinical" human health problems, all the minor things that make life worse. 
+In the last century, half a revolution happened: you can now buy <a href="{{thousands}}">many thousands of substances</a> that claim to promote health, and a couple of them do. The promise is of fine control over health: the prevention of idiosyncratic disorders, and/or aiming at the huge and murky area of "subclinical" human health problems, all the minor things that make life worse. 
 
 And so <a href="{{uk}}">most UK adults</a> take supplements (about half of those multivitamins). Several problems with this:
 
