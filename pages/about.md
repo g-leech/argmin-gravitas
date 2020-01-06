@@ -30,14 +30,10 @@ visible:	true
  -->
 
 <div class="accordion">	
-	{%	include about/now.md	%}
-
-	{%	include about/giving.html	%}	
-	
+	<!-- %	include about/now.md	%} -->
 	{%	include about/favs.html	%}	
-	
+	{%	include about/giving.html	%}	
 	{%	include about/misc.html	%}
-
 </div>
 
 
