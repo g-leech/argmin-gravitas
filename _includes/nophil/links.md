@@ -1,3 +1,5 @@
+{%		assign moly = "https://plato.stanford.edu/entries/molyneux-problem/#5"		%}
+{%		assign held = "https://www.nature.com/articles/nn.2795"		%}
 {%		assign nat = "https://en.wikipedia.org/wiki/Natural_philosophy" %}
 {%		assign tech = "https://wiki.lesswrong.com/wiki/Technical_explanation"	%}
 {%		assign delp = "https://en.wikipedia.org/wiki/Delphic_maxims"	%}
@@ -46,3 +48,5 @@
 {%		assign symb = "https://en.wikipedia.org/wiki/History_of_mathematical_notation#Symbolic_stage"	%}
 {%		assign rdof = "https://en.wikipedia.org/wiki/Researcher_degrees_of_freedom"		%}
 {%		assign trivial = "https://en.wikipedia.org/wiki/Trivialism"		%}
+
+{%		assign euk = "https://eukaryotewritesblog.com/2018/10/09/the-funnel-of-human-experience/"		%}

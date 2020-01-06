@@ -37,26 +37,8 @@ It's simple: The greatest nontechnical minds in history have all failed to work 
 
 <br>
 
-<div class="accordion">
-    <h3>Is philosophy technical?</h3>
-    <div>  
-    	<ul>
-		<li>  If "technical" means 'containing careful reasoning', yes.</li>
-		<li>  If "technical" means 'containing mathematical or statistical reasoning', no.</li>
-		<li>  If "technical" means 'impenetrable to outsiders', yes, often - often with the vitiating appearance of nontechnicality.</li>
-		<li>  If "technical" means '<a href="{{tech}}">constraining expectations</a> to one part of the space of possible outcomes' then no not really. (Wittgenstein: "<i>Philosophy may in no way interfere with the actual use of language... It leaves everything as it is.</i>") </li>
-	</ul>	<br>
-<!--  -->
-	It's possible to do maths without symbols - and so <a href="{{symb}}">in fact we did</a>, for most of its history. So what's the difference between informal maths and philosophy? I think it's to do with <a href="{{rdof}}">researcher degrees of freedom</a>. By working with extremely strict and limited definitions, rather than fuzzy natural-language concepts, mathematicians remove lots of their leeway to fudge and be ambiguous. It is always possible in philosophy to just deny any particular inconvenient premise, to dispute an intuition, to substitute your own reality; but to do so of mathematical axioms or definitions is to no longer be talking about the same thing.<br><br>
-<!--  -->
-	In philosophy the degrees of freedom are extreme, including things like denying <a href="{{dial}}">basic logical</a> <a href="{{trivial}}">principles</a>. (These are I suppose technically possible for scientists to use, but you'd probably struggle to get it published.)
-	</div>
-</div>
-<br>
+{%  include nophil/tangents.html     %}
 
----
-
-<br>
 ...
 
 Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is manifestly bad at: why do philosophy?   <br><br>
@@ -234,28 +216,24 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 		<h3>philosophy as about truth - we just haven't had enough time</h3>
 	There are <a href="{{greg}}">hundreds of times more</a>  philosophers working now than in past eras, and they can read and argue far more widely than those before them. We <i>could</i> see progress from this ten-thousand-fold increase in labour and networking. Greg Lewis notes that we should expect the greatest philosopher ever to be alive today, simply on statistical grounds: there are many more people alive and no reason to think that the culture or genes of e.g. Ancient Greece was inherently superior. 
 	<br><br>
-
-Clock time vs anthropic time
-
-https://www.facebook.com/100002423798285/posts/2407342496023187/?app=fbl
-
-Other reasons philosophers today should be the best:
-
-- Actual bounds on reality from fundamental physics*
-- Powerful logics (FOL, HOLs, modal, utility theory)
-- Free library of almost every other philosopher ever
-- Computers for simulation & word processing even
-
-* What's that? Philosophers now hide from reality in that huger maze, conceivability?
 <!--  -->
-	Sure, the distribution of philosophical workers is skewed towards the present and future. But from my (amateur) stoop I don't see us converging on any answers - just frantically <a href="{{lpu}}">salami-slicing</a> to get something out there in a journal, <a href="{{paps}}">thousands</a>  of times a year. So we are trying to boil the ocean with 100,000 zippo lighters instead of just 1,000. 
+	The clock time spent on philosophy is impressive: 3000 years. But the above implies that the lived time, the total years of effort, is insignificant until quite recently. <a href="{{euk}}">Georgia Ray</a>: "15% of all experience has been experienced by people who are alive right now."<br><br>
+<!--  -->
+<!--  -->
+	Sure, the distribution of philosophical workers is skewed towards the present and future. But from my (amateur) stoop I don't see us converging on any answers despite our historically awesome workforce - just frantically <a href="{{lpu}}">salami-slicing</a> to get something out there in a journal, <a href="{{paps}}">thousands</a>  of times a year. So we are trying to boil the ocean with 100,000 zippo lighters instead of just 1,000. 
 	<br><br>
 	<!--  -->
-	Similarly, our sample size isn't very large for some subfields. My favourite new research programmes are the <a href="{{fyi}}">philosophy of information</a>  and the <a href="{{digi}}">digital philosophy</a> , and the case against newbies like them is obviously a bit weaker. I'm willing to suspend judgment on the new ones. They each get 100 years starting now.
-	<br><br>
+	Our sample size isn't very large for some subfields. My favourite research programmes are <a href="{{pop}}">Population ethics</a> and the study of existential risks, normative uncertainty, the <a href="{{fyi}}">philosophy of information</a>  and the <a href="{{digi}}">digital philosophy</a>. The case against newbies like them is obviously a lot weaker. They have taken <i>at most</i> a few hundred philosopher-years to date So suspend judgment: they each get 1000 philosopher-years starting now. <br><br>
+	
+	Other reasons philosophers today should be the best:
 <!--  -->
-	(<a href="{{pop}}">Population ethics</a>  and the study of existential risks are also shockingly new and important.) 
-	</li> <br><br>
+	<ul><li> Actual constraints on reality from fundamental physics.</li>
+	<li>Powerful logics (FOL, HOLs, modal, utility theory)</li>
+	<li>Free library of almost every other philosopher ever, most of whom speak the same language.</li>
+	<li>Computers for simulation & note-taking & word processing even</li>
+	</ul><br>
+	(Constraints make it easier to find the truth, but harder to publish arbitrary things.)<br><br>
+	</li>
 <!--  -->
 <!--  -->
 	<li>
@@ -323,7 +301,7 @@ Since my list of caveats is forty times longer than my original point, obviously
     <div>  
     	<i>Added August 2019</i>: I am no longer confident in this. Even then I found myself piling up many kinds of philosophy one should be doing - e.g. negative philosophy against bad philosophy, practical ethics, schemes for handling moral uncertainty, logic, population ethics, existential risk.<br><br>
 <!--  -->
-    	And I've since had <a href="{{dai}}">the importance of</a> <a href="{{zhu}}">non-perverse philosophy</a> for making a future general artificial intelligence safe impressed upon me, which is kind of my jam.
+    	I've since had <a href="{{dai}}">the importance of</a> <a href="{{zhu}}">non-perverse philosophy</a> for making a future artificial intelligence safe impressed upon me.
 	</div>
 </div>
 
