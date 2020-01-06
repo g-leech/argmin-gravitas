@@ -1,176 +1,190 @@
 ---
 layout:     post
 title:      "Taking Hume's name"
-baselink:   /hume-today
-permalink:  /hume-today
+baselink:   /hume
+permalink:  /hume
 date:       2013-04-11  <!--site.time-->
 author:     Gavin
 
 img:        /img/hume.jpg
-published:	false
+published:	true
 visible: 	1
 
-summary:    A guide to contemporary use of Hume (or at least his name).
+summary:    Contemporary uses of David Hume (or anyway his name).
 confidence:	95%.
 categories: 
 importance: 3
 count:		
 ---
 
+{%  include hume/links.md   %}
+
 
 > ...the platitudes with which ‘Humean positions’ are defined just do not fit with what Hume actually says. Most of the time Hume’s texts simply do not lend the necessary support for this label ‘Humean’...<br />
 
+<center>
 – Tamás Demeter
+</center>
+<br>
 
-<br><br />
 
-David Hume is an Analytic darling; you can find post-hoc principles bearing his name in every major subfield. (In the ahistorical laboratories of English-speaking philosophy, naming things is less scholarly attribution of primacy and more equivalent to naming an <a href="http://www.universetoday.com/100449/top-9-weird-asteroid-names-and-1-awesome-asteroid-moon-name/">asteroid</a> after him. Or asserting your work's importance by tying it to a Proper Name bandwagon.) 
+David Hume is a darling of analytic philosophy; you find principles bearing his name in every major subfield. (In the ahistorical laboratories of English-speaking philosophy, naming things is less a scholarly attribution of Hume's primacy and more equivalent to naming an <a href="{{ast}}">asteroid</a> after him. Or asserting your work's importance by tying it to a Proper Name.) 
 
-In fact, there are so many principles that we've run out of synonyms for "principle" to attribute him. Let's see:
+In fact, there are so many principles that we've run out of synonyms for "principle" to attribute to him:<br><br>
 
 <ul><li>
-	<b>Hume's Principle</b> (in the logic of mathematics): "The number of Fs is identical to the number of Gs if and only if F and G are equinumerous. (#F = #G  ≡  F≈G)." This is a contextual definition of the concept <i>number</i>: cool. This result is important for salvaging something from Frege's ruined lifework on the foundations of mathematics. It defines number as a non-mathematical concept that <a href="http://mally.stanford.edu/Papers/neologicism2.pdf">some people</a> still claim can establish a kind of logicism.<br />
+	<span style="font-weight: bold">Hume's Principle</span> (in the logic of mathematics): "The number of Fs is identical to the number of Gs if and only if F and G are equinumerous. (#F = #G  ≡  F≈G)." This is a contextual definition of the concept <i>number</i>: cool. This result is important for salvaging something from Frege's ruined lifework on the foundations of mathematics. It defines number as a non-mathematical concept that <a href="http://mally.stanford.edu/Papers/neologicism2.pdf">some people</a> still claim can establish a kind of logicism.<br />
 
-	<i>Source</i>: <blockquote>We are possessed of a precise standard, by which we can judge of the equality and proportion of numbers; and according as they correspond or not to that standard, we determine their relations, without any possibility of error. When two numbers are so combin'd, as that the one has always a unit answering to every unit of the other, we pronounce them equal; and it is for want of such a standard of equality in extension, that geometry can scarce be esteemed a perfect and infallible science." (Treatise, Book I:III)</blockquote>
+	<br><i>Source</i>: <blockquote>We are possessed of a precise standard, by which we can judge of the equality and proportion of numbers; and according as they correspond or not to that standard, we determine their relations, without any possibility of error. When two numbers are so combin'd, as that the one has always a unit answering to every unit of the other, we pronounce them equal; and it is for want of such a standard of equality in extension, that geometry can scarce be esteemed a perfect and infallible science." (Treatise, Book I:III)</blockquote>
 
-	<br /><i>Coined by</i>: George Boolos in his 1987 "The Consistency of Frege’s Foundations of Arithmetic"; first recognised as key to neo-logicism in Crispin Wright's (1983) Frege’s Conception of Numbers as Objects.
+	<i>Coined by</i>: George Boolos (1987), "The Consistency of Frege’s Foundations of Arithmetic"; first recognised as key to neo-logicism in Crispin Wright's (1983) <i>Frege’s Conception of Numbers as Objects</i>.
 	
-	<br /><i>Huminess:</i>: 5/10. Frege did <a href="http://plato.stanford.edu/entries/frege-logic/Gg-Hume.html">the legwork</a> in proving it, and Wright &amp; Hale did the salvage work. And Hume would have rejected many of Frege's conclusions, like the infinity of infinite sets (see Hume's dictum below).
-</li>
+	<br /><i>Huminess:</i> <span style="color: red">5/10</span>. Frege did <a href="http://plato.stanford.edu/entries/frege-logic/Gg-Hume.html">the legwork</a> in proving it, and Wright &amp; Hale did the salvage work. And Hume would have rejected many of Frege's conclusions, like the infinity of infinite sets (see Hume's dictum below).
+</li><br><br>
 
 <li>
-	<b>Hume's fork </b>(everywhere): the strict, exhaustive division of propositions into either "relations of ideas" (which are necessary, a priori, and analytic) and "matters of fact" (which are contingent, a posteriori, and synthetic). He uses the fork as a very early meaning criterion: any claim which is neither purely conceptual or experiential is meaningless. This includes, for instance, all arguments for the existence of God. ("Commit it then to the flames: for it can contain nothing but sophistry and illusion.")<br />
+	<span style="font-weight: bold">Hume's fork </span>(everywhere): the strict, exhaustive division of propositions into either "relations of ideas" (which are necessary, a priori, and analytic) and "matters of fact" (which are contingent, a posteriori, and synthetic). He uses the fork as a very early meaning criterion: any claim which is neither purely conceptual or experiential is meaningless. This includes, for instance, all arguments for the existence of God. ("Commit it then to the flames: for it can contain nothing but sophistry and illusion.")<br />
 
-	Useful but imprecise, and was superceded by Kant's breakdown into analytic/synthetic, apriori/aposteriori, and necessary/contingent. Playing around with these three variables sustained metaphysics/language throughout the 70s: Kripke's most seminal work amounts to a lengthy rejection of the Fork, and Quine also messes with the scheme. <a href="http://home.wlu.edu/~goldbergn/scholarship/In%20Progress/Hume%27s%20Fork.pdf">This</a> is a fun reductio of the Fork.<br />
+	Useful but imprecise, and superceded by Kant's breakdown into analytic/synthetic, apriori/aposteriori, and necessary/contingent. Playing around with these three variables sustained metaphysics/language throughout the 70s: Kripke's most seminal work amounts to a lengthy rejection of the Fork, and Quine also messes with the scheme. <a href="http://home.wlu.edu/~goldbergn/scholarship/In%20Progress/Hume%27s%20Fork.pdf">This</a> is a fun reductio of the Fork.<br />
 
-	<i>Source</i>: <blockquote>All the objects of human reason or enquiry may naturally be divided into two kinds, to wit, relations of ideas, and matters of fact. Of the first kind are the sciences of geometry, algebra, and arithmetic... Matters of fact, which are the second objects of human reason, are not ascertained in the same manner; nor is our evidence of their truth, however great, of a like nature with the foregoing ... It may, therefore, be a subject worthy of curiosity, to enquire what is the nature of that evidence which assures us of any real existence and matter of fact, beyond the present testimony of our senses, or the records of our memory. <br />
+	<br><i>Source</i>: <blockquote>All the objects of human reason or enquiry may naturally be divided into two kinds, to wit, relations of ideas, and matters of fact. Of the first kind are the sciences of geometry, algebra, and arithmetic... Matters of fact, which are the second objects of human reason, are not ascertained in the same manner; nor is our evidence of their truth, however great, of a like nature with the foregoing ... It may, therefore, be a subject worthy of curiosity, to enquire what is the nature of that evidence which assures us of any real existence and matter of fact, beyond the present testimony of our senses, or the records of our memory. <br />
 	
-	This part of philosophy, it is observable, has been little cultivated, either by the ancients or moderns, and therefore our doubts and errors, in the prosecution of so important an enquiry, may be the more excusable, while we march through such difficult paths without any guide or direction. They may even prove useful, by exciting curiosity, and destroying that implicit faith and security, which is the bane of all reasoning and free enquiry..." (Enquiry, Section IV:1)</blockquote><br />
+	This part of philosophy, it is observable, has been little cultivated, either by the ancients or moderns, and therefore our doubts and errors, in the prosecution of so important an enquiry, may be the more excusable, while we march through such difficult paths without any guide or direction. They may even prove useful, by exciting curiosity, and destroying that implicit faith and security, which is the bane of all reasoning and free enquiry..." (Enquiry, Section IV:1)</blockquote>
 	
 	<i>Coined by</i>: Anthony Flew in his 1961 Hume's Philosophy of Belief.<br />
 
-	<i>Huminess:</i>: 9/10.<br />
-</li> 
+	<i>Huminess:</i> <span style="color: red">9/10</span>.<br />
+</li><br><br> 
 
 
 <li>
-	<b>Hume's Copy Principle </b>(in philosophy of mind): "all constituents of our thoughts come from experience; all our simple ideas are copies of impressions." HCP is a big axiom that much of his work relies on; this is Hume's empiricism, in miniature. He uses it to test the legitimacy of metaphysical concepts in a similar way to the Fork, and reminiscent of Wittgenstein. I am sad and foolish over this reminiscence, because I realise more and more that the Tractatus isn't as original and invulnerable as it looked when I was 18.<br />
+	<span style="font-weight: bold">Hume's Copy Principle </span>(in philosophy of mind): "all constituents of our thoughts come from experience; all our simple ideas are copies of impressions." HCP is a big axiom that much of his work relies on; this is Hume's empiricism, in miniature. He uses it to test the legitimacy of metaphysical concepts in a similar way to the Fork, and reminiscent of Wittgenstein. I am sad and foolish over this reminiscence, because I realise more and more that the Tractatus isn't as original and invulnerable as it looked when I was 18.<br />
 
-	<i>Source</i>: All over the place, but e.g. <blockquote>"<i>Now since all ideas are derived from impressions, and are nothing but      copies and representations of them, whatever is true of the one must be      acknowledged concerning the other. Impressions and ideas differ only in their strength and vivacity...</i>" (Treatise, I:7)</blockquote><br />
+	<br><i>Source</i>: All over the place, but e.g. <blockquote>"<i>Now since all ideas are derived from impressions, and are nothing but      copies and representations of them, whatever is true of the one must be      acknowledged concerning the other. Impressions and ideas differ only in their strength and vivacity...</i>" (Treatise, I:7)</blockquote>
 
 	<i>Coined by</i>: James Noxon in his 1973 Hume's Philosophical Development: a Study of his Methods?<br />
 
-	<i>Huminess:</i>: 9/10.<br />
-</li>
+	<i>Huminess:</i> <span style="color: red">9/10</span>.<br />
+</li><br><br>
 
 
 
 <li>
-	<b>Hume's dictum</b> <b>(1)</b> (in Metaphysics): "There are no metaphysically necessary connections between wholly distinct, intrinsically typed entities". This dictum is a core sceptical doohickey in the combinatoric juggling games called "causality" and "modality". If you take HD as given, you can read failures of necessitation from one thing to another as a sign of their distinctness, which is useful in various places - for instance in finding the number of doohickeys you have to argue about. 
+	<span style="font-weight: bold">Hume's dictum</span> <span style="font-weight: bold">(1)</span> (in Metaphysics): "There are no metaphysically necessary connections between wholly distinct, intrinsically typed entities". This dictum is a core sceptical doohickey in the combinatoric juggling games called "causality" and "modality". If you take HD as given, you can read failures of necessitation from one thing to another as a sign of their distinctness, which is useful in various places - for instance in finding the number of doohickeys you have to argue about. 
 
 	(Unfortunately 'distinctness' can be given at least <a href="http://philrsss.anu.edu.au/sites/default/files/people/Distinctions.pdf">five readings</a>, and the truth of HD depends on which one you're hearing at one time.) HD stands at a nexus of current debates - motivating, and motivated by, combinatorial theories of possibility, four-dimensionalism, anti-necessitarianism, etc. It also raises a fairly grave <a href="http://plato.stanford.edu/entries/physicalism/#4.5">problem</a> for physicalisms which use the idea of supervenience. <br />
 
-	<i>Source</i>: <blockquote>"<i>There is no object, which implies the existence of any other if we consider these objects in themselves, and never look beyond the ideas which we form of them. Such an inference would amount to knowledge, and would imply the absolute contradiction and impossibility of conceiving any thing different.  But as all distinct ideas are separable, 'tis evident there can be no impossibility of that kind."</i> (Treatise, Book I:III)</blockquote>
+	<br><i>Source</i>: <blockquote>"<i>There is no object, which implies the existence of any other if we consider these objects in themselves, and never look beyond the ideas which we form of them. Such an inference would amount to knowledge, and would imply the absolute contradiction and impossibility of conceiving any thing different.  But as all distinct ideas are separable, 'tis evident there can be no impossibility of that kind."</i> (Treatise, Book I:III)</blockquote>
 
-	<br /><i>Coined by</i>: David Lewis in his 1986 <i>On the Plurality of Worlds</i>. <br />
+	<i>Coined by</i>: David Lewis in his 1986 <i>On the Plurality of Worlds</i>. <br />
 
-	<i>Huminess:</i>: 7/10. (While it is a generalisation of a view he did hold (generalising as it does across any relation between any entities - including e.g. facts; reading "metaphysical necessity" out of his talk of "implication"; and taking his idea of distinctness not to be mere numerical distinctness), HD is now more often applied to possibility, and most often used for distinguishing properties. It's unclear he would have gone in for this.)
+	<i>Huminess:</i> <span style="color: red">7/10</span>. (While it is a generalisation of a view he did hold (generalising as it does across any relation between any entities - including e.g. facts; reading "metaphysical necessity" out of his talk of "implication"; and taking his idea of distinctness not to be mere numerical distinctness), HD is now more often applied to possibility, and most often used for distinguishing properties. It's unclear he would have gone in for this.)
 
 
 <li>
-	<b>Hume's dictum (2)</b> (in meta-ethics): "judgments of fact, apart from desires that might accompany them, do not move us in any way". This is the "motivational inertia of belief" thesis, aimed squarely against moral rationalisms. My favourite word for these positions (one qualified form of which I endorse) is sentimentalism. HD is a mirror of Hume's Law (below): "since there is an is-ought gap, and since reason deals only with matters of fact: one cannot use pure reason to ascertain moral principles."<br />
+	<span style="font-weight: bold">Hume's dictum (2)</span> (in meta-ethics): "judgments of fact, apart from desires that might accompany them, do not move us in any way". This is the "motivational inertia of belief" thesis, aimed squarely against moral rationalisms. My favourite word for these positions (one qualified form of which I endorse) is sentimentalism. HD is a mirror of Hume's Law (below): "since there is an is-ought gap, and since reason deals only with matters of fact: one cannot use pure reason to ascertain moral principles."<br />
 
-	<i>Source</i>: <blockquote>"I shall endeavour to prove first, that reason alone can never be a motive to any action of the will; and secondly, that it can never oppose passion in the direction of the will... Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them." (Treatise, Book II:3)<br /></blockquote>
+	<br><i>Source</i>: <blockquote>"I shall endeavour to prove first, that reason alone can never be a motive to any action of the will; and secondly, that it can never oppose passion in the direction of the will... Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them." (Treatise, Book II:3)<br /></blockquote>
 
 	<i>Coined by</i>: Unknown. Possibly <a href="http://www.humesociety.org/hs/issues/v10n1/nuyen/nuyen-v10n1.pdf">this</a>. <br />
 
-	<i>Huminess:</i>: 6/10. The attribution of this view - and an entailed moral noncognitivism - to Hume has been challenged by several good scholars of his morals (e.g. <a href="http://plato.stanford.edu/entries/hume-moral/#io">Rachel Cohon</a>).
-</li>
+	<i>Huminess:</i> <span style="color: red">6/10</span>. The attribution of this view - and an entailed moral noncognitivism - to Hume has been challenged by several good scholars of his morals (e.g. <a href="http://plato.stanford.edu/entries/hume-moral/#io">Rachel Cohon</a>).
+</li><br><br>
 
 <li>
-	<b>Hume's dictum (3)</b> (in comparative psychology): "when assessing whether some psychological capacity is shared between humans and animals, (1) we should adopt competence criteria that can be fairly applied to both; and (2) set competence criteria for vaguely-defined capacities not to the highest ranks of human performance, but rather only to the typical performan ce of e.g. children." Acts as a counterpoint to Morgan's Canon - which is Occam's Razor for animal minds: "assume animal s lack higher processes if experiments fail to establish them" (Both principles are useful: Buckner suggests using both to navigate between anthropomorphisation and anthropocentrism.)<br /><i>Source</i>: <blockquote>"When any hypothesis . . . is advanc’d to explain a mental operation, which is common to men and beasts, we must apply the same hypothesis to both; and as every true hypothesis will abide this trial, so I may venture to affirm, that no false one will ever be able to endure it.<br />
+	<span style="font-weight: bold">Hume's dictum (3)</span> (in comparative psychology): "when assessing whether some psychological capacity is shared between humans and animals, (1) we should adopt competence criteria that can be fairly applied to both; and (2) set competence criteria for vaguely-defined capacities not to the highest ranks of human performance, but rather only to the typical performan ce of e.g. children." Acts as a counterpoint to Morgan's Canon - which is Occam's Razor for animal minds: "assume animal s lack higher processes if experiments fail to establish them" (Both principles are useful: Buckner suggests using both to navigate between anthropomorphisation and anthropocentrism.)<br /><br><i>Source</i>: <blockquote>"When any hypothesis . . . is advanc’d to explain a mental operation, which is common to men and beasts, we must apply the same hypothesis to both; and as every true hypothesis will abide this trial, so I may venture to affirm, that no false one will ever be able to endure it.<br />
 	
-	The common defect of those systems, which philosophers have employ’d to account for the actions of the mind, is, that they suppose such a subtility and refinemen of thought, as not only exceeds the capacity of mere animals but even of children and the common people in our own species." (Treatise, Book II:16)</blockquote><br />
+	The common defect of those systems, which philosophers have employ’d to account for the actions of the mind, is, that they suppose such a subtility and refinemen of thought, as not only exceeds the capacity of mere animals but even of children and the common people in our own species." (Treatise, Book II:16)</blockquote>
 	
 	<i>Coined by</i>: Cameron Buckner in <a href="http://www.academia.edu/3199962/Morgans_Canon_Meet_Humes_Dictum_Avoiding_Anthropofabulation_in_Cross-Species_Comparisons">this cool paper</a>.<br />
 
-	<i>Huminess:</i>: 7/10. <br />
-</li>
+	<i>Huminess:</i> <span style="color: red">7/10</span>. <br />
+</li><br><br>
 
 <li>
-	<b>Hume's maxim</b> (in epistemology / science): "extraordinary claims require extraordinary evidence". In which Hume founds a powerful proto-Bayesian tradition, just to question one kind of unusual claim: miracles. (In the detail, he finds it can never be rational to believe in miracles.) As you can imagine, this gets wielded in atheist circles a lot. The Bayesians have spilled <a href="http://www.davidhume.org/papers/millican/2003%20Hume%20Miracles%20Probabilities.pdf">much ink</a> over the argument (cf. Hume’s  Abject  Failure). Thus as recently as 2003 the view had to be defended <a href="http://people.ucsc.edu/~otte/articles/otte.fogelin.proof.pdf">at book-length</a>.<br /><i>Source</i>: <blockquote>"In our reasonings concerning matter of fact, there are all imaginable degrees of assurance, from the highest certainty to the lowest species of moral evidence. A wise man, therefore, proportions his belief to the evidence... The plain consequence is (and it is a general maxim worthy of our attention), That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish: And even in that case, there is a mutual destruction of arguments, and the superior only gives us an assurance suitable to that degree of force, which remains, after deducting the inferior." (On Miracles, Part 1)</blockquote>
+	<span style="font-weight: bold">Hume's maxim</span> (in epistemology / science): "extraordinary claims require extraordinary evidence". In which Hume founds a powerful proto-Bayesian tradition, just to question one kind of unusual claim: miracles. (In the detail, he finds it can never be rational to believe in miracles.) As you can imagine, this gets wielded in atheist circles a lot. The Bayesians have spilled <a href="http://www.davidhume.org/papers/millican/2003%20Hume%20Miracles%20Probabilities.pdf">much ink</a> over the argument (cf. Hume’s  Abject  Failure). Thus as recently as 2003 the view had to be defended <a href="http://people.ucsc.edu/~otte/articles/otte.fogelin.proof.pdf">at book-length</a>.<br /><br><i>Source</i>: <blockquote>"In our reasonings concerning matter of fact, there are all imaginable degrees of assurance, from the highest certainty to the lowest species of moral evidence. A wise man, therefore, proportions his belief to the evidence... The plain consequence is (and it is a general maxim worthy of our attention), That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish: And even in that case, there is a mutual destruction of arguments, and the superior only gives us an assurance suitable to that degree of force, which remains, after deducting the inferior." (On Miracles, Part 1)</blockquote>
 
-	<br /><i>Coined by</i>: Himself (see brackets in that source). Still gets called "Hume's dictum" (4) sometimes.<br /><i>Huminess:</i>: 7/10? (Since Robert Fogelin calls the above, standard interpretation of On Miracles as apriori a 'gross misreading'.)<br />
-</li>
-
-<li>
-	<b>Hume's Theorem:</b> <a href="http://www.millican.org/papers/1993HumesTheorem.pdf">formalisation</a> of Hume's Maxim. From Sobel (1991).
-</li>
-
+	<i>Coined by</i>: Himself (see brackets in that source). Still gets called "Hume's dictum" (4) sometimes.<br /><i>Huminess:</i> <span style="color: red">7/10</span>? (Since Robert Fogelin calls the above, standard interpretation of On Miracles as apriori a 'gross misreading'.)<br />
+</li><br><br>
 
 <li>
-	<b>Hume's Maxim of Conceivability</b>: "Conceivability implies [metaphysical] possibility." Held by many people before Hume, not least Descartes a full hundred years earlier, but never mind primacy, we're in the get-close-to-our-hero business.<br />
-
-	<i>Source</i>: <blockquote>"<i>Tis an establish'd maxim in metaphysics, That whatever the mind clearly conceives includes the idea of possible existence, or in other words, that nothing we imagine is absolutely impossible. We can form the idea of a golden mountain, and from thence conclude that such a mountain may actually exist. We can form no idea of a mountain without a valley, and therefore regard it as impossible.</i>"</blockquote><br />
-
-	<i>Coined by</i>: Thomas Reid, in a way, since he addressed his attacks on the MoC to Hume rather than any antecedents.<br /><i>Huminess:</i>: Yes.<br /></li>
+	<span style="font-weight: bold">Hume's Theorem:</span> <a href="http://www.millican.org/papers/1993HumesTheorem.pdf">formalisation</a> of Hume's Maxim. From Sobel (1991).
+</li><br><br>
 
 
 <li>
-	<b>Hume's Postulate</b>: "The assumption that interesting probabilities can only be obtained from completely straightforward evidence." Cool move, specifying that inductive logic can only be properly applied given good epistemic positions, minimising theory-ladenness. <br />
+	<span style="font-weight: bold">Hume's Maxim of Conceivability</span>: "Conceivability implies [metaphysical] possibility." Held by many people before Hume, not least Descartes a full hundred years earlier, but never mind primacy, we're in the get-close-to-our-hero business.<br />
 
-	<i>Source</i>: Maybe: <blockquote>Our reason must be consider'd as a kind of cause, of which truth is the natural effect; but such-a-one as by the irruption of other causes, and by the inconstancy of our mental powers, may frequently be prevented" and None but a fool or madman will ever pretend to dispute the authority of experience, or to reject that great guide of human life." (Treatise, IV:1)</blockquote>
+	<br><i>Source</i>: <blockquote>"<i>Tis an establish'd maxim in metaphysics, That whatever the mind clearly conceives includes the idea of possible existence, or in other words, that nothing we imagine is absolutely impossible. We can form the idea of a golden mountain, and from thence conclude that such a mountain may actually exist. We can form no idea of a mountain without a valley, and therefore regard it as impossible.</i>"</blockquote>
 
-	<br /><i>Coined by</i>: Ian Hacking, in his 'Linguistically Invariant Inductive Logic'. Though Hacking accepts the Postulate, he goes on to develops a logic that doesn't need it for anyone who really doesn't want to use it.<br />
-
-	<i>Huminess:</i>: 5/10<br />
-</li>
+	<i>Coined by</i>: Thomas Reid, in a way, since he addressed his attacks on the MoC to Hume rather than any antecedents.<br /><i>Huminess:</i> Yes.<br /></li><br><br>
 
 
 <li>
-	<b>Hume's Law</b> (in meta-ethics): "you can't get an ought from an is". Logical thesis asserting that you can't deduce moral conclusions from non-moral premises. An early identification of the naturalistic 'fallacy'. The is-ought gap has come under fire since its forty years of hegemony (c.1910-1950), the best being Putnam on <a href="http://janusblog.squarespace.com/dnaturalismnormativity/post/345193">"thick"</a> concepts. There's a great discussion of how HL can still be defended <a href="http://www.artsci.wustl.edu/~grussell/Defense.pdf">here</a>.<br />
+	<span style="font-weight: bold">Hume's Postulate</span>: "The assumption that interesting probabilities can only be obtained from completely straightforward evidence." Cool move, specifying that inductive logic can only be properly applied given good epistemic positions, minimising theory-ladenness. <br />
 
-	<i>Source</i>: <blockquote><i>In every system of morality ... all of a sudden I am surprised to find, that instead of the usual copulations of propositions, is, and is not, I meet with no proposition that is not connected with an ought, or an ought not. This change is imperceptible; but is however, of the last consequence. 
+	<br><i>Source</i>: Maybe: <blockquote>Our reason must be consider'd as a kind of cause, of which truth is the natural effect; but such-a-one as by the irruption of other causes, and by the inconstancy of our mental powers, may frequently be prevented" and None but a fool or madman will ever pretend to dispute the authority of experience, or to reject that great guide of human life." (Treatise, IV:1)</blockquote>
+
+	<i>Coined by</i>: Ian Hacking, in his 'Linguistically Invariant Inductive Logic'. Though Hacking accepts the Postulate, he goes on to develops a logic that doesn't need it for anyone who really doesn't want to use it.<br />
+
+	<i>Huminess:</i> <span style="color: red">5/10</span><br />
+</li><br><br>
+
+
+<li>
+	<span style="font-weight: bold">Hume's Law</span> (in meta-ethics): "you can't get an ought from an is". Logical thesis asserting that you can't deduce moral conclusions from non-moral premises. An early identification of the naturalistic 'fallacy'. The is-ought gap has come under fire since its forty years of hegemony (c.1910-1950), the best being Putnam on <a href="http://janusblog.squarespace.com/dnaturalismnormativity/post/345193">"thick"</a> concepts. There's a great discussion of how HL can still be defended <a href="http://www.artsci.wustl.edu/~grussell/Defense.pdf">here</a>.<br />
+
+	<br><i>Source</i>: <blockquote><i>In every system of morality ... all of a sudden I am surprised to find, that instead of the usual copulations of propositions, is, and is not, I meet with no proposition that is not connected with an ought, or an ought not. This change is imperceptible; but is however, of the last consequence. 
 	
 	<br />For as this ought, or ought not, expresses some new relation or affirmation, 'tis necessary that it should be observed and explained; and at the same time that a reason should be given; for what seems altogether inconceivable, how this new relation can be a deduction from others, which are entirely different from it. But as authors do not commonly use this precaution, I shall presume to recommend it to the readers; and am persuaded, that this small attention would subvert all the vulgar systems of morality, and let us see, that the distinction of vice and virtue is not founded merely on the relations of objects, nor is perceived by reason." (Treatise, Book III:1.)</i></blockquote>
 	<br />
 	
-	<i>Coined by</i>: RM Hare's 1963 Freedom and Reason. (HL is also known as "<a href="http://aawolf.mysite.syr.edu/HG%20AJP%202014.pdf">Hume's Guillotine</a>", from Max Black (1964) and "<a href="http://journals.cambridge.org/action/displayFulltext?type=1&fid=3480652&jid=PHI&volumeId=52&issueId=201&aid=3480644">Hume's Rule</a>" (1977), both of which imply that insisting on the total division of the two is an active stance - one is guillotining naturalistic theories, rather than just describing a gap.)<br />
+	<i>Coined by</i>: RM Hare's 1963 Freedom and Reason. (HL is also known as "<a href="http://aawolf.mysite.syr.edu/HG%20AJP%202014.pdf">Hume's Guillotine</a>", from Max Black (1964) and "<a href="http://journals.cambridge.org/action/displayFulltext?type=1&fid=3480652&jid=PHI&volumeId=52&issueId=201&aid=3480644">Hume's Rule</a>" (1977), both of which imply that the dichotomy is an action - one <i>guillotines</i> naturalistic theories, rather than just describing a gap.)<br />
 
-	<i>Huminess:</i>: 7/10. </li>
+	<i>Huminess:</i> <span style="color: red">7/10</span>. </li><br><br>
 </ul>
 <br />
 
-
 <hr />
 <br />
 
-<hr /><blockquote><i>There are many Humes out there. There is Hume the epistemologist, or more exactly the epistemologist whose project 'failed' because he lacked the philosophical resources of the twentieth century — namely, either a Fregean or (late) Wittgensteinian theory of meaning and language. There is Hume the skeptic. Then there is the Hume who is held up as the darling of free market, laissez-faire capitalism. I prefer to think of Hume as a realist, or, and this may express it better, a hyper-realist. Yes Hume is a skeptic, but why is he a skeptic?"<br /></i>
-– Jeffrey Bell 
+</li></li></blockquote></li></li></ul>
+
+> There are many Humes out there. There is Hume the epistemologist, or more exactly the epistemologist whose project 'failed' because he lacked the philosophical resources of the twentieth century — namely, either a Fregean or (late) Wittgensteinian theory of meaning and language. There is Hume the skeptic. Then there is the Hume who is held up as the darling of free market, laissez-faire capitalism. I prefer to think of Hume as a realist, or, and this may express it better, a hyper-realist. Yes Hume is a skeptic, but why is he a skeptic?"
+
+<center>– Jeffrey Bell </center>
 
 <br />
 
-"[Hume's] empiricism is a sort of science fiction avant la lettre. As in science fiction, one has the impression of a fictive, foreign world, seen by other creatures - but also the presentiment that this world is already ours, and those creatures, ourselves... Science or theory is an inquiry, which is to say, a practice; a practice of the seemingly fictive world that empiricism describes."<br /><br>
-– Gilles Deleuze; mad thing to say</blockquote></div>
-
-<br />
-It doesn't stop there. Hume talk is usually about the Analytic Hume, the quintessential sceptical naturalist enshrined above, the weighty figure who lends himself to the crunchy formalism and speculative parsimony of our time. But! this is an odd, selective reading of his work. (A '<a href="http://muse.jhu.edu/journals/hph/summary/v031/31.1watson01.html">shadow history</a>', in Richard Watson's helpful phrase.)
-
-<br />
-So there's a surprising movement to reclaim Hume as Continental humanist and nominalist. (<a href="http://www.amazon.co.uk/David-Hume-Philosopher-Continental-Contemporary/dp/1438442149">Look at the fucking title of this book!</a>) These readings are a bit less shadowy, since they are well aware that they're reconstructing when they read, and since they're in the habit of tagging readings of philosophers with the reader's name (e.g. "Deleuze's Hume"; "Zizek's Hegel"). I <a href="http://afterallitcouldbeworse.blogspot.co.uk/2011/04/my-public-ignorance-1.html">unwittingly participated</a> in this move when I was starting to teach myself Continental stuff. (For examples, see <a href="http://www.angelo.edu/faculty/jglassford/my%20publications%20encrypted/Deleuze%20on%20Hume2.pdf">here</a> or <a href="http://www.humesociety.org/hs/issues/v19n1/parusnikova/parusnikova-v19n1.pdf">here</a>.)
+> [Hume's] empiricism is a sort of science fiction avant la lettre. As in science fiction, one has the impression of a fictive, foreign world, seen by other creatures - but also the presentiment that this world is already ours, and those creatures, ourselves... Science or theory is an inquiry, which is to say, a practice; a practice of the seemingly fictive world that empiricism describes."
+<center>– Gilles Deleuze; what a mad thing to say </center>
 
 <br />
 
-The revisionists point out that Hume neither solves nor dismisses many of the problems he raises (e.g. of induction, morals, causality, identity). He doesn't view this failure of (his) philosophy as a cause for angst, either. He's anti-foundationalist, anti-transcendental, psychologistic, "fundamentally aesthetic" - thus, one of them, or near enough. They overlook his being a enthusiastic experimentalist because he does this pragmatically and with irony. Best of all, personal identity is <a href="http://www3.sympatico.ca/saburns/pg0725e10.htm">underdetermined</a> and unstable ("upon a more strict review of the section concerning personal identity, I find myself involv'd in such a labyrinth, that, I must confess, I neither know how to correct my former opinions, nor how to render them consistent"). This all suggests irony. <br />
+It doesn't stop there. Hume talk is usually about the Analytic Hume, the quintessential sceptical naturalist enshrined above, the lodestar who lends himself to our crunchy formalism and parsimony. But this is not the only reading of him. (A '<a href="http://muse.jhu.edu/journals/hph/summary/v031/31.1watson01.html">shadow history</a>', in Richard Watson's helpful phrase.)
+
+<br />
+Others claim Hume as a Continental humanist and nominalist. (<a href="http://www.amazon.co.uk/David-Hume-Philosopher-Continental-Contemporary/dp/1438442149">Look at the title of this book!</a>) These readings wear their reconstructive (revisionist) status openly, and are in the habit of tagging readings of philosophers with the reader's name (e.g. "Deleuze's Hume"; "Zizek's Hegel"). I unwittingly participated in this when I was starting to teach myself Continental stuff. (e.g. <a href="http://www.angelo.edu/faculty/jglassford/my%20publications%20encrypted/Deleuze%20on%20Hume2.pdf">here</a> or <a href="http://www.humesociety.org/hs/issues/v19n1/parusnikova/parusnikova-v19n1.pdf">here</a>.)
 <br />
 
-The Continental Hume first appeared ages ago, in a 1953 book by the outsider's outsider, Deleuze. He talks about Hume as an early phenomenologist, a 'transcendental empiricist', of all things. This is bizarre because I had taken empiricism to be the philosophy of looking outward, of trying not to be just a subject. ("Empiricism is by no means a reaction     against concepts ... On the contrary, it undertakes the most insane creation of concepts     ever." - GD) He's a gnomic and speculative writer, full of needless neologism and sententious contortions; but the project that Deleuze's Hume undertakes is super-original, and <a href="http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199256525.001.0001/acprof-9780199256525-chapter-5">genuinely can</a> be found in the books. That project consists in the questions "how do the multiplicity of ideas in the imagination become a system?" (which sounds like what we now call the <a href="http://en.wikipedia.org/wiki/Binding_problem">Binding problem</a>); "How is the subject (human nature) constituted within the given?" - without transcendental principles, how can a person more than the sum of their ideas arise? - and "How can things like us be ampliative, get past today's sunrise to tomorrow's, etc?")<br />
+These revisionists point out that Hume neither solves nor dismisses many of the problems he raises (e.g. of induction, morals, causality, identity). He doesn't view this failure of (his) philosophy as a cause for angst, either. He's anti-foundationalist, anti-transcendental, psychologistic, "fundamentally aesthetic" - thus, one of them, or near enough. They overlook his being a enthusiastic experimentalist. Best of all, personal identity is <a href="http://www3.sympatico.ca/saburns/pg0725e10.htm">underdetermined</a> and unstable.
+
+> upon a more strict review of the section concerning personal identity, I find myself involv'd in such a labyrinth, that, I must confess, I neither know how to correct my former opinions, nor how to render them consistent.
+
+The Continental Hume first appeared ages ago, in a 1953 book by Deleuze, before he got really strange. He talks about Hume as a phenomenologist, a 'transcendental empiricist', of all things. This is bizarre because I had taken empiricism to be the philosophy of looking outward, of trying not to be just a subject. ("Empiricism is by no means a reaction     against concepts ... On the contrary, it undertakes the most insane creation of concepts     ever." - GD) He's a gnomic and speculative writer, full of needless neologism and sententious contortions; but it's interesting, and it <a href="http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199256525.001.0001/acprof-9780199256525-chapter-5">doesn't take much</a> to find something like this in Hume's writing. That project consists in the questions "how do the multiplicity of ideas in the imagination become a system?" (sounds like the <a href="http://en.wikipedia.org/wiki/Binding_problem">Binding problem</a>); "How is the subject (human nature) constituted within the given?" - without transcendental principles, how can a person more than the sum of their ideas arise? - and "How can things like us be ampliative, get past today's sunrise to tomorrow's, etc?")<br />
 <br />
 
-In brief: "Nature causes human nature - which then governs itself oddly and creatively. "We are habits, nothing but habits – the habit of saying ‘I’.  Perhaps there is no more striking answer to the problem of the Self. "We are made of involuntary associations and imagination. Reason is passive; perception is passive; therefore only imagination is active and powerful. Belief is the application of habits, our instinctively going beyond the given. "Belief and invention are the two modes of [natural] transcendence." Imagination is power is madness." It's a charming picture. <br />
-<br />
+<div class="accordion">
+	<h3>A suggestive Markov chain</h3>
+	<div>
+		Deleuze: 
+		<blockquote>We are habits, nothing but habits – the habit of saying ‘I’.  Perhaps there is no more striking answer to the problem of the Self. Belief is the application of habits, our instinctively going beyond the given. Belief and invention are the two modes of [natural] transcendence.
+		</blockquote>
+	</div>
+</div><br>
 
-One thing I really dislike about postmodern stuff is when it totally ignores Nature, goes off to hide inside its anthropocentric,  irreferential, politicised bubble. Whatever else is wrong with his work, Deleuze does not do this, and - no matter how many poststructuralist themes you project on to him - Hume certainly doesn't.
+
+One thing I really dislike about 'postmodern' stuff is when it totally ignores the unequivocal constraints of nature, hides in its anthropocentric, irreferential, politicised bubble. Whatever else is wrong with his work, Deleuze does not entirely do this, and - no matter how many poststructuralist themes you project on to him - Hume certainly doesn't.
 
 <br>
 
@@ -178,7 +192,7 @@ One thing I really dislike about postmodern stuff is when it totally ignores Nat
 
 <br>
 
-The appropriations are also celebrations - we are all crowding to get close to him - flattering, saying how similar we feel! 
+The appropriations are also celebrations - we are crowding to get close to him - how similar we feel! 
 
 
 <br><br><br>

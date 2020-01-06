@@ -1,0 +1,71 @@
+<div class="accordion">
+	<h3>Comments</h3>
+	<div>
+	    <br>
+	    <b>Hugh</b> commented:
+	    <p><blockquote>   
+    Respecting explicitly stated boundaries is good habits, and a way to focus limited resources on more constructive ends.<br><br>
+    Every second Harry spends agonising over (and, later, justifying) his 
+    choice is a second he could be spending thinking about the best way to 
+    get the rest of the platoon home safely.<br><br>
+    "absent deception" isn't pointing the way you think it is. Tom's "please don't" could be a mask for various arguments he can't say explicitly: "I'm convinced that the enemy is a lot more humane to prisoners than our propaganda says, but I don't want to undercut morale by saying that in front of everyone, and considering my circumstances you'd probably decide this well-thought-out belief of mine is wishful thinking", "I have a 
+    brilliant plan for surviving the enemy which we don't have time for me to explain and which I know you wouldn't expect to work", "I didn't actually hurt my leg that badly, I'm just using this as an excuse to desert with a facade of honor", etc.<br><br>
+    <!--  -->
+    Tom is opaque to Harry, but also Harry is opaque to the rest of the world. An army where you can coup-de-grace someone who didn't ask you to is one where unpopular privates just 'happen' to walk into a lot of traps, which just 'happen' to make them 'impossible' to save.<br><br>
+    Ignoring explicitly stated boundaries when you think you have a good reason is just one of those things, like 
+    military interventions in the Middle East, that keeps being less effective than it seems like it should, even when you think you've taken this effect into account.	    </blockquote>
+	    <hr><br><br>
+<!--  -->
+<!--  -->
+<!--  -->
+	{% if site.data.comments[slug] %}
+<!--  -->
+	  {% assign comments = site.data.comments[slug] | sort %}
+<!--  -->
+	  {% for comment in comments %}
+	    <br>
+	    <b>{{ comment[1].name }}</b> commented on <em>{{ comment[1].date | date: "%d %B %Y" }}</em> :
+	    <p><blockquote>{{ comment[1].message | markdownify }}</blockquote>
+	    <hr>
+	  {% endfor %}
+	  <p>
+	{% endif %}
+<!--  -->
+<!--  -->
+<!--  -->
+	<div style="padding:20px; padding-bottom: 80px; text-align: center;">
+<!--  -->
+	<big>Post a comment (with Markdown):</big><br><br>
+<!--  -->
+		<form method="POST" action="{{site.comments_integration_url}}" >
+		  	<input name="options[redirect]" type="hidden" value="http://gleech.org">
+			
+		  	<input name="options[slug]" type="hidden" value="{{ slug }}">
+			<input name="fields[name]" type="text" placeholder="your name">
+			<input name="fields[email]" type="email" placeholder="at@at.com"><br><br>
+			<textarea name="fields[message]" placeholder="
+
+			Comments appear after moderation btw." style="height:150px;width:70%;"></textarea><br>
+
+			<button id="sub" type="submit">Post</button><br>
+			<input type="checkbox" id="guardBox" name="guard" value="enableSubmit">Enable submit button<br>
+		</form>
+	</div>
+
+	</div>
+</div><br>
+
+
+<!-- Too much spam; let's see if this works -->
+<script>
+	const submit = document.getElementById("sub")
+	submit.disabled = true;
+
+	const checkbox = document.getElementById('guardBox')
+
+	checkbox.addEventListener('change', (event) => {
+	  if (event.target.checked) {
+	    submit.disabled = false;
+	  } 
+	})
+</script>

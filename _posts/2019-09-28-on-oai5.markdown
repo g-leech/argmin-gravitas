@@ -6,7 +6,7 @@ permalink:  /dota
 date:       2019-08-23
 author:     Gavin
 
-img:        /img/
+img:        /img/oai5.jpeg
 published:	true
 visible: 	1
 
