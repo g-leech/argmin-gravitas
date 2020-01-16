@@ -5,7 +5,7 @@ baselink:   /ages
 permalink:  /ages
 date:       2020-01-16
 author:     Gavin   
-img:        /img/funes.png
+img:        /img/funes.jpg
 
 visible:    1
 published:  true
