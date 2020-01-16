@@ -1,0 +1,49 @@
+---
+layout:     math_post
+title:      "A decomposition of decompositions"
+baselink:   /ages
+permalink:  /ages
+date:       2020-01-16
+author:     Gavin   
+img:        /img/funes.png
+
+visible:    1
+published:  true
+
+summary:    5 kinds of ageing I thought up.
+confidence: N/A, definition chopping and social speculation.
+importance: 6
+warnings:   death, senescence, futurist nonsense
+---
+
+<!-- <a href="//1.bp.blogspot.com/-oixuuxzYu2g/VfrdneIrHeI/AAAAAAAACYQ/zWEhItNKM0M/s1600/book1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src="//1.bp.blogspot.com/-oixuuxzYu2g/VfrdneIrHeI/AAAAAAAACYQ/zWEhItNKM0M/s400/book1.jpg" width="374"></a> -->
+
+Age is at least five different things which we currently, sensibly, treat the same. (We do this by using just one integer, 'years since birth', as its only measure.) What things is age?<br />
+<br />
+<ol>
+	<li><i>Periodisation.</i> A person's place in history, extremely well covered by date of birth. Through DOB we get a sense of what cluster of opinions they will probably hold.</li>
+<br />
+	<li><i>Biological age.</i> A person's senescence. The age-integer is also used a proxy for how much help a person needs or deserves, <i>and</i> how much production you can expect from someone, with 65 years an arbitrary threshold in most of the developing world. Philosophically, it would make a lot of sense to collapse old-age welfare into disability welfare, since old age <i>is</i> disability, and since both resource allocations seek the amelioration of a difficult life. But, politically, this would be a bad move for the old, since it's pretty easy to slash disability spending but (currently-disbursing) pensions are heavily guarded.</li>
+<br />
+	<li><i>Total subjective time.</i> How much have they been through, consciously? This measure is not respected yet; for instance, we call people who wake from long comas by the age indicated by their date of birth, and expect corresponding behaviour from them. What does dementia to this variable - do forgotten experiences not count towards one's subjective age? does forgetting make you 'younger'? </li>
+<br />
+	<li><i>Social status allocated.</i> Much of history was gerontocratic: you served your time and earned power just by being old. This pressure (which led to e.g. polygamy for the old élites) is at odds with the presumable motive of judging people by age type (2): as proxy for reproductive fitness. Western culture has probably overcompensated in the other direction by now.</li>
+<br />
+	<li><i>Wisdom or <a href="http://i-am-on-the-internet.tumblr.com/post/127591500573/emotional-maturity-emotional-maturity-is-a">maturity</a></i>. We even try to use the age-integer as a measure of profoundness and credibility, probably as a result of (4). We call wise young people 'old souls'. When staying alive was a hard thing to do, (2) was informative.</li>
+</ol>
+<br />
+
+
+At the moment, the age-integer carries a lot of mutual information about these 5 things. But we can expect this to decline; technology is beginning to unpick the senses. (1) and (2) are already quite divergent: people with the same date of birth <a href="http://www.independent.co.uk/life-style/health-and-families/health-news/scientists-develop-blood-test-that-estimates-how-quickly-people-age--and-their-risk-of-alzheimers-10488850.html">vary widely by metabolic and mental integrity</a>. Genetic engineering could make this a chasm: think of the social upheaval of a 100 year old CEO, Olympean; a cryonics survivor with 200 years between their DOB origin and the apparent wear on their body; <i>living people</i> who remember the days when women <a href="https://en.wikipedia.org/wiki/Artificial_uterus">had to drag around</a> new people, <a href="http://data.worldbank.org/indicator/SH.STA.MMRT">often unto death</a>. Memory enhancements could affect (3), the phenomenology of age in hard to conceive ways. (Some fictional evidence <a href="https://en.wikipedia.org/wiki/Funes_the_Memorious">here</a> from a master of the barely conceivable).<br />
+<br />
+Much later, in space, <a href="https://en.wikipedia.org/wiki/Time_dilation">time dilation</a> and [whatever <a href="https://en.wikipedia.org/wiki/Suspended_animation">hibernation method</a> sticks] could make (1), (2) and (3) diverge complexly; when, in <i>Interstellar</i>, the doctor tells Cooper he looks good for being 127 years old, he is saying something importantly false, because (3) Cooper did not experience, and (2) his body does not wear 80 of those years.  
+<br /><br />
+
+Some of you will be thinking 'Huh! The age-integer sucks. Let's not use numbers to categorise people'. On the contrary! we just need four more good ones.
+
+<br><br>
+
+_This is surely not novel, but it was original, so I'm recording it as an early (2015) solid piece of conceptual analysis._
+
+
+{%  include comments.html %}
