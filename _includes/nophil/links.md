@@ -8,6 +8,8 @@
 {%		assign stove = "http://web.maths.unsw.edu.au/~jim/wrongthoughts.html"	%}
 {%		assign depression = "http://leiterreports.typepad.com/blog/2015/02/mental-illness-in-academic-philosophy.html"	%}
 {%		assign dep = "https://en.wikipedia.org/wiki/Epidemiology_of_depression"	%}
+{%		assign gbd = "http://ghdx.healthdata.org/gbd-results-tool?params=gbd-api-2017-permalink/6fe2cff6007e77cf82251c33fbf12a36"		%}
+{%		assign nature = "https://www.nature.com/articles/nbt.4089"		%}
 {%		assign rad = "https://en.wikipedia.org/wiki/Radical_skepticism"	%}
 {%		assign budd = "https://books.google.co.uk/books?id=CZpXBqwDTGYC&amp;pg=PA211&amp;lpg=PA211&amp;source=bl&amp;ots=udrj_b4hwX&amp;sig=sMVk-5X7Ls_s7ckzB-B2Nm2wDF4&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj25Y3Gou7WAhXnrlQKHdw9Ax4Q6AEIVTAL#v=onepage&amp;q=%22dark%20night%22&amp;f=false"	%}
 {%		assign sss = "https://en.wikipedia.org/wiki/State_space_search"	%}

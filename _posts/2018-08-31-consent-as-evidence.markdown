@@ -12,6 +12,7 @@ visible: 	1
 
 summary:    Dissolving a thought-experiment about consequentialism.
 confidence:	80%. Surely not original.
+warnings:	euthanasia, murder, consent, critical about basic rights
 categories: 
 importance: 8
 count:		1000

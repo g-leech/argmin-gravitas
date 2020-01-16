@@ -14,7 +14,7 @@ summary:    The stalled revolution in personal biochemistry.
 categories: 
 confidence: 70%
 importance: 4
-count:      
+count:      500
 ---
 
 {%	include pills/links.html		%}
@@ -23,11 +23,11 @@ count:
 
 In the last century, half a revolution happened: you can now buy <a href="{{thousands}}">many thousands of substances</a> that claim to promote health, and a couple of them do. The promise is of fine control over health: the prevention of idiosyncratic disorders, and/or aiming at the huge and murky area of "subclinical" human health problems, all the minor things that make life worse. 
 
-And so <a href="{{uk}}">most UK adults</a> take supplements (about half of those multivitamins). Several problems with this:
+And so <a href="{{uk}}">most UK adults</a> take supplements (about half of those multivitamins). Several problems with this:<br>
 
 1. _Absence of general evidence / Evidence of harm_. Many supposedly health-promoting substances have uselessly weak evidence. For instance, <a href="{{multi}}">frequent use of multivitamins</a> is probably somewhat harmful,: they _increase_ mortality for the average user, due to overdosing you with antioxidants. <br>
 
-2. _Physiology is personal_. Even for substances that have general warrant, the inter-person variation in their effects and side-effects can be enormous. (For instance, <a href="{{caff}}">some people</a> don't get _any_ stimulation from caffeine for genetic reasons.) <br>
+2. _Physiology is personal_. Even for substances that have general warrant, the 'heterogeneity' in their effects and side-effects can be enormous, even for quite closely matched pairs. (For instance, <a href="{{caff}}">some people</a> don't get _any_ stimulation from caffeine for genetic reasons. Morphine, the central example of a powerful and basic drug, has a <a href="{{morph}}">"number needed to treat" post-op pain of <i>2.9</i></a> - i.e. on average a high dose only beats placebo for one in three people!) <br>
 
 3. _Geographical and seasonal variation_: for instance, during winter, around <a href="{{d}}">a third</a> of UK adults are deficient in vitamin D.<br>
 
@@ -46,9 +46,9 @@ The missing half of the revolution is measurement. The sensible supplementer nee
 
 A shame that <a href="{{ioan}}">general</a> <a href="{{ioan2}}">clinical</a> <a href="{{ebm}}">findings</a> are so <a href="{{ioan3}}">unreliable</a>, and that getting strong personal data remains the province of <a href="{{selves}}">heroically nerdy people</a>, willing to invest dozens of hours into <a href="{{sarek}}">self-experimentation</a> (reading papers, double-blinding with self-filled capsules, data collection), including learning <a href="{{g}}">how to analyse the results</a> sensibly. There's something sad about this: that external validity is so hard in biomed (and society...) that all we can really trust is local inference, n-of-1 description.
 
-Despite plummeting measurement costs (blood tests down by 100x, genome down by 100,000x, all the consumer gizmos), the money and time required for an actually-scientific supplement habit are still prohibitive. So you take safe inexpensive things and live with the uncertainty - or, more, you rely on <a href="{{algernon}}">a prior</a> that evolution is hard to beat on body matters, and lean against taking anything except the most convincing. 
+Despite plummeting measurement costs (blood tests down by 100x, genome sequencing down by 100,000x, all the consumer QS gizmos), the money and time required for an actually-scientific supplement habit are still prohibitive. So: you take safe inexpensive things and live with the uncertainty - or, more, you rely on <a href="{{algernon}}">a prior</a> that evolution is hard to beat on body matters, and lean against taking anything except the most convincing substances. 
 
-There are economies of scale to operationalising research, testing batches and filling capsules. So is this a gap in the market? I don't really know, I just know I want it to exist. (There are already well-funded <a href="{{vitl}}">toy versions</a> of a personalised service, but their offering is pretty superficial so far.)
+There are economies of scale to summarising and operationalising research, testing batches, and filling capsules. So is this a gap in the market? I don't really know, I just want it to exist. (There are already well-funded <a href="{{vitl}}">toy versions</a> of a personalised service, but their offering is pretty superficial so far.)
 
 
 <br><br>

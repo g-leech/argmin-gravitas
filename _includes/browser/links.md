@@ -58,7 +58,7 @@
 {%		assign compare = "https://thatoneprivacysite.net/vpn-comparison-chart/"		%}
 
 {%		assign pi = "https://www.raspberrypi.org/products/#buy-now-modal"		%}
-{%		assign troy = "https://www.troyhunt.com/mmm-pi-hole/"		%}
+{%		assign troyPi = "https://www.troyhunt.com/mmm-pi-hole/"		%}
 {%		assign hole = "https://github.com/pi-hole/pi-hole#alternative-semi-automated-install-methods"	%}
 {%		assign abp = "https://adblockplus.org/"	%}
 

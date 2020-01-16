@@ -14,7 +14,7 @@ summary:    Contemporary uses of David Hume (or anyway his name).
 confidence:	95%.
 categories: 
 importance: 3
-count:		
+count:		3000
 ---
 
 {%  include hume/links.md   %}

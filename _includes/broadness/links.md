@@ -11,6 +11,8 @@
 {%	assign abc = "http://www.naturalthinker.net/trl/texts/Russell,Bertrand/Science/Bertrand%20Russell%20%20-%20ABC%20of%20Relativity.pdf"	%}
 {%	assign epis = "https://www.gutenberg.org/files/37090/37090-h/37090-h.htm"		%}
 {%	assign politics = "http://www.gutenberg.org/ebooks/17350"		%}
+{%	assign ethics = "https://plato.stanford.edu/entries/russell-moral/"	%}
+{%	assign metap = "https://www.iep.utm.edu/russ-met/"		%}
 {%	assign lang = "https://en.wikipedia.org/wiki/On_Denoting"		%}
 {%	assign histo = "https://philosophy.stackexchange.com/questions/10918/how-inaccurate-is-bertrand-russells-history-of-western-philosophy"		%}
 {%	assign religion = "https://global.oup.com/academic/product/religion-and-science-9780195115512?cc=us&lang=en&"	%}
