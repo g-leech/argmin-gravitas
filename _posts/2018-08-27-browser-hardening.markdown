@@ -123,7 +123,7 @@ But besides being ugly, besides following you without your consent, they take yo
 
 Everyone knows <a href="{{abp}}">this solution</a>, but a better solution takes a bit of work:
 
-<a href="{{troy}}">The best thing</a> to do against ads, at present, is a <a href="{{hole}}">Pi-hole</a>, a tiny DNS server in your house. This stops ads at the source, for every device in your house at once. You can get <a href="{{pi}}">a Raspberry Pi</a> for $30, and it takes about 30 mins to set up as a Pi-hole. 
+<a href="{{troyPi}}">The best thing</a> to do against ads, at present, is a <a href="{{hole}}">Pi-hole</a>, a tiny DNS server in your house. This stops ads at the source, for every device in your house at once. You can get <a href="{{pi}}">a Raspberry Pi</a> for $30, and it takes about 30 mins to set up as a Pi-hole. 
 
 Another benefit of doing this at the router level is that it gives you a nice (rudimentary) network dashboard:
 

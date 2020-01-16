@@ -110,7 +110,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 <!--  -->
 	<li>
 		<h4>philosophy as therapy for the human condition</h4>
-	Another ancient view is that philosophy was good for your mental or spiritual health. For instance, it stops you fearing death, or envying others, or suffering as a result of misfortune. (And this is what "being philosophical about it" means.)
+	Another ancient claim: philosophy is good for your mental or spiritual health - for instance, it stops you fearing death, or envying others, or suffering as a result of misfortune. (And this is what "being philosophical about" something means.)
 	<br><br>
 <!--  -->
 	Epictetus: <br><br>
@@ -118,10 +118,8 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	</blockquote>
 	Or again Alain de Botton:<br><br>
 	<blockquote>art and philosophy help us... to turn pain into knowledge.</blockquote> 
-<!--  -->
-	However, despite this long tradition, whether philosophising leads to peace of mind is an empirical question, and 
-	<a href="{{depression}}">
-	what little data we have</a>  suggests that (formal) philosophical study actually correlates with mental illness. The lifetime prevalence of depression among philosophy students is maybe 24%, compared to <a href="{{dep}}">10-15%</a>  in the general population. I'm not saying which causes which. (This is of course the modern kind of philosophy; maybe the ancient kind is kinder.)
+<!-- https://www.benkuhn.net/grad -->
+	However, despite this long tradition, whether philosophising leads to peace of mind is an empirical question, and <a href="{{depression}}">what little data we have</a> suggests that (formal) philosophical study actually correlates with mental illness. The lifetime prevalence of depression among philosophy students is maybe 24%, compared to <a href="{{gbd}}">5</a>-<a href="{{dep}}">15%</a> in the general population. I'm not saying which causes which. (This is of course the modern kind of philosophy; maybe the ancient kind is kinder.) <a href="{{nature}}">Here's some stronger evidence</a> from all of graduate school, not just philosophy.
 <!--  -->
 	<br><br>
 <!--  -->
