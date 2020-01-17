@@ -26,6 +26,8 @@ count:      400 
 
 > The intellectual skills you will gain in critical analysis and communication developed through your programme will be greatly sought after by employers for any career you choose, including business, and your options will be wide.
 
+<a href="#fn:2" id="fnref:2">2</a>
+
 <br>
 My philosophy department used to trumpet their graduates' income statistics as evidence that critical thinking is valued in industry, and so as evidence that taking philosophy is prudent. <a href="#fn:1" id="fnref:1">1</a>
 
@@ -68,6 +70,10 @@ What's the construct they're measuring? Ability to pattern-match basic fallacies
 <ol>
 	<li class="footnote" id="fn:1">
  	(They don't trump anymore, possibly because <a href="{{down}}">philosophy was recently associated with decreased earnings</a>, in the UK. Instead they say barely grammatical things like the opening quotation.) 
+	</li>
+<!--  -->
+	<li class="footnote" id="fn:2">
+		Let it be known that I resisted calling this post "Uncritical critical-thinking thinking". A triumph of critical thought.
 	</li>
 </ol>
 
