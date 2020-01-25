@@ -38,6 +38,7 @@ This was an amusing triple failure of critical thinking: they confuse correlatio
 3. A philosophy degree causes critical thinking. 
 4. Therefore, critical thinking is valued in industry. 
 
+<center><img src="/img/yes.jpg" width="15%" /></center>
 
 <br>
 
