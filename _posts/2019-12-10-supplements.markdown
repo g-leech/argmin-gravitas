@@ -18,7 +18,7 @@ count:      500
 ---
 
 {%	include pills/links.html		%}
-
+{%	assign nintil = "https://nintil.com/longevity/"		%}
 
 
 In the last century, half a revolution happened: you can now buy <a href="{{thousands}}">many thousands of substances</a> that claim to promote health, and a couple of them do. The promise is of fine control over health: the prevention of idiosyncratic disorders, and/or aiming at the huge and murky area of "subclinical" human health problems, all the minor things that make life worse. 
@@ -53,5 +53,21 @@ There are economies of scale to summarising and operationalising research, testi
 
 <br><br>
 
+<div class="accordion">
+    <h3>Another general counterargument</h3>
+    <div>
+    	There is sometimes value in mere sufficiency. Across species, across phyla, there seems to be a pair of  modes for a metabolism: full-steam growth vs damage control. (This is an abstraction over thousands of metabolic processes of course.) From Ricon's excellent <a href="{{nintil}}">Longevity FAQ</a>:<br><br>
+		<blockquote><i>
+				When there is an abundance of nutrients, the signal is to focus on reproduction, while when they are scarce, the cell focuses on reducing the production of, and promoting the repair of, damage.
+		</i></blockquote><br>
+<!--  -->
+		So aiming to close all gaps - calories, amino acids, antioxidants - may end up having <i>bad</i> metabolic effects!	
+    </div>
+</div>
+
+
+<!-- The situation seems darker in the US, where a loophole to the safety means that people eat liver-exploding levels of "natural", "pre-existing" things apparently often 
+	https://elemental.medium.com/i-made-the-u-s-dietary-supplement-law-i-think-it-needs-to-be-rewritten-d9b06f8250ef 
+-->
 {%  include pills/foots.html %}
 {%  include comments.html %}

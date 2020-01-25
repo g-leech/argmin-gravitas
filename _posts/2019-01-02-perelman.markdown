@@ -1,0 +1,83 @@
+---
+layout:     post
+title:      "'Perfect Rigour' (2009) by Gessen"
+baselink:   /perelman
+permalink:  /perelman
+date:       2019-01-08
+author:     Gavin   
+img:        /img/ricci.png
+
+visible:    1
+published:  true
+warnings:	anti-semitism, cruelty to children, literary cruelty to adults
+summary:    Maths, morals, and character in the early work of Grigori Perelman.
+count:      920
+---
+
+<img src="/img/ricci.png" />
+
+_<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_<br><br>
+
+{%	assign kol = "https://www.scottaaronson.com/blog/?p=3376"	%}
+{%	assign drov = "https://en.wikipedia.org/wiki/Aleksandr_Danilovich_Aleksandrov"	%}
+{%	assign emp = "https://en.wikipedia.org/wiki/Soviet_Empire"	%}
+{%	assign what = "https://en.wikipedia.org/wiki/Grigori_Perelman#Possible_withdrawal_from_mathematics"	%}
+{%	assign dfw = "https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace/"	%}
+{%	assign mash = "https://www.newyorker.com/contributors/masha-gessen"	%}
+{%	assign yau = "https://en.wikipedia.org/wiki/Shing-Tung_Yau#Poincar%C3%A9_conjecture_controversy"	%}
+{%	assign erd = "https://www.goodreads.com/review/show/2825487882?book_show_action=false&from_review_page=1"	%}
+
+
+
+'Perfect Rigour' is not so much a biography: instead it's a study of anti-Semitism in Russia, the viciousness of Soviet academia, and the wonderful subculture that lived uneasily within it. This subculture was the superhuman apolitical dreamland, mathematics. It could only exist because of sacrifices by famous and decent men, <a href="{{kol}}">Kolmogorov</a> and <a href="{{drov}}">Aleksandrov</a>. Their selective maths schools seem to have been the only nice places in the entire <a href="{{emp}}">empire</a>, at least for those with a taste for actual discussion, or unalloyed truth.
+<br/>
+<br/>(It can't be  a biography because the subject refused to talk to her, <a href="{{what}}">does things</a> that are very hard to explain, and doesn't go out much.)
+<br/>
+<br/>
+Even so, Gessen is well-placed to write this - she was a maths nerd in Soviet Russia around the same time. As far as I can tell (which isn't very far) her grasp of the maths (one chapter for the crown jewel) is fit for purpose. But Gessen is out to bust Perelman's reputation for hyper-individualism; so she focusses on the devoted teachers and functionaries that pulled strings to get an abrasive Jew into the heart of Soviet academia, and his incredible luck in starting graduate study just as Glasnost happened.
+<br/>
+<br/>    She wants to highlight the poverty of his character - his antisocial withdrawal, his complete and intentional ignorance of politics, his naivete, his savantism. It doesn't work. Yes, he's rigid; maybe he is composed of a curiosity, a competitiveness, an ethics, and nothing else (no vanity, humour, romance, charisma, empathy, theory of mind, tolerance, compromise, doubt). 
+
+So what? Why does everyone need to be rounded? Does she sneer at athletes, the other people with lives this seemingly contorted and simple? Relatedly, <a href="{{dfw}}">David Foster Wallace</a> managed to get over himself:
+<blockquote>
+	The restrictions on [this pro-tennis player's] life have been, in my opinion, grotesque; and in certain ways Joyce himself is a grotesque. But the radical compression of his attention and sense of himself have allowed him to become a transcendent practitioner of an art – something few of us get to be. They've allowed him to visit and test parts of his psychic reserves most of us do not even know for sure we have (courage, playing with violent nausea, not choking, et cetera).
+	<br><br>Joyce is, in other words, a complete man, though in a grotesquely limited way. 
+</blockquote>
+
+Gessen is, to be frank, quite cruel: she never passes up an opportunity to mention appearances - that that athletic boy of 1970 is "<i>now an overweight and balding computer scientist</i>", that the house of a man caring for his wife with late-stage dementia is "<i>a messy place, lived in awkwardly</i>" and he himself "<i>similarly unkempt</i>"; that Perelman didn't change his underwear or clip his nails as a teen. This is the shallow side of the <i><a href="{{mash}}">New Yorker</a></i> style on show - or else the malign side of Russian honesty. Either way: no. (Though Perelman would probably approve.)
+
+
+<blockquote>   [Perelman] sounded his voice only if a solution required his intervention; looked forward to Sundays, sighing happily and saying that he could "finally solve some problems in peace"; and, if asked, patiently explained any math issue to any of his classmates though apparently utterly unable to conceive of anyone not comprehending such a simple thing. His classmates repaid him with kindness: they recalled his civility and his mathematics, and none ever mentioned to me that he walked around with his shoelaces undone...
+</blockquote>
+
+
+The great mystery, which Gessen understandably can't touch, is why after 36 years of focus he suddenly stopped doing the only thing he'd ever done. How could he? How can that much momentum be shed? What does such a man do next?
+<br/>
+<br/>If you don't care about maths or if you can't abide people being mean to nerds (as both the old apparatchiks and Gessen were) then skip this book.
+<br/><br>
+
+### Coffins
+
+Valery Ryzhik's story about the evil entrance exam he sat is so, so sad:
+
+<blockquote> “Coffins” were questions specially designed for the Jewish applicants... rejection was administered in a peculiarly sadistic way... if [Jews] succeeded in answering correctly the two or three questions on the ticket, then, alone in the room with the examiners, they would be casually issued an extra question... a problem not merely complex but unsolvable. The examiners would then nail the cover of the coffin shut: the Jewish applicant had failed the exam...
+<br/>
+<br/>"They did not even manage to find a problem I couldn't solve; I sat for three hours after the exam was over, I solved them all, and still they failed me. I was just a boy. I went home and cried."
+</blockquote>
+
+
+<br>
+
+### Saint Erdos and Saint Perelman
+
+One of the oddest things about Perelman is that he'd disagree with me when I called maths "apolitical". This, combined with his being an actual deontologist in a world of opportunists, maybe explains him turning down a million quid and the highest honours his world can bestow: <i>maths</i>, the least animal and least irrational thing we have, is still too political for him. 
+
+There was <a href="{{yau}}">a little bit</a> of dishonesty and jostling at the time of the announcement - but nothing compared to any other science, let alone any government. Maybe the protective bubble everyone set up for him was bad for him, because it robbed him of perspective and so made the mild case of fuckery he suffered seem like a complete invalidation of mathematical culture. 
+
+But maybe a rigorous rule-based mind would always explode eventually, even if given a scale to measure instances of bias.
+
+The clearest precedent is <a href="{{erd}}">Paul Erdos</a>: also rude, also monomanaical, also recognisably a saint in some sense.
+
+<br><br><br>
+
+{%  include comments.html %}
