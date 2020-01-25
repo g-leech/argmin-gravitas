@@ -22,6 +22,19 @@ lw: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philosop
 {%  include nophil/links.md     %}
 
 
+<div class="accordion">
+    <h3>Retraction</h3>
+    <div>  
+    	<i>August 2019</i>: I am no longer confident of this. Even then I found myself piling up many kinds of philosophy one should be doing - e.g. negative philosophy against bad philosophy, practical ethics, schemes for handling moral uncertainty, logic, population ethics, existential risk.<br><br>
+<!--  -->
+    	The relatively small <i>active</i> effort on many questions (at most only a few hundred lifetimes) is a good argument for it not being impossible to solve philosophical questions. (Less-likely impossible in proportion to neglect.) Also there's <a href="{{dai}}">the importance of</a> <a href="{{zhu}}">non-perverse philosophy</a> for making a future artificial intelligence; it doesn't need to be right or definite, but it needs to land in a non-insane part of philosophical space.<br><br>
+<!--  -->
+    	I've left the piece up, since many of the individual rebuttals to common bad arguments still hold.
+	</div>
+</div>
+
+
+
 <center>
 
 <blockquote>Can you tell them, with a straight face, to follow philosophical argument wherever it may lead? If they challenge your credentials, will you boast of philosophy’s other great discoveries: that motion is impossible, that a Being than which no greater can be conceived cannot be conceived not to exist, that it is unthinkable that anything exists outside the mind, that time is unreal, that no theory has ever been made at all probable by evidence (but on the other hand that an empirically adequate ideal theory cannot possibly be false), that it is a wide-open scientific question whether anyone has ever believed anything, and so on, and on, ad nauseum? Not me!
@@ -292,16 +305,6 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 Since my list of caveats is forty times longer than my original point, obviously I am an amateur philosopher after all. But not first.
 
 
-<br>
-
-<div class="accordion">
-    <h3>Caveat to above caveats</h3>
-    <div>  
-    	<i>Added August 2019</i>: I am no longer confident in this. Even then I found myself piling up many kinds of philosophy one should be doing - e.g. negative philosophy against bad philosophy, practical ethics, schemes for handling moral uncertainty, logic, population ethics, existential risk.<br><br>
-<!--  -->
-    	I've since had <a href="{{dai}}">the importance of</a> <a href="{{zhu}}">non-perverse philosophy</a> for making a future artificial intelligence safe impressed upon me.
-	</div>
-</div>
 
 <br><br>
    
