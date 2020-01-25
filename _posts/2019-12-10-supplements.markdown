@@ -18,14 +18,13 @@ count:      500
 ---
 
 {%	include pills/links.html		%}
-{%	assign nintil = "https://nintil.com/longevity/"		%}
 
 
 In the last century, half a revolution happened: you can now buy <a href="{{thousands}}">many thousands of substances</a> that claim to promote health, and a couple of them do. The promise is of fine control over health: the prevention of idiosyncratic disorders, and/or aiming at the huge and murky area of "subclinical" human health problems, all the minor things that make life worse. 
 
 And so <a href="{{uk}}">most UK adults</a> take supplements (about half of those multivitamins). Several problems with this:<br>
 
-1. _Absence of general evidence / Evidence of harm_. Many supposedly health-promoting substances have uselessly weak evidence. For instance, <a href="{{multi}}">frequent use of multivitamins</a> is probably somewhat harmful,: they _increase_ mortality for the average user, due to overdosing you with antioxidants. <br>
+1. _Absence of general evidence / Evidence of harm_. Many supposedly health-promoting substances have uselessly weak evidence. For instance, <a href="{{multi}}">frequent use of multivitamins</a> is probably somewhat harmful: they _increase_ mortality for the average user, maybe due to overdosing you with antioxidants. <br>
 
 2. _Physiology is personal_. Even for substances that have general warrant, the 'heterogeneity' in their effects and side-effects can be enormous, even for quite closely matched pairs. (For instance, <a href="{{caff}}">some people</a> don't get _any_ stimulation from caffeine for genetic reasons. Morphine, the central example of a powerful and basic drug, has a <a href="{{morph}}">"number needed to treat" post-op pain of <i>2.9</i></a> - i.e. on average a high dose only beats placebo for one in three people!) <br>
 
@@ -60,6 +59,8 @@ There are economies of scale to summarising and operationalising research, testi
 		<blockquote><i>
 				When there is an abundance of nutrients, the signal is to focus on reproduction, while when they are scarce, the cell focuses on reducing the production of, and promoting the repair of, damage.
 		</i></blockquote><br>
+<!--  -->
+		The underlying claim is something like "metabolism is violent, so things which boost it may end up causing damage". And similarly, it's at least possible that antioxidants dampen the body's <a href="{{mito}}">active repair mechanisms</a>.<br><br>
 <!--  -->
 		So aiming to close all gaps - calories, amino acids, antioxidants - may end up having <i>bad</i> metabolic effects!	
     </div>
