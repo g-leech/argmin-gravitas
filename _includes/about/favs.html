@@ -2,10 +2,11 @@
 <h3>Favourites</h3>
 <div>
 	<ul>
+		<li><a href="https://www.gleech.org/favs/all">of all time</a></li><br>
 		{% assign yr = 'now' | date: "%Y" %}
 		{% for i in (2008..yr) %}
 
-			<li><a href="https://www.gleech.org/favs/{{i}}">Media from {{i}}</a></li>
+			<li><a href="https://www.gleech.org/favs/{{i}}">from {{i}}</a></li>
 
 		{% endfor %}
 	</ul>
