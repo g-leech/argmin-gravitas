@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Reversals in academic psychology"
+title:      "Reversals in psychology"
 baselink:   /psych
 permalink:  /psych
 date:       2020-01-26	
@@ -20,14 +20,14 @@ count:      1500
 {%  include psy/links.md   %}
 
 
-A <a href="{{med}}">medical reversal</a> is when an existing treatment is found to actually be useless or harmful. Psychology has in recent years been racking up reversals: in fact only <a href="{{many}}">40-65%</a> of its classic social results were replicated, in the weakest sense of finding 'significant' results in the same direction. (The average effect found was <a href="{{halv}}">half</a> the originally reported effect.) Such errors are obviously far less costly to society than medical errors, but it's still a form of pollution, so here's the cleanup.<br>
+A <a href="{{med}}">medical reversal</a> is when an existing treatment is found to actually be useless or harmful. Psychology has in recent years been racking up reversals: in fact only <a href="{{many}}">40-65%</a> of its classic social results were replicated, in the weakest sense of finding 'significant' results in the same direction. (Even in those that replicated, the average effect found was <a href="{{halv}}">half</a> the originally reported effect.) Such errors are obviously far less costly to society than medical errors, but it's still a form of pollution, so here's the cleanup.<br>
 
-Psychology is not alone: <a href="{{ioan}}">medicine</a>, <a href="{{canc}}">cancer biology</a>, and <a href="{{ec}}">economics</a> all have many irreplicable results, and so do most other fields, as we'd know if they ran replication efforts this large. (<a href="{{whyPsy}}">One reason</a> psychology reversals are so prominent is that it's an unusually 'open' field in terms of code and data sharing. A less scientific field would never have caught its own bullshit.)<br>
+Psychology is not alone: <a href="{{ioan}}">medicine</a>, <a href="{{canc}}">cancer biology</a>, and <a href="{{ec}}">economics</a> all have many irreplicable results, and so do most other fields, as we'd know if they ran replication efforts this large. (<a href="{{whyPsy}}">One reason</a> psychology reversals are so prominent is that it's an unusually 'open' field in terms of code and data sharing. A less scientific field would never have caught its own bullshit.)<br><br>
 
 <div class="accordion">
 	<h3>Selection criteria</h3>
 	<div>
-		I include a claim if there was at least one of: several failed replications, several good meta-analyses with notably smaller, clear fatal errors in the analysis, a formal retraction, or clear fraud. <br><br>
+		I include a claim if there was at least one of: several failed replications, several good meta-analyses with notably smaller <i>d</i>, very strong publication bias, clear fatal errors in the analysis, a formal retraction, or clear fraud. <br><br>
 <!--  -->
 		I also include cases like <a href="{{dw}}">growth mindset</a>, where the eventual effect size, though positive, was a tiny fraction of the hyped original claim.<br><br>
 <!--  -->
@@ -187,12 +187,22 @@ https://www.sciencedirect.com/science/article/abs/pii/S027795361830649X
 
 * Be very suspicious of any such "candidate gene" finding (post-hoc data mining showing large >1% contributions from a single allel). <a href="{{depres}}">0/18</a> replications in candidate genes for depression. <a href="{{psychiatry}}">73% of candidates</a> failed to replicate in psychiatry in general. <a href="{{jbg}}">One big journal</a> won't publish them anymore without replication attempts. <a href="{{gwas}}">A huge GWAS</a>, n=1 million: "We find no evidence of enrichment for genes previously hypothesized to relate to risk tolerance."
 
-<!-- * No strong evidence for the MAOA warrior gene. -->
+<!-- * gxE evidence for the MAOA warrior gene. -->
 
 
 <br>
 
 <div class="accordion">
+	<h3>The melancholy of pareidolia</h3>
+	<div>
+		Let me drop out of my proper "effect size estimation > binary truth or falsity" talk for a moment: There is something unbearably sad about the Wikipedia page for <a href="{{eggo}}">Ego depletion</a>.<br><br>
+<!--  -->
+		It's 3500 words, not including the Criticism section. It is rich with talk of moderators, physiological mechanisms, and practical upshots for the layman. And it is <a href="{{real}}">quite possible</a> that the whole lot of it is a phantom, a giant mistake. For small effect sizes, we can't tell the difference. Even people quite a bit smarter than us can't.<br><br>
+<!--  -->
+		If I wander around an old bookshop, I can run my fingers over sophisticated theories of ectoplasm, kundalini, past lives, numerology, clairvoyance, alchemy. Some were written by <a href="{{newton}}">brilliant</a> <a href="{{wallace}}">people</a> <a href="{{richet}}">who also</a> <a href="{{jpl}}">discovered</a> <a href="{{shel}}">real things</a>, whose minds <i>worked</i>, damnit.<br><br>
+<!--  -->
+		We are so good at explaining that we can explain things which aren't there. We have made many whole libraries and entire fields without the slightest correspondence to anything. Except our deadly ingenuity.
+	</div>
 	<h3>Mandatory errata</h3>
 	<div>
 		Some popular books with uncritical treatments of the above<br><br>
