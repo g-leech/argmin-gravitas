@@ -1,0 +1,114 @@
+---
+layout:     post
+title:      "'The Unpersuadables' (2013) by Storr"
+baselink:   /demarcation
+permalink:  /demarcation
+date:       2018-08-21
+author:     Gavin   
+img:        /img/wern.png
+
+visible:    1
+published:  true
+
+summary:    Understanding good science & epistemology via counterexamples. 
+importance: 7
+count:      
+---
+
+{%  include heretic/links.md   %}
+
+> Imagine if, way back at the start of the scientific enterprise, someone had said, "What we really need is a control group for science - people who will behave exactly like scientists, doing experiments, publishing journals, and so on, but whose field of study is completely empty: one in which the null hypothesis is always true.<br><br>"That way, we'll be able to gauge the effect of publication bias, experimental error, misuse of statistics, data fraud, and so on, which will help us understand how serious such problems are in the real scientific literature." Isn't that a great idea?<br><br>By an accident of historical chance, we actually have exactly such a control group, namely parapsychologists
+
+<center>- Allan Crossman</center><br>
+
+
+An irritating but righteous book. Not quite what it looks like: another <a href="{{ron}}">Ronson</a>-<a href="{{louis}}">Theroux</a> journalist, accosting another set of tragicomic kooks). <br/><br/>OK, it <i>is</i> that, but it's also a grim reflection on how confusing and muddy the world is, on the universality of extreme bias, plus Storr's personal traumas and peccadilloes. (Half the book is his confessing to childhood theft, psychosis, academic failure, and petty vendettas.) Rather than getting to the bottom of ESP, or morgellons, or homeopathy, or past-life regression, Storr tries to understand the character of the people who believe and disbelieve in them. (<a href="{{bul}}">This is a dangerous approach</a> unless you are extremely sensitive and charitable. As we'll see, Storr is that sensitive, to one set anyway.)
+
+Besides confronting unusual beliefs without (as much) prejudice, <i>The Unpersuadables</i> is about the fact that we are all riddled with deep obstacles to objectivity: there's our <a href="{{in}}">ingroupism</a> and confirmation bias; <a href="{{rep}}">representation realism</a>; emotional reasoning about nonemotional things; the terrifyingly unreliable <a href="{{recon}}">reconstructive</a> nature of memory; the sad <a href="{{rat}}">distinctness of intelligence and rationality</a>; evolutionarily adaptive delusions of <a href="{{sup}}">superiority</a> and <a href="{{ag}}">agency</a>. 
+
+These are illustrated by interviews with a <a href="{{mackay}}">creationist</a>, <a href="{{shel}}">Sheldrake</a>, <a href="{{irv}}">Irving</a>, <a href="{{ram}}">Ramdev</a>, <a href="{{monc}}">Monckton</a>, the <a href="{{morg}}">Morgellons</a> victims <a href="#fn:1" id="fnref:1">1</a>, and even <a href="{{randi}}">Randi</a>.
+
+
+<blockquote><i>Stories work against truth. They operate with the machinery of prejudice and distortion. Their purpose is not fact but propaganda. The scientific method is the tool that humans have developed to break the dominion of the narrative. It has been designed specifically to dissolve anecdote, to strip out emotion and leave only unpolluted data. It is a new kind of language, a modern sorcery, and it has gifted our species incredible powers. We can eradicate plagues, extend our lives by decades, build rockets and fly through space. But we can hardly be surprised if some feel an instinctive hostility towards it, for it is fundamentally inhuman.<br/></i></blockquote>
+
+
+Storr is seriously out of his depth on the science: he is always at least second-hand from the evidence (when interviewing researchers), and often third-hand (most of his citations are pop science books), and so several chapters suffer from journalism's classic problem, <a href="{{two}}">false balance</a>. The reason this isn't a call to shut the book is because he doesn't spare himself, states this repeatedly - and this is in fact <i>the theme</i> of his book: that almost all of us are unable to infer the truth about a shocking diversity of things. <a href="#fn:2" id="fnref:2">2</a> Without testimony, without Google, we are revealed as ignorant and helpless apes.<br/>
+
+For instance, the Skeptics he encounters are also out of their depth, and deserve calling-out. No one is past the need for doubt.
+<blockquote><i>I am surprised, for a start, that so few of these disciples of empirical evidence seem to be familiar with the scientific literature on the subject that impassions them so. I am suspicious, too, about the real source of their rage. If they are motivated, as they frequently insist, by altruistic concern over the dangers of supernatural belief, why don't they obsess over jihadist Muslims, homophobic Christians or racist Jewish settlers? Why this focus on stage psychics, ghosthunters and alt-med hippies?<br/></i></blockquote>
+
+<blockquote><i>During our conversation, I asked Randi if he has ever, in his life, changed his position on anything due to an examination of the evidence. After a long silence, he said, 'That's a good question. I have had a few surprises along the way that got my attention rather sharply.' <br/>&nbsp; 'What were these?' I asked. <br/>He thought again, for some time. 'Oh, some magic trick that I decided on the modus operandi.'...<br/>'So you’ve never been wrong about anything significant?'<br/>'In regard to the Skeptical movement and my work...' There was another stretched and chewing pause. He conferred with his partner, to see if he had any ideas. 'No. Nothing occurs to me at the moment.'<br/></i></blockquote>
+
+That's not how memory works though, is it? Storr is too literal-minded and prosecutorial ("<i>I have been looking for evidence that James Randi is a liar</i>"). When Randi corrects himself in the course of a sentence ("<i>I didn't go to grade school at all, I went to the first few grades of grade school</i>"), Storr leaps on this as a serious contradiction rather than just the patchy nature of speech. He talks about his emotional bias against scepticism - but he still leaves in this idiot journo behaviour, the uncharitable coaxing out of flaws.<br/><br/>
+
+These chapters were a good ethnography of 'traditional' (nontechnical) rationality. But Storr doesn't know about the other kind (which foregrounds all the cognitive biases he is so struck and scarred by), so his conclusion about rationalism is completely awry.<a href="#fn:3" id="fnref:3">3</a> Disillusioned with particular Skeptics, he reacts by throwing away scepticism:
+
+<blockquote><i> For many Skeptics, evidence-based truth has been sacralised. It has caused them to become irrational in their judgements of the motives of those with whom they do not agree...<br/><br>
+	This monoculture we would have, if the hard rationalists had their way, would be a deathly thing. So bring on the psychics, bring on the alien abductees, bring on the two John Lennons – bring on a hundred of them. Christians or no, there will be tribalism. Televangelists or no, there will be scoundrels. It is not religion or fake mystics that create these problems, it is being human. Where there is illegality or racial hatred, call the police. Where there is psychosis, call Professor Richard Bentall. Where there is misinformation, bring learning. But where there is just ordinary madness, we should celebrate. Eccentricity is our gift to one another. It is the riches of our species. To be mistaken is not a sin. Wrongness is a human right.<br/></i></blockquote>
+<br/>
+
+The American title, "Heretics", is fitting in a few ways: Storr sees these people as persecuted underdogs, he likes many of them, and so he focusses on the arrogance and bias of the - however correct - mainstream figures dealing with them. They certainly have a holy madness, of crying out despite knowing they will be ostracised.
+<blockquote><i>Over the last few months, John E Mack has become a kind of hero to me. Despite his earlier caution, he ended up believing in amazing things: intergalactic space travel and terrifying encounters in alien craft that travelled seamlessly through nonphysical dimensions. And when his bosses tried to silence him, he hired a lawyer. He fought back against the dean and his dreary minions. He battled hard in the name of craziness...<br/></i></blockquote>
+
+David Irving is interesting in this regard: he does not act like a fraud (e.g. he sues people for libel, even though this brings intensive scrutiny of his research), but rather a sort of compulsive, masochist contrarian. Stranger still, his (beloved) family were all solid anti-Nazi soldiers in WWII. (Storr contorts himself to explain Irving's identification with Hitler as due to their sharing an admiration of the British forces (...)) <br/><br/>Storr's awful experience on a Vipassana retreat is a vivid example of the Buddhist <a href="{{dark}}">dark night of the soul</a>. We don't know what fraction of people suffer terribly from meditation, but despite its <a href="{{cudd}}">cuddly image</a>, there's surely large overlap with the <a href="{{dep}}">8% of people</a> who are clinically depressive and/or anxious.<br/><br/>The chapter on psi does not represent <a href="{{wag}}">the state</a> <a href="{{plos}}">of evidence</a> <a href="{{gel}}">properly</a> - perhaps because one of his proof-readers was <a href="{{bem}}">Professor Daryl Bloody Bem</a>.<a href="#fn:4" id="fnref:4">4</a>
+
+<br>
+
+---
+
+<br>
+
+The ending is stirring but tilts over into foolish relativism:<br/>
+<blockquote>The Skeptic tells the story of Randi the hero; the psychic of Randi the devil. We all make these unconscious plot decisions...<br/><br/>We are all creatures of illusion. We are made out of stories. From the heretics to the Skeptics, we are all lost in our own secret worlds. <br/></blockquote>
+
+But the question is to what <i>degree</i>! And the degree of lostness, of inverse rationality, varies by many orders of whatever magnitude you wish to pick.<br/><br/>Storr's disquiet at the sheer power of cognitive bias, and the systematic failures of yes/no science (that is: statistical significance rather than effect size estimation) is well and good. <a href="{{gel2}}">Gelman</a>: 
+<blockquote><i>I think ‘the probability that a model or a hypothesis is true’ is generally a meaningless statement except as noted in certain narrow albeit important examples.</i></blockquote>
+
+Storr's humane approach is certainly bound to be more compelling to mystics and flakes than e.g. deGrasse Tyson's smug dismissals. But Storr is scared of grey, of the fact that doubt is only reducible and not eliminable. This is because he doesn't know our most beautiful weapons: probabilism, Bayesian inference, Analysis. 
+
+I recommend <i><a href="{{han}}">Elephant in the Brain</a></i> or <i><a href="{{yud}}">Rationality from A to Z</a></i> instead as an approach to the vital, dreadful side of cognition (including advice on how to avoid being a fake, partial, traditional sceptic); they have less angst and false equivalences, and were written by people who understand the balance of evidence. 
+
+Actually that's too strong; I am frustrated with Storr because he is so similar to me, except he doesn't grasp that the technical is the path out of (many) biases. There's a lot wrong with it and you should probably read it, and how often can one say that? <br><br/>
+
+
+
+<!-- There is generally no need to punish cranks, though things like Holocaust denial can go beyond crankery and into dangerous propaganda.
+
+### Good reasons not to pay attention to these people, even granting the nonzero probability?
+
+If they fail to update, then there's no point in continuing to discuss, except to warn others.
+
+Life is short and verification is slow.
+https://statmodeling.stat.columbia.edu/2019/01/28/bullshit-asymmetry-principle/
+
+Maybe some kind of backfire, amplification leads to normalisation thing
+ -->
+
+_<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_ <br><br>
+
+
+<div class="footnotes">
+<ol>
+     <li class="footnote" id="fn:1">
+     	Storr is right that skeptics can lack compassion. The "Morgellons" people <i>are</i> victims regardless of what their aetiology turns out to be (<a href="{{men}}">mental illness</a>, <a href="{{form}}">nerve disorders</a>, <a href="{{mite}}">tropical rat mites</a>, or yes malicious sentient fibres). At minimum, they are victims of bad fortune and rigid, actually unscientific medical practices. <br><br>
+     	The Lesswrong style of rationalist has less of this problem IMO (more emotional literacy; more Californian).<br><br>
+     </li>
+     <!--  -->
+     <li class="footnote" id="fn:2">
+		<blockquote>This is an imperfect system, as it relies on many secondary sources. Moreover, I do not declare myself to be free of the biases that afflict any writer, and I'm certainly not immune to making mistakes. If any errors are noted, or if new findings supersede claims made in the text, I would be very grateful to receive notification via willstorr.com, so future editions can be corrected.        </blockquote><br><br>
+     </li>
+<!--  -->
+	<li class="footnote" id="fn:3">
+		 Storr:
+		 <blockquote><i>    I am concerned that I have overstated my argument. In my haste to write my own coherent story, I have barely acknowledged the obvious truth that minds do sometimes change. People find faith and they lose it. Mystics become Skeptics. Politicians cross the floor. I wonder why this happens. Is it when the reality of what is actually happening in our lives overpowers the myth that we make of themselves? Are we simply pursuing ever more glorious hero missions?...</i></blockquote>
+	</li>
+<!--  -->
+	<li class="footnote" id="fn:4">
+	Important caveat to the headline of that linked article, from Gelman:
+		<blockquote><i>The only thing I don’t like about Engber’s article is its title, “Daryl Bem Proved ESP Is Real. Which means science is broken.” I understand that “Daryl Bem Proved ESP Is Real” is kind of a joke, but to me this is a bit too close to the original reporting on Bem, back in 2011, where people kept saying that Bem’s study was high quality, state-of-the-art psychology, etc. Actually, Bem’s study was crap. It’s every much as bad as the famously bad papers on beauty and sex ratio, ovulation on voting, elderly-related words and slow walking, etc.
+		<br/><br/>And “science” is not broken. Crappy science is broken. Good science is fine. If “science” is defined as bad articles published in PPNAS—himmicanes, air rage, ages ending in 9, etc.—then, sure, science is broken. But if science is defined as the real stuff, then, no, it’s not broken at all.</i></blockquote>
+	</li>
+</ol>
+</div>
+
+{%  include comments.html %}

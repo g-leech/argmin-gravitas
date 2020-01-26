@@ -1,0 +1,32 @@
+{%		assign bul = "https://en.wikipedia.org/wiki/Bulverism"	%}
+{%		assign ron = "https://www.theguardian.com/books/2001/apr/07/society" %}
+{%		assign louis = "https://www.amazon.co.uk/Call-Weird-Travels-American-Subcultures/dp/0330435701"		%}
+{%		assign in = "https://en.wikipedia.org/wiki/Ingroups_and_outgroups"		%}
+{%		assign rep = "https://en.wikipedia.org/wiki/Direct_and_indirect_realism"		%}
+{%		assign recon = "https://en.wikipedia.org/wiki/Reconstructive_memory"		%}
+{%		assign rat = "https://www.project-syndicate.org/commentary/rationality-versus-intelligence?barrier=accessreg"		%}
+{%		assign sup = "https://en.wikipedia.org/wiki/Self-serving_bias"		%}
+{%		assign ag = "https://www.tandfonline.com/doi/abs/10.1080/09515089.2016.1219030"		%}
+{%		assign mackay = "https://rationalwiki.org/wiki/John_Mackay"		%}
+{%		assign shel = "https://en.wikipedia.org/wiki/Rupert_Sheldrake"		%}
+{%		assign irv = "https://en.wikipedia.org/wiki/David_Irving"		%}
+{%		assign ram = "https://en.wikipedia.org/wiki/Ramdev"		%}
+{%		assign monc = "https://en.wikipedia.org/wiki/Christopher_Monckton,_3rd_Viscount_Monckton_of_Brenchley"		%}
+{%		assign morg = "https://en.wikipedia.org/wiki/Morgellons"		%}
+{%		assign randi = "https://en.wikipedia.org/wiki/James_Randi"		%}
+{%		assign two = "https://www.youtube.com/watch?v=sGArqoF0TpQ"		%}
+{%		assign cudd = "https://www.smh.com.au/articles/2003/09/23/1064082990875.html"		%}
+{%		assign dep = "http://apps.who.int/iris/bitstream/handle/10665/254610/WHO-MSD-MER-2017.2-eng.pdf;jsessionid=C7A88D6AF4B91BEB0EBF7EA1A65E2671?sequence=1"		%}
+{%		assign wag = "http://www.ejwagenmakers.com/2011/WagenmakersEtAl2011_JPSP.pdf"		%}
+{%		assign plos = "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033423"		%}
+
+{%		assign gel = "http://andrewgelman.com/2011/01/06/that_silly_esp/"		%}
+{%		assign bem = "https://slate.com/health-and-science/2017/06/daryl-bem-proved-esp-is-real-showed-science-is-broken.html"		%}
+{%		assign han = "http://elephantinthebrain.com/"		%}
+{%		assign yud = "https://www.readthesequences.com/"		%}
+{%		assign gel2 = "http://andrewgelman.com/2017/06/29/lets-stop-talking-published-research-findings-true-false/"		%}
+{%		assign men = "https://en.wikipedia.org/wiki/Delusional_parasitosis"		%}
+{%		assign form = "https://en.wikipedia.org/wiki/Formication"		%}
+{%		assign mite = "https://en.wikipedia.org/wiki/Ornithonyssus_bacoti"		%}
+{%		assign dark = "https://www.theatlantic.com/health/archive/2014/06/the-dark-knight-of-the-souls/372766/"		%}
+
