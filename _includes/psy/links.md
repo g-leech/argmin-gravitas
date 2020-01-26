@@ -84,3 +84,11 @@
 {%	assign brain = "https://www.npr.org/sections/13.7/2013/12/02/248089436/the-truth-about-the-left-brain-right-brain-relationship"		%}
 
 {%	assign wansink = "http://www.timvanderzee.com/the-wansink-dossier-an-overview/"		%}
+{%	assign real = "https://journals.sagepub.com/doi/abs/10.1177/1088868318762183?journalCode=psra"	%}
+{%	assign eggo = "https://en.wikipedia.org/wiki/Ego_depletion"		%}
+
+{%	assign newton = "https://en.wikipedia.org/wiki/Isaac_Newton%27s_occult_studies"	%}
+{%	assign wallace = "https://en.wikipedia.org/wiki/Alfred_Russel_Wallace#Spiritualism"	%}
+{%	assign richet = "https://en.wikipedia.org/wiki/Charles_Richet#Parapsychology"	%}
+{%	assign jpl = "https://en.wikipedia.org/wiki/Jack_Parsons_(rocket_engineer)"	%}
+{%	assign shel = "https://en.wikipedia.org/wiki/Rupert_Sheldrake#Career"		%}
