@@ -3,7 +3,7 @@ layout:     post
 title:      "Reversals in academic psychology"
 baselink:   /psych
 permalink:  /psych
-date:       2020-01-26
+date:       2020-01-26	
 author:     Gavin   
 img:        /img/rev.jpg
 
