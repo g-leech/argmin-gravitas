@@ -11,10 +11,11 @@ visible:    1
 published:  true
 warnings:	anti-semitism, cruelty to children, literary cruelty to adults
 summary:    Maths, morals, and character in the early work of Grigori Perelman.
+confidence: Empty speculation.
 count:      920
 ---
 
-<img src="/img/ricci.png" />
+<img src="/img/ricci.png" /><br>
 
 _<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_<br><br>
 
