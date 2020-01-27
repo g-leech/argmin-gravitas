@@ -2,7 +2,7 @@
 layout:     post
 title:      "Existential risk as common cause"
 baselink:   /x
-permalink:  /x
+permalink:  /x-for-all
 date:       2018-10-17
 author:     Gavin
 
