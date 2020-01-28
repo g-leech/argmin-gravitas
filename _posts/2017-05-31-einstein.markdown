@@ -1,0 +1,180 @@
+---
+layout:     post
+title:      "'Einstein' by Isaacson"
+baselink:   /einstein
+permalink:  /einstein
+date:       2018-06-27
+author:     Gavin   
+
+visible:    1
+published:  true
+
+summary:    Underneath cliche, commodification, symbolism, is a complete man.
+importance: 6
+count:      1000
+categories: bio, science, greatness
+---
+
+<center>
+
+<img src="/img/eins.jpg" width="40%" /> <br><br>
+
+<blockquote>Physics becomes in those years the greatest collective work of art of the twentieth century.</blockquote>
+Jacob Bronowski</center><br>
+
+{%		assign brown = "https://en.wikipedia.org/wiki/%C3%9Cber_die_von_der_molekularkinetischen_Theorie_der_W%C3%A4rme_geforderte_Bewegung_von_in_ruhenden_Fl%C3%BCssigkeiten_suspendierten_Teilchen" 		%}
+{%		assign muck = "https://books.google.co.uk/books?id=MjVgeT7Laf8C&pg=PA129&dq=To+think+I+have+spent+my+life+on+absolute+muck&hl=en&sa=X&ved=0ahUKEwjsoarEl6fnAhUnUhUIHQxJAbcQ6AEIKDAA#v=onepage&q=To%20think%20I%20have%20spent%20my%20life%20on%20absolute%20muck&f=false"		%}
+
+
+What to say about the stereotypically great? Start by scrubbing off the accumulated century of journalism and appropriations. <br><br>
+
+
+<div class="accordion">
+	<h3>Einstein's scientific achievements</h3>
+	<div>
+		<ul><br>
+
+<li>A model of <i><a href="{{brown}}">Brownian motion</a></i>: the decisive argument for the existence of atoms. His model enabled experimental confirmation of Dalton's theory, after a hundred years of denial or instrumentalism.</li><br>
+
+<li>An elementary particle, the <i><a href="https://en.wikipedia.org/wiki/Photon#Einstein.27s_light_quantum">photon</a></i>. The atomic hypothesis applied even to light.</li><br>
+
+<li>A law for the <i>photoelectric effect</i>, implying a quantum theory of all EM radiation. (A realist about quanta, unlike Planck.)</li><br>
+
+<li>So also lots of pieces of the <a href="https://en.wikipedia.org/wiki/Old_quantum_theory"><i>"old" quantum theory</i></a>.</li><br>
+
+<li>A theory of light and so space and time, <i><a href="https://en.wikipedia.org/wiki/Special_relativity">special relativity</a></i>.</li><br>
+
+<li>A physical constraint on metaphysics: <a href="https://en.wikipedia.org/wiki/Absolute_time_and_space#Einstein">no absolute time.</a></li><br>
+
+<li>A fairly consequential law, <a href="https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence">mass-energy equivalence</a></li><br>
+
+<li>A flawed but progressive theory of heat capacity, the <a href="https://en.wikipedia.org/wiki/Einstein_solid"><i>Einstein theory of solids</i></a><br>
+
+<li>A better method of analysing quantum systems, "<a href="https://en.wikipedia.org/wiki/Einstein%E2%80%93Brillouin%E2%80%93Keller_method">EBK</a>". An ignored semiclassical precursor to <a href="https://en.wikipedia.org/wiki/Quantum_chaos">quantum chaos theory</a>.<br>
+
+<li>The greatest scientific theory, <i>General Relativity</i>. Explaining gravity and, so, the shape of the universe.</li><br>
+
+<li>Implies the first modern <a href="https://en.wikipedia.org/wiki/General_relativity#Cosmology">cosmology</a></li><br>
+
+<li><a href="https://en.wikipedia.org/wiki/Einstein_ring">Gravitational lensing</a> (confirmed 1998)</li><br>
+
+<li>Inadvertently predicted <a href="https://en.wikipedia.org/wiki/Cosmological_constant">dark energy</a>. </li><br>
+
+<li>A crucial experiment: gravitational waves. (Confirmed 2015.)</li><br>
+
+<li>Implies a whole lot more like black holes but you can't name <i>everything</i> "Einstein thing".</li><br>
+
+<br><br>
+
+<li>A general method for thermodynamics and information theory: <a href="https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_statistics">Bose-Einstein statistics</a>.  </li><br>
+
+<li>New state of matter: the <a href="https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_condensate">Bose–Einstein condensate</a></li><br>
+
+<li>Fruitful failed theory: first <a href="https://en.wikipedia.org/wiki/Local_hidden_variable_theory">local hidden variable theory</a></li><br>
+
+<li>A profound phenomenon, <a href="https://en.wikipedia.org/wiki/Quantum_entanglement#History">quantum entanglement</a>. (Susskind calls entanglement "Einstein's last great discovery", though he 'discovered' it by trying to reductio away Copenhagen interpretation, taking entanglement to be a disproof.) (Confirmed properly <a href="https://www.cnet.com/uk/news/physicists-prove-einsteins-spooky-quantum-entanglement/">2015</a>.)</li><br>
+
+<br>
+
+<li>A crucial experiment for a <i>metaphysical principle</i>, local realism is false!: <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777">EPR</a></li><br>
+
+<li>Inadvertently, a physical constraint on metaphysics: nonlocality.</li><br>
+
+<br>
+
+<li>Thought-experiment: <a href="http://nautil.us/issue/41/selection/how-einstein-and-schrdinger-conspired-to-kill-a-cat">The content of</a> the "Schrödinger's" cat setup</li><br>
+
+<li>Repostulation of <a href="https://en.wikipedia.org/wiki/Wormhole#Development">wormholes</a>. (Not confirmed.)</li><br>
+
+<li>Isotope separation methods for the Manhattan project.</li><br>
+
+<li>Also a <a href="https://en.wikipedia.org/wiki/Einstein_refrigerator">nontoxic fridge</a></li><br>
+
+</ul></li></li></ul>
+	</div>
+</div>
+<br>
+
+Besides his own prize, confirmations of Einstein's theories have led to 4 Nobel Prizes (1922, 1923, 1997, 2001) so far, and first-order extensions several more (1927, 1929, 1933 at very least). We should expect a few more, for grav waves and not inconceivably for wormholes, some day.<br>
+
+<br>
+
+Isaacson, like most people, portrays Einstein's post-1935 work as a dogmatic waste - he spent about thirty years straining to produce a field theory that could get rid of the spookiness and probabilism of QM. If you compare the output of the first half of his life to the second, sure it looks bad. But he was giving classical physics (determinism, continuousness, simplicity, fierce parsimony, beauty-based reasoning) a well-deserved last shake. <br>
+
+<center>
+	<img src="/img/einstein2.png" width="40%" /> <br><br>
+</center>
+
+Imagine maintaining full-time effort over thirty years of failure, with your whipsmart peers all tutting and ignoring you. His <a href="https://en.wikipedia.org/wiki/Classical_unified_field_theories#Einstein.27s_geometric_approaches">unified field</a> efforts are methodologically sort of like string theory: a hubristic search over mathematical forms without contact with the actually physical to help limit the formal space.<br>
+
+He had a decent decision-theoretic argument for his doomed crusade:
+<blockquote> <i>When a colleague asked him one day why he was spending — perhaps squandering — his time in this lonely endeavor, he replied that even if the chance of finding a unified theory was small, the attempt was worthy. He had already made his name, he noted. His position was secure, and he could afford to take the risk and expend the time. A younger theorist, however, could not take such a risk, for he might thus sacrifice a promising career. So, Einstein said, it was his duty to do it.</i></blockquote><br>
+
+People also try to attach shame to him for his wildly stubborn anti-Copenhagen crusade: years spent thinking up tricky counterexamples for the young mechanicians, like an angry philosopher. But I think he had a good effect on the discourse, constantly calling them to order, and leaving it clear, after all, that it <i>is</i> a consistent view of the evidence. 
+
+The only unforgiveable bit in his later conservatism is that he ignored the other half of the fundamental forces, the strong and weak forces, and for decades. Two forces was hard enough to unify. I suppose another point against his long, long Advanced Studies is that he could have done even more if he had helped <i>push</i> QM along; as late as 1946, Wheeler tried to convince him to join in. As it is we have evidence against the unified field: "<i>Einstein</i> failed".<br><br>
+
+<hr />
+
+<br>
+
+What was so moral about him? Well, he was ahead of his time (still is): <br>
+
+<ul>
+
+<li>Denounced WWI as the senseless crap it was.</li><br>
+<li>Never went to the Soviet empire (despite repeated invites).</li><br>
+<li>Denounced the Nazis from '31, despite/because of public threats to his life.</li><br>
+<li>Flipped from pacifism at the right moment.</li><br>
+<li>Many early actions for <a href="http://news.harvard.edu/gazette/story/2007/04/albert-einstein-civil-rights-activist/">US civil rights</a>, including work against McCarthyism.</li><br>
+<li>Sold his original manuscripts for War Bonds</li>
+
+</ul>
+
+Even his Zionism was enlightened (pro-migration, anti-state, <a href="https://en.wikisource.org/wiki/New_Palestine_Party;_Visit_of_Menachen_Begin_and_Aims_of_Political_Movement_Discussed">anti-Begin</a>):
+<blockquote>“<i>Should we be unable to find a way to honest cooperation and honest pacts with the Arabs,</i>” he wrote [Chaim] Weizmann in 1929, “<i>then we have learned absolutely nothing during our 2,000 years of suffering.</i>”<br>
+
+He proposed, both to Weizmann and in an open letter to an Arab leader, that a “privy council” of four Jews and four Arabs, all independent-minded, be set up to resolve any disputes. “<i>The two great Semitic peoples,</i>” he said, “<i>have a great common future.</i>” If the Jews did not assure that both sides lived in harmony, he warned friends in the Zionist movement, the struggle would haunt them in decades to come. Once again, he was labeled naïve.
+</blockquote><br>
+
+<hr />
+
+<br>
+
+Einstein is like Bertrand Russell, only <i>much</i> more so: even more brilliant, even more rebellious, even more politically active, even more aloof, even more relentless, even more neglectful of his family. (<a href="{{muck}}">Russell on hearing relativity</a> for the first time: "<i>To think I have spent my life on absolute muck</i>.") <br>
+
+Along with Ibn Rushd, Leonardo, Pascal, Leibniz, Darwin, Peirce, Russell, Turing, Chomsky, Einstein is one of our rare <i>complete</i> intellectuals: huge achievements in science, beautiful writing, good jokes, original philosophy, moral seriousness. To have warmth too, as Einstein does abundantly, doesn't have much precedent. However much Einstein is <a href="https://www.google.co.uk/search?q=einstein+quotes&source=lnms&tbm=isch&sa=X&ved=0ahUKEwipzLzD8NTUAhXESRoKHbMsC4MQ_AUIBigB&biw=1091&bih=561">misattributed</a> vaguely pleasant, vaguely droll, vaguely radical statements, the fact is he actually <i>was</i> pleasant, funny, radical. Believe the hype.<br>
+
+The usual word for this lot is 'polymath' - but though we are mad keen on polymaths, their generalism is seen as a laudable extra, rather than the <i>vital</i> service I now think they alone can give: you want people who have proven they can discover things to tackle your ancient ill-defined questions (beauty, goodness, justice, existence). The above are more than subject-matter polymaths; they are both thinkers and doers, hackers and painters, servants and masters, above their time and ahead of it. 
+
+You can't do good unless you <i>know</i> a great deal about the targets of your morals; you want the vast imaginative search over philosophical possibilities to be aided by what we actually know. (As the noted writer against scientism, Ludwig Wittgenstein <a href="https://www.google.com/search?tbm=bks&q=Last+Writings+on+the+Philosophy+of+Psychology#q=%22scientific+progress+useful%22+Last+Writings+on+the+Philosophy+of+Psychology">put it</a>: 
+<blockquote>
+   Is scientific progress useful for philosophy? Certainly. The realities that are discovered lighten the philosopher’s task: imagining possibilities.
+</blockquote>
+
+)<br>
+
+<div class="accordion">
+	<h3>Other greats</h3>
+	<div>
+		Maxwell, Boltzmann, Schrödinger, and Feynman basically fit the above: they are as good at writing and philosophy as they are at physics, and very funny to boot. But they didn't push society forward much (...) Goethe tried admirably, but didn't achieve much science. Descartes should be on there but eh. Hilary Putnam discovered important logical results and has all the other virtues, but I guess science is a stretch? von Neumann covered perhaps the most intellectual ground of all of these people, but I'm not sure he had a moral or political life to speak of. Herbert Simon is deep and broad and fun. And Bohr is brilliant and moral but can't write.
+	</div>
+</div><br>
+
+
+<hr />
+
+
+<br>
+
+One particularly charming bit in this book covers Einstein's long friendship with the <a href="https://en.wikipedia.org/wiki/Elisabeth_of_Bavaria,_Queen_of_Belgium">Queen Mother of Belgium</a>. When Szilard warns him that nuclear fission has been achieved and could give the Nazis dominion over all, Einstein's first thought is to ask Elisabeth to sort it out, by grabbing all the <a href="https://en.wikipedia.org/wiki/Belgian_overseas_colonies">Central African</a> uranium and sending it far from the Nazis. (As it happens, the <i>Uranverein</i> got their uranium from Czechoslovakia.)<br>
+
+<br>
+
+<hr />
+
+<br>
+
+Isaacson read all the letters, formed a view on all the academic controversies (Maric's contribution, baby Lieserl, what sort of deist or Zionist or pacifist he was), and covers most of the papers, recasting the classic thought experiments very lucidly. This was a huge pleasure. Read with Wikipedia open, though: C20th physics is way too deep and broad for one book.
+
+<br><br>
