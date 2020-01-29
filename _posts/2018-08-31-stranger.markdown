@@ -1,0 +1,146 @@
+---
+layout:     post
+title:      "'Strangers Drowning' (2015) by MacFarquhar"
+baselink:   /strangers
+permalink:  /strangers
+date:       2018-06-28
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  true
+
+summary:    on the rarity and beauty of seriously good people
+confidence: 80%
+importance: 9
+categories: ethics, effective altruism, meaning
+count:      
+---
+
+<center>
+	<img src="/img/optikaa.png" width="35%" />
+</center><br>
+
+<blockquote>I don’t know whether there are any moral saints. But if there are, I am glad that neither I nor those about whom I care most are among them... The moral virtues, present... to an extreme degree, are apt to crowd out the non-moral virtues, as well as many of the interests and personal characteristics that we generally think contribute to a healthy, well-rounded, richly developed character...<br> there seems to be a limit to how much morality we can stand.</blockquote>
+<center>	<a href="http://philosophyfaculty.ucsd.edu/faculty/rarneson/Courses/susanwolfessay1982.pdf">– Susan Wolf</a></center>
+<br>
+
+
+<blockquote>...the moral narcissist’s extreme humility masked a dreadful pride. Ordinary people could accept that they had faults; the moral narcissist could not. To [André] Green this moral straining was sinister, for the moral narcissist would do anything to preserve his purity, even when doing so carried a terrible price... there was "pseudo-altruism", a defensive cloak for sadomasochism; and there was "psychotic altruism", bizarre care-taking behaviour based in delusion... the analyst surmised that the masking of their own hostility and greed from themselves might be one of altruism's functions</blockquote>
+<center>– Larissa MacFarquhar</center>
+
+<br>
+
+
+<blockquote>...we cannot and should not become impartial, [Bernard Williams] argued, because doing so would mean abandoning what gives human life meaning. Without selfish partiality—to people you are deeply attached to, your wife and your children, your friends, to work that you love and that is particularly yours, to beauty, to place — we are nothing. We are creatures of intimacy and kinship and loyalty, not blind servants of the world. <a href="#fn:1" id="fnref:1">1</a>
+<br>
+</blockquote>
+<center>	– Larissa MacFarquhar	</center>
+
+
+<br>
+<br>
+
+Twelve profiles of recent radical altruists, and the backlash they receive from the rest of us. (^) Besides, MacFarquhar has some deep reflections on the good life and human nature to work through. So: There are people who shape their lives around the need of the world – in particular around strangers who are <a href="http://apps.who.int/immunization_monitoring/diseases/en/">constantly</a>, in some sense, drowning. This category of person does more than just work a caring job and be dead nice to those around them: instead, their entire lives are dominated by the attempt to do the <i>most</i> good.<br><br>
+
+<div class="accordion">
+	<h3>Profiled altruists</h3>
+	<div>
+<ul>
+	<li><a href="http://www.peacehost.net/Dorothy/">A fairly fearless nurse</a> who organised the <a href="https://en.wikipedia.org/wiki/Fast_for_Life">Fast for Life</a> and trained generations of Nicaraguan nurses, continuing for thirty years despite specific threats to her life by Contras.</li><br>
+
+<li>A pseudonymous animal rights activist who has rescued or won improved conditions for millions of chickens.</li><br>
+
+<li>Two early effective altruists, <a href="http://www.givinggladly.com/2013/06/whats-it-like-to-give-half.html">Julia</a> and <a href="https://www.jefftk.com/p/earning-to-give-transcript">Jeff</a>, who live frugally and donate more than half of their salaries to the most effective NGOs in the world. They plausibly save 100 lives a year, far more than a <a href="https://80000hours.org/2012/08/how-many-lives-does-a-doctor-save/">doctor</a> or <a href="https://www.fbu.org.uk/download/file/fid/2915">firefighter</a> (even before considering replaceability).</li><br>
+
+<li><a href="http://www.newyorker.com/magazine/2009/07/27/the-kindest-cut">A real Christian</a>, who opened her church to the homeless (over the hostility of her flock) and donated a kidney anonymously.</li><a name="data"></a><br>
+
+<li><a href="https://en.wikipedia.org/wiki/Baba_Amte">A charismatic, outcaste social worker and jungle statesman</a>, who created <a href="http://anandwan.in/anandwan/">a self-sustaining leper ashram</a>, 5000-strong, out of nothing. Also his <a href="https://en.wikipedia.org/wiki/Vikas_Amte">equally</a> <a href="https://en.wikipedia.org/wiki/Prakash_Amte">hardcore</a> descendents.</li><br>
+
+<li><a href="https://twitter.com/itte2nemo10">A Buddhist monk</a> who created the largest suicide counselling site in Japan, stressing himself into heart disease.</li><br>
+
+<li><a href="http://www.badeaufamily.com/ouradoptionstory.htm">The omni-parents of Vermont</a>, who adopted 24 of the least cute and easy children on the lists.</li><br>
+
+<li>A taciturn altruistic kidney donor.</li><br>
+<li>A burned-out idealist.<a href="#fn:4" id="fnref:4">4</a></li>
+</ul>
+</div>
+</div>
+
+<br>(<a href="https://docs.google.com/spreadsheets/d/1VMjFJpgyxQZ6jGj0SN_QMMBPj0eSSnFuXpQ49FuYG9Y/edit?usp=sharing">I've compiled data on their nature here</a>.<a href="#fn:3" id="fnref:3">3</a>)
+<br>
+<br>
+
+MacFarquhar appears suspicious about these people, whose lives are taken over by their morals. She calls them "do-gooders" while admitting the term is dismissive.<a href="#fn:2" id="fnref:2">2</a> Even the most humble and quiet do-gooder is, she thinks, making an extremely arrogant claim: that the moral intuitions of the whole species - i.e. family favouritism, <a href="https://en.wikipedia.org/wiki/Supererogation">supererogation</a>, the right to ignore the suffering of strangers - are totally wrong. She leaves no-one unsuspected.
+<br>
+<blockquote><i>an extreme morality as Singer's or Godwin's can seem not just oppressively demanding but actually evil, because it violates your duty to yourself. To require a person to think of himself as a tool for the general good could be seen as equivalent of kidnapping a person off the street and harvesting his organs to save three or four lives... even to ask this of yourself seems wrong, even perverted. Impartial, universal love seems the antithesis of what we value about deep human attachment.</i></blockquote>
+<br>But these lives are victory laps: the victory of broad reason over narrow animality. MacFarquhar is more nuanced, less willing to dismiss particularism, nepotism and speciesism – which are together known as common sense. (Though I have only a mild case of the radicals: for instance, I am mostly immune to misery about the state of the world, and I help my loved ones without much guilt. I'm <a href="https://webcache.googleusercontent.com/search?q=cache:YclKt_ybNHMJ:https://www.givingwhatwecan.org/about-us/members/+&cd=1&hl=en&ct=clnk&gl=uk">giving 10% now</a> and 50% eventually, but I am such a bookish scruff that the absence of luxuries does not really cramp my life at all.)
+<br>
+<br>
+
+One part of Williams' humanist case against radical altruism has dissolved in the last decade: the idea that single-minded ethical focus must erode your connection to your community. Well, the effective altruists are growing in number and maturity; they <a href="https://www.effectivealtruism.org/get-involved/">offer a deep, global community</a> of at least partially serious people to support and be supported by: and all with the stamp of moral consistency.
+<br>
+<br>
+
+MacFarquhar doesn't much like utilitarianism, but she is too moved and impressed with her subjects to take the standard, safe, quietist line (which her <a href="http://inthesetimes.com/article/18407/helping-a-drowning-stranger">reviewers</a> have tended to). Throughout, she presents contradictory philosophical propositions, and makes it difficult to know which she believes; she constantly uses indirect speech and deictic discussion, blurring her voice with the debate at hand. This is, I think, an impressive rhetorical strategy – an "<a href="http://www.overcomingbias.com/2014/10/philosophy-between-the-lines.html">esoteric</a>" one. The book is addressed to common sense readers, but also to our uncertainty and faint guilt; it's dedicated to her parents, but explicitly constructed to bring us closer to the altruists:
+<br><a name="longcon"></a>
+<br>
+<blockquote><i>I took out all the physical descriptions because if you’re looking at someone’s physical appearance, you’re on the outside. Similarly quotations, which seem as though they should be the most intimate form, because they come directly from the person’s mouth. Again, in fact, the only way you hear someone speaking is if you’re outside them. So if you translate quotation into interior thought, which simply means taking away the quotation marks and saying ‘he thought’ rather than ‘he said’ – that’s a more intimate way of encountering someone.</i>***</blockquote>
+<br>So <i>Strangers Drowning</i> covertly brings us closer to radical altruism. Her task is not to establish their ethical premises, nor to win over new obsessives: instead, she simply shows us their sincerity and incredible effects on the world – and, better, shows the lack of evidence and interpretive charity behind their opponents' aspersions. (This goes for the Freudians, the Objectivists, and the anti "codependency" crowd.) It humanises the threatening side of ultimate goodness. She mostly avoids editorialising about the radicals. But one of her clear conclusions is that these people are not deficient, instead having something most people lack:
+<br>
+<blockquote><i>What do-gooders lack is not happiness but innocence. They lack that happy blindness that allows most people, most of the time, to shut their minds to what is unbearable. Do-gooders have forced themselves to know, and keep on knowing, that everything they do affects other people, and that sometimes (though not always) their joy is purchased with other people's joy. And, remembering that, they open themselves to a sense of unlimited, crushing responsibility...
+<br>
+<br>
+
+The </i>need<i> of the world was like death, </i>[Julia]<i> thought — everyone knew about it, but the thought was so annihilating that they had to push it out of consciousness or it would crush them. She understood, and yet did not understand, why other people didn't give more than they did. How did they allow themselves such permission? How could they not help?</i></blockquote>
+<br>while also noting that, in general
+<br>
+<blockquote><i>If there is a struggle between morality and life, life will win... Not always, not in every case, but life will win in the end. Sometimes a person will die for a cause; sometimes a person will give up for duty's sake the things that are to him most precious. But most of the time, the urge to live, to give to your family, to seek beauty, to act spontaneously... or to do any number of things other than helping people, is too strong to be overridden... It may be true that not everyone should be a do-gooder. But it is also true that these strange, hopeful, tough, idealistic, demanding, life-threatening, and relentless people, by their extravagant example, help keep those life-sustaining qualities alive.
+<br></i></blockquote>
+<br>
+<br>
+
+An amazing book, anyway: charged, critical, structurally ingenious, and filled with humanity – or, with this other, better thing. <br>[Galef Type: <a href="https://juliagalef.com/2017/01/06/a-taxonomy-of-books-that-change-your-worldview/">Data 2, Values 2</a>]
+<br>
+<br>
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://3.bp.blogspot.com/-LZ2UPDZqwSA/V__tmcnCXEI/AAAAAAAACvE/-2kGPLHaqbkV3j6ZDK_XbqP6G5SD5toNQCLcB/s1600/selung.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://3.bp.blogspot.com/-LZ2UPDZqwSA/V__tmcnCXEI/AAAAAAAACvE/-2kGPLHaqbkV3j6ZDK_XbqP6G5SD5toNQCLcB/s640/selung.png" height="480" border="0" width="400"></a>
+<br><small>"Sedia hujan sebelum payung" (c) <a href="http://zakyarifin.tumblr.com/post/134379295094/sedia-hujan-sebelum-payung-ohrainydays
+<br>">Zaky Arifin</a> (2015)</small></div>
+<br>
+
+<br>
+<br>
+
+<div class="accordion">
+	<h3>Good riddance</h3>
+	<div>
+		The chapter on the blitheness and cruelty of the psychoanalysts enraged me - all the more because MacFarquhar leaves their unscientific bullshit unchallenged, instead letting it mock and degrade itself. (One hopes.) <i>So much</i> glib spite:<br><br>
+		<blockquote><table><tbody><tr><td style="width:120px;font-family: 'Copperplate Gothic'">ANNA FREUD:</td>
+		<br><td><i>Altruists are bossy, because the urge that is usually behind the fulfillment of one's own wishes is now placed behind the fulfillment of the wishes of another person. The wishes have to be fulfilled in a certain way, in the way the altruist would like to fulfill them for himself or herself. After all, the bossiness of do-gooders is proverbial...</i></td>
+		<br></tr></tbody></table></blockquote>
+		<br>(My, what rigorous science.) So, here's yet <i>another</i> way I am fortunate to live when I do: these people have by now been mostly sidelined in polite discourse. The harm they are able to do is much reduced, and I need not spend my whole life convincing people that they are just making things up. 
+	</div>
+</div>
+
+
+
+<div class="footnotes">
+
+<ol>
+    <li class="footnote" id="fn:1">
+    	Note for later the absent quotation marks around MacFarquhar's report of the psychoanalysts' and Williams' positions. 
+    </li>
+	<li class="footnote" id="fn:2">
+		"Do-gooder" is still much better than Wolf's term "saint", because, as MacFarquhar notes, to call someone a saint is to nullify the challenge of their actions: saints are not just 'people who do really good things'; they are (thought to be) a different sort of being. <br><br>
+		Any movement (like EA) which seeks to make radical altruism mainstream has to resist this demarcation and get people to see such a life as, first, good; then, possible for them; and then reasonable - the sort of thing that people would do if they thought about it more. 
+	</li>
+	<li class="footnote" id="fn:3">
+		Philosophy - e.g. Peter Singer, Will MacAskill, Toby Ord, Mark Lee, Geoff Anders, Stephanie Wykstra - <a href="https://books.google.co.uk/books?id=Su7GCAAAQBAJ&pg=PT6&dq=strangers+drowning&hl=en&sa=X&redir_esc=y#v=onepage&q=philosoph&f=false">looms large here</a>, in this little corner of the species; larger than organised religion. Since all of the philosophers are from Analytic departments, this gives the lie to <a href="http://opinionator.blogs.nytimes.com/2016/01/11/when-philosophy-lost-its-way/?_r=1">the generalised standard criticism</a> of academic philosophy (: that they are fatally detached from the concerns of society, dehumanised, etc).
+	</li>
+    <li class="footnote" id="fn:4">
+		MacFarquhar's account of Stephanie is misleading: she makes it seem like she has opted for ordinary amoral innocence, where <a href="https://twitter.com/swykstr">the real Stephanie</a> has taken on <a href="http://www.senseaboutscienceusa.org/hanging-onto-hope-what-its-like-to-participate-in-a-clinical-trial/">an incredibly high-impact job</a>, activism for oversight of pharmaceutical clinical trial data. 
+	</li>
+</ol>
+
+</div>
