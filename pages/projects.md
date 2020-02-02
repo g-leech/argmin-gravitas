@@ -2,7 +2,7 @@
 layout: 	page
 title: 		Projects
 permalink:	/projects/
-visible:	true
+visible:	false
 ---
 
 {%		assign arch = "http://gleech.org/archive"		%}
