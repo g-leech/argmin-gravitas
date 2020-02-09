@@ -64,7 +64,7 @@ The ending is stirring but tilts over into foolish relativism:<br/>
 But the question is to what <i>degree</i>! And the degree of lostness, of inverse rationality, varies by many orders of whatever magnitude you wish to pick.<br/><br/>Storr's disquiet at the sheer power of cognitive bias, and the systematic failures of yes/no science (that is: statistical significance rather than effect size estimation) is well and good. <a href="{{gel2}}">Gelman</a>: 
 <blockquote><i>I think ‘the probability that a model or a hypothesis is true’ is generally a meaningless statement except as noted in certain narrow albeit important examples.</i></blockquote>
 
-Storr's humane approach is certainly bound to be more compelling to mystics and flakes than e.g. deGrasse Tyson's smug dismissals. But Storr is scared of grey, of the fact that doubt is only reducible and not eliminable. This is because he doesn't know our most beautiful weapons: probabilism, Bayesian inference, Analysis. 
+Storr's humane approach is certainly bound to be more compelling to mystics and flakes than e.g. deGrasse Tyson's smug dismissals. But Storr is scared of grey, of the fact that doubt is only reducible and not eliminable. This is because he doesn't know our beautiful, fallible weapons: probabilism, inference, optimisation, Analysis, computability. 
 
 I recommend <i><a href="{{han}}">Elephant in the Brain</a></i> or <i><a href="{{yud}}">Rationality from A to Z</a></i> instead as an approach to the vital, dreadful side of cognition (including advice on how to avoid being a fake, partial, traditional sceptic); they have less angst and false equivalences, and were written by people who understand the balance of evidence. 
 
