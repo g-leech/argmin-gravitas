@@ -90,9 +90,26 @@ Their treatment of the mental costs of education is extremely important, given N
 	We never ask, Is this how we want poor people to use their bandwidth? We never factor in this cost in deciding which behaviors are most worth promoting. When we design poverty programs, we recognize that the poor are short on cash, so we are careful to conserve on that. But we do not think of bandwidth as being scarce as well. Nowhere is this clearer than in our impulse to educate.<br /></i>
 </blockquote><br>
 
-I'm a keen and cynical student of social research, and but I only recognised one spurious result in this whole book. (ego depletion, p.107 - and that only in a tangent explicitly phrased as hypothetical.) They did a pretty convincing within-subjects study on sugar farmers before and after harvest income which nails down the effect as far as I can see.<br /><br />
+I'm a keen and cynical student of social research, and but I only recognised one spurious result in the whole book. (ego depletion, p.107 - and that only in a hypothetical tangent.) They did a pretty convincing within-subjects study on sugar farmers before and after harvest income, which nails down the effect as far as I can see.<br /><br />
 
 Only not five stars because we can't give any social science book five stars until it is 20 years old and more severely scrutinised than this.
+
+
+
+<div class="accordion">
+	<h3>Risks</h3>
+	<div>
+		The Slack doctrine advocates not trying exactly as hard as you can, holding back a reserve. Even granting the good psychological and algorithmic reasons to do this, this gives the imp of perversity space to take more than you actually need.
+	</div>
+<!--  -->
+	<h3>Premortem for unified scarcity theory</h3>
+	<div>
+		If in 10 years we find that the theory above is in fact not a good one, what will the weak points have been?
+<!--  -->
+		* Confounders in the sugar experiments?<br>
+		* Strong genetic predisposition to tunnelling.<br>
+	</div>
+</div>
 
 <br /><br /><br />
 
@@ -101,7 +118,7 @@ Only not five stars because we can't give any social science book five stars unt
 
 <ol>
     <li class="footnote" id="fn:1">
-		Although see <a href="{{jung}}">Junger</a> for some positive social effects of acute, temporary shared adversity.
+		Although see <a href="{{jung}}">Junger</a> for positive social effects of acute, <i>temporary</i> shared adversity.
 	</li>
 <!--  -->
 	<li class="footnote" id="fn:2">
