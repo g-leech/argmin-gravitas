@@ -72,7 +72,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	 "<i>In philosophy we are not laying foundations but tidying a room, in the process of which we have to touch everything a dozen times.</i>" 
 	<br><br>
 <!-- -->	 
-	The standard rejoinder to this rejoinder is to ask for a single natural language concept which has been successfully "tidied" (analysed or dissolved) in this way. 
+	The standard rejoinder to this rejoinder is to ask for <a href="{{hue}}">a single natural language concept</a> which has been successfully "tidied" (analysed or dissolved) in this way. 
 	</li> 
 	<br><br>
 <!--  -->
