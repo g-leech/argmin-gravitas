@@ -1,0 +1,114 @@
+---
+layout:     post
+title:      "'Scarcity' (2013) by Shafir & Mullainathan"
+baselink:   /scarcity
+permalink:  /scarcity
+date:       2019-05-02
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  true
+
+summary:    A practical theory of the mind's panic mode and its giant harm.
+confidence: 70%. (Novel social science.)
+importance: 7
+count:      
+---
+
+{%	assign lux = "https://en.wikipedia.org/wiki/Luxury_goods"	%}
+{%	assign zvi = "https://thezvi.wordpress.com/2017/09/30/slack/"	%}
+{%	assign chok = "https://en.wikipedia.org/wiki/Choke_(sports)"		%}
+{%	assign moral = "https://scholar.harvard.edu/files/bfriedman/files/the_moral_consequences_of_economic_growth_0.pdf"		%}
+{%	assign z = "http://www.nonzero.org/app1.htm"		%}
+{%	assign jung = "http://www.sebastianjunger.com/tribe-by-sebastian-junger"		%}
+{%	assign lil = "https://en.wikipedia.org/wiki/Little's_law"		%}
+{%	assign hospit = "https://www.strategy-business.com/article/00229?gko=a073f"		%}
+{%	assign iron = "https://www.gwern.net/docs/sociology/1987-rossi"		%}
+
+
+Economics bills itself as 'the study of decisions under scarcity'. A lot of it is actually about excess: <a href="{{lux}}">luxury</a> substitution, savings rates, futures markets, conspicuous consumption, and so on. But even these theories are about constrained optimisation, just with slightly looser constraints.
+
+That's the material side. The psychological side of painful scarcity - the panic, mental narrowing, and sense of doom - was completely absent from my economics classes, but without it you can't really understand poverty, and can't value economic growth as the life-saving, _mind_-saving thing it has been. <br /><br />
+
+#### Reasons scarcity is bad:<br />
+
+1. Lower consumption is often less good (and sometimes maximally bad, counting e.g. medicine as a consumer good).<br />
+2. Less freedom (fewer choices)<br />
+3. Anxiety (emotional penalty)<br />
+4. Cognitive penalty (bandwidth wasted on worrying about)<br />
+5. Excessive focus on the present compromises planning for the future ("tunnelling")<br />
+6. Have to spend more time on careful allocation ("juggling")<br />
+7. Excess self-consciousness means worse performance ("<a href="{{chok}}">choking</a>")<br />
+8. Can poison social interaction by <a href="{{moral}}">encouraging</a> <a href="{{z}}">zero-sum thinking</a> and so wasteful conflict.<a href="#fn:1" id="fnref:1">1</a><br />
+9. It recurses: Mistakes lead to real sacrifice (debt; traps; no slack means penalties bite, further reducing slack). Scarcity causes more scarcity by screwing with your planning and implementation skills.<br /><br />
+
+Economics only really handles costs (1) and (2). Psychology at its best handles (3-7). (9) is the author's new contribution, I think: cognitive economics.<br /><br />
+
+Without <a href="{{zvi}}">some spare resources</a> it's impossible to be free, to be generous, to relax. That's obvious. Less obvious is that without slack you can't even think straight: there's a "bandwidth tax" on the poor, reducing their effective intelligence and willpower by - apparently - an entire standard deviation. Most of the experiments cited in this are about money scarcity, but their ingenious move is to generalise to all of us, to all conditions where a person lacks some instinctively (evolutionarily) key resource: e.g. money, time, calories, or friends. As well as being a plausible and exciting theoretical synthesis, this makes the book more evocative for rich-world readers:
+<blockquote>
+	We have used the psychology of scarcity to create an empathy bridge. We have used experience with one form of scarcity (say, time) to connect to another form (money). Having known what it’s like to badly need a little more time, we might start to imagine what it’s like to desperately need a little more money or even more friends. We used this bridge to draw a connection between a busy manager fretting about insufficient time before a deadline and a person short on cash fretting about insufficient funds to pay rent. <a href="#fn:2" id="fnref:2">2</a>
+</blockquote>
+
+
+Exciting! I've been reading development economics and behavioural science for years, and I still got a lot of new results and a gosh-darnit gears-level Practical Theory of Mind.
+
+They compress all the constructs and determinants of their real theory into a simplified idea, "bandwidth". This is a shorthand for working memory <i>&amp;</i> fluid intelligence <i>&amp;</i> attention span <i>&amp;</i> decision consistency <i>&amp;</i> persistence <i>&amp;</i> executive control <i>&amp;</i> long-term planning inclination. They admit at the start it's a compression, so that's fine.<br />
+
+<blockquote>
+  <i>With compromised bandwidth, we are more likely to give in to our impulses, more likely to cave in to temptations. With little slack, we have less room to fail. With compromised bandwidth, we are more likely to fail.<br /></i>
+</blockquote><br>
+
+Lesson: To optimise your life, you can't 'optimise' too hard, in the sense of pushing right up against your budgets. This idea is not new; a different book would cross disciplines and tie this to <a href="{{lil}}">queuing theory</a> and distributed computing, trying to find general theoretical truths about systems. (What's the maximum sustainable load for a server? For a life?) Excess capacity, 'slack', is short-run inefficiency <i>and</i> long-term shock-tolerance and thus <a href="{{hospit}}">true efficiency</a>. The point seems to apply to servers, hospitals, and a single human life viewed from inside.
+
+This also adds to Taleb's critique of naive finance, encouraging 'risk-sensitive optimisation' (death-sensitive). They extend bounded rationality from a computation and search budget to limited attention and willpower.<br />
+
+The book's big philosophical question is the old Essence vs Context chestnut ("the poor are worse parents, drivers, borrowers" vs "given these constraints, people are worse parents, drivers, borrowers"). But it's a new twist: as well as causing permanent developmental deficiencies, poverty levies temporary mental costs:
+<blockquote>
+  <i>This shortfall is not of the standard physiological variety, having to do with a lack of nutrition or stress from early childhood hindering brain development. Nor is bandwidth permanently compromised by poverty. It is the present-day cognitive load of making ends meet: when income rises, so, too, does cognitive capacity. The bandwidth of the farmers was restored as soon as crop payments were received. Poverty at its very core taxes bandwidth and diminishes capacity.</i>
+</blockquote>
+This surprises me: I generally accept that people are <a href="{{iron}}">hard to change</a>, that engineered context is relatively weak. But then all attempts at self-improvement are a denial of essentialism about <i>something</i>, and I'm well into those.<br />
+
+<blockquote>
+  <i>To explain why the poor borrow excessively, we do not need to appeal to a lack of financial education, the avarice of predatory lenders, or an oversized tendency for self-indulgence. To explain why the busy put off things and fall behind, we do not need to appeal to weak self-control, deficient understanding, or a lack of time-management skills. Instead, borrowing is a simple consequence of tunneling.<br /></i>
+</blockquote>
+They don't sugarcoat it: they accept the massive body of evidence on how burdened the poor are, on dozens of axes. And they note that just giving them cash rarely solves the problem because this doesn't change the logic enough.<br />
+
+<blockquote>
+  <i>The poor stay poor, the lonely stay lonely, the busy stay busy, and diets fail.<br /></i>
+</blockquote><br>
+
+One big gripe: They use the word "scarcity" for both a physical shortage (i.e. the normal economic sense) and for this special psychological burden. (Not having, and having your mind captured by not having.) This needs two words; it muddies their thesis.<br /><br />
+
+They've persuaded me that late fines are an extremely regressive tax. I'm open to the view that reducing poor people's options is sometimes best for them (e.g. if they are "<i>hurt by the ability to borrow</i> [at extortionate rates]" because it prevents them smoothing their income in a credit cycle). I agree that bandwidth is the deepest kind of human capital. <br /><br />
+
+Their treatment of the mental costs of education is extremely important, given NGOs' blithe promotion of education over all else. (And it's a further argument for unconditional cash transfers.) 
+
+<blockquote>
+	<i>To capitalize on a bonus payment for a child’s medical checkup, a parent must set up the appointment, remember to keep it, find the time to get there and back, and coerce the child to go (no child likes the doctor!). Each of these steps requires some bandwidth. And this is just one behavior. Conditional cash transfer programs seek to encourage dozens, if not hundreds, of these good behaviors. Just understanding those incentives and making the necessary trade-offs—deciding which are worth it for you and which are not, and when—requires bandwidth.<br /><br />
+<!--  -->
+	We never ask, Is this how we want poor people to use their bandwidth? We never factor in this cost in deciding which behaviors are most worth promoting. When we design poverty programs, we recognize that the poor are short on cash, so we are careful to conserve on that. But we do not think of bandwidth as being scarce as well. Nowhere is this clearer than in our impulse to educate.<br /></i>
+</blockquote><br>
+
+I'm a keen and cynical student of social research, and but I only recognised one spurious result in this whole book. (ego depletion, p.107 - and that only in a tangent explicitly phrased as hypothetical.) They did a pretty convincing within-subjects study on sugar farmers before and after harvest income which nails down the effect as far as I can see.<br /><br />
+
+Only not five stars because we can't give any social science book five stars until it is 20 years old and more severely scrutinised than this.
+
+<br /><br /><br />
+
+
+<div class="footnotes">
+
+<ol>
+    <li class="footnote" id="fn:1">
+		Although see <a href="{{jung}}">Junger</a> for some positive social effects of acute, temporary shared adversity.
+	</li>
+<!--  -->
+	<li class="footnote" id="fn:2">
+		It's common to mock people for claiming that they are "time-poor", since the speaker will generally have a high income and will have chosen their situation, while the poor involuntarily suffer both money and time poverty.<br><br> 
+<!--  -->
+		'<i>Scarcity</i>' implies that you should ease up on them, since there are serious quality of life losses from doing too much to keep up your mortgage and your au pair and your fitness and all that.<br><br> 
+	</li>
+</ol>
+
+</div>
