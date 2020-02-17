@@ -52,3 +52,4 @@
 {%		assign trivial = "https://en.wikipedia.org/wiki/Trivialism"		%}
 
 {%		assign euk = "https://eukaryotewritesblog.com/2018/10/09/the-funnel-of-human-experience/"		%}
+{%		assign hue = "https://fakenous.net/?p=1130"		%}
