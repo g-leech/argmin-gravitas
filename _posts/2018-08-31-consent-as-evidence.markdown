@@ -12,7 +12,7 @@ visible: 	1
 
 summary:    Dissolving a thought-experiment about consequentialism.
 confidence:	80%. Surely not original.
-warnings:	euthanasia, murder, consent, critical about basic rights
+warnings:	euthanasia, murder, antinatalism, rights violation
 categories: 
 importance: 8
 count:		1000
@@ -75,15 +75,15 @@ John Stuart Mill's version is one of the most liveable forms of utilitarianism b
 
 #### 3. Rule utilitarianism
 
-Maybe the rule "don't kill people against their will" is more than good enough to balance out the disutility of one painful death. It pretty plausibly is, but the question is, does the "mercy killing" weaken that rule in any way here?
+Maybe the rule "don't kill people against their will" is more than good enough to balance out the disutility of one painful death. It pretty plausibly is, but the question is: does the 'mercy killing' weaken that rule in any way?
 
 <br>
 
 #### 4. Preference utilitarianism
 
-That consent is ignored by naive act hedonism is a main selling point of 'preference utilitarianism', the kind that maximises satisfied goals rather than raw feels. This is fine but is not an answer to the thought-experiment. 
+That consent is ignored by naive act hedonism is a main selling point of 'preference utilitarianism', the kind that maximises satisfied goals rather than raw feels. This is fine, but it doesn't address the original thought-experiment, which is about the hedonic sort.
 
-(Note that the main proponent of this view <a href="{{singer}}">has switched</a> to the hedonic view because of more difficult edge cases.)
+(Note that the main proponent of this view <a href="{{singer}}">has switched</a> to the hedonic view because of even more difficult edge cases.)
 
 <br>
 
@@ -108,7 +108,7 @@ We know too little about suffering to act drastically according to merely intuit
 
 Even if it seems obvious that the physical pain of the dying man outweighs the satisfaction he gets from having his wishes respected, I don't have anything like warrant to act. Whether the benefit to him is pride in defying suffering, or in the <a href="{{halluc}}">deeply altered</a> <a href="{{dmt}}">states</a> involved is moot: it is overwhelming evidence even accounting for the chance of Tom lying.
 
-Call knowing something with enough confidence to do something prima facie bad as a result, _overknowing_. My claim is that we don't even overknow the _sign_ of another person's valence, without their honest report.
+Let's use the word '_overknowing_' for being confident enough to do something prima facie bad. My claim is that we don't even overknow the _sign_ of another person's valence, without their honest report.
 
 (This might change a bit when welfare biology advances, giving us another source of evidence about the value of a state, but it'll never be countermanded unless we discover some <a href="{{pearce}}">far-out theory</a> that lets us empirically measure the value of a conscious state.)
 
