@@ -1,0 +1,75 @@
+---
+layout:     post
+title:      "Present pieties"
+baselink:   /piety
+permalink:  /piety
+date:       2015-06-04
+author:     Gavin
+
+visible:    1
+published:  true
+
+summary:    What's the spirit of the age? What does everyone have to like?
+confidence: 90% that most of the rich world feels obliged to these things.
+importance: 4
+count:      2100
+categories: social
+---
+
+{%	include piety/links.md		%}
+
+
+<blockquote>...one knows a piety from a principle because even those who oppose a piety have to pretend to honour its core point.
+</blockquote>
+<center><p style="line-height: 5px;">– <a href="{{gop}}">Adam Gopnik</a>  </p></center>
+<br>
+
+<blockquote>
+...<i>one way you know that something is an institution is that you don’t have to give reasons for it. Getting a college degree, like getting married, is what people do.</i>
+</blockquote>
+<center><p style="line-height: 5px;">– <a href="{{emer}}">John Emerson</a></p>
+</center>
+<br /><br>
+
+What does everyone <i>have</i> to like? (Better: what does everyone <a href="{{pref}}"><i>say</i></a> they like, in the West, if they're respectable?) By construction, most people don't like the things hipsters like. What do <i>even hipsters</i> fail to react against?
+
+<!-- Two people saying they don't like things you're supposed to: Nassim Taleb refuses to read the news, for <a href="{{aest}}">aesthetic</a> and <a href="{{epis}}">epistemic</a> reasons; Pierre Bayard says that one can and should talk about books one hasn't read. Good intellectuals aren't supposed to talk like this.<br /><br /> -->
+
+Not everything in the following list is bad, just mysteriously universal or <a href="{{x}}">unquestioned</a>. I also wanted things independent of Left/Right politics, because they are both obvious and plainly not universal. So I haven't included Gopnik's example (gay marriage) despite it having all the hallmarks of a piety – e.g. finding support even among <a href="{{nat}}">ancient enemies</a>, having <a href="{{ag}}">only</a> <a href="{{wut}}">confusing opponents</a> we could report on, gawkily. 
+
+They're also superficial in comparison to the deadly pieties, 'things one <a href="{{eich}}">loses one's job</a> for opposing'. For which 'heresy' might not be excessive. Though that takes our term for 'things others will <a href="{{heb}}">kill you for saying </a>'.
+
+
+<hr />
+
+<br>
+
+
+{%	include piety/journ.md		%}
+
+{%	include piety/trav.md		%}
+
+{%	include piety/nat.md		%}
+
+{%	include piety/net.md		%}
+
+{%	include piety/ed.md		%}
+
+<!-- 	include piety/finance.md		%} -->
+
+
+{%	include piety/read.md		%}
+
+<br>
+
+<hr />
+
+<br>
+
+### How does this happen?
+
+Well, as I've conceded, each of them has some intrinsic appeal. But that aside: herding and signalling is the boring but probably most important component. Then there's marketing, which I actually don't see as that powerful. Preference falsification is cool but requires some great force that makes everyone lie without co-ordinating the lie. 
+
+Each of the above sustain an identity in their host. And once a practice gets into your identity, it can extract a huge amount from you, without you ever thinking to complain. It may seem far-fetched that someone could identify with their consumption of journalism, but behold the Extremely Online, the politics wonks, the amateur pundits on a million radio call-ins, all over the earth. 
+
+<br><br><br>
