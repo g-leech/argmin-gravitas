@@ -21,3 +21,5 @@
 {%	assign chap = "https://meaningness.com/"		%}
 {%	assign kaj = "https://kajsotala.fi/2017/11/meditation-and-mental-space/"		%}
 {%	assign psyphy = "https://en.wikipedia.org/wiki/Psychophysics"		%}
+{%	assign incorr = "https://en.wikipedia.org/wiki/Incorrigibility"		%}
+{%	assign gend = "https://www.goodreads.com/review/show/2504127772"		%}
