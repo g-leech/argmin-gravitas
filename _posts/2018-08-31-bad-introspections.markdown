@@ -71,9 +71,17 @@ The common failure above is taking introspection too seriously. If you're doing 
 
 Phenomenology is a sort of philosophy that focusses on introspecting 'structures', facts about consciousness. (I am frustrated that I can't find a list of facts they claim to have found, in their century of striving, but not surprised.) This is as opposed to <a href="{{psyphy}}">psychophysics</a>, the cool quantitative study of stimuli and their mental results. To me, philosophy is the impersonal attempt to be maximally pedantic, but who knows, maybe it pays to be pedantic about subjective experience.<br>
 
-Mindfulness is sanitised religious contemplation. (Then there's 'Focussing'.) 
+And mindfulness is sanitised religious contemplation. (Then there's '<a href="{{gend}}">Focussing</a>'.)
 
 I don't know very much about either, but <a href="{{chap}}">some normally</a> <a href="{{kaj}}">critical people</a> I admire think they are _very_ good, so they might not be bad introspections.
+
+
+<div class="accordion">
+	<h3>Experimental introspection</h3>
+	<div>
+
+
+There may be non-propositional, non-procedural knowledge. It wouldn't be surprising - the conscious mind is a relatively small and unskilled thing. The problem is the idea of apriori <a href="{{incorr}}">invincible</a> access to it. How to test this? If the epistemological side of focusing was real, what would be different about its practitioners? Happiness? Cortisol? Decision speed? I don't know. We are too skilled at deluding ourselves. But it would be pretty easy to run an experiment where Gendlinites tried to predict which patients recover, and then check that against predictions.
 
 <br>
 
@@ -96,6 +104,8 @@ Justified uses for introspection, for me:
 * _Pretext for deep conversations_. I've done a few of these kind of workshops, and every single time I meet really interesting people who are there to open up and talk about fun serious things.
 
 
+
+Open questions: why should there be any therapy that works in general? Grant that there is bodily knowledge; where is this knowledge stored? The enteric nervous system? Why should introspection work? Theory of mind is for modelling other people so that they can't harm me.
 
 ---
 
