@@ -143,7 +143,7 @@ So it looks like there's a strong apriori case to prioritise x-risk, for anyone 
 
 <br><br><br>
 
-{%  include comments.html %}
+{%  include xriskAll/comments.html %}
 
 
 
