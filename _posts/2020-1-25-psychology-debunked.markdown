@@ -113,6 +113,8 @@ https://www.sciencedirect.com/science/article/abs/pii/S027795361830649X
 
 * In general you should be highly suspicious of anything that claims a positive permanent effect on adult IQ, and even in children the max is <a href="{{give}}">4</a>-<a href="{{iod}}">15 points</a> for a profoundly powerful single intervention (iodine supplementation during pregnancy in deficient populations).
 
+* Good rate elsewhere.
+https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-all-passed-a-stringent-test-of-their-replicability/
 <br>
 
 ## Developmental psychology
@@ -143,7 +145,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S027795361830649X
 
 ## Neuroscience
 
-* No good evidence that brains contain multiple minds, for instance one per hemisphere. The corpus callosotomy studies which purported to show "two consciousnesses" inhabiting the same brain <a href="{{pinto}}">were badly overinterpreted</a>.
+* No good evidence that brains contain one mind per hemisphere. The corpus callosotomy studies which purported to show "two consciousnesses" inhabiting the same brain <a href="{{pinto}}">were badly overinterpreted</a>.
 
 * Readiness potentials <a href="{{libet}}">seem to be actually causal</a>, not diagnostic. So Libet's studies also do not show what they purport to. We still don't have free will (since random circuit noise can tip us when the evidence is weak), but in a different way.
 
@@ -178,6 +180,12 @@ https://www.sciencedirect.com/science/article/abs/pii/S027795361830649X
 
 <!-- * The Fluctuating Female Vote -->
 <!-- "Women Are More Likely to Wear Red or Pink at Peak Fertility" -->
+
+<br>
+
+## Psychophysiology
+
+https://www.sciencedirect.com/science/article/pii/S2352154620300012
 
 <br>
 

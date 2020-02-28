@@ -34,6 +34,8 @@
 {%		assign fyi = "https://en.wikipedia.org/wiki/Philosophy_of_information"	%}
 {%		assign digi = "https://en.wikipedia.org/wiki/Digital_philosophy"	%}
 {%		assign greg = "http://dailynous.com/2016/04/26/were-historys-so-called-greatest-philosophers-all-that-great/"	%}
+{%		assign hue = "https://link.springer.com/chapter/10.1057/9781137344557_3"		%}
+
 {%		assign pop = "https://en.wikipedia.org/wiki/Population_ethics"	%}
 {%		assign nom = "https://en.wikipedia.org/wiki/Nomic"	%}
 {%		assign dial = "https://en.wikipedia.org/wiki/Dialetheism"	%}

@@ -20,9 +20,9 @@ count:      500
 {%	include pills/links.html		%}
 
 
-In the last century, half a revolution happened: you can now buy <a href="{{thousands}}">many thousands of substances</a> that claim to promote health, and a couple of them do. The promise is of fine control over health: the prevention of idiosyncratic disorders, and/or aiming at the huge and murky area of "subclinical" human health problems, all the minor things that make life worse. 
+In the last century, half a revolution happened: you can now buy <a href="{{thousands}}">many thousands of substances</a> that claim to promote health, and perhaps a couple of them do. 
 
-And so <a href="{{uk}}">most UK adults</a> take supplements (about half of those multivitamins). Several problems with this:<br>
+The promise is to fine tune your health: to prevent idiosyncratic disorders, to treat the huge murky "subclinical" area of health problems, all the minor things that make life worse. And so <a href="{{uk}}">most UK adults</a> take supplements (about half of those multivitamins). Several problems with this:<br>
 
 1. _Absence of general evidence / Evidence of harm_. Many supposedly health-promoting substances have uselessly weak evidence. For instance, <a href="{{multi}}">frequent use of multivitamins</a> is probably somewhat harmful: they _increase_ mortality for the average user, maybe due to overdosing you with antioxidants. <br>
 
@@ -47,7 +47,7 @@ A shame that <a href="{{ioan}}">general</a> <a href="{{ioan2}}">clinical</a> <a 
 
 Despite plummeting measurement costs (blood tests down by 100x, genome sequencing down by 100,000x, all the consumer QS gizmos), the money and time required for an actually-scientific supplement habit are still prohibitive. So: you take safe inexpensive things and live with the uncertainty - or, more, you rely on <a href="{{algernon}}">a prior</a> that evolution is hard to beat on body matters, and lean against taking anything except the most convincing substances. 
 
-There are economies of scale to summarising and operationalising research, testing batches, and filling capsules. So is this a gap in the market? I don't really know, I just want it to exist. (There are already well-funded <a href="{{vitl}}">toy versions</a> of a personalised service, but their offering is pretty superficial so far.)
+There are economies of scale to summarising and operationalising research, testing batches, and filling capsules. And removing gatekeeping for cheap important tests has the benefit of raising our autonomy, putting us in control of at least the minor things. So is this a gap in the market? I don't really know, I just want it to exist. (There are already well-funded <a href="{{vitl}}">toy versions</a> of a personalised service, but their offering is pretty superficial so far.)
 
 
 <br><br>
