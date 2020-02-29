@@ -3,7 +3,7 @@ layout:     math_post
 title:      "A decomposition of decompositions"
 baselink:   /ages
 permalink:  /ages
-date:       2020-01-16
+date:       2015-09-17
 author:     Gavin   
 img:        /img/funes.jpg
 
