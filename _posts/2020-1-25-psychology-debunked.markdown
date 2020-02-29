@@ -12,12 +12,15 @@ published:  true
 
 summary:    List of spurious or exaggerated psychological phenomena
 confidence: High that I'm representing the current evidence well, low that all of these will stay reversed.
-importance: 6
+importance: 5
 warnings: 	I am not a social scientist.
 count:      1500
 ---
 
 {%  include psy/links.md   %}
+
+> [Brain training] was, in short, a prototypical case of the Replication Crisis: a convenient environmental “One Weird Trick” intervention, with extremely low prior probability, which made no quantitative predictions, supported by a weak methodology which could manufacture positive results, and propped up by selective citation, systemic pressure towards publication bias, researcher allegiance & commercial conflicts of interest, which theory was never definitively disproven, but lost popularity and sort of faded away.
+<center> - <a href="{{gwern}}">Gwern Branwen</a></center><br>
 
 
 A <a href="{{med}}">medical reversal</a> is when an existing treatment is found to actually be useless or harmful. Psychology has in recent years been racking up reversals: in fact only <a href="{{many}}">40-65%</a> of its classic social results were replicated, in the weakest sense of finding 'significant' results in the same direction. (Even in those that replicated, the average effect found was <a href="{{halv}}">half</a> the originally reported effect.) Such errors are obviously far less costly to society than medical errors, but it's still a form of pollution, so here's the cleanup.<br>
@@ -47,9 +50,9 @@ Psychology is not alone: <a href="{{ioan}}">medicine</a>, <a href="{{canc}}">can
 </div><br>
 
 
-The following are empirical findings about empirical findings; they're all open to re-reversal. Also it's not that "we know these claims are false": failed replications (or proofs of fraud) just challenge the evidence for a hypothesis, rather than affirm the opposite. I've tried to report the best-guess effect size after replication rather than play the bad old Yes/No science game. 
+The following are empirical findings about empirical findings; they're all open to re-reversal. Also it's not that "we know these claims are false": failed replications (or proofs of fraud) usually just challenge the evidence for a hypothesis, rather than affirm the opposite hypothesis. I've tried to report the best-guess effect size after replication rather than play the bad old Yes/No science game. <a href="#fn:1" id="fnref:1">1</a>
 
-<!-- (The polite convention in psychology seems to be to not mention the original effect size.) -->
+
 
 <br>
 
@@ -96,6 +99,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S027795361830649X
 
 * No good evidence that taking a "power pose" lowers cortisol, raises testosterone, risk tolerance, etc. Original effect size said to be d=0.6 for risk-taking, for cortisol d=0.85, for testosterone d=0.66. <a href="{{ronay}}">4</a> <a href="{{ranehill}}">independent</a> <a href="{{garrison}}">replications</a> <a href="{{peerj}}">suggest</a> risk-taking d = [−0.176], testosterone d=[−0.200, 0.121, -0.19], cortisol d = [−0.028, 0.034, 0.22] all CI overlapping 0. <a href="{{crede}}">At most weak evidence</a> for decreased "feelings of power" from contractive posture.<br><br>
 * <a href="{{wagen}}">No good evidence</a> for facial-feedback (that smiling causes good mood and pouting bad mood, Strack). Original effect 0.82 out of 10. In 17 replications, effect was 0.03 out of 10, CI overlapping 0.<br><br>
+* <a href="{{halstead}}">Reason to be cautious</a> about mindfulness for mental health (prima facie effect of <a href="{{jama}}">d=0.3</a> for anxiety or depression). Most studies are low quality and use inconsistent designs, there's higher heterogeneity than other mental health treatments, and there's <a href="{{coron}}">strong reason</a> to suspect reporting bias. The hammer will fall.<br><br>
 * <a href="{{blue}}">No good evidence</a> for Blue Monday, that the third week in January is the peak of depression or low affect 'as measured by a simple mathematical formula developed on behalf of Sky Travel'. You'd need a huge sample size, in the thousands, to detect the effect reliably and this has never been done.
 
 <br>
@@ -111,20 +115,20 @@ https://www.sciencedirect.com/science/article/abs/pii/S027795361830649X
 
 * <a href="{{merby}}">At most</a> weak evidence for brain training (that is, "far transfer" from daily training games to fluid intelligence) in general, in particular from <a href="{{dnb}}">Dual n-Back</a> (d=0.14 [-0.0292  0.3085]). <a href="{{lamp}}">Maybe</a> some effect on non-Gf skills of the elderly.
 
-* In general you should be highly suspicious of anything that claims a positive permanent effect on adult IQ, and even in children the max is <a href="{{give}}">4</a>-<a href="{{iod}}">15 points</a> for a profoundly powerful single intervention (iodine supplementation during pregnancy in deficient populations).
+* In general, be highly suspicious of anything that claims a positive permanent effect on adult IQ. Even in children the absolute maximum is <a href="{{give}}">4</a>-<a href="{{iod}}">15 points</a> for a powerful single intervention (iodine supplementation during pregnancy in deficient populations).
 
-* Good rate elsewhere.
-https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-all-passed-a-stringent-test-of-their-replicability/
+* Good <a href="{{repcog}}">replication rate</a> elsewhere.
+
 <br>
 
 ## Developmental psychology
 
 * Good evidence of a tiny effect of growth mindset (thinking that skill is improveable) on attainment (Dweck). <a href="{{growth}}">A huge meta-analysis</a> found a small effect ("d=0.08", or an increase in scores of less than one-tenth of a standard deviation, in the _most_ effective subpopulation). Original claims ranged up to <a href="{{dwee}}">d=0.95</a>.<br><br>
-* At most weak evidence for the Marshmallow effect, that ability to delay gratification as a 4 year old predicts life outcomes at 15 (Mischel). Original effect size was r=0.42 to 0.57 with the SAT, n=68, all children of Stanford academics or friends. Watts et al replication was n=918, r=0.28. After controls, the effect is r=0.05 or <a href="{{marsh}}">d=0.1</a> one-tenth of a standard deviation for an additional minute delay, nonsignificant p-values.<br><br>
+* Some evidence for the Marshmallow effect, that ability to delay gratification as a 4 year old predicts life outcomes at 15 (Mischel). Original effect size was r=0.42 to 0.57 with the SAT, but n=68 - all children of Stanford academics or friends. The Watts et al replication (n=918) gave r=0.28.<br> After controlling for the socioeconomic status of the child's family, the Marshmallow effect is r=0.05 or <a href="{{marsh}}">d=0.1</a> one-tenth of a standard deviation for an additional minute delay, with nonsignificant p-values. And since it's usually easier to get SES data...<br><br>
 <!-- * Perry preschool -->
 * "Expertise after 10,000 hours practice" (Gladwell). <a href="{{ericsson}}">Disowned by the supposed proponents</a>.<br><br>
 <!-- * Attachment style stability -->
-* <a href="{{style}}">No good evidence that tailoring teaching to students' preferred learning styles has any effect on outcomes.
+* <a href="{{style}}">No good evidence</a> that tailoring teaching to students' preferred learning styles has any effect on test attainment.
 
 
 <br>
@@ -139,7 +143,7 @@ https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-al
 
 ## Marketing
 
-* <a href="{{wansink}}">Brian Wansink</a> admitted malpractice and fatal errors were found in 50 papers. These include results about portion size and satiety.
+* <a href="{{wansink}}">Brian Wansink</a> accidentally admitted gross malpractice; fatal errors were found in 50 of his lab's papers. These include flashy results about portion size and satiety.
 
 <br>
 
@@ -176,7 +180,7 @@ https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-al
 
 * No good evidence that large parents have more sons (Kanazawa); original analysis makes several errors and <a href="{{denny}}">reanalysis shows near-zero effect</a>. (Original effect size: 8% more likely.)
 
-* No good evidence that men's biceps size predicts opposition to wealth redistribution. <a href="{{arms}}">Measurement was of arm circumference in students</a>, and effect disappears when participant age is included. (Petersen et al)
+* At most weak evidence that men's biceps size predicts opposition to wealth redistribution (<a href="{{pet}}">Peterson et al</a>). <a href="{{arms}}">Measurement was of arm circumference in students</a>, and effect disappears when participant age is included. (Petersen et al)
 
 <!-- * The Fluctuating Female Vote -->
 <!-- "Women Are More Likely to Wear Red or Pink at Peak Fertility" -->
@@ -185,7 +189,8 @@ https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-al
 
 ## Psychophysiology
 
-https://www.sciencedirect.com/science/article/pii/S2352154620300012
+* <a href="{{phys}}">At most very weak evidence</a> that sympathetic nervous system activity predicts political ideology in a simple fashion (Original: <a href="{{ox}}">Oxley et al</a>, n=46, p=0.05 on a falsely binarised measure of ideology). In particular, subjects' skin conductance reaction to threatening or disgusting visual prompts - a very <a href="{{smith}}">noisy and questionable</a> measure. Six replications so far (<a href="{{knoll}}">Knoll et al</a>; 3 from <a href="{{bakk}}">Bakker et al</a>) , five negative as in nonsignificant, one <a href="{{den}}">forking</a> ("holds in US but not Denmark").
+
 
 <br>
 
@@ -241,5 +246,14 @@ https://www.sciencedirect.com/science/article/pii/S2352154620300012
 {%  include comments.html %}
 
 
+<div class="footnotes">
+<ol>
+	<li class="footnote" id="fn:1">
+	The polite convention in psychology seems to be to not mention the original effect size.<br><br>
+<!--  -->
+	See also "the link between x and y may be more contingent than previously assumed" or<br> "we found strong moderators for the association between x and y".
+	</li>
 
+</ol>
+</div>
 
