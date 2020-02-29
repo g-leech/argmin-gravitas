@@ -1,7 +1,5 @@
 	<!-- https://osf.io/8srcd/ -->
 
-https://forum.effectivealtruism.org/posts/eryaF6RPtepDs9KdP/is-mindfulness-good-for-you
-
   * Heat priming<br>
   * Intelligence priming<br>
   * Disgust priming<br>

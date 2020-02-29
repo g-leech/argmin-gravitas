@@ -92,3 +92,18 @@
 {%	assign richet = "https://en.wikipedia.org/wiki/Charles_Richet#Parapsychology"	%}
 {%	assign jpl = "https://en.wikipedia.org/wiki/Jack_Parsons_(rocket_engineer)"	%}
 {%	assign shel = "https://en.wikipedia.org/wiki/Rupert_Sheldrake#Career"		%}
+
+{%	assign gwern = "https://www.gwern.net/newsletter/2019/13#what-progress"		%}
+{%	assign repcog = "https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-all-passed-a-stringent-test-of-their-replicability"		%}
+{%	assign pet = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1798773"		%}
+
+{%	assign phys = "https://sci-hub.tw/10.1016/j.cobeha.2020.01.001"		%}
+{%	assign ox = "https://www.ncbi.nlm.nih.gov/pubmed/18801995"	%}
+
+{%	assign bakk = "https://psyarxiv.com/vdpyt"		%}
+{%	assign smith = "https://sci-hub.tw/10.1016/j.cobeha.2020.01.001"	%}
+{%	assign den = "https://psyarxiv.com/49hfg"		%}
+{%	assign knoll = "https://journals.sagepub.com/doi/full/10.1177/2053168015621328"		%}
+{%	assign halstead = "https://forum.effectivealtruism.org/posts/eryaF6RPtepDs9KdP/is-mindfulness-good-for-you"	%}
+{%	assign jama = "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1809754"	%}
+{%	assign coron = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153220"		%}
