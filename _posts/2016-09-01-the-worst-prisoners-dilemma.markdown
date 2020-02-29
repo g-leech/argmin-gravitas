@@ -30,7 +30,7 @@ count: 		700
 
 
 
-I was at a corporate team-building event, because I wasn't persuasive enough to not be. 
+I was at a corporate team-building event, because I wasn't persuasive enough to not be. I was a prisoner.
 
 The organisers set up a game: a three-player, unknown-length iterated <a href="{{pd}}">Prisoner's dilemma</a>. There was no initial discussion, but free discussion every two rounds. Payoffs were the standard unitless numbers, shifted so that some outcomes were negative. Scores began at zero. No objectives were given. <br><br>
 
