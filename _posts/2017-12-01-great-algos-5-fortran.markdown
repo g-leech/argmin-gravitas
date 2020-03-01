@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Great algorithms: FORTRAN compiler"
-baselink:   /algos-5
-permalink:  /algos-5
+title:      "Great algorithms: the FORTRAN compiler"
+baselink:   /fortran
+permalink:  /fortran
 date:       2017-08-15  <!--site.time-->
 author:     Gavin
 
@@ -15,8 +15,8 @@ summary:
 confidence:	
 categories: 
 warnings:	
-importance: 7.
-count:		
+importance: 7
+wordcount:		
 ---
 
 1957: Fortran optimizing compiler

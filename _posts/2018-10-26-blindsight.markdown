@@ -12,7 +12,7 @@ published:  true
 
 summary:    Weird realism and the misanthropic interpretation of neuroscience. Plus errata.
 importance: 8
-count:      1500
+wordcount:      1500
 ---
 
 {%	assign anos = "https://en.wikipedia.org/wiki/Anosognosia"	%}

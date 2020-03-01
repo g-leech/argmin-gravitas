@@ -16,7 +16,7 @@ confidence: 80% in the observational argument; agnostic about causation.
 warnings: 	bureaucracy, statistical illiteracy, UK-only
 categories: stats, social science, data columbo
 importance: 5.
-count: 		1300
+wordcount: 		1300
 ---
 
 

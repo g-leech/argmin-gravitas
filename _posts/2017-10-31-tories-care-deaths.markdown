@@ -16,7 +16,7 @@ confidence: 80%
 warnings: 	bureaucracy, statistical illiteracy, UK-only
 categories: stats, social science, data columbo
 importance: 6.
-count: 		
+wordcount: 		
 ---
 
 

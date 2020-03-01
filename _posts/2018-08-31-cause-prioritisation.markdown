@@ -3,28 +3,32 @@ layout:     post
 title:      "What is best?"
 baselink:   /prioritisation
 permalink:  /prioritisation
-date:       2018-08-23
+date:       2019-08-23
 author:     Gavin
 
 img:        /img/
 published:	false
 visible: 	false
 
-summary:    
-confidence:	30%.
+summary:    Current shoddy opinion on the most important goals, axiology.
+confidence:	50%
 categories: 
-importance: 10.
-count:		
+importance: 10
+wordcount:		
 ---
 
+> Whatever the Theosophical cafés and Kantian bistros say, we're deplorably ignorant of the nature of the good. 
 
-> Whatever the Theosophical cafés and Kantian bistros say, we're deplorably ignorant of the nature of Good. 
+<center>– Marcel Proust <a href="#fn:1" id="fnref:1">1</a></center>
 
-<center>- Marcel Proust <a href="#fn:1" id="fnref:1">1</a></center>
+
+> Not to do good, because I don't know what good is, nor even if I do it when I think I do. How do I know what evils I generate if I give a beggar money? How do I know what evils I produce if I teach or instruct?
+
+- Pessoa
 
 <br>
 
-Here's a story. You notice that, though poverty is falling, is scarcer than it has ever been, that many people still live lives of abject poverty. This is clearly bad; everyone agrees. So you set out to help however you can. 
+Here's a story. You notice that, though poverty is falling, is scarcer than it has ever been, that many people still live lives of abject poverty. This is clearly bad; everyone agrees. You set out to help however you can. 
 
 Say then that you notice that one of the first things people do when they rise out of poverty is to increase their meat consumption, and industrialise (that is, torture) their animals.
 
@@ -34,11 +38,14 @@ Climate catastrophe
 
 AI slowdown. 
 
-(I don't endorse this model, or maybe with 10% credence, it's just an illustrative example.)
+(I don't endorse this model, or maybe with <5% credence, it's just an illustrative example.)
 
 It's not just that what you were doing before is less good than you thought; at each step <i>the sign</i> of the value of your action flips entirely. Up is down, altruism is harm. 
 
-I owe this point to James Dama.
+
+
+https://forum.effectivealtruism.org/posts/NQR5x3rEQrgQHeevm/what-new-ea-project-or-org-would-you-like-to-see-created-in#too3tJZWC74jzhiSj
+
 
 
 1. Cause-impartiality: to select causes based on impartial estimates of impact.
@@ -87,7 +94,17 @@ Naturalism
 The goal is maxipok, "no unalignment".
 
 
+
+### Ideas
+
+* 
+* Free PIGD for every new parent in the world.
+
 <br><br>
+
+_I owe most of the ideas in this to Anders Sandberg, Toby Ord, and James Dama._
+
+
 
 {%  include comments.html %}
 

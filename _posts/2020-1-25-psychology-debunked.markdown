@@ -14,7 +14,7 @@ summary:    List of spurious or exaggerated psychological phenomena
 confidence: High that I'm representing the current evidence well, low that all of these will stay reversed.
 importance: 5
 warnings: 	I am not a social scientist.
-count:      1500
+wordcount:      1500
 ---
 
 {%  include psy/links.md   %}

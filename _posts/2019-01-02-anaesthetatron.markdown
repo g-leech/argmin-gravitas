@@ -13,7 +13,7 @@ visible: 	1
 summary:    A thought experiment about work and hedonism.
 categories: ethics of belief
 importance: 6
-count: 		400
+wordcount: 		400
 ---
 
 {%  assign weak = "http://en.wikipedia.org/wiki/Philosophical_zombie" 			%}

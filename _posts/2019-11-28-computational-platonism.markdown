@@ -14,9 +14,12 @@ summary:    What does computability imply for metaphysics?
 confidence:	50%.
 categories: 
 importance: 2
-count:		
+wordcount:		
 ---
 
+> [Tarski and I both stress] the great importance of the concept of... Turing's computability... this importance is largely due to the fact that, with this concept, one has for the first time succeeded in giving an absolute notion to an interesting epistemological notion, i.e., one not depending on the formalism chosen.
+
+- Gödel
 
 equivalence of mental objects
 physical instantiation of mental objects
@@ -37,4 +40,4 @@ https://philpapers.org/rec/RANCP
 
 ---
 
-_This post is just contextualising ideas by John Morrice._
+_This post is just context for ideas by John Morrice._

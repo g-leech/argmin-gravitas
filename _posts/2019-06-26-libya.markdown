@@ -13,7 +13,7 @@ visible:    1
 summary:    What I learned from the Libyan Civil War.
 importance: 6
 warnings:	War, rape, disinformation.
-count:      500
+wordcount:      500
 ---
 
 {%	assign int = "https://en.wikipedia.org/wiki/2011_military_intervention_in_Libya"		%}

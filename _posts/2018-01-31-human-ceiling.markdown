@@ -15,7 +15,7 @@ confidence:	60%; fairly speculative.
 categories: artificial intelligence, forecasting, expertise
 warnings:	
 importance: 7
-count:		192
+wordcount:		192
 ---
 
 {%	include ceiling/links.html		%}

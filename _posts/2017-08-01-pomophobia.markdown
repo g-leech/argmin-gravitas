@@ -16,7 +16,7 @@ confidence:	70% that the accusations are overblown.
 categories: 
 warnings:	
 importance: 3
-count:		
+wordcount:		
 ---
 
 

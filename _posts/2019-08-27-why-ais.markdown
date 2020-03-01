@@ -1,0 +1,76 @@
+---
+layout:     post
+title:      "What is best?"
+baselink:   /why-safety
+permalink:  /why-safety
+date:       2018-08-23
+author:     Gavin
+
+img:        /img/
+published:  false
+visible:    false
+
+summary:    
+confidence: 50%
+categories: 
+importance: 9
+wordcount:      
+---
+
+<center>
+
+> It is insufficient to protect ourselves with laws; we need to protect ourselves with mathematics.
+
+- Bruce Schneier
+
+</center>
+
+You are objectively correct to be very uncertain about the particular xrisk to attack. My decision to focus on AI among xrisks is a "strong opinion weakly held", to facilitate moving forward in roughly the right direction.
+
+    The most-modest prior (just taking the median from the surveys of mainstream AI experts) on AGI happening in our lifetimes is quite high, so one can be both fully modest and still go strange places.
+        The weak evidence of expert surveys: 4% risk of major AI disaster this century
+    It's still more neglected than bio, nuclear, or speculative climate things, etc.
+    And the bottleneck is full-time senior researchers, not e2g money or essayists
+    Much better optionality than these others (if I prove to dislike research, or if some other Cause X pops up, I can earn to give large amounts)
+        And it also gives internal options: It's pretty common to quit a PhD midway and suffer no appreciable stigma, in tech
+        Doing a technical AI PhD lets you move into policy easily
+        AI is the only really plausible source for s-risk, which I take quite seriously.
+        Can monitor capabilities labs while making giant pots of cash
+    Biorisk is really hard to help with if you're not in government or wet labs
+    I find it more interesting and closer to my skillset
+    I want to help shift the field away from complacency
+    I love research and do it compulsively
+    I went for a couple of ML engineer posts (CHAI, Ought) and didn't get them.
+
+I suppose a more robust pick would be cause prioritisation research or FHI style macrostrategy. But that's very difficult to get into - unless you happen to have a suffered-focussed ethics (which is glutted with money), which I don't. And the optionality is low.
+
+How did you decide to focus on AI?
+I took about 3 years to accept the cause (after reading Superintelligence) because I thought MIRI was the only game in town, and their focus on proofs and no-feedback design (which they've since relented on) struck me as doomed. But actually there are several very different methodologies (decision theory, ML/RL, question-answering) and a dozen agendas for AGI Safety, including a mainstream iterable RL one at DeepMind, OpenAI, and Ought.
+
+How did you decide to work on AI directly over earning-to-give with programmer money?
+Spirit of exploration plus excellent options if I stop.
+
+How did you decide to start a PhD instead of doing a "software engineer at an AI organization" role?
+Tried, but didn't get it. I'll study more whiteboard algos next time. (;
+
+
+
+I was actually agnostic about Eng vs PhD, but trying engineer work seemed less of an investment / more fail-fast than the PhD.
+
+I should have said "main bottleneck"; it sure seems like there is a shortage of aligned ML engineers too (CHAI were looking for one for more than a year). That line just speaks against prioritising e2g for AIS. Z&O's perspective looks good to me - was there something in particular?
+
+Opinions really differ on PhDs. I know some people (MIRI - CFARish) who think that the incentives are bad enough that you're better off getting grants and teaching yourself. But e.g. DeepMind and OpenAI value them fairly (but not excessively) highly. And but we will need academics to - at very least! - make legible the breakthroughs of the mad monks.
+
+I have a Plan, but it is perhaps uselessly disjunctive: "I'll get my PhD [or not], then work on safety at a low-replaceability place, possibly the Turing Institute or DeepMind, and so try to ensure that there is at least one person-who-knows-what-backprop-is in the room where the policy decisions are made. In Britain. [or I'll drop out and work at a normal FANG lab, making dozens of small grants to junior researchers a year and keeping an eye on them.]"
+
+Have you asked for info on EA Corner Discord? Some distinguished people on there, answering all kinds of questions.
+I flatter myself that by taking this funded place I'm preventing 'one unit' of thoughtless capabilities research. I don't know the value of that, for the average low-impact researcher.
+I am haunted by the idea that researcher impact is heavy-tailed, and that I am unlikely to be in that tail. But I'll roll and see.
+
+
+"So it sounds like you decided on working on AI for all the reasons mentioned above, and then in the world of AI you saw two tracks: research engineer (no PhD required) or researcher (PhD required). And you were interested in the research engineer positions, but those didn't work out, so you decided to go down the PhD route. Is that right?"
+
+Some questions:
+- You say "the bottleneck is full-time senior researchers"; does this mean that, by contrast, you think a research engineer position has pretty high replaceability?
+- Do you have a Nate Soares-style plan? (i.e. "I'm going to get my PhD, then work on safety at OpenAI, and try to ensure that OpenAI is the first organization in the world to build powerful AGI.") Do you recommend it?
+- Have you listened to the 80k podcast with Daniel Ziegler and Catherine Olsson? What do you think of it and of Catherine's advice about PhDs in AI safety?

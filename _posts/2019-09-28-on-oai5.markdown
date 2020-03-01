@@ -14,7 +14,7 @@ summary:    Trying to define reward shaping by studying a DotA bot.
 confidence:	80%
 categories: 
 importance: 6
-count:		330
+wordcount:		330
 ---
 
 

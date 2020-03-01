@@ -15,7 +15,7 @@ confidence:	95%
 categories: computing, history
 warnings:	Unfair posterity.
 importance: 8.
-count:		
+wordcount:		
 ---
 
 

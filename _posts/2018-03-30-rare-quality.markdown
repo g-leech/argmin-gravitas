@@ -15,12 +15,14 @@ summary:    Why in general is it harder to do things well than badly?
 confidence:	80% that I've captured the main possibilities / contributors.
 categories: 
 importance: 8
-count:		400
+wordcount:		400
 ---
 
 
 {%	include quality/links.md		%}
 
+
+<!-- Need Zen adn the Art - quality is half in you skit -->
 
 <br>
 

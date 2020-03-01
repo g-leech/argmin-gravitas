@@ -13,7 +13,7 @@ published:  true
 summary:    A practical theory of the mind's panic mode and its giant harm.
 confidence: 70%. (Novel social science.)
 importance: 7
-count:      
+wordcount:      
 ---
 
 {%	assign lux = "https://en.wikipedia.org/wiki/Luxury_goods"	%}

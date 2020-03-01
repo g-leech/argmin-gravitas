@@ -14,7 +14,7 @@ summary:
 confidence: 
 warnings:   
 categories: 
-count: 
+wordcount: 
 importance: 5.
 started:    2009
 ---

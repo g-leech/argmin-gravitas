@@ -14,7 +14,7 @@ summary:    Reposting an anonymous essay attacking almost all academic ethical s
 confidence:	I do not agree with the linked essay.
 categories: 
 importance: 6
-count:		14,501
+wordcount:		14,501
 ---
 
 {%	assign ea = "https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/"	%}

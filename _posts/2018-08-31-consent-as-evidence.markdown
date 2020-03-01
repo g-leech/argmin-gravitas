@@ -15,7 +15,7 @@ confidence:	80%. Surely not original.
 warnings:	euthanasia, murder, antinatalism, rights violation
 categories: 
 importance: 8
-count:		1000
+wordcount:		1000
 ---
 
 

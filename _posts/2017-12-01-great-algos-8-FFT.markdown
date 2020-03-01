@@ -16,8 +16,15 @@ confidence:
 categories: 
 warnings:	
 importance: 6
-count:		
+wordcount:		
 ---
+
+
+"improving the worst-case asymptotic complexity of an algorithm has literally changed the world."
+- Jeremy Kun
+
+
+ #1: FFT
 
 1965: Fast Fourier transform.
 

@@ -14,7 +14,7 @@ summary:    on the rarity and beauty of seriously good people
 confidence: 80%
 importance: 9
 categories: ethics, effective altruism, meaning
-count:      
+wordcount:      
 ---
 
 <center>

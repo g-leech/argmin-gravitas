@@ -16,7 +16,7 @@ confidence: 98% in the descriptive bits, 90% in the inferences.
 warnings: 	navel-gazing
 categories: NLP
 importance: 4.
-count: 		
+wordcount: 		
 ---
 
 

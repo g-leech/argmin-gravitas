@@ -15,7 +15,7 @@ confidence:	99%
 categories: 
 warnings:	
 importance: 2
-count:		
+wordcount:		
 ---
 
 

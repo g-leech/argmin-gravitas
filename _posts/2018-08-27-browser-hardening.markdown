@@ -15,7 +15,7 @@ summary:    Passable browser security for almost no money or effort. Updated Mar
 confidence: 95% that this is worth the time and better than nothing.
 categories: 
 importance: 6
-count:      1550
+wordcount:      1550
 ---
 
 {%  include browser/links.md  %}
@@ -24,6 +24,15 @@ count:      1550
 <br>
 
 It's now common knowledge that we're being watched online, by a <a href="{{mix}}">thick mix</a> of <a href="{{xkey}}">nation</a>-<a href="{{ech}}">states</a>, <a href="{{enemy}}">private</a> <a href="{{fb}}">companies</a>, <a href="{{spy}}">and</a> <a href="{{play}}">criminals</a>. They sometimes do <a href="{{mal}}">worse than watch</a>. What do we do? Should we care?
+
+<div class="accordion">
+	<h3>Ugh factors and tail risks</h3>
+	<div>
+		Why care about this? Besides mere trust in one's hardware, or a mere preference not to be watched, it's to do with the increasing tail risks of being in principle vulnerable to one oddball with a vendetta. These will increase for two reasons: increase in the online population, and in ML fuzzing and intrusion methods.
+<!--  -->
+		Only half of humanity are online at the moment; a single script-kiddie troll can do quite a lot; the internet is about to get bigger, louder, and stranger. https://www.gwern.net/Noteslittlewoods-law-and-the-global-media
+	</div>
+</div>
 
 It's not clear what the probability of having your password leaked in a breach / having your email read / having your laptop being remotely wiped (unless you pay the creator Bitcoin) is. But something like this <a href="{{krebs}}">will probably happen</a> to you in your lifetime, so I would take 10 mins to mitigate them now.
 

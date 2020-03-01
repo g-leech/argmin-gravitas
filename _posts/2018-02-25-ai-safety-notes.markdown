@@ -15,7 +15,7 @@ confidence:	mu %; half essential speculation, half mathematical theorems.
 categories: AI
 warnings:	
 importance: 9
-count:		
+wordcount:		
 ---
 
 {%		include safety/links.html				%}

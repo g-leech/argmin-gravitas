@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Great algorithms: Simplex"
-baselink:   /algos-1
-permalink:  /algos-1
+baselink:   /simplex
+permalink:  /simplex
 date:       2017-08-15  <!--site.time-->
 author:     Gavin
 
@@ -15,8 +15,8 @@ summary:
 confidence:	
 categories: 
 warnings:	
-importance: 6.
-count:		
+importance: 6
+wordcount:		
 ---
 
 

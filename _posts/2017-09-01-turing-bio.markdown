@@ -13,7 +13,7 @@ published:  true
 summary:    Turing's accomplishments, cost-benefits, and actual emotional stature.
 confidence: 95%
 importance: 6
-count:      1480
+wordcount:      1480
 ---
 
 {% 	assign cpi = "https://www.in2013dollars.com/uk/inflation/1940?amount=6000"		%}

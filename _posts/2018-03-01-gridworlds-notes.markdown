@@ -14,7 +14,7 @@ summary:    Summary of ''
 categories: AI, technical, concrete, reinforcement learning
 warnings:	
 importance: 8
-count:		
+wordcount:		
 ---
 
 * _Reward function_: `R`, nominal reinforcement signal observed by the agent.

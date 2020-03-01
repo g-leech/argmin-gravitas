@@ -14,7 +14,7 @@ summary:    Some species of paying attention to yourself and how they fail.
 confidence:	90% that the bad ones are bad, 60% in the rest.
 categories: 
 importance: 5
-count:		800
+wordcount:		800
 ---
 
 {%	include intro/links.md		%}

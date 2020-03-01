@@ -15,10 +15,10 @@ confidence:
 warnings: 	
 categories: 
 importance: 3
-count: 		
+wordcount: 		
 ---
 
-Ada, Countess Lovelace, is often called the first programmer. But of the five programs in her notes on the Analytical Engine, four are copies of implementations by Babbage.
+Ada, Countess Lovelace, is often called the first programmer. But of the five programs in her notes on the Analytical Engine, four are copies of prior implementations by Babbage.
 
 (Indeed, when we inspect the claim, it is hard to see how Babbage could have designed a processor <i>without</i> mentally coding for it. You can't just throw a bunch of pistons and wheels together and expect it to compute functions.)
 

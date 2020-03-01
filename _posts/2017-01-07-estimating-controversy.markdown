@@ -16,7 +16,7 @@ confidence: 70% on equations' truth (because vague). 80% that it's worth doing.
 warnings: 	terrorism, inexorable ideologies
 importance: 7.
 categories: cause prioritisation, effective altruism, quantification fever
-count: 900
+wordcount: 900
 ---
 
 {%	include controversy/links.md	%} 
