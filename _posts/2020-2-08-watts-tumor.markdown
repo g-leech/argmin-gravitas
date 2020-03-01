@@ -5,7 +5,7 @@ baselink:   /watts
 permalink:  /watts
 date:       2020-02-08
 author:     Gavin   
-img:        /img/watts.png
+img:        /img/watts.jpg
 
 visible:    1
 published:  true
