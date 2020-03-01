@@ -3,7 +3,7 @@ layout: 	math_post
 title:  	"Ludwig and the Machine"
 baselink:	/machine-epistemology
 permalink:	/machine-epistemology/
-date:   	2017-01-07  <!--site.time-->
+date:   	2019-01-07  <!--site.time-->
 author:		Gavin	
 
 published: 	false
@@ -13,7 +13,7 @@ simple:		true
 stylised:	true
 technical:	true
 
-summary:	Recent formal results address philosophical questions, sometimes driving them to irrelevance.
+summary:	Recent formal results address philosophical questions, sometimes even negating them.
 confidence:	70%. I am not a computer scientist.
 importance: 6
 categories:	philosophy of science, language, machine learning
@@ -66,7 +66,9 @@ all "language".  I will try to explain this.
 <br><br>The result of this examination is: we see a complicated network of similarities overlapping and criss-crossing: sometimes overall similarities, sometimes similarities of detail. // I can think of no better expression to characterize these similarities than 'family resemblances'...</i>
 </blockquote>
 
-and then Nils Nilsson:
+Basically, Wittgenstein is pointing out that the classic philosophical approach to conceptual analysis (the "monothetic" approach) fails, because real concepts are messy and defined in a partial-membership way, ("polythetic"). He implies that this can't be , which was a fair enough point in 1950.
+
+But then Nils Nilsson:
 <blockquote>
 <i>Some tasks cannot be defined well except by example; that is, we are
 able to specify input/output pairs but not a concise relationship between
@@ -77,6 +79,38 @@ sample inputs and thus suitably approximate the relationship implicit in the exa
 
 
 We can do this to anything we have at least proxy data for, which is, arguably, every thing that could matter. (If you count e.g. self-report of experience as reliable proxy data for consciousness.)
+
+
+
+
+<!--
+
+Yes, Wittgenstein said context is important for meaning, but that is hardly his unique or even most important contribution to philosophy of language. Wittgenstein's real contribution is in showing that meaning cannot be pinned down like butterflies under glass -- that meaning spontaneously arises in each playthrough of a language-game, and that any effort to find a "canonical", "authoritative" definition is grasping at an illusion.
+
+But word embeddings try to do almost exactly what Wittgenstein says is an illusion -- trying to pin down a canonical n-dimensional vector for each word. To correspond with Wittgenstein's theory, there cannot exist any mapping from a word to a vector. Perhaps each vector can be dynamically changing in a by principle uncomputable way. But to get there we are going to need a lot more advances than the state of the art NLP.
+
+reply
+
+	
+visarga 15 hours ago [-]
+
+> Perhaps each vector can be dynamically changing in a by principle uncomputable way.
+The BERT language model does dynamic (contextual) embeddings and is state of the art in NLP.
+
+https://towardsdatascience.com/bert-explained-state-of-the-a...
+
+reply
+
+	
+akozak 19 hours ago [-]
+
+That's a great way to put it!
+It doesn't mean the approach isn't useful for building systems that we can interact with linguistically, just that we shouldn't kid ourselves into thinking the model has captured meaning.
+
+
+-->
+
+
 
 <br><br><br>
 
@@ -100,15 +134,34 @@ Guarantees rarely have practical relevance: you're likely to have benchmarked an
 
 You don't know how right or wrong it will end up being - but you do know that it won't be worse than [Bound]. You can't guarantee that it'll settle down in your lifetime, but you can guarantee that the probability of it never settling down is low.
 
+## Platonic forms
+
+Olah and Plato
+
+https://distill.pub/2018/building-blocks/
+
+    This is a compressed essence of dog
 
 
-Problem of induction
+## Problem of induction
 
 Major development of recent decades has been guarantees on the results of induction, particularly if we’re willing to settle for probabilistic guarantees.
 
+"this was perhaps Hume’s first great discovery... What he finds is that the confidence we have in natural law — in the regularities and uniformity of nature, in the future being about to resemble the past — has a source in our animal nature. Animals too expect things to go on much as they have gone on — but it has no justification in reason. There is no a priori way of showing that it’s even probable that the future will resemble the past... There’s nothing available to our understanding to show us why things must keep on as they apparently always have."
+https://fivebooks.com/best-books/david-hume-simon-blackburn/
+Computational Learning Theory and radical scepticism
+    What justifies belief in an external world?
+    != When can we expect a hypothesis to predict future data?
+    CLT gives	
+        Tradeoff between hypotheses considered and prediction confidence	* Occam's razor theorem
+        Upper bound for data required for confidence
+        Relation of training and test performance
+        PAC: Even in the worst-case, we can learn.We don't need to know the evaluation distribution (the truth) to approximate it.Given m examples (X) from D and labels (f(x)), find a hypothesis h such that
+            P(h(x) == f(x)) > 1 - eps
+        (Alternative to Bayesian inference?Don't need a distribution over hypotheses: some distribution over sample data is enough)
 
 
-Causality.
+## Causality.
 
 
 <!--  -->

@@ -15,7 +15,7 @@ confidence:	90%.
 categories: philosophy of mathematics
 warnings:	
 importance: 4
-count:		3698
+wordcount:		3698
 ---
 
 

@@ -3,7 +3,7 @@ layout:   post
 title:    "Conceptual conversions"
 baselink: /conversion
 permalink: /conversion/
-date:     2017-10-21
+date:     2015-02-06
 author:   Gavin 
 img:      /img/table.jpg
 
@@ -11,10 +11,10 @@ visible:    1
 published:  true
 
 summary:    Relating maths, metaphysics, & (OOP) programming, if you already know one.
-confidence: 90% that the main table are real commonalities.
+confidence: 90% that the first table are real commonalities.
 categories: philosophy
-importance: 4.
-count:      400
+importance: 4
+wordcount:      400
 ---
 
 

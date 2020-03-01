@@ -3,7 +3,7 @@ layout: 	math_post
 title:  	"Modelling linguistic accommodation"
 baselink:	/accommodation
 permalink:	/accommodation/
-date:   	2017-09-23  <!--site.time-->
+date:   	2015-07-01  <!--site.time-->
 author:		Gavin	
 img:		/img/accommodation/NFSM.jpg
 
@@ -16,7 +16,7 @@ confidence: 80% in the exposition.
 warnings: 	A rewrite and replication is in progress.
 categories: stats, social science
 importance: 5.
-count: 		12,600
+wordcount: 		12,600
 ---
 
 {%  include accommodation/links.html %}

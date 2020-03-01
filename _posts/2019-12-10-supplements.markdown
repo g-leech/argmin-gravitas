@@ -14,7 +14,7 @@ summary:    The stalled revolution in personal biochemistry.
 categories: 
 confidence: 70%
 importance: 4
-count:      500
+wordcount:      500
 ---
 
 {%	include pills/links.html		%}

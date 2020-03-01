@@ -13,7 +13,7 @@ visible:    1
 summary:    A compressed version of what's important to me.
 categories: 
 importance: 9
-count:      1000
+wordcount:      1000
 ---
 
 {%  include fivebooks/style.html %}

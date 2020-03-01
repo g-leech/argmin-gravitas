@@ -13,7 +13,7 @@ published:  true
 summary:    On the paranoid style in North American blogging.
 confidence: 90%
 importance: 6
-count:      
+wordcount:      
 categories: review, epistemology, replication
 warnings: 	apocalyticism, antinatalism
 ---

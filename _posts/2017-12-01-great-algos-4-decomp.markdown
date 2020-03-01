@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Great algorithms: Decompositional matrix munging"
-baselink:   /algos-1
-permalink:  /algos-1
+title:      "Great algorithms: Decomposing matrices"
+baselink:   /dematrix
+permalink:  /dematrix
 date:       2017-08-15  <!--site.time-->
 author:     Gavin
 
@@ -15,8 +15,8 @@ summary:
 confidence:	
 categories: 
 warnings:	
-importance: 7.
-count:		
+importance: 7
+wordcount:		
 ---
 
 1951: decompositional approach to matrix computations: triangular, diagonal, orthogonal

@@ -15,7 +15,7 @@ confidence:
 warnings: 	
 categories: 
 importance: 6.
-count: 		
+wordcount: 		
 ---
 
 <!-- include tsars/links.md	%}  -->

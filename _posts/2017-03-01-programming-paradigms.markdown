@@ -14,7 +14,7 @@ summary:		An intuitive explanation of Norvig's advice to new programmers.
 confidence: 	70% on equations' truth (because vague). 80% that it's worth doing.
 categories: 	code, 
 importance: 3.
-count: 			600
+wordcount: 			600
 ---
 
 Peter Norvig lists five programming paradigms to learn, divided by their most distinctive forms of abstraction. This is good advice and well-conceptualised. 

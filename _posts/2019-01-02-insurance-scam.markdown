@@ -15,7 +15,7 @@ categories: utility theory, rationality, finance
 confidence: 80%. Some details fuzzy.
 importance: 5
 warnings:   Past conflict - I used to work in insurance.
-count:      2000
+wordcount:      2000
 ---
 
 {%  include insurance/links.html     %}

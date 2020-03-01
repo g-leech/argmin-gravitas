@@ -12,7 +12,7 @@ published:  true
 summary:    Notes on some supreme short stories + basic combinatorics.
 confidence: 95%
 importance: 3
-count:      
+wordcount:      
 ---
 
 _<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_

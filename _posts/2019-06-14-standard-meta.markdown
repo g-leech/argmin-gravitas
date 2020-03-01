@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Standard Analytic Metaphilosophy"
+title:      "The Tacit Analytic Metaphilosophy"
 baselink:   /metaphilosophy
 permalink:  /metaphilosophy
 date:       2019-03-08
@@ -13,14 +13,16 @@ visible:    1
 summary:    What are the background assumptions of contemporary analytic philosophy?
 confidence: 60%
 importance: 2
-count:      
+wordcount:      
 ---
 
-The duration and depth of disagreement among philosophers - 2000 years, on pretty much everything - is funny. Why do we care?
+The duration and depth of disagreement among philosophers - 2000 years, on pretty much everything - is funny. Why are we surprised by the failure?
 
-I think we care because of a particular metaphilosophy that is frustrated by persistent disagreement. Call the following set of claims the _Standard Analytic Metaphilosophy_:
+I think we care because a particular metaphilosophy is frustrated by persistent disagreement. Call the following set of claims the _Tacit Analytic Metaphilosophy_:
 
-1. _Metaphilosophical realism_: Suitably sharpened philosophical questions have one objective answer. <a href="#fn:1" id="fnref:1">1</a>
+conceptual realism: concepts have one true definition.
+
+1. _Metaphilosophical realism_: (Suitably sharpened) philosophical questions have one objective answer. <a href="#fn:1" id="fnref:1">1</a>
 2. _Metaphilosophical naturalism_: "Philosophy is just one part of the empirical attempt to understand Nature." <a href="#fn:2" id="fnref:2">2</a>
 3. _Metaphilosophical optimism_: The effort to obtain answers to these questions is both possible and important.
 4. _Metaphilosophical idealism_: The context of discovery of philosophy is not relevant to its context of justification. 

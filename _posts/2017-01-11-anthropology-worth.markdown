@@ -14,7 +14,7 @@ confidence: 80% that there's a problem with the field. 60% that this is worth do
 warnings:   politicised epistemology, relativism
 categories: philosophy, scepticism
 importance: 3.
-count: 798
+wordcount: 798
 started:    2015
 ---
 

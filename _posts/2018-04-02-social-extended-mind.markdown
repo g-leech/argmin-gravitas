@@ -14,7 +14,7 @@ summary:    List of people I trust on various topics. A glorified blogroll.
 confidence:	Varies.
 categories: 
 importance: 9?
-count:		400
+wordcount:		400
 ---
 
 {%	include exomind/links.md		%}

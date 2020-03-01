@@ -15,6 +15,6 @@ confidence:
 categories: 
 warnings:	
 importance: 6.
-count:		
+wordcount:		
 ---
 

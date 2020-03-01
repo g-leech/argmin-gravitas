@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Great algorithms: Krylov iteration"
-baselink:   /algos-1
-permalink:  /algos-1
+baselink:   /krylov
+permalink:  /krylov
 date:       2017-08-15  <!--site.time-->
 author:     Gavin
 
@@ -16,9 +16,8 @@ confidence:
 categories: 
 warnings:	
 importance: 6.
-count:		
+wordcount:		
 ---
 
-1950: Krylov subspace iteration methods. Krylov  subspaces  are  spanned  by  powers  of  a  matrix  applied  to  an  initial
-conjugate gradient method, for symmetric and positive definite.
+1950: Krylov subspace iteration methods. Krylov  subspaces  are  spanned  by  powers  of  a  matrix  applied  to  an  initial conjugate gradient method, for symmetric and positive definite.
 

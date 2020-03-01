@@ -14,7 +14,7 @@ confidence:	Just an analogy (society is a tad different from maths). But 70% in 
 categories: maths, reason, ineffective altruism
 warnings:	totalitarianism, slavery, famine, scrupulosity
 importance: 3
-count:		870
+wordcount:		870
 ---
 
 {%	assign tau = "https://tauday.com/tau-manifesto"		%}

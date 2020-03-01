@@ -10,12 +10,12 @@ img:		/img/syllog.png
 visible:	1
 published: 	false
 
-summary:	Weighing the evidence Alan Turing's death.
+summary:	Weighing the evidence on Alan Turing's death.
 confidence: 80% that you don't know.
 warnings: 	suicide, homophobia
 categories: 
 importance: 4.
-count: 		
+wordcount: 		
 ---
 
 
@@ -27,13 +27,16 @@ The inquest into the death of Alan Turing was hasty and incompetent. For instanc
 
 One great biographer, Andrew Hodges, considers it "obvious" that it was suicide.* Another, Jack Copeland, argues that the evidence is more consistent with accidental poisoning.
 
-Hodges is careful and thorough: I got most of the counterevidence below from his book. But, among its other offences** the <i>film</i> of his book invents wholesale a mental breakdown and teary confession of despair:
+Hodges is thorough: I got most of the counterevidence below from his book. But, among its other offences** the <i>film</i> of his book invents wholesale a mental breakdown and teary confession of despair:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zdyGvz2DSd8" frameborder="0" allowfullscreen></iframe>
 
 * "By the side of his bed was half an apple, out of which several bites had been taken. They did not analyse the apple, and so it was never properly established that, as seemed perfectly obvious, the apple had been dipped in the cyanide."
+
 **  It invents a story about the police suspecting him of being a Soviet spy. It shows him covering up for a Soviet spy, John Cairncross; i.e. being a coward and traitor. It shows him building a computer with the same name as his first love, in an idiotic Frankenstein sense. It shows him having a breakdown after the hormone punishment. It hypes the relationship with Joan Clarke. It shows him being interrogated about his homosexuality, when actually he wrote a five-page confession outright, which is his largest contribution to gay rights: self-sacrifice as protest.
-^ John had already decided that it would be a mistake to contest a verdict of suicide, a policy from which the presence of a row of newspaper reporters did nothing to dissuade him.
+
+^ "John had already decided that it would be a mistake to contest a verdict of suicide, a policy from which the presence of a row of newspaper reporters did nothing to dissuade him."
+
 
 This doesn't fit at all.
 
@@ -84,9 +87,9 @@ The suicide rate would be higher for convicted people who have been castrated. B
 ^^^ "James [Atkins] also had a letter from Alan which described, in a rather detached way, that he had been feeling depressed and mentioned that he had even thought of a scheme for ending his life. It involved an apple and electrical wiring."
 
 ^^ Typical error:
-
 'However the coroner's report, also on display, is unequivocal: Turing had consumed the equivalent of a wine glass of poison.' It actually says that his stomach contained four ounces of bitter-smelling fluid, which inhalation could also easily cause.
 https://www.theguardian.com/science/2012/jun/20/alan-turing-science-museum-exhibition
+
 
 
 <h3>Evidence against suicide</h3>
@@ -130,10 +133,7 @@ freedom from financial trouble
 
 <h3>Evidence neither way</h3>
 
-o  There was a half-eaten apple beside his bed. However, he usually ate an apple before bed. (At well-supplied-for-wartime Hanslope Park, "Alan was also able to have the apple that as a rule he would always eat before going to bed.")
+o  There was a half-eaten apple beside his bed. However, he usually ate an apple before bed. (At wartime Hanslope Park, "Alan was also able to have the apple that as a rule he would always eat before going to bed.")
 
 
-
-
-
-Given the weakness of the evidence, why is the suicide hypothesis the received wisdom? Well, without over-egging it: it makes a better story. And it gives the event meaning - terrible, but morally straightforward meaning. It makes Turing's death about homophobia, rather than absurd, empty accident.
+Given the weakness of the evidence, why is the suicide hypothesis the received wisdom? Well, without over-egging it: it makes a better story. And it gives the event meaning - terrible, but morally straightforward meaning. It makes Turing's death about homophobia, rather than an absurd empty accident.

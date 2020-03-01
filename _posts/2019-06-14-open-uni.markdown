@@ -13,7 +13,7 @@ visible:    1
 summary:    Review of a venerable online maths degree.
 confidence: 90%
 importance: 3
-count:      1500
+wordcount:      1500
 ---
 
 {%  include ou/links.md     %}

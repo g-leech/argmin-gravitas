@@ -10,15 +10,15 @@ img:		/img/
 visible:	1
 published: 	false
 
-summary:	Weighing the benefits again
+summary:	Weighing the social benefits of personal predictive models
 confidence: 
 warnings: 	
 categories: 
 importance: 7
-count: 		
+wordcount: 		
 ---
 
-Cathy O'Neil does a great service in rendering clear the doubly obscure world of big-data modelling. (Doubly, because both highly technical and private to corporation's internal code.)
+Cathy O'Neil does a great service in rendering clear the doubly obscure world of big-data modelling. (Doubly: both highly technical and private to corporation's internal code.)
 
 But she doesn't do anything like a cost-benefit account of the practice. She likes FICO, because it had good effects on loans for underrepresented people. It did this by allowing better modelling.
 

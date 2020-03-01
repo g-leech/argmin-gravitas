@@ -1,8 +1,8 @@
 ---
 layout: 	post
-title:  	"Clipping, docking and working off the clock"
-baselink:	/legal-theft
-permalink:	/legal-theft/
+title:  	"Wage theft and time theft"
+baselink:	/thefts
+permalink:	/thefts/
 date:   	2017-02-01  <!--site.time-->
 author:		Gavin	
 
@@ -17,8 +17,8 @@ Summary: How do some employers steal wages? How prevalent is this in the UK?
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;**clipping**: indirect reduction of employee wages
-
+**clipping**: indirect reduction of employee wages
+**docking**: punitive reduction of pay. Bonded labour.
 
 * More than contracted hours. (Salaried people: all overtime.)
 * no travel expenses 

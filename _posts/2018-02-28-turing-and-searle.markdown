@@ -15,7 +15,7 @@ confidence:	75% because conclusion is wholly negative.
 categories: AI, philosophy
 warnings:	
 importance: 6
-count:		1000
+wordcount:		1000
 ---
 <br>
 

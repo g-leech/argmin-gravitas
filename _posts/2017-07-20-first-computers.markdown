@@ -16,7 +16,7 @@ confidence:	Pretty sure, 90%. A few dates missing, but there's no crucial overla
 categories: computing, history
 warnings:	unfair posterity.
 importance: 4.
-count:		1,039
+wordcount:		1,039
 ---
 
 {%	include comput/links.html	%} 

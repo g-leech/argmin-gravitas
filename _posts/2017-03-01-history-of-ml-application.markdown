@@ -14,7 +14,7 @@ summary:
 confidence: 	70% on equations' truth (because vague). 80% that it's worth doing.
 categories: 	code, 
 importance: 	5.
-count: 			600
+wordcount: 			600
 ---
 
 <!-- An intuitive explanation of Norvig's advice to new programmers. -->

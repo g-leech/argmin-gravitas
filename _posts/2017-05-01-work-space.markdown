@@ -15,7 +15,7 @@ confidence:
 warnings: 	
 categories: 
 importance: 5.
-count: 		
+wordcount: 		
 ---
 
 What fraction of jobs are bad jobs? What fraction of candidates are bad candidates?

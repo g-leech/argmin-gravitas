@@ -15,7 +15,7 @@ confidence: 80%.
 warnings:   arguable dystopia
 importance: 8
 categories: philosophy of science, scepticism
-count: 798
+wordcount: 798
 ---
 
 

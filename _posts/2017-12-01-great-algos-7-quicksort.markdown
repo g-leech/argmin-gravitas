@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Great algorithms: Quicksort (1962)"
-baselink:   /algos-1
-permalink:  /algos-1
+baselink:   /quicksort
+permalink:  /quicksort
 date:       2017-08-15  <!--site.time-->
 author:     Gavin
 
@@ -16,7 +16,7 @@ confidence:
 categories: 
 warnings:	
 importance: 7.
-count:		
+wordcount:		
 ---
 
 

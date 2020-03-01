@@ -13,7 +13,7 @@ visible:    1
 summary:    Miscellaneous notes on working in tech in eC21st London. 
 confidence: 90%
 importance: 4
-count:      
+wordcount:      
 ---
 
 {%  include js/lazyFrame.html       %}

@@ -13,7 +13,7 @@ summary:		A catalogue of intuitive explanations I wish I'd had before getting in
 confidence:		80%. Distillation of a few textbooks. borrowed authority.
 categories:		machine learning, data science
 importance: 	6.
-count: 			4500
+wordcount: 			4500
 started:    	2017
 ---
 

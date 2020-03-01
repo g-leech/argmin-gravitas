@@ -14,7 +14,7 @@ summary:    Investigating one possible predictor of long-term intellectual statu
 confidence:	60%. The data are a convenience sample from a skewed subpopulation.
 categories: 
 importance: 4
-count:		1100
+wordcount:		1100
 ---
 
 {%  include broadness/links.md 	%}

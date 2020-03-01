@@ -13,7 +13,7 @@ published:  true
 summary:    Claims about critical thinking gains from university
 confidence: 80%
 importance: 5
-count:      400 
+wordcount:      400 
 ---
 
 {%	assign down = "https://dera.ioe.ac.uk/30244/1/Earnings-by-Degrees-REPORT-1.pdf" %}

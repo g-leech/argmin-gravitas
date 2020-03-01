@@ -35,10 +35,11 @@
 			<input name="fields[email]" type="email" placeholder="at@at.com"><br><br>
 			<textarea name="fields[message]" placeholder="
 
-			Comments appear after moderation btw." style="height:150px;width:70%;"></textarea><br>
+			<br>Not working atm, soz. Email me!" style="height:150px;width:70%;"></textarea><br>
+			<!-- Comments appear after moderation btw. -->
 
-			<button id="sub" type="submit">Post</button><br>
-			<input type="checkbox" id="guardBox" name="guard" value="enableSubmit">Enable submit button<br>
+			<!-- <button id="sub" type="submit">Post</button><br> -->
+			
 		</form>
 	</div>
 
@@ -46,16 +47,3 @@
 </div><br>
 
 
-<!-- Too much spam; let's see if this works -->
-<script>
-	const submit = document.getElementById("sub")
-	submit.disabled = true;
-
-	const checkbox = document.getElementById('guardBox')
-
-	checkbox.addEventListener('change', (event) => {
-	  if (event.target.checked) {
-	    submit.disabled = false;
-	  } 
-	})
-</script>

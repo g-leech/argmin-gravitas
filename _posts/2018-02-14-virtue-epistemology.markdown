@@ -15,7 +15,7 @@ confidence:	90%; unfalsifiable.
 categories: epistemology, virtue ethics, philosophy of science
 warnings:	
 importance: 5
-count:		
+wordcount:		
 ---
 
 	include virtuep/links.html		
