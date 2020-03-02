@@ -1,0 +1,129 @@
+---
+layout:     post
+title:      "'The Great Influenza' (2004) by Barry"
+baselink:   /flu
+permalink:  /flu
+date:       2018-06-26
+author:     Gavin
+
+visible:    1
+published:  true
+
+summary:    "On WWI's less famous, even worse sequel: the H1N1 pandemic."
+confidence: 70%. The amount of mass death we have no direct evidence of is scary.
+importance: 8
+warnings: 	social collapse, authoritarianism, predatory pseudoscience. I'm not a virologist or historian.
+wordcount:  3300
+categories: review, x-risk, epistemology, biorisk
+---
+
+<center>
+	<img src="img/flu.jpg" width="35%" />
+</center>
+
+{%	include flu/links.md		%}
+
+<br>
+
+> "It seems to be a plague, something out of the middle ages. Did you ever see so many funerals, ever?"
+
+<center> – Catherine Ann Porter</center> <br>
+
+
+<a href="{{book}}">A</a> rousing history of one of the <a href="{{w}}">worst</a> <a href="{{epid}}">things</a> to ever happen: the 1918 outbreak of H1N1 flu. Most of it focusses on the frantic research against it; I'd never <a href="{{flex}}">heard of</a> <a href="{{osl}}">any</a> <a href="{{steng}}">of</a> <a href="{{cole}}">the</a> <a href="{{gates}}">scientists</a>. They didn't win, but they got us ready for next time.<br />
+
+Barry senses that the headline result - one-third of the entire world infected, with <b><a href="{{mill}}">25-100</a></b> million dead - is a numbing number. So, in modern terms:
+
+<blockquote>It killed more people in twenty-four weeks than AIDS has killed in twenty-four years, more in a year than the Black Death killed in a century.</blockquote>
+
+Or ten thousand 9/11s. It's worth belabouring this, because we have a <a href="{{bias}}">terrible habit</a> of paying far more attention to human threats than natural ones, even when natural ones are far worse. (Witness our terrorism prevention budgets compared to our infectious disease control budgets, when the latter is <a href="{{thou}}">a thousand times</a> <a href="{{terr}}">more lethal</a>.)<br /><br />
+
+So: The 1918 flu was worse than the entire First World War: 40+ million died of flu, compared with 17 million dead from war. 500 million people were permanently damaged by flu, vs 41 million by the war. <b>3% of all humans died of flu, including about 8% of young adults!</b>.<br />
+
+But it's hard to separate the War and the pandemic. <a href="{{orig}}">The virus was spread everywhere</a> by unprecedented numbers of troops, and by the massive supply convoys it induced, and by the War's other <a href="{{displac}}">human displacements</a>. We don't know how many of the pneumonia deaths only occurred because of the logistical degradation, poverty and pestilence of wartime. There are terrible nonlinearities involved in overcrowding and global movement of troops. But add millions at least to the overall death toll caused by WWI.<br /><br />
+
+
+<hr />
+
+<br>
+
+### Therapeutic nihilism
+
+The first third of the book is a prelude, describing how terrible medicine was up to the 20th Century. Medicine was "the withered arm of science". Therapeutic nihilism (that is, "we can't really do anything") was the rational view, replacing millenia of Galenic woo.<br />
+<blockquote>
+	Stengel reviewed dozens of ideas [for H1N1 treatments] advanced in medical journals. Gargles of various disinfectants. Drugs. Immune sera. Typhoid vaccine. Diphtheria antitoxin. But Stengel’s message was simple: This doesn’t work. That doesn’t work. Nothing worked... Nothing they were doing worked.
+</blockquote>
+
+But this created a powerful vacuum: humans want to believe something can heal. The gap was filled with worse. Confabulations from this time still haunt us: homeopathy, chiropractic, naturopathy, Christian Science, and (though Barry doesn't include them) the organic farming movement and psychoanalysis.<br /><br />
+
+Few people come off well. Even among the scientists, we get a horrible example of perverse priors and premature updating: most scientific resources were devoted to fighting <a href="{{wrong}}">the wrong pathogen</a>, due to a stubborn bad guess by an <a href="{{em}}">extremely eminent researcher</a>.<br /><br />
+
+<div class="accordion">
+	<h3>Rockefeller Institute</h3>
+	<div>
+		Quite a lot of the entire world's research funding for H1N1 was concentrated in the <a href="{{rock}}">Rockefeller Institute</a>.<br><br>
+<!--  -->
+		They'd make for a good case study in ultra-effective philanthropy, though of course in this case, the worst case, they were too late, started from too primitive a basis.
+	</div>
+</div>
+<br>
+
+<hr />
+
+<br>
+
+### War: reportedly hazardous to public health
+
+<blockquote>There is, therefore, but one response possible from us: Force! force to the utmost, force without stint or limit, the righteous and triumphant force which shall make right the law of the world and cast every selfish dominion down in the dust. </blockquote>
+<center>
+	– Woodrow Wilson addressing one of his <a href="{{money}}">money-lending mobs</a>.
+</center><br />
+
+Wilson tends to be viewed pretty positively, because he won. ("<i>at last the world knows America as the savior of the world!</i>") But in the process he perverted an entire state and nation; ignored the terrible suffering of his own population for years; and refused a conditional peace with Austria in August, and again <a href="{{kai}}">with the Kaiser's new parliament</a> in September. (This meant 70 extra days of war, which, if this period was as lethal as the rest of the war, means up to <a href="{{excess}}">800,000</a> completely unnecessary deaths, not counting the collateral damage from wasting even more medical resources during the worst epidemic ever). 
+<br />
+<blockquote>
+	the military suctioned more and more nurses and physicians into cantonments, aboard ships, into France, until it had extracted nearly all the best young physicians. Medical care for civilians deteriorated rapidly. The doctors who remained in civilian life were largely either incompetent young ones or those over forty-five years of age, the vast majority of whom had been trained in the old ways of medicine. 
+</blockquote><br />
+
+He did great harm and should be viewed as we view Wilhelm II, whatever his <a href="{{fourteen}}">unconsummated ideals</a>. And this is before we consider <a href="{{medx}}">blaming him, <i>or the bloody virus</i>, for the Treaty of Versailles</a>, and so the rise of the Nazis. 
+
+> But on April 3, 1919, Wilson fell ill with flu-like symptoms... Ever since, historians have wondered about this episode, both concerning Wilson's prior health problems and his performance when he returned to the negotiating table a week later.<br><br> Wilson wasn't the same man. He tired easily and quickly lost focus and patience. He seemed paranoid, worried about being spied upon by housemaids. He achieved some of his specific goals but was unable or unwilling to articulate a broader vision for a better world. In other words, he acted like a man with residual neurological problems stemming from a recent bout of Spanish flu.<br><br> Over the next crucial weeks, Wilson lost his best chance to win the peace by agreeing in principle to draconian terms favoured by France. The final settlement punished Germany with a formal admission of guilt, enormous reparations and the loss of about 10 per cent of its territory.
+
+<br>
+This is too neat, too terrible. It reads like <a href="{{green}}">greentext</a>, though all of the steps make sense (H1N1 cases in his entourage; severe cognitive deficits from recovered patients). <a href="{{paris}}">Wikipedia doesn't</a> <a href="{{woo}}">even</a> <a href="{{after}}">mention it</a>, so I suppose it's fringe. Barry is aware of the temptation to tie everything into one knot, and hedges.<br>
+
+You already believe, probably, that World War I was a terrible senseless waste of life. Well, now magnify that belief by a factor of 5 or 6.<br><br>
+
+{%	include flu/unamerican.md		%}
+
+<br /><br />
+
+<hr />
+
+<br />
+
+### The undocumented apocalypse
+
+Because the disease was everywhere, ravaging the species (and beyond), the book can't cover everything. Very little is said about non-Americans, i.e about 98% of the death and chaos. This is partly because there just isn't a lot of evidence about them, despite their influenza immunity and medical care being even worse. (This is why the top estimates reach 100m deaths, three times the median estimate.) 
+
+Here is a passage about just a tiny number of them, in the north:<br /><br>
+<blockquote>
+	In Alaska, whites protected themselves. Sentries guarded all trails, and every person entering the city was quarantined for five days. Eskimos had no such luck. A senior Red Cross official warned that without “immediate medical assistance the race” could become “extinct.”...<br /><br />
+<!--  -->
+	The navy provided the collier USS Brutus to carry a relief expedition... They found terrible things. One doctor visited ten tiny villages and found “three wiped out entirely; others average 85% deaths… Survivors generally children… probably 25% frozen to death before help arrived.”<br /><br />
+<!--  -->
+	The virus probably did not kill all of them directly. But it struck so suddenly it left no one well enough to care for any others, no one to get food, no one to get water. And those who could have survived, surrounded by bodies, bodies of people they loved, might well have preferred to go where their family had gone, might well have wanted to no longer be alone...<br><br> 
+<!--  -->
+	Two hundred sixty-six people had lived in Okak, and many dogs, dogs nearly wild. When the virus came, it struck so hard so fast people could not care for themselves or feed the dogs. The dogs grew hungry, crazed with hunger, devoured each other, then wildly smashed through windows and doors, and fed...<br><br>
+<!--  -->
+	In all of Labrador, at least one-third the total population died.
+</blockquote><br />
+
+
+
+
+
+{%	include flu/phil.md		%}
+{%	include flu/err.md		%}
+
+<br /><br />
