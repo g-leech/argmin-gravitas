@@ -27,7 +27,7 @@
 
 	<big>Post a comment (with Markdown):</big><br><br>
 
-		<form method="POST" action="{{site.comments_integration_url}}" >
+		<form method="POST" action=""> <!-- {{site.comments_integration_url}}" -->
 		  	<input name="options[redirect]" type="hidden" value="http://gleech.org">
 			
 		  	<input name="options[slug]" type="hidden" value="{{ slug }}">
@@ -35,7 +35,7 @@
 			<input name="fields[email]" type="email" placeholder="at@at.com"><br><br>
 			<textarea name="fields[message]" placeholder="
 
-			<br>Not working atm, soz. Email me!" style="height:150px;width:70%;"></textarea><br>
+			<br>Not working atm, soz. Email me!<br>g@gleech.org" style="height:150px;width:70%;"></textarea><br>
 			<!-- Comments appear after moderation btw. -->
 
 			<!-- <button id="sub" type="submit">Post</button><br> -->
