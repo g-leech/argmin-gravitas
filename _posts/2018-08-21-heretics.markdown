@@ -5,20 +5,25 @@ baselink:   /demarcation
 permalink:  /demarcation
 date:       2018-08-21
 author:     Gavin   
-img:        /img/wern.png
+img:        /img/storr.jpeg
 
 visible:    1
 published:  true
 
 summary:    Understanding good science & epistemology via counterexamples. 
-importance: 7
+importance: 6
 warnings:	epistemic angst, relativism, Holocaust denial
 wordcount:  1600
+categories:	rationality, philosophy-of-science, 
 ---
 
 {%  include heretic/links.md   %}
 
-> Imagine if, way back at the start of the scientific enterprise, someone had said, "What we really need is a control group for science - people who will behave exactly like scientists, doing experiments, publishing journals, and so on, but whose field of study is completely empty: one in which the null hypothesis is always true.<br><br>"That way, we'll be able to gauge the effect of publication bias, experimental error, misuse of statistics, data fraud, and so on, which will help us understand how serious such problems are in the real scientific literature." Isn't that a great idea?<br><br>By an accident of historical chance, we actually have exactly such a control group, namely parapsychologists
+<center>
+	<img src="/img/storr.jpeg" 	width="35%"	/>
+</center><br>
+
+> Imagine if, way back at the start of the scientific enterprise, someone had said, "What we really need is a control group for science - people who will behave exactly like scientists, doing experiments, publishing journals, and so on, but whose field of study is completely empty: one in which the null hypothesis is always true.<br><br>"That way, we'll be able to gauge the effect of publication bias, experimental error, misuse of statistics, data fraud, and so on, which will help us understand how serious such problems are in the real scientific literature." Isn't that a great idea? By an accident of historical chance, we actually have exactly such a control group, namely parapsychologists
 
 <center>- Allan Crossman</center><br>
 
@@ -31,6 +36,9 @@ These are illustrated by interviews with a <a href="{{mackay}}">creationist</a>,
 
 <blockquote><i>Stories work against truth. They operate with the machinery of prejudice and distortion. Their purpose is not fact but propaganda. The scientific method is the tool that humans have developed to break the dominion of the narrative. It has been designed specifically to dissolve anecdote, to strip out emotion and leave only unpolluted data. It is a new kind of language, a modern sorcery, and it has gifted our species incredible powers. We can eradicate plagues, extend our lives by decades, build rockets and fly through space. But we can hardly be surprised if some feel an instinctive hostility towards it, for it is fundamentally inhuman.<br/></i></blockquote>
 
+<center>
+	<img src="/img/wern.png" 	width="40%"	/>
+</center><br>
 
 Storr is seriously out of his depth on the science: he is always at least second-hand from the evidence (when interviewing researchers), and often third-hand (most of his citations are pop science books), and so several chapters suffer from journalism's classic problem, <a href="{{two}}">false balance</a>. The reason this isn't a call to shut the book is because he doesn't spare himself, states this repeatedly - and this is in fact <i>the theme</i> of his book: that almost all of us are unable to infer the truth about a shocking diversity of things. <a href="#fn:2" id="fnref:2">2</a> Without testimony, without Google, we are revealed as ignorant and helpless apes.<br/>
 

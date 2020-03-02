@@ -11,7 +11,7 @@ published:  true
 visible:    1
 
 summary:    What I learned from the Libyan Civil War.
-importance: 6
+importance: 7
 warnings:	War, rape, disinformation.
 wordcount:      500
 ---

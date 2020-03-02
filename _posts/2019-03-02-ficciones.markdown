@@ -15,15 +15,18 @@ importance: 3
 wordcount:      
 ---
 
-_<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_
 
-<br>
+<center>
+	<img src="/img/borg.jpeg" width="30%" />
+</center><br>
+
 
 {%  assign mein = "https://en.wikipedia.org/wiki/Meinong%27s_jungle"		%}
 {%  assign parei = "https://en.wikipedia.org/wiki/Pareidolia"		%}
 {%  assign tlon = "http://art.yale.edu/file_columns/0000/0066/borges.pdf"		%}
 {%  assign bab = "http://libraryofbabel.info/Borges/libraryofbabel.pdf"		%}
 {%  assign ext = "https://en.wikipedia.org/wiki/Semantic_externalism"		%}
+
 
 These stories are deeply uncanny, without worshipping mystery. "<a href="{{tlon}}">Tlön</a>" is scarier to me than any of Lovecraft. "<a href="{{bab}}">Babel</a>" is also horrifying in a way. Borges' characters are reasoning about the limits of reason. (There is the unearthly drama of higher mathematics in a couple of these.) It manages to be cryptic without being annoying, to use literary gossip and the droning of archivists for art. Some of this is 80 years old, and it's still completely fresh.
 <br/>
@@ -117,3 +120,6 @@ And so a beautiful lesson: think what the incredible feat of writing any book - 
 
 
 {%  include comments.html %}
+
+
+_<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_

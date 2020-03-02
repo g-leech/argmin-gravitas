@@ -18,7 +18,7 @@ wordcount:
 ---
 
 <center>
-	<img src="/img/optikaa.png" width="40%" />
+	<img src="/img/optikaa.png" width="45%" />
 </center><br>
 
 <blockquote>I don’t know whether there are any moral saints. But if there are, I am glad that neither I nor those about whom I care most are among them... The moral virtues, present... to an extreme degree, are apt to crowd out the non-moral virtues, as well as many of the interests and personal characteristics that we generally think contribute to a healthy, well-rounded, richly developed character...<br> there seems to be a limit to how much morality we can stand.</blockquote>

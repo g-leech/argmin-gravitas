@@ -127,3 +127,5 @@ Here is a passage about just a tiny number of them, in the north:<br /><br>
 {%	include flu/err.md		%}
 
 <br /><br />
+
+_<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_<br>
