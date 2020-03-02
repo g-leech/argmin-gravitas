@@ -79,9 +79,24 @@ I don't know very much about either, but <a href="{{chap}}">some normally</a> <a
 <div class="accordion">
 	<h3>Experimental introspection</h3>
 	<div>
+		There may be non-propositional, non-procedural knowledge. It wouldn't be surprising - the conscious mind is a relatively small and unskilled thing. The problem is the idea of apriori <a href="{{incorr}}">invincible</a> access to it.<br><br> 
+<!--  -->
+		How to test this? If the epistemological side of focusing was real, what would be different about its practitioners? Happiness? Cortisol? Decision speed? <br><br>
+<!--  -->
+		I don't know. We are too skilled at deluding ourselves. But it would be pretty easy to run an experiment where Gendlinites tried to predict which patients recover, and then check that against predictions.
+	</div>
+<!--  -->
+	<h3>Open questions</h3>
+	<div>
+		Why should there be any therapy that works in general?<br><br> 
+		Grant that there is bodily knowledge; where is this knowledge stored? The enteric nervous system? <br><br>
+		Why should introspection work? Theory of mind is for modelling other people so that they can't harm me.
+	</div>
+</div>
 
+<br>
 
-There may be non-propositional, non-procedural knowledge. It wouldn't be surprising - the conscious mind is a relatively small and unskilled thing. The problem is the idea of apriori <a href="{{incorr}}">invincible</a> access to it. How to test this? If the epistemological side of focusing was real, what would be different about its practitioners? Happiness? Cortisol? Decision speed? I don't know. We are too skilled at deluding ourselves. But it would be pretty easy to run an experiment where Gendlinites tried to predict which patients recover, and then check that against predictions.
+<hr />
 
 <br>
 
@@ -105,7 +120,7 @@ Justified uses for introspection, for me:
 
 
 
-Open questions: why should there be any therapy that works in general? Grant that there is bodily knowledge; where is this knowledge stored? The enteric nervous system? Why should introspection work? Theory of mind is for modelling other people so that they can't harm me.
+
 
 ---
 
