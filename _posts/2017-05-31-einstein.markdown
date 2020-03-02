@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "'Einstein' by Isaacson"
+title:      "'Einstein' (2007) by Isaacson"
 baselink:   /einstein
 permalink:  /einstein
 date:       2018-06-27
@@ -11,7 +11,8 @@ published:  true
 
 summary:    Underneath cliche, commodification, symbolism, is a complete man.
 importance: 6
-wordcount:      1000
+wordcount:  1000
+warnings: 	I am not a physicist.
 categories: bio, science, greatness
 ---
 
@@ -48,9 +49,9 @@ What to say about the stereotypically great? Start by scrubbing off the accumula
 
 <li>A fairly consequential law, <a href="https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence">mass-energy equivalence</a></li><br>
 
-<li>A flawed but progressive theory of heat capacity, the <a href="https://en.wikipedia.org/wiki/Einstein_solid"><i>Einstein theory of solids</i></a><br>
+<li>A flawed but progressive theory of heat capacity, the <a href="https://en.wikipedia.org/wiki/Einstein_solid"><i>Einstein theory of solids</i></a></li><br>
 
-<li>A better method of analysing quantum systems, "<a href="https://en.wikipedia.org/wiki/Einstein%E2%80%93Brillouin%E2%80%93Keller_method">EBK</a>". An ignored semiclassical precursor to <a href="https://en.wikipedia.org/wiki/Quantum_chaos">quantum chaos theory</a>.<br>
+<li>A better method of analysing quantum systems, "<a href="https://en.wikipedia.org/wiki/Einstein%E2%80%93Brillouin%E2%80%93Keller_method">EBK</a>". An ignored semiclassical precursor to <a href="https://en.wikipedia.org/wiki/Quantum_chaos">quantum chaos theory</a>.</li><br>
 
 <li>The greatest scientific theory, <i>General Relativity</i>. Explaining gravity and, so, the shape of the universe.</li><br>
 
@@ -78,9 +79,7 @@ What to say about the stereotypically great? Start by scrubbing off the accumula
 
 <li>A crucial experiment for a <i>metaphysical principle</i>, local realism is false!: <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777">EPR</a></li><br>
 
-<li>Inadvertently, a physical constraint on metaphysics: nonlocality.</li><br>
-
-<br>
+<li>Inadvertently, a physical constraint on metaphysics: nonlocality.</li><br><br>
 
 <li>Thought-experiment: <a href="http://nautil.us/issue/41/selection/how-einstein-and-schrdinger-conspired-to-kill-a-cat">The content of</a> the "Schrödinger's" cat setup</li><br>
 
@@ -90,8 +89,8 @@ What to say about the stereotypically great? Start by scrubbing off the accumula
 
 <li>Also a <a href="https://en.wikipedia.org/wiki/Einstein_refrigerator">nontoxic fridge</a></li><br>
 
-</ul></li></li></ul>
-	</div>
+</ul>
+</div>
 </div>
 <br>
 
@@ -129,7 +128,7 @@ What was so moral about him? Well, he was ahead of his time (still is): <br>
 <li>Many early actions for <a href="http://news.harvard.edu/gazette/story/2007/04/albert-einstein-civil-rights-activist/">US civil rights</a>, including work against McCarthyism.</li><br>
 <li>Sold his original manuscripts for War Bonds</li>
 
-</ul>
+</ul><br>
 
 Even his Zionism was enlightened (pro-migration, anti-state, <a href="https://en.wikisource.org/wiki/New_Palestine_Party;_Visit_of_Menachen_Begin_and_Aims_of_Political_Movement_Discussed">anti-Begin</a>):
 <blockquote>“<i>Should we be unable to find a way to honest cooperation and honest pacts with the Arabs,</i>” he wrote [Chaim] Weizmann in 1929, “<i>then we have learned absolutely nothing during our 2,000 years of suffering.</i>”<br>
@@ -157,7 +156,8 @@ You can't do good unless you <i>know</i> a great deal about the targets of your 
 <div class="accordion">
 	<h3>Other greats</h3>
 	<div>
-		Maxwell, Boltzmann, Schrödinger, and Feynman basically fit the above: they are as good at writing and philosophy as they are at physics, and very funny to boot. But they didn't push society forward much (...) Goethe tried admirably, but didn't achieve much science. Descartes should be on there but eh. Hilary Putnam discovered important logical results and has all the other virtues, but I guess science is a stretch? von Neumann covered perhaps the most intellectual ground of all of these people, but I'm not sure he had a moral or political life to speak of. Herbert Simon is deep and broad and fun. And Bohr is brilliant and moral but can't write.
+		Maxwell, Boltzmann, Schrödinger, and Feynman basically fit the above: they are as good at writing and philosophy as they are at physics, and very funny to boot. But they didn't push society forward much (...) <br><br>
+		Goethe tried admirably, but didn't achieve much science. Descartes should be on there but eh. Hilary Putnam discovered important logical results, helping to found computational logic, and has all the other virtues, but I guess science is a stretch. von Neumann covered perhaps the most intellectual ground of all of these people, but I'm not sure he had a moral or political life to speak of. Herbert Simon is deep and broad and fun. And Bohr is brilliant and moral but can't write.
 	</div>
 </div><br>
 
@@ -176,5 +176,22 @@ One particularly charming bit in this book covers Einstein's long friendship wit
 <br>
 
 Isaacson read all the letters, formed a view on all the academic controversies (Maric's contribution, baby Lieserl, what sort of deist or Zionist or pacifist he was), and covers most of the papers, recasting the classic thought experiments very lucidly. This was a huge pleasure. Read with Wikipedia open, though: C20th physics is way too deep and broad for one book.
+
+<br><br>
+
+<div class="accordion">
+	<h3>Why listen to me on this topic?</h3>
+	<div>
+		<i>Nonfiction book reviews by nonspecialists are hazardous. It is just not easy to detect pseudo-empirical bullshit without<br><br>
+			<ol>
+				<li>immersion in the field and/or good priors for what makes for an extraordinary claim in it; </li><br>
+				<li>incredible amounts of fact-checking gruntwork, at least 5x the time it takes to just read something; or</li><br>
+				<li>incredible amounts of argument-checking, which doesn't need domain knowledge.</li><br> 
+			</ol>
+			I always try to do (3) but surely often fail.</i> <br><br><br>
+<!--  -->
+		In this case, don't trust me much. I am no physicist, and only half a scientist. I looked up a few sources on Einstein's many innovations, and checked Isaacson's depiction of the Maric controversy and found no red flags. 
+	</div>
+</div>
 
 <br><br>

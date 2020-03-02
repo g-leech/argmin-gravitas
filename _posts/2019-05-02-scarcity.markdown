@@ -16,6 +16,7 @@ importance: 7
 wordcount:      
 ---
 
+
 {%	assign lux = "https://en.wikipedia.org/wiki/Luxury_goods"	%}
 {%	assign zvi = "https://thezvi.wordpress.com/2017/09/30/slack/"	%}
 {%	assign chok = "https://en.wikipedia.org/wiki/Choke_(sports)"		%}
@@ -25,7 +26,7 @@ wordcount:
 {%	assign lil = "https://en.wikipedia.org/wiki/Little's_law"		%}
 {%	assign hospit = "https://www.strategy-business.com/article/00229?gko=a073f"		%}
 {%	assign iron = "https://www.gwern.net/docs/sociology/1987-rossi"		%}
-
+{%	assign slack = "https://www.lesswrong.com/posts/yLLkWMDbC9ZNKbjDG/slack"		%}
 
 Economics bills itself as 'the study of decisions under scarcity'. A lot of it is actually about excess: <a href="{{lux}}">luxury</a> substitution, savings rates, futures markets, conspicuous consumption, and so on. But even these theories are about constrained optimisation, just with slightly looser constraints.
 
@@ -99,15 +100,29 @@ Only not five stars because we can't give any social science book five stars unt
 <div class="accordion">
 	<h3>Risks</h3>
 	<div>
-		The Slack doctrine advocates not trying exactly as hard as you can, holding back a reserve. Even granting the good psychological and algorithmic reasons to do this, this gives the imp of perversity space to take more than you actually need.
+		The <a href="{{slack}}">Slack</a> doctrine advocates not trying exactly as hard as you can, holding back a reserve. Even granting the good psychological and algorithmic reasons to do this, this gives the imp of perversity space to take more than you actually need.
 	</div>
 <!--  -->
 	<h3>Premortem for unified scarcity theory</h3>
 	<div>
-		If in 10 years we find that the theory above is in fact not a good one, what will the weak points have been?
+		If in 10 years we find that the theory above is in fact not a good one, what will the weak points have been?<br><br>
 <!--  -->
 		* Confounders in the sugar experiments?<br>
 		* Strong genetic predisposition to tunnelling.<br>
+	</div>
+</div>
+<div class="accordion">
+	<h3>Why listen to me on this topic?</h3>
+	<div>
+		<i>Nonfiction book reviews by nonspecialists are hazardous. It is just not easy to detect pseudo-empirical bullshit without<br><br>
+			<ol>
+				<li>immersion in the field and/or good priors for what makes for an extraordinary claim in it; </li><br>
+				<li>incredible amounts of fact-checking gruntwork, at least 5x the time it takes to just read something; or</li><br>
+				<li>incredible amounts of argument-checking, which doesn't need domain knowledge.</li><br> 
+			</ol>
+			I always try to do (3) but surely often fail.</i> <br><br><br>
+<!--  -->
+		In this case: I have an economics degree and a strong amateur interest in psychological methodology. Though I am only half a scientist. I looked for specific critiques of the experiments this is based on, and didn't find any, but it is new work and not heated.
 	</div>
 </div>
 

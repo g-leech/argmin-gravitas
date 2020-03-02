@@ -81,4 +81,22 @@ YMMV. 5/5 if you don't do this already
 </div>
 
 
+<br>
+
+
+<div class="accordion">
+	<h3>Why listen to me on this topic?</h3>
+	<div>
+		<i>Nonfiction book reviews by nonspecialists are hazardous. It is just not easy to detect pseudo-empirical bullshit without<br><br>
+			<ol>
+				<li>immersion in the field and/or good priors for what makes for an extraordinary claim in it; </li><br>
+				<li>incredible amounts of fact-checking gruntwork, at least 5x the time it takes to just read something; or</li><br>
+				<li>incredible amounts of argument-checking, which doesn't need domain knowledge.</li><br> 
+			</ol>
+			I always try to do (3) but surely often fail.</i> <br><br><br>
+<!--  -->
+		In this case, anecdotal reasons: I am a natural practitioner of the method and think it explains how I achieved anything at all in the first 25 years of my life.
+	</div>
+</div>
+
 {%  include comments.html %}

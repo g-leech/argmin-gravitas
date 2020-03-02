@@ -78,3 +78,19 @@ Yet <i>even with these handicaps</i>, it looks like Harteck could have built a b
 5/5 for Bernstein's commentary and the hair-raising fact of their existence.
 
 
+<br><br>
+
+<div class="accordion">
+	<h3>Why listen to me on this topic?</h3>
+	<div>
+		<i>Nonfiction book reviews by nonspecialists are hazardous. It is just not easy to detect pseudo-empirical bullshit without<br><br>
+			<ol>
+				<li>immersion in the field and/or good priors for what makes for an extraordinary claim in it; </li><br>
+				<li>incredible amounts of fact-checking gruntwork, at least 5x the time it takes to just read something; or</li><br>
+				<li>incredible amounts of argument-checking, which doesn't need domain knowledge.</li><br> 
+			</ol>
+			I always try to do (3) but surely often fail.</i> <br><br><br>
+<!--  -->
+		In this case, don't trust me much. I am no physicist, and only half a scientist.
+	</div>
+</div>
