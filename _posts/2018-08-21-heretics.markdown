@@ -12,7 +12,8 @@ published:  true
 
 summary:    Understanding good science & epistemology via counterexamples. 
 importance: 7
-wordcount:      
+warnings:	epistemic angst, relativism, Holocaust denial
+wordcount:  1600
 ---
 
 {%  include heretic/links.md   %}
@@ -23,7 +24,6 @@ wordcount:
 
 
 An irritating but righteous book. Not quite what it looks like: another <a href="{{ron}}">Ronson</a>-<a href="{{louis}}">Theroux</a> journalist, accosting another set of tragicomic kooks). <br/><br/>OK, it <i>is</i> that, but it's also a grim reflection on how confusing and muddy the world is, on the universality of extreme bias, plus Storr's personal traumas and peccadilloes. (Half the book is his confessing to childhood theft, psychosis, academic failure, and petty vendettas.) Rather than getting to the bottom of ESP, or morgellons, or homeopathy, or past-life regression, Storr tries to understand the character of the people who believe and disbelieve in them. (<a href="{{bul}}">This is a dangerous approach</a> unless you are extremely sensitive and charitable. As we'll see, Storr is that sensitive, to one set anyway.)
-
 Besides confronting unusual beliefs without (as much) prejudice, <i>The Unpersuadables</i> is about the fact that we are all riddled with deep obstacles to objectivity: there's our <a href="{{in}}">ingroupism</a> and confirmation bias; <a href="{{rep}}">representation realism</a>; emotional reasoning about nonemotional things; the terrifyingly unreliable <a href="{{recon}}">reconstructive</a> nature of memory; the sad <a href="{{rat}}">distinctness of intelligence and rationality</a>; evolutionarily adaptive delusions of <a href="{{sup}}">superiority</a> and <a href="{{ag}}">agency</a>. 
 
 These are illustrated by interviews with a <a href="{{mackay}}">creationist</a>, <a href="{{shel}}">Sheldrake</a>, <a href="{{irv}}">Irving</a>, <a href="{{ram}}">Ramdev</a>, <a href="{{monc}}">Monckton</a>, the <a href="{{morg}}">Morgellons</a> victims <a href="#fn:1" id="fnref:1">1</a>, and even <a href="{{randi}}">Randi</a>.
@@ -111,4 +111,18 @@ _<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from 
 </ol>
 </div>
 
+<div class="accordion">
+	<h3>Why listen to me on this topic?</h3>
+	<div>
+		<i>Nonfiction book reviews by nonspecialists are hazardous. It is just not easy to detect pseudo-empirical bullshit without<br><br>
+			<ol>
+				<li>immersion in the field and/or good priors for what makes for an extraordinary claim in it; </li><br>
+				<li>incredible amounts of fact-checking gruntwork, at least 5x the time it takes to just read something; or</li><br>
+				<li>incredible amounts of argument-checking, which doesn't need domain knowledge.</li><br> 
+			</ol>
+			I always try to do (3) but surely often fail.</i> <br><br><br>
+<!--  -->
+		In this case: I know a bit about psychology and cognitive science, certainly more than Storr. I devote quite a lot of time to spotting my own biases and bad thinking, with arguable success.<br><br>
+	</div>
+</div>
 {%  include comments.html %}

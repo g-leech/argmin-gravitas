@@ -126,6 +126,22 @@ The most annoying part of the films making up emotionally powerful unifying them
 <br/>
 </blockquote>
 
+<br><br>
+
+<div class="accordion">
+	<h3>Why listen to me on this topic?</h3>
+	<div>
+		<i>Nonfiction book reviews by nonspecialists are hazardous. It is just not easy to detect pseudo-empirical bullshit without<br><br>
+			<ol>
+				<li>immersion in the field and/or good priors for what makes for an extraordinary claim in it; </li><br>
+				<li>incredible amounts of fact-checking gruntwork, at least 5x the time it takes to just read something; or</li><br>
+				<li>incredible amounts of argument-checking, which doesn't need domain knowledge.</li><br> 
+			</ol>
+			I always try to do (3) but surely often fail.</i> <br><br><br>
+<!--  -->
+		In this case: I am a computer scientist, and I've studied the early history of computing quite closely. I understand many of Turing's original papers, besides his group theory.<br><br>
+	</div>
+</div>
 
 <br><br>
 

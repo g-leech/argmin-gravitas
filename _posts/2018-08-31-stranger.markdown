@@ -18,7 +18,7 @@ wordcount:
 ---
 
 <center>
-	<img src="/img/optikaa.png" width="35%" />
+	<img src="/img/optikaa.png" width="40%" />
 </center><br>
 
 <blockquote>I don’t know whether there are any moral saints. But if there are, I am glad that neither I nor those about whom I care most are among them... The moral virtues, present... to an extreme degree, are apt to crowd out the non-moral virtues, as well as many of the interests and personal characteristics that we generally think contribute to a healthy, well-rounded, richly developed character...<br> there seems to be a limit to how much morality we can stand.</blockquote>
@@ -120,6 +120,21 @@ An amazing book, anyway: charged, critical, structurally ingenious, and filled w
 		<br><td><i>Altruists are bossy, because the urge that is usually behind the fulfillment of one's own wishes is now placed behind the fulfillment of the wishes of another person. The wishes have to be fulfilled in a certain way, in the way the altruist would like to fulfill them for himself or herself. After all, the bossiness of do-gooders is proverbial...</i></td>
 		<br></tr></tbody></table></blockquote>
 		<br>(My, what rigorous science.) So, here's yet <i>another</i> way I am fortunate to live when I do: these people have by now been mostly sidelined in polite discourse. The harm they are able to do is much reduced, and I need not spend my whole life convincing people that they are just making things up. 
+	</div>
+</div>
+
+<div class="accordion">
+	<h3>Why listen to me on this topic?</h3>
+	<div>
+		<i>Nonfiction book reviews by nonspecialists are hazardous. It is just not easy to detect pseudo-empirical bullshit without<br><br>
+			<ol>
+				<li>immersion in the field and/or good priors for what makes for an extraordinary claim in it; </li><br>
+				<li>incredible amounts of fact-checking gruntwork, at least 5x the time it takes to just read something; or</li><br>
+				<li>incredible amounts of argument-checking, which doesn't need domain knowledge.</li><br> 
+			</ol>
+			I always try to do (3) but surely often fail.</i> <br><br><br>
+<!--  -->
+		In this case: I have a philosophy degree and have read millions of words about demanding ethics and the quantitative approach to do-gooding. I've met a couple of the protagonists and find Macfarquhar's depictions very accurate.
 	</div>
 </div>
 
