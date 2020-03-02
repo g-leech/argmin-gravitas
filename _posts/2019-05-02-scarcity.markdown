@@ -16,6 +16,9 @@ importance: 7
 wordcount:      
 ---
 
+<center>
+	<img src="/img/scar.jpg" width="45%" />
+</center><br>
 
 {%	assign lux = "https://en.wikipedia.org/wiki/Luxury_goods"	%}
 {%	assign zvi = "https://thezvi.wordpress.com/2017/09/30/slack/"	%}
@@ -28,7 +31,7 @@ wordcount:
 {%	assign iron = "https://www.gwern.net/docs/sociology/1987-rossi"		%}
 {%	assign slack = "https://www.lesswrong.com/posts/yLLkWMDbC9ZNKbjDG/slack"		%}
 
-Economics bills itself as 'the study of decisions under scarcity'. A lot of it is actually about excess: <a href="{{lux}}">luxury</a> substitution, savings rates, futures markets, conspicuous consumption, and so on. But even these theories are about constrained optimisation, just with slightly looser constraints.
+Economics bills itself as 'the study of decisions under scarcity', but a lot of it is actually about excess: <a href="{{lux}}">luxury</a> substitution, savings rates, futures markets, conspicuous consumption... But even these theories are about constrained optimisation, just with looser constraints.
 
 That's the material side. The psychological side of painful scarcity - the panic, mental narrowing, and sense of doom - was completely absent from my economics classes, but without it you can't really understand poverty, and can't value economic growth as the life-saving, _mind_-saving thing it has been. <br /><br />
 
@@ -44,7 +47,7 @@ That's the material side. The psychological side of painful scarcity - the panic
 8. Can poison social interaction by <a href="{{moral}}">encouraging</a> <a href="{{z}}">zero-sum thinking</a> and so wasteful conflict.<a href="#fn:1" id="fnref:1">1</a><br />
 9. It recurses: Mistakes lead to real sacrifice (debt; traps; no slack means penalties bite, further reducing slack). Scarcity causes more scarcity by screwing with your planning and implementation skills.<br /><br />
 
-Economics only really handles costs (1) and (2). Psychology at its best handles (3-7). (9) is the author's new contribution, I think: cognitive economics.<br /><br />
+Economics only really handles costs (1) and (2). Psychology at its best handles (3-7). (9) is the author's new contribution, I think: cognitive economics. The study of decisions under scarcity - but now the internal view. <br /><br />
 
 Without <a href="{{zvi}}">some spare resources</a> it's impossible to be free, to be generous, to relax. That's obvious. Less obvious is that without slack you can't even think straight: there's a "bandwidth tax" on the poor, reducing their effective intelligence and willpower by - apparently - an entire standard deviation. Most of the experiments cited in this are about money scarcity, but their ingenious move is to generalise to all of us, to all conditions where a person lacks some instinctively (evolutionarily) key resource: e.g. money, time, calories, or friends. As well as being a plausible and exciting theoretical synthesis, this makes the book more evocative for rich-world readers:
 <blockquote>

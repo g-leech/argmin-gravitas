@@ -39,7 +39,9 @@ warnings: 	apocalyticism, antinatalism
 {%	assign beat = "https://www.rifters.com/crawl/?p=932"		%}
 {%	assign necro = "https://www.rifters.com/crawl/?p=1831"		%}
 
-
+<center>
+	<img src="/img/watts1.jpg" width="30%" />
+</center><br>
 
 <blockquote>Eleven years after the birth of <a href="{{hogans}}">the most neurologically remarkable</a>, philosophically mind-blowing, transhumanistically-relevant being on the planet, we have nothing but pop-sci puff pieces and squishy documentaries to show for it. Are we really supposed to believe that in over a decade no one has done the studies, collected the data, gained any insights about literal brain-to-brain communication, beyond these fuzzy generalities?<br><br> I for one don’t buy that for a second. These neuroscientists smiling at us from the screen—Douglas Cochrane, Juliette Hukin—they know what they’ve got. Maybe they’ve discovered something so horrific about the nature of Humanity that they’re afraid to reveal it, for fear of outrage and widespread panic. That would be cool.</blockquote><br>
 <a href="{{blog}}">Selected blogposts</a> from a thoughtful doomer. Name a hot button, anything, and Watts will elevate it to the scariest thing in the world: internet surveillance, zoonotic viruses, climate change, Trump, the security detail around the G8. 

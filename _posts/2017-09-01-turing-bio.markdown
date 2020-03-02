@@ -10,15 +10,20 @@ img:        /img/
 visible:    1
 published:  true
 
-summary:    Turing's accomplishments, cost-benefits, and actual emotional stature.
+summary:    Turing's accomplishments, cost-benefits, & emotional consequence.
 confidence: 95%
 importance: 6
-wordcount:      1480
+wordcount:  1480
 ---
 
 {% 	assign cpi = "https://www.in2013dollars.com/uk/inflation/1940?amount=6000"		%}
 {% 	assign laiss = "https://www.panarchy.org/keynes/laissezfaire.1926.html"		%}
 {% 	assign ace = "https://en.wikipedia.org/wiki/Automatic_Computing_Engine"		%}
+
+
+<center>
+	<img src="/img/turing.jpg" width="30%" />
+</center><br>
 
 <blockquote>in the early days of computing, a number of terms for the practitioners of the field of computing were suggested in the Communications of the ACM — turingineer, turologist, flow-charts-man, applied meta-mathematician, and applied epistemologist.</blockquote><center>- wiki</center>
 <br/>

@@ -24,6 +24,11 @@ wordcount:
 {%	assign mac = "https://medium.com/conversations-with-tyler/tyler-cowen-larissa-macfarquhar-writing-altruism-e4767f7bb78d"	%}
 
 
+<center>
+	<img src="/img/mel.jpg" width="35%" />
+</center><br>
+
+
 Marvelous despite being filled with suffering and self-pity. Patrick's detachment from, humour about, his own inner life makes the books rise above him. Most of the series is not in Patrick's head, but instead depicts his brutal gilded circle. Even so, every few pages, there is a moment of beautiful lucidity or (unvoiced) empathy. The prose, the comedy, the sadness are almost enough to make you glad, with Patrick, that his parents are dead.<br/>
 
 The prose is brilliantly polished, but I took my time, jolted out every few pages by something demanding reflection: "_Evil is sickness celebrating itself_";
@@ -65,13 +70,14 @@ I don't know what in these is totally fictional and I don't need to know. The ar
 		Some distinguishing marks of contemporary literary fiction are cynicism, neurosis, and incompetence in every adult character. It often captures subtle forms of obsession, self-sabotage, and malice, and often reflects on the contingency of past mores. It rarely reflects on the contingency of current ideas, current neuroses, current, on what is next. Technological progress is notably absent. (Climate doom and deep-ecology misanthropy is one exception.)<br><br>
 		<!--  -->
 		<a href="{{mac}}">MacFarquhar</a>:<br>
-		<blockquote><i>
+		<blockquote>
 			the absence of unambiguously altruistic characters is almost one of the things that marks highbrow fiction as such... genre fiction is filled with far more heroism than higher culture...<br> I talked about this with a novelist. I said, “What is wrong with you novelists? Why don’t you write about heroic characters who are moved by a sense of moral duty?” He gave me this look of total contempt like I had asked him to write about bunnies or butterflies. 
-		</blockquote></i><br><br>
+		</blockquote>
+		<br><br>
 		Konstantinou:
-		<blockquote><i>
+		<blockquote>
 			Palmer’s series suggests that science fiction should not be viewed as just another literary genre, but as the genre where Enlightenment — the hope of radical self-improvement, the dream that we might control our own fate as a species — takes refuge...
-		</blockquote></i>	
+		</blockquote>
 <!--  -->
 		Why are the Ballardian, the Orwellian, and the Kafkaesque the animating spirits of contemporary literary life? 
 <!--  -->

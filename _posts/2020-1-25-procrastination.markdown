@@ -17,17 +17,20 @@ wordcount:
 categories: review, self-help
 ---
 
-**The Art of Procrastination: A Guide to Effective Dawdling, Lollygagging and Postponing** by John R. Perry
+<center>
+	<img src="/img/perry.jpg" width="35%" />
+</center><br>
 
+
+<!-- **The Art of Procrastination: A Guide to Effective Dawdling, Lollygagging & Postponing** by John Perry -->
+
+<blockquote>
+	<b>structured procrastinator</b>: a person who gets a lot done by [consciously] not doing other ['important'] things.<br/><br/>
+<!--  -->
+	...structured procrastination requires a certain amount of self-deception, since one is in effect constantly perpetrating a pyramid scheme on oneself. Exactly. One needs to be able to recognize and commit oneself to tasks with inflated importance and unreal deadlines, while making oneself feel that they are important and urgent. This is not a problem, because virtually all procrastinators have excellent self-deceptive skills also. And what could be more noble than using one character flaw to offset the bad effects of another?"
+</blockquote><br>
 
 Previously, I settled for this. I now want to become the person, to inhabit the environment, that does the thing.
-
-
-
-<blockquote>structured procrastinator</i>: a person who gets a lot done by [consciously] not doing other [important] things.<br/><br/>
-
-structured procrastination requires a certain amount of self-deception, since one is in effect constantly perpetrating a pyramid scheme on oneself. Exactly. One needs to be able to recognize and commit oneself to tasks with inflated importance and unreal deadlines, while making oneself feel that they are important and urgent. This is not a problem, because virtually all procrastinators have excellent self-deceptive skills also. And what could be more noble than using one character flaw to offset the bad effects of another?"
-</blockquote><br>
 
 This book didn't exactly change my life, but it made me feel better about what I was already doing. (Before, I'd been calling it <a href="https://en.wikipedia.org/wiki/Gravity_assist">slingshot</a> <a href="https://en.wikipedia.org/wiki/Akrasia">akrasia</a>.) <br/><br/>
 
@@ -100,3 +103,6 @@ YMMV. 5/5 if you don't do this already
 </div>
 
 {%  include comments.html %}
+
+
+_<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_<br>

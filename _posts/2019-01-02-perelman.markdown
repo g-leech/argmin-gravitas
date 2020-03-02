@@ -15,9 +15,11 @@ confidence: Empty speculation.
 wordcount:      920
 ---
 
-<img src="/img/ricci.png" /><br>
 
-_<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_<br><br>
+<center>
+	<img src="/img/perel.jpg" width="30%" />
+</center><br>
+
 
 {%	assign kol = "https://www.scottaaronson.com/blog/?p=3376"	%}
 {%	assign drov = "https://en.wikipedia.org/wiki/Aleksandr_Danilovich_Aleksandrov"	%}
@@ -29,10 +31,9 @@ _<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from 
 {%	assign erd = "https://www.goodreads.com/review/show/2825487882?book_show_action=false&from_review_page=1"	%}
 
 
-
 'Perfect Rigour' is not so much a biography: instead it's a study of anti-Semitism in Russia, the viciousness of Soviet academia, and the wonderful subculture that lived uneasily within it. This subculture was the superhuman apolitical dreamland, mathematics. It could only exist because of sacrifices by famous and decent men, <a href="{{kol}}">Kolmogorov</a> and <a href="{{drov}}">Aleksandrov</a>. Their selective maths schools seem to have been the only nice places in the entire <a href="{{emp}}">empire</a>, at least for those with a taste for actual discussion, or unalloyed truth.
 <br/>
-<br/>(It can't be  a biography because the subject refused to talk to her, <a href="{{what}}">does things</a> that are very hard to explain, and doesn't go out much.)
+<br/>(It can't be a biography because the subject refused to talk to her, <a href="{{what}}">does things</a> that are very hard to explain, and doesn't go out much.)
 <br/>
 <br/>
 Even so, Gessen is well-placed to write this - she was a maths nerd in Soviet Russia around the same time. As far as I can tell (which isn't very far) her grasp of the maths (one chapter for the crown jewel) is fit for purpose. But Gessen is out to bust Perelman's reputation for hyper-individualism; so she focusses on the devoted teachers and functionaries that pulled strings to get an abrasive Jew into the heart of Soviet academia, and his incredible luck in starting graduate study just as Glasnost happened.
@@ -56,6 +57,10 @@ The great mystery, which Gessen understandably can't touch, is why after 36 year
 <br/>
 <br/>If you don't care about maths or if you can't abide people being mean to nerds (as both the old apparatchiks and Gessen were) then skip this book.
 <br/><br>
+
+
+<img src="/img/ricci.png" width="75%" /><br><br>
+
 
 ### Coffins
 
@@ -97,3 +102,6 @@ The clearest precedent is <a href="{{erd}}">Paul Erdos</a>: also rude, also mono
 </div>
 
 {%  include comments.html %}
+
+
+_<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_<br><br>
