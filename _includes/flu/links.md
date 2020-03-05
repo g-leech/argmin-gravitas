@@ -32,3 +32,4 @@
 {%	assign rock = "https://en.wikipedia.org/wiki/Rockefeller_University#Research"	%}
 {%	assign gates = "https://dimes.rockarch.org/FA161/biohist"		%}
 {%	assign flex = "https://en.wikipedia.org/wiki/Simon_Flexner"	%}
+{%	assign march = "https://www.smithsonianmag.com/history/philadelphia-threw-wwi-parade-gave-thousands-onlookers-flu-180970372/"	%}
