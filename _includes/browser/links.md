@@ -1,4 +1,5 @@
 {%		assign piholeImg = "/img/pi.png"		%}
+{%	assign strange = "https://www.gwern.net/Noteslittlewoods-law-and-the-global-media"	%}
 {%		assign attackImg = "/img/attack.jpg"	%}
 {%    assign xkey = "https://en.wikipedia.org/wiki/XKeyscore"       %}
 {%    assign ech = "https://en.wikipedia.org/wiki/ECHELON"         %}
