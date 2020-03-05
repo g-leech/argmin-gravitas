@@ -14,7 +14,7 @@ best: 		1
 summary:    Passable browser security for almost no money or effort. Updated March '19.
 confidence: 95% that this is worth the time and better than nothing.
 categories: 
-importance: 6
+importance: 5
 wordcount:      1550
 ---
 
@@ -24,15 +24,6 @@ wordcount:      1550
 <br>
 
 It's now common knowledge that we're being watched online, by a <a href="{{mix}}">thick mix</a> of <a href="{{xkey}}">nation</a>-<a href="{{ech}}">states</a>, <a href="{{enemy}}">private</a> <a href="{{fb}}">companies</a>, <a href="{{spy}}">and</a> <a href="{{play}}">criminals</a>. They sometimes do <a href="{{mal}}">worse than watch</a>. What do we do? Should we care?
-
-<div class="accordion">
-	<h3>Ugh factors and tail risks</h3>
-	<div>
-		Why care about this? Besides mere trust in one's hardware, or a mere preference not to be watched, it's to do with the increasing tail risks of being in principle vulnerable to one oddball with a vendetta. These will increase for two reasons: increase in the online population, and in ML fuzzing and intrusion methods.
-<!--  -->
-		Only half of humanity are online at the moment; a single script-kiddie troll can do quite a lot; the internet is about to get bigger, louder, and stranger. https://www.gwern.net/Noteslittlewoods-law-and-the-global-media
-	</div>
-</div>
 
 It's not clear what the probability of having your password leaked in a breach / having your email read / having your laptop being remotely wiped (unless you pay the creator Bitcoin) is. But something like this <a href="{{krebs}}">will probably happen</a> to you in your lifetime, so I would take 10 mins to mitigate them now.
 
@@ -46,6 +37,15 @@ There is no absolute security; it's always partial and relative to a goal. This 
 On a lighter note, security is an amazing way to learn about how the internet actually works. It's a lot easier to remember the <a href="{{tcpip}}">dozens</a> of abstract systems involved when you can think, smugly, "_And I've plugged that gap with this mitigation, and that one, and that one..._"
 
 Most of this article assumes you're using Firefox, <a href="{{chrome}}">because</a> <a href="{{chromeCookies}}">Chrome</a> <a href="https://blog.cryptographyengineering.com/2018/09/23/why-im-leaving-chrome/">is itself</a> <a href="{{protonChrome}}">an attack</a>. That is, it protects you very well against everyone except Google. <a href="#fn:2" id="fnref:2">2</a> It's not a big deal compared to the other parts of this list, you'll just need to find alternatives to the add-ons I recommend.
+
+<div class="accordion">
+	<h3>Ugh factors and tail risks</h3>
+	<div>
+		Why care about this? Besides mere trust in one's hardware, or a mere preference not to be watched, it's to do with the increasing tail risks of being in principle vulnerable to one oddball with a vendetta. These will increase for two reasons: the coming increase in the online population, and in ML fuzzing and intrusion methods.<br><br>
+<!--  -->
+		Only half of humanity are online at the moment; a single script-kiddie troll can do quite a lot; the internet is about to get bigger, louder, and <a href="{{strange}}">stranger</a>. 
+	</div>
+</div>
 
 <br>
 <hr />
