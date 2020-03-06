@@ -3,7 +3,7 @@ layout:     post
 title:      "What's the highest moral wage?"
 baselink:   /maximum
 permalink:  /maximum/
-date:       2017-02-26  <!--site.time-->
+date:       2014-01-11  <!--site.time-->
 author:     Gavin   
 img:		/img/fish.jpg
 
@@ -15,8 +15,8 @@ summary:    Estimate of how much money a maximizing consequentialist is allowed.
 confidence:	90% in the numbers, 70% in the ethics.
 warnings:   scrupulosity, scrupulosity, scrupulosity
 categories: effective altruism
-importance: 8.
-wordcount: 		2169
+importance: 8
+wordcount: 	2169
 started:    2013
 ---
 

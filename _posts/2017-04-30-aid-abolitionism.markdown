@@ -3,7 +3,7 @@ layout:     math_post
 title:      "Should we abolish foreign aid?"
 baselink:   /aid
 permalink:  /aid/
-date:       2017-04-30
+date:       2012-05-01
 author:     Gavin   
 img:		/img/smolSamar.jpg
 
@@ -11,10 +11,10 @@ visible:	1
 published:	true
 
 summary:    The macroeconomics of the idea that government aid is harmful.
-confidence: 75% confident that aid is not harmful enough to abolish.<br>&nbsp;&nbsp;(Confidence is this low because my evidence is 5 years old.)
-warnings:   poverty, inexorability, extremely tl;dr.  Evidence summary is years old.
-wordcount: 		8,821 (plus notes)
-importance: 8.
+confidence: 75% confident that aid is not harmful enough to abolish.<br>&nbsp;&nbsp;(Confidence low because my evidence is 5 years old.)
+warnings:   poverty, inexorability, extremely tl;dr.
+wordcount: 	8821
+importance: 6
 started:    2012
 
 ---
