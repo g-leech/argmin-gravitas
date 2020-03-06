@@ -3,7 +3,7 @@ layout:     post
 title:      "Frege's grand failure"
 baselink:   /frege
 permalink:  /frege
-date:       2018-02-16  <!--site.time-->
+date:       2012-04-01  <!--site.time-->
 author:     Gavin
 
 img:        /img/frege.jpg
@@ -13,9 +13,8 @@ visible: 	1
 summary:    Quick sketch of Frege's reduction of arithmetic to logic, and why it fails.
 confidence:	90%. 
 categories: philosophy of mathematics
-warnings:	
 importance: 4
-wordcount:		3698
+wordcount:	3698
 ---
 
 

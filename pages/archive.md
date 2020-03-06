@@ -24,15 +24,15 @@ visible:  false
 <div class="home">
       {% for post in site.posts %}
 
-        {% assign currentMonth = post.date | date: "%b %Y" %}
-        {% if currentMonth != myMonth %}
+        {% assign currentYear = post.date | date: "%Y" %}
+        {% if currentYear != yr %}
            {% unless forloop.first %}</table>{% endunless %}
            
            <br><hr>
 
-           <h1 class="spaced">{{ currentMonth }}</h1>
+           <h1 class="spaced">{{ currentYear }}</h1>
             <table class="post-list">
-           {% assign myMonth = currentMonth %}
+           {% assign yr = currentYear %}
         {% endif %}
         
         <tr class="spaced">
