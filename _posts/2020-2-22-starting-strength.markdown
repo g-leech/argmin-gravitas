@@ -37,7 +37,7 @@ The first paragraph of this fitness book has stronger writing than you'd ever ex
   Physical strength is the most important thing in life. This is true whether we want it to be or not... Whereas previously our physical strength determined how much food we ate and how warm and dry we stayed, it now merely determines how well we function in these new surroundings we have crafted for ourselves as our culture has accumulated. But we are still animals – our physical existence is, in the final analysis, the only one that actually matters. A weak man is not as happy as that same man would be if he were strong. This reality is offensive to some people who would like the intellectual or spiritual to take precedence. It is instructive to see what happens to these very people as their squat strength goes up.<br>
 </blockquote>
 <br>
-It begins with a philosophical salvo(!) 
+It begins with a metaphilosophical salvo(!) 
 
 This message is repulsive, unjust, and almost exactly fits my experience. (Though he's being imprecise: better to say "the most important <i>foundation</i>", that fitness is a key instrument rather than the highest terminus. Though even then it's not "most important", since it neglects even larger nonintellectual effects on my philosophy of life: love, and <a href="https://www.gleech.org/x-for-all">grand moral scheming</a>.) <br><br>
 

@@ -60,6 +60,9 @@ visible:  false
 <p class="rss-subscribe">
   subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
 </p>
+<p>
+  See posts ranked by their importance <a href="/importance">here</a>.
+</p>
 
 
 </div>

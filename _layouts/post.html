@@ -27,7 +27,7 @@ layout: default
   <br>
     {% if page.summary %} <br>{{t}}<i>{{  page.summary  }}</i>{% endif %} 
     {% if page.confidence %} <br>{{t}}<i>Confidence</i>: {{ page.confidence }}{% endif %} 
-    {% if page.importance %} <br>{{t}}<i>Importance</i>: {{  page.importance }} / 10{% endif %}
+    {% if page.importance %} <br>{{t}}<i>Importance</i>: <a href="/importance">{{  page.importance }} / 10</a>{% endif %}
     {% if page.warnings %} <br>{{t}}<i>Content notes</i>: {{  page.warnings }}{% endif %}
     {% if page.wordcount %}<br>{{t}}<i>Reading time</i>: {{ page.wordcount | divided_by: 200 }} mins. {% endif %} 
     {% if page.lw %} <br>{{t}}<a href="{{ page.lw }}">Cross-posted here</a>.{% endif %} 
