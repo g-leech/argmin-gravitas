@@ -39,5 +39,5 @@ Embodiment of secrets<br>
 Warmer-hearts-warmer-room effect<br>
 Treating-prejudice-with-imagery effect<br>
 Grammar influences perceived intentionality effect<br>
-Attachment-warmth embodiment effect<br>
+Attachment-warmth embodiment effect
 <!-- https://journals.sagepub.com/doi/abs/10.1177/0956797613486983?rfr_dat=cr_pub%3Dpubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&journalCode=pssa -->
