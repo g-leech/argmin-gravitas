@@ -1,7 +1,7 @@
 No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic behaviour change from 'related' (often only metaphorically related) stimuli. <a href="#fn:3" id="fnref:3">3</a><br><br>
 
 
-* Questionable evidence for elderly priming, that hearing about old age makes people walk slower. <a href="{{lakens}}">The p-curve alone</a> argues against the first 20 years of studies. 
+* Questionable evidence for <span class="b">elderly priming</span>, that hearing about old age makes people walk slower. <a href="{{lakens}}">The p-curve alone</a> argues against the first 20 years of studies. 
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -15,7 +15,7 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
 </div><br>
 
 
-* <a href="{{prof}}">No good evidence</a> for professor priming, improved ("+13%") performance at trivia after picturing yourself as a professor vs as a thug.
+* <a href="{{prof}}">No good evidence</a> for <span class="b">professor priming</span>, improved ("+13%") performance at trivia after picturing yourself as a professor vs as a thug.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -28,7 +28,7 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
 	</div>
 </div><br>
 
-* No good evidence for the Macbeth effect, that moral aspersions induce literal physical hygiene.
+* No good evidence for the <span class="b">Macbeth effect</span>, that moral aspersions induce literal physical hygiene.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -41,7 +41,7 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
 </div>
 </div><br>
 
-* Money priming, that "images or phrases related to money cause increased faith in capitalism, and the belief that victims deserve their fate", etc. 
+* No good evidence for <span class="b">money priming</span>, that "images or phrases related to money cause increased faith in capitalism, and the belief that victims deserve their fate", etc. 
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -61,12 +61,12 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
   
 
 
-* <a href="{{zim}}">No good evidence</a> of anything from the Stanford prison 'experiment' (Zimbardo). It was not an experiment; 'demand characteristics' and scripting of the abuse; constant experimenter intervention; faked reactions from participants; as Zimbardo concedes, they began with a complete "absence of specific hypotheses".
+* <a href="{{zim}}">No good evidence</a> of anything from the <span class="b">Stanford prison 'experiment'</span>. It was not an experiment; 'demand characteristics' and scripting of the abuse; constant experimenter intervention; faked reactions from participants; as Zimbardo concedes, they began with a complete "absence of specific hypotheses".
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
 	<ul>
-		<li><span class="b">Original paper</span>: '<a href="{{zim1}}">Interpersonal dynamics in a simulated prison</a>', 1973 <br>(1800 citations, but <a href="{{zim2}}">cited by</a> books with hundreds of thousands of citations).</li><br>
+		<li><span class="b">Original paper</span>: '<a href="{{zim1}}">Interpersonal dynamics in a simulated prison</a>', Zimbardo 1973 <br>(1800 citations, but <a href="{{zim2}}">cited by</a> books with hundreds of thousands of citations).</li><br>
 		<li><span class="b">Critiques</span>: convincing method & data inspection - <a href="{{tex}}">Le Texier</a> 2019 <br>
 		(total citations: &#126;8)</li><br>
 		<li><span class="b">Original effect size</span>: Key claims were insinuation plus a battery of difference in means tests at up to 20% significance(!). n="21" (typo for 24?).</li><br>
@@ -77,7 +77,7 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
 
 
 
-* <a href="{{milg}}">No good evidence</a> that 65% of people will inflict pain if ordered to (Milgram). Experiment was riddled with researcher degrees of freedom, implausible agreement between very different treatments, and "_only half of the people who undertook the experiment fully believed it was real and of those, 66% disobeyed the experimenter._" So upper bound around 16% and no strong warrant for that.
+* <a href="{{milg}}">No good evidence</a> that 65% of people will inflict pain if ordered to (<span class="b">Milgram</span>). Experiment was riddled with researcher degrees of freedom, implausible agreement between very different treatments, and "_only half of the people who undertook the experiment fully believed it was real and of those, 66% disobeyed the experimenter._" So upper bound around 16% and no strong warrant for that.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -96,7 +96,7 @@ https://sci-hub.tw/10.1177/1368430213502557
 https://www.sciencedirect.com/science/article/abs/pii/S027795361830649X
  -->
 
-* Excessive screen-time is <a href="{{potato}}">not strongly associated</a> with low wellbeing; it explains about as much of teen sadness as eating potatoes, 0.35%.
+* <span class="b">Lots of screen-time</span> is <a href="{{potato}}">not strongly associated</a> with low wellbeing; it explains about as much of teen sadness as eating potatoes, 0.35%.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -109,7 +109,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S027795361830649X
 </div>
 </div><br>
 
-* No good evidence that female-named hurricanes are <a href="{{himmi}}">more deadly</a> than male-named ones. Original effect size was a 276% increase in deaths, driven entirely by four outliers; reanalysis using a greatly expanded historical dataset found a nonsignificant decrease in deaths from female named storms.
+* No good evidence that <span class="b">female-named hurricanes</span> are <a href="{{himmi}}">more deadly</a> than male-named ones. Original effect size was a 276% increase in deaths, driven entirely by four outliers; reanalysis using a greatly expanded historical dataset found a nonsignificant decrease in deaths from female named storms.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -122,7 +122,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S027795361830649X
 </div>
 </div><br>
 
-* At most weak implicit bias testing for racism. Implicit bias scores <a href="{{oswald}}">poorly predict</a> actual bias, r = <a href="{{linnae}}">0.15</a>. The operationalisations used to measure that predictive power are <a href="{{criterion}}">often unrelated to actual discrimination</a> (e.g. ambiguous brain activations). Test-retest reliability of <a href="{{ret}}">0.44</a> for race, which is usually classed as "unacceptable". This isn't news; the original study also found very low test-criterion correlations.
+* At most weak use in <span class="b">implicit bias testing</span> for racism. Implicit bias scores <a href="{{oswald}}">poorly predict</a> actual bias, r = <a href="{{linnae}}">0.15</a>. The operationalisations used to measure that predictive power are <a href="{{criterion}}">often unrelated to actual discrimination</a> (e.g. ambiguous brain activations). Test-retest reliability of <a href="{{ret}}">0.44</a> for race, which is usually classed as "unacceptable". This isn't news; the original study also found very low test-criterion correlations.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -136,7 +136,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S027795361830649X
 </div>
 </div><br>
 
-* The Pygmalion effect, that a teacher's expectations about a student affects their performance, is at most <a href="{{jussim}}">small, temporary, and inconsistent</a>, r<0.1 with a reset after weeks. Rosenthal's original claims about massive IQ gains, persisting for years, are straightforwardly false ("_The largest gain... 24.8 IQ points in excess of the gain shown by the controls._"), and used an invalid test battery. Jussim: "90%–95% of the time, students are unaffected by teacher expectations".
+* The <span class="b">Pygmalion effect</span>, that a teacher's expectations about a student affects their performance, is at most <a href="{{jussim}}">small, temporary, and inconsistent</a>, r<0.1 with a reset after weeks. Rosenthal's original claims about massive IQ gains, persisting for years, are straightforwardly false ("_The largest gain... 24.8 IQ points in excess of the gain shown by the controls._"), and used an invalid test battery. Jussim: "90%–95% of the time, students are unaffected by teacher expectations".
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -150,7 +150,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S027795361830649X
 </div>
 </div><br>
 
-* At most <a href="{{maths1}}">weak</a> <a href="{{maths2}}">evidence</a> for stereotype threat suppressing girls' maths scores. i.e. the interaction between gender and stereotyping. 
+* At most <a href="{{maths1}}">weak</a> <a href="{{maths2}}">evidence</a> for <span class="b">stereotype threat</span> suppressing girls' maths scores. i.e. the interaction between gender and stereotyping. 
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -172,7 +172,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S027795361830649X
 
 
 
-* Questionable evidence for a general increase in "narcissism" (leadership, vanity, entitlement) in young people over the last thirty years. The basic counterargument is that they're identifying an age effect as a cohort effect (The narcissism construct <a href="{{robe}}">apparently</a> decreases by about a standard deviation between adolescence and retirement.) _"every generation is Generation Me"_<br>
+* Questionable evidence for an increase in <span class="b">"narcissism"</span> (leadership, vanity, entitlement) <span class="b">in young people</span> over the last thirty years. The basic counterargument is that they're misidentifying an age effect as a cohort effect (The narcissism construct <a href="{{robe}}">apparently</a> decreases by about a standard deviation between adolescence and retirement.) _"every generation is Generation Me"_<br>
 All such "generational" analyses are _at best_ needlessly noisy approximations of social change, since generations are not discrete natural kinds, and since people at the supposed boundaries are indistinguishable.
 <div class="accordion">
 	<h3>Stats</h3>

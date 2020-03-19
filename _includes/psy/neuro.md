@@ -1,7 +1,7 @@
-* No good evidence that brains contain one mind per hemisphere. The corpus callosotomy studies which purported to show "two consciousnesses" inhabiting the same brain <a href="{{pinto}}">were badly overinterpreted</a>.<br><br>
+* No good evidence that brains contain <span class="b">one mind per hemisphere</span>. The corpus callosotomy studies which purported to show "two consciousnesses" inhabiting the same brain <a href="{{pinto}}">were badly overinterpreted</a>.<br><br>
 
 
-* Very weak evidence for the existence of high-functioning (IQ ~ 100) hydrocephalic people. The hypothesis begins from extreme prior improbability; the effect of massive volume loss is claimed to be on average _positive_ for cognition; the case studies are often questionable and involve little detailed study of the brains (e.g. 1970 scanners were not capable of the precision claimed).
+* Very weak evidence for the existence of <span class="b">high-functioning</span> (IQ ~ 100) <span class="b">hydrocephalic people</span>. The hypothesis begins from extreme prior improbability; the effect of massive volume loss is claimed to be on average _positive_ for cognition; the case studies are often questionable and involve little detailed study of the brains (e.g. 1970 scanners were not capable of the precision claimed).
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -15,10 +15,10 @@
 </div><br>
 
 
-* Readiness potentials <a href="{{libet}}">seem to be actually causal</a>, not diagnostic. So Libet's studies also do not show what they purport to. We still don't have free will (since random circuit noise can tip us when the evidence is weak), but in a different way.<br><br>
+* <span class="b">Readiness potentials</span> <a href="{{libet}}">seem to be actually causal</a>, not diagnostic. So Libet's studies also do not show what they purport to. We still don't have free will (since random circuit noise can tip us when the evidence is weak), but in a different way.<br><br>
 
 
-* <a href="{{brain}}">No good evidence</a> for left/right hemisphere dominance correlating with personality differences. No clear hemisphere dominance at all in <a href="{{hem}}">this study</a>.
+* <a href="{{brain}}">No good evidence</a> for left/right hemisphere dominance correlating with <span class="b">personality differences</span>. No clear hemisphere dominance at all in <a href="{{hem}}">this study</a>.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>

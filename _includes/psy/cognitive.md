@@ -1,4 +1,4 @@
-* <a href="{{many2}}">No good evidence</a> for ego depletion, that making decisions suffers muscle-like fatigue. 
+* <a href="{{many2}}">No good evidence</a> for <span class="b">ego depletion</span>, that making decisions suffers muscle-like fatigue. 
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -13,7 +13,7 @@
 </div><br>
 
 
-* Questionable evidence for the "hungry judge" effect, of massively reduced acquittals (d=2) just before lunch. Case order isn't independent of acquittal probability ("unrepresented prisoners usually go last and are less likely to be granted parole"); favourable cases may take predictably longer and so are pushed until after recess; effect size is implausible on priors; explanation involved ego depletion.
+* Questionable evidence for the "<span class="b">hungry judge</span>" effect, of massively reduced acquittals (d=2) just before lunch. Case order isn't independent of acquittal probability ("unrepresented prisoners usually go last and are less likely to be granted parole"); favourable cases may take predictably longer and so are pushed until after recess; effect size is implausible on priors; explanation involved ego depletion.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -28,7 +28,7 @@
 </div><br>
 
 
-* <a href="{{water}}">No good evidence</a> for multiple intelligences (in the sense of statistically independent components of cognition). <a href="{{gard}}">Gardner</a>, the inventor: "<i>Nor, indeed, have I carried out experiments designed to test the theory... I readily admit that the theory is no longer current. Several fields of knowledge have advanced significantly since the early 1980s.</i>"
+* <a href="{{water}}">No good evidence</a> for <span class="b">multiple intelligences</span> (in the sense of statistically _independent_ components of cognition). <a href="{{gard}}">Gardner</a>, the inventor: "<i>Nor, indeed, have I carried out experiments designed to test the theory... I readily admit that the theory is no longer current. Several fields of knowledge have advanced significantly since the early 1980s.</i>"
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -41,7 +41,7 @@
 
 
 
-* <a href="{{merby}}">At most</a> weak evidence for brain training (that is, "far transfer" from daily training games to fluid intelligence) in general, in particular from <a href="{{dnb}}">Dual n-Back</a>. <a href="{{lamp}}">Maybe</a> some effect on non-Gf skills of the elderly.
+* <a href="{{merby}}">At most</a> weak evidence for <span class="b">brain training</span> (that is, "far transfer" from daily training games to fluid intelligence) in general, in particular from <a href="{{dnb}}">Dual n-Back</a>. <a href="{{lamp}}">Maybe</a> some effect on non-Gf skills of the elderly.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>

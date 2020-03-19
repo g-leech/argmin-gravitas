@@ -72,7 +72,7 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 
 ## Psychiatry
 
-* At most <a href="{{rosenhan}}">extremely weak evidence</a> that psychiatric hospitals (of the 1970s) could not detect sane patients in the absence of deception.
+* At most <a href="{{rosenhan}}">extremely weak evidence</a> that psychiatric hospitals (of the 1970s) <span class="b">could not detect sane patients</span> in the absence of deception.
 
 <!-- * Repressed memories / Recovered memory therapy -->
 
@@ -81,7 +81,7 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 
 ## Parapsychology
 
-* <a href="{{bem}}">No good evidence</a> for precognition, undergraduates improving memory test performance by studying after the test. This one is fun because Bem's statistical methods were "impeccable" in the sense that they were what everyone else was using. He is Patient Zero in the replication crisis, and has done us all a great service.
+* <a href="{{bem}}">No good evidence</a> for <span class="b">precognition</span>, undergraduates improving memory test performance by studying after the test. This one is fun because Bem's statistical methods were "impeccable" in the sense that they were what everyone else was using. He is Patient Zero in the replication crisis, and has done us all a great service.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -103,7 +103,7 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 
 ## Psychophysiology
 
-* <a href="{{phys}}">At most very weak evidence</a> that sympathetic nervous system activity predicts political ideology in a simple fashion In particular, subjects' skin conductance reaction to threatening or disgusting visual prompts - a very <a href="{{smith}}">noisy and questionable</a> measure. 
+* <a href="{{phys}}">At most very weak evidence</a> that sympathetic nervous system activity <span class="b">predicts political ideology</span> in a simple fashion In particular, subjects' skin conductance reaction to threatening or disgusting visual prompts - a very <a href="{{smith}}">noisy and questionable</a> measure. 
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
