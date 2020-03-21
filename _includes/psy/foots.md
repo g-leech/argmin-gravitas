@@ -12,5 +12,19 @@
 	<li class="footnote" id="fn:3">
 		Semantic priming is still solid, but the <a href="{{sem}}">effect lasts only seconds</a>.
 	</li>
+<!--  -->
+	<li class="footnote" id="fn:4">
+		<code>
+			radishGroupMean = 8.35 #minutes<br>
+			controlGroupMean = 20.86<br>
+			radishGroupSd = 4.67<br>
+			controlGroupSd = 7.30<br>
+			radishGroupN = 22 <br>
+			controlGroupN = 22 <br><br>
+			cohens_d(radishGroupMean, controlGroupMean,
+	                    radishGroupSd, controlGroupSd, 
+	                    radishGroupN, controlGroupN, True)
+        </code>
+    </li>
 </ol>
 </div>

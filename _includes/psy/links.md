@@ -61,20 +61,33 @@
 {%	assign merby = "https://sci-hub.tw/10.1037/a0028228"		%}
 {%	assign lamp = "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001756"		%}
 {%	assign dwee = "https://www.motsd.org/cmsAdmin/uploads/blackwell-theories-of-intelligence-child-dev-2007.pdf"	%}
+{%	assign dweck = "https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0604_1"		%}
 
 {%	assign preg = "https://en.wikipedia.org/wiki/Preregistration"		%}
 {%	assign soto = "https://sci-hub.tw/10.1177/0956797619831612"		%}
 {%	assign blue = "https://www.theguardian.com/science/brain-flapping/2013/jan/21/blue-monday-depressing-day-nonsense-science"		%}
 {%	assign wagen = "https://www.ejwagenmakers.com/2016/WagenmakersEtAl2016Strack.pdf"		%}
 
+{%	assign cuddy = "https://www.ncbi.nlm.nih.gov/pubmed/20855902"		%}
+{%	assign cuddy2 = "https://journals.sagepub.com/eprint/CzbNAn7Ch6ZZirK9yMGH/full"		%}
+{% 	assign carney = "https://faculty.haas.berkeley.edu/dana_carney/pdf_My%20position%20on%20power%20poses.pdf" %}
+{%	assign motte = "https://en.wikipedia.org/wiki/Motte-and-bailey_fallacy"		%}
+{%	assign simonsohn = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2791272"	%}
 {%	assign ronay = "https://www.tandfonline.com/doi/full/10.1080/23743603.2016.1248081"		%}
-{%	assign ranehill = "https://datacolada.org/wp-content/uploads/2015/05/5110-Ranehill-Dreber-Johannesson-Leiberg-Sul-Weber-PS-2015-Assessing-the-robustness-of-power-posing-no-effect-on-hormones-and-risk-rolerance-in-a-large-sample-of-men-and-women.pdf"		%}
+{%	assign ranehill = "https://journals.sagepub.com/doi/10.1177/0956797614553946"		%}
 {%	assign garrison = "https://pdfs.semanticscholar.org/314f/2bb18c67a39791de8b4a799e01738a3d7a88.pdf"		%}
 {%	assign ericsson = "https://bjsm.bmj.com/content/47/9/533"		%}
 {%	assign crede = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3198470"		%}
+{%	assign crede2017 = "https://journals.sagepub.com/doi/abs/10.1177/1948550617714584?journalCode=sppa"		%}
 {%	assign peerj = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6585898/#!po=40.4762"		%}
 {%	assign ssc = "https://slatestarcodex.com/2019/05/07/5-httlpr-a-pointed-review/"		%}
 {%	assign depres = "https://www.gwern.net/docs/genetics/heritable/2019-border.pdf"		%}
+{%	assign gelcud = "https://statmodeling.stat.columbia.edu/2016/01/26/more-power-posing/"		%}
+{%	assign cramer = "https://en.wikipedia.org/wiki/Cram%C3%A9r%27s_V"		%}
+{%	assign fosse = "https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/FMEGS6/U2QT5N&version=3.0"		%}
+{%	assign fosseDiss = "https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/FMEGS6/AYAZJ7&version=3.0"		%}
+{%	assign myanalysis = "/scripts/psych/cuddy2010.ipynb"		%}
+
 
 {%	assign psychiatry = "https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.2011.11020191"		%}
 {%	assign jbg = "https://sci-hub.tw/10.1007/s10519-011-9504-z"		%}
@@ -184,3 +197,13 @@
 {%		assign donnel1 = "https://www.sciencedirect.com/science/article/abs/pii/S0092656608001712"	%}
 
 {%		assign rethinking = "https://sci-hub.tw/10.1177/1745691609356789"		%}
+
+{%		assign strack = "https://sci-hub.tw/10.1037/0022-3514.54.5.768"		%}
+{%		assign mischel = "https://pdfs.semanticscholar.org/2934/6b98f0947a822b8744f4792bcf1a297f01d3.pdf"		%}
+{%		assign bau = "https://www.ncbi.nlm.nih.gov/pubmed/9599441"	%}
+{%		assign jaeggi = "https://www.pnas.org/content/105/19/6829"		%}
+{%		assign folio = "https://www.niesr.ac.uk/sites/default/files/publications/Changing%20Mindsets_0.pdf"	%}
+
+{%		assign bem0 = "https://www.ncbi.nlm.nih.gov/pubmed/21280961"		%}
+{%		assign schimm = "https://replicationindex.com/2018/01/05/bem-retraction/"		%}
+{%		assign slate = "https://slate.com/technology/2013/07/statistics-and-psychology-multiple-comparisons-give-spurious-results.html"		%}

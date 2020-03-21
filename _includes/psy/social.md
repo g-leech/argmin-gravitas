@@ -94,6 +94,8 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
 <!-- * No good evidence for the broken windows theory (Keizer)
 https://sci-hub.tw/10.1177/1368430213502557
 https://www.sciencedirect.com/science/article/abs/pii/S027795361830649X
+https://journals.sagepub.com/doi/10.1177/1368430213502557
+https://eprints.qut.edu.au/38329/1/38329a.pdf
  -->
 
 * <span class="b">Lots of screen-time</span> is <a href="{{potato}}">not strongly associated</a> with low wellbeing; it explains about as much of teen sadness as eating potatoes, 0.35%.
