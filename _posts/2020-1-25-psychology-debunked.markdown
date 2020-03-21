@@ -81,15 +81,21 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 
 ## Parapsychology
 
-* <a href="{{bem}}">No good evidence</a> for <span class="b">precognition</span>, undergraduates improving memory test performance by studying after the test. This one is fun because Bem's statistical methods were "impeccable" in the sense that they were what everyone else was using. He is Patient Zero in the replication crisis, and has done us all a great service.
+* No good evidence for <span class="b">precognition</span>, undergraduates improving memory test performance by studying after the test. This one is fun because Bem's statistical methods were "impeccable" in the sense that they were what everyone else was using. He is Patient Zero in the replication crisis, and has done us all a great service. (Heavily reliant on a flat / frequentist prior; evidence of optional stopping; forking paths analysis.)
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
 		<ul>
-			<li><span class="b">Original paper</span>: ( citations).</li><br>
-			<li><span class="b">Critiques</span>: <br>(total citations: )</li><br>
-			<li><span class="b">Original effect size</span>: d=[0.2, 0.4] </li><br>
-			<li><span class="b">Replication effect size</span>: [ ], n=</li><br>
+			<li><span class="b">Original paper</span>: '<a href="{{bem0}}">Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect</a>', Bem 2012, 9 experiments, n=1000 or so.
+				<br>(&#126;1000 citations, but mostly not laudatory).
+			</li><br>
+			<li><span class="b">Critiques</span>: <a href="{{bem}}">Ritchie 2012</a>, n=150. On one of the nine.<br>
+				<a href="{{slate}}">Gelman 2013</a>; <a href="{{schimm}}">Schimmack 2018</a>, methodology.
+				<br>(total citations: 200)
+			</li><br>
+			<li><span class="b">Original effect size</span>: Various, mean d=0.22. For experiment 9, r= minus 0.10.
+			</li><br>
+			<li><span class="b">Replication effect size</span>: Correlation between r= minus 0.02</li><br>
 		</ul>
 	</div>
 </div><br>
@@ -103,7 +109,7 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 
 ## Psychophysiology
 
-* <a href="{{phys}}">At most very weak evidence</a> that sympathetic nervous system activity <span class="b">predicts political ideology</span> in a simple fashion In particular, subjects' skin conductance reaction to threatening or disgusting visual prompts - a very <a href="{{smith}}">noisy and questionable</a> measure. 
+* <a href="{{phys}}">At most very weak evidence</a> that sympathetic nervous system activity <span class="b">predicts political ideology</span> in a simple fashion. In particular, subjects' skin conductance reaction to threatening or disgusting visual prompts - a <a href="{{smith}}">noisy and questionable</a> measure. 
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>

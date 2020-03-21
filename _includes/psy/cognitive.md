@@ -1,14 +1,19 @@
-* <a href="{{many2}}">No good evidence</a> for <span class="b">ego depletion</span>, that making decisions suffers muscle-like fatigue. 
+* Good evidence against <span class="b">ego depletion</span>, that making decisions suffers muscle-like fatigue. 
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
 		<ul>
-			<li><span class="b">Original paper</span>: Baumeister ( citations).</li><br>
-			<li><span class="b">Critiques</span>: <a href="{{many2}}">Hagger 2016</a>, 23 independent replications <br>
-			(total citations: )</li><br>
-			<li><span class="b">Original effect size</span>: d > 0.7 </li><br>
-			<li><span class="b">Replication effect size</span>: d = 0.04 [−0.07, 0.15]</li><br>
+			<li><span class="b">Original paper</span>: '<a href="{{bau}}">Ego Depletion: Is the Active Self a Limited Resource?</a>', Baumeister 1998, n=67.
+				<br>(&#126;5700 citations).</li><br>
+			<li><span class="b">Critiques</span>: <a href="{{many2}}">Hagger 2016</a>, 23 independent conceptual replications 
+				<br>
+			(total citations: &#126;640)</li><br>
+			<li><span class="b">Original effect size</span>: something like d = minus 1.96 between control and worst condition. (I hope I'm <a href="{{code}}">calculating</a> that wrong.)	<br>
+				<center><a href="#fn:4" id="fnref:4">4</a></center>
+			</li><br>
+			<li><span class="b">Replication effect size</span>: d = 0.04 [−0.07, 0.14]. (NB: not testing the construct the same way.)</li><br>
 		</ul>
+		<br><br><br><br>
 	</div>
 </div><br>
 
@@ -41,15 +46,25 @@
 
 
 
-* <a href="{{merby}}">At most</a> weak evidence for <span class="b">brain training</span> (that is, "far transfer" from daily training games to fluid intelligence) in general, in particular from <a href="{{dnb}}">Dual n-Back</a>. <a href="{{lamp}}">Maybe</a> some effect on non-Gf skills of the elderly.
+* At most weak evidence for <span class="b">brain training</span> (that is, "far transfer" from daily training games to fluid intelligence) in general, in particular from the Dual n-Back game. <a href="{{lamp}}">Maybe</a> some effect on non-Gf skills of the elderly.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
-		<ul>
-	<li><span class="b">Original paper</span>: ( citations).</li><br>
-	<li><span class="b">Critiques</span>: <br>(total citations: )</li><br>
-	<li><span class="b">Original effect size</span>: [ ], n= </li><br>
-	<li><span class="b">Replication effect size</span>: d=0.14 [-0.0292  0.3085]</li><br>
+	<ul>
+<!--  -->
+	<li><span class="b">Original paper</span>: '<a href="{{jaeggi}}">Improving fluid intelligence with training on working memory</a>', Jaeggi 2008, n=70.
+		<br>(2200 citations).
+	</li><br>
+	<li>
+		<span class="b">Critiques</span>: <a href="{{merby}}">Melby-Lervåg 2013</a>, meta-analysis of 23 studies. <br>
+		<a href="{{dnb}}">Gwern 2012</a>, meta-analysis of 45 studies.
+	</li><br>
+	<li><span class="b">Original effect size</span>: d=0.4 over control, 1-2 days after training</li><br>
+	<li><span class="b">Replication effect size</span>: <br>
+		Melby: d=0.19 [0.03, 0.37] nonverbal; d=0.13 [-0.09, 0.34] verbal.<br>
+		Gwern: d=0.1397 [-0.0292, 0.3085], among studies using active controls.
+	</li><br>
+<!--  -->
 	</ul>
 	</div>
 </div><br>
