@@ -13,7 +13,8 @@ published:  true
 summary:    Relating maths, metaphysics, & (OOP) programming, if you already know one.
 confidence: 90% that the first table are real commonalities.
 categories: philosophy
-importance: 4
+importance: 5
+pride:      5
 wordcount:      400
 ---
 
