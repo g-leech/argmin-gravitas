@@ -132,7 +132,7 @@ Let's use the word '_overknowing_' for being confident enough to do something pr
 
 <br> <br>
 
-_Thanks to Saulius Šimčikas, Jan Kulveit and Hugh Panton for conversations around this._
+_Thanks to Saulius Šimčikas, Jan Kulveit and Hugh Panton for conversations on this._
 
 
 
@@ -148,6 +148,6 @@ _Thanks to Saulius Šimčikas, Jan Kulveit and Hugh Panton for conversations aro
 </ol>
 </div>
 
-<br> <br>
+
 
 
