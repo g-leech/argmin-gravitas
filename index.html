@@ -83,8 +83,15 @@ visible:  false
 </div>
 <br>
 
-<a href="{{ "/archive" | prepend: site.url }}">See all posts</a>.  <br>
-<a href="{{ "/best" | prepend: site.url }}">See best posts</a>.  <br>
+<center>
+<h2>
+  <a href="{{ "/archive" | prepend: site.url }}">See all posts</a>.  
+</h2>
+
+<h2>
+  <a href="{{ "/importance" | prepend: site.url }}">See most important posts</a>.  
+</h2>
 
 {%    include rss.html  %}
-<br><br>
+
+</center>
