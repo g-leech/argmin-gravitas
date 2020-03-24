@@ -10,6 +10,11 @@ visible:    false
 
 
 
+{%	assign luu = "http://danluu.com"		%}
+{%	assign white = "http://www.johnmyleswhite.com"	%}
+
+
+
 
 <div class="accordion">
 	<h3>"Idioms"</h3>
@@ -38,6 +43,7 @@ visible:    false
 	<div>
 	My favourite philosophers, in terms of substantive agreement, are <a href="http://putnamphil.blogspot.co.uk/">Hilary Putnam</a><sub>90s</sub> (on meta-ethics and language), <a href="http://david-pearce.com/">David Pearce</a> (on animals, biochemicals, the ontology of qualia, the point of science), <a href="http://archive.today/0DdHk">Mary</a> <a href="http://books.google.co.uk/books?id=NCbsp4eVf9cC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Midgley</a> (on virtue, <a href="http://www.ghandchi.com/IONA/newsword.pdf">culture</a> and on scientism), <a href="http://www.philosophy.uncc.edu/mleldrid/cmt/rrtwo.html">Rorty</a> (on anything but ontology), Joseph Heath, and <a href="http://emilkirkegaard.dk/en/wp-content/uploads/A_Plea_for_Science_Studies_Philip_Kitcher.pdf">Philip</a> <a href="http://human-nature.com/nibbs/04/kitcher.html">Kitcher</a> (on inquiry as a thing). My favourites in terms of style are Epicurus, Hume, Wittgenstein, Taleb, and Nietzsche. <br /><br /><br />
 <!--  -->
+	My favourite bloggers are Gwern Branwen, Slate Star Codex, Noah Smith, Kelsey Piper, <a href="{{luu}}">Dan Luu</a>, Jose Ricon, Alexey Guzey, Andrew Gelman, Ozy Frantz, Jamie Brandon, Milan Griffes, Robert Wiblin, Chris Dillow, Katja Grace, <a href="{{white}}">John Myles White</a>, 
 	My favourite net intellectuals are <a href="http://slatestarcodex.com/2014/07/30/meditations-on-moloch/">‘Scott Alexander’</a>; <a href="http://noahpinionblog.blogspot.co.uk/">Noah Smith</a>, <a href="http://theunitofcaring.tumblr.com/">Kelsey 'Caring'</a>; <a href="https://thingofthings.wordpress.com/">Ozy Frantz</a>; ‘<a href="http://www.gwern.net/Culture%20is%20not%20about%20Esthetics">Gwern Branwen</a>’, <a href="https://twitter.com/robertwiblin">Robert Wiblin</a>, <a href="http://stumblingandmumbling.typepad.com/">Chris Dillow</a>, and <a href="http://haquelebac.wordpress.com/">John Emerson</a>. My favourite polemicists are Ernest Gellner, Eliezer Yudkowsky, Charlie Stross, Steve Keen, Camille Paglia, David Stove, Nietzsche. (They are each a complete joy to read, but they may not be good for me.) <br><br>
 <!--  -->
 	People I love, despite having never even met them: Borges, Turing, Scott Alexander, Pessoa.<br><br>
@@ -100,15 +106,31 @@ visible:    false
 <!--  -->
 	My favourite statespeople on principle are: William Penn, Sun Yatsen, Tony Benn, John Wilkes; my favourite by effects are <a href="https://en.wikipedia.org/wiki/Empress_Dou_(Wen)">Dou Yifang</a> (<a href="https://en.wikipedia.org/wiki/Rule_of_Wen_and_Jing">竇猗房</a>), Edmund Burke, Peter the Great, Deng Xiaoping, Jefferson, Attlee; my favourite sitting politicians are Onora O'Neill, <a href="https://en.wikipedia.org/wiki/John_Lewis_(Georgia_politician)">John Lewis</a>...
 </div>
-The best literal teachers I ever had were Gerald R Harrison (the transformations of reason), Bob Plant (indeterminacy, the importance of modesty and deflationism), David Newlands (anger is an energy), Luca Moretti, Karen Renaud, Lewis Mackenzie (the awe of the bridge of the formal and physical), Chris W Johnson (man in the machine), Shaomin Lee-Murray (who named me), John Morrice, Julian Lethbridge and Glen McIntosh.
-
-<br />
-<br />
 
 
+<h3>Teachers</h3>
+<div>
+	The best teachers I have had are<br><br>
+<ul>
+	<li>Glen McIntosh (saxophone; a note don't care who plays it)</li>
+	<li>Gerald R Harrison (moral philosophy; the transformations of reason)</li>
+	<li>Bob Plant (immoral philosophy; more problematic what is left for philosophy to do), </li>
+	<!-- <li>Paul Schlicke (Victorian literature; the glory and pity of pity),</li> -->
+	<!-- Julian Lethbridge --> 
+	<li>Shaomin Lee-Murray (Mandarin; who named me)</li> 
+	<li>David Newlands (development economics; the rage inside compassion)</li> 
+	<li>Luca Moretti (philosophy of science; stimulants and reality shock)</li>
+	<li>Karen Renaud (cybersecurity; the monkey at the helm)</li> 
+	<li>Lewis Mackenzie (low-level computing; the awe of bridging the formal and the physical)</li> 
+	<li>Chris W Johnson (safety-critical engineering; man in the machine)</li> 
+	<!-- <li>Stewart Mackenzie-Leigh (web dev; do they owe us a living?)</li> -->
+	<li>John Morrice (software engineering; who taught me how to write these kinds of equations)</li>
+	<li>Tom McGrath (reinforcement learning; the sober leap)</li>
+	<li>Carl Henrik Ek (Bayesian machine learning; the inability to condescend)</li>
+	<!-- <li>Laurence Aitchison (kernel methods, computational neuroscience, computational sociology, statistical mechanics, energy-based modelling)</li> -->
+</ul>
 
-
-
+</div>
 
 
 <h3>Art</h3>
