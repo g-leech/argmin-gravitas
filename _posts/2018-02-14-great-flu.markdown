@@ -14,6 +14,7 @@ confidence: 70%. The amount of mass death we have no direct evidence of is scary
 importance: 8
 warnings: 	social collapse, authoritarianism, predatory pseudoscience. I'm not a virologist or historian.
 wordcount:  3300
+pride:      4
 categories: review, x-risk, epistemology, biorisk
 ---
 
@@ -94,7 +95,10 @@ This is too neat, too terrible. It reads like <a href="{{green}}">greentext</a>,
 
 You already believe, probably, that World War I was a terrible senseless waste of life. Well, now magnify that belief by a factor of 5 or 6.<br><br>
 
-{%	include flu/unamerican.md		%}
+<div class="accordion">
+	{%	include flu/crimes.md		%}
+	{%	include flu/unamerican.md		%}
+</div>
 
 <br /><br />
 
