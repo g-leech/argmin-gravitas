@@ -207,3 +207,7 @@
 {%		assign bem0 = "https://www.ncbi.nlm.nih.gov/pubmed/21280961"		%}
 {%		assign schimm = "https://replicationindex.com/2018/01/05/bem-retraction/"		%}
 {%		assign slate = "https://slate.com/technology/2013/07/statistics-and-psychology-multiple-comparisons-give-spurious-results.html"		%}
+
+{%	assign luu = "https://danluu.com/dunning-kruger"		%}
+{%	assign greenberg = "https://www.facebook.com/spencer.greenberg/posts/10104093568422862"		%}
+{%	assign mtstupid = "https://www.google.com/search?q=mount+stupid+dunning&source=lnms&tbm=isch&sa=X&ved=2ahUKEwia5taF8LLoAhUdURUIHTtZC3EQ_AUoAXoECAwQAw&biw=1280&bih=654"		%}

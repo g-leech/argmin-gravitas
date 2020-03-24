@@ -9,8 +9,9 @@ img:        /img/rev.jpg
 
 visible:    1
 published:  true
+best: 		1
 
-summary:    List of exaggerated psychological phenomena
+summary:    A list of exaggerated psychological phenomena
 confidence: High that I'm representing the current evidence well, low that all of these will stay reversed.
 importance: 5
 warnings: 	I am not a social scientist.
@@ -25,7 +26,9 @@ wordcount:  3500
 
 A <a href="{{med}}">medical reversal</a> is when an existing treatment is found to actually be useless or harmful. Psychology has in recent years been racking up reversals: in fact only <a href="{{many}}">40-65%</a> of its classic social results were replicated, in the weakest sense of finding 'significant' results in the same direction. (Even in those that replicated, the average effect found was <a href="{{halv}}">half</a> the originally reported effect.) Such errors are obviously far less costly to society than medical errors, but it's still pollution, so here's the cleanup. <a href="#fn:1" id="fnref:1">1</a><br>
 
-Psychology is not alone: <a href="{{ioan}}">medicine</a>, <a href="{{canc}}">cancer biology</a>, and <a href="{{ec}}">economics</a> all have many irreplicable results, and so do most other fields, as we'd know if they ran replication efforts this large. It'd be a mistake to write off psychology wholesale: we know about most of the problems in psychology because of psychologists, and the subfields show very different replication rates and effect size shrinkage. <a href="{{whyPsy}}">One reason</a> psychology reversals are so prominent is that it's an unusually 'open' field in terms of code and data sharing. A less scientific field would never have caught its own bullshit.
+Psychology is not alone: <a href="{{ioan}}">medicine</a>, <a href="{{canc}}">cancer biology</a>, and <a href="{{ec}}">economics</a> all have many irreplicable results. It'd be wrong to write off psychology: we know about most of the problems here because of psychologists, and its subfields differ a lot by replication rate and effect-size shrinkage.<br>
+
+<a href="{{whyPsy}}">One reason</a> psychology reversals are so prominent is that it's an unusually 'open' field in terms of code and data sharing. A less scientific field would never have caught its own bullshit.
 
 The following are empirical findings about empirical findings; they're all open to re-reversal. Also it's not that "we know these claims are false": failed replications (or proofs of fraud) usually just challenge the evidence for a hypothesis, rather than affirm the opposite hypothesis. I've tried to ban myself from saying "successful" or "failed" replication, and to report the best-guess effect size rather than play the bad old Yes/No science game. <a href="#fn:2" id="fnref:2">2</a>
 
