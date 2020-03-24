@@ -1,4 +1,4 @@
-* <a href="{{gla}}">Questionable evidence</a> for the <span class="b">dual mating-strategy hypothesis</span> (that "heterosexual women show stronger preferences for uncommitted sexual relationships... during the high-fertility ovulatory phase of the menstrual cycle, while preferring long-term relationships at other points").
+* <a href="{{gla}}">Questionable evidence</a> for the <span class="b">menstrual cycle dual-mating-strategy hypothesis</span> (that "heterosexual women show stronger preferences for uncommitted sexual relationships... during the high-fertility ovulatory phase of the menstrual cycle, while preferring long-term relationships at other points").
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -7,6 +7,12 @@
 	<li><span class="b">Critiques</span>: <br>(total citations: )</li><br>
 	<li><span class="b">Original effect size</span>: [ ], n= </li><br>
 	<li><span class="b">Replication effect size</span>: [ ], n=</li><br>
+
+	<br>
+	Note from a professor friend: the idea of a dual-mating hypothesis itself is not in trouble:
+	<blockquote>
+		the specific menstrual cycle research doesn't seem to replicate well. However, to my knowledge the basic pattern of short vs long term relationship goals predicting masculinity preferences is still robust.
+	</blockquote>
 	</ul>
 	</div>
 </div><br>
