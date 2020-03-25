@@ -12,7 +12,7 @@ visible:    1
 
 summary:    Choosing your reference class for happiness or growth.
 categories: 
-confidence: 90% that this is important, but the details are untested.
+confidence: 80% that this axis is important, but the details are vague and untested.
 importance: 7
 wordcount:  
 ---
@@ -52,7 +52,7 @@ When deciding whether a situation is good or bad, you can compare up (to a super
 
 <h3>Examples:</h3>
 
-* To have <a href="{{grat}}">gratitude</a> for ❌ is to compare down to a world where you don't have it.<br><br>
+* To have <a href="{{grat}}">gratitude</a> for 𝑥 is to compare down to a world where you don't have it.<br><br>
 
 * Clinical trials with placebo controls are comparing down, to (roughly) nothing; clinical trials with reference treatment controls are comparing up. <br><br>
 
@@ -69,7 +69,7 @@ When deciding whether a situation is good or bad, you can compare up (to a super
 <br><br>
 
 
-* I think some part of politics reduces to this. When questions of UK social justice come up, my first thoughts are things like, “Yeah, but the British minimum wage is in <a href="http://www.givingwhatwecan.org/get-involved/how-rich-am-i">the top 15% of global incomes</a>”. I compare down to the global working class.<br><br> This is true and important, but for some purposes <a href="#fn:2" id="fnref:2">2</a> it is also stupid, since on the sad margin of nationalist politics, giant transfers like GiveDirectly are not on the table. Unless giant public transfers to <a href="{{give}}">GiveDirectly</a> are in fact a politically viable option, it does not help to paint the locally poor as globally rich. Maybe some people are <a href="{{ineff}}">inefficiently rich</a> on <i>any</i> reading.<br><br> However, we have to remember that the converse – comparing up, to a better arrangement – often means making a comparison with something that doesn’t exist, never has, and may not be able to. <br><br>
+* I think some part of politics reduces to this. When questions of UK social justice come up, my first thoughts are things like, “Yeah, but the British minimum wage is in <a href="http://www.givingwhatwecan.org/get-involved/how-rich-am-i">the top 15% of global incomes</a>”. I compare down to the global working class.<br><br> This is true and important, but for some purposes <a href="#fn:2" id="fnref:2">2</a> it is also stupid, since on the sad margin of nationalist politics, giant public transfers to <a href="{{give}}">GiveDirectly</a> are not on the table. Unless they are, it is true but does not <i>help</i> to paint the locally poor as globally rich. (Maybe some people are <a href="{{ineff}}">inefficiently rich</a> on <i>any</i> reading.)<br><br> However, we have to remember that the converse – comparing up, to a better arrangement – often means making a comparison with something that doesn’t exist, never has, and may not be able to. <br><br>
 
 
 When it's important to improve, you want to compare up. When it's more important to feel good, or to just _get on with it_, you want to compare down. I try to do plenty of both. e.g. "Relative to the human average I've done a lot and know a lot." Comparing up is more natural to me, so I make an effort to recall my achievements and the base rates.
@@ -89,26 +89,84 @@ Saying “what I have is good” might reduce your drive to improve the situatio
 			<li> How does this fit with ideas of hedonic setpoint and the first-derivative view of welfare? (That people don't feel levels, they feel changes.)</li>
 		</ul>
 	</div>
-	<!--  -->
-	<h3>Actual science</h3>
+<!--  -->
+<!--  -->
+	<h3>Science</h3>
 	<div>
 		I found exactly <a href="{{ideal}}">one paper</a> vaguely testing the comparing-up intervention. But the similarities between physical perception and value perception (both involve relative top-down processing) make me wonder if predictive processing is involved. The connoisseur's hammer for every psychological nail.
 		<br><br>
-		The idea is in the same space as <a href="{{mind}}">growth mindset</a>, or grit, or any number of overhyped academic rehashes of <a href="{{gump}}">gumption</a>. Then there's mindfulness, which is another claim about one's stance having strong effects on value of experience.
+		There is some relation to Stoic philosophy and CBT too.
+		<br><br>
+		The idea is in the same space as <a href="{{mind}}">growth mindset</a>, or grit, or any number of overhyped academic rehashes of <a href="{{gump}}">gumption</a>.<br><br> 
+	<!--  -->
+		Then there's mindfulness, which is a different claim about one's stance having strong effects on value of experience.
 	</div>
+<!--  -->
+<!--  -->
 	<h3>Better to be a subaltern in New York than the emperor of old Rome</h3>
 	<div>
-		<a href="{{milan}}">Branko Milanovic</a>, setting up a strawman to dismiss:<br><br>
+		<a href="{{milan}}">Branko Milanovic</a>, just before setting up a strawman to dismiss:<br><br>
 		<blockquote>
 			For Julius Caesar to read a book overnight, easily move at night around his palace, or listen to the songs he liked would have required perhaps hundreds of workers (slaves) to hold the torches or sing his favorite arias all night. Even Caesar, if he were to do that night after night, might, after some time, have run out of resources (or might have provoked a rebellion among the singers).<br><br> But for us the expense for a similar pleasure is very small, even trivial, say $2 per night. Consequently, some people come to the conclusion that Caesar must have had tiny wealth measured in today’s bundle of goods since a repeated small nightly expense of $2 (in today’s prices) would have eventually ruined him. Other people at Caesar’s time had obviously much less: ergo, the world today is incomparably richer than before.
 		</blockquote>
 		<br>
 		The exception is of course the dubious goods of position and domination. But I don't want these, and don't want to want them.
 	</div>
-</div><br><br>
+<!--  -->
+<!--  -->
+	<h3>Alisifuyejua, limemwangaza</h3>
+	<div>
+		"<i>Alisifuyejua, limemwangaza</i>" is a Swahili proverb meaning "the sun shines on the one who praises it".<br><br> 
+<!--  -->
+		I like it a lot; it reflects a couple of things about human happiness. It's probably orthogonal to the reference class stuff above; instead it's another component of a good stance toward the world: looking for the good in things. There's a hint of positive-thinking <a href="http://skepdic.com/woowoo.html">woo</a> to it — as if the world responded <i>causally</i> to devotion — but discard that in favour of: <br /><br />
+<ol>
+	<li>
+		<i>People</i> are the loci of value; value is produced by the interface of minds with certain parts of the world; it is not written into just us or the order of things.
+	</li>
+	<br />
+	<li>
+		No value without receptivity. Being conscious isn't enough. (I think you can sensibly distinguish 'receptivity to good' from hope, and hope from expectation.)
+	</li>
+	<br />
+	<li>
+		Misery can destroy most of the lived world. (Ain't no sunshine; who loves the sun; I don't believe in the sun.)
+	</li>
+</ol>
+<br />
+	(Other things I take it to <i>not</i> be saying: "Fake it til you make it"; "misery is the fault of the miserable"; "hope is enough to be happy".)<br><br>
+<!--  -->
+	But how much is receptivity under our control? It will take some odd psychology work to capture that variable. Interesting political-theory discussion of being receptive as the key to most good things <a href="http://www.ethicsandglobalpolitics.net/index.php/egp/issue/view/536">here</a>. ("Ethics and Global Politics" Vol 4, No 4 (2011).)<br />
+</div>
+<!--  -->
+<!--  -->
+<h3>A pig happy</h3>
+<div>
+	Assume that the above sort of thing was arbitrarily powerful, that we could feel good at any moment. Is generalised levity desirable?<br><br> 
+<!--  -->
+	An old current of thought is dead-set against it (I call it "lacrimism", to go with the ancient doctrine "<a href="http://www.urbandictionary.com/define.php?term=deathism">deathism</a>"). Roger Scruton can always be counted upon to piss in the beer with style: <a href="https://newhumanist.org.uk/articles/2283/gloom-merchant">he believes</a> that ubiquitous wonder and joy is impossible, and would make us <a href="http://www.academia.edu/5695584/_Better_to_be_Socrates_dissatisfied_than_a_pig_satisfied_Against_Mills_argument_for_a_discontinuous_qualitative_distinction_between_pleasures.pdf">swinish</a> idiots, "a kind of postmodern individual" he doesn't want to be seated next to at a dinner party:<br /><br />
+<!--  -->
+	<blockquote>
+		Everything deep in us depends upon our mortal condition, and while we can solve our problems and live in peace with our neighbours we can do so only through compromise and sacrifice. We are not, and cannot be, the kind of posthuman cyborgs that rejoice in eternal life, if life it is... The soul-less optimism of the transhumanists reminds us that we should be gloomy, since our happiness depends on it.
+	</blockquote>
+	<br />
+	We should listen to this, but we have reason <a href="http://www.hedweb.com/hedethic/hedon4.htm">not to heed</a> it. Not least because lacrimism is self-fulfilling: if no-one believes that it is possible to have a Good life without suffering and vice, it can never become possible. This sounds idealistic, but I think its counter-quietism is inherent to science:<br /><br />
+<!--  -->
+	<blockquote>
+		the greatest enrichment the scientific culture could give us is... a moral one... scientists know, as starkly as any men have known, that the individual human condition is tragic... But what they will not admit is that, because the individual condition is tragic, therefore the social condition must be tragic, too... The impulse behind the scientists drives them to limit the area of tragedy, to take nothing as tragic that can conceivably lie within men’s will....<br />
+	</blockquote>
+	<div align="center">- CP Snow</div>
+	<br />
+	<br />
+	<div align="center">
+		<!--  -->
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/L85cillM6ME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+		<small>Scruton as Merritt's protagonist.</small>
+	</div>
+</div>
 
+</div>
 
-
+<br><br><br>
 
 
 

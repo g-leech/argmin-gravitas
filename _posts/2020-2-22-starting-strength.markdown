@@ -59,7 +59,9 @@ There is lots of reasoning from first principles, which is satisfying and gives 
   <i>“good technique” in barbell training is easily and understandably defined as the ability of the lifter to keep the bar vertically aligned with the balance point.</i>
 </blockquote><br>
 
-Rippetoe is the source of the recent renaissance in cheap simple barbells (free weights, i.e. dozens of muscles recruited at once) over circuits of giant single-muscle machines. He tells a plausibly mean story about the economic perverse incentives that led to the latter, 1980-2010.<br><br>There is too much detail here - he discusses variants of the movements and the debate over them. But what a trivial criticism that is! I think most people could skip two-thirds of the book, since there's detailed kinematics for each move, instructor tips and gym-building tips, but it's interesting throughout. You could get the key parts from the final Programme section, then the "what not to do" chapter closing sheets. Warm-up sets chapter was very useful.<br>
+Rippetoe is the source of the recent renaissance in cheap simple barbells (free weights, i.e. dozens of muscles recruited at once) over circuits of giant single-muscle machines. (In the West, anyway; large parts of the world, e.g. Russia, apparently never gave up their bars.) He tells a plausible mean story about the perverse economic incentives that led to the latter, 1980-2010.<br><br>
+
+There is too much detail here - he discusses variants of the movements and the debate over them. But what a trivial criticism that is! I think most people could skip two-thirds of the book, since there's detailed kinematics for each move, instructor tips and gym-building tips, but it's interesting throughout. You could get the key parts from the final Programme section, then the "what not to do" chapter closing sheets. Warm-up sets chapter was very useful.<br>
 
 <blockquote>
   <i>if your schedule does not allow time for proper warm-up, it does not allow time for training at all... [The squat] should be carefully and thoroughly prepared with a couple of empty-bar sets, and then as many as five sets between those and the work sets.</i>
