@@ -14,6 +14,7 @@ confidence:	Just an analogy (society is a tad different from maths). But 70% in 
 categories: maths, reason, ineffective altruism
 warnings:	totalitarianism, slavery, famine, scrupulosity
 importance: 3
+pride:      5
 wordcount:		870
 ---
 
@@ -50,14 +51,12 @@ But I've realised that your view in <i>Pi vs Tau</i> is an analogy for an actual
 <hr />
 <br>
 
-Let's get some machinery set up. 
-
-One way of slicing the confused term "liberalism" is into <a href="{{hayek}}">two great streams</a>: the metaphorically "French" and the metaphorically "British". <a href="#fn:4" id="fnref:4">4</a><br><br>
+Let's set up some machinery: One way of disambiguating "liberalism" is into <a href="{{hayek}}">two great streams</a>: the metaphorically "French" and the metaphorically "British".<a href="#fn:4" id="fnref:4">4</a><br><br>
 
 <ul>
-<li>'French' liberalism is top-down: it has a single large theory of the world, and is willing to make radical changes to make the world accord with the theory. (A stark example, maybe the inspiration for Hayek coining the distinction, is the difference between <a href="{{laws}}">Napoleonic civil law and English common law</a>.) </li><br>
-
-<li>'British' liberalism is bottom-up: it emphasises the limits of our knowledge, the difficulty of making large changes successfully, and the value of evolved institutions, as repositories of successful adaptations.</li>
+    <li>'French' liberalism is top-down: it has a single large theory of the world, and will undertake radical action to make the world accord with the theory. (A stark example, maybe the inspiration for Hayek coining the distinction, is the difference between <a href="{{laws}}">Napoleonic civil law and English common law</a>.) </li><br>
+<!--  -->
+    <li>'British' liberalism is bottom-up: it emphasises the limits of our knowledge, the difficulty of making large changes successfully, and the value of evolved institutions, as repositories of successful adaptations.</li>
 </ul><br>
 
 (It is in this sense that e.g. Marx is French - a top-down rationalist interventionist - where e.g. Taleb is British, a halting curator of what has persisted.)
@@ -118,7 +117,7 @@ In a world with <i>no actually pressing problems</i> (like malaria, adversarial 
     <li class="footnote" id="fn:1">
     	Unless you define "adaptedness" as "extent of persistence through time", you rogue.
 	</li>
-
+<!--  -->
 	 <li class="footnote" id="fn:2">
     	You might think it's churlish or pious to bring down Tauism in favour of heavy moral matters. It's not a moral question, after all!<br><br> 
 

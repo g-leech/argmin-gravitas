@@ -13,7 +13,8 @@ published:  true
 summary:    Some of the best English novels of the century.
 warnings: 	child abuse, wrongful blame
 importance: 4
-wordcount:      
+pride:      3
+wordcount:  1000  
 ---
 
 {%	assign nur = "https://en.wikipedia.org/wiki/The_Nurture_Assumption"	%}

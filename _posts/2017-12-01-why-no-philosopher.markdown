@@ -14,7 +14,8 @@ best: 		1
 summary:    Philosophy's functions and benefits, and why they aren't real (?)
 confidence:	N/A. A polemic I don't usually endorse.
 importance: 4
-wordcount:		3000
+pride:		7
+wordcount:	3000
 lw: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philosopher
 ---
 

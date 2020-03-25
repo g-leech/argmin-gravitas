@@ -15,6 +15,7 @@ confidence:
 warnings: 	
 categories: 
 importance: 7
+pride:      7
 wordcount: 		
 ---
 

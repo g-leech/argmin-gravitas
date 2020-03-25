@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Qualititative features of programming languages"
-baselink:   /fuzzy-lang
-permalink:  /fuzzy-lang/
+title:      "Qualitative features of programming languages"
+baselink:   /prolang
+permalink:  /prolang/
 date:       2017-02-10
 author:     Gavin   
 

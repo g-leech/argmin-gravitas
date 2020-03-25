@@ -16,8 +16,13 @@ technical:	true
 summary:	Recent formal results address philosophical questions, sometimes even negating them.
 confidence:	70%. I am not a computer scientist.
 importance: 6
+pride:		7
 categories:	philosophy of science, language, machine learning
 ---
+
+<!-- Covers proof of Chomsky and Occam -->
+<!-- https://homepages.cwi.nl/~rdewolf/publ/philosophy/phthesis.pdf -->
+
 
 <img src="/img/two-var.png" />
 
