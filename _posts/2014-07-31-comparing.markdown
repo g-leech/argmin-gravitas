@@ -163,8 +163,26 @@ Saying “what I have is good” might reduce your drive to improve the situatio
 		<small>Scruton as Merritt's protagonist.</small>
 	</div>
 </div>
+	<!--  -->
+	<!--  -->
+<h3>Self-help Satan</h3>		
+<div>
+	<blockquote>
+		Farewell happy fields  <br>
+		Where joy for ever dwells: hail horrors, hail  <br>
+		Infernal world, and thou profoundest hell  <br>
+		Receive thy new possessor: one who brings  <br>
+		A mind not to be changed by place or time.  <br>
+		The mind is its own place, and in itself  <br>
+		Can make a heaven of Hell, a Hell of Heaven.  <br>
+		What matter where, if I be still the same,  <br>
+		And what I should be, all but less than he  <br>
+		Whom thunder hath made greater?
+	</blockquote>
+</div>
 
 </div>
+
 
 <br><br><br>
 
