@@ -20,7 +20,7 @@ wordcount:      500
 {%	include pills/links.html		%}
 
 > there may be useful interventions, but they will be of little value on average — if the benefit is universal, then it will be small; if it is large and predictable, then it will be limited to the few with a particular disease; otherwise, it will be unpredictably idiosyncratic so those who need it will not know it. Thus, the metallic laws: the larger the change you expect, the less likely it is; the low-hanging fruit, having already been plucked, will not be tested; and the more rigorously you test the leftovers, the smaller the final net effects will be.
-<center> - <a href="{{gwern}}">Gwern Branwen</a></center><br>
+<center> - <a href="{{g}}">Gwern Branwen</a></center><br>
 
 
 In the last century, half a revolution happened: you can now buy <a href="{{thousands}}">many thousands of substances</a> that claim to promote health, and perhaps a couple of them do. 

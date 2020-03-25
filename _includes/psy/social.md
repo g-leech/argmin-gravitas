@@ -118,7 +118,7 @@ https://eprints.qut.edu.au/38329/1/38329a.pdf
 		<ul>
 	<li><span class="b">Original paper</span>: '<a href="{{jung}}">Female hurricanes are deadlier than male hurricanes</a>', Jung 2014, n=92 hurricanes discarding two important outliers. <br>(&#126;76 citations).</li><br>
 	<li><span class="b">Critiques</span>: <a href="{{christ}}">Christensen 2014</a>. <a href="{{smith2}}">Smith 2016</a>, n=420 large storms. <br>(total citations: &#126;15)</li><br>
-	<li><span class="b">Original effect size</span>: d=0.65: <a href="{{herric}}">276%</a> increase in deaths from flipping names from relatively masculine to relatively feminine </li><br>
+	<li><span class="b">Original effect size</span>: d=0.65: <a href="{{herric}}">176%</a> increase in deaths from flipping names from relatively masculine to relatively feminine </li><br>
 	<li><span class="b">Replication effect size</span>: Smith: 264% decrease in deaths (Atlantic); 103% decrease (Pacific).</li><br>
 </ul>
 </div>
