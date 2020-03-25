@@ -111,7 +111,7 @@ https://eprints.qut.edu.au/38329/1/38329a.pdf
 </div>
 </div><br>
 
-* No good evidence that <span class="b">female-named hurricanes</span> are <a href="{{himmi}}">more deadly</a> than male-named ones. Original effect size was a 276% increase in deaths, driven entirely by four outliers; reanalysis using a greatly expanded historical dataset found a nonsignificant decrease in deaths from female named storms.
+* No good evidence that <span class="b">female-named hurricanes</span> are <a href="{{himmi}}">more deadly</a> than male-named ones. Original effect size was a 176% increase in deaths, driven entirely by four outliers; reanalysis using a greatly expanded historical dataset found a nonsignificant decrease in deaths from female named storms.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
