@@ -3,7 +3,7 @@ layout:     post
 title:      "Why is quality rare?"
 baselink:   /quality
 permalink:  /quality
-date:       2018-03-24  <!--site.time-->
+date:       2015-03-24  <!--site.time-->
 author:     Gavin
 
 img:        /img/sturgeon.jpg

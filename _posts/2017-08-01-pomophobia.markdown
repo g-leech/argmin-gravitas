@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      "The typical language of postmodernism"
-baselink:   /computers
-permalink:  /computers
-date:       2017-08-15  <!--site.time-->
+baselink:   /pomo
+permalink:  /pomo
+date:       2011-08-15  <!--site.time-->
 author:     Gavin
 
 img:        /img/smolBoo.jpg
@@ -16,8 +16,12 @@ confidence:	70% that the accusations are overblown.
 categories: 
 warnings:	
 importance: 3
+pride:		4
 wordcount:		
 ---
+
+
+{%	assign phob = "https://www.jstor.org/stable/24440248"		%}
 
 
 > Where questions of style and exposition are concerned I try to follow a simple maxim: if you can’t say it clearly you don’t understand it yourself.
@@ -28,7 +32,7 @@ wordcount:
 
 
 
-I am about to begin studying Derrida, mostly because I wish to know if he's the most brilliant comedian who has ever lived. But, while reading around him, I find that the first thing noted about him is not his extraordinary reinterpretations of canon philosophy; not his seminal critiques of structuralism and phenomenology; nor even that he was continually demonized as a nihilist: the first thing about him is that he could not (or would not) write well. And, bizarrely, this foible is the most popular dismissal of the unsettling work that Derrida and other theorists in that intellectual direction have produced. Taking John Searle's personal maxim (cited above) as given, the critique seems to run: “they write obscurely, therefore they are all speaking nonsense. I don’t follow, therefore it doesn’t follow.”
+I am about to begin studying Derrida, because I wish to know if he's the most brilliant comedian who has ever lived. But, while reading around him, I find that the first thing noted about him is not his extraordinary reinterpretations of canon philosophy; not his seminal critiques of structuralism and phenomenology; nor even that he was continually demonized as a nihilist: the first thing about him is that he could not (or would not) write well. And, bizarrely, this foible is the most popular dismissal of the unsettling work that Derrida and other theorists in that intellectual direction have produced. Taking John Searle's personal maxim (cited above) as given, the critique seems to run: “they write obscurely, therefore they are all speaking nonsense. I don’t follow, therefore it doesn’t follow.”
 
 It is suggested that this obscure “they” are a subculture in academic thought, uniting the disciplines Cultural studies, Hermeneutics, Post-colonial studies, Queer theory, Gender studies and Critical theory (or just Theory), but also work of any discipline associated with the buzzwords/methods "postmodernism", "poststructuralism", "La pensée 68", “Lacanian psychoanalysis”, and “deconstructionism”. I hope that this grouping looks as artificial to you as it does to me, but for the sake of this let’s lend it subsistence under the umbrella postmodernism. 
 
@@ -120,18 +124,14 @@ Anyway, I refuse to take the criticisms above to be either the grand exposé or 
 
 
 
-
-
-
-
 <div class="accordion">
 	<h3>Note on naming one's opponents</h3>
 	<div>
 		In the first version of this, written when I was a nipper, I used the word "pomophobia" to label the excessive inferences against postmodernism. And thought I was brill.<br><br> 
-
-		Some time later I read <a href="https://www.jstor.org/stable/24440248">this piece</a> by Nicholas Shackel, where he considers fighting back against all the weasel words levelled at scientific realists and metaphysicians - <i>logocentric</i>, etc - by deeming them "logophobes". But then he stops and reflects that these are the rhetorical dark arts, and that rational people should shun such manipulative crap. So he calls their view "alogosia" instead - denying the objective Word.
+<!--  -->
+		Some time later I read <a href="{{phob}}">this piece</a> by Nicholas Shackel, where he considers fighting back against all the weasel words levelled at scientific realists and metaphysicians - <i>logocentric</i>, etc - by deeming them "logophobes". But then he stops and reflects that these are the rhetorical dark arts, and that we should shun manipulative crap like this. So he calls the view "alogosia" instead - denying the objective Word.
 	</div>
-
+<!--  -->
 	<h3>Bibliography</h3>
 	<div>
 		<ul>

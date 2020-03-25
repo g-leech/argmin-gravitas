@@ -12,7 +12,8 @@ published:  true
 summary:    What's the spirit of the age? What does everyone have to like?
 confidence: 90% that most of the rich world feels obliged to these things.
 importance: 4
-wordcount:      2100
+pride:		6
+wordcount:  2100
 categories: social
 ---
 

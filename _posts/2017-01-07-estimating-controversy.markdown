@@ -14,7 +14,8 @@ technical:	true
 summary:	A tiny research proposal - can we quantify controversy / obstructionism?
 confidence: 70% on equations' truth (because vague). 80% that it's worth doing.
 warnings: 	terrorism, inexorable ideologies
-importance: 7.
+importance: 7
+pride:		3
 categories: cause prioritisation, effective altruism, quantification fever
 wordcount: 900
 ---

@@ -11,6 +11,7 @@ published:  true
 
 summary:    The failure of Nazi nuclear research, and the farce after it.
 importance: 4
+pride:		3
 wordcount:  940
 ---
 

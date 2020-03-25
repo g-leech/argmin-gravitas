@@ -14,7 +14,8 @@ summary:	Weighing the evidence on Alan Turing's death.
 confidence: 80% that you don't know.
 warnings: 	suicide, homophobia
 categories: 
-importance: 4.
+importance: 3
+pride: 		6
 wordcount: 		
 ---
 

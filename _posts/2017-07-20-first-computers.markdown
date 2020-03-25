@@ -12,11 +12,14 @@ visible: 	1
 best:		1
 
 summary:    Tiny app for defining "computer" and selecting between first computers.
-confidence:	Pretty sure, 90%. A few dates missing, but there's no crucial overlaps AFAIK.
+confidence:	Pretty sure, 90%. A few dates missing, but there's no crucial overlaps.
 categories: computing, history
 warnings:	unfair posterity.
-importance: 4.
-wordcount:		1,039
+importance: 4
+pride: 		8
+
+wordcount:	1039
+
 ---
 
 {%	include comput/links.html	%} 

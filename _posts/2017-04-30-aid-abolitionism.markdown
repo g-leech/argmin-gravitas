@@ -11,14 +11,14 @@ visible:	1
 published:	true
 
 summary:    The macroeconomics of the idea that government aid is harmful.
-confidence: 75% confident that aid is not harmful enough to abolish.<br>&nbsp;&nbsp;(Confidence low because my evidence is 5 years old.)
+confidence: 75% confident that aid is not harmful enough to abolish.
 warnings:   poverty, inexorability, extremely tl;dr.
 wordcount: 	8821
 importance: 6
+pride:		2
 started:    2012
 
 ---
-
 
 {%		include aid/links.md		%}
 

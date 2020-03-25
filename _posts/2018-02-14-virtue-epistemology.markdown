@@ -3,7 +3,7 @@ layout:     post
 title:      "Intro to virtue epistemology"
 baselink:   /know-virtue
 permalink:  /know-virtue
-date:       2018-02-14  <!--site.time-->
+date:       2012-02-14  <!--site.time-->
 author:     Gavin
 
 img:        /img/

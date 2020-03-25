@@ -11,6 +11,8 @@ published:  true
 
 summary:    Underneath cliche, commodification, symbolism, is a complete man.
 importance: 6
+pride:		4
+
 wordcount:  1000
 warnings: 	I am not a physicist.
 categories: bio, science, greatness

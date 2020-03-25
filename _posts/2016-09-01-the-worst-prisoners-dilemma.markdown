@@ -13,6 +13,7 @@ summary:	A true story about model error, noisy decisions, and the birth of trage
 confidence: 90% that my interpretation is right. Speculative stuff in the second half.
 categories: stats, social science
 importance: 6
+pride:		6
 wordcount: 		700
 ---
 
