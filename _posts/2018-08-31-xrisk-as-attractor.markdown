@@ -15,7 +15,8 @@ summary:    Why many different worldviews should prioritise reducing existential
 confidence:	70%.
 categories: x-risk
 importance: 10
-wordcount: 		1000
+pride: 		9
+wordcount: 	1000
 lw:			https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause
 ---
 
