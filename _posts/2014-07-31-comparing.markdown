@@ -17,22 +17,8 @@ importance: 7
 wordcount:  
 ---
 
-{%	assign grat = "https://www.tandfonline.com/doi/abs/10.1080/01973533.2017.1323638?scroll=top&needAccess=true&journalCode=hbas20"		%}
-{%	assign gump = "https://en.wikipedia.org/wiki/Gumption_trap"		%}
-{%	assign mind = "https://en.wikipedia.org/wiki/Mindset"		%}
-{%	assign wage = "http://www.bbc.co.uk/news/business-25977678"		%}
-{%	assign ineff = "https://en.wikipedia.org/wiki/Distributive_efficiency"		%}
-{%	assign give = "http://www.givewell.org/international/top-charities/give-directly"		%}
-{%	assign g = "https://www.gleech.org/corp"		%}
-{%	assign gwern = "http://www.gwern.net/On%20Stress"		%}
-{%	assign tabb = "https://marginalrevolution.com/marginalrevolution/2020/02/who-is-wealthy.html"		%}
-{%	assign rel = "https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/396/brussel.Perception.pdf"		%}
-{%	assign an = "https://en.wikipedia.org/wiki/Anchoring#Causes"		%}
-{%	assign log = "https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2013.00636.x"	%}
-{%	assign ideal = "https://www.sciencedirect.com/science/article/abs/pii/S0950329389800059"		%}
-{%	assign imp = "https://www.gleech.org/importance/"		%}
-{%	assign milan = "http://glineq.blogspot.com/2020/02/historical-wealth-how-to-compare.html"		%}
-{%	assign singer = "https://ocw.mit.edu/courses/linguistics-and-philosophy/24-231-ethics-fall-2009/lecture-notes/MIT24_231F09_lec21.pdf"		%}
+{%	include compare/links.md	%}
+
 
 > Everything is amazing right now, and nobody’s happy... I was on an airplane and there was internet, high speed internet on the airplane... I'm watching YouTube clips; it's amazing... then it breaks down and they apologize: 'the internet is not working'. And the guy next to me goes 'pah! this is bullshit!' ...<br><br>
 Everybody on every plane should just constantly be going: “Oh my God, wow!” ... you’re sitting in a chair in the sky! ...People say 'there’s delays on flights' - delays? Really? New York to California in 5 hours! That used to take 30 years  and a bunch of you would die on the way there...
@@ -56,6 +42,8 @@ When deciding whether a situation is good or bad, you can compare up (to a super
 
 * Clinical trials with placebo controls are comparing down, to (roughly) nothing; clinical trials with reference treatment controls are comparing up. <br><br>
 
+* Comparing _between_ people is difficult: too much varies (energy; aptitude; <a href="{{lottery}}">lottery of fascinations</a>) and ordering them is anyway risky. Better to compare up to your personal best, or down to your past self. <br><br>
+
 * One of the strongest ways to make me realise my good fortune is checking my 'temporal privilege'. <a href="{{tabb}}">In many ways</a> it is better to be a minimum-wage worker now than to be Julius Caesar, or King Croesus in their time. There is no amount of money you could give me to live in the year 1700 even. (It's far larger than the other privileges.)<br><br> When people (or <a href="{{g}}">I myself</a>) complain about the tedium or inauthenticity of white-collar jobs, I retort, “But think of how painful and miserable and cold and hungry and scared and ignorant our ancestors were! Your problems are small on the long view, and in such a rich society <a href="{{gwern}}">there is an alternative</a>". (Gwern's calculation is not prudential: it is a tool to force you to realise your freedom and your luck.) <br><br>
 
 
@@ -69,10 +57,10 @@ When deciding whether a situation is good or bad, you can compare up (to a super
 <br><br>
 
 
-* I think some part of politics reduces to this. When questions of UK social justice come up, my first thoughts are things like, “Yeah, but the British minimum wage is in <a href="http://www.givingwhatwecan.org/get-involved/how-rich-am-i">the top 15% of global incomes</a>”. I compare down to the global working class.<br><br> This is true and important, but for some purposes <a href="#fn:2" id="fnref:2">2</a> it is also stupid, since on the sad margin of nationalist politics, giant public transfers to <a href="{{give}}">GiveDirectly</a> are not on the table. Unless they are, it is true but does not <i>help</i> to paint the locally poor as globally rich. (Maybe some people are <a href="{{ineff}}">inefficiently rich</a> on <i>any</i> reading.)<br><br> However, we have to remember that the converse – comparing up, to a better arrangement – often means making a comparison with something that doesn’t exist, never has, and may not be able to. <br><br>
+* I think some part of politics reduces to this. When questions of UK social justice come up, my first thoughts are things like, “Yeah, but the British minimum wage is in <a href="http://www.givingwhatwecan.org/get-involved/how-rich-am-i">the top 15% of global incomes</a>”. I compare down to the global working class.<br><br> This is true and important, but for some purposes <a href="#fn:2" id="fnref:2">2</a> it is also stupid, since on the sad margin of nationalist politics, giant public transfers to <a href="{{give}}">GiveDirectly</a> are not on the table. Unless they are, it is true but does not <i>help</i> to paint the locally poor as globally rich. (Maybe some people are <a href="{{ineff}}">inefficiently rich</a> on <i>any</i> reading.)<br><br> However, we have to remember that the converse – comparing up, to a better arrangement – often means making a comparison with something that doesn’t exist, never has, and may not be able to. <br><br><br>
 
 
-When it's important to improve, you want to compare up. When it's more important to feel good, or to just _get on with it_, you want to compare down. I try to do plenty of both. e.g. "Relative to the human average I've done a lot and know a lot." Comparing up is more natural to me, so I make an effort to recall my achievements and the base rates.
+When it's important to improve, you want to compare up. When it's more important to feel good, or to just _get on with it_, you want to compare down. I try to do plenty of both. "<i>Relative to the human average I've done a lot and know a lot.</i>" and "<i>On the grand scale of things, I haven't done very much yet.</i>" Comparing up is more natural to me, so I make an effort to recall my achievements and the base rates.
 
 Saying “what I have is good” might reduce your drive to improve the situation. Are the two package deals 1) gratitude &amp; de facto conservatism, or 2) aggro, envy, &amp; progress? Yes, maybe, but we can always try to alternate. really fast.
 
