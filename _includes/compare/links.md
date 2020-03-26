@@ -1,0 +1,17 @@
+{%	assign grat = "https://www.tandfonline.com/doi/abs/10.1080/01973533.2017.1323638?scroll=top&needAccess=true&journalCode=hbas20"		%}
+{%	assign gump = "https://en.wikipedia.org/wiki/Gumption_trap"		%}
+{%	assign mind = "https://en.wikipedia.org/wiki/Mindset"		%}
+{%	assign wage = "http://www.bbc.co.uk/news/business-25977678"		%}
+{%	assign ineff = "https://en.wikipedia.org/wiki/Distributive_efficiency"		%}
+{%	assign give = "http://www.givewell.org/international/top-charities/give-directly"		%}
+{%	assign g = "https://www.gleech.org/corp"		%}
+{%	assign gwern = "http://www.gwern.net/On%20Stress"		%}
+{%	assign tabb = "https://marginalrevolution.com/marginalrevolution/2020/02/who-is-wealthy.html"		%}
+{%	assign rel = "https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/396/brussel.Perception.pdf"		%}
+{%	assign an = "https://en.wikipedia.org/wiki/Anchoring#Causes"		%}
+{%	assign log = "https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2013.00636.x"	%}
+{%	assign ideal = "https://www.sciencedirect.com/science/article/abs/pii/S0950329389800059"		%}
+{%	assign imp = "https://www.gleech.org/importance/"		%}
+{%	assign milan = "http://glineq.blogspot.com/2020/02/historical-wealth-how-to-compare.html"		%}
+{%	assign singer = "https://ocw.mit.edu/courses/linguistics-and-philosophy/24-231-ethics-fall-2009/lecture-notes/MIT24_231F09_lec21.pdf"		%}
+{%	assign lottery = "https://slatestarcodex.com/2013/06/30/the-lottery-of-fascinations/"		%}
