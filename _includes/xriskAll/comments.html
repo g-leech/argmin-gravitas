@@ -11,36 +11,37 @@
 	  {% for comment in comments %}
 	    <br>
 	    <b>{{ comment[1].name }}</b> commented on <em>{{ comment[1].date | date: "%d %B %Y" }}</em> :
-	    <p><blockquote>{{ comment[1].message | markdownify }}</blockquote>
+	    <p><blockquote>{{ comment[1].message | markdownify }}</blockquote></p>
 	    <hr>
 	  {% endfor %}
-	  <p>
+	  
 	{% endif %}
 
 	    <br>
 	    <b>Luke</b> commented on 17 February 2020 :
 	    <p><blockquote>   Worth noting that upholding society (law, health, etc) could be considered x risk reduction. Or, put another way: we are blocking most paths to society collapse, species extinction. The remaining risks are then naturally given fewer resources, otherwise they wouldn't be in the x risk category. 
-	    </blockquote>
+	    </blockquote></p>
 	    <hr>
-
+	    <br>
 
 
 	<div style="padding:20px; padding-bottom: 80px; text-align: center;">
-
-	<big>Post a comment (with Markdown):</big><br><br>
-
-		<form method="POST" action="{{site.comments_integration_url}}" >
-		  	<input name="options[redirect]" type="hidden" value="http://gleech.org">
-			
-		  	<input name="options[slug]" type="hidden" value="{{ slug }}">
-			<input name="fields[name]" type="text" placeholder="your name">
-			<input name="fields[email]" type="email" placeholder="at@at.com"><br><br>
-			<textarea name="fields[message]" placeholder="
-
-			Comments appear after moderation btw." style="height:150px;width:70%;"></textarea><br>
-
-			<button id="sub" type="submit">Post</button><br>
-			<input type="checkbox" id="guardBox" name="guard" value="enableSubmit">Enable submit button<br>
+		<big>Post a comment:</big><br><br>
+		<form name="comment"  action='{{page.baselink}}' netlify>
+		  <p>
+		    <label>Name <input type="text" name="name" /></label>
+		  </p>
+		  <p>
+		    <label>Email <input type="email" name="email" /></label>
+		  </p>
+		  <p>
+		  <label>
+		  	<textarea name="message" cols="30" rows="6" placeholder="appears after moderation"></textarea>
+		  </label>
+		  </p>
+		  <p>
+		    <button type="submit">Send</button>
+		  </p>
 		</form>
 	</div>
 
@@ -48,16 +49,4 @@
 </div><br>
 
 
-<!-- Too much spam; let's see if this works -->
-<script>
-	const submit = document.getElementById("sub")
-	submit.disabled = true;
 
-	const checkbox = document.getElementById('guardBox')
-
-	checkbox.addEventListener('change', (event) => {
-	  if (event.target.checked) {
-	    submit.disabled = false;
-	  } 
-	})
-</script>
