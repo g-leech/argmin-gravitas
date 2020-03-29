@@ -127,7 +127,6 @@ Let's use the word '_overknowing_' for being confident enough to do something pr
 	</div>
 </div>
 
-
 {%  include consent/comments.html %}
 
 <br> <br>

@@ -8,9 +8,9 @@ author:     Gavin
 img:        /img/
 
 visible:    1
-published:  true
+published:  false
 
-summary:    Fixed time costs of being alive and average.
+summary:    Time costs of being alive and average.
 confidence: 70%
 importance: 5
 wordcount:  900

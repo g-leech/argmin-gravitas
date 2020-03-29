@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "Interactive Artificial Intelligence CDT"
+baselink:   /phd
+permalink:  /phd
+date:       2020-08-24
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+
+summary:    
+confidence: 
+importance: 
+wordcount:  
+warnings:	I am still in this programme and so I have incentives to seem agreeable.
+---
+
+

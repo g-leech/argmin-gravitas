@@ -15,7 +15,7 @@ confidence: 90%
 importance: 6
 wordcount:      
 categories: review, epistemology, replication
-warnings: 	apocalyticism, antinatalism
+warnings: 	unwarranted apocalypticism, antinatalism
 ---
 
 {%	assign hogans = "https://en.wikipedia.org/wiki/Krista_and_Tatiana_Hogan"		%}
@@ -103,5 +103,6 @@ I'm probably only so down on him because I got so excited by <i>Blindsight</i> a
 		In this case, I am probably about as trustworthy as Watts. Though I am only half a scientist.
 	</div>
 </div>
+{%	include comments.html	%}
 
 <br><br>

@@ -144,6 +144,7 @@ So it looks like there's a strong apriori case to prioritise x-risk, for anyone 
 
 <br><br>
 
+
 <div class="accordion">
 	<h3>Fates other than death</h3>
 	<div>
@@ -162,11 +163,11 @@ So it looks like there's a strong apriori case to prioritise x-risk, for anyone 
     <li class="footnote" id="fn:1">
 		For example, <a href="https://archive.org/stream/TwilightOfTheIdolsOrHowToPhilosophizeWithAHammer/TwilightIdols_djvu.txt">Nietzsche said</a> '<i>Without music, life would be a mistake.</i>'
 	</li>
-
+<!--  -->
 	<li class="footnote" id="fn:2">
 		<a href="https://en.wikipedia.org/wiki/Stendhal_syndrome">Steady now</a>!
 	</li>
-
+<!--  -->
 	<li class="footnote" id="fn:3">
 		I <a href="https://en.wikipedia.org/wiki/Cryptomnesia">think</a> I got this argument from Nick Bostrom but I can't find a reference.
 	</li>
