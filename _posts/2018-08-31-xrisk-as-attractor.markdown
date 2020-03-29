@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Existential risk as common cause"
-baselink:   /x
+baselink:   /x-for-all
 permalink:  /x-for-all
 date:       2018-10-17
 author:     Gavin
@@ -153,6 +153,7 @@ So it looks like there's a strong apriori case to prioritise x-risk, for anyone 
 	</div>
 </div>
 {%  include xriskAll/comments.html %}
+
 
 
 

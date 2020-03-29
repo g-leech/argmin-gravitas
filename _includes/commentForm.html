@@ -1,0 +1,41 @@
+{%  assign slug = page.title | slugify %}
+
+
+<div class="accordion">
+  <h3>Comments</h3>
+  <div>
+
+
+  {% if site.data.comments[slug] %}
+    {% assign comments = site.data.comments[slug] | sort %}
+
+    {% for comment in comments %}
+      <br>
+      <b>{{ comment[1].name }}</b> commented on <em>{{ comment[1].date | date: "%d %B %Y" }}</em> :
+      <p><blockquote>{{ comment[1].message | markdownify }}</blockquote></p>
+      <hr>
+    {% endfor %}
+  {% endif %}
+
+  <div style="padding:20px; padding-bottom: 80px; text-align: center;">
+  <big>Post a comment:</big><br><br>
+
+    <form name="comment" netlify>
+      <p>
+        <label>Name <input type="text" name="name" /></label>
+      </p>
+      <p>
+        <label>Email <input type="email" name="email" /></label>
+      </p>
+      <p>
+      <label><textarea name="message" cols="30" rows="6"></textarea></label>
+      </p>
+      <p>
+        <button type="submit">Send</button>
+      </p>
+    </form>
+
+  </div>
+  
+  </div>
+</div>
