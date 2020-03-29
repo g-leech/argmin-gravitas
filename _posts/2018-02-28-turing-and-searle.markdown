@@ -101,55 +101,57 @@ Despite Turing's inspiring attempt to sideline it, the metaphysics of mind is a 
 <br><br>
 
 <div class="accordion">
-
-<h3>Disclaimer</h3>
-<div>
-	These days I wouldn't use infallibilism as the baseball bat I did just there ("<i>Searle isn't certain so Searle doesn't know</i>."); I'd go for probabilism instead. That is, I think I now deny my premise (4).
-	<br><br>
-	And I'd say more about Searle's odd dichotomy between representational machines who are 'pure' syntax vs those which are fully semantic. But I've mostly left it as it was because I enjoy it.<br><br>
-</div>
-
-<h3>Chomskyan Descartes </h3>
-<div>
-	I can't miss the opportunity to pass on a Good Fact: the Turing Test <a href="{{discourse}}">was suggested</a> 300 years earlier by Rene Descartes!<br><br>
 <!--  -->
-	<blockquote>
-		If there were machines which bore a resemblance to our bodies and imitated our actions as closely as possible for all practical purposes, we should still have two very certain means of recognizing that they were not real men. <br><br>The first is that they could never use words, or put together signs, as we do in order to declare our thoughts to others. For we can certainly conceive of a machine so constructed that it utters words, and even utters words that correspond to bodily actions causing a change in its organs. … But it is not conceivable that such a machine should produce different arrangements of words so as to give an appropriately meaningful answer to whatever is said in its presence, as the dullest of men can do.<br><br> Secondly, even though some machines might do some things as well as we do them, or perhaps even better, they would inevitably fail in others, which would reveal that they are acting not from understanding, but only from the disposition of their organs. For whereas reason is a universal instrument, which can be used in all kinds of situations, these organs need some particular action; hence it is for all practical purposes impossible for a machine to have enough different organs to make it act in all the contingencies of life in the way in which our reason makes us act.
-	</blockquote><br><br>
+	<h3>Disclaimer</h3>
+	<div>
+		This was my first original philosophical argument. (The original version of it was much less clear though.)
+		<br><br>
+		These days I wouldn't use infallibilism as the baseball bat I did just there ("<i>Searle isn't certain so Searle doesn't know</i>."); I'd go for probabilism instead. That is, I think I now deny my premise (4).
+		<br><br>
+		And I'd say more about Searle's odd dichotomy between representational machines who are 'pure' syntax vs those which are fully semantic. But I've mostly left it as it was because I enjoy it.<br><br>
+	</div>
 <!--  -->
-	That Descartes could not conceive of any such machine, while Turing could, is an important lesson in philosophical method and embodiment:<br><br>
+	<h3>Chomskyan Descartes </h3>
+	<div>
+		I can't miss the opportunity to pass on a Good Fact: the Turing Test <a href="{{discourse}}">was suggested</a> 300 years earlier by Rene Descartes!<br><br>
+	<!--  -->
+		<blockquote>
+			If there were machines which bore a resemblance to our bodies and imitated our actions as closely as possible for all practical purposes, we should still have two very certain means of recognizing that they were not real men. <br><br>The first is that they could never use words, or put together signs, as we do in order to declare our thoughts to others. For we can certainly conceive of a machine so constructed that it utters words, and even utters words that correspond to bodily actions causing a change in its organs. … But it is not conceivable that such a machine should produce different arrangements of words so as to give an appropriately meaningful answer to whatever is said in its presence, as the dullest of men can do.<br><br> Secondly, even though some machines might do some things as well as we do them, or perhaps even better, they would inevitably fail in others, which would reveal that they are acting not from understanding, but only from the disposition of their organs. For whereas reason is a universal instrument, which can be used in all kinds of situations, these organs need some particular action; hence it is for all practical purposes impossible for a machine to have enough different organs to make it act in all the contingencies of life in the way in which our reason makes us act.
+		</blockquote><br><br>
+	<!--  -->
+		That Descartes could not conceive of any such machine, while Turing could, is an important lesson in philosophical method and embodiment:<br><br>
+	<!--  -->
+		<ol>
+			<li>conceivability (by a particular person, or a particular species) is far too weak to do metaphysics with, as Descartes did. ('Philosophers' Syndrome: mistaking a failure of the imagination for an insight into necessity.' - Dennett)</li><br>
+			<li>"What you can imagine depends on what you know." It is not that Turing was necessarily the superior mind; for he had the benefit of a superior context. (Which he helped invent, but the point is recursive.)</li>
+		</ol>
+	</div>
 <!--  -->
-	<ol>
-		<li>conceivability (by a particular person, or a particular species) is far too weak to do metaphysics with, as Descartes did. ('Philosophers' Syndrome: mistaking a failure of the imagination for an insight into necessity.' - Dennett)</li><br>
-		<li>"What you can imagine depends on what you know." It is not that Turing was necessarily the superior mind; for he had the benefit of a superior context. (Which he helped invent, but the point is recursive.)</li>
-	</ol>
-</div>
-
-<h3>Bibliography</h3>
-<div>
-<ul>
-	<li>Block, Ned (1995), ‘<a href="https://www.nyu.edu/gsas/dept/philo/faculty/block/papers/msb.html">The Mind As Software of the Brain</a>’</li>
-	<br>
-	<li>Cole, David (2004); ‘<a href="http://plato.stanford.edu/entries/chinese-room/">The Chinese Room</a>’; Stanford Encyclopadia of Philosophy. </li>
-	<br>
-	<li>Hofstadter, Douglas (1981); ‘<a href="">A Coffeehouse Conversation</a>’, in D. Hofstadter & D. Dennett (eds.) The Mind's I, (London: Penguin), pp.69-92 </li>
-	<br>
-	<li>Hofstadter, Douglas (1995), Fluid Concepts & Creative Analogies (Bloomington; Basic)</li>
-	<br>
-	<li>Levin, Janet (2009); ‘<a href="">Functionalism</a>’; Stanford Encyclopaedia of Philosophy; http://plato.stanford.edu/entries/functionalism/#ThiMacTurTes </li>
-	<br>
-	<li>Nagel, Thomas (1974); ‘<a href="">What Is It Like To Be A Bat?</a>’; The Philosophical Review LXXXIII, 4; pp.435-50</li>
-	<br>
-	<li>Oppy, Graham & Dowe, David (2008); ‘<a href="http://plato.stanford.edu/entries/turing-test/">The Turing Test</a>’, Stanford Encyclopaedia of Philosophy.</li>
-	<br>
-	<li>Searle, John R (1989); ‘<a href="https://www.jstor.org/stable/2107856?seq=1#page_scan_tab_contents">Reply to Jacquette</a>’, in Philosophy and Phenomenological Research, Vol. 49, No. 4, (Providence, International Phenomenological Society), pp. 701-708</li>
-	<br>
-	<li>Turing, Alan (1950); ‘<a href="">Computing Machinery and Intelligence</a>’, Mind, Vol. LIX, No.236 (Oxford; Oxford University Press), pp.53-67</li>
-</ul>
-	
-</div>
+	<h3>Bibliography</h3>
+	<div>
+	<ul>
+		<li>Block, Ned (1995), ‘<a href="https://www.nyu.edu/gsas/dept/philo/faculty/block/papers/msb.html">The Mind As Software of the Brain</a>’</li>
+		<br>
+		<li>Cole, David (2004); ‘<a href="http://plato.stanford.edu/entries/chinese-room/">The Chinese Room</a>’; Stanford Encyclopadia of Philosophy. </li>
+		<br>
+		<li>Hofstadter, Douglas (1981); ‘<a href="">A Coffeehouse Conversation</a>’, in D. Hofstadter & D. Dennett (eds.) The Mind's I, (London: Penguin), pp.69-92 </li>
+		<br>
+		<li>Hofstadter, Douglas (1995), Fluid Concepts & Creative Analogies (Bloomington; Basic)</li>
+		<br>
+		<li>Levin, Janet (2009); ‘<a href="">Functionalism</a>’; Stanford Encyclopaedia of Philosophy; http://plato.stanford.edu/entries/functionalism/#ThiMacTurTes </li>
+		<br>
+		<li>Nagel, Thomas (1974); ‘<a href="">What Is It Like To Be A Bat?</a>’; The Philosophical Review LXXXIII, 4; pp.435-50</li>
+		<br>
+		<li>Oppy, Graham & Dowe, David (2008); ‘<a href="http://plato.stanford.edu/entries/turing-test/">The Turing Test</a>’, Stanford Encyclopaedia of Philosophy.</li>
+		<br>
+		<li>Searle, John R (1989); ‘<a href="https://www.jstor.org/stable/2107856?seq=1#page_scan_tab_contents">Reply to Jacquette</a>’, in Philosophy and Phenomenological Research, Vol. 49, No. 4, (Providence, International Phenomenological Society), pp. 701-708</li>
+		<br>
+		<li>Turing, Alan (1950); ‘<a href="">Computing Machinery and Intelligence</a>’, Mind, Vol. LIX, No.236 (Oxford; Oxford University Press), pp.53-67</li>
+	</ul>
+	</div>
 
 </div>
+{%  include comments.html %}
 
 <br>
 

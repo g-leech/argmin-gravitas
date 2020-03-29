@@ -9,7 +9,7 @@ img:        /img/smolOlduvai.png
 
 visible:    1
 
-summary:    Another research proposal - <i>What is good about cultural anthropology?</i> Plus, reading list.
+summary:    What is good about cultural anthropology? Plus reading list.
 confidence: 80% that there's a problem with the field. 60% that this is worth doing.
 warnings:   politicised epistemology, relativism
 categories: philosophy, scepticism
@@ -100,7 +100,7 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
         
 
 <div class="accordion">
-    
+<!--  -->
     <h3>Research programme</h3>
     <div>
         I'm being combative, but I am actually interested. I'm looking for answers to: <br><br>
@@ -114,22 +114,18 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
         <li>How unscientific is cultural anthropology? How can we tell?</li>
         </i></ul>
     </div>
-    
-
+<!--  -->
+<!--  -->
     <h3>e.g.: <i>What is the anthropological method?</i></h3>
     <div>I don't really know and neither of the textbooks I tried were very illuminating. Here's a preliminary attempt, after contact with some theoretical c-anthropologists:<br><br>
-
     <ul>
         <li><i>Methodological relativism</i>. The ethnographer must put aside the literal truth of a culture's beliefs and try to look at them from the inside. <a href="#fn:10" id="fnref:10">10</a> </li>
-
         <li><i>Lionisation of culture</i> as the indispensable framework for human life (they are, but they are equally oppressive, gigantic brakes on human freedom).</li>
-
         <li><i>Universalisation of culture</i>. Everything (every datum, every theory, every experience) is said to be culturally mediated if not reduced to mere cultural. Leads to e.g. scientific facts (not theories) being dismissed by reference to the experimenter's being part of a racist culture.</li>
-
         <li><i>Advocacy</i>. That you can't just _describe_ a dying way of life, you have to make moves to save it. Your research is a political act.</li></ul>
     </div>
-
-
+<!--  -->
+<!--  -->
     <h3>e.g.: <i>How unscientific is cultural anthropology?</i></h3>
     <div>Some ways we could investigate this:<br><br>
     <ul>
@@ -137,9 +133,9 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
         <li>Gather up all public responses to <a href="{{Fail}}">#AAAFail</a> and see what % were dismayed by it.</li>
         <li>Crawl JSTOR and look for signs of quantitative reason in papers (numerals, math notation).</li>
     </ul>
-
+<!--  -->
     My survey would probably just ask a Likert question for each variable in <a href="{{earlyMoSci}}">my model of early modern science</a>. For my purposes, <i>scienciness</i> is a dumb additive function of:<br><br>
-
+<!--  -->
     <ul>
         <li>Are their explanations couched only in terms of natural phenomena? </li>
         <li>Is their research based on going and looking at things?</li>  
@@ -150,10 +146,10 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
     </ul><br>
         (Obviously many self-described scientists fall short of these, for good and bad reasons. It might be sufficient to <i>try</i>.)
     </div>
-
+<!--  -->
     <h3>Reading List</h3>
     <div id="listFrame">I couldn't find a reading list for "the cultural anthropology canon". This is <i>maybe</i> because the field is against things like canons, as hierarchical and Westernising or whatnot. So <a href="https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/edit?usp=sharing">I made my own</a>, of the most apparently notable books in the non-scientific strand: <br><br>
-    
+<!--  -->
         {%  include js/lazyFrame.html %}
         <script>  
             var src = "https://docs.google.com/spreadsheets/d/1EuFXFPpzRCG9Vjsb8zYPMmAPAnqM2bd_U0xfmD9Ctig/pubhtml?chrome=false"; 

@@ -17,7 +17,10 @@ warnings: 	biological determinants of mental health
 wordcount:  1500
 categories: review, philosophy
 ---
-  
+
+{%	assign mac = "https://sandymaguire.me/blog/no-coffee/"	%}
+{%  assign factory = "https://www.lesswrong.com/posts/8rdoea3g6QGhWQtmx/existential-angst-factory"		%}
+
 <center>
 	<img src="/img/start.jpg" width="30%" /><br><br>
 </center>
@@ -104,9 +107,7 @@ I've been doing a derivative of this program since October last year: no trainer
 <center> ― Nietzsche </center><br>
 
 
-* As above: The body helps determine the mind. You should be wary of your own philosophy, not just because of your local social conditioning, but also because of your diet, your habits, your daily kindness, and your bench. The lifter is Sisyphus, happy.<br><br>
-
-{%  assign factory = "https://www.lesswrong.com/posts/8rdoea3g6QGhWQtmx/existential-angst-factory"		%}
+* As above: The body helps determine the mind. You should be wary of your own philosophy, not just because of your local social conditioning, but also because of <a href="{{mac}}">your diet</a>, your habits, your daily kindness, and your bench. The lifter is Sisyphus, happy.<br><br>
 
 * Weights are a strong psychological intervention, perhaps the third-strongest I have found, after love and higher purpose. It's comical, how much of my deep teenage unhappiness, and sincere existentialism, was grounded in concrete fixable problems, and how little I understood that they were both fixable and not in fact intellectually grounded. Not knowing how to talk to girls, not exercising, not actively helping people: <a href="{{factory}}">these produced my philosophy</a>. Now _that's_ absurdism! <br><br>
 
@@ -152,5 +153,6 @@ I've been doing a derivative of this program since October last year: no trainer
 		I've followed <a href="https://stronglifts.com/" rel="nofollow">Rippetoe's programme</a> inconsistently for 4 months and still got good returns - worth it for mental health alone. I know sophomore biology and physics, and nothing he says here contradicts any of it.
 	</div>
 </div>
+{%	include comments.html	%}
 
 <br><br><br>

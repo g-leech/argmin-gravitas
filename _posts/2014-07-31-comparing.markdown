@@ -174,15 +174,14 @@ Saying “what I have is good” might reduce your drive to improve the situatio
 
 <br><br><br>
 
-
+{%	include comments.html	%}
 
 <div class="footnotes">
-
-<ol>
-<!--  -->
-    <li class="footnote" id="fn:2">
-		Anything except an ideal, universalist state or <a href="http://www.effective-altruism.com/">other gathering</a>.
-    </li>
-</ol>
+	<ol>
+	<!--  -->
+	    <li class="footnote" id="fn:2">
+			Anything except an ideal, universalist state or <a href="http://www.effective-altruism.com/">other gathering</a>.
+	    </li>
+	</ol>
 </div>
 

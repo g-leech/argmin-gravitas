@@ -74,3 +74,6 @@ Well, as I've conceded, each of them has some intrinsic appeal. But that aside: 
 Each of the above sustain an identity in their host. And once a practice gets into your identity, it can extract a huge amount from you, without you ever thinking to complain. It may seem far-fetched that someone could identify with their consumption of journalism, but behold the Extremely Online, the politics wonks, the amateur pundits on a million radio call-ins, all over the earth. 
 
 <br><br><br>
+
+
+{%	include comments.html	%}

@@ -137,7 +137,7 @@ An amazing book, anyway: charged, critical, structurally ingenious, and filled w
 		In this case: I have a philosophy degree and have read millions of words about demanding ethics and the quantitative approach to do-gooding. I've met a couple of the protagonists and find Macfarquhar's depictions very accurate.
 	</div>
 </div>
-
+{%  include comments.html %}
 
 
 <div class="footnotes">

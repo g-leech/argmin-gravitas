@@ -122,6 +122,10 @@ Similarly, you don't benefit from doing game theory on an unpredictable opponent
 
 <br><br>
 
+{%	include comments.html	%}
+
+<br><br>
+
 _Thanks to Misha Yagudin for the anthropics point._
 
 <div class="footnotes">

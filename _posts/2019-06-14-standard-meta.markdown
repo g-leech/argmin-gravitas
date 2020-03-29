@@ -16,9 +16,9 @@ importance: 2
 wordcount:      
 ---
 
-The duration and depth of disagreement among philosophers - 2000 years, on pretty much everything - is funny. Why are we surprised by the failure?
+The duration and depth of disagreement among philosophers - 2000 years, on many, many things - is funny. Why are we surprised by this failure?
 
-I think we care because a particular metaphilosophy is frustrated by persistent disagreement. Call the following set of claims the _Tacit Analytic Metaphilosophy_:
+I think we care because a particular background metaphilosophy is frustrated by persistent disagreement. Call the following the _Tacit Analytic Metaphilosophy_:
 
 conceptual realism: concepts have one true definition.
 

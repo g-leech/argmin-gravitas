@@ -106,7 +106,7 @@ I foolishly wrote off anthropology and sociology in 2013-2017, and was lucky to 
 		<center>  - DH Lawrence  </center>
 	</div>
 </div>
-
+{%	include comments.html	%}
 
 
 
