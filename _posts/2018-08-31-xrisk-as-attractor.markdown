@@ -142,8 +142,16 @@ So it looks like there's a strong apriori case to prioritise x-risk, for anyone 
 * <a href="{{suspic}}">Convergence is often suspicious</a>, when humans are persuading themselves or others.
 
 
-<br><br><br>
+<br><br>
 
+<div class="accordion">
+	<h3>Fates other than death</h3>
+	<div>
+		The above talks only about extinction risk, and omits the other two kinds of existential catastrophe: "unrecoverable collapse" (e.g. humans surviving in the traditional subsistence manner, but losing all knowledge and exhausting all easily harnessable energy sources) and "unrecoverable dystopia" (e.g. technologically complete global fascism).<br><br>
+<!--  -->
+		These have their own wrinkles, but the general point remains: most values are ruined by them.
+	</div>
+</div>
 {%  include xriskAll/comments.html %}
 
 
