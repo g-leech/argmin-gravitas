@@ -18,24 +18,26 @@
 </div><br>
 
 
-* Questionable evidence for the <span class="b">Dunning-Kruger effect</span>. But there are two claims that use this name:<br> 
-	1) that poor performers (the bottom quartile) overestimate their performance more than good performers. Some support;<br>
-	2) that there's a <a href="{{mtstupid}}">u-shaped relationship</a> between perceived and actual ability (internet nonsense).<br>
+* Questionable evidence for the <span class="b">Dunning-Kruger effect</span>. There are three claims involved:<br><br> 
+	1) the original: that poor performers (e.g. the bottom quartile) overestimate their performance more than good performers do;<br>
+	2) that people <a href="{{sup}}">in general</a> overestimate their own ability;<br>
+	3) the meme: that there's a <a href="{{mtstupid}}">u-shaped relationship</a> between perceived and actual ability.<br>
 
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
 		<ul>
-			<li><span class="b">Original paper</span>: '<a href="{{dk}}">Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments.</a>', Dunning & Kruger 1999, n=334. This contains claim (1) but no hint of (2).
+			<li><span class="b">Original paper</span>: '<a href="{{dk}}">Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments.</a>', Dunning & Kruger 1999, n=334. This contains claim (1) and (2) but no hint of (3).
 				<br>(&#126;5660 citations).</li><br>
-			<li><span class="b">Critiques</span>: <a href="{{luu}}">Luu 2015</a>, <a href="{{greenberg}}">Greenberg 2018</a>
+			<li><span class="b">Critiques</span>: <a href="{{nuh16}}">Nuhfer 2016</a> and <a href="{{nuh}}">Nuhfer 2017</a>, n=1154;
+				<a href="{{luu}}">Luu 2015</a>; <a href="{{greenberg}}">Greenberg 2018</a>, n=
 				<br>
-			(total citations: &#126;)</li><br>
-			<li><span class="b">Original effect size</span>: 2 of the 4 experiments showed a positive &#126;linear relationship; 2 showed basically no relationship. The original paper concedes that there's a purely statistical, nonpsychological explanation for the effect they found: just that averages.
+			(total citations: &#126;20)</li><br>
+			<li><span class="b">Original effect size</span>: 2 of the 4 experiments showed a positive &#126;linear relationship between score and perceived ability; 2 showed no strong relationship. The original paper concedes that there's a <a href="{{dkmath}}">purely statistical</a> explanation for the effect they found: just that it is much easier to overestimate a low number! And if I am a perfect performer, I am <i>unable</i> to overestimate myself. D&K just think there's something left when you subtract this.
 			</li><br>
-			<li><span class="b">Replication effect size</span>: d = . (NB: not testing the construct the same way.)</li><br>
+			<li><span class="b">Replication effect size</span>: 3 of the 4 original studies can be explained by noisy tests, bounded scales, and artefacts in the plotting procedure. Only about 5% of people were very overconfident (more than 30% off) in the Nuhfer data. Some suggestion that, if claim (2) is a big effect, it's a <a href="{{weird}}">WEIRD</a> effect only.</li><br>
 		</ul>
-		<br><br><br><br>
+		<br>
 	</div>
 </div><br>
 

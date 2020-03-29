@@ -211,3 +211,9 @@
 {%	assign luu = "https://danluu.com/dunning-kruger"		%}
 {%	assign greenberg = "https://www.facebook.com/spencer.greenberg/posts/10104093568422862"		%}
 {%	assign mtstupid = "https://www.google.com/search?q=mount+stupid+dunning&source=lnms&tbm=isch&sa=X&ved=2ahUKEwia5taF8LLoAhUdURUIHTtZC3EQ_AUoAXoECAwQAw&biw=1280&bih=654"		%}
+{%	assign weird = "https://www.apa.org/monitor/2010/05/weird"		%}
+{%	assign dk = "https://sci-hub.tw/10.1037/0022-3514.77.6.1121"	%}
+{%	assign dkmath = "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect#Mathematical_critique"		%}
+{%	assign sup = "https://en.wikipedia.org/wiki/Illusory_superiority"		%}
+{%	assign nuh = "https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1215&context=numeracy"		%}
+{%	assign nuh16 = "https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1188&context=numeracy"		%}
