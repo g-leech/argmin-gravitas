@@ -146,7 +146,7 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 <center>– <a href="{{meehl}}">Paul Meehl</a> (1990)</center>
 <br><br>
 
-What now? When the next big flashy paper out of a world-class university arrives, will we swallow it?
+What now? When the next flashy <a href="{{weird}}">WEIRD</a> paper out of a world-class university arrives, will we swallow it?
 
 <a href="{{gel2}}">Andrew Gelman and others</a> suggest deflating _all_ single-study effect sizes you encounter in the social sciences, without waiting for the subsequent shrinkage from publication bias, measurement error, data-analytic degrees of freedom, and so on. There is no uniform factor, but it seems sensible to divide novel effect sizes by a number between 2 and 100 (depending on its sample size, method, measurement noise, _maybe_ its p-value if it's really tiny)...
 
