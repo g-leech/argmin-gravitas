@@ -1,3 +1,4 @@
+{%	assign ritchiee = "https://unherd.com/2020/03/dont-trust-the-psychologists-on-coronavirus/"		%}
 {%	assign med = "https://en.wikipedia.org/wiki/Medical_reversal"	%}
 {%	assign ey = "https://retractionwatch.com/wp-content/uploads/2019/10/HE-Enquiry.pdf"	%}
 {%	assign pinto = "https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(17)30190-0"	%}
