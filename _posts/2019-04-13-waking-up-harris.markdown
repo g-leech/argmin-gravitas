@@ -136,7 +136,7 @@ While I don't have a very clear philosophy of mind, I know I'm not a direct real
 
 ## Does this stuff work?
 
-Maybe. For the most important part, mental health, there is a consensus amongst positive and clinical psychologists in favour, d=0.3 or so - but <a href="/psych">unfortunately</a> this means less than it should. It <a href="https://www.ncbi.nlm.nih.gov/pubmed/25818837">probably works</a>on average for stress reduction - at least as much as taking a nap does, or valium, or sitting still and breathing deeply for a while. On the other end, it is definitely not the source of <a href="https://en.wikipedia.org/wiki/Kundalini_energy">brain-juice-drinking power</a>. Somewhere between these two limits we drift, deciding whether to spend time on it.
+Maybe. For the most important part, mental health, there is a consensus amongst positive and clinical psychologists in favour, d=0.3 or so - but <a href="/psych">unfortunately</a> this <a href="{{halstead}}">means less</a> than it should. It <a href="https://www.ncbi.nlm.nih.gov/pubmed/25818837">probably works</a>on average for stress reduction - at least as much as taking a nap does, or valium, or sitting still and breathing deeply for a while. On the other end, it is definitely not the source of <a href="https://en.wikipedia.org/wiki/Kundalini_energy">brain-juice-drinking power</a>. Somewhere between these two limits we drift, deciding whether to spend time on it.
 
 (Note also that there are <a href="{{harm}}">likely to be types of people</a> who are harmed by contemplation and self-negation.)<br>
 
