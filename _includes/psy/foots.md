@@ -1,7 +1,7 @@
 <div class="footnotes">
 <ol>
 	<li class="footnote" id="fn:1">
-		A counterexample from the COVID-19 pandemic: the UK's March 2020 policy was based on the idea of <a href="{{fatigue}}">behavioural fatigue</a> and <a href="{{lib}}">Western resentment of restrictions</a>; that a costly prohibition would only last a few weeks before the population revolt against it, and so it had to be delayed until the epidemic's peak.<br><br> Now, this policy was so politically toxic that we know it had to be based on some domain reasoning, and it is in a way heartening that the government tried to go beyond socially naive epidemiology. But it was <a href="{{letter}}">strongly criticised</a> by hundreds of other behavioural scientists, who noted that the evidence for these ideas was too weak to base policy on.<br><br>
+		A counterexample from the COVID-19 pandemic: the UK's March 2020 policy was based on the idea of <a href="{{fatigue}}">behavioural fatigue</a> and <a href="{{lib}}">Western resentment of restrictions</a>; that a costly prohibition would only last a few weeks before the population revolt against it, and so it had to be delayed until the epidemic's peak.<br><br> Now, this policy was so politically toxic that we know it had to be based on some domain reasoning, and it is in a way heartening that the government tried to go beyond socially naive epidemiology. But it was <a href="{{letter}}">strongly criticised</a> by hundreds of other behavioural scientists, who noted that the evidence for these ideas was too weak to base policy on. <a href="{{ritchiee}}">Here's</a> a catalogue of bad psychological takes.<br><br>
 	</li>
 <!--  -->
 	<li class="footnote" id="fn:2">

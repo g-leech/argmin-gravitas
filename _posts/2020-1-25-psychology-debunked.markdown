@@ -24,7 +24,7 @@ wordcount:  3500
 <!-- <center> – <a href="{{gwern}}">Gwern Branwen</a></center> -->
 <!-- <br> -->
 
-A <a href="{{med}}">medical reversal</a> is when an existing treatment is found to actually be useless or harmful. Psychology has in recent years been racking up reversals: in fact only <a href="{{many}}">40-65%</a> of its classic social results were replicated, in the weakest sense of finding 'significant' results in the same direction. (Even in those that replicated, the average effect found was <a href="{{halv}}">half</a> the originally reported effect.) Such errors are obviously far less costly to society than medical errors, but it's still pollution, so here's the cleanup. <a href="#fn:1" id="fnref:1">1</a><br>
+A <a href="{{med}}">medical reversal</a> is when an existing treatment is found to actually be useless or harmful. Psychology has in recent years been racking up reversals: in fact only <a href="{{many}}">40-65%</a> of its classic social results were replicated, in the weakest sense of finding 'significant' results in the same direction. (Even in those that replicated, the average effect found was <a href="{{halv}}">half</a> the originally reported effect.) Such errors are far less costly to society than medical errors, but it's still pollution, so here's the cleanup. <a href="#fn:1" id="fnref:1">1</a><br>
 
 Psychology is not alone: <a href="{{ioan}}">medicine</a>, <a href="{{canc}}">cancer biology</a>, and <a href="{{ec}}">economics</a> all have many irreplicable results. It'd be wrong to write off psychology: we know about most of the problems here because of psychologists, and its subfields differ a lot by replication rate and effect-size shrinkage.<br>
 
