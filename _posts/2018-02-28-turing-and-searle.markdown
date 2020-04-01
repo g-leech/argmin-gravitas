@@ -3,7 +3,7 @@ layout:     post
 title:      "Neither Turing, neither Searle"
 baselink:   /turing-test
 permalink:  /turing-test
-date:       2012-03-01  <!--2009-03-01 -->
+date:       2009-03-01
 author:     Gavin
 
 img:        /img/searle.jpg
