@@ -7,3 +7,4 @@
 {% 	assign psych = "https://www.gresham.ac.uk/lecture/transcript/download/psychologising-and-neurologising-about-religion-facts-fallacies-and-the-future"		%}
 
 {% 	assign maha = "https://www.accesstoinsight.org/tipitaka/dn/dn.22.0.than.html"		%}
+{% 	assign halstead = "https://forum.effectivealtruism.org/posts/eryaF6RPtepDs9KdP/is-mindfulness-good-for-you"		%}
