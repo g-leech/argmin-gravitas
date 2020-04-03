@@ -1,0 +1,111 @@
+---
+layout:     post
+title:      "'Homicide' (1991) by Simon"
+baselink:   /homicide
+permalink:  /homicide
+date:       2018-12-12
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  true
+
+summary:    The horror of bureaucracy, Goodhart's law, and other human depravity.
+confidence: 80%
+importance: 5
+wordcount:  1000
+---
+
+{%	assign hacker = "https://news.ycombinator.com/item?id=17521127&fbclid=IwAR1uFwE3NzWZMLp4v6VyJSuaXt9A5znB27peiHbndeg0k4ojVVVdHqUvEBg"	%}
+
+<center>
+	<img src="/img/simon.jpg" /><br><br>
+</center>
+
+A character study of twenty vengeful people and the awful indispensable institution they serve and constitute. The detectives are intelligent and hilarious, but have to navigate two extreme and depressing environments: the streets and City Hall, violence and politics.
+
+Simon was embedded with them, and completely effaces himself, makes this novelistic. We get a glorious outsider view, see things even the detectives don't:
+
+> [The detective] glides past the lockup without looking inside, and so doesn't see the final, unmistakable expression on Robert Frazier's face. Pure murderous hate.
+
+He gives a complete chapter to most of the detectives, tracking them through a couple of sordid weeks. They are all distinctive, sharp in different ways, but the approach means it stretches on to 700 pages.
+
+<br>
+
+<hr>
+
+<br>
+
+## Blood incentives
+
+The most remarkable thing about it is its informal analysis of the _incredibly_ poor incentives the bureaucracy gives the detectives: they're rewarded for arrests, not convictions, and individually penalised for open homicides. I don't want to think about what this did to their false arrest rate.
+
+> A case in which the pathologist's finding is being pended is not, to the police department, a murder. And if it isn't a murder, it doesn't go up on the board. And if it isn't up on the board, it doesn't really exist.
+
+No weight was given to the difficulty of the case - whether witnesses remained at the scene, whether physical evidence existed, whether the weapon was found. All this killed inter-squad cooperation, and led to infighting over dumb luck of the draw.
+
+> In human terms, the scene at 3002 McElderry Street was a massacre; in the statistical terms of urban homicide work, it was the stuff from which a detective fashions dreams.
+
+(No other crime counted in the stats, despite Homicide also covering accidental deaths and suicides. So this was an incentive to frame things as e.g. suicide if _at all_ possible.)
+
+> the chance of actually being convicted of a crime after being identified by authorities is about 60 percent. And if you factor in those unsolved homicides, the chance of being caught and convicted for taking a life in Baltimore is just over 40 percent [in 1988].
+
+You might conclude - falsely - that internal stats are worse than nothing - but only stats as bad as these are. A classic of informal institutional economics.
+
+The nationwide murder 'clearance rate' (arrest rate) was 70%. Amazing that it was this high, in that comparatively low-surveillance, low-social-trust place.
+
+> The [squad's] clearance rate - murders closed by arrest - is now 36 percent and falling, a... threat to [Lieutenant] Gary D’Addario’s tenure. The board that gave His Eminence reason for concern six weeks ago has continued to fill with open murders, and it is on D’Addario’s side of the wall that the names are writ in red. Of the twenty-five homicides handled by Dee’s three squads, only five are down; whereas Stanton’s shift has cleared ten of sixteen...
+
+> There is no point in explaining that three fifths of D’Addario’s homicides happen to be drug-related, just as seven of those solved by Stanton’s shift are domestics or other arguments... It is the unrepentant worship of statistics that forms the true orthodoxy of any modern police department.
+
+
+More incentive analysis, on police shootings and the shameful closing of ranks:
+
+> In the United States, only a cop has the right to kill as an act of personal deliberation and action. To that end, Scotty McCown and three thousand other men and women were sent out on the streets of Baltimore with .38-caliber Smith&Wessons, for which they received several weeks of academy firearms training augmented by one trip to the police firing range every year. Coupled with an individual officer’s judgement, that is deemed expertise enough to make the right decision every time.
+
+> It is a lie. It is a lie the police department tolerates because to do otherwise would shatter the myth of infallibility on which rests its authority for lethal force. And it is a lie that the public demands, because to do otherwise would expose a terrifying ambiguity. The false certainty, the myth of perfection, on which our culture feeds…
+
+<br>
+
+<hr>
+
+<br>
+
+There's so much careful and sympathetic detail about the job (and no deep portrait of any suspects), that Simon risks partisanship - writing "copaganda", as internet radicals call it. Anyone who's seen _The Wire_ knows this isn't a problem. (He has solidarity with the rank and file, and contempt for the suits.)
+
+> for the black, inner-city neighborhoods of Baltimore, the city's finest were for generations merely another plague to endure: poverty, ignorance, despair, police.
+
+Speaking of which: This is not at all made redundant by _The Wire_ - the show has an entire pathos-pathetic angle (the anti-authority cop) missing here, and this is more focussed on the law side.
+
+<br>
+
+<hr>
+
+<br>
+
+Their humour is fantastically sick.
+> the application of criteria such as comfort and amusement to the autopsy room is ample proof of a homicide man's peculiar and sustaining psychology. But for the detectives, the most appalling visions have always demanded the greatest detachment...
+
+<a href="{{hacker}}">Someone on Hacker News</a> was up on their high horse about the black humour of medics recently. This strikes me as perfectly backwards. I would much prefer a doctor (or a detective) with a nasty sense of humour: it suggests emotional detachment, so they're more likely to think clearly; and it certainly has a cathartic and bonding role, improving their health and teamwork. This idiotically literal, first-order model of psychology (as if people were so easy to program!) is everywhere, for instance all discourse about fake news, porn, and violent computer games.
+
+The section about the idiocy and arbitrariness of juries is sickening and I recommend that you don't read it if you want to continue thinking well of your society.
+
+> The operant logic of a Baltimore city jury is as fantastical a process as any other of our universe’s mysteries. This one is innocent because he seemed so polite and well spoken on the stand, that one because there were no fingerprints on the weapon to corroborate the testimony of four witnesses. And this one over here is telling the truth when he says he was beaten into a confession; we know that, of course, because why else would anyone willingly confess to a crime if he wasn’t beaten?
+
+
+> The other eight jurors offered little opinion except to say they would vote for whatever was agreed upon... It was the Memorial Day weekend. They wanted to go home...<br><br>
+"What brought you all around to first-degree?" he asks.<br>
+"I wasn't going to budge and that other woman, the one in the back row, she wasn't going to change her mind either. She was for first-degree from the very beginning, too. After a while, everyone wanted to go home, I guess."
+
+<br>
+ 
+The book has aged badly in one way: Simon completely falls for two entrenched bits of pseudoscience: <a href="https://www.csicop.org/si/show/the_lie_detector_test_revisited_a_great_example_of_junk_science">polygraph</a> <a href="https://en.wikipedia.org/wiki/Polygraph#Effectiveness">and</a> <a href="https://www.vox.com/future-perfect/2018/11/12/18044688/criminal-profilers-mindhunter-hannibal-criminal-minds">profiling</a>
+. But many people still believe in these things, and anyway it's a rare lapse of scepticism, for him.
+
+I think this is the first 'true crime' book I've read. I don't know if this is the pinnacle of the genre, or if the genre's better than literary people think. 
+
+<br>
+
+{%	include comments.html	%}
+
+<br><br>
