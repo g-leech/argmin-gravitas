@@ -75,7 +75,7 @@ How can a scientist (or at least a pro-science talking head) boost a practice wh
 
 <br>
 
-I'm an unpromising practitioner. For instance, <a href="https://en.wikipedia.org/wiki/Conceptual_proliferation">this</a> is kind of my jam. It's not the indescribability that bothers me - after all, any knowledge-how is indescribable (or rather describable only with <a href="https://stats.stackexchange.com/questions/205757/neural-network-how-are-number-of-parameters-calculated">millions of parameters</a>). You can accept e.g. Hume or Parfit's reasoning - you can have the propositional knowledge, can <a href="https://fs.blog/2013/01/knowing-that-versus-knowing-how/">know that</a> "there is no self beyond my bundle of experiences". Meditation is supposed to be the know-how of nonessentialism, the skill of actually paying attention to the implications of this System-2 judgment.
+I'm an unpromising practitioner. For instance, <a href="https://en.wikipedia.org/wiki/Conceptual_proliferation">this</a> is kind of my jam. It's not the indescribability that bothers me - after all, any knowledge-how is indescribable (or rather describable only with <a href="{{nn}}">millions of parameters</a>). You can accept <a href="{{bundle}}">Hume</a> or <a href="{{trike}}">Parfit's</a> reasoning - you can have the propositional knowledge, can <a href="https://fs.blog/2013/01/knowing-that-versus-knowing-how/">know that</a> "there is no self beyond my bundle of experiences". Meditation is supposed to be the know-how of nonessentialism, the skill of actually paying attention to the implications of this System-2 judgment.
 
 But being 'nonconceptual' means no language, no premises, no reason, no jokes, no connection, no comparison. It means using none of my strengths, leaving none of my spoor. On the face of it this is a great loss to me.
 
@@ -122,7 +122,7 @@ Also
 
 2. We know that the brain computes the wrong thing sometimes. (Cognitive biases, optical illusions, top-down processing, hallucinations.)<br>
 
-3. So, if such a thing is possible, it could be helpful to attend to sense-data more closely, to rule out automatic-brain errors.
+3. So, if such a thing is possible, it _could_ be helpful to attend to sense-data more closely, to spot auto brain errors. _Maybe_ more than fleeting sensory illusions too.
 <br>
 
 While I don't have a very clear philosophy of mind, I know I'm not a direct realist or substance dualist or identity essentialist, so I've no philosophical objections to breaking down the Self, either. Allons-y.
@@ -147,7 +147,7 @@ It's an expensive project: it costs me part of my most wilful and focussed hours
 
 Even if I accept that mindfulness is a source of value, there's presumably still a tradeoff against clearer, quicker, more public sources: doing science or kindnesses or pleasures. <a href="https://www.uk.dhamma.org/courses/10-day-courses/">10 days spent in myself</a> is 10 days not learning, not exercising, not enjoying, not helping, not meeting, in solitary. (And even on the contemplative axis it competes with Stoicism, with yoga, with writing, with psychedelics.)
 
-It is sometimes claimed that it will increase my focus and so pay off in those narrow terms. But I'd surprising if the effect was strong enough to overcome the high time investment.
+It is sometimes claimed that it will increase my focus and so pay off in those narrow terms. But I'd be surprised if the effect was strong enough to overcome the high time investment.
 
 Some contemplatives freely admit that the cost is very high: some contemplatives are not just salesmen. I met someone who claimed to be capital-e-enlightened. (He was otherwise articulate and modest.) He said it took 6 years' work, at many hours a week. I asked him if he could say how valuable it is in other terms - 'What else has been as good?' He said: a decade of intense psychotherapy, or two philosophy degrees. 
 
