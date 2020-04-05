@@ -15,7 +15,7 @@ confidence:	80%. Surely not original.
 warnings:	euthanasia, murder, antinatalism, rights violation
 categories: 
 importance: 8
-wordcount:		1000
+wordcount:	1000
 ---
 
 
@@ -127,7 +127,8 @@ Let's use the word '_overknowing_' for being confident enough to do something pr
 	</div>
 </div>
 
-{%  include consent/comments.html %}
+{%  include comments.html %}
+
 
 <br> <br>
 
