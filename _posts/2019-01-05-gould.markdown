@@ -1,0 +1,61 @@
+---
+layout:     post
+title:      "Stephen Jay Gould & the frailty of science"
+baselink:   /gould
+permalink:  /gould
+date:       2019-01-05
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+
+summary:    Why is pop science so often misleading?
+confidence: 70%
+importance: 5
+wordcount:  900
+---
+
+{%	assign bront = "https://en.wikipedia.org/wiki/Bully_for_Brontosaurus"	%}
+{%	assign ms = "https://www.nybooks.com/articles/1995/11/30/genes-memes-minds/"		%}
+{%	assign toob = "https://www.sscnet.ucla.edu/comm/steen/cogweb/Debate/CEP_Gould.html"		%}
+
+
+
+Start by listing Gould's virtues: he is passionate about paleontology and paleontologists; contagiously curious about obscure corners of nature and human history; scrupulously fair to the religious and the pre-modern; he is animated by a sense of justice. For an academic, his prose is highly flavoursome and fun. He has a considered opinion about Darwin's handwriting and the meaning of baseball. <a href="{{bront}}">One</a> of his essay collections was very important to me as a teen, showing me that I could unify truth-seeking and justice-seeking, and with style. 
+
+But this is all countermanded: he is just <a href="http://lesswrong.com/lw/kv/beware_of_stephen_j_gould/">not trustworthy</a> <a href="http://www.slate.com/articles/news_and_politics/the_earthling/1996/11/homo_deceptus.html">on human</a> <a href="http://www.umsl.edu/~carrolljc/Documents%20linked%20to%20indiex/IN_LIT_DAR/Critique_of_Gould.pdf">topics</a>, and <a href="http://cogweb.ucla.edu/Debate/CEP_Gould.html">neither on</a> core evolutionary theory, I'm told. From his enormously influential, fallacious dismissal of intelligence research in general and <a href="http://www.nytimes.com/2011/06/14/science/14skull.html?_r=1">Morton in particular</a>, to his dishonest coup of public discourse over punctuated equilibrium (pushing the flashy and revolutionary version in literary magazines, retreating to minimal and uncontentious forms in the science journals who could actually evaluate it), he muddied the waters even as he brandished real literary talent and noble political intentions. This is unforgiveable: empirical clarity is too rare and precious to sacrifice. <br /><br />
+
+<a href="{{ms}}">John Maynard Smith</a>:
+<blockquote>
+	Gould occupies a rather curious position, particularly on his side of the Atlantic. Because of the excellence of his essays, he has come to be seen by non-biologists as the preeminent evolutionary theorist. In contrast, the evolutionary biologists with whom I have discussed his work tend to see him as a man whose ideas are so confused as to be hardly worth bothering with, but as one who should not be publicly criticized because he is at least on our side against the creationists. All this would not matter, were it not that he is giving non-biologists a largely false picture of the state of evolutionary theory.
+</blockquote>
+
+<br>
+	<a href="http://www.pkarchive.org/theory/evolute.html">Krugman</a>
+<blockquote>
+	Gould is the John Kenneth Galbraith of his subject. That is, he is a wonderful writer who is beloved by literary intellectuals and lionized by the media because he does not use algebra or difficult jargon. Unfortunately, it appears that he avoids these sins not because he has transcended his colleagues but because he does does not seem to understand what they have to say; and his own descriptions of what the field is about - not just the answers, but even the questions - are consistently misleading. His impressive literary and historical erudition makes his work seem profound to most readers, but informed readers eventually conclude that there's no there there.
+</blockquote>
+
+<a href="{{toob}}">Tooby and Cosmides</a>:
+
+  <blockquote>Now, given the foregoing, one is left with the puzzle of why Gould so customarily reverses the truth in his writing. We suggest that the best way to grasp the nature of Gould's writings is to recognize them as one of the most formidable bodies of fiction to be produced in recent American letters. Gould brilliantly works a number of literary devices to construct a fictional "Gould" as the protagonist of his essays and to construct a world of "evolutionary biology" every bit as imaginary and plausible as Faulkner's Yoknapatawpha County. Most of the elements of Gould's writing make no sense if they are interpreted as an honest attempt to communicate about science (e.g., why would he characterize so many researchers as saying the opposite of what they actually do) but come sharply into focus when understood as necessary components of a world constructed for the fictional "Gould" to have heroic fantasy adventures in...<br /><br /> 
+<!--  -->
+  	"Gould" the protagonist is a much loved character who reveals himself to be learned, subtle, open-minded, tolerant, funny, gracious to his opponents, a tireless adversary of cultural prejudice, able to swim upstream against popular opinion with unflinching moral courage, able to pierce the surface appearances that capture others, and indeed to be not only the most brilliant innovator in biology since Darwin, but more importantly to be the voice of humane reason against the forces of ignorance, passion, incuriousity, and injustice. The author Gould, not least because he labors to beguile his audience into confusing his fictional targets with actual people and fields, is sadly none of these things.<br /><br />
+<!--  -->
+	Yet in the final analysis, there are genuine grounds for hope in the immense and enduring popularity of Gould. Gould is popular, we think, because readers see in "Gould" the embodiment of humane reason, the best aspirations of the scientific impulse. It is this "Gould" that we will continue to honor, and, who, indeed, would fight to bring the illumination that modern evolutionary science can offer into wider use. 
+</blockquote>
+<br />
+
+
+Here is a fictional leaf from Gould's <i>ad hominem</i> book, to give you a sense of what he does, at his worst:<br />
+<blockquote>
+  <i>Gould is famed for the theory of punctuated equilibrium, which holds that adaption and speciation is not generally a slow, gradual process measurable in tens of thousands of year periods, but instead a rapid response to environmental shocks, measurable in hundred-year periods. The political bias of this theory is too blatant to ignore: as a Marxist, Gould requires that sustainable change be possible by revolution rather than by long accumulation (...)</i>
+</blockquote><br />(For full effect I should now chide him for his genic panadaptationism.)<br /><br />Along with Lewontin and Rose, Gould mediated a huge contradiction in our culture: they allowed the C20th left to feel we were scientific, in our comfortable blank-slatism. That we had already incorporated the deep challenge of evolutionary biology - since these eminent men told us it had no human implications. <br /><br />Read Gould for fun and uplift, but take great care, for he cares about other things more than truth. 
+
+(Read Midgley and Singer first if the politics scare you; they might stop you fleeing into Gould's dodgy arms.)<br /><br />
+
+
+{%	include comments.html	%}
+
+<br><br>
