@@ -128,4 +128,4 @@ Justified uses for introspection, for me:
 <br><br>
 
 
-{%	include intro/comments.html		%}
+{%	include comments.html		%}
