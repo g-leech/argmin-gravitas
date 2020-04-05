@@ -11,6 +11,7 @@ visible:    false
 
 {%	assign ssc = "http://slatestarcodex.com/2014/07/30/meditations-on-moloch"	%}
 {%	assign luu = "http://danluu.com"					%}
+{%	assign dave = "https://www.hedweb.com/confile.htm"					%}
 {%	assign white = "http://www.johnmyleswhite.com"		%}
 {%	assign x4 = "https://en.wikipedia.org/wiki/4X"	%}
 {%	assign bod = "https://np.reddit.com/r/gainit/comments/2zfjmf/bad_day_at_the_gym_completely_demoralized/cpksp8e/?context=3"	%}
@@ -58,8 +59,8 @@ visible:    false
 {% assign hans = "http://www.overcomingbias.com/"		%}
 {% assign zach = "https://theweinerworks.com/"		%}
 {% assign jeff = "https://www.jefftk.com/index"		%}
-
-
+{% assign scaru = "https://www.scaruffi.com/"		%}
+{% assign ben = "https://www.benkuhn.net/"		%}
 
 
 <div class="accordion">
@@ -103,6 +104,7 @@ visible:    false
 		<a href="{{caplan}}">Bryan Caplan</a>, <br>
 		<a href="{{zach}}">Zach Weiner</a>, <br>
 		<a href="{{greg1}}">Greg Lewis</a>; <br>
+		<a href="{{dave}}">David Pearce</a>; <br>
 		<a href="{{ozy}}">Ozy Frantz</a>; <br>
 		<a href="{{buck}}">Buck Shlegeris</a>, <br>
 		<a href="{{huem}}">Mike Huemer</a>, <br>
@@ -115,11 +117,13 @@ visible:    false
 		<a href="{{heath}}">Joseph Heath</a>; <br>
 		<a href="{{heal}}">Kieran Healy</a>; <br>
 		<a href="{{kun}}">Jeremy Kun</a>; <br>
+		<a href="{{ben}}">Ben Kuhn</a>, <br>
+		<a href="{{lukeprog}}">Luke Muehlhauser</a>, <br>
 		<a href="{{tram}}">Philip Trammell</a>, <br>
+		<a href="{{scaru}}">Piero Scaruffi</a>, <br>
 		<a href="{{guz}}">Alexey Guzey</a>, <br>
 		<a href="{{scatter}}">Jamie Brandon</a>, <br>
 		<a href="{{schw}}">Eric Schwitzgebel</a>, <br>
-		<a href="{{lukeprog}}">Luke Muehlhauser</a>, <br>
 		<a href="{{eliz}}">Elizabeth van Nostrand</a>, <br>
 		<a href="{{jeff}}">Jeff Kaufman</a>, <br>
 		<a href="{{blatt}}">Chris Blattman</a>, <br>
@@ -133,7 +137,33 @@ visible:    false
 		<a href="https://twitter.com/robertwiblin">Robert Wiblin</a>, <br>
 		<a href="http://zackmdavis.net/blog/">Zack Davis</a>, <br>
 		<a href="http://stumblingandmumbling.typepad.com/">Chris Dillow</a>, <br>
-		<a href="http://haquelebac.wordpress.com/">John Emerson</a>.<br><br> 
+<!--  -->
+	<div class="accordion">
+		<h3>Sorely missed</h3>
+		<div>
+			<a href="http://haquelebac.wordpress.com/">John Emerson</a>.<br><br> 
+		</div>
+		<!--  -->
+		<h3>We could be friends</h3>
+		<div>
+			https://unstableontology.com/
+			<br>
+			https://autotranslucence.wordpress.com/
+			<br>
+			https://samzdat.com/
+			<br>
+			http://benjaminrosshoffman.com/
+			<br>
+			https://www.chrisstucchio.com/
+			<br>
+			https://entirelyuseless.wordpress.com/
+			<br>
+			https://everythingstudies.com/
+			<br>
+			https://eukaryotewritesblog.com/
+			<br>
+		</div>
+	</div>
 	</div>
 <!--  -->
 	<h3>Writers</h3>
