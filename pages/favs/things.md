@@ -9,9 +9,55 @@ visible:    false
 </blockquote><br>
 
 
-
-{%	assign luu = "http://danluu.com"		%}
-{%	assign white = "http://www.johnmyleswhite.com"	%}
+{%	assign ssc = "http://slatestarcodex.com/2014/07/30/meditations-on-moloch"	%}
+{%	assign luu = "http://danluu.com"					%}
+{%	assign white = "http://www.johnmyleswhite.com"		%}
+{%	assign x4 = "https://en.wikipedia.org/wiki/4X"	%}
+{%	assign bod = "https://np.reddit.com/r/gainit/comments/2zfjmf/bad_day_at_the_gym_completely_demoralized/cpksp8e/?context=3"	%}
+{%	assign mead = "https://www.youtube.com/user/MeadesShrine"		%}
+{% assign heath = "https://www.sciphijournal.org/index.php/2017/11/12/why-the-culture-wins-an-appreciation-of-iain-m-banks/"		%}
+{% assign kun = "https://github.com/j2kun/essays"		%}
+{% assign buck = "http://shlegeris.com/posts"	%}
+{% assign greg1 = "https://thepolemicalmedic.wordpress.com/"	%}
+{% assign tram = "https://philiptrammell.com/blog"	%}
+{% assign care = "http://theunitofcaring.tumblr.com/"	%}
+{% assign ngo = "https://thinkingcomplete.blogspot.com/"	%}
+{% assign sand = "http://aleph.se/andart2/"		%}
+{% assign lib = "https://languagelog.ldc.upenn.edu/nll/"	%}
+{% assign nint = "https://nintil.com/"	%}
+{% assign ozy = "https://thingofthings.wordpress.com"	%}
+{% assign sabine = "http://backreaction.blogspot.com/"	%}
+{% assign g = "http://www.gwern.net/"	%}
+{% assign scatter = "https://scattered-thoughts.net/"	%}
+{% assign heal = "https://kieranhealy.org/blog/"	%}
+{% assign caplan = "https://www.econlib.org/author/bcaplan/"	%}
+{% assign milan = "https://flightfromperfection.com/"	%}
+{% assign ord = "http://www.amirrorclear.net/flowers/index.html"	%}
+{% assign guz = "https://guzey.com/"	%}
+{% assign rpw = "https://robertpaulwolff.blogspot.com/"	%}
+{% assign grace1 = "https://meteuphoric.com/"	%}
+{% assign grace2 = "https://worldlypositions.tumblr.com/"	%}
+{% assign rob = "https://nostalgebraist.tumblr.com/tagged/long-post"	%}
+{% assign gel = "https://statmodeling.stat.columbia.edu/"	%}
+{% assign marg = "https://marginalrevolution.com/"	%}
+{% assign shaliz = "http://bactra.org/notebooks/"	%}
+{% assign eliz = "https://acesounderglass.com/"	%}
+{% assign schn = "https://www.schneier.com/"	%}
+{% assign noah = "http://noahpinionblog.blogspot.co.uk"	%}
+{% assign heath = "http://induecourse.ca/author/jheath/"	%}
+{% assign julia = "https://juliagalef.com/recent-posts/"	%}
+{% assign blatt = "https://chrisblattman.com/"	%}
+{% assign owen = "https://www.owen.org/blog"	%}
+{% assign rood = "https://davidroodman.com/"	%}
+{% assign schw = "http://schwitzsplinters.blogspot.com/"	%}
+{% assign lukeprog = "http://lukemuehlhauser.com/"	%}
+{% assign huem = "http://fakenous.net/"	%}
+{% assign farrell = "http://crookedtimber.org/author/henry/"	%}
+{% assign christ = "https://sideways-view.com/"		%}
+{% assign aaron = "https://www.scottaaronson.com/blog"		%}
+{% assign hans = "http://www.overcomingbias.com/"		%}
+{% assign zach = "https://theweinerworks.com/"		%}
+{% assign jeff = "https://www.jefftk.com/index"		%}
 
 
 
@@ -19,7 +65,7 @@ visible:    false
 <div class="accordion">
 	<h3>"Idioms"</h3>
 	<div>
-		Three ways of relating to a genre, a medium, an art, a school of thought, a field. 
+		Three ways of relating to a genre, a medium, an art, a school of thought, a field:
 <!--  -->
 	<ol>
 		<li>**Love**: to find value in ordinary examples of them.</li>
@@ -29,28 +75,81 @@ visible:    false
 	<br><br>
 	<ul>
 		<li><i>Idioms I love</i><br> 
-		punk, Latin jazz, statistics & machine learning, black comedy, epistemology, <a href="https://en.wikipedia.org/wiki/4X">4X</a>, informal logic, economic rationality, eclecticism and pluralism, purism and monism. American pragmatism, 'French' liberalism, 'English' liberalism, Afro-futurism, hacker lore, adult swim animation, synth-pop, hard science-fiction, effective altruism, transhumanism, empiricism of all kinds, competence-porn, lists. </li><br>
+		punk, Latin jazz, statistics & machine learning, black comedy, epistemology, <a href="{{x4}}">4X</a>, informal logic, economic rationality, eclecticism and pluralism, purism and monism. American pragmatism, 'French' liberalism, 'English' liberalism, Afro-futurism, hacker lore, adult swim, synth-pop, hard science-fiction, effective altruism, transhumanism, empiricism of all kinds, competence-porn, lists. </li><br>
 	<!--  -->
 		<li><i>Idioms I am open to</i><br>
-		cinema in the arch sense, linguistics descriptive and prescriptive, hip-hop, free verse, country, trance, analytic philosophy, camp, mathematics, qawwali, sketch comedy, body positivity, <a href="https://np.reddit.com/r/gainit/comments/2zfjmf/bad_day_at_the_gym_completely_demoralized/cpksp8e/?context=3">bodybuilder positivity</a>, gender abolitionism, <!-- bondage --> feminism, mono no aware, Early music, anime/manga, senryu, reggae, folk, drone, ambient, glitch, funk, Romanticism, modernism, Hollywood action films, birdwatching, Art Nouveau, Art Deco. </li><br>
+		cinema in the arch sense, linguistics descriptive and prescriptive, hip-hop, free verse, country, trance, analytic philosophy, camp, mathematics, qawwali, sketch comedy, body positivity, <a href="{{bod}}">bodybuilder positivity</a>, gender abolitionism, <!-- bondage --> feminism, mono no aware, Early music, anime/manga, senryu, reggae, folk, drone, ambient, glitch, funk, Romanticism, modernism, Hollywood action films, birdwatching, Art Nouveau, Art Deco. </li><br>
 	<!--  -->
 		<li><i>Idioms I am not very open to</i><br> 
 		any kind of fashion, depressant chemicals, jurisprudence, house, faith, self-help and pseudo motivation, muscular hypertrophy, artspeak, MFA writing, video monologues (i.e. 90% of Youtube), infographics, enterprise computing, the illiberal left, haute cuisine, primitivism, Neoreaction, phenomenology and critical theory and psychoanalysis, telenovella and soap, ballet and Dance, wuxia, steampunk, haiku, aleatory, fanfiction, period drama tv, continental philosophy, celebrity culture, social theory, typography, education theory, cultural anthropology, noise music. </li>
 		</ul>
 	</div>
+	<h3>Blogroll</h3>
+	<div>
+		My favourite people with websites are <br><br>
+		<!--  -->
+		<a href="{{g}}">Gwern Branwen</a>, <br>
+		<a href="{{gel}}">Andrew Gelman</a>, <br>
+		<a href="{{ord}}">Toby Ord</a>, <br>
+		<a href="{{ssc}}">Scott Alexander</a>, <br>
+		<a href="{{aaron}}">Scott Aaronson</a>, <br>
+		<a href="{{rob}}">Rob Nostalgebraist</a>, <br>
+		<a href="{{shaliz}}">Cosma Shalizi</a>, <br>
+		<a href="{{christ}}">Paul Christiano</a>, <br>
+		<a href="{{care}}">Kelsey Piper</a>, <br>
+		<a href="{{rpw}}">Robert Paul Wolff</a>, <br>
+		<a href="{{marg}}">Cowen & Tabbarok</a>, <br>
+		<a href="{{sand}}">Anders Sandberg</a>, <br>
+		<a href="{{caplan}}">Bryan Caplan</a>, <br>
+		<a href="{{zach}}">Zach Weiner</a>, <br>
+		<a href="{{greg1}}">Greg Lewis</a>; <br>
+		<a href="{{ozy}}">Ozy Frantz</a>; <br>
+		<a href="{{buck}}">Buck Shlegeris</a>, <br>
+		<a href="{{huem}}">Mike Huemer</a>, <br>
+		<a href="{{sabine}}">Sabine Hossenfelder</a>,<br>
+		<a href="{{grace1}}">Katja</a> <a href="{{grace2}}">Grace</a>, <br>
+		<a href="{{julia}}">Julia Galef</a>; <br>
+		<a href="{{hans}}">Robin Hanson</a>, <br>
+		<a href="{{nint}}">Jose Ricon</a>, <br>
+		<a href="{{farrell}}">Henry Farrell</a>; <br>
+		<a href="{{heath}}">Joseph Heath</a>; <br>
+		<a href="{{heal}}">Kieran Healy</a>; <br>
+		<a href="{{kun}}">Jeremy Kun</a>; <br>
+		<a href="{{tram}}">Philip Trammell</a>, <br>
+		<a href="{{guz}}">Alexey Guzey</a>, <br>
+		<a href="{{scatter}}">Jamie Brandon</a>, <br>
+		<a href="{{schw}}">Eric Schwitzgebel</a>, <br>
+		<a href="{{lukeprog}}">Luke Muehlhauser</a>, <br>
+		<a href="{{eliz}}">Elizabeth van Nostrand</a>, <br>
+		<a href="{{jeff}}">Jeff Kaufman</a>, <br>
+		<a href="{{blatt}}">Chris Blattman</a>, <br>
+		<a href="{{owen}}">Owen Barder</a>, <br>
+		<a href="{{rood}}">David Roodman</a>, <br>
+		<a href="{{schn}}">Bruce Schneier</a>, <br>
+		<a href="{{luu}}">Dan Luu</a>, <br>
+		<a href="{{white}}">John Myles White</a>, <br>
+		<a href="{{noah}}">Noah Smith</a>; <br>
+		<a href="{{milan}}">Milan Griffes</a>, <br>
+		<a href="https://twitter.com/robertwiblin">Robert Wiblin</a>, <br>
+		<a href="http://zackmdavis.net/blog/">Zack Davis</a>, <br>
+		<a href="http://stumblingandmumbling.typepad.com/">Chris Dillow</a>, <br>
+		<a href="http://haquelebac.wordpress.com/">John Emerson</a>.<br><br> 
+	</div>
 <!--  -->
 	<h3>Writers</h3>
-	<div>
+	<div>	
+	My favourite essays are <a href="{{heath}}"></a>
+
+<!--  -->
 	My favourite philosophers, in terms of substantive agreement, are <a href="http://putnamphil.blogspot.co.uk/">Hilary Putnam</a><sub>90s</sub> (on meta-ethics and language), <a href="http://david-pearce.com/">David Pearce</a> (on animals, biochemicals, the ontology of qualia, the point of science), <a href="http://archive.today/0DdHk">Mary</a> <a href="http://books.google.co.uk/books?id=NCbsp4eVf9cC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Midgley</a> (on virtue, <a href="http://www.ghandchi.com/IONA/newsword.pdf">culture</a> and on scientism), <a href="http://www.philosophy.uncc.edu/mleldrid/cmt/rrtwo.html">Rorty</a> (on anything but ontology), Joseph Heath, and <a href="http://emilkirkegaard.dk/en/wp-content/uploads/A_Plea_for_Science_Studies_Philip_Kitcher.pdf">Philip</a> <a href="http://human-nature.com/nibbs/04/kitcher.html">Kitcher</a> (on inquiry as a thing). My favourites in terms of style are Epicurus, Hume, Wittgenstein, Taleb, and Nietzsche. <br /><br /><br />
 <!--  -->
-	My favourite bloggers are Gwern Branwen, Slate Star Codex, Noah Smith, Kelsey Piper, <a href="{{luu}}">Dan Luu</a>, Jose Ricon, Alexey Guzey, Andrew Gelman, Ozy Frantz, Jamie Brandon, Milan Griffes, Robert Wiblin, Chris Dillow, Katja Grace, <a href="{{white}}">John Myles White</a>, 
-	My favourite net intellectuals are <a href="http://slatestarcodex.com/2014/07/30/meditations-on-moloch/">‘Scott Alexander’</a>; <a href="http://noahpinionblog.blogspot.co.uk/">Noah Smith</a>, <a href="http://theunitofcaring.tumblr.com/">Kelsey 'Caring'</a>; <a href="https://thingofthings.wordpress.com/">Ozy Frantz</a>; ‘<a href="http://www.gwern.net/Culture%20is%20not%20about%20Esthetics">Gwern Branwen</a>’, <a href="https://twitter.com/robertwiblin">Robert Wiblin</a>, <a href="http://stumblingandmumbling.typepad.com/">Chris Dillow</a>, and <a href="http://haquelebac.wordpress.com/">John Emerson</a>. My favourite polemicists are Ernest Gellner, Eliezer Yudkowsky, Charlie Stross, Steve Keen, Camille Paglia, David Stove, Nietzsche. (They are each a complete joy to read, but they may not be good for me.) <br><br>
+	My favourite polemicists are Ernest Gellner, Eliezer Yudkowsky, Charlie Stross, Steve Keen, Camille Paglia, David Stove, Nietzsche. (They are each a complete joy to read, but they may not be good for me.) <br><br>
 <!--  -->
 	People I love, despite having never even met them: Borges, Turing, Scott Alexander, Pessoa.<br><br>
 <!--  -->
 	My favourite aphorists are Nietzsche, Pessoa, Cioran, Gide, Perlis, Gwern. My favourite young dead are Frank Ramsey, D Boon, Aaron Swartz, Niels Abel. My favourite terrible human beings are Taleb, Larkin, Wittgenstein.<br><br>
 <!--  -->
-	My favourite critics: <a href="https://www.youtube.com/user/MeadesShrine">Jonathan Meades</a>, Simon Reynolds, Dave Hickey, Piero Scaruffi, Geoff Dyer, Clive James, Emily Nussbaum, David Foster Wallace, Pierre Bayard, Chuck Klosterman, John Earls. My favourite novelists are Iris Murdoch, Nabokov, Graham Greene, and the David Foster Wallace nub. My favourite Scottish novelists are James Kelman, Iain Banks, Eric Linklater, and Muriel Spark. My favourite sci-fi authors are Greg Egan, Peter Watts, Ted Chiang, Iain Banks, Alfred Bester, China Mieville, Frederik Pohl, Dan Simmons, Neal Stephenson.<br><br>
+	My favourite critics: <a href="{{mead}}">Jonathan Meades</a>, Simon Reynolds, Dave Hickey, Piero Scaruffi, Geoff Dyer, Clive James, Emily Nussbaum, David Foster Wallace, Pierre Bayard, Chuck Klosterman, John Earls. My favourite novelists are Iris Murdoch, Nabokov, Graham Greene, and the David Foster Wallace nub. My favourite Scottish novelists are James Kelman, Iain Banks, Eric Linklater, and Muriel Spark. My favourite sci-fi authors are Greg Egan, Peter Watts, Ted Chiang, Iain Banks, Alfred Bester, China Mieville, Frederik Pohl, Dan Simmons, Neal Stephenson.<br><br>
 <!--  -->
 	My favourite Aristotelian distinctions are the modes of persuasion (ethos, logos and pathos), the realms of mechanics (celestial and terrestrial), the levels of friendship (commercial, hedonic, affinity) and his 'fourfold division' of everything (into primitives, non-substantial particulars, universals, non-substantial universals).
 </div>
