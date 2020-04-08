@@ -69,9 +69,9 @@ visible:    false
 		Three ways of relating to a genre, a medium, an art, a school of thought, a field:
 <!--  -->
 	<ol>
-		<li>**Love**: to find value in ordinary examples of them.</li>
-		<li>**Open to**: to see the value of the best of them.</li>
-		<li>**Not open to**: to struggle to see the value of even the best of them.</li>
+		<li>Love: to find value in ordinary examples.</li>
+		<li>Open to: to see the value of the best examples.</li>
+		<li>Not open to: to struggle to see the value of even the best.</li>
 	</ol>
 	<br><br>
 	<ul>
@@ -79,11 +79,16 @@ visible:    false
 		punk, Latin jazz, statistics & machine learning, black comedy, epistemology, <a href="{{x4}}">4X</a>, informal logic, economic rationality, eclecticism and pluralism, purism and monism. American pragmatism, 'French' liberalism, 'English' liberalism, Afro-futurism, hacker lore, adult swim, synth-pop, hard science-fiction, effective altruism, transhumanism, empiricism of all kinds, competence-porn, lists. </li><br>
 	<!--  -->
 		<li><i>Idioms I am open to</i><br>
-		cinema in the arch sense, linguistics descriptive and prescriptive, hip-hop, free verse, country, trance, analytic philosophy, camp, mathematics, qawwali, sketch comedy, body positivity, <a href="{{bod}}">bodybuilder positivity</a>, gender abolitionism, <!-- bondage --> feminism, mono no aware, Early music, anime/manga, senryu, reggae, folk, drone, ambient, glitch, funk, Romanticism, modernism, Hollywood action films, birdwatching, Art Nouveau, Art Deco. </li><br>
+		cinema in the arch sense, linguistics descriptive and prescriptive, hip-hop, free verse, country, trance, analytic philosophy, camp, mathematics, qawwali, sketch comedy, body positivity, <a href="{{bod}}">bodybuilder positivity</a>, gender abolitionism, feminism, mono no aware, Early music, anime/manga, senryu, reggae, folk, drone, ambient, glitch, funk, Romanticism, modernism, Hollywood action films, birdwatching, Art Nouveau, Art Deco. </li><br>
 	<!--  -->
 		<li><i>Idioms I am not very open to</i><br> 
 		any kind of fashion, depressant chemicals, jurisprudence, house, faith, self-help and pseudo motivation, muscular hypertrophy, artspeak, MFA writing, video monologues (i.e. 90% of Youtube), infographics, enterprise computing, the illiberal left, haute cuisine, primitivism, Neoreaction, phenomenology and critical theory and psychoanalysis, telenovella and soap, ballet and Dance, wuxia, steampunk, haiku, aleatory, fanfiction, period drama tv, continental philosophy, celebrity culture, social theory, typography, education theory, cultural anthropology, noise music. </li>
 		</ul>
+	</div>
+	<h3>Books</h3>
+	<div>
+		These are just the ones I have found that I think I will continue to re-read for the rest of my life. Others <a href="/books">here</a>.<br><br>
+		{%	include books/best_books_apr_20.html	%}
 	</div>
 	<h3>Blogroll</h3>
 	<div>
@@ -169,6 +174,8 @@ visible:    false
 	<h3>Writers</h3>
 	<div>	
 	My favourite essays are <a href="{{heath}}"></a>
+	Fear And Loathing At Effective Altruism Global 2017
+	milquetoast autistic rationalism
 
 <!--  -->
 	My favourite philosophers, in terms of substantive agreement, are <a href="http://putnamphil.blogspot.co.uk/">Hilary Putnam</a><sub>90s</sub> (on meta-ethics and language), <a href="http://david-pearce.com/">David Pearce</a> (on animals, biochemicals, the ontology of qualia, the point of science), <a href="http://archive.today/0DdHk">Mary</a> <a href="http://books.google.co.uk/books?id=NCbsp4eVf9cC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Midgley</a> (on virtue, <a href="http://www.ghandchi.com/IONA/newsword.pdf">culture</a> and on scientism), <a href="http://www.philosophy.uncc.edu/mleldrid/cmt/rrtwo.html">Rorty</a> (on anything but ontology), Joseph Heath, and <a href="http://emilkirkegaard.dk/en/wp-content/uploads/A_Plea_for_Science_Studies_Philip_Kitcher.pdf">Philip</a> <a href="http://human-nature.com/nibbs/04/kitcher.html">Kitcher</a> (on inquiry as a thing). My favourites in terms of style are Epicurus, Hume, Wittgenstein, Taleb, and Nietzsche. <br /><br /><br />
@@ -222,7 +229,7 @@ visible:    false
 
 <h3>Software</h3>
 <div> 
-	The software which improves my life most is Roam, Marvin, PIA, WolframAlpha, Calibre, ChromeDevTools.<br><br>
+	The software which improves my life most is Roam, Marvin, Sci-Hub, Jekyll, Overleaf, git, PrivateInternetAccess, WolframAlpha, FBReader, ChromeDevTools.<br><br>
 <!--  -->
 	My favourite websites by frequency of use are <a href="https://repl.it/languages">repl.it</a>, Wiktionary, Hacker News, Google Sheets, Spotify, and Slate Star Codex. My favourite UIs are Bloomberg Terminal, Pinta, 4-player Rock Band 2, and Chrome DevTools. My favourite APIs (web and cmd) are Gmaps, Twilio, Spark and leftpad.io. 
 </div>
