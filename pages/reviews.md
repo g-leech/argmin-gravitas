@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      Books
+title:      Reading
 permalink:  /books
 visible:    true
 ---
