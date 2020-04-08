@@ -19,7 +19,7 @@ visible:    true
 
 	.rating {
 		text-align: center;
-		font-size: 26pt;
+		font-size: 22pt;
 	}
 
 	.best {
@@ -28,6 +28,10 @@ visible:    true
 
 	.reviews {
 		max-width: 100%;
+	}
+
+	.reviews td {
+		vertical-align: top;
 	}
 </style>
 
