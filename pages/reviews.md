@@ -6,6 +6,7 @@ visible:    true
 ---
 
 {%	assign gr = "https://www.goodreads.com/user/show/68316850-gavin"	%}
+{%	assign current = "https://www.goodreads.com/review/list/68316850?shelf=currently-reading"	%}
 
 <style>
 	table {
@@ -44,6 +45,14 @@ For an overview, it's probably easier to <a href="{{gr}}">look on Goodreads</a>.
 	<div>
 		{%	include books/best_books_apr_20.html	%}
 	</div>
+	<!--  -->
+	<!--  -->
+	<h3>Now</h3>
+	<div>
+		<a href="{{current}}">I might work out how to get this out of the API</a>
+	</div>
+	<!--  -->
+	<!--  -->
 	<h3>Sort by controversy</h3>
 	<div>
 		Here are the books I have the largest disagreement with Goodreads users about:<br><br>
