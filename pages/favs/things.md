@@ -5,62 +5,10 @@ permalink:  /favs/all/
 visible:    false
 ---
 
-<blockquote><i>If you are a human, the biggest influence on your personality is your peer group. Choose your peers.</i>
-</blockquote><br>
+<blockquote><i>If you are a human, the biggest influence on your personality is your peer group. Choose your peers.</i></blockquote>
+<center> – 'Modus Ponies'</center><br>
 
-
-{%	assign ssc = "http://slatestarcodex.com/2014/07/30/meditations-on-moloch"	%}
-{%	assign luu = "http://danluu.com"					%}
-{%	assign dave = "https://www.hedweb.com/confile.htm"					%}
-{%	assign white = "http://www.johnmyleswhite.com"		%}
-{%	assign x4 = "https://en.wikipedia.org/wiki/4X"	%}
-{%	assign bod = "https://np.reddit.com/r/gainit/comments/2zfjmf/bad_day_at_the_gym_completely_demoralized/cpksp8e/?context=3"	%}
-{%	assign mead = "https://www.youtube.com/user/MeadesShrine"		%}
-{% assign heath = "https://www.sciphijournal.org/index.php/2017/11/12/why-the-culture-wins-an-appreciation-of-iain-m-banks/"		%}
-{% assign kun = "https://github.com/j2kun/essays"		%}
-{% assign buck = "http://shlegeris.com/posts"	%}
-{% assign greg1 = "https://thepolemicalmedic.wordpress.com/"	%}
-{% assign tram = "https://philiptrammell.com/blog"	%}
-{% assign care = "http://theunitofcaring.tumblr.com/"	%}
-{% assign ngo = "https://thinkingcomplete.blogspot.com/"	%}
-{% assign sand = "http://aleph.se/andart2/"		%}
-{% assign lib = "https://languagelog.ldc.upenn.edu/nll/"	%}
-{% assign nint = "https://nintil.com/"	%}
-{% assign ozy = "https://thingofthings.wordpress.com"	%}
-{% assign sabine = "http://backreaction.blogspot.com/"	%}
-{% assign g = "http://www.gwern.net/"	%}
-{% assign scatter = "https://scattered-thoughts.net/"	%}
-{% assign heal = "https://kieranhealy.org/blog/"	%}
-{% assign caplan = "https://www.econlib.org/author/bcaplan/"	%}
-{% assign milan = "https://flightfromperfection.com/"	%}
-{% assign ord = "http://www.amirrorclear.net/flowers/index.html"	%}
-{% assign guz = "https://guzey.com/"	%}
-{% assign rpw = "https://robertpaulwolff.blogspot.com/"	%}
-{% assign grace1 = "https://meteuphoric.com/"	%}
-{% assign grace2 = "https://worldlypositions.tumblr.com/"	%}
-{% assign rob = "https://nostalgebraist.tumblr.com/tagged/long-post"	%}
-{% assign gel = "https://statmodeling.stat.columbia.edu/"	%}
-{% assign marg = "https://marginalrevolution.com/"	%}
-{% assign shaliz = "http://bactra.org/notebooks/"	%}
-{% assign eliz = "https://acesounderglass.com/"	%}
-{% assign schn = "https://www.schneier.com/"	%}
-{% assign noah = "http://noahpinionblog.blogspot.co.uk"	%}
-{% assign heath = "http://induecourse.ca/author/jheath/"	%}
-{% assign julia = "https://juliagalef.com/recent-posts/"	%}
-{% assign blatt = "https://chrisblattman.com/"	%}
-{% assign owen = "https://www.owen.org/blog"	%}
-{% assign rood = "https://davidroodman.com/"	%}
-{% assign schw = "http://schwitzsplinters.blogspot.com/"	%}
-{% assign lukeprog = "http://lukemuehlhauser.com/"	%}
-{% assign huem = "http://fakenous.net/"	%}
-{% assign farrell = "http://crookedtimber.org/author/henry/"	%}
-{% assign christ = "https://sideways-view.com/"		%}
-{% assign aaron = "https://www.scottaaronson.com/blog"		%}
-{% assign hans = "http://www.overcomingbias.com/"		%}
-{% assign zach = "https://theweinerworks.com/"		%}
-{% assign jeff = "https://www.jefftk.com/index"		%}
-{% assign scaru = "https://www.scaruffi.com/"		%}
-{% assign ben = "https://www.benkuhn.net/"		%}
+{%	include favs/links.md	%}
 
 
 <div class="accordion">
@@ -87,94 +35,19 @@ visible:    false
 	</div>
 	<h3>Books</h3>
 	<div>
-		These are just the ones I have found that I think I will continue to re-read for the rest of my life. Others <a href="/books">here</a>.<br><br>
+		These are just ones I think I will re-read for the rest of my life. Others <a href="/books">here</a>.<br><br>
 		{%	include books/best_books_apr_20.html	%}
 	</div>
-	<h3>Blogroll</h3>
-	<div>
-		My favourite people with websites are <br><br>
-		<!--  -->
-		<a href="{{g}}">Gwern Branwen</a>, <br>
-		<a href="{{gel}}">Andrew Gelman</a>, <br>
-		<a href="{{ord}}">Toby Ord</a>, <br>
-		<a href="{{ssc}}">Scott Alexander</a>, <br>
-		<a href="{{aaron}}">Scott Aaronson</a>, <br>
-		<a href="{{rob}}">Rob Nostalgebraist</a>, <br>
-		<a href="{{shaliz}}">Cosma Shalizi</a>, <br>
-		<a href="{{christ}}">Paul Christiano</a>, <br>
-		<a href="{{care}}">Kelsey Piper</a>, <br>
-		<a href="{{rpw}}">Robert Paul Wolff</a>, <br>
-		<a href="{{marg}}">Cowen & Tabbarok</a>, <br>
-		<a href="{{sand}}">Anders Sandberg</a>, <br>
-		<a href="{{caplan}}">Bryan Caplan</a>, <br>
-		<a href="{{zach}}">Zach Weiner</a>, <br>
-		<a href="{{greg1}}">Greg Lewis</a>; <br>
-		<a href="{{dave}}">David Pearce</a>; <br>
-		<a href="{{ozy}}">Ozy Frantz</a>; <br>
-		<a href="{{buck}}">Buck Shlegeris</a>, <br>
-		<a href="{{huem}}">Mike Huemer</a>, <br>
-		<a href="{{sabine}}">Sabine Hossenfelder</a>,<br>
-		<a href="{{grace1}}">Katja</a> <a href="{{grace2}}">Grace</a>, <br>
-		<a href="{{julia}}">Julia Galef</a>; <br>
-		<a href="{{hans}}">Robin Hanson</a>, <br>
-		<a href="{{nint}}">Jose Ricon</a>, <br>
-		<a href="{{farrell}}">Henry Farrell</a>; <br>
-		<a href="{{heath}}">Joseph Heath</a>; <br>
-		<a href="{{heal}}">Kieran Healy</a>; <br>
-		<a href="{{kun}}">Jeremy Kun</a>; <br>
-		<a href="{{ben}}">Ben Kuhn</a>, <br>
-		<a href="{{lukeprog}}">Luke Muehlhauser</a>, <br>
-		<a href="{{tram}}">Philip Trammell</a>, <br>
-		<a href="{{scaru}}">Piero Scaruffi</a>, <br>
-		<a href="{{guz}}">Alexey Guzey</a>, <br>
-		<a href="{{scatter}}">Jamie Brandon</a>, <br>
-		<a href="{{schw}}">Eric Schwitzgebel</a>, <br>
-		<a href="{{eliz}}">Elizabeth van Nostrand</a>, <br>
-		<a href="{{jeff}}">Jeff Kaufman</a>, <br>
-		<a href="{{blatt}}">Chris Blattman</a>, <br>
-		<a href="{{owen}}">Owen Barder</a>, <br>
-		<a href="{{rood}}">David Roodman</a>, <br>
-		<a href="{{schn}}">Bruce Schneier</a>, <br>
-		<a href="{{luu}}">Dan Luu</a>, <br>
-		<a href="{{white}}">John Myles White</a>, <br>
-		<a href="{{noah}}">Noah Smith</a>; <br>
-		<a href="{{milan}}">Milan Griffes</a>, <br>
-		<a href="https://twitter.com/robertwiblin">Robert Wiblin</a>, <br>
-		<a href="http://zackmdavis.net/blog/">Zack Davis</a>, <br>
-		<a href="http://stumblingandmumbling.typepad.com/">Chris Dillow</a>, <br>
 <!--  -->
-	<div class="accordion">
-		<h3>Sorely missed</h3>
-		<div>
-			<a href="http://haquelebac.wordpress.com/">John Emerson</a>.<br><br> 
-		</div>
-		<!--  -->
-		<h3>We could be friends</h3>
-		<div>
-			https://unstableontology.com/
-			<br>
-			https://autotranslucence.wordpress.com/
-			<br>
-			https://samzdat.com/
-			<br>
-			http://benjaminrosshoffman.com/
-			<br>
-			https://www.chrisstucchio.com/
-			<br>
-			https://entirelyuseless.wordpress.com/
-			<br>
-			https://everythingstudies.com/
-			<br>
-			https://eukaryotewritesblog.com/
-			<br>
-		</div>
-	</div>
-	</div>
+	{%	include favs/blogs.md	%}
+<!--  -->
 <!--  -->
 	<h3>Writers</h3>
 	<div>	
 	My favourite essays are <a href="{{heath}}"></a>
+<!--  -->
 	Fear And Loathing At Effective Altruism Global 2017
+	<!--  -->
 	milquetoast autistic rationalism
 
 <!--  -->
@@ -229,9 +102,9 @@ visible:    false
 
 <h3>Software</h3>
 <div> 
-	The software which improves my life most is Roam, Marvin, Sci-Hub, Jekyll, Overleaf, git, PrivateInternetAccess, WolframAlpha, FBReader, ChromeDevTools.<br><br>
+	The software which improves my life most is Roam, Marvin, Sci-Hub, Jekyll, Overleaf, git, PrivateInternetAccess, WolframAlpha, FBReader, Goodreads, Netlify, Anki, ChromeDevTools, <a href="{{tab}}">TablesGenerator</a>.<br><br>
 <!--  -->
-	My favourite websites by frequency of use are <a href="https://repl.it/languages">repl.it</a>, Wiktionary, Hacker News, Google Sheets, Spotify, and Slate Star Codex. My favourite UIs are Bloomberg Terminal, Pinta, 4-player Rock Band 2, and Chrome DevTools. My favourite APIs (web and cmd) are Gmaps, Twilio, Spark and leftpad.io. 
+	My favourite UIs are Bloomberg Terminal, Pinta, 4-player Rock Band 2, and Chrome DevTools. My favourite APIs (web and cmd) are Gmaps, Twilio, Spark and leftpad.io. 
 </div>
 
 <h3>Politics</h3>
