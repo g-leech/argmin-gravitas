@@ -12,7 +12,7 @@ visible:    false
 
 
 <div class="accordion">
-	<h3>"Idioms"</h3>
+	<h3>Idioms</h3>
 	<div>
 		Three ways of relating to a genre, a medium, an art, a school of thought, a field:
 <!--  -->
