@@ -10,17 +10,37 @@ layout: default
   <p style="margin-left:15px" class="post-meta">
     {%  assign s = "&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;"  %}
     {%  assign t = "•&nbsp;&nbsp;"  %}
+    
+    {% assign suffix = "th"  %}
+    {%  assign day = page.date | date: "%-d" %}
+    {%  assign last = day | slice: -1 1 %}
+    {%  assign penult = day | slice: -2 1 %}
 
-    {{ page.date | date: "%b %-d, %Y" }}
+    {%   if last == "1" and penult != "1" %}
+      {% assign suffix = "st"  %}
+    {%    endif    %}
+
+    {%   if last == "2" and penult != "1" %}
+      {% assign suffix = "nd"  %}
+    {%    endif    %}
+
+    {%   if last == "3" and penult != "1" %}
+      {% assign suffix = "rd"  %}
+    {%    endif    %}
+
+    {{day}}{{suffix}} {{ page.date | date: "%B %Y" }}
 
     {% if page.simple or page.stylised or page.technical %} 
       {{s}} Available in  
       {% if page.simple %} 
-      <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simpleLink">Simple</a> {% endif %} 
+      <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simpleLink">Simple</a> 
+      {% endif %} 
       {% if page.stylised %} | 
-      <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylisedLink">Stylised</a> {% endif %} 
+      <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylisedLink">Stylised</a> 
+      {% endif %} 
       {% if page.technical %} | 
-      <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'technical')" id="technicalLink">Technical</a> English {% endif %} 
+      <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'technical')" id="technicalLink">Technical</a> English 
+      {% endif %} 
     {% endif %}
 
 
