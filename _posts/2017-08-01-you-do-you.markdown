@@ -1,0 +1,40 @@
+---
+layout:     post
+title:      "You do you"
+baselink:   /you
+permalink:  /you
+date:       2017-08-12
+author:     Gavin
+
+published:  true
+visible:    1
+
+summary:    All advice has someone who needs to hear the opposite.
+confidence: N/A
+categories: 
+importance: 5
+wordcount:  800
+---
+
+Out at London Pride, uncharacteristically. Around 1am, as you do, find myself in an intimate discussion with a stranger. Who leaps to what he imagines is my defence:<br><br>
+
+
+<div style="padding-left:5%">
+
+  <p>He: "<i>What are you into?</i>"</p>
+  <p>I: "Women, mostly."</p>
+  <p>"<i>Oh right.</i>" </p>
+  <p>"It's a limited view, though. I wish I was more open."</p>
+  <p>"<i>What? There's no such </i>thing<i>! You got to accept yourself!</i>"</p>
+  <p>"Sure, but - I'm only attracted to like a tenth of the population; it would be objectively better to have a larger pool, and to see all of beauty."</p>
+  <p>"<i>Hey, </i>hey<i>: stop it, you don't need to justify yourself. You are you, so you do </i>you<i>. Don't do anyone else.</i>"</p>
+  <p>"That's a beautiful thing to say, and there's a lot of people in the world who really need to hear it. Not me, though."</p>
+  <p>"<i>It's true for everyone! You'll only hurt yourself by not being yourself.</i>"</p>
+  <p>"No, though. Consider: monkeys like bananas and sex; humans like bananas, sex, <i>and</i> philosophy and sports. So the value space visible to the latter is -"</p>
+  <p>"<i>- Look, you're not going to change by overthinking things. So skip it! I'm not questioning you!</i>"</p>
+  <p>"I am questioning myself. And so I often change. I don't want stock acceptance. Challenging me when I am not as good as I could be is better than acceptance: you take me seriously. You give me actual help.</p>
+  <p> When I 'do' me, I justify myself to myself. In others this can be neurotic, self-sabotage. For me it is creation. If you wanted to google it, there's a word for it. Only at home when taking a pickaxe to the walls, to see if they're actually solid."</p>
+
+</div>
+
+<br><br>
