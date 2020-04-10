@@ -108,7 +108,7 @@ Of course; consider what happens when you rate a film you just saw out of 5, or 
 
 The point is that what you get from introspection isn't truth, but raw data - data that may need tremendous processing (cross-referencing, explanation in evolutionary or personal-history terms, correction for known biases) to even on average increase your self-knowledge. Also that taking the measurement will alter the mental content, to a possibly useless degree.
 
-Rules of thumb might be: Don't take it literally; don't imagine you're in contact with your unconscious or your essence; don't generalise, even to your past or future _self_; use it as at most weak Bayesian evidence about the idea.
+Rules of thumb might be: Don't take it literally; don't imagine you're in contact with your unconscious or your essence; don't generalise, even to your past or future _self_; use it as at most weak Bayesian evidence about the idea.<br><br>
 
 Justified uses for introspection, for me:
 
@@ -119,11 +119,15 @@ Justified uses for introspection, for me:
 * _Pretext for deep conversations_. I've done a few of these kind of workshops, and every single time I meet really interesting people who are there to open up and talk about fun serious things.
 
 
-
-
+<br><br>
 
 ---
 
+<br>
+
+## Related
+
+* <a href="{{schw}}">Schwitzgebel on our broad ineptitude</a>
 
 <br><br>
 

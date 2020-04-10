@@ -23,3 +23,4 @@
 {%	assign psyphy = "https://en.wikipedia.org/wiki/Psychophysics"		%}
 {%	assign incorr = "https://en.wikipedia.org/wiki/Incorrigibility"		%}
 {%	assign gend = "https://www.goodreads.com/review/show/2504127772"		%}
+{%	assign schw = "https://read.dukeupress.edu/the-philosophical-review/article-abstract/117/2/245/2787/The-Unreliability-of-Naive-Introspection?redirectedFrom=fulltext"		%}
