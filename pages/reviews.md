@@ -2,7 +2,7 @@
 layout:     page
 title:      Reading
 permalink:  /books
-visible:    true
+visible:    false
 ---
 
 {%	assign gr = "https://www.goodreads.com/user/show/68316850-gavin"	%}
