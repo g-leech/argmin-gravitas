@@ -17,7 +17,8 @@ wordcount:
 ---
 
 <center>
-	<small>No affiliate links because I am lazy.</small><br><br>
+	<small>No affiliate links, because I am lazy.</small><br>
+	<small>Prices given are what I paid, usually during a sale.</small><br><br>
 </center>
 
 
@@ -30,15 +31,17 @@ wordcount:
 
 <!-- * Electric toothbrush. Somehow much less boring. This one buzzes when you've done 2 mins too.<br> -->
 
-* <a href="{{green}}">Powdered greens</a> (£25 for 100 days). I like leafy veg, but the cost and the low shelf-life makes me eat it less than I want. I mix 10g of this into my morning shakes and feel virtuous at least. Wait for the 40% deals.<br>
+* <a href="{{green}}">Powdered greens</a> (£25 for 100 days). I like leafy veg, but the cost and the low shelf-life makes me eat it less than I want. I mix 10g of this into my morning shakes and feel virtuous at least. Wait for it to be 40% off.<br>
 
 * <a href="{{zinc1}}">Zinc acetate</a> lozenges (£10 for 30). There's <a href="{{zinc2}}">some evidence</a> that keeping particular ligands of zinc in your mouth when you have a cold speeds up your recovery, maybe by a full day. Many other viruses also perish under zincky attention, so they're out of stock as of Spring 2020.<br>
 
-* <a href="{{mask}}">Sleep mask</a> (£8). You want one which curves away from your eyelashes and isn't too hot. This is excellent.<br>
+* <a href="{{mask}}">Sleep mask</a> (£8). I slept poorly after I moved to the city, mostly because of ambient light. Now I don't! You want one which curves away from your eyelashes and isn't too hot. This is excellent.<br>
 
 * <a href="{{oxy}}">Oxymetazoline</a> (£8 for months). Never mind the Vicks or the steam bath. This clears your nose in seconds; makes sleeping when ill _much_ easier.<br>
 
 * Anyone can book a <a href="https://www.boots.com/vaccinations/flujab">winter flu jab</a> for about £10. IIRC, in expectation this should save you about 12h of misery / lost work.<br>
+
+* Blood tests are cheap now! (£30 or so.) Even if you don't feel bad, there's very little reason not to check, say every two years. Vitamin D and iron are a good start; "subclinical" deficiencies of them are common. I found I had slightly low ferritin, and this was such a cheap thing to fix. <a href="{{thriv}}">This service</a> signs you up to a biannual subscription, but you can just cancel after the first one.
 
 ## Food
 
@@ -74,12 +77,17 @@ wordcount:
 * I don't know if it counts as productivity, since I spend about an hour a day playing with it, but <a href="{{roam}}">Roam</a> is the best personal knowledge base software I've seen. Text, maths, code, images, bidirectional links, single-copy imports... It promises to unify me across decades. (My blogs also do this, but only for the top 1% of thoughts.) Workflowy and Notion are a tree: Roam is the awesome power of a graph, which is what thoughts are like. Currently free, soon to be pricey.
 
 
-
 ## Security
 
 * <a href="{{kee}}">KeePassX</a> password manager (£0). Works on every platform: Linux, Win, Mac, Android. Probably saves a few minutes a week and a lot of mental overhead. See <a href="/browser">here</a> for why you want this.<br>
 
-* <a href="{{etf}}">Vanguard ETFs</a>. One of the most surprising facts is that automatic index funds outperform "actively managed" (paying a finance person) ones, after you subtract their fees. Vanguard are the original and are among the lowest fees, about 0.15% of your return. I use a variant of <a href="{{simp}}">the Simplicity Portfolio</a> and rebalance every 6 months. Some of you may be happy that they are "<a href="{{bloom}}">communist</a>" too. Above I said that only nicotine has any real risk but these are a layer of abstraction over the stock market, so obviously be careful.<br>
+* <a href="{{proton}}">Protonmail</a> is free and actually secure. <br>
+
+* <a href="{{vpn}}">Private Internet Access</a> VPN (£50 per year). VPNs are imperfect, but they help mitigate a few different problems (IP tracking, unencrypted traffic, ISP logs, public wifi spoofing, geo-locking, app requests). PIA got a subpoena for their logs and <a href="{{logs}}">they came up clean</a>. Again, see <a href="/browser">here</a>.<br>
+
+* <a href="{{pi}}">Pi-hole</a> ad blocker (£25). Stops ads at the source, for every device in your house at once.<br>
+
+* <a href="{{etf}}">Vanguard ETFs</a>. One of the most surprising facts is that automatic index funds outperform "actively managed" (paying a finance person) ones, after you subtract their fees. Vanguard are the original and are among the lowest fees, about 0.15% of your return. I use a variant of <a href="{{simp}}">the Simplicity Portfolio</a> and rebalance every 6 months. You may be amused to hear that they are "<a href="{{bloom}}">communist</a>". Above, I said that only nicotine has any real risk - but these are a layer of abstraction over the stock market, so obviously be careful.<br>
 
 ## Fun
 
@@ -122,4 +130,13 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 * <a href="{{scott}}">Scott</a> <a href="{{alex}}">Alexander</a>
 * <a href="{{rob}}">Rob Wiblin</a>
 * <a href="{{sam}}">Sam Bowman</a>
+* <a href="{{guz}}">Alexey Guzey</a>
+* <a href="{{jos}}">Jose Ricon</a>
+* <a href="{{mcc}}">Peter McCluskey</a>
 * <a href="{{lw}}">Various (2012)</a>
+
+<br><br>
+
+{%	include comments.html	%}
+
+<br><br>
