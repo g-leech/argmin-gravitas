@@ -23,7 +23,7 @@ wordcount:  1480
 
 
 <center>
-	<img src="/img/turing.jpg" width="30%" />
+	<img src="/img/turing.jpg" width="40%" />
 </center><br>
 
 <blockquote>in the early days of computing, a number of terms for the practitioners of the field of computing were suggested in the Communications of the ACM — turingineer, turologist, flow-charts-man, applied meta-mathematician, and applied epistemologist.</blockquote><center>- wiki</center>
@@ -31,7 +31,7 @@ wordcount:  1480
 
 <blockquote><i>In a man of his type, one never knows what his mental processes are going to do next.</i></blockquote><center>- JAK Ferns, Turing's coroner</center><br><br/>
 
-There have been two big films about Turing (three if you count the uselessly fictionalised <i>Enigma</i> (2001)). All are dishonestly melodramatic to some degree; for instance they depict Turing's relationship with his dead love Christopher as the driver of his work on machine intelligence. And more generally they depict him as tragic. But he wasn't tragic: we were. In the 1950s we attacked a superlatively profound person, because we were certain it was the right thing to do.
+There have been two big films about Turing (three if you count the uselessly fictionalised <i>Enigma</i> (2001)). All are dishonestly melodramatic to some degree; for instance they depict Turing's relationship with his dead love Christopher as the driver of his work on machine intelligence. And more generally they depict him as tragic. But he wasn't tragic: we were. In the 1950s we attacked a superlative person, because we were certain it was the right thing to do.
 <br/>
 <br/>Hodges, whose book began the great public rehabilitation of Turing and served as the source for the films, bears no blame for this: it's one of the best biographies I've ever read (better even than Kanigel on Ramanujan and Issacson on Einstein). Hodges actually understands Turing's work, not just its consequences, and not just the drama around it. And what work!
 <br/>
