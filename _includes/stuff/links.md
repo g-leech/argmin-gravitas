@@ -30,3 +30,11 @@
 {%	assign msg = "https://www.amazon.co.uk/Ajinomoto-MONOSODIUM-GLUTAMATE-454G-1LB/dp/B0050O7N4C/ref=sr_1_2?dchild=1&keywords=msg&qid=1586602913&sr=8-2"	%}
 {%	assign marv = "https://www.amazingmarvin.com/pricing.html"	%}
 {%	assign jp = "http://www.filcokeyboards.co.uk/"	%}
+
+{%	assign mcc = "http://www.bayesianinvestor.com/blog/index.php/2019/01/17/bundle-your-experiments/"		%}
+{%	assign thriv = "https://app.thriva.co/health-survey/sections/intro"	%}
+{%	assign guz = "https://guzey.com/tools-gear/"		%}
+{%	assign jos = "https://nintil.com/1-stuff-i-own-and-use/"		%}
+{%	assign proton = "https://protonmail.com/"		%}
+{%	assign logs = "https://www.privateinternetaccess.com/forum/discussion/26284/pia-looks-like-you-were-not-turthful-in-the-announcement-request-for-info"		%}
+{%	assign pi = "https://pi-hole.net/"		%}
