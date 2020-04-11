@@ -1,0 +1,32 @@
+{%	assign green = "https://www.bulkpowders.co.uk/complete-greens.html"		%}
+{%	assign oxy = "https://www.chemist.co.uk/snoreeze-nasal-spray.html?awc=13507_1586603422_5aaf4e77c3108526ab8e4c85bef62f2d&utm_campaign=Direct+Linking&utm_medium=639029&utm_source=AWIN"	%}
+{%	assign fil = "https://www.keyboardco.com/keyboard/filco-convertible-2-tenkeyless-silent-soft-linear-action-uk-iso-keyboard.asp"		%}
+
+{%	assign nic = "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-nicotine-rep-lozenges-peppermint-4mg-x72?catalogId=10241&productId=90730&storeId=10151&langId=44&krypto=BMdV2%2FLLKXZX4KaP1iRjq8RSd3Sowu72wkIr%2Fewdxj8JVj5EvQhUcdn%2F2cLawp%2BggmZfJcomLmpVwFrJbGdrr8glJub66DX3DE3m9jRQuudaYYlqJC8YXZGlOcBBIcpOb5sAfUwd84AN0qq1JnpYNEgBUL%2BYD1Qw%2FyWstUZDmtvSj%2FvOInczIFG6flKU%2B05Wgos1ERn2XibbJy514SEy%2Bw%3D%3D&ddkey=https%3Agb%2Fgroceries%2Fsainsburys-nicotine-rep-lozenges-peppermint-4mg-x72"		%}
+{%	assign kee = "https://www.keepassx.org/"		%}
+{%	assign ks = "https://www.amazon.co.uk/s?k=kitsound+bluetooth+speaker&i=electronics&crid=20FB1ET3YOYB1&sprefix=kitsound+%2Celectronics%2C152&ref=nb_sb_ss_i_1_9"		%}
+{%	assign noo = "https://www.amazon.co.uk/Nutritional-Yeast-Flakes-Tasting-Premium/dp/B07LBRN88S/ref=sr_1_12?crid=38KW28E63F8FA&dchild=1&keywords=nutritional+yeast&qid=1586604191&sprefix=nutritional+%2Caps%2C187&sr=8-12"		%}
+{%	assign bow = "https://www.fitness-superstore.co.uk/bowflex-2-24-kg-selecttech-dumbbells-pair.html"		%}
+{%	assign etf = "https://www.vanguardinvestor.co.uk/what-we-offer/etf-products"		%}
+{%	assign simp = "https://theescapeartist.me/2015/07/28/the-simplicity-portfolio/"		%}
+{%	assign zinc2 = "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012808/epdf/full"		%}
+{%	assign mask = "https://www.amazon.co.uk/Dream-Essentials-Dreams-Contoured-Earplugs/dp/B005BD7AHC?th=1"		%}
+{%	assign zinc1 = "https://www.lifeextensioneurope.com/enhanced-zinc-lozenges-30-vegetarian-lozenges"		%}
+{%	assign bose = "https://www.amazon.co.uk/Bose-QuietComfort-Around-Ear-Cancelling-Headphones-Black/dp/B00M1NEUKK"		%}
+{%	assign alex = "https://slatestarcodex.com/2014/11/30/cyber-monday-product-recommendations/"		%}
+{%	assign roam = "https://roamresearch.com/"		%}
+{%	assign sub = "https://www.sublimehq.com/store/text"		%}
+{%	assign nic = "https://www.gwern.net/Nicotine"		%}
+
+{%	assign korn = "https://www.amazon.co.uk/Luxvista-Daylight-Replacement-Warehouse-Backyard/dp/B072J2SWLS/ref=sr_1_9?dchild=1&keywords=corn%2Bbulb&qid=1586285521&s=lighting&sr=1-9&th=1"		%}
+{%	assign scott = "https://slatestarcodex.com/2015/12/03/product-recommendations-2015/"	%}
+{%	assign bloom = "https://www.bloomberg.com/opinion/articles/2016-08-24/are-index-funds-communist"	%}
+{%	assign rob = "https://medium.com/@robertwiblin/things-i-recommend-you-buy-and-use-rob-edition-1d7b2ce27d68"	%}
+{%	assign sam = "https://medium.com/@s8mb/things-i-recommend-you-buy-and-use-second-edition-457a8e7163f6"	%}
+{%	assign haw = "https://www.hawesandcurtis.co.uk/menswear/shirts"		%}
+{%	assign lw = "https://www.lesswrong.com/posts/3ibmxAsvmFftXmYHX/less-wrong-product-and-service-recommendations"	%}
+{%	assign q = "https://queal.com/shop/steady-standard/"		%}
+{%	assign pcs = "https://www.pcspecialist.co.uk/thin-light-laptops/"	%}
+{%	assign msg = "https://www.amazon.co.uk/Ajinomoto-MONOSODIUM-GLUTAMATE-454G-1LB/dp/B0050O7N4C/ref=sr_1_2?dchild=1&keywords=msg&qid=1586602913&sr=8-2"	%}
+{%	assign marv = "https://www.amazingmarvin.com/pricing.html"	%}
+{%	assign jp = "http://www.filcokeyboards.co.uk/"	%}
