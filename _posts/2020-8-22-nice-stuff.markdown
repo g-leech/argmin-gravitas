@@ -28,16 +28,17 @@ wordcount:
 
 * <a href="{{bow}}">Bowflex SelectTech 552</a> dumbbell (£180). By my desk; much harder to avoid than the gym. 15 dumbbells in one. I love how little space they take, and the design is extremely satisfying. You can get by with one.<br>
 
-
 <!-- * Electric toothbrush. Somehow much less boring. This one buzzes when you've done 2 mins too.<br> -->
 
 * <a href="{{green}}">Powdered greens</a> (£25 for 100 days). I like leafy veg, but the cost and the low shelf-life makes me eat it less than I want. I mix 10g of this into my morning shakes and feel virtuous at least. Wait for the 40% deals.<br>
 
-* <a href="{{zinc1}}">Zinc acetate</a> lozenges. There's <a href="{{zinc2}}">some evidence</a> that keeping particular ligands of zinc in your mouth when you have a cold speeds up your recovery, maybe by a full day. Many other viruses also perish under zincky attention, so they're out of stock as of Spring 2020.<br>
+* <a href="{{zinc1}}">Zinc acetate</a> lozenges (£10 for 30). There's <a href="{{zinc2}}">some evidence</a> that keeping particular ligands of zinc in your mouth when you have a cold speeds up your recovery, maybe by a full day. Many other viruses also perish under zincky attention, so they're out of stock as of Spring 2020.<br>
 
-* <a href="{{mask}}">Sleep mask</a>. You want one which curves away from your eyelashes and isn't too hot. This is excellent.<br>
+* <a href="{{mask}}">Sleep mask</a> (£8). You want one which curves away from your eyelashes and isn't too hot. This is excellent.<br>
 
 * <a href="{{oxy}}">Oxymetazoline</a> (£8 for months). Never mind the Vicks or the steam bath. This clears your nose in seconds; makes sleeping when ill _much_ easier.<br>
+
+* Anyone can book a <a href="https://www.boots.com/vaccinations/flujab">winter flu jab</a> for about £10. IIRC, in expectation this should save you about 12h of misery / lost work.<br>
 
 ## Food
 
@@ -59,7 +60,7 @@ wordcount:
 
 * <a href="{{bose}}">Bose QuietComfort 25</a> (£100). Being able to turn down noise is a superpower: actual focus. They even made working in an open-plan office intermittently tolerable. They don't work _that_ well on conversations, but are excellent for humming appliances, engine roar, wind. Lasted 3.5 years so far. These are the wired ones because I resented paying an extra £100 for a transponder; I've had to replace the cable twice, 2 x £7.<br>
 
-* <a href="{{nic}}">Nicotine lozenges</a> (8p a day). <a href="{{nic}}">Better than caffeine</a>. Vaping is cheaper but riskier and restricted in many locations. Takes a little while to get used to the mild burning. This is the only thing on this list with real risks. _DO NOT EAT A WHOLE ONE WHEN YOU START; start with 0.5mg or less and don't swallow it_.<br>
+* <a href="{{nic}}">Nicotine lozenges</a> (8p a day). <a href="{{gwern}}">Better than caffeine</a>. Vaping is cheaper but riskier and restricted in many locations. Takes a little while to get used to the mild burning. This is the only thing on this list with real risks. _DO NOT EAT A WHOLE ONE WHEN YOU START; start with 0.5mg or less and don't swallow it_.<br>
 
 * <a href="{{marv}}">Amazing Marvin</a> is the nicest to-do list ever. It's programmable and supports dozens of different productivity systems, recurring reminders, timers, whatever. Lifetime subscription is pretty cheap during Xmas sales too (£150).<br>
 
@@ -88,7 +89,7 @@ wordcount:
 
 * Two actually nice shirts (<a href="{{haw}}">£40</a>). There are a lot of weddings in my life at the moment. And besides that it's nice to surprise people once in a while.<br>
 
-* Fairy lights make all rooms nicer, any time of year.
+* Fairy lights make all rooms nicer, any time of year (£20 for loads).
 
 <br>
 
@@ -96,7 +97,23 @@ wordcount:
 
 <br>
 
-Why write this? One of the big bottlenecks to improving your life is just knowing that it's possible to improve a given part. For some reason people don't share their data on this, probably due to a reaction against vulgar consumerism.
+## Cost-effectiveness
+
+Rather than just telling you their cost, I should say how much good they do per pound. Ignoring the free ones, which you should just go and get now, I think the best are:
+
+1. Vanguard ETFs. Negative cost, and they're hard to beat on returns/fee unless you're full-time Finance. NaN:1
+2. Sleep mask. Massively improved sleep quality, without having to alter the room, close the windows, whatever. 100:1.
+4. Dumbbells. A cheap gym membership is £150 a year; using these a couple times a week for 2 years means I've saved hundreds of pounds and dozens of hours commuting. They should last 15 years, so maybe total 30:1. (During the present lockdown, with gyms closed, the dumbbells get a temporary massive boost too.)
+4. Meal shakes once a day. Saves money (if a lunch would otherwise be £4) and time. Also a handy automatic prepper store. 10:1. 
+5. Mechanical keyboard. Assuming this decreases my RSI risk by 1%, it will have paid off 10 times over. But also in comfort and fun alone. 10:1
+
+<br>
+
+---
+
+<br>
+
+Why write this? One of the big bottlenecks to improving your life is just knowing that it's possible to improve a given part. For some reason people don't share their data on this, probably a reaction against vulgar consumerism.
 
 <br>
 

@@ -16,7 +16,7 @@
 {%	assign alex = "https://slatestarcodex.com/2014/11/30/cyber-monday-product-recommendations/"		%}
 {%	assign roam = "https://roamresearch.com/"		%}
 {%	assign sub = "https://www.sublimehq.com/store/text"		%}
-{%	assign nic = "https://www.gwern.net/Nicotine"		%}
+{%	assign gwern = "https://www.gwern.net/Nicotine"		%}
 
 {%	assign korn = "https://www.amazon.co.uk/Luxvista-Daylight-Replacement-Warehouse-Backyard/dp/B072J2SWLS/ref=sr_1_9?dchild=1&keywords=corn%2Bbulb&qid=1586285521&s=lighting&sr=1-9&th=1"		%}
 {%	assign scott = "https://slatestarcodex.com/2015/12/03/product-recommendations-2015/"	%}
