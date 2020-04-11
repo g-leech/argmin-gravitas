@@ -21,6 +21,8 @@ wordcount:
 </center>
 
 
+{%	include stuff/links.md	%}
+
 
 ## Health
 
@@ -51,19 +53,19 @@ wordcount:
 
 * <a href="{{fil}}">Filco Majestouch mechanical keyboard</a> (£99). Feels amazing, built like a tank. The noise takes some getting used to. I went for Red switches (quieter but also less tactile). I don't need a numpad but _maybe_ you do. (PS: you have to love <a href="{{jp}}">Japanese web design</a>, as long as you don't have to rely on it.)<br>
 
-* <a href="{{sub}}">Sublime Text</a> (£35). I do basically of my writing and coding in this. Wonderful search, regex, markdown, and build options. Packages for everything. There are languages that really need IDEs (Java comes to mind), but I don't write in em. You can get it free, but I wanted to support it. I hear VS Code is even better but I am content.<br>
+* <a href="{{sub}}">Sublime Text</a> (£35). I do basically all of my writing and coding in this editor. Wonderful search, regex, markdown, and build options. Packages for everything. There are languages that really need IDEs (Java comes to mind), but I don't write in em. You can get it free, but I wanted to support it. I hear VS Code is even better but I am content.<br>
 
 * This blog is hosted on <a href="https://www.netlify.com/">Netlify</a>, they are amazing and free for small fry.<br>
 
-* <a href="{{bose}}">Bose QuietComfort 25</a> (£100). Being able to turn down noise is a superpower: actual focus. They even made working in an open plan office intermittently tolerable. They don't work _that_ well on conversations, but are excellent for humming appliances, engine roar, wind. Lasted 3.5 years so far. These are the wired ones because I resented paying an extra £100 for a transponder; I've had to replace the cable twice, £15.<br>
+* <a href="{{bose}}">Bose QuietComfort 25</a> (£100). Being able to turn down noise is a superpower: actual focus. They even made working in an open-plan office intermittently tolerable. They don't work _that_ well on conversations, but are excellent for humming appliances, engine roar, wind. Lasted 3.5 years so far. These are the wired ones because I resented paying an extra £100 for a transponder; I've had to replace the cable twice, 2 x £7.<br>
 
 * <a href="{{nic}}">Nicotine lozenges</a> (8p a day). <a href="{{nic}}">Better than caffeine</a>. Vaping is cheaper but riskier and restricted in many locations. Takes a little while to get used to the mild burning. This is the only thing on this list with real risks. _DO NOT EAT A WHOLE ONE WHEN YOU START; start with 0.5mg or less and don't swallow it_.<br>
 
-* <a href="{{marv}}">Amazing Marvin</a> is the nicest to-do list ever. It's programmable and supports dozens of different productivity systems, recurring reminders, timers, whatever. Lifetime subscription is pretty cheap during Xmas sales too.<br>
+* <a href="{{marv}}">Amazing Marvin</a> is the nicest to-do list ever. It's programmable and supports dozens of different productivity systems, recurring reminders, timers, whatever. Lifetime subscription is pretty cheap during Xmas sales too (£150).<br>
 
 * <a href="{{korn}}">45W Corn Light</a> (£20). I don't have SAD, but during winter I noticed a little bump in mood and energy from hanging up 3 of these very bright blue LED clusters. Each is about 400W equivalent in terms of halogen bulbs.<br>
 
-* A physical Tomato Timer. I forget that the pomodoro work technique exists, so this helps with that.<br>
+* A physical Tomato Timer (£5). I forget that the pomodoro work technique exists, so this helps with that.<br>
 
 
 * In the UK, <a href="{{pcs}}">PCSpecialist</a> sell fast cheap Taiwanese laptops, to spec. Roughly 40% more computer for a given price than Dell. I've had a Lafite III for 2 years, going strong (though it runs hot when working hard). Great customer service too.
