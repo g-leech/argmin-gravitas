@@ -5,7 +5,7 @@ baselink:   /stuff
 permalink:  /stuff
 date:       2020-04-11
 author:     Gavin   
-img:        /img/corn.png
+img:        /img/corn.jpg
 
 visible:    1
 published:  true
