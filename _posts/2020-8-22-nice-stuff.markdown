@@ -16,9 +16,14 @@ importance: 4
 wordcount:  
 ---
 
+<img src="/img/still-life.jpg" /><br>
+
+
 <center>
-	<small>No affiliate links, because I am lazy.</small><br>
-	<small>Prices given are what I paid, usually during a sale.</small><br><br>
+	<small>
+		No affiliate links, because I am lazy.<br>
+		Prices given are what I paid, usually during a sale.
+	</small><br><br>
 </center>
 
 
@@ -120,6 +125,12 @@ Rather than just telling you their cost, I should say how much good they do per 
 ---
 
 <br>
+
+
+<center>
+	<img src="/img/stash.jpg" width="60%" />
+</center>
+<br><br>
 
 Why write this? One of the big bottlenecks to improving your life is just knowing that it's possible to improve a given part. For some reason people don't share their data on this, probably a reaction against vulgar consumerism.
 
