@@ -33,6 +33,7 @@ wordcount:
 ## Health
 
 * <a href="{{bow}}">Bowflex SelectTech 552</a> dumbbell (£180). By my desk; much harder to avoid than the gym. 15 dumbbells in one. I love how little space they take, and the design is extremely satisfying. You can get by with one.<br>
+_Expected lifespan_: 15 years?
 
 <!-- * Electric toothbrush. Somehow much less boring. This one buzzes when you've done 2 mins too.<br> -->
 
@@ -41,12 +42,15 @@ wordcount:
 * <a href="{{zinc1}}">Zinc acetate</a> lozenges (£10 for 30). There's <a href="{{zinc2}}">some evidence</a> that keeping particular ligands of zinc in your mouth when you have a cold speeds up your recovery, maybe by a full day. Many other viruses also perish under zincky attention, so they're out of stock as of Spring 2020.<br>
 
 * <a href="{{mask}}">Sleep mask</a> (£8). I slept poorly after I moved to the city, mostly because of ambient light. Now I don't! You want one which curves away from your eyelashes and isn't too hot. This is excellent.<br>
+_Expected lifespan_: 2 years?
 
 * <a href="{{oxy}}">Oxymetazoline</a> (£8 for months). Never mind the Vicks or the steam bath. This clears your nose in seconds; makes sleeping when ill _much_ easier.<br>
 
 * Anyone can book a <a href="https://www.boots.com/vaccinations/flujab">winter flu jab</a> for about £10. IIRC, in expectation this should save you about 12h of misery / lost work.<br>
+_Expected lifespan_: 1 year
 
-* Blood tests are cheap now! (£30 or so.) Even if you don't feel bad, there's very little reason not to check, say every two years. Vitamin D and iron are a good start; "subclinical" deficiencies of them are common. I found I had slightly low ferritin, and this was such a cheap thing to fix. <a href="{{thriv}}">This service</a> signs you up to a biannual subscription, but you can just cancel after the first one.
+* Blood tests are cheap now! (£30 or so.) Even if you don't feel bad, there's very little reason not to check, say every two years. Vitamin D and iron are a good start; "subclinical" deficiencies of them are common. I found I had slightly low ferritin, and this was such a cheap thing to fix. <a href="{{thriv}}">This service</a> signs you up to a biannual subscription, but you can just cancel after the first one.<br>
+_Expected lifespan_: 2 years
 
 ## Food
 
@@ -55,27 +59,33 @@ wordcount:
 * <a href="{{msg}}">MSG powder</a> (£4 for 200 meals). Average vegan food is good but just needs a lot more fat and umami. I get the latter from a sprinkling of magic dusts (MSG and <a href="{{noo}}">nutritional yeast</a>). There is no good evidence that it has any negative health effects, and in fact it's a little healthier than table salt (less sodium).<br>
 
 * You want one good chef's knife. (You hurt yourself less with a really sharp knife since its motion is more predictable.) I just bought a random £25 one in Tesco and it is excellent.
+_Expected lifespan_: 3 years if you sharpen it
 
 
 
 ## Productivity
 
 * <a href="{{fil}}">Filco Majestouch mechanical keyboard</a> (£99). Feels amazing, built like a tank. The noise takes some getting used to. I went for Red switches (quieter but also less tactile). I don't need a numpad but _maybe_ you do. (PS: you have to love <a href="{{jp}}">Japanese web design</a>, as long as you don't have to rely on it.)<br>
+_Expected lifespan_: 10 years? Or never if I get into soldering.
 
 * <a href="{{sub}}">Sublime Text</a> (£35). I do basically all of my writing and coding in this editor. Wonderful search, regex, markdown, and build options. Packages for everything. There are languages that really need IDEs (Java comes to mind), but I don't write in em. You can get it free, but I wanted to support it. I hear VS Code is even better but I am content.<br>
+_Expected lifespan_: Forever.
 
 * This blog is hosted on <a href="https://www.netlify.com/">Netlify</a>, they are amazing and free for small fry.<br>
 
-* <a href="{{bose}}">Bose QuietComfort 25</a> (£100). Being able to turn down noise is a superpower: actual focus. They even made working in an open-plan office intermittently tolerable. They don't work _that_ well on conversations, but are excellent for humming appliances, engine roar, wind. Lasted 3.5 years so far. These are the wired ones because I resented paying an extra £100 for a transponder; I've had to replace the cable twice, 2 x £7.<br>
+* <a href="{{bose}}">Bose QuietComfort 25</a> (£150). Being able to turn down noise is a superpower: actual focus. They even made working in an open-plan office intermittently tolerable. They don't work _that_ well on conversations, but are excellent for humming appliances, engine roar, wind. Lasted 3.5 years so far. These are the wired ones because I resented paying an extra £100 for a transponder; I've had to replace the cable twice, 2 x £7, and probably about £20 of batteries.<br>
+_Expected lifespan_: I guess 5 years?
 
 * <a href="{{nic}}">Nicotine lozenges</a> (8p a day). <a href="{{gwern}}">Better than caffeine</a>. Vaping is cheaper but riskier and restricted in many locations. Takes a little while to get used to the mild burning. This is the only thing on this list with real risks. _DO NOT EAT A WHOLE ONE WHEN YOU START; start with 0.5mg or less and don't swallow it_.<br>
 
 * <a href="{{marv}}">Amazing Marvin</a> is the nicest to-do list ever. It's programmable and supports dozens of different productivity systems, recurring reminders, timers, whatever. Lifetime subscription is pretty cheap during Xmas sales too (£150).<br>
+_Expected lifespan_: Forever. (10 years)
 
 * <a href="{{korn}}">45W Corn Light</a> (£20). I don't have SAD, but during winter I noticed a little bump in mood and energy from hanging up 3 of these very bright blue LED clusters. Each is about 400W equivalent in terms of halogen bulbs.<br>
+_Expected lifespan_: Probably 10 years.
 
 * A physical Tomato Timer (£5). I forget that the pomodoro work technique exists, so this helps with that.<br>
-
+_Expected lifespan_: 5 years.
 
 * In the UK, <a href="{{pcs}}">PCSpecialist</a> sell fast cheap Taiwanese laptops, to spec. Roughly 40% more computer for a given price than Dell. I've had a Lafite III for 2 years, going strong (though it runs hot when working hard). Great customer service too.
 
@@ -91,16 +101,20 @@ wordcount:
 * <a href="{{vpn}}">Private Internet Access</a> VPN (£50 per year). VPNs are imperfect, but they help mitigate a few different problems (IP tracking, unencrypted traffic, ISP logs, public wifi spoofing, geo-locking, app requests). PIA got a subpoena for their logs and <a href="{{logs}}">they came up clean</a>. Again, see <a href="/browser">here</a>.<br>
 
 * <a href="{{pi}}">Pi-hole</a> ad blocker (£25). Stops ads at the source, for every device in your house at once.<br>
+_Expected lifespan_: 5 years.
 
 * <a href="{{etf}}">Vanguard ETFs</a>. One of the most surprising facts is that automatic index funds outperform "actively managed" (paying a finance person) ones, after you subtract their fees. Vanguard are the original and are among the lowest fees, about 0.15% of your return. I use a variant of <a href="{{simp}}">the Simplicity Portfolio</a> and rebalance every 6 months. You may be amused to hear that they are "<a href="{{bloom}}">communist</a>". Above, I said that only nicotine has any real risk - but these are a layer of abstraction over the stock market, so obviously be careful.<br>
 
 ## Fun
 
 * <a href="{{ks}}">KS Miami</a> bluetooth speaker (£20). Surprisingly good bass; makes watching things on a laptop much less dreadful. Good battery life too.<br>
+_Expected lifespan_: 4 years.
 
-* Tailored socks. One of my favourite possessions. I have socks which _actually_ fit for the first time. (The creator took 6 measurements!) It was a gift, but I would probably pay £30 for them.<br>
+* Tailored socks. One of my favourite possessions. I have socks which _actually_ fit for the first time. (The creator took 6 measurements!) It was a gift, but I would probably pay £30.<br>
+_Expected lifespan_: 3 years.
 
 * Two actually nice shirts (<a href="{{haw}}">£40</a>). There are a lot of weddings in my life at the moment. And besides that it's nice to surprise people once in a while.<br>
+_Expected lifespan_: 3 years.
 
 * Fairy lights make all rooms nicer, any time of year (£20 for loads).
 
