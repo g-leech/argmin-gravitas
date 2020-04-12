@@ -51,4 +51,5 @@
 {% assign scaru = "https://www.scaruffi.com/"		%}
 {% assign ben = "https://www.benkuhn.net/"		%}
 {% assign tab = "https://www.tablesgenerator.com/"	%}
+{% assign riedel = "https://blog.jessriedel.com/all-posts-2/"		%}
 

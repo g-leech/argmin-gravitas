@@ -45,6 +45,7 @@
 			<a href="{{ben}}">Ben Kuhn</a>, <br>
 			<a href="{{lukeprog}}">Luke Muehlhauser</a>, <br>
 			<a href="{{tram}}">Philip Trammell</a>, <br>
+			<a href="{{riedel}}">Jess Riedel</a>, <br>
 			<a href="{{scaru}}">Piero Scaruffi</a>, <br>
 	    </td>
 	    <td class="tg-zv4m">
