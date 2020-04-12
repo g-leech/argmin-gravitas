@@ -53,16 +53,4 @@
 {% 	assign app	=	"https://en.wikipedia.org/wiki/Appeal_to_nature"		%}
 {% 	assign empathy	=	"http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055341"		%}
 {% 	assign insta	=	"https://www.instagram.com/explore/tags/booklover/?hl=en"		%}
-
-
-
-
-
-
-
-
-
-
-
-
-
+{%	assign ried = "https://blog.jessriedel.com/2014/02/03/hason-ism-travel-isnt-about-intellectual-exposure/"	%}
