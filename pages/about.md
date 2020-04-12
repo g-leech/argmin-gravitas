@@ -5,14 +5,16 @@ permalink:	/about/
 visible:	true
 ---
 
-
 {%	include about/links.html	%}
+<div>
 
-I'm <a href="{{ "/cv.pdf" | prepend: site.url }}">Gavin</a>, a PhD candidate in AI at <a href="{{bris}}">Bristol</a>. <a href="#fn:18" id="fnref:18">18</a> My favourite topic <a href="{{sittler}}">is</a> <a href="{{cs}}">technical</a> <a href="{{orseau}}">solutions</a> <a href="{{welf}}">to</a> <a href="{{shminux}}">philosophical</a> <a href="{{comp1}}">problems</a>.<br><br>
+
+</div>
+I'm <a href="{{ '/cv.pdf' | prepend: site.url }}">Gavin</a>, a PhD candidate in AI at <a href="{{bris}}">Bristol</a>. <a href="#fn:18" id="fnref:18">18</a> My favourite topic <a href="{{sittler}}">is</a> <a href="{{cs}}">technical</a> <a href="{{orseau}}">solutions</a> <a href="{{welf}}">to</a> <a href="{{shminux}}">philosophical</a> <a href="{{comp1}}">problems</a>.<br><br>
 <!--  -->
 Technically <a href="{{ea}}">an EA blog</a>, though I don't consider this a blog. (Blogging is more speech than writing.)<br><br>
 <!--  -->
-$10 to anyone who finds a factual or logical error in my posts; also, if I make a clear claim you want to bet against, get in touch for odds. But if you want to talk about _anything_, get in touch. You can contact me by <a href="mailto:{{ site.email }}">email</a>, or anonymously <a href="{{Form}}">here</a>, or extremely privately (via PGP) <a href="{{pgp}}">here</a>.
+$10 to anyone who finds a factual or logical error in my posts; also, if I make a clear claim you want to bet against, get in touch for odds. Or if you want to talk about _anything_, get in touch. You can contact me by <a href="mailto:{{ site.email }}">email</a>, or anonymously <a href="{{Form}}">here</a>, or extremely privately (via PGP) <a href="{{pgp}}">here</a>.
 <br><br>
 
 
@@ -26,6 +28,7 @@ $10 to anyone who finds a factual or logical error in my posts; also, if I make 
 
 <div class="accordion">	
 	<!-- %	include about/now.md	%} -->
+	{%	include about/research.html	%}	
 	{%	include about/favs.html	%}	
 	{%	include about/giving.html	%}	
 	{%	include about/books.html	%}	
