@@ -53,3 +53,5 @@
 {% assign tab = "https://www.tablesgenerator.com/"	%}
 {% assign riedel = "https://blog.jessriedel.com/all-posts-2/"		%}
 
+{% assign pro = "https://www.youtube.com/watch?v=4ZK8Z8hulFg"		%}
+{% assign xkcd = "https://xkcd.com/915/"		%}
