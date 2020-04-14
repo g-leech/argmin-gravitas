@@ -171,6 +171,11 @@ Saying “what I have is good” might reduce your drive to improve the situatio
 
 </div>
 
+<br>
+
+## See also
+
+* _<a href="{{ortho}}">Choosing the Zero Point</a>_ by orthonormal
 
 <br><br><br>
 
