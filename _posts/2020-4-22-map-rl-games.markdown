@@ -16,6 +16,10 @@ importance:	6
 wordcount:	200
 ---
 
+{%	assign jh = "https://www.journals.uchicago.edu/doi/abs/10.1086/257416?journalCode=jpe"	%}
+{%	assign gt ="http://www.cs.cmu.edu/~mmv/papers/00TR-mike.pdf" 	%}
+{%	assign egt ="https://www.sciencedirect.com/science/article/pii/S002205319792319X" 	%}
+
 
 <style type="text/css">
 	.tg {
@@ -91,8 +95,7 @@ wordcount:	200
 		<td>generation</td>
 	</tr>
 	<tr>
-		<td>multi-agent, single-state<br> 
-		deterministic MDP</td>
+		<td>multi-agent multi-armed bandit</td>
 		<td>Matrix game</td>
 		<td>Matrix game</td>
 	</tr>
@@ -126,14 +129,11 @@ wordcount:	200
 </center>
 <br><br>
 
-(For making the correspondence really nice, you could frame evolution from the perspective of a single actor like the others - a hypothetical organism behind a veil of ignorance, selecting which subspecies to join, and the distribution their chance of switching to a given subspecies.)
+(For making the correspondence really nice, you could frame evolution from the perspective of a single actor like the others - a hypothetical organism behind a <a href="{{jh}}">veil of ignorance</a>, maximising their expected fitness by selecting which subspecies to join. The subspecies distribution is then their chance of switching to a given subspecies.)
 
 <br><br>
 
 ## See also
-
-{%	assign gt ="http://www.cs.cmu.edu/~mmv/papers/00TR-mike.pdf" 	%}
-{%	assign egt ="https://www.sciencedirect.com/science/article/pii/S002205319792319X" 	%}
 
 
 * <a href="/conversion">Mapping metaphysics, mathematics, and programming</a>
