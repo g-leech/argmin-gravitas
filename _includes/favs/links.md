@@ -55,3 +55,5 @@
 
 {% assign pro = "https://www.youtube.com/watch?v=4ZK8Z8hulFg"		%}
 {% assign xkcd = "https://xkcd.com/915/"		%}
+{% assign what = "https://what-if.xkcd.com/"	%}
+{% assign log = "https://languagelog.ldc.upenn.edu/nll/"		%}
