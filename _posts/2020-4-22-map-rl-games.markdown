@@ -198,6 +198,7 @@ What to call the topic in common? 'Distributed optimisation'?
 * _<a href="{{gt}}">An Analysis of Stochastic Game Theory for Multiagent
 Reinforcement Learning</a>_ (2000)
 * _<a href="{{egt}}">Learning Through Reinforcement and Replicator Dynamics</a>_ (1997)
+* _<a href="{{cosma}}">In Soviet Russia, Optimisation Problem Solves You</a>_ (2012)
 
 <br><br>
 
