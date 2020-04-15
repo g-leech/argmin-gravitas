@@ -9,8 +9,9 @@ img:		/img/fitness.jpg
 
 visible:	1
 published:	true
+best: 		1
 
-summary: 	Understanding game theory, reinforcement learning, evolutionary dynamics & economic computing, with each other.
+summary: 	Understanding game theory, reinforcement learning, evolutionary dynamics, & economic calculation, with each other.
 confidence:	80%. Couple figurative bits.
 importance:	7
 wordcount:	1000
@@ -53,7 +54,7 @@ wordcount:	1000
     <th>Reinforcement<br>learning</th>
     <th>Game<br>theory</th>
     <th>Evolutionary dynamics</th>
-    <th>Market<br>economics</th>
+    <th>Market<br>calculation</th>
   </tr>
 <!--  -->
 	<tr>

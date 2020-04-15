@@ -11,7 +11,7 @@ published:  true
 visible:    1
 
 summary:    Choosing your reference class for happiness or growth.
-categories: 
+categories: self-help, mental health, philosophy
 confidence: 80% that this axis is important, but the details are vague and untested.
 importance: 7
 wordcount:  

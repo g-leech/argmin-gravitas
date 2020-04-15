@@ -14,6 +14,7 @@ summary:    Why false consciousness is a dangerous idea
 confidence: 70%
 importance: 5
 wordcount:  900
+categories: philosophy, politics, epistemology
 ---
 
 
@@ -27,20 +28,19 @@ First-order model of psychology
 
 Porn, violent videogames, electoral interference.
 
-The Russians can spend $0.1m and totally pervert the discourse, but Bloomberg can spend $700m and die on his feet.
-
+The idea that the Russians can spend $0.1m and totally pervert American discourse, but that Michael Bloomberg can spend $700m and die on his feet, vanish without a trace.
 
 Many interesting theories accuse us of being brainwashed: "You lack information; now, open your eyes":
 
-Tectonics (on solid ground)
+<!-- Tectonics (on solid ground) -->
 
-the unconscious mind (you're so unconscious you don't know you've a massive unconscious)
+the unconscious mind (you're so unconscious you don't realise you've a massive unconscious)
 
-Relativity (space-and-time is squishy; no space without objects; no one thing can move)
+<!-- Relativity (space-and-time is squishy; no space without objects; no one thing can move)
 
 the Everett interpretation (all possible things actually happen)
 
-the germ theory of disease (the world's so dirty you've no idea how dirty)
+the germ theory of disease (the world's so dirty you've no idea how dirty) -->
 
 Radical feminism (you're so oppressed you don't know you're oppressed, and/or you're so sexist you don't know you're sexist)
 
@@ -53,10 +53,13 @@ Wittgenstein II (you're so linguistic you're constantly lost in the woods of you
 genealogies of anything (you're such a slave you don't know you're a slave),
 
 
+<!-- I don’t know that I do suffer as a result of identifying with my thoughts; I don’t think that dissatisfaction lurks in every sensation I ever experience or also my whole life in retrospect. But the old claim, similar to Marxist or feminist ‘false consciousness’, is that I am too owned to realise I’m being owned: -->
 
-Whether the culprit is folk theory, oppressive social structures, blind academic paradigms, or just our own narcissism, we're told again and again that our intuitions make fools of us. Told that our attitude doesn't reflect our objective position (this attitude also known as being human). The conceptual brainwashing involved in all this goes by a number of names depending on the scope of the alleged 'wash: bad faith and doublethink, false consciousness, hidden ideology, cultural hegemony, Repression, 'simple' paradigmatic underdetermination, and so on.
+<!-- > beginning meditators... report after days or weeks of intensive practice that their attention is carried away by thought every few seconds. This is actually progress. It takes a certain degree of concentration to even notice how distracted you are. -->
 
-And many of us love to be accused: the above theories are the biggest doctrines in intellectual culture. What is it about certain concept changes that make us such enthusiastic masochists? Can we only be made to listen to theory when there is a slap in it for us?
+Whether the culprit is folk theory, oppressive social structures, blind academic paradigms, or just our own narcissism, we're told again and again that our intuitions make fools of us. that our attitude doesn't reflect our objective position. All-too-human. The conceptual brainwashing involved in all this goes by a number of names depending on the scope of the alleged 'wash: bad faith and doublethink, false consciousness, latent ideology, cultural hegemony, Repression, 'simple' paradigmatic underdetermination, and so on.
+
+And many of us love to be accused: the above theories are the biggest doctrines in the intellectual culture of the humanities. What is it about certain concept changes that make us such enthusiastic masochists? Can we only be made to listen to theory when there is a slap in it for us?
 
 Now, in the above I conflated scientific revolutions with political identity-work. I suppose I should stop doing that and become serious, since, unlike (most) natural science, the political kind challenges us in a desperate existential way - it accuses us of misunderstanding ourselves, not just continents, disease, or motion. We're still so conceited about our self-knowledge that we can't help but be stung by the suggestion of programming, and stung, I reckon, to morbid curiosity and codependency.
 
@@ -66,7 +69,11 @@ The effort to deprogram us can take a few targets, some more tractable than othe
 
 - Your doublethink and your emotional habits. (e.g. knowing that you're a healthy weight but being nagged by body image issues regardless.)
 
-***********************************************************
+<br>
+
+<hr>
+
+<br>
 
 So what is it that makes us enthusiastic masochists over these ideas?
 
@@ -74,7 +81,11 @@ Well, there's the delicious drama of it, their portentous invitation to reason; 
 
 This new brainwashing - the arrogance of the self-conscious theoretical élite - is far harder to rinse away. woe betide us.
 
-**********************************************
+<br>
+
+<hr>
+
+<br>
 
 It's not just the French and the arts boys who rely on this.
 
@@ -109,4 +120,4 @@ I foolishly wrote off anthropology and sociology in 2013-2017, and was lucky to 
 {%	include comments.html	%}
 
 
-
+<br><br>
