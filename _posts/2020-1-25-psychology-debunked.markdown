@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     math_post
 title:      "Reversals in psychology"
 baselink:   /psych
 permalink:  /psych
