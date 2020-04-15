@@ -17,8 +17,13 @@ wordcount:	200
 ---
 
 {%	assign jh = "https://www.journals.uchicago.edu/doi/abs/10.1086/257416?journalCode=jpe"	%}
-{%	assign gt ="http://www.cs.cmu.edu/~mmv/papers/00TR-mike.pdf" 	%}
-{%	assign egt ="https://www.sciencedirect.com/science/article/pii/S002205319792319X" 	%}
+{%	assign gt = "http://www.cs.cmu.edu/~mmv/papers/00TR-mike.pdf" 	%}
+{%	assign egt = "https://www.sciencedirect.com/science/article/pii/S002205319792319X" 	%}
+{%	assign crm = "https://arxiv.org/abs/1811.00164"	%}
+{%	assign kael = "https://dl.acm.org/doi/10.5555/2074158.2074203"	%}
+{%	assign lipton = "https://dl.acm.org/doi/10.1145/779928.779933"	%}
+{%	assign ppf = "https://en.wikipedia.org/wiki/Production%E2%80%93possibility_frontier"		%}
+{%	assign cosma = "http://webcache.googleusercontent.com/search?q=cache:GsO3yWjNuHwJ:crookedtimber.org/2012/05/30/in-soviet-union-optimization-problem-solves-you/&hl=en&gl=de&strip=1&vwsrc=0"	%}
 
 
 <style type="text/css">
@@ -106,12 +111,35 @@ wordcount:	200
 	</tr>
 	<tr>
 		<td>optimal substructure</td>
-		<td>subgame perfect equilibrium</td>
-		<td>subgame perfect equilibrium</td>
+		<td>subgame perfect <br>equilibrium</td>
+		<td>subgame perfect <br>equilibrium</td>
+	</tr>
+	<tr>
+		<td>known dynamics & rewards</td>
+		<td>common knowledge</td>
+		<td>given fitness function</td>
+	</tr>
+	<tr> <!-- N =|S|  and M = |A| -->
+		<td>
+			MDP: P-complete
+		</td>
+		<!--  -->
+		<td>Nash eq: PPAD-complete</td>
+		<!--  -->
+		<td>ESS: Σ^𝑃_2 complete (NP^SAT)  </td>
+	</tr>
+	<tr>
+		<td>
+			<a href="{{kael}}">Value iteration</a>: O(|A| |S|^2) per iteration
+		</td>
+		<td>
+			<a href="{{lipton}}">Approx</a>: at most <br>O(n^{log n/e^2})  
+		</td>
+		<td>?</td>
 	</tr>
 	<tr>
 		<td>Dynamic Bellman learning</td>
-		<td>No learning</td>
+		<td>No learning <a href="#fn:1" id="fnref:1">1</a></td>
 		<td>Replicator dynamics as learning</td>
 	</tr>
 	<tr>
@@ -130,8 +158,12 @@ wordcount:	200
 <br><br>
 
 (For making the correspondence really nice, you could frame evolution from the perspective of a single actor like the others - a hypothetical organism behind a <a href="{{jh}}">veil of ignorance</a>, maximising their expected fitness by selecting which subspecies to join. The subspecies distribution is then their chance of switching to a given subspecies.)
+<br>
+
+What to call the topic in common? 'Distributed optimisation'? If so, then add "markets" as a fourth column. (Actor; <a href="{{ppf}}">PPF bundle</a>; product lines; profit; market; niche; exogenous shocks; industry; arguably timeless (for complete markets); exchange; general equilibrium; partial equilibrium; perfect information; Arrow-Debreu is in PPAD; <a href="{{cosma}}">O(n^2 log(1/h)</a> for lateral exchange, which is also the learning mechanism.)
 
 <br><br>
+
 
 ## See also
 
@@ -144,5 +176,18 @@ Reinforcement Learning</a>_ (2000)
 <br><br>
 
 {%	include comments.html	%}
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+    	Though there are new forms which do learn, including important relaxations like <a href="{{crm}}">Counterfactual Regret Minimization</a>. Thanks to Misha Yagudin for this point.
+    </li>
+</ol>
+
+</div>
+
 
 <br><br>
