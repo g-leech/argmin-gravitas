@@ -26,12 +26,14 @@
 			<a href="{{sand}}">Anders Sandberg</a>, <br>
 			<a href="{{caplan}}">Bryan Caplan</a>, <br>
 			<a href="{{zach}}">Zach Weiner</a>, <br>
-			<a href="{{greg1}}">Greg Lewis</a>; <br>
 			<a href="{{dave}}">David Pearce</a>; <br>
 			<a href="{{ozy}}">Ozy Frantz</a>; <br>
+			<a href="{{what}}">Randall Munroe</a>; <br>
 			<a href="{{buck}}">Buck Shlegeris</a>, <br>
+			<a href="{{greg1}}">Greg Lewis</a>; <br>
 	    </td>
 	    <td class="tg-zv4m">
+	    	<a href="{{log}}">Mark Liberman</a>, <br>
 	    	<a href="{{huem}}">Mike Huemer</a>, <br>
 			<a href="{{sabine}}">Sabine Hossenfelder</a>,<br>
 			<a href="{{grace1}}">Katja</a> <a href="{{grace2}}">Grace</a>, <br>
@@ -39,8 +41,9 @@
 			<a href="{{hans}}">Robin Hanson</a>, <br>
 			<a href="{{nint}}">Jose Ricon</a>, <br>
 			<a href="{{farrell}}">Henry Farrell</a>; <br>
-			<a href="{{heath}}">Joseph Heath</a>; <br>
+			(Crooked Timber taught me a <i>lot</i>)<br>
 			<a href="{{heal}}">Kieran Healy</a>; <br>
+			<a href="{{heath}}">Joseph Heath</a>; <br>
 			<a href="{{kun}}">Jeremy Kun</a>; <br>
 			<a href="{{ben}}">Ben Kuhn</a>, <br>
 			<a href="{{lukeprog}}">Luke Muehlhauser</a>, <br>
@@ -74,11 +77,18 @@
 		<h3>Sorely missed</h3>
 		<div>
 			<a href="http://haquelebac.wordpress.com/">John Emerson</a>.<br><br> 
+			http://grognor.stacky.net/index.php?title=Main_Page
 		</div>
 		<!--  -->
 		<h3>We could be friends</h3>
 		<div>
+			https://www.drmaciver.com/blog/
+			<br>
+			https://hivewired.wordpress.com/
+			<br>
 			https://unstableontology.com/
+			<br>
+			https://sandymaguire.me/
 			<br>
 			https://autotranslucence.wordpress.com/
 			<br>
