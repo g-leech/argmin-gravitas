@@ -93,8 +93,6 @@ With enough work, maybe there is no-one you cannot associate with. (Barring thei
 
 <br>
 
-https://www.everydaysociologyblog.com/2010/05/ascribed-status-vs-achieved-status-the-case-of-homelessness.html
-
 ## Against identity
 
 Unfortunately for this sunny picture of human potential: most people treat identity as fixed, and deadly serious business. Depending on what you set out to like, bootstrapping could be seen as disloyal (when you decide not to follow your family's faith), decadent (when you have a procession of unused musical instruments in the loft), or appropriative (when you call yourself African after buying up land there).<br /><br />

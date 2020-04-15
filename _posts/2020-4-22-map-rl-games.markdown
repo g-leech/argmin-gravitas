@@ -11,7 +11,7 @@ visible:	1
 published:	true
 best: 		1
 
-summary: 	Understanding game theory, reinforcement learning, evolutionary dynamics, & economic calculation, with each other.
+summary: 	Understanding game theory, reinforcement learning, <br>evolutionary dynamics, & economic calculation, with each other.
 confidence:	80%. Couple figurative bits.
 importance:	7
 wordcount:	1000
