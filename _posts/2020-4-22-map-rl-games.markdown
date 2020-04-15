@@ -12,8 +12,8 @@ published:	true
 
 summary: 	Understanding game theory, reinforcement learning, and evolutionary dynamics with each other.
 confidence:	80%. Couple figurative bits.
-importance:	6
-wordcount:	200
+importance:	7
+wordcount:	1000
 ---
 
 {%	assign jh = "https://www.journals.uchicago.edu/doi/abs/10.1086/257416?journalCode=jpe"	%}

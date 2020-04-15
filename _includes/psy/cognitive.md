@@ -11,31 +11,39 @@
 			<li><span class="b">Original effect size</span>: something like d = minus 1.96 between control and worst condition. (I hope I'm <a href="{{code}}">calculating</a> that wrong.)	<br>
 				<center><a href="#fn:4" id="fnref:4">4</a></center>
 			</li><br>
-			<li><span class="b">Replication effect size</span>: d = 0.04 [−0.07, 0.14]. (NB: not testing the construct the same way.)</li><br>
+			<li>
+				<span class="b">Replication effect size</span>: d = 0.04 [−0.07, 0.14]. (NB: not testing the construct the same way.)
+			</li><br>
 		</ul>
 		<br><br><br><br>
 	</div>
 </div><br>
 
-
-* Questionable evidence for the <span class="b">Dunning-Kruger effect</span>. There are three claims involved:<br><br> 
-	1) the original: that poor performers (e.g. the bottom quartile) overestimate their performance more than good performers do;<br>
-	2) that people <a href="{{sup}}">in general</a> overestimate their own ability;<br>
-	3) the meme: that there's a <a href="{{mtstupid}}">u-shaped relationship</a> between perceived and actual ability.<br>
+* Questionable evidence for (some readings of) the <span class="b">Dunning-Kruger effect</span>. 
 
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
+		4 claims involved:<br><br> 
+	1) the one the authors actually make: that poor performers (e.g. the bottom quartile) overestimate their performance more than good performers do: $$\hat{P}_{q_L} - P_{q_L} > \hat{P}_{q_U} - P_{q_U}$$ 
+	2) that people <a href="{{sup}}">in general</a> overestimate their own ability $$\hat{P} > P$$
+	3) the meme: that there's a <a href="{{mtstupid}}">u-shaped relationship</a> between perceived and actual ability. "The less competent someone is, the more competent they think they are". $$\hat{P} \simeq f(1/P) \,\,\, \mathrm{for} \,\, P < q_M$$
+	3b) Alternatively, that poor performers think they're better than good performers. $$\hat{P}_{q_L}(q_L) > \hat{P}_{q_U}(q_L)$$
+	4) the authors' explanation: that (1) is due to a lack of 'metacognitive' skills, being able to reflect on your ability at the task.<br><br><br>
+	<!--  -->
 		<ul>
-			<li><span class="b">Original paper</span>: '<a href="{{dk}}">Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments.</a>', Dunning & Kruger 1999, n=334. This contains claim (1) and (2) but no hint of (3).
+			<li><span class="b">Original paper</span>: '<a href="{{dk}}">Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments.</a>', Dunning & Kruger 1999, n=334. This contains claims (1), (2), and (4) but no hint of (3).
 				<br>(&#126;5660 citations).</li><br>
 			<li><span class="b">Critiques</span>: <a href="{{nuh16}}">Nuhfer 2016</a> and <a href="{{nuh}}">Nuhfer 2017</a>, n=1154;
-				<a href="{{luu}}">Luu 2015</a>; <a href="{{greenberg}}">Greenberg 2018</a>, n=
+				<a href="{{luu}}">Luu 2015</a>; <a href="{{greenberg}}">Greenberg 2018</a>, n=; <a href="{{yark}}">Yarkoni 2010</a>.
 				<br>
 			(total citations: &#126;20)</li><br>
-			<li><span class="b">Original effect size</span>: 2 of the 4 experiments showed a positive &#126;linear relationship between score and perceived ability; 2 showed no strong relationship. The original paper concedes that there's a <a href="{{dkmath}}">purely statistical</a> explanation for the effect they found: just that it is much easier to overestimate a low number! And if I am a perfect performer, I am <i>unable</i> to overestimate myself. D&K just think there's something left when you subtract this.
+			<li>
+				<span class="b">Original effect size</span>: 2 of the 4 experiments showed a <i>positive</i> relationship between score and perceived ability; 2 showed no strong relationship. And the best performers tended to underestimate their performance. This has been replicated a lot: (2) and (3) are not at all warranted.<br><br> 
+				<!--  -->
+				The original paper concedes that there's a <a href="{{dkmath}}">purely statistical</a> explanation for the effect they found: just that it is much easier to overestimate a low number which has a lower bound! And the converse: if I am a perfect performer, I am <i>unable</i> to overestimate myself. D&K just think there's something left when you subtract this. Also "<i>the primary drivers of errors in judging relative standing are general inaccuracy and overall biases tied to task difficulty</i>". (4) is shakier than (1).
 			</li><br>
-			<li><span class="b">Replication effect size</span>: 3 of the 4 original studies can be explained by noisy tests, bounded scales, and artefacts in the plotting procedure. Only about 5% of people were very overconfident (more than 30% off) in the Nuhfer data. Some suggestion that, if claim (2) is a big effect, it's a <a href="{{weird}}">WEIRD</a> effect only.</li><br>
+			<li><span class="b">Replication effect size</span> (for claim (1)): 3 of the 4 original studies can be explained by noisy tests, bounded scales, and artefacts in the plotting procedure. Only about 5% of people were very overconfident (more than 30% off) in the Nuhfer data. Some suggestion that, if claim (2) is a big effect, it's a <a href="{{weird}}">WEIRD</a> effect only.</li><br>
 		</ul>
 		<br>
 	</div>
