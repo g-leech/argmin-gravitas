@@ -11,10 +11,10 @@ visible:    1
 published:  true
 
 summary:    To what extent can you choose who you are?
-confidence: 60%. Grounded in philosophy and anecdote, not the psychology of self-adjustment. Feels slightly alien, ill-conceptualised. 
+confidence: 60%. Grounded in philosophy and anecdote, not the psychology of self-adjustment. 
 importance: 6
 wordcount:  1000
-categories: self-help, philosophy, becoming
+categories: self-help, philosophy, becoming, false framework
 ---
 
 {%	assign goff = "http://www.kreps.org/ma/perf.html"	%}
@@ -24,6 +24,8 @@ categories: self-help, philosophy, becoming
 {%	assign pol = "https://news.gallup.com/poll/14515/teens-stay-true-parents-political-perspectives.aspx"	%}
 {%	assign lac = "https://web.archive.org/web/20170225040639/http://www.usc.edu/dept/comp-lit/tympanum/1/starr.html"	%}
 {%	assign asc = "https://en.wikipedia.org/wiki/Achieved_status"		%}
+{%	assign fake	= "https://www.lesswrong.com/posts/wDP4ZWYLNj7MGXWiW/in-praise-of-fake-frameworks" %}
+{%	assign gue	= "https://en.wikipedia.org/wiki/Guerrilla_ontology"		%}
 
 
 <div style="text-align: center;">
@@ -39,6 +41,15 @@ categories: self-help, philosophy, becoming
 </div>
 
 <br /><br>
+
+<div class="accordion">
+	<h3>Disclaimer</h3>
+	<div>
+		This feels slightly alien, ill-conceptualised. It confuses preferences with identity, and doesn't have any sense of which preferences we can or should treat as adaptive.<br><br>
+		I didn't know the term "<a href="{{fake}}">fake framework</a>" at the time, or "<a href="{{gue}}">guerilla ontology</a>", but that's maybe the best way of taking this. YMMV.
+	</div>
+</div>
+<br><br>
 
 I and my friends have a practical theory of identity, inspired by an (implausibly) positive reading of the oddball sociologist <a href="{{goff}}">Erving Goffman</a>. Call it <span style="font-weight: bold;">bootstrapping</span>:<br />
 

@@ -16,7 +16,7 @@ visible:  false
   <h1>Best posts:</h1>
     <table class="post-list" rules=rows>
     <center>
-    {% for post in site.posts %}
+    {% for post in site.posts limit:6 %}
       {% if post.best == 1  %}
       <tr>
         <td class="centerer">
@@ -43,7 +43,7 @@ visible:  false
   <h1>New posts:</h1>
     <table class="post-list" border=1 frame=void rules=rows>
     
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts limit:6 %}
       {% if post.visible == 1  %}
       <tr>
         <td>
