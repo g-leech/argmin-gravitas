@@ -11,6 +11,8 @@ visible:    1
 published:  false
 
 summary:    Why false consciousness is a dangerous idea 
+quality:    4
+emotion: 	4
 confidence: 70%
 importance: 5
 wordcount:  900
@@ -31,6 +33,9 @@ Porn, violent videogames, electoral interference.
 The idea that the Russians can spend $0.1m and totally pervert American discourse, but that Michael Bloomberg can spend $700m and die on his feet, vanish without a trace.
 
 Many interesting theories accuse us of being brainwashed: "You lack information; now, open your eyes":
+
+People have this naive equivalence between a fantasy and a preference, a voluntary simulation and an increased inclination to 
+
 
 <!-- Tectonics (on solid ground) -->
 

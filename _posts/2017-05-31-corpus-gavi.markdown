@@ -9,7 +9,7 @@ img:		/img/explain.jpg
 
 visible:	0
 published: 	false
-
+quality:    
 
 summary:	Linguistic analysis of my own writing. 
 confidence: 98% in the descriptive bits, 90% in the inferences.
@@ -40,7 +40,7 @@ http://vh216602.truman.edu/agarvey/cs480/nlpcode/mytext.py
 * Bigram frequency:
 * Rare pairs:  
 * Unique trigrams:
-* Flesch-Kincaid: * The FK scale is not highly respected in the field, since it overweights mere vocabulary over clauses and real clarity, but it still gives you a rough picture. 
+* Flesch-Kincaid: * The FK scale is not well-regarded in the field, since it overweights mere vocabulary over clauses and real clarity, but it still gives you a rough picture. 
 
 * Topic modelling
 * Entity recognition: 

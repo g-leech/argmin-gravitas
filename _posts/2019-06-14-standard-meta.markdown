@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/
 published:  false
 visible:    1
+quality: 	4
 
 summary:    What are the background assumptions of contemporary analytic philosophy?
 confidence: 60%

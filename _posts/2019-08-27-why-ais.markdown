@@ -11,6 +11,7 @@ published:  false
 visible:    false
 
 summary:    
+quality:    
 confidence: 50%
 categories: 
 importance: 9
@@ -52,9 +53,6 @@ Spirit of exploration plus excellent options if I stop.
 
 How did you decide to start a PhD instead of doing a "software engineer at an AI organization" role?
 Tried, but didn't get it. I'll study more whiteboard algos next time. (;
-
-
-
 I was actually agnostic about Eng vs PhD, but trying engineer work seemed less of an investment / more fail-fast than the PhD.
 
 I should have said "main bottleneck"; it sure seems like there is a shortage of aligned ML engineers too (CHAI were looking for one for more than a year). That line just speaks against prioritising e2g for AIS. Z&O's perspective looks good to me - was there something in particular?

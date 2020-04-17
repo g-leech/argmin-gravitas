@@ -11,6 +11,7 @@ visible:    1
 published:  true
 
 summary:    5 kinds of ageing I thought up.
+quality:    5
 confidence: N/A, definition chopping and social speculation.
 importance: 6
 warnings:   death, senescence, futurist nonsense

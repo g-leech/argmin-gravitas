@@ -11,6 +11,7 @@ published:  false
 visible:    1
 
 summary:    Examples of massive scientific innovation by non-academics.
+quality:    4
 confidence: 80%
 importance: 7
 wordcount:      

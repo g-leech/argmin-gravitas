@@ -9,11 +9,11 @@ img:        /img/
 
 visible:    1
 published:  true
+quality:    6
 
 summary:    Turing's accomplishments, cost-benefits, & emotional consequence.
 confidence: 95%
 importance: 6
-pride:		5
 wordcount:  1480
 ---
 

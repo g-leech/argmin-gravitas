@@ -9,12 +9,12 @@ img:      /img/table.jpg
 
 visible:    1
 published:  true
+quality: 	6
 
 summary:    Relating maths, metaphysics, & (OOP) programming, if you already know one.
 confidence: 90% that the first table are real commonalities.
 categories: philosophy
 importance: 5
-pride:      5
 wordcount:      400
 ---
 

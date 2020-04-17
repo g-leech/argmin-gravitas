@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/
 visible:	false
 published:	false
+quality:    
 
 summary:    What killed people last year?
 confidence:	95%

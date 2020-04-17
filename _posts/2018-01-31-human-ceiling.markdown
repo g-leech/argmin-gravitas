@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/agz_3b.png
 published:	true
 visible: 	1
+quality:    5
 
 summary:    Does this auxiliary result from AlphaGo Zero have large implications?
 confidence:	60%; fairly speculative.

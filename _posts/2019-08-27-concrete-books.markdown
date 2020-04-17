@@ -11,6 +11,7 @@ published:  false
 visible:    1
 
 summary:    
+quality:    
 confidence: N/A
 categories: 
 importance: 7

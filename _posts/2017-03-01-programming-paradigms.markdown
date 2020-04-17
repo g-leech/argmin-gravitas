@@ -9,6 +9,7 @@ img:			/img/smolLisp.jpg
 
 published:		false
 visible:		0
+quality:    	5
 
 summary:		An intuitive explanation of Norvig's advice to new programmers.
 confidence: 	70% on equations' truth (because vague). 80% that it's worth doing.

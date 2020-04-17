@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/ins.jpg
 published:  true
 visible:    1
+quality:    7
 
 summary:    Two arguments against consuming insurance, and where they fail.
 categories: utility theory, rationality, finance

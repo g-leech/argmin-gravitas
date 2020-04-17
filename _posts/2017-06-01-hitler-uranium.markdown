@@ -8,10 +8,10 @@ author:     Gavin
 
 visible:    1
 published:  true
+quality:	4
 
 summary:    The failure of Nazi nuclear research, and the farce after it.
 importance: 4
-pride:		3
 wordcount:  940
 ---
 

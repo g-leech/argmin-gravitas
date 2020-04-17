@@ -10,6 +10,7 @@ img:		/img/accommodation/NFSM.jpg
 visible:	1
 published: 	true
 technical:	1
+quality: 	5
 
 summary:	Intro to computational linguistics, including a little observational study. 
 confidence: 80% in the exposition.

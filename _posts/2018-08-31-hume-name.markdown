@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/hume.jpg
 published:	true
 visible: 	1
+quality: 	5
 
 summary:    Contemporary uses of David Hume (or anyway his name).
 confidence:	95%.

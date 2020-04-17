@@ -11,6 +11,7 @@ published:  false
 visible:    1
 
 summary:    Techniques, concepts, hacks, frameworks I use to live.
+quality:    6
 confidence: 70%.
 importance: 7
 wordcount:      

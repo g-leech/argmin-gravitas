@@ -9,6 +9,7 @@ img:        /img/
 
 visible:    1
 published:  true
+quality: 	4
 
 summary:    The horror of bureaucracy, Goodhart's law, and other human depravity.
 confidence: 80%

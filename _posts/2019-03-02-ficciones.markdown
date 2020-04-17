@@ -8,6 +8,7 @@ author:     Gavin
 
 visible:    1
 published:  true
+quality: 	5
 
 summary:    Notes on some supreme short stories + basic combinatorics.
 confidence: 95%

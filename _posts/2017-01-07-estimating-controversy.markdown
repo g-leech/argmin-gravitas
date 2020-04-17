@@ -10,6 +10,7 @@ img:		/img/smolControversy.png
 visible:	1
 simple:		true
 technical:	true
+quality:    4
 
 summary:	A tiny research proposal - can we quantify controversy / obstructionism?
 confidence: 70% on equations' truth (because vague). 80% that it's worth doing.

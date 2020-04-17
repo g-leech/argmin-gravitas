@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/irl/go_away.gif
 published:	true
 visible: 	1
+quality: 	4
 
 summary:    Work from the Gridworld team at AI Safety Camp Gran Canaria. 
 confidence:	DRAFT. Eventually, 90% because executable. 

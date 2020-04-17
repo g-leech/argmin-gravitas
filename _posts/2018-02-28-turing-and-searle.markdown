@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/searle.jpg
 published:	1
 visible: 	1
+quality: 	5
 
 summary:    Elementary philosophy of mind with one original argument.
 confidence:	75%, but only because conclusion is wholly negative.

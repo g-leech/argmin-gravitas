@@ -9,6 +9,7 @@ img:		/img/smolSamar.jpg
 
 visible:	1
 published:	true
+quality:    5
 
 summary:    The macroeconomics of the idea that government aid is harmful.
 confidence: 75% confident that aid is not harmful enough to abolish.

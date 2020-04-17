@@ -11,6 +11,8 @@ visible:    1
 published:  true
 
 summary:    To what extent can you choose who you are?
+quality:    6
+emotion:    7
 confidence: 60%. Grounded in philosophy and anecdote, not the psychology of self-adjustment. 
 importance: 6
 wordcount:  1000

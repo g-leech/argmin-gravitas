@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/don.jpg
 published:  true
 visible:    1
+quality: 	4
 
 summary:    List of possible reasons yoga feels good.
 confidence: N/A, speculation.

@@ -9,6 +9,7 @@ img:        /img/harris.jpg
 
 visible:    1
 published:  true
+quality: 	6
 
 summary:    Some pros and cons, practical and philosophical, of reclaiming meditation.
 confidence: 70%

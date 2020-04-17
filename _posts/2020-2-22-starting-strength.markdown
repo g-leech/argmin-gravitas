@@ -11,8 +11,10 @@ visible:    1
 published:  true
 
 summary:    The art & philosophy of lifting heavy things for no reason
+quality:    5
 confidence: Anecdotal - 100% for me, 60% for you.
 importance: 5
+emotion: 	8
 warnings: 	biological determinants of mental health
 wordcount:  1500
 categories: review, philosophy
@@ -20,6 +22,7 @@ categories: review, philosophy
 
 {%	assign mac = "https://sandymaguire.me/blog/no-coffee/"	%}
 {%  assign factory = "https://www.lesswrong.com/posts/8rdoea3g6QGhWQtmx/existential-angst-factory"		%}
+
 
 <center>
 	<img src="/img/start.jpg" width="30%" /><br><br>
@@ -113,7 +116,7 @@ I've been doing a derivative of this program since October last year: no trainer
 
 * No excuses, no wiggle room, no ambiguity: lifting a lot without injuring yourself is a brute fact, unbiased. Rippetoe: "<i>cause and effect cannot be argued with or circumvented by your wishes and desires.</i>"<br><br>
 
-* 'He's a growing <a href="https://dsl.ac.uk/entry/snd/loun" rel="nofollow">loun</a>!' my granny would say, justifying my early gluttony. Well, twenty years later here I am again, a growing boy. Artificial growth, body neoteny. What does a sense of increase, of coming potential, do to you?<br><br>
+* 'He's a growing <a href="https://dsl.ac.uk/entry/snd/loun">loun</a>!' my granny would say, justifying my early gluttony. Well, twenty years later here I am again, a growing boy. Artificial growth, body neoteny. What does a sense of increase, of coming potential, do to you?<br><br>
 
 * <blockquote>Waiting until soreness subsides before doing the next workout is a good way to guarantee that soreness will be produced every time, since you’ll never get adapted to sufficient workload frequency to stop getting sore.</blockquote><br>
 
@@ -150,7 +153,7 @@ I've been doing a derivative of this program since October last year: no trainer
 			</ol>
 			I always try to do (3) but surely often fail.</i> <br><br><br>
 <!--  -->
-		I've followed <a href="https://stronglifts.com/" rel="nofollow">Rippetoe's programme</a> inconsistently for 4 months and still got good returns - worth it for mental health alone. I know sophomore biology and physics, and nothing he says here contradicts any of it.
+		I've followed <a href="https://stronglifts.com/">Rippetoe's programme</a> inconsistently for 4 months and still got good returns - worth it for mental health alone. I know sophomore biology and physics, and nothing he says here contradicts any of it.
 	</div>
 </div>
 {%	include comments.html	%}

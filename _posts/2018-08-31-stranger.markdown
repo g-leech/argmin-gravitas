@@ -9,6 +9,7 @@ img:        /img/
 
 visible:    1
 published:  true
+quality: 	6
 
 summary:    on the rarity and beauty of seriously good people
 confidence: 80%

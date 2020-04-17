@@ -8,8 +8,8 @@ author:     Gavin
 
 visible:	1
 published:	false
-
 stylised: 	true
+quality:    
 
 summary:    What minimal changes would have caused an Axial Age modernity?
 confidence: 50%

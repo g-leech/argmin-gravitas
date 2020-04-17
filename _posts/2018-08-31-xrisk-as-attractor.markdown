@@ -9,7 +9,7 @@ author:     Gavin
 img:        /img/grey.jpg
 published:	true
 visible: 	1
-best:		1
+quality: 	9
 
 summary:    Why many different worldviews should prioritise reducing existential risk.
 confidence:	70%.

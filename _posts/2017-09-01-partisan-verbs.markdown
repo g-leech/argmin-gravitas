@@ -7,8 +7,8 @@ date:   	2017-10-07
 author:		Gavin	
 
 published: 	false
-
 visible:	1
+quality:    
 
 
 summary:	

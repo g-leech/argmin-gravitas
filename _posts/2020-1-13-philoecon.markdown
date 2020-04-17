@@ -3,7 +3,7 @@ layout:     post
 title:      "What is the philosophy of mainstream economics?"
 baselink:   /phil-o-econ
 permalink:  /phil-o-econ/
-date:       2020-01-13
+date:       2012-03-13
 author:     Gavin   
 img:        /img/
 
@@ -11,10 +11,13 @@ visible:    1
 published:  false
 
 summary:    Also why some people reject economic analysis so strongly.
-confidence: 
+quality:    5
+confidence: 60%. When I wrote this I didn't really understand science.
 importance: 4
-wordcount:      4000 
+wordcount:  4000 
 ---
+
+Disclaimer:
 
 _I was an angry young man. One of the targets of my ire was academic economics. Until the spell of Mirowski and the heterodoxy, I found myself smarter than thousands of people who knew more than me and worked harder than me._
 

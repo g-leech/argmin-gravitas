@@ -8,8 +8,8 @@ author:     Gavin
 
 visible:	1
 published:	false
-
 technical: 	true
+quality:    
 
 summary:    Per-capita estimations of the cultural impact of various places.
 confidence: 

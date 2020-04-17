@@ -9,6 +9,7 @@ img:        /img/
 
 visible:    1
 published:  false
+quality: 	2
 
 summary:    Why is pop science so often misleading?
 confidence: 70%

@@ -10,6 +10,7 @@ img:		/img/fish.jpg
 visible:    1
 simple:		true
 stylised:	true
+quality:    6
 
 summary:    Estimate of how much money a maximizing consequentialist is allowed.
 confidence:	90% in the numbers, 70% in the ethics.

@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/happy_end.png
 published:	false
 visible: 	1
+quality: 	
 
 summary:    Summaries of good papers I've read.
 confidence:	mu %; half essential speculation, half mathematical theorems.

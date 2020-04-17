@@ -8,6 +8,7 @@ author:			Gavin
 img:			/img/smolRelation.png
 
 visible:		1
+quality:    	5
 
 summary:		A catalogue of intuitive explanations I wish I'd had before getting into it. Plus, reading lists.
 confidence:		80%. Distillation of a few textbooks. borrowed authority.

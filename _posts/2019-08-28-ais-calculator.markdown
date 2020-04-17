@@ -12,6 +12,7 @@ visible: 	false
 
 summary:    Extremely rough calculator for ranking kinds of Safety work.
 confidence:	60%
+quality:    
 warnings:	The list I'm working off didn't exist a week ago, and will change soon. The field isn't simple enough to take numbers literally. GIGO.
 importance: 9
 wordcount:		

@@ -11,6 +11,7 @@ published:	false
 visible: 	1
 
 summary:    What does computability imply for metaphysics?
+quality:    
 confidence:	50%.
 categories: 
 importance: 2

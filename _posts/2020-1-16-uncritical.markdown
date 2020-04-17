@@ -4,6 +4,7 @@ title:      "Uncritical thinking"
 baselink:   /uncritical
 permalink:  /uncritical
 date:       2020-01-16
+original:	2015?
 author:     Gavin   
 img:        /img/alex.jpg
 
@@ -11,6 +12,7 @@ visible:    1
 published:  true
 
 summary:    Claims about critical thinking gains from university
+quality:    6
 confidence: 80%
 importance: 5
 wordcount:      400 

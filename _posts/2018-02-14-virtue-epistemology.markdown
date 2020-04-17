@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/
 published:	false
 visible: 	0
+quality: 	
 
 summary:    What does virtue have to do with knowledge?
 confidence:	90%; unfalsifiable.

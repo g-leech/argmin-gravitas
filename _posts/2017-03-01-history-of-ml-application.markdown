@@ -8,6 +8,7 @@ author:			Gavin
 
 published:		false
 visible:		0
+quality:    	
 
 img:			/img/al-adli.png
 summary:		

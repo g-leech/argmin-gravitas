@@ -8,13 +8,13 @@ author:     Gavin
 
 visible:    1
 published:  true
+pride:      6
 
 summary:    "On WWI's less famous, even worse sequel: the H1N1 pandemic."
 confidence: 70%. The amount of mass death we have no direct evidence of is scary.
 importance: 8
 warnings: 	social collapse, authoritarianism, predatory pseudoscience. I'm not a virologist or historian.
 wordcount:  3300
-pride:      4
 categories: review, x-risk, epistemology, biorisk
 ---
 

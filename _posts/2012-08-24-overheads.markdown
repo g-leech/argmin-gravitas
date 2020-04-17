@@ -11,6 +11,8 @@ visible:    1
 published:  true
 
 summary:    Time costs of being alive and average.
+quality:    4
+emotion:    4
 confidence: 70%
 importance: 5
 wordcount:  900

@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/
 published:	false
 visible: 	1
+quality: 	6
 
 summary:    Nonpragmatic reasons to internalise maths / logic / quantitative experiments.
 confidence:	50%.

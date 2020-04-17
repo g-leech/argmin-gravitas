@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/proc.jpeg
 published:	true
 visible: 	1
+quality: 	5
 
 summary:    Reposting an anonymous essay attacking almost all academic ethical systems.
 confidence:	I do not agree with the linked essay.

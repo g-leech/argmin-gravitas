@@ -11,9 +11,10 @@ visible:    1
 published:  true
 
 summary:    On the paranoid style in North American blogging.
+quality:    4
 confidence: 90%
 importance: 6
-wordcount:      
+wordcount:  1400
 categories: review, epistemology, replication
 warnings: 	unwarranted apocalypticism, antinatalism
 ---
