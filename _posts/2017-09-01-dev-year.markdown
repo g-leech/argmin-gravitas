@@ -8,8 +8,8 @@ author:     Gavin
 
 visible:	1
 published:	false
-
 technical: 	true
+quality:    
 
 summary:     A nonrigorous test of how modern your programming practices are. 
 confidence:  

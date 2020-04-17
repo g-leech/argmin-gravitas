@@ -9,7 +9,7 @@ author:     Gavin
 img:        /img/smolBoo.jpg
 published:	false
 visible: 	1
-best:		1
+quality:    6
 
 summary:    The way we talk about the way postmodernists talk. An account of postmodernism, good writing, and obscurantism.
 confidence:	70% that the accusations are overblown.

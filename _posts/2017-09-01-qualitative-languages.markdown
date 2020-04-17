@@ -8,8 +8,8 @@ author:     Gavin
 
 visible:	1
 published:	false
-
 technical: 	true
+quality:    
 
 summary:    
 confidence: 80% that 

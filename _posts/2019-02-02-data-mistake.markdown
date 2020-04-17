@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/
 published:  false
 visible:    1
+quality:    4
 
 summary:    .
 categories: 

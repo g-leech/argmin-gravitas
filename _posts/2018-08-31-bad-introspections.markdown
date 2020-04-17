@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/intro.jpg
 published:	true
 visible: 	1
+quality: 	6
 
 summary:    Some species of paying attention to yourself and how they fail.
 confidence:	90% that the bad ones are bad, 60% in the rest.

@@ -10,9 +10,12 @@ img:        /img/smolShot.jpg
 published:  true
 visible:    1
 
-summary:    Miscellaneous notes on working in tech in eC21st London. 
-confidence: 90%
+quality:    6
+emotion:    6
 importance: 4
+confidence: 90%
+
+summary:    Miscellaneous notes on working in tech in eC21st London. 
 wordcount:      
 ---
 

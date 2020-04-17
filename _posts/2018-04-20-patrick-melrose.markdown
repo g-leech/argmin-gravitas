@@ -13,7 +13,7 @@ published:  true
 summary:    Some of the best English novels of the century.
 warnings: 	child abuse, wrongful blame
 importance: 4
-pride:      3
+quality: 	3
 wordcount:  1000  
 ---
 

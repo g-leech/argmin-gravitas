@@ -9,6 +9,7 @@ img:		/img/syllog.png
 
 visible:	1
 published: 	false
+quality: 	7
 
 summary:	Weighing the evidence on Alan Turing's death.
 confidence: 80% that you don't know.

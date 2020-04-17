@@ -9,7 +9,7 @@ author:     Gavin
 img:        /img/nophil.jpg
 published:	true
 visible: 	1
-best: 		1
+quality: 	8
 
 summary:    Philosophy's functions and benefits, and why they aren't real (?)
 confidence:	N/A. A polemic I don't usually endorse.

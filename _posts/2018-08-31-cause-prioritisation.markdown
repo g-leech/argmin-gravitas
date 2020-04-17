@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/
 published:	false
 visible: 	false
+quality: 	7
 
 summary:    Current shoddy opinion on the most important goals, axiology.
 confidence:	50%

@@ -11,6 +11,7 @@ visible:    1
 published:  false
 
 summary:    Do harmless things still erode character?
+quality:    3
 confidence: 
 importance: 4
 wordcount:      4000 

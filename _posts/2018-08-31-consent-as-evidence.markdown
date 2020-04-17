@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/psych/tick.png
 published:	true
 visible: 	1
+quality: 	7
 
 summary:    Dissolving a thought-experiment about consequentialism.
 confidence:	80%. Surely not original.

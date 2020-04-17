@@ -11,6 +11,7 @@ visible:    1
 published:  false
 
 summary:    on doing great things we ought not be doing
+quality:    5
 confidence: 
 importance: 
 wordcount:      

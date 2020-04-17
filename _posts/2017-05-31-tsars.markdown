@@ -9,6 +9,7 @@ img:
 
 visible:	0
 published: 	false
+quality:    3
 
 summary:	
 confidence: 

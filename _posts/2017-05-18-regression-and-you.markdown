@@ -7,7 +7,7 @@ date:   	2017-05-01  <!--site.time-->
 author:		Gavin	
 
 published: 	false
-
+quality:    
 
 summary:		A visualisation of when to use one of the many regressions 
 confidence:		90%

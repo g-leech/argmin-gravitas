@@ -8,6 +8,7 @@ author:     Gavin
 img:        /img/smolOlduvai.png
 
 visible:    1
+quality:    4
 
 summary:    What is good about cultural anthropology? Plus reading list.
 confidence: 80% that there's a problem with the field. 60% that this is worth doing.

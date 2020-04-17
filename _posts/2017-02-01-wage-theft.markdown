@@ -7,6 +7,8 @@ date:   	2017-02-01  <!--site.time-->
 author:		Gavin	
 
 published:	false
+quality:    4
+
 visible:	0
 simple:		true
 technical:	true

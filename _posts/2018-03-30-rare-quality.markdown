@@ -9,7 +9,7 @@ author:     Gavin
 img:        /img/sturgeon.jpg
 published:	true
 visible: 	1
-best:		1
+quality: 	7
 
 summary:    Why in general is it harder to do things well than badly?
 confidence:	80% that I've captured the main possibilities / contributors.
@@ -22,7 +22,7 @@ wordcount:		400
 {%	include quality/links.md		%}
 
 
-<!-- Need Zen adn the Art - quality is half in you skit -->
+<!-- Need Zen adn the Art - quality is half in you -->
 
 <br>
 

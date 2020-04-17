@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/broad.jpg
 published:	true
 visible: 	1
+quality: 	3
 
 summary:    Investigating one possible predictor of long-term intellectual status.
 confidence:	60%. The data are a convenience sample from a skewed subpopulation.

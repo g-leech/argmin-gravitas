@@ -11,10 +11,11 @@ published:  true
 visible:    1
 
 summary:    The stalled revolution in personal biochemistry.
-categories: 
+quality:    5
+categories: quantified self, biology, rationality
 confidence: 70%
 importance: 4
-wordcount:      500
+wordcount:  500
 ---
 
 {%	include pills/links.html		%}

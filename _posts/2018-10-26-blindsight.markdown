@@ -9,6 +9,7 @@ img:        /img/
 
 visible:    1
 published:  true
+quality: 	6
 
 summary:    Weird realism and the misanthropic interpretation of neuroscience. Plus errata.
 importance: 8

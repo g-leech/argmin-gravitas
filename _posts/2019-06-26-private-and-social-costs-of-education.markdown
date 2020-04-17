@@ -10,10 +10,12 @@ img:        /img/
 published:  false
 visible:    1
 
-summary:    Accounting for education and its alternatives.
-categories: 
+quality: 	6
 confidence: 70%
 importance: 6
+
+summary:    Accounting for education and its alternatives.
+categories: 
 wordcount:      
 ---
 

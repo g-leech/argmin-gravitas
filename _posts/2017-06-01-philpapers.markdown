@@ -9,6 +9,7 @@ img:        /img/
 
 visible:    1
 published:  false
+quality:    5
 
 summary:    
 confidence: 

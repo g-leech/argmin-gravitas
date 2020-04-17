@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/sturgeon.jpg
 published:	false
 visible: 	0
+quality: 	
 
 summary:    List of people I trust on various topics. A glorified blogroll.
 confidence:	Varies.

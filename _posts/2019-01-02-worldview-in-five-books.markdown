@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/welt.jpg
 published:  true
 visible:    1
+quality:    6
 
 summary:    A compressed version of what's important to me.
 categories: 

@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/frege.jpg
 published:	true
 visible: 	1
+quality: 	5
 
 summary:    Quick sketch of Frege's reduction of arithmetic to logic, and why it fails.
 confidence:	90%. 

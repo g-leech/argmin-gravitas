@@ -12,8 +12,10 @@ published:  true
 
 summary:    Objects which have recently improved my life 
 confidence: 99% for me, 50% for you.
+quality:    5
+emotion:    5
 importance: 4
-wordcount:  
+wordcount:  1300
 ---
 
 <img src="/img/still-life.jpg" /><br>

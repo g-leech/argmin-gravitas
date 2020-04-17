@@ -7,6 +7,7 @@ date:   	2019-01-07  <!--site.time-->
 author:		Gavin	
 
 published: 	false
+quality:    8
 
 visible:	1
 simple:		true

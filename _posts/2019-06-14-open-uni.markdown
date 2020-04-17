@@ -9,6 +9,7 @@ author:     Gavin
 img:        /img/ou.png
 published:  true
 visible:    1
+quality: 	4
 
 summary:    Review of a venerable online maths degree.
 confidence: 90%

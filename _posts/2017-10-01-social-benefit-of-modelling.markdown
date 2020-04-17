@@ -9,13 +9,13 @@ img:		/img/
 
 visible:	1
 published: 	false
+quality:    7
 
 summary:	Weighing the social benefits of personal predictive models
 confidence: 
 warnings: 	
 categories: 
 importance: 7
-pride:      7
 wordcount: 		
 ---
 

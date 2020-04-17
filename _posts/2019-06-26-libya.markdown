@@ -10,10 +10,13 @@ img:        /img/lib.jpg
 published:  true
 visible:    1
 
-summary:    What I learned from the Libyan Civil War.
+quality: 	5
 importance: 7
+confidence: More in the rule than the example.
+emotion:	8
+summary:    What I learned from the Libyan Civil War.
 warnings:	War, rape, disinformation.
-wordcount:      500
+wordcount:	500
 ---
 
 {%	assign int = "https://en.wikipedia.org/wiki/2011_military_intervention_in_Libya"		%}

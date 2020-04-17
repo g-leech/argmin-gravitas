@@ -11,6 +11,8 @@ visible:    1
 published:  false
 
 summary:    
+quality:    
+emotion:	
 confidence: 
 importance: 
 wordcount:  

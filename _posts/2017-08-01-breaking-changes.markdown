@@ -9,6 +9,7 @@ author:     Gavin
 img:        
 visible:	false
 published:	false
+quality:    
 
 summary:    Which projects break things most often?
 confidence:	

@@ -8,6 +8,7 @@ author:     Gavin
 
 published:  true
 visible:    1
+quality:    6
 
 summary:    All advice has someone who needs to hear the opposite.
 confidence: N/A

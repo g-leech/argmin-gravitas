@@ -9,7 +9,7 @@ img:		/img/
 
 visible:	1
 published: 	false
-
+quality: 	
 
 summary:	Actuarial check of the claim that government austerity killed thousands of people in social care.
 confidence: 80%
