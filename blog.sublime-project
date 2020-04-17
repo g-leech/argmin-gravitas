@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"path": "pages"
+		},
+		{
+			"path": "_includes"
+		},
+		{
+			"path": "_posts"
+		},
+		{
+			"path": ".",
+			"folder_exclude_patterns": ["_site"]
+		}
+	]
+}

@@ -5,34 +5,44 @@ visible:  false
 ---
 
 <style>
+img {
+    vertical-align: middle;
+}
+
 .centerer {
     text-align: center;
-    padding-top:10px;
-    padding-bottom:10px;
+    vertical-align: middle;
+    width: 83%;
+    padding: 20px;
 }
+
 </style>
 
 <div id="best" class="home">
   <h1>Best posts:</h1>
-    <table class="post-list" rules=rows>
+    <table id="fixed" rules=rows>
     <center>
-    {% for post in site.posts limit:6 %}
-      {% if post.best == 1  %}
-      <tr>
-        <td class="centerer">
-          <a class="post-link" href="{{ post.url | prepend: site.url }}">
-            <img src="{{ post.img }}" width="13%" align="left" hspace="10" />
-          </a>
-          <h3 style="padding: 0px; margin: 0px">
-            <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
-          </h3> 
-          <span>
-            <small>{{ post.summary }}</small>
-          </span>
-
-        </td>
-      </tr>
+    {%  assign count = 0   %}
+    {% for post in site.posts %}
+      {% if post.quality > 7  %}
+        <tr>
+          <td>
+            <a class="post-link" href="{{ post.url | prepend: site.url }}">
+              <img src="{{ post.img }}" />
+            </a>
+          </td>
+          <td class="centerer">
+            <h3 style="padding: 0px; margin: 0px">
+              <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+            </h3> 
+            <span>
+              <small>{{ post.summary }}</small>
+            </span>
+          </td>
+        </tr>
+        {% assign count = count | plus: 1 %}
       {% endif  %}
+      {%  if count > 4  %} {% break %} {% endif %}
     {% endfor %}
       </center>
     </table>
