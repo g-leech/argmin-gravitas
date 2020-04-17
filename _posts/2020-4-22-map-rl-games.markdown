@@ -28,6 +28,7 @@ wordcount:	1000
 {%	assign ppf = "https://en.wikipedia.org/wiki/Production%E2%80%93possibility_frontier"		%}
 {%	assign cosma = "http://webcache.googleusercontent.com/search?q=cache:GsO3yWjNuHwJ:crookedtimber.org/2012/05/30/in-soviet-union-optimization-problem-solves-you/&hl=en&gl=de&strip=1&vwsrc=0"	%}
 {%	assign thicc = "https://en.wikipedia.org/wiki/Thick_concept"		%}
+{%	assign shap = "https://en.wikipedia.org/wiki/Shapley_value#Generalization_to_coalitions"		%}
 
 
 <style type="text/css">
@@ -139,6 +140,24 @@ wordcount:	1000
 		<td>common knowledge</td>
 		<td>given fitness function</td>
 		<td>perfect information  </td>
+	</tr>
+	<tr>
+		<td>reward design</td>
+		<td>mechanism design</td>
+		<td>?</td>
+		<td>matching theory?</td>
+	</tr>
+	<tr>
+		<td>approximation ratio?</td>
+		<td>price of Anarchy</td>
+		<td>Cost of competition</td>
+		<td>Theory of the second best?</td>
+	</tr>
+	<tr>
+		<td>coalition formation</td>
+		<td><a href="{{shap}}">coalition games</a></td>
+		<td>cultural evolution</td>
+		<td>coalition formation</td>
 	</tr>
 	<tr> <!-- N =|S|  and M = |A| -->
 		<td>
