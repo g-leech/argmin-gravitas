@@ -5,15 +5,7 @@ email: g@gleech.org
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://www.gleech.org # the base hostname & protocol for your site
 github_username:  g-leech
-comments_integration_url: https://api.staticman.net/v2/entry/g-leech/argmin-gravitas/master/comments/
 
 
 # Build settings
 markdown: kramdown
-
-# Name of repository for use with Staticman
-repository: "g-leech/argmin-gravitas"
-
-# Staticman comments (see staticman.yml for configuration).
-staticman:
-  branch: "master"
