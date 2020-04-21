@@ -26,7 +26,7 @@ wordcount:	1000
 {%	assign kael = "https://dl.acm.org/doi/10.5555/2074158.2074203"	%}
 {%	assign lipton = "https://dl.acm.org/doi/10.1145/779928.779933"	%}
 {%	assign ppf = "https://en.wikipedia.org/wiki/Production%E2%80%93possibility_frontier"		%}
-{%	assign cosma = "http://webcache.googleusercontent.com/search?q=cache:GsO3yWjNuHwJ:crookedtimber.org/2012/05/30/in-soviet-union-optimization-problem-solves-you/&hl=en&gl=de&strip=1&vwsrc=0"	%}
+{%	assign cosma = "https://web.archive.org/web/20200210013321/https://crookedtimber.org/2012/05/30/in-soviet-union-optimization-problem-solves-you/"	%}
 {%	assign thicc = "https://en.wikipedia.org/wiki/Thick_concept"		%}
 {%	assign shap = "https://en.wikipedia.org/wiki/Shapley_value#Generalization_to_coalitions"		%}
 
@@ -204,6 +204,8 @@ wordcount:	1000
 </table>
 </center>
 <br><br>
+
+Physics is the study of physics; economics studies economics. These map theories to theories, not realities.
 
 (For making the correspondence really nice, you could frame evolution from the perspective of a single actor like the others - a hypothetical organism behind a <a href="{{jh}}">veil of ignorance</a>, maximising their expected fitness by selecting which subspecies to join. The subspecies distribution is then their chance of switching to a given subspecies.)
 <br>

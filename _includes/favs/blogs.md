@@ -84,6 +84,8 @@
 		<div>
 			https://www.drmaciver.com/blog/
 			<br>
+			naml.us
+			<br>
 			https://hivewired.wordpress.com/
 			<br>
 			https://unstableontology.com/
