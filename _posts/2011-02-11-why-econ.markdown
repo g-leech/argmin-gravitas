@@ -1,0 +1,68 @@
+---
+layout:     post
+title:      "'Why study economics?'"
+baselink:   /econ
+permalink:  /econ
+date:       2011-02-11
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  true
+
+summary:    The human urgency of the seemingly inhuman subject.
+quality:    4
+importance: 7
+warnings: 	Written for a competition, "Why study economics at university?" Pretty pompous but hey I won £50.
+categories: cause prioritisation
+---
+
+<center>
+
+<blockquote>
+	Yet good, or even competent, economists are the rarest of birds. An easy subject, at which very few excel! The paradox finds its explanation, perhaps, in that the master-economist must possess a rare combination of gifts. He must reach a high standard in several different directions and must combine talents not often found together. He must be mathematician, historian, statesman, philosopher — in some degree. He must understand symbols and speak in words...
+</blockquote>
+– Keynes, eulogizing Alfred Marshall (and himself)<br><br><br>
+
+</center>
+
+The question is two questions with a covert moral element: “why economics?”, “why university economics?”, and “why _should_ one..?” abbreviated away.<br><br>
+
+### I – Why economics?
+
+I study economics because 
+
+* I am angry, and I am no longer young enough to be angry without it. Part of my petulance comes from the fact that the world is not as good as it could be; the rest from there being no easy answers to the first fact. I want neither the self-exalting cynicism of conservatives nor the vague rage of anti-globalizers. Good economics is about challenging bad solutions from whoever pushes them.
+
+* What rhetoric was to the Romans, economics is for us: that is, the favourite lever of the politician. Right or wrong, the economic mindset rules the world. Thou shalt incur cost only for benefit; thou shalt understand preferences as rational and transitive and existence as a function. “Policy” – which is always economic, if only because it has a budget – is where many of the largest things are done. And large things need doing.
+
+* An illiterate society cannot really be democratic, and because what it means to be “literate” shifts, and should shift beyond just “recognising written words” to include something like “grasping the determining forces of the world, what we're up to”. A great part of that would be economic literacy. Our intuitions regarding much of the causal history of macroeconomics are flatly wrong; so, even given neoclassical theory’s raft of assumptions, the framework at least generates educated guesses.
+
+* As Keynes points out, the field is a chimera - bit of this, bit of maths, bit of overlooked politics. Life is a cross-breed too.
+
+<br>
+
+### II – Why at university?
+Because thought happens inside this professional structure now, in professional notation, with a professional bearing. If I wish to think for a living, I have to do it to measure. At least university curricula are vetted and compressed: unlike some other fields, academic economists are quite often practitioners, and thus have a chance to know which techniques are actually used and what is frill. Then there's the culture of the profession, which is hard to get from outside.
+
+As well as studying economies and people's economic behaviour, I want to study economics. A lazy accusation is that the field is obsessed with egoism, with rationalizing all behaviour as personal utility-maximisation. (This is lazy because it confuses one elementary model, the neoclassical consumer, with the received view of the field.) Actually, in practice it treats everyone as essentially unprincipled, which is not the same as egoistic. People aren’t stupid, unless you count greed (maximising externalized preference) and laziness (hyperbolic time-discounting, the lack of optimisation) as stupidity.
+
+I haven’t heard the word “capitalism” in perhaps two hundred hours of lectures. But I don’t imagine that physicists spend much time talking about inductive reasoning, nor theologians much on how they have to prove there’s this ‘God’ figure; the market is integral to the particular theories we have built, and incentive analysis works for any system whatsoever. But a good capitalism needs humanistic economics.
+
+Many economic studies are outright rude (e.g. revealed preferences regarding self-obsession, prostitution, cheating), and wound society’s unearned sense of dignity. Academic status is a good mask to wear when uncovering these!
+
+<br>
+
+### Shoulds
+
+Returning to the hidden 'should' in the question: the unwitting omission of the moral element is symbolic. Economics proceeds on the basis that its status as a science disentangles it from moral concerns. (Economics was once '_Political Economy_'. What we know as “incentives” were once “temptations”.) 
+
+We look at the intersection of desire and environment. Both of these things are vast and vastly unstable, so it’s only to be expected that the joint distribution of the two is even worse. Economics predicts - on average rightly - that the question people ask is: “What’s in it for me?” 
+The good economist replies, “A better world.”
+
+
+<br><br>
+
+{%	include comments.html	%}
+
+<br><br>
