@@ -205,7 +205,7 @@ wordcount:	1000
 </center>
 <br><br>
 
-Physics is the study of physics; economics studies economics. These map theories to theories, not realities.
+Physics is the study of physics; economics studies economics. This terminology is confusing, since it's extremely dubious for even physics to claim that their study is a complete model, structurally _identical_ with the data-generating process. So to be painfully clear: The above is a map from theory to theory, not phenomenon to phenomenon.
 
 (For making the correspondence really nice, you could frame evolution from the perspective of a single actor like the others - a hypothetical organism behind a <a href="{{jh}}">veil of ignorance</a>, maximising their expected fitness by selecting which subspecies to join. The subspecies distribution is then their chance of switching to a given subspecies.)
 <br>
