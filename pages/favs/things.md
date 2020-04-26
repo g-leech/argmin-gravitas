@@ -18,10 +18,6 @@ visible:    false
 	<h3>Writing</h3>
 	<div>
 		{%	include favs/essays.md	%}
-		<br>
-<!--  -->
-		These are just books I think I will re-read for the rest of my life. Others <a href="/books">here</a>.<br><br>
-		{%	include books/best_books_apr_20.html	%}
 	</div>
 <!--  
 -->
@@ -65,16 +61,7 @@ visible:    false
 <!--  -->
 	
 </div>
-
-<!-- My favourite physical constants are Planck, Rydberg, . My favourite identities are. -->
-
-<h3>Software</h3>
-<div> 
-	The software which improves my life most is Roam, Marvin, Sci-Hub, Jekyll, Overleaf, KeePass, git, PrivateInternetAccess, WolframAlpha, FBReader, Goodreads, Netlify, Anki, ChromeDevTools, <a href="{{tab}}">TablesGenerator</a>.<br><br>
-<!--  -->
-	My favourite UIs are Bloomberg Terminal, Pinta, 4-player Rock Band 2, and Chrome DevTools. My favourite APIs (web and cmd) are Gmaps, Twilio, Spark and leftpad.io. 
-</div>
-<!-- 
+<!-- My favourite physical constants are Planck, Rydberg, . My favourite identities are. 
 -->
 {%	include favs/politics.md	%}
 {%	include favs/art.html	%}
