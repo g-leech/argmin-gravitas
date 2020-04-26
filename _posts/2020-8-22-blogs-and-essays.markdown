@@ -32,12 +32,12 @@ categories: longtermism, self-representation, writing
 {%	assign matt = "http://matt.might.net/articles/ways-to-fail-a-phd/"		%}
 {%	assign qu = "https://www.quora.com/How-many-research-articles-do-PhD-students-read-during-their-entire-PhD-on-average"		%}
 {%	assign hum = "https://www.researchgate.net/publication/323784489_A_Current_View_of_the_Thesis_by_Publication_in_the_Humanities_and_Social_Sciences"		%}
-{%	assign ben = "https://www.benkuhn.net/grad"	%}
+{%	assign ben = "https://www.benkuhn.net/grad"			%}
 {%	assign rot = "https://en.wikipedia.org/wiki/Link_rot"		%}
 {%	assign pg = "http://www.paulgraham.com/articles.html"		%}
 
 
-Blogging peaked in 2009; I was there, just. Dozens of people used to comment on everything. Famous economics professors followed my obscure fumbling posts, inexplicably. I probably learned about as much from all these <a href="{{roll}}">personal sites</a> as I have from three stints at university. <br><br>
+Blogging peaked in 2009; I was there, just. Dozens of people used to comment on everything. Famous economics professors followed my obscure fumbling posts, inexplicably. I learned more from these <a href="{{roll}}">personal sites</a> than I did in three stints at university. <br><br>
 
 <div class="accordion">
 	<h3>Suggestive data</h3>
