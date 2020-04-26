@@ -27,17 +27,19 @@
 			<a href="{{caplan}}">Bryan Caplan</a>, <br>
 			<a href="{{zach}}">Zach Weiner</a>, <br>
 			<a href="{{dave}}">David Pearce</a>; <br>
+			<a href="{{tom}}">Tom Sittler</a>; <br>
 			<a href="{{ozy}}">Ozy Frantz</a>; <br>
 			<a href="{{what}}">Randall Munroe</a>; <br>
 			<a href="{{buck}}">Buck Shlegeris</a>, <br>
-			<a href="{{greg1}}">Greg Lewis</a>; <br>
 	    </td>
 	    <td class="tg-zv4m">
+	    	<a href="{{casp}}">Caspar Oesterheld</a>, <br>
 	    	<a href="{{log}}">Mark Liberman</a>, <br>
 	    	<a href="{{huem}}">Mike Huemer</a>, <br>
-			<a href="{{sabine}}">Sabine Hossenfelder</a>,<br>
-			<a href="{{grace1}}">Katja</a> <a href="{{grace2}}">Grace</a>, <br>
 			<a href="{{julia}}">Julia Galef</a>; <br>
+			<a href="{{grace1}}">Katja</a> <a href="{{grace2}}">Grace</a>, <br>
+			<a href="{{greg1}}">Greg Lewis</a>; <br>
+			<a href="{{sabine}}">Sabine Hossenfelder</a>,<br>
 			<a href="{{hans}}">Robin Hanson</a>, <br>
 			<a href="{{nint}}">Jose Ricon</a>, <br>
 			<a href="{{farrell}}">Henry Farrell</a>; <br>
@@ -52,6 +54,7 @@
 			<a href="{{scaru}}">Piero Scaruffi</a>, <br>
 	    </td>
 	    <td class="tg-zv4m">
+			<a href="{{staff}}">Pablo Stafforini</a>, <br>
 			<a href="{{guz}}">Alexey Guzey</a>, <br>
 			<a href="{{scatter}}">Jamie Brandon</a>, <br>
 			<a href="{{schw}}">Eric Schwitzgebel</a>, <br>
@@ -85,6 +88,10 @@
 			https://www.drmaciver.com/blog/
 			<br>
 			naml.us
+			<br>
+			https://andyljones.com/
+			<br>
+			http://reflectivedisequilibrium.blogspot.com/
 			<br>
 			https://hivewired.wordpress.com/
 			<br>
