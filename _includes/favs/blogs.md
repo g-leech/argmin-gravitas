@@ -8,6 +8,7 @@
 		.tg th{14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 		.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
 	</style>
+	<center>
 	<!--  -->
 	<table class="tg">
 	  <tr>
@@ -43,7 +44,7 @@
 			<a href="{{hans}}">Robin Hanson</a>, <br>
 			<a href="{{nint}}">Jose Ricon</a>, <br>
 			<a href="{{farrell}}">Henry Farrell</a>; <br>
-			(Crooked Timber taught me a <i>lot</i>)<br>
+			(Crooked Timber taught<br> me a <i>lot</i>)<br>
 			<a href="{{heal}}">Kieran Healy</a>; <br>
 			<a href="{{heath}}">Joseph Heath</a>; <br>
 			<a href="{{kun}}">Jeremy Kun</a>; <br>
@@ -51,9 +52,9 @@
 			<a href="{{lukeprog}}">Luke Muehlhauser</a>, <br>
 			<a href="{{tram}}">Philip Trammell</a>, <br>
 			<a href="{{riedel}}">Jess Riedel</a>, <br>
-			<a href="{{scaru}}">Piero Scaruffi</a>, <br>
 	    </td>
 	    <td class="tg-zv4m">
+			<a href="{{scaru}}">Piero Scaruffi</a>, <br>
 			<a href="{{staff}}">Pablo Stafforini</a>, <br>
 			<a href="{{guz}}">Alexey Guzey</a>, <br>
 			<a href="{{scatter}}">Jamie Brandon</a>, <br>
@@ -74,6 +75,7 @@
 	    </td>
 	  </tr>
 	</table>
+</center>
 <br>
 <br>
 	<div class="accordion">
