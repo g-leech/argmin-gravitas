@@ -87,7 +87,7 @@
 {%	assign cramer = "https://en.wikipedia.org/wiki/Cram%C3%A9r%27s_V"		%}
 {%	assign fosse = "https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/FMEGS6/U2QT5N&version=3.0"		%}
 {%	assign fosseDiss = "https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/FMEGS6/AYAZJ7&version=3.0"		%}
-{%	assign myanalysis = "/scripts/psych/cuddy2010.ipynb"		%}
+{%	assign myanalysis = "https://github.com/g-leech/argmin-gravitas/blob/master/scripts/psych/cuddy2010.ipynb"		%}
 
 
 {%	assign psychiatry = "https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.2011.11020191"		%}
