@@ -9,11 +9,11 @@ img:        /img/construct.jpg
 
 visible:    1
 published:  true
-quality:    5
 
 summary:    Trying to write anything more than ephemeral noise on the internet.
-confidence: 70%
-importance: 5
+confidence: Oral history plus semantics plus a declaration of intent.
+quality:    5
+importance: 6
 wordcount:  
 categories: longtermism, self-representation, writing
 ---
@@ -38,6 +38,11 @@ categories: longtermism, self-representation, writing
 {%	assign russ = "https://robertpaulwolff.blogspot.com/2012/02/two-cultures.html"		%}
 {%	assign tut = "https://robertpaulwolff.blogspot.com/2011/01/thought-of-karl-marx-part-one.html"	%}
 {%	assign rpw = "https://robertpaulwolff.blogspot.com/"	%}
+{%  assign w = "https://www.wired.com/2012/11/jade-doskow-worlds-fairs/"  %}
+{%  assign m = "https://www.mnn.com/lifestyle/arts-culture/stories/15-legendary-worlds-fair-leftovers"  %}
+{%  assign yud = "https://www.readthesequences.com/"  %}
+{%  assign git = "https://arxiv.org/pdf/1710.11540.pdf"   %}
+
 
 <style>
 th 
@@ -99,7 +104,7 @@ Writing a 'web log' was mostly social: like a public diary; as if everyone was a
 
 Half a dozen people used to comment on everything. There were various <a href="{{sphere}}">Spheres</a>, where amateurs and <a href="{{ec}}">professionals</a> of various sorts thought out loud and gossiped and <a href="{{leiter}}">bitched</a>.  Famous economics professors followed my obscure fumbling posts, inexplicably.
 
-It had an economy, <a href="{{eg}}">thousands</a> of people making a living off it (or anyway <a href="{{five}}">someone</a> making money off it). That racket is still there, but the clever people long ago moved to Youtube, Insta, podcasts, and newsletters.
+It had an economy, <a href="{{eg}}">thousands</a> of people making a living off it (or anyway <a href="{{five}}">someone</a> making money off it). That racket is still there, but the clever or young people long ago moved to Youtube, Insta, podcasts, and newsletters.
 
 Blogs were supplanted by centralised social media. This was maybe because they're more effective for broadcasting and harvesting status, and because no-one there is aiming for more than ephemerality. (When was the last time you looked at what anyone said on Facebook last year?) In the transition period, your Twitter or Tumblr page got called a <a href="{{mic}}">microblog</a>. (That makes Insta and Tiktok 'picoblogs'.) But people moved on, making the original unit superfluous.
 
@@ -134,6 +139,12 @@ An overlooked fact: the internet <a href="{{rot}}">dies off</a> at an astounding
     <td class="tg-0lax">Long<br>content</td>
   </tr>
 </table>
+
+<br><a href="#fn:1" id="fnref:1">1</a><br>
+<br>
+
+<hr>
+
 <br>
 
 ## Essays vs blogposts
@@ -169,15 +180,38 @@ Depending on the field, a PhD might involve reading <a href="{{matt}}">100</a> -
 
 (As it happens I think most PhDs don't have much impact on the world: they are read by say 4 other people, and maybe _should_ not be read by many more than that. But that's good: instead I can do a thousand bits, each their own contribution to the future of all things.)<br><br>
 
-# See also
+
+<hr>
+
+<br>
+
+## See also
 
 * Basbøll, '<a href="{{bas}}">What is blogging?</a>'
 * Gwern, '<a href="{{long}}">Long Content</a>'
 * <a href="{{rot}}">Link rot</a><br><br>
+* Long content is really uncommon. Even great internet writing with a view to the long term (e.g. Eliezer Yudkowsky's <a href="{{yud}}">sustained braindump</a> of 2007 to 2009) is never updated, when its problems are found at all. This should worry us, since it implies it's hard to do. Maybe few people have stable enough goals and interests to do this, or just enough time. 
+* The situation may be even worse in open source software, with projects <a href="{{git}}">overwhelmingly dead by 6 months old</a>.<br><br>
 * <a href="{{gel}}">Andrew Gelman's blog</a> manages the contradictions effortlessly. He reacts to hundreds of new papers a year, but _posts on a 9-month lag_ after writing. This allows him to uncouple from the reactive journalistic stuff, and lets us see if his take holds up. I have learned so much from it, and indeed it is an accumulating, long-term project: it documents his shift towards understanding the deep problems in large parts of academic science.<br><br>
-* There is of course historical interest in seeing what pundits were saying at a given point in the early 21st century. The philosopher <a href="{{rpw}}">Robert Paul Wolff's site</a> is a nice example of the dual nature of a blog: it contains his daily record of American political news <i>and</i> his vast, life-distilling tutorials on the <a href="{{tut}}">great German philosophers</a>. (Inbetween the two are his recollections of <a href="{{russ}}">taking tea with Bertrand Russell</a> and dancing with a Pulitzer Prize winner's wife.)<br><br>This dear man makes me reconsider my strict division: leave both in, let a blog be high and low, short and long. Just so long as you do big stuff.
+* There is of course historical interest in seeing what pundits were saying at a given point in the early 21st century. The philosopher <a href="{{rpw}}">Robert Paul Wolff's site</a> is a nice example of the dual nature of a blog: it contains his daily record of American political news <i>and</i> his vast, life-distilling tutorials on the <a href="{{tut}}">great German philosophers</a>. (Inbetween the two are his recollections of <a href="{{russ}}">taking tea with Bertrand Russell</a> and dancing with a Pulitzer Prize winner's wife.)<br><br>This dear man makes me reconsider my strict division: leave both in, let a blog be high and low, short and long. Just as long as you do big stuff.
+
 <br><br>
 
 {%	include comments.html	%}
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+      By analogy, a good example of "High scale, low durability" are the incredible <a href="{{w}}">temporary</a> <a href="{{m}}">buildings</a> made for World's Fair expos.
+    </li>
+</ol>
+
+</div>
+
+
+
 
 <br><br>
