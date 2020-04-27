@@ -70,7 +70,7 @@ th
 
 .lax {
 	text-align: center;
-	padding-left: 30px;
+	padding-left: 45px;
 }
 
 </style>
@@ -175,7 +175,7 @@ Depending on the field, a PhD might involve reading <a href="{{matt}}">100</a> -
 * Gwern, '<a href="{{long}}">Long Content</a>'
 * <a href="{{rot}}">Link rot</a><br><br>
 * <a href="{{gel}}">Andrew Gelman's blog</a> manages the contradictions effortlessly. He reacts to hundreds of new papers a year, but _posts on a 9-month lag_ after writing. This allows him to uncouple from the reactive journalistic stuff, and lets us see if his take holds up. I have learned so much from it, and indeed it is an accumulating, long-term project: it documents his shift towards understanding the deep problems in large parts of academic science.<br><br>
-* There is of course historical interest in seeing what pundits were saying at a given point in the early 21st century. The philosopher <a href="{{rpw}}">Robert Paul Wolff's site</a> is a nice example of the dual nature of a blog: it contains his daily record of American political news <i>and</i> his vast, life-distilling tutorials on the <a href="{{tut}}">great German philosophers</a>. (Inbetween the two are his recollections of <a href="{{russ}}">taking tea with Bertrand Russell</a> and dancing with a Pulitzer Prize winner's wife.)
+* There is of course historical interest in seeing what pundits were saying at a given point in the early 21st century. The philosopher <a href="{{rpw}}">Robert Paul Wolff's site</a> is a nice example of the dual nature of a blog: it contains his daily record of American political news <i>and</i> his vast, life-distilling tutorials on the <a href="{{tut}}">great German philosophers</a>. (Inbetween the two are his recollections of <a href="{{russ}}">taking tea with Bertrand Russell</a> and dancing with a Pulitzer Prize winner's wife.)<br><br>This dear man makes me reconsider my strict division: leave both in, let a blog be high and low, short and long. Just so long as you do big stuff.
 <br><br>
 
 {%	include comments.html	%}
