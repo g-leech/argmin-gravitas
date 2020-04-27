@@ -29,6 +29,8 @@ wordcount:	1000
 {%	assign cosma = "https://web.archive.org/web/20200210013321/https://crookedtimber.org/2012/05/30/in-soviet-union-optimization-problem-solves-you/"	%}
 {%	assign thicc = "https://en.wikipedia.org/wiki/Thick_concept"		%}
 {%	assign shap = "https://en.wikipedia.org/wiki/Shapley_value#Generalization_to_coalitions"		%}
+{%	assign cadam = "https://arxiv.org/pdf/2002.03755.pdf"		%}
+{%	assign comp = "https://arxiv.org/pdf/1912.13515.pdf"		%}
 
 
 <style type="text/css">
@@ -210,7 +212,7 @@ Physics is the study of physics; economics studies economics. This terminology i
 (For making the correspondence really nice, you could frame evolution from the perspective of a single actor like the others - a hypothetical organism behind a <a href="{{jh}}">veil of ignorance</a>, maximising their expected fitness by selecting which subspecies to join. The subspecies distribution is then their chance of switching to a given subspecies.)
 <br>
 
-What to call the topic in common? 'Distributed optimisation'?
+What to call the topic in common? 'Distributed optimisation'? '<a href="{{cadam}}">Compositional</a> <a href="{{comp}}">optimisation</a>'? <a href="#fn:3" id="fnref:3">3</a>
 
 <br><br>
 
@@ -219,10 +221,11 @@ What to call the topic in common? 'Distributed optimisation'?
 
 
 * <a href="/conversion">Mapping metaphysics, mathematics, and programming</a>
+* _<a href="{{cosma}}">In Soviet Russia, Optimisation Problem Solves You</a>_ (2012)
 * _<a href="{{gt}}">An Analysis of Stochastic Game Theory for Multiagent
 Reinforcement Learning</a>_ (2000)
 * _<a href="{{egt}}">Learning Through Reinforcement and Replicator Dynamics</a>_ (1997)
-* _<a href="{{cosma}}">In Soviet Russia, Optimisation Problem Solves You</a>_ (2012)
+* _<a href="{{comp}}">Stochastic Recursive Variance Reduction for... Compositional Optimization</a>_ (2020)
 
 <br><br>
 
@@ -239,6 +242,12 @@ Reinforcement Learning</a>_ (2000)
 <!--  -->
 	<li class="footnote" id="fn:2">
     	often single-player, stochastic, discrete action, imperfect information
+	</li>
+<!--  -->
+	<li class="footnote" id="fn:3">
+		<blockquote>
+			Compositional optimization can be used to formulate many important machine learning problems, e.g. reinforcement learning (Sutton and Barto, 1998), risk management (Dentcheva et al., 2017), multi-stage stochastic programming (Shapiro et al., 2009), deep neural nets (Yang et al., 2019), etc.
+		</blockquote>
 	</li>
 </ol>
 
