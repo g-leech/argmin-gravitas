@@ -3,7 +3,7 @@ layout:     post
 title:      "Blogging is dead, long live sites"
 baselink:   /sites
 permalink:  /sites
-date:       2020-04-20
+date:       2020-04-27
 author:     Gavin   
 img:        /img/construct.jpg
 
@@ -35,9 +35,50 @@ categories: longtermism, self-representation, writing
 {%	assign ben = "https://www.benkuhn.net/grad"			%}
 {%	assign rot = "https://en.wikipedia.org/wiki/Link_rot"		%}
 {%	assign pg = "http://www.paulgraham.com/articles.html"		%}
+{%	assign russ = "https://robertpaulwolff.blogspot.com/2012/02/two-cultures.html"		%}
+{%	assign tut = "https://robertpaulwolff.blogspot.com/2011/01/thought-of-karl-marx-part-one.html"	%}
+{%	assign rpw = "https://robertpaulwolff.blogspot.com/"	%}
+
+<style>
+th 
+{
+  vertical-align: bottom;
+}
+
+#vert 
+{
+  -ms-writing-mode: tb-rl;
+  -webkit-writing-mode: vertical-rl;
+  writing-mode: vertical-rl;
+  transform: rotate(270deg);
+  white-space: nowrap;
+  text-align: left;
+  padding-left: 35px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+
+.tg  {
+	border-collapse:collapse;
+}
+.tg td {
+	border-color:black;
+	border-style:solid;
+	border-width: 1px;
+	padding: 10px;
+}
+
+.lax {
+	text-align: center;
+	padding-left: 30px;
+}
+
+</style>
 
 
-Blogging peaked in 2009; I was there, just. Dozens of people used to comment on everything. Famous economics professors followed my obscure fumbling posts, inexplicably. I learned more from these <a href="{{roll}}">personal sites</a> than I did in three stints at university. <br><br>
+
+
+Blogging peaked in 2009; I was there, just. <br><br>
 
 <div class="accordion">
 	<h3>Suggestive data</h3>
@@ -54,16 +95,46 @@ Blogging peaked in 2009; I was there, just. Dozens of people used to comment on 
 </div>
 <br>
 
-Blogging was mostly social: like a public diary; as if everyone was a newspaper columnist. "Here's what I'm thinking" or "here's my reaction to what Dubya just said". There were various <a href="{{sphere}}">Spheres</a>, where amateurs and <a href="{{ec}}">professionals</a> of various sorts thought out loud and gossiped and <a href="{{leiter}}">bitched</a>. 
+Writing a 'web log' was mostly social: like a public diary; as if everyone was a newspaper columnist with a letters page. "Here's what I've been up to"; "here's my reaction to what Dubya just said"; "here's why (a)theists are dumb". More about process than product.
 
-It had an economy, <a href="{{eg}}">thousands</a> of people making a living off it (or anyway <a href="{{five}}">someone</a> making money off it). That racket is still there, but the clever people long ago moved to Youtube and Insta and podcasts and newsletters.
+Half a dozen people used to comment on everything. There were various <a href="{{sphere}}">Spheres</a>, where amateurs and <a href="{{ec}}">professionals</a> of various sorts thought out loud and gossiped and <a href="{{leiter}}">bitched</a>.  Famous economics professors followed my obscure fumbling posts, inexplicably.
 
-Blogs were supplanted by centralised social media, maybe because they're more effective for broadcasting and harvesting status, and because no-one is aiming for more than ephemerality. (When was the last time you looked at what anyone said on Facebook last year?)
+It had an economy, <a href="{{eg}}">thousands</a> of people making a living off it (or anyway <a href="{{five}}">someone</a> making money off it). That racket is still there, but the clever people long ago moved to Youtube, Insta, podcasts, and newsletters.
 
-In the transition period, your Twitter or Tumblr page got called a <a href="{{mic}}">microblog</a>. (That makes Insta and Tiktok 'picoblogs'.) But people moved on, making the original unit superfluous.
+Blogs were supplanted by centralised social media. This was maybe because they're more effective for broadcasting and harvesting status, and because no-one there is aiming for more than ephemerality. (When was the last time you looked at what anyone said on Facebook last year?) In the transition period, your Twitter or Tumblr page got called a <a href="{{mic}}">microblog</a>. (That makes Insta and Tiktok 'picoblogs'.) But people moved on, making the original unit superfluous.
 
-Overlooked fact: the internet <a href="{{rot}}">dies off</a> at an astounding rate. The average link stops working after about two and a half years. Not only was blogging reactive and parochial; it was also mortal.<br><br>
+My point is: 'Blogging' has been used for <i>both</i> short-term indie punditry and long-term indie intellectual work. The first is now on social media. The second lives on: I learned more from these <a href="{{roll}}">personal sites</a> than I did in three stints at university. Many of these sites were called blogs, but I say leave the word to the first thing.
 
+An overlooked fact: the internet <a href="{{rot}}">dies off</a> at an astounding rate. The average link stops working after about two and a half years. Not only was blogging reactive and parochial; it was also mortal.<br>
+
+
+<table class="tg">
+  <tr>
+    <!-- <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th> -->
+    <th class="lax" colspan=4>Durable</th>
+    <!-- <th class="tg-0lax"></th> -->
+  </tr>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+    <td class="tg-0lax"><i>Low</i></td>
+    <td class="tg-0lax"><i>High</i></td>
+  </tr>
+  <tr>
+    <th class="tg-0pky"></th>
+    <td class="tg-0pky"><i>Low</i></td>
+    <td class="tg-0lax">Blog</td>
+    <td class="tg-0lax">Evergreen<br>content</td>
+  </tr>
+  <tr>
+    <th class="tg-0lax" id="vert">Impressive</th>
+    <td class="tg-0lax"><i>High</i></td>
+    <td class="tg-0lax">Live<br>performance</td>
+    <td class="tg-0lax">Long<br>content</td>
+  </tr>
+</table>
+<br>
 
 ## Essays vs blogposts
 
@@ -76,12 +147,12 @@ Overlooked fact: the internet <a href="{{rot}}">dies off</a> at an astounding ra
 </center>
 <br>
 
-As a result, when I'm in a poncey mood I say I don't write blogposts - they're essays. This ain't no blog, it's a 'site'!
-Basbøll uses "Writing" for the real deal, to be backwards compatible with the likes of Roland Barthes. But this is the most confusing possible name for it!
+So, when I'm in a poncey mood, I say I don't write blogposts - they're essays. This ain't no blog, it's a site!
+Basbøll uses "Writing" for the real deal, to be backwards compatible with the likes of Roland Barthes. But this is the most confusing possible name for it.
 
 In a way it's funny to set up essays as a superior substitute for blogging / social media musing, since "essay" (_<a href="{{ess}}">attempt</a>_) was itself  self-consciously inferior to big tedious monographs from the start. ("The essay - or microtreatise.")
 
-But never mind terminology. The inimitable Gwern aims for "'<a href="{{long}}">long content</a>", posts which are updated continuously for decades, living, growing piece by piece into magnificence:
+But never mind terminology. The inimitable Gwern aims for "<a href="{{long}}">long content</a>", work updated continuously for decades, living, growing piece by piece into magnificence:
 
 > how do you write a personal site with the long-term in mind? We live most of our lives in the future, and the actuarial tables give me until the 2070–2080s... What sort of writing could you create if you worked on it (be it ever so rarely) for the next 60 years? What could you do if you started now?... 
 
@@ -96,16 +167,15 @@ It's not about being pompous or pretending to have timeless wisdom; it's the att
 
 Depending on the field, a PhD might involve reading <a href="{{matt}}">100</a> - <a href="{{qu}}">400</a> papers, doing a thousand hours of asynchronous, unpredictable Innovative Work, then writing about <a href="{{hum}}">5 papers</a>. Call it 6000 hours. If you did this for 5 hours a week, say on a Sunday afternoon after waking late and having brunch and ambling about, you could do something of comparable scale over about 20 years: with no financial implications, no sweat, <a href="{{ben}}">no mental breakdown</a>. _While working full-time on other things_, and with my life 30% gone already, I could do ten things this hard, just with suitable long-sighted use of weekends. 
 
-(As it happens I think most PhDs don't have much impact on the world: they are read by say 4 other people, and maybe _should_ not be read by many more than that. But that's good: instead I can do a thousand small things, each with their own contribution to the future of all things.)<br><br>
+(As it happens I think most PhDs don't have much impact on the world: they are read by say 4 other people, and maybe _should_ not be read by many more than that. But that's good: instead I can do a thousand bits, each their own contribution to the future of all things.)<br><br>
 
 # See also
 
 * Basbøll, '<a href="{{bas}}">What is blogging?</a>'
 * Gwern, '<a href="{{long}}">Long Content</a>'
-* <a href="{{rot}}">Link rot</a>
-* Some sites are "evergreen", have great essays with enduring relevance, which do not change. <a href="{{pg}}">e.g.</a> This is great but not the epic project of projects I'm impressed by.
-* <a href="{{gel}}">Andrew Gelman's blog</a> manages the contradictions effortlessly. He reacts to hundreds of new papers a year, but _posts on a 9-month lag_ after writing. This allows him to uncouple from the reactive journalistic stuff, and lets us see if his take holds up. I have learned so much from it, and indeed it is an accumulating, long-term project: it documents his shift towards understanding the deep problems in large parts of academic science.
-
+* <a href="{{rot}}">Link rot</a><br><br>
+* <a href="{{gel}}">Andrew Gelman's blog</a> manages the contradictions effortlessly. He reacts to hundreds of new papers a year, but _posts on a 9-month lag_ after writing. This allows him to uncouple from the reactive journalistic stuff, and lets us see if his take holds up. I have learned so much from it, and indeed it is an accumulating, long-term project: it documents his shift towards understanding the deep problems in large parts of academic science.<br><br>
+* There is of course historical interest in seeing what pundits were saying at a given point in the early 21st century. The philosopher <a href="{{rpw}}">Robert Paul Wolff's site</a> is a nice example of the dual nature of a blog: it contains his daily record of American political news <i>and</i> his vast, life-distilling tutorials on the <a href="{{tut}}">great German philosophers</a>. (Inbetween the two are his recollections of <a href="{{russ}}">taking tea with Bertrand Russell</a> and dancing with a Pulitzer Prize winner's wife.)
 <br><br>
 
 {%	include comments.html	%}
