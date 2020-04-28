@@ -25,7 +25,6 @@ layout: default
       {% endif %} 
     {% endif %}
 
-
   <br>
     {% if page.summary %} <br>{{t}}<i>{{  page.summary  }}</i>{% endif %} 
     {% if page.confidence %} <br>{{t}}<i>Confidence</i>: {{ page.confidence }}{% endif %} 
@@ -33,6 +32,9 @@ layout: default
     {% if page.warnings %} <br>{{t}}<i>Content notes</i>: {{  page.warnings }}{% endif %}
     {% if page.wordcount %}<br>{{t}}<i>Reading time</i>: {{ page.wordcount | divided_by: 200 }} mins. {% endif %} 
     {% if page.lw %} <br>{{t}}<a href="{{ page.lw }}">Cross-posted here</a>.{% endif %} 
+    {% if page.argument %} 
+        {%  include dropdown.html     %}    
+    {% endif %} 
 
   </p>
 </header>
