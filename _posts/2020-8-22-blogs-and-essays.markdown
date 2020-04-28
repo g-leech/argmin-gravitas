@@ -11,136 +11,45 @@ visible:    1
 published:  true
 
 summary:    Trying to write anything more than ephemeral noise on the internet.
-confidence: Oral history plus semantics plus a declaration of intent.
+confidence: Oral history plus semantics plus declaration of intent.
 quality:    5
 importance: 6
 wordcount:  
 categories: longtermism, self-representation, writing
+argument:   sites/argument.html
+
 ---
 
-{%	assign bas = "http://secondlanguage.blogspot.com/2017/08/what-is-blogging.html"	%}
-{%	assign long = "https://www.gwern.net/About#long-content"		%}
-{%	assign ess = "https://en.wiktionary.org/wiki/essai#Noun"		%}
-{%	assign roll = "/blogroll"		%}
-{%	assign mic = "https://en.wikipedia.org/wiki/Microblogging"		%}
-{%	assign sphere = "https://en.wikipedia.org/wiki/Blogosphere#Blogging_niches"		%}
-{%	assign leiter = "https://leiterreports.typepad.com/blog/posturing-preening-wankers/"		%}
-{%	assign ec = "https://www.intelligenteconomist.com/economics-blogs/"		%}
-{%	assign five = "https://fivethirtyeight.com/features/the-economics-of-blogging-and-the-huffington-post/"		%}
-{%	assign eg = "https://businessesgrow.com/2015/04/22/blogging-will-never/"	%}
-{%	assign gel = "https://statmodeling.stat.columbia.edu/"		%}
-{%	assign matt = "http://matt.might.net/articles/ways-to-fail-a-phd/"		%}
-{%	assign qu = "https://www.quora.com/How-many-research-articles-do-PhD-students-read-during-their-entire-PhD-on-average"		%}
-{%	assign hum = "https://www.researchgate.net/publication/323784489_A_Current_View_of_the_Thesis_by_Publication_in_the_Humanities_and_Social_Sciences"		%}
-{%	assign ben = "https://www.benkuhn.net/grad"			%}
-{%	assign rot = "https://en.wikipedia.org/wiki/Link_rot"		%}
-{%	assign pg = "http://www.paulgraham.com/articles.html"		%}
-{%	assign russ = "https://robertpaulwolff.blogspot.com/2012/02/two-cultures.html"		%}
-{%	assign tut = "https://robertpaulwolff.blogspot.com/2011/01/thought-of-karl-marx-part-one.html"	%}
-{%	assign rpw = "https://robertpaulwolff.blogspot.com/"	%}
-{%  assign w = "https://www.wired.com/2012/11/jade-doskow-worlds-fairs/"  %}
-{%  assign m = "https://www.mnn.com/lifestyle/arts-culture/stories/15-legendary-worlds-fair-leftovers"  %}
-{%  assign yud = "https://www.readthesequences.com/"  %}
-{%  assign git = "https://arxiv.org/pdf/1710.11540.pdf"   %}
-
-
-<style>
-th 
-{
-  vertical-align: bottom;
-}
-
-#vert 
-{
-  -ms-writing-mode: tb-rl;
-  -webkit-writing-mode: vertical-rl;
-  writing-mode: vertical-rl;
-  transform: rotate(270deg);
-  white-space: nowrap;
-  text-align: left;
-  padding-left: 35px;
-  padding-bottom: 0px;
-  padding-top: 0px;
-}
-
-.tg  {
-	border-collapse:collapse;
-}
-.tg td {
-	border-color:black;
-	border-style:solid;
-	border-width: 1px;
-	padding: 10px;
-}
-
-.lax {
-	text-align: center;
-	padding-left: 45px;
-}
-
-</style>
-
+{%  include sites/links_and_style.html    %}
 
 
 
 Blogging peaked in 2009; I was there, just. <br><br>
 
-<div class="accordion">
-	<h3>Suggestive data</h3>
-	<div>
-		<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2152_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"blog","geo":"US","time":"2004-01-01 2020-04-20"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=blog","guestPath":"https://trends.google.com:443/trends/embed/"}); 
-		</script>
-		<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2152_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"blog","geo":"US","time":"2004-01-01 2020-04-20"},{"keyword":"twitter","geo":"US","time":"2004-01-01 2020-04-20"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=blog,twitter","guestPath":"https://trends.google.com:443/trends/embed/"}); 
-		</script>
-		<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2152_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"forum","geo":"US","time":"2004-01-01 2020-04-26"},{"keyword":"blog","geo":"US","time":"2004-01-01 2020-04-26"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=forum,blog","guestPath":"https://trends.google.com:443/trends/embed/"}); 
-		</script>
-		<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2152_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"forum","geo":"US","time":"2004-01-01 2020-04-26"},{"keyword":"reddit","geo":"US","time":"2004-01-01 2020-04-26"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=forum,reddit","guestPath":"https://trends.google.com:443/trends/embed/"}); 
-		</script>
-	</div>
-</div>
-<br>
+{%  include sites/trends.md    %}
 
-Writing a 'web log' was mostly social: like a public diary; as if everyone was a newspaper columnist with a letters page. "Here's what I've been up to"; "here's my reaction to what Dubya just said"; "here's why (a)theists are dumb". More about process than product.
+Writing a 'web log' was mostly social: like a public diary; as if everyone was a newspaper columnist with a letters page. "Here's what I've been up to"; "here's my reaction to what Dubya just said"; "I just remembered a thing"; "here's why <a href="{{the}}">(a)theists are dumb</a>". More about process than product.
 
 Half a dozen people used to comment on everything. There were various <a href="{{sphere}}">Spheres</a>, where amateurs and <a href="{{ec}}">professionals</a> of various sorts thought out loud and gossiped and <a href="{{leiter}}">bitched</a>.  Famous economics professors followed my obscure fumbling posts, inexplicably.
 
 It had an economy, <a href="{{eg}}">thousands</a> of people making a living off it (or anyway <a href="{{five}}">someone</a> making money off it). That racket is still there, but the clever or young people long ago moved to Youtube, Insta, podcasts, and newsletters.
 
-Blogs were supplanted by centralised social media. This was maybe because they're more effective for broadcasting and harvesting status, and because no-one there is aiming for more than ephemerality. (When was the last time you looked at what anyone said on Facebook last year?) In the transition period, your Twitter or Tumblr page got called a <a href="{{mic}}">microblog</a>. (That makes Insta and Tiktok 'picoblogs'.) But people moved on, making the original unit superfluous.
+Blogs were supplanted by centralised social media. This was maybe because they're more effective for broadcasting and harvesting status, and because no-one there is aiming for more than ephemerality. (When was the last time you looked at what anyone said on Facebook last year?) In the transition period, your Twitter or Tumblr page got called a <a href="{{mic}}">microblog</a>. <a href="#fn:2" id="fnref:2">2</a>  But people moved on, making the original unit superfluous.
 
-My point is: 'Blogging' has been used for <i>both</i> short-term indie punditry and long-term indie intellectual work. The first is now on social media. The second lives on: I learned more from these <a href="{{roll}}">personal sites</a> than I did in three stints at university. Many of these sites were called blogs, but I say leave the word to the first thing.
+My point: 'Blogging' has been used for <i>both</i> short-term indie punditry/self-expression, and long-term indie creative/intellectual work. The first is now on social media. The second lives on: I learned more from these <a href="{{roll}}">personal sites</a> than I did in three stints at university. Many of these sites are called blogs, but I say leave the word to the first thing.
 
-An overlooked fact: the internet <a href="{{rot}}">dies off</a> at an astounding rate. The average link stops working after about two and a half years. Not only was blogging reactive and parochial; it was also mortal.<br>
+An overlooked fact: the internet <a href="{{rot}}">dies off</a> at an astounding rate. The average link stops working after about two and a half years. Not only was blogging reactive and local; it was also mortal.<br><br>
+
+{%  include sites/2x2.html    %}
+
+<br>
+
+Why prefer the bottom-right? Why not write ephemera, or for oneself only? 
+
+No binding reason: just if you want to do something big; if your ego or your morals demand it; if you want to seed more than a one-time flurry of agreement, disagreement, indifference, impressions. The rest of this piece is about the second column.
 
 
-<table class="tg">
-  <tr>
-    <!-- <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th> -->
-    <th class="lax" colspan=4>Durable</th>
-    <!-- <th class="tg-0lax"></th> -->
-  </tr>
-  <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <td class="tg-0lax"><i>Low</i></td>
-    <td class="tg-0lax"><i>High</i></td>
-  </tr>
-  <tr>
-    <th class="tg-0pky"></th>
-    <td class="tg-0pky"><i>Low</i></td>
-    <td class="tg-0lax">Blog</td>
-    <td class="tg-0lax">Evergreen<br>content</td>
-  </tr>
-  <tr>
-    <th class="tg-0lax" id="vert">Impressive</th>
-    <td class="tg-0lax"><i>High</i></td>
-    <td class="tg-0lax">Live<br>performance</td>
-    <td class="tg-0lax">Long<br>content</td>
-  </tr>
-</table>
 
-<br><a href="#fn:1" id="fnref:1">1</a><br>
 <br>
 
 <hr>
@@ -176,10 +85,23 @@ But never mind terminology. The inimitable Gwern aims for "<a href="{{long}}">lo
 
 It's not about being pompous or pretending to have timeless wisdom; it's the attempt to do things that become more and more amazing, which are worth keeping updated, worth living up to.
 
-Depending on the field, a PhD might involve reading <a href="{{matt}}">100</a> - <a href="{{qu}}">400</a> papers, doing a thousand hours of asynchronous, unpredictable Innovative Work, then writing about <a href="{{hum}}">5 papers</a>. Call it 6000 hours. If you did this for 5 hours a week, say on a Sunday afternoon after waking late and having brunch and ambling about, you could do something of comparable scale over about 20 years: with no financial implications, no sweat, <a href="{{ben}}">no mental breakdown</a>. _While working full-time on other things_, and with my life 30% gone already, I could do ten things this hard, just with suitable long-sighted use of weekends. 
+e.g. Depending on the field, a PhD might involve reading <a href="{{matt}}">100</a> - <a href="{{qu}}">400</a> papers, doing a thousand hours of asynchronous, unpredictable Innovative Work, then writing about <a href="{{hum}}">5 papers</a>. Call it 6000 hours. If you did this for 5 hours a week, say on a Sunday afternoon after waking late and having brunch and ambling about, you could do something of comparable scale over about 20 years: with no financial implications, no sweat, <a href="{{ben}}">no mental breakdown</a>. _While working full-time on other things_, and with my life 30% gone already, I could do ten things this hard, just with suitable long-sighted use of weekends.
+
+(As it happens even serious academic work is surprisingly volatile; <a href="{{ac}}">around half the links</a> in the average academic paper die within a decade. There are often alternative ways to recover the target document, but not always.) 
 
 (As it happens I think most PhDs don't have much impact on the world: they are read by say 4 other people, and maybe _should_ not be read by many more than that. But that's good: instead I can do a thousand bits, each their own contribution to the future of all things.)<br><br>
 
+<div class="accordion">
+    <h3>Foundations of long work</h3>
+    <div>
+        1. <a href="/scarcity">Slack</a> <br>
+        2. <a href="{{long}}">Perspective</a> <br>
+        3. <a href="{{life}}">Lifespan</a>.<br>
+        4. Backups (your stuff <i>and</i> <a href="{{link}}">your links</a>)<br>
+        5. Unusually <a href="{{serv}}">resilient</a> or portable software.<br>
+        6. Something worth growing.
+    </div>
+</div>
 
 <hr>
 
@@ -190,27 +112,16 @@ Depending on the field, a PhD might involve reading <a href="{{matt}}">100</a> -
 * Basbøll, '<a href="{{bas}}">What is blogging?</a>'
 * Gwern, '<a href="{{long}}">Long Content</a>'
 * <a href="{{rot}}">Link rot</a><br><br>
-* Long content is really uncommon. Even great internet writing with a view to the long term (e.g. Eliezer Yudkowsky's <a href="{{yud}}">sustained braindump</a> of 2007 to 2009) is never updated, when its problems are found at all. This should worry us, since it implies it's hard to do. Maybe few people have stable enough goals and interests to do this, or just enough time. 
+* Long content is really uncommon. Even great internet writing with a view to the long term (e.g. Eliezer Yudkowsky's <a href="{{yud}}">sustained braindump</a> of 2007 to 2009) is never updated, when its problems are found at all. This should worry us, since it implies it's hard to do. Maybe few people have stable enough goals and interests to do this, or just enough time. <br><br>
 * The situation may be even worse in open source software, with projects <a href="{{git}}">overwhelmingly dead by 6 months old</a>.<br><br>
 * <a href="{{gel}}">Andrew Gelman's blog</a> manages the contradictions effortlessly. He reacts to hundreds of new papers a year, but _posts on a 9-month lag_ after writing. This allows him to uncouple from the reactive journalistic stuff, and lets us see if his take holds up. I have learned so much from it, and indeed it is an accumulating, long-term project: it documents his shift towards understanding the deep problems in large parts of academic science.<br><br>
-* There is of course historical interest in seeing what pundits were saying at a given point in the early 21st century. The philosopher <a href="{{rpw}}">Robert Paul Wolff's site</a> is a nice example of the dual nature of a blog: it contains his daily record of American political news <i>and</i> his vast, life-distilling tutorials on the <a href="{{tut}}">great German philosophers</a>. (Inbetween the two are his recollections of <a href="{{russ}}">taking tea with Bertrand Russell</a> and dancing with a Pulitzer Prize winner's wife.)<br><br>This dear man makes me reconsider my strict division: leave both in, let a blog be high and low, short and long. Just as long as you do big stuff.
+* There is of course historical interest in seeing what pundits were saying at a given point in the early 21st century. The philosopher <a href="{{rpw}}">Robert Paul Wolff's site</a> is a nice example of the dual nature of a blog: it contains his daily record of American political news <i>and</i> his vast, life-distilling tutorials on the <a href="{{tut}}">great German philosophers</a>. (Inbetween the two are his recollections of <a href="{{russ}}">taking tea with Bertrand Russell</a> and dancing with a Pulitzer Prize winner's wife.)<br><br>This dear man makes me reconsider my strict division: leave both in, let a blog be high and low, short and long. Just as long as you do big stuff if you can.
 
 <br><br>
 
 {%	include comments.html	%}
 
-
-<div class="footnotes">
-
-<ol>
-    <!-- 1 -->
-    <li class="footnote" id="fn:1">
-      By analogy, a good example of "High scale, low durability" are the incredible <a href="{{w}}">temporary</a> <a href="{{m}}">buildings</a> made for World's Fair expos.
-    </li>
-</ol>
-
-</div>
-
+{%  include sites/foots.md %}
 
 
 

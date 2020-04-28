@@ -31,6 +31,7 @@ wordcount:	1000
 {%	assign shap = "https://en.wikipedia.org/wiki/Shapley_value#Generalization_to_coalitions"		%}
 {%	assign cadam = "https://arxiv.org/pdf/2002.03755.pdf"		%}
 {%	assign comp = "https://arxiv.org/pdf/1912.13515.pdf"		%}
+{%	assign dmdp = "https://en.wikipedia.org/wiki/Decentralized_partially_observable_Markov_decision_process"	%}
 
 
 <style type="text/css">
@@ -219,12 +220,12 @@ What to call the topic in common? 'Distributed optimisation'? '<a href="{{cadam}
 
 ## See also
 
-
 * <a href="/conversion">Mapping metaphysics, mathematics, and programming</a>
 * _<a href="{{cosma}}">In Soviet Russia, Optimisation Problem Solves You</a>_ (2012)
 * _<a href="{{gt}}">An Analysis of Stochastic Game Theory for Multiagent
 Reinforcement Learning</a>_ (2000)
 * _<a href="{{egt}}">Learning Through Reinforcement and Replicator Dynamics</a>_ (1997)
+* _<a href="{{dmdp}}">Decentralized partially-observable Markov decision process</a>_
 * _<a href="{{comp}}">Stochastic Recursive Variance Reduction for... Compositional Optimization</a>_ (2020)
 
 <br><br>
