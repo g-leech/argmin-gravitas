@@ -99,7 +99,8 @@ e.g. Depending on the field, a PhD might involve reading <a href="{{matt}}">100<
         3. <a href="{{life}}">Lifespan</a>.<br>
         4. Backups (your stuff <i>and</i> <a href="{{link}}">your links</a>)<br>
         5. Unusually <a href="{{serv}}">resilient</a> or portable software.<br>
-        6. Something worth growing.
+        6. Public version control to prevent impropriety (memory holes, retcons, unstable testimony).<br>
+        7. Something worth growing.
     </div>
 </div>
 
