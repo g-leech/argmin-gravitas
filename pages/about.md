@@ -30,7 +30,6 @@ If you want to talk, get in touch by <a href="mailto:{{ site.email }}">email</a>
 <div class="accordion">	
 	<!-- %	include about/now.md	%} -->
 	{%	include about/research.html	%}	
-	{%	include about/favs.html	%}	
 	{%	include about/errata.html	%}	
 	{%	include about/giving.html	%}	
 	{%	include about/books.html	%}	
