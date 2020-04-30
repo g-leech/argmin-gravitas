@@ -19,7 +19,7 @@ wordcount:      1500
 
 {%  include ou/links.md     %}
 
-
+{{page.title | slugify}}
 <center>
 
 <blockquote>Anon: "What would you give, to be two standard deviations better at math?"<br> 
