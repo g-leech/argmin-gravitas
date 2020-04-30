@@ -88,3 +88,11 @@
 {%		assign back = "https://www.threecandles.org/archive/ljenkins.html"		%}
 {%		assign aber = "https://troublingadvocacy.blogspot.com/2020/04/aberdeen-by-iain-crichton-smith.html"		%}
 {%		assign flo = "https://halfmanhalfbiscuit.uk/this-leaden-pall-1993/floreat-inertia/"		%}
+
+
+{%		assign sittler = "https://fragile-credences.github.io/ps/"				%}
+{%		assign cs = "https://www.scottaaronson.com/blog/?p=152"					%}
+{%		assign orseau = "https://arxiv.org/abs/1805.12387"		%}
+{%		assign shminux = "https://quantitativephilosophy.wordpress.com/"		%}
+{%		assign gelman = "https://statmodeling.stat.columbia.edu/2019/04/12/several-reviews-of-deborah-mayos-new-book-statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/"	%}
+{%		assign comp1 = "https://www.gleech.org/first-computers/"		%}
