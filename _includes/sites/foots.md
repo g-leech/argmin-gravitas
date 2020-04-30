@@ -11,7 +11,7 @@
     </li>
 <!--  -->
 	<li class="footnote" id="fn:3">
-		20 hours at the weekend, 50 weeks a year, for 60 years = 60,000 hours. Probably halve it for most people, owing to family commitments, senescence, value drift, illness.<br><br>
+		20 hours at the weekend, 50 weeks a year, for 60 years = 60,000 hours. Probably quarter this for most people, owing to family commitments, senescence, value drift, illness, akrasia. So only 2 or 3 astonishing, unbelievable monuments to human wonder.<br><br>
 <!--  -->
 		For most people this is only sustainable for things you love doing, if then. But there are plenty of those.
 	</li>		
