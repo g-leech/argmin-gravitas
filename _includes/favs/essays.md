@@ -16,6 +16,9 @@
 			<li>		Fear And Loathing At Effective Altruism Global 2017 			</li> 
 			<li>		'<a href="{{kelsey}}">on milquetoast autistic rationalism</a>' (2015),	</li> 
 			<li>		'<a href="{{zayd}}">Why is Machine Learning Hard?</a>'			</li>
+			<li>		<a href="{{sittler}}">like</a>					</li>
+			<li>		<a href="{{cs}}">technical</a>					</li>
+			Leike regret happiness
 		</ul>
 	</div>
 	<!--  -->
@@ -24,10 +27,12 @@
 		<ul>
 			<li>‘<a href="{{nma}}">Miracles, Pessimism and Scientific Realism</a>’ (2005) by John Worrall	</li>
 			<li>'<a href="{{nuance}}">Fuck Nuance</a>' (2017) by Kieran Healy		</li>
+			<li><a href="{{orseau}}">solutions</a>			</li>
 		</ul>
 	</div>
 	<!--  -->
 	{%	include favs/poems.md	%}
 	{%	include favs/software.md	%}
+	{%	include favs/jokes.md 		%}
 </div>
 
