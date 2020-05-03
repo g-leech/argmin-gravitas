@@ -15,7 +15,8 @@ confidence: 90% that my interpretation is right. Speculative stuff in the second
 categories: stats, social science
 importance: 6
 emotion:	4
-wordcount: 		700
+wordcount: 	700
+argument:   pd/argument.md
 ---
 
 {%	assign supe = "https://en.wikipedia.org/wiki/Superrationality"	%}
@@ -29,7 +30,7 @@ wordcount: 		700
 {%	assign nash = "http://web.cse.ohio-state.edu/~stiff.4/cse3521/prisoners-dilemma.html"	%}
 {%	assign king = "https://unherd.com/2020/02/the-madness-of-mervyn-kings-uncertainty"		%}
 {%	assign berg = "https://link.springer.com/chapter/10.1007/978-1-349-20181-5_26"		%}
-
+{%	assign rpw = "https://umass.app.box.com/s/n72u3p7pyj/folder/80549398"		%}
 
 
 I was at a corporate team-building event, because I wasn't persuasive enough to not be. I was a prisoner.
@@ -122,6 +123,10 @@ When reasoning about what I should do, if I reflect on what my predecessors must
 Similarly, you don't benefit from doing game theory on an unpredictable opponent (for instance one who doesn't know or rejects game theory).
 
 <br><br>
+
+## See also 
+
+* _<a href="{{rpw}}">The Use and Abuse of Formal Models in Political Philosophy</a>_, Robert Paul Wolff.
 
 {%	include comments.html	%}
 

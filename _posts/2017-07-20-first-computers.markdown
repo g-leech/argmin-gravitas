@@ -14,7 +14,7 @@ quality:    8
 
 summary:    Tiny app for defining "computer" and selecting between first computers.
 confidence:	Pretty sure, 90%. A few dates missing, but there's no crucial overlaps.
-categories: computing, history
+categories: computers, history, conceptual-analysis
 warnings:	unfair posterity.
 importance: 4
 pride: 		8

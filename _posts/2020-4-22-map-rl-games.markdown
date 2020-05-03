@@ -32,6 +32,7 @@ wordcount:	1000
 {%	assign cadam = "https://arxiv.org/pdf/2002.03755.pdf"		%}
 {%	assign comp = "https://arxiv.org/pdf/1912.13515.pdf"		%}
 {%	assign dmdp = "https://en.wikipedia.org/wiki/Decentralized_partially_observable_Markov_decision_process"	%}
+{%	assign gwern = "https://www.gwern.net/Backstop"		%}
 
 
 <style type="text/css">
@@ -227,7 +228,7 @@ Reinforcement Learning</a>_ (2000)
 * _<a href="{{egt}}">Learning Through Reinforcement and Replicator Dynamics</a>_ (1997)
 * _<a href="{{dmdp}}">Decentralized partially-observable Markov decision process</a>_
 * _<a href="{{comp}}">Stochastic Recursive Variance Reduction for... Compositional Optimization</a>_ (2020)
-
+* I just found <a href="{{gwern}}">this superior treatment</a> by Gwern.
 <br><br>
 
 {%	include comments.html	%}

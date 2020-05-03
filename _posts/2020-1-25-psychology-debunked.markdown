@@ -16,6 +16,7 @@ quality:    8
 confidence: High that I'm representing the current evidence well, low that all of these will stay reversed.
 importance: 5
 warnings: 	I am not a social scientist.
+categories: long-content, science, psychology
 wordcount:  3500
 ---
 

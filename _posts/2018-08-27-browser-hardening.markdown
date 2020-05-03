@@ -9,11 +9,11 @@ author:     Gavin
 img:        /img/attack.jpg
 published:  true
 visible:    1
-quality: 	8
 
 summary:    Passable browser security for almost no money or effort.
 confidence: 95% that this is worth the time and better than nothing.
-categories: 
+categories: long-content, computers, self-help
+quality: 	8
 importance: 5
 wordcount:  1550
 ---

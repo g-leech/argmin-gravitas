@@ -9,15 +9,16 @@ author:     Gavin
 img:        /img/grey.jpg
 published:	true
 visible: 	1
-quality: 	9
 
 summary:    Why many different worldviews should prioritise reducing existential risk.
 confidence:	70%.
+quality: 	9
+emotion: 	4
 categories: x-risk
 importance: 10
 pride: 		9
 wordcount: 	1000
-lw:			https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause
+cross:		https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause
 ---
 
 {%	include xriskAll/links.md		%}
