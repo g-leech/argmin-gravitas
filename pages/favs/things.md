@@ -13,14 +13,8 @@ visible:    false
 
 <div class="accordion">
 	{%	include favs/idioms.html	%}
-<!-- 
--->
-	<h3>Writing</h3>
-	<div>
-		{%	include favs/essays.md	%}
-	</div>
-<!--  
--->
+	{%	include favs/writing.md	%}
+<!--  -->
 	<h3>People</h3>
 	<div>
 		<div class="accordion">
