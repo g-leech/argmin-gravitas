@@ -17,12 +17,24 @@ confidence: 70%
 importance: 5
 wordcount:  900
 categories: philosophy, politics, epistemology
+argument:   brainwash/argument.html
 ---
 
+
+<!-- https://roamresearch.com/#/app/gleech/page/j9MYGZmzv -->
+<!-- The evidence for superstimuli food and booze and drugs
+ -->
 
 > I can only suggest that he would combat false consciousness to awaken people to their true interests has much to do, because the sleep is very deep. And I do not intend here to provide a lullaby but merely to sneak in and watch the people snore.
 
 <center>&#8211; Erving Goffman</center>
+
+<br>
+
+Never ascribe to laziness that which can be explained by people knowing their own lives better than you do. 
+
+<center>&#8211; Buck Shlegeris</center>
+
 <br><br>
 
 
@@ -31,6 +43,10 @@ First-order model of psychology
 Porn, violent videogames, electoral interference.
 
 The idea that the Russians can spend $0.1m and totally pervert American discourse, but that Michael Bloomberg can spend $700m and die on his feet, vanish without a trace.
+
+Hegemony. Chomskyan consent.
+
+Foucauldian biopower.
 
 Many interesting theories accuse us of being brainwashed: "You lack information; now, open your eyes":
 

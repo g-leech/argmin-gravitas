@@ -113,6 +113,7 @@ e.g. Depending on the field, a PhD might involve reading <a href="{{matt}}">100<
 * Basbøll, '<a href="{{bas}}">What is blogging?</a>'
 * Gwern, '<a href="{{long}}">Long Content</a>'
 * <a href="{{rot}}">Link rot</a><br><br>
+* <a href="{{scar}}">Piero Scaruffi</a> is the original: 5 decades of sustained idiosyncratic work. He has steadily built a corpus of unbelievable depth and breadth, including 9,000 detailed album-by-album profiles of musicians, and 10 spin-off books which seem to support him financially.<br><br>
 * Long content is really uncommon. Even great internet writing with a view to the long term (e.g. Eliezer Yudkowsky's <a href="{{yud}}">sustained braindump</a> of 2007 to 2009) is never updated, when its problems are found at all. This should worry us, since it implies it's hard to do. Maybe few people have stable enough goals and interests to do this, or just enough time. <br><br>
 * The situation may be even worse in open source software, with projects <a href="{{git}}">overwhelmingly dead by 6 months old</a>.<br><br>
 * <a href="{{gel}}">Andrew Gelman's blog</a> manages the contradictions effortlessly. He reacts to hundreds of new papers a year, but _posts on a 9-month lag_ after writing. This allows him to uncouple from the reactive journalistic stuff, and lets us see if his take holds up. I have learned so much from it, and indeed it is an accumulating, long-term project: it documents his shift towards understanding the deep problems in large parts of academic science.<br><br>

@@ -1,4 +1,13 @@
 {
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"python\" -u \"$file\""
+		}
+	],
 	"folders":
 	[
 		{
@@ -11,8 +20,11 @@
 			"path": "_posts"
 		},
 		{
-			"path": ".",
-			"folder_exclude_patterns": ["_site"]
+			"folder_exclude_patterns":
+			[
+				"_site"
+			],
+			"path": "."
 		}
 	]
 }
