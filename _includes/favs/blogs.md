@@ -82,7 +82,8 @@
 		<h3>Sorely missed</h3>
 		<div>
 			<a href="http://haquelebac.wordpress.com/">John Emerson</a>.<br><br> 
-			http://grognor.stacky.net/index.php?title=Main_Page
+			http://grognor.stacky.net/index.php?title=Main_Page		<br>
+			http://www.aaronsw.com/weblog/
 		</div>
 		<!--  -->
 		<h3>We could be friends</h3>
@@ -116,6 +117,14 @@
 			https://eukaryotewritesblog.com/
 			<br>
 			http://leahneukirchen.org/trivium/
+			<br>
+			https://theconsequentialist.wordpress.com/
+			<br>
+			http://allegedwisdom.blogspot.com/
+			<br>
+			https://jsteinhardt.wordpress.com/
+			<br>
+			dormin.org
 		</div>
 	</div>
 </div>

@@ -96,3 +96,12 @@
 {%		assign shminux = "https://quantitativephilosophy.wordpress.com/"		%}
 {%		assign gelman = "https://statmodeling.stat.columbia.edu/2019/04/12/several-reviews-of-deborah-mayos-new-book-statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/"	%}
 {%		assign comp1 = "https://www.gleech.org/first-computers/"		%}
+{%		assign leike = "https://arxiv.org/pdf/1505.04497.pdf"			%}
+{%		assign paradox = "https://www.jstor.org/stable/3328348?seq=1"		%}
+{%		assign single = "https://writersinasinglesentence.tumblr.com/tagged/Writers-in-a-Single-Sentence"	%}
+
+{%		assign fear = "https://slatestarcodex.com/2017/08/16/fear-and-loathing-at-effective-altruism-global-2017/"	%}
+{%		assign singer = "https://www.jstor.org/stable/2265052?seq=1"		%}
+{%		assign melancholy = "https://www.gwern.net/The-Melancholy-of-Subculture-Society"		%}
+{%		assign melat = "https://www.gwern.net/Melatonin"		%}
+{%		assign long = "https://www.gwern.net/About#long-site"		%}
