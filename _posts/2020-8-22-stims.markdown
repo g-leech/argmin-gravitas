@@ -1,0 +1,33 @@
+---
+layout:     post
+title:      "Tolerance of stimulants and the tears of the World"
+baselink:   /stims
+permalink:  /stims
+date:       2020-06-24
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+
+summary:    Do stimulants do anything, when used chronically?
+quality:    
+confidence: 
+importance: 
+wordcount:      
+categories: biochemistry, self-help, quantified self
+---
+
+
+People get confused
+
+Cessation effect: return to baseline
+Withdrawal effect: return to baseline plus harm
+
+Downregulation is powerful and ubiquitous.
+
+Tolerance of Caffeine 
+
+afinils
+
+3 day cycle? 7 day?

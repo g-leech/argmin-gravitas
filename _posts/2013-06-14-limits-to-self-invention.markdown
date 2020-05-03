@@ -17,6 +17,7 @@ confidence: 60%. Grounded in philosophy and anecdote, not the psychology of self
 importance: 6
 wordcount:  1000
 categories: self-help, philosophy, becoming, false framework
+argument:   bootstraps/argument.md
 ---
 
 {%	assign goff = "http://www.kreps.org/ma/perf.html"	%}

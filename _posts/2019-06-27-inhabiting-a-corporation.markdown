@@ -354,8 +354,21 @@ It also stomped the importance of environment into me. You _can't_ do great work
 
 If, once you're financially secure and ensconced in a house and a family, you have no further ambitions, then these places are as good as it gets.
 
-<br><br>
+<br>
 
+<hr>
+
+<br>
+
+## See also
+
+{%      assign src = "https://srconstantin.wordpress.com/2017/05/09/how-much-work-is-real/"         %}
+
+
+* <a href="{{src}}">How Much Work is Real?</a>
+
+
+<br><br>
 
 {%  include corp/foots.html %}
 

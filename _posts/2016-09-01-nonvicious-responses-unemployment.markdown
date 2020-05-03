@@ -12,13 +12,14 @@ published: 	true
 
 summary:	Some vicious and potentially nonvicious responses to technological unemployment.
 quality:    6
-confidence: 90% that the ones I call vicious would be. 60% that the ones I call nonvicious would be. Only about 50% that this scenario will come to pass in the first place.
+confidence: 90% that the ones I call vicious would be. 60% that the ones I call nonvicious would be. Only about 40% that this scenario will come to pass in the first place.
 emotion:    4
 warnings: 	totalitarianism, denial of basic goods, obsolescence
 categories: AI, transhumanism, economics
-importance: 7, conditional on there being mass unemployment.
+importance: 7
 wordcount: 	1950
-lw: 		https://www.lesswrong.com/posts/HK4rjtfKetGF9rHQM/automatic-for-the-people
+cross: 		https://www.lesswrong.com/posts/HK4rjtfKetGF9rHQM/automatic-for-the-people
+argument:   nonvicious/argument.html
 ---
 
 
@@ -49,7 +50,7 @@ lw: 		https://www.lesswrong.com/posts/HK4rjtfKetGF9rHQM/automatic-for-the-people
 <br><br>
 
 
-Autonomous trucks are now in use and are already <a href="{{truckSafety}}">safer</a> and <a href="{{truckEfficient}}">more fuel-efficient</a> than human driven ones. <a href="{{usDrivers}}">Truck drivers</a> are <a href="{{usDrivers2}}">~2%</a> of the entire <a href="{{usDrivers3}}">American workforce</a>.
+Autonomous trucks are now in use and are already <a href="{{truckSafety}}">safer</a> and <a href="{{truckEfficient}}">more fuel-efficient</a> than human driven ones. <a href="{{usDrivers}}">Truck drivers</a> are <a href="{{usDrivers2}}">2%</a> of the entire <a href="{{usDrivers3}}">American workforce</a>.
 
 <a href="{{journo}}">Crap journalism</a> (that is, 80% of journalism) is now fully automatable. <a href="{{art}}">Automatic art</a> is <a href="{{art2}}">quite good</a> and improving fast. Consider also <a href="{{bar}}">the cocktail bartender</a>.  And so on: <a href="{{martin}}">around half of <i>all</i> jobs</a> are at risk of being automated, assuming the rate of AI progress just stays constant ("over an unspecified period, perhaps a decade or two").
 <br><br>

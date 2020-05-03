@@ -16,7 +16,8 @@ confidence:	N/A. A polemic I don't usually endorse.
 importance: 4
 pride:		7
 wordcount:	3000
-lw: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philosopher
+categories: long-content
+cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philosopher
 ---
 
 
@@ -312,6 +313,10 @@ Since my list of caveats is forty times longer than my original point, obviously
 _Dedicated to the University of Aberdeen, who in a 6 year period either fired, lost, or pushed out of teaching all but one of the excellent philosophers who taught me_: Gerald, Joe, Bob, Gerry, Guido, Nate, Tony, Catherine, Crispin, Grant, Russell, Aidan, Dylan, Aaron, Filippo, Francesco. 
 
 <br><br>
+
+## See also
+
+* Tom Sittler, <a href="{{sitt}}">Philosophical Success Stories</a>
 
 
 {%  include comments.html %}

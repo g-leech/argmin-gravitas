@@ -23,6 +23,9 @@ categories: review, self-help
 </center><br>
 
 
+<!-- https://roamresearch.com/#/app/gleech/page/aK2_eig2y -->
+
+
 <!-- **The Art of Procrastination: A Guide to Effective Dawdling, Lollygagging & Postponing** by John Perry -->
 
 <blockquote>
@@ -65,6 +68,7 @@ Zach Weiner:
 <br/><br/>
 <br/>---<br/><br/>
 Is this platitudinous? It is possible that the grand narration above is delusional, and that the only actual content here is "A lot of people work better under pressure". Don't think so though.<br/><br/>
+
 YMMV. 5/5 if you don't do this already
 
 <div class="accordion">
@@ -78,7 +82,9 @@ YMMV. 5/5 if you don't do this already
 <!--  -->
 		Another way I am ruled by demons: I have rarely had a shock of recognition stronger than when I read the above. The one says: "Let's go to that thing! Let's put on trousers, let's brave the night air, let's endure the tube, let's chat and schmooze."
 <!--  -->
-		Alright. You go along with it, screw up your courage, walk down the road - and find the Tube line closed! The other: "Joy of joys! - life pouring in rivulets down my chin, I am master of time, unto me has been given life extension: you, you beautiful infrastructure, have raised me from the dead and set me on high."<br><br>
+		You go along with it, screw up your courage, walk down the road - and find the Tube line closed! <br><br>
+<!--  -->
+		The other says: "Joy of joys! - life pouring in rivulets down my chin! I am master of time, unto me is life extension: you, you beautiful infrastructure, have raised me from the dead and set me high."<br><br>
 <!--  -->
 		It doesn't work if <i>you</i> cancel. The game is not that easy. Instead, you must be actually prevented, or the other must cancel.
 	</div>

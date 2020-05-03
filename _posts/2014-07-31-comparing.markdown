@@ -16,7 +16,8 @@ emotion:    6
 categories: self-help, mental health, philosophy
 confidence: 80% that this axis is important, but the details are vague and untested.
 importance: 7
-wordcount:  
+wordcount:  1500
+argument:   compare/argument.md
 ---
 
 {%	include compare/links.md	%}
