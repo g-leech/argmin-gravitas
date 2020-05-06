@@ -41,13 +41,4 @@ If you want to talk, get in touch by <a href="mailto:{{ site.email }}">email</a>
 
 
 
-<!-- If big screen, pad down the footer -->
-<style>
-	@media (min-width: 30em) {
-	#padder {
-		height: 29.5vh;
-	}
-}
-</style>
-
-<div id="padder"></div>
+{%	include padder.html 	howMuch=16	%}

@@ -13,6 +13,7 @@
 {%   assign emerson = "https://web.archive.org/web/20200103163235/https://archive.vcu.edu/english/engweb/transcendentalism/authors/emerson/essays/conservative.html"		%}
 {%   assign attend = "https://haquelebac.wordpress.com/attendant-lords-2/"		%}
 {%   assign erudits = "https://haquelebac.wordpress.com/les-erudits-maudits-2/"		%}
+{%	 assign bacon = "http://www.literaturepage.com/read/francis-bacon-essays-102.html"		%}
 {%   assign haldane = "https://en.wikipedia.org/wiki/On_Being_the_Right_Size"		%}
 {%   assign church = "https://winstonchurchill.hillsdale.edu/winston-churchills-dream-1947/"		%}
 {%		assign write = "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/"	%}
@@ -59,6 +60,7 @@
 		<li>		'<a href="{{emerson}}">The Conservative</a>'										</li>
 		<li>		'<a href="{{erudits}}">Érudits Maudits</a>' (2014)									</li>
 		<li>		'<a href="{{attend}}">Attendant Lords</a>'											</li>
+		<li>		'<a href="{{bacon}}">Of Studies</a>' (1625)											</li>
 		<li>		'<a href="{{sittler}}">Philosophical success stories</a>'							</li>
 		<li>		'<a href="{{katja}}">Why read old philosophy?</a>' (2017)							</li>
 		<li>		'<a href="{{church}}">The Dream</a>' (1947)											</li>
