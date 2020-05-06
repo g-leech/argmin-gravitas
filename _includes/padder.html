@@ -1,0 +1,13 @@
+<!-- If big screen, pad down the footer -->
+
+{{howMuch}}
+
+<style>
+	@media (min-width: 30em) {
+	#padder {
+		height: {{include.howMuch}}vh;
+	}
+}
+</style>
+
+<div id="padder"></div>
