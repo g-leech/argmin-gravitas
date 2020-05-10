@@ -94,6 +94,14 @@ _Expected lifespan_: 5 years.
 * I don't know if it counts as productivity, since I spend about an hour a day playing with it, but <a href="{{roam}}">Roam</a> is the best personal knowledge base software I've seen. Text, maths, code, images, bidirectional links, single-copy imports... It promises to unify me across decades. (My blogs also do this, but only for the top 1% of thoughts.) Workflowy and Notion are a tree: Roam is the awesome power of a graph, which is what thoughts are like. Currently free, soon to be pricey.
 
 
+## Travel
+
+* <a href="{{berg}}">Berghaus Freeflow 35+8 backpack</a> (£80). This has a clever mechanism at the back to shrink and grow the volume by 8L, and also a harness to leave a gap between your back and the bag, preventing deathly hike sweats. On extra small mode it fits even stingy Ryanair airline cabin requirements (there's some optical illusion about you wearing your cabin bag on your back, I've never been bothered about it in 43L mode. (If you wear two jumpers and a jacket just for passing through the gate, 35L is two weeks' basics, no cabin bag.) I've had this for 8 years, maybe 100 difficult trips including long haul airports and 1km mountains, and it's fine.<br>
+_Expected lifespan_: 'Lifetime guarantee'. (20 years?)
+
+* <a href="{{moto}}">Moto G7 Power</a> (£160). I resisted getting a smartphone for 8 years. I still think it's a huge threat to productivity, and a privacy disaster. But for travelling it is a massive help: boarding passes, Maps, taxis, translation, mobile data. Also allows me to replace my ereader, my GPS, my trips to ATMs, my camera, my printer. Group chats, previously off-limits, have been relatively useful already. The new UK Railcard is app-only too. This has the largest battery life on the market (26h of low-res video playback), and is cheap and good.
+_Expected lifespan_: 4 years.
+
 ## Security
 
 * <a href="{{kee}}">KeePassX</a> password manager (£0). Works on every platform: Linux, Win, Mac, Android. Probably saves a few minutes a week and a lot of mental overhead. See <a href="/browser">here</a> for why you want this.<br>

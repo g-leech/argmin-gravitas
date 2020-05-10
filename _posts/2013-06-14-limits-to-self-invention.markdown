@@ -29,7 +29,7 @@ argument:   bootstraps/argument.md
 {%	assign asc = "https://en.wikipedia.org/wiki/Achieved_status"		%}
 {%	assign fake	= "https://www.lesswrong.com/posts/wDP4ZWYLNj7MGXWiW/in-praise-of-fake-frameworks" %}
 {%	assign gue	= "https://en.wikipedia.org/wiki/Guerrilla_ontology"		%}
-
+{%	assign tlp	= "https://thelastpsychiatrist.com/2007/11/the_question_isnt_why_do_babie.html"			%}
 
 <div style="text-align: center;">
 	<blockquote>
@@ -183,6 +183,12 @@ Is bootstrapping obvious? I don't think so, judging by how static and <em>crudel
 	</li>
 </ol>
 </div>
+
+<br><br>
+
+## See also
+
+* _<a href="{{tlp}}">The Question Isn't Why Do Babies Do It</a>_ (2007)
 
 <br><br>
 
