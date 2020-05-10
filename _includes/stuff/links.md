@@ -38,3 +38,5 @@
 {%	assign proton = "https://protonmail.com/"		%}
 {%	assign logs = "https://www.privateinternetaccess.com/forum/discussion/26284/pia-looks-like-you-were-not-turthful-in-the-announcement-request-for-info"		%}
 {%	assign pi = "https://pi-hole.net/"		%}
+{%	assign berg = "https://www.berghaus.com/mens-freeflow-35-%2B-8-rucksack/434549.html"	%}
+{%	assign moto = "https://www.techradar.com/uk/reviews/moto-g7-review"		%}

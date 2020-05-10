@@ -38,7 +38,7 @@ That's the material side. The psychological side of painful scarcity - the panic
 
 #### Reasons scarcity is bad:<br />
 
-1. Lower consumption is often less good (and sometimes maximally bad, counting e.g. medicine as a consumer good).<br />
+1. Lower consumption is often less good (and sometimes maximally bad, if we count emergency medicine as a consumer good).<br />
 2. Less freedom (fewer choices)<br />
 3. Anxiety (emotional penalty)<br />
 4. Cognitive penalty (bandwidth wasted on worrying about)<br />
