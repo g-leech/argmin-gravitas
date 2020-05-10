@@ -91,18 +91,27 @@ e.g. Depending on the field, a PhD might involve reading <a href="{{matt}}">100<
 
 (As it happens I think most PhDs don't have much impact on the world: they are read by say 4 other people, and maybe _should_ not be read by many more than that. But that's good: instead I can do a thousand bits, each their own contribution to the future of all things.)<br><br>
 
-<div class="accordion">
-    <h3>Foundations of long work</h3>
-    <div>
-        1. <a href="/scarcity">Slack</a> <br>
-        2. <a href="{{long}}">Perspective</a> <br>
-        3. <a href="{{life}}">Lifespan</a>.<br>
-        4. Backups (your stuff <i>and</i> <a href="{{link}}">your links</a>)<br>
-        5. Unusually <a href="{{serv}}">resilient</a> or portable software.<br>
-        6. Public version control to prevent impropriety (memory holes, retcons, unstable testimony).<br>
-        7. Something worth growing.
-    </div>
-</div>
+{%  include sites/examples.html    %}
+
+<br>
+
+## Independent and academic scholarship 
+
+I haven't said anything about where to do this work (in what institution).
+
+A lot of the sites I list in the accordion above are by part-time autodidacts, or retired scholars. I suppose this is because the incentives in academia are so often towards either small publons or giant monographs. (Or my search process is biased towards lone wolves.)
+
+But the average academic work is more lasting than the average internet work. But it isn't only durability we're after. It's also more rigorous than the average internet work.
+
+<a href="{{hanson}}">Robin Hanson</a> has spotted a trend among independent scholars, a systematic bias against rigour, and so against durability.
+
+> over time amateurs blow their lead by focusing less and relying on easier, more direct methods. They rely more on informal conversation as analysis method, they prefer personal connections over open competitions in choosing people, and they rely more on a perceived consensus among a smaller group of fellow enthusiasts. As a result, their contributions just don’t appeal as widely or as long.
+
+Take Hanson himself: he has about 100 academic publications, two big books, and something like 3000 blog posts. Which will be his biggest contribution in the end?
+
+Maybe tenured academics are the people best placed to do long content: lots of time, lots of connections, some pressure towards rigour and communicability. But you should be able to do it outside uni, if you're wary.
+
+<br>
 
 <hr>
 
@@ -110,14 +119,12 @@ e.g. Depending on the field, a PhD might involve reading <a href="{{matt}}">100<
 
 ## See also
 
-* Basbøll, '<a href="{{bas}}">What is blogging?</a>'
-* Gwern, '<a href="{{long}}">Long Content</a>'
-* <a href="{{rot}}">Link rot</a><br><br>
-* <a href="{{scar}}">Piero Scaruffi</a> is the original: 5 decades of sustained idiosyncratic work. He has steadily built a corpus of unbelievable depth and breadth, including 9,000 detailed album-by-album profiles of musicians, and 10 spin-off books which seem to support him financially.<br><br>
 * Long content is really uncommon. Even great internet writing with a view to the long term (e.g. Eliezer Yudkowsky's <a href="{{yud}}">sustained braindump</a> of 2007 to 2009) is never updated, when its problems are found at all. This should worry us, since it implies it's hard to do. Maybe few people have stable enough goals and interests to do this, or just enough time. <br><br>
 * The situation may be even worse in open source software, with projects <a href="{{git}}">overwhelmingly dead by 6 months old</a>.<br><br>
-* <a href="{{gel}}">Andrew Gelman's blog</a> manages the contradictions effortlessly. He reacts to hundreds of new papers a year, but _posts on a 9-month lag_ after writing. This allows him to uncouple from the reactive journalistic stuff, and lets us see if his take holds up. I have learned so much from it, and indeed it is an accumulating, long-term project: it documents his shift towards understanding the deep problems in large parts of academic science.<br><br>
-* There is of course historical interest in seeing what pundits were saying at a given point in the early 21st century. The philosopher <a href="{{rpw}}">Robert Paul Wolff's site</a> is a nice example of the dual nature of a blog: it contains his daily record of American political news <i>and</i> his vast, life-distilling tutorials on the <a href="{{tut}}">great German philosophers</a>. (Inbetween the two are his recollections of <a href="{{russ}}">taking tea with Bertrand Russell</a> and dancing with a Pulitzer Prize winner's wife.)<br><br>This dear man makes me reconsider my strict division: leave both in, let a blog be high and low, short and long. Just as long as you do big stuff if you can.
+* Basbøll, '<a href="{{bas}}">What is blogging?</a>'
+* Gwern, '<a href="{{long}}">Long Content</a>'
+* <a href="{{rot}}">Link rot</a>
+
 
 <br><br>
 
