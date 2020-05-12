@@ -111,6 +111,11 @@ Take Hanson himself: he has about 100 academic publications, two big books, and 
 
 Maybe tenured academics are the people best placed to do long content: lots of time, lots of connections, some pressure towards rigour and communicability. But you should be able to do it outside uni, if you're wary.
 
+Think tanks. 
+
+The Winnower. The II. Preprints.
+https://thewinnower.com/
+https://www.interintellect.com/
 <br>
 
 <hr>
