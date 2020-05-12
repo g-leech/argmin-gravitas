@@ -29,6 +29,7 @@ _Stationary_ travel (going to one location and really getting to know it for mon
 <!--  -->
 		<ul>
 			<li><a href="{{ried}}">Jess Riedel</a>: Why don't travel fans equally recommend foreign writing?</li>
+			<li><a href="{{brian}}">Brian Tomasik</a></li>
 			<li><a href="{{trav}}">This travel writer</a> is annoyed at people exaggerating the significance of their own travel, which is all I suppose I am annoyed at.
 			<li>
 				Martha Gellhorn is a funny example, since she spent her whole life travelling. But with open eyes: 
