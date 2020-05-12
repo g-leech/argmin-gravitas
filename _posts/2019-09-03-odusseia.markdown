@@ -1,0 +1,206 @@
+---
+layout:     post
+title:      "'The Odyssey' (2017) by Emily Wilson"
+baselink:   /odyssey
+permalink:  /odyssey
+date:       2019-09-03
+author:     Gavin
+
+img:        /img/odyss.jpg
+published:	true
+visible: 	1
+
+summary:    Rant about a great work with barely a trace of greatness.
+confidence:	50%. I must be missing something.
+quality:    3
+categories: reviews, literature
+importance: 2
+wordcount:	1500
+warnings: 	murder, hypocrisy, imperialism, the bad guy wins
+---
+
+{%	assign egan = "https://en.wikipedia.org/wiki/The_Moral_Virologist"	%}
+
+<center>
+	<img src="/img/odyss.jpg" width="30%" />
+</center><br>
+
+I don't want to hector Homer, but somehow this was both boring and evil, childish and didactic. I won't belabour the book's immorality, since it's so obvious; it's the near-total absence of artistic merit that is not obvious. I found nothing in it worth reading or quoting until Book 9, nearly halfway through. These are songs of praise of warmongering pirates. (People love pirates, and I say let em. Just don't call them paragons.) 
+
+The ideology is dad porn, a set of thin, obvious, animal values. "Kings do whatever they want - death for messing with a noble; don't cross the priests; offer huge sacrifices; always do what your husband and dad say; the unlucky and the disabled are cursed and to be shunned; blood is blood is blood." (It's not as if they could easily have been otherwise. Too poor, too lawless and misruled, too near to nature.)
+
+<blockquote>    The ghost<br>
+    of Agamemnon answered, “Lucky you,<br>
+    cunning Odysseus: you got yourself<br>
+    a wife of virtue—great Penelope.<br>
+    How principled she was, that she remembered<br>
+    her husband all those years! Her fame will live<br>
+    forever, and the deathless gods will make<br>
+    a poem to delight all those on earth<br>
+    about intelligent Penelope.
+</blockquote>
+
+(Odysseus sleeps with half a dozen other women and demigods, most of them begging him to, and needless to say suffers nothing of it.)
+
+There's no mention of the suffering of the several cities he sacks, or the many tacitly raped women. Dozens of people are murdered for being rude, though. For a quasi-sacred text there's a surprising amount of unpunished priest killing (e.g. Leodes).
+
+The structure is awful: we see almost nothing of Odysseus for the first quarter of the poem, instead following his son around as he listens to a series of boring old men. Most of Odysseus' feats are not shown, are instead related by him as unaffecting stories. (I suppose we could amuse ourselves by treating this as unreliable narration, but they certainly didn't.) And the poem doesn't end at its climax, instead meandering on through another few books of pointless back-patting.
+
+(Should I go easy? After all, this is groundbreaking work, the <i>prototype</i> of art. Sure; I'll go easy if you stop hyping it and making everyone read it as an exemplar.)
+
+It must be a cliche among classicists that the 'Classical' civilisations were not <a href="https://en.wiktionary.org/wiki/classical">classical</a> in the sense of being austere, logical, tasteful, or contemplative. That they were not Apollonian, that only a handful of people in them were. I hope my rant here is not just me being misled by the modern sense of "hero" - but the fact is that Odysseus wins, is praised endlessly, and his rights trump all else.
+
+This isn't just me being clueless, <a href="https://en.wikipedia.org/wiki/Orality">post-oral</a>, and close-minded: The ancients were well aware that the ending is unsatisfying crap. One popular headcanon was that, after Odysseus slays the suitors, he is immediately exiled from Ithaca, set adrift again. <a href="https://www.youtube.com/watch?v=hPrd8FoClAA">Cue the music!</a>
+
+<br>
+
+---
+
+<br>
+
+One reading of Odysseus' name is as variant of the verb '<a href="https://en.wikipedia.org/wiki/Odysseus#Name,_etymology,_and_epithets">to be hated</a>'. So a calque might be "King Punchable of Ithaca". ("<i>the most unhappy man alive</i>")
+
+Odysseus is treated incredibly well by almost everyone, despite his crimes. Complete strangers oil him up and dress him in fine "woolen cloak and tunic" <i>eleven times</i>, and he is given precious weaponry and potions for nothing several times. This is supposed to reflect on him, but instead it shows the Greek ideal of hospitality, one of the few nice things in that culture.
+
+He appears to sincerely miss Ithaca (his status more than his wife), weeping frequently. But he also fucks about all the time, for instance staying an entire year voluntarily enjoying Circe.
+
+It is completely unclear what O does to deserve his fortune. (Whereas his misfortune is always directly linked to his own machismo or idiocy.) The only virtues we see him exercise directly (not counting brute aggression and discus throwing) are courage and cunning (specifically lying). Ok, he also makes one good speech:
+<blockquote>'Listen to me, my friends, despite your grief.<br>
+We do not know where darkness lives, nor dawn,<br>
+nor where the sun that shines upon the world<br>
+goes underneath the earth, nor where it rises.<br>
+We need a way to fix our current plight,<br>
+but I do not know how...</blockquote>
+
+I suppose we can put the rest down to charisma, the oddest and least rational of human powers.
+
+<blockquote>'It seems that everybody loves this man,<br>
+and honors him, in every place we sail to.'</blockquote>
+
+Everyone extols him without him ever demonstrating the virtues they extol. (Politeness, propriety, wisdom, strategy...) Every other idiot is "godlike" at something or other, and seeing the state of their gods you see how this could be true. At least it's funny:
+<blockquote>He went out of his bedroom like a god
+</blockquote>
+
+<blockquote>
+King Menelaus, you are right... Your voice is like a god's to us.</blockquote>
+<blockquote>Majestic, holy King Alcinous<br>
+leapt out of bed, as did Odysseus<br>
+the city-sacker. Then the blessed king,<br>
+mighty Alcinous, led out his guest...</blockquote>
+
+(The gods are stupid mirrors of Greek nobility; for instance they have supernatural slaves, the nymphs.) This at least is a philosophical difference between them and I: in their superstitious idealist mode, properties aren't for describing the present, but instead the timeless essence of a thing. Wilson:
+
+<blockquote>Ships are "black", "hollow", "swift" or "curved", never "brown", "slow" or "wobbly"... Penelope is "prudent Penelope", never "swift-footed Penelope", even if she is moving quickly. Telemachus is thoughtful, even when he seems particularly immature.
+</blockquote>
+
+All the feats of the heroes are totally dependent on the power of gods. If they say you can't sail, you can't. 
+<blockquote>His skin <br>
+would have been ripped away, and his bones smashed <br>
+had not Athena given him a thought.</blockquote>
+
+<blockquote>Athena poured unearthly charm<br>
+upon his head and shoulders, and she made him<br>
+taller and sturdier, so these Phaecians<br>
+would welcome and respect him.</blockquote>
+
+Without Hermes or Athena constantly intervening, O would be nowhere, achieve nothing. One nice tension here though:
+
+<blockquote>But death is universal. Even gods<br>
+cannot protect the people that they love,<br>
+when fate and cruel death catch up with them.</blockquote>
+
+One of the few times I felt sympathy for Odysseus was when he was trying to lead his men, who are mainly large-adult-sons. (Same with the suitors.) One breaks his neck falling down a ladder. They undo a month of work by playing with the bag of winds. Several times they are totally paralysed by their wailing and tantrums. 
+
+<blockquote>As when <br>
+a herd of cows is coming back from pasture<br>
+into the yard; and all the little heifers<br>
+jump from their pens to skip and run towards<br>
+their mothers, and they cluster round them, mooing;<br>
+just so my men, as soon they saw me, <br>
+began to weep...</blockquote>
+
+<blockquote>
+	The other men... <br>
+	wept for those that died. I ordered them<br>
+	to stop their crying, scowling hard at each.
+</blockquote>
+Odysseus occasionally draws his sword on them for backtalking him, or running around like Muppets. Their deaths are roughly equally due to Odysseus' aggression and avarice, and their own foolishness.
+
+I cheered the uprising against him, who are completely in the right. But of course they lose, because of mere divine intervention.
+
+<br>
+
+---
+
+<br>
+
+OK I lied: I will talk about evil. Though by the end of this I was jaded and dismissive, the aftermath of Odysseus slaughtering the suitors still struck me as an atrocity unusual for the genre:
+<blockquote>
+	"When the whole house is set in proper order,<br>
+	restore my halls to health: take out the [slave] girls<br>
+	between the courtyard wall and the rotunda.<br>
+	Hack at them with long swords, eradicate<br>
+	all life from them. They will forget the things<br>
+	<b>the suitors made them do</b> with them in secret,<br>
+	through Aphrodite..."<br><br>
+	<!--  -->
+	"I refuse to grant these girls<br>
+	a clean death, since they poured down shame on me<br>
+	and Mother, when they lay beside the suitors."<br><br>
+	<!--  -->
+	At that, he would a piece of sailor's rope<br>
+	round the rotunda...<br>
+	just so the girls, their heads all in a row,<br>
+	were strung up with the noose around their necks<br>
+	to make their death an agony. They gasped,<br>
+	feet twitching for a while, but not for long.
+</blockquote>
+
+I've read de Sade, Kaczynski, Himmler, Houellebecq, <a href="{{egan}}">Egan</a> and <a href="https://www.rifters.com/real/Blindsight.htm">Watts</a> at their most dyspeptic; it's not that I'm squeamish about real or fictional evil, or that my sulking sense of justice blinds me to aesthetics. This sort of thing happened; nothing cannot be said; maybe even nothing cannot be said beautifully. It's just that, again, there is nearly no nobility and no classicism in this. I am so glad this culture is gone.
+
+<br>
+
+---
+
+<br>
+
+Did its audience know the story was bullshit? Or was it scripture to them? (Like most scripture, it is pathetically ignoble, violent, and self-serving.) Well, <a href="https://www.franksmitha.com/history/homer.htm">they don't seem</a> to have had scripture, not even Hesiod. So Homer is more like Dante or Milton for them: not sacred, but pious and moralising.
+
+How big was mighty Troy? How noble was godlike Odysseus? How petty their pantheon? How long this epic?
+
+<br>
+
+---
+
+<br>
+
+* Even thought-provoking bits like the <a href="https://en.wikipedia.org/wiki/Lotus-eaters">lotus eaters</a> or Cyclopean anarchism are over in less than half a page.
+
+* Surprised when Zeus was described as "husband of Hera". 
+
+* The "<a href="https://en.wikipedia.org/wiki/Outis#Origin_of_the_name">no man</a>" pun thing was so stupid I had to put the book down for a couple of days.
+
+<br>
+
+---
+
+<br>
+
+Normally I would stop reading a book this bad, but I read it to prepare for <i>Ulysses</i>, so I dragged myself through.
+
+I don't think the badness is due to Wilson. I actually quite like her style, and it's the skeleton of plot, sentiment, and moral that repulses me.
+
+Her introduction takes up a quarter of the entire book. It's good and sane but repetitive, taking pains to spell out all the ignoble and questionable, all the ugly and clumsy parts. I don't know how she keeps up her enthusiasm for the book, in the face of them, but more power to her.<br><br>
+
+<div class="accordion">
+	<h3>One man's modus ponens is another man's modus tollens</h3>
+	<div>
+		You can read the above as a demonstration of my lack of taste: if every prof on earth says it's great (not just Great, but great), if people stubbornly persist in honestly saying how much they got from it, then you can simply invert the inference. Gavin says <i>Odyssey</i> bad; <i>Odyssey</i> good, therefore Gavin bad.<br><br>
+		Maybe I just need to read another, less spartan translation. But then it would be Chapman's artistry and not Homer's.<br><br>
+		<!--  -->
+		Maybe I'd get it if I read Bloom's book about it. But it's longer than the original work, and I am  uninterested in works which strictly require an interpreter to get any value from them.<br><br>
+		<!--  -->
+		I think it's mostly likely a missing mood of mine. I don't even vaguely sympathise with Odysseus' values, his need for dominion, his vengeance, even his homesickness.
+	</div>
+</div>
+{%	include comments.html	%}
