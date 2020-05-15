@@ -49,6 +49,23 @@
 	</div>
 </div><br>
 
+* Questionable evidence for a tiny "<span class="b">depressive realism</span>" effect, of increased predictive accuracy or decreased cognitive bias among the clinically depressed.
+<div class="accordion">
+	<h3>Stats</h3>
+	<div>
+		<ul>
+			<li><span class="b">Original paper</span>: '<a href="{{allow}}">Judgment of contingency in depressed and nondepressed students: sadder but wiser?</a>', 1979 (2450 citations).</li><br>
+			<li><span class="b">Critiques</span>: <a href="{{depr}}">Moore & Fresco 2012</a> <br>
+			(211 total citations)</li><br>
+			<li><span class="b">Original effect size</span>: d= minus 0.32 for bias about 'contingency', how much the outcome actually depends on what you do,<br> n=96 students, needlessly binarised into depressed and nondepressed based on <a href="{{beck}}">Beck score</a> > 9. (Why?)</li><br>
+			<li><span class="b">Replication effect size</span>: d = minus 0.07 with massive sd=0.46, n=7305, includes a trim-and-fill correction for publication bias. "Overall, however, both dysphoric/depressed individuals (d= .14) and nondysphoric/nondepressed individuals evidenced a substantial positive bias (d= .29)"</li><br>
+		</ul>
+	</div>
+</div><br>
+
+
+<!-- https://aeon.co/essays/the-voice-of-sadness-is-censored-as-sick-what-if-its-sane -->
+
 * Questionable evidence for the "<span class="b">hungry judge</span>" effect, of massively reduced acquittals (d=2) just before lunch. Case order isn't independent of acquittal probability ("unrepresented prisoners usually go last and are less likely to be granted parole"); favourable cases may take predictably longer and so are pushed until after recess; effect size is implausible on priors; explanation involved ego depletion.
 <div class="accordion">
 	<h3>Stats</h3>
