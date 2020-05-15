@@ -179,6 +179,7 @@ Saying “what I have is good” might reduce your drive to improve the situatio
 ## See also
 
 * _<a href="{{ortho}}">Choosing the Zero Point</a>_ by orthonormal
+* Stoicism seems to be the philosophy of constantly comparing down.
 
 <br><br><br>
 
