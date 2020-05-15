@@ -81,6 +81,9 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 
 <!-- * Repressed memories / Recovered memory therapy -->
 
+<!-- Post-traumatic growth is questionable, sadly. 
+	https://journals.sagepub.com/doi/abs/10.1177/0963721419827017
+-->
 
 <br>
 
