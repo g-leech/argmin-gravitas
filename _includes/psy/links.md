@@ -219,3 +219,8 @@
 {%	assign nuh = "https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1215&context=numeracy"		%}
 {%	assign nuh16 = "https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1188&context=numeracy"		%}
 {%	assign yark = "https://www.talyarkoni.org/blog/2010/07/07/what-the-dunning-kruger-effect-is-and-isnt/"		%}
+
+{%	assign depr = "https://www.ncbi.nlm.nih.gov/pubmed/22717337"		%}
+{%	assign alloy = "https://www.ncbi.nlm.nih.gov/pubmed/528910"			%}
+{%	assign beck = "https://en.wikipedia.org/wiki/Beck_Depression_Inventory"		%}
+
