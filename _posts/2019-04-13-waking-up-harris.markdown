@@ -190,6 +190,8 @@ Why should an evolved creature have the power to inspect its own sense-data? If 
 
 This is more of a brain dump than a review: most of the above isn't directly from Harris, I'm riffing off <a href="{{ssc}}">better</a> <a href="{{milan}}">rational</a> <a href="{{kaj}}">reconstructions</a> of this ancient one-weird-trick. His chapter warning of the history of appalling abuse by gurus and yogis is a public service and I'd be happy to see it in every self-help book.
 
+<a href="{{berk}}">Some</a> aficionados are a bit snobby about Harris and his app, just as he is aggressive about the religious and cultish sides. I suppose the great benefit of Harris _is_ abrasiveness: this is the only way to reach a certain <a href="{{ssc2}}">large demographic</a> - the 'epistemic rationalist', the Skeptic, the Freethinker, the <a href="{{para}}">parachute RCT wanter</a>. Harris has so much credibility as a rational thug that he can bring mindfulness to its most distant, conceptualising, recalcitrant population. I am open to the idea that this is a good thing.
+
 <br>
 
 _See also my thoughts on <a href="/introspect">ways introspection fails</a>.<br><br>_
