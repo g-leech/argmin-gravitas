@@ -66,6 +66,7 @@
 			<a href="{{rood}}">David Roodman</a>, <br>
 			<a href="{{schn}}">Bruce Schneier</a>, <br>
 			<a href="{{luu}}">Dan Luu</a>, <br>
+			<a href="{{evo}}">Evolution is Just a Theorem</a>, <br>
 			<a href="{{white}}">John Myles White</a>, <br>
 			<a href="{{noah}}">Noah Smith</a>; <br>
 			<a href="{{milan}}">Milan Griffes</a>, <br>
@@ -125,6 +126,10 @@
 			https://jsteinhardt.wordpress.com/
 			<br>
 			dormin.org
+			<br>
+			http://m-phi.blogspot.com/
+			<br>
+			https://musingsandroughdrafts.wordpress.com/
 		</div>
 	</div>
 </div>

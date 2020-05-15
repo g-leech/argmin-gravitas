@@ -105,3 +105,4 @@
 {%		assign melancholy = "https://www.gwern.net/The-Melancholy-of-Subculture-Society"		%}
 {%		assign melat = "https://www.gwern.net/Melatonin"		%}
 {%		assign long = "https://www.gwern.net/About#long-site"		%}
+{%		assign evo = "https://evolution-is-just-a-theorem.tumblr.com/"		%}

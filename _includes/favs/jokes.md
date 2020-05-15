@@ -4,6 +4,8 @@
 {%   assign gay = "https://slatestarcodex.com/2019/07/08/gay-rites-are-civil-rites/"    %}
 {%   assign moralo = "https://slatestarcodex.com/2016/10/17/the-moral-of-the-story/"    %}
 {%   assign fifty = "https://slatestarcodex.com/2014/08/14/fifty-swifties/"    %}
+{%	 assign crash = "https://languagelog.ldc.upenn.edu/nll/?cat=118"	%}
+
 
 <h3>Jokes</h3>
 <div>
@@ -12,6 +14,7 @@
 	</blockquote>
 	<ul>
 		<li><a href="{{paradox}}">The Paradox of the Question</a>				</li>
+		<li><a href="{{crash}}">Crash blossoms</a>			</li>
 		<li><a href="{{single}}">Writers in a Single Sentence</a>			</li>
 		<li><a href="{{hardball}}">hardball questions for the next debate</a>			</li>
 		<li><a href="{{pros}}">prospiracy theories</a>			</li>
