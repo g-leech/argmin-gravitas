@@ -83,13 +83,16 @@ But never mind terminology. The inimitable Gwern aims for "<a href="{{long}}">lo
 
 
 
-It's not about being pompous or pretending to have timeless wisdom; it's the attempt to do things that become more and more amazing, which are worth keeping updated, worth living up to.
+It's not about being pompous or pretending to have timeless wisdom; it's the attempt to do things that become more and more amazing, which are worth keeping updated, worth living up to. 
 
 e.g. Depending on the field, a PhD might involve reading <a href="{{matt}}">100</a> - <a href="{{qu}}">400</a> papers, doing a thousand hours of asynchronous, unpredictable Innovative Work, then writing about <a href="{{hum}}">5 papers</a>. Minus the admin, the teaching load, the mandatory courses, etc: call it 6000 hours. If you did this for 5 hours a week, say on a Sunday afternoon after waking late and having brunch and ambling about, you could do something of comparable scale over about 20 years: with no financial implications, no sweat, <a href="{{ben}}">no mental breakdown</a>. _While working full-time on other things_, and with my life 30% gone already, I could do 5-10 things this hard, just with suitable long-sighted use of weekends.  <a href="#fn:3" id="fnref:3">3</a> 
 
 (As it happens even serious academic work is surprisingly volatile; <a href="{{ac}}">around half the links</a> in the average academic paper die within a decade. There are often alternative ways to recover the target document, but not always.) 
 
-(As it happens I think most PhDs don't have much impact on the world: they are read by say 4 other people, and maybe _should_ not be read by many more than that. But that's good: instead I can do a thousand bits, each their own contribution to the future of all things.)<br><br>
+(As it happens I think most PhDs don't have much impact on the world: they are read by say 4 other people, and maybe _should_ not be read by many more than that. But that's good: instead I can do a thousand bits, each their own contribution to the future of all things.)
+
+If you're reading this, you probably have a lot of <a href="{{surp}}">energy</a>, <a href="{{smbc}}">10 big tickets</a>. What do you want to spend them on?
+<br><br>
 
 {%  include sites/examples.html    %}
 
@@ -97,11 +100,11 @@ e.g. Depending on the field, a PhD might involve reading <a href="{{matt}}">100<
 
 ## Independent and academic scholarship 
 
-I haven't said anything about where to do this work (in what institution).
+I haven't said anything about where to do this work. (In what institution.)
 
-A lot of the sites I list in the accordion above are by part-time autodidacts, or retired scholars. I suppose this is because the incentives in academia are so often towards either small publons or giant monographs. (Or my search process is biased towards lone wolves.)
+A lot of the sites I list in the accordion above are by part-time autodidacts, or retired scholars. I suppose this is because the incentives in academia are so often towards either small publons or giant monographs, each of which are set in stone once done. (Unless they are grossly flawed enough to trigger academia's <a href="{{retract}}">slow, dumb immune system</a>.) (Or my search process is biased towards lone wolves.)
 
-But the average academic work is more lasting than the average internet work. But it isn't only durability we're after. It's also more rigorous than the average internet work.
+But the average academic work is more lasting than the average internet work. But it isn't only durability we're after. But it's also more rigorous than the average internet work.
 
 <a href="{{hanson}}">Robin Hanson</a> has spotted a trend among independent scholars, a systematic bias against rigour, and so against durability.
 
@@ -111,11 +114,8 @@ Take Hanson himself: he has about 100 academic publications, two big books, and 
 
 Maybe tenured academics are the people best placed to do long content: lots of time, lots of connections, some pressure towards rigour and communicability. But you should be able to do it outside uni, if you're wary.
 
-Think tanks. 
+Think tanks are the usual way to be a full-time intellectual outside academia. But there are innovations that could enable group reinforcement and dialectic on a wider scale, for the many great part-timers: <a href="https://thewinnower.com/">The Winnower</a>; <a href="https://www.interintellect.com/">The II</a>. Preprint servers and post-publication review.
 
-The Winnower. The II. Preprints.
-https://thewinnower.com/
-https://www.interintellect.com/
 <br>
 
 <hr>
