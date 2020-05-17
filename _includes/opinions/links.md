@@ -34,3 +34,7 @@
 {%	assign coch = "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008040.pub3/epdf/full"		%}
 {%	assign asp = "https://www.nhs.uk/news/medication/migraine-relief-from-aspirin/"		%}
 {%	assign ibu = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6457940/"		%}
+{%	assign sch = "https://faculty.ucr.edu/~eschwitz/SchwitzPapers/SelfUcs-101118.htm"		%}
+{%	assign jama = "https://sci-hub.tw/10.1001/jamaneurol.2019.3780"		%}
+{%	assign cell = "https://www.cell.com/current-biology/pdf/S0960-9822(19)31678-1.pdf"		%}
+{%	assign nz = "https://www.sciencedirect.com/science/article/abs/pii/S0001457517304256"		%}
