@@ -1,0 +1,26 @@
+<!-- %	assign  = ""	%} -->
+{%	assign p = "https://www.gleech.org/psych"	%}
+{%	assign d = "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/537616/SACN_Vitamin_D_and_Health_report.pdf"	%} 
+{%	assign morph = "https://ebn.bmj.com/content/7/3/84#ref-3"	%}
+{%	assign dent = "https://www.cochrane.org/CD004625/ORAL_routine-scale-and-polish-periodontal-health-adults"		%}
+{%	assign io = "https://www.ukiodine.org/iodine-in-the-uk/"	%}
+{%	assign uk = "https://sci-hub.tw/10.1017/S0029665113001006"	%}
+{%	assign long = "https://nintil.com/longevity/#intermittent-fasting"		%}
+{%	assign nnt = "https://www.statnews.com/2016/06/15/medication-number-needed-to-treat"		%}
+{%	assign ignore = "https://www.cmaj.ca/content/179/6/549"	%}
+{%	assign stret = "https://www.painscience.com/articles/stretching.php"		%}
+{%	assign reviews = "https://www.thennt.com/home-nnt/"		%}
+{%	assign vap = "https://www.clivebates.com/documents/USTrendsApril2018.pdf"		%}
+{%	assign second = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3937158/"		%}	
+{%	assign stan = "https://www.ncbi.nlm.nih.gov/pubmed/8593194/"		%}
+{%	assign stan2 = "https://www.ncbi.nlm.nih.gov/pubmed/27838508"		%}
+{%	assign  cutler = "https://www.cato-unbound.org/2007/09/12/david-m-cutler/use-scalpel-not-meat-cleaver"	%}
+{%	assign deaton = "https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.20.3.97"		%}
+{%	assign wood = "https://www.ncbi.nlm.nih.gov/pubmed/17127644"		%}
+{%	assign k2 = "https://www.healthline.com/nutrition/vitamin-d-and-vitamin-k#section2"		%}
+{%	assign phd = "https://www.benkuhn.net/grad/"		%}
+{%	assign singh = "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001364.pub4/full"		%}
+{%	assign hemila = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3136969/"		%}
+{%	assign scaling = "https://www.cochrane.org/CD004625/ORAL_routine-scale-and-polish-periodontal-health-adults"		%}
+
+{%	assign ins = "https://www.gleech.org/insurance"		%}
