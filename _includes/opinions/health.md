@@ -78,12 +78,7 @@
 	</li>
 	<br>
 	<li>
-		Daylight Saving Time is a public health burden on the order of drunk driving??. <br>
-		(<i>Confidence</i>: 70%)
-	</li>
-	<br>
-	<li>
-		Kitchen sponges should not be reused. <br>
+		Daylight Saving Time is an unacceptable public health burden. This is mostly down to the acute <a href="{{cell}}">6</a>-<a href="{{nz}}">16%</a> increase in car accidents, but it <a href="{{jama}}">seems to cause</a> a 5% increase risk of heart attack and more for stroke. <br>
 		(<i>Confidence</i>: 70%)
 	</li>
 	<br>

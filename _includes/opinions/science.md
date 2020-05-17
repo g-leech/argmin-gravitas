@@ -7,8 +7,8 @@
 	</li>
 	<br> -->
 	<li>
-		I am extremely ignorant about myself. My preferences, my aliefs, my causes. So are you for you.
-	https://faculty.ucr.edu/~eschwitz/SchwitzPapers/SelfUcs-101118.htm <br>
+		I am extremely <a href="{{sch}}">ignorant</a> about myself. My preferences, my aliefs, my causes. So are you for you.
+		<br>
 		(<i>Confidence</i>: )
 	</li><br>
 	<li>
