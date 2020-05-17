@@ -24,3 +24,13 @@
 {%	assign scaling = "https://www.cochrane.org/CD004625/ORAL_routine-scale-and-polish-periodontal-health-adults"		%}
 
 {%	assign ins = "https://www.gleech.org/insurance"		%}
+{%	assign multi = "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007176.pub2/abstract"		%}
+{%	assign ny = "https://link.springer.com/article/10.1007%2Fs11524-006-9080-3"		%}
+
+{%	assign tube = "https://www.bbc.co.uk/news/uk-england-london-42791299"		%}
+{%	assign tinn = "https://www.intechopen.com/books/mental-disorders-theoretical-and-empirical-perspectives/the-association-between-tinnitus-and-mental-illnesses"		%}
+{%	assign liv = "https://pmj.bmj.com/content/81/953/148.long"		%}
+{%	assign op = "https://www.ncbi.nlm.nih.gov/pubmed/10796810"		%}
+{%	assign coch = "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008040.pub3/epdf/full"		%}
+{%	assign asp = "https://www.nhs.uk/news/medication/migraine-relief-from-aspirin/"		%}
+{%	assign ibu = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6457940/"		%}

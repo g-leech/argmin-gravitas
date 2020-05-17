@@ -10,14 +10,9 @@
 		I am extremely ignorant about myself. My preferences, my aliefs, my causes. So are you for you.
 	https://faculty.ucr.edu/~eschwitz/SchwitzPapers/SelfUcs-101118.htm <br>
 		(<i>Confidence</i>: )
-	</li>
+	</li><br>
 	<li>
 		<a href="/games-of-life">It seems</a> that reinforcement learning, game theory, evolutionary game theory, and theoretical market calculation are very close and in many places equivalent. The thing they all are special casing could be called "distributed optimisation". This is mind-bending, a perfect illustration of the absolute power and relevance of computational complexity, and maybe useful.
-	</li>
-	<br>
-	<li>
-		OPEC, the oil cartel, are one of the most effective environmental groups in history. By keeping the price of oil about a times higher than it would be under competitive pressure, they drove massive improvements in heating efficiency and a de facto subsidy for nonoil energy development.<br>
-		(<i>Confidence</i>: )
 	</li>
 	<br>
 	<li>
