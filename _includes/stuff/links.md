@@ -40,3 +40,7 @@
 {%	assign pi = "https://pi-hole.net/"		%}
 {%	assign berg = "https://www.berghaus.com/mens-freeflow-35-%2B-8-rucksack/434549.html"	%}
 {%	assign moto = "https://www.techradar.com/uk/reviews/moto-g7-review"		%}
+{%	assign use = "https://usesthis.com/"		%}
+{%	assign ben = "https://medium.com/@louis.dixon/things-i-use-and-recommend-9b9f488bbe07"		%}
+{%	assign storry = "https://www.philipstorry.net/review/things-i-use-2020"		%}
+

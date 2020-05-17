@@ -162,13 +162,16 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 
 # See also
 
+* <a href="{{use}}">1000 nerds</a>
 * <a href="{{scott}}">Scott</a> <a href="{{alex}}">Alexander</a>
 * <a href="{{rob}}">Rob Wiblin</a>
 * <a href="{{sam}}">Sam Bowman</a>
 * <a href="{{guz}}">Alexey Guzey</a>
 * <a href="{{jos}}">Jose Ricon</a>
 * <a href="{{mcc}}">Peter McCluskey</a>
+* <a href="{{storry}}">Philip Storry</a>
 * <a href="{{lw}}">Various (2012)</a>
+* <a href="{{ben}}">Louis being mean</a>
 
 <br><br>
 
