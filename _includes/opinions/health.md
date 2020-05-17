@@ -5,8 +5,9 @@
 <div>
 <ul>
 	<li>
-		Doctors get too much credit for the doubling in longevity in the last 200 years: nutrition and public health measures (plumbing, water treatment, immunisation) <a href="{{deaton}}">explain more</a> than individual medical therapies. (We know this because the largest improvements were before 1920, when medicine really began its stride.) <a href="{{cutler}}">This seems</a> to still be true for the present day. Morbidity might be different.<br>
-		(<i>Confidence</i>: 90%)
+		Doctors get too much credit for the doubling in longevity in the last 200 years: nutrition and public health measures (plumbing, water treatment, immunisation) <a href="{{deaton}}">explain more</a> than individual medical therapies. (We know this because the largest improvements were before 1920, when medicine really began its stride.) <a href="{{cutler}}">This seems</a> to still be true for the present day. <br>
+		NB: <a href="{{morb}}">Morbidity</a> might be different.<br>
+		(<i>Confidence</i>: 80%)
 	</li>
 	<br>
 	<li>
@@ -15,7 +16,7 @@
 	</li>
 	<br>
 	<li>
-		But even the best evidence-based medicine is <a href="{{nnt}}">surprisingly unreliable</a>, in the sense that a given treatment doesn't work for most people. e.g. even <i>morphine</i> has a <a href="{{morph}}">"number needed to treat" post-op pain of 2.9</a>. i.e. on average, it works for every third person it is administered to.<a href="#fn:2" id="fnref:2">2</a> <br>
+		But even the best evidence-based medicine is <a href="{{nnt}}">surprisingly unreliable</a>, in the sense that most treatments won't work for most people. e.g. even <i>morphine</i> has a <a href="{{morph}}">"number needed to treat" post-op pain of 2.9</a>. i.e. on average, it reduces pain intensity by at least half for only every third person it is administered to.<a href="#fn:2" id="fnref:2">2</a> <br>
 		(<i>Confidence</i>: 90%)
 	</li>
 	<!--<br>
@@ -31,12 +32,12 @@
 	</li>
 	<br>
 	<li>
-		In the general population, multivitamins have no net health benefit, and are even potentially harmful. More generally, antioxidants are not net positive. Many dietary supplements have no effect. <br>
+		In the general population, <a href="{{multi}}">multivitamin use does not reduce mortality</a>, and are even potentially harmful owing to overdosing beta-carotene and vitamin E. More generally, antioxidant supplements are not net positive. Many dietary supplements have no effect. <br>
 		(<i>Confidence</i>: 80%)
 	</li>
 	<br>
 	<li>
-		Vaping is a <a href="{{vap}}">really remarkable</a> public health measure: thousands of times less carcinogens, increased cessation change, <a href="{{second}}">massively reduced second-hand exposure</a>. All of the reported acute deaths involve bootleg vaping fluid. Banning vaping and not smoking is a perfectly perverse policy which should be expected to shorten Californians' lives by thousands of years per calendar year.<br>
+		Vaping is a <a href="{{vap}}">really remarkable</a> public health measure: thousands of times less carcinogens, increased cessation change, <a href="{{second}}">massively reduced second-hand exposure</a>, incredibly low cost. All of the reported acute deaths involve bootleg vaping fluid with excess vitamin E. Banning vaping and not smoking is a perfectly perverse policy which should be expected to shorten Californians' lives by thousands of years per calendar year.<br>
 		(<i>Confidence</i>: 70%)
 	</li>
 	<br>
@@ -51,6 +52,12 @@
 	</li>
 	<br>
 	<li>
+		Paracetamol (acetaminophen, Tylenol) is a bad choice for first-line pain relief. It's less effective than the alternatives: its number needed to treat is between <a href="{{op}}">5</a> and <a href="{{coch}}">12</a> for various ailments, worse than <a href="{{asp}}">aspirin</a> or <a href="{{ibu}}">ibuprofen</a>. It has an extremely low "therapeutic index": chronic liver damage can occur from 2 x 500mg tablets, and 8 tablets is dangerous. (Compare this to aspirin's 8 and 15 x 300mg.) It is plainly bad to have such an effective suicide tool easily available, but even setting that aside, <a href="{{liv}}">about 20%</a> of paracetamol-induced liver damage is accidental. NSAID alternatives cause problems for many people, but it's often possible to identify those at risk, and I see no reason to privilege avoiding gastrointestinal trouble over liver trouble.
+		<br>
+		(<i>Confidence</i>: 90%.)
+	</li>
+	<br>
+	<li>
 		Smoke from fireplaces is <a href="{{wood}}">an incredibly powerful risk factor</a> for lung disease, much stronger per gas volume than cigarettes. The personal risk from a proper stove is limited, but neighbourhood effects can be severe.<br>
 		(<i>Confidence</i>: 80%)
 	</li>
@@ -61,14 +68,13 @@
 	</li>
 	<br>
 	<li>
-		You should wear earplugs on the subway. Most subways run loud enough to cause permanent damage to your hearing: The London tube reaches 100 dB on some lines. This level of noise causes tinnitus reliably, and tinnitus is associated with depression and suicide.		https://link.springer.com/article/10.1007%2Fs11524-006-9080-3
-		https://www.who.int/pbd/deafness/activities/MLS_Brochure_English_lowres_for_web.pdf
+		You should wear earplugs on the subway. <a href="{{ny}}">Many</a> of them run loud enough to cause permanent damage to your hearing: the London tube reaches <a href="{{tube}}">105 dB</a> on some lines. This level of noise causes tinnitus reliably, and tinnitus <a href="{{tinn}}">may be associated</a> with all kinds of mental health havoc.<br>		
 		(<i>Confidence</i>: 80%)
 	</li>
 	<br>
 	<li>
-		Universal screening is in general bad. Breast cancer, terrorism, whatever. <br>
-		(<i>Confidence</i>: 90%)
+		Universal screening for rare things (breast cancer, depression, terrorism, whatever) is in general bad, because few diagnostic tests have good enough specificity to prevent this causing a horrific number of false positives.  <br>
+		(<i>Confidence</i>: 80%)
 	</li>
 	<br>
 	<li>

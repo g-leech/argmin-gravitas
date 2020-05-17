@@ -29,6 +29,12 @@
 		Very intense, very blue light could have good effects on people with seasonal depression, or even the cognition of people without it.		<br>
 		(<i>Confidence</i>: 60%)
 	</li>
+	<br>
+	<li>
+		OPEC, the oil cartel, are one of the most effective environmental groups in history. By keeping the price of oil about x times higher than it would be under competitive pressure, they drove massive improvements in heating efficiency, and provided a de facto subsidy for non-oil energy development.<br>
+		(<i>Confidence</i>: )
+	</li>
+	<br>
 	
 </ul>
 </div>

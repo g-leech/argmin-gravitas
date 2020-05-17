@@ -10,7 +10,7 @@ img:        /img/haring.jpg
 visible:    1
 published:  false
 
-summary:    World thought's remarkable agreement on justifying impermanence and pain.
+summary:    The remarkable global consensus on justifying impermanence and pain.
 quality:    3
 confidence: 
 importance: 9

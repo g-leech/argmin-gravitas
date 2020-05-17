@@ -43,7 +43,7 @@
 <br>
 
 <li>
-	Science fiction is important, since, unlike most fiction, it tries to direct our attention to the unprecedented, what we can change. It is also (contingently) less focussed on incompetence and wallowing.
+	Science fiction is important, since, unlike most fiction, it tries to direct our attention to the unprecedented, what we can change. It is also (contingently) less focussed on incompetence and wallowing. It is where we get to do a dry-run of future moral problems, which are the greatest moral problems.
     <br>(<i>Confidence</i>: %)
 </li>
 <br>
