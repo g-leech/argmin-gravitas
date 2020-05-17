@@ -35,9 +35,12 @@ Maths is probably the best subject to learn online, because set problems can _al
 
 6 years later, and I've got a <a href="{{bsc}}">BSc (Hons) in Maths and Stats</a>, working a full-time job throughout. I know something now. It was good! But it probably wouldn't be for you, if you're not strange in the particular ways I am.<br><br>
 
-To see if it's good in general, better than my emoting is checking the graduation rate: how often do people see enough value in it / get sufficient help to finish the course? The median completion rate for MOOCs is about <a href="{{edx}}">4%</a> (edX); the OU is <a href="{{completion}}">about 14%</a> for all courses. <a href="#fn:2" id="fnref:2">2</a>
+To see if it's good in general, better than my emoting is checking the graduation rate: how often do people see enough value in it / get sufficient help to finish the course? The median completion rate for MOOCs is about <a href="{{edx}}">4%</a> (edX); the OU is <a href="{{completion}}">about 14%</a> for all courses. <a href="#fn:2" id="fnref:2">2</a><br><br>
 
+{%  include ou/functions.html     %}
 {%  include ou/syllabus.html     %}
+
+<br>
 
 ---
 
@@ -76,13 +79,7 @@ To see if it's good in general, better than my emoting is checking the graduatio
 * _Prep camp_. There's a student association for OU maths, the <a href="http://m500.org.uk/revision-weekend/">M500 Society</a>. They run a cheap annual exam prep camp in a giant hotel conference place in Milton Keynes. It's surprisingly good!
 
 * _Zero group work_. If you're pathologically independent, like me, then this is a large plus. For most people, it is demotivating and low in meaning.
-
-<br>
-
-
----
-
-<br>
+<br><br>
 
 ## Problems
 
