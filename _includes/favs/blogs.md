@@ -133,3 +133,56 @@
 		</div>
 	</div>
 </div>
+
+
+
+<!-- Gwern Branwen - what a free-range human looks like; or anyway an ascended free-range nerd.
+Andrew Gelman - 10000 examples of what not to do, in one of the hardest human arts
+Toby Ord - what you'd think, what you'd feel, if you were healed
+Scott Aaronson - for giving me hints, osmotic pressure, towards the true philosophy, the true ceiling
+Rob Nostalgebraist - a brilliant example of the possibilities of literary, outgroup, rogue thought.
+Cosma Shalizi - awe-inspiring breadth-depth. "As a result, I will never be a great scientist"
+Paul Christiano - Plain thoughts which launch armadas
+Kelsey Piper - healed my rage, led to me deserting in the culture war
+Robert Paul Wolff - sweet old man with decades of radical thinking
+Cowen & Tabbarok - it's all one thing, and the correct contrarian wins
+Anders Sandberg - who knew the largest things in the world could be so charming?
+Bryan Caplan - first I ignore, then I mock him, then I fight him, then
+Zach Weiner - a fine picture of self-invention
+David Pearce - when the facts get weird my views get weird
+Tom Sittler - Frightened in the silence, frightened, but thinking very hard
+Ozy Frantz - gender is not a universal toxin, and gender studies is even useful
+Buck Shlegeris - the sheer authority of shrugging
+Caspar Oesterheld - to see the universe as small
+Mark Liberman - the incredible detail of human noise, the fight to extract signal
+Mike Huemer - the prior unpredictability of inevitable reason
+Julia Galef - scepticism as friendliness
+Katja Grace - pitiless, hilarious scrutiny of interactions / the rock of noticing conceit
+Greg Lewis - the importance of dyspeptic men
+Sabine Hossenfelder - the importance of dyspeptic women
+Robin Hanson - society is biggest question, and I have 100 answers
+Jose Ricon - to decide that there is nothing you cannot have an opinion on, since you have so much time
+Henry Farrell - disciplines are small, but so are most thoughts
+Kieran Healy - wit as rationality
+Joseph Heath - the painstaking attempt to sight and realise a rational society
+Jeremy Kun - uplifting Uplift, translating from maths to human
+Ben Kuhn - lofty enthusiasm and lofty disdain
+Luke Muehlhauser - Maximally matter of fact on speculations
+Philip Trammell - the vertigo of reason. Frank Ramsey's heir.
+Jess Riedel - I just cannot remember ever disagreeing with him.
+Piero Scaruffi - why aren't you building something that towers over you, over time, over the fumbling committees?
+Pablo Stafforini - behind every great man stands a tangoing nomad wizard
+Alexey Guzey - watching a very promising act of self-invention live. 
+Jamie Brandon - the only people who can be uncompromising are the gifted and the 
+Eric Schwitzgebel - every dumb irrelevant piece of philosophy is a chance to make the world seem larger
+Elizabeth van Nostrand - the world is made of details. Mostly shitty details.
+Jeff Kaufman - he brings the same attitude to every part of his life - untroubled, close analysis
+Chris Blattman - let's do some science for the poor
+David Roodman - absolute thrasher, squeezes everything out of a question until there's an answer or a definitive undecidability.
+Bruce Schneier - society is made of holes, and B is one of the few who tells you about some of them
+Dan Luu - deeply, influentially unimpressed with so many things
+John Myles White - I get the sense that he thinks unlike other statisticians, and so can explain things they cannot.
+Noah Smith - A rare geek among the alpha nerds of economics.
+Milan Griffes - Extraordinarily lateral thinker. So lateral he's limboing. His path is not my path but I am glad someone is checking it out.
+Zack Davis - this degree of harshness, pitilessness, should only ever be self-inflicted
+Chris Dillow - the only Marxist writing for an investment magazine, and what's more he's a Tverskyan -->
