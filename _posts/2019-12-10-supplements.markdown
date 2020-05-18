@@ -30,7 +30,7 @@ The promise is to fine tune your health: to prevent idiosyncratic disorders, to 
 
 1. _Absence of general evidence / Evidence of harm_. Many supposedly health-promoting substances have uselessly weak evidence. For instance, <a href="{{multi}}">frequent use of multivitamins</a> is probably somewhat harmful: they _increase_ mortality for the average user, maybe due to overdosing you with antioxidants. <br>
 
-2. _Physiology is personal_. Even for substances that have general warrant, the 'heterogeneity' in their effects and side-effects can be enormous, even for quite closely matched pairs. (For instance, <a href="{{caff}}">some people</a> don't get _any_ stimulation from caffeine for genetic reasons. Morphine, the central example of a powerful and basic drug, has a <a href="{{morph}}">"number needed to treat" post-op pain of <i>2.9</i></a> - i.e. on average a high dose only beats placebo for one in three people!) <br>
+2. _Physiology is personal_. Even for substances that have general warrant, the 'heterogeneity' in their effects and side-effects can be enormous, even for quite closely matched pairs. (For instance, <a href="{{caff}}">some people</a> don't get _any_ stimulation from caffeine for genetic reasons. Morphine, the central example of a powerful and basic drug, has a <a href="{{morph}}">"number needed to treat" post-op pain of <i>2.9</i></a> - i.e. on average a high dose only works well for one in three people!) <br>
 
 3. _Geographical and seasonal variation_: for instance, during winter, around <a href="{{d}}">a third</a> of UK adults are deficient in vitamin D.<br>
 
