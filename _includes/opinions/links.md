@@ -38,3 +38,4 @@
 {%	assign jama = "https://sci-hub.tw/10.1001/jamaneurol.2019.3780"		%}
 {%	assign cell = "https://www.cell.com/current-biology/pdf/S0960-9822(19)31678-1.pdf"		%}
 {%	assign nz = "https://www.sciencedirect.com/science/article/abs/pii/S0001457517304256"		%}
+{%	assign pain = "http://www.bandolier.org.uk/booth/painpag/Acutrev/Analgesics/lftab.html"		%}
