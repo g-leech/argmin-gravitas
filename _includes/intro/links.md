@@ -24,3 +24,5 @@
 {%	assign incorr = "https://en.wikipedia.org/wiki/Incorrigibility"		%}
 {%	assign gend = "https://www.goodreads.com/review/show/2504127772"		%}
 {%	assign schw = "https://read.dukeupress.edu/the-philosophical-review/article-abstract/117/2/245/2787/The-Unreliability-of-Naive-Introspection?redirectedFrom=fulltext"		%}
+{%	assign boring = "https://web.archive.org/web/20200518135059/http://psyc405.stasson.org/Boring.pdf"	%}
+{%	assign danz = "https://onlinelibrary.wiley.com/doi/abs/10.1002/1520-6696%28198007%2916%3A3%3C241%3A%3AAID-JHBS2300160306%3E3.0.CO%3B2-O"	%}
