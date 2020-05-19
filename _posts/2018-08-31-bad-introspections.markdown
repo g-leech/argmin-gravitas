@@ -129,7 +129,8 @@ Justified uses for introspection, for me:
 ## Related
 
 * <a href="{{schw}}">Schwitzgebel on our broad ineptitude</a>
-
+* Boring (1953). <a href="{{boring}}">A history of introspectionism</a>
+* Danziger (1980). <a href="{{danz}}">The history of introspection reconsidered</a>
 <br><br>
 
 

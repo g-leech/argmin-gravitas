@@ -130,6 +130,12 @@
 			http://m-phi.blogspot.com/
 			<br>
 			https://musingsandroughdrafts.wordpress.com/
+			<br>
+			https://leesharkey.github.io/
+			<br>
+			https://apomorphic.com/
+			<br>
+			aelkus.github.io
 		</div>
 	</div>
 </div>
