@@ -91,7 +91,7 @@ e.g. Depending on the field, a PhD might involve reading <a href="{{matt}}">100<
 
 (As it happens I think most PhDs don't have much impact on the world: they are read by say 4 other people, and maybe _should_ not be read by many more than that. But that's good: instead I can do a thousand bits, each their own contribution to the future of all things.)
 
-If you're reading this, you probably have a lot of <a href="{{surp}}">energy</a>, <a href="{{smbc}}">10 big tickets</a>. What do you want to spend them on?
+If you're reading this, you probably have a lot of <a href="{{surp}}">energy</a>, up to <a href="{{smbc}}">10 big tickets</a>. What do you want to spend them on?
 <br><br>
 
 {%  include sites/examples.html    %}
@@ -128,6 +128,8 @@ Think tanks are the usual way to be a full-time intellectual outside academia. B
 * The situation may be even worse in open source software, with projects <a href="{{git}}">overwhelmingly dead by 6 months old</a>.<br><br>
 * Basbøll, '<a href="{{bas}}">What is blogging?</a>'
 * Gwern, '<a href="{{long}}">Long Content</a>'
+* <a href="{{stock}}">Stock and flow</a> (2010)
+* <a href="{{gard1}}">Digital</a> <a href="{{gard}}">gardens</a>
 * <a href="{{rot}}">Link rot</a>
 
 

@@ -43,4 +43,5 @@
 {%	assign use = "https://usesthis.com/"		%}
 {%	assign ben = "https://medium.com/@louis.dixon/things-i-use-and-recommend-9b9f488bbe07"		%}
 {%	assign storry = "https://www.philipstorry.net/review/things-i-use-2020"		%}
-
+{%	assign rosie = "https://rosie.camp/2019/11/18/stuff-i-recommend-you-buy-and-use/"		%}
+{%	assign lw2 = "https://www.lesswrong.com/posts/22SuXhyWAqPMTsBPk/what-are-objects-that-have-made-your-life-better"	%}
