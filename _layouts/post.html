@@ -45,11 +45,12 @@ layout: default
     {{ content }}
   </article>
 
-  <div style="color:#C0C0C0">
+  <!-- Doesn't work; Netlify rebuilds the whole site when *anything* changes -->
+  <!--   <div style="color:#C0C0C0">
     <i>Last modified</i>: {{ page.path | prepend: "/" | prepend: site.source | file_date | date_to_string }}
   </div>
   <br>
-
+  -->
 
   <div class="PageNavigation">
     {% if page.previous.url %}
