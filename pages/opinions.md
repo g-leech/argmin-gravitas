@@ -34,8 +34,13 @@ visible:	false
 {%	assign pablo = "http://www.stafforini.com/blog/what_i_believe/" 	%}
 {%	assign katja = "https://meteuphoric.com/opinion/"		%}
 {%	assign phil = "https://philpapers.org/surveys/public_respondents.html"	%}
+{%	assign julia1 = "https://juliagalef.com/2017/09/21/unpopular-ideas-about-children/"	%}
+{%	assign julia2 = "https://juliagalef.com/2017/09/05/unpopular-ideas-about-crime-and-punishment/"	%}
+{%	assign julia3 = "https://juliagalef.com/2017/08/23/unpopular-ideas-about-political-and-economic-systems/"	%}
+{%	assign julia4 = "https://juliagalef.com/2017/08/23/unpopular-ideas-about-social-norms/"	%}
 
 * <a href="{{brian}}">Brian Tomasik</a>
 * <a href="{{katja}}">Katja Grace</a>
 * <a href="{{pablo}}">Pablo Stafforini</a>
 * <a href="{{phil}}">Hundreds of philosophers</a>
+* <a href="{{julia1}}">Various</a> <a href="{{julia2}}">collected</a> <a href="{{julia3}}">unpopular</a> <a href="{{julia4}}">opinions</a>

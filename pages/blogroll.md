@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      Blogroll
+title:       
 permalink:  /blogroll
 visible:    false
 ---
