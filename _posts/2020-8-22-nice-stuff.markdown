@@ -171,7 +171,10 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 * <a href="{{mcc}}">Peter McCluskey</a>
 * <a href="{{storry}}">Philip Storry</a>
 * <a href="{{lw}}">Various (2012)</a>
+* <a href="{{lw2}}">Various (2020)</a>
+* <a href="{{rosie}}">Rosie Campbell</a>
 * <a href="{{ben}}">Louis being mean</a>
+
 
 <br><br>
 
