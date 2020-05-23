@@ -1,0 +1,53 @@
+{%	assign lfth = "https://www.bbc.co.uk/programmes/articles/4f0B5rf6z2wYQpm5WNqsqP7/they-swear-they-were-there-sex-pistols-at-the-lesser-free-trade-hall"	%}
+{%	assign clash = "https://www.youtube.com/watch?v=KorwwAjKpaY"	%}
+{%	assign zero = "https://theconversation.com/year-zero-for-british-punk-was-1976-but-there-had-long-been-anarchy-in-the-usa-61329"		%}
+{%	assign house = "https://en.wikipedia.org/wiki/Punk_house"		%}
+{%	assign tv = "https://en.wikipedia.org/wiki/Television_(band)"		%}
+{%	assign vic = "https://www.historyextra.com/period/victorian/why-victorians-didnt-smile-pictures-myth-smiling-portraits/"		%}
+{%	assign comm = "https://en.wikipedia.org/wiki/Utopian_socialism#Notable_utopian_communities"		%}
+{%	assign ban = "https://en.wikipedia.org/wiki/List_of_songs_banned_by_the_BBC"		%}
+{%	assign carol = "https://en.wikipedia.org/wiki/Radio_Caroline"		%}
+{%	assign land = "https://en.wikipedia.org/wiki/Back-to-the-land_movement#The_movement_in_North_America"		%}
+{%	assign fash = "https://www.urbandictionary.com/define.php?term=fashion%20punk"		%}
+{%	assign grun = "https://www.loudersound.com/features/in-december-1976-the-sex-pistols-appeared-on-the-bill-grundy-show"		%}
+
+{%	assign stone = "https://en.wikipedia.org/wiki/Stonewall_riots"		%}
+{%	assign whole = "https://en.wikipedia.org/wiki/Whole_Earth_Catalog"		%}
+{%	assign counter = "https://en.wikipedia.org/wiki/Counterculture_of_the_1960s"		%}
+{%	assign ss = "https://en.wikipedia.org/wiki/London_SS"		%}
+{%	assign sid = "https://i.pinimg.com/736x/d6/bf/de/d6bfde0721776674e2b8a4af338e6c09.jpg"		%}
+{%	assign reflux = "http://kid-reflux.blogspot.com/2009/11/happiest-woman-among-all-women.html"		%}
+{%	assign nazi = "http://www.youtube.com/v/VQ5aLGzG7KU"		%}
+{%	assign bonzo = "https://www.youtube.com/watch?v=P-L_5HedJbw"		%}
+{%	assign greas = "https://en.wikipedia.org/wiki/Greaser_(subculture)"		%}
+{%	assign mod = "https://en.wikipedia.org/wiki/Mod_(subculture)"		%}
+{%	assign freeden = "https://en.wikipedia.org/wiki/Michael_Freeden"		%}
+{%	assign viv = "https://www.vam.ac.uk/articles/vivienne-westwood-punk-new-romantic-and-beyond"		%}
+{%	assign op = "https://www.youtube.com/watch?v=WuTQeu0w9Aw"		%}
+{%	assign jello = "https://en.wikipedia.org/wiki/Jello_Biafra#Spoken_word"		%}
+{%	assign roll = "https://en.wikipedia.org/wiki/Henry_Rollins#Spoken_word"		%}
+{%	assign burm = "http://www.theguardian.com/music/2012/mar/17/punk-rock-state-oppression-burma"		%}
+{%	assign mes = "https://en.wikipedia.org/wiki/Mark_E._Smith#The_Fall"		%}
+{%	assign russ = "https://en.wikipedia.org/wiki/Russian_nihilist_movement"		%}
+{%	assign angry = "https://en.wikipedia.org/wiki/Angry_young_men"		%}
+{%	assign raid = "https://www.bbc.co.uk/news/uk-england-suffolk-40804501"		%}
+{%	assign minogue = "http://en.wikipedia.org/wiki/Kenneth_Minogue"		%}
+
+{%	assign ad = "https://en.wikipedia.org/wiki/Adbusters#Commercial_style"		%}
+{%	assign prez = "https://en.wikipedia.org/wiki/Jello_Biafra#Presidential_campaign"		%}
+
+{%	assign dri = "https://www.youtube.com/watch?v=lcZO6gudw5k"		%}
+{%	assign into = "https://en.wikipedia.org/wiki/Into_the_Unknown_(Bad_Religion_album)#Legacy"		%}
+{%	assign bangs = "https://www.villagevoice.com/2020/01/05/the-white-noise-supremacists/"		%}
+{%	assign hard = "https://thehardtimes.net/blog/only-black-guy-at-this-show-really-wishes-id-stop-calling-him-that/"		%}
+{%	assign pil = "https://en.wikipedia.org/wiki/Public_Image_Ltd"		%}
+{%	assign bad = "https://en.wikipedia.org/wiki/Big_Audio_Dynamite"		%}
+{%	assign cro = "https://en.wikipedia.org/wiki/Cro-Mags"		%}
+
+{%	assign dick = "http://en.wikipedia.org/wiki/The_Dicks"		%}
+{%	assign gang = "http://en.wikipedia.org/wiki/Gang_of_Four_%28band%29"		%}
+{%	assign rec = "http://en.wikipedia.org/wiki/Recoil_%28band%29"		%}
+{%	assign noise = "http://en.wikipedia.org/wiki/The_%28International%29_Noise_Conspiracy"		%}
+{%	assign chum = "http://en.wikipedia.org/wiki/Chumbawamba"		%}
+{%	assign soc = "https://en.wikipedia.org/wiki/National_Socialism_(disambiguation)"		%}
+{%	assign lib = "https://en.wikipedia.org/wiki/Liberal"		%}
