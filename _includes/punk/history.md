@@ -12,13 +12,13 @@
 		An interminable question among punk fans is when punk started, who counts as the pioneer, who counts as the precursors. 
 		<br><br>
 		<!--  -->
-		Well, the sound of "Year Zero" 1976 <a href="{{zero}}">simply wasn't new</a>: the incompetent garage rockers and 'Kraut' rockers of the late 60s sounded exactly the same as the New Yorkers and Londoners of the late 70s. <a href="{{tv}}">Television</a> (1973-1978) get tagged as both a proto-punk and a post-punk band: simultaneously before and after, influence and pre-emptive successor. <a href="#fn:1" id="fnref:1">1</a>
+		Well, the sound of "Year Zero" 1976 <a href="{{zero}}">simply wasn't new</a>: the incompetent garage rockers and (<a href="{{neu}}">a couple of</a>) the 'Kraut' rockers of the late 60s sounded exactly the same as the New Yorkers and Londoners of the late 70s. <a href="{{tv}}">Television</a> (1973-1978) get tagged as both a proto-punk and a post-punk band: simultaneously before and after, influence and pre-emptive successor. <a href="#fn:1" id="fnref:1">1</a>
 		<br><br>
 		The alliance of pop music and political radicalism wasn't new - consider all the <i>actual</i> social experimentation by the (hated, derided, 'soft') <a href="{{counter}}">hippies</a>. The hippies did <a href="{{carol}}">pirate radio</a> and <a href="{{whole}}">DIY</a> and zines. The hippies <a href="{{stone}}">actually fought</a> the police en masse, not just at gigs. The largest-scale punk practice, the <a href="{{house}}">Punk House</a> or squat is just a tiny wee co-op commune, the sort of thing <a href="{{comm}}">tried for hundreds of years</a>, and the earliest examples are tied to Andy Warhol. <br><br>
 		<!--  -->
-		Even compared to other subcultures, punk is unusually closely to its music and fashion. Are there punks who don't like punk rock, who don't like patches and studs? Not many.<br><br>
+		Even compared to other subcultures, punk is unusually closely tied to its music and fashion. Are there punks who don't like punk rock, who don't like patches and studs? Not many. What we call a counterculture is a vague mix of subversive aesthetics, politics, and lifestyles. Sometimes it's principled, and sometimes it is just about the thrill of being contrary, of 'countersignalling'.<br><br>
 		<!--  -->
-		The punk look was kinda new, but really just a stronger form of <a href="{{greas}}">greaser</a> and <a href="{{mod}}">mod</a> style. What we call a counterculture is a vague mix of subversive aesthetics, politics, and lifestyles. Sometimes it's principled, and sometimes it is just about the thrill of being contrary, of 'countersignalling'.
+		The punk look was kinda new, but really just a stronger form of <a href="{{greas}}">greaser</a> and <a href="{{mod}}">hard mod</a> style. 
 		<br><br>
 		Nihilism and anti-establishment art is <a href="{{russ}}">very old</a>. And even the punks would have known about the <a href="{{angry}}">aggressively negative art</a> of 50s England.
 		<br><br>
@@ -28,7 +28,7 @@
 	<!--  -->
 	<!-- <h3>The aesthetic</h3>
 	<div>
-		A quick way to get up to speed on the aesthetic is Wikipedia's list of punk <a href="{{bands}}">band names</a> ("Teenage Jesus and the Jerks", "the Vibrators", "the Lunachicks", "the Meat Puppets", "Black Flag/White Flag/Anti-Flag").
+		A quick way to get up to speed on the aesthetic is Wikipedia's list of punk <a href="{{bands}}">band names</a> ("Teenage Jesus and the Jerks", "the Vibrators", "the Lunachicks", "the Meat Puppets", "Black Flag/White Flag/Anti-Flag", "Vegan Reich").
 		<br><br>
 		<img src="/img/bands.png" width="25%" />
 
@@ -94,7 +94,7 @@
 	<div>
 		<a href="{{minogue}}">Some people</a> define "politics" as "collective, negotiated use of power" - and in this sense, while anarchism (and fascism) is a form of <i>government, </i>it is not a form of <i>politics</i>.
 		<br><br> 
-		Even late, post-80s punk is anti-political in one sense: it avoids existing social mechanisms like democracy or lobbying or <a href="{{ad}}">markets</a>. It is difficult and thankless to work within the system as a punk - if you succeed in changing something, then you've have failed by becoming part of the establishment. Where they bother to seek office it's generally a stunt.
+		Even late, post-80s punk is anti-political in one sense: it avoids existing social mechanisms like democracy or lobbying or <a href="{{ad}}">markets</a>. It is difficult and thankless to work within the system as a punk - if you succeed in changing something, then you will have failed, by becoming part of the establishment. 
 		<!--  -->
 		Punks seem <a href="http://www.revleft.com/vb/idea-spoiled-ballot-t129884/index.html">more likely to</a> <a href="http://k-punk.abstractdynamics.org/archives/003084.html">spoil votes</a>. And the idea of a <a href="http://en.wikipedia.org/wiki/Jello_Biafra#Presidential_campaign">punk politician</a> feels paradoxical, just a <a href="{{prez}}">stunt</a>.
 		<!-- 

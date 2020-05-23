@@ -51,3 +51,10 @@
 {%	assign chum = "http://en.wikipedia.org/wiki/Chumbawamba"		%}
 {%	assign soc = "https://en.wikipedia.org/wiki/National_Socialism_(disambiguation)"		%}
 {%	assign lib = "https://en.wikipedia.org/wiki/Liberal"		%}
+{%	assign neu = "https://www.youtube.com/watch?v=IfVHbc7LSic"		%}
+{%	assign grr = "https://en.wikipedia.org/wiki/Riot_grrrl"		%}
+{%	assign ssc = "https://slatestarcodex.com/2015/02/11/black-people-less-likely/"	%}
+{%	assign rar = "https://en.wikipedia.org/wiki/Rock_Against_Racism"		%}
+{%	assign fem = "https://en.wikipedia.org/wiki/Women_in_punk_rock"		%}
+{%	assign spot = "https://open.spotify.com/playlist/0eQsIZI0pdahcWskVPDX5m"		%}
+{%	assign sxe = "https://www.vice.com/en_uk/article/5gjee5/when-smoking-is-a-deal-breaker-interviews-with-straight-edgers-876"		%}

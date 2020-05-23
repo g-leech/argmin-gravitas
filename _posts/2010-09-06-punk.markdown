@@ -47,6 +47,8 @@ Punk is ancient: say 40 years old. Anything this old in the modern age will in f
 It's easy to view punk as necessarily political and necessarily left-wing. But neither are generally true. Just one instance before we get into the weeds: The Ramones, the _central_ example of a punk band, have exactly <a href="{{bonzo}}">one even vaguely political song</a>, a mild response to one faux pas by Reagan. (Their guitarist was a crabby Republican.)
 
 At first, punk was <i>negative</i>: defined by its opposition and not a positive programme; and also as in nihilistic and downbeat, focussing on the worst things in the world for aesthetic reasons.
+
+<u><a href="{{spot}}">For best effects, set this playlist going before you continue.</a></u>
 <br><br>
 
 
@@ -130,7 +132,6 @@ This clunky approach lets us account for the mind-jarring variety of people that
 
 ### Adjacent elements
 
-
 * _Authenticity_. Honesty and autonomy as far more important than quality. DIY and amateurism and abhorrence of profit.
 
 * _Irony_. A lot of punk is self-consciously dumb fun, and a lot of the rest covers extreme things for the hell of it.
@@ -148,7 +149,7 @@ This clunky approach lets us account for the mind-jarring variety of people that
 </center>
 <br>
 
-* _Internationalism_. One reason punk remains so lively is that people listen to foreign bands, and then somehow manage to book them for international tours. This makes the community much larger, more interesting, and more sustainable. Among the few other cultures which pull this off to this degree are Art and football.
+* _Internationalism_. One reason punk remains so lively is that people listen to foreign bands, and then somehow manage to book them for international tours. This makes the community much larger, more interesting, and more sustainable. Among the few other cultures which pull this off to this degree are metal, Art and football.
 
 
 * _Anti-capitalism_. Common but not as common as you'd think from outside. <a href="{{dick}}">Few</a> <a href="{{gang}}">bands</a> <a href="{{rec}}">really took it on with</a> <a href="{{noise}}">real</a> <a href="{{chum}}">seriousness</a>. Entails guilt about consumerism, disdain for material comforts, opportunistic squatting, freeganism.<br>
@@ -157,7 +158,7 @@ This clunky approach lets us account for the mind-jarring variety of people that
 
 * _Animal rights & environmentalism_. I don't know numbers, but definitely a disproportionate awareness of social justice, ethical and environmental issues, at least where this conforms to the above anti-state, anti-tradition rules. (Entails veganism and BIKEPUNK.)
 
-* _Syncretism_: basically any genre has some band doing the "-punk" version of it. The <a href="{{bad}}">ska-reggae</a>-<a href="{{pil}}">dub-punk</a> complex of the early 80s was particularly important. This is the antidote to the purists still listening to dull iterations of exactly the same music forty years on. I think this is yet another factor in punk's longevity.<br>
+* _Syncretism_: basically any genre has some band doing the "-punk" version of it. The <a href="{{bad}}">ska-reggae</a>-<a href="{{pil}}">dub-punk</a> <a href="{{rar}}">complex</a> of the early 80s was particularly important. This is the antidote to the purists still listening to dull iterations of exactly the same music forty years on. I think this is yet another factor in punk's longevity.<br>
 
 
 <br>
@@ -172,11 +173,15 @@ This clunky approach lets us account for the mind-jarring variety of people that
 
 * <i>Working-class consciousness</i>: As in left Oi.
 
-* _Racism_: As in far-right Oi. Apart from the explicit kind, <a href="{{bangs}}">the</a> <a href="{{hard}}">rest</a> is maybe just the background level of society at large.
+* _Racism_: As in far-right Oi. Apart from the explicit kind, <a href="{{bangs}}">the</a> <a href="{{hard}}">rest</a> is maybe just the background level of society at large, or maybe exacerbated by the edginess and dark irony. Punk, like its descendent indie music, is disproportionately white, but note that this may be a <a href="{{ssc}}">boring statistical thing</a>.
+
+* _Feminism_: There was a bit of gender flex in punk originally (compare Joey Ramone to Mick Jagger), and <a href="{{fem}}">many women</a> in the NY mix. But, then hardcore was _much_ more macho than ordinary society. It took a while for the natural mix of <a href="{{grr}}">feminism and punk</a> to really show up.
 
 * _New Anarchism_. Anarchism was fairly dormant from the end of the Spanish Civil War to the 70s. While it was previously a thing for angry young men, it is now the quintessential youth politics, away from the mannered, literary resistance of Kropotkin or Proudhon, towards the tragically hip Hakim Bey and Howard Zinn and David Graeber.
 
 * _Libertarianism_. I have in mind people like Steve Albini and Frank Kozik), but you see this in the anti-SJW kind of punk a lot - "you can't judge me".
+
+* _Straight edge_. <a href="{{sxe}}">Self-control fetishism</a>. No booze, no drugs, often no meat, and sometimes even no casual sex. 
 
 <br>
 
@@ -184,8 +189,31 @@ This clunky approach lets us account for the mind-jarring variety of people that
 
 <br>
 
-It is a style, it became an ideology, and it remains a community.<br><br>
+It is a style, it became an ideology, and it remains a community. All in all, a good way to spend your teens.<br><br>
 
+<div class="accordion">
+	<h3>Epigram</h3>
+	<div>
+		<blockquote>
+			one of the things that makes the punk stance unique is how it seems to assume substance or at least style by the abdication of power: <b>Look at me! I’m a cretinous little wretch! And proud of it!</b>
+			<br><br> 
+			So many of the people around the CBGB and Max’s scene have always seemed emotionally if not outright physically crippled — you see speech impediments, hunchbacks, limps, but most of all an overwhelming spiritual flatness. You take parental indifference, a crappy educational system, lots of drugs, media overload, a society with no values left except the hysterical emphasis on physical perfection, and you end up with these little nubbins: the only rebellion around, as Life magazine once labeled the Beats. Richard Hell gave us the catchphrase “Blank Generation,” although he insists that he didn’t mean a crowd with all the dynamism of a static-furry TV screen but rather a bunch of people finally freed by the collapse of all values to reinvent themselves, to make art statements of their whole lives. 
+			<br><br> 
+			Unfortunately, such a great utopian dream, which certainly is not on its first go-round here, remains just that, because most people would rather follow. What you’re left with, aside from the argument that it beats singles bars, is compassion. When the Ramones bring that sign onstage that says “GABBA GABBA HEY,” what it really stands for is “We accept you.” 
+			<br><br> 
+			Once you get past the armor of dog collars, black leather, and S&M affectations, you’ve got some of the gentlest or at least most harmless people in the world: Sid Vicious legends aside, almost all their violence is self-directed...
+			<br><br>
+			anytime you conclude that life stinks and the human race mostly amounts to a pile of shit, you’ve got the perfect breeding ground for fascism. A lot of outsiders, in fact, think punk is fascist, but that’s only because they can’t see beyond certain buzzwords, symbols, and pieces of regalia...
+			<br><br>
+			there’s a difference between hate and a little of the old epater gob at authority: swastikas in punk are basically another way for kids to get a rise out of their parents and maybe the press, both of whom deserve the irritation. To the extent that most of these spikedomes ever had a clue on what that stuff originally meant, it only went so far as their intent to shock. “It’s like a stance,” as Ivan says. “A real immature way of being dangerous.”
+		</blockquote>
+		<center>
+			– <a href="{{bangs}}">Lester Bangs</a> (1979)
+			<br><br>
+			(before the good ideology)<br><br>
+		</center>
+	</div>
+</div>
 {%	include comments.html	%}
 
 {%	include punk/foots.md	%}
