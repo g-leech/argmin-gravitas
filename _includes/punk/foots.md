@@ -11,7 +11,7 @@
 	</li>
 	<!--  -->
 	<li class="footnote" id="fn:3">
-		If you need more evidence that punk isn't one thing, consider how many other subcultures need a renowned disclaimer like "<a href="{{nazi}}">Nazi Punks Fuck Off</a>"
+		Strong evidence that punk isn't one thing: how many other subcultures need a renowned disclaimer like "<a href="{{nazi}}">Nazi Punks Fuck Off</a>"?
 	</li>
 	<!--  -->
 	<li class="footnote" id="fn:4">
