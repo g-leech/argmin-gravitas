@@ -58,3 +58,4 @@
 {%	assign fem = "https://en.wikipedia.org/wiki/Women_in_punk_rock"		%}
 {%	assign spot = "https://open.spotify.com/playlist/0eQsIZI0pdahcWskVPDX5m"		%}
 {%	assign sxe = "https://www.vice.com/en_uk/article/5gjee5/when-smoking-is-a-deal-breaker-interviews-with-straight-edgers-876"		%}
+{%	assign gimme = "https://www.youtube.com/watch?v=nFIZY4Xg7d0"		%}
