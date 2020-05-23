@@ -17,7 +17,7 @@
 {%	assign ss = "https://en.wikipedia.org/wiki/London_SS"		%}
 {%	assign sid = "https://i.pinimg.com/736x/d6/bf/de/d6bfde0721776674e2b8a4af338e6c09.jpg"		%}
 {%	assign reflux = "http://kid-reflux.blogspot.com/2009/11/happiest-woman-among-all-women.html"		%}
-{%	assign nazi = "http://www.youtube.com/v/VQ5aLGzG7KU"		%}
+{%	assign nazi = "https://www.youtube.com/watch?v=iyc62g7YQM0"		%}
 {%	assign bonzo = "https://www.youtube.com/watch?v=P-L_5HedJbw"		%}
 {%	assign greas = "https://en.wikipedia.org/wiki/Greaser_(subculture)"		%}
 {%	assign mod = "https://en.wikipedia.org/wiki/Mod_(subculture)"		%}
