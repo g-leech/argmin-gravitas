@@ -17,6 +17,10 @@
 	<li class="footnote" id="fn:4">
 		Obviously not literally free thought, since no tight-knit human culture ever manages to allow that.
 	</li>
+	<!--  -->
+	<li class="footnote" id="fn:5">
+		I had these snobberies in the core, but in retrospect the old purism is dead: there are now plenty of punks who admit to liking pop, and the noughties were rammed <a href="{{gimme}}">full of punk covers</a> of classic ballads, which is actually how I learned about great pop.
+	</li>
 </ol>
 
 </div>
