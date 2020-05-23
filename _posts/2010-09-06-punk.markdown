@@ -1,0 +1,196 @@
+---
+layout:     post
+title:      "Punk as ideology"
+baselink:   /punk
+permalink:  /punk
+date:       2010-09-06
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  true
+
+summary:    Serious or ironic? Political or aesthetic? Yay or boo?
+quality:    6
+confidence: High in the historical claims; N/A for the cultural criticism.
+importance: 3
+wordcount:  2000    
+warnings: 	Too late. Suicide, swastikas, humanism, anti-humanism, performative immorality.
+categories: culture, politics, subculture
+argument:	punk/argument.md
+---
+
+{%	include punk/links.md	%}
+
+<div align="center">
+	<img src="/img/punk.jpg" width="60%" />
+	<!-- Church of Euthanasia 'activist', c.2005. -->
+	<br><br>
+	<blockquote>
+		Punk is a music that is inherently hilarious. To try to make serious punk music is like trying to make serious happy hardcore. That's never been its purpose for me.
+	</blockquote>
+	<p style="line-height:5px">–<a href="{{reflux}}"> my mate James</a>
+	</p>
+	<!--  -->
+	<br>
+	<blockquote>
+		It has always been my way to de-value the fashionable, light-hearted, impulsive traits that people associate with punk, because punk is more than that, so much more. Those elements become trivial in the light of the experience that punkers share.
+	</blockquote>
+	<p style="line-height:5px">– Greg Graffin</p>
+
+</div>
+<br>
+
+
+Punk is ancient: say 40 years old. Anything this old in the modern age will in fact be several different things uneasily sharing a name. <a href="#fn:3" id="fnref:3">3</a>
+
+It's easy to view punk as necessarily political and necessarily left-wing. But neither are generally true. Just one instance before we get into the weeds: The Ramones, the _central_ example of a punk band, have exactly <a href="{{bonzo}}">one even vaguely political song</a>, a mild response to one faux pas by Reagan. (Their guitarist was a crabby Republican.)
+
+At first, punk was <i>negative</i>: defined by its opposition and not a positive programme; and also as in nihilistic and downbeat, focussing on the worst things in the world for aesthetic reasons.
+<br><br>
+
+
+{%	include punk/history.md	%}
+<br>
+
+So it wasn't political, and then it was.
+
+<br>
+
+<hr>
+
+<br>
+
+## The ideology
+
+
+<div style="padding-left:50px">
+<blockquote>
+	Empty factories to the east and all our waste<br> 
+	The shape of things that came, shown on the broken worker's face<br> 
+	To the west you'll find a silicon promised land<br> 
+	Where machines all replace their minds with systematic profit plans<br>
+	<br>
+	The course of human progress staggers like a drunk<br> 
+	Its pace is quick and heavy but its mind is slow and blunt<br> 
+	I look for optimism but I just don't know<br> 
+	Its seeds are planted in a poison place where nothing grows
+	<br><br>
+	Just one political song, just one political song<br> 
+	To drop into the list that stretches years and years long<br>
+	Just one political song, just one political song<br> 
+	To drop into the list that stretches years and years long
+</blockquote>
+</div>
+<center>
+	– <a href="{{op}}">Op Ivy</a> (1989)
+</center>
+
+<br>
+
+<a href="{{freeden}}">One way</a> to handle the messiness and variance of political ideologies is to give up the search for sufficient beliefs, away from the attempt to cleanly distinguish true punks from fake punks. Instead you can try splitting it into 
+
+* core beliefs (the essence of the thing), 
+* adjacent beliefs (other commonly found themes), 
+* peripheral (fringe but distinctive) beliefs. 
+
+This clunky approach lets us account for the mind-jarring variety of people that all call themselves <a href="{{lib}}">liberals</a>, or <a href="{{soc}}">socialists, or whatever. 
+<br><br>
+<div class="accordion">
+	<h3>A first attempt</h3>
+	<div>
+		<ul>
+			<li>Authenticity</li>
+			<li>Social conscience</li>
+			<li>Alienation</li>
+			<li>Freedom</li>
+		</ul>
+		<!--  -->
+		There are systematic opposite trends for each of these: e.g. Sid's insincere swastika shirt, punk pop's replacement of social alienation with personal alienation, the punk uniform, the enforced conformity of hardcore or the <a href="{{into}}">ridiculous backlash</a> against Bad Religion's proggy second album.
+	</div>
+</div>
+<br>
+
+
+### Core elements
+
+* _Anti-elitism_. Entails amateurism, hatred of pretence. (This is _not_ the same as egalitarianism, below.)
+
+* _Anti-establishment_. More generally an abhorrence for ordinary life: break away and create a perfect part inside the evil whole.
+
+* _Individualism_. Entails nonconformity; customized, deviant appearance [itself a new uniform]; drugs; refusal of ordinary roles. Free thought. <a href="#fn:4" id="fnref:4">4</a>
+
+
+* _Snobbery_. A rejection of pop culture, as brainwashing commercialised shit or just shit. One in a series of rejections one must conduct to be truly DIY. (Entails abhorrence of popularity, the fear and hatred of "selling out". Often painted as anti-consumerism.
+
+* _Inverse snobbery_. Off-hand rejection of bourgeois quality and tradition. Generally not because of a Marxist  critique, but because boring or inaccessible or old. (This is just anti-elitism again.)
+
+<br>
+
+
+### Adjacent elements
+
+
+* _Authenticity_. Honesty and autonomy as far more important than quality. DIY and amateurism and abhorrence of profit.
+
+* _Irony_. A lot of punk is self-consciously dumb fun, and a lot of the rest covers extreme things for the hell of it.
+
+* _Nihilism / Pessimism_. Focus on the worst things in the world. War, crime, atrocities, etc. Often identification with the freakish, the low, the cheap and the taboo, for kicks (Lou Reed, Iggy) or semi-political art (Patti Smith). Obsession with kitsch and cool. (Richard Hell) Sometimes also <a href="{{cro}}">primitivism</a>. 
+
+
+* _Egalitarianism_. But often in a specific <i>inverted</i> way: "We are all sub-human scum. You're no better than me, I no more than you.". Entails the DIY ethic, bands playing in the crowd - but more importantly an usual degree of activism, direct action, civil disobedience. <br>
+<center>
+	<blockquote>
+		look at you, then look at me / there is no difference I can see
+	</blockquote>
+	<!--  -->
+	– <a href="{{dri}}">D.R.I</a>, rather than say Barney the Dinosaur
+</center>
+<br>
+
+* _Internationalism_. One reason punk remains so lively is that people listen to foreign bands, and then somehow manage to book them for international tours. This makes the community much larger, more interesting, and more sustainable. Among the few other cultures which pull this off to this degree are Art and football.
+
+
+* _Anti-capitalism_. Common but not as common as you'd think from outside. <a href="{{dick}}">Few</a> <a href="{{gang}}">bands</a> <a href="{{rec}}">really took it on with</a> <a href="{{noise}}">real</a> <a href="{{chum}}">seriousness</a>. Entails guilt about consumerism, disdain for material comforts, opportunistic squatting, freeganism.<br>
+
+* _Rationalism_. Atheism, Skepticism, lip service to the great social theorists. This is the upside of basing your worldview on Noam Chomsky's.
+
+* _Animal rights & environmentalism_. I don't know numbers, but definitely a disproportionate awareness of social justice, ethical and environmental issues, at least where this conforms to the above anti-state, anti-tradition rules. (Entails veganism and BIKEPUNK.)
+
+* _Syncretism_: basically any genre has some band doing the "-punk" version of it. The <a href="{{bad}}">ska-reggae</a>-<a href="{{pil}}">dub-punk</a> complex of the early 80s was particularly important. This is the antidote to the purists still listening to dull iterations of exactly the same music forty years on. I think this is yet another factor in punk's longevity.<br>
+
+
+<br>
+
+### Peripheral elements
+
+<center>
+	<img src="/img/misandao.png" width="70%" />
+	<br>	<small>MiSanDao, Chinese oi</small>
+</center>
+<br>
+
+* <i>Working-class consciousness</i>: As in left Oi.
+
+* _Racism_: As in far-right Oi. Apart from the explicit kind, <a href="{{bangs}}">the</a> <a href="{{hard}}">rest</a> is maybe just the background level of society at large.
+
+* _New Anarchism_. Anarchism was fairly dormant from the end of the Spanish Civil War to the 70s. While it was previously a thing for angry young men, it is now the quintessential youth politics, away from the mannered, literary resistance of Kropotkin or Proudhon, towards the tragically hip Hakim Bey and Howard Zinn and David Graeber.
+
+* _Libertarianism_. I have in mind people like Steve Albini and Frank Kozik), but you see this in the anti-SJW kind of punk a lot - "you can't judge me".
+
+<br>
+
+<hr>
+
+<br>
+
+It is a style, it became an ideology, and it remains a community.<br><br>
+
+{%	include comments.html	%}
+
+{%	include punk/foots.md	%}
+
+<br><br>
+
+
+

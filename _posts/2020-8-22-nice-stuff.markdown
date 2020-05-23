@@ -115,6 +115,9 @@ _Expected lifespan_: 5 years.
 
 * <a href="{{etf}}">Vanguard ETFs</a>. One of the most surprising facts is that automatic index funds outperform "actively managed" (paying a finance person) ones, after you subtract their fees. Vanguard are the original and are among the lowest fees, about 0.15% of your return. I use a variant of <a href="{{simp}}">the Simplicity Portfolio</a> and rebalance every 6 months. You may be amused to hear that they are "<a href="{{bloom}}">communist</a>". Above, I said that only nicotine has any real risk - but these are a layer of abstraction over the stock market, so obviously be careful.<br>
 
+* Emergency backup bank account. A couple times in the last decade I've been locked out of my account due to a false-positive for fraud, or just lost my bank card. To be able to get to the bank / to work during the day or four this takes to resolve, I have a backup bank card with about £100 on it. You can obviously just stash a little cash in your house. Free, takes maybe one hour including the appointment some UK places make you do.<br>
+_Expected lifespan_: Forever.
+
 ## Fun
 
 * <a href="{{ks}}">KS Miami</a> bluetooth speaker (£20). Surprisingly good bass; makes watching things on a laptop much less dreadful. Good battery life too.<br>
