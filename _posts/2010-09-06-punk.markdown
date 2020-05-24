@@ -14,7 +14,7 @@ summary:    Serious or ironic? Political or aesthetic? Yay or boo?
 quality:    6
 confidence: High in the historical claims; N/A for the cultural criticism.
 importance: 3
-wordcount:  2000    
+wordcount:  3000    
 warnings: 	Too late. Suicide, swastikas, humanism, anti-humanism, performative immorality.
 categories: culture, politics, subculture
 argument:	punk/argument.md
@@ -96,8 +96,9 @@ So it wasn't political, and then it was.
 * adjacent beliefs (other commonly found themes), 
 * peripheral (fringe but distinctive) beliefs. 
 
-This clunky approach lets us account for the mind-jarring variety of people that all call themselves <a href="{{lib}}">liberals</a>, or <a href="{{soc}}">socialists, or whatever. 
+This clunky approach lets us account for the mind-jarring variety of people that all call themselves <a href="{{lib}}">liberals</a>, or <a href="{{soc}}">socialists, or whatever. The downside is that this always makes the "core" sound banal, because it has to be something that appeals to everyone.
 <br><br>
+
 <div class="accordion">
 	<h3>A first attempt</h3>
 	<div>
@@ -118,7 +119,9 @@ This clunky approach lets us account for the mind-jarring variety of people that
 
 * _Anti-elitism_. Entails amateurism, hatred of pretence. (This is _not_ the same as egalitarianism, below.)
 
-* _Anti-establishment_. More generally an abhorrence for ordinary life: break away and create a perfect part inside the evil whole.
+* _Alienation_. From something or everything mainstream: <a href="{{car}}">careerism</a>, <a href="{{century}}">consumerism</a>, <a href="{{flag}}">ordinary</a> <a href="{{step}}">social interactions</a>, <a href="{{mrt}}">romance</a>, <a href="{{propa}}">nation</a>, <a href="{{war}}">foreign policy</a>, <a href="{{asylum}}">religion</a>, species, even <a href="{{sxe}}">hedonism</a>. In particular:
+
+* _Anti-establishment_. The System. If you have the energy you might dream of breaking away and creating a perfect part inside the evil whole, the punk house.
 
 * _Individualism_. Entails nonconformity; customized, deviant appearance [itself a new uniform]; drugs; refusal of ordinary roles. Free thought. <a href="#fn:4" id="fnref:4">4</a>
 
@@ -153,7 +156,7 @@ This clunky approach lets us account for the mind-jarring variety of people that
 * _Internationalism_. One reason punk remains so lively is that people listen to foreign bands, and then somehow manage to book them for international tours. This makes the community much larger, more interesting, and more sustainable. Among the few other cultures which pull this off to this degree are metal, Art and football.
 
 
-* _Anti-capitalism_. Common but not as common as you'd think from outside. <a href="{{dick}}">Few</a> <a href="{{gang}}">bands</a> <a href="{{rec}}">really took it on with</a> <a href="{{noise}}">real</a> <a href="{{chum}}">seriousness</a>. Entails guilt about consumerism, disdain for material comforts, opportunistic squatting, freeganism.<br>
+* _Anti-capitalism_. Common but not as common as you'd think from outside. <a href="{{dick}}">Few</a> <a href="{{gang}}">bands</a> <a href="{{rec}}">really took it on with</a> <a href="{{noise}}">real</a> <a href="{{chum}}">seriousness</a>. Entails guilt about consumerism, disdain for material comforts, opportunistic squatting, freeganism. <a href="#fn:6" id="fnref:6">6</a> <br>
 
 * _Rationalism_. Atheism, Skepticism, lip service to the great social theorists. This is the upside of basing your worldview on Noam Chomsky's.
 
@@ -192,29 +195,8 @@ This clunky approach lets us account for the mind-jarring variety of people that
 
 It is a style, it became an ideology, and it remains a community. All in all, a good way to spend your teens.<br><br>
 
-<div class="accordion">
-	<h3>Epigram</h3>
-	<div>
-		<blockquote>
-			one of the things that makes the punk stance unique is how it seems to assume substance or at least style by the abdication of power: <b>Look at me! I’m a cretinous little wretch! And proud of it!</b>
-			<br><br> 
-			So many of the people around the CBGB and Max’s scene have always seemed emotionally if not outright physically crippled — you see speech impediments, hunchbacks, limps, but most of all an overwhelming spiritual flatness. You take parental indifference, a crappy educational system, lots of drugs, media overload, a society with no values left except the hysterical emphasis on physical perfection, and you end up with these little nubbins: the only rebellion around, as Life magazine once labeled the Beats. Richard Hell gave us the catchphrase “Blank Generation,” although he insists that he didn’t mean a crowd with all the dynamism of a static-furry TV screen but rather a bunch of people finally freed by the collapse of all values to reinvent themselves, to make art statements of their whole lives. 
-			<br><br> 
-			Unfortunately, such a great utopian dream, which certainly is not on its first go-round here, remains just that, because most people would rather follow. What you’re left with, aside from the argument that it beats singles bars, is compassion. When the Ramones bring that sign onstage that says “GABBA GABBA HEY,” what it really stands for is “We accept you.” 
-			<br><br> 
-			Once you get past the armor of dog collars, black leather, and S&M affectations, you’ve got some of the gentlest or at least most harmless people in the world: Sid Vicious legends aside, almost all their violence is self-directed...
-			<br><br>
-			anytime you conclude that life stinks and the human race mostly amounts to a pile of shit, you’ve got the perfect breeding ground for fascism. A lot of outsiders, in fact, think punk is fascist, but that’s only because they can’t see beyond certain buzzwords, symbols, and pieces of regalia...
-			<br><br>
-			there’s a difference between hate and a little of the old epater gob at authority: swastikas in punk are basically another way for kids to get a rise out of their parents and maybe the press, both of whom deserve the irritation. To the extent that most of these spikedomes ever had a clue on what that stuff originally meant, it only went so far as their intent to shock. “It’s like a stance,” as Ivan says. “A real immature way of being dangerous.”
-		</blockquote>
-		<center>
-			– <a href="{{bangs}}">Lester Bangs</a> (1979)
-			<br><br>
-			(before the good ideology)<br><br>
-		</center>
-	</div>
-</div>
+{%	include punk/against.md		%}
+{%	include punk/epigram.md 	%}
 {%	include comments.html	%}
 
 {%	include punk/foots.md	%}

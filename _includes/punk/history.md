@@ -49,7 +49,10 @@
 		<br><br>
 		You can guess what I'm going to say here: this is a perfect inversion of the origins of punk, among NY art schoolers and <a href="{{viv}}">literal avant-garde haute couture</a> (haut-en-bas). (Anti-fashion is still fashion: have you <i>seen</i> any catwalks lately?)
 		<br><br>
-		<a href="{{sid}}">Sid Vicious</a> wore a swastika to shock, while out on the town with his Jewish girlfriend; <a href="{{ss}}">he wasn't an outlier</a>. Larping extremism. Maybe half of Misfits songs are about murder, rape, paedophilia, abduction, mind control, body horror, cannibalism. Insincerity was there from the start.<br><br>
+		<a href="{{sid}}">Sid Vicious</a> wore a swastika to shock, while out on the town with his Jewish girlfriend; <a href="{{ss}}">he wasn't an outlier</a>. Maybe half of Misfits songs are about murder, rape, paedophilia, abduction, mind control, body horror, cannibalism. Insincerity was there from the start. Larping extremism.
+		<br><br>
+		No restriction on the "taste" of your lyrical content (nuclear terror, foetal meals, Hakenkreuz) but authoritarian restriction on style.
+		<br><br>
 		<!--  -->
 		"Fashion" is probably too narrow: this kind of punk was shock art, instances from all media.
 	</div>
