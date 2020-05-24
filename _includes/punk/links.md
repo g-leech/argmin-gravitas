@@ -59,3 +59,17 @@
 {%	assign spot = "https://open.spotify.com/playlist/0eQsIZI0pdahcWskVPDX5m"		%}
 {%	assign sxe = "https://www.vice.com/en_uk/article/5gjee5/when-smoking-is-a-deal-breaker-interviews-with-straight-edgers-876"		%}
 {%	assign gimme = "https://www.youtube.com/watch?v=nFIZY4Xg7d0"		%}
+{%	assign nofx = "https://genius.com/Nofx-the-marxist-brothers-lyrics"		%}
+{%	assign vivida = "https://www.discogs.com/Against-Me-Vivida-Vis/release/1522503"		%}
+{%	assign joey = "https://www.youtube.com/watch?v=28zwgfsLjQw"		%}
+{%	assign flag = "https://www.youtube.com/watch?v=a6otjCKg594"	%}
+{%	assign step = "https://www.youtube.com/watch?v=0puJVi2xJpQ"		%}
+{%	assign car = "https://www.youtube.com/watch?v=jZOrkPIZ1JU"		%}
+{%	assign mrt = "https://www.youtube.com/watch?v=ajaejPsU7ok"		%}
+{%	assign century = "https://www.youtube.com/watch?v=TYApdmp6je8"	%}
+{%	assign war = "https://www.youtube.com/watch?v=z3ziQ2_I9lE"		%}
+{%	assign asylum = "https://www.youtube.com/watch?v=4VXQkSRVFRM"		%}
+{%	assign propa = "https://www.youtube.com/watch?v=UMrTw00g8jE" %}
+
+
+{%	assign blender = "https://web.archive.org/web/20071013164408/http://www.blender.com/guide/articles.aspx?ID=2741"		%}
