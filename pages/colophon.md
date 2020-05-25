@@ -16,7 +16,7 @@ visible:    false
 {%	assign rb = "https://github.com/g-leech/argmin-gravitas/blob/master/_plugins/myfilters.rb"		%}
 {%	assign psy = "https://github.com/g-leech/argmin-gravitas/blob/master/_includes/about/psychology.html"		%}
 {%	assign tp = "https://github.com/g-leech/argmin-gravitas/blob/6c425a3d3e486a7a6388864977cec9d7d3b85580/_includes/head.html#L4"		%}
-
+{%	assign rss = "https://github.com/g-leech/argmin-gravitas/blob/master/feed.xml"	%}
 
 
 Some examples of the freedom of self-hosting, and the low-hanging fruit in all nonfiction:<br><br>
@@ -34,6 +34,8 @@ Some examples of the freedom of self-hosting, and the low-hanging fruit in all n
 * _Bug bounties_. <a href="{{bount}}">To keep me honest</a>.
 
 * _Server magic_: Jekyll and Ruby. Can do anything. Text deduplication, link reuse, quote database, etc.
+
+* _Feed_. I actually initally forgot about good old <a href="{{rss}}">RSS</a>, because it is so easy and so reliable that it fades into the background of life, and ceases to appear as technology.
 
 * _Anonymous feedback_. Unauthenticated Google Form.
 

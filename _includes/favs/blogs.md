@@ -136,6 +136,8 @@
 			https://apomorphic.com/
 			<br>
 			aelkus.github.io
+			<br>
+			https://stefanfschubert.com/blog
 		</div>
 	</div>
 </div>
