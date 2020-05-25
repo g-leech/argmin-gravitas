@@ -22,7 +22,9 @@
 		{
 			"folder_exclude_patterns":
 			[
-				"_site"
+				"_site",
+				".jekyll-cache",
+				"rotproofLinks"
 			],
 			"path": "."
 		}
