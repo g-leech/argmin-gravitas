@@ -72,7 +72,7 @@ I don't want to attack political idealism; why on earth would you? These are the
 
 Why on earth would you attack political idealism? Oh yeah; because it's infested with <a href="http://www.fastcompany.com/bookclub/excerpts/006074586X.html">posture</a>, <a href="http://www.sing365.com/music/lyric.nsf/White-People-For-Peace-lyrics-Against-Me/2C04BD02FD0D48A2482572D60016C468">self-importance</a>, <a href="http://www.neufutur.com/Rants/antiagainst.html">intolerance</a> and wilful technical <a href="http://web.archive.org/web/20080709044054/http://www.fpif.org/pdf/papers/SRtrade2003.pdf">ignorance</a>. As such, large bits of it are an impersonation of a political movement. Lightly-donned, ill-conceived political idealism is a force <i>preserving</i> the status quo: firstly since, in rejecting due process and reform, it ends up achieving nothing; and secondly because, if-and-when it takes up direct action, it alienates most people, who could help change things on grander scales.<br><br>
  
-"The personal is political; so, <i>everything is political; </i>and, if you're not making political <i>épater le bourgeois! </i>music then you're a fucking shill. With us or against us. <a href="http://www.youtube.com/watch?v=8moIh_b6wiA">All or nothing</a>."<br><br>
+"The personal is political; so, <i>everything is political; </i>and, if you're not making political <i>épater le bourgeois! </i>music then you're a fucking shill. With us or against us. <a href="https://www.youtube.com/watch?v=8moIh_b6wiA">All or nothing</a>."<br><br>
 
 I don't want to attack DIY; why on earth would you? These folk care about financial and artistic autonomy to the point of only needing to break-even from it (if that). These folk freed themselves (and you) of the self-aggrandizing, fifty-foot-high-stage mythology that chokes rock music. Oh yeah; because in hermiting itself off, it disparages most people and the things most people like; demonizes things which actually do good, like trade; and cos it leads to <a href="http://en.wikipedia.org/wiki/Tall_poppy_syndrome">tall-poppy syndrome</a>. 
 <!-- It's not clear that punk was ever about freedom. -->
@@ -82,7 +82,7 @@ I don't want to attack DIY; why on earth would you? These folk care about financ
 <h2>2000</h2>
 
 <center>
-	<iframe class="youtube-player" frameborder="0" height="390" src="http://www.youtube.com/embed/yxvGkG8K210" title="YouTube video player" type="text/html" width="480">
+	<iframe class="youtube-player" frameborder="0" height="390" src="https://www.youtube.com/embed/yxvGkG8K210" title="YouTube video player" type="text/html" width="480">
 	</iframe> 
 </center>
 
@@ -156,9 +156,9 @@ It's difficult to pinpoint where they stopped being punk, because I don't care. 
 
 <!-- "Not punk if not only punk."
  -->
-<i>New Wave</i> is unpleasantly self-conscious; more than half the album is about the music industry, as if they signed up to Sire just to make a musical report for the underground. Unrepentent too, mind; featuring the <a href="http://www.youtube.com/watch?v=VMTiBHUIkz4">tall one out of Tegan and Sara</a>. (And why not.)<br><br>
+<i>New Wave</i> is unpleasantly self-conscious; more than half the album is about the music industry, as if they signed up to Sire just to make a musical report for the underground. Unrepentent too, mind; featuring the <a href="https://www.youtube.com/watch?v=VMTiBHUIkz4">tall one out of Tegan and Sara</a>. (And why not.)<br><br>
 
-What is interesting is that they didn't have to mature into pop-punk, the Green-Day-with-a-vocabulary that they did. <i>As the Eternal Cowboy</i>, the first Fat Wreck release, is a bunch of short vignettes that flirt with all kinds of sounds, deciding what to become. There's something that could become great folk. They might yet develop this more oblique stuff, pull more "<a href="http://www.youtube.com/watch?v=0wkZGMktFCw">Pints of Guinness</a>".<br><br> 
+What is interesting is that they didn't have to mature into pop-punk, the Green-Day-with-a-vocabulary that they did. <i>As the Eternal Cowboy</i>, the first Fat Wreck release, is a bunch of short vignettes that flirt with all kinds of sounds, deciding what to become. There's something that could become great folk. They might yet develop this more oblique stuff, pull more "<a href="https://www.youtube.com/watch?v=0wkZGMktFCw">Pints of Guinness</a>".<br><br> 
 
 Even the album's name, "New Wave" is a stuck-out tongue - read it as "replacement of punk" the parvenu pop that "co-opted" punk in the 80s... And, with hindsight, the <a href="http://en.wikipedia.org/wiki/Searching_for_a_Former_Clarity">2005 album title</a> is another sly one.
 
