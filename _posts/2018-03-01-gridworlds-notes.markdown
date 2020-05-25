@@ -10,7 +10,7 @@ img:        /img/happy_end.png
 published:	false
 visible: 	0
 
-summary:    Summary of ''
+summary:    Summary of 
 categories: AI, technical, concrete, reinforcement learning
 warnings:	
 importance: 8

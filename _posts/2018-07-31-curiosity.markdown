@@ -15,6 +15,7 @@ summary:    A model of science by reference to its unscientific origins
 confidence: 80% that I capture most of the axes
 importance: 7
 wordcount:  
+categories: review, science, history, philosophy
 ---
 
 <blockquote>...<br>

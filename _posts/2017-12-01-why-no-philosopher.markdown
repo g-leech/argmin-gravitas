@@ -16,7 +16,7 @@ confidence:	N/A. A polemic I don't usually endorse.
 importance: 4
 pride:		7
 wordcount:	3000
-categories: long-content
+categories: long-content, philosophy
 cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philosopher
 ---
 

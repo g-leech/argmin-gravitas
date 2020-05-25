@@ -13,7 +13,7 @@ visible: 	1
 summary:    Rant about a great work with barely a trace of greatness.
 confidence:	50%. I must be missing something.
 quality:    3
-categories: reviews, literature
+categories: review, literature
 importance: 2
 wordcount:	1500
 warnings: 	murder, hypocrisy, imperialism, the bad guy wins

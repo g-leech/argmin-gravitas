@@ -14,7 +14,7 @@ summary:    The human urgency of the seemingly inhuman subject.
 quality:    4
 importance: 7
 warnings: 	Written for a competition, "Why study economics at university?" Pretty pompous but hey I won £50.
-categories: cause prioritisation
+categories: cause-prioritisation
 ---
 
 <center>

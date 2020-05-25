@@ -13,7 +13,8 @@ quality: 	6
 
 summary:    Weird realism and the misanthropic interpretation of neuroscience. Plus errata.
 importance: 8
-wordcount:      1500
+wordcount:  1500
+categories: philosophy, science, review, meaning
 ---
 
 {%	assign anos = "https://en.wikipedia.org/wiki/Anosognosia"	%}

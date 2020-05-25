@@ -15,7 +15,7 @@ summary:    Understanding good science & epistemology via counterexamples.
 importance: 6
 warnings:	epistemic angst, relativism, Holocaust denial
 wordcount:  1600
-categories:	rationality, philosophy-of-science, 
+categories:	rationality, philosophy
 ---
 
 {%  include heretic/links.md   %}

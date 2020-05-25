@@ -12,7 +12,7 @@ published: 	true
 summary:	A true story about model error, noisy decisions, and the birth of tragedy.
 quality:    7
 confidence: 90% that my interpretation is right. Speculative stuff in the second half.
-categories: stats, social science
+categories: stats, social-science, game-theory
 importance: 6
 emotion:	4
 wordcount: 	700

@@ -13,7 +13,7 @@ quality: 	4
 
 summary:    Work from the Gridworld team at AI Safety Camp Gran Canaria. 
 confidence:	DRAFT. Eventually, 90% because executable. 
-categories: 
+categories: AI, RL
 importance: 7
 wordcount:		888
 ---

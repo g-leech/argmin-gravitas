@@ -13,7 +13,7 @@ quality:    5
 
 summary:    Does this auxiliary result from AlphaGo Zero have large implications?
 confidence:	60%; fairly speculative.
-categories: artificial intelligence, forecasting, expertise
+categories: AI, forecasting
 warnings:	
 importance: 7
 pride:      4

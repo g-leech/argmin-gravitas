@@ -13,7 +13,7 @@ quality:    4
 summary:    What is good about cultural anthropology? Plus reading list.
 confidence: 80% that there's a problem with the field. 60% that this is worth doing.
 warnings:   politicised epistemology, relativism
-categories: philosophy, scepticism
+categories: philosophy, scepticism, social-science
 importance: 3
 pride:      3
 wordcount:  798

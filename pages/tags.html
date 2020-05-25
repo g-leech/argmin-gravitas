@@ -1,0 +1,31 @@
+---
+layout:   page
+title:    Posts by category
+permalink:  /tags
+visible:  false
+---
+
+{%  assign site_categories = site.posts | map: "categories" 
+                              | join: ','  | split: ',' 
+                              | uniq | compact  
+%}
+
+
+{% for category in site_categories %}
+  
+  {%  if category == ''  %}
+    {%  continue  %}
+  {% endif %}
+
+
+  <h3>{{ category  }}</h3>
+  <ul>
+    {% for p in site.posts %}
+        {%  assign cats = p.categories | split: ',' | join: ',' %} 
+        {%  if cats contains category %}
+            <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+        {% endif %} 
+    {% endfor %} 
+  </ul>
+
+{% endfor %}

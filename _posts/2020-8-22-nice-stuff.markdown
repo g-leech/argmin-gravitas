@@ -16,6 +16,7 @@ quality:    5
 emotion:    5
 importance: 4
 wordcount:  1300
+categories: self-help, lists, quantification, 
 ---
 
 <img src="/img/still-life.jpg" /><br>

@@ -15,7 +15,7 @@ importance: 4
 emotion:    5
 confidence: 90% that most of the rich world feels obliged to these things.
 wordcount:  2100
-categories: social
+categories: social-science, criticism
 argument:   piety/argument.html
 ---
 

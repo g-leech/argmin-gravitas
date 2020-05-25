@@ -13,7 +13,7 @@ quality: 	5
 
 summary:    Contemporary uses of David Hume (or anyway his name).
 confidence:	95%.
-categories: 
+categories: philosophy, history, lists
 importance: 3
 wordcount:		3000
 ---

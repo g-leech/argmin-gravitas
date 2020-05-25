@@ -15,6 +15,7 @@ warnings:	anti-semitism, cruelty to children, literary cruelty to adults
 summary:    Maths, morals, and character in the early work of Grigori Perelman.
 confidence: Empty speculation.
 wordcount:      920
+categories: bio, maths, ethics, review
 ---
 
 

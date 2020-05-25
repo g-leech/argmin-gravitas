@@ -12,7 +12,7 @@ visible: 	1
 quality: 	5
 
 summary:    A thought experiment about work and hedonism.
-categories: ethics of belief
+categories: meaning, ethics-of-belief
 importance: 6
 wordcount: 		400
 ---
