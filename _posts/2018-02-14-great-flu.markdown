@@ -15,7 +15,7 @@ confidence: 70%. The amount of mass death we have no direct evidence of is scary
 importance: 8
 warnings: 	social collapse, authoritarianism, predatory pseudoscience. I'm not a virologist or historian.
 wordcount:  3300
-categories: review, x-risk, epistemology, biorisk
+categories: review, xrisk, epistemology, biorisk
 ---
 
 <center>

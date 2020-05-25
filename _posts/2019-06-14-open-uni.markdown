@@ -15,6 +15,7 @@ summary:    Review of a venerable online maths degree.
 confidence: 90%
 importance: 3
 wordcount:      1500
+categories: maths, review, uni
 ---
 
 {%  include ou/links.md     %}

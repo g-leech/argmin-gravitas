@@ -15,7 +15,7 @@ quality:    6
 summary:    Estimate of how much money a maximizing consequentialist is allowed.
 confidence:	90% in the numbers, 70% in the ethics.
 warnings:   scrupulosity, scrupulosity, scrupulosity
-categories: effective altruism
+categories: effective-altruism, economics, ethics
 importance: 8
 pride:		5
 wordcount: 	2169

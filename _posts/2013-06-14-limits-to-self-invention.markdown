@@ -16,7 +16,7 @@ emotion:    7
 confidence: 60%. Grounded in philosophy and anecdote, not the psychology of self-adjustment. 
 importance: 6
 wordcount:  1000
-categories: self-help, philosophy, becoming, false framework
+categories: self-help, philosophy, becoming, false-framework
 argument:   bootstraps/argument.md
 ---
 

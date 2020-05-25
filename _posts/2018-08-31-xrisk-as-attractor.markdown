@@ -14,7 +14,7 @@ summary:    Why many different worldviews should prioritise reducing existential
 confidence:	70%.
 quality: 	9
 emotion: 	4
-categories: x-risk
+categories: longtermism, philosophy, xrisk
 importance: 10
 pride: 		9
 wordcount: 	1000

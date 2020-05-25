@@ -13,7 +13,7 @@ quality: 	5
 
 summary:    Quick sketch of Frege's reduction of arithmetic to logic, and why it fails.
 confidence:	90%. 
-categories: philosophy of mathematics
+categories: philosophy, maths
 importance: 4
 pride:      5
 wordcount:	3698

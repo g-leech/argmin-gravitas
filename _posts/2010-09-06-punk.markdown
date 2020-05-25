@@ -16,7 +16,7 @@ confidence: High in the historical claims; N/A for the cultural criticism.
 importance: 3
 wordcount:  3000    
 warnings: 	Too late. Suicide, swastikas, humanism, anti-humanism, performative immorality.
-categories: culture, politics, subculture
+categories: culture, politics, subculture, criticism
 argument:	punk/argument.md
 ---
 

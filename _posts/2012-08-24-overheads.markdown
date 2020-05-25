@@ -17,6 +17,7 @@ confidence: 70%
 importance: 5
 wordcount:  900
 argument:   overhead/argument.html
+categories: lists, rationality, self-help, quantified-self
 ---
 
 {%	assign traz = "https://twitter.com/MichaelTrazzi/status/1210242894323503104"	%}

@@ -1,0 +1,265 @@
+---
+layout:     post
+title:      "Virtue, work, and the world to come"
+baselink:   /ea
+permalink:  /ea
+date:       2014-01-10
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+
+summary:    On coming to terms with effective altruism.
+confidence: I feel like quite a different person from the one that wrote this.
+quality:    3
+importance: 9
+wordcount:  
+warnings:	suicide, people making the perfect the enemy of the good.
+categories: effective-altruism
+argument:   ea/argument.html
+---
+
+
+
+
+<div style="text-align: center;">
+	<img src="/img/Meghan-Howland-Ennui-2012.jpg" width="60%" />
+	<!--  -->
+	<br>
+	<span style="font-size: small;">
+		(c) <a href="{{how}}">Meghan Howland (2012)</a>, "<a href="http://www.greynotgrey.com/blog/wp-content/uploads/2012/09/Meghan-Howland-Ennui-2012.jpg">Ennui</a>"
+	</span>
+	<br>	<br>
+	<!--  -->
+	<blockquote>
+		<i>A rich boy goes to college. He makes a lot of friends. They all think they are special and that they suffer in distinct ways, but they are all hurtling down the same world-historical funnel. They will attempt to professionalize their passions, or else just get jobs</i>.<br>
+	</blockquote>
+	<div style="line-height: 5px;">
+	–  Sam Lipsyte<br></div>
+	<br><br>
+	<!--  -->
+	<blockquote>
+		<i>Freedom in an unfree world is merely licence to exploit</i>.<br>
+	</blockquote>
+	<!--  -->
+	<div style="line-height: 5px;">
+		–  Germaine Greer
+	</div>
+</div>
+<br><br>
+
+<div class="accordion">
+	<h3>Disclaimer</h3>
+	<div>
+		<i>May 2020:</i> This is a bit of a mess. It makes no sense without the background, that up to then I had been stubbornly systemic / the personal is political / anti-careerist / counter-cultural. And also deeply suspicious of statistical or mathematical modelling of humans or moral action (though for sour grapes reasons, not <a href="{{saulius}}">the many good reasons</a>).<br><br>
+<!--  -->
+		I'm posting it because it represents a huge philosophical shift, one which defined the next decade of my life (and counting), and I wanted to show what that looks like. Also a couple of people told me they found it helpful because they were coming from a similar place.
+	</div>
+</div>
+<br>
+<br>
+
+Reportedly, the '<a href="http://plato.stanford.edu/entries/camus/#SuiResAbs">only really serious'</a> philosophical question is whether or not to kill yourself. If we take the point of this to be that your answer to the suicide question might preclude you answering any other questions, and <i>if</i> the importance of a question is somehow transitive with the importance of questions it affects, then that's <i>sort of</i> true if you squint. But it is <a href="http://www.who.int/mental_health/prevention/suicide_rates/en/">much more likely</a> that you'll currently be faced with slightly less stark choices. Like: <em>What will you (try to) do? Where will you do it? With whom?</em><br>
+<br>
+"What will you do?" is the tough one: the other two usually follow in a straight line from it, even now, unless you choose to do <a href="http://en.wikipedia.org/wiki/The_Idler_(1993)">nothing</a>, or choose something that's wanted everywhere, like medicine, or web development, or having <a href="http://www.independent.co.uk/arts-entertainment/music/news/hip-hop-is-the-most-listened-to-genre-in-the-world-according-to-spotify-analysis-of-20-billion-10388091.html">a really good flow</a>. <br>
+<br>
+But surprisingly few people explicitly think about&nbsp;these: instead you just fall into&nbsp;the&nbsp;job&nbsp;that happens to be&nbsp;going, and then you <a href="https://www.iser.essex.ac.uk/files/iser_working_papers/2009-10.pdf">stay there</a> if you can. (Or for academics: you slip into a degree based on your highest grades at school, and take on that field's <a href="http://en.wikipedia.org/wiki/Occupational_psychosis">fixations</a>, and stay there if you can.) You live where you've <a href="http://en.wikipedia.org/wiki/List_of_countries_by_net_migration_rate">always lived</a>; and you go out with who <a href="http://edge.org/response-detail/23862">you can</a>. A default decision tree of life might run like this:<br>
+<br>
+
+1) <b>&nbsp;&nbsp;What will you do with your life?</b>
+<br>
+Don't really know. Money. House. Couple kids. Hobbies.<br>
+<br>
+2) <b>&nbsp;&nbsp;Where?</b><br>
+Eh? <i>Here</i>. It's where all my stuff is.<br>
+<br>
+3) <b>&nbsp;&nbsp;With who?</b> <br>
+Well, with my mates, and Mr/Ms/Mx Right.
+
+<br>
+<br>
+To get some help with (1), I <a href="https://docs.google.com/document/d/1aAFG_4LcCq9zGJgKatTO7MgrkEW7Ouyz8r_wn-NNQDs/edit?usp=sharing">spoke</a> to the blue-sky&nbsp;pragmatists at <i>80,000 Hours</i> about making myself useful (taking the '<a href="http://www.centreforeffectivealtruism.org/">effective altruism</a>' omnibus). They're an ethical-career research group offering what you might call the <i>Engineer's Guide to Moral Transcendence</i>: they work by appeal to economics, cognitive science, and an arch-<a href="http://www.utilitarianism.com/conseq.htm">consequentialism</a>. For people with the stomach for it, they recommend <i>indirect</i> altruism -&nbsp;things&nbsp;like 'Earning to Give', getting yourself a high income so as to sustain a high&nbsp;volume of charitable donation - as a surer, magnified&nbsp;way to&nbsp;benefit the world. This is because when we&nbsp;adjust for&nbsp;psychological availability, counterfactuals,&nbsp;and prestige, the effects of actions often turn out <a href="http://80000hours.org/blog/112-what-s-your-true-impact">counterintuitive</a>. 
+
+<br>
+<br>
+80k have&nbsp;a single&nbsp;pledge of membership: "<i>I intend, at least in part, to use my career in an effective way to make the world a better place.</i>" Inevitable value conflicts aside ("better according to who?"), this is as good as anything so general can be.<br>
+<br>
+So:
+<br>
+<blockquote class="tr_bq">
+<br>
+0) <b>Will you live?</b><br>
+Oh go on then.<br>
+<br>
+1) <b>What will you do?</b>:<br>
+Help out.<br>
+<blockquote class="tr_bq">
+a) <b>How?</b> <br>
+Professional effective altruism; doing as much good as possible.<br>
+<blockquote class="tr_bq">
+i) <b>Which 'ethical' career exactly?</b><br>
+Hm. Give me a minute; let me run the math.</blockquote>
+</blockquote>
+</blockquote>
+<br>
+Previously, I was inclined to just get myself two Professions (one pro bono professional role, and a moonlight public intellectual role), research <a href="http://en.wikipedia.org/wiki/The_Bottom_Billion">a ruined geographical area</a>, and get stuck in. (The initial list was <a href="http://www.theatlantic.com/magazine/archive/2012/12/the-data-vigilante/309172/">public statistician</a> /&nbsp;bioethicist /&nbsp;Teacher /&nbsp;Accountant / Dietitian.)<br>
+<br>
+There is a shortage of meaningful jobs. This is probably <i>not</i> because people don't want to do them (the average British third-sector vacancy receives x application), but because there isn't the funding. Thus there is actually something prima facie wrong with ploughing on with that UN or whatever.
+<br>
+<div>
+</div>
+<div>
+Three good reasons to Earn to Give, then:</div>
+<div>
+</div>
+<div>
+1) It makes an actual difference. Terrible correlate!</div>
+<ol>
+<li>My labour is replaceable;&nbsp;in general, it just&nbsp;crowds out other people's. </li>
+<li>My donations are not.</li>
+</ol>
+2) You can fund multiple workers.<br>
+3) Not just preaching to the choir; into lucrative industries who are more likely indifferent and full of disposable income.<br>
+<ol>
+</ol>
+<div>
+<a href="http://www.academia.edu/1557895/Against_the_Common-Sense_View_of_Ethical_Careers">http://www.academia.edu/1557895/Against_the_Common-Sense_View_of_Ethical_Careers</a><br>
+<a href="http://oxfordleftreview.files.wordpress.com/2012/07/issue-7.pdf">http://oxfordleftreview.files.wordpress.com/2012/07/issue-7.pdf</a></div>
+<a href="http://lesswrong.com/lw/cxj/debate_between_80000_hours_and_a_socialist/">http://lesswrong.com/lw/cxj/debate_between_80000_hours_and_a_socialist/</a><br>
+<a href="http://lesswrong.com/r/discussion/lw/fkz/responses_to_questions_on_donating_to_80k_gwwc/">http://lesswrong.com/r/discussion/lw/fkz/responses_to_questions_on_donating_to_80k_gwwc/</a><br>
+<div>
+</div>
+<br>
+The unsexy and philosophically suspect mechanisms, <a href="http://en.wikipedia.org/wiki/Mathematical_optimization#Economics">maximisation</a> and <a href="https://80000hours.org/2014/01/which-cause-is-most-effective-300/">prioritisation</a> take on enormous significance when lives are at stake.<br>
+<br>
+<br>
+<div style="text-align: center;">
+****************************************************************
+<br>
+<br>
+<blockquote>
+<i>‘Making a difference’, if it means anything, means bringing about good things that wouldn’t have occurred otherwise. But then when people think about which careers are ethical, they often seem to focus on which careers do good directly – doctors, aid workers, campaigners etc... we want to bring about positive consequences that wouldn’t have happened otherwise: to </i>really<i> make a difference</i>.
+</blockquote>
+<div style="line-height: 5px;">
+–  Benjamin Todd</div>
+<br><br>
+
+<blockquote>
+	<i>By connecting this vision with the mechanisms of labour and capital, 80k also raises a more systematic problem. In the face of grave ethical demands, how are our choices structured? Do we face a world where choosing a career is the most important decision we make? Or does this individual dilemma obscure a more complex and perhaps more contingent reality</i>?
+</blockquote>
+<div style="line-height: 5px;">
+–  Tom Cutterham</div>
+</div>
+<br>
+<br>
+This hyperactive liberal humanism faces a lot of vitriol from the Left, though. Why <i>not</i>&nbsp;be a philanthropic banker? I've written an FAQ for this to prevent: none of the objections are fatal and many seem to me to be hollow applause lights.<br>
+<br>
+<br>
+<br>
+Longer pieces criticising EA:
+
+<br>
+<ol>
+<li><a href="http://www.benkuhn.net/ea-critique">Insider</a>.</li>
+<li><a href="https://oxfordleftreview.files.wordpress.com/2012/07/issue-7.pdf">Debate</a>, one side ignoring probabilities.</li>
+</ol>
+<div style="text-align: center;">
+****************************************************************</div>
+<br>
+<br>
+<i>Effective Altruism is part subversive, part conformist: subversive in its radical egalitarianism and its critique of complacent privilege; conformist in that it’s another force channeling us towards the traditional success model... the iron<br>logic of replaceability leaves many dreams dead on the ground, to be sure.<br>But is this a problem with EA as an ideology, or a problem with reality?</i>
+<br>
+<div style="line-height: 5px;">
+–  <a href="http://aeon.co/magazine/philosophy/art-is-a-selfish-waste-of-time-says-effective-altruism/">Rhys Southan</a>
+</div>
+<br>
+<br>
+Further to not working in banking, but for non-ethical / non-political reasons: <br>
+<ul>
+<li>It's boring.</li>
+<li>The attitudes of the typical finance colleague are disgusting, </li>
+<li>the common language of the whole&nbsp;professional sphere&nbsp;is disgusting, </li>
+<li>the actions it enables are disgusting.</li>
+<li>Worst of all, there's usually a vast split between the things that make you a good person and the things that make you a good worker. What we do at work leaks into our real lives. I'm determinist enough yet to admit that my surroundings can and will morph me - &amp; who wants to be morphed, in habits, inner life and reference pool, into the compleat Accountant?</li>
+</ul>
+<div>
+</div>
+Sorted: no then.&nbsp;The gist of&nbsp;<a href="http://ceasefiremagazine.co.uk/giving-high-impact-careers-debate/">this debate</a> about effective altruism is: "you can't do good without political engagement too".&nbsp;But social movements are also problematic.&nbsp;Further to not&nbsp;being a Trot:<br>
+<ul>
+<li>We are working <i>at the margin; </i>we&nbsp;always base our&nbsp;decisions on&nbsp;the state of the rest of the structure and the <i>tractability </i>of the problems.</li>
+<li>We maximise because, if one is undertaking&nbsp;a really effective type of action, small extra improvements can make a difference to hundreds of more lives.</li>
+<li>Group dynamics (such as&nbsp;are found in social movements)&nbsp;distort us deeply: <a href="http://wiki.lesswrong.com/wiki/Politics_is_the_Mind-Killer">politics is the mind killer</a>.</li>
+<li>Group dynamics are also really boring.</li>
+</ul>
+<br>
+Dhaliwal is obviously spot on about me and my sort: we&nbsp;have&nbsp;asked "what I can do?", rather than "what can we&nbsp;do?" I take this&nbsp;to be an argument for returning to my original plan, of a <i>direct</i> career in something helpful; while I eschew the larger and more tasteless transformatory political work, if I&nbsp;can give my life to direct work for the oppressed, I'm still not detached and contemptible. <br>
+<br>
+Is that really solidarity? Not sure. Am I on the <a href="http://anfortaswound.files.wordpress.com/2012/06/wrong-side.jpg">wrong side</a> of history, then? Hardly. In the same way that <i>no god who would punish me for my warranted doubts is worth abasing myself to anyway, </i>no revolution who'd&nbsp;end me&nbsp;for&nbsp;deciding against&nbsp;their quixoticism is worth fomenting.<br>
+I want to be neither a high-impact shill nor an endless-vacation&nbsp;revolutionary. Thus do I learn&nbsp;the limits to my altruism: namely boredom, and suits (clowns to the left of me, jokers to the right). <br>
+<br>
+
+<br>
+<br>
+<br>
+ANALYTIC EGALITARIANISM
+Things we have tried:
+<br>
+<ol>
+<li>Give ‘em a bunch of stuff.</li>
+<li>Send some people to see what needs doing (Technical support)</li>
+<li>Give their governments a bunch of money. 
+<ul>
+<li>Pros: Not remotely imperialistic. Prima facie efficient.</li>
+<li>Cons: Corruption. Fungible with arms spending to an enormous, lethal degree (11%).</li>
+</ul>
+</li>
+<li>Ask ‘em what they want and give ‘em a bunch of that stuff.</li>
+<li>Empirical development. </li>
+</ol>
+<br>
+Among other things (mostly health interventions), turns out that “give ‘em a bunch of money” is a solid move.
+
+<br>
+<br>
+<br>
+<div style="text-align: center;">
+*******************************************
+<br>
+<br>
+<blockquote>
+	<i>They sentenced me to twenty years of boredom<br>for trying to change the system from within.<br>I'm coming now, I'm coming to reward them.</i>
+</blockquote>
+<div style="line-height: 5px;">
+–  Leonard Cohen</div>
+</div>
+<br>
+<br>
+The simplest objection to large giving pledges is simply that your money is <i>yours: </i>"I sold my labour to obtain this; so I get to decide what to do with it, no-one else has a claim to it." Textbook economics backs this territorial claim: "wages are just, because we are paid according to our relative productivity."<br>
+<br>
+But the little-known fact of the matter, though, is that very little of your total wage is determined by your particular skills and negotiation. 3/4 of the average developed-world wage is a direct result of the wage level of the society you happened to be born to. In a strong sense: you are overpaid.<br>
+<br>
+<blockquote>
+<i>Most people in rich countries get the wages they do now only because they exclusively share their labour market with some very productive people, who outperform their counterparts in the developing countries by hundreds, or even thousands, of times... this kind of wage gap cannot be justified – how can you have two people doing the same job with equal efficiency being paid wages that are 20, 50, or even 100 times different.</i></blockquote>
+<div style="text-align: center;">
+	- Ha-Joon Chang
+</div>
+<br>
+This kind of moral luck is not tolerable.<br>
+<br>
+<br>
+What, then, is the highest wage one can justifiably allocate oneself? Or, to put it in a less loaded&nbsp;way, what is 'optimal'? I have an argument about this <a href="/maximum">here</a>.
+<br>
+<br>
+<br>
+<div style="text-align: center;">
+**********************************************</div>
+<br>
+<br>
+With the caveat that I'd write critically about them, I joined Giving What We Can, anyway. With the caveat that it's messier than it looks, <a href="https://www.givingwhatwecan.org/get-involved/what-you-can-achieve">so should you</a>.
+
+<br><br>
+
+{%	include comments.html	%}
+
+<br><br>

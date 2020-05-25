@@ -13,7 +13,7 @@ quality: 	6
 
 summary:    Relating maths, metaphysics, & (OOP) programming, if you already know one.
 confidence: 90% that the first table are real commonalities.
-categories: philosophy
+categories: philosophy, computers, rosetta-stone, maths
 importance: 5
 wordcount:      400
 ---

@@ -15,7 +15,7 @@ technical: 	true
 summary:    A new dataset and new analysis of all 234 (to Q1 2017).
 confidence: 80% that 
 importance: 5.
-categories: kaggle, machine learning, homebrew science
+categories: kaggle, machine-learning, science
 ---
 
 Kaggle-winning Algorithms, 2010-2016

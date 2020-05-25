@@ -17,6 +17,7 @@ confidence:	80%. Couple figurative bits.
 importance:	7
 emotion:	3
 wordcount:	1000
+categories:	RL, game-theory, economics, rosetta-stone
 ---
 
 {%	assign jh = "https://www.journals.uchicago.edu/doi/abs/10.1086/257416?journalCode=jpe"	%}

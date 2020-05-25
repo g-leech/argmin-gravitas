@@ -12,7 +12,7 @@ visible:    1
 
 summary:    Two responses to radical scepticism I hallucinated.
 confidence: N/A; revisionism, not actual history.
-categories: 
+categories: philosophy, ethics-of-belief
 warnings:   
 importance: 1
 wordcount:      

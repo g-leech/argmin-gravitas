@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Tolerance of stimulants and the tears of the World"
+title:      "Stimulant tolerance; or, the tears of things"
 baselink:   /stims
 permalink:  /stims
-date:       2020-06-24
+date:       2020-04-24
 author:     Gavin   
 img:        /img/
 
@@ -15,9 +15,17 @@ quality:
 confidence: 
 importance: 
 wordcount:      
-categories: biochemistry, self-help, quantified self
+categories: biochemistry, self-help, quantified-self
 ---
 
+<!-- 
+> Here, the praiseworthy gets its rewards;
+There are tears at the heart of things, and mortal things touch the mind.
+Release your fear; this fame will bring you some safety.
+
+<center>
+	- Virgil
+</center> -->
 
 People get confused
 
@@ -31,3 +39,10 @@ Tolerance of Caffeine
 afinils
 
 3 day cycle? 7 day?
+
+
+<br><br>
+
+{%	include comments.html	%}
+
+<br><br>

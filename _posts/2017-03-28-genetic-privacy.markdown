@@ -13,7 +13,7 @@ quality:    7
 summary:    A qualitative look at risks from publishing your genome.
 confidence:	Low; 60%. Huge speculations in the second and third sections.
 warnings:   behavioural genetics, evolutionary psychology, determinism
-categories: scary futurism
+categories: scary-futurism
 importance: 7
 
 wordcount: 	924

@@ -13,7 +13,7 @@ quality:
 
 summary:    
 confidence: 80% that 
-categories: kaggle, machine learning, homebrew science
+categories: 
 importance: 4
 ---
 
