@@ -96,7 +96,7 @@ So it wasn't political, and then it was.
 * adjacent beliefs (other commonly found themes), 
 * peripheral (fringe but distinctive) beliefs. 
 
-This clunky approach lets us account for the mind-jarring variety of people that all call themselves <a href="{{lib}}">liberals</a>, or <a href="{{soc}}">socialists, or whatever. The downside is that this always makes the "core" sound banal, because it has to be something that appeals to everyone.
+This clunky approach lets us account for the mind-jarring variety of people that all call themselves <a href="{{lib}}">liberals</a>, or <a href="{{soc}}">socialists</a>, or whatever. The downside is that this always makes the "core" sound banal, because it has to be something that appeals to everyone.
 <br><br>
 
 <div class="accordion">
