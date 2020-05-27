@@ -67,7 +67,9 @@ td {
 2012 - 2016: Second undergraduate in maths. The terror of clarity, the glory of pure truth. Only fundamentals: Descartes, Newton, Hooke, Joule, Cauchy, Fourier, the Bernoullis, Euler, Gauss, de Fermat, Jacobi, Taylor, Gibbs, de Moivre, Galois. (Free because of a political sop to low-income Scottish people, which didn't ask if I already had a degree.)
 
 2014 - 2015: Master's in software, again on a govt scholarship. Glorious unveiling of the other side, rapid and gladdening. Java, Python, SQL, MC8600, crypto, safety and security. Even Machine Learning: computational paralinguistics.
+</div>
 
+</div>
 
 This is about £145,000 worth.* Or, £4.7bn a year for the policy (40% over the present budget), if every child in Scotland was as nerdy and shameless as me.** (Big if.)
 
@@ -150,3 +152,121 @@ You could maybe do this by funding (voluntary) international service; basically 
 		https://afterallitcouldbeworse.blogspot.com/2017/02/things-i-would-do-differently-education.html
 	</div>
 </div>
+
+
+
+
+<!-- <script>
+function initialize()
+{
+    document.getElementById("smith").href = "http://noahpinionblog.blogspot.co.uk/";
+    document.getElementById("krug").href = "http://krugman.blogs.nytimes.com/";
+ document.getElementById("fried").href = "http://daviddfriedman.blogspot.ie/";
+ document.getElementById("delong").href = "www.bradford-delong.com/";
+ document.getElementById("caplan").href = "http://econlog.econlib.org/authorbcaplan.html";
+ document.getElementById("sumner").href = "http://econlog.econlib.org/authorssumner.html";
+ document.getElementById("dillow").href = "http://stumblingandmumbling.typepad.com/";
+ document.getElementById("hanson").href = "http://overcomingbias.com/";
+ document.getElementById("quiggin").href = "http://johnquiggin.com/";
+ document.getElementById("cowen").href = "http://marginalrevolution.com/";
+ document.getElementById("harford").href = "http://timharford.com/";
+}
+</script>
+
+
+<br />
+<br />
+I am a remarkably unreflective person. I go months at a time without thinking about my past, or the people I once knew. And not because my past's fucked up or anything; just because the present and the far, far future crowd it out. I'm pretty happy with this arrangement.<br />
+<br />
+Recently, though, I've realised some easy things I could have done to be a better writer / scholar / researcher as of 2017. (They are hardly tragedies though, just inefficiencies.)
+
+<br />
+<br />
+<br />
+<big><b>1. Physics</b></big>
+<br />
+<br />
+Picking courses as a 17 year old in a country without tuition fees, I latched on to the most obvious sources of meaning: philosophy, music, literature. But I could have gotten into physics or stats or computer science if I'd applied (I did get in for biology). And these would serve my present purposes much more, because I'm aiming at truth, and these latter are our greatest machineries of truth. <br />
+<br />
+I don't regret my MA. (Though I probably would if I were <a href="http://www.telegraph.co.uk/news/uknews/scottish-independence/10964744/Scottish-tuition-fees-for-English-students-could-be-illegal-under-independence-lawyers-warn.html">English</a>.) Formal philosophical study - that is, seeing what knots and messes the greatest minds in history have tied themselves into, working off no data - has probably saved me from some errors people make when they slip into metaphysics unawares.<br />
+<br />
+And it has probably made me less overconfident that the world can be solved by pure, solitary thought. ("<i>The penalty for not doing philosophy is giving bad philosophical arguments a free pass</i>.") And I have a thick layer of protective scepticism about macroeconomics.<br />
+<br />
+But I would have read philosophy and poetry <i>anyway</i> - I have a great appetite for them, and had it before I got institutional grounding - and so would have gotten much of the inoculation against bad philosophy and the realisation of the relative shallowness of great artists even had I done something harder.
+
+<br />
+<br />
+As it is, I've been scrabbling to piece together an education in scientific modelling ever since graduating, and it has taken <i>ages</i> on my own, and I am quite sure that I did this backwards. (Needless to say, the average 2010 economics curriculum was not scientific enough to count.)<br />
+<br />
+But ooh. "Inoculation against bad philosophy and bad economics": is this is the most positive case I can make for my classes? Yes but never mind classes: the greater part of the value came from having 4 years to straighten out my head, and a hundred wonderful people from over the world to collide with, brighter than anyone I'd known before. But again, I'd probably have found them as a physics boy; it was a small university, and my nature is not so malleable.<br />
+<br />
+The distinctive value of an arts degree - that it draws creative misfitting people, that it's low-intensity enough for you to have many projects and loves without constant stress, that it permanently demystifies the baroque, ridiculous world of high culture - are wonderful, but I think I'd rather know how the world works, on balance.
+
+<br />
+<br />
+<br />
+<br />
+<big><b>2. Code everything</b></big>
+<br />
+<br />
+After my arts degree I switched into software development, a viscerally satisfying career to me. Not just talk, not just interpretation: but fucking <i>building things</i>.<br />
+<br />
+But as well as a fun career, code is an incredible way of expressing thought. You get an <a href="https://en.wikipedia.org/wiki/Oracle_machine">oracle</a>, the compiler, tell you if it could possibly be true.<br />
+<br />
+<blockquote>
+<i>See, coding is a novel way of thinking in general. Yes, it is like maths - but testable, causal, interactive.<br /><br />
+
+A programming language is "how you tell a computer what to do". But before that it's a way to express ideas and get push back from a rational oracle. (It's not reality that's pushing back, of course. You don't know if they're true, but you know if they are clear, if they could even possibly be true, if you are not completely fooling yourself.)<br /><br />
+
+Consider the Bible, or Karl Marx's work, or Sigmund Freud's work. These are rammed full of invalid and unsound ideas - but they are beautiful, unified, and powerful, so they proved persuasive to billions of people. Human language offers no easy test of consistency, no way of really precisely connecting idea to idea. We have had only hard, piecemeal, irreplicable interpretation.<br /><br />
+
+To see what's added by code, here's a thought experiment: Imagine the economic value of a line-by-line description, in English, of <a href="https://github.com/torvalds/linux">the Linux kernel</a>. It would be nothing compared to the billions of dollars of value the kernel has <a href="https://www.linuxfoundation.org/news-media/announcements/2008/10/linux-foundation-publishes-study-estimating-value-linux">created or saved</a>.<br /><br />
+
+The computability of source code is a side effect of its clarity. Code is testable thought. </i>
+</blockquote>
+<br />
+I'm converting my maths notes into Python as a matter of urgency, because standard <a href="https://2.bp.blogspot.com/-spCqLYya2Fk/VsM0nhYIvjI/AAAAAAAAChs/_7gB1kGx29A/s1600/CWo0WURW4AIopoG.png">Mathscript is not good</a>. I don't know why this took 2 years to occur to me; clearly the claws of the arts run deep.<br />
+<br />
+<a href="https://lectures.quantecon.org/py/index.html">This macroeconomics course</a>, in Python and Julia, has crystallised a host of things I only <a href="http://afterallitcouldbeworse.blogspot.co.uk/2017/02/machines-inside.html">mechanically learned</a> before.<br />
+<br />
+In philosophy, it would have let me get into the thriving and objectively progressive research programmes: philosophy of information, logics, cellular automata, and so on. Here are <a href="http://www.gwern.net/Isomorphisms">two</a> <a href="http://www.gwern.net/Against%20The%20Miletians">great</a> examples of coded philosophy, as proof of concept.
+<br />
+<br />
+<br />
+<br />
+<big><b>3. Use the blogospheres.</b></big>
+<br />
+<br />
+I have learned more about economics from reading <a href="https://www.blogger.com/u/1/null" id="hanson">Hanson</a>, <a href="https://www.blogger.com/u/1/null" id="quiggin">Quiggin</a>, <a href="https://www.blogger.com/u/1/null" id="krug">Krugman</a>, <a href="https://www.blogger.com/u/1/null" id="caplan">Caplan</a>, <a href="https://www.blogger.com/u/1/null" id="dillow">Dillow</a>, <a href="https://www.blogger.com/u/1/null" id="fried">Friedman</a>, <a href="https://www.blogger.com/u/1/null" id="delong">deLong</a>, <a href="https://www.blogger.com/u/1/null" id="harford">Harford</a>, <a href="https://www.blogger.com/u/1/null" id="cowen">Cowen</a>, <a href="https://www.blogger.com/u/1/null" id="sumner">Sumner</a>, and <a href="https://www.blogger.com/u/1/null" id="smith">Smith</a>, than I did in two full years' worth of lectures at Aberdeen. Which is strange, because most of them are academics. But, because their readers are from broad backgrounds, the writing is vastly superior to that of papers: clearer, briefer, and more easily evaluated for both rigour and well-foundedness. In 2010 the econ 'sphere wasn't as highly developed as it is now, but was still good enough.<br />
+<br />
+In stats, Andrew Gelman, Uri Simonsohn, and Cosma Shalizi's blogs have taught me what's wrong with science and how to fix it, which I didn't get a jot of in classes.<br />
+<br />
+(Philosophy and maths benefit less from this, because their usual texts are more digestible and more ineliminably systematic, respectively.)<br />
+<br />
+This step wouldn't have improved my grades much, because of teaching-to-the-test.* But it would give me what universities are supposed to give: firm grounding in expert knowledge about things which matter, and the ability to apply it appropriately.<br />
+<br />
+<blockquote>
+* A dark implication: that one <i>could</i> be better-off, in finances but also in knowledge, without uni altogether. (Since they distract you with password learning and rote crap.) We rely on the spiritual and psychological gains of 4 years of relative leisure. And at the micro level, this is a clear good deal.</blockquote>
+<br />
+<br />
+<br />
+<big><b>4. Focus</b></big>
+<br />
+<br />
+Over the past 4 years, out of uni, I've read an average <a href="https://docs.google.com/spreadsheets/d/1qPIKI3TO5MpKtyg9DzsK6TOo6NhjHAHZbv3iS2yxnSo/edit?usp=sharing">102 books a year</a>. They have been about everything, and it has been wonderful. A four-year cruise on about £300.<br />
+<br />
+But I am persuaded that this isn't how you contribute to human knowledge. The absurdities of siloed scholarship - economists and anthropologists and sociologists and psychologists and all talking about the same thing, but wholly ignorant of each others' insights - are large, and can't be fixed except by people who own several hats. But everything else is done by specialists, because the coalfaces of knowledge are very far from common sense, in several different directions, and anyone who tries to reach several of them is likely to end up near where they started.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://2.bp.blogspot.com/-kny6CSZduPU/WLLZE8s39uI/AAAAAAAAC3k/G_hgklIxkRgQoA8c-1zrm64j7YvYVapWACLcB/s1600/contention.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="385" src="https://2.bp.blogspot.com/-kny6CSZduPU/WLLZE8s39uI/AAAAAAAAC3k/G_hgklIxkRgQoA8c-1zrm64j7YvYVapWACLcB/s640/contention.png" width="640" /></a></div>
+One of my resolutions this year is to read fewer than 25 books, but to make them all count. I have a folder, "Spoilers for Reality", with textbooks and serious crap to get through. (In each of those hundred-book years I was supposed to be studying maths, and you can imagine how much I actually did.)
+
+
+<br />
+<br />
+<br />
+<script>
+
+    window.onload = initialize()
+
+</script> -->
