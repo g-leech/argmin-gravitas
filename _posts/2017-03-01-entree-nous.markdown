@@ -37,7 +37,7 @@ categories:	philosophy, epistemology, naturalism, argument
 <center>– <a href="{{dp}}">David Pearce</a></center>
 <br>
 
-The 'epistemic barrier' is a thing between the mind and the external world: the thing that makes it possible to say that <a href="{{rs}}">we do not have any knowledge</a>.<a href="#fn:2" id="fnref:2">2</a> It's not very popular: I count n arguments for why it isn't there. (You can tell they didn't work because there are n of them and not one.)
+The 'epistemic barrier' is a thing between the mind and the external world: the thing that makes it possible to say that <a href="{{rs}}">we do not have any knowledge</a>.<a href="#fn:2" id="fnref:2">2</a> It's not very popular: there are dozens of arguments for why it isn't there. (You can tell they didn't work, because there are dozens of them and not one.)
 <br>
 
 Still, I (and the whole field) learned a lot about epistemology arguing about this stuff, and the thought still tickles me.<a href="#fn:3" id="fnref:3">3</a> So here's what I think Pearce was getting at:
