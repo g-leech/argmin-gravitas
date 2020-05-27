@@ -15,7 +15,7 @@ confidence: Oral history plus semantics plus declaration of intent.
 quality:    5
 importance: 6
 wordcount:  
-categories: longtermism, self-representation, writing
+categories: longtermism, self-representation, writing, lists
 argument:   sites/argument.html
 
 ---
@@ -129,7 +129,7 @@ Think tanks are the usual way to be a full-time intellectual outside academia. B
 * Basbøll, '<a href="{{bas}}">What is blogging?</a>'
 * Gwern, '<a href="{{long}}">Long Content</a>'
 * <a href="{{stock}}">Stock and flow</a> (2010)
-* <a href="{{gard1}}">Digital</a> <a href="{{gard}}">gardens</a>
+* This has something to do with <a href="{{gard1}}">Digital</a> <a href="{{gard}}">gardens</a>, but those are just an intermediate public phase between raw notes and final essays. Alive though.
 * <a href="{{rot}}">Link rot</a>
 
 

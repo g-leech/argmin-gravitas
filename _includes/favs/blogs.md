@@ -138,6 +138,8 @@
 			aelkus.github.io
 			<br>
 			https://stefanfschubert.com/blog
+			<br>
+			https://blog.cerebralab.com/
 		</div>
 	</div>
 </div>
