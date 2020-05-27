@@ -13,7 +13,7 @@ quality: 	5
 
 summary:    Elementary philosophy of mind with one original argument.
 confidence:	75%, but only because conclusion is wholly negative.
-categories: AI, philosophy
+categories: AI, philosophy, argument
 warnings:	
 importance: 6
 wordcount:	1000
