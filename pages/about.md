@@ -10,7 +10,7 @@ visible:	true
 
 
 </div>
-I'm <a href="{{ '/cv.pdf' | prepend: site.url }}">Gavin</a>, a PhD candidate in AI at <a href="{{bris}}">Bristol</a>. <a href="#fn:18" id="fnref:18">18</a> 
+I'm <a href="{{ '/cv.pdf' | prepend: site.url }}">Gavin</a>, a PhD candidate in AI at Bristol. <a href="#fn:18" id="fnref:18">18</a> 
 <a href="/no-philosopher">I</a> <a href="{{sittler}}">like</a> <a href="{{cs}}">technical</a> <a href="{{orseau}}">solutions</a> <a href="{{welf}}">to</a> <a href="{{shminux}}">philosophical</a> <a href="{{comp1}}">problems</a>.<br><br>
 <!--  -->
 Technically <a href="{{ea}}">an EA blog</a>, though I don't consider this a blog. (<a href="/sites">Blogging is more speech than writing</a>.)<br><br>
