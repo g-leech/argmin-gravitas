@@ -224,4 +224,4 @@
 {%	assign alloy = "https://www.ncbi.nlm.nih.gov/pubmed/528910"			%}
 {%	assign beck = "https://en.wikipedia.org/wiki/Beck_Depression_Inventory"		%}
 
-
+{%	assign gig = "https://www.sciencedirect.com/science/article/abs/pii/S0160289620300271"	%}

@@ -26,5 +26,16 @@
 	                    radishGroupN, controlGroupN, True)
         </code>
     </li>
+    <!--  -->
+    <li class="footnote" id="fn:5">
+    	<blockquote>
+    		incompetence, like anosognosia, not only causes poor performance but also the inability to recognize that one's performance is poor.
+    	</blockquote><br>
+    	- original paper
+    </li>
+    <!--  -->
+    <li class="footnote" id="fn:6">
+    	Ignore the magnitudes, this is made up data.
+    </li>
 </ol>
 </div>
