@@ -9,7 +9,7 @@
 			<a href="#fn:6" id="fnref:6">6</a>
 		</center>
 		<br>
-		(Formally "the difference \( \hat{P} - P \) has a negative slope over actual peformance moderator".)
+		(Formally "the difference \( \hat{P} - P \) has a negative slope over actual performance moderator".)
 		<br><br>
 		<!--  -->
 		<span style="font-weight:bold">2)</span> that people <a href="{{sup}}">in general</a> overestimate their own ability \( \hat{P} > P \)
