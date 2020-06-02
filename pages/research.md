@@ -5,7 +5,7 @@ permalink:	/researches/
 visible:	true
 ---
 
-{%	assign goog = ""		%}
+{%	assign goog = "https://scholar.google.com/citations?user=xC-v_aUAAAAJ"		%}
 {%	assign orcid = "https://orcid.org/0000-0002-9298-1488"		%}
 {%	assign bris = "http://www.bristol.ac.uk/engineering/people/gavin-l-leech/overview.html"	%}
 {%	assign covid = "https://www.medrxiv.org/content/10.1101/2020.05.28.20116129v1"		%}
