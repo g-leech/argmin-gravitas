@@ -12,7 +12,7 @@
 		An interminable question among punk fans is when punk started, who counts as the pioneer, who counts as the precursors. 
 		<br><br>
 		<!--  -->
-		Well, the sound of "Year Zero" 1976 <a href="{{zero}}">simply wasn't new</a>: the incompetent garage rockers and (<a href="{{neu}}">a couple of</a>) the 'Kraut' rockers of the late 60s sounded exactly the same as the New Yorkers and Londoners of the late 70s. <a href="{{tv}}">Television</a> (1973-1978) get tagged as both a proto-punk and a post-punk band: simultaneously before and after, influence and pre-emptive successor. <a href="#fn:1" id="fnref:1">1</a>
+		Well, the sound of "Year Zero" 1976 <a href="{{zero}}">simply wasn't new</a>: the incompetent <a href="{{monk}}">garage rockers</a> and <a href="{{neu}}">a couple of</a> the 'Kraut' rockers of the late 60s sounded exactly the same as the New Yorkers and Londoners of the late 70s. <a href="{{tv}}">Television</a> (1973-1978) get tagged as both a proto-punk and a post-punk band: simultaneously before and after, influence and pre-emptive successor. <a href="#fn:1" id="fnref:1">1</a>
 		<br><br>
 		The alliance of pop music and political radicalism wasn't new - consider all the <i>actual</i> social experimentation by the (hated, derided, 'soft') <a href="{{counter}}">hippies</a>. The hippies did <a href="{{carol}}">pirate radio</a> and <a href="{{whole}}">DIY</a> and zines. The hippies <a href="{{stone}}">actually fought</a> the police en masse, not just at gigs. The largest-scale punk practice, the <a href="{{house}}">Punk House</a> or squat is just a tiny wee co-op commune, the sort of thing <a href="{{comm}}">tried for hundreds of years</a>, and the earliest examples are tied to Andy Warhol. <br><br>
 		<!--  -->
