@@ -31,7 +31,7 @@ cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philo
 <!--  -->
     	The relatively small <i>active</i> effort on many questions (at most only a few hundred lifetimes, and more often much less than one) is a good argument for it not being impossible to solve philosophical questions. (Less-likely impossible in proportion to neglect.) Also there's <a href="{{dai}}">the importance of</a> <a href="{{zhu}}">non-perverse philosophy</a> for making a future artificial intelligence; it doesn't need to be right or definite, but it needs to land in a non-insane part of philosophical space.<br><br>
 <!--  -->
-    	I've left the piece up, since many of the individual rebuttals to common bad arguments still hold.
+    	I've left it up, since many of the individual rebuttals to common bad arguments still hold.
 	</div>
 </div>
 
@@ -43,16 +43,16 @@ cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philo
 </blockquote>
 – David Lewis
 
-</center><br>
+</center>
+
+<a name="point"></a>
+<br>
 
 It's simple: The greatest nontechnical minds in history have all failed to work out the nature of the world just by thinking about it, and so would I. 
 
 (Technical minds sometimes manage it, but only with a lot of help from data, plus maths, plus just thinking about it. But that isn't philosophy, <a href="{{nat}}">anymore</a>.)
 
 
-<br>
-
-{%  include nophil/tangents.html     %}
 
 ...
 
@@ -103,6 +103,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	</blockquote>
 <!--  -->
 	(This <a href="{{grace}}">explains why we read so much old/obsolete work</a>: we're learning by demonstration!)
+	</li>
 	<br><br>
 <!--  -->
 	<ul>
@@ -236,8 +237,8 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	Sure, the distribution of philosophical workers is skewed towards the present and future. But from my (amateur) stoop I don't see us converging on any answers despite our historically awesome workforce - just frantically <a href="{{lpu}}">salami-slicing</a> to get something out there in a journal, <a href="{{paps}}">thousands</a>  of times a year. So we are trying to boil the ocean with 100,000 zippo lighters instead of just 1,000. 
 	<br><br>
 	<!--  -->
-	Our sample size isn't very large for some subfields. My favourite research programmes are <a href="{{pop}}">Population ethics</a> and the study of existential risks, normative uncertainty, the <a href="{{fyi}}">philosophy of information</a>  and the <a href="{{digi}}">digital philosophy</a>. The case against newbies like them is obviously a lot weaker. They have taken <i>at most</i> a few hundred philosopher-years to date So suspend judgment: they each get 1000 philosopher-years starting now. <br><br>
-	
+	Our sample size isn't very large for some subfields. My favourite research programmes are <a href="{{pop}}">Population ethics</a> and the study of existential risks, normative uncertainty, the <a href="{{fyi}}">philosophy of information</a>  and the <a href="{{digi}}">digital philosophy</a>. The case against newbies like them is obviously a lot weaker. They have taken <i>at most</i> a few hundred philosopher-years to date So suspend judgment: they each get 1000 philosopher-years starting now. 
+	<br><br>
 	Other reasons philosophers today should be the best:
 <!--  -->
 	<ul><li> Actual constraints on reality from fundamental physics.</li>
@@ -247,12 +248,12 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	</ul><br>
 	(Constraints make it easier to find the truth, but harder to publish arbitrary things.)<br><br>
 	</li>
+	<br>
 <!--  -->
 <!--  -->
 	<li>
 		<h3>philosophy as defence against unavoidable philosophy</h3>
-	<br>
-	Maybe you either do philosophy explicitly, or get pwned by a bad (or anyway unvetted) philosophy. Maybe we need philosophy to undo the damage of bad philosophy, to rid ourselves of philosophical delusions. As Wittgenstein puts it: <br><br>
+		Maybe you either do philosophy explicitly, or get pwned by a bad (or anyway unvetted) philosophy. Maybe we need philosophy to undo the damage of bad philosophy, to rid ourselves of philosophical delusions. As Wittgenstein puts it: <br><br>
 	<blockquote>
 	   What we are destroying is nothing but houses of cards and we are clearing up the ground of language on which they stood.  <br>
 	</blockquote>
@@ -292,13 +293,16 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	</center>
 	<br>
 <!--  -->
-	Isn't this essay a work of (meta)philosophy, and am I not drawing serious, useful inferences from it - "to go do something else"? Well, induction <a href="{{indu}}">tends</a> to be used in science, not philosophy. But I grant you that generalising hastily, like I have, is characteristic of philosophy. 
+		Isn't this essay a work of (meta)philosophy, and am I not drawing serious, useful inferences from it - "to go do something else"?<br><br> 
+		<!--  -->
+		Well, <a href="#point">my original point</a> was an induction from past philosophy to my philosophy career, and induction <a href="{{indu}}">tends</a> to be used in science, not philosophy. But I grant you that generalising hastily, like I have, is characteristic of philosophy. 
 	</li>
 
-</ul> 
-</li></ul>
+</ul>
 
-<br><br>
+
+
+<br>
 
 <hr />
 
@@ -306,17 +310,13 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 
 Since my list of caveats is forty times longer than my original point, obviously I am an amateur philosopher after all. But not first.
 
-
-
 <br><br>
+
    
-_Dedicated to the University of Aberdeen, who in a 6 year period either fired, lost, or pushed out of teaching all but one of the excellent philosophers who taught me_: Gerald, Joe, Bob, Gerry, Guido, Nate, Tony, Catherine, Crispin, Grant, Russell, Aidan, Dylan, Aaron, Filippo, Francesco. 
+_Dedicated to the University of Aberdeen, who in a 6 year period either fired, lost, or pushed out of teaching all but one of the excellent philosophers who taught me_: Gerald, Joe, Bob, Gerry, Guido, Nate, Tony, Catherine, Crispin, Grant, Russell, Aidan, Dylan, Aaron, Filippo, Francesco, Luca. 
 
-<br><br>
-
-## See also
-
-* Tom Sittler, <a href="{{sitt}}">Philosophical Success Stories</a>
+<br>
 
 
+{%  include nophil/tangents.html     %}
 {%  include comments.html %}

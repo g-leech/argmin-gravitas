@@ -56,3 +56,7 @@
 {%		assign euk = "https://eukaryotewritesblog.com/2018/10/09/the-funnel-of-human-experience/"		%}
 {%		assign hue = "https://fakenous.net/?p=1130"		%}
 {%		assign sitt = "https://fragile-credences.github.io/ps/"		%}
+{%		assign diary = "https://www.hedweb.com/diarydav/2008.html"		%}
+{%		assign pig2 = "https://rationallyspeaking.blogspot.com/search/label/progress%20in%20philosophy"	%}
+{%		assign prog = "https://www.lesswrong.com/posts/FwiPfF8Woe5JrzqEu/philosophy-a-diseased-discipline" %}
+{%		assign suspended = "https://www.lesswrong.com/posts/9iA87EfNKnREgdTJN/conceptual-engineering-the-revolution-in-philosophy-you-ve"		%}
