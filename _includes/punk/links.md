@@ -71,5 +71,10 @@
 {%	assign asylum = "https://www.youtube.com/watch?v=4VXQkSRVFRM"		%}
 {%	assign propa = "https://www.youtube.com/watch?v=UMrTw00g8jE" %}
 
-
 {%	assign blender = "https://web.archive.org/web/20071013164408/http://www.blender.com/guide/articles.aspx?ID=2741"		%}
+{%	assign mesc = "https://en.wikipedia.org/wiki/The_Mescaleros"		%}
+{%	assign sit = "https://en.wikipedia.org/wiki/Situationist_International"		%}
+{%	assign monk = "https://en.wikipedia.org/wiki/The_Monks"		%}
+{%	assign corre = "https://consequenceofsound.net/2016/11/joe-corre-son-of-sex-pistols-manager-malcolm-mclaren-burns-7-million-worth-of-punk-artifacts/"	%}
+
+

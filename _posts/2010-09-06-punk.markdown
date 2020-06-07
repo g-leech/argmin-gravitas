@@ -111,6 +111,10 @@ This clunky approach lets us account for the mind-jarring variety of people that
 		<!--  -->
 		There are systematic opposite trends for each of these: e.g. Sid's insincere swastika shirt, punk pop's replacement of social alienation with personal alienation, the punk uniform, the enforced conformity of hardcore or the <a href="{{into}}">ridiculous backlash</a> against Bad Religion's proggy second album.
 	</div>
+	<h3>Situation</h3>
+	<div>
+		A standard theory of punk equates it with <a href="{{sit}}">Situationism</a>, French absurdist Marxism. Despite Malcolm McLaren's initial posturing, and a couple of <a href="{{noise}}">actual</a> proponents, this isn't right: punk is larger than this. Both irony and Marxism are adjacent elements.
+	</div>
 </div>
 <br>
 
@@ -156,13 +160,13 @@ This clunky approach lets us account for the mind-jarring variety of people that
 * _Internationalism_. One reason punk remains so lively is that people listen to foreign bands, and then somehow manage to book them for international tours. This makes the community much larger, more interesting, and more sustainable. Among the few other cultures which pull this off to this degree are metal, Art and football.
 
 
-* _Anti-capitalism_. Common but not as common as you'd think from outside. <a href="{{dick}}">Few</a> <a href="{{gang}}">bands</a> <a href="{{rec}}">really took it on with</a> <a href="{{noise}}">real</a> <a href="{{chum}}">seriousness</a>. Entails guilt about consumerism, disdain for material comforts, opportunistic squatting, freeganism. <a href="#fn:6" id="fnref:6">6</a> <br>
+* _Anti-capitalism_. Common but not as common as you'd think from outside. <a href="{{dick}}">Few</a> <a href="{{gang}}">bands</a> <a href="{{rec}}">really took it on with</a> <a href="{{noise}}">real</a> <a href="{{chum}}">seriousness</a>. Entails guilt about <a href="{{corre}}">consumerism</a>, disdain for material comforts, opportunistic squatting, freeganism. <a href="#fn:6" id="fnref:6">6</a> <br>
 
 * _Rationalism_. Atheism, Skepticism, lip service to the great social theorists. This is the upside of basing your worldview on Noam Chomsky's.
 
 * _Animal rights & environmentalism_. I don't know numbers, but definitely a disproportionate awareness of social justice, ethical and environmental issues, at least where this conforms to the above anti-state, anti-tradition rules. (Entails veganism and BIKEPUNK.)
 
-* _Syncretism_: basically any genre has some band doing the "-punk" version of it. The <a href="{{bad}}">ska-reggae</a>-<a href="{{pil}}">dub-punk</a> <a href="{{rar}}">complex</a> of the early 80s was particularly important. This is the antidote to the purists still listening to dull iterations of exactly the same music forty years on. I think this is yet another factor in punk's longevity.<br>
+* _Syncretism_: basically any genre has some band doing the "-punk" version of it. The <a href="{{bad}}">ska-reggae</a>-<a href="{{pil}}">dub-punk</a> <a href="{{rar}}">complex</a> of the early 80s was particularly important. This is the antidote to the purists still listening to dull iterations of exactly the same music forty years on. I think this is yet another factor in punk's longevity. <a href="#fn:7" id="fnref:7">7</a><br>
 
 
 <br>

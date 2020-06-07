@@ -25,6 +25,10 @@
 	<li class="footnote" id="fn:6">
 		As always, this coexists with <a href="{{nofx}}">commodity fetishism</a>, e.g. <a href="{{vivida}}">$200</a> for a rare anarchist cassette tape.
 	</li>
+	<!--  -->
+	<li class="footnote" id="fn:7">
+		A good example is Joe Strummer, who did punk while it was new, making some of the best punk albums (as opposed to punk songs), but who quickly moved on to dub and <a href="{{mesc}}">reggae and 'world'</a>.
+	</li>
 </ol>
 
 </div>
