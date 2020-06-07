@@ -17,6 +17,7 @@ categories: AI, philosophy, argument
 warnings:	
 importance: 6
 wordcount:	1000
+argument:	turing-searle/argument.md
 ---
 <br>
 

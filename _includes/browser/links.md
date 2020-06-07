@@ -94,3 +94,8 @@
 {% 		assign captivated = "https://theintercept.com/2014/03/12/nsa-plans-infect-millions-computers-malware/"	%}
 {% 		assign dummy = "https://security.stackexchange.com/a/130402"		%}
 {% 		assign beginux = "https://www.pcworld.com/article/2918397/how-to-get-started-with-linux-a-beginners-guide.html"		%}
+{% 		assign restore = "https://restoreprivacy.com/best-vpn/"		%}
+{%	assign vtrack = "https://www.patreon.com/posts/your-phone-is-37672175" %}
+{%	assign vsurv = "https://www.patreon.com/posts/defy-digital-37672170"	%}
+{%	assign vdevices = "https://www.patreon.com/posts/gear-up-digital-37672080"	%}
+{%	assign fsec = "https://www.f-secure.com/v-descs/articles/securing-web-browsers.shtml"	%}

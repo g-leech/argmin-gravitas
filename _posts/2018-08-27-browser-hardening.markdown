@@ -90,7 +90,7 @@ In early 2019, there was splashy media coverage of a <a href="{{pwordman}}">vuln
 
 In many jurisdictions (e.g. <a href="{{ispuk}}">UK</a>) your internet provider is legally required to record some info about your browsing. In others (<a href="{{ispus}}">US</a>) they do it apparently for kicks. They also implement <a href="{{ban}}">court orders</a> banning particular sites. Some content is only licenced for computers in particular locations. _And_ using public wi-fi (airports, coffee shops) is also extremely insecure without extra encryption.
 
-<span style="font-weight:bold">Partial mitigation for all these</span>: a VPN. This is highly imperfect but not as useless <a href="{{sucks}}">as this guy thinks</a>. They at least have some incentive not to log you: no one will use a VPN which is known to log. I use <a href="{{pia}}">PrivateInternetAccess</a>; you can check the technical and legal specs of dozens of VPNs <a href="{{compare}}">here</a>. $30 a year. Do not use free ones.
+<span style="font-weight:bold">Partial mitigation for all these</span>: a VPN. This is highly imperfect but not as useless <a href="{{sucks}}">as this guy thinks</a>. They at least have some incentive not to log you: no one will use a VPN which is known to log. I use <a href="{{pia}}">PrivateInternetAccess</a>; you can check the technical and legal specs of dozens of VPNs <a href="{{compare}}">here</a> or just get good live recommendations <a href="{{restore}}">here</a>. $30 a year. Do not use free ones.
 
 The other problem a VPN solves, and solves optimally, is internet requests sent by non-browser apps on your machine. If you use e.g. Linux's built-in VPN client, everything goes through it.
 
@@ -240,6 +240,11 @@ Note that you're not going to stop any nation-states except <a href="{{paranoia}
 
 
 <br><br>
+
+## See also
+
+* Violet Blue on <a href="{{vtrack}}">resisting tracking</a>, <a href="{{vsurv}}">surveillance</a>, <a href="{{vdevices}}">devices</a>.
+* <a href="{{fsec}}">F-Secure on the whole deal</a>.
 
 {%  include browser/foots.html %}
 
