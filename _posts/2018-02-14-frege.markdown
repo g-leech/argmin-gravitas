@@ -17,6 +17,7 @@ categories: philosophy, maths
 importance: 4
 pride:      5
 wordcount:	3698
+argument: 	frege/argument.md
 ---
 
 
@@ -26,7 +27,7 @@ wordcount:	3698
 
 Let's quickly dress down Frege's <i><a href="{{grundlagen}}">Foundations of Arithmetic</a></i> (1884). Like all discussions of the great work, we include its bane, <a href="{{paradox}}">Russell’s Paradox</a>. 
 
-Logicism is interesting because it marks the exact boundary between philosophy and mathematics, two things which otherwise shade into each other. (Or: which post-C19th analytic philosophy tries to shade into each other.) Even though it fails, and even though the rest of his philosophy is not particularly convincing to me, it's a good-faith and enlightening thing to study. 
+Logicism is interesting because it marks the exact boundary between philosophy and mathematics, two things which otherwise shade into each other. (Or: maths is what post-C19th analytic philosophy tries to shade itself into.) Even though it fails, and even though the rest of his philosophy is not particularly convincing to me, it's a good-faith and enlightening thing to study. 
 
 <a href="{{neo}}">Some people</a> think it's interesting because actually it <i>can</i> be done - and good luck to them.
 
@@ -354,7 +355,7 @@ The relation between Frege’s two constituents of meaning is asymmetric: a give
 
 So co-referentials can have different senses while sharing a referent, because they speak about a different aspect of it. ‘Moliere’ and ‘Jean-Baptiste Poquelin’ differ in sense, and this accounts for sentence (2) being informative. 
 
-As outlined, and by assumption (F), Frege holds that senses are objective and abstract. Frege’s arguments for his Platonism-with-regards-to-content largely overlap with our discussion of psychologism in section I, but here is a further Fregean argument, this time against ideational theories of semantics. Since they conceive of meaning as a correlation with ideas, these theories entail mind-dependence of Senses:
+As outlined, and by assumption (F), Frege holds that senses are objective and abstract. Frege’s arguments for his Platonism-with-regards-to-content largely overlap with our discussion of psychologism in section I, but here is a further Fregean argument, this time against 'ideational' theories of semantics. Since they conceive of meaning as a correlation with ideas, these theories entail mind-dependence of Senses:
 
 <ol>
 	<li>Meaning depends on mental states.</li>
