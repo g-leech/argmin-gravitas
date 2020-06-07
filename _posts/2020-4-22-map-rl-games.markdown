@@ -150,7 +150,10 @@ categories:	RL, game-theory, economics, rosetta-stone
 	<tr>
 		<td>reward design</td>
 		<td>mechanism design</td>
-		<td>?</td>
+		<td>
+			intelligent design 
+			<a href="#fn:4" id="fnref:4">4</a>
+		</td>
 		<td>matching theory?</td>
 	</tr>
 	<tr>
@@ -253,6 +256,10 @@ Reinforcement Learning</a>_ (2000)
 		<blockquote>
 			Compositional optimization can be used to formulate many important machine learning problems, e.g. reinforcement learning (Sutton and Barto, 1998), risk management (Dentcheva et al., 2017), multi-stage stochastic programming (Shapiro et al., 2009), deep neural nets (Yang et al., 2019), etc.
 		</blockquote>
+	</li>
+<!--  -->
+	<li class="footnote" id="fn:4">
+		Damnit Misha!
 	</li>
 </ol>
 

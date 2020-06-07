@@ -114,7 +114,7 @@ Take Hanson himself: he has about 100 academic publications, two big books, and 
 
 Maybe tenured academics are the people best placed to do long content: lots of time, lots of connections, some pressure towards rigour and communicability. But you should be able to do it outside uni, if you're wary.
 
-Think tanks are the usual way to be a full-time intellectual outside academia. But there are innovations that could enable group reinforcement and dialectic on a wider scale, for the many great part-timers: <a href="https://thewinnower.com/">The Winnower</a>; <a href="https://www.interintellect.com/">The II</a>. Preprint servers and post-publication review.
+Think tanks are the usual way to be a full-time intellectual outside academia. But there are innovations that could enable group reinforcement and dialectic on a wider scale, for the many great part-timers: <a href="{{one}}">Researchers.one</a> is the fullest version so far. Also <a href="https://thewinnower.com/">The Winnower</a>; <a href="https://www.interintellect.com/">The II</a>. Preprint servers and post-publication review.
 
 <br>
 

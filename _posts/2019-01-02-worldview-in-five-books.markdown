@@ -138,7 +138,9 @@ as of early 2019:<br><br>
 
 <div class="row">
   <div class="imgColumn">
-	<img src="/img/fivebooks/borges.jpg" alt="Ficciones" style="" hspace="20" />
+    <a href="/ficciones">
+	   <img src="/img/fivebooks/borges.jpg" alt="Ficciones" style="" hspace="20" />
+    </a>
   </div>
   <div class="column">
   	<span style="font-weight: bold">

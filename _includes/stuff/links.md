@@ -45,3 +45,5 @@
 {%	assign storry = "https://www.philipstorry.net/review/things-i-use-2020"		%}
 {%	assign rosie = "https://rosie.camp/2019/11/18/stuff-i-recommend-you-buy-and-use/"		%}
 {%	assign lw2 = "https://www.lesswrong.com/posts/22SuXhyWAqPMTsBPk/what-are-objects-that-have-made-your-life-better"	%}
+
+{%	assign ap = "https://www.nature.com/articles/s41405-019-0026-8"		%}

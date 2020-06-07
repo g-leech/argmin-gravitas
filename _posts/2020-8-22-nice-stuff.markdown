@@ -52,6 +52,10 @@ _Expected lifespan_: 2 years?
 * Anyone can book a <a href="https://www.boots.com/vaccinations/flujab">winter flu jab</a> for about £10. IIRC, in expectation this should save you about 12h of misery / lost work.<br>
 _Expected lifespan_: 1 year
 
+* Either stannous fluoride (£3 for 2 months) or <a href="{{ap}}">hydroxyapatite toothpaste</a> (£3 for 2 months). (The normal kind of toothpaste has the less effective sodium fluoride.) I haven't seen one with both, so might be good to alternate.
+<!-- https://www.amazon.co.uk/SPLAT-Ultracomplex-Toothpaste-100-ml/dp/B00BWU7NZC/ref=sr_1_5 -->
+_Expected lifespan_: 2 months.
+
 * Blood tests are cheap now! (£30 or so.) Even if you don't feel bad, there's very little reason not to check, say every two years. Vitamin D and iron are a good start; "subclinical" deficiencies of them are common. I found I had slightly low ferritin, and this was such a cheap thing to fix. <a href="{{thriv}}">This service</a> signs you up to a biannual subscription, but you can just cancel after the first one.<br>
 _Expected lifespan_: 2 years
 
