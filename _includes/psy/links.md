@@ -225,3 +225,5 @@
 {%	assign beck = "https://en.wikipedia.org/wiki/Beck_Depression_Inventory"		%}
 
 {%	assign gig = "https://www.sciencedirect.com/science/article/abs/pii/S0160289620300271"	%}
+{%	assign mullis = "https://en.wikipedia.org/wiki/Kary_Mullis"		%}
+{%	assign marg = "https://en.wikipedia.org/wiki/Lynn_Margulis#Controversies"		%}

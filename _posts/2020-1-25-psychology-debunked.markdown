@@ -118,6 +118,11 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 
 ## Psychophysiology
 
+<!-- https://psyarxiv.com/49hfg -->
+<!-- https://journals.sagepub.com/doi/abs/10.1177/0146167219880191?journalCode=pspc -->
+<!-- https://nymag.com/intelligencer/2018/07/how-social-science-might-be-misunderstanding-conservatives.html -->
+<!-- https://www.nature.com/articles/s41562-020-0823-z -->
+
 * <a href="{{phys}}">At most very weak evidence</a> that sympathetic nervous system activity <span class="b">predicts political ideology</span> in a simple fashion. In particular, subjects' skin conductance reaction to threatening or disgusting visual prompts - a <a href="{{smith}}">noisy and questionable</a> measure. 
 <div class="accordion">
 	<h3>Stats</h3>

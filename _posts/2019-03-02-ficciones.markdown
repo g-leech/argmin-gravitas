@@ -46,8 +46,11 @@ I am often not sure of the significance of Borges' sentences. But for once the c
 
 <br>
 <br>
+<a name="babel"></a>
 
 ### "The Library of Babel"
+
+
 
 A banal idea: "language is composite". Characters go into words into sentences into works into worldviews. Here Borges stretches this fact until you see horror in it, the <a href="http://www.singularitysymposium.com/exponential-growth.html">shock</a> of exponentiation on the tiny scale of a human life. 
 
