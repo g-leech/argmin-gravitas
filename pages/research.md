@@ -54,6 +54,8 @@ visible:	true
 
 ## Conference
 
+* Legally Grounded Fairness Objectives (2020)
+
 <br>
 
 ## Preprint

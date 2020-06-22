@@ -9,5 +9,6 @@
 	My favourite aphorists are Nietzsche, Pessoa, Cioran, Gide, Perlis, Gwern. My favourite young dead are Frank Ramsey, D Boon, Aaron Swartz, Niels Abel. My favourite terrible human beings are Taleb, Larkin, Wittgenstein.<br><br>
 	<!--  -->
 	My favourite critics: <a href="{{mead}}">Jonathan Meades</a>, Simon Reynolds, Dave Hickey, Piero Scaruffi, Geoff Dyer, Clive James, Emily Nussbaum, David Foster Wallace, Pierre Bayard, Chuck Klosterman, John Earls. My favourite novelists are Iris Murdoch, Nabokov, Graham Greene, and the David Foster Wallace nub. My favourite Scottish novelists are James Kelman, Iain Banks, Eric Linklater, and Muriel Spark. My favourite sci-fi authors are Greg Egan, Peter Watts, Ted Chiang, Iain Banks, Alfred Bester, China Mieville, Frederik Pohl, Dan Simmons, Neal Stephenson.<br><br>
+	My favourite Youtubers are Adam Johnston, Bill Wurtz, Amy Walker, Ogmios, Tim Rogers, Dunkey, 
 
 </div>
