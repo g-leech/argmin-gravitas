@@ -24,3 +24,4 @@
 {%	assign asm = "https://bob.cs.sonoma.edu/IntroCompOrg-RPi/sec-asgnop.html" 	%}
 {%	assign auth = "https://www.natureindex.com/news-blog/paper-authorship-goes-hyper#:~:text=The%20average%20number%20of%20authors,in%202016%20had%208%20contributors." 	%}
 {%	assign test = "https://plato.stanford.edu/entries/testimony-episprob/" 	%}
+{%	assign nerst = "https://everythingstudies.com/2018/05/25/decoupling-revisited/"		%}
