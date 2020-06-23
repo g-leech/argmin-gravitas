@@ -85,6 +85,7 @@
 			<a href="http://haquelebac.wordpress.com/">John Emerson</a>.<br><br> 
 			http://grognor.stacky.net/index.php?title=Main_Page		<br>
 			http://www.aaronsw.com/weblog/
+			https://smerity.com/articles/articles.html
 		</div>
 		<!--  -->
 		<h3>We could be friends</h3>
