@@ -32,7 +32,7 @@ categories: research, writing, self-help
 <br><br>
 
 <blockquote>
-	As a researcher, either you won’t understand something and you will feel stupid and like a worm,<br>or you will understand something and think it’s too trivial and hence still feel like a worm. 
+	As a researcher, either you won’t understand something and you will feel stupid and like a worm, or you will understand something and think it’s too trivial and hence still feel like a worm. 
 </blockquote>
 – <a href="{{spj}}">Simon Peyton Jones</a>
 <br><br>
@@ -47,7 +47,7 @@ categories: research, writing, self-help
 </center><br><br>
 
 
-What do you need to do new things? Imagine you're a junior researcher; a scientist; a <a href="{{dry}}">dry-lab</a> scientist; a Machine Learning person. For good and bad reasons you want to publish in <b>D</b>eep <b>L</b>earning, a decade-old bandwagon which continues to <a href="{{gelada}}">steamroll</a> your field. You're rolling in the deep. How do you get to work?
+What do you need, to do new things? Imagine you're a junior researcher; a scientist; a <a href="{{dry}}">dry-lab</a> scientist; a Machine Learning person. For good and bad reasons you want to publish in <b>D</b>eep <b>L</b>earning, a decade-old bandwagon which continues to <a href="{{gelada}}">steamroll</a> your field. You're rolling in the deep. How do you get to work?
 
 A natural answer is to start at the <a href="{{dl}}">beginning</a>: go read the underlying mathematics.
 
@@ -58,17 +58,20 @@ A natural answer is to start at the <a href="{{dl}}">beginning</a>: go read the 
 
 OK, say you go off and do that. You're not happy with your understanding: you can feel the aching gap in your knowledge of say linear algebra - that your looking at all those matrices _<a href="{{yan}}">actively concealed</a>_ something important - but you figure it's enough for now. 
 
-It takes a month or six. Can you do new things now? No: you have to learn how to actually implement things. Brilliant people have built <a href="{{t}}">easy tools</a> for you, so you learn one of those and reimplement some papers.
+It takes a month or six. Can you do new things now? No: you have to learn how to actually implement things. Brilliant people have built <a href="{{t}}">easy tools</a> for you, so you learn one of those and reimplement some big papers.
 
 That takes a month or two. Can you do new things now? No: you need a good idea. Where do you get those? Related Work, I guess. You go read. Later, your mouldering bones are discovered at your desk, with 200 tabs open and the Colab Disconnected modal still burning on your screen.
+
+<br>
 
 With such a burden, how does anyone do new work? Well, by not doing any such thing.
 
 * you have to just start
+* you'll learn it when you need it
 * most research is not done alone
 * most researchers don't remember the low-level stuff, and don't have to
 * you don't have to focus on one thing
-* forcing yourself to work on something has costs
+* forcing yourself to work on something has large costs
 <!-- * Theory, Methods, Computation. Pick one or two. -->
 
 I've been trying to think new things for about 6 years, but I only recently got any good at it. Here are some things that have helped:
@@ -107,11 +110,21 @@ Anyway: I had a very distorted view of how much an average PhD actually knows. J
 
 #### Unlearning education
 
+<center>
+<blockquote>
+	Books should follow science; science should not follow books.
+</blockquote>
+	– Francis Bacon
+</center>
+<br>
+
 I was lucky; by being born in the right time and right place, I got huge amounts of free education. 
 
 I was unlucky; an education was not what I actually needed; education <a href="{{george}}">trains you</a> for the wrong task, in the wrong way. The ability to do research correlates with doing well on tests. But it is probably not well served by the current degree of optimising for tests, reading, and mere recall.
 
 There are multiple mismatches: it focusses your attention on <a href="{{street}}">solved or toy things</a>; it emphasises understanding old things rather than creating new things; it mostly doesn't let you follow your curiosity; it mostly doesn't train you to handle the gross uncertainty of research. (Outside of mathematics, there is no marking scheme - not even peer review, not even awards at conferences. Maybe 10 years later you'll get some sense of whether you actually succeeded.)
+
+_Question first, not books first_. Learning is best and most lasting when in the service of a goal you actually care about: not "better grades", not "impress distant superior", but "I want to build x". When it is part of you.
 
 PhDs are still pretty artificial (they make you work \~alone, on one pre-specified topic which has to look sensible and follow an existing programme, with deadlines, and you're fed ideas), but at least their goal is not a total dead-end.
 
@@ -147,7 +160,7 @@ The average paper now has about <a href="{{auth}}">5 authors</a>. Some of this i
 
 Ideas generate ideas, success generates success.
 
-In Spring, I worked on a <a href="{{covid}}">coronavirus modelling project</a>. In writing it we collected 15 major ideas that we didn't have time for, didn't have data for, which didn't fit into the scope of that paper. One week after submitting it, a subset of that team wrote another paper on the methods used, and included 3 or 4 completely novel ideas and tests and proofs. We could do this 3 or 4 more times without a hint of 'salami slicing', if we could only sustain the energy.
+In Spring, I worked on a <a href="{{covid}}">coronavirus modelling project</a>. In writing it I collected 15 major ideas that we didn't have time for, didn't have data for, which didn't fit into the scope of that paper. One week after submitting it, a subset of that team wrote another paper on the methods used, including 3 or 4 completely novel ideas and tests and proofs. We could do this 3 or 4 more times without a hint of 'salami slicing', bad behaviour. If we could only sustain the energy.
 
 <br>
 
@@ -177,6 +190,21 @@ Aside on
 <br>
 
 One of the perversities of academic life is the absence of slack: spare time for just playing around. I won't go into this here (<a href="/scarcity">see here instead</a>), but here's a nice story. A young mathematician <a href="{{picc}}">recently cracked</a> a notorious problem as a side-project, no deadline, no particular expectation of success, almost an etude.
+
+<br> 
+
+#### Teaching as learning
+
+> You think you know when you can learn, are more sure when you can write, even more when you can teach, but certain when you can program 
+
+<center>
+	— Alan Perlis
+</center>
+<br>
+
+The bureaucracies act as if you can only teach once you are a master. But I often feel that I don't understand anything until I try to explain it to someone else - hence this blog. Yet another unforced error of ordinary education: you're not allowed to learn through teaching until it's over.
+
+"You learn the prerequisite in the next course." And I learn the prerequisite when I am allowed to teach the prerequisite.
 
 
 <!-- In the humanities, it is relatively common to write a 3-year "reading schedule" at the start of your PhD. -->
