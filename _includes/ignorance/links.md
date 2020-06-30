@@ -25,3 +25,6 @@
 {%	assign auth = "https://www.natureindex.com/news-blog/paper-authorship-goes-hyper#:~:text=The%20average%20number%20of%20authors,in%202016%20had%208%20contributors." 	%}
 {%	assign test = "https://plato.stanford.edu/entries/testimony-episprob/" 	%}
 {%	assign nerst = "https://everythingstudies.com/2018/05/25/decoupling-revisited/"		%}
+{%	assign fume = "https://aleph.se/andart2/statistics/scientific-progress-goes-zig-zag/"		%}
+{%	assign haz = "https://concepts.effectivealtruism.org/concepts/information-hazards/"		%}
+{%	assign inoc = "https://medium.com/@ThingMaker/idea-inoculation-inferential-distance-848836a07a5b"	%}

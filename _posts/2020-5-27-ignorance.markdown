@@ -130,6 +130,12 @@ PhDs are still pretty artificial (they make you work \~alone, on one pre-specifi
 
 It's not easy to unlearn tutelage, but at some point in your first few actual projects you might manage it.
 
+
+#### Ideas are cheap
+
+One useful piece of startup culture: "you have to ship". It is _not_ that your perfect idea is ruined by imperfect implementation: your idea is nothing until it exists; all implementations are an improvement over an idea. <a href="#fn:2" id="fnref:2">2</a>
+
+
 <br><br>
 
 ### Mechanisms
@@ -138,7 +144,9 @@ The above is about fixing your head. This bit is about how the vastness of the o
 
 #### Abstraction as testimony
 
-Some abstractions do actually allow you to ignore what's underneath; some boats don't sink that quick. I've been playing with the internals of Pytorch recently. How many people understand the <a href="{{tens}}">Tensor class</a>? A couple hundred probably, for say 100,000 users of it, and who knows? a billion downstream users. In fact, most good software is about shielding you from details: even the statement `a = 1` is <a href="{{asm}}">pretty</a> computationally complicated. The world couldn't work without the glory of <a href="{{test}}">testimony</a> like this.
+{%	assign tcp = "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/"	%}
+
+Some abstractions <a href="{{tcp}}">actually allow you</a> to ignore what's underneath; some boats don't sink that quick. I've been playing with the internals of Pytorch recently. How many people understand the <a href="{{tens}}">Tensor class</a>? A couple hundred probably, for say 100,000 users of it, and who knows? a billion downstream users. In fact, most good software is about shielding you from details: even the statement `a = 1` is <a href="{{asm}}">pretty</a> computationally complicated. The world couldn't work without the glory of <a href="{{test}}">testimony</a> like this.
 
 <!-- The first term is the speed at which a student can absorb already-discovered... knowledge. The second term is the speed at which a master can discover new knowledge. The third term represents the degree to which one must already be on the frontier of knowledge to make new discoveries; at zero, everyone discovers equally regardless of what they already know; at one, one must have mastered every previously-discovered fact before one can discover anything new. The fourth term represents potential for specialization; at one, it is impossible to understand any part without understanding the whole; at zero, it can be subdivided freely. The fifth…” -->
 <!-- https://slatestarcodex.com/2017/11/09/ars-longa-vita-brevis/ -->
@@ -238,7 +246,10 @@ The bureaucracies act as if you can only teach once you are a master. But I ofte
 		<!-- <iframe width="560" height="315" src="{{derr}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 		</iframe> -->
 	</li>
-
+	<!--  -->
+	<li class="footnote" id="fn:2">
+		There are subtleties here, about <a href="{{fume}}">data fumes</a>, <a href="{{haz}}">info hazards</a>, <a href="{{inoc}}">idea inoculation</a>, and poisoning the well. But unless you're working on very strange things these are unlikely to apply.
+	</li>
 </ol>
 
 </div>
