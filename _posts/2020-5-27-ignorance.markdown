@@ -21,6 +21,10 @@ categories: research, writing, self-help
 ---
 
 {%	include ignorance/links.md	%}
+{%	assign chapman = "https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf"	%}
+{%	assign soares = "http://mindingourway.com/stop-trying-to-try-and-try/"		%}
+{%	assign steinhardt = "https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html"		%}
+
 
 <center>
 
@@ -122,7 +126,7 @@ I was lucky; by being born in the right time and right place, I got huge amounts
 
 I was unlucky; an education was not what I actually needed; education <a href="{{george}}">trains you</a> for the wrong task, in the wrong way. The ability to do research correlates with doing well on tests. But it is probably not well served by the current degree of optimising for tests, reading, and mere recall.
 
-There are multiple mismatches: it focusses your attention on <a href="{{street}}">solved or toy things</a>; it emphasises understanding old things rather than creating new things; it mostly doesn't let you follow your curiosity; it mostly doesn't train you to handle the gross uncertainty of research. (Outside of mathematics, there is no marking scheme - not even peer review, not even awards at conferences. Maybe 10 years later you'll get some sense of whether you actually succeeded.)
+There are multiple mismatches: it focusses your attention on <a href="{{street}}">solved or toy things</a>; it emphasises understanding old things rather than creating new things; it expects you to <a href="{{soares}}">do your best</a>, not to solve things; it mostly doesn't let you follow your curiosity; it mostly doesn't train you to handle the gross uncertainty of research. (Outside of mathematics, there is no marking scheme - not even peer review, not even awards at conferences. Maybe 10 years later you'll get some sense of whether you actually succeeded.)
 
 _Question first, not books first_. Learning is best and most lasting when in the service of a goal you actually care about: not "better grades", not "impress distant superior", but "I want to build x". When it is part of you.
 
@@ -130,6 +134,7 @@ PhDs are still pretty artificial (they make you work \~alone, on one pre-specifi
 
 It's not easy to unlearn tutelage, but at some point in your first few actual projects you might manage it.
 
+<br>
 
 #### Ideas are cheap
 
@@ -208,6 +213,15 @@ One of the perversities of academic life is the absence of slack: spare time for
 <center>
 	— Alan Perlis
 </center>
+
+<br>
+
+> Consider the grad student in teaching mode... When the professor asks them questions, they're Expected To Do Their Best; when the undergrad asks them questions, they're just expected to answer. In the first case, they're expected to try; in the second case, they're assumed capable, an assumption that fades into the background.
+
+<center>
+	— Nate Soares
+</center>
+
 <br>
 
 The bureaucracies act as if you can only teach once you are a master. But I often feel that I don't understand anything until I try to explain it to someone else - hence this blog. Yet another unforced error of ordinary education: you're not allowed to learn through teaching until it's over.
@@ -224,12 +238,15 @@ The bureaucracies act as if you can only teach once you are a master. But I ofte
 
 ## See also
 
-* <a href="{{adem}}">Abram Demski</a>, 
 * <a href="{{ldem}}">Laura Deming's rage</a>.
 * <a href="{{might}}">Matt Might's ways to fail</a>
-* <a href="{{spj}}">Peyton Jones, How to Write</a>
+* <a href="{{spj}}">Peyton Jones, 'How to Write'</a>
+* <a href="{{steinhardt}}">Steinhardt, 'Research as a Stochastic Decision Process'</a>
+* <a href="{{adem}}">Abram Demski in the Field</a>, 
 * <a href="{{nerst}}">Nerst, Decoupling</a>
 * <a href="{{scott}}">Alexander, 'Ars longa, vita brevis'</a>
+* <a href="{{chapman}}">Chapman, 'How to do Research at the MIT AI Lab'</a>
+* <a href="{{soares}}">Soares, 'Stop trying to try and try'</a>
 
 <br>
 

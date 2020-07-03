@@ -101,13 +101,13 @@ _Expected lifespan_: 5 years.
 
 ## Travel
 
-* <a href="{{berg}}">Berghaus Freeflow 35+8 backpack</a> (£80). This has a clever mechanism at the back to shrink and grow the volume by 8L, and also a harness to leave a gap between your back and the bag, preventing deathly hike sweats. On extra small mode it fits even stingy Ryanair airline cabin requirements (there's some optical illusion about you wearing your cabin bag on your back, I've never been bothered about it in 43L mode. (If you wear two jumpers and a jacket just for passing through the gate, 35L is two weeks' basics, no cabin bag.) I've had this for 8 years, maybe 100 difficult trips including long haul airports and 1km mountains, and it's fine.<br>
+* <a href="{{berg}}">Berghaus Freeflow 35+8 backpack</a> (£80). This has a clever mechanism at the back to shrink and grow the volume by 25%, and also a harness to leave a gap between your back and the bag, preventing deathly hike sweats. On extra small mode it fits even stingy Ryanair airline cabin requirements (there's some optical illusion about you wearing your cabin bag on your back, I've never been bothered about it in 43L mode. (If you wear two jumpers and a jacket just for passing through the gate, 35L is two weeks' basics, no cabin bag.) I've had this for 8 years, maybe 100 difficult trips including long haul airports and 1km mountains, and it's fine.<br>
 _Expected lifespan_: 'Lifetime guarantee'. (20 years?)
 
 * <a href="{{moto}}">Moto G7 Power</a> (£160). I resisted getting a smartphone for 8 years. I still think it's a huge threat to productivity, and a privacy disaster. But for travelling it is a massive help: boarding passes, Maps, taxis, translation, mobile data. Also allows me to replace my ereader, my GPS, my trips to ATMs, my camera, my printer. Group chats, previously off-limits, have been relatively useful already. The new UK Railcard is app-only too. This has the largest battery life on the market (26h of low-res video playback), and is cheap and good.
 _Expected lifespan_: 4 years.
 
-## Security
+## Services, Security
 
 * <a href="{{kee}}">KeePassX</a> password manager (£0). Works on every platform: Linux, Win, Mac, Android. Probably saves a few minutes a week and a lot of mental overhead. See <a href="/browser">here</a> for why you want this.<br>
 
@@ -120,7 +120,10 @@ _Expected lifespan_: 5 years.
 
 * <a href="{{etf}}">Vanguard ETFs</a>. One of the most surprising facts is that automatic index funds outperform "actively managed" (paying a finance person) ones, after you subtract their fees. Vanguard are the original and are among the lowest fees, about 0.15% of your return. I use a variant of <a href="{{simp}}">the Simplicity Portfolio</a> and rebalance every 6 months. You may be amused to hear that they are "<a href="{{bloom}}">communist</a>". Above, I said that only nicotine has any real risk - but these are a layer of abstraction over the stock market, so obviously be careful.<br>
 
-* Emergency backup bank account. A couple times in the last decade I've been locked out of my account due to a false-positive for fraud, or just lost my bank card. To be able to get to the bank / to work during the day or four this takes to resolve, I have a backup bank card with about £100 on it. You can obviously just stash a little cash in your house. Free, takes maybe one hour including the appointment some UK places make you do.<br>
+* Focusmate (£3 a month). I work from home a lot, and this lets me force myself to have arse in chair by 8:30am. That's worth it alone. One friend thinks it makes him 20% more productive on top of that; I'd say 5%. (Come join me in the EA room!)<br>
+_Expected lifespan_: 1 month.
+
+* Emergency backup bank account (Free). A couple times in the last decade I've been locked out of my account due to a false-positive for fraud, or lost my bank card. To be able to get to the bank / to work during the day (or four) this takes to resolve, I have a backup bank card with about £100 on it. You can also just stash a little cash in your house, but this is more general than that. Free, takes maybe one hour including the appointment some UK places make you do.<br>
 _Expected lifespan_: Forever.
 
 ## Fun
