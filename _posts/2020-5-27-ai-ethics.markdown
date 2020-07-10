@@ -12,7 +12,7 @@ visible:    1
 
 summary:    Two trends among academics looking at impacts of artificial intelligence.
 quality:    6
-categories: AI, ethics
+categories: AI, ethics, longtermism
 importance: 9
 wordcount:  2000
 ---
