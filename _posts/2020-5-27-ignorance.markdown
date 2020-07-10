@@ -24,7 +24,7 @@ categories: research, writing, self-help
 {%	assign chapman = "https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf"	%}
 {%	assign soares = "http://mindingourway.com/stop-trying-to-try-and-try/"		%}
 {%	assign steinhardt = "https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html"		%}
-
+{%	assign holden = "http://theorangeduck.com/page/reproduce-their-results"		%}
 
 <center>
 
@@ -206,6 +206,12 @@ One of the perversities of academic life is the absence of slack: spare time for
 
 <br> 
 
+### you have to have a question
+
+https://acesounderglass.com/2020/06/09/where-to-start-research/
+
+<br>
+
 #### Teaching as learning
 
 > You think you know when you can learn, are more sure when you can write, even more when you can teach, but certain when you can program 
@@ -245,7 +251,8 @@ The bureaucracies act as if you can only teach once you are a master. But I ofte
 * <a href="{{adem}}">Abram Demski in the Field</a>, 
 * <a href="{{nerst}}">Nerst, Decoupling</a>
 * <a href="{{scott}}">Alexander, 'Ars longa, vita brevis'</a>
-* <a href="{{chapman}}">Chapman, 'How to do Research at the MIT AI Lab'</a>
+<!-- * <a href="{{chapman}}">Chapman, 'How to do Research at the MIT AI Lab'</a> -->
+* <a href="{{holden}}">Holden, 'Why Can't I Reproduce Their Results?'</a>
 * <a href="{{soares}}">Soares, 'Stop trying to try and try'</a>
 
 <br>
