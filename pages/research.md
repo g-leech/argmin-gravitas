@@ -55,7 +55,7 @@ visible:	true
 ## Conference
 
 * _<a href="/files/LGFO.pdf" target="_blank">Legally Grounded Fairness Objectives</a>_ (2020)
-* _<a href="/files/COVID_conf_.pdf" target="_blank">The Robustness of Effectiveness Estimates of Nonpharmaceutical Interventions Against COVID-19</a>_ (2020)
+<!-- * _<a href="/files/COVID_conf_.pdf" target="_blank">The Robustness of Effectiveness Estimates of Nonpharmaceutical Interventions Against COVID-19</a>_ (2020) -->
 
 <br>
 
