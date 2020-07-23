@@ -65,6 +65,18 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 
 <br>
 
+## Behavioural economics
+
+<!-- * opt out organs -->
+
+<!-- * https://www.povertyactionlab.org/evaluation/cares-commitment-savings-smoking-cessation-philippines -->
+<!-- terrible intention-to-treat ratio -->
+
+<!-- * Moving the signature box to the top of forms does not decrease dishonest reporting in the rest of the form. -->
+<!-- https://www.pnas.org/content/pnas/117/13/7103.full.pdf -->
+
+<br>
+
 ## Marketing
 
 * <a href="{{wansink}}">Brian Wansink</a> accidentally admitted gross malpractice; fatal errors were found in 50 of his lab's papers. These include flashy results about increased portion size massively reducing satiety.<br><br><br>
@@ -140,7 +152,12 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 
 ## Behavioural genetics
 
-* <a href="{{ssc}}">No good evidence</a> that 5-HTTLPR is strongly linked to depression, insomnia, PTSD, anxiety, and more.<br><br>
+{%	assign intel = "https://pubmed.ncbi.nlm.nih.gov/23012269/"	%}
+{%	assign schizo = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4414705/pdf/nihms653267.pdf"	%}
+{%	assign allofit = "https://www.eurekaselect.com/59624/article"	%}
+
+
+* <a href="{{ssc}}">No good evidence</a> that 5-HTTLPR is strongly linked to depression, insomnia, PTSD, anxiety, and more. See also <a href="{{intel}}">COMT and APOE</a> for intelligence, <a href="{{schizo}}">BDNF</a> for schizophrenia, <a href="{{allofit}}">5-HT2a</a> for everything...<br><br>
 
 * Be very suspicious of any such "candidate gene" finding (post-hoc data mining showing large >1% contributions from a single allele). <a href="{{depres}}">0/18</a> replications in candidate genes for depression. <a href="{{psychiatry}}">73% of candidates</a> failed to replicate in psychiatry in general. <a href="{{jbg}}">One big journal</a> won't publish them anymore without several accompanying replications. <a href="{{gwas}}">A huge GWAS</a>, n=1 million: "_We find no evidence of enrichment for genes previously hypothesized to relate to risk tolerance._"
 
