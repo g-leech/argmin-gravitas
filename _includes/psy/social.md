@@ -58,7 +58,7 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
 </div>
 </div><br>
 <!-- Klein et al., 2014; Rohrer, Pashler, & Harris, 2015; Caruso, Shapira & Landy, 2017 -->
-  
+
 
 
 * <a href="{{zim}}">No good evidence</a> of anything from the <span class="b">Stanford prison 'experiment'</span>. It was not an experiment; 'demand characteristics' and scripting of the abuse; constant experimenter intervention; faked reactions from participants; as Zimbardo concedes, they began with a complete "absence of specific hypotheses".
@@ -77,7 +77,7 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
 
 
 
-* <a href="{{milg}}">No good evidence</a> that 65% of people will inflict pain if ordered to (<span class="b">Milgram</span>). Experiment was riddled with researcher degrees of freedom, implausible agreement between very different treatments, and "_only half of the people who undertook the experiment fully believed it was real and of those, 66% disobeyed the experimenter._" So upper bound around 16% and no strong warrant for that.
+* <a href="{{milg}}">No good evidence</a> that 65% of people will inflict pain if ordered to (<span class="b">Milgram</span>). Experiment was riddled with researcher degrees of freedom, going off-script, implausible agreement between very different treatments, and "_only half of the people who undertook the experiment fully believed it was real and of those, 66% disobeyed the experimenter._" So upper bound around 16% and no strong warrant for that.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -90,6 +90,39 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
 </ul>
 </div>
 </div><br>
+
+{%	assign sciam = "http://patrick-fournier.com/d/cours13-3140.pdf"	%}
+{%	assign sherif = "https://sci-hub.tw/10.1086/222258"	%}
+{%	assign sherif_book = "https://books.google.co.uk/books?hl=en&lr=&id=24TwCQAAQBAJ&oi=fnd&pg=PP1&dq=Group+Conflict+and+Co-operation+&ots=ufwdngs5bi&sig=qxT2o26vEi7KdeJxWNqfSYHdaSM&redir_esc=y#v=onepage&q=Group%20Conflict%20and%20Co-operation&f=false"	%}
+{%	assign book2 = "https://psycnet.apa.org/record/1954-02446-000"	%}
+{%	assign perryagain = "https://www.theguardian.com/science/2018/apr/16/a-real-life-lord-of-the-flies-the-troubling-legacy-of-the-robbers-cave-experiment"	%}
+{%	assign	tav = "https://www.psychologicalscience.org/observer/teaching-contentious-classics/comment-page-1"	%}
+{%	assign billig = "https://www.nature.com/articles/d41586-018-04582-7"	%}
+
+* No good evidence that tribalism arises spontaneously following arbitrary groupings and scarcity, within weeks, and leads to inter-group violence . The "spontaneous" conflict among children at <span class="b">Robbers Cave</span> was orchestrated by experimenters; tiny sample (maybe 70?); an exploratory study taken as inferential; no control group; there were really three experimental groups - that is, the experimenters had full power to set expectations and endorse deviance; results from their two other studies, with negative results, were not reported.
+<div class="accordion">
+	<h3>Stats</h3>
+	<div>
+		<ul>
+			<li><span class="b">Original paper</span>: '<a href="{{sherif}}">Superordinate Goals in the Reduction of Intergroup Conflict</a>', Sherif 1958, n=22; (His books on the studies are more cited: '<a href="{{book2}}">Groups in harmony and tension</a>' (1958) and <a href="{{sherif_book}}">Intergroup Conflict and Co-operation</a>'.) <br>(&#126;7000 total citations including the <a href="{{sciam}}">SciAm puff piece</a>).
+			</li><br>
+			<!--  -->
+			<li><span class="b">Critiques</span>: <a href="{{billig}}">Billig 1976</a> in passing (729 citations), <a href="{{perryagain}}">Perry 2018</a> (citations: 9)
+			</li><br>
+			<!--  -->
+			<li><span class="b">Original effect size</span>: Not that kind of psychology. ("<i>results obtained through observational methods were cross-checked with results obtained through sociometric technique, stereotype ratings of in-groups and outgroups, and through data  obtained by techniques adapted from the laboratory. Unfortunately, these procedures cannot be elaborated here.</i>")
+			</li><br>
+			<!--  -->
+			<li><span class="b">Replication effect size</span>: N/A
+			</li><br>
+			<br>
+			(Set aside the ethics: the total absence of consent - the boys and parents had no idea they were in an experiment - or the plan to set the forest on fire and leave the boys to it.)
+			<br><br>
+			<a href="{{tav}}">Tavris</a> claims that the underlying "realistic conflict theory" is otherwise confirmed. Who knows.
+		</ul>
+	</div>
+</div><br>
+
 
 <!-- * No good evidence for the broken windows theory (Keizer)
 https://sci-hub.tw/10.1177/1368430213502557
