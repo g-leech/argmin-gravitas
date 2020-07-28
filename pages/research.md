@@ -9,6 +9,7 @@ visible:	true
 {%	assign orcid = "https://orcid.org/0000-0002-9298-1488"		%}
 {%	assign bris = "http://www.bristol.ac.uk/engineering/people/gavin-l-leech/overview.html"	%}
 {%	assign covid = "https://www.medrxiv.org/content/10.1101/2020.05.28.20116129v1"		%}
+{%	assign neurips_covid = "https://arxiv.org/abs/2007.13454"	%}
 {%	assign coms = "https://github.com/carlhenrikek/COMS30007/"		%}
 {%	assign xrisk = "https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause"	%}
 {%	assign git = ""		%}
@@ -54,7 +55,6 @@ visible:	true
 
 ## Conference
 
-* _<a href="/files/LGFO.pdf" target="_blank">Legally Grounded Fairness Objectives</a>_ (2020)
 <!-- * _<a href="/files/COVID_conf_.pdf" target="_blank">The Robustness of Effectiveness Estimates of Nonpharmaceutical Interventions Against COVID-19</a>_ (2020) -->
 
 <br>
@@ -62,6 +62,9 @@ visible:	true
 ## Preprint
 
 * _<a href="{{covid}}" target="_blank">The effectiveness & burden of nonpharmaceutical interventions against COVID-19 transmission</a>_ (2020). <a href="#fn:1" id="fnref:1">1</a>
+* _<a href="{{neurips_covid}}" target="_blank">
+On the robustness of effectiveness estimation of nonpharmaceutical interventions against COVID-19 transmission</a>_ (2020).
+<!-- * _<a href="/files/LGFO.pdf" target="_blank">Legally Grounded Fairness Objectives</a>_ (2020) -->
 * _<a href="/files/ILP_vs_DL_v0.9.pdf" target="_blank">Comparing Inductive Logic Programming & Deep Learning</a>_ (2020)
 <!-- * _<a href="/files/" target="_blank">The computational humour of single-word edits</a>_ (2020) -->
 <!-- * _<a href="/files/" target="_blank">Failing to Find Proxies for Population Loneliness</a>_ (2020) -->
@@ -86,7 +89,7 @@ visible:	true
 ## Teaching
 
 * 2019: TA for the fearsome _<a href="{{coms}}">COMS30007: Bayesian Machine Learning</a>_
-* 2020: <a href="{{git}}">Scipy / PyTorch / Pyro</a> bootcamp for incoming PhD students.
+<!-- * 2020: Lead TA for COMS21103: Algorithms 2. -->
 
 
 <!-- <br> -->

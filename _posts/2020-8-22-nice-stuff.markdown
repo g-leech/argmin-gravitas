@@ -185,6 +185,7 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 * <a href="{{lw2}}">Various (2020)</a>
 * <a href="{{rosie}}">Rosie Campbell</a>
 * <a href="{{ben}}">Louis being mean</a>
+* <a href="{{better}}">100 bookish types</a>
 
 
 <br><br>

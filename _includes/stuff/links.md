@@ -47,3 +47,4 @@
 {%	assign lw2 = "https://www.lesswrong.com/posts/22SuXhyWAqPMTsBPk/what-are-objects-that-have-made-your-life-better"	%}
 
 {%	assign ap = "https://www.nature.com/articles/s41405-019-0026-8"		%}
+{%	assign better = "https://betterknown.co.uk/"		%}
