@@ -62,12 +62,13 @@ A natural answer is to start at the <a href="{{dl}}">beginning</a>: go read the 
 
 OK, say you go off and do that. You're not happy with your understanding: you can feel the aching gap in your knowledge of say linear algebra - that your looking at all those matrices _<a href="{{yan}}">actively concealed</a>_ something important - but you figure it's enough for now. 
 
-It takes a month or six. Can you do new things now? No: you have to learn how to actually implement things. Brilliant people have built <a href="{{t}}">easy tools</a> for you, so you learn one of those and reimplement some big papers.
+It takes a month or six. Can you do new things now? No: you have to learn how to actually implement things. Brilliant people have built <a href="{{t}}">easy tools</a> for you, so you learn one of those and reimplement some big papers. This is [harder than it sounds](http://theorangeduck.com/page/reproduce-their-results), and you actually don't manage to reproduce half of the results. You add 3d6 unease and self-doubt.
 
-That takes a month or two. Can you do new things now? No: you need a good idea. Where do you get those? Related Work, I guess. You go read. Later, your mouldering bones are discovered at your desk, with 200 tabs open and the Colab Disconnected modal still burning on your screen.
+That takes a month or two. Can you do new things now? No: you need a good idea. Where do you get those? 'Related Work', I guess. You go read. Later, your mouldering bones are discovered at your desk, with 200 tabs open and the Colab Disconnected modal still burning on your screen.
 
 <br>
 
+So much of the foundations I do not understand, and it would take a lifetime to fully understand them (and by then I'd have forgotten the first bits). 
 With such a burden, how does anyone do new work? Well, by not doing any such thing.
 
 * you have to just start
@@ -78,7 +79,13 @@ With such a burden, how does anyone do new work? Well, by not doing any such thi
 * forcing yourself to work on something has large costs
 <!-- * Theory, Methods, Computation. Pick one or two. -->
 
-I've been trying to think new things for about 6 years, but I only recently got any good at it. Here are some things that have helped:
+<br>
+
+<a href="/img/islandsmol.jpg">
+	<img src="/img/islandsmol.jpg" />
+</a>
+
+Even after we reject foundationalism, the practical problem remains: what to learn, and how? I've been trying to think new things for about 6 years, but only recently got any good at it. Here are some things that may have helped:
 
 <br>
 
