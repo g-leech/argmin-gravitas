@@ -1,0 +1,2 @@
+{%		assign how = "http://www.meghanhowland.com/#Paintings-2012"		%}
+{%		assign saulius = "https://forum.effectivealtruism.org/posts/zdAst6ezi45cChRi6/list-of-ways-in-which-cost-effectiveness-estimates-can-be"		%} 

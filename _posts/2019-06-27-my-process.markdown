@@ -672,3 +672,6 @@ I've bolded the top 10, the ones that help most.
 
 
 {%  include process/critik.html     %}
+
+
+{%  include comments.html   %}

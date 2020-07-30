@@ -26,6 +26,8 @@ How much does it cost to make an intellectual?
 
 There's the usual outlay, which in the UK was about £100,000 [cite].
 
+I got so much education because I was not smart enough to not need so much.
+
 Then there's normal state education. Then there's a degree. Autodidacts are amazing but rare and rarely respected as much as they should be.
 
 <style>
@@ -270,3 +272,6 @@ One of my resolutions this year is to read fewer than 25 books, but to make them
     window.onload = initialize()
 
 </script> -->
+
+
+http://colah.github.io/posts/2020-05-University/
