@@ -14,7 +14,7 @@ summary:    Results of trying things out on myself.
 categories: 
 confidence: 60%
 importance: 8 to me, 3 to you
-wordcount:      
+wordcount:  
 ---
 
 factorial analysis of supplements.

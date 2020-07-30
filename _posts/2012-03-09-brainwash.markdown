@@ -40,7 +40,12 @@ Never ascribe to laziness that which can be explained by people knowing their ow
 
 First-order model of psychology
 
-Porn, violent videogames, electoral interference.
+electoral interference.
+- Body image,
+- Violent videogames
+- Porn
+- Advertising
+
 
 The idea that the Russians can spend $0.1m and totally pervert American discourse, but that Michael Bloomberg can spend $700m and die on his feet, vanish without a trace.
 

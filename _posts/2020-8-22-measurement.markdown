@@ -3,14 +3,14 @@ layout:     post
 title:      "Marvellous measures"
 baselink:   /measure
 permalink:  /measure
-date:       2020-05-18
+date:       2020-06-29
 author:     Gavin
 
 img:        /img/planck.jpg
-published:  false
+published:  true
 visible:    1
 
-summary:    Great achievements in bringing the subjective under science.
+summary:    Great achievements in expanding the reach of science.
 quality:    5
 categories: lists, science, quantification
 confidence: DRAFT
@@ -46,16 +46,17 @@ For a very long time, we could only look, only feel. You checked claims against 
 <!-- Scales vs units vs instrumentation -->
 
 
-https://www.gleech.org/metrics
+<!-- https://www.gleech.org/metrics -->
 
-How can you do more than this? You need a way to compare two things in terms of something other than a person. A fixed point, a reference object is handy, so you can resolve disputes and check your instrument. Eventually if you're smart you get a unit; if you're extremely smart you get <a href="{{si}}">a whole system</a> of convertible units, tying almost the whole world together.
+How can you do more than this? You need a way to compare two things in terms of something other than a person. A fixed point, a reference object is handy, so you can resolve disputes and check your instrument. Eventually, if you're smart, you get a unit; if you're extremely smart you get <a href="{{si}}">a whole system</a> of convertible units, tying together almost the whole world.
 
 These moments, these initial quantifications, are an incredible thing: the initiation of a new domain into science; the ability to use the world around us to track and change what's inside us. Here are my favourite occasions on which a subjective, ineffable thing was suddenly partially outside of us, less contestable.
 
-My favourites are when we leap: from the angle of a stick in the sun to the size of the whole planet; from some crappy artefacts in your data to the <a href="{{spec}}">very composition of the sun</a>. (I guess Eratosthenes' doesn't count, since length and geometry were already admitted to be objective, just unknown.)
+We leap from the angle of a stick in the sun to the size of the whole planet; from some crappy artefacts in your data to the <a href="{{spec}}">very composition of the sun</a>. (I guess Eratosthenes' doesn't count, since length and geometry were already admitted to be objective, just unknown.)
 
+When can you use relations between numbers to talk about relations between objects?
 
-There are degrees of quantification: from subjective qualitative, to objective but ordinal, to objective and numeric, to <a href="{{prec}}">precise</a> and numeric. I'm mostly talking about the first shift: from essentially subjective to suddenly not, or anyway less. I also ignore whether something is objective or merely universally intersubjective.
+Quantification is ordinal: you go from the subjective and qualitative, to the objective but ordinal, to the objective and numeric, to the objective and <a href="{{prec}}">precise</a>. I'm mostly talking about the first shift: from essentially subjective to suddenly not. I also ignore whether something is objective or merely universally intersubjective.
 
 {%	include measure/accord.md	%}
 
@@ -178,6 +179,7 @@ https://en.wikipedia.org/wiki/Klein_Sexual_Orientation_Grid
 * The dollar PPP
 https://en.wikipedia.org/wiki/Big_Mac_Index
 https://en.wikipedia.org/wiki/Holmes_and_Rahe_stress_scale
+http://www.overcomingbias.com/2020/06/the-value-of-life.html
 
 ## Anything
 
@@ -223,7 +225,7 @@ Subjective probability
 ## See also
 
 * <a href="{{met}}">Metrology</a>: the science of measure
-* <a href="{{mea}}">Measurement theory</a>: the mathematics of when number relations can be used to express object relations.
+* <a href="{{mea}}">Measurement theory</a>: the mathematics of when number relations can express object relations.
 <br><br>
 <!--  https://books.google.co.uk/books/about/The_Norm_Chronicles.html?id=QGehGTLcEKYC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false
 https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780198523420.001.0001/acprof-9780198523420
