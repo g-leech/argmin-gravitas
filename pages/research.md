@@ -12,6 +12,7 @@ visible:	true
 {%	assign neurips_covid = "https://arxiv.org/abs/2007.13454"	%}
 {%	assign coms = "https://github.com/carlhenrikek/COMS30007/"		%}
 {%	assign xrisk = "https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause"	%}
+{%	assign academic_safety = "https://forum.effectivealtruism.org/posts/8ErtxW7FRPGMtDqJy/the-academic-contribution-to-ai-safety-seems-large"	%}
 {%	assign git = ""		%}
 {%	assign ac = "https://jpswalsh.github.io/academicons/"	%}
 {%	assign prolexa = "https://github.com/g-leech/prolexa" 	%}
@@ -81,7 +82,8 @@ On the robustness of effectiveness estimation of nonpharmaceutical interventions
 ## Popular
 
 * <i><a href="{{xrisk}}" target="_blank">Existential risk as common cause</a></i> (2018)
-<!-- Momentum -->
+* <i><a href="{{academic_safety}}" target="_blank">The academic contribution to AI safety seems large</a></i> (2020)
+
 <!-- *Gelman  -->
 
 <br>
