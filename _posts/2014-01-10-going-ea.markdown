@@ -11,7 +11,7 @@ visible:    1
 published:  false
 
 summary:    On coming to terms with effective altruism.
-confidence: I feel like quite a different person from the one that wrote this.
+confidence: I feel like a different person from the one that wrote this.
 quality:    3
 importance: 9
 wordcount:  
