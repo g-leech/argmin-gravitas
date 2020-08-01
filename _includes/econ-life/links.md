@@ -1,0 +1,24 @@
+{%	assign jkg = "https://en.wikiquote.org/wiki/Lyndon_B._Johnson" 		%} 	
+{%	assign abs = "http://www.smbc-comics.com/?id=2383"	%}
+{%	assign laz = "http://www3.wabash.edu/econexcel/ABCsHOT2007/Lazear.pdf"	%}
+{%	assign perv = "http://en.wikipedia.org/wiki/Perverse_incentive"	%}
+{%	assign gov = "http://en.wikipedia.org/wiki/Government_failure"	%}
+{%	assign prog = "http://www.utilitarian.net/singer/by/1999----02.htm"	%}
+{%	assign clim = "http://www.economist.com/node/21533360"	%}
+{%	assign poll = "http://www.nature.org/greenliving/gogreen/everydayenvironmentalist/harris-poll-on-green-living.xml"	%}
+{%	assign dil = "http://vu-nl.academia.edu/RichardTol/Papers/91625/Post-2012_climate_policy_dilemmas_a_review_of_proposals"	%}
+{%	assign rad = "http://www.hup.harvard.edu/resources/educators/pdf/MARDIS.pdf"	%}
+{%	assign dsge = "http://en.wikipedia.org/wiki/Dynamic_stochastic_general_equilibrium#Controversy"	%}
+{%	assign law = "https://en.wikipedia.org/wiki/Coulomb%27s_law#Limitations"	%}
+{%	assign kant = "http://plato.stanford.edu/entries/kant-moral/"	%}
+{%	assign opec = "http://econlog.econlib.org/archives/2007/07/opec_and_global.html"	%}
+{%	assign dep = "https://www.washingtonexaminer.com/opinion/the-two-things-you-need-to-know-about-economics"	%}
+{%	assign sen = "http://en.wikipedia.org/wiki/Development_as_Freedom"	%}
+{%	assign red = "http://www.economist.com/node/15641802"	%}
+{%	assign pol = "http://www.calvert-henderson.com/energy.htm"	%}
+{%	assign con = "http://marketurbanism.com/2009/03/19/undead-ideas-rent-control/"	%}
+{%	assign char = "http://en.wikipedia.org/wiki/Principle_of_charity"	%}
+{%	assign prac = "http://plato.stanford.edu/entries/practical-reason/"	%}
+{%	assign mal = "http://en.wikipedia.org/wiki/Efficient-market_hypothesis#Late_2000s_financial_crisis"	%}
+{%	assign bs = "http://en.wikipedia.org/wiki/Victorian_morality"	%}
+
