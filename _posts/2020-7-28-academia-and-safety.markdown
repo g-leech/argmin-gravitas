@@ -7,7 +7,7 @@ date:       2020-07-29
 author:     Gavin
 
 img:        /img/nonsense.gif
-published:  false
+published:  true
 visible:    1
 
 summary:    Estimating AI safety work by academics working in adjacent areas.
