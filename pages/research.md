@@ -66,7 +66,7 @@ visible:	true
 * _<a href="{{neurips_covid}}" target="_blank">
 On the robustness of effectiveness estimation of nonpharmaceutical interventions against COVID-19 transmission</a>_ (2020).
 <!-- * _<a href="/files/LGFO.pdf" target="_blank">Legally Grounded Fairness Objectives</a>_ (2020) -->
-* _<a href="/files/ILP_vs_DL_v0.9.pdf" target="_blank">Comparing Inductive Logic Programming & Deep Learning</a>_ (2020)
+<!-- * _<a href="/files/ILP_vs_DL_v0.9.pdf" target="_blank">Comparing Inductive Logic Programming & Deep Learning</a>_ (2020) -->
 <!-- * _<a href="/files/" target="_blank">The computational humour of single-word edits</a>_ (2020) -->
 <!-- * _<a href="/files/" target="_blank">Failing to Find Proxies for Population Loneliness</a>_ (2020) -->
 
