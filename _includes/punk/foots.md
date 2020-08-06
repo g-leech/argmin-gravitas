@@ -3,7 +3,7 @@
 <ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
-		Note that 'Year Zero' is actually originally a Khmer Rouge socialist slogan.
+		Note that 'Year Zero' was a Khmer Rouge socialist slogan.
 	</li>
 	<!--  -->
 	<li class="footnote" id="fn:2">

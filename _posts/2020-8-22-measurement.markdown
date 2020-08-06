@@ -50,6 +50,8 @@ For a very long time, we could only look, only feel. You checked claims against 
 
 How can you do more than this? You need a way to compare two things in terms of something other than a person. A fixed point, a reference object is handy, so you can resolve disputes and check your instrument. Eventually, if you're smart, you get a unit; if you're extremely smart you get <a href="{{si}}">a whole system</a> of convertible units, tying together almost the whole world.
 
+<!-- "the koku, the amount of rice needed to feed one person for one year."" -->
+
 These moments, these initial quantifications, are an incredible thing: the initiation of a new domain into science; the ability to use the world around us to track and change what's inside us. Here are my favourite occasions on which a subjective, ineffable thing was suddenly partially outside of us, less contestable.
 
 We leap from the angle of a stick in the sun to the size of the whole planet; from some crappy artefacts in your data to the <a href="{{spec}}">very composition of the sun</a>. (I guess Eratosthenes' doesn't count, since length and geometry were already admitted to be objective, just unknown.)

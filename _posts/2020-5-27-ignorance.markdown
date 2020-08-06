@@ -109,6 +109,8 @@ _<a href="/ficciones#babel">To live, you have to ignore things</a>._ So bite off
 
 People don't talk enough about what they ignore. One exception: Andrew Gelman, one of the most influential statisticians alive, never bothered with <a href="{{gelm}}">measure theory</a>, the deep generalisation / justification of probability theory.
 
+The raft is our lack of fear at the lack of raft.
+
 <br>
 
 #### Comparing down

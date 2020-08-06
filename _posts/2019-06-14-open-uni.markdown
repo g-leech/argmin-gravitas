@@ -57,7 +57,7 @@ To see if it's good in general, better than my emoting is checking the graduatio
 
 * _Excellent course materials_. These are mailed to you and are also available online. They're high quality and totally self-contained - which is a mixed blessing, since I didn't learn how to handle real maths references text (with their masses of irrelevant results and sadistic 'exercises left for the reader'. I will have to learn this for grad school.
 
-* _Zero entry requirements_. "The university of the second chance": Everybody gets in, and there's a few competence streams to prevent terror/boredom. There's an optional <a href="http://mathschoices.open.ac.uk/mu123">high-school-level</a> course to give you the really basic building blocks.
+* _Zero entry requirements_. "The university of the second chance": Everybody gets in, and there's a few competence streams to prevent terror/boredom. There's an optional <a href="http://mathschoices.open.ac.uk/mu123">high-school-level</a> course to give you the really basic building blocks. For the highly driven, it's an alternative to school without the brakes: a few kids have speed-run it <a href="{{pok}}">by the age of 15</a>.
 
 
 * _Cheap_. OK, so on this I got lucky. 
@@ -94,7 +94,7 @@ To see if it's good in general, better than my emoting is checking the graduatio
 
 * _Not especially prestigious_. The completely unselective start of the pipeline isn't as bad for the degree's signalling as you'd think, because you need to be pretty strong to make it out the end. You basically lose the entire bottom eight  deciles. (<a href="{{firsts}}">One third of graduates in my course</a> get a First, which isn't so easy - takes 85%+ on all final courses.) Anyway it hasn't stopped me getting into a decent grad programme (after doing a bunch of additional side projects).
 
-* _One nonmaths elective_. It's compulsory to take one course outside your major - but luckily the <a href="{{tm}}">Linux / Windows networking</a> one was useful.
+* _One nonmaths elective_. It's compulsory to take one course outside your major - luckily the <a href="{{tm}}">Linux / Windows networking</a> one was useful.
 
 * _Bad philosophy of science_. The stats courses are stubbornly <a href="{{nhst}}">crap-frequentist</a>, and require you to parrot false or misleading statements ("_p > 0.05, therefore..._") to get full marks. (This problem is far from unique to the OU though.)
 
