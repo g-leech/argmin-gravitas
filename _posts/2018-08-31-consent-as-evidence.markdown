@@ -33,7 +33,7 @@ wordcount:	1000
 {%	assign parl = "http://users.ox.ac.uk/~mert2255/talks/parliamentary-model.pdf"		%}
 {%	assign arousal = "https://en.wikipedia.org/wiki/Misattribution_of_arousal"			%}
 {%	assign parf = "https://philpapers.org/archive/PAROAT-4.pdf"			%}
-
+{%	assign benth = "http://transcribe-bentham.ucl.ac.uk/td/JB/014/049/001"		%}
 
 A thought-experiment that shows a problem with naive utilitarianism:
 
@@ -112,6 +112,10 @@ Even if it seems obvious that the physical pain of the dying man outweighs the s
 Let's use the word '_overknowing_' for being confident enough to do something prima facie bad. My claim is that we don't even overknow the _sign_ of another person's valence, without their honest report.
 
 (This might change a bit when welfare biology advances, giving us another source of evidence about the value of a state, but it'll never be countermanded unless we discover some <a href="{{pearce}}">far-out theory</a> that lets us empirically measure the value of a conscious state.)
+
+This is not a post-hoc fix; <a href="{{benth}}">Bentham himself said it</a>:
+
+> Every person is not merely the most proper judge, but the only proper judge of what with reference to himself is pleasure: and so in regard to pain.
 
 <br>
 
