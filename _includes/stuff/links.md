@@ -1,3 +1,5 @@
+{%	assign c2w = "https://www.cyclescheme.co.uk/calculator"		%}
+{%	assign dahon = "https://www.bikefolded.com/dahon-espresso-d24-folding-bike-review/"	%}
 {%	assign green = "https://www.bulkpowders.co.uk/complete-greens.html"		%}
 {%	assign oxy = "https://www.chemist.co.uk/snoreeze-nasal-spray.html?awc=13507_1586603422_5aaf4e77c3108526ab8e4c85bef62f2d&utm_campaign=Direct+Linking&utm_medium=639029&utm_source=AWIN"	%}
 {%	assign fil = "https://www.keyboardco.com/keyboard/filco-convertible-2-tenkeyless-silent-soft-linear-action-uk-iso-keyboard.asp"		%}
