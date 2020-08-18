@@ -121,7 +121,7 @@ One of Banks' protagonists is anti-Culture. The boring version of his critique i
 
 <center>
 	– Banks
-</center>
+</center><br>
 
 Roger Scruton can always be counted upon to piss in the beer: <a href="https://newhumanist.org.uk/articles/2283/gloom-merchant">he believes</a> that ubiquitous wonder and joy is impossible, and would make us <a href="http://www.academia.edu/5695584/_Better_to_be_Socrates_dissatisfied_than_a_pig_satisfied_Against_Mills_argument_for_a_discontinuous_qualitative_distinction_between_pleasures.pdf">swinish</a> idiots, "a kind of postmodern individual" he doesn't want to be seated next to at a dinner party:<br />
 <!--  -->
@@ -129,7 +129,7 @@ Roger Scruton can always be counted upon to piss in the beer: <a href="https://n
 	Everything deep in us depends upon our mortal condition, and while we can solve our problems and live in peace with our neighbours we can do so only through compromise and sacrifice. We are not, and cannot be, the kind of posthuman cyborgs that rejoice in eternal life, if life it is... The soul-less optimism of the transhumanists reminds us that we should be gloomy, since our happiness depends on it.
 </blockquote>
 
-Banks shares this worry to some extent; see (4) below for how his utopians are not really posthuman. "Luckily", the Culture citizens are not in fact free of suffering. For instance, <a href="{{ulver}}">Ulver</a> is incredibly annoying, annoyed, and shallow, and is the personification of Scruton's critique. (Admittedly she is a teenager, but why would we need teenagers?)
+Banks shares this worry to some extent; see (3) below for how his utopians are not really posthuman. "Luckily", the Culture citizens are not in fact free of suffering. For instance, <a href="{{ulver}}">Ulver</a> is incredibly annoying, annoyed, and shallow, and is the personification of Scruton's critique. (Admittedly she is a teenager, but why would we need teenagers?)
 
 Critique (1) is about the sad need for authenticity and agency, not just freedom and fun.
 
@@ -165,7 +165,7 @@ You can view any successful process as an amoral replicator. The real question i
 
 ### 3. Culture humans as insufficiently posthuman
 
-I praised the level of social development in the books. But his humans aren't _radically_ different from us. Critique (1) and (2) only hurt because human nature in the Culture is still recognisable as us.
+I praised the level of social development in the books. But his humans aren't _radically_ different from us. Critique (1) and (2) only hurt because human nature in the Culture is still recognisable as our nature.
 
 Culture citizens tend to not want to live more than 400 years for some reason. (Sheer deepity: "_death is regarded as part of life, and nothing, including the universe, lasts forever. It is seen as bad manners to try and pretend that death is somehow not natural; instead death is seen as giving shape to life._") I don't expect this to be true.
 
@@ -183,15 +183,15 @@ Some of them still have conservative ideas of meaning. "_The Culture's sole just
 
 The tech is mostly stagnant, apparently because of physical limits.
 
-To some extent the above legacies could be Banks leaning on existing human traits in order to write good relatable fiction, rather than his own philosophy. But he 
+To some extent the above legacies could be Banks leaning on existing human traits in order to write good relatable fiction, rather than his own philosophy. But not wholly or mostly. 
 
 <br>
 
 ### 4. The Culture as partial misalignment?
 
-AI alignment is the process of making sure that your systems act for the benefit of living things, even when the systems are much more powerful than humanity. In Banks' books, there's some evidence that the reverse has happened, of aligning humans to Minds.
+AI alignment is the process of making sure that your systems act for the benefit of people, even when the systems are much more powerful than humanity. In Banks' books, there's some evidence that the reverse has happened, of aligning humans to Minds.
 
-There is a weird absence of resentment and power-seeking among the posthumans. As we know them, humans constantly chafe under government; the lighter the oppression, <a href="{{moyn}}">the more obvious</a> the chafing. Only a small number of humans need to be needed, are driven to lead and orchestrate large moral projects. We don't see any <a href="{{thatch}}">doomed human coups</a>, for instance.
+There is a weird absence of resentment and power-seeking among the posthumans. As we know them, humans constantly chafe under government; the lighter the oppression, <a href="{{moyn}}">the more obvious</a> the chafing. Only a small number of humans are driven to lead and orchestrate large moral projects. And we see almost no unilateral human folly: we don't see any <a href="{{thatch}}">doomed human coups</a>, for instance.
 
 The example I've spotted is <a href="{{marain}}">the Culture language</a> being engineered to produce certain philosophies in its speakers. (Sapir-Whorf is false for natural language, but who knows what can be done when you have control over both the processor and the instructions?) Maybe by the 8th millennium they've already done all they need to; maybe they are beyond man-machine politics because the humans were subtly shaped until there were no more tensions that needed politics.
 
@@ -282,7 +282,7 @@ The ship training process is imperfect, and there are still <a href="{{ult}}">sc
 
 ## Misc
 
-* Subliming is a really, really bad plot device. To stop recursive self-improvement and first-mover advantage from making his galaxy boring, Banks has all of the really powerful civs voluntarily dematerialise for mysterious spiritual reasons. Even in a soft world (with e.g. basically no energy constraints), this breaks fictional belief. Maybe he had plans to make it less bad which he didn't get around; maybe tying it to the extra-dimensional beings of _Excession_.
+* Subliming is a really, really bad plot device. To stop recursive self-improvement and first-mover advantage from making his galaxy boring, Banks has all of the really powerful civs voluntarily dematerialise for mysterious spiritual reasons. Even in a soft world (with e.g. basically no energy constraints), this breaks fictional belief. Maybe he had plans to make it less bad which he didn't get around to; maybe it would have tied it to the extra-dimensional beings of _Excession_.
 
 * The Minds are not improving much; <a href="{{itg}}">ancient ones</a> orchestrate many of the grand successful space operas. This is odd.
 
@@ -292,7 +292,7 @@ The ship training process is imperfect, and there are still <a href="{{ult}}">sc
 
 * The Culture are against terraforming - an odd apparent bit of bioconservative ideology. But this seems to be mostly a matter of efficiency: <a href="{{hab}}">artificial habitats are much more efficient</a>.
 
-* There are no religions in the Culture, not even relatively rational ones like simulationism (shown in a different Banks book) or panpsychism or deism. With so much free time, alongside sports, art, and philosophy, I expect humans to get into unprecedently.
+* There are no religions in the Culture, not even relatively rational ones like simulationism (shown in a different Banks book) or panpsychism or deism. With so much free time, alongside sports, art, and philosophy, I expect humans to get into unprecedently odd metaphysics.
 
 * They have brain uploads, but they're mostly just in storage and are greatly outnumbered by embodied people.
 

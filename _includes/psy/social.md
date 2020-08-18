@@ -76,17 +76,17 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
 </div><br>
 
 
-
-* <a href="{{milg}}">No good evidence</a> that 65% of people will inflict pain if ordered to (<span class="b">Milgram</span>). Experiment was riddled with researcher degrees of freedom, going off-script, implausible agreement between very different treatments, and "_only half of the people who undertook the experiment fully believed it was real and of those, 66% disobeyed the experimenter._" So upper bound around 16% and no strong warrant for that.
+ 
+* <a href="{{milg}}">No good evidence</a> from the famous <span class="b">Milgram</span> experiments that 65% of people will inflict pain if ordered to. Experiment was riddled with researcher degrees of freedom, going off-script, implausible agreement between very different treatments, and "_only half of the people who undertook the experiment fully believed it was real and of those, 66% disobeyed the experimenter._" 
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
 		<ul>
-	<li><span class="b">Original paper</span>: <a href="{{milg}}">Behavioral Study of obedience</a>, Milgram 1963. n=40 <br>(&#126;6600 citations).</li><br>
+	<li><span class="b">Original paper</span>: <a href="{{milg}}">Behavioral Study of obedience</a>, Milgram 1963. n=40 <br>(&#126;6600 citations). (The full range of conditions was <a href="{{metamil}}">n=740</a>.)</li><br>
 	<li><span class="b">Critiques</span>: <a href="{{burger}}">Burger 2011</a>, <a href="{{perry}}">Perry 2012</a>, <a href="{{brann}}">Brannigan 2013</a>; <a href="{{griggs}}">Griggs 2016</a><br>
-	(total citations: &#126;240)</li><br>
+	(total citations: &#126;240). Burger (n=70) actually finds similar levels of compliance to Milgram, but the level didn't scale with the strength of the experimenter prods (see Table 5: the only order among the prompts led to universal disobedience), so whatever was going on, it's not obedience.</li><br>
 	<li><span class="b">Original effect size</span>:  65% of subjects said to administer maximum, dangerous voltage. </li><br>
-	<li><span class="b">Replication effect size</span>: N/A</li><br>
+	<li><span class="b">Replication effect size</span>: <a href="{{blass}}">A series of follow-up studies</a> found average compliance of 63%, but suffer from the usual publication bias and tiny samples. The most you can say is that there's weak evidence for compliance, rather than obedience. ("Milgram's interpretation of his findings has been largely rejected.")</li><br>
 </ul>
 </div>
 </div><br>

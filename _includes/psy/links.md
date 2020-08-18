@@ -227,3 +227,6 @@
 {%	assign gig = "https://www.sciencedirect.com/science/article/abs/pii/S0160289620300271"	%}
 {%	assign mullis = "https://en.wikipedia.org/wiki/Kary_Mullis"		%}
 {%	assign marg = "https://en.wikipedia.org/wiki/Lynn_Margulis#Controversies"		%}
+
+{%	assign metamil = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3976349/"		%}
+{%	assign blass = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.7724&rep=rep1&type=pdf"	%}
