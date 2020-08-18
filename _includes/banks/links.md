@@ -1,0 +1,34 @@
+{%	assign penc = "https://fee.org/resources/i-pencil-audio-pdf-and-html"	%}
+{%	assign ssc = "https://slatestarcodex.com/2017/06/21/against-murderism/"		%}
+{%	assign alpha = "https://memory-alpha.fandom.com/wiki/Prime_Directive#Examples"	%}
+{%	assign moyn = "https://www.goodreads.com/quotes/446828-the-amount-of-violations-of-human-rights-in-a-country"	%}
+
+{%	assign gun = "https://en.wikipedia.org/wiki/Gunboat_diplomacy"		%}
+{%	assign ken = "https://www.newstatesman.com/books/2009/09/livingstone-interview-culture"		%}
+{%	assign yud = "https://www.lesswrong.com/posts/vwnSPgwtmLjvTK2Wa/amputation-of-destiny"		%}
+{%	assign heath = "https://www.sciphijournal.org/index.php/2017/11/12/why-the-culture-wins-an-appreciation-of-iain-m-banks/"		%}
+{%	assign sandifer = "http://www.eruditorumpress.com/blog/cultural-marxism-1-consider-phlebas/"		%}
+{%	assign jac = "https://www.thenewatlantis.com/publications/the-ambiguous-utopia-of-iain-m-banks
+"		%}
+{%	assign irreal = "https://www.reenigne.org/blog/the-land-of-infinite-fun/"		%}
+{%	assign sf = "https://www.tor.com/2014/06/24/iain-m-banks-culture-spits-in-the-eye-of-nihilism-2/"		%}
+{%	assign ex = "https://en.wikipedia.org/wiki/Excession"		%}
+{%	assign neo = "https://en.wikipedia.org/wiki/Neocolonialism"		%}
+{%	assign soares = "http://mindingourway.com/you-dont-get-t/"		%}
+{%	assign itg = "https://theculture.fandom.com/wiki/Interesting_Times_Gang"		%}
+{%	assign design = "https://hplusmagazine.com/2015/09/02/the-space-of-mind-designs-and-the-human-mental-model/"		%}
+{%	assign hab = "https://phys.org/news/2017-03-future-space-colonization-terraforming-habitats.html"		%}
+{%	assign paradox = "https://en.wikipedia.org/wiki/Paradox_of_tolerance"		%}
+{%	assign ass = "https://en.wikipedia.org/wiki/Cultural_assimilation"		%}
+{%	assign swarm = "https://en.wikipedia.org/wiki/Self-replicating_spacecraft"		%}
+{%	assign watts = "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)"		%}
+{%	assign notes = "http://www.vavatch.co.uk/books/banks/cultnote.htm"		%}
+{%	assign zak = "https://en.wikipedia.org/wiki/Use_of_Weapons"		%}
+{%	assign ult = "https://theculture.fandom.com/wiki/Ulterior"		%}
+{%	assign ulver = "https://the-culture-universe.fandom.com/wiki/Ulver_Seich"		%}
+{%	assign marain = "https://en.wikipedia.org/wiki/The_Culture#Language"		%}
+{%	assign thatch = "https://en.wikipedia.org/wiki/Mark_Thatcher#2004_Equatorial_Guinea_coup_d'%C3%A9tat_attempt"		%}
+{%	assign horz = "https://annex.fandom.com/wiki/GSV_Bora_Horza_Gobuchul"		%}
+{%	assign soc = "https://blogs.scientificamerican.com/observations/when-science-fiction-meets-social-science/"		%}
+{%	assign em = "https://ageofem.com/"		%}
+{%	assign eval = "https://philpapers.org/rec/LAIWI"		%}
