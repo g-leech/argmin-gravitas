@@ -46,13 +46,13 @@ BANKS: If we're lucky.
 
 <br>
 
-The two worst omissions from sci-fi are social development and software development. Banks covers the first so memorably, so thrillingly, that the series is a permanent touchstone for me, even though each individual book is actually not that strong. The Culture is actually different from us - even though underneath their society revs our great alien machine, liberalism unbound.
+The two worst omissions from sci-fi are social development and software development. In his <a href="{{cult}}">_Culture_</a> series Banks covers the first so memorably, so thrillingly, that the series is a permanent touchstone for me, even though each individual book is actually not that strong. The Culture is actually different from us - even though underneath their society revs our great alien machine, liberalism unbound.
 
 <!-- Banks was always quite open about how didactic his sci-fi was; it is saved by his inventiveness and psychological realism amidst technological fantasy. -->
 
 Ada Palmer calls it "<a href="{{soc}}">social science fiction</a>", focussing on soft technology and cultural progress rather than rigorous physics and cool gadgets. <a href="{{penc}}">A pencil is technology</a>. But so is liberalism, in some sense. <a href="{{notes}}">Banks was a determinist</a>, and so denied the dichotomy: the technology creates the society. "Space minus scarcity implies anarchism."
 
-How can anarchism be stable, though? Banks doesn't say it is: instead it's metastable. If your society is a matter of degree, if its only hard tenet is "do what you like if it doesn't hurt anyone", and if you don't need specialisation of labour, you can get away without centralisation.
+How can anarchism be stable, though? Banks doesn't say it is: instead it's metastable. If your society is a matter of degree, if its only hard tenet is "do what you like if it doesn't hurt anyone", and if you don't need specialisation of labour, you can get away with decentralisation.
 
 Almost all of the books center on Special Circumstances, the tiny military intelligence branch of the Culture. They are the least typical members of the Culture, often officially not members. They are central because their lives lend themselves to exciting fiction and because the tensions of the culture are most obvious there (see Critiques below).
 
@@ -72,6 +72,7 @@ No machine is exploited, either; the idea here being that any job can be automat
 * Post-disease.
 * Post-death.
 * Post-gender, post-race.
+* No admin.
 * Sustainable bliss. Fun recognised as the deep moral value it is.
 * Full morphological freedom
 * Ability to estimate consciousness and value and so promote it.
@@ -111,7 +112,7 @@ The humans are not the protagonists. Even when the books seem to have a human pr
 
 The projects the humans take on risk inauthenticity. Almost anything they do, a machine could do better. What can you do? You can order the Mind to not catch you if you fall from the cliff you're climbing-just-because; you can delete the backups of your mind so that you are actually risking. You can also just leave the Culture and rejoin some old-fashioned, unfree "<a href="{{eval}}">strongly evaluative</a>" civ. The alternative is to evangelise freedom by joining Contact.
 
-One of Banks' protagonists is anti-Culture. The boring version of his critique is that he dislikes machines ruling humans - their enemies are on the side of life - "boring, old-fashioned, biological life".  But the real point is that the Culture's all very well for the actively questing, protagonist Minds, but terrible for its lesser subjects, because nothing in their life is truly serious, counterfactual, functional. Horza thinks you need struggle, ultimate meaning, grand narrative. He sides with the Idirans because "at least it's an ethos". (As always, the Culture partially assimilates this critique: one of them <a href="{{horz}}">names itself</a> after it.)
+One of Banks' protagonists is anti-Culture. The boring version of his critique is that he dislikes machines ruling humans - their enemies are on the side of life - "boring, old-fashioned, biological life".  But the real point is that the Culture's all very well for the actively questing, protagonist Minds, but terrible for its lesser subjects, because nothing in their life is truly serious, counterfactual, functional. Horza thinks you need struggle, ultimate meaning, grand narrative. He sides with the Idirans because at least it's an ethos. (As always, the Culture partially assimilates this critique: one of them <a href="{{horz}}">names itself</a> after it.)
 
 <br>
 
@@ -123,7 +124,7 @@ One of Banks' protagonists is anti-Culture. The boring version of his critique i
 	– Banks
 </center><br>
 
-Roger Scruton can always be counted upon to piss in the beer: <a href="https://newhumanist.org.uk/articles/2283/gloom-merchant">he believes</a> that ubiquitous wonder and joy is impossible, and would make us <a href="http://www.academia.edu/5695584/_Better_to_be_Socrates_dissatisfied_than_a_pig_satisfied_Against_Mills_argument_for_a_discontinuous_qualitative_distinction_between_pleasures.pdf">swinish</a> idiots, "a kind of postmodern individual" he doesn't want to be seated next to at a dinner party:<br />
+Roger Scruton can always be counted upon to piss in the beer: <a href="https://newhumanist.org.uk/articles/2283/gloom-merchant">he believes</a> that ubiquitous wonder and joy is impossible, or would make us <a href="http://www.academia.edu/5695584/_Better_to_be_Socrates_dissatisfied_than_a_pig_satisfied_Against_Mills_argument_for_a_discontinuous_qualitative_distinction_between_pleasures.pdf">swinish</a> idiots, "a kind of postmodern individual" he doesn't want to be seated next to at a dinner party:<br />
 <!--  -->
 <blockquote>
 	Everything deep in us depends upon our mortal condition, and while we can solve our problems and live in peace with our neighbours we can do so only through compromise and sacrifice. We are not, and cannot be, the kind of posthuman cyborgs that rejoice in eternal life, if life it is... The soul-less optimism of the transhumanists reminds us that we should be gloomy, since our happiness depends on it.
@@ -141,7 +142,7 @@ Critique (1) is about the sad need for authenticity and agency, not just freedom
 
 > The only desire the Culture could not satisfy from within itself was one common to both the descendants of its original human stock and the machines they had (at however great a remove) brought into being: the urge not to feel useless.  The Culture's sole justification for the relatively unworried, hedonistic life its population enjoyed was its good works; the secular evangelism of the Contact Section... actually interfering (overtly or covertly) in the historical processes of those other cultures.
 
-The very best essay on the Culture is '<a href="{{heath}}">Why the Culture Wins</a>' by Joseph Heath. He notes that if we view the Culture from outside, as a replicator, then of course it needs a moral mission, of course it has to have interventionist compassion as a core value: that's how such a highly moral meme can spread itself. Despite being small and atypical, Contact is the heart of the Culture, its deep justification for itself. This is slightly blunted by the above passage, where it is only nonsuffering and tolerance that they enforce on others.
+The very best essay on the Culture is '<a href="{{heath}}">Why the Culture Wins</a>' by Joseph Heath. He notes that if we view the Culture from outside, as a replicator, then of course it needs a moral mission, of course it has to have interventionist compassion as a core value: that's how such a highly moral meme can spread itself. Despite being small and atypical, Contact is the heart of the Culture, its deep justification for itself.
 
 > what does it mean to say that Contact arranges things so that the “good guys” win? It means that it interferes on the side that shares the same values as the Culture. There is more at stake here than just individual freedom. For instance, with the development of technology, every society eventually has to decide how to recognize machine intelligence, and to decide whether AIs should be granted full legal and moral personhood. The Culture, naturally, has a view on this question, but that’s because the Culture is run by a benevolent technocracy of intelligent machines... This is what gives the Culture its virulence – at a fundamental level, it exists only to reproduce itself. It has no other purpose.
 
@@ -187,7 +188,7 @@ To some extent the above legacies could be Banks leaning on existing human trait
 
 <br>
 
-### 4. The Culture as partial misalignment?
+### 4. The Culture as (partial) reverse alignment?
 
 AI alignment is the process of making sure that your systems act for the benefit of people, even when the systems are much more powerful than humanity. In Banks' books, there's some evidence that the reverse has happened, of aligning humans to Minds.
 
@@ -209,6 +210,8 @@ This critique is not particularly biting, since humans remain awkward and recalc
 For completeness I should mention this, though I think it is misguided at best. The Contact division presume to convert illiberal (e.g. torture porn) civilisations to utilitarianism (mostly via diplomacy and positive incentives rather than through their overwhelming <a href="{{gun}}">gunboats</a>). They also police large parts of known space, preventing as many conflicts as they can. 
 
 There are people who, reacting to the terrible parts of our history of foreign intervention, reject all such intervention. (They sometimes <a href="{{ass}}">prohibit</a> <a href="{{neo}}">even nonviolent intervention</a>.)
+
+This is slightly blunted by the above passage: it's only nonsuffering and tolerance that they enforce on others, rather than hedonism, polymorphism, atheism, anarchism. (OK, they also stomp carbon chauvinism.)
 
 The Prime Directive of _Star Trek_ is a fictional example of this. They're supposed to ignore non-space-faring civilisations, up to and including letting them die in natural cataclysms. However, the writers and the characters reject it all of the time: it's violated in <a href="{{alpha}}">dozens of episodes</a>, generally in a way that strikes me as blatantly the right thing to do. This is because the principle sounds better than it is.
 
@@ -268,7 +271,7 @@ Most of the potential sentient threats to the Culture have "sublimed" (demateria
 
 <center>
 	– Banks
-</center>
+</center><br>
 
 Each Ship is a nation-state. The anarchic collection of mobile states works because there is a strong vetting process for new minds, which prunes away the psychos and megalomaniacs, and provides a bedrock of strong Millian consequentialism in nearly all Minds. (One of the few rogue elements in the series, the _Attitude Adjuster_, is still a good utilitarian with a horror of killing, and is utterly overcome by guilt at the deaths it causes while trying to end a systematic torture culture.)
 

@@ -1,3 +1,4 @@
+{%	assign cult = "https://en.wikipedia.org/wiki/Culture_series"		%}
 {%	assign penc = "https://fee.org/resources/i-pencil-audio-pdf-and-html"	%}
 {%	assign ssc = "https://slatestarcodex.com/2017/06/21/against-murderism/"		%}
 {%	assign alpha = "https://memory-alpha.fandom.com/wiki/Prime_Directive#Examples"	%}
