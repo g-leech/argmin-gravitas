@@ -15,7 +15,12 @@ categories:
 confidence: 60%
 importance: 8 to me, 3 to you
 wordcount:  
+argument:   
 ---
+
+<!-- Writing Checklist -->
+<!-- https://roamresearch.com/#/app/gleech/page/5jHVvVI8w -->
+
 
 You live in a hard sci-fi story.
 

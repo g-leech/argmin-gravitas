@@ -15,6 +15,7 @@ summary:    Some pros and cons, practical and philosophical, of reclaiming medit
 confidence: 70%
 importance: 5
 wordcount:  1500
+argument:	
 ---
 
 {%	include harris/links.md		%}

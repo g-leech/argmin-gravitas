@@ -16,6 +16,7 @@ categories: quantified-self, biology, rationality
 confidence: 70%
 importance: 4
 wordcount:  500
+argument:	
 ---
 
 {%	include pills/links.html		%}

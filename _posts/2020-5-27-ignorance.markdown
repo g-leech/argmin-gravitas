@@ -18,7 +18,11 @@ importance: 7
 wordcount:  1500
 warnings:	Centred on PhD research, which has particular pathologies.
 categories: research, writing, self-help
+argument:   ignorance/argument.html
 ---
+
+<!-- Writing Checklist -->
+<!-- https://roamresearch.com/#/app/gleech/page/5jHVvVI8w -->
 
 {%	include ignorance/links.md	%}
 {%	assign chapman = "https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf"	%}

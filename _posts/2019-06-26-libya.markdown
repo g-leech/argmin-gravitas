@@ -17,6 +17,7 @@ emotion:	8
 summary:    What I learned from the Libyan Civil War.
 warnings:	War, rape, disinformation.
 wordcount:	500
+argument:	
 ---
 
 {%	assign int = "https://en.wikipedia.org/wiki/2011_military_intervention_in_Libya"		%}

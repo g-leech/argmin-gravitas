@@ -18,6 +18,7 @@ emotion: 	8
 warnings: 	biological determinants of mental health
 wordcount:  1500
 categories: review, philosophy, mental-health
+argument:	
 ---
 
 {%	assign mac = "https://sandymaguire.me/blog/no-coffee/"	%}

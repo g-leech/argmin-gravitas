@@ -16,7 +16,11 @@ confidence:
 importance: 
 wordcount:      
 categories: self-help, rationality
+argument:	
 ---
+
+<!-- Writing Checklist -->
+<!-- https://roamresearch.com/#/app/gleech/page/5jHVvVI8w -->
 
 
 	An extremely important idea I haven't seen in my circles:

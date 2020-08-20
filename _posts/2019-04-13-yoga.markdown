@@ -15,6 +15,7 @@ summary:    List of possible reasons yoga feels good.
 confidence: N/A, speculation.
 importance: 4
 wordcount:      500
+argument:	
 ---
 
 {%  include yoga/links.md     %}

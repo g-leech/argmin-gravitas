@@ -16,7 +16,12 @@ categories: lists, science, quantification
 confidence: DRAFT
 importance: 6
 wordcount:  1200
+argument:	
 ---
+
+<!-- Writing Checklist -->
+<!-- https://roamresearch.com/#/app/gleech/page/5jHVvVI8w -->
+
 
 {%	include measure/links.md		%}
 

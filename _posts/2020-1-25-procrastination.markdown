@@ -16,7 +16,12 @@ confidence:
 importance: 
 wordcount:      
 categories: review, self-help
+argument:	
 ---
+
+<!-- Writing Checklist -->
+<!-- https://roamresearch.com/#/app/gleech/page/5jHVvVI8w -->
+
 
 <center>
 	<img src="/img/perry.jpg" width="35%" />

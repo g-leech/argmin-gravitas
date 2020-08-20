@@ -86,7 +86,7 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
 	<li><span class="b">Critiques</span>: <a href="{{burger}}">Burger 2011</a>, <a href="{{perry}}">Perry 2012</a>, <a href="{{brann}}">Brannigan 2013</a>; <a href="{{griggs}}">Griggs 2016</a><br>
 	(total citations: &#126;240). Burger (n=70) actually finds similar levels of compliance to Milgram, but the level didn't scale with the strength of the experimenter prods (see Table 5: the only order among the prompts led to universal disobedience), so whatever was going on, it's not obedience.</li><br>
 	<li><span class="b">Original effect size</span>:  65% of subjects said to administer maximum, dangerous voltage. </li><br>
-	<li><span class="b">Replication effect size</span>: <a href="{{blass}}">A series of follow-up studies</a> found average compliance of 63%, but suffer from the usual publication bias and tiny samples. The most you can say is that there's weak evidence for compliance, rather than obedience. ("Milgram's interpretation of his findings has been largely rejected.")</li><br>
+	<li><span class="b">Replication effect size</span>: <a href="{{blass}}">One selective series of follow-up studies</a> found average compliance of 63%, but suffer from the usual publication bias and tiny samples. (Selection was by Milgram's student.) The most you can say is that there's weak evidence for compliance, rather than obedience. ("Milgram's interpretation of his findings has been largely rejected.")</li><br>
 </ul>
 </div>
 </div><br>
