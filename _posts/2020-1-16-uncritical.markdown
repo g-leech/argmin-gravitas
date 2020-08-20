@@ -17,6 +17,7 @@ confidence: 80%
 importance: 5
 wordcount:      400 
 categories: rationality, uni, social-science
+argument:	
 ---
 
 {%	assign down = "https://dera.ioe.ac.uk/30244/1/Earnings-by-Degrees-REPORT-1.pdf" %}

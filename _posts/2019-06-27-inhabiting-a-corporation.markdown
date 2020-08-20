@@ -17,6 +17,7 @@ confidence: 90%
 
 summary:    Miscellaneous notes on working in tech in eC21st London. 
 wordcount:      
+argument:   
 ---
 
 {%  include js/lazyFrame.html       %}

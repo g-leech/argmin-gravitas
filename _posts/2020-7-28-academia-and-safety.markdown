@@ -17,6 +17,7 @@ confidence: High that there is a notable contribution, low in the particular est
 importance: 9
 wordcount:  3300
 cross:		https://forum.effectivealtruism.org/posts/8ErtxW7FRPGMtDqJy/the-academic-contribution-to-ai-safety-seems-large
+argument:   acais/argument.html
 ---
 
 {%	include acais/links.md		%}

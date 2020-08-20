@@ -15,6 +15,7 @@ summary:    Why is pop science so often misleading?
 confidence: 70%
 importance: 5
 wordcount:  900
+argument:	
 ---
 
 {%	assign bront = "https://en.wikipedia.org/wiki/Bully_for_Brontosaurus"	%}

@@ -18,6 +18,7 @@ importance: 5
 warnings:	Pretty high-context. See <a href="https://drive.google.com/file/d/1UZYBtOJ3QZ7FTI_4eKjVzBSNUqC_Uba3/view">here</a> first.
 wordcount:  
 categories: self-help, rationality
+argument:   selfhelp/argument.html
 ---
 
 I get annoyed when I click a post and find that it's not [a list of things](https://www.lesswrong.com/posts/PX7AdEkpuChKqrNoj/what-are-your-greatest-one-shot-life-improvements) to try, or [a cool tool](https://www.lesswrong.com/posts/Z5wF8mdonsM2AuGgt/negative-feedback-and-simulacra) for reasoning or deciding - but instead high-context talk about inner concerns. But I don't endorse this annoyance, and I try to be less narrow.

@@ -15,6 +15,7 @@ quality:    3
 confidence: 
 importance: 4
 wordcount:      4000 
+argument:	
 ---
 
 People have this naive equivalence between a fantasy and a preference, a voluntary simulation and an increased inclination to 

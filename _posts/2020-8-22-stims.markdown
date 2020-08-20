@@ -16,7 +16,12 @@ confidence:
 importance: 
 wordcount:      
 categories: biochemistry, self-help, quantified-self
+argument:	
 ---
+
+<!-- Writing Checklist -->
+<!-- https://roamresearch.com/#/app/gleech/page/5jHVvVI8w -->
+
 
 <!-- 
 > Here, the praiseworthy gets its rewards;

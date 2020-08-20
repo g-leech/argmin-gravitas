@@ -15,7 +15,12 @@ quality:    5
 confidence: 60%. When I wrote this I didn't really understand science.
 importance: 4
 wordcount:  4000 
+argument:   
 ---
+
+<!-- Writing Checklist -->
+<!-- https://roamresearch.com/#/app/gleech/page/5jHVvVI8w -->
+
 
 Disclaimer:
 

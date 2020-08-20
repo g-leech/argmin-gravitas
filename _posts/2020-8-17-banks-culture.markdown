@@ -16,6 +16,7 @@ emotion:    5
 importance: 9
 wordcount:  
 categories: longtermism, scifi, meaning, suffering, ethics
+argument:   banks/argument.html
 ---
 
 {%	include banks/links.md	%}
