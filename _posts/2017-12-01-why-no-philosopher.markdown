@@ -317,6 +317,11 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 
 <br>
 
+## See also
+
+{%	assign schw = "https://schwitzsplinters.blogspot.com/2020/08/philosophy-that-closes-vs-philosophy.html"	%}
+
+* <a href="{{schw}}">Schwitzgebel on philosophy that opens</a>
 
 {%  include nophil/tangents.html     %}
 {%  include comments.html %}

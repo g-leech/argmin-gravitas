@@ -1,0 +1,25 @@
+{%	assign spotscot = "https://open.spotify.com/embed/playlist/7y5F7c4gSnaBkCJdbA2ATC"		%}
+{%	assign hogg = "https://www.goodreads.com/book/show/3308192-all-that-ever-mattered"		%}
+{%	assign jrs = "https://open.spotify.com/playlist/3WG4abOpUpocexRakPioAg"		%}
+{%	assign teen1 = "https://www.reddit.com/r/japanesemusic/comments/g23dk4/my_top_40_jp_records_hope_you_guys_give_them_a/"		%}
+{%	assign teen2 = "https://www.reddit.com/r/japanesemusic/comments/g23dk4/my_top_40_jp_records_hope_you_guys_give_them_a/fnjdk41/?utm_source=reddit&utm_medium=web2x&context=3"		%}
+{%	assign teen3 = "https://www.reddit.com/r/japanesemusic/comments/g23dk4/my_top_40_jp_records_hope_you_guys_give_them_a/fnjx5ae/?utm_source=reddit&utm_medium=web2x&context=3"		%}
+{%	assign spotjap = "https://open.spotify.com/embed/playlist/5xbFF8iABJSDSKmF0BV0aT"		%}
+{%	assign scarjap = "https://www.scaruffi.com/history/japanese.html"	%}
+{%	assign unsco = "https://open.spotify.com/playlist/12TbpGXtHUPg1d0E5o84jQ?si=o3g_pX2dT7yUMAc4goBzNA"		%}
+{%	assign say = "https://en.wikipedia.org/wiki/Scottish_Album_of_the_Year_Award#Past_winners"		%}
+
+{%	assign spotbris = "https://open.spotify.com/embed/playlist/2Jt0cpjzYrQ26fx2iFSKue"		%}
+{%	assign spotbra = "https://open.spotify.com/embed/playlist/503SxgkOdPpRLZDYB7EAEv"		%}
+{%	assign gravybread = "https://gravybread.wordpress.com/my-favorite-brazilian-albums/"		%}
+{%	assign clear = "https://clearandrefreshing.wordpress.com/"		%}
+{%	assign dokk = "https://www.thewire.co.uk/shop/books/dokkiri-japanese-indies-music-1976-1989"	%}
+{%	assign yuka = "https://www.youtube.com/watch?v=zxvTcaFK2EI"		%}
+{%	assign shiki = "https://www.youtube.com/watch?v=cNplZrRSjeI"		%}
+{%	assign kata = "https://www.youtube.com/watch?v=7_QydNXI_ok"		%}
+{%	assign gits = "https://www.youtube.com/watch?v=iTPNaUsjksM"		%}
+{%	assign zenon = "https://oorutaichi.bandcamp.com/track/zenon"		%}
+{%	assign linne = "https://www.youtube.com/watch?v=PfgB3bX0sLg&list=PLLiZxXy1HD3W06xLDJJIM2F1QdrBZaggN&index=2"	%}
+{%	assign jl = "http://www.omnifoo.info/pages/Favorite%20Chinalt.html"		%}
+{%	assign spotch = "https://open.spotify.com/embed/playlist/1Qtadc7xu0dqrQYt8PszXk"		%}
+{%	assign spothk = "https://open.spotify.com/embed/playlist/6HUyWdxbFFMa6U8BRA7qBC"		%}
