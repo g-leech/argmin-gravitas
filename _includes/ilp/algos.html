@@ -1,0 +1,51 @@
+<!-- %The core of ILP can be summarised simply
+%while $h$ not 
+%1. Refine $h$ 
+%2. Test $h$ against $E$
+% Start from concept learning?
+% https://static-content.springer.com/image/prt%3A978-1-4899-7687-1%2F3/MediaObjects/978-1-4899-7687-1_3_Part_Figa-275_HTML.gif
+ -->
+
+<h2>Example ILP algorithms</h2>
+
+<div class="accordion">
+  <!-- <h3>Concept learning</h3>
+  <div>
+  </div> -->
+  <!--  -->
+  
+  <h3>Generic algorithm: ILP as two-part search</h3>
+  <div>
+      {%  include ilp/generic.html %}
+  </div>
+
+  <!-- <h3>Theta-subsumption</h3>
+  <div>
+  </div> -->
+  
+<!-- <h3>Inverse entailment</h3>
+  <div>
+  % B\land H\models E\iff B\land \neg E\models \neg H.
+  % https://www.doc.ic.ac.uk/~shm/Papers/InvEnt.pdf
+  </div> -->
+
+  <!-- <h3>Sequential covering</h3>
+  <div>
+    {%  include ilp/covering.html %}
+  </div>  -->
+
+  <h3>Top-down search: The First-Order Inductive Learner</h3>
+  <div>
+    {%  include ilp/foil.html %}
+  </div>  
+
+  <h3>Bottom-up search: The default Aleph algorithm</h3>
+  <div>
+    {%  include ilp/aleph.html %}
+  </div>  
+
+
+
+ 
+
+</div>

@@ -1,0 +1,85 @@
+
+
+<img src="/img/ilp/foil1.png" /><br><br>
+
+<img src="/img/ilp/foil2.png" />
+
+<br><br>
+
+<div class="accordion">
+<h3>LaTeX</h3>
+<div>
+    \begin{algorithm}[H]
+\hline\smallskip
+ \textbf{FOIL} (background knowledge $B$, <br>
+ \qquad\qquad positive examples $E^+$, <br>
+ \qquad\qquad negative examples $E^-$) : <br>
+ \KwResult{hypothesis $h$, a rule in first-order predicate logic} 
+ \smallskip
+ \hline
+ 
+ \vspace{\baselineskip}
+ %TODO literals = {predicates in the problem statement and their negatives, (in)equality b/w bound variables}
+   $h \leftarrow \emptyset$<br>
+  \While{$E^+$ not empty} {
+    $\mathrm{clause} \leftarrow \mathrm{LearnNewClause}(E^+, E^-, h)$<br>
+    candidateTheory $\leftarrow B\land h\land \mathrm{clause}$ <br>
+    coveredPositives $\leftarrow \{e\in E^+ \colon $ candidateTheory $\vdash e\}$ <br>
+    $E^+ \leftarrow E^+ \,\setminus $ coveredPositives<br>
+    $h \leftarrow h \cup \{\mathrm{clause}\}$<br>
+   }
+ \textbf{return} $h$<br>
+\end{algorithm}
+\vspace{\baselineskip}
+
+\begin{algorithm}[H]
+\hline\smallskip
+ \textbf{LearnNewClause}($E^+, E^-, h$) :
+ \smallskip\hline
+ \smallskip\smallskip
+%
+ $\mathrm{clause} \leftarrow \emptyset$<br>
+    \While{$E^-$ not empty}{
+        $\mathrm{bestLiteral} \leftarrow \argmax\limits_{l} \,\, \mathrm{Gain}(\mathrm{clause}, l, E^+, E^-)$<br>
+        $\mathrm{clause} \leftarrow \mathrm{clause} \cup \{\mathrm{bestLiteral}\}$<br>
+        candidateTheory $\leftarrow B\land h\land \mathrm{clause}$ <br>
+        coveredNegatives $\leftarrow \{e\in E^- \colon $ candidateTheory $\vdash e\}$ <br>
+        $E^- \leftarrow E^- \,\,\setminus$ coveredNegatives<br>
+    }
+    \textbf{return} clause<br>
+ \vspace{\baselineskip}
+ \vspace{\baselineskip}
+%
+%
+%
+\hline\smallskip
+\textbf{Gain}(clause$, $ literal$, E^+, E^-$) :<br>
+\smallskip\hline
+\smallskip\smallskip
+%
+    posCoveredBefore $\leftarrow$ Satisfies(clause, $E^+$)<br>
+    posCoveredAfter $\leftarrow$ Satisfies(clause $\land$ literal, $E^+$) <br>
+    negCoveredBefore $\leftarrow$ Satisfies(clause, $E^-$)<br>
+    negCoveredAfter $\leftarrow$ Satisfies(clause $\land$ literal, $E^-$) <br>
+     \vspace{\baselineskip}
+    posPreserved $\leftarrow$ posCoveredBefore $\cap$ posCoveredAfter <br>
+    gainAfter  $\leftarrow 	\log_2 (\frac{\#\mathrm{posCoveredAfter}}
+    {\#\mathrm{posCoveredAfter} 
+    + \#\mathrm{negCoveredAfter}})$ <br> 
+%
+    gainBefore  $\leftarrow \log_2 (\frac{\#\mathrm{posCoveredBefore}}
+    {\#\mathrm{posCoveredBefore} 
+    + \#\mathrm{negCoveredBefore}})$  <br>
+\vspace{\baselineskip}    
+\textbf{return} \#posPreserved $\times ($gainAfter $-$ gainBefore$)$ <br>
+%
+%
+\vspace{\baselineskip}    \vspace{\baselineskip}    
+ \caption{ \,adaptation of FOIL \citep{foil}\citep{vinay} with gain heuristic}
+\end{algorithm}
+
+%This is also known as a 'greedy cover set' algorithm.
+% greedy covering heuristic
+</div>
+
+</div>

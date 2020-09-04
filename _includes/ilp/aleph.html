@@ -1,0 +1,81 @@
+<img src="/img/ilp/aleph1.png" /><br><br>
+
+<img src="/img/ilp/aleph2.png" />
+
+
+
+<br><br>
+
+<div class="accordion">
+<h3>LaTeX</h3>
+<div>
+
+\begin{algorithm}[H]
+\hline\smallskip
+\textbf{Aleph}(background knowledge $B$, <br>
+ \qquad\qquad positive \& negative examples $E$, <br>
+ \qquad\qquad mode declaration $\mathcal{L}$) :<br>
+ \KwResult{hypothesis $h$} 
+\smallskip\hline
+\smallskip\smallskip
+ %
+ $h \leftarrow $ empty clause \;
+ \While{$E$ is not empty}{
+  $e \leftarrow$ Select$(E)$ \;
+  $\bot_e \leftarrow$ BottomClause$(e, \mathcal{L})$ \;
+  $c^* \leftarrow $ ClauseReduction$(\bot_e)$ \;
+  $h \leftarrow h + c^*$ \;
+  $E \leftarrow$ Prune$(E)$\;
+ }
+ \textbf{return} $h$
+%
+\vspace{\baselineskip} \hline\smallskip
+\textbf{ClauseReduction}(most specific clause \bot) :<br>
+
+ \KwResult{a clause $c$ more general than $\bot$} 
+\smallskip   \hline  \smallskip\smallskip
+%
+activeSet  $\leftarrow \{ \nullset \}$ <br>
+bestSolutionCost $\leftarrow \infty$ <br>
+currentBestClause $\leftarrow \bot$ <br>
+\smallskip\smallskip
+\While{$\mathrm{activeSet}$ is not empty} {
+    clause $\leftarrow$ Pop$($activeSet$)$ <br>
+    children = $\{ i=1,...,n_k : \mathrm{child}_i \} \leftarrow$ GenerateChildren$($clause$)$  <br>
+    $C_i \leftarrow$ Cost$($children$)$   <br>
+    $L_i \leftarrow$ LowerBoundCost$($children$)$ <br>
+%
+    \smallskip\smallskip
+%
+    \For{$i = 1,..., n_k$} { <br>
+        \If{ $L_i \geq \mathrm{bestSolutionCost}$} 
+        { children $\leftarrow$ children $-$ child$_i$ <br>
+        } <br>
+        \Else {  <br>
+            \If{ $\mathrm{child}_i$ \text{ is a complete solution and } $C_i < \mathrm{bestSolutionCost}$ } { <br>
+                    bestSolutionCost  $\leftarrow$ $C_i$ <br>
+                    currentBestClause $\leftarrow$ child$_i$  <br>
+                    activeSet $\leftarrow$ $\{ i \in \mathrm{activeSet} : L_i \leq C_i \}$  <br>
+            }<br>
+            activeSet $\leftarrow$ activeSet $+$ child$_i$  <br>
+        }
+    } <br>
+} <br>
+\textbf{return} currentBestClause
+%
+\vspace{\baselineskip}
+ \caption{\,Adapted from Srinivasan (1999) \citep{aleph}.}
+\end{algorithm}
+
+
+\begin{itemize}
+%
+    \item \texttt{Select}: pick an example $e$ to be generalised. 
+    \item \texttt{BottomClause}: 'saturate' the example - find the most specific clause that both entails $e$ and obeys the mode declaration (that is, the specified language bias). The procedure is from \citep{progol}.   
+    \item \texttt{ClauseReduction}: search for a subset (or derived subset) of the literals in $\bot_e$ with the best score, arg max$_c\,$ Score$(\bot_e)$. This is a branch-and-bound algorithm, and returns a search tree with clauses for nodes. As standard, this is the gain in accuracy of adding $c$ to $h$. A 'good' clause is defined by hyperparameters: a maximum clause length, a minimum accuracy, a minimum 'child weight' (i.e. a threshold number of positive examples covered by $c$ before $c$ can be selected).
+    \item \texttt{Prune}: remove examples (and background) made redundant under the new hypothesis $h$. Unlike Algorithm 1, this prunes the \textit{examples} rather than the candidate hypotheses.
+%
+\end{itemize}
+
+</div>
+</div>
