@@ -23,3 +23,4 @@
 {%	assign jl = "http://www.omnifoo.info/pages/Favorite%20Chinalt.html"		%}
 {%	assign spotch = "https://open.spotify.com/embed/playlist/1Qtadc7xu0dqrQYt8PszXk"		%}
 {%	assign spothk = "https://open.spotify.com/embed/playlist/6HUyWdxbFFMa6U8BRA7qBC"		%}
+{%	assign spotleed = "https://open.spotify.com/embed/playlist/2t9LRzc62O3YxqcsLmLkxi"			%}
