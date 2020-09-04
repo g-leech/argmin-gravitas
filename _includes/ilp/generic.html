@@ -1,0 +1,67 @@
+
+<img src="/img/ilp/genericalgo.png" width="80%" />
+
+<br><br>
+
+At this level of abstraction (which overlooks the data, even), we see the structure and parameters of ILP in general: 
+<!-- %it comprises a hypothesis search subroutine, and a clause selection (heuristic scoring) subroutine. -->
+
+<br><br>
+<ol>
+  <li>`initialHypotheses`: defines the hypothesis space. High-performance ILP systems generally begin with only one hypothesis in this queue \(B \land E^+\).</li><br>
+
+  <li>`stop-criterion`. Terminating condition. Examples include: finding a strict solution; meeting some threshold on the statistical significance of the heuristic score of a hypothesis.</li><br>
+
+  <li>`Pop`: which hypothesis to try next. This is half of the search procedure. It can proceed by simple classical search, e.g. LIFO (breadth-first) or FIFO (depth-first) or priority queue (best-first), or by heuristics (see `Prune`).</li><br>
+  
+  <li>`ChooseRules` and `Apply`: determines which inference rules to use on \(H\), for instance absorption, addClause, dropNegativeLiteral. These are generally syntactic modifications of \(h\), and yields a set of derived hypotheses \(\{ h_1 \cdots h_n\}\).</li><br>
+  
+  <li>`Prune`: which candidate hypotheses to delete from \(H\); the other half of the search. We score the hypotheses, for instance using estimated probabilities \(p(H | B\land E)\). (Note that, in an exact system, generalisation and specialisation allow us to simultaneously assign \(p = 0\) to all specialisations of hypotheses that fail to entail a positive, and \(p=0\) to all generalisations of hypotheses \( \land \,\mathrm{example}\, e^- \) that entail the empty clause.) An alternative score is the minimum compression length of \(h\).</li>
+</ol>
+
+<br>
+
+<div class="accordion">
+    <h3>LaTeX</h3>
+    <div>
+  \vspace{\baselineskip}
+    \smallskip
+
+    \begin{algorithm}[H]
+    \hline\smallskip
+     \textbf{AbstractILP} (allowed inference rules `\(R`\(, language bias `\(\mathcal{L}`\() : <br>
+     \KwResult{hypothesis `\(h`\(, a rule in first-order predicate logic} 
+     \smallskip
+     \hline
+     \vspace{\baselineskip}
+    %
+     `\(H \leftarrow`\( initialHypotheses(`\(\mathcal{L}`\() \;
+     \While{not \text{stop-criterion}} {
+      `\(h \leftarrow`\( Pop`\((H)`\(\;
+      `\(r_1, \cdots, r_k \leftarrow`\( ChooseRules(`\(R`\() \;
+      `\(h_1, \cdots, h_n \leftarrow`\( Apply(`\(r_1, \cdots, r_k, \, h`\() \;
+      `\(H \leftarrow H + \{ h_1, \cdots, h_n \}`\(\;
+      `\(H \leftarrow`\( Prune(`\(H`\()\;
+     }
+     \textbf{return} `\(h \leftarrow`\( Pop`\((H)`\(\;
+     \smallskip
+     \vspace{\baselineskip}
+     %
+     \caption{\, adapted from Muggleton \& de Raedt (1994) \citep{mugg94-review}}
+    \end{algorithm}
+    \[\]
+    At this level of abstraction (which overlooks the data, even), we see the structure and parameters of ILP in general: 
+    %it comprises a hypothesis search subroutine, and a clause selection (heuristic scoring) subroutine.
+
+    \begin{itemize}
+        \item `initialHypotheses}: defines the hypothesis space. High-performance ILP systems generally begin with only one hypothesis in this queue (`\(B \land E^+)`\(.
+        \item `stop-criterion}. Terminating condition. Examples include: finding a strict solution; meeting some threshold on the statistical significance of the heuristic score of a hypothesis.
+        \item `Pop}: which hypothesis to try next. This is half of the search procedure. It can proceed by simple classical search, e.g. LIFO (breadth-first) or FIFO (depth-first) or priority queue (best-first), or by heuristics (see `Prune}).
+        \item `ChooseRules} and `Apply}: determines which inference rules to use on `\(H`\(, for instance absorption, addClause, dropNegativeLiteral. These are generally syntactic modifications of `\(h`\(, and yields a set of derived hypotheses `\(\{ h_1 \cdots h_n\}`\(.
+    %    
+        \item `Prune}: which candidate hypotheses to delete from `\(H`\(; the other half of the search. We score the hypotheses, for instance using estimated probabilities `\(p(H | B\land E)`\(. (Note that, in an exact system, generalisation and specialisation allow us to simultaneously assign `\(p = 0`\( to all specialisations of hypotheses that fail to entail a positive, and `\(p=0`\( to all generalisations of hypotheses `\(\land `\( example `\(e^-`\( that entail the empty clause.)
+        An alternative score is the minimum compression length of `\(h`\(.
+        
+    \end{itemize}
+  </div>
+</div>

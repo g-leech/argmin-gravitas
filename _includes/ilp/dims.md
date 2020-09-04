@@ -1,0 +1,12 @@
+\item \textit{Predictive vs Descriptive domain}. all of the above are predictive systems, i.e. they aim at generalisation and produce reusable models. 
+\item \textit{Completeness}: Is the search guaranteed to find a correct hypothesis, if one exists? (For instance, Progol is provably not complete. [CITATION])
+\item \textit{Incremental} (or online learning): can new examples and background be added during learning? 
+\item \textit{Interactive} (or active learning): can it query an oracle for guided search? Interactive entails incremental.
+\item \textit{The data 'setting'}: whether examples are constrained to contain only literals ("the example setting") or can contain predicates (e.g. "the non-monotonic setting").
+\item \textit{Single vs multiple concept-learning}: Early systems were limited to 'single predicate learning', in which all examples are taken as evidence for one, singleton predicate; from FOIL onwards we have multiple predicate learning, where several concepts are learned with their relations from one dataset.
+\item \textit{Numerical data}: Early systems could not make use of numerical data, or handle intervals.
+\item \textit{Semantics}: all of the above use the 'definite' semantics, limiting the number of positive literals in the head to 1, and so avoiding the need for negation-as-failure.
+\item \textit{Clause-level or theory-level search}: whether the search proceeds at the clause-level (see Algorithms 2 and 3) or theory-level (see Algorithm 1). 
+\item \textit{Robustly learning recursion}: the degree of recursion that can be learned; approaches which rely on bottom clause construction \citep{progol} cannot learn recursive clauses without examples of both the base case and the inductive case, in that order.
+\item \textit{Problem domain}: Some approaches first transform the ILP problem to the propositional\citep{kramer-flach} or SAT domain \citep{chikara}, rather than solving the original relational search problem. It's unclear if this is still an ILP system afterward, but it is at very least a close neighbour.
+\item Another degree of freedom is whether negative examples are specified at all, or merely inferred as the complement of the minimal Herbrand model.
