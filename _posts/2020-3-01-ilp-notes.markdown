@@ -1,6 +1,6 @@
 ---
 layout:     math_post
-title:      "Intro to inductive logic programming"
+title:      "Notes on inductive logic programming"
 baselink:   /ilp
 permalink:  /ilp
 date:       2020-03-01
@@ -10,7 +10,7 @@ img:        /img/
 published:  true
 visible:    1
 
-summary:    Notes on a neglected paradigm in AI.
+summary:    A neglected paradigm in AI and its struggles.
 quality:    4
 categories: AI
 confidence: 70%. Not my area. I played with a couple systems and read a dozen papers.
