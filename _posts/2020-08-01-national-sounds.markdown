@@ -32,19 +32,29 @@ argument:
 		{%	include nation/eng.html	%}
 	</div>
 	<!--  -->
-	<!-- <h3>Wales</h3>
+	<h3>Wales</h3>
 	<div>
-	</div> -->
-	<!-- <h3>Northern Ireland</h3>
+		{%	include nation/wales.html	%}
+	</div> 
+	<!--  -->
+	<h3>Northern Ireland</h3>
 	<div>
+		{%	include nation/ulster.html	%}
 	</div>
+	<!--  -->
 	<h3>Ireland</h3>
 	<div>
-	</div> -->
+		{%	include nation/ire.html	%}
+	</div>
 	<!--  -->
 	<h3>Brazil</h3>
 	<div>
 		{%	include nation/bra.html	%}
+	</div>
+	<!--  -->
+	<h3>France</h3>
+	<div>
+		{%	include nation/fra.html	%}
 	</div>
 	<!--  -->
 	<h3>Japan</h3>
@@ -62,10 +72,26 @@ argument:
 		{%	include nation/hk.html	%}
 	</div>
 	<!--  -->
+	<h3>Netherlands</h3>
+	<div>
+		{%	include nation/neder.html	%}
+	</div>
+	<!--  -->
+	<h3>Estonia</h3>
+	<div>
+		{%	include nation/est.html	%}
+	</div>
+	<!--  -->
+	<h3>Canada</h3>
+	<div>
+		{%	include nation/can.html	%}
+	</div>
+	<!--  -->
 	<h3>America</h3>
 	<div>
 		{%	include nation/us.html	%}
 	</div>
+	<!--  -->
 	<h3>...</h3>
 	<div>
 		
@@ -74,7 +100,13 @@ argument:
 
 <br>
 
+# Caveats
+
 Alright, so it is weird to do one list for all of Brazil (pop. 210m) and one for Bristol (pop 0.6m). I welcome contributions from scholars of the music of Feira de Santana (or indeed from any place on earth).
+
+My selection from non-Anglophone countries will be biased towards obviousness and against wit. I forgive a gifted lyricist almost anything (for instance, I love early Mountain Goats), and I mostly can't here.
+
+Most countries seems to have local Indie Gods. Tragically Hip (Canada), Microdisney (Ireland). Mostly don't survive leaving their context.
 
 <br><br>
 
