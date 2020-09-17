@@ -50,3 +50,4 @@
 
 {%	assign ap = "https://www.nature.com/articles/s41405-019-0026-8"		%}
 {%	assign better = "https://betterknown.co.uk/"		%}
+{%	assign spencer = "https://www.facebook.com/spencer.greenberg/posts/10105421651828072"		%}
