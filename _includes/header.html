@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title headText" href="{{site.url}}">{{ site.fmtTitle }}</a>
+    <a class="site-title headText frontpage" href="{{site.url}}">{{ site.fmtTitle }}</a>
 
     <nav class="site-nav" style="background:#006800;">
       <a href="#" class="menu-icon">
@@ -16,7 +16,7 @@
       <div class="trigger">
         {% for page in site.pages %}
           {% if page.visible == true %}
-              <a class="headText" href="{{ page.url | prepend: site.url }}">{{ page.title }}</a> 
+              <a class="headText frontpage" href="{{ page.url | prepend: site.url }}">{{ page.title }}</a> 
               {% if forloop.last == false %}
                 &nbsp;&nbsp;|&nbsp;&nbsp;
               {% endif %}
