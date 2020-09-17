@@ -193,8 +193,18 @@
 }
 
 .post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
+    font-size: $small-font-size !important;
+    color: $grey-color !important;
+}
+
+
+.date { 
+    text-decoration: none !important;
+
+    &:hover {
+        text-decoration: none !important;
+        color: $text-color !important;
+    }
 }
 
 .post-link {

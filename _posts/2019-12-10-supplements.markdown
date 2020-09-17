@@ -24,6 +24,8 @@ argument:
 > there may be useful interventions, but they will be of little value on average — if the benefit is universal, then it will be small; if it is large and predictable, then it will be limited to the few with a particular disease; otherwise, it will be unpredictably idiosyncratic so those who need it will not know it. Thus, the metallic laws: the larger the change you expect, the less likely it is; the low-hanging fruit, having already been plucked, will not be tested; and the more rigorously you test the leftovers, the smaller the final net effects will be.
 <center> - <a href="{{g}}">Gwern Branwen</a></center><br>
 
+> every mouthful of food you and I have ever taken contained many billions of kinds of complex molecules whose structure and physiological effects have never been determined – and many millions of which would be toxic or fatal in large doses... we are daily ingesting thousands of substances that are far more dangerous than saccharin – but in amounts that are safe, because they are far below the various thresholds of toxicity. At present, there are hardly any substances, except some common drugs, for which we actually know the threshold.
+<center> - Edwin Jaynes</center><br>
 
 In the last century, half a revolution happened: you can now buy <a href="{{thousands}}">many thousands of substances</a> that claim to promote health, and perhaps a couple of them do. 
 
