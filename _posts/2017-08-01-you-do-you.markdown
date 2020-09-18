@@ -40,7 +40,7 @@ Out at London Pride, uncharacteristically. Around 1am, as you do, find myself in
 
 <br><br>
 
-{%  include comments.html %}
+
 
 <br><br>
 

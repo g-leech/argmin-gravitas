@@ -160,6 +160,6 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
 </div>
 
 
-{%  include comments.html %}
+
 
 {%  include anthro/foots.html %}

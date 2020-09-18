@@ -211,6 +211,6 @@ _See also my thoughts on <a href="/introspect">ways introspection fails</a>.<br>
 		In this case, don't trust me much. I am no mind scientist; nor have I personally experienced the claimed benefits, I just know people who have. I've only half-tried this stuff. I am sympathetic to half the implied philosophy and deeply hostile to the other half.
 	</div>
 </div>
-{%	include comments.html	%}
+
 
 <br><br>

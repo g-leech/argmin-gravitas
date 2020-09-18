@@ -64,6 +64,6 @@ The good economist replies, “A better world.”
 
 <br><br>
 
-{%	include comments.html	%}
+
 
 <br><br>

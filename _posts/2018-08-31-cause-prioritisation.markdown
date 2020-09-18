@@ -107,7 +107,7 @@ _I owe most of the ideas in this to Anders Sandberg, Toby Ord, and James Dama._
 
 
 
-{%  include comments.html %}
+
 
 
 <div class="footnotes">

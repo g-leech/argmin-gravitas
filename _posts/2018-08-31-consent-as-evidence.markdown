@@ -132,7 +132,7 @@ This is not a post-hoc fix; <a href="{{benth}}">Bentham himself said it</a>:
 	</div>
 </div>
 
-{%  include comments.html %}
+
 
 
 <br> <br>

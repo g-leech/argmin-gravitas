@@ -70,4 +70,4 @@ I'd be ambivalent if
 To make credit assignment possible it would be understandable to break the games into episodes (e.g. at least Prep vs Combat vs Finish) with single per-hero intermediate rewards.
  -->
 
- {%	include comments.html	%}
+ 

@@ -36,4 +36,3 @@ So what I'm saying is that if the two biggest events in European history - the f
 
 
 
-{%  include comments.html %}

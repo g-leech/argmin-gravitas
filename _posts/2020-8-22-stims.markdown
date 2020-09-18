@@ -48,6 +48,6 @@ afinils
 
 <br><br>
 
-{%	include comments.html	%}
+
 
 <br><br>

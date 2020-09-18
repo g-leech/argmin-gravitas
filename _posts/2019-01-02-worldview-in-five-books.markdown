@@ -164,4 +164,3 @@ Again, these aren't my <a href="https://www.goodreads.com/review/list/68316850-g
 <br><br>
 
 {%  include fivebooks/foots.html %}
-{%  include comments.html %}

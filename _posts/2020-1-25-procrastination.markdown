@@ -114,7 +114,7 @@ YMMV. 5/5 if you don't do this already
 	</div>
 </div>
 
-{%  include comments.html %}
+
 
 
 _<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_<br>

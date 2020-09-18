@@ -24,4 +24,3 @@ What I like in languages.
 
 
 
-{%  include comments.html %}

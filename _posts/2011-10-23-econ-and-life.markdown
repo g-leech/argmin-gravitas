@@ -222,7 +222,7 @@ Even before we consider De Beauvoir's more <a href="http://www.goodreads.com/quo
 </div>
 <br /><br />
 
-{%	include comments.html	%}
+
 
 
 

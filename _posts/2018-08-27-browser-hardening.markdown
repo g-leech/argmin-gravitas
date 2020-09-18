@@ -259,4 +259,4 @@ Note that you're not going to stop any nation-states except <a href="{{paranoia}
 	definiteEvent( createImg, [src, "attackImg"] ); 
 </script>
 
-{%  include comments.html %}
+

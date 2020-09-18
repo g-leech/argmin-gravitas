@@ -37,4 +37,3 @@ started:    2013
 <br><br>
 
 
-{%  include comments.html %}

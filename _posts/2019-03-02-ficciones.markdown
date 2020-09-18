@@ -123,7 +123,7 @@ And so a beautiful lesson: think what the incredible feat of writing any book - 
 
 
 
-{%  include comments.html %}
+
 
 
 _<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_

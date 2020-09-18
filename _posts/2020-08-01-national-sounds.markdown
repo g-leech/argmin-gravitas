@@ -110,4 +110,3 @@ Most countries seems to have local Indie Gods. Tragically Hip (Canada), Microdis
 
 <br><br>
 
-{%  include comments.html %}

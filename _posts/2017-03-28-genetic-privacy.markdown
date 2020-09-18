@@ -151,7 +151,7 @@ Here are some things you might worry about if you did such a thing.<br><br>
 [Chester]:			https://en.wikipedia.org/wiki/G._K._Chesterton#Chesterton.27s_fence
 
 
-{%  include comments.html %}
+
 
 {%  include genes/foots.html %}
 

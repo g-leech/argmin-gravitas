@@ -43,6 +43,7 @@ layout: default
   
   <article class="post-content">
     {{ content }}
+    {%  include comments.html %}
   </article>
 
   <!-- Doesn't work; Netlify rebuilds the whole site when *anything* changes -->

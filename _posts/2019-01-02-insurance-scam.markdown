@@ -167,6 +167,6 @@ If everyone had a chunk of savings ($10k?), rationally speaking there would be n
 
 <br>
 
-{%  include comments.html %}
+
 
 {%  include insurance/foots.html %}

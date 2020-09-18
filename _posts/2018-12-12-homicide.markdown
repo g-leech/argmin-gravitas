@@ -108,6 +108,6 @@ I think this is the first 'true crime' book I've read. I don't know if this is t
 
 <br>
 
-{%	include comments.html	%}
+
 
 <br><br>

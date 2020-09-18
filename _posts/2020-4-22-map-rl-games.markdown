@@ -238,7 +238,7 @@ Reinforcement Learning</a>_ (2000)
 * _<a href="{{baez}}">Physics, Topology, Logic and Computation: A Rosetta Stone</a>_ (2009)
 <br><br>
 
-{%	include comments.html	%}
+
 
 
 <div class="footnotes">

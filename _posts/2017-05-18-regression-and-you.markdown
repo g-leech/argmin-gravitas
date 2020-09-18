@@ -21,4 +21,3 @@ The deep way to study stats is to start off learning a model or a distribution o
 
 
 
-{%  include comments.html %}

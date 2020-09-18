@@ -195,6 +195,6 @@ Isaacson read all the letters, formed a view on all the academic controversies (
 		In this case, don't trust me much. I am no physicist, and only half a scientist. I looked up a few sources on Einstein's many innovations, and checked Isaacson's depiction of the Maric controversy and found no red flags. 
 	</div>
 </div>
-{%	include comments.html	%}
+
 
 <br><br>

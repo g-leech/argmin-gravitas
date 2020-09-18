@@ -134,4 +134,3 @@ _<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from 
 		In this case: I know a bit about psychology and cognitive science, certainly more than Storr. I devote quite a lot of time to spotting my own biases and bad thinking, with arguable success.<br><br>
 	</div>
 </div>
-{%  include comments.html %}

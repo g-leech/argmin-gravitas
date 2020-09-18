@@ -75,6 +75,6 @@ Around 1800, the arch-rationalist Bentham predicted that <a href="{{gays}}">homo
 
 <br><br><br>
 
-{%  include comments.html %}
+
 
 

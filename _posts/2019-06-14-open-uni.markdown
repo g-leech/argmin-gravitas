@@ -114,7 +114,7 @@ The full £18k sticker price probably isn't worth it unless you have really hard
 
 <br>
 
-{%  include comments.html %}
+
 
 
 {%  include ou/foots.html %}

@@ -103,4 +103,3 @@ These are not probably mutually exclusive. I'll fill in new ideas and evidence f
 
 <br><br>
 
-{%  include comments.html %}

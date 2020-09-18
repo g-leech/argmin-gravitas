@@ -115,7 +115,7 @@ The most effective strategy for preventing waste of life is hard to quantify in 
 </ol>
 </div>
 
-{%  include comments.html %}
+
 
 
 <br><br> <br>

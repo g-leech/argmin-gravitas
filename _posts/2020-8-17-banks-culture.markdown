@@ -325,7 +325,7 @@ The ship training process is imperfect, and there are still <a href="{{ult}}">sc
 
 <br><br>
 
-{%	include comments.html	%}
+
 
 
 <br><br>

@@ -82,4 +82,3 @@ What's the construct they're measuring? Ability to pattern-match basic fallacies
 	</li>
 </ol>
 
-{%  include comments.html %}

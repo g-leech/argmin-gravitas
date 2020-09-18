@@ -54,4 +54,3 @@ wordcount:
 
 
 
-{%  include comments.html %}

@@ -157,6 +157,6 @@ I've been doing a derivative of this program since October last year: no trainer
 		I've followed <a href="https://stronglifts.com/">Rippetoe's programme</a> inconsistently for 4 months and still got good returns - worth it for mental health alone. I know sophomore biology and physics, and nothing he says here contradicts any of it.
 	</div>
 </div>
-{%	include comments.html	%}
+
 
 <br><br><br>

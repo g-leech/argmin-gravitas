@@ -120,7 +120,7 @@ The most annoying part of the films making up emotionally powerful unifying them
 		In this case: I am a computer scientist, and I've studied the early history of computing quite closely. I understand many of Turing's original papers, besides his group theory.<br><br>
 	</div>
 </div>
-{%	include comments.html	%}
+
 
 <br><br>
 

@@ -135,7 +135,7 @@ Think tanks are the usual way to be a full-time intellectual outside academia. B
 
 <br><br>
 
-{%	include comments.html	%}
+
 
 {%  include sites/foots.md %}
 

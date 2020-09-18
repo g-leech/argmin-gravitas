@@ -113,4 +113,3 @@ I am not very sure of any of the above; the <a href="{{loGrowth}}">actual stats 
 
 
 {%  include nonvicious/foots.html %}
-{%  include comments.html %}

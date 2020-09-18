@@ -184,7 +184,7 @@ Can you be explanatory if you aren't predictive? The converse happens all the ti
 
 <br><br>
 
-{%  include comments.html %}
+
 
 
 <img src="/img/poll-poll.png" style="border:5px solid black" /><br><br>

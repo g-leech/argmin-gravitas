@@ -35,4 +35,3 @@ It's worth reading even if you don't care a single jot about the future, since h
 
 
 
-{%  include comments.html %}
