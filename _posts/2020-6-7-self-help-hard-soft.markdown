@@ -146,4 +146,3 @@ Examples:
 	</div>
 </div>
 
-{%	include comments.html	%}

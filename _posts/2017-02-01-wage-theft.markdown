@@ -36,4 +36,3 @@ Salaried (middle class) people are less
 
 
 
-{%  include comments.html %}

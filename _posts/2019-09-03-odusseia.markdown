@@ -203,4 +203,3 @@ Her introduction takes up a quarter of the entire book. It's good and sane but r
 		I think it's mostly likely a missing mood of mine. I don't even vaguely sympathise with Odysseus' values, his need for dominion, his vengeance, even his homesickness.
 	</div>
 </div>
-{%	include comments.html	%}

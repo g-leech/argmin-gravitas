@@ -58,6 +58,6 @@ Here is a fictional leaf from Gould's <i>ad hominem</i> book, to give you a sens
 (Read Midgley and Singer first if the politics scare you; they might stop you fleeing into Gould's dodgy arms.)<br /><br />
 
 
-{%	include comments.html	%}
+
 
 <br><br>

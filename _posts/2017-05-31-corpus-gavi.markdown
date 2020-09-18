@@ -57,7 +57,7 @@ CountVectorizer (bag of words model) and TfidfVectorizer (tf-idf weighting for t
 
 
 
-{%  include comments.html %}
+
 
 
 {%  include idiolect/foots.html %}

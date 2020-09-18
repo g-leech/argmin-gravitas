@@ -104,7 +104,7 @@ The clearest precedent is <a href="{{erd}}">Paul Erdos</a>: also rude, also mono
 	</div>
 </div>
 
-{%  include comments.html %}
+
 
 
 _<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_<br><br>

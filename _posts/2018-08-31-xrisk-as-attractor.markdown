@@ -154,7 +154,7 @@ So it looks like there's a strong apriori case to prioritise x-risk, for anyone 
 		These have their own wrinkles, but the general point remains: most values are ruined by them.
 	</div>
 </div>
-{%  include comments.html %}
+
 
 
 

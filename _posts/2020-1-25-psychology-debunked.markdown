@@ -182,14 +182,20 @@ What now? When the next flashy <a href="{{weird}}">WEIRD</a> paper out of a worl
 
 
 {%  include psy/caveats.md %}
-{%  include comments.html %}
 {%  include psy/foots.md %}
 
 <br>
 
+# See also
 
-_Deep thanks to <a href="{{gelman}}">Andrew Gelman</a>, <a href="{{ritchie}}">Stuart Ritchie</a>, <a href="{{scheel}}">Anne Scheel</a>, <a href="{{lakensSite}}">Daniël Lakens</a>, <a href="{{ggg}}">Gwern Branwen</a>, and <a href="{{brown}}">Nick Brown</a> for pointers to effectively all of these_.
+* <a href="{{alvaro}}">A review of 2500 social science papers</a>, showsnthe lack of correlation between citations and replicability, between journal status and replicability, and the lack of improvement since 2009.
+
+<br>
+
+
+_Thanks to <a href="{{gelman}}">Andrew Gelman</a>, <a href="{{ritchie}}">Stuart Ritchie</a>, <a href="{{scheel}}">Anne Scheel</a>, <a href="{{lakensSite}}">Daniël Lakens</a>, <a href="{{ggg}}">Gwern Branwen</a>, and <a href="{{brown}}">Nick Brown</a> for pointers to effectively all of these_.
 
 _All honour to the hundreds of 'data thug' / 'methodological terrorist' psychologists I've cited, who in the last decade did the hard work of cleaning up their field._
 
 <br>
+

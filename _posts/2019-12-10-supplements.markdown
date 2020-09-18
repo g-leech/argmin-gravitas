@@ -78,4 +78,3 @@ There are economies of scale to summarising and operationalising research, testi
 	https://elemental.medium.com/i-made-the-u-s-dietary-supplement-law-i-think-it-needs-to-be-rewritten-d9b06f8250ef 
 -->
 {%  include pills/foots.html %}
-{%  include comments.html %}

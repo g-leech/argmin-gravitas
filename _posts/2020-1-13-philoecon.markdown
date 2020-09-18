@@ -18,6 +18,8 @@ wordcount:  4000 
 argument:   
 ---
 
+<!-- Hanson on common critiques -->
+<!-- https://roamresearch.com/#/app/gleech/page/8q6III-UZ -->
 <!-- Writing Checklist -->
 <!-- https://roamresearch.com/#/app/gleech/page/5jHVvVI8w -->
 
@@ -246,7 +248,11 @@ As a result of these(largely unintended) features, the paradigm could not shift 
 <!--  Stiglitz, Joseph (2010), ‘Needed: new economic paradigm’ http://goo.gl/yWqV3 -->
 
 
+## See also
 
+* https://www.overcomingbias.com/2020/08/common-econ-critiques.html
+
+<br>
 
 <div class="accordion">
     <h3>Bibliography</h3>

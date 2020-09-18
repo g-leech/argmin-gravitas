@@ -183,7 +183,7 @@ Saying “what I have is good” might reduce your drive to improve the situatio
 
 <br><br><br>
 
-{%	include comments.html	%}
+
 
 <div class="footnotes">
 	<ol>

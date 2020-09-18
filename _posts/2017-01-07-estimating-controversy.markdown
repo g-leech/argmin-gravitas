@@ -33,4 +33,3 @@ wordcount: 900
 </div>
 
 
-{%  include comments.html %}

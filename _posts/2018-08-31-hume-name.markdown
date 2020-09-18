@@ -198,6 +198,6 @@ The appropriations are also celebrations - we are crowding to get close to him -
 
 <br><br><br>
 
-{%  include comments.html %}
+
 
 

@@ -201,7 +201,7 @@ It is a style, it became an ideology, and it remains a community. All in all, a 
 
 {%	include punk/against.md		%}
 {%	include punk/epigram.md 	%}
-{%	include comments.html	%}
+
 
 {%	include punk/foots.md	%}
 

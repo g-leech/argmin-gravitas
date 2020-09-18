@@ -119,7 +119,7 @@ Only not five stars because we can't give any social science book five stars unt
 
 <br /><br /><br />
 
-{%	include comments.html	%}
+
 
 <div class="footnotes">
 

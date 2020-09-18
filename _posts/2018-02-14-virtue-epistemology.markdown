@@ -25,4 +25,3 @@ wordcount:
 
 
 {%	include virtuep/glossary.html		%}
-{%  include comments.html %}

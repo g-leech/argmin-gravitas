@@ -192,6 +192,6 @@ Is bootstrapping obvious? I don't think so, judging by how static and <em>crudel
 
 <br><br>
 
-{%	include comments.html	%}
+
 
 <br><br>

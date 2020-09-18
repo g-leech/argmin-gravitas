@@ -382,4 +382,3 @@ If, once you're financially secure and ensconced in a house and a family, you ha
   definiteEvent( createImg, [src, "mechImg"] ); 
 </script>
 
-{%  include comments.html %}

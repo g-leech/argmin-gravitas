@@ -23,4 +23,3 @@ categories:		a
 
 
 
-{%  include comments.html %}

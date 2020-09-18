@@ -270,7 +270,7 @@ The bureaucracies act as if you can only teach once you are a master. But I ofte
 
 <br>
 
-{%	include comments.html	%}
+
 
 
 <div class="footnotes">

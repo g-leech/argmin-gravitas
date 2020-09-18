@@ -58,7 +58,7 @@ What else?
 
 <br><br>
 
-{%  include comments.html %}
+
 
 {%  include yoga/foots.html %}
 

@@ -193,6 +193,6 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 
 <br><br>
 
-{%	include comments.html	%}
+
 
 <br><br>

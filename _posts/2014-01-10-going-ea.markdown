@@ -260,6 +260,6 @@ With the caveat that I'd write critically about them, I joined Giving What We Ca
 
 <br><br>
 
-{%	include comments.html	%}
+
 
 <br><br>

@@ -43,4 +43,3 @@ astronomers
 
 
 
-{%  include comments.html %}

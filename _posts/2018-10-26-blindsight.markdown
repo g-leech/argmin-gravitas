@@ -103,4 +103,3 @@ _<a href="https://gleech.org/demarcation">See also my review of Will Storr.</a>_
 _<a href="https://gleech.org/psych">See also my list of false or weak psychology claims.</a>_
 
 
-{%	include comments.html	%}

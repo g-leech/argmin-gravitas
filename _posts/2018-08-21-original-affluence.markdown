@@ -178,6 +178,6 @@ How could this be? How could people make sweeping, highly counterintuitive claim
 </div>
 
 
-{%	include comments.html	%}
+
 
 <br><br>

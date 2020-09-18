@@ -227,7 +227,7 @@ We first implemented an amoral baseline agent. <a href="{{DQN}}">Code here</a>.
 <br><br>
 
 {%	include gridworlds/foots.html		%}
-{%  include comments.html %}
+
 
 
 

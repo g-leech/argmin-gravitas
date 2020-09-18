@@ -127,5 +127,5 @@ This is a living list; please add your own outboard below.
 <br><br>
 
 {%	include exomind/foots.html		%}
-{%  include comments.html %}
+
 

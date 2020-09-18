@@ -22,4 +22,3 @@ wordcount:
 
 
 
-{%  include comments.html %}

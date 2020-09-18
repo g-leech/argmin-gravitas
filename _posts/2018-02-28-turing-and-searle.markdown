@@ -153,7 +153,7 @@ Despite Turing's inspiring attempt to sideline it, the metaphysics of mind is a 
 	</div>
 
 </div>
-{%  include comments.html %}
+
 
 <br>
 

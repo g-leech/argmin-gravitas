@@ -32,6 +32,6 @@ wordcount:      400
 </div>
 
 
-{%  include comments.html %}
+
 
 {%  include conversion/foots.html    %}

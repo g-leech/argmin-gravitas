@@ -375,4 +375,3 @@ As outlined, and by assumption (F), Frege holds that senses are objective and ab
 
 
 {%	include frege/biblio.html		%}
-{%  include comments.html %}

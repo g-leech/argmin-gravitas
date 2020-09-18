@@ -57,4 +57,3 @@ wordcount:
 - Editing the response data, instead of binning or rescaling.
 
 <!-- %  include mistake/foots.html %} -->
-{%  include comments.html %}

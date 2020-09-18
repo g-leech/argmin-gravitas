@@ -90,4 +90,3 @@ Clearly this does not defeat the radical sceptic in her original, Cartesian <a h
 
 <br>
 
-{%	include comments.html	%}

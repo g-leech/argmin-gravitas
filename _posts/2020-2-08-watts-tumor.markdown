@@ -104,6 +104,6 @@ I'm probably only so down on him because I got so excited by <i>Blindsight</i> a
 		In this case, I am probably about as trustworthy as Watts. Though I am only half a scientist.
 	</div>
 </div>
-{%	include comments.html	%}
+
 
 <br><br>

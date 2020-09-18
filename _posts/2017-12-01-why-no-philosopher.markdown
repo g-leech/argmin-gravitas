@@ -324,4 +324,3 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 * <a href="{{schw}}">Schwitzgebel on philosophy that opens</a>
 
 {%  include nophil/tangents.html     %}
-{%  include comments.html %}

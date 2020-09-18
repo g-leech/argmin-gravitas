@@ -54,4 +54,4 @@ This machine is less hedonistic than Nozick's <a href="http://en.wikipedia.org/w
 </ol>
 </div>
 
-{%  include comments.html %}
+

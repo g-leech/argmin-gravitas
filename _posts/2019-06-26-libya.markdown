@@ -73,7 +73,7 @@ The consequentialist argument against seemingly good wars is simple: it just alm
 
 <br>
 
-{%  include comments.html %}
+
 
 
 {%  include libya/foots.html %}

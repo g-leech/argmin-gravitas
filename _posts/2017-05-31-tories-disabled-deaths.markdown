@@ -257,6 +257,6 @@ Part 3 might be about the [mental health impact of WCA][mental], though maybe no
 [appeal]: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/558953/esa-wca-summary-september-2016.pdf#page=9
 [confu]: https://en.wikipedia.org/wiki/Sensitivity_and_specificity#Confusion_matrix
 
-{%  include comments.html %}
+
 
 {%  include killer-tories/foots.html %}

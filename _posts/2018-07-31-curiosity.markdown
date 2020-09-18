@@ -108,7 +108,7 @@ So the question is not "was Bacon the most original blah blah?": he wasn't, part
 		Stimulating as always.
 	</div>
 </div>
-{%	include comments.html	%}
+
 {%	include curio/foots.md	%}
 
 <br><br>

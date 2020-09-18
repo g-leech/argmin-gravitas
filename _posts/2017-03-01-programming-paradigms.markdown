@@ -46,4 +46,3 @@ processor abstraction (Go)
 
 
 
-{%  include comments.html %}

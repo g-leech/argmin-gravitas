@@ -23,4 +23,3 @@ What fraction of jobs are bad jobs? What fraction of candidates are bad candidat
 
 
 
-{%  include comments.html %}

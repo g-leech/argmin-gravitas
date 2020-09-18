@@ -71,7 +71,7 @@ More controversial is whether there’s significant overlap between short-term s
 The mid-term safety hypothesis (weak form): at least some work on current systems will transfer to AGI alignment.
 Some researchers who seem to put a lot of stock in this view: <a href="{{shah}}">Shah</a>, <a href="{{paul}}">Christiano</a>, <a href="{{vika}}">Krakovna</a>, <a href="{{olss}}">Olsson</a>, <a href="{{olah}}">Olah</a>, <a href="{{stein}}">Steinhardt</a>, <a href="{{amodei}}">Amodei</a>, <a href="{{krueger}}">Krueger</a>. (Note that I haven’t polled them; this is guessed from public statements and revealed preferences.) 
 
-Here are some alignment-relevant research areas dominated by non-EAs. I won’t explain these: I use the incredibly detailed taxonomy (and 30 literature reviews) of <a href="{{https://arxiv.org/pdf/2006.04948.pdf}}">Critch and Krueger</a> (2020). Look there, <a href="{{stein}}">and</a> <a href="{{fli}}">at</a> <a href="{{clr}}">related</a> <a href="{{chai}}">agendas</a> <a href="{{miri}}">for</a> explanations and bibliographies.
+Here are some alignment-relevant research areas dominated by non-EAs. I won’t explain these: I use the incredibly detailed taxonomy (and 30 literature reviews) of <a href="{{critch}}">Critch and Krueger</a> (2020). Look there, <a href="{{stein}}">and</a> <a href="{{fli}}">at</a> <a href="{{clr}}">related</a> <a href="{{chai}}">agendas</a> <a href="{{miri}}">for</a> explanations and bibliographies.
 
 * <a href="{{t}}">Transparency</a>
 * <a href="{{r}}">Robustness</a>
@@ -234,4 +234,3 @@ This argument depends on our luck holding, and moreover, on people (e.g. me) not
 <br>
 
 
-{%	include comments.html	%}
