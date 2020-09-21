@@ -22,9 +22,15 @@ argument:	ilp/argument.html
 {%  include ilp/links.md        %}
 
 
+> Haskell programs never crash - because they are never run.
+
+<center>—  proverb</center>
+<br>
+
+
 Inductive logic programming (ILP) is a subfield of ML for learning from examples $$E$$ and suitably encoded human "background knowledge" $$B$$, using logic programs to represent both inputs $${E, B}$$ and the output model $$h$$. 
 
-ML took over AI. What ILP shows is that the version of ML which exploded in the last decade is only one restricted form: "statistical ML" or "<a href="{{oral}}">propositional ML</a>".
+ML took over AI. What ILP shows is that the version of ML which exploded in the last decade is only one restricted form: "statistical ML" or "<a href="{{orallo}}">propositional ML</a>".
 
 The (potential) upsides of ILP are in some sense a <i>complement</i> of the benefits of deep learning, which is ubiquitous because of its tolerance of unstructured, noisy, and ambiguous data, and its learning hierarchical feature representations.
 
