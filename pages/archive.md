@@ -41,11 +41,15 @@ visible:  false
         {% endif %}
 <!--  -->
         <tr class="spaced">
-          <td style="width:55%;"><a class="archive-link" href="{{ post.url | prepend: site.baseurl }}"
+          <td style="width:55%;"><a class="archive-link frontpage" href="{{ post.url | prepend: site.baseurl }}"
             > > {{ post.title }}</a>
           </td>
 <!--  -->
-          <td> <small><i>{{ post.summary }}</i></small> </td>
+          <td> 
+            <small>
+              <a class="nolink" href="{{ post.url | prepend: site.baseurl }}"><i>{{ post.summary }}</i></a>
+            </small> 
+          </td>
 <!--  -->
         </tr>
 <!--  -->

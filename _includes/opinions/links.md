@@ -39,3 +39,6 @@
 {%	assign cell = "https://www.cell.com/current-biology/pdf/S0960-9822(19)31678-1.pdf"		%}
 {%	assign nz = "https://www.sciencedirect.com/science/article/abs/pii/S0001457517304256"		%}
 {%	assign pain = "http://www.bandolier.org.uk/booth/painpag/Acutrev/Analgesics/lftab.html"		%}
+{%	assign ace = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7156914/"	%}
+{%	assign thia = "https://www.cochrane.org/CD003824/HTN_thiazide-diuretics-for-the-treatment-of-high-blood-pressure"		%}
+{%	assign sodium = "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004022.pub4/full"	%}
