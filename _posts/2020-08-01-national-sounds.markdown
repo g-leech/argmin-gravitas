@@ -57,6 +57,11 @@ argument:
 		{%	include nation/fra.html	%}
 	</div>
 	<!--  -->
+	<h3>Germany</h3>
+	<div>
+		{%	include nation/ger.html	%}
+	</div>
+	<!--  -->
 	<h3>Japan</h3>
 	<div>
 		{%	include nation/jp.html	%}
