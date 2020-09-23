@@ -79,6 +79,7 @@
 			<li>March 1974: Television debut at CBGB</li>
 			<li>Autumn 1974: Westwood's clothes shop reopens as SEX, the edgiest place around. </li>
 			<li>August 1974: Ramones debut at CBGB</li>
+			<!-- https://en.wikipedia.org/wiki/Rodney_Bingenheimer#Radio_days:_KROQ -->
 			<li>January 1976: Issue #1 of 'Punk' magazine</li>
 			<li>June 1976: Sex Pistols at the <a href="{{lfth}}">Lesser Free Trade Hall</a></li>
 			<li>December 1976: Sex Pistols on the <a href="{{grun}}">Bill Grundy show</a>. 3rd ever televised "fuck".</li>

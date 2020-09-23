@@ -230,3 +230,5 @@
 
 {%	assign metamil = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3976349/"		%}
 {%	assign blass = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.7724&rep=rep1&type=pdf"	%}
+
+{%	assign alvaro = "https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/"	%}

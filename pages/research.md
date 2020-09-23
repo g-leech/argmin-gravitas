@@ -17,6 +17,7 @@ visible:	true
 {%	assign ac = "https://jpswalsh.github.io/academicons/"	%}
 {%	assign prolexa = "https://github.com/g-leech/prolexa" 	%}
 {%	assign htk = "https://github.com/g-leech/Py2HTK"	%}
+{%	assign algo = "https://people.maths.bris.ac.uk/~csxam/teaching/dsa"	%}
 
 
 <style>
@@ -50,7 +51,7 @@ visible:	true
 
 ## Journal
 
-
+<!-- _Safety Properties of Inductive Logic Programming_ (2020) -->
 
 <br>
 
@@ -91,7 +92,7 @@ On the robustness of effectiveness estimation of nonpharmaceutical interventions
 ## Teaching
 
 * 2019: TA for the fearsome _<a href="{{coms}}">COMS30007: Bayesian Machine Learning</a>_
-<!-- * 2020: Lead TA for COMS21103: Algorithms 2. -->
+* 2020: Lead TA for _<a href="{{algo}}">COMS21103: Algorithms 2</a>_.
 
 
 <!-- <br> -->

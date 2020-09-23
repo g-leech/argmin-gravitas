@@ -37,6 +37,11 @@
 	</li>
 	<br>
 	<li>
+		Reducing salt is <a href="{{sodium}}">a surprisingly bad</a> treatment for high blood pressure. If you <i>more than halve</i> your sodium intake, the average effect on systolic blood pressure is a 1% drop (white people with normal BP), or up to 4.5% (white people with hypertension), and it has an array of bad effects on your hormones and lipids. (For reference, thiazide gives an <a href="{{thia}}">8%</a> drop and ACE inhibitors give a <a href="{{ace}}">~7%</a> drop.)<br>
+		(<i>Confidence</i>: 70%)
+	</li>
+	<br>
+	<li>
 		Vaping is a <a href="{{vap}}">really remarkable</a> public health measure: thousands of times less carcinogens, increased cessation change, <a href="{{second}}">massively reduced second-hand exposure</a>, incredibly low cost. All of the reported acute deaths involve bootleg vaping fluid with excess vitamin E. Banning vaping and not smoking is a perfectly perverse policy which should be expected to shorten Californians' lives by thousands of years per calendar year.<br>
 		(<i>Confidence</i>: 70%)
 	</li>

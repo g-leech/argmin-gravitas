@@ -49,7 +49,7 @@ For an overview, it's probably easier to <a href="{{gr}}">look on Goodreads</a>.
 	<!--  -->
 	<h3>Now</h3>
 	<div>
-		<a href="{{current}}">I might work out how to get this out of the API</a>
+		{%	include books/widget.html	%}
 	</div>
 	<!--  -->
 	<!--  -->
