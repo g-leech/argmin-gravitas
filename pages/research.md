@@ -18,7 +18,7 @@ visible:	true
 {%	assign prolexa = "https://github.com/g-leech/prolexa" 	%}
 {%	assign htk = "https://github.com/g-leech/Py2HTK"	%}
 {%	assign algo = "https://people.maths.bris.ac.uk/~csxam/teaching/dsa"	%}
-
+{%	assign lgfo = "https://arxiv.org/abs/2009.11677"		%}
 
 <style>
 	.frame {
@@ -33,13 +33,13 @@ visible:	true
 
 <!-- https://jpswalsh.github.io/academicons/  -->
 <div class="frame">
-	<a href="{{goog}}">
+	<a class="nolink" href="{{goog}}">
 		<i class="ai ai-google-scholar ai-3x"></i>
 	</a>
-	<a href="{{orcid}}">
+	<a class="nolink" href="{{orcid}}">
 		<i class="ai ai-orcid ai-3x"></i>
 	</a>
-	<a href="{{bris}}">
+	<a class="nolink" href="{{bris}}">
     	<img src="/img/bris_logo.svg" width="15%" />
     </a>
 </div>
@@ -57,16 +57,20 @@ visible:	true
 
 ## Conference
 
+#### 2020
+
+* _<a href="{{neurips_covid}}" target="_blank">On the robustness of effectiveness estimation of nonpharmaceutical interventions against COVID-19 transmission</a>_, NeurIPS Spotlight paper.
+
 <!-- * _<a href="/files/COVID_conf_.pdf" target="_blank">The Robustness of Effectiveness Estimates of Nonpharmaceutical Interventions Against COVID-19</a>_ (2020) -->
 
 <br>
 
 ## Preprint
 
-* _<a href="{{covid}}" target="_blank">The effectiveness & burden of nonpharmaceutical interventions against COVID-19 transmission</a>_ (2020). <a href="#fn:1" id="fnref:1">1</a>
-* _<a href="{{neurips_covid}}" target="_blank">
-On the robustness of effectiveness estimation of nonpharmaceutical interventions against COVID-19 transmission</a>_ (2020).
-<!-- * _<a href="/files/LGFO.pdf" target="_blank">Legally Grounded Fairness Objectives</a>_ (2020) -->
+#### 2020
+
+* _<a href="{{covid}}" target="_blank">The effectiveness & burden of nonpharmaceutical interventions against COVID-19 transmission</a>_. <a href="#fn:1" id="fnref:1">1</a>
+* _<a href="{{lgfo}}" target="_blank">Legally Grounded Fairness Objectives</a>_ 
 <!-- * _<a href="/files/ILP_vs_DL_v0.9.pdf" target="_blank">Comparing Inductive Logic Programming & Deep Learning</a>_ (2020) -->
 <!-- * _<a href="/files/" target="_blank">The computational humour of single-word edits</a>_ (2020) -->
 <!-- * _<a href="/files/" target="_blank">Failing to Find Proxies for Population Loneliness</a>_ (2020) -->

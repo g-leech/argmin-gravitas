@@ -22,9 +22,12 @@ argument:	ilp/argument.html
 {%  include ilp/links.md        %}
 
 
-> Haskell programs never crash - because they are never run.
-
-<center>—  proverb</center>
+<center>
+    <blockquote>
+        Haskell programs never crash - because they are never run.
+    </blockquote>
+    — paraphrasing Randall Munroe
+</center>
 <br>
 
 
