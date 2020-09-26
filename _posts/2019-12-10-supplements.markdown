@@ -25,7 +25,7 @@ argument:
 <center> - <a href="{{g}}">Gwern Branwen</a></center><br>
 
 > every mouthful of food you and I have ever taken contained many billions of kinds of complex molecules whose structure and physiological effects have never been determined – and many millions of which would be toxic or fatal in large doses... we are daily ingesting thousands of substances that are far more dangerous than saccharin – but in amounts that are safe, because they are far below the various thresholds of toxicity. At present, there are hardly any substances, except some common drugs, for which we actually know the threshold.
-<center> - Edwin Jaynes</center><br>
+<center> - Edwin Jaynes (<a href="{{lic}}">...</a>)</center><br>
 
 In the last century, half a revolution happened: you can now buy <a href="{{thousands}}">many thousands of substances</a> that claim to promote health, and perhaps a couple of them do. 
 
