@@ -59,7 +59,7 @@ layout: default
     {%  else  %}
       <a class="prev"></a>
     {% endif %}
-      <a class="here" href="{{page.baselink | prepend: site.url}}">&laquo; you are here &raquo;</a>
+    
     {% if page.next.url %}
       <a class="next" href="{{page.next.baselink | prepend: site.url}}">{{page.next.title}} &raquo;</a>
     {%  else  %}
