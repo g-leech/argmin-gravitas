@@ -6,7 +6,7 @@ permalink:  /better-maths
 date:       2020-09-26
 author:     Gavin
 
-img:        
+img:        /img/cursed.jpg
 published:  true
 visible:    1
 
