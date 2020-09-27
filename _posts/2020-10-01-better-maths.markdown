@@ -18,6 +18,7 @@ wordcount:
 argument:   
 ---
 
+
 {%	assign adm = "https://en.wikipedia.org/wiki/De_Morgan%27s_laws"		%}
 {%	assign jang = "https://blog.evjang.com/2018/08/dijkstras.html"		%}
 {%	assign sym = "https://en.wikipedia.org/wiki/History_of_mathematical_notation#Symbolic_stage"	%}
@@ -175,6 +176,14 @@ You then see that for any given instance you just need to write the two subrouti
 More generally I don't see much <a href="{{di}}">dependency inversion</a> in proofs. Long proofs will include a sketch of the strategy, but mostly not with this lucidity. (Exceptions: Sipser, Chen.)
 
 Maybe this only works if you know some programming before you do higher maths (a lamentably rare condition).
+
+Here's an unfair but illuminating rant:
+
+> Imagine I asked you to learn a programming language where: <br /><br /> - All the variable names were a single letter, and where programmers enjoyed using foreign alphabets, glyph variation and fonts to disambiguate their code from meaningless gibberish. <br /><br /> - None of the functions were documented, and instead the API docs consisted of circular references to other pieces of similar code, often with the same names overloaded into multiple meanings, often impossible to Google.<br /><br /> - None of the sample code could be run on a typical computer; in fact, most of it was pseudo-code lacking a definition of input and output, or even the environment it was supposed to run. 		
+
+<center>
+	&#8213; Steven Wittens
+</center>
 
 <br>
 
