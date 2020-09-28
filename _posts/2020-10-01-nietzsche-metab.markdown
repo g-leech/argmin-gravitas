@@ -6,14 +6,14 @@ permalink:  /cornaro
 date:       2020-09-28
 author:     Gavin
 
-img:        
+img:        /img/nietzsche.png
 published:  true
 visible:    1
 
 summary:    A null hypothesis about longevity and diet.
 categories: health
 confidence: About human nutrition, so very low. IANAD.
-importance: 4
+importance: 5
 wordcount:  700
 argument:   
 ---
