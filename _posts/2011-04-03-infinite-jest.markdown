@@ -160,6 +160,19 @@ This can't help but <a href="{{death}}">resonate</a> now. Just because you're a 
 
 <br>
 
+---
+
+<br>
+
+
+That a book about the importance of sincerity became, first, the object of a cheap signalling game and, subsequently, the object of scorn and the received epitome of pretention, is just one of those fucking things.
+
+<br>
+
+---
+
+<br>
+
 ## See also 
 
 * <a href="/culture">Against the Culture</a>
