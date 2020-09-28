@@ -49,12 +49,6 @@ visible:	true
 <!-- I've published papers on reinforcement learning, epidemiology, AI safety, and   -->
 
 
-## Journal
-
-<!-- _Safety Properties of Inductive Logic Programming_ (2020) -->
-
-<br>
-
 ## Conference
 
 #### 2020
@@ -65,11 +59,18 @@ visible:	true
 
 <br>
 
+## Journal
+
+<!-- _Safety Properties of Inductive Logic Programming_ (2020) -->
+
+
+<br>
+
 ## Preprint
 
 #### 2020
 
-* _<a href="{{covid}}" target="_blank">The effectiveness & burden of nonpharmaceutical interventions against COVID-19 transmission</a>_. <a href="#fn:1" id="fnref:1">1</a>
+* _<a href="{{covid}}" target="_blank">The effectiveness of 8 nonpharmaceutical interventions against COVID-19 in 41 countries</a>_. <a href="#fn:1" id="fnref:1">1</a>
 * _<a href="{{lgfo}}" target="_blank">Legally Grounded Fairness Objectives</a>_ 
 <!-- * _<a href="/files/ILP_vs_DL_v0.9.pdf" target="_blank">Comparing Inductive Logic Programming & Deep Learning</a>_ (2020) -->
 <!-- * _<a href="/files/" target="_blank">The computational humour of single-word edits</a>_ (2020) -->
