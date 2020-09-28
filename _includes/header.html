@@ -17,9 +17,11 @@
         {% for page in site.pages %}
           {% if page.visible == true %}
               <a class="headText frontpage" href="{{ page.url | prepend: site.url }}">{{ page.title }}</a> 
-              {% if forloop.last == false %}
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-              {% endif %}
+              
+              {% if page.title != "Research" %}
+                  &nbsp;&nbsp;|&nbsp;&nbsp;
+              {%  endif  %}
+              
           {%  endif  %}
         {% endfor %}
       </div>
