@@ -14,6 +14,7 @@ summary:    How to pitch sincerity when sincerity is passé.
 categories: meaning
 confidence: 
 importance: 3
+warnings: 	suicide, nihilism
 wordcount:  
 argument:   
 ---
