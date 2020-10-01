@@ -3,7 +3,7 @@ layout:     post
 title:      "Showing over saying"
 baselink:   /tractatus
 permalink:  /tractatus
-date:       2010-09-06
+date:       2010-09-10
 author:     Gavin   
 img:        /img/
 
