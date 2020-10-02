@@ -29,7 +29,7 @@ cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philo
     <div>  
     	<i>August 2019</i>: I am no longer confident of this. Even then I found myself piling up many kinds of philosophy one should be doing - e.g. negative philosophy against bad philosophy, practical ethics, schemes for handling moral uncertainty, logic, population ethics, existential risk.<br><br>
 <!--  -->
-    	The relatively small <i>active</i> effort on many questions (at most only a few hundred lifetimes, and more often much less than one) is a good argument for it not being impossible to solve philosophical questions. (Less-likely impossible in proportion to neglect.) Also there's <a href="{{dai}}">the importance of</a> <a href="{{zhu}}">non-perverse philosophy</a> for making a future artificial intelligence; it doesn't need to be right or definite, but it needs to land in a non-insane part of philosophical space.<br><br>
+    	The relatively small <i>active</i> effort on many questions (at most a few hundred careers, and more often much less than one) is a good argument for it not being impossible to solve philosophical questions. (Less-likely impossible in proportion to neglect.) Also there's <a href="{{dai}}">the importance of</a> <a href="{{zhu}}">non-perverse philosophy</a> for making a future artificial intelligence; it doesn't need to be right or definite, but it needs to land in a non-insane part of philosophical space.<br><br>
 <!--  -->
     	I've left it up, since many of the individual rebuttals to common bad arguments still hold.
 	</div>
