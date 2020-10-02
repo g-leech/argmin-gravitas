@@ -223,7 +223,7 @@ We don't need to endorse any pseudoscience about "learning styles" to think that
 
 I'm not claiming that the above are the most important problems with maths teaching. Focussing on mechanical manipulation over insight, and on reproduction rather than creativity, seem like more dire mistakes.
 
-All of academic science is stuck on many of the above, stuck in the 90s. Maybe worst is <a href="{{romer}}">the stagnation</a> of the conventional paper: static in visuals; never revised unless gross misconduct can be proven; completely decoupled from its justifying evidence and code. Was the last big innovation the hyperlink, <a href="{{href}}">1995</a>? Here are <a href="{{bret}}">two</a> <a href="{{dist2}}">examples</a> of great post-papers, and <a href="{{dist}}">a manifesto</a>. (My field, machine learning is unsually tolerant of blog posts, but is still a long way from giving them equal respect, even when it's warranted.)
+All of academic science is stuck on many of the above, stuck in the 90s. Maybe worst is <a href="{{romer}}">the stagnation</a> of the conventional paper: static in visuals; never revised unless gross misconduct can be proven; completely decoupled from its justifying evidence and code. Was the last big innovation the hyperlink, <a href="{{href}}">1995</a>? Here are <a href="{{bret}}">two</a> <a href="{{dist2}}">examples</a> of great post-papers, and <a href="{{dist}}">a manifesto</a>. (My field, machine learning is unusually tolerant of blog posts, but is still a long way from giving them equal respect, even when it's warranted.)
 
 
 <br>
