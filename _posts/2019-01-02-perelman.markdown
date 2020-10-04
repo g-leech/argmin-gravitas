@@ -81,7 +81,17 @@ Valery Ryzhik's story about the evil entrance exam he sat is so, so sad:
 
 One of the oddest things about Perelman is that he'd disagree with me when I called maths "apolitical". This, combined with his being an actual deontologist in a world of opportunists, maybe explains him turning down a million quid and the highest honours his world can bestow: <i>maths</i>, the least animal and least irrational thing we have, is still too political for him. 
 
-There was <a href="{{yau}}">a little bit</a> of dishonesty and jostling at the time of the announcement - but nothing compared to any other science, let alone any government. Maybe the protective bubble everyone set up for him was bad for him, because it robbed him of perspective and so made the mild case of fuckery he suffered seem like a complete invalidation of mathematical culture. 
+> [Hamilton] was smiling, and he was quite patient. He actually told me a couple of things that he published a few years later. He did not hesitate to tell me. Hamilton’s openness and generosity — it really attracted me. I can’t say that most mathematicians act like that.
+
+> I personally decided for myself that it was right for me to stay away from verification [of his proof] and not to participate in all these meetings. It is important for me that I don’t influence this process.”
+
+> Perelman told Interfax he considered his contribution to solving the Poincare conjecture no greater than that of Columbia University mathematician Richard Hamilton. "To put it short, the main reason is my disagreement with the organized mathematical community. I don't like their decisions, I consider them unjust."
+
+> He mentioned a dispute that he had had years earlier with a collaborator over how to credit the author of a particular proof, and said that he was dismayed by the discipline’s lax ethics. “It is not people who break ethical standards who are regarded as aliens,” he said. “It is people like me who are isolated... there are many mathematicians who are more or less honest. But almost all of them are conformists. They are more or less honest, but they tolerate those who are not honest.”
+
+> We asked Perelman whether, by refusing the Fields and withdrawing from his profession, he was eliminating any possibility of influencing the discipline. “I am not a politician!” he replied, angrily. 
+
+There was <a href="{{yau}}">a bit</a> of dishonesty and jostling at the time of the announcement - but nothing compared to any other science, let alone any government. Maybe the protective bubble everyone set up for him was bad for him, because it robbed him of perspective and so made the mild case of fuckery he suffered seem like a complete invalidation of mathematical culture. 
 
 But maybe a rigorous rule-based mind would always explode eventually, even if given a scale to measure instances of bias.
 

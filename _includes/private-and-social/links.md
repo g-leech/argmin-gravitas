@@ -23,3 +23,4 @@
 {%		assign eighteen = "https://www.ucas.com/corporate/news-and-key-documents/news/largest-ever-proportion-uks-18-year-olds-entered-higher-education-2017-ucas-data-reveals"		%}
 {%		assign eng = "https://www.gov.uk/government/collections/statistics-on-higher-education-initial-participation-rates"		%}
 {%		assign kp = "https://theunitofcaring.tumblr.com/post/182920152426/im-an-adjunct-professor-what-can-i-do-to-make"	%}
+{%		assign can = "https://www.concordia.ca/artsci/irish-studies/research/journal.html"		%}

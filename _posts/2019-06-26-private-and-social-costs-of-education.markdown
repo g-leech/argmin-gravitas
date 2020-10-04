@@ -48,7 +48,7 @@ We should distinguish private returns (pay, increased confidence, increased know
 
 ### Productivity
 
-Are educated people more productive? Yes. But did their education cause this? Only <a href="{{card}}">to some extent</a>.
+Are educated people more productive? Yes. But did their education cause this? <a href="{{card}}">To some extent</a>!
 
 The reason to pay particular attention to the economic side of the social return is not that money is the most important thing, but because anything that doesn't give net economic returns can't be kept up without trading off against something else, like infrastructure, or social care, or life-giving research, or (let me dream) the <a href="/x-for-all">fate of the world</a>.
 
@@ -62,7 +62,7 @@ Two of the most careful psychologists I know came out with <a href="{{rit}}">an 
 
 If this doesn't astonish you, then you haven't being paying attention to just how hard it is to raise intelligence (except by correcting malnutrition or severe pollution).
 
-If this estimate is on the correct order of magnitude, then while there are massive private benefits to this effect, the social gains from a more capable citizens will be huge.
+If this estimate is on the correct order of magnitude, then while there are massive private benefits to this effect, the social gains from more capable citizens will be huge.
 
 ### Noneconomic gains
 
@@ -75,17 +75,17 @@ But again, what matters in policy terms is the relative size of social gain and 
 
 #### Knowledge
 
+_this section is incomplete_
+
 This is quite easy to check: how much do people remember from uni, for how much of their lives?
 
 * Doctors have forgotten all of their basic science training 5 years out
 
 (I remember being scandalised by some of my peers selling all their textbooks _as soon as_ they graduated. But clearly they knew more about social reality than me.)
 
-People know this isn't the real reason, because they instead emphasise metacognition, "learning how to think".
+Cultural continuity - preserving the knowledge and ideas of past generations - depends on a mixture of education and autodidacts. I don't know what the value of preserving a tradition of Hegelianism or <a href="{{can}}">Canadian Irish studies</a> is.
 
-Cultural continuity - preserving the knowledge and ideas of past generations - depends on a mixture of education and autodidacts. I don't know what the value of preserving .
-
-
+But people know this isn't the real reason for education, because they instead emphasise metacognition, "learning how to think":
 
 
 #### Critical thinking
@@ -94,12 +94,16 @@ There's a <a href="{{crit}}">small, diminishing, and temporary</a> effect on cri
 
 #### Virtue
 
-This is in the same region as the old "reading novels makes you empathetic" research programme.
+_this section is incomplete_
+
+This is in the same vein as the old "reading novels makes you empathetic" research programme.
 
 I have no idea if this is generally true - I was a critical voluntarist before university, the most empathetic people I know did not go to university, and most of my Arts peers emerged with none of these things - but I can tell you I had a very good time. And this, the self-justifying private fulfilment, gives me reason to worry about society's end of the bargain. It'd be very convenient if what (bookish and middle-class) people found most personally fulfilling was also the best thing for all.
 
 
 #### Politics
+
+_this section is incomplete_
 
 Does it make people engage more with actual politics? (Not just social media talk: volunteering, running.)
 
@@ -138,6 +142,8 @@ People who suffer from uni are rarer, but I've met <a href="{{kp}}">a few</a>. T
 
 
 ### Credential inflation as perverse redistribution
+
+_this section is incomplete_
 
 Using school as the main signal of employability is terrible for the many people who cannot handle bureaucracy, being told what to do, pointless makework, or authority. Autodidacts are amazing but rare and rarely respected as much as they should be.
 
