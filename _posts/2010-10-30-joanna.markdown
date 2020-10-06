@@ -1,0 +1,324 @@
+---
+layout:     post
+title:      "'Have One on Me' (2010) by Joanna Newsom"
+baselink:   /hoom
+permalink:  /hoom
+date:       2010-10-30  <!--site.time-->
+author:     Gavin   
+img:        
+
+visible:    1
+published: 	true
+quality:    6
+
+summary:    A reading of the best album of the last 20 years.
+confidence: internally consistent
+warnings:   
+categories: music, love, art
+importance: 4
+pride:      8
+wordcount:  6000
+argument: 	hoom/argument.html
+---
+
+{%	assign hook = "http://www.jstor.org/sici?sici=0261-1430%28198701%296%3A1%3C1%3AATO"	%}
+{%	assign bon = "https://en.wikipedia.org/wiki/Bonnie_%22Prince%22_Billy"	%}
+
+
+
+<center>
+	<img width="60%" src="/img/hoom/755mujoannanewsom1open.jpg" />
+	<br><br>
+
+
+
+<blockquote>
+...<i>do her words really need to be broken down like formulae? I think not. Simply to escape into the world of Joanna and be incapsulated into it and applauding it is enough. And maybe not understanding completely is the more beautiful act of musical appreciation, lack of total understanding leaves the listener with a humbled nice sense of ignorant awe</i>.
+</blockquote>
+&#8213; <i>Guardian</i> commenter
+
+<br><br>
+(Forgive me; I am not satisfied by ignorant awe.)
+</center>
+
+<br>
+
+<a name="section1"></a>
+
+## Give love a little shove and it becomes terror
+
+Newsom is hard work. Well, <i>Have One On Me</i> is a map of the heart, and you shouldn't expect those to offer themselves lightly. 
+
+The album covers the forms of love: <i>divine</i> or <i>agape</i> (tracks (<a href="#section8.3">3</a>, <a href="#section8.7">7</a>, <a href="#section8.14">14</a>); <i>filial</i> (<a href="#section8.9">track 9</a>, <a href="#section8.14">14</a>); <i>courtly</i> (<a href="#section8.2">track 2</a>); <i>obsessional</i> (tracks <a href="#section8.1">1</a>, <a href="#section8.5">5</a>, <a href="#section8.10">10</a>); <i>maternal</i> (<a href="#section8.6">track 6!</a> but touches in <a href="#section8.1">1</a>, <a href="#section8.5">5</a>, <a href="#section8.11">11</a>, <a href="#section8.14">14</a>); <i>platonic</i> (passionate friendship: <a href="#section8.8">track 8</a> and maybe <a href="#section8.11">11</a>); <i>panicked</i> (track <a href="#section8.4">4</a>); <i>dependent</i> (track <a href="#section8.5">5</a>, <a href="#section8.10">10</a>, <a href="#section8.16">16</a>); <i>wilful</i> (track <a href="#section8.1">1</a>, <a href="#section8.16">16</a>); <i>of place</i> (<a href="#section8.9">track 9</a>); <i>destructive</i> (<a href="#section8.2">2</a>, <a href="#section8.8">8</a>, <a href="#section8.10">10</a>, <a href="#section8.15">15</a>, <a href="#section8.3">16?</a>, <a href="#section8.17">17?</a>); <i>forbidden</i> (<a href="#section8.2">track 2</a>); <i>unrequited</i> (<a href="#section8.18">track 18</a> above all, but <a href="#section8.1">1</a>, <a href="#section8.7">7</a>, <a href="#section8.10">10</a>, <a href="#section8.15">15</a>) and <i>love of self</i> (track <a href="#section8.3">3</a>, <a href="#section8.4">4</a>, <a href="#section8.13">13</a>). It exalts, despairs, casts about in the land.
+
+Rock reviews miss the point in territory like this. There was a great deal written about it being a triple!! album!!!, which obscures the <i>real</i> way it's ambitious; this 123-minute thing requires patience because of its richness, not its length. The length (songs 6 mins on average), her  vocabulary, voice, caesura, unfamiliar instruments slow us down, and then there's the alien allusions that leave us out, first of all.
+
+Pretension, affectation, whimsy are just unavoidable side-effects of ambition. The lyrics work on their own as poetry, which is so rare in even the best pop music <a href="#fn:1" id="fnref:1">1</a>.
+
+It ain't Renaissance music, but it is sacred. (American Secular Sacred). My mate James says it's "_a book of an album. It's Middlemarch_", and this is the case. Though, since it's episodic and woozy and dark, I'd call it Nabokov's <i><a href="http://www.ada.auckland.ac.nz/">Ada</a></i> more. James also spits at people who emphasise the bits of her that appear Medieval&nbsp;- but the fact is, she <i>is</i> making historical music; it's drenched in dead music. But it's the blues; Ol' Opry cakewalks; cabaret; parlour-music; Appalachiana; and gospel, rather than the pre-Baroque. (<a href="http://en.wikipedia.org/wiki/Gershwin">Gershwin</a> &gt; <a href="http://en.wikipedia.org/wiki/Orlando_Gibbons">Gibbons</a>.) Given this marinade of early American popular music and William Faulkner, Newsom sounds lasting.
+
+
+I don't listen to her for historical satisfaction. What I love about it are the many moments of perfect sound and sense, the grand <a href="{{hook}}">hooks</a>". There's so many here because the songs are so long and get the time to climb all that way up.
+<br>
+
+
+<a name="section2"></a>
+
+## Man vs Life
+
+<img class="lazy" data-src="/img/hoom/big.png" >
+
+A type of love pointedly missing in the above rundown is <i>empathic</i> love. Where <i>Ys</i> burbled with anthropomorphisations, companion animals, and a general affinity with the universe, <i>Have One on Me</i>, while still full of nature, is much more about the Rancher (a lonesome, domineering social product nestling in a hostile world). It's sensual, snug, and macabre where _Ys_ was abstract, epic, and pure.
+
+"<i>I hope Mother Nature has not overheard!<br />(Though, she doles out hurt like a puking bird.)</i>" - <a href="#section8.8"><i>You and Me, Bess</i></a> 
+
+
+"<i>Driven through with her own sword,<br /> 
+Summer died last night, alone.</i>" - <a href="#section8.15"> Autumn</a>
+
+
+"<i>Wolf-spider, crouch in your funnel nest,<br />...have I had a hand in your loneliness?</i>" - <a href="#section8.11"> Go Long</a>
+
+"<i>Black nose of the dog / As cold as a rifle </i>" - <a href="#section8.16"> Ribbon Bows</a> 
+
+
+With nature so terrible, the only safe place is civilisation, specifically the arms of someone who may or may not stay. The cover is filled with dead things: a judgmental peacock, half-plucked; a stuffed deer wearing a feather headdress; a divan draped in leopardskin - and her, langorous and deathly in the centre. And her animal motif-characters are this time uniformly malign - even Bess the horse makes "glad neighing", at highwayman-Joanna's hanging.
+
+
+The significance is that the animals are <i>aspects</i> of the human characters. Newsom deals with the coldnesses, stubbornnesses or malices of the male lead and female lead via animal symbols.
+
+<div class="accordion">
+	<h3>Motifs</h3>
+	<div>
+		<ul>
+			<li>"WATERS" ( which both separates and connects two banks, or, fertility)</li>
+			<li>THE DANGERS OF FEMININITY
+				11. "...my ankles are bound in gauze, sickly dressage,"<br />
+				16. "My mama may be ashamed of me with all of my finery..."<br />
+				18. "I have gotten into some terrible trouble / beneath your blank and rinsing gaze."
+			</li>
+			<li>GOD IS SHIT, the indifference of Nature<br />
+				2. "like a cornered rat"<br />
+				10. "my faith makes me a dope"<br />
+				13. "I glare and nod, like the character, God bearing down"<br />
+				14. a feared mistress<br />
+				16. using your dog as your theologian<br />
+				16. "When I am alone, I take my god to task"<br />
+				17. "To whose authority do you consign your soul?"
+			</li>
+			<li>
+				FLAME / BURNING (that feel.)<br />
+			</li>
+			<!-- + TRAVEL &amp; EXILE; EAST vs WEST<br /> -->
+			<!-- + "BLUE"  -->
+		</ul>
+	</div>
+</div>
+<br><br>
+
+<center>
+	<img class="lazy" data-src="/img/hoom/rous.jpg" width="80%" /><br>
+	<small>Henri Rousseau, "The Dream" (1910)</small>
+</center>
+<br>
+
+
+
+
+<a name="section3"></a>
+
+## The arc
+
+The best hope for a unified story arc comes if we pick out the farm couple, seen most clearly in track 5, "No Provenance". This easily ties into the Californian childhood arc, which is also the one who is intrigued by Lola Montez and empathises with her vengeance. My reading splits things into:
+
+<ul>
+	<li>FARM COUPLE songs (tracks 1, 5, 17, and 18) most clearly, but the others fit pretty well.</li>
+	<br />
+	<li>ALLEGORIES (tracks 2, 3, 8, 11, 17). Aye; more allegorical than usual.</li>
+</ul>
+
+
+Who are 'the farm couple' then? <em>She</em> is a grown woman on earth variously known as "Lola"; a mad horse; Birch's mother; Dick Turpin; a Nevadan; Esme's adorer; "slow-heart"; Joanna Newsom. I'll call her <i>J</i>. 
+
+<i>He</i> is, variously: "King Ludwig I"; "dragon"; "Bess"; Bluebeard; a magpie and a bluejay; a wolf-spider; a "silly goose"; "long-life"; and various hinted-at male celebrities whom I'm not interested in gaping at. Call him <i>B</i>.
+
+
+We've only clues. I say "Newsom" when I mean "the songwriter", and "J" for the protagonist - nothing more presumptuous (history is just organised gossip).
+
+I don't believe in overreading. Interpretations are second-order features, and if you honestly see [x] in a thing, then [x] is there. 
+
+The album has an arc: from the courting of "Easy" to the final moving out of the shared apartment in "It Does Not Suffice". Each disc has its own subarc too (consider the mood swing between "Esme" and the next track), but I'm less clear on those.
+
+
+<br />
+
+---
+
+<br> <a name="section4"></a>
+
+## Disc 1
+
+<center>
+	<img class="lazy" data-src="/img/hoom/disc1.png" width="40%" />
+</center>
+<br>
+
+<style type="text/css">
+  .tg  {border-collapse:collapse;border-spacing:0;border-width:1px;}
+  .tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+  .tg th{font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+</style>
+
+<a name="section8.1"></a>
+<a name="section8.2"></a>
+<a name="section8.3"></a>
+<a name="section8.4"></a>
+<a name="section8.5"></a>
+<a name="section8.6"></a>
+
+<div class="accordion">
+	{%		include hoom/easy.html 		%}
+	{%		include hoom/hoom.html 		%}
+	{%		include hoom/81.html 		%}
+	{%		include hoom/good.html 		%}
+	{%		include hoom/noprov.md 		%}
+	{%		include hoom/baby.md 		%}
+</div>
+
+<!-- DISC 1 STATS<br />
+Key progression: Fmin -&gt; Dmaj7 -&gt; Dmin -&gt; C -&gt; Cmin (...) -&gt; D<br />
+Band progression:<br />
+Chamber -&gt; Old chamber -&gt; Harp 
+<br>
+
+
+-&gt; Band -&gt; Old chamber -&gt; Harp (+ band outro) -->
+
+
+
+--- 
+
+<br>
+
+## Disc 2
+
+<center>
+	<img class="lazy" data-src="/img/hoom/disc2.jpg" width="50%" />
+</center>
+<br>
+
+
+<a name="section8.7"></a>
+<a name="section8.8"></a>
+<a name="section8.9"></a>
+<a name="section8.10"></a>
+<a name="section8.11"></a>
+<a name="section8.12"></a>
+
+<div class="accordion">
+	{%		include hoom/ona.html 		%}
+	{%		include hoom/bess.html 		%}
+	{%		include hoom/cali.html 		%}
+	{%		include hoom/jack.html 		%}
+	{%		include hoom/go.html 		%}
+	{%		include hoom/occid.md 		%}
+</div>
+
+
+
+
+
+<!-- <br />
+<blockquote>
+DISC 2 STATS
+Key progression: Bb -&gt; C -&gt; C (up to D) -&gt; C -&gt; ?? (B) -&gt; Amin&nbsp;</blockquote>
+<blockquote>
+Band progression:<br />
+Harp -&gt; Harp n horns -&gt; rustic Chamber-&gt; Harp -&gt; Harp -&gt; Piano
+</blockquote>
+<br /> -->
+
+
+****************************************************************************************
+<br />
+
+## Disc 3
+
+<center>
+	<img class="lazy" data-src="/img/hoom/disc3.jpg" width="40%" />
+</center>
+<br>
+
+
+<a name="section8.13"></a>
+<a name="section8.14"></a>
+
+
+
+<div class="accordion">
+	{%		include hoom/chalk.html 		%}
+	{%		include hoom/esme.html 		%}
+	{%		include hoom/autumn.html 		%}
+	{%		include hoom/ribbon.html 		%}
+	{%		include hoom/king.html 		%}
+	{%		include hoom/suffice.html 		%}
+</div>
+
+
+
+---
+
+<br>
+
+## Misc notes
+
+<div class="accordion">
+	{%		include hoom/voice.html		%}
+	<h3>DRUM</h3>
+	<div>
+		Neal Morgan's percussion work (writing and performing) is the only voice in the thing that matches hers (all the other instruments are in thrall). A couple of times he saves her from gaucheness - imagine; drums, adding sophistication! - like when she does her bird-swoops at the end of "In California".<br><br>
+		He's got a particular jazz-born genius, but it's more obvious live. He makes the first disc ring out, then retreats from disc 2 except his star turn in "In California". His drumwork is the album's weather or stage design. They thunder (In California) and give the upbeat (Good Intentions) a tailwind. And, in the plaintive explosion that closes the album, they're the sound and fury that J is too undone to have.
+	</div>
+</div>
+
+<br />
+
+
+
+
+
+
+<!-- <a name="section7">9. Common calumnies</a>
+
+
+She's most commonly derided as childish... or an antiquarian. I reckon this contradiction divides neatly along <a href="http://www.youtube.com/watch?v=3XMJl-HCO7A">which of the reviewers have seen her live.</a> In person she's hyper-feminine, and on record, superhuman.
+
+
+<img src="https://3.bp.blogspot.com/_1jKHfOdSZhQ/TLZIs4rDRFI/AAAAAAAAAjA/CrTEbHq7fFY/s320/20040929_000933_40049900.jpg" id="BLOGGER_PHOTO_ID_5527685528608261202" > <br />
+Criticism criticism: -->
+
+
+<!-- <i>"Indulgent":</i> No, unrestrained. See also "Artistically immature", and so on.<br />
+<i>"Pretentious": </i>No, ambitious, maximal.<i> </i>One reviewer renamed it "The Audacity of Harp". Comes from indie's suspicion of grandeur, the amalgamation's inverse snobbery.<i><br />"Unstructured":</i> No, subtle. "Proggy", at worst.<br />
+"<i>Understated</i>" &amp; "<i>Direct</i>": Also nonsense, can only come from listening to it right after <i>Ys</i>.<br />
+"<i>Joni Mitchell / Kate Bush / Laura Nyro / Tori Amos" : </i>Shame we've so few women experimenting, I suppose. If anyone: Ruth Crawford Seeger in Elizabeth Fraser's throat.<br />
+"Twee": No, romantic.<br />
+<i>"Affected": </i>Jesus christ no; fantasy; theatric!
+ -->
+
+<!-- - "I only really put her on when I have PMS" <br />&nbsp;nbsp;- a friend -->
+
+<!-- Consensus: having a vocabulary makes you ethereal, and if a voice is challenging, it is "affected". -->
+
+
+
+<!-- <img src="https://4.bp.blogspot.com/_1jKHfOdSZhQ/TIZkkVwWBTI/AAAAAAAAAVY/MoXb705903Q/s320/joanna_newsom.jpg" /> -->
+
+
+<!-- "[When recording <i>Have One On Me</i>] I had the feeling of being a little kid coming home from church. I was in my tight, scratchy sailor dress and my tight, scratchy patent-leather shoes. It was the feeling of tearing it all off and running around outside in my underwear." -->
+
+
+
+
+{%	include hoom/foots.html	%}
+{% 	include lazyload.html 	%}
