@@ -97,7 +97,7 @@ I take this seriously enough that I quit caffeine. But if withdrawal reversal _a
 
 <br>
 
-Could billions of people really do something every day and not notice it net effect? Could science fail to discover or communicate this for decades, despite the experiments being cheap and safe? (...)
+Could billions of people really do something every day and not notice it has no net effect? Could science fail to discover or communicate this for decades, despite the experiments being cheap and safe? (...)
 
 
 <br>
@@ -246,7 +246,7 @@ Release your fear; fame will bring you some safety.
 
 ## See also
 
-* <a href="{{gb}}">Gwern</a>, who gave me the idea
+* <a href="{{gwern}}">Gwern</a>, who gave me the idea
 
 <br><br>
 
