@@ -1,19 +1,19 @@
 ---
 layout:     post
-title:      "Stimulant tolerance; or, the tears of things"
+title:      "Stimulant tolerance, or, the tears of things"
 baselink:   /stims
 permalink:  /stims
-date:       2020-04-24
+date:       2020-10-07
 author:     Gavin   
 img:        /img/
 
 visible:    1
-published:  false
+published:  true
 
-summary:    Do stimulants do anything, when used chronically?
-quality:    
-confidence: 
-importance: 
+summary:    Do stimulants do anything, used chronically?
+quality:    5
+confidence: 60%. Involves human nutrition and high-level behaviour, two weak sciences.
+importance: 6
 wordcount:      
 categories: biochemistry, self-help, quantified-self
 argument:	
@@ -22,32 +22,234 @@ argument:
 <!-- Writing Checklist -->
 <!-- https://roamresearch.com/#/app/gleech/page/5jHVvVI8w -->
 
+<style>
+	@media (min-width: 30em) {
+	.i {
+		width: 49%
+	}
 
-<!-- 
-> Here, the praiseworthy gets its rewards;
-There are tears at the heart of things, and mortal things touch the mind.
-Release your fear; this fame will bring you some safety.
+	.i2 {
+		width: 69%
+	}
+}
+</style>
+
+
+{%	assign ath = "https://jissn.biomedcentral.com/articles/10.1186/1550-2783-7-5"	%}
+{%	assign sig = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2738587/#R20"	%} 
+{%	assign brain = "https://brainlabs.me/"	%}
+{%	assign rog = "https://www.nature.com/articles/npp201071"	%} 
+{%	assign kar = "https://www.ncbi.nlm.nih.gov/books/NBK430790/"	%} 
+{%	assign gwern = "https://www.gwern.net/Nootropics#caffeine"	%}
+{%	assign down = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3437321/"	%}
+{%	assign rog2 = "https://link.springer.com/article/10.1007%2Fs00213-012-2889-4"		%}
+
+> Withdrawal from caffeine causes... headache, fatigue, decreased energy/activeness, decreased alertness, drowsiness, decreased contentedness, depressed mood, difficulty concentrating, irritability, and feeling foggy/not clearheaded... abstinence from low doses, such as about one small cup of coffee per day, also produced symptoms of withdrawal.
 
 <center>
-	- Virgil
+	&#8213; <a href="{{kar}}">Karima et al</a> (2009)
+</center>
+<br>
+
+
+> Despite 100 years of psychopharmacological research, the extent to which caffeine consumption benefits human functioning remains unclear.
+
+<center>
+	&#8213; <a href="{{rog2}}">Rogers et al</a> (2013)
+
+</center>
+
+<!-- > it’s not clear that caffeine results in performance gains after __long-term__ use; homeostasis/tolerance is a concern for all stimulants, but especially for caffeine. It is plausible that all caffeine consumption does for the long-term chronic user is restore performance to baseline.
+
+<center>
+	&#8213; <a href="{{gwern}}">Gwern</a>
+</center>
+ --><br>
+
+
+You wake at 7am and, as usual, immediately put the coffee on.
+
+Consider two (extreme) scenarios for a quickly-eliminated, chronic-use substance like coffee:
+
+
+<center>
+	<img class="i" src="/img/positive.svg" />
+	<img class="i" src="/img/reversal.svg" />
+	<a href="#fn:4" id="fnref:4">4</a>
+</center><br>
+
+In one case, the caffeine lifts you above your previous performance and then resets over the day. In the other, the morning caffeine undoes a withdrawal, returning you to your previous performance, but then makes you _worse_ than before by the end of the day.
+
+The worry is that chronic use of caffeine creates a problem and then masks it by associating itself with the relief of those symptoms. (This might further be disguised if acute caffeine use is like the left hand graph.)
+
+(Again, that right-hand graph is not realistic. In reality the graphs will cross; the rest of this is just wrangling over where the crossing is. Does caffeine actually raise average performance?)
+
+The theoretical reason to expect that chronic use looks like the right-hand graph is "<a href="{{down}}">downregulation</a>": the body foils most  attempts to permanently increase almost anything to do with the brain. Then there's a bunch of empirical studies that attempt to measure whether chronic effects are net positive.
+
+* _strong withdrawal reversal hypothesis_: the cognitive effects of chronic caffeine use are not net positive.
+* _beneficial naivety hypothesis_: the cognitive effects of caffeine use are net positive in naive users.
+
+I take this seriously enough that I quit caffeine. But if withdrawal reversal _and_ beneficial naivety are both true, it implies that we should instead _cycle_ caffeine (use on one day, then take a break). But then what's the cycle length that avoids harm? 
+
+<br>
+
+---
+
+<br>
+
+Could billions of people really do something every day and not notice it net effect? Could science fail to discover or communicate this for decades, despite the experiments being cheap and safe? (...)
+
+
+<br>
+
+---
+
+<br>
+
+
+### Causal graphs
+
+
+<center>
+	<img src="/img/a.gv.svg" /><br>
+</center>
+<!-- - Caffeine $$\to$$ arousal $$\to$$ productivity +$$a$$
+- Caffeine $$\to$$ poor sleep $$\to$$ fatigue $$\to$$ poor cognition $$\to$$ productivity -$$b$$
+- Caffeine $$\to$$ tolerance $$\to$$ morning withdrawal $$\to$$ productivity -$$c$$
+ -->
+
+<br>
+
+The sceptical hypothesis is that `|b+c| > |a|`.
+
+<br>
+
+### What could caffeine help with?
+
+To see the overall effect of caffeine, we need to distinguish closely related effects:
+
+- Mental stamina (how long you go)
+- Subjective energy (how hyped you feel)
+- Motivation (how able to start you are)
+- Vigilance (how much you focus)
+- Working memory (how well you keep current tasks in mind)
+- Recall speed (how quickly you remember past things)
+- Recall accuracy (how well you remember) <a href="#fn:1" id="fnref:1">1</a>
+
+We could bundle all of these up into "productivity", but that's extremely difficult to measure.
+
+Gwern, who has looked into this more than me, continues to take it, since he assumes the motivational effects are net positive:
+
+> For me, my problems tend to be more about akrasia and energy and not getting things done, so even if a stimulant comes with a little cost to long-term memory, it’s still useful for me. 
+
+This just raises the question of whether the motivation effect is real or a reversal though. (It might be that not all of caffeine's effects get blocked over time; for instance the athletic gains.)
+
+<br>
+
+### How fast does tolerance build?
+
+<a href="{{kar}}">Karima</a>:
+
+> caffeine withdrawal occurred after as little as three days of caffeine exposure
+
+This suggests that if you're cycling it, you can take it two days on, n days off.
+
+(In practice, people only seem to use it daily or never, but I don't know if this bimodal thing is mostly biological.)
+
+<br>
+
+
+### Literature
+
+This question - whether 80% of all adults are fooling themselves - is surprisingly little studied, and the ones that have been done include lots of useless n=20 studies.
+
+There was a cluster of work in the early 00s, mostly confirming or consistent with withdrawal reversal, but very little since.
+
+Keywords: "withdrawal reversal", "net [beneficial] effects of chronic administration".
+
+#### The real deal
+
+I found one good recent study with strong pre-hoc controls for confounding: <a href="https://sci-hub.se/10.1007/s00213-012-2889-4">Rogers (2013)</a>, n=369, blinded:
+
+<center>
+	<img class="i2" src="/img/caff.png" />
+	<img class="i" src="/img/rec.jpg" />
+</center>
+
+The terribly named "Non-low" mean "non-consumer or low-consumer of caffeine".
+
+Overall, the high caffeine users are worse than the non-lows when each are given placebo, and are not notably better than the non-lows when both are given caffeine. This is consistent with withdrawal reversal.
+
+<!-- - I don’t value [long-term memory](https://en.wikipedia.org/wiki/long-term_memory) that much because LTM is something that is easily assisted or replaced (personal archives, and [spaced repetition](https://www.gwern.net/Spaced-repetition)). -->
+
+#### Mere physiology
+
+<a href="{{sig}}">Sigmon et al (2009)</a> :
+
+> There was almost no evidence for net effects of chronic caffeine administration on these measures [cerebral blood flow velocity, EEG, and subjective effects].
+
+#### Alertness
+
+<a href="{{rog}}">Rogers et al</a> (2010): 
+
+ > Caffeine did not increase alertness in [low-intake] participants. With frequent consumption, substantial tolerance develops to the anxiogenic effect of caffeine, even in genetically susceptible individuals, but no net benefit for alertness is gained, as caffeine abstinence reduces alertness and consumption merely returns it to baseline.
+
+<a href="https://sci-hub.se/10.1016/j.pbb.2014.05.019">James (2014)</a> is methodology showing how difficult we find it to get rid of the withdrawal confounder (for just one: caffeine crosses the placenta, so there may be very few humans who are _truly_ caffeine naive!).
+<br>
+
+
+## Design for a self-experiment
+
+Caffeine metabolism is mediated by several genes we know about <a href="#fn:3" id="fnref:3">3</a>.  In effect this means that we need to produce a few different estimates, one for each relevant genotype; it could well be that you're one of the lucky ones which the above genetically naive studies gloss over.
+
+If you don't have your DNA sequence, or if you distrust the maturity of caffeine genetics, as you should, then you want to run an experiment:
+
+#### Outcomes
+
+1. Cognition
+2. Motivation
+3. Subjective wellbeing
+
+Leave productivity out of it for now.
+
+#### Aims
+
+1. Work out if the chronic gain is larger than the withdrawal harm.
+2. If it is, then work out the optimal cycle period.
+
+#### Protocol
+
+1. Quit caffeine. Zero intake for 3 weeks <a href="#fn:2" id="fnref:2">2</a>
+2. Use <a href="{{brain}}">Cambridge Brain Sciences</a> to get a caffeine-naive baseline. Say at least a month of that.
+2. Use 100mg powder at the same time every day (more ergogenic and precise dose).
+3. Add 100mg theanine (since we're interested in the best case rather than the isolated effect of caff).
+4. Daily tests for say another month.
+
+
+(For later blinded experiments, get a friend to produce a coded pillbox of alternating 100mg caffeine powder and 100mg cornflour.)
+
+<br>
+
+## Other stimulants
+
+The above reasoning applies to most other stimulants: nicotine, modafinil, etc. Nicotine apparently interferes with caffeine's mechanism, so you'd want to do a clean univariate experiment for each. 
+
+<br>
+
+<!-- > There are tears at the heart of things, mortal things touch the mind.
+Release your fear; fame will bring you some safety.
+
+<center>
+	&#8213; Virgil
 </center> -->
 
-People get confused
 
-Cessation effect: return to baseline
-Withdrawal effect: return to baseline plus harm
+## See also
 
-Downregulation is powerful and ubiquitous.
-
-Tolerance of Caffeine 
-
-afinils
-
-3 day cycle? 7 day?
-
+* <a href="{{gb}}">Gwern</a>, who gave me the idea
 
 <br><br>
 
 
+{% 	include stims/foots.html	%}
 
-<br><br>
