@@ -13,7 +13,7 @@ published:  true
 summary:    Do stimulants do anything, used chronically?
 quality:    5
 confidence: 60%. Involves human nutrition and high-level behaviour, two weak sciences.
-importance: 6
+importance: 5
 wordcount:      
 categories: biochemistry, self-help, quantified-self
 argument:	
@@ -152,7 +152,7 @@ This just raises the question of whether the motivation effect is real or a reve
 
 > caffeine withdrawal occurred after as little as three days of caffeine exposure
 
-This suggests that if you're cycling it, you can take it two days on, n days off.
+This suggests that if you're cycling it, you could take it two days on, n days off. (With n somewhere between 2 and 30.)
 
 (In practice, people only seem to use it daily or never, but I don't know if this bimodal thing is mostly biological.)
 
@@ -221,7 +221,7 @@ Leave productivity out of it for now.
 
 1. Quit caffeine. Zero intake for 3 weeks <a href="#fn:2" id="fnref:2">2</a>
 2. Use <a href="{{brain}}">Cambridge Brain Sciences</a> to get a caffeine-naive baseline. Say at least a month of that.
-2. Use 100mg powder at the same time every day (more ergogenic and precise dose).
+2. Use 100mg powder at the same time every day (more ergogenic, precise dose).
 3. Add 100mg theanine (since we're interested in the best case rather than the isolated effect of caff).
 4. Daily tests for say another month.
 
@@ -232,7 +232,7 @@ Leave productivity out of it for now.
 
 ## Other stimulants
 
-The above reasoning applies to most other stimulants: nicotine, modafinil, etc. Nicotine apparently interferes with caffeine's mechanism, so you'd want to do a clean univariate experiment for each. 
+The above reasoning about downregulation applies to most other stimulants: nicotine, modafinil, etc. Nicotine apparently interacts with caffeine, so you'd want to do a clean univariate experiment for each. 
 
 <br>
 
