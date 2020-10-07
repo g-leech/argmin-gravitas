@@ -101,6 +101,11 @@ The most annoying part of the films making up emotionally powerful unifying them
 <br><br>
 
 <div class="accordion">
+	<h3>Highlights</h3>
+	<div>
+		{%	include turing-bio/quotes.html	%}
+	</div>
+	<!--  -->
 	<h3>Why listen to me on this topic?</h3>
 	<div>
 		<i>Nonfiction book reviews by nonspecialists are hazardous. It is just not easy to detect pseudo-empirical bullshit without<br><br>
