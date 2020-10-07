@@ -5,7 +5,7 @@ baselink:   /stims
 permalink:  /stims
 date:       2020-10-07
 author:     Gavin   
-img:        /img/
+img:        /img/caffeine-bomb01.jpg
 
 visible:    1
 published:  true
