@@ -267,22 +267,3 @@
   bottom: -0.65em;
 }
 
-.PageNavigation {
-  font-size: 14px;
-  display: block;
-  width: auto;
-  overflow: hidden;
-}
-
-.PageNavigation a {
-  display: block;
-  width: 33%;
-  float: left;
-  margin: 1em 0;
-}
-.PageNavigation .here {
-  text-align: center;
-}
-.PageNavigation .next {
-  text-align: right;
-}
