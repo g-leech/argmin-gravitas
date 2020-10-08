@@ -12,7 +12,7 @@ published:  true
 
 summary:    Do stimulants do anything, used chronically?
 quality:    5
-confidence: 60%. Involves human nutrition and high-level behaviour, two weak sciences.
+confidence: 60%. Involves human nutrition & high-level behaviour, two difficult sciences.
 importance: 5
 wordcount:      
 categories: biochemistry, self-help, quantified-self
@@ -22,19 +22,7 @@ argument:
 <!-- Writing Checklist -->
 <!-- https://roamresearch.com/#/app/gleech/page/5jHVvVI8w -->
 
-<style>
-	@media (min-width: 30em) {
-	.i {
-		width: 49%
-	}
-
-	.i2 {
-		width: 69%
-	}
-}
-</style>
-
-
+{% 	include phone_img.html 		%}
 {%	assign ath = "https://jissn.biomedcentral.com/articles/10.1186/1550-2783-7-5"	%}
 {%	assign sig = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2738587/#R20"	%} 
 {%	assign brain = "https://brainlabs.me/"	%}
@@ -73,8 +61,8 @@ Consider two (extreme) scenarios for a quickly-eliminated, chronic-use substance
 
 
 <center>
-	<img class="i" src="/img/positive.svg" />
-	<img class="i" src="/img/reversal.svg" />
+	<img class="i50" src="/img/positive.svg" />
+	<img class="i50" src="/img/reversal.svg" />
 	<a href="#fn:4" id="fnref:4">4</a>
 </center><br>
 
@@ -142,7 +130,7 @@ Gwern, who has looked into this more than me, continues to take it, since he ass
 
 > For me, my problems tend to be more about akrasia and energy and not getting things done, so even if a stimulant comes with a little cost to long-term memory, it’s still useful for me. 
 
-This just raises the question of whether the motivation effect is real or a reversal though. (It might be that not all of caffeine's effects get blocked over time; for instance the athletic gains.)
+This just raises the question of whether the motivation effect is real or a reversal though. (It might be that not all of caffeine's effects get blocked over time; for instance the athletic gains.) I suppose motivation is easier to subjectively check than cognition.
 
 <br>
 
@@ -172,8 +160,8 @@ Keywords: "withdrawal reversal", "net [beneficial] effects of chronic administra
 I found one good recent study with strong pre-hoc controls for confounding: <a href="https://sci-hub.se/10.1007/s00213-012-2889-4">Rogers (2013)</a>, n=369, blinded:
 
 <center>
-	<img class="i2" src="/img/caff.png" />
-	<img class="i" src="/img/rec.jpg" />
+	<img class="i70" src="/img/caff.png" />
+	<img class="i50" src="/img/rec.jpg" />
 </center>
 
 The terribly named "Non-low" mean "non-consumer or low-consumer of caffeine".
@@ -214,8 +202,8 @@ Leave productivity out of it for now.
 
 #### Aims
 
-1. Work out if the chronic gain is larger than the withdrawal harm.
-2. If it is, then work out the optimal cycle period.
+1. Work out if the chronic gain is larger than the withdrawal harm _for you_.
+2. If it is, then work out the optimal cycle period _for you_.
 
 #### Protocol
 
@@ -226,7 +214,7 @@ Leave productivity out of it for now.
 4. Daily tests for say another month.
 
 
-(For later blinded experiments, get a friend to produce a coded pillbox of alternating 100mg caffeine powder and 100mg cornflour.)
+(For later blinded experiments, get a friend to produce a coded pillbox of alternating 100mg caffeine powder and 100mg cornflour. Add these to something strong like 100ml orange juice to mask the extreme bitterness.)
 
 <br>
 
