@@ -8,7 +8,7 @@
 {% 	assign emp = "http://www.openuniversity.edu/study/fees/employer-sponsorship"		%}
 {% 	assign edx = "https://www.researchgate.net/publication/330316898_The_MOOC_pivot"	%}
 {% 	assign int = "http://www.openuniversity.edu/study/fees/how-much-it-will-cost"		%}
-{%	assign completion = "https://sci-hub.tw/10.1080/02680513.2015.1055718"				%}
+{%	assign completion = "https://sci-hub.se/10.1080/02680513.2015.1055718"				%}
 {%	assign face = "https://www.hesa.ac.uk/news/07-03-2019/non-continuation-summary"		%}
 {%	assign max = "http://maxima.sourceforge.net/"	%}
 {%	assign firsts = "https://unistats.ac.uk/subjects/study/10007773PT-Q36/ReturnTo/"		%}

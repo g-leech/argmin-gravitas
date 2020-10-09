@@ -91,3 +91,19 @@ Ethical egoism is different again: the idea that it is moral to not be altruisti
 
 <br><br>
 
+
+
+<div class="accordion">
+	<h3>Confusing real examples</h3>
+	<div>
+		Ludwig Wittgenstein. Do harm for loved ones. We are appalled, but know we would do the same.
+
+		Jeff Bezos. Vast power to help, omit to help.
+
+		<blockquote>We had to think about it, because one could build hospitals with that money... [But] we don’t want to go through the stress of disappointing people evening after evening.</blockquote>
+
+		http://www.eonline.com/news/39358/abba-s-billion-dollar-rejection
+
+		Agnetha . Vast power to help, omit to help.
+	</div>
+</div>

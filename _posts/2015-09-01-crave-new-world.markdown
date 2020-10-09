@@ -10,10 +10,11 @@ img:        /img/haring.jpg
 visible:    1
 published:  false
 
-summary:    The remarkable global consensus on justifying impermanence and pain.
+summary:    The remarkable global consensus on justifying pain.
 quality:    3
+emotion:	6
 confidence: 
-importance: 9
+importance: 8
 wordcount:      
 categories: philosophy
 ---
@@ -22,7 +23,7 @@ categories: philosophy
 	<img src="/img/haring.jpg" /><br>
 	<span style="font-size: small;"> 'The Marriage of Heaven and Hell', (c) Keith Haring (1984) </span><br />
 </div>
-<br><br>
+<br>
 
 Begin by lining up our suspects:<br>
 
@@ -30,7 +31,7 @@ Begin by lining up our suspects:<br>
 
 <br>
 
-What marvellous consensus! Taoists, Stoics, conservatives, radicals, Christians, Jews, Fascists, artists. A grand panoply, divided on many fundamentals, united in this!&nbsp;Call the doctrine they hold in common <em>contrast ideology</em><em>.</em> "<a href="http://en.wikipedia.org/wiki/Taijitu">Tajituism</a>" might seem a fairer name, after the famous yin-yang symbol - but the Asian doctrine is actually not the <a href="http://en.wikipedia.org/wiki/Taijitu#European_iconography">earliest</a> of the symbol's tendrils. (Not that identical symbols imply <a href="http://en.wikipedia.org/wiki/Swastika">identical ideas</a>.) Also, <a href="http://en.wikipedia.org/wiki/Contrastivism">Contrastivism</a> took that word already.<br />
+What marvellous consensus! Taoists, Stoics, conservatives, radicals, Christians, Jews, Fascists, captains of industry, artists. United in this!&nbsp;Call the doctrine they hold in common <em>contrast ideology</em><em>.</em> "<a href="http://en.wikipedia.org/wiki/Taijitu">Tajituism</a>" might seem a fairer name, after the famous yin-yang symbol - but the Asian doctrine is actually not the <a href="http://en.wikipedia.org/wiki/Taijitu#European_iconography">earliest</a> of the symbol's tendrils. (Not that identical symbols imply <a href="http://en.wikipedia.org/wiki/Swastika">identical ideas</a>.) Also, <a href="http://en.wikipedia.org/wiki/Contrastivism">Contrastivism</a> took that word already.<br />
 <br />
 
 Contrast ideology is one of the most interesting ideas I know. It leads to the <a href="http://en.wikipedia.org/wiki/Problem_of_evil#Soul-making_or_Irenaean_Theodicy">most fruitful</a> <a href="http://en.wikipedia.org/wiki/Problem_of_evil#Evil_is_complementary_to_good">theodicy</a>, a <a href="http://en.wikipedia.org/wiki/Structuralism#Structuralism_in_linguistics">fascinating semantics</a>, and also to the most therapeutic secular philosophy of life. It is a deeply beautiful thought -&nbsp;and I will fight it until it dies. (Or until it allows <a href="http://www.hedweb.com/hedethic/tabconhi.htm">alternatives</a> to live.) <br />
@@ -52,7 +53,7 @@ The world is rammed full of suffering. How can we cope with this?<br />
 <br />
 
 
-The rest of this essay is an attempt to show you that all religious and philosophical responses to endemic suffering follow one of the above patterns.
+The rest of this essay suggests that all religious and philosophical responses follow one of the above.
 <br><br><br />
 
 <hr>
@@ -62,9 +63,9 @@ The rest of this essay is an attempt to show you that all religious and philosop
 
 I have perhaps been muddling several claims together, one or two of which are true and&nbsp;good:<br><br>
 <ul><li>"The world is essentially just." (Just-world. Karma)</li><br />
-<li>"Suffering is profound and glorious"</li><br />
+<li>"Suffering is profound"</li><br />
 <li>"There are other worthy goals but happiness". (Yes!)</li><br />
-<li>"Positive and negative things are not alien to each other, but related and continuous." (The rejection of antitheses; yes.) </li><br />
+<li>"Positive and negative things are not alien to each other, but related and continuous." </li><br />
 <li>Suffering and only suffering enables defiance.</li><br />
 <li>Suffering and only suffering produces strength.</li><br />
 <li>Conflict and only conflict produces progress (Mark and Hayek!)</li><br />
@@ -110,7 +111,8 @@ I am a fool if I deny the weak principle. But the lessons I derive from it are v
 
 
 <div align="center">
-	<blockquote><i>The idea that so much suffering can be in vain is intolerable to me, it kept me awake all night: I'm awake now</i>."<br />
+	<blockquote>
+		that so much suffering can be in vain is intolerable to me, it kept me awake all night: I'm awake now.
 	</blockquote>
 	<p style="line-height: 5px">
 	- Andre Gide</p><br><br>
@@ -120,10 +122,10 @@ I am a fool if I deny the weak principle. But the lessons I derive from it are v
 	</blockquote>
 	<p style="line-height: 5px">
 	- Eugene Ionesco</p>
-</div><br><br>
+</div><br>
 
 
-As with so much else in existentialism, we owe the seed of lacrimism to theology. It come of the brilliant thousand-year intellectual project to let God off the hook of charges of criminal negligence.
+We owe lacrimism to theology. It came of the brilliant thousand-year intellectual project to let God off the hook of criminal negligence.
 
 Philosophies less leashed to an assumption of inevitable cosmic justice, however,
 <br />
@@ -188,4 +190,4 @@ So, what's the alternative? Don't I have to be radically manichaean? Am I not fa
 
 
 <br><br>
-<b>Disclosure:</b> Some time ago, I watched someone die of oesophegeal cancer, over the course of about a year. The experience was not salutary on his spirituality, personality or worldview. I write from the force of this anecdote, but not only that.<br><br />
+<b>Disclosure:</b> Some time ago, I watched someone die of oesophegeal cancer, over the course of about a year. The experience was not salutary to his spirituality, personality or worldview, nor to mine. I write from the force of this anecdote, but not only that.<br><br />

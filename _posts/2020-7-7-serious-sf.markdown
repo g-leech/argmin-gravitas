@@ -10,7 +10,7 @@ img:
 published:  false
 visible:    1
 
-summary:    
+summary:    The literature of change.
 categories: 
 confidence: 60%
 importance: 8 to me, 3 to you
@@ -24,7 +24,13 @@ argument:
 
 You live in a hard sci-fi story.
 
-science, social, moral, software
+science, 
+
+social, 
+
+moral / social
+
+software
 
 	Dick tried to do social and moral but failed
 	Le Guin did social without much of the others

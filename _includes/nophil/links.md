@@ -48,7 +48,7 @@
 {%		assign jez = "https://en.wikipedia.org/wiki/Jeremy_Bentham" %}
 {%		assign mill = "https://en.wikipedia.org/wiki/John_Stuart_Mill"		%}
 {%		assign will = "https://en.wikipedia.org/wiki/William_MacAskill" %}
-{%		assign midg = "http://sci-hub.tw/10.1017/S1358246100002319"		%}
+{%		assign midg = "http://sci-hub.se/10.1017/S1358246100002319"		%}
 {%		assign symb = "https://en.wikipedia.org/wiki/History_of_mathematical_notation#Symbolic_stage"	%}
 {%		assign rdof = "https://en.wikipedia.org/wiki/Researcher_degrees_of_freedom"		%}
 {%		assign trivial = "https://en.wikipedia.org/wiki/Trivialism"		%}

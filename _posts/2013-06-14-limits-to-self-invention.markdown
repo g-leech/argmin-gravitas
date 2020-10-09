@@ -22,7 +22,7 @@ argument:   bootstraps/argument.md
 
 {%	assign goff = "http://www.kreps.org/ma/perf.html"	%}
 {%	assign hyp = "https://en.wikipedia.org/wiki/Hypatia_transracialism_controversy"		%}
-{%	assign adapt = "https://sci-hub.tw/10.1007/s11098-007-9188-7"	%}
+{%	assign adapt = "https://sci-hub.se/10.1007/s11098-007-9188-7"	%}
 {%	assign anth = "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1469-8676.2008.00046.x"	%}
 {%	assign pol = "https://news.gallup.com/poll/14515/teens-stay-true-parents-political-perspectives.aspx"	%}
 {%	assign lac = "https://web.archive.org/web/20170225040639/http://www.usc.edu/dept/comp-lit/tympanum/1/starr.html"	%}
