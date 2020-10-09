@@ -10,7 +10,7 @@ img:        /img/
 visible:    1
 published:  false
 
-summary:    Why false consciousness is a dangerous idea 
+summary:    Why false consciousness is a risky idea 
 quality:    4
 emotion: 	4
 confidence: 70%

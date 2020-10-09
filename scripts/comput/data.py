@@ -1,5 +1,4 @@
 
-
 fullModel = [ 
         "index", "name", "protagonists", "date", "signals",
         "universal", "programmables","stored", "representation","base",
@@ -14,7 +13,7 @@ nullComputer = dict(zip(fullModel, whats))
 
 
 computers = [
-    [   1,"Antikythera mechanism","?","100 BCE","mechanical","special-purpose","fixed-job","structure-program","analogue",None,"serial","nontransistorised","physical-memory","","","'Didn't work very well'","https://en.wikipedia.org/wiki/Antikythera_mechanism"],
+    [   1,"Antikythera mechanism","?","100 BCE","mechanical","special-purpose","fixed-job","structure-program","analogue",None,"serial","nontransistorised","physical-memory","","","'Didn't work very well'"],
     [   2,"South-pointing chariot","Ma Jun","230 CE","mechanical","special-purpose","fixed-job","structure-program","analogue",None,"serial","nontransistorised","physical-memory","","","The most dubious entry on my list: translated wheel motion into one orientation"],
     [   3,"Calculating clock","Wilhelm Schickard","1623","mechanical","special-purpose","fixed-job","structure-program","digital","decimal","serial","nontransistorised","physical-memory","","","First arithmetic calculator?"],
     [   4,"Pascaline","Blaise Pascal","1645","mechanical","special-purpose","fixed-job","structure-program","digital","decimal","serial","nontransistorised","physical-memory","","","Came in several bases for accounting currency"],
@@ -62,3 +61,4 @@ computers = [
 computers = [dict(zip(fullModel, dat)) for dat in computers]
 
 
+print([c["name"] for c in computers])

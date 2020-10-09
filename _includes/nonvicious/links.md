@@ -55,7 +55,7 @@
 {%		assign ssc = "http://slatestarcodex.com/2016/05/28/book-review-age-of-em/" 		%}
 
 
-{%		assign deprec = "http://www.ecb.europa.eu/events/pdf/conferences/oulton.pdf"		%}	
+{%		assign depre = "http://www.ecb.europa.eu/events/pdf/conferences/oulton.pdf"		%}	
 {%		assign household = "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_households"		%}
 {%		assign socialSpend = "https://stats.oecd.org/Index.aspx?DataSetCode=SOCX_AGG"			%}
 {%		assign roose = "http://rooseveltinstitute.org/wp-content/uploads/2017/08/Modeling-the-Macroeconomic-Effects-Report-Brief.pdf"		%}

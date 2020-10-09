@@ -96,7 +96,7 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
 </div><br>
 
 {%	assign sciam = "http://patrick-fournier.com/d/cours13-3140.pdf"	%}
-{%	assign sherif = "https://sci-hub.tw/10.1086/222258"	%}
+{%	assign sherif = "https://sci-hub.se/10.1086/222258"	%}
 {%	assign sherif_book = "https://books.google.co.uk/books?hl=en&lr=&id=24TwCQAAQBAJ&oi=fnd&pg=PP1&dq=Group+Conflict+and+Co-operation+&ots=ufwdngs5bi&sig=qxT2o26vEi7KdeJxWNqfSYHdaSM&redir_esc=y#v=onepage&q=Group%20Conflict%20and%20Co-operation&f=false"	%}
 {%	assign book2 = "https://psycnet.apa.org/record/1954-02446-000"	%}
 {%	assign perryagain = "https://www.theguardian.com/science/2018/apr/16/a-real-life-lord-of-the-flies-the-troubling-legacy-of-the-robbers-cave-experiment"	%}
@@ -129,7 +129,7 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
 
 
 <!-- * No good evidence for the broken windows theory (Keizer)
-https://sci-hub.tw/10.1177/1368430213502557
+https://sci-hub.se/10.1177/1368430213502557
 https://www.sciencedirect.com/science/article/abs/pii/S027795361830649X
 https://journals.sagepub.com/doi/10.1177/1368430213502557
 https://eprints.qut.edu.au/38329/1/38329a.pdf

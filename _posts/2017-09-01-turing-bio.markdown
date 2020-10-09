@@ -21,7 +21,7 @@ categories:	bio, computers, effective-altruism
 {% 	assign cpi = "https://www.in2013dollars.com/uk/inflation/1940?amount=6000"		%}
 {% 	assign laiss = "https://www.panarchy.org/keynes/laissezfaire.1926.html"		%}
 {% 	assign ace = "https://en.wikipedia.org/wiki/Automatic_Computing_Engine"		%}
-{%	assign cope = "https://sci-hub.tw/10.1007/978-3-319-22156-4_3"		%}
+{%	assign cope = "https://sci-hub.se/10.1007/978-3-319-22156-4_3"		%}
 
 <center>
 	<img src="/img/turing.jpg" width="40%" />

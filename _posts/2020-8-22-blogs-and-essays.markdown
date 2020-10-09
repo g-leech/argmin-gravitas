@@ -72,7 +72,7 @@ Basbøll uses "Writing" for the real deal, to be backwards compatible with the l
 
 In a way it's funny to set up essays as a superior substitute for blogging / social media musing, since "essay" (_<a href="{{ess}}">attempt</a>_) was itself  self-consciously inferior to big tedious monographs from the start. ("The essay - or microtreatise.")
 
-But never mind terminology. The inimitable Gwern aims for "<a href="{{long}}">long content</a>", work updated continuously for decades, living, growing piece by piece into magnificence:
+But never mind terminology. The inimitable Gwern aims for "<a href="{{g}}">long content</a>", work updated continuously for decades, living, growing piece by piece into magnificence:
 
 > how do you write a personal site with the long-term in mind? We live most of our lives in the future, and the actuarial tables give me until the 2070–2080s... What sort of writing could you create if you worked on it (be it ever so rarely) for the next 60 years? What could you do if you started now?... 
 
@@ -127,7 +127,7 @@ Think tanks are the usual way to be a full-time intellectual outside academia. B
 * Long content is really uncommon. Even great internet writing with a view to the long term (e.g. Eliezer Yudkowsky's <a href="{{yud}}">sustained braindump</a> of 2007 to 2009) is never updated, when its problems are found at all. This should worry us, since it implies it's hard to do. Maybe few people have stable enough goals and interests to do this, or just enough time. <br><br>
 * The situation may be even worse in open source software, with projects <a href="{{git}}">overwhelmingly dead by 6 months old</a>.<br><br>
 * Basbøll, '<a href="{{bas}}">What is blogging?</a>'
-* Gwern, '<a href="{{long}}">Long Content</a>'
+* Gwern, '<a href="{{g}}">Long Content</a>'
 * <a href="{{stock}}">Stock and flow</a> (2010)
 * This has something to do with <a href="{{gard1}}">Digital</a> <a href="{{gard}}">gardens</a>, but those are just an intermediate public phase between raw notes and final essays. Alive though.
 * <a href="{{rot}}">Link rot</a>

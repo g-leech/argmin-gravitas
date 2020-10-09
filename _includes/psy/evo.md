@@ -1,5 +1,5 @@
 {%	assign daly = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1810021/pdf/15252976.pdf"	%}
-{%	assign shanks = "https://sci-hub.tw/10.1037/xge0000116"		%}
+{%	assign shanks = "https://sci-hub.se/10.1037/xge0000116"		%}
 
 
 * Weak evidence for <span class="b">romantic priming</span>, that looking at attractive women increases men's conspicuous consumption, time discount, risk-taking. Weak, despite there being _43_ independent confirmatory studies!: one of the strongest publication biases / p-hacking ever found.

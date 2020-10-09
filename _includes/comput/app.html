@@ -1,5 +1,40 @@
 {%    include comput/appCss.html    %}
 
+<script language="JavaScript" type="text/javascript" src="/scripts/jquery.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+      $.ajax({
+          type: "GET",
+          url: "/files/computers.csv",
+          dataType: "text",
+          success: function(data) {
+            var l = processData(data);
+            console.log(l[0])
+            //init app
+          }
+       });
+  });
+
+  function processData(allText) {
+      var record_num = 16;  // or however many elements there are in each row
+      var allTextLines = allText.split(/\r\n|\n/);
+      var entries = allTextLines[0].split(',');
+      console.log(allTextLines[1])
+      var lines = [];
+
+      var headings = entries.splice(0,record_num);
+      console.log(headings)
+      while (entries.length>0) {
+          var tarr = [];
+          for (var j=0; j<record_num; j++) {
+              tarr.push(headings[j]+":"+entries.shift());
+          }
+          lines.push(tarr);
+      }
+    return lines;
+  }
+</script>
+
 
 <div id="container">
 
@@ -97,13 +132,13 @@
              value = "digital"
              onclick="ComputerViewer.refresh(this.name)"
              checked = "checked" />
-      <label for="digital">Digital (with integers)</label><br>
+      <label for="digital">Digital (integers)</label><br>
       <input type = "radio"
              name = "representation"
              id = "analog"
              value = "analogue"
              onclick="ComputerViewer.refresh(this.name)"  />
-      <label for="analog">Analogue (with physical states)</label>
+      <label for="analog">Analogue (smooth physical states)</label>
     </fieldset>
 
 

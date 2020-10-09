@@ -4,7 +4,7 @@
 {%	assign morph = "https://ebn.bmj.com/content/7/3/84#ref-3"	%}
 {%	assign dent = "https://www.cochrane.org/CD004625/ORAL_routine-scale-and-polish-periodontal-health-adults"		%}
 {%	assign io = "https://www.ukiodine.org/iodine-in-the-uk/"	%}
-{%	assign uk = "https://sci-hub.tw/10.1017/S0029665113001006"	%}
+{%	assign uk = "https://sci-hub.se/10.1017/S0029665113001006"	%}
 {%	assign long = "https://nintil.com/longevity/#intermittent-fasting"		%}
 {%	assign nnt = "https://www.statnews.com/2016/06/15/medication-number-needed-to-treat"		%}
 {%	assign ignore = "https://www.cmaj.ca/content/179/6/549"	%}
@@ -35,7 +35,7 @@
 {%	assign asp = "https://www.nhs.uk/news/medication/migraine-relief-from-aspirin/"		%}
 {%	assign ibu = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6457940/"		%}
 {%	assign sch = "https://faculty.ucr.edu/~eschwitz/SchwitzPapers/SelfUcs-101118.htm"		%}
-{%	assign jama = "https://sci-hub.tw/10.1001/jamaneurol.2019.3780"		%}
+{%	assign jama = "https://sci-hub.se/10.1001/jamaneurol.2019.3780"		%}
 {%	assign cell = "https://www.cell.com/current-biology/pdf/S0960-9822(19)31678-1.pdf"		%}
 {%	assign nz = "https://www.sciencedirect.com/science/article/abs/pii/S0001457517304256"		%}
 {%	assign pain = "http://www.bandolier.org.uk/booth/painpag/Acutrev/Analgesics/lftab.html"		%}
