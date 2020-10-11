@@ -106,7 +106,11 @@ I've been doing a derivative of this program since October last year: no trainer
 
 ## Philosophical aspects of lifting
 
-> Gradually it becomes clear to me what every great philosophy really was  – namely the confession of its originator, and a sort of involuntary and unconscious autobiography; and that the moral (or immoral) purpose in a philosophy is always the real seed from which the whole plant grows.”
+> What sort of philosophy one chooses depends... on what sort of man one is; for a philosophical system is not a dead piece of furniture that we can reject or accept as we wish; it is rather a thing animated by the soul of the person who holds it.
+
+<center> ― Fichte </center><br>
+
+> Gradually it becomes clear to me what every great philosophy really was  – namely the confession of its originator, and a sort of involuntary and unconscious autobiography...
 
 <center> ― Nietzsche </center><br>
 
