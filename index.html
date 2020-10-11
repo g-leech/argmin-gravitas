@@ -5,16 +5,27 @@ visible:  false
 ---
 
 <style>
-img {
-    vertical-align: middle;
-}
+    @media (min-width: 15em) {
+      .i {
+        width: 100%;
+        margin: 0px;
+    }
 
-.centerer {
-    text-align: center;
-    vertical-align: middle;
-    width: 83%;
-    padding: 20px;
-}
+      .centerer {
+        width: 85%;
+    }
+
+  img {
+      vertical-align: middle;
+      width:  100%;
+  }
+
+  .centerer {
+      text-align: center;
+      vertical-align: middle;
+      padding: 30px;
+      width: 75%;
+  }
 
 </style>
 
@@ -28,11 +39,11 @@ img {
         <tr>
           <td>
             <a class="post-link" href="{{ post.url | prepend: site.url }}">
-              <img src="{{ post.img }}" />
+              <img class="i" src="{{ post.img }}" />
             </a>
           </td>
           <td class="centerer">
-            <h3 style="padding: 0px; margin: 0px">
+            <h3 class="i">
               <a class="post-link frontpage" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
             </h3> 
             <span>
@@ -44,7 +55,7 @@ img {
         </tr>
         {% assign count = count | plus: 1 %}
       {% endif  %}
-      {%  if count > 4  %} {% break %} {% endif %}
+      {%  if count > 5  %} {% break %} {% endif %}
     {% endfor %}
       </center>
     </table>
