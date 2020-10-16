@@ -54,7 +54,7 @@ This is now called "<a href="{{mean}}">the meaning crisis</a>" and there's a lar
 
 But _Infinite Jest_ distracts you from those simple meanings with a forest of calculus and psychopharmacology and Boston slang, with 200 footnote discontinuities and 7000 neologisms and proper nouns. I say that Wallace "rejects postmodernism" - whatever that means - but he stubbornly maintains the confusing, excessive, perspectival, mashup aesthetics which are the least fake denotation of the term. (In the last 20 years people have <a href="{{potts}}">painstakingly built tools</a> to clean the mess intentionally strewn before you.)
 
-This message is essentially the same as a thousand Sunday sermons: "_be excellent to each other_", "_caring is cool_", "_only connect_". If it was not wrapped in armour-piercing arcana, fancy theory, and formal experimentation then its intended audience would never let it in.
+This message is essentially the same as a thousand Sunday sermons: "_be excellent to each other_", "_caring is cool_", "_only connect_". If it was not wrapped in armour-piercing arcana, fancy theory, and formal experimentation then its intended audience would never let it in. _Infinite Jest_ has to be pretentious, because its audience is.
 
 <br>
 
@@ -166,7 +166,7 @@ This can't help but <a href="{{death}}">resonate</a> now. Just because you're a 
 <br>
 
 
-That a book about the importance of sincerity became, first, the object of a cheap signalling game and, subsequently, the object of scorn and the received epitome of pretention, is just one of those fucking things.
+That a book about the importance of sincerity became, first, the object of a cheap signalling game and, subsequently, the object of scorn and the received epitome of pretension, is just one of those fucking things.
 
 <br>
 
