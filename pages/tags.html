@@ -18,7 +18,7 @@ visible:  false
   {% endif %}
 
 
-  <h3>{{ category  }}</h3>
+  <h3 id="{{category}}">{{ category }}</h3>
   <ul>
     {% for p in site.posts %}
         {%  assign cats = p.categories | split: ',' | join: ',' %} 
