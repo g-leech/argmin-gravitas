@@ -46,14 +46,13 @@ visible:	true
 
 <br>
 
-<!-- I've published papers on reinforcement learning, epidemiology, AI safety, and   -->
 
 
 ## Conference
 
 #### 2020
 
-* _<a href="{{neurips_covid}}" target="_blank">On the robustness of effectiveness estimation of nonpharmaceutical interventions against COVID-19 transmission</a>_, NeurIPS Spotlight paper.
+* _<a href="{{neurips_covid}}" target="_blank">How Robust are the Estimated Effects of Nonpharmaceutical Interventions against COVID-19?</a>_, NeurIPS Spotlight paper.
 
 <!-- * _<a href="/files/COVID_conf_.pdf" target="_blank">The Robustness of Effectiveness Estimates of Nonpharmaceutical Interventions Against COVID-19</a>_ (2020) -->
 
@@ -80,7 +79,7 @@ visible:	true
 
 ## Software
 
-* <a href="{{prolexa}}">ProlexaPlus</a> (2020): Bringing modern language modelling into Prolog.
+* <a href="{{prolexa}}">ProlexaPlus</a> (2020): Bringing modern language modelling into Prolog for some reason.
 * <a href="{{htk}}">Py2HTK</a> (2017): Python wrapper for the Hidden Markov ToolKit.
 
 <br>
