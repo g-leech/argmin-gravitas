@@ -31,7 +31,9 @@ http://www.eruditorumpress.com/blog/cultural-marxism-1-consider-phlebas/
 https://www.thenewatlantis.com/publications/the-ambiguous-utopia-of-iain-m-banks 
 -->
 
-<img src="/img/windward.png" />
+<center>
+	<img src="/img/windward.png" />
+</center>
 
 > Liberalism is a technology for preventing civil war. It was forged in the fires of Hell – the horrors of the endless seventeenth century religious wars... from the burning wreckage, we drew forth this amazing piece of alien machinery. A machine that, when tuned just right, let people live together peacefully without doing the “kill people for being Protestant” thing. Popular historical strategies for dealing with differences have included: brutally enforced conformity, brutally efficient genocide, and making sure to keep the alien machine tuned really really carefully.
 

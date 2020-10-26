@@ -308,6 +308,8 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 
 <br><br>
 
+A real nonphilosopher would not feel the need to write something like this.
+
 Since my list of caveats is forty times longer than my original point, obviously I am an amateur philosopher after all. But not first.
 
 <br><br>
@@ -320,7 +322,10 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 ## See also
 
 {%	assign schw = "https://schwitzsplinters.blogspot.com/2020/08/philosophy-that-closes-vs-philosophy.html"	%}
+{%	assign stove = "https://web.maths.unsw.edu.au/~jim/wrongthoughts.html"	%}
+
 
 * <a href="{{schw}}">Schwitzgebel on philosophy that opens</a>
+* <a href="{{stove}}">The dangerous ravings of David Stove</a>
 
 {%  include nophil/tangents.html     %}
