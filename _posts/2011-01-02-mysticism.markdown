@@ -115,6 +115,10 @@ It'd be a mistake to go to these people looking for The Answer. But this isn't w
 
 <br><br /><br>
 
+## See also
+
+* Shalizi, <a href="http://bactra.org/notebooks/evil-twins.html">Philosophies' Evil Twins</a>
+
 <!-- Since I took such a broad definition of mysticism, here's something prickly to cleanse the palette:<br />
 <br />
 <br />
