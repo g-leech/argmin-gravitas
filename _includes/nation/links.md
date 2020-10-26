@@ -24,6 +24,7 @@
 {%	assign spotcan = "https://open.spotify.com/embed/playlist/2MGqdT6IV2UH4gudv8ESWP"		%}
 {%	assign spotger = "https://open.spotify.com/embed/playlist/3C0JqSntXUtQ4awrh59iZw"				%}
 {%	assign spothun = "https://open.spotify.com/embed/playlist/10ADnPEVdiCPYrxdCFyfgu"	%}
+{%	assign spotbright = "https://open.spotify.com/embed/playlist/6M2hI6hrzQhjG6vqxaGVum"		%}
 
 {%	assign gravybread = "https://gravybread.wordpress.com/my-favorite-brazilian-albums/"		%}
 {%	assign clear = "https://clearandrefreshing.wordpress.com/"		%}
