@@ -123,6 +123,13 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 
 <br>
 
+<!-- ## Primatology -->
+
+<!-- * Mixed evidence for inequity aversion in animals. -->
+<!-- <a href="{{grapes}}"> -->
+
+<br>
+
 ## Evolutionary psychology
 
 {%	include psy/evo.md	%}
