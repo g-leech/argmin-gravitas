@@ -48,7 +48,7 @@ layout: default
     {%  if page.categories  %}
         Tags: 
         {% for tag in page.categories %}
-          <a href="/tags#{{tag}}">{{ tag }}</a>
+          <a href="/tags#{{ tag | replace: ',', ''  }}">{{ tag }}</a>
         {% endfor %}
     {%  endif  %}
   </article>

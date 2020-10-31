@@ -153,6 +153,26 @@ So it looks like there's a strong apriori case to prioritise x-risk, for anyone 
 <!--  -->
 		These have their own wrinkles, but the general point remains: most values are ruined by them.
 	</div>
+<!--  -->
+	<h3>Criticisms</h3>
+	<div>
+		1. "This model assumes utilitarian/long-term ethics, but in fact in the population this is a minority view and ‘honouring’ ethics are far more common than is presumed here... so for many people today it needn’t be a common cause." <br>
+		<!--  -->
+		I definitely don't assume utilitarianism. I also think I only need a very weak kind of long-termism - "future matters a bit". I haven't calculated the exact discount or anything. I'd more evidence for honouring being common, I couldn't find much. My intuition is that scholars get misled by their name for common sense morality - "folk deontology" - and that most people are a context-driven bag of honouring and promoting.<br>
+		"common" is not meant to mean "universal", but "shareable". how would something be ‘shared’ (amongst all) without it being ‘universal’? These are core premises that are accessible (whether or not they are accessed) from virtually any existing position or value system (excluding XYZ at end) — the point is not that everyone today does accept them, but that many could without changing their core beliefs.
+		<br><br>
+		<!--  -->
+		<!--  -->
+		2. "The structure of the argument would be rejected by contemporary liberals, a dominant view in anglophone political philosophy, which is not necessarily well captured in the category of ‘honouring’ ethics."<br>
+		<!--  -->
+		If this means Rawlsians, then yes they're not so simple. But they have some principles (maximin) which they would forego great good to obey, so there's an honouring core to them.
+		<br><br>
+		<!--  -->
+		<!--  -->
+		3. There are many value systems that place an all-else-equal value on survival, in the abstract; but which place disvalue on their political opponents winning, and so would be willing to incur a certain risk of existential catastrophe if it would help them defeat/contain these adversaries (this is essentially the gamble of nuclear deterrence).
+		<!--  -->
+		Any ideology plus a proper long-term perspective should be much less willing to make that tradeoff. Even if I feared a defeat of my cause X by Y, from a long-term perspective, so long as the world survives I might prefer to ‘take the hit’, with the hope that X might then eventually re-emerge.
+	</div>
 </div>
 
 
