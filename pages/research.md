@@ -17,7 +17,7 @@ visible:	true
 {%	assign ac = "https://jpswalsh.github.io/academicons/"	%}
 {%	assign prolexa = "https://github.com/g-leech/prolexa" 	%}
 {%	assign htk = "https://github.com/g-leech/Py2HTK"	%}
-{%	assign algo = "https://people.maths.bris.ac.uk/~csxam/teaching/dsa"	%}
+{%	assign algo = "https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20010"	%}
 {%	assign lgfo = "https://arxiv.org/abs/2009.11677"		%}
 
 <style>
@@ -71,6 +71,9 @@ visible:	true
 
 * _<a href="{{covid}}" target="_blank">The effectiveness of 8 nonpharmaceutical interventions against COVID-19 in 41 countries</a>_. <a href="#fn:1" id="fnref:1">1</a>
 * _<a href="{{lgfo}}" target="_blank">Legally Grounded Fairness Objectives</a>_ 
+
+
+<!-- * _Towards Tensorised Probabilistic Programming_ (2020) -->
 <!-- * _<a href="/files/ILP_vs_DL_v0.9.pdf" target="_blank">Comparing Inductive Logic Programming & Deep Learning</a>_ (2020) -->
 <!-- * _<a href="/files/" target="_blank">The computational humour of single-word edits</a>_ (2020) -->
 <!-- * _<a href="/files/" target="_blank">Failing to Find Proxies for Population Loneliness</a>_ (2020) -->
@@ -96,7 +99,7 @@ visible:	true
 ## Teaching
 
 * 2019: TA for the fearsome _<a href="{{coms}}">COMS30007: Bayesian Machine Learning</a>_
-* 2020: Lead TA for _<a href="{{algo}}">COMS21103: Algorithms 2</a>_.
+* 2020: Lead TA for _<a href="{{algo}}">COMS20010: Algorithms 2</a>_.
 
 
 <!-- <br> -->
