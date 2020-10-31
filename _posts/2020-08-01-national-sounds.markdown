@@ -22,75 +22,110 @@ argument:
 {%	include nation/links.md	%}
 
 <div class="accordion">
-	<h3>Scotland</h3>
+	<h3>uk</h3>
 	<div>
-		{%	include nation/scot.html	%}
-	</div>
-	<!-- 	 -->
-	<h3>England</h3>
-	<div>
-		{%	include nation/eng.html	%}
-	</div>
-	<!--  -->
-	<h3>Wales</h3>
-	<div>
-		{%	include nation/wales.html	%}
-	</div> 
-	<!--  -->
-	<h3>Northern Ireland</h3>
-	<div>
-		{%	include nation/ulster.html	%}
-	</div>
-	<!--  -->
-	<h3>Ireland</h3>
-	<div>
-		{%	include nation/ire.html	%}
-	</div>
-	<!--  -->
-	<h3>Brazil</h3>
-	<div>
-		{%	include nation/bra.html	%}
+		<div class="accordion">
+		<h3>Scotland</h3>
+		<div>
+			{%	include nation/scot.html	%}
+		</div>
+		<!-- 	 -->
+		<h3>England</h3>
+		<div>
+			{%	include nation/eng.html	%}
+		</div>
+		<!--  -->
+		<h3>Wales</h3>
+		<div>
+			{%	include nation/wales.html	%}
+		</div> 
+		<!--  -->
+		<h3>Northern Ireland</h3>
+		<div>
+			{%	include nation/ulster.html	%}
+		</div>
+		<!--  -->
+		</div>
 	</div>
 	<!--  -->
-	<h3>France</h3>
+	<!--  -->
+	<h3>latin</h3>
 	<div>
-		{%	include nation/fra.html	%}
+		<div class="accordion">
+		<h3>Brazil</h3>
+		<div>
+			{%	include nation/bra.html	%}
+		</div>
+		</div>
+		<!--  -->
 	</div>
 	<!--  -->
-	<h3>Germany</h3>
+	<!--  -->
+	<h3>euro</h3>
 	<div>
-		{%	include nation/ger.html	%}
+		<div class="accordion">
+		<!--  -->
+		<h3>France</h3>
+		<div>
+			{%	include nation/fra.html	%}
+		</div>
+		<!--  -->
+		<h3>Germany</h3>
+		<div>
+			{%	include nation/ger.html	%}
+		</div>
+		<!--  -->
+		<h3>Italy</h3>
+		<div>
+			{%	include nation/ita.html	%}
+		</div>
+		<!--  -->
+		<h3>Netherlands</h3>
+		<div>
+			{%	include nation/neder.html	%}
+		</div>
+		<!--  -->
+		<h3>Estonia</h3>
+		<div>
+			{%	include nation/est.html	%}
+		</div>
+		<!--  -->
+		<h3>Hungary</h3>
+		<div>
+			{%	include nation/hun.html	%}
+		</div>
+		<!--  -->
+		<h3>Portugal</h3>
+		<div>
+			{%	include nation/portug.html	%}
+		</div>
+		<!--  -->
+		</div>
 	</div>
 	<!--  -->
-	<h3>Japan</h3>
+	<!--  -->
+	<h3>asia</h3>
 	<div>
-		{%	include nation/jp.html	%}
+		<div class="accordion">
+		<!--  -->
+		<h3>Japan</h3>
+		<div>
+			{%	include nation/jp.html	%}
+		</div>
+		<!--  -->
+		<h3>Mainland China</h3>
+		<div>
+			{%	include nation/chin.html	%}
+		</div>
+		<!--  -->
+		<h3>Hong Kong</h3>
+		<div>
+			{%	include nation/hk.html	%}
+		</div>
+		<!--  -->
+		</div>
 	</div>
 	<!--  -->
-	<h3>Mainland China</h3>
-	<div>
-		{%	include nation/chin.html	%}
-	</div>
-	<!--  -->
-	<h3>Hong Kong</h3>
-	<div>
-		{%	include nation/hk.html	%}
-	</div>
-	<!--  -->
-	<h3>Netherlands</h3>
-	<div>
-		{%	include nation/neder.html	%}
-	</div>
-	<!--  -->
-	<h3>Estonia</h3>
-	<div>
-		{%	include nation/est.html	%}
-	</div>
-	<!--  -->
-	<h3>Hungary</h3>
-	<div>
-		{%	include nation/hun.html	%}
-	</div>
 	<!--  -->
 	<h3>Canada</h3>
 	<div>
@@ -104,8 +139,7 @@ argument:
 	<!--  -->
 	<h3>...</h3>
 	<div>
-		
-	</div>
+</div>
 </div>
 
 <br>
@@ -116,7 +150,7 @@ Alright, so it is weird to do one list for all of Brazil (pop. 210m) and one for
 
 My selection from non-Anglophone countries will be biased towards obviousness and against wit. I forgive a gifted lyricist almost anything (for instance, I love early Mountain Goats), and I mostly can't here.
 
-Most countries seems to have local Indie Gods. Tragically Hip (Canada), Microdisney (Ireland). Mostly don't survive leaving their context.
+Most countries seem to have local Indie Gods: Tragically Hip (Canada), Microdisney (Ireland). Mostly don't survive leaving their context.
 
 <br><br>
 

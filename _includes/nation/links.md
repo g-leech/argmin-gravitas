@@ -22,9 +22,11 @@
 {%	assign spotnorn = "https://open.spotify.com/embed/playlist/5rZ9SY3m7tNCUpJ02fDery"		%}
 {%	assign spotest = "https://open.spotify.com/embed/playlist/4ZUniHnmEp0hvSWpwqWo97"		%}
 {%	assign spotcan = "https://open.spotify.com/embed/playlist/2MGqdT6IV2UH4gudv8ESWP"		%}
+{%	assign spotita = "https://open.spotify.com/embed/playlist/4luKvmGhAC45eQluVzeElh"				%}
 {%	assign spotger = "https://open.spotify.com/embed/playlist/3C0JqSntXUtQ4awrh59iZw"				%}
 {%	assign spothun = "https://open.spotify.com/embed/playlist/10ADnPEVdiCPYrxdCFyfgu"	%}
 {%	assign spotbright = "https://open.spotify.com/embed/playlist/6M2hI6hrzQhjG6vqxaGVum"		%}
+{%	assign spotport = "https://open.spotify.com/embed/playlist/5oQpWVPiQkUBqpAOhYZdDw"		%}
 
 {%	assign gravybread = "https://gravybread.wordpress.com/my-favorite-brazilian-albums/"		%}
 {%	assign clear = "https://clearandrefreshing.wordpress.com/"		%}
