@@ -4,3 +4,7 @@
 {% 	assign work = "http://en.wikipedia.org/wiki/Work_(thermodynamics)"	%}
 {% 	assign satis = "http://en.wikipedia.org/wiki/Satisficing" %}
 {% 	assign eea = "http://www.anth.ucsb.edu/projects/human/epfaq/eea.html"	%}
+{% 	assign christ = "https://sideways-view.com/2020/01/26/hedonic-asymmetries/"		%}
+{% 	assign jo = "https://www.newyorker.com/magazine/2020/01/13/a-world-without-pain?verso=true"		%}
+{% 	assign hyp = "https://en.wikipedia.org/wiki/Hyperthymic_temperament"		%}
+{% 	assign sand = "https://www.youtube.com/watch?v=YTu28qn2xcg"		%}

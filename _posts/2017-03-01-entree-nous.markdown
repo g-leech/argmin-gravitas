@@ -16,7 +16,7 @@ emotion:	4
 confidence: It doesn't solve the original problem, but it is quite fun.
 importance: 0 or 10
 wordcount:  400
-categories:	philosophy, epistemology, naturalism, argument
+categories:	philosophy, epistemology, naturalism, argument, scepticism
 ---
 
 {%	assign int = "https://plato.stanford.edu/entries/justep-intext/"	%}
