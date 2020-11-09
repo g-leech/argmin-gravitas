@@ -26,12 +26,30 @@ layout: default
     {% endif %}
 
   <br>
-    {% if page.summary %} <br>{{t}}<i>{{  page.summary  }}</i>{% endif %} 
-    {% if page.confidence %} <br>{{t}}<i>Confidence</i>: {{ page.confidence }}{% endif %} 
-    {% if page.importance %} <br>{{t}}<i>Topic importance</i>: <a href="/importance">{{  page.importance }} / 10</a>{% endif %}
-    {% if page.warnings %} <br>{{t}}<i>Content notes</i>: {{  page.warnings }}{% endif %}
-    {% if page.wordcount %}<br>{{t}}<i>Reading time</i>: {{ page.wordcount | divided_by: 200 }} mins. {% endif %} 
-    {% if page.cross %} <br>{{t}}<a href="{{ page.cross }}">Cross-posted here</a>.{% endif %} 
+    {% if page.summary %}
+        <br>{{t}}<i>{{  page.summary  }}</i>
+    {% endif %}
+
+    {% if page.confidence %}
+        <br>{{t}}<i>Confidence</i>: {{ page.confidence }}
+    {% endif %} 
+
+    {% if page.importance %}
+        <br>{{t}}<i>Topic importance</i>: <a href="/importance">{{  page.importance }} / 10</a>
+    {% endif %}
+
+    {% if page.warnings %} 
+        <br>{{t}}<i>Content notes</i>: {{  page.warnings }}
+    {% endif %}
+
+    {% if page.wordcount %}
+        <br>{{t}}<i>Reading time</i>: {{ page.wordcount | divided_by: 2000.0 | ceil | times: 10 }} mins. 
+    {% endif %} 
+
+    {% if page.cross %} 
+        <br>{{t}}<a href="{{ page.cross }}">Cross-posted here</a>.
+    {% endif %} 
+    
     {% if page.argument %} 
         {%  include dropdown.html     %}    
     {% endif %} 
