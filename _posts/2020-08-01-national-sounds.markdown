@@ -49,13 +49,23 @@ argument:
 	</div>
 	<!--  -->
 	<!--  -->
-	<h3>latin</h3>
+	<h3>americas</h3>
 	<div>
 		<div class="accordion">
-		<h3>Brazil</h3>
-		<div>
-			{%	include nation/bra.html	%}
-		</div>
+			<h3>Brazil</h3>
+			<div>
+				{%	include nation/bra.html	%}
+			</div>
+			<!--  -->
+			<h3>Canada</h3>
+			<div>
+				{%	include nation/can.html	%}
+			</div>
+			<!--  -->
+			<h3>America</h3>
+			<div>
+				{%	include nation/us.html	%}
+			</div>
 		</div>
 		<!--  -->
 	</div>
@@ -126,16 +136,6 @@ argument:
 		</div>
 	</div>
 	<!--  -->
-	<!--  -->
-	<h3>Canada</h3>
-	<div>
-		{%	include nation/can.html	%}
-	</div>
-	<!--  -->
-	<h3>America</h3>
-	<div>
-		{%	include nation/us.html	%}
-	</div>
 	<!--  -->
 	<h3>...</h3>
 	<div>

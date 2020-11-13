@@ -9,13 +9,13 @@ visible:	true
 {%	assign orcid = "https://orcid.org/0000-0002-9298-1488"		%}
 {%	assign bris = "http://www.bristol.ac.uk/engineering/people/gavin-l-leech/overview.html"	%}
 {%	assign covid = "https://www.medrxiv.org/content/10.1101/2020.05.28.20116129v1"		%}
-{%	assign neurips_covid = "https://arxiv.org/abs/2007.13454"	%}
+{%	assign neurips_covid = "https://openreview.net/forum?id=WgUqq6G7oHj"	%}
 {%	assign coms = "https://github.com/carlhenrikek/COMS30007/"		%}
 {%	assign xrisk = "https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause"	%}
 {%	assign academic_safety = "https://forum.effectivealtruism.org/posts/8ErtxW7FRPGMtDqJy/the-academic-contribution-to-ai-safety-seems-large"	%}
 {%	assign git = ""		%}
 {%	assign ac = "https://jpswalsh.github.io/academicons/"	%}
-{%	assign prolexa = "https://github.com/g-leech/prolexa" 	%}
+{%	assign prolexa = "https://github.com/So-Cool/prolexa/blob/prolexa-plus/Readme.md#prolexa-plus" 	%}
 {%	assign htk = "https://github.com/g-leech/Py2HTK"	%}
 {%	assign algo = "https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20010"	%}
 {%	assign lgfo = "https://arxiv.org/abs/2009.11677"		%}
@@ -29,6 +29,11 @@ visible:	true
 		padding-top:8px;
 	    vertical-align: top;
 	}
+
+	.logo {
+		width: 12%;
+	}
+
 </style>
 
 <!-- https://jpswalsh.github.io/academicons/  -->
@@ -60,7 +65,16 @@ visible:	true
 
 ## Journal
 
-<!-- _Safety Properties of Inductive Logic Programming_ (2020) -->
+<!-- <table>
+	<tr>
+		<td class="logo">
+			<img src="/img/papers/ilp.png" />
+		</td>
+		<td>
+			<i>Safety Properties of Inductive Logic Programming</i> (2020)
+		</td>
+	</tr>
+</table> -->
 
 
 <br>
@@ -69,8 +83,31 @@ visible:	true
 
 #### 2020
 
-* _<a href="{{covid}}" target="_blank">The effectiveness of 8 nonpharmaceutical interventions against COVID-19 in 41 countries</a>_. <a href="#fn:1" id="fnref:1">1</a>
-* _<a href="{{lgfo}}" target="_blank">Legally Grounded Fairness Objectives</a>_ 
+<table>
+	<tr>
+		<td class="logo">
+			<img src="/img/papers/science-covid.png" />
+		</td>
+		<td>
+			<i><a href="{{covid}}" target="_blank">Inferring the effectiveness of government interventions against COVID-19</a>.</i>
+			<br><br>
+			<a href="#fn:1" id="fnref:1">1</a> 
+		</td>
+	</tr>
+	<!--  -->
+	<!--  -->
+	<tr>
+		<td class="logo">
+			<img src="" />
+		</td>
+		<td>
+			<a href="{{lgfo}}" target="_blank">Legally Grounded Fairness Objectives</a>
+		</td>
+	</tr>
+</table>
+
+
+
 
 
 <!-- * _Towards Tensorised Probabilistic Programming_ (2020) -->

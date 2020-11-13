@@ -29,7 +29,7 @@ argument:
 
 In the last century, half a revolution happened: you can now buy <a href="{{thousands}}">many thousands of substances</a> that claim to promote health, and perhaps a couple of them do. 
 
-The promise is to fine tune your health: to prevent idiosyncratic disorders, to treat the huge murky "subclinical" area of health problems, all the minor things that make life worse. And so <a href="{{uk}}">most UK adults</a> take supplements (about half of those multivitamins). Several problems with this:<br>
+The point is to fine-tune your health: to prevent idiosyncratic disorders, to treat ubiquitous "subclinical" or "subsyndromal" health problems. All the little things that make life worse. And so <a href="{{uk}}">most UK adults</a> take supplements (about half of those multivitamins). Several problems with this:<br>
 
 1. _Absence of general evidence / Evidence of harm_. Many supposedly health-promoting substances have uselessly weak evidence. For instance, <a href="{{multi}}">frequent use of multivitamins</a> is probably somewhat harmful: they _increase_ mortality for the average user, maybe due to overdosing you with antioxidants. <br>
 
