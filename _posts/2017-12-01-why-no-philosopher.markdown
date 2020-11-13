@@ -11,7 +11,7 @@ published:	true
 visible: 	1
 quality: 	8
 
-summary:    Philosophy's functions and benefits, and why they aren't real (?)
+summary:    Philosophy's functions & benefits, and why they aren't real(?)
 confidence:	N/A. A polemic I don't usually endorse.
 importance: 4
 pride:		7

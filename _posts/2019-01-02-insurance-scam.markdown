@@ -33,7 +33,7 @@ I limit the following to _for-profit, personal, noncompulsory insurance_ (as opp
 <a name="argument_one"></a><br>
 
 
-## 1. Argument from surplus profit
+## 1. Argument from profit
 
     1. Insurance firms make profit: their revenue > their costs.
     2. Their costs are *at least* the true expected loss plus operating costs.

@@ -10,7 +10,7 @@ img:        /img/
 visible:    1
 published:  true
 
-summary:    Formalisation of a throwaway line about philosophical scepticism.
+summary:    Formalising a throwaway line about philosophical scepticism.
 quality:    4
 emotion:	4
 confidence: It doesn't solve the original problem, but it is quite fun.
