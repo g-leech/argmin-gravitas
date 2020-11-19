@@ -31,6 +31,8 @@ argument:
 {%	assign gwern = "https://www.gwern.net/Nootropics#caffeine"	%}
 {%	assign down = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3437321/"	%}
 {%	assign rog2 = "https://link.springer.com/article/10.1007%2Fs00213-012-2889-4"		%}
+{%	assign fluke = "https://slatestarcodex.com/2019/08/19/maybe-your-zoloft-stopped-working-because-a-liver-fluke-tried-to-turn-your-nth-great-grandmother-into-a-zombie/"	%}
+
 
 > Withdrawal from caffeine causes... headache, fatigue, decreased energy/activeness, decreased alertness, drowsiness, decreased contentedness, depressed mood, difficulty concentrating, irritability, and feeling foggy/not clearheaded... abstinence from low doses, such as about one small cup of coffee per day, also produced symptoms of withdrawal.
 
@@ -72,7 +74,7 @@ The worry is that chronic use of caffeine creates a problem and then masks it by
 
 (Again, that right-hand graph is not realistic. In reality the graphs will cross; the rest of this is just wrangling over where the crossing is. Does caffeine actually raise average performance?)
 
-The theoretical reason to expect that chronic use looks like the right-hand graph is "<a href="{{down}}">downregulation</a>": the body foils most  attempts to permanently increase almost anything to do with the brain. Then there's a bunch of empirical studies that attempt to measure whether chronic effects are net positive.
+The theoretical reason to expect that chronic use looks like the right-hand graph is "<a href="{{down}}">downregulation</a>": the body foils <a href="{{fluke}}">most attempts</a> to permanently increase almost anything to do with the brain. Then there's a bunch of empirical studies that attempt to measure whether chronic effects are net positive.
 
 * _strong withdrawal reversal hypothesis_: the cognitive effects of chronic caffeine use are not net positive.
 * _beneficial naivety hypothesis_: the cognitive effects of caffeine use are net positive in naive users.
