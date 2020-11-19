@@ -323,9 +323,10 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 
 {%	assign schw = "https://schwitzsplinters.blogspot.com/2020/08/philosophy-that-closes-vs-philosophy.html"	%}
 {%	assign stove = "https://web.maths.unsw.edu.au/~jim/wrongthoughts.html"	%}
-
+{%	assign spol = "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/"		%}
 
 * <a href="{{schw}}">Schwitzgebel on philosophy that opens</a>
 * <a href="{{stove}}">The dangerous ravings of David Stove</a>
+* <a href="{{spol}}">Spolsky on the risks of abstraction even in practical matters</a>
 
 {%  include nophil/tangents.html     %}
