@@ -1,0 +1,53 @@
+---
+layout:     post
+title:      "Dominic Cummings Report Card (2019-2020)"
+baselink:   /dom
+permalink:  /dom
+date:       2020-11-14
+author:     Gavin
+
+img:        
+published:  false
+visible:    1
+
+summary:    
+categories: 
+confidence: 70%. Missing a lot, & will be til declassification in 2050 & beyond.
+importance: 5
+warnings: 	
+wordcount:  
+argument:   
+---
+
+yes, yes, I mostly don't have enough information to attribute policies to him, and yes this isn't a good model of policymaking even for the most powerful advisors
+
+
++ Doubling of R&D budget (by 2025)
+
++ [Pushed SAGE into an earlier lockdown](https://www.bloomberg.com/news/articles/2020-04-28/top-aide-to-u-k-s-johnson-pushed-scientists-to-back-lockdown). That article and their sources try to make this out to be a bad thing, but it would be immoral to do anything else.
+
+
++ £800m ARPA like
+
++ £300m STEM funding
+
++ Uncapped immigration path for scientists
+https://www.gov.uk/government/news/boost-for-uk-science-with-unlimited-visa-offer-to-worlds-brightest-and-best
+
++ Tutoring in state schools
+https://www.theguardian.com/education/2020/jun/17/government-to-fund-private-tutors-for-english-schools
+
++ Whatever this is
+https://www.youtube.com/watch?v=XaN-MbGV4dY
+
+- Associated data science, superforecasting and evidence-based policy with dickheads, racists, and edgelords. Weirdo scheme may mean Whitehall hiring even more staid in the short run.
+
+- Something something bullying, norms, deception, centralisation of power. Whipping the Treasury probably not a good precedent.
+
+- Hypocrisy probably weakened lockdown norms.
+
+- Not sure how much of the immigration burdens (NHS surcharge etc) are DC.
+
+? No idea if he changed Whitehall at all.
+
+? Hypocrisy. Wasted a huge amount of Johnson's political capital during a public health crisis
