@@ -1,3 +1,4 @@
+{%		assign dennis = "https://privacy.net/analyzer/"		%}
 {%		assign piholeImg = "/img/pi.png"		%}
 {%	assign strange = "https://www.gwern.net/Noteslittlewoods-law-and-the-global-media"	%}
 {%		assign attackImg = "/img/attack.jpg"	%}

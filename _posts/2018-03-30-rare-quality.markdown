@@ -30,7 +30,7 @@ wordcount:		400
 
 <br>
 
-I recently realised I don't know why quality is rare. Despite its obviousness and universality, this wants explaining. Some possible reasons:<br><br><br>
+I recently realised I don't know why quality is rare. Some possible reasons:<br><br><br>
 
 
 <ul>
@@ -105,6 +105,15 @@ I recently realised I don't know why quality is rare. Despite its obviousness an
 	'Quality is rare because we evolved to value the new, and most things aren't new. An obsession with novelty was a winning strategy in the ancestral environment. So we devalue the common in order to direct more attention on the rare and thus and thus maximise diet balance / mating opportunities.'
 	<br><br>
 	Big issue with this: novelty has been increasing massively in the last 300 hundred years, and going by the ambient pessimism, I'm not sure people's experienced value has been tracking that huge increase. (Note also that this is social constructionism with a different hat on.)
+</li><br>
+
+<li>
+	<span style="font-weight: bold">
+		<i>Environment shift: Out of our depth</i><br>
+	</span>
+	That is, our environment has shifted far from the one we formed our heuristics and hard-wired competencies in. The atomic actions of the modern world (punctuality, lifelong learning of new systems, temperance when surrounded by superstimuli, being relaxed in large crowds, extreme focus duration - sometimes for an entire hour!) are basically absent in the ancestral env. Neither our genes nor our culture have adapted enough yet.<br>
+	<i>Prediction</i>: it should be much easier to find high quality in primordial things: hunting, swimming, dancing, group singing, language.
+	<!--  Native speakers of a language are remarkable in their recall and live generation, even when the language is <a href="{{fuzz}}">luridly</a> <a href="{{lang}}">complex</a>. -->
 </li><br>
 
 

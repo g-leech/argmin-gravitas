@@ -22,7 +22,7 @@
 		<br><br>
 		The alliance of pop music and political radicalism wasn't new - consider all the <i>actual</i> social experimentation by the (hated, derided, 'soft') <a href="{{counter}}">hippies</a>. The hippies did <a href="{{carol}}">pirate radio</a> and <a href="{{whole}}">DIY</a> and zines. The hippies <a href="{{stone}}">actually fought</a> the police en masse, not just at gigs. The largest-scale punk practice, the <a href="{{house}}">Punk House</a> or squat is just a tiny wee co-op commune, the sort of thing <a href="{{comm}}">tried for hundreds of years</a>, and the earliest examples are tied to Andy Warhol. <br><br>
 		<!--  -->
-		Even compared to other subcultures, punk is unusually closely tied to its music and fashion. Are there punks who don't like punk rock, who don't like patches and studs? Not many. What we call a counterculture is a vague mix of subversive aesthetics, politics, and lifestyles. Sometimes it's principled, and sometimes it is just about the thrill of being contrary, of 'countersignalling'.<br><br>
+		Even compared to other subcultures, punk is unusually closely tied to its music and fashion. Are there punks who don't like punk rock, who don't like patches and studs? Not many. What we call a subculture is a vague mix of subversive aesthetics, politics, and lifestyles. Sometimes it's principled, and sometimes it is just about the thrill of being contrary, of 'countersignalling'.<br><br>
 		<!--  -->
 		The punk look was kinda new, but really just a stronger form of <a href="{{greas}}">greaser</a> and <a href="{{mod}}">hard mod</a> style. 
 		<br><br>
