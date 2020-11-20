@@ -1,0 +1,194 @@
+---
+layout:     post
+title:      "Graphs are cool"
+baselink:   /graphs
+permalink:  /graphs
+date:       2020-11-20
+author:     Gavin
+
+img:        /img/hyper.jpg
+published:  true
+visible:    1
+
+summary:    Graph theory is beautiful, useful, easy, all that.
+categories: maths, tools-for-thought
+confidence: 
+importance: 5
+warnings: 	
+wordcount:  
+argument:   
+---
+
+{%	include graph/links.md	%}
+
+
+If you were to learn one area of maths properly, what should it be?
+
+Depends what you want to do with it. _Send tweet._
+
+<hr />
+<br>
+
+In computer science or machine learning, when people talk about the areas you need, they usually mention calculus, linear algebra, probability theory.<a href="#fn:1" id="fnref:1">1</a> These are some of humanity's greatest achievements, and probability can totally change your life, since (outside of mathematics or the wider Set Exercises of school) we have nothing to work with but probable and improbable, priors and data.
+
+What if you're not a technical researcher? What if you just want to get as much clarity as you can, without devoting years of your life to it?
+
+After probability and basic programming, I think there's no area better than graph theory. It is both incredibly intuitive _and_ hyper-efficient. It is useful for almost any discrete application: <a href="#so-many-things-are-graphs">logic, science, society, ...</a> It lets us do lots of things whenever we have "some relations between some objects". Obviously this is isn't as abstract as we can go - <a href="{{rosr}}">why have those clunky objects</a>? But it's a nice median.
+
+
+
+Getting into the habit of <a href="/uncritical">drawing</a> <a href="{{cornaro}}">a directed graph</a> is probably the simplest way of thinking better. It takes one minute, and even the qualitative unweighted version will allow you to instantly spot disagreements. I dream of a world where people disagreeing (on Twitter, in debates, ) head to Sketchviz and work out exactly where they're diverging, probably in the relative thickness of two edges. They are astoundingly useful for data-driven science. But they are unbeatable for communication.
+
+
+<!-- ## Intuitive 
+
+You can go far in graph theory with visual reasoning.
+
+Gif of "every 4-path is self-complementary"
+
+## causal inference, 
+
+theory building
+ -->
+<!-- http://bactra.org/notebooks/graphical-causal-models.html -->
+
+
+
+
+## So many things are graphs
+
+In some sense anyway, whether it's mathematical equivalence , having a 1-1 mapping (logic), partial capture of structure (groups), or just a useful approximation (society).
+
+<br>
+<center>
+	<img src="/img/deep.jpg" />
+	<small>
+		<a href="{{dm}}">
+			Battaglia et al (2018)
+		</a>
+	</small>
+</center>
+<br><br>
+
+
+### Sets are graphs 
+
+without edges.
+
+
+### Logic is Trees is Graphs
+
+Any well-formed sentence of logic has a syntax tree, which is a graph.
+
+Trees are a big deal in chemistry.
+
+(Also linked-lists are trees are graphs...)
+
+
+### <a href="{{group}}">Groups have graphs</a>
+
+
+
+### Optimisation is shortest-pathing
+
+Ray tracing and Q-learning and currency arbitrage is graphs. <a href="{{jang}}">I love this post so much.</a>
+
+
+### Graphical models: joint distributions have graphs
+
+Under <a href="{{hc}}">very general conditions</a>, joint distributions have graphs. <a href="#fn:3" id="fnref:3">3</a>
+
+
+Statistics is one of the hardest things I ever learned. It's just so vast, and even a good grasp of the theory (which almost no-one has) does not prevent 100 completely fatal silent mistakes. Graphs unify the <a href="{{zoo}}">stats zoo</a>.
+
+Strictly speaking there isn't a lot of graph theory in PGM work. But some graph algorithms are cutting-edge. <a href="#fn:4" id="fnref:4">4</a>
+
+ <!-- The distinction between directed and undirected is important, but "Bayes" and "Markov" don't really convey it, since directed graphs have Markov properties and one uses Bayes's rule all the time in undirected graphs. -->
+
+
+
+### Graph neural networks
+	
+<a href="{{c}}">Convolutions</a> are graphs. (Edge from a node to all neighbours and self.)
+
+The <a href="{{t}}">Transformer</a> is a graphnet.
+
+<a href="{{dm}}">This paper</a> tries to unify many of the discrete neural nets that have sprung up into one framework, and it has an extreme grandeur.
+
+<center>
+	<img src="/img/gnn.png" />
+</center>
+<br><br>
+
+### Massively efficient algos
+
+Many serious databases use <a href="{{btree}}">trees</a>. i.e. Every formal activity in modern society relies on graphs.
+
+<a href="{{kern}}">Graph kernels are so fast</a>.
+
+
+### High theory
+
+Just one instance of it showing up in remarkable mathematics: <a href="{{rams}}">Ramsey theory and Szemerédi</a>.
+
+<a href="{{sz}}">Szemerédi's theorem</a>: 
+"any subset of integers of positive (upper) density must necessarily contain arbitrarily long arithmetic progressions."
+
+(This is number theory but the proof flits between that and graphs.)
+
+You get there via Ramsey’s theorem: "any finitely coloured, sufficiently large complete graph will contain large monochromatic complete subgraphs."
+
+The path from basic principles (Pigeonhole or Handshake) to huge results like this seems shortest in graph theory. Or maybe that's just my brain.
+
+<!-- graph-theoretical techniques, discarding almost entirely the additive structure of the problem -->
+<!--  Szemeredi’s original proof is only partly graph-theoretical, as it exploits the additive structure of progressions in many different places. -->
+
+
+### Society as graph
+
+PageRank treats the internet as one giant implicit graph. 
+
+A lot of the best <a href="{{ergm}}">sociology</a> and epidemiology uses graphs as the core tool.
+
+
+### Thought as graph
+
+> I do not speak, I operate a machine called language. It squeaks and groans but is mine own.
+
+<center>- Dune Messiah</center>
+
+<br>
+
+When I write, I am taking the great implicit graph of my thoughts and ripping out a tiny number of particular nodes, and maybe two or three of the many edges. I then serialise these nodes (imposing an artificial order, discarding my weights, idiosyncratic associations, and colour), and have to just hope that you are able to reconstruct some of the original graph comes from the drips of the narrow and impoverished channel of language.
+
+The "don't call it a notetaking app" notetaking app <a href="{{r}}">Roam</a> is designed with this in mind, and it is by far the least unpleasant way of thinking about everything I've ever seen.
+
+<br>
+<hr />
+<br>
+
+I am frankly <a href="{{hammer}}">dazzled</a> by how general it is. I haven't seen any list of the above; I just kept on finding it in new places, it just kept eating objects until I fell in love with it.
+
+Of course you can go much more general in <a href="{{ncat}}">at least three directions</a>: programs, for instance, are much bigger than graphs. But for an _easy_ step into rigorous and general ideas they are the winner.
+
+<br>
+<hr />
+<br>
+
+
+
+## Drawing quickly and beautifully
+
+<!-- Mermaid / Graphviz -->
+
+Graphviz is kinda painful to use without a live GUI, but <a href="{{viz}}">Sketchviz</a> pretty much works unless you have very strict spacing in mind.
+
+
+
+## See also
+
+* [The Fascinating World](https://press.princeton.edu/books/paperback/9780691175638/the-fascinating-world-of-graph-theory)
+
+<br><br>
+
+{%	include graph/foots.html	%}
