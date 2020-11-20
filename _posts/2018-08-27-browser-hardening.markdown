@@ -234,7 +234,7 @@ Still, lean toward avoiding others.
 
 <br>
 
-<a href="{{eff}}">Here's a good tool</a> for seeing if this does the trick.
+<a href="{{eff}}">Here's a couple</a> <a href="{{dennis}}">of good tools</a> for seeing if this does the trick.
 
 Note that you're not going to stop any nation-states except <a href="{{paranoia}}">via perfect paranoia</a>, the kind which makes the above look sloppy and carefree. Luckily, that effort is not worthwhile for almost anyone.
 

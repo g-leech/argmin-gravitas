@@ -4,6 +4,7 @@
 {%	assign oxy = "https://www.chemist.co.uk/snoreeze-nasal-spray.html?awc=13507_1586603422_5aaf4e77c3108526ab8e4c85bef62f2d&utm_campaign=Direct+Linking&utm_medium=639029&utm_source=AWIN"	%}
 {%	assign fil = "https://www.keyboardco.com/keyboard/filco-convertible-2-tenkeyless-silent-soft-linear-action-uk-iso-keyboard.asp"		%}
 
+{%	assign pump = "https://www.youtube.com/watch?v=pSq0P3e-tqs"	%}
 {%	assign nic = "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-nicotine-rep-lozenges-peppermint-4mg-x72?catalogId=10241&productId=90730&storeId=10151&langId=44&krypto=BMdV2%2FLLKXZX4KaP1iRjq8RSd3Sowu72wkIr%2Fewdxj8JVj5EvQhUcdn%2F2cLawp%2BggmZfJcomLmpVwFrJbGdrr8glJub66DX3DE3m9jRQuudaYYlqJC8YXZGlOcBBIcpOb5sAfUwd84AN0qq1JnpYNEgBUL%2BYD1Qw%2FyWstUZDmtvSj%2FvOInczIFG6flKU%2B05Wgos1ERn2XibbJy514SEy%2Bw%3D%3D&ddkey=https%3Agb%2Fgroceries%2Fsainsburys-nicotine-rep-lozenges-peppermint-4mg-x72"		%}
 {%	assign kee = "https://www.keepassx.org/"		%}
 {%	assign ks = "https://www.amazon.co.uk/s?k=kitsound+bluetooth+speaker&i=electronics&crid=20FB1ET3YOYB1&sprefix=kitsound+%2Celectronics%2C152&ref=nb_sb_ss_i_1_9"		%}

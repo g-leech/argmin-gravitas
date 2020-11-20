@@ -34,6 +34,7 @@ https://www.thenewatlantis.com/publications/the-ambiguous-utopia-of-iain-m-banks
 <center>
 	<img src="/img/windward.png" />
 </center>
+<br>
 
 > Liberalism is a technology for preventing civil war. It was forged in the fires of Hell – the horrors of the endless seventeenth century religious wars... from the burning wreckage, we drew forth this amazing piece of alien machinery. A machine that, when tuned just right, let people live together peacefully without doing the “kill people for being Protestant” thing. Popular historical strategies for dealing with differences have included: brutally enforced conformity, brutally efficient genocide, and making sure to keep the alien machine tuned really really carefully.
 
@@ -114,7 +115,7 @@ The humans are not the protagonists. Even when the books seem to have a human pr
 
 The projects the humans take on risk inauthenticity. Almost anything they do, a machine could do better. What can you do? You can order the Mind to not catch you if you fall from the cliff you're climbing-just-because; you can delete the backups of your mind so that you are actually risking. You can also just leave the Culture and rejoin some old-fashioned, unfree "<a href="{{eval}}">strongly evaluative</a>" civ. The alternative is to evangelise freedom by joining Contact.
 
-One of Banks' protagonists is anti-Culture. The boring version of his critique is that he dislikes machines ruling humans - their enemies are on the side of life - "boring, old-fashioned, biological life".  But the real point is that the Culture's all very well for the actively questing, protagonist Minds, but terrible for its lesser subjects, because nothing in their life is truly serious, counterfactual, functional. Horza thinks you need struggle, ultimate meaning, grand narrative. He sides with the Idirans because at least it's an ethos. (As always, the Culture partially assimilates this critique: one of them <a href="{{horz}}">names itself</a> after it.)
+One of Banks' protagonists is anti-Culture. The boring version of his critique is that he dislikes machines ruling humans - their enemies are on the side of life - "boring, old-fashioned, biological life".  But the real point is that the Culture's all very well for the actively questing, protagonist Minds, but terrible for its lesser subjects, because nothing in their life is truly serious, counterfactual, functional. Horza thinks you need struggle, ultimate meaning, grand narrative. He sides with the Idirans because at least it's an ethos. (As always, the Culture partially assimilates this critique: one of them <a href="{{horz}}">names itself</a> after him and so his objection.)
 
 There are objective limits to their egalitarianism (e.g. the artificial-intelligence Ships are straightforwardly superior to their organic charges):
 
