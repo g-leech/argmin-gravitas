@@ -16,3 +16,8 @@
 {%	assign ncat = "https://ncatlab.org/nlab/show/computational+trinitarianism"		%}
 {%	assign hammer = "https://en.wikipedia.org/wiki/Law_of_the_instrument"		%}
 {%	assign r = "https://roamresearch.com/#/app/help/page/Vu1MmjinS"		%}
+{%	assign zoub = "https://cs.nyu.edu/~roweis/papers/NC110201.pdf"		%}
+{%	assign nir = "https://science.sciencemag.org/content/303/5659/799.full"		%}
+{%	assign cont = "https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf#page=15"	%}
+{%	assign SAT = "https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf#page=16"	%}
+{%	assign phyl = "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-69"		%}
