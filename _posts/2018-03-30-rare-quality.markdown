@@ -15,7 +15,7 @@ summary:    Why in general is it harder to do things well than badly?
 confidence:	80% that I've captured the main contributors.
 categories: meaning, philosophy, transhumanism, suffering, biology
 importance: 8
-wordcount:		400
+wordcount:	400
 ---
 
 
@@ -112,8 +112,7 @@ I recently realised I don't know why quality is rare. Some possible reasons:<br>
 		<i>Environment shift: Out of our depth</i><br>
 	</span>
 	That is, our environment has shifted far from the one we formed our heuristics and hard-wired competencies in. The atomic actions of the modern world (punctuality, lifelong learning of new systems, temperance when surrounded by superstimuli, being relaxed in large crowds, extreme focus duration - sometimes for an entire hour!) are basically absent in the ancestral env. Neither our genes nor our culture have adapted enough yet.<br>
-	<i>Prediction</i>: it should be much easier to find high quality in primordial things: hunting, swimming, dancing, group singing, language.
-	<!--  Native speakers of a language are remarkable in their recall and live generation, even when the language is <a href="{{fuzz}}">luridly</a> <a href="{{lang}}">complex</a>. -->
+	<i>Prediction</i>: it should be much easier to find high quality in primordial things: hunting, swimming, dancing, group singing, language. <a href="#fn:1" id="fnref:1">1</a>
 </li><br>
 
 

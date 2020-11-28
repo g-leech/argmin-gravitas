@@ -10,3 +10,4 @@
 {% 	assign sand = "https://www.youtube.com/watch?v=YTu28qn2xcg"		%}
 {% 	assign fuzz = "https://fuzzygrammar.wordpress.com/2016/08/14/the-hardest-language-in-the-world-what-are-we-talking-about-when-we-talk-about-complexity"		%}
 {% 	assign lang = "https://medium.economist.com/we-went-in-search-of-the-worlds-hardest-language-95a27c2cff3"	%}
+{% 	assign dys = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2066137/"	%}
