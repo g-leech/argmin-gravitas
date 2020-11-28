@@ -55,3 +55,4 @@
 {% 	assign insta	=	"https://www.instagram.com/explore/tags/booklover/?hl=en"		%}
 {%	assign ried = "https://blog.jessriedel.com/2014/02/03/hason-ism-travel-isnt-about-intellectual-exposure/"	%}
 {%	assign brian = "https://briantomasik.com/rarely-travel/"		%}
+{%	assign alys = "https://rationalconspiracy.com/"		%}

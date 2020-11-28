@@ -41,9 +41,17 @@ What does everyone <i>have</i> to like? (Better: what does everyone <a href="{{p
 Not everything in the following list is bad, just mysteriously universal or <a href="{{x}}">unquestioned</a>. I also wanted things independent of Left/Right politics, because they are both obvious and plainly not universal. So I haven't included Gopnik's example (gay marriage) despite it having all the hallmarks of a piety – e.g. finding support even among <a href="{{nat}}">ancient enemies</a>, having <a href="{{ag}}">only</a> <a href="{{wut}}">confusing opponents</a> we could report on, gawkily. 
 
 They're also superficial in comparison to the deadly pieties, 'things one <a href="{{eich}}">loses one's job</a> for opposing'. For which 'heresy' might not be excessive. Though that takes our term for 'things others will <a href="{{heb}}">kill you for saying </a>'.
+<br><br>
 
+<div class="accordion">
+	<h3>Update (2020)</h3>
+	<div>
+		To my surprise there has been some movement. It is now <i>much</i> more common to be sceptical of the media (the "MSM" boogeyman), though of course most non-mainstream sources are no better. (<a href="{{alys}}">Alyssa Vance</a>: "<i>Sometimes the media is lying to you. Unfortunately, people who say 'the media is lying to you' are, on average, lying to you even more."</i>.) Data journalism has grown and had at least a tiny effect on the great rivers of groundless nonsense.<br><br> 
+		<!--  -->
+		One piety I missed, which was present in 2015 but has gotten much worse, is the entire world <b>Obsessively Following the US National Election Cycle</b> for one-quarter of their entire lives. Given how impotent the audience is to do literally anything about it but panic, and how low-quality almost all of the coverage is, this is self-harm on a very grand scale.
+	</div>
+</div>
 
-<hr />
 
 <br>
 
