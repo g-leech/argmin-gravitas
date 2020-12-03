@@ -22,6 +22,14 @@ wordcount:  3500
 
 {%  include psy/links.md   %}
 
+<!-- - HOPE
+- GRIT
+- Left brain / right brain personality
+- Alpha wolves
+- Backfire effect
+- Broken windows
+ -->
+
 
 <!-- > [Brain training was] a prototypical case of the Replication Crisis: a convenient environmental “One Weird Trick” intervention; with extremely low prior probability; which made no quantitative predictions; supported by a weak methodology which could manufacture positive results; and propped up by selective citation, systemic pressure towards publication bias, researcher allegiance & commercial conflicts of interest; which theory was never definitively disproven, but lost popularity and sort of faded away. -->
 <!-- <center> – <a href="{{gwern}}">Gwern Branwen</a></center> -->

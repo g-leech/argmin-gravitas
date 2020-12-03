@@ -38,7 +38,7 @@ warnings:   Spoilers. Not a good intro.
 
 _Adventure Time_ is a cartoon about the fantastical anime/D&D quests of a boy and his anthropomorphic dog. Superficially, it is joyous: filled with treasure, candy, fart jokes, dayglo idiots, new slang, and dance parties. 
 
-But the joy in it is _post_-post-apocalyptic: the show is undermined and deepened by a dark frame - all of these adventures take place in a <a href="{{dying}}">ruined Earth</a>, with \~all of the adults gone. It is an unusually good depiction of nihilism, trauma, the 'meaning crisis', the contingency of self, virtue, success, love, and even existential risk.
+But the joy in it is _post_-post-apocalyptic: the show is undermined and deepened by a dark frame - the adventures take place in a <a href="{{dying}}">ruined Earth</a>, with \~all of the adults gone. It is an unusually good depiction of nihilism, trauma, the 'meaning crisis', being neuroatypical, the contingency of self, virtue, success, love, and even existential risk.
 
 <!-- Ooo only existed cause of apocalypse. -->
 
@@ -54,7 +54,7 @@ DISCLAIMER: There are about 700 characters in the show. With this many degrees o
 
 <a href="{{m}}">Manichaean</a> religion viewed the world as a finite war between light and dark - with light constantly leaking out of the world, unto eternal night. So too in _Adventure Time_: as the series goes, more and more of the heroes, gods, and stabilising forces in Ooo are removed:
 
-* Billy retires, broken. Then is corrupted and used by xrisk
+* The greatest hero Billy retires, broken. Then is corrupted and used by xrisk
 * The god of Mars, GrobGobGlobGrod is killed.
 * Prismo - an even more godlike God - is killed.*
 * <a href="{{matt}}">Matthew</a>, a hive mind who claims that he will restore the world after the next apocalypse, is murdered for no particular reason.
@@ -71,7 +71,7 @@ Against this steady loss of checks and balances, villains disappear too. Because
 
 <!-- Gunther was both Orgalorg and Gunther the Apprentice. Who was from a different timeline but nvm. And who wished to become his master, except that the master loves Gunther this time. And who is thus left without the thing he loves forever -->
 
-* Some of this article was written before the last few seasons brought people back and generally pushed against entropy.
+\* Some of this post was written before the last few seasons brought people back and generally pushed against entropy.
 
 ## Injustice
 
@@ -79,7 +79,7 @@ The least childish thing about the show is the repeated instances of unpunished 
 
 * Magicman, a sort of camp <a href="{{ac}}">Anton Chigurh</a>, does [many](https://www.youtube.com/watch?v=NljxtaJv-68) heinous things, including summoning a world-eating monster. He suffers somewhat, but recovers and goes on being heinous.
 * Root Beer Guy, a blameless minor character given one very heartfelt episode, is brutally murdered during a siege of the Candy Kingdom. All others who die in this episode are revived, but not him.
-* The terrible <a href="{{stag}}">Stag</a>, who briefly enslaves an entire country, is temporarily 
+* The terrible <a href="{{stag}}">Stag</a>, who briefly enslaves an entire country in order to devour them, is transformed into a telescope (justice I guess), but is later put back. 
 
 <!-- ## Finn: puberty as zombification
 
@@ -113,7 +113,7 @@ Martin the husband tried his best, was even heroic, and still ended up failing h
 
 The point is that the self is fragile; virtue and vice are partly happy or unhappy accidents; and yes the mask can eat into the face and make you into what you do.
 
-He was a rogue and a cheapskate before Minerva, but he is much much worse than this after the head injury
+He was a rogue and a cheapskate before Minerva, but he is much much worse than this after the head injury.
 You can retcon this as his defence mechanism from shame, but I find the neurological explanation simpler, more disturbing, and satisfying.
 
 #### What do we know?
@@ -161,17 +161,17 @@ Understandably, the finale veers away from this, instead emphasising endless cyc
     <iframe width="560" height="315" src="https://www.youtube.com/embed/3-NVUMjUUcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-I don't mind this alternative; unlike the reading of Martin that paints him as a wilful liar, or as the result of deeply repressed shame, the eternal adventure is at least an ethos.
+I don't mind this alternative; unlike the reading of Martin that paints him as _just_ a wilful liar, or _just_ the result of deeply repressed shame, the eternal adventure is at least an ethos.
 
 ## Fandom is forever
 
 The final song, "<a href="{{time}}">Time Adventure</a>" has a lot going on. First: 4-dimensionalism about time.
 
-> _It seems unforgiving when a good thing ends<br>But you and I will always be back then._
+> _Time is an illusion that helps things make sense<br>So we're always living in the present tense.<br>It seems unforgiving when a good thing ends<br>But you and I will always be back then._
 
 It's common to deny that good things were good, e.g. following a breakup. Like Plato: "not real if it doesn't last forever". 
 <!-- This is one of the worst ideas ever. -->
-But on plausible views of time (growing block or eternalism), )_the value still exists after it is over_: nothing subsequent can ever touch it. The universe's heat death (the end of this show) is bad, if it is bad, because it stops us having more value, not because it nullifies past value / meaning. I find this incredibly helpful to steer through life.
+But on plausible views of time (growing block or eternalism), _the value still exists after it is over_: nothing subsequent can ever touch it. The universe's heat death (the end of this show) is bad, if it is bad, because it stops us having more value, not because it nullifies past value / meaning. I find this incredibly helpful to steer through life.
 
 Second: "Time Adventure" has the characters directly address us, the audience.
 

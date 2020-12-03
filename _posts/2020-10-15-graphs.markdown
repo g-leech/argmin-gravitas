@@ -102,7 +102,7 @@ Statistics is one of the hardest things I ever learned. It's just so vast, and e
 <center>
 	<img src="/img/gmka.gif" />
 </center>
-
+<br>
 
 > Many of the classical multivariate probabalistic systems studied in fields such as statistics, systems engineering, information theory, pattern recognition and statistical mechanics are special cases of the general graphical model formalism -- examples include mixture models, factor analysis, hidden Markov models, Kalman filters and Ising models. 
 
