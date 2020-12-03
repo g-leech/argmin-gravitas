@@ -55,7 +55,8 @@ I recently realised I don't know why quality is rare. Some possible reasons:<br>
 		<i>Labour theory of quality</i><br>
 	</span>
 	'Quality is rare because it is actually a function of the <i>amount of skilled labour</i> spent on the thing, and skilled labour is rare.' <br>
-	(<a href="{{cltv}}">False</a>, even for just explaining or moralising <i>exchange</i> value.)
+	(<a href="{{cltv}}">False</a>, even for just explaining or moralising <i>exchange</i> value.)<br>
+	<i>Related</i>: to be competent at something takes a rare conjunction of traits: intelligence and conscientiousness and slack to build skill.
 </li><br>
 
 
@@ -74,6 +75,16 @@ I recently realised I don't know why quality is rare. Some possible reasons:<br>
 	'Quality is rare because good things occupy lower-entropy states and so, by the <a href="{{law2}}">second law</a>, require more <a href="{{work}}">Work</a> to create and maintain.'<br> 
 	Is cleaning the best example of this?
 </li><br>
+
+<li>  
+	<span style="font-weight: bold">
+		<i>Weak incentives</i><br>
+	</span>
+	Most people ordering most tasks are not capable of judging the quality (quickly). So most tasks _can't_ incentivise quality, so people don't put in the effort required.<br>
+	<!--  -->
+	This is clearly only a partial answer - why would we default to low quality if it was equally easy to do high?
+	</span>
+
 
 <li>  
 	<span style="font-weight: bold">

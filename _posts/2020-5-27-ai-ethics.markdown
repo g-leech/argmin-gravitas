@@ -184,3 +184,9 @@ Returning to the epigram from Dyson: there is hope. Since 1979, respectable work
 	</ul>
 	</div>
 </div>
+
+
+## See also
+
+* [Regulation of AI as power grab](https://emerj.com/ai-power/regulation-of-ai-power/)
+
