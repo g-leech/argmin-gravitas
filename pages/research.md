@@ -8,7 +8,7 @@ visible:	true
 {%	assign goog = "https://scholar.google.com/citations?user=xC-v_aUAAAAJ"		%}
 {%	assign orcid = "https://orcid.org/0000-0002-9298-1488"		%}
 {%	assign bris = "http://www.bristol.ac.uk/engineering/people/gavin-l-leech/overview.html"	%}
-{%	assign covid = "https://www.medrxiv.org/content/10.1101/2020.05.28.20116129v1"		%}
+{%	assign covid = "https://science.sciencemag.org/content/early/2020/12/15/science.abd9338"		%}
 {%	assign neurips_covid = "https://openreview.net/forum?id=WgUqq6G7oHj"	%}
 {%	assign coms = "https://github.com/carlhenrikek/COMS30007/"		%}
 {%	assign xrisk = "https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause"	%}
@@ -31,7 +31,7 @@ visible:	true
 	}
 
 	.logo {
-		width: 12%;
+		width: 11%;
 	}
 
 </style>
@@ -55,53 +55,60 @@ visible:	true
 
 ## Conference
 
-#### 2020
+<table>
+	<tr>
+		<td class="logo" style="padding-bottom: 10px">
+			<a href="{{neurips_covid}}"><img src="/img/papers/1.png" /></a>
+		</td>
+		<td style="padding-left: 5px">
+			<i><a href="{{neurips_covid}}" target="_blank">How Robust are Estimated Effects of Nonpharmaceutical Interventions against COVID-19?</a></i> (2020), NeurIPS Spotlight paper.
+		</td>
+	</tr>
+	<!--  -->
+	<tr>
+		<td class="logo">
+			<img src="/img/papers/ilp.png" />
+		</td>
+		<td style="padding-left: 5px">
+			<i>Safety Properties of Inductive Logic Programming</i> (2020), AAAI SafeAI workshop 
+		</td>
+	</tr>
+</table>
 
-* _<a href="{{neurips_covid}}" target="_blank">How Robust are the Estimated Effects of Nonpharmaceutical Interventions against COVID-19?</a>_, NeurIPS Spotlight paper.
-
-<!-- * _<a href="/files/COVID_conf_.pdf" target="_blank">The Robustness of Effectiveness Estimates of Nonpharmaceutical Interventions Against COVID-19</a>_ (2020) -->
 
 <br>
 
 ## Journal
 
-<!-- <table>
+<table>
 	<tr>
 		<td class="logo">
-			<img src="/img/papers/ilp.png" />
+			<a href="{{covid}}"><img src="/img/papers/science-covid.png" /></a>
 		</td>
-		<td>
-			<i>Safety Properties of Inductive Logic Programming</i> (2020)
+		<td style="padding-left: 5px">
+			<i><a href="{{covid}}" target="_blank">Inferring the effectiveness of government interventions against COVID-19</a></i> (2020), <i>Science</i>
+		<br><br>
+		<a href="#fn:1" id="fnref:1">1</a> 
 		</td>
 	</tr>
-</table> -->
+	
+</table>
+
+
 
 
 <br>
 
 ## Preprint
 
-#### 2020
-
 <table>
-	<tr>
-		<td class="logo">
-			<img src="/img/papers/science-covid.png" />
-		</td>
-		<td>
-			<i><a href="{{covid}}" target="_blank">Inferring the effectiveness of government interventions against COVID-19</a>.</i>
-			<br><br>
-			<a href="#fn:1" id="fnref:1">1</a> 
-		</td>
-	</tr>
-	<!--  -->
 	<!--  -->
 	<tr>
 		<td class="logo">
-			<img src="" />
+			<img src="/img/papers/lgfo.jpg" />
 		</td>
-		<td>
-			<a href="{{lgfo}}" target="_blank">Legally Grounded Fairness Objectives</a>
+		<td style="padding-left: 5px">
+			<a href="{{lgfo}}" target="_blank">Legally Grounded Fairness Objectives</a> (2020)
 		</td>
 	</tr>
 </table>
@@ -147,7 +154,7 @@ visible:	true
 
 <!-- ## Stats -->
 
-<!-- My overall acceptance rate is 0% (2/2) -->
+<!-- My acceptance rate is 50% (4/8) -->
 
 
 <div class="footnotes">
@@ -155,7 +162,7 @@ visible:	true
 <ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
-    	<i>Read if</i>: you want to know what government actions worked in the pandemic. You're curious about what it takes to outdo standard epidemiology. You want to see what computer scientists do when they attack en masse.<br><br>
+    	<i>Read if</i>: you want to know what government moves worked in the first wave of the pandemic. You want to see how sensitive results are. You want to see what computer scientists can do when they attack en masse.<br><br>
     	<!--  -->
     	<!-- <i>My contribution</i>: I did most of the writeup, the policy stuff, and the limitations. -->
 	</li>
