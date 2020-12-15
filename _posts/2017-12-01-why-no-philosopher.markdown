@@ -29,7 +29,7 @@ cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philo
     <div>  
     	<i>August 2019</i>: I am no longer confident of this. Even then I found myself piling up many kinds of philosophy one should be doing - e.g. negative philosophy against bad philosophy, practical ethics, schemes for handling moral uncertainty, logic, population ethics, existential risk.<br><br>
 <!--  -->
-    	The relatively small <i>active</i> effort on many questions (at most a few hundred careers, and more often much less than one) is a good argument for it not being impossible to solve philosophical questions. (Less-likely impossible in proportion to neglect.) Also there's <a href="{{dai}}">the importance of</a> <a href="{{zhu}}">non-perverse philosophy</a> for making a future artificial intelligence; it doesn't need to be right or definite, but it needs to land in a non-insane part of philosophical space.<br><br>
+    	The relatively small <i>active</i> effort on many questions (at most a few hundred careers, and more often much less than one) is a good argument for it not being impossible to solve philosophical questions. (Less-likely impossible in proportion to neglect.)<br><br>Also there's <a href="{{dai}}">the importance of</a> <a href="{{zhu}}">non-perverse philosophy</a> for making a future artificial intelligence; it doesn't need to be right or definite, but it needs to land in a non-insane part of philosophical space.<br><br>
 <!--  -->
     	I've left it up, since many of the individual rebuttals to common bad arguments still hold.
 	</div>
@@ -74,7 +74,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	 "<i>In philosophy we are not laying foundations but tidying a room, in the process of which we have to touch everything a dozen times.</i>" 
 	<br><br>
 <!-- -->	 
-	The standard rejoinder to this rejoinder is to ask for <a href="{{hue}}">a single natural language concept</a> which has been successfully "tidied" (analysed or dissolved) in this way. 
+	The standard rejoinder to this rejoinder is to ask for <a href="{{hue}}">a single natural language concept</a> which has been <a href="{{suspended}}">successfully</a> "tidied" (analysed or dissolved) in this way. 
 	</li> 
 	<br><br>
 <!--  -->
@@ -244,7 +244,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	<ul><li> Actual constraints on reality from fundamental physics.</li>
 	<li>Powerful logics (FOL, HOLs, modal, utility theory)</li>
 	<li>Free library of almost every other philosopher ever, most of whom speak the same language.</li>
-	<li>Computers for simulation & note-taking & word processing even</li>
+	<li>Computers for <a href="{{quant}}">simulation</a> & note-taking & word processing even</li>
 	</ul><br>
 	(Constraints make it easier to find the truth, but harder to publish arbitrary things.)<br><br>
 	</li>
@@ -274,7 +274,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	<blockquote>
 	   I cannot forbear having a curiosity to be acquainted with the principles of moral good and evil, the nature and foundation of government, and the cause of those several passions and inclinations, which actuate and govern me... I feel an ambition to arise in me of contributing to the instruction of mankind, and of acquiring a name by my inventions and discoveries. These sentiments spring up naturally in my present disposition; and should I endeavour to banish them by attaching myself to any other business or diversion, I feel I should be a loser in point of pleasure; and this is the origin of my philosophy. 
 	</blockquote>
-	  This is also fair enough, except that I think we have a duty to do more than please ourselves. (And anyway Hume's pleasure depends his on having a chance of hitting the truth.)
+	  This is also fair enough, except that I think we have a duty to do more than please ourselves. (And anyway Hume's pleasure depends on his having a chance of hitting the truth.)
 	<br><br>
 <!--  -->
 	This kind of philosophy is a game - the hardest game, yes, since <a href="{{nom}}">

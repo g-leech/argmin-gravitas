@@ -80,10 +80,10 @@ I recently realised I don't know why quality is rare. Some possible reasons:<br>
 	<span style="font-weight: bold">
 		<i>Weak incentives</i><br>
 	</span>
-	Most people ordering most tasks are not capable of judging the quality (quickly). So most tasks _can't_ incentivise quality, so people don't put in the effort required.<br>
+	Most people ordering most tasks are not capable of judging the quality (quickly). So most tasks <i>can't</i> incentivise quality, so people don't put in the effort required.<br>
 	<!--  -->
 	This is clearly only a partial answer - why would we default to low quality if it was equally easy to do high?
-	</span>
+</li><br>
 
 
 <li>  
