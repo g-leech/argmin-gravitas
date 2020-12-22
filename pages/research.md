@@ -9,7 +9,7 @@ visible:	true
 {%	assign orcid = "https://orcid.org/0000-0002-9298-1488"		%}
 {%	assign bris = "http://www.bristol.ac.uk/engineering/people/gavin-l-leech/overview.html"	%}
 {%	assign covid = "https://science.sciencemag.org/content/early/2020/12/15/science.abd9338"		%}
-{%	assign neurips_covid = "https://openreview.net/forum?id=WgUqq6G7oHj"	%}
+{%	assign neurips_covid = "https://papers.nips.cc/paper/2020/file/8e3308c853e47411c761429193511819-Paper.pdf"	%}
 {%	assign coms = "https://github.com/carlhenrikek/COMS30007/"		%}
 {%	assign xrisk = "https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause"	%}
 {%	assign academic_safety = "https://forum.effectivealtruism.org/posts/8ErtxW7FRPGMtDqJy/the-academic-contribution-to-ai-safety-seems-large"	%}
@@ -61,7 +61,7 @@ visible:	true
 			<a href="{{neurips_covid}}"><img src="/img/papers/1.png" /></a>
 		</td>
 		<td style="padding-left: 5px">
-			<i><a href="{{neurips_covid}}" target="_blank">How Robust are Estimated Effects of Nonpharmaceutical Interventions against COVID-19?</a></i> (2020), NeurIPS Spotlight paper.
+			<i><a href="{{neurips_covid}}" target="_blank">How Robust are Estimated Effects of Nonpharmaceutical Interventions against COVID-19?</a></i> (2020), NeurIPS Spotlight paper, 4th author / 10.
 		</td>
 	</tr>
 	<!--  -->
@@ -70,7 +70,7 @@ visible:	true
 			<img src="/img/papers/ilp.png" />
 		</td>
 		<td style="padding-left: 5px">
-			<i>Safety Properties of Inductive Logic Programming</i> (2020), AAAI SafeAI workshop 
+			<i>Safety Properties of Inductive Logic Programming</i> (2020), AAAI SafeAI workshop, 1st author / 3. 
 		</td>
 	</tr>
 </table>
@@ -86,7 +86,7 @@ visible:	true
 			<a href="{{covid}}"><img src="/img/papers/science-covid.png" /></a>
 		</td>
 		<td style="padding-left: 5px">
-			<i><a href="{{covid}}" target="_blank">Inferring the effectiveness of government interventions against COVID-19</a></i> (2020), <i>Science</i>
+			<i><a href="{{covid}}" target="_blank">Inferring the effectiveness of government interventions against COVID-19</a></i> (2020), <i>Science</i>, 8th author / 19.
 		<br><br>
 		<a href="#fn:1" id="fnref:1">1</a> 
 		</td>
@@ -108,7 +108,7 @@ visible:	true
 			<img src="/img/papers/lgfo.jpg" />
 		</td>
 		<td style="padding-left: 5px">
-			<a href="{{lgfo}}" target="_blank">Legally Grounded Fairness Objectives</a> (2020)
+			<a href="{{lgfo}}" target="_blank">Legally Grounded Fairness Objectives</a> (2020), 2nd author / 3.
 		</td>
 	</tr>
 </table>
