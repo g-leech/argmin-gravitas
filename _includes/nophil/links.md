@@ -60,3 +60,4 @@
 {%		assign pig2 = "https://rationallyspeaking.blogspot.com/search/label/progress%20in%20philosophy"	%}
 {%		assign prog = "https://www.lesswrong.com/posts/FwiPfF8Woe5JrzqEu/philosophy-a-diseased-discipline" %}
 {%		assign suspended = "https://www.lesswrong.com/posts/9iA87EfNKnREgdTJN/conceptual-engineering-the-revolution-in-philosophy-you-ve"		%}
+{%		assign quant = "https://quantitativephilosophy.wordpress.com/"		%}
