@@ -90,6 +90,8 @@
 		<!--  -->
 		<h3>We could be friends</h3>
 		<div>
+			https://metabstract.squarespace.com/
+			<br>
 			https://www.drmaciver.com/blog/
 			<br>
 			naml.us

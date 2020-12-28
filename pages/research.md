@@ -61,7 +61,8 @@ visible:	true
 			<a href="{{neurips_covid}}"><img src="/img/papers/1.png" /></a>
 		</td>
 		<td style="padding-left: 5px">
-			<i><a href="{{neurips_covid}}" target="_blank">How Robust are Estimated Effects of Nonpharmaceutical Interventions against COVID-19?</a></i> (2020), NeurIPS Spotlight paper, 4th author / 10.
+			<i><a href="{{neurips_covid}}" target="_blank">How Robust are Estimated Effects of Nonpharmaceutical Interventions against COVID-19?</a></i> (2020), NeurIPS Spotlight paper,
+			<br>4th author / 10.
 		</td>
 	</tr>
 	<!--  -->
@@ -70,7 +71,8 @@ visible:	true
 			<img src="/img/papers/ilp.png" />
 		</td>
 		<td style="padding-left: 5px">
-			<i>Safety Properties of Inductive Logic Programming</i> (2020), AAAI SafeAI workshop, 1st author / 3. 
+			<i>Safety Properties of Inductive Logic Programming</i> (2020), AAAI SafeAI workshop,<br>
+			1st author / 3. 
 		</td>
 	</tr>
 </table>
@@ -86,7 +88,8 @@ visible:	true
 			<a href="{{covid}}"><img src="/img/papers/science-covid.png" /></a>
 		</td>
 		<td style="padding-left: 5px">
-			<i><a href="{{covid}}" target="_blank">Inferring the effectiveness of government interventions against COVID-19</a></i> (2020), <i>Science</i>, 8th author / 19.
+			<i><a href="{{covid}}" target="_blank">Inferring the effectiveness of government interventions against COVID-19</a></i> (2020), <i>Science</i>, <br>
+			8th author / 19.
 		<br><br>
 		<a href="#fn:1" id="fnref:1">1</a> 
 		</td>
@@ -105,10 +108,13 @@ visible:	true
 	<!--  -->
 	<tr>
 		<td class="logo">
-			<img src="/img/papers/lgfo.jpg" />
+			<a href="{{lgfo}}">
+				<img src="/img/papers/lgfo.jpg" />
+			</a>
 		</td>
 		<td style="padding-left: 5px">
-			<a href="{{lgfo}}" target="_blank">Legally Grounded Fairness Objectives</a> (2020), 2nd author / 3.
+			<a href="{{lgfo}}" target="_blank">Legally Grounded Fairness Objectives</a> (2020),
+			<br>2nd author / 3.
 		</td>
 	</tr>
 </table>
