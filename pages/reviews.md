@@ -12,9 +12,11 @@ visible:    false
 	table {
     	border-collapse: collapse;
     	border-spacing: 0;
+		max-width: 100%;
 	}
 	
 	td {
+		vertical-align: top;
     	padding: 8px; 
 	}
 
@@ -27,13 +29,10 @@ visible:    false
 		border-spacing: 5;
 	}
 
-	.reviews {
-		max-width: 100%;
+	th  {
+		text-align: center!important;
 	}
 
-	.reviews td {
-		vertical-align: top;
-	}
 </style>
 
 For an overview, it's probably easier to <a href="{{gr}}">look on Goodreads</a>.
@@ -41,12 +40,6 @@ For an overview, it's probably easier to <a href="{{gr}}">look on Goodreads</a>.
 <br>
 
 <div class="accordion">
-	<h3>Favourite books</h3>
-	<div>
-		{%	include books/best_books_apr_20.html	%}
-	</div>
-	<!--  -->
-	<!--  -->
 	<h3>Now</h3>
 	<div>
 		{%	include books/widget.html	%}
@@ -55,12 +48,16 @@ For an overview, it's probably easier to <a href="{{gr}}">look on Goodreads</a>.
 	<!--  -->
 	<h3>Sort by controversy</h3>
 	<div>
-		Here are the books I have the largest disagreement with Goodreads users about:<br><br>
-		{%	include books/sort_by_disagreement_apr_20.html	%}
+		Books I most disagree with others about:<br><br>
+		{%	include books/sort_by_disagreement_dec_20.html	%}
 	</div>
 </div><br><br>
 
 ## Reviews
-{%	include books/reviews_apr_20.html	%}
+
+{%	include books/reviews_dec_20.html	%}
 
 <br><br><br>
+
+
+{% 	include lazyload.html 	%}
