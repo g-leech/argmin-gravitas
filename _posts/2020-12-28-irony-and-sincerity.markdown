@@ -21,6 +21,8 @@ categories: meaning, philosophy
 
 {%	assign ger = "https://twitter.com/geraldstratfor3?s=09"	%}
 {%	assign nine = "https://youtu.be/9wFwPh-KbEY"		%}
+{%	assign auer = "https://theamericanreader.com/jenesuispasliberal-entering-the-quagmire-of-online-leftism/"	%}
+
 
 > Friend 1: Do you know any writing on the recent trend of milennials/zoomers going for '<a href="{{ger}}">earnest</a>' or 'wholesome' content<br><br>
 
@@ -118,6 +120,30 @@ I'm on a higher level of bloody-minded contrariness than your average bear
 6. the illiberal left and right
 
 So despite being an edgy stemlord I will be reading Foucault and Bourdieu this year.
+
+---
+
+<br>
+
+If this discussion was social science rather than mere criticism, we'd have to unpick the several dimensions being squashed:
+
+1. Positivity / negativity
+2. Sincerity / irony
+3. Concreteness / theory 
+4. Ethics / Structure
+4. Solidarity / suspicion
+5. Realism / relativism
+6. Pleasure / Maturity
+
+with culture war left/right stuff jittering everything a bit across all these axes.
+
+The only reason this post isn't useless, that it isn't fatal to squash them, is that many people allow themselves to be psychically herded into a flat 1D projection of real political/ethical//existential space.
+
+<br>
+
+<a href="{{auer}}">Auerbach</a>: trust x agency.
+
+<img src="/img/auerbach.jpg" />
 
 ---
 
