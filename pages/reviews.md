@@ -9,10 +9,16 @@ visible:    false
 {%	assign current = "https://www.goodreads.com/review/list/68316850?shelf=currently-reading"	%}
 
 <style>
+
+	.short-column { width: 22%; }
+	
+	.long-column { width: 75%; }
+
 	table {
     	border-collapse: collapse;
     	border-spacing: 0;
-		max-width: 100%;
+    	table-layout: fixed;
+		width: 100%!important;
 	}
 	
 	td {
