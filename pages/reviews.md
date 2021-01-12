@@ -8,11 +8,21 @@ visible:    false
 {%	assign gr = "https://www.goodreads.com/user/show/68316850-gavin"	%}
 {%	assign current = "https://www.goodreads.com/review/list/68316850?shelf=currently-reading"	%}
 
+<!-- 
+</blockquote></i>
+data-src
+height
+
+	<th class="short-column"></th>
+	<th class="long-column"></th>
+ -->
+
 <style>
 
-	.short-column { width: 22%; }
+	.short-column { width: 15%; }
 	
-	.long-column { width: 75%; }
+	.long-column { width: 85%; }
+
 
 	table {
     	border-collapse: collapse;
@@ -61,7 +71,41 @@ For an overview, it's probably easier to <a href="{{gr}}">look on Goodreads</a>.
 
 ## Reviews
 
-{%	include books/reviews_dec_20.html	%}
+### 5/5: Will re-read until I die. 97th percentile.
+
+{%	include books/reviews_5.html	%}
+
+<!-- </i></td></tr></ul></td></tr></i></li></ul></blockquote></td></tr></ul></td></tr></i></td></tr></li></li></li></li></td></tr> -->
+
+<br><br>
+
+### 4/5: Very impressed. 75th percentile.
+
+{%	include books/reviews_4.html	%}
+
+<!-- </i></td></tr></i></i></i></td></tr></ul></td></tr></i></td></tr></i></td></tr></li></li></ul></i></blockquote></td></tr></div></div></blockquote></td></tr></i></blockquote></td></tr></li></li></ul></div></td></tr> -->
+
+<br><br>
+
+### 3/5: Net likeable. 50th percentile.
+
+{%	include books/reviews_3.html	%}
+
+<!--     </i></i></td></tr></i></blockquote></td></tr></span></i></blockquote></td></tr></blockquote></i></td></tr></i></i></i></td></tr></i></blockquote></td></tr></i></i></blockquote></td></tr></i></li></i></li></i></li></ul></i></blockquote></blockquote></td></tr></i></i></td></tr> -->
+
+<br><br>
+
+### 2/5: Only for enthusiasts. 25th percentile.
+
+{%	include books/reviews_2.html	%}
+
+<!-- </i></blockquote></td></tr></i></td></tr></blockquote></td></tr></i></blockquote></td></tr></I></blockquote></td></tr></i></td></tr> -->
+
+<br><br>
+
+### 1/5: False, ugly, evil, or vapid. 1st percentile.
+
+{%	include books/reviews_1.html	%}
 
 <br><br><br>
 
