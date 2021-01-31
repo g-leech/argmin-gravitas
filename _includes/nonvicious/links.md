@@ -28,7 +28,7 @@
 {%		assign depreCost = "https://www.google.co.uk/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=15000%20*%200.88&oq=15000%20*%200.88&aqs=chrome..69i57j69i64.3391j0j7"		%}
 
 {%		assign rnd = "http://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS"			%}
-{%		assign ssc = "http://slatestarcodex.com/2014/09/24/book-review-red-plenty/"		%}
+{%		assign sscr = "http://slatestarcodex.com/2014/09/24/book-review-red-plenty/"		%}
 {%		assign shalizi = "http://crookedtimber.org/2012/05/30/in-soviet-union-optimization-problem-solves-you/"			%}
 
 {%		assign rndCost = "https://www.google.co.uk/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=%2413%2C000%20-%20(%2415000%20*%200.025)&oq=%2413%2C000%20-%20(%2415000%20*%200.025)&aqs=chrome..69i57.22958j0j7" 		%}

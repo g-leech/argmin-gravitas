@@ -17,6 +17,7 @@ importance: 5
 pride:		3
 wordcount:	2000
 categories: meaning, philosophy
+argument: 	irony/argument.html
 ---
 
 {%	assign ger = "https://twitter.com/geraldstratfor3?s=09"	%}
@@ -98,6 +99,7 @@ Ofc adults in the past were equally bewildered, if not more bewildered than us. 
 
 > We live lonely, disconnected, meaningless lives in a broken society on a…
 
+Another reason for nostalgia, fleeing backward, is if you believe the present is broken and not going to improve.
 My big prediction is that this reflexive pessimism is going to drop this decade. This year has seen 4 or 5 giant tech breakthroughs, and there are more coming soon. I also think the exaggerated timelines and extent of the climate emergency will lead to a fall in doomy greens.
 
 Progress -> optimism -> sincerity -> disappointment -> backlash -> 
