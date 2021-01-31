@@ -5,7 +5,7 @@ baselink:   /meat
 permalink:  /meat
 date:       2021-01-31
 author:     Gavin   
-img:        /img/
+img:        /img/meat.jpg
 
 visible:    1
 published:  true
@@ -55,3 +55,5 @@ argument:
 * Constantin, [Humans Who Are Not Concentrating Are Not General Intelligences](https://srconstantin.wordpress.com/2019/02/25/humans-who-are-not-concentrating-are-not-general-intelligences/)
 * Crichton, [Gell-Mann Amnesia](https://web.archive.org/web/20190808123852/http://larvatus.com/michael-crichton-why-speculate/)
 * Taleb, [Against News](https://medium.com/incerto/the-facts-are-true-the-news-is-fake-5bf98104cea2)
+
+<br><br>
