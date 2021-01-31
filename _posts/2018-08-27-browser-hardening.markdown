@@ -243,6 +243,7 @@ Note that you're not going to stop any nation-states except <a href="{{paranoia}
 
 ## See also
 
+* [Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/)
 * Violet Blue on <a href="{{vtrack}}">resisting tracking</a>, <a href="{{vsurv}}">surveillance</a>, <a href="{{vdevices}}">devices</a>.
 * <a href="{{fsec}}">F-Secure on the whole deal</a>.
 
