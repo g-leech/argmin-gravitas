@@ -193,7 +193,9 @@ What now? When the next flashy <a href="{{weird}}">WEIRD</a> paper out of a worl
 
 <a href="{{gel2}}">Andrew Gelman and others</a> suggest deflating _all_ single-study effect sizes you encounter in the social sciences, without waiting for the subsequent shrinkage from publication bias, measurement error, data-analytic degrees of freedom, and so on. There is no uniform factor, but it seems sensible to divide novel effect sizes by a number between 2 and 100 (depending on its sample size, method, measurement noise, _maybe_ its p-value if it's really tiny)...
 
+<a name="melancholy"></a>
 <br>
+
 
 
 {%  include psy/caveats.md %}
