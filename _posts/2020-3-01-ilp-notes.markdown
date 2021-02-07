@@ -210,7 +210,7 @@ One of the dirty secrets of computer science is that formal proofs about computa
 
 ## See also
 
-* Our paper looking at ILP from an AI safety perspective.
+* <a href="{{paper}}">Our paper looking at ILP from an AI safety perspective.</a>
 
 <br><br>
 

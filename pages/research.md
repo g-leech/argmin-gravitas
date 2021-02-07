@@ -69,7 +69,7 @@ visible:	true
 	<!--  -->
 	<tr>
 		<td class="logo">
-			<img src="/img/papers/ilp.png" />
+			<a href="{{ilp}}"><img src="/img/papers/ilp.png" /></a>
 		</td>
 		<td style="padding-left: 5px">
 			<i><a href="{{ilp}}">Safety Properties of Inductive Logic Programming</a></i> (2020), AAAI SafeAI workshop,<br>
