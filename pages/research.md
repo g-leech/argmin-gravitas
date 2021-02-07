@@ -19,6 +19,7 @@ visible:	true
 {%	assign htk = "https://github.com/g-leech/Py2HTK"	%}
 {%	assign algo = "https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20010"	%}
 {%	assign lgfo = "https://arxiv.org/abs/2009.11677"		%}
+{%	assign ilp = "http://ceur-ws.org/Vol-2808/Paper_14.pdf"		%}
 
 <style>
 	.frame {
@@ -71,7 +72,7 @@ visible:	true
 			<img src="/img/papers/ilp.png" />
 		</td>
 		<td style="padding-left: 5px">
-			<i>Safety Properties of Inductive Logic Programming</i> (2020), AAAI SafeAI workshop,<br>
+			<i><a href="{{ilp}}">Safety Properties of Inductive Logic Programming</a></i> (2020), AAAI SafeAI workshop,<br>
 			1st author / 3. 
 		</td>
 	</tr>
@@ -106,6 +107,17 @@ visible:	true
 
 <table>
 	<!--  -->
+<!-- 	<tr>
+		<td class="logo">
+			<a href="{{}}">
+				<img src="/img/papers/" />
+			</a>
+		</td>
+		<td style="padding-left: 5px">
+			<a href="{{}}" target="_blank">Decision trees compensate for misspecification</a> (2021),
+			<br>1st author / 3.
+		</td>
+	</tr> -->
 	<tr>
 		<td class="logo">
 			<a href="{{lgfo}}">
