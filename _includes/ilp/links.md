@@ -13,4 +13,5 @@
 {%		assign comp = "https://link.springer.com/article/10.1007/s10994-019-05834-x"		%}
 {%		assign rdm = "https://github.com/xflows/rdm"		%}
 {%		assign sutt = "http://www.incompleteideas.net/IncIdeas/BitterLesson.html"		%}
+{%		assign paper = "http://ceur-ws.org/Vol-2808/Paper_14.pdf"		%}
 
