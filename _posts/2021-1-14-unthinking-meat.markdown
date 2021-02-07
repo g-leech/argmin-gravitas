@@ -28,7 +28,7 @@ argument:
 
 "They also fill most of their bandwidth up with information which is worthless at best and usually actively misleading. They rarely do what they think is most important.
 
-"They also keep their current sense data, memories, moral evaluations, aesthetic evaluations, and political evaluations - their lust, fear, and avarice - all in the same chamber. This makes them confuses fact with value, rights with wishes, and desire with everything.
+"They also keep their current sense data, memories, moral evaluations, aesthetic evaluations, and political evaluations - their lust, fear, and avarice - all in the same chamber. This makes them confuse fact with value, rights with wishes, and desire with everything.
 
 "Most of their lives are spent on coalition maintenance, social grooming, and monitoring and enforcing hierarchy.
 
