@@ -325,8 +325,16 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 {%	assign stove = "https://web.maths.unsw.edu.au/~jim/wrongthoughts.html"	%}
 {%	assign spol = "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/"		%}
 
+* <a href="/broadness">Broadness as trivial predictor of philosophical status</a>
+* Tom Sittler, <a href="{{sitt}}">Philosophical Success Stories</a>
+* Massimo Pigliucci, <a href="{{pig2}}">Progress in Philosophy</a></li>
+* Graham Johnson, <a href="{{suspended}}">Conceptual engineering: the revolution in philosophy you've never heard of</a>
 * <a href="{{schw}}">Schwitzgebel on philosophy that opens</a>
 * <a href="{{stove}}">The dangerous ravings of David Stove</a>
+* Luke Muehlhauser, <a href="{{prog}}">Philosophy: A Diseased Discipline</a></li>
 * <a href="{{spol}}">Spolsky on the risks of abstraction even in practical matters</a>
+* David Pearce, <a href="{{diary}}">Long diary entry containing a metaphilosophy & applied physicalism.</a>
+
+<br><br>
 
 {%  include nophil/tangents.html     %}
