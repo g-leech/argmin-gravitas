@@ -165,6 +165,7 @@ One solution is to be sincerely truth-seeking, honestly critical. DFW is a model
  
 ## See also
 
+* Irving, [A constructive critique of Sapiens and Homo Deus](https://naml.us/post/harari-critique/)
 * [Against the Culture](https://www.gleech.org/culture)
 * [Notes on Infinite Jest](https://www.gleech.org/jest)
 * [Strangers Drowning](https://www.gleech.org/strangers)

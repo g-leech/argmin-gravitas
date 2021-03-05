@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Every Song by the Mountain Goats"
+title:      "Every Mountain Goats Song that has Been Recorded and Does Not Have a Death Geas Placed Upon It By Its Author"
 baselink:   /mogos
 permalink:  /mogos
 date:       2017-12-31  <!--site.time-->
@@ -19,7 +19,7 @@ importance: 2
 wordcount:		
 ---
 
-
+> "Tracking live is like that. You're actually hearing something which actually happened."
 
 Many of my tasteful friends disdain even his soft hi-fi work, and some of my tasteless friends are much enamoured of the lot. Just like anyone, I cannot rule out 'adaptive preferences', that I like it because I've put a lot into it.
 
@@ -49,6 +49,12 @@ The trouble is that between AHWT and TLotWTC he became a musician. I love the de
 
 
 
+- He has destroyed about 50
+- And about 10 have only been played live
+- And several exist ambiguously In title only Perhaps
+- A new track was found last year on one copy of an early cassette
+- And no other copy of that cassette
+- Sometimes We Mosh - live only, lyrics here.
 
 
 

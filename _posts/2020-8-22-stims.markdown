@@ -32,6 +32,8 @@ argument:
 {%	assign down = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3437321/"	%}
 {%	assign rog2 = "https://link.springer.com/article/10.1007%2Fs00213-012-2889-4"		%}
 {%	assign fluke = "https://slatestarcodex.com/2019/08/19/maybe-your-zoloft-stopped-working-because-a-liver-fluke-tried-to-turn-your-nth-great-grandmother-into-a-zombie/"	%}
+{%	assign redd = "https://www.reddit.com/r/Supplements/comments/ls7caq/the_caffeine_enigma_does_habitual_longterm/"		%}
+
 
 
 > Withdrawal from caffeine causes... headache, fatigue, decreased energy/activeness, decreased alertness, drowsiness, decreased contentedness, depressed mood, difficulty concentrating, irritability, and feeling foggy/not clearheaded... abstinence from low doses, such as about one small cup of coffee per day, also produced symptoms of withdrawal.
@@ -248,6 +250,7 @@ Release your fear; fame will bring you some safety.
 ## See also
 
 * <a href="{{gwern}}">Gwern</a>, who gave me the idea
+* <a href="{{redd}}">Lovely collection of links and questions</a>.
 
 <br><br>
 

@@ -5,7 +5,7 @@ baselink:   /meat
 permalink:  /meat
 date:       2021-01-31
 author:     Gavin   
-img:        /img/meat.jpg
+img:        /img/meat.png
 
 visible:    1
 published:  true
@@ -26,7 +26,7 @@ argument:
 
 "When they're not focussing, which is 95% of the time, they can't really be said to be intelligent at all. Much of what they say and do is hollow reflex motion.
 
-"They also fill most of their bandwidth up with information which is worthless at best and usually actively misleading. They rarely do what they think is most important.
+"They also fill most of their bandwidth up with information which is worthless at best and usually actively misleading. They find fabrications more convincing than data. They rarely do what they think is most important.
 
 "They also keep their current sense data, memories, moral evaluations, aesthetic evaluations, and political evaluations - their lust, fear, and avarice - all in the same chamber. This makes them confuse fact with value, rights with wishes, and desire with everything.
 

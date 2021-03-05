@@ -20,6 +20,10 @@ visible:	true
 {%	assign algo = "https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20010"	%}
 {%	assign lgfo = "https://arxiv.org/abs/2009.11677"		%}
 {%	assign ilp = "http://ceur-ws.org/Vol-2808/Paper_14.pdf"		%}
+{%	assign gridcite = "https://scholar.google.com/scholar?hl=en&q=Gavin+Leech%2C+Karol+Kubicki%2C+Jessica+Cooper%2C+and+Tom+McGrath.+Preventing+side-effects+in+gridworlds%2C+2018."	%}
+{%	assign ilpvid = "https://youtu.be/leQ56mahNMs?t=585"		%}
+{%	assign robustvid = "https://nips.cc/virtual/2020/public/poster_8e3308c853e47411c761429193511819.html"	%}
+
 
 <style>
 	.frame {
@@ -63,7 +67,7 @@ visible:	true
 		</td>
 		<td style="padding-left: 5px">
 			<i><a href="{{neurips_covid}}" target="_blank">How Robust are Estimated Effects of Nonpharmaceutical Interventions against COVID-19?</a></i> (2020), NeurIPS Spotlight paper,
-			<br>4th author / 10.
+			<br>4th author / 10. <a href="{{robustvid}}">Video</a>.
 		</td>
 	</tr>
 	<!--  -->
@@ -73,7 +77,7 @@ visible:	true
 		</td>
 		<td style="padding-left: 5px">
 			<i><a href="{{ilp}}">Safety Properties of Inductive Logic Programming</a></i> (2020), AAAI SafeAI workshop,<br>
-			1st author / 3. 
+			1st author / 3. <a href="{{ilpvid}}">Video</a>.
 		</td>
 	</tr>
 </table>
@@ -151,8 +155,9 @@ visible:	true
 
 ## Popular
 
-* <i><a href="{{xrisk}}" target="_blank">Existential risk as common cause</a></i> (2018)
 * <i><a href="{{academic_safety}}" target="_blank">The academic contribution to AI safety seems large</a></i> (2020)
+* <i><a href="{{xrisk}}" target="_blank">Existential risk as common cause</a></i> (2018)
+* <i><a href="/grids" target="_blank">Side effects in Gridworlds</a></i> (2018). <a href="{{gridcite}}">Developed further</a>.
 
 <!-- *Gelman  -->
 

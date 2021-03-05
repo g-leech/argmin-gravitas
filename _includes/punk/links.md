@@ -68,7 +68,7 @@
 {%	assign mrt = "https://www.youtube.com/watch?v=ajaejPsU7ok"		%}
 {%	assign century = "https://www.youtube.com/watch?v=TYApdmp6je8"	%}
 {%	assign war = "https://www.youtube.com/watch?v=z3ziQ2_I9lE"		%}
-{%	assign asylum = "https://www.youtube.com/watch?v=4VXQkSRVFRM"		%}
+{%	assign asylum = "http://web.archive.org/web/20200115032354if_/https://www.youtube.com/watch?v=4VXQkSRVFRM"		%}
 {%	assign propa = "https://www.youtube.com/watch?v=UMrTw00g8jE" %}
 
 {%	assign blender = "https://web.archive.org/web/20071013164408/http://www.blender.com/guide/articles.aspx?ID=2741"		%}
