@@ -62,6 +62,9 @@ _Expected lifespan_: 2 months.
 * Blood tests are cheap now! (£30 or so.) Even if you don't feel bad, there's very little reason not to check, say every two years. Vitamin D and iron are a good start; "subclinical" deficiencies of them are common. I found I had slightly low ferritin, and this was such a cheap thing to fix. <a href="{{thriv}}">This service</a> signs you up to a biannual subscription, but you can just cancel after the first one.<br>
 _Expected lifespan_: 2 years
 
+* I'm trying out <a href="{{shoe}}">weightlifting shoes</a> for barbells (£70). Feel nice and nonslip but I don't know if they help yet. You're advised to get a UK size too big, because your feet expand under load.<br>
+_Expected lifespan_: 3 years?
+
 ## Food
 
 * <a href="{{q}}">Queal shakes</a> (£1 per meal). I was skeptical at first: "complete meals" (artificial food) seem procrustean (assuming dietary science is finished) and joyless. But it's based on oats and soy protein. This dissolves much better than Huel and has loads of flavours. I pad it out with rice protein powder and so usually get about 5 shakes out of a bag.<br>
@@ -71,6 +74,8 @@ _Expected lifespan_: 2 years
 * You want one good chef's knife. (You hurt yourself less with a really sharp knife since its motion is more predictable.) I just bought a random £25 one in Tesco and it is excellent.
 _Expected lifespan_: 3 years if you sharpen it
 
+* <a href="{{bread}}">Fastbake breadmaker</a> (£50). British supermarket bread is crap. This makes 900g of warm, chewy, custom bread for about 55p. Chuck in poppy seeds or linseed or nuts for 10p, done. Wholemeal is trickier, needs a little bit of vitamin C powder.<br>
+_Expected lifespan_: 4 years?
 
 
 ## Productivity
@@ -83,6 +88,8 @@ _Expected lifespan_: Forever.
 
 * This blog is hosted on <a href="https://www.netlify.com/">Netlify</a>, they are amazing and free for small fry.<br>
 
+* <a href="{{ether}}">Wire up your laptop for calls</a> (£5). Who knows how much of social difficulties are due to people disliking latency on your calls? Replace the cable every couple years just in case.
+
 * <a href="{{bose}}">Bose QuietComfort 25</a> (£150). Being able to turn down noise is a superpower: actual focus. They even made working in an open-plan office intermittently tolerable. They don't work _that_ well on conversations, but are excellent for humming appliances, engine roar, wind. Lasted 3.5 years so far. These are the wired ones because I resented paying an extra £100 for a transponder; I've had to replace the cable twice, 2 x £7, and probably about £20 of batteries.<br>
 _Expected lifespan_: I guess 5 years?
 
@@ -94,10 +101,11 @@ _Expected lifespan_: Forever. (10 years)
 * <a href="{{korn}}">45W Corn Light</a> (£20). I don't have SAD, but during winter I noticed a little bump in mood and energy from hanging up 3 of these very bright blue LED clusters. Each is about 400W equivalent in terms of halogen bulbs.<br>
 _Expected lifespan_: Probably 10 years.
 
-* A physical Tomato Timer (£5). I forget that the pomodoro work technique exists, so this helps with that.<br>
-_Expected lifespan_: 5 years.
+* <a href="{{time}}">A big plastic timer</a> (£15). Useful for cooking and for remembering that the pomodoro work technique exists. The original brand is ridiculously expensive.<br>
+_Expected lifespan_: 10 years.
 
-* In the UK, <a href="{{pcs}}">PCSpecialist</a> sell fast cheap Taiwanese laptops, to spec. Roughly 40% more computer for a given price than Dell. I've had a Lafite III for 2 years, going strong (though it runs hot when working hard). Great customer service too.
+* In the UK, <a href="{{pcs}}">PCSpecialist</a> sell fast cheap Taiwanese laptops, to spec. Roughly 40% more computer for a given price than Dell. I've had a Lafite III for 2 years, going strong (though it runs hot when working hard). Great customer service too.<br>
+_Expected lifespan_: 5 years.
 
 * I don't know if it counts as productivity, since I spend about an hour a day playing with it, but <a href="{{roam}}">Roam</a> is the best personal knowledge base software I've seen. Text, maths, code, images, bidirectional links, single-copy imports... It promises to unify me across decades. (My blogs also do this, but only for the top 1% of thoughts.) Workflowy and Notion are a tree: Roam is the awesome power of a graph, which is what thoughts are like. Currently free, soon to be pricey.
 
@@ -107,7 +115,7 @@ _Expected lifespan_: 5 years.
 * <a href="{{berg}}">Berghaus Freeflow 35+8 backpack</a> (£80). This has a clever mechanism at the back to shrink and grow the volume by 25%, and also a harness to leave a gap between your back and the bag, preventing deathly hike sweats. On extra small mode it fits even stingy Ryanair airline cabin requirements (there's some optical illusion about you wearing your cabin bag on your back, I've never been bothered about it in 43L mode. (If you wear two jumpers and a jacket just for passing through the gate, 35L is two weeks' basics, no cabin bag.) I've had this for 8 years, maybe 100 difficult trips including long haul airports and 1km mountains, and it's fine.<br>
 _Expected lifespan_: 'Lifetime guarantee'. (20 years?)
 
-* <a href="{{moto}}">Moto G7 Power</a> (£160). I resisted getting a smartphone for 8 years. I still think it's a huge threat to productivity, and a privacy disaster. But for travelling it is a massive help: boarding passes, Maps, taxis, translation, mobile data. Also allows me to replace my ereader, my GPS, my trips to ATMs, my camera, my printer. Group chats, previously off-limits, have been relatively useful already. The new UK Railcard is app-only too. This has the largest battery life on the market (26h of low-res video playback), and is cheap and good.
+* <a href="{{moto}}">Moto G7 Power</a> (£160). I resisted getting a smartphone for 8 years. I still think it's a huge threat to productivity, and a privacy disaster. But for travelling it is a massive help: boarding passes, Maps, taxis, translation, mobile data. Also allows me to replace my ereader, my GPS, my trips to ATMs, my camera, my printer. Group chats have been relatively useful already. The new UK Railcard is app-only too. This has the largest battery life on the market (26h of low-res video playback), and is cheap and good.
 _Expected lifespan_: 4 years.
 
 ## Services, Security
