@@ -6,7 +6,7 @@ permalink:  /sceptic
 date:       2021-03-06  <!--site.time-->
 author:     Gavin
 
-img:        /img/
+img:        /img/angst.jpg
 published:  true
 visible:    1
 
@@ -60,6 +60,9 @@ I have something on all of you. In university I knew an _actual_ sceptic. Not a 
 I found this extremely engaging, because I was trying to be the kind of person who followed arguments, who had philosophy as the centre of their life. I never took on radical scepticism as a full belief (or a full absence), but as an exposé of the lack of justification for most of the things I saw around me, no matter how intimidating or high status. I had to learn <a href="{{scott}}">epistemic helplessness</a>, in the positive sense of not treating any single argument I couldn't immediately counter as coercive. I had to give up on certainty, on certain useless definitions of knowledge, and on armchair inquiry. I am now glad of it.
 
 If meeting such a person - more generally, if realising that a common kind of philosophy cannot answer the sceptical paradoxes - doesn't cure you of a naive relationship with philosophy, nothing will.
+
+Radical scepticism is _useful_. Descartes used radical scepticism to convince himself that God's existence was certain. But we can use it for real reasons: to release ourselves from illegitimate authorities (including ourselves), to probe the idea of knowledge by looking at the limit case, or to get over naive philosophy in general. If it can't beat this...
+
 
 <br>
 
