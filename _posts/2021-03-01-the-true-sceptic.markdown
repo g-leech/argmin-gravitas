@@ -3,7 +3,7 @@ layout:     post
 title:      "The One True Sceptic"
 baselink:   /sceptic
 permalink:  /sceptic
-date:       2020-03-06  <!--site.time-->
+date:       2021-03-06  <!--site.time-->
 author:     Gavin
 
 img:        /img/
@@ -11,10 +11,10 @@ published:  true
 visible:    1
 
 summary:    A living, breathing demonstration of the limits of philosophy.
-confidence: 70%. My knowledge of the technicalities of modern epistemology has eroded a lot in 8 years.
+confidence: 70%. My knowledge of modern epistemology has eroded a lot in 8 years.
 categories: philosophy, ethics-of-belief, epistemology
 warnings:   
-importance: 1
+importance: 5
 wordcount:      
 ---
 
