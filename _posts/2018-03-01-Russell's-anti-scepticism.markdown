@@ -3,22 +3,23 @@ layout:     post
 title:      "Misreading Russell on radical scepticism"
 baselink:   /russell
 permalink:  /russell
-date:       2019-03-01  <!--site.time-->
+date:       2012-02-01  <!--site.time-->
 author:     Gavin
 
 img:        /img/
-published:  false
+published:  true
 visible:    1
 
 summary:    Two responses to radical scepticism I hallucinated.
 confidence: N/A; revisionism, not actual history.
-categories: philosophy, ethics-of-belief
+categories: philosophy, ethics-of-belief, epistemology
 warnings:   
 importance: 1
 wordcount:      
 ---
 
 {%	assign niet = "https://books.google.co.uk/books?id=_qKBBbc3bWkC&pg=PA156&lpg=PA156&source=bl&ots=pXwxW4OMRT&sig=ACfU3U3TDv_0OSJP-xUi1gCeCjOIqeOTRA&hl=en&sa=X&ved=2ahUKEwj2jNGuhO_mAhWZQEEAHbRnCMkQ6AEwEnoECAcQAQ#v=onepage&q="posterity finds it"&f=false"	%}
+{%	assign duhem = "https://www.sciencedirect.com/science/article/abs/pii/S0039368106001075"	%}
 
 
 > The philosopher believes that the value of his philosophy lies in the whole, in the building: posterity discovers it in the bricks with which he built and which are then often used again for better building.
@@ -27,7 +28,7 @@ wordcount:
 
 <br>
 
-There's this [funny thing](https://en.wikipedia.org/wiki/Principle_of_charity) [philosophers do](https://en.wikipedia.org/wiki/Rational_reconstruction) where they write about old philosophers, but apply wildly anachronistic ideas to them, in an attempt to fix their arguments for them. The following was my (decade-old) attempt at this.
+Philosophers do this [funny thing](https://en.wikipedia.org/wiki/Principle_of_charity) where they write about old philosophers, but [apply wildly anachronistic or counterfactual ideas](https://en.wikipedia.org/wiki/Rational_reconstruction) to them, in an attempt to fix their arguments for them. The following was my attempt at this sport, as an immature young man infatuated with philosophical method.
 
 <br>
 
@@ -59,6 +60,22 @@ His book <i>Human Knowledge</i> is much more interesting than it gets credit for
 
 <br>
 
+
+### A general sceptical argument
+
+Derived from Descartes’ dream argument:
+
+1) It is possible that sceptical hypothesis _S_ is true. <br>
+2) I cannot with certainty determine _S_ is false. <br>
+3) If I cannot with certainty determine _S_ false, then some serious class of my beliefs lack “knowledge” status. <br>
+C) So some serious class of my beliefs lack “knowledge” status. 
+
+<br>
+
+---
+
+<br>
+
 ### i. Reconstructing Russell
 
 > “…the traditional epistemological project \[saw the\] theory of knowledge as bulwark against scepticism; proponents of [the new virtue epistemology] anticipate its displacement by a more diverse set of concerns…”
@@ -69,13 +86,13 @@ His book <i>Human Knowledge</i> is much more interesting than it gets credit for
 
 <center>- Russell</center><br>
 
-Did Russell naturalise epistemology, do virtue epistemology, or employ an ethics of belief? Well, his last major philosophical work, _Human Knowledge_ (1948) pre-dates Quine’s launching of the naturalising project by twenty years, and also pre-dates the first explicit piece of ‘virtue epistemology’ by thirty years - so the claim looks like absurd revisionism. 
+Did Russell naturalise epistemology, do virtue epistemology, or employ an ethics of belief? Well, his last major philosophical work, _Human Knowledge_ (1948) pre-dates Quine’s launching of the naturalising project by twenty years, and also pre-dates the first explicit piece of ‘virtue epistemology’ by thirty years - so the idea is absurd revisionism. 
 
-But anachronism has its use: there are few absolutely novel concepts and questions involved in these new approaches to epistemology; they are shifts in emphasis and method, away from the so-called “doxastic paradigm”. (Aristotle, for instance, can be artlessly seen as a virtue epistemologist, and there have recently been considered accounts of René Descartes, Pierre Duhem and even (tenuously) WVO Quine as virtue epistemologists.) 
+But anachronism has its use: there are few absolutely novel concepts and questions in these new approaches to epistemology; they are shifts in emphasis and method, away from the so-called “doxastic paradigm”. (Aristotle, for instance, can be artlessly seen as a virtue epistemologist, and there have recently been considered accounts of René Descartes, <a href="{{duhem}}">Pierre Duhem</a> and even (tenuously) WVO Quine as virtue epistemologists.) 
 
-The following drastic reconstruction of Russell is motivated by Sosa’s notes on _HK_, and by the prospect of salvaging Russell’s responses to radical scepticism. I focus on his tacit use of epistemic norms (hence, ‘ethics of belief’), rather than on virtue theory or naturalism. The trick will be to preserve Russell’s trenchant realism and HK’s early naturalistic epistemology in this meta-epistemological context. I draw on two of his books in isolation: The Problems of Philosophy of 1912 and Human Knowledge of 1948. (They were chosen largely to ensure two contrasting systems.)
+Let's see if we can fix Russell’s responses to radical scepticism. I focus on his tacit use of epistemic norms (hence, ‘ethics of belief’), rather than on virtue theory or naturalism. The trick will be to preserve Russell’s realism and _HK_’s early naturalistic epistemology in meta-epistemology. I draw on two of his books: _The Problems of Philosophy_ (1912) and _Human Knowledge_ (1948). 
 
-“Virtue epistemology”: naturalism + normativity + speech-act theory + practical reason. 
+<center>“Virtue epistemology”: naturalism + normativity + speech-act theory + practical reason. </center>
 
 
 <br>
@@ -88,16 +105,25 @@ The following drastic reconstruction of Russell is motivated by Sosa’s notes o
 
 To ascribe knowledge is to evaluate positively as well as to describe a state. Epistemology cannot avoid normativity, since even the most naturalised accepts at least one epistemic norm:
 
-1. Radical Quinean norm: Epistemology should not be normative.
+<ol>
+	<li> <i>Radical Quinean norm</i>: "Epistemology should not be normative."</li>
+</ol>
 
-An epistemic norm is a standard with a bearing on knowledge. They are not preferences. Duncan Pritchard gives a stricter realist definition which accords with Russell: “_a rule which one follows in order to gain true belief_.” Pascal Engel adds other sensible conditions: “_For a principle to be genuinely normative, it must have normative force, and to be able to actually regulate belief. It must also have normative freedom… one must have the possibility of violating it._” (As opposed to an epistemic virtue: “_an embodied habit that promotes the acquisition, maintenance, and transmission of epistemic goods._”)
+An epistemic norm is a some standard with a bearing on knowledge. They are not preferences. 
 
-We ought to divide meta-epistemology (which yields methodology) and the ‘ethics of belief’ (which yields norms) – but unfortunately the division is unclear. Russell discusses both together as ‘maxims’ – and historically they were both subsumed under ‘principles’. I take choice of methodology as reducible to epistemic normativity. The notion is anyway plastic – for instance, logical laws seem statable as epistemic norms:
+Duncan Pritchard gives a stricter realist definition which accords with Russell: “_a rule which one follows in order to gain true belief_.” 
 
-2. Coherence norm: one ought not to believe p and not p.
-3. Closure norm: one ought to believe that q if one believes that p & that p entails q.
+Pascal Engel adds sensible conditions: “_For a principle to be genuinely normative, it must have normative force, and to be able to actually regulate belief. It must also have normative freedom… one must have the possibility of violating it._” (As opposed to an epistemic virtue: “_an embodied habit that promotes the acquisition, maintenance, and transmission of epistemic goods._”)
 
-The modern literature on ‘epistemic norms’ per se unpacks what we mean by ‘[epistemic] rationality’. In the spirit of early Russell, I offer two ‘Normative Atomist’ accounts of his epistemology. 
+Distinguish meta-epistemology (which yields methodology) and the ‘ethics of belief’ (which yields norms) – but unfortunately the distinction isn't clear. Russell discusses both together as ‘maxims’, and others in the past called both ‘principles’. I take choice of methodology as reducible to epistemic normativity. The notion is a bit plastic – for instance, logical laws seem statable as epistemic norms:
+
+<ol start="2">
+	<li> Coherence norm: "one ought not to believe p and not p."</li>
+	<li> Closure norm: "one ought to believe that q if one believes that p & that p entails q."</li>
+</ol>
+
+<!-- The modern literature on ‘epistemic norms’ unpacks what we mean by ‘[epistemic] rationality’.  -->
+<!-- In the spirit of early Russell, I offer two ‘Normative Atomist’ accounts of his epistemology.  -->
 
 <br>
 
@@ -107,19 +133,19 @@ The modern literature on ‘epistemic norms’ per se unpacks what we mean by �
 
 ### iii. Some hefty qualifications
 
-<br>
 
-* Russell’s epistemology is motivated by a specific view of logic and semantics, but I'm skipping all that. I address the extent to which, despite his innovative method, Russell (1912) was a ‘traditional’ epistemologist – some family-resemblance of internalist, infallibilist, methodist & foundationalist - in section iv.
 
-* Russell’s semi-naturalised epistemology in _Human Knowledge_ poses an interpretative issue: how are we to discuss norms in a ‘natural’ descriptive epistemology? The answer is that Russell’s ‘naturalistic turn’ (from 1940 on) was never of the strong variety that demands the reduction of normative facts to natural ones.
+* Russell’s epistemology is motivated by a specific view of logic and semantics. I'm skipping all that. I address the extent to which, despite his innovative method, Russell (1912) was a ‘traditional’ epistemologist – some family-resemblance of internalist, infallibilist, methodist & foundationalist - in section iv.
 
-* We can express his realism and apsychologism by construing Russell (with the rest of ‘traditional’ epistemology) as a normative cognitive monist, holding that there is one universally applicable set of correct epistemic norms.
+* Russell’s semi-naturalised epistemology in _Human Knowledge_ poses an issue: how are we to discuss norms in a ‘natural’ descriptive epistemology? One answer is that Russell’s ‘naturalistic turn’ (from 1940 on) wasn't the kind that demands the reduction of normative facts to natural ones.
 
-* The practice could be intellectually venal: “Kornblith contends that once traditional epistemologists admit that the Cartesian program of deriving beliefs about the world from certain foundations fails, they end up endorsing as legitimate whatever principles enable them to ratify the beliefs they started with.”18 Against this valid worry I’d firstly say that the epistemic norms are as in need of motivation, and as open to criticism, as any substantive position in philosophy; and, secondly, this allegation does not stick to HK Russell, owing to his naturalistic epistemology: any epistemic norms he endorsed would (in principle) be open to empirical test. (Except the Postulates; see section v.)
+* We can express his realism and anti-psychologism by construing Russell (with the rest of ‘traditional’ epistemology) as a normative cognitive monist, holding that there is one universally applicable set of correct epistemic norms.
 
-* My interpretation does not contort him into a virtue epistemologist: I focus on doxastic norms (abstract rules) rather than epistemic virtues (agents’ traits). John Greco gives two necessary conditions for virtue epistemologies: the acceptance both “that epistemology is a normative discipline” and “that agents and communities are the primary source of epistemic value and the primary focus of epistemic evaluation…”  Russell endorsed the first but not the second (excepting suggestive passages in _HK_).
+* The practice could be intellectually venal: “_Kornblith contends that once traditional epistemologists admit that the Cartesian program of deriving beliefs about the world from certain foundations fails, they end up endorsing as legitimate whatever principles enable them to ratify the beliefs they started with._” Against this valid worry I’d firstly say that the epistemic norms are as open to criticism, as any position in philosophy; and, secondly, this doesn't stick to _HK_ Russell, owing to his naturalistic epistemology: any epistemic norms he endorsed would (in principle) be open to empirical test. (Except the Postulates; see section v.)
 
-Thus qualified, what remains of the merits of the approach? The clearest answer comes in the gap between his ‘traditionalist’ fixation on scepticism and his decidedly non-traditional responses to it.
+* My interpretation does not contort him into a virtue epistemologist: I focus on doxastic norms (abstract rules) rather than epistemic virtues (agents’ traits). John Greco gives two necessary conditions for virtue epistemologies: the acceptance both “that epistemology is a normative discipline” and “that agents and communities are the primary source of epistemic value and the primary focus of epistemic evaluation...”  Russell endorsed the first but not the second (excepting suggestive passages in _HK_).
+
+Thus qualified, what remains of the merits of the approach? The clearest answer comes in the gap between his ‘traditionalist’ fixation on scepticism and his non-traditional responses to it.
 
 <br>
 
@@ -130,72 +156,104 @@ Thus qualified, what remains of the merits of the approach? The clearest answer 
 ### iv. Russellian indirect realism as epistemic norm
 
 
-
-<blockquote>When... we speak of phi­los­o­phy as a crit­i­cism of knowl­edge, it is nec­es­sary to impose a cer­tain lim­i­ta­tion. If we adopt the atti­tude of the com­plete scep­tic, plac­ing our­selves wholly out­side all knowl­edge, and ask­ing, from this out­side posi­tion, to be com­pelled to return within the cir­cle of knowl­edge, we are demand­ing what is impos­si­ble, and our scep­ti­cism can never be refuted...<br> But it is not dif­fi­cult to see that scep­ti­cism of this kind is unrea­son­able.</blockquote>
+<blockquote>
+	When... we speak of phi­los­o­phy as a crit­i­cism of knowl­edge, it is nec­es­sary to impose a cer­tain lim­i­ta­tion. If we adopt the atti­tude of the com­plete scep­tic, plac­ing our­selves wholly out­side all knowl­edge, and ask­ing, from this out­side posi­tion, to be com­pelled to return within the cir­cle of knowl­edge, we are demand­ing what is impos­si­ble, and our scep­ti­cism can never be refuted...<br> But it is not dif­fi­cult to see that scep­ti­cism of this kind is unrea­son­able.</blockquote>
 <center>- Russell
 
 </center><br><br>
 
 In _The Problems of Philosophy_, Russell tries to explain our knowledge as a process of abduction from directly apprehended facts (‘knowledge by acquaintance’) to facts that explain them (‘knowledge by description’). Here is a representation, which I’ll modify as the sceptical challenge runs its course:
 
-#### Substantives
-a. Minimal realism: Experiences are caused by things other than experiences.
-b. Minimal causal law: If like cause, then like effect.
-c. Incorrigibility: What is known non-inferentially is proof against radical scepticism.
-* Method: Methodism: Aims to find the criteria for knowledge without claiming instances, thus avoiding circularity.
-* Method: Foundationalism: “Starting with the common beliefs of daily life, we can be driven back from point to point, until we come to some general principle, which seems luminously evident, and is not itself capable of being deduced from anything more evident.”
-* Method: Principle of Acquaintance: “Every proposition which we understand must be composed wholly of constituents with which we are acquainted”
+#### Assumptions
+
+* Minimal realism: Experiences are caused by things other than experiences.
+* Minimal causal law: If like cause, then like effect.
+* Incorrigibility: What is known non-inferentially is proof against radical scepticism.
+* Methodism: Aims to find the criteria for knowledge without claiming instances, thus avoiding circularity.
+* Foundationalism: “_Starting with the common beliefs of daily life, we can be driven back from point to point, until we come to some general principle, which seems luminously evident, and is not itself capable of being deduced from anything more evident._”
+* Principle of Acquaintance: “_Every proposition which we understand must be composed wholly of constituents with which we are acquainted_”
 
 #### Norms 
-4. Commonsense norm: We should prefer views which grant us knowledge.
-5. Principle of Phenomenal Conservatism: One is permitted to assume things are as they appear, except when there are positive grounds for doubting this.
-5'. Russell’s norm of doubt: “We cannot have reason to reject a belief except on the ground of some other belief.”
-6. Internalist’s norm: beliefs are to be justified only by one’s own psychological experiences: the justifying relations between one’s experiences and beliefs are to be worked out from ‘inside’.
-7. Justification norm of assertion: You ought not believe p unless you are warranted to assert p. (As opposed to the default Knowledge norm of belief: You ought not believe p unless you know p.)
 
-On to radical scepticism. Russell offers a normative response. We can construct the normative backdrop of sceptical paradoxes (given norm 6 and 7):
+<ol start="4">
+	<li><i>Commonsense norm</i>: We should prefer views which grant us knowledge.</li>
+	<li><i>Principle of Phenomenal Conservatism</i>: One is permitted to assume things are as they appear, except when there are positive grounds for doubting this.</li>
+</ol>
+&nbsp;&nbsp;&nbsp;5'. Russell’s norm of doubt: “We cannot have reason to reject a belief except on the ground of some other belief.”
+<ol start="6">
+	<li>Internalist’s norm: beliefs are to be justified only by one’s own psychological experiences: the justifying relations between one’s experiences and beliefs are to be worked out from ‘inside’.</li>
+	<li>Justification norm of assertion: You ought not believe p unless you are warranted to assert p. (As opposed to the default Knowledge norm of belief: You ought not believe p unless you know p.)</li>
+</ol>
 
-8. Lack norm of doubt: If not sufficiently grounded, any belief is open to legitimate doubt.
+On to radical scepticism. Russell offers a _normative_ response. The normative backdrop of sceptical paradoxes (given norm 6 and 7) is:
 
-9. Infallibilist’s norm of assertion: You ought not believe p if p is open to legitimate doubt.
+<ol start="8">
+	<li><i>Lack norm of doubt</i>: If not sufficiently grounded, any belief is open to legitimate doubt.</li>
+	<li><i>Infallibilist norm of assertion</i>: You ought not believe p if p is open to legitimate doubt.</li>
+	<li><i>Prove-it norm</i>: The bur­den of proof for any claim falls to the claimant.</li>
+</ol>
 
-10. Prove-it norm: The bur­den of proof for any claim falls to the claimant.
+(8) and (10) are essential to critical thinking – but when combined with internalism (6), they generate a destructive sceptical demand: hyperbolic doubt and synchronic reconstruction in sequence: “_take the totality of things you believe, subtract [your] claim and everything that you cannot defend without assuming it, and now show that the claim is correct_.”
 
-(8) and (10) are intuitive, perhaps essential, constituents of honest critical reasoning – but when combined with internalism (6), they generate a destructive sceptical demand: hyperbolic doubt and synchronic reconstruction in sequence: “take the totality of things you believe, subtract [your] claim and everything that you cannot defend without assuming it, and now show that the claim is correct.”
+Russell thinks this is impossible (see norm 5’), and tries to block this scale of scepticism by showing the position it entails to be unreasonable, and so negligible. (He is in effect defending the bare thesis _Dog­ma­tism_, that at least one of one’s knowledge-claims is true, & that one knows it is.) 
 
-Russell thinks this is impossible (see norm 5’), and tries to block this scale of scepticism by showing the position it entails to be unreasonable, and so negligible. (He is in effect defending the bare thesis Dog­ma­tism, the belief that at least one of one’s knowledge-claims is true, & that one knows it is, as necessary.) Reconstructed, his argument runs: 
+Reconstructed: 
 
-P1. If it is impossible to meet a demand, then that demand is unreasonable.
-P2. It is impossible to meet the sceptical demand.
-P3. If the sceptical demand is unreasonable, then the sceptical position is unreasonable.
-C. The sceptical position is unreasonable. (by double modus ponens)
+
+	P1. If it is impossible to meet a demand, then that demand is unreasonable.
+	P2. It is impossible to meet the sceptical demand.
+	P3. If the demand is unreasonable, then the sceptical position is unreasonable.
+	C. The sceptical position is unreasonable. (by double modus ponens)
+
 
 But this requires a further epistemic norm underlying the whole attitude:
     
-11. Dogmatic norm: It is unrea­son­able to doubt dogmatism if there are no possible rea­sons that could persuade some­one who doesn’t believe it to believe it. 
+<ol start="11">
+	<li><i>Dogmatic norm</i>: It is unrea­son­able to doubt dogmatism if there are no possible rea­sons that could persuade some­one who doesn’t believe it to believe it. </li>
+</ol>
 
-This is obviously ad hoc, but it has far greater problems than that. Following the only two possibilities through: 1) if one finds compelling reasons to endorse dogmatism, one must believe it (and thereby stop being a sceptic) on pain of unreasonableness; and 2) even if one does not find compelling reasons, then (11) makes one unreasonable not to believe it. The unacceptable implication is that an inabil­ity to ground a posi­tion is taken to be a compelling rea­son to believe it. (It also breaches Pascal’s condition of normative freedom, given above.) Further:
+This is obviously ad hoc, but it has bigger problems. Say there are only two possibilities: 
 
-P1. By (8), every belief is sub­ject to exam­i­na­tion and the pos­si­bil­ity of doubt. 
-P2. Dogmatism is a belief.
-P3. Thus the scep­tic can exam­ine dog­ma­tism and pos­si­bly doubt it. 
-P4. Exam­i­na­tions must be open to the pos­si­bil­ity that there are no com­pelling grounds. 
-P5. If they are not found, one need not believe dogmatism.
-P6. But Russell’s reasoning entails that dog­ma­tism can­not be truly exam­ined, nor doubted. 
-C. So by contradiction of basic norms of dialectic, the argument fails.
+1) if one finds compelling reasons to endorse dogmatism, one must believe it (and thereby stop being a sceptic) on pain of unreasonableness; and <br>
+2) even if one does not find compelling reasons, then (11) makes one unreasonable not to believe it. <br>
+
+The unacceptable implication is that inabil­ity to ground a posi­tion is taken to be a compelling rea­son to believe it. (It also breaches Engel’s condition of normative freedom, given above.) Further:
+
+	P1. By (8), every belief is sub­ject to exam­i­na­tion and the pos­si­bil­ity of doubt
+	P2. Dogmatism is a belief.
+	P3. Thus the scep­tic can exam­ine dog­ma­tism and pos­si­bly doubt it.
+	P4. Exam­i­na­tions must admit the pos­si­bil­ity there are no com­pelling grounds.
+	P5. If they are not found, one need not believe dogmatism.
+	P6. Russell’s reasoning entails that dog­ma­tism can­not be truly exam­ined.
+	C. So by contradiction of basic norms, the argument fails.
 
 It could be rearticulated as a properly general norm:
 
-11'. Cogency norm: It is unrea­son­able to doubt a posi­tion if there are no possible rea­sons that could persuade some­one who doesn’t believe the position to believe it.
+&nbsp;&nbsp;&nbsp;11'. _Cogency norm_: It is unrea­son­able to doubt a posi­tion if there are no possible rea­sons that could persuade some­one who doesn’t believe the position to believe it.
 
 But this is absurdly strong: even if Russell were to accept it (and the suggestion is philosophical slander), the argument collapses, since:
 
-P1. (11’) stamps as indubitable all sets of beliefs that can­not be jus­ti­fied except by cir­cularity. 
-P2. There are a vast number of such sets.
-P3. Many of those sets will be incompatible with each other. 
-C. (11’) generates and asserts a vast number of contradictions.
+	P1. (11’) stamps as indubitable all sets of beliefs that can­not 
+	be jus­ti­fied except by cir­cular reasoning.
+	P2. There are a vast number of such sets.
+	P3. Many of those sets will be incompatible with each other.
+	C. (11’) generates and asserts a vast number of contradictions.
 
 <br>
+
+
+<!-- <div class="accordion">
+<h3>Yet another argument</h3>
+<div>
+	Elsewhere, Russell argues that we have noninferential a priori knowledge of probabilistic connections:
+	P1. Beliefs about physical states of affairs cannot be non-inferentially justified;  <br>
+	P2. There is a logical gap between the content of such beliefs and the evidence upon which those beliefs are based;  <br>
+	P3. There is no deductive way of bridging that gap;  <br>
+	P4. There is no inductive way of bridging the gap;  <br>
+	P5. The only possible ways of bridging such a gap are deductively and inductively;  <br>
+	C. Therefore there is no way to justify the knowledge claims in question.
+</div>
+</div> -->
 
 ---
 
@@ -204,19 +262,25 @@ C. (11’) generates and asserts a vast number of contradictions.
 ### v. epistemic norms in _Human Knowledge_
 
 
-_Human Knowledge_ (HK) offers another foundationalism, but one that rejects pure empiricism as unavoidably flawed. It gives up epistemic ground – conceding that data are private, and we cannot demonstratively infer an external world from them – and then tries to retain knowledge of the external world by lionising “non-demonstrative inference”. It is in a detailed and broadly Bayesian treatment of it that the meat of HK is sometimes said to lie. But HK actually develops a double theory of knowledge, with two sets of standards, since it also holds the core doctrines of what we now know as naturalised epistemology: it is fallibilist, views some knowing as animal behaviour, takes “best science” as a given and invites psychology to bear on epistemological questions. His argument boils down to a pragmatic demand to widen our conception of reasonable justification to include (some) non-demonstrative inferences, á la:
+_Human Knowledge_ (HK) offers another foundationalism, but one that rejects pure empiricism. 
 
-P1) Scientific inference is not demonstrative.
-P2) Either it is unreasonable, or not all reasonable argument is demonstrative.
-P3) Scientific inference is not unreasonable.
-C) Not all reasonable argument is demonstrative.
+It gives up epistemic ground – conceding that data are private, and we cannot demonstratively infer an external world from them – and then tries to retain knowledge of the external world by lionising “non-demonstrative inference”. It is in a detailed and somewhat Bayesian treatment of it that the meat of _HK_ is said to lie. 
 
-The project is thus to carefully canonise scientific inference, which sidelines scepticism, though he claims to not be merely ignoring it.
+But HK actually develops a double theory of knowledge, with two sets of standards, since it also holds the core doctrines of what we now know as naturalised epistemology: it is fallibilist, views some knowing as animal behaviour, takes “best science” as a given and invites psychology to bear on epistemological questions. His argument boils down to a pragmatic demand to widen our conception of reasonable justification to include (some) non-demonstrative inferences:
+
+	P1) Scientific inference is not demonstrative.
+	P2) Either it is unreasonable, or not all reasonable argument is demonstrative.
+	P3) Scientific inference is not unreasonable.
+	C) Not all reasonable argument is demonstrative.
+
+The project is to canonise scientific inference, which sidelines scepticism (though he claims to not be merely ignoring it).
 
 #### Norms
-1. Norms 4, 5 and 7 carry over from Russell (1912).
 
-12. Naturalist’s norm: the primary problem of epistemology is a descriptive one: “when does scientific method allow us to infer an unobserved thing from what we observe?” This can rightfully be done without demonstrative answers to the normative question. (rejection of norm 6).
+Norms 4, 5 and 7 carry over from Russell (1912).
+<ol start="12">
+	<li><i>Naturalist’s norm</i>: the primary problem of epistemology is a descriptive one: “when does scientific method allow us to infer an unobserved thing from what we observe?” This can rightfully be done without demonstrative answers to the normative question. (rejection of norm 6).</li>
+</ol>
 
 The most remarkable part of _HK_, though is his presentation of five “postulates”: really vague contingent general facts, which together give the minimal ontology that permits applied probability, and thereby induction, and thereby scientific inference (and some of commonsense): 
 
@@ -232,21 +296,27 @@ After surveying the options (that he could conceive of, see below), Russell clai
 
 The analogy to the _Problems_’ problematic anti-sceptical strategy is clear. But what is the epistemic status of the postulates? They don’t fit  assumption, empirical fact (since they enable empirical generalisation), Kantian category, apriori intuition, logical law, methodological principle or, alas, epistemic norm. (This is partly due to Russell’s reformulation of the basic terms of epistemology.) 
 
-Some more recent resources resonate with his aim, though. For instance, Roderick Chisholm is indebted to _HK_; his principles of evidence are akin to laws built from Russell’s postulates – or, indeed, to epistemic norms over non-demonstrative inference. But Chisholm held them to be necessarily true apriori, to give prima facie evidence, and to be ‘internal’ "in that the proper use of them at any time will enable us to ascertain the epistemic status of our own beliefs at that time." Unfortunately, though, the necessity alone would alienate an HK-Russellian, since Russell devotes almost a full chapter to an explanation of his rejection of necessary relations over and above his postulates.
+Some recent resources resonate. For instance, Roderick Chisholm is indebted to _HK_; his principles of evidence are akin to laws built from Russell’s postulates – or, indeed, to epistemic norms over non-demonstrative inference. But Chisholm held them to be necessarily true apriori, to give prima facie evidence, and to be ‘internal’ "_in that the proper use of them at any time will enable us to ascertain the epistemic status of our own beliefs at that time_." Unfortunately, though, the necessity alone would alienate an HK-Russellian, since Russell devotes almost a full chapter to an explanation of his rejection of necessary relations over and above his postulates.
+
+<br>
+
+#### Hinges
 
 The “hinge proposition”, hinted at among Wittgenstein’s last notes, has become a regular feature of recent sceptical discourse. A hinge proposition is said to work outside justification as conceived in norms (7), (8), (10) – it is not itself knowledge, because it is outside epistemic evaluation. Recall: 
 
-8. Lack norm of doubt: If not sufficiently grounded, any belief is open to legitimate doubt.
+<ol start="8">
+	<li><i>Lack norm of doubt</i>: If not sufficiently grounded, any belief is open to legitimate doubt.</li>
+</ol>
 
 Wittgenstein clearly rejects this. Speculatively:
 
-7'. ’Hinge norm of justification: There are some beliefs which in some contexts one may legitimately believe without justification.
+7'. <i>Hinge norm of justification</i>: There are some beliefs which in some contexts one may legitimately believe without justification.
 
-8'. ’Hinge norm of doubt: There are some beliefs which in some contexts one ought not to doubt.
+8'. <i>Hinge norm of doubt</i>: There are some beliefs which in some contexts one ought not to doubt.
 
 Kornblith’s concern about unprincipled principles comes to mind. But in any case Russell’s postulates are not good candidates for hinge propositions, since his examples are everyday, pre-theoretical beliefs, leading to an exemplary Wittgensteinian suggestion: that it necessarily slips between philosophy’s fingers.
 
-Failing these reconstructions of Russell’s postulates, though, it’s unclear that they are more than wishful thought: the most abstract appeal to common sense. 
+Failing these reconstructions of Russell’s postulates, though, their status is unclear. They could be wishful thoughts, or the most abstract appeal to common sense ever. 
 
 <br>
 
@@ -254,9 +324,31 @@ Failing these reconstructions of Russell’s postulates, though, it’s unclear 
 
 <br>
 
-### vi. Conclusion
 
-Returning to the epigram from his _Autobiography_: the anti-sceptical ‘responses’ above are not foundations, refutations, nor Moorean denials of scepticism. (They do not, then, yield idyllic inhuman certainty.) 
+### The “Russellian” Retreat 
+
+<div style="text-align: center;">
+	<blockquote>
+		We can live with the concession that we do not, strictly, know some of the things we believed ourselves to know, provided we can retain the thought that we are fully justified in accepting them … what we might call the Russellian Retreat… we must content ourselves with probability, defeasibility and inconclusive justifications where standardly we had wanted to claim more.
+	</blockquote>
+	– Crispin Wright
+	<br /><br>
+</div>
+
+An unpopular solution, also named for Russell: admit defeat. Retreat from knowledge: take the radical sceptical paradox to be truly informative about the concept _knowledge_ – but retain entitlement to one’s justified beliefs. 
+
+<!-- Radical scepticisms are those that claim knowledge to be impossible or not knowably possible. Duncan Pritchard offers a rough account: "_Radical scepticism is the view that states, roughly, that a significant class of our beliefs cannot be sufficiently epistemically supported_"  -->
+
+<blockquote>
+	To be entitled to accept a proposition in this way, of course, has no connection whatever with the likelihood of its truth. We are entitled to proceed on the basis of certain beliefs merely because there is no extant reason to disbelieve them and because, unless we make some such commitments, we cannot proceed at all. Any epistemological standpoint which falls back on a conception of entitlement of this kind for the last word against scepticism needs its own version of (what is sometimes called) the Serenity Prayer: in ordinary enquiry, we must hope to be granted the discipline to take responsibility for what we can be responsible, the trust to accept what we must merely presuppose, and the wisdom to know the difference.”
+</blockquote>
+
+
+<!-- The flight from intractable scepticism from “knowledge” down to justification alone.  -->
+
+
+
+Returning to the epigram: the anti-sceptical ‘responses’ above are not foundations, refutations, nor Moorean denials of scepticism. (They do not yield certainty.) 
 
 On the bright side, _HK_ prefigures several (of what we currently think of as acutely differing) approaches: virtue, doxastic ethics, Bayesian, externalist, and naturalised epistemology. Maybe the divides between these are not insurmountable.
 
@@ -296,7 +388,7 @@ On the bright side, _HK_ prefigures several (of what we currently think of as ac
     * Wright, Crispin (2000), ‘Cogency and Question-Begging: Some Reflections on McKinsey’s Paradox and Putnam’s Proof’, Philosophical Issues 10, p.140-63
     * Zagzebski, Linda (1996) <i>Virtues of the Mind</i> (Cambridge; Cambridge University Press)
     </div>
-</div><br>
+</div>
 
 
 
@@ -311,7 +403,10 @@ The trendy form is an argument via underdetermination of the external world:
     P3.   One doesn’t know one is not in a vat.                          ( ~K(~SH) )
 C.     So, one does not know one has hands.                            ( ~K(p) )
 C².   “So? Let’s just be fallibilists, then.” / “So? Let’s just be externalists, then.”
+
+
 Radical sceptical challenge has three prongs, though:
+
     1. Epistemic barrier (Is knowledge possible?) 
     2. Problem of uncertainty (Do we have knowledge?)
     2b. Problem of second-order uncertainty (Do we know we have knowledge?) 
@@ -320,7 +415,9 @@ Radical sceptical challenge has three prongs, though:
     3c. Problem of practical reason (When can one rightly act?)
 
 
-Contemporary Foundationalist theories have two parts, a normative part and a meta-epistemological one. The first sorts out which beliefs are basic—justified without inferential backing from other beliefs—from which beliefs are non-basic—justified in virtue of inferential support. The normative part says which non-inferential psychological sources of belief-formation (e.g. perception and memory) confer justification, and which inferential mechanisms (e.g. deduction and induction) transfer justification. The second part explains why certain beliefs are basic and why other beliefs are non-basic. The meta-epistemological part offers a criterion or supervenience base for justification; it explicates the nature of epistemic justification.
+Contemporary Foundationalist theories have two parts, a normative part and a meta-epistemological one. The first sorts out which beliefs are basic—justified without inferential backing from other beliefs—from which beliefs are non-basic—justified in virtue of inferential support. 
+
+The normative part says which non-inferential psychological sources of belief-formation (e.g. perception and memory) confer justification, and which inferential mechanisms (e.g. deduction and induction) transfer justification. The second part explains why certain beliefs are basic and why other beliefs are non-basic. The meta-epistemological part offers a criterion or supervenience base for justification; it explicates the nature of epistemic justification.
 
 3 now leads to questions about ‘norms of belief’, 3b to ‘norms of assertion’. New Linguistic Turn" (NLT). Some now separate truth from likelihood from right to claim from… 
     * Knowledge norm of assertion: You can assert p iff you know p.         (massive, career-sustaining problems)
@@ -349,31 +446,6 @@ Where does Russell come in? Well: his stated attitude to scepticism was always n
     * Russellian assumption #1: Experiences are caused by things other than experiences.
     * Russell assumption #2: If like cause, then like effect.
     * Russell Postulates #1 - #5
-
-The “Russellian” Retreat 
-
-"We can live with the concession that we do not, strictly, know some of the things we believed ourselves to know, provided we can retain the thought that we are fully justified in accepting them … what we might call the Russellian Retreat… we must content ourselves with probability, defeasibility and inconclusive justifications where standardly we had wanted to claim more."4
-- Crispin Wright
-
-
-Unpopular solution: admit defeat. Take the radical sceptical paradox to be true – that is, truly informative about the concept knowledge – but retain entitlement to one’s justified beliefs. An important distinction: radical scepticisms are those that claim knowledge to be impossible; I’ll call those that contingently deny knowledge plain scepticism. Duncan Pritchard offers a rough acwordcount: "Radical scepticism is the view that states, roughly, that a significant class of our beliefs cannot be sufficiently epistemically supported" 
-
- “To be entitled to accept a proposition in this way, of course, has no connection whatever with the likelihood of its truth. We are entitled to proceed on the basis of certain beliefs merely because there is no extant reason to disbelieve them and because, unless we make some such commitments, we cannot proceed at all. Any epistemological standpoint which falls back on a conception of entitlement of this kind for the last word against scepticism needs its own version of (what is sometimes called) the Serenity Prayer: in ordinary enquiry, we must hope to be granted the discipline to take responsibility for what we can be responsible, the trust to accept what we must merely presuppose, and the wisdom to know the difference.”
-
-
-The flight from intractable scepticism from “knowledge” down to justification alone. Derived from Descartes’ dream argument.6 
-1) It is possible that sceptical hypothesis, S, is true. 
-2) I cannot with certainty determine S false. 
-3) If I cannot with certainty determine S false, then some serious class of my  beliefs lack “knowledge” status. 
-C) Some serious class of my beliefs lack “knowledge” status. 
-Propositional functions as weapons against the epistemic barrier.
-Russell argues that we have noninferential a priori knowledge of probabilistic connections
-    P1. Beliefs about physical states of affairs cannot be non-inferentially justified;  
-    P2. There is a logical gap between the content of such beliefs and the evidence upon which those beliefs are based;  
-    P3. There is no deductive way of bridging that gap;  
-    P4. There is no inductive way of bridging the gap;  
-    P5. The only possible ways of bridging such a gap are deductively and inductively;  
-    C. Therefore there is no way to justify the knowledge claims in question.
 
 
 
