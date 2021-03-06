@@ -155,7 +155,8 @@ But one of the promises of Greek scepticism was <a href="{{ata}}">equanimity</a>
 
 ## See also
 
-* <a href="/russell">Some Insufficient Reasons Why I Am Not a Philosopher</a>
+* <a href="/barrier">Food as solution to scepticism</a>
+* <a href="/no-philosopher">Some Insufficient Reasons Why I Am Not a Philosopher</a>
 * <a href="/russell">Torturing Bertrand Russell on radical scepticism</a>
 * Pritchard, _<a href="{{dunc}}">Epistemic Angst</a>_
 * Hookway, _<a href="{{hookway}}">The Primacy of Practice</a>_
