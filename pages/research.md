@@ -113,12 +113,12 @@ visible:	true
 	<!--  -->
 <!-- 	<tr>
 		<td class="logo">
-			<a href="{{}}">
+			<a href="">
 				<img src="/img/papers/" />
 			</a>
 		</td>
 		<td style="padding-left: 5px">
-			<a href="{{}}" target="_blank">Decision trees compensate for misspecification</a> (2021),
+			<a href="" target="_blank">Decision trees compensate for misspecification</a> (2021),
 			<br>1st author / 3.
 		</td>
 	</tr> -->
