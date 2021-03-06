@@ -6,7 +6,7 @@ permalink:  /sincerity
 date:       2021-01-09
 author:     Gavin
 
-img:        /img/yoda.jpg
+img:        /img/yoda.png
 published:	true
 visible: 	1
 quality: 	3

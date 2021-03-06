@@ -165,6 +165,12 @@ Is bootstrapping obvious? I don't think so, judging by how static and <em>crudel
 		some philosophers seem to be angry with images for not being things, with words for not being feelings. Words and images are like shells, no less integral parts of nature than are the substances they cover, but better addressed to the eye and more open to observation. I would not say that substance exists for the sake of appearance, or faces for the sake of masks, or the passions for the sake of poetry and virtue... all these phases and products are involved in the round of existence...
 	</blockquote>
 	– George Santayana
+	<br><br>
+	<blockquote>
+		The first duty in life is to assume a pose. What the second is, no one has yet discovered.
+	</blockquote>
+	– Oscar Wilde
+
 </div>
 
 
