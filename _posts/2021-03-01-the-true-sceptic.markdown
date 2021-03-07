@@ -53,15 +53,15 @@ wordcount:
 </div>
 
 
-I love contrariness. I love <a href="{{cross}}">Saudi cross-dressers</a>, <a href="{{sxe}}">sober punks</a>, <a href="{{lib}}">bleeding-heart libertarians</a>, <a href="{{clare}}">worker</a>-<a href="{{cb}}">poets</a>, <a href="{{bee}}">poet-scientists</a>, <a href="{{meat}}">vegan meat growers</a>, <a href="{{morm}}">Mormon transhumanists</a>, <a href="{{env}}">pro-nuclear pro-GM environmentalists</a>. But all such contrarians are rank amateurs. We all take there to be a world, we all take ourselves to know things about it and ourselves. We cling to our views, define ourselves by them, even if by taking the opposite of some other group's beliefs.
+I love contrariness. I love <a href="{{cross}}">Saudi cross-dressers</a>, <a href="{{sxe}}">sober punks</a>, <a href="{{lib}}">bleeding-heart libertarians</a>, <a href="{{clare}}">worker</a>-<a href="{{cb}}">poets</a>, <a href="{{bee}}">poet-scientists</a>, <a href="{{meat}}">vegan meat growers</a>, <a href="{{morm}}">Mormon transhumanists</a>, <a href="{{env}}">pro-nuclear pro-GM environmentalists</a>. But all contrarians are rank amateurs. We all take there to be a world, we all take ourselves to know things about it and ourselves. We cling to our views, define ourselves with them, even if by taking the opposite of some other group's beliefs.
 
-I have something on all of you. In university I knew an _actual_ sceptic. Not a "fucking-love-science" atheist; not a mere special-case <a href="{{redd}}">doubting Thomas</a>. No: A full blown _we do not know if there is a world_ aporia <a href="{{rad}}">radical</a>. The most seriously philosophical person I will ever meet.
+I have something on all of you. In university I knew an _actual_ sceptic. Not a "fucking-love-science" atheist; not a special-case <a href="{{redd}}">doubting Thomas</a>. No: A full blown _we do not know if there is a world_ <a href="{{rad}}">radical</a>. The most seriously philosophical person I will ever meet.
 
-I found this extremely engaging, because I was trying to be the kind of person who followed arguments, who had philosophy as the centre of their life. I never took on radical scepticism as a full belief (or a full absence), but as an exposé of the lack of justification for most of the things I saw around me, no matter how intimidating or high status. I had to learn <a href="{{scott}}">epistemic helplessness</a>, in the positive sense of not treating any single argument I couldn't immediately counter as coercive. I had to give up on certainty, on certain useless definitions of knowledge, and on armchair inquiry. I am now glad of it.
+I found this extremely engaging, because I was trying to be the kind of person who strictly followed argument, who had philosophy as the centre of their life. I never took on radical scepticism as a full belief (or a full absence). But it still helped me: it was an exposé of the lack of justification for most things I saw around me - no matter how intimidating or high status. Most people start with a protective <a href="{{scott}}">epistemic helplessness</a> (in the positive sense of not treating any single argument you can't immediately counter as coercive). I had to learn it. I gave up on certainty, on certain useless definitions of knowledge, and on armchair inquiry. I am now glad of it.
 
-If meeting such a person - more generally, if realising that a common kind of philosophy cannot answer the sceptical paradoxes - doesn't cure you of a naive relationship with philosophy, nothing will.
+If meeting such a person - if realising that a common kind of philosophy cannot answer the sceptical paradoxes - doesn't cure you of a naive relationship with philosophy, nothing will.
 
-Radical scepticism is _useful_. Descartes used radical scepticism to convince himself that God's existence was certain. But we can use it for real reasons: to release ourselves from illegitimate authorities (including ourselves), to probe the idea of knowledge by looking at the limit case, or to get over naive philosophy in general. If it can't beat this...
+Radical scepticism is _useful_. OK, Descartes used radical scepticism to convince himself that God's existence was certain. But we can use it for real reasons: to release ourselves from illegitimate authorities (including ourselves), to probe the idea of knowledge by looking at the limit case, or to get over naive philosophy. "If it can't beat this..."
 
 
 <br>
@@ -69,14 +69,17 @@ Radical scepticism is _useful_. Descartes used radical scepticism to convince hi
 ## A classic sceptical argument
 
 P1.   One may be a [brain in a vat].  (◊S)<br>
-P2.   If one knows one has hands then one knows one is not in a vat. K[p] -> K[~S]<br>
+P2.   If one knows one has hands, then one knows one is not in a vat. K[p] -> K[~S]<br>
 P3.   One doesn’t know one is not in a vat.                          ~K[~S]<br>
 C.    So, one does not know one has hands.                            ~K[p]<br>
+
+If you don't like vats, substitute in "dreaming", or "completely insane". (I give a more sophisticated version <a href="/russell">here</a>, as well as a case study of a very great philosopher repeatedly failing to answer it.)
+
+My point is not that the above establishes C. But it provokes a second-order conclusion:
+
 C².   “So? Let’s just be fallibilists, then.” / “So? Let’s just be externalists, then.”
 
-If you don't like vats, substitute in "dreaming", or "completely insane".
-
-I give a more sophisticated version <a href="/russell">here</a>. 
+If philosophy P leads to this argument, then reject P.
 
 <br>
 
@@ -86,7 +89,7 @@ I protested. (I did this repeatedly, over years.)
 
 "OK, but the _continuity_ of my experiences is extremely strong reason to think that there's one process generating them, e.g. an external world."
 
-The Sceptic: "Imagine a sheerly chaotic universe: weird particles all constantly in flux, bonding and unbonding in a way which has no relation to our world. Once in an unbelievable number of years, for the merest fraction of a second, these particles settle into the same structure as your brain right now. Say you flicker into awareness for that fractional moment, before the system scatters and you are lost. Another aeon passes. Then by chance the system settles into the next timestep of your brain. All of your beliefs are wrong in this scenario. Do you have any way to rule out that world from the one you prefer to think about?"
+The Sceptic: "Imagine a sheerly chaotic universe: weird particles all constantly in flux, bonding and unbonding in a way which has no relation to our world. Once in an unbelievable number of years, for the merest fraction of a second, these particles settle into the same structure as your brain right now. Say you flicker into awareness for that fractional moment, before the system scatters and you are lost. Another aeon passes. Then by chance the system settles into the next timestep of your brain. All of your beliefs are wrong in this scenario. Do you have any way to distinguish that world from the one you prefer to think about?"
 
 Me: "OK but then there's still a world."
 
@@ -108,11 +111,15 @@ What enables the sceptical paradoxes? A big bundle of positions:
 * _Theorism_. As in the opposite of pragmatism. Living head-first.
 * _"The doxastic paradigm"_. Treating yourself as a (mere) holder of beliefs, some justified or not, some knowledge or not.
 
-Conant calls them "the Cartesian problematic".
+Conant calls the family resemblence of them "the Cartesian problematic".
 
-_All_ of the 'solutions' (externalism, hinge epistemology, <a href="/russell">virtue stuff</a>, phenomenal conservatism, pragmatism, disjunctivism) include or consist in a refusal to play the sceptic's game - which is just the standard game of modern Western philosophy! 
+_All_ of the 'solutions' (externalism, hinge epistemology, <a href="/russell">virtue stuff</a>, phenomenal conservatism, pragmatism, disjunctivism) include or consist in a refusal to play the sceptic's game - which is just the standard game of modern Analytic philosophy! 
 
-Convincing yourself that the sceptic can't be beaten _if you grant him the initial Cartesian premise, that we don't know things already_, must weaken your enthusiasm for the project of apriori conceptual analysis of anything. This was very useful to me!
+Convincing yourself that the sceptic can't be beaten _if you grant him the initial premise, that we can't say we have knowledge already_, must weaken your enthusiasm for the project of apriori conceptual analysis of anything. This was very useful to me!
+
+If sceptical argument succeeds under the above, then at least one of the above is wrong. (Denying internalism is enough.)
+
+The advantage of it is that it is in some ways the strictest kind of inquiry - stricter even than mathematics, which is allowed to invent concepts and work entirely in conditionals. And for most people, strict thought cures itself.
 
 <br>
 
@@ -122,11 +129,11 @@ You might protest that the Sceptic was lying or deluded, that he didn't actually
 
 "Well why do I need certainty instead of 99.999% confidence?"
 
-Why indeed?: Because you and I are not really philosophical. I was, or thought I was; but my friend made me realise it was not good to be.
+Why indeed?: We don't, because you and I are not really philosophical. I was, or thought I was; but my friend made me realise it was not good to be.
 
 (He was also a notorious troll, but not about this. You don't spend ten years of your life on one question if you are joking.)
 
-There is surprisingly little interaction between insisting on radical doubt and inaction. One of the only other people I know of who might be a true sceptic, <a href="{{ig}}">Peter Unger</a> is also an extremely dedicated <a href="{{pov}}">anti-poverty activist</a>. <a href="{{clue}}">Moral cluelessness</a>, a limited but still radical kind of scepticism, is a chief preoccupation of some of the most active moralists of our time.
+There is surprisingly little interaction between radical doubt and inaction. One of the only other people I know of who might be a true sceptic, <a href="{{ig}}">Peter Unger</a> is also an extremely dedicated <a href="{{pov}}">anti-poverty activist</a>. <a href="{{clue}}">Moral cluelessness</a>, a limited but still radical kind of scepticism, is a chief preoccupation of some of the most active moralists of our time.
 
 <br>
 
@@ -137,9 +144,9 @@ There is surprisingly little interaction between insisting on radical doubt and 
 
 One way of making sense of True Sceptics (and mere methodological sceptics like Descartes) is through the language of statistics. What is the loss function of radical scepticism? What are they trying to avoid?
 
-Well, it says that it's better to avoid a single error, believing a single false thing, than to hold a million true beliefs. It optimises for error avoidance, rather than knowledge maximisation. 
+Well, it implies that it's better to avoid a single error, believing a single false thing, than to hold a million true beliefs. It optimises for error avoidance, rather than knowledge maximisation. 
 
-How can those things differ? When you place excessive weight on "unknown" for all propositions, when you suspend judgment and so give up the chance of knowing in favour of never being wrong.
+How can those things differ? By placing excessive weight on "unknown" for all propositions, you suspend judgment and so give up the chance of knowing in favour of never being wrong.
 
 <br>
 
@@ -161,5 +168,6 @@ But one of the promises of Greek scepticism was <a href="{{ata}}">equanimity</a>
 * Pritchard, _<a href="{{dunc}}">Epistemic Angst</a>_
 * Hookway, _<a href="{{hookway}}">The Primacy of Practice</a>_
 * <a href="{{scott}}">Epistemic learned helplessness</a>
+* [Nāgārjuna, Nietzsche, and Rorty’s Strange Looping Trick](https://absoluteirony.wordpress.com/2014/09/17/nagarjuna-nietzsche-rorty-and-their-strange-looping-trick/)
 
 <br>
