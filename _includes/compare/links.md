@@ -16,3 +16,4 @@
 {%	assign singer = "https://ocw.mit.edu/courses/linguistics-and-philosophy/24-231-ethics-fall-2009/lecture-notes/MIT24_231F09_lec21.pdf"		%}
 {%	assign lottery = "https://slatestarcodex.com/2013/06/30/the-lottery-of-fascinations/"		%}
 {%	assign ortho = "https://www.lesswrong.com/posts/rMfpnorsMoRwyn4iP/choosing-the-zero-point"	%}
+{%	assign rob = "https://experiencemachines.wordpress.com/2021/03/08/why-its-important-to-compete-with-yourself"		%}

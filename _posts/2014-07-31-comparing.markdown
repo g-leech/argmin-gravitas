@@ -180,6 +180,7 @@ Saying “what I have is good” might reduce your drive to improve the situatio
 
 * [The Parable of the Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) by Scott Alexander
 * _<a href="{{ortho}}">Choosing the Zero Point</a>_ by orthonormal
+* _<a href="{{rob}}"></a>_
 * Stoicism seems to be the philosophy of constantly comparing down.
 
 <br><br><br>
