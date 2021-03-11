@@ -160,6 +160,21 @@ But one of the promises of Greek scepticism was <a href="{{ata}}">equanimity</a>
 
 <br>
 
+---
+
+<br>
+
+Most people don't take ideas seriously enough. They are unmoved by multiple sound arguments; they don't mind being completely inconsistent (i.e. _necessarily_ wrong); they are content to live totally within convention, to have an ideology instead of a philosophy. So most people don't need a True Sceptic to turn them back from taking ideas too seriously. But I did.
+
+Philosophy is just evidence like any other kind of inquiry. There's a limit on how strong the evidence can be: it's bounded by [how often](https://www.gwern.net/The-Existential-Risk-of-Mathematical-Error) mathematicians make undiscovered errors. In practice the average bit of philosophy is much less strong than that. But it seems to still be enough to act on, in data-poor regions of life, i.e. most of life.
+
+
+<br>
+
+---
+
+<br>
+
 ## See also
 
 * <a href="/barrier">Food as solution to scepticism</a>
