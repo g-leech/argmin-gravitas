@@ -1,0 +1,67 @@
+---
+layout:     post
+title:      "Using courts for algorithmic fairness"
+baselink:   /lgfo
+permalink:  /lgfo
+date:       2021-03-16  <!--site.time-->
+author:     Gavin
+
+img:        /img/papers/lgfo.jpg
+published:  true
+visible:    1
+
+summary:    Explaining the impossibility of algorithmic fairness to a high schooler.
+confidence: 80%
+categories: ai, ethics
+quality: 	3
+importance: 3
+---
+
+{%	assign lgfo = "https://arxiv.org/abs/2009.11677"		%}
+
+
+I got some fan mail on <a href="{{lgfo}}">a paper</a> I helped with last year!
+
+
+> Dear Mr. Leech
+<br>
+I am a current senior at [High School], and I am currently researching predicting United States district court case verdicts. After reading your article, I had several questions I was wondering if you could find the time to answer:
+<br><br>
+1) Is it possible to apply the LGFO algorithm to determining verdicts in court cases? How would you go about doing that?<br>
+2) How were you able to bypass potential bias when creating this algorithm?<br>
+3) While this algorithm can be applied to a binary classification, how could you potentially expand it to help in the training of the model?<br><br>
+I would greatly appreciate any answers you could provide.
+
+<br>
+
+---
+
+<br>
+
+I don't think any algorithm exists that can make verdicts on its own. And LGFO isn't intended to decide court cases. Instead it uses data from courts as a way of working out how to balance the many kinds of fairness, for any classifier which is making predictions about social input.
+
+You might have heard that there are lots of ways of putting fairness into mathematical form, and that <a href="https://arxiv.org/abs/1609.05807">many of them contradict each other</a>. You literally cannot satisfy them all. How then do we decide how unfair something is? How do we decide how much each type of fairness counts? 
+
+Our system solves this as follows:
+
+a. A human picks a set of fairness definitions<br>
+b. A human gives the algorithm a set of past cases, along with the damages awarded in each case.<br>
+c. LGFO works out how much weight to give each kind of fairness, and so produces a classifier which is as fair as possible, if we trust the legal system to know this relatively well. 
+
+It does this by assuming that the amount of money awarded in a case scales closely with the unfairness of that case.
+
+Now, your questions:
+
+**1) Is it possible to apply the LGFO algorithm to determining verdicts in court cases?**<br>
+It gives you a general classifier, so nothing technically stops you applying it to verdicts, or to recividism predictions. But it wasn't developed for this and would only accept simple numerical inputs (like the defendant's age). I wouldn't use it in courts in its current form: it's like a prototype which would need a lot of work to customise for justice applications, because the stakes are so high and a bad system could really harm people.
+
+**2) How were you able to bypass potential bias when creating this algorithm?**<br>
+All systems are biased, in the weak sense that you can't satisfy all fairness measures at the same time. The advantage of LGFO is that it limits the bias to be only as severe as the legal system it uses for input, in particular the civil tort system of your country. The bias of most other systems is not so limited: the user makes all kinds of decisions (e.g. the definition of fairness, the weight to give each definition, the thresholds at which the classifier flips) which could be much more biased. This isn't perfect, but at least the law is a partially democratic process. It's hard to see how to do better than this.
+
+**3) How could you potentially expand it to help in the training of the model?**<br>
+There are lots of ways to extend it. One really easy way to turn a binary classifier into a multi-class classifier (e.g. from one which says "Hot / Cold" to "Hot / Warm / Lukewarm / Cold / Freezing") is to use "one-vs-rest": basically you train 5 binary classifiers and take the one with strongest confidence as the answer.
+
+I hope your project goes well!
+
+<br>
+
