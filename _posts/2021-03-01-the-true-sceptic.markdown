@@ -15,7 +15,7 @@ confidence: 70%. My knowledge of modern epistemology has eroded a lot in 8 years
 categories: philosophy, ethics-of-belief, epistemology
 warnings:   
 importance: 5
-wordcount:      
+wordcount:  1200
 ---
 
 {% 	assign dunc =	"https://ndpr.nd.edu/reviews/epistemic-angst-radical-skepticism-and-the-groundlessness-of-our-believing/"		%}
