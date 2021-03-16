@@ -130,7 +130,7 @@ visible:	true
 		</td>
 		<td style="padding-left: 5px">
 			<a href="{{lgfo}}" target="_blank">Legally Grounded Fairness Objectives</a> (2020),
-			<br>2nd author / 3.
+			<br>2nd author / 3. <a href="/lgfo">Blogpost</a>.
 		</td>
 	</tr>
 </table>
