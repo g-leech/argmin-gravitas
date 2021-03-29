@@ -23,7 +23,9 @@ visible:	true
 {%	assign gridcite = "https://scholar.google.com/scholar?hl=en&q=Gavin+Leech%2C+Karol+Kubicki%2C+Jessica+Cooper%2C+and+Tom+McGrath.+Preventing+side-effects+in+gridworlds%2C+2018."	%}
 {%	assign ilpvid = "https://youtu.be/leQ56mahNMs?t=585"		%}
 {%	assign robustvid = "https://nips.cc/virtual/2020/public/poster_8e3308c853e47411c761429193511819.html"	%}
-
+{%	assign gel = "https://statmodeling.stat.columbia.edu/2020/12/18/inferring-the-effectiveness-of-government-interventions-against-covid-19/" %}
+{%	assign epifor = "http://epidemicforecasting.org/calc"	%}
+{%	assign secondwave = "https://www.medrxiv.org/content/10.1101/2021.03.25.21254330v1"	%}
 
 <style>
 	.frame {
@@ -94,7 +96,7 @@ visible:	true
 		</td>
 		<td style="padding-left: 5px">
 			<i><a href="{{covid}}" target="_blank">Inferring the effectiveness of government interventions against COVID-19</a></i> (2020), <i>Science</i>, <br>
-			8th author / 19.
+			8th author / 19. <a href="{{gel}}">Discussion</a>, <a href="{{epifor}}">app</a>.
 		<br><br>
 		<a href="#fn:1" id="fnref:1">1</a> 
 		</td>
@@ -122,6 +124,18 @@ visible:	true
 			<br>1st author / 3.
 		</td>
 	</tr> -->
+	<tr>
+		<td class="logo">
+			<a href="{{secondwave}}">
+				<img src="/img/secondwave.png" />
+			</a>
+		</td>
+		<td style="padding-left: 5px">
+			<a href="{{secondwave}}" target="_blank">Understanding the effectiveness of interventions in Europe's second wave of COVID-19</a> (2021),
+			<br>4th author / 22.
+		</td>
+	</tr>
+	<!--  -->
 	<tr>
 		<td class="logo">
 			<a href="{{lgfo}}">
