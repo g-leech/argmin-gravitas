@@ -26,6 +26,8 @@ visible:	true
 {%	assign gel = "https://statmodeling.stat.columbia.edu/2020/12/18/inferring-the-effectiveness-of-government-interventions-against-covid-19/" %}
 {%	assign epifor = "http://epidemicforecasting.org/calc"	%}
 {%	assign secondwave = "https://www.medrxiv.org/content/10.1101/2021.03.25.21254330v1"	%}
+{%	assign secondwavetwit = "https://mobile.twitter.com/sorenmind/status/1375848915329769477"	%}
+{%	assign fhitwit = "https://mobile.twitter.com/sorenmind/status/1338899837564153858"	%}
 
 <style>
 	.frame {
@@ -96,7 +98,7 @@ visible:	true
 		</td>
 		<td style="padding-left: 5px">
 			<i><a href="{{covid}}" target="_blank">Inferring the effectiveness of government interventions against COVID-19</a></i> (2020), <i>Science</i>, <br>
-			8th author / 19. <a href="{{gel}}">Discussion</a>, <a href="{{epifor}}">app</a>.
+			8th author / 19. <a href="{{fhitwit}}">Explainer</a>, <a href="{{gel}}">discussion</a>, <a href="{{epifor}}">app</a>.
 		<br><br>
 		<a href="#fn:1" id="fnref:1">1</a> 
 		</td>
@@ -132,7 +134,7 @@ visible:	true
 		</td>
 		<td style="padding-left: 5px">
 			<a href="{{secondwave}}" target="_blank">Understanding the effectiveness of interventions in Europe's second wave of COVID-19</a> (2021),
-			<br>4th author / 22.
+			<br>4th author / 22. <a href="{{secondwavetwit}}">Explainer</a>.
 		</td>
 	</tr>
 	<!--  -->
