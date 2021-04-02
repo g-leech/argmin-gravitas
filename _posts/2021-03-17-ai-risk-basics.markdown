@@ -59,13 +59,13 @@ Could AI be a risk to humans? Well it already is:
 
 ### Harm through intelligence
 
-The above are instances of a system doing harm because it's too stupid to do what we ask (or because the humans deploying it are).
+These systems did harm because they were too stupid to do what we ask (or because the humans deploying it are).
 
-What about when the system does harm because it is too smart? Is there any real chance that advanced AI could ruin human potential on a grand scale?
+What about systems harming us because it is too smart? Is there any real chance that advanced AI could ruin human potential on a grand scale?
 
 #### Argument from caution
 
-We don't know. They don't exist, so we can't study them and work it out. Here's an argument for worrying even so:
+We don't know. They don't exist, so we can't study them and work it out. Here's an argument for worrying, even so:
 
 1. It’s likely we will make a general AI (AGI) eventually.
 2. We don’t know when.
@@ -94,7 +94,7 @@ But you should go with 3% until you think about it more than them.
 	<h3>3% is small!</h3>
 	<div>
 		Not really. It's the probability of <a href="{{gcoin}}">5 coin flips</a> all coming up heads.
-        Or more pertinently, the p of dying when playing Russian roulette with <a href="{{gcoin}}">1 bullet in 1 of 6 guns</a>.<br><br>
+        Or more pertinently, the p of dying when playing Russian roulette with <a href="{{ggun}}">1 bullet in 1 of 6 guns</a>.<br><br>
         It's also <a href="{{ipcc}}">roughly the same</a> as the probability of extreme climate change, which we tend to care about a lot.
         <!--  -->
         Probabilities don't lead to decisions on their own; you need to look at the payoff, which here is very large. 
@@ -102,15 +102,15 @@ But you should go with 3% until you think about it more than them.
 	<!--  -->
 	<h3>High uncertainty is not low probability</h3>
 	<div>
-		The weakness of the above evidence means we remain uncertain - it could be 0.1% to 90%. But this is even worse when you think about it.
+		The weakness of the evidence means we remain very uncertain - it could be 0.1% to 90%. But this is even worse when you think about it.
 		If you are genuinely uncertain about whether there's a landmine in front of you, you don't step forward.
 	</div>
 	<!--  -->
 	<h3>Against the null prior</h3>
 	<div>
 		People often act like "things should be treated as 0 probability until we see hard evidence - peer-reviewed evidence"<br><br>
-        The last year of government failure on COVID should make you realise that this is not the right attitude when evidence is legitimately scarce and lives are at stake.<br><br>
-        It is not possible to have evidence yet, so it doesn't make sense to demand it. (By symmetry it also doesn't make sense to be very certain about the size of the risk.)
+        The last year of government failure on COVID should make you think this isn't the right attitude when evidence is legitimately scarce and lives are at stake.<br><br>
+        It is not possible to have direct evidence yet, so it doesn't make sense to demand it. (By symmetry it also doesn't make sense to be very certain about the size of the risk.)
 	</div>
 </div>
 
@@ -127,7 +127,7 @@ But you should go with 3% until you think about it more than them.
 
 There are <a href="{{agi}}">72 public projects</a> with the stated goal of making AGI. Most of them have no chance. But billions of dollars and hundreds of the smartest people in the world are pushing it.
 
-In the study of viruses and bacteria, there's a controversial action called "Gain of function" research, when you intentionally modify a virus to be worse, more lethal, more virulent. Most AI research is gain of function research.
+In the study of viruses and bacteria, there's a thing called "Gain of function" research, when you intentionally modify a pathogen to be more lethal or more transmissible. Most AI research is gain of function research.
 
 #### We're getting there.
 
