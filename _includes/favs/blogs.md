@@ -28,7 +28,7 @@
 			<a href="{{caplan}}">Bryan Caplan</a>, <br>
 			<a href="{{zach}}">Zach Weiner</a>, <br>
 			<a href="{{dave}}">David Pearce</a>; <br>
-			<a href="{{tom}}">Tom Sittler</a>; <br>
+			<a href="{{tom}}">Tom Adamczewski</a>; <br>
 			<a href="{{ozy}}">Ozy Frantz</a>; <br>
 			<a href="{{what}}">Randall Munroe</a>; <br>
 			<a href="{{buck}}">Buck Shlegeris</a>, <br>
@@ -163,7 +163,7 @@ Anders Sandberg - who knew the largest things in the world could be so charming?
 Bryan Caplan - first I ignore, then I mock him, then I fight him, then
 Zach Weiner - a fine picture of self-invention
 David Pearce - when the facts get weird my views get weird
-Tom Sittler - Frightened in the silence, frightened, but thinking very hard
+Tom Adamcewski - Frightened in the silence, frightened, but thinking very hard
 Ozy Frantz - gender is not a universal toxin, and gender studies is even useful
 Buck Shlegeris - the sheer authority of shrugging
 Caspar Oesterheld - to see the universe as small
