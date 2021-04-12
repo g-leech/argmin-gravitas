@@ -39,6 +39,9 @@ _Stationary_ travel (going to one location and really getting to know it for mon
 			<li>Emerson: 
 				<blockquote> I have no churlish objection to the circumnavigation of the globe, for the purposes of art, of study, and benevolence... But he who travels to be amused, or to get somewhat which he does not carry, travels away from himself... He carries ruins to ruins. Travelling is a fool’s paradise. Our first journeys discover to us the indifference of places. At home I dream that at Naples, at Rome, I can be intoxicated with beauty, and lose my sadness. I pack my trunk, embrace my friends, embark on the sea, and at last wake up in Naples, and there beside me is the stern fact, the sad self, unrelenting, identical, that I fled from... <br /><br />Our minds travel when our bodies are forced to stay at home.</blockquote></li>
 			</li>
+			<li>
+				<a href="https://danfrank.ca/a-response-to-julia-galef-and-herbert-simon-on-travel/">Dan Frank</a> actually tries to defend travel relative to an equal spend on remote learning, which is an improvement over the usual. He makes some nice points, but the strong, open, understanding-based kind of travel he defends is still incredibly rare.
+			</li>
 	</ul>
 	</div>
 </div>
