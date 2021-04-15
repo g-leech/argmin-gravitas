@@ -1,0 +1,68 @@
+<script>
+	function drop() {
+    	document.getElementById("myDropdown").classList.toggle("show");
+  	}
+	// Close the dropdown menu if the user clicks outside of it
+  	window.onclick = function(event) {
+	    if (!event.target.matches('.dropped')) {
+	      var dropdowns = document.getElementsByClassName("dropdown-content");
+	      var i;
+	      for (i = 0; i < dropdowns.length; i++) {
+	        var openDropdown = dropdowns[i];
+	      }
+	    }
+	}
+</script>
+
+<style>
+	.dropdown {
+	  display: inline-block;
+	  padding: 0;
+	}
+
+	.dropdown-content {
+	  display: none;
+	  z-index: 1;
+	}
+
+	.dropdown-content {
+	  padding-left: 16px;
+	}
+
+	.show {
+		display:block;
+	}
+
+</style>
+
+
+<center>
+<!-- Begin Mailchimp Signup Form -->
+	<div id="mc_embed_signup">
+		<form action="https://protonmail.us1.list-manage.com/subscribe/post?u=bc9cb67ac84bed1e6702919e5&amp;id=69c3ece977" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	    <div id="mc_embed_signup_scroll">
+			<h3>
+				<label for="mce-EMAIL"><a class="dropped" href="javascript:drop()">or via email</a></label>
+				<a class="dropped" href="javascript:drop()">
+					<span class="icon icon-envelop">
+		            <svg viewBox="0 0 32 32">
+		              <path fill="#ffffff" d="M29 4h-26c-1.65 0-3 1.35-3 3v20c0 1.65 1.35 3 3 3h26c1.65 0 3-1.35 3-3v-20c0-1.65-1.35-3-3-3zM12.461 17.199l-8.461 6.59v-15.676l8.461 9.086zM5.512 8h20.976l-10.488 7.875-10.488-7.875zM12.79 17.553l3.21 3.447 3.21-3.447 6.58 8.447h-19.579l6.58-8.447zM19.539 17.199l8.461-9.086v15.676l-8.461-6.59z" />
+		            </svg>
+		            </span>
+		        </a>
+			</h3>
+		<div id="myDropdown" class="dropdown-content">
+			<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email" required>
+	    	
+	    	<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+	    	<div style="position: absolute; left: -5000px;" aria-hidden="true">
+	    		<input type="text" name="b_bc9cb67ac84bed1e6702919e5_69c3ece977" tabindex="-1" value="">
+	    	</div>
+	    		<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+	    	</div>
+	    </div>
+	</form>
+	</div>
+
+	<!--End mc_embed_signup-->
+</center>
