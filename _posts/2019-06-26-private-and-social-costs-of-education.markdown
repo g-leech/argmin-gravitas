@@ -133,11 +133,16 @@ Are there better ways to spend £90k per person? (<a href="{{give}}">Yes</a>: bu
 
 Primary and secondary education takes at least 15,000 hours of the most curious and vital years _of everyone alive_ <a href="#fn:5" id="fnref:5">5</a>. Billions of hours of fruitless boredom. Literacy and numeracy are probably worth this on their own, so factor out primary school, for only 6000 hours of confiscated life.
 
+Then there's uni, in two tranches: people who hate it, and people who drop out.
+
+In the US, 45% of the 20 million annual enrolments do not finish. A lot of this is due to ability deficit (measured by remedial class enrollment), besides the obvious financial reasons. Because of [the sheepskin effect](https://en.wikipedia.org/wiki/Sheepskin_effect) - part of a degree is not worth much to the job market - and the low social return on completed education, this means billions of dollars, and millions of years of life wasted. Not to mention the unnecessary stress and humiliation of pushing people into it.
+
+
 ### Suffering
 
 You probably know someone who was traumatised by their school years. Even if only 5% of pupils suffer this much, it throws a huge shadow over the social benefit. But even boredom, or unfreedom, or being forced to associate with cruel people count. (One suggestive result: closing schools for coronavirus was correlated with a <a href="{{anx}}">20% drop in teen anxiety rate</a>.)
 
-People who suffer from uni are rarer, but I've met <a href="{{kp}}">a few</a>. They are totally ignored in the discourse, in favour of the Ennobling Creation of Citizens or 4 Year Crazy Party memes.
+People who suffer from uni are rarer, but I've met <a href="{{kp}}">a few</a>. They are totally ignored in the discourse, in favour of the Ennobling Creation of Citizens or 4 Year Crazy Party memes. (Again, millions of people drop out and may be left worse off than before.)
 
 
 
