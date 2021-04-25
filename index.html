@@ -116,18 +116,11 @@ visible:  false
 
 <center>
 <h2>
-  <a href="{{ "/archive" | prepend: site.url }}">See all posts</a>.  
+  <a href="{{ "/archive" | prepend: site.url }}">See all posts</a>;
+  <a href="{{ "/tags" | prepend: site.url }}">by topic</a>; 
+  <a href="{{ "/importance" | prepend: site.url }}">most important</a>.  
 </h2>
 
-<h2>
-  <a href="{{ "/tags" | prepend: site.url }}">See posts by topic</a>.  
-</h2>
-
-<h2>
-  <a href="{{ "/importance" | prepend: site.url }}">See most important posts</a>.  
-</h2>
-
-{%    include rss.html  %}
 {%    include mc.html  %}
 
 </center>
