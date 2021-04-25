@@ -49,20 +49,20 @@ But it seems to me that it's the ones you know can do most harm. -->
 </center>
 <br>
 
-My favourite album from 2005 is almost completely ungoogleable. <a href="#fn:2" id="fnref:2">2</a> As far as I can tell it's the sole work of [Joe Tucker](https://www.imdb.com/name/nm2542687/), very slightly better known for [National School](https://open.spotify.com/artist/7BfjDBtJNTpuTgiH8vJ8Sf) and better known for [his](https://www.bbc.co.uk/iplayer/episodes/b08brzh8/witless) [comedy](https://www.youtube.com/watch?v=7bjKPnt-NR8) [scripts](https://vimeo.com/joetucker82). (There's a little bit of extra backing vocals on Track 1 and 16.)
+My favourite album from 2005 is almost completely ungoogleable. <a href="#fn:2" id="fnref:2">2</a> As far as I can tell it's the sole work of [Joe Tucker](https://www.imdb.com/name/nm2542687/), very slightly better known for [National School](https://open.spotify.com/artist/7BfjDBtJNTpuTgiH8vJ8Sf) and better known for [his](https://www.bbc.co.uk/iplayer/episodes/b08brzh8/witless) [comedy](https://www.youtube.com/watch?v=7bjKPnt-NR8) [scripts](https://vimeo.com/joetucker82). (His brother plays the cornet in a skit and there's a little bit of extra backing vocals on Track 1, 3, 16.)
 
 <a href="{{yt}}">It's incredibly _generous_</a>. 20 top-grade melodies - more than one per track, one per minute! - with moving lyrics and bizarrely good production. I'm probably grading on a curve because it's a shoestring labour of love, but I really do love it. (_[The Copyright to Life](https://www.youtube.com/watch?v=SLPu3kWgSzI&list=PLhdvJ4ld4_Ec9wawrK20wue-5Y92aDwqL&index=5)_ has played at random in my head about once a month for 10 years.)
 
 Most people's lyrics are very general, but I love the hyperspecific - particular [objects](https://themountaingoats.fandom.com/wiki/Golden_Boy), particular idioms, particular moments, particular [people](https://halfmanhalfbiscuit.uk/mcintyre-treadmore-and-davitt-1991/everythings-aor/). And almost no-one covers the [deadening language](https://www.youtube.com/watch?v=yJnJS71lNzY) of the bureaucracies that almost all of us live inside - "transferable skills", networks, forms, house prices, liabilities. Tucker does, and so brings in the dread and glory of actual life.
 
-> Look in the houses, see them blowing tongues of red:<br>
-Designers, teachers, labourers, brute others, architects.<br>
+> Look in the houses, see them glowing tungsten red:<br>
+Designers, teachers, labourers, brutalist architects.<br>
 I can hear the breath on your lips, the blood in my head.<br>
 Someone speaks a house price that dare not be said.
 
 It's normal to not exactly fit your life, and so normal things can express that.
 
-The arrangement is twee: the two most prominent voices are xylophone and Casio organ. If you're not paying attention you might think the lyrics are twee ("_I want to eat vegetables, save the meat for the heavy-hearted_"). It also borrows melodies from [church](https://www.youtube.com/watch?v=rZn59OrLNYU), [Pink Floyd](https://www.youtube.com/watch?v=GG1fgCHvDNQ), [Alice Cooper](https://www.youtube.com/watch?v=2Oo8QzDHimQ).
+The arrangement is twee: the two most prominent voices are xylophone and Hammond organ. If you're not paying attention you might think the lyrics are twee ("_I want to eat vegetables, save the meat for the heavy-hearted_"). It also borrows melodies from [church](https://www.youtube.com/watch?v=rZn59OrLNYU), [Pink Floyd](https://www.youtube.com/watch?v=GG1fgCHvDNQ), [Alice Cooper](https://www.youtube.com/watch?v=2Oo8QzDHimQ).
 
 <br>
 
@@ -98,7 +98,7 @@ He tries to be upbeat. He fears the sea, or "the sea". He feels obscurely that s
 
 > I'm an in-filling unit of a high performance team<br>
 I breathe transferable skills, I dream the collective dream<br>
-I fight from a workstation with a warm pot o coffee for a shield<br>
+I fight from a workstation with a wall partition for a shield<br>
 Videoconferencing to no man's land, the office is a battlefield<br>
 
 
@@ -113,7 +113,7 @@ When I left this town, the girls would not speak to me.<br>
 Hold on tight, grab the sides - careful, we might collide<br>
 Hold on now, mind that wave - my life will not be lived.<br>
 Brave men find my boat, bottom up but still afloat...<br><br>
-The luxury cruise liner, the lowly ferry:<br>
+The luxury cruise liner, the cargo ferry:<br>
 Both look the same at the bottom of the sea<br>
 <!-- Put me to the anchorage, lean me leeward, I'm feeling faint.<br>
 A drop in the ocean makes waves in a small town.<br><br> -->
