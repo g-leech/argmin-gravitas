@@ -42,6 +42,8 @@ argument:	agi-intro/argument.html
 {%	assign chain = "https://www.guinnessworldrecords.com/news/2016/10/video-watch-australian-daredevils-terrifying-attempt-at-blindfold-chainsaw-worl-449269"	%}
 {%	assign russ = "https://www.edge.org/response-detail/26157"	%}
 {%	assign omo = "https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf"	%}
+{%	assign treac = "http://lukemuehlhauser.com/treacherous-turns-in-the-wild/"	%}
+{%	assign danaher = "https://philosophicaldisquisitions.blogspot.com/2014/07/bostrom-on-superintelligence-3-doom-and.html"	%}
 
 <br>
 
@@ -210,6 +212,10 @@ They come up with ingenious ways to subvert their goals, if that is easier than 
 The point of these examples are: We cannot write down exactly what we want. The history of philosophy is the history of failing to perfectly formalise human values. Every moral theory has appalling edge cases, where the neat summary fails.
 
 If we don't write down exactly what we want, then the system will find edge cases. They already do.
+
+The worst kind of cheating is <a href="{{danaher}}">treachery</a>: initially pretending to be aligned, then switching to dangerous behaviour when you can get away with it (for instance, after you've completely entrenched yourself). This seems less likely, since it requires more machinery (two goals, and hiding behaviour, and a second-order policy to decide between them), and requires us to not be able to fully inspect the system we "designed". But we can't fully inspect our current best systems, and it too has <a href="{{treac}}">already been observed</a> in a system not designed for deceit.
+
+
 
 <br>
 

@@ -14,6 +14,7 @@
 {%	assign many = "https://www.tandfonline.com/doi/full/10.1080/01973533.2019.1577736"	%}
 {%	assign growth = "https://journals.sagepub.com/doi/abs/10.1177/0956797617739704?journalCode=pssa"	%}
 {%	assign marsh = "https://journals.sagepub.com/doi/abs/10.1177/0956797618761661"	%}
+{%	assign mischel2 = "https://www.sciencedirect.com/science/article/pii/S0167268119302641?via%3Dihub"		%}
 {%	assign ec = "https://science.sciencemag.org/content/351/6280/1433"	%}
 {%	assign canc = "https://www.nature.com/articles/483531a"		%}
 {%	assign ioan = "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124"		%}
