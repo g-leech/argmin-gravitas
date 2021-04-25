@@ -326,7 +326,7 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 {%	assign spol = "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/"		%}
 
 * <a href="/broadness">Broadness as trivial predictor of philosophical status</a>
-* Tom Sittler, <a href="{{sitt}}">Philosophical Success Stories</a>
+* Tom Adamczewski, <a href="{{sitt}}">Philosophical Success Stories</a>
 * Massimo Pigliucci, <a href="{{pig2}}">Progress in Philosophy</a></li>
 * Graham Johnson, <a href="{{suspended}}">Conceptual engineering: the revolution in philosophy you've never heard of</a>
 * <a href="{{schw}}">Schwitzgebel on philosophy that opens</a>

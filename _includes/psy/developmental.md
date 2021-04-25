@@ -22,17 +22,17 @@
 </div><br>
 
 
-* Some evidence for a small <span class="b">marshmallow effect</span>, that ability to delay gratification as a 4 year old predicts life outcomes at 15 (Mischel).<br> After controlling for the socioeconomic status of the child's family, the Marshmallow effect is r=0.05 or <a href="{{marsh}}">d=0.1</a> one-tenth of a standard deviation for an additional minute delay, with nonsignificant p-values. And since it's usually easier to get SES data...
+* Mixed evidence for a small <span class="b">marshmallow effect</span>, that ability to delay gratification as a 4 year old predicts life outcomes at 15 or beyond (Mischel).<br> After controlling for the socioeconomic status of the child's family, the Marshmallow effect is r=0.05 or <a href="{{marsh}}">d=0.1</a> one-tenth of a standard deviation for an additional minute delay, with nonsignificant p-values. And since it's usually easier to get SES data...
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
 		<ul>
-	<li><span class="b">Original paper</span>: '<a href="{{mischel}}">Attention in Delay of Gratification</a>', Mischel 1970, n=68, all children of Stanford academics or their friends.<br>
+		<li><span class="b">Original paper</span>: '<a href="{{mischel}}">Attention in Delay of Gratification</a>', Mischel 1970, n=68, all children of Stanford academics or their friends.<br>
 	(&#126; 1000 citations).</li><br>
-	<li><span class="b">Critiques</span>: <a href="{{marsh}}">Watts et al 2018</a> (n=918)
+		<li><span class="b">Critiques</span>: <a href="{{marsh}}">Watts et al 2018</a> (n=918), <a href="{{mischel2}}">Benjamin & Mischel 2020 (n=113 of the original participants!)</a> 
 		<br>(total citations: &#126; 120)</li><br>
-	<li><span class="b">Original effect size</span>: r= [0.42, 0.57] for SAT </li><br>
-	<li><span class="b">Replication effect size</span>: Watts: r=0.28.<br> After controlling for the socioeconomic status of the child's family, the Marshmallow effect is r=0.05 or d=0.1, one-tenth of a standard deviation for an additional minute delay, nonsignificant p-values. </li><br>
+		<li><span class="b">Original effect size</span>: r= [0.42, 0.57] for SAT </li><br>
+		<li><span class="b">Replication effect size</span>: Watts: r=0.28.<br> After controlling for the socioeconomic status of the child's family, the Marshmallow effect is r=0.05 or d=0.1, one-tenth of a standard deviation for an additional minute delay, nonsignificant p-values. </li><br>
 	</ul>
 	</div>
 </div><br>
