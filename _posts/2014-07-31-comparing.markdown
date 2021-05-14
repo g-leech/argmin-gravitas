@@ -22,6 +22,9 @@ argument:   compare/argument.md
 
 {%	include compare/links.md	%}
 
+<center>
+	<img width="30%" src="/img/calvin.jpg" /><br><br>
+</center>
 
 > Everything is amazing right now, and nobody’s happy... I was on an airplane and there was internet, high speed internet on the airplane... I'm watching YouTube clips; it's amazing... then it breaks down and they apologize: 'the internet is not working'. And the guy next to me goes 'pah! this is bullshit!' ...<br><br>
 Everybody on every plane should just constantly be going: “Oh my God, wow!” ... you’re sitting in a chair in the sky! ...People say 'there’s delays on flights' - delays? Really? New York to California in 5 hours! That used to take 30 years  and a bunch of you would die on the way there...
@@ -47,7 +50,9 @@ When deciding whether a situation is good or bad, you can compare up (to a super
 
 * Comparing _between_ people is difficult: too much varies (energy; aptitude; <a href="{{lottery}}">lottery of fascinations</a>) and ordering them is anyway risky. Better to compare up to your personal best, or down to your past self. <br><br>
 
-* One of the strongest ways to make me realise my good fortune is checking my 'temporal privilege'. <a href="{{tabb}}">In many ways</a> it is better to be a minimum-wage worker now than to be Julius Caesar, or King Croesus in their time. There is no amount of money you could give me to live in the year 1700 even. (It's far larger than the other privileges.)<br><br> When people (or <a href="{{g}}">I myself</a>) complain about the tedium or inauthenticity of white-collar jobs, I retort, “But think of how painful and miserable and cold and hungry and scared and ignorant our ancestors were! Your problems are small on the long view, and in such a rich society <a href="{{gwern}}">there is an alternative</a>". (Gwern's calculation is not prudential: it is a tool to force you to realise your freedom and your luck.) <br><br>
+* "It's just a drop in the ocean" is comparing up, to having solved the entire problem all at once. This is very useful for correcting people who think their ineffective policy is amazing ([recycling](https://medium.com/@robertwiblin/what-you-think-about-landfill-and-recycling-is-probably-totally-wrong-3a6cf57049ce), say). David Mitchell: "_Yet what is any ocean, but a multitude of drops?_"
+
+* One of the strongest ways to make me realise my good fortune is checking my 'temporal privilege'. <a href="{{tabb}}">In many ways</a> it is better to be a minimum-wage worker now than to be Julius Caesar, or King Croesus in their time. There's no amount of money you could give me to live in the year 1700 even. (It's far larger than the other privileges.)<br><br> When people (or <a href="{{g}}">I myself</a>) complain about the tedium or inauthenticity of white-collar jobs, I retort, “But think of how painful and miserable and cold and hungry and scared and ignorant our ancestors were! Your problems are small on the long view, and in such a rich society <a href="{{gwern}}">there is an alternative</a>". (Gwern's calculation is not prudential: it is a tool to force you to realise your freedom and your luck.) <br><br>
 
 
 * When rating my own posts' <a href="{{imp}}">importance</a>, I compare up to the most important possible work: the one that discusses how to preserve value until the far reaches of the future, over trillions of years. If I compared down, to an average social media status update, then my scores would be much higher.<br><br>

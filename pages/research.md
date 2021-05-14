@@ -28,6 +28,7 @@ visible:	true
 {%	assign secondwave = "https://www.medrxiv.org/content/10.1101/2021.03.25.21254330v1"	%}
 {%	assign secondwavetwit = "https://mobile.twitter.com/sorenmind/status/1375848915329769477"	%}
 {%	assign fhitwit = "https://mobile.twitter.com/sorenmind/status/1338899837564153858"	%}
+{%	assign covidpod = "https://turing.podbean.com/e/ttps2e6/"		%}
 
 <style>
 	.frame {
@@ -98,7 +99,7 @@ visible:	true
 		</td>
 		<td style="padding-left: 5px">
 			<i><a href="{{covid}}" target="_blank">Inferring the effectiveness of government interventions against COVID-19</a></i> (2020), <i>Science</i>, <br>
-			8th author / 19. <a href="{{fhitwit}}">Explainer</a>, <a href="{{gel}}">discussion</a>, <a href="{{epifor}}">app</a>.
+			8th author / 19. <a href="{{fhitwit}}">Explainer</a>, <a href="{{covidpod}}">podcast</a>, <a href="{{gel}}">discussion</a>, <a href="{{epifor}}">app</a>.
 		<br><br>
 		<a href="#fn:1" id="fnref:1">1</a> 
 		</td>
@@ -126,6 +127,10 @@ visible:	true
 			<br>1st author / 3.
 		</td>
 	</tr> -->
+<!--  -->
+	<!-- Recent trends in SARS-CoV-2 variants of concern in England 
+		16th author / 30 -->
+<!--  -->
 	<tr>
 		<td class="logo">
 			<a href="{{secondwave}}">
