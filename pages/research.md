@@ -29,6 +29,9 @@ visible:	true
 {%	assign secondwavetwit = "https://mobile.twitter.com/sorenmind/status/1375848915329769477"	%}
 {%	assign fhitwit = "https://mobile.twitter.com/sorenmind/status/1338899837564153858"	%}
 {%	assign covidpod = "https://turing.podbean.com/e/ttps2e6/"		%}
+{%	assign impblog = "https://www.imperial.ac.uk/news/221873/uk-covid-19-transmission-shifted-towards-emerging/"	%}
+{%	assign rep44 = "https://www.imperial.ac.uk/media/imperial-college/medicine/mrc-gida/20-05-20-COVID19-Report-44.pdf"	%}
+
 
 <style>
 	.frame {
@@ -128,8 +131,18 @@ visible:	true
 		</td>
 	</tr> -->
 <!--  -->
-	<!-- Recent trends in SARS-CoV-2 variants of concern in England 
-		16th author / 30 -->
+	<tr>
+		<td class="logo">
+			<a href="{{rep44}}">
+				<img src="/img/lineage.png" />
+			</a>
+		</td>
+		<td style="padding-left: 5px">
+			<a href="{{rep44}}">Recent trends in SARS-CoV-2 variants of concern in England</a> (2021)
+			<br>
+			16th author / 30. <a href="{{impblog}}">Discussion</a>.
+		</td>
+	</tr>
 <!--  -->
 	<tr>
 		<td class="logo">
