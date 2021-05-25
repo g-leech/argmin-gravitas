@@ -41,10 +41,6 @@ visible:	true
 
 </table>
 
-
-
-
-
 <!-- * _Towards Tensorised Probabilistic Programming_ (2020) -->
 <!-- * _<a href="/files/ILP_vs_DL_v0.9.pdf" target="_blank">Comparing Inductive Logic Programming & Deep Learning</a>_ (2020) -->
 <!-- * _<a href="/files/" target="_blank">The computational humour of single-word edits</a>_ (2020) -->

@@ -4,14 +4,20 @@
 	</td>
 	<td style="padding-left: 5px">
 		<i><a href="{{neurips_covid}}" target="_blank">How Robust are Estimated Effects of Nonpharmaceutical Interventions against COVID-19?</a></i> (2020), NeurIPS Spotlight paper,
-		<br>4th author / 10.<br> 
+		<br>4th author / 10.
+		<br> 
 		<span class="dropdown">
 		  <a class="dropped" href="javascript:drop('covidneur')">The point</a>. 
 		  <div id="covidneur" class="dropdown-content">
 			<br>
 			COVID-19 policy studies mostly don't do proper validation - very few papers check their performance on holdout data, and the sensitivity checks they perform are usually really limited.<br><br>
+			
 			We re-ran one of <a href="{{flax}}">the famous models</a>, and several variations of our own, and found that the famous model's results depend quite a lot on analysis decisions (ours is a bit more robust).<br><br>
+
 			Also a couple theorems about how to interpret the effects: it's not the unconditional effect of doing policy p, it's the average additional effect of p, if you implement it alongside average existing policies (the average in your dataset).<br><br>
+
+			<i>Authors</i>: Mrinank Sharma, Sören Mindermann, Jan M. Brauner, <b>Gavin Leech</b>, Anna B. Stephenson, Tomáš Gavenciak, Jan Kulveit, Yee Whye Teh, Leonid Chindelevitch, Yarin Gal.
+			<br><br>
 		  </div>
 		</span>
 		<a href="{{robustvid}}">Video</a>
