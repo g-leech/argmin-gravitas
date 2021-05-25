@@ -43,6 +43,11 @@ cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philo
 </blockquote>
 – David Lewis
 
+<br><br>
+
+<blockquote>People are not confident [analytic philosophy] can solve its own problems, not confident that it can be modified so as to do better on that first score, and not confident its problems are worth solving in the first place... what we see is a desperate scramble to show that the skills or tools we have might find some problem space wherein their, our, worth can be made manifest… I do not think such a problem space has been forthcoming. </blockquote>
+– <a href="{{bright}}">Liam Bright</a>
+
 </center>
 
 <a name="point"></a>

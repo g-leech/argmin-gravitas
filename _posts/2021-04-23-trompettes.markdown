@@ -27,7 +27,7 @@ argument:
 
 
 <center>
-	<img width="50%" src="/img/trompette-de-la-mort.jpg" />
+	<img width="50%" src="/img/tromp.jpg" />
 	<br><br>
 	<h2><a href="{{yt}}">Listen</a></h2>
 </center>
@@ -78,6 +78,12 @@ I retrained in data management <br>
 and I came back fighting<br>
 
 (At first I thought this was mocking the character, but now I think we should admire his strength, his ability to imbue his life with meaning.)
+
+<br>
+<center>
+    <img width="50%" src="/img/trompette-de-la-mort.jpg" />
+</center>
+<br>
 
 Trompettes de la mort (trumpets of the dead) are mushrooms. I haven't quite cracked the connection between vegetables and existential resilience, but mushrooms thrive in all sorts of bad conditions. Then there's several songs about the sea which I also haven't related to the social trauma theme or the vegetable theme.
 
