@@ -46,9 +46,13 @@ The following is just part of step 1.
 We should distinguish private returns (pay, increased confidence, increased knowledge, increased social capital for you) from social returns (productivity, political contributions, cultural reproduction if you like). The former are good, incredibly good, but not a matter for government policy insofar as they include zero-sum benefits, and if there are better ways to spend public funds.
 
 
+
 ### Productivity
 
 Are educated people more productive? Yes. But did their education cause this? <a href="{{card}}">To some extent</a>!
+
+<!-- ...Lots of practice of self-denial and patience... -->
+
 
 The reason to pay particular attention to the economic side of the social return is not that money is the most important thing, but because anything that doesn't give net economic returns can't be kept up without trading off against something else, like infrastructure, or social care, or life-giving research, or (let me dream) the <a href="/x-for-all">fate of the world</a>.
 
@@ -69,6 +73,16 @@ If this estimate is on the correct order of magnitude, then while there are mass
 The humanist response is that educating your citizens produces huge noneconomic public goods, like critical thought or voluntarism or political purpose or empathy or taste or cultural continuity ("pass it on!"). 
 
 The private noneconomic return is enormous, larger than the huge private economic return, for some people. e.g. 4 years of relative freedom, away from home, surrounded by bright horny people can be very good for your later worldview, life goals, and mental health. You get space to build yourself new. Or if not build, then to locate yourself in culture, philosophy, and personality space.
+
+
+    - Compiling a world model
+        - PG: lost the source
+        - it’s important to make kids learn specific facts, but not so important that they remember them; teaching someone (eg) Civil War history is “training” a “predictive model” of the Civil War, war in general, and history in general which will survive and remain useful even after the specific facts and battles are long forgotten. I think this is the strongest defense of modern education, given that we do spend lots of time teaching kids things they will definitely forget. But how would you test it?
+            - https://www.lesswrong.com/posts/F6ZTtBXn2cFLmWPdM/seven-years-of-spaced-repetition-software-in-the-classroom-1
+
+Escape from abusive home / single ideology
+
+
 
 But again, what matters in policy terms is the relative size of social gain and social cost.
 
@@ -109,6 +123,10 @@ Does it make people engage more with actual politics? (Not just social media tal
 
 Does it make people more tolerant and cosmopolitan?
 
+
+#### Friends
+
+Plausible that the shared adversity forges peer groups into something that can last a lifetime. But where's the evidence? Do the homeschooled have fewer or less intense?
 
 <br>
 

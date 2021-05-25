@@ -24,3 +24,4 @@
 {%	assign covidpod = "https://turing.podbean.com/e/ttps2e6/"		%}
 {%	assign impblog = "https://www.imperial.ac.uk/news/221873/uk-covid-19-transmission-shifted-towards-emerging/"	%}
 {%	assign rep44 = "https://www.imperial.ac.uk/media/imperial-college/medicine/mrc-gida/20-05-20-COVID19-Report-44.pdf"	%}
+{%	assign flax = "https://www.nature.com/articles/s41586-020-2405-7"		%}
