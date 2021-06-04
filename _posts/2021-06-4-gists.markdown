@@ -1,0 +1,140 @@
+---
+layout:     math_post
+title:      "Highlights from my Gists"
+baselink:   /gist
+permalink:  /gist
+date:       2021-06-04
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  true
+
+summary:    Code fragments as diary of hard thinking.
+quality:    5
+confidence: 
+importance: 4
+wordcount:  500
+warnings: 	
+categories: code, science, 
+---
+
+{% assign dnd = "https://gist.github.com/g-leech/05a106d425fe8477a86acfd0dd1c82d6"      %}
+{% assign spock = "https://gist.github.com/g-leech/3e3fd37febc23251cf8c245203dfe1f6"      %}
+{% assign lw = "https://www.lesswrong.com/posts/S3LKfRtYxhjXyWHgN/d-and-d-sci-april-2021-voyages-of-the-gray-swan"   %}
+{% assign pow = "https://gist.github.com/g-leech/4c4335c665f47ef83a2913cf9a9eb378" %}
+{% assign alc = "https://gist.github.com/g-leech/075f47dcf6a66508dbd380b56961b8c8"      %}
+{%  assign tax = "https://gist.github.com/g-leech/4f4b7492bf0c1f34a3a0871c6877b386" %}
+{%  assign ev = "https://gist.github.com/g-leech/05a106d425fe8477a86acfd0dd1c82d6#file-dnd4-py-L39" %}
+{%  assign covid = "https://gist.github.com/g-leech/66c76b0a7c623dca0a46a5ef1d1eee2c" %}
+{%  assign kelly = "https://gist.github.com/g-leech/01fe74896b12e6d180a1dbc3b77c2fd0" %}
+{%  assign psy = "https://gist.github.com/g-leech/80a8b5917ae1fb8baf57c8805c72eee9" %}
+{%  assign chp2  = "https://gist.github.com/g-leech/21dbbdebd68d65fb7cfa61b9fbcdb508" %}
+{%  assign chp3 = "https://gist.github.com/g-leech/1a63f22805053186642a4b93f7dd0f77" %}
+{%  assign itila = "http://www.inference.org.uk/mackay/itila/book.html" %}
+{%  assign mask = "https://gist.github.com/g-leech/5ddbe5bd06ddd3ee2152cd7beb4762b3" %}
+{%  assign goo = "https://gist.github.com/g-leech/38a9e40c3cc83ea1f96fcbc0c0fb6657" %}
+{%  assign q = "https://gist.github.com/g-leech/8cd4466e4cfa84a8950ef39c5bd813fc"    %}
+{%  assign bda = "http://www.stat.columbia.edu/~gelman/book/"   %}
+
+
+<a href="https://gist.github.com/discover">Github Gists</a> are a readable way to pass around code fragments. Over the years I've put a lot of weird little things on mine, and they form a little history of my hard thinking. Thoughts I couldn't have had (or couldn't have finished) without Python.
+
+
+---
+
+<br>
+
+<!-- - When you're organising something with an application process, how can you expose the reviewers' values?
+    - https://gist.github.com/g-leech/5a4f611ea79eb4e119a283f7b8811f04
+ -->
+
+#### Via Julia Galef: <a href="{{spock}}">comparing Spock's predictive skill to a coin flip</a>
+
+The online forecasting community have a way of scoring how calibrated someone is, the Brier score. The _Enterprise_ would do better to consult a random process like a coin flip (and in fact they do ignore him most of the time). This matters because Spock is one of the main exemplars for rational thought, and he is a dingbat, which might explain some people's attitude towards explicit rationality.
+
+A natural objection: the episodes we see are not a representative sample of events; they are "selected" to be as dramatic and telegenic as they can be, which means that of course Spock predicts wrong! But by the exact same token, these are the events it is most important for Spock to predict well, and he does terribly, so the expected value of listening to him is still bad even if he gets everything else right.
+
+(My preferred explanation is that Vulcans are in fact stupid, they just talk like smart people.)
+
+<br>
+
+####  <a href="{{dnd}}">An optimal solution to a friend's data adventure game</a>.
+<a href="{{lw}}">Fun!</a> Only interesting because it includes expected value and risk-sensitive optimisation solutions. EV alone would not have done well at this task; I gave it only 20% of the budget.
+
+The death sensitive bit is <a href="{{ev}}">here</a>: just variance (z-score) as a danger score.
+
+<br>
+
+#### <a href="{{kelly}}">Kelly for maximum house insurance cost</a>
+
+The Kelly criterion is an interesting piece of abstract nonsense that tells you how much you should bet / <a href="/insurance">pay for insurance</a>, given how much money you have, if losing all your money means death / infinite loss. It takes a bit of work to compute it, but it gives surprisingly intuitive answers, and it beats the hell out of EV when there are big downside risks.
+
+<br>
+
+#### <a href="{{covid}}">Reported vs real (excess) COVID deaths, 2020</a>
+
+One of the 700 bitter stupid information-free arguments people had about COVID early on was the "infection-fatality ratio" - was it 0.1% like flu? 3% like SARS? I did this script to show that the ascertainment rate (the % of cases you catch in your system) isn't constant, in order to justify a modelling choice, as part of me losing a year pretending (quite well) to be an epidemiologist.
+
+<br>
+
+
+#### <a href="{{psy}}">Converting between the effect sizes used in social sciences</a>
+
+A quiet improvement in psychology over the last 15 years: people started to foreground the actual size of the effects they studied, and to use nice standard metrics for em. (Part of my inexplicable procrastination on my PhD quals was <a href="/psych">dissing 300 psychology papers</a>.)
+
+
+<br>
+
+#### <a href="{{chp2}}">A really nice way to juggle probabilities: dict keys</a>
+
+Solutions to Chapter 2 from the mighty mighty <a href="{{itila}}">ITILA</a>.
+
+Also the classic minimal case of Bayesian updates, <a href="{{chp3}}">coins and binomials</a>.
+
+<br>
+
+<!-- #### <a href="{{mask}}">Mask model</a>
+	
+Example of a weapons-grade Bayesian model, here from our paper about masks. -->
+
+<!-- <br> -->
+
+#### <a href="{{goo}}">Google character recognition</a>
+
+I recently scanned in my teenage handwritten notebooks, and tried out the GCP OCR. It's free up to a few thousand requests. Accuracy is surprisingly not great; corrections take about 15 minutes per small book. If my time was more valuable / if it wasn't a joy to look at these dumb notes again I might try fine-tuning a Transformer on my handwriting.
+	
+
+<br>
+
+#### <a href="{{alc}}">Helping a friend maximise his alcohol purchases</a>
+
+This was part of my trying to sell him on the value of programming, god save him.
+
+<br>
+
+#### <a href="{{tax}}">Tax check</a>
+
+Boring script to see how much teaching I can do without incurring tax.
+
+<br>
+
+#### <a href="{{q}}">Queue as Poisson process.</a>
+
+Incredibly involved exercise from <a href="{{bda}}">BDA</a> Chapter 1. Not conceptually difficult, just very fiddly.
+	
+
+<br>
+
+#### <a href="{{pow}}">Check power of 3 in constant time</a>
+	
+$$3^x \leq 2^{63} - 1$$
+take log_3
+
+i.e. $$x = \log_3(2^{63} - 1)$$
+
+We know $$3^x \,\,\%\,\, 3^y = 0 $$  for y < x
+
+So for a constant time check, just ensure that you make $$3^x$$ definitionally larger than $$3^y$$. e.g. set it to the MAX int of your system, and then take the mod.
+
+<br>
