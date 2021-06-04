@@ -150,4 +150,9 @@ visible:	true
   		padding-bottom: 1em;
 	}
 
+	.me {
+		font-weight: bold;
+		font-size: 12px;
+	}
+
 </style>
