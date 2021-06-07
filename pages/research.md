@@ -35,6 +35,7 @@ visible:	true
 
 <table>
 	<!-- 	include researches/trees.html	%} -->
+	<!-- 	include researches/masks.html	%} -->
 	{%	include researches/lineage.html	%}
 	{%	include researches/covid2.html	%}
 	{%	include researches/lgfo.html	%}
