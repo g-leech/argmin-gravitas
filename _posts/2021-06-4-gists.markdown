@@ -126,7 +126,7 @@ Incredibly involved exercise from <a href="{{bda}}">BDA</a> Chapter 1. Not conce
 
 <br>
 
-#### <a href="{{pow}}">Check power of 3 in constant time</a>
+#### <a href="{{pow}}">Check power of 3 in near-constant time</a>
 	
 $$3^x \leq 2^{63} - 1$$
 take log_3
@@ -135,6 +135,6 @@ i.e. $$x = \log_3(2^{63} - 1)$$
 
 We know $$3^x \,\,\%\,\, 3^y = 0 $$  for y < x
 
-So for a constant time check, just ensure that you make $$3^x$$ definitionally larger than $$3^y$$. e.g. set it to the MAX int of your system, and then take the mod.
+So for a near-constant time check, just ensure that you make $$3^x$$ definitionally larger than $$3^y$$. e.g. set it to the MAX int of your system, and then take the mod.
 
 <br>
