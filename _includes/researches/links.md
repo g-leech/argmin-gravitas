@@ -29,3 +29,4 @@
 {%	assign seasontw = "https://twitter.com/jankulveit/status/1404369971334070273"	%}
 {%	assign maskspp = "https://www.medrxiv.org/content/10.1101/2021.06.16.21258817v1"		%}
 {%	assign maskstw = "https://twitter.com/g_leech_/status/1406287131534893059"	%}
+{%	assign rex = "https://twitter.com/RexDouglass/status/1406336179973152768"		%}
