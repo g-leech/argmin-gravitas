@@ -200,8 +200,13 @@ Is maths a directed graph of theorem to theorem? Close enough! But even <a href=
 
 <!-- ## Naming things -->
 
+## Tweaks
 
+* Physicists have a nicer way of marking the variable of integration. Instead of putting $$\text{d}x$$ at the end, they put it at the start. This saves on brackets and rereading.
 
+$$
+	\int_X			
+$$
 
 ## Visuals
 

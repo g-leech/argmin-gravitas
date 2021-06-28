@@ -129,14 +129,14 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 	</div>
 </div><br>
 
-<br>
+<!-- <br> -->
 
 <!-- ## Primatology -->
 
 <!-- * Mixed evidence for inequity aversion in animals. -->
 <!-- <a href="{{grapes}}"> -->
 
-<br>
+<!-- <br> -->
 
 ## Evolutionary psychology
 
@@ -205,7 +205,7 @@ What now? When the next flashy <a href="{{weird}}">WEIRD</a> paper out of a worl
 
 # See also
 
-* <a href="{{alvaro}}">A review of 2500 social science papers</a>, showsnthe lack of correlation between citations and replicability, between journal status and replicability, and the lack of improvement since 2009.
+* <a href="{{alvaro}}">A review of 2500 social science papers</a>, showing the lack of correlation between citations and replicability, between journal status and replicability, and the apparent lack of improvement since 2009.
 
 <br>
 

@@ -55,7 +55,7 @@
 	</div>
 </div><br>
 
-* At most weak evidence that men's biceps size predicts <span class="b">opposition to wealth redistribution</span> (<a href="{{pet}}">Peterson et al</a>). <a href="{{arms}}">Measurement was of arm circumference in students</a>, and effect disappears when participant age is included. (Petersen et al)
+* At most weak evidence that men's biceps size predicts <span class="b">opposition to wealth redistribution</span> (<a href="{{pet}}">Petersen et al</a>). <a href="{{arms}}">Measurement was of arm circumference in students</a>, and effect disappears when participant age is included.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
