@@ -67,21 +67,26 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 
 ## Personality psychology
 
-* Pretty good. <a href="{{soto}}">One lab's systematic replications</a> found that effect sizes shrank by 20% though.<br><br>
+* Pretty good? <a href="{{soto}}">One lab's systematic replications</a> found that effect sizes shrank by 20% though. See the comments for someone with a fundamental critique.
+
 
 * Anything by Hans Eysenck should be considered suspect, but in particular these <a href="{{ey}}">26 'unsafe' papers</a> (including the one which says that reading prevents cancer).
 
 <br>
 
-## Behavioural economics
+## Behavioural science
+
+* The effect of "nudges" (clever design of defaults) may be exaggerated in general. <a href="{{nudge}}">One big review</a> found average effects were six times smaller than billed. (Not saying there are no big effects.)
+
+* <a href="{{kelsey}}">Here are</a> <a href="{{jc1}}">a few</a> <a href="{{jc2}}">cautionary</a> <a href="{{stu}}">pieces</a> on whether, aside from the pure question of reproducibility, behavioural science is ready to steer policy.
+
 
 <!-- * opt out organs -->
 
 <!-- * https://www.povertyactionlab.org/evaluation/cares-commitment-savings-smoking-cessation-philippines -->
 <!-- terrible intention-to-treat ratio -->
 
-<!-- * Moving the signature box to the top of forms does not decrease dishonest reporting in the rest of the form. -->
-<!-- https://www.pnas.org/content/pnas/117/13/7103.full.pdf -->
+* <a href="{{ariely}}">Moving the signature box to the top of forms</a> does not decrease dishonest reporting in the rest of the form.
 
 <br>
 
@@ -212,7 +217,7 @@ What now? When the next flashy <a href="{{weird}}">WEIRD</a> paper out of a worl
 
 _Thanks to <a href="{{gelman}}">Andrew Gelman</a>, <a href="{{ritchie}}">Stuart Ritchie</a>, <a href="{{scheel}}">Anne Scheel</a>, <a href="{{lakensSite}}">Daniël Lakens</a>, <a href="{{ggg}}">Gwern Branwen</a>, and <a href="{{brown}}">Nick Brown</a> for pointers to effectively all of these_.
 
-_All honour to the hundreds of 'data thug' / 'methodological terrorist' psychologists I've cited, who in the last decade did the hard work of cleaning up their field._
+_All honour to the hundreds of 'data thug' / 'methodological terrorist' psychologists I've cited, who in the last decade began the hard work of cleaning up their field._
 
 <br>
 

@@ -222,7 +222,7 @@
 {%	assign yark = "https://www.talyarkoni.org/blog/2010/07/07/what-the-dunning-kruger-effect-is-and-isnt/"		%}
 
 {%	assign depr = "https://www.ncbi.nlm.nih.gov/pubmed/22717337"		%}
-{%	assign alloy = "https://www.ncbi.nlm.nih.gov/pubmed/528910"			%}
+{%	assign allow = "https://www.ncbi.nlm.nih.gov/pubmed/528910"			%}
 {%	assign beck = "https://en.wikipedia.org/wiki/Beck_Depression_Inventory"		%}
 
 {%	assign gig = "https://www.sciencedirect.com/science/article/abs/pii/S0160289620300271"	%}
@@ -234,3 +234,11 @@
 
 {%	assign alvaro = "https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/"	%}
 {%	assign grapes = "http://www.emory.edu/LIVING_LINKS/publications/articles/Dindo_de%20Waal_2007.pdf?fbclid=IwAR0Sxvq1vw37RU3b3Tm5KeDH9s_bi8CYXGPjmd3fvvDbPHeA_d5yzjwdZJE"	%}
+
+{%	assign ariely = "https://www.pnas.org/content/pnas/117/13/7103.full.pdf"	%}
+{%	assign nudge = "https://www.nber.org/system/files/working_papers/w27594/w27594.pdf"	%}
+{%	assign kelsey = "https://www.vox.com/future-perfect/2020/2/26/21154466/research-education-behavior-psychology-nudging"	%}
+{%	assign jc1 = "https://jasoncollins.blog/2020-04-07-the-limits-of-behavioural-science-coronavirus-edition/"	%}
+{%	assign jc2 = "https://jasoncollins.blog/arent-we-smart-fellow-behavioural-scientists/
+"	%}
+{%	assign stu = "https://unherd.com/2020/03/dont-trust-the-psychologists-on-coronavirus/"		%}
