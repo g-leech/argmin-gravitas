@@ -1,6 +1,6 @@
 
 
-* Good evidence against <span class="b">ego depletion</span>, that making decisions suffers muscle-like fatigue. 
+* Good evidence against <span class="b">ego depletion</span>, that willpower is limited in a muscle-like fashion.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
