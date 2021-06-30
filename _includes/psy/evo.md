@@ -55,15 +55,18 @@
 	</div>
 </div><br>
 
-* At most weak evidence that men's biceps size predicts <span class="b">opposition to wealth redistribution</span> (<a href="{{pet}}">Petersen et al</a>). <a href="{{arms}}">Measurement was of arm circumference in students</a>, and effect disappears when participant age is included.
+* At most weak evidence that men's strength in particular predicts <span class="b">opposition to egalitarianism</span>. 
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
 		<ul>
-	<li><span class="b">Original paper</span>: ( citations).</li><br>
-	<li><span class="b">Critiques</span>: <br>(total citations: )</li><br>
-	<li><span class="b">Original effect size</span>: [ ], n= </li><br>
-	<li><span class="b">Replication effect size</span>: [ ], n=</li><br>
+	<li><span class="b">Original paper</span>: <a href="{{pet}}">Petersen et al</a> (194 citations).</li><br>
+	<li><span class="b">Critiques</span>: <a href="{{arms}}">Measurement was of arm circumference in students</a>, and effect disappeared when participant age is included.<br>(total citations: 605)</li><br>
+	<li><span class="b">Original effect size</span>: N/A, battery of <i>F</i>-tests. </li><br>
+	<li><span class="b">Replication effect size</span>: Gelman: none as in zero.<br>
+		<a href="{{pet2}}">The same lab later returned</a> with 12 conceptual replications on a couple of measures of (anti-)egalitarianism. They are very focussed on statistical significance instead of effect size. Overall male effect was b = 0.17 and female effect was b = 0.11, with a nonsignificant difference between the two (p = 0.09). (They prefer to emphasise the lab studies over the online studies, which showed a stronger difference.) Interesting that strength or "formidability" has an effect in both genders, whether or not their main claim about gender difference holds up.
+	</li><br>
+
 	</ul>
 	</div>
 </div><br>
@@ -73,3 +76,13 @@
 <!-- "Women Are More Likely to Wear Red or Pink at Peak Fertility" -->
 
 <br>
+
+
+
+
+
+
+
+
+
+

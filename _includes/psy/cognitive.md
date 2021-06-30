@@ -1,3 +1,5 @@
+
+
 * Good evidence against <span class="b">ego depletion</span>, that making decisions suffers muscle-like fatigue. 
 <div class="accordion">
 	<h3>Stats</h3>
@@ -19,7 +21,7 @@
 	</div>
 </div><a name="dk"></a><br>
 
-* Questionable evidence for (some readings of) the <span class="b">Dunning-Kruger effect</span>. 
+* Mixed evidence for the <span class="b">Dunning-Kruger effect</span>. No evidence for the "Mount Stupid" misinterpretation.
 
 <div class="accordion">
 	<h3>Stats</h3>
@@ -27,13 +29,14 @@
 		{%	include psy/dk.md 	%}
 	<!--  -->
 		<ul>
-			<li><span class="b">Original paper</span>: '<a href="{{dk}}">Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments.</a>', Dunning & Kruger 1999, n=334. This contains claims (1), (2), and (5) but no hint of (3) or (4).
+			<li><span class="b">Original paper</span>: '<a href="{{dk}}">Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments.</a>', Dunning & Kruger 1999, n=334 undergrads. This contains claims (1), (2), and (5) but no hint of (3) or (4).
 				<br>(&#126;5660 citations).</li><br>
 			<li><span class="b">Critiques</span>: <a href="{{gig}}">Gignac 2020</a>, n=929; <a href="{{nuh16}}">Nuhfer 2016</a> and <a href="{{nuh}}">Nuhfer 2017</a>, n=1154;	<a href="{{luu}}">Luu 2015</a>; <a href="{{greenberg}}">Greenberg 2018</a>, n=534; <a href="{{yark}}">Yarkoni 2010</a>.
 				<br>
 			(total citations: &#126;20)</li><br>
 			<li>
-				<span class="b">Original effect size</span>: 2 of the 4 experiments showed a <i>positive</i> relationship between score and perceived ability; 2 showed no strong relationship. And the best performers tended to underestimate their performance. <a href="{{gig}}">This replicates</a>: the correlation between your IQ and your assessment of it is around \(r \simeq 0.3\). (3) and (4) are not at all warranted.<br><br> 
+				<span class="b">Original effect size</span>: No sds reported so I don't know.<br><br>
+				2 of the 4 experiments showed a <i>positive</i> relationship between score and perceived ability; 2 showed no strong relationship. And the best performers tended to underestimate their performance. <a href="{{gig}}">This replicates</a>: the correlation between your IQ and your assessment of it is around \(r \simeq 0.3\). (3) and (4) are not at all warranted.<br><br> 
 				<!--  -->
 				(5) is much shakier than (1). The original paper concedes that there's a <a href="{{dkmath}}">purely statistical</a> explanation for (1): just that it is much easier to overestimate a low number which has a lower bound! And the converse: if I am a perfect performer, I am <i>unable</i> to overestimate myself. D&K just think there's something notable left when you subtract this.<br> It's also confounded by (2). 
 			</li>
@@ -42,8 +45,11 @@
 				<span class="b">Replication effect size</span> (for claim 1): 3 of the 4 original studies can be explained by noisy tests, bounded scales, and artefacts in the plotting procedure. ("<i>the primary drivers of errors in judging relative standing are general inaccuracy and overall biases tied to task difficulty</i>".) Only about 5% of low-performance people were very overconfident (more than 30% off) in the Nuhfer data.
 				<br><br> 
 				Gignac & Zajenkowski use IQ rather than task performance, and run two less-confounded tests, finding \(r = -0.05\) between P and errors, and \(r = 0.02\) for a quadratic relationship between \(P\) and \(\hat{P}\).
+				<br><br>
+				<a href="{{jansen}}">Jansen (2021)</a> find independent support for claim 1 (n=3500) (the "performance-dependent estimation model") and also argue for (5), since they find less evidence for an alternative explanation, Bayesian reasoning towards a prior of "I am mediocre". (Fig 5b follows the original DK plot style, and is very unclear as a result.)<br>
+				<a href="{{muller}}">Muller (2020)</a> replicate claim (1) and add some EEG stuff.
 				<br><br> 
-				Some suggestion that claim (2) is a <a href="{{weird}}">WEIRD</a> effect only.</li><br>
+				Some suggestion that claim (2) is <a href="{{weird}}">WEIRD</a> only.</li><br>
 		</ul>
 		<br>
 	</div>

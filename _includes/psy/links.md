@@ -242,3 +242,6 @@
 {%	assign jc2 = "https://jasoncollins.blog/arent-we-smart-fellow-behavioural-scientists/
 "	%}
 {%	assign stu = "https://unherd.com/2020/03/dont-trust-the-psychologists-on-coronavirus/"		%}
+{%	assign jansen = "https://www.nature.com/articles/s41562-021-01057-0"	%}
+{%	assign muller = "https://onlinelibrary.wiley.com/doi/10.1111/ejn.14935"	%}
+{%	assign pet2 = "https://onlinelibrary.wiley.com/doi/abs/10.1111/pops.12505"	%}
