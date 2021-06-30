@@ -18,7 +18,7 @@ Superiority-of-unconscious decision-making effect<br>
 Behavioral-consequences-of automatic-evaluation<br>
 Self-control relies on glucose effect<br>
 Physical warmth promotes interpersonal warmth<br>
-Power impairs perspective-taking effect<br>
+<a href="https://astralcodexten.substack.com/p/your-book-review-humankind#comment-2075274">Power impairs perspective-taking effect</a><br>
 Fertility facial-preferences effect<br>
 Font disfluency impairs/improves cognitive performance<br>
 https://link.springer.com/article/10.1007/s11409-016-9154-x<br>
