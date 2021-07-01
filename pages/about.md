@@ -12,6 +12,7 @@ visible:	true
 </div>
 I'm <a href="{{ '/cv.pdf' | prepend: site.url }}">Gavin</a>, a PhD candidate in AI at Bristol. <a href="#fn:18" id="fnref:18">18</a> 
 <a href="/no-philosopher">I</a> <a href="{{sittler}}">like</a> <a href="{{cs}}">technical</a> <a href="{{orseau}}">solutions</a> <a href="{{welf}}">to</a> <a href="{{shminux}}">philosophical</a> <a href="{{comp1}}">problems</a>.<br><br>
+<!-- https://www.scottaaronson.com/papers/philos.pdf -->
 <!--  -->
 Technically <a href="{{ea}}">an EA blog</a>, though I don't consider this a blog. (Blogging is more <a href="/sites">speech</a> than writing.)<br><br>
 <!--  -->

@@ -245,3 +245,6 @@
 {%	assign jansen = "https://www.nature.com/articles/s41562-021-01057-0"	%}
 {%	assign muller = "https://onlinelibrary.wiley.com/doi/10.1111/ejn.14935"	%}
 {%	assign pet2 = "https://onlinelibrary.wiley.com/doi/abs/10.1111/pops.12505"	%}
+{%	assign schimm = "https://replicationindex.com/2017/09/04/the-power-of-the-pen-paradigm-a-replicability-analysis/"	%}
+{%	assign cole = "https://psyarxiv.com/svjru/"	%}
+{%	assign colet = "https://twitter.com/coles_nicholas_/status/1116706173833576450"	%}
