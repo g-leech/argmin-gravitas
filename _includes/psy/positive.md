@@ -36,16 +36,20 @@ After the initial backlash, it focussed on subjective effect, a claim about "<a 
 	</div>
 </div><br>
 
-* No good evidence for <span class="b">facial-feedback</span> (that smiling causes good mood and pouting bad mood).<br>
+* Weak evidence for <span class="b">facial-feedback</span> (that smiling causes good mood and pouting bad mood).<br>
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
 		<ul>
 	<li><span class="b">Original paper</span>: '<a href="{{strack}}">Inhibiting and Facilitating Conditions of the Human Smile: A Nonobtrusive Test of the Facial Feedback Hypothesis</a>' by Strack, Martin, Stepper 1988. n=92 twice.
 		<br>(&#126;2200 citations).</li><br>
-	<li><span class="b">Critiques</span>: 17 replications, <a href="{{wagen}}">Wagenmakers et al 2016</a>, <br>(total citations: &#126;220)</li><br>
-	<li><span class="b">Original effect size</span>: 0.82 out of 9</li><br>
-	<li><span class="b">Replication effect size</span>: 0.03 out of 9, CI overlapping 0.</li><br>
+	<li><span class="b">Critiques</span>: 17 replications, <a href="{{wagen}}">Wagenmakers et al 2016</a>, <br>(total citations: &#126;220), <a href="{{schimm}}">Schimmack 2017</a></li><br>
+	<li><span class="b">Original effect size</span>: d = 0.43 (0.82 out of 9)</li><br>
+	<li><span class="b">Replication effect size</span>: 0.03 out of 9, CI overlapping 0.</li><br><br>
+
+	<a href="{{cole}}">A meta-analysis of 98 studies</a> finds <i>d</i>= 0.2 [0.14, 0.26] with an absurdly low p value, and doesn't find publication bias. But this latter point simply can't be right. Given d = 0.2 and the convention of targeting 80% power to detect a real phenomenon, you would need very high sample sizes, n > 500. And almost all of the included studies are N < 100. <a href="{{schimm}}">Schimmack</a> finds strong evidence of publication bias on a subset of these papers, using a proper power analysis.<br><br> 
+
+	98 pieces of very weak evidence cannot sum to strong evidence, whatever the p-value says. (<a href="{{colet}}">The author agrees</a>.)
 	</ul>
 	</div>
 </div><br>
