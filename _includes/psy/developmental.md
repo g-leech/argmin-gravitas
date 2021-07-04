@@ -22,7 +22,7 @@
 </div><br>
 
 
-* Mixed evidence for a small <span class="b">marshmallow effect</span>, that ability to delay gratification as a 4 year old predicts life outcomes at 15 or beyond (Mischel).<br> After controlling for the socioeconomic status of the child's family, the Marshmallow effect is r=0.05 or <a href="{{marsh}}">d=0.1</a> one-tenth of a standard deviation for an additional minute delay, with nonsignificant p-values. And since it's usually easier to get SES data...
+<!-- * Mixed evidence for a small <span class="b">marshmallow effect</span>, that ability to delay gratification as a 4 year old predicts life outcomes at 15 or beyond (Mischel).<br> After controlling for the socioeconomic status of the child's family, the Marshmallow effect is r=0.05 or <a href="{{marsh}}">d=0.1</a> one-tenth of a standard deviation for an additional minute delay, with nonsignificant p-values. And since it's usually easier to get SES data...
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -36,7 +36,7 @@
 	</ul>
 	</div>
 </div><br>
-
+ -->
 <!-- Counterevidence: The Origins of You: How Childhood Shapes Later Life -->
 
 <!-- * Perry preschool -->
