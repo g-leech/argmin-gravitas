@@ -248,3 +248,7 @@
 {%	assign schimm = "https://replicationindex.com/2017/09/04/the-power-of-the-pen-paradigm-a-replicability-analysis/"	%}
 {%	assign cole = "https://psyarxiv.com/svjru/"	%}
 {%	assign colet = "https://twitter.com/coles_nicholas_/status/1116706173833576450"	%}
+{%	assign hz = "https://everythinghertz.com/135"	%}
+{%	assign hn = "https://news.ycombinator.com/item?id=27709266"		%}
+{%	assign gel = "https://statmodeling.stat.columbia.edu/2021/06/28/reversals-in-psychology/"		%}
+{%	assign jhtw = "https://twitter.com/jamesheathers/status/1409520677120405505"		%}
