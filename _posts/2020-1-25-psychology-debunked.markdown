@@ -211,13 +211,13 @@ What now? When the next flashy <a href="{{weird}}">WEIRD</a> paper out of a worl
 # See also
 
 * <a href="{{alvaro}}">A review of 2500 social science papers</a>, showing the lack of correlation between citations and replicability, between journal status and replicability, and the apparent lack of improvement since 2009.
-
+* Discussion on <a href="{{hz}}">Everything Hertz</a>, <a href="{{hn}}">Hacker News</a>, <a href="{{gel}}">Andrew Gelman</a>, <a href="{{jhtw}}">some star data thugs comment</a>.
 <br>
 
 
 _Thanks to <a href="{{gelman}}">Andrew Gelman</a>, <a href="{{ritchie}}">Stuart Ritchie</a>, <a href="{{scheel}}">Anne Scheel</a>, <a href="{{lakensSite}}">Daniël Lakens</a>, <a href="{{ggg}}">Gwern Branwen</a>, and <a href="{{brown}}">Nick Brown</a> for pointers to effectively all of these_.
 
-_All honour to the hundreds of 'data thug' / 'methodological terrorist' psychologists I've cited, who in the last decade began the hard work of cleaning up their field._
+_All honour to the hundreds of data thug / methodological terrorist psychologists I've cited, who in the last decade began the hard work of cleaning up their field._
 
 <br>
 

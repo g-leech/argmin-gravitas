@@ -19,11 +19,25 @@ warnings:
 categories: 
 ---
 
+> Could I interest you in everything all of the time?<br>
+A little bit of everything all of the time?<br>
+Apathy's a tragedy, and boredom is a crime!<br>
+Anything and everything all of the time.
+
+> Mommy let you use her iPad; you were barely two
+And it did all the things we designed it to do
+Now, look at you! Oh, look at you!
+You, you! Unstoppable, watchable...
+
+
+
 # because the internet
 
 # Solid State by Jonathan Coulton
 
 # Inside by Bo Burnham
+
+"always skilled, sometimes beautiful, but often in the category of novelty songs"
 
 # Moral Panic by Nothing But Thieves 
 
