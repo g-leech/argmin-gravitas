@@ -69,3 +69,6 @@ I've got one-hundred hours to rearrange the stars
 And I'm the worst mistake your God has ever made
 I can't get the numbers right
 I can't fucking count because not one goddamned thing is in its place"
+
+
+True Crime. Google Trend against US violent crime rate
