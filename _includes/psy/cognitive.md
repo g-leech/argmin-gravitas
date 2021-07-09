@@ -99,7 +99,7 @@
 
 
 
-* At most weak evidence for <span class="b">brain training</span> (that is, "far transfer" from daily training games to fluid intelligence) in general, in particular from the Dual n-Back game. <a href="{{lamp}}">Maybe</a> some effect on non-Gf skills of the elderly.
+* At most weak evidence for <span class="b">brain training</span> (that is, "far transfer" from daily training games to fluid intelligence) in general, in particular from the Dual n-Back game. 
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -116,7 +116,9 @@
 	<li><span class="b">Replication effect size</span>: <br>
 		Melby: d=0.19 [0.03, 0.37] nonverbal; d=0.13 [-0.09, 0.34] verbal.<br>
 		Gwern: d=0.1397 [-0.0292, 0.3085], among studies using active controls.
-	</li><br>
+	</li><br><br>
+	<a href="{{lamp}}">Maybe</a> some effect on non-Gf skills of the elderly.<br>
+	<a href="{{trainrct}}">A 2020 RCT</a> on 572 first-graders finds an effect (d=0.2 to 0.4), but many of the apparent far-transfer effects come only 6-12 months later, i.e. well past the end of most prior studies.
 <!--  -->
 	</ul>
 	</div>

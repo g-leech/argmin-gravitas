@@ -102,7 +102,7 @@
 {%	assign hem = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071275"	%}
 {%	assign brain = "https://www.npr.org/sections/13.7/2013/12/02/248089436/the-truth-about-the-left-brain-right-brain-relationship"		%}
 
-{%	assign wansink = "http://www.timvanderzee.com/the-wansink-dossier-an-overview/"		%}
+{%	assign wansink = "https://web.archive.org/web/20180307074049/https://www.timvanderzee.com/the-wansink-dossier-an-overview/"		%}
 {%	assign real = "https://journals.sagepub.com/doi/abs/10.1177/1088868318762183?journalCode=psra"	%}
 {%	assign eggo = "https://en.wikipedia.org/wiki/Ego_depletion"		%}
 
@@ -252,3 +252,5 @@
 {%	assign hn = "https://news.ycombinator.com/item?id=27709266"		%}
 {%	assign gel = "https://statmodeling.stat.columbia.edu/2021/06/28/reversals-in-psychology/"		%}
 {%	assign jhtw = "https://twitter.com/jamesheathers/status/1409520677120405505"		%}
+{%	assign hydro = "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)61127-1/fulltext"	%}
+{%	assign trainrct = "https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2657279/DP%2009.pdf?sequence=1&isAllowed=y"		%}
