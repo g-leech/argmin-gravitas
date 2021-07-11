@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Songs for the Extremely Online"
-baselink:   /log-off
-permalink:  /log-off
+baselink:   /logoff
+permalink:  /logoff
 date:       2021-07-01
 author:     Gavin   
 img:        /img/papers/
@@ -19,9 +19,9 @@ warnings:
 categories: 
 ---
 
-> Could I interest you in everything all of the time?<br>
-A little bit of everything all of the time?<br>
-Apathy's a tragedy, and boredom is a crime!<br>
+> Could I interest you in everything, all of the time?<br>
+A little bit of everything, all of the time?<br>
+Apathy's a tragedy - and boredom is a crime!<br>
 Anything and everything all of the time.
 
 > Mommy let you use her iPad; you were barely two
@@ -72,3 +72,6 @@ I can't fucking count because not one goddamned thing is in its place"
 
 
 True Crime. Google Trend against US violent crime rate
+
+
+(None of these succeed in capturing the internet's aesthetics and logics as well as dril. But then nothing does.)
