@@ -18,7 +18,7 @@ importance: 1
 wordcount:      
 ---
 
-{%	assign niet = "https://books.google.co.uk/books?id=_qKBBbc3bWkC&pg=PA156&lpg=PA156&source=bl&ots=pXwxW4OMRT&sig=ACfU3U3TDv_0OSJP-xUi1gCeCjOIqeOTRA&hl=en&sa=X&ved=2ahUKEwj2jNGuhO_mAhWZQEEAHbRnCMkQ6AEwEnoECAcQAQ#v=onepage&q="posterity finds it"&f=false"	%}
+{%	assign niet = "https://books.google.co.uk/books?id=_qKBBbc3bWkC&pg=PA156&lpg=PA156&source=bl&ots=pXwxW4OMRT&sig=ACfU3U3TDv_0OSJP-xUi1gCeCjOIqeOTRA&hl=en&sa=X&ved=2ahUKEwj2jNGuhO_mAhWZQEEAHbRnCMkQ6AEwEnoECAcQAQ#v=onepage&q='posterity%20finds%20it'"	%}
 {%	assign duhem = "https://www.sciencedirect.com/science/article/abs/pii/S0039368106001075"	%}
 
 
