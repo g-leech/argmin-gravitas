@@ -332,11 +332,11 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 
 * <a href="/broadness">Broadness as trivial predictor of philosophical status</a>
 * Tom Adamczewski, <a href="{{sitt}}">Philosophical Success Stories</a>
-* Massimo Pigliucci, <a href="{{pig2}}">Progress in Philosophy</a></li>
+* Massimo Pigliucci, <a href="{{pig2}}">Progress in Philosophy</a>
 * Graham Johnson, <a href="{{suspended}}">Conceptual engineering: the revolution in philosophy you've never heard of</a>
 * <a href="{{schw}}">Schwitzgebel on philosophy that opens</a>
 * <a href="{{stove}}">The dangerous ravings of David Stove</a>
-* Luke Muehlhauser, <a href="{{prog}}">Philosophy: A Diseased Discipline</a></li>
+* Luke Muehlhauser, <a href="{{prog}}">Philosophy: A Diseased Discipline</a>
 * <a href="{{spol}}">Spolsky on the risks of abstraction even in practical matters</a>
 * David Pearce, <a href="{{diary}}">Long diary entry containing a metaphilosophy & applied physicalism.</a>
 
