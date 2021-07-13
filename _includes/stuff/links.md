@@ -58,3 +58,5 @@
 {%	assign ether = "https://www.jefftk.com/p/ethernet-is-worth-it-for-video-calls"	%}
 {%	assign bread = "https://www.amazon.co.uk/Morphy-Richards-48280-Fastbake-Breadmaker/dp/B00008WFDG"		%}
 {%	assign shoe = "https://www.amazon.co.uk/adidas-Powerlift-Fitness-Shoes-White/dp/B07JPFL8RV/ref=pd_lpo_309_t_1/261-1865713-8474857?_encoding=UTF8&pd_rd_i=B083GC37X7&pd_rd_r=cd92f593-fb76-4e33-99e7-bbf5dc7001d8&pd_rd_w=sYRkw&pd_rd_wg=5bh2K&pf_rd_p=da0677f5-a47b-4543-8b54-10be576b8f26&pf_rd_r=84FF0AEJPDMC7Q337C3T&refRID=84FF0AEJPDMC7Q337C3T&th=1&psc=1"		%}
+{%	assign mh = "https://eaforum.issarice.com/posts/o7E47dNfeArTTQh74/10-things-i-bought-and-recommend-2020"	%}
+{%	assign arden = "https://docs.google.com/document/d/1ZrSzGLuwIEWeQJ_2zL5vpYDyV-LmC-8SBy-Q4WPF318/edit"	%}
