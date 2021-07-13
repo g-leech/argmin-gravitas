@@ -44,7 +44,7 @@ The following is just an <a href="{{obs}}">observational</a> argument: it doesn'
 
 In particular, it doesn't make sense without accounting for the number of deaths in this group *before* the WCA reform. (Maybe 2380 is an improvement.) And it doesn't make sense to compare even those numbers without accounting for large known influences on mortality, e.g. seeing if ages and genders differ between the compared groups. What we actually need is not 'deaths' but 'excess' deaths.
 
-It took me <a href="{{2003to13table}}">10 seconds</a> to find age-adjusted data, compared to the general population, before and after <a href="{{wca}}">WCA</a>:
+It took me <a href="{{a2003to13table}}">10 seconds</a> to find age-adjusted data, compared to the general population, before and after <a href="{{wca}}">WCA</a>:
 
 
 <div align="center">
@@ -120,7 +120,7 @@ Some people have told me that the above is incomplete without a comparison to th
 
 There were [537,800][wcaResults] "fit-for-work" judgments between October 2008 and January 2011.
 
-We don't have death data for them - the relevant <a href="{{2008to2012}}">Freedom of Information report for the period</a> gives us the following shrug:
+We don't have death data for them - the relevant <a href="{{a2008to2012}}">Freedom of Information report for the period</a> gives us the following shrug:
 
 <blockquote>
 	Data on the number of incapacity benefits claimants that have died following a fit for work decision is not available, as the Department does not hold  information on a death if the person has already left benefit.  
@@ -212,7 +212,7 @@ A 2012 study of 28,000 tribunal hearings analysed the reasons for overturning th
 
 People [struggled with the Department for Work and Pensions][struggle] to get these figures published. This is sometimes read as an admission of guilt. But given how naively the 2,380 figure was received, it is hard to blame them for their cowardice.
 
-Although <a href="{{2003to13}}">this official figure</a> is very misleading
+Although <a href="{{a2003to13}}">this official figure</a> is very misleading
 
 <div align="center">
 	<img src="/img/esa-deaths/rates.jpg" />
