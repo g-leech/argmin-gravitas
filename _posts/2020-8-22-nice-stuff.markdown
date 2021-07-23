@@ -241,6 +241,7 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 * <a href="{{scott}}">Scott</a> <a href="{{alex}}">Alexander</a>
 * <a href="{{rob}}">Rob Wiblin</a>
 * <a href="{{sam}}">Sam Bowman</a>
+* <a href="{{xu}}">Mark Xu</a>
 * <a href="{{guz}}">Alexey Guzey</a>
 * <a href="{{jos}}">Jose Ricon</a>
 * <a href="{{mcc}}">Peter McCluskey</a>
