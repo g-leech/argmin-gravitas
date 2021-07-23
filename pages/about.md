@@ -10,11 +10,10 @@ visible:	true
 
 
 </div>
-I'm <a href="{{ '/cv.pdf' | prepend: site.url }}">Gavin Leech</a>, a PhD candidate in AI at Bristol. <a href="#fn:18" id="fnref:18">18</a> 
-<a href="/no-philosopher">I</a> <a href="{{sittler}}">like</a> <a href="{{cs}}">technical</a> <a href="{{orseau}}">solutions</a> <a href="{{welf}}">to</a> <a href="{{shminux}}">philosophical</a> <a href="{{comp1}}">problems</a>.<br><br>
+I'm <a class="noline" href="{{ '/cv.pdf' | prepend: site.url }}">Gavin Leech</a>, a PhD candidate in AI at Bristol. <a href="/no-philosopher">I</a> <a href="{{sittler}}">like</a> <a href="{{cs}}">technical</a> <a href="{{orseau}}">solutions</a> <a href="{{welf}}">to</a> <a href="{{shminux}}">philosophical</a> <a href="{{comp1}}">problems</a>.<br><br>
 <!-- https://www.scottaaronson.com/papers/philos.pdf -->
 <!--  -->
-Technically <a href="{{ea}}">an EA blog</a>, though I don't consider this a blog. (Blogging is more <a href="/sites">speech</a> than writing.)<br><br>
+Technically an <a href="{{ea}}">EA blog</a>, though I don't consider this a blog. (Blogging is more <a class="noline" href="/sites">speech</a> than writing.)<br><br>
 <!--  -->
 If you want to talk, get in touch by <a href="mailto:{{ site.email }}">email</a>, or <a href="{{Form}}">anonymously</a>, or extremely privately <a href="{{pgp}}">via PGP</a>.
 <br><br>

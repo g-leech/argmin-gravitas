@@ -106,6 +106,10 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	Another common one is that philosophy isn't a thing (e.g. a body of claims), but a process, which has idiosyncratic private value for each person who instantiates it. As Adorno has it: <br><br>
 	<blockquote>The crux is what <span style="font-weight:bold">happens</span> in [philosophy], not any thesis or position... Essentially, therefore, philosophy is not expoundable. If it were, it would be superfluous...
 	</blockquote>
+	Or Fichte:
+	<blockquote>
+		Make no mistake about this: nothing that I or any other teacher can lecture to you about is philosophy. If we're lucky, we may possess some philosophy ourselves, but we cannot give it away.
+	</blockquote>
 <!--  -->
 	(This <a href="{{grace}}">explains why we read so much old/obsolete work</a>: we're learning by demonstration!)
 	</li>
