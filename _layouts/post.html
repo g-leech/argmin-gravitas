@@ -49,6 +49,10 @@ layout: default
     {% if page.cross %} 
         <br>{{t}}<a href="{{ page.cross }}">Cross-posted here</a>.
     {% endif %} 
+
+    {% if page.podcast %} 
+        <br>{{t}}<a href="{{ page.podcast }}">Podcast version here</a>.
+    {% endif %} 
     
     {% if page.argument %} 
         {%  include dropdown.html     %}    

@@ -16,6 +16,7 @@ confidence:	80% that I've captured the main contributors.
 categories: meaning, philosophy, transhumanism, suffering, biology
 importance: 8
 wordcount:	400
+podcast: 	https://castbox.fm/episode/Why-is-quality-rare--id4445969-id407530093?country=gb
 ---
 
 
@@ -152,3 +153,5 @@ But if we were stubbornly happy - if we often experienced joy for no particular 
 
 <br><br>
 
+
+{%	include quality/foots.html 	%}
