@@ -108,3 +108,4 @@
 {%	assign irontri =	"https://en.wikipedia.org/wiki/Project_management_triangle"								%}
 {%	assign natchy =	"https://stats.stackexchange.com/questions/227088/when-should-i-balance-classes-in-a-training-data-set"		%}
 {%	assign cady =	"https://www.amazon.co.uk/Data-Science-Handbook-F-Cady/dp/1119092949"						%}
+{%	assign klein =	"https://www.amazon.co.uk/Algorithm-Design-Pearson-New-International/dp/1292023945"	%}
