@@ -28,7 +28,7 @@ Blogging peaked in 2009; I was there, just. <br><br>
 
 {%  include sites/trends.md    %}
 
-Writing a 'web log' was mostly social: like a public diary; as if everyone was a newspaper columnist with a letters page. "Here's what I've been up to"; "here's my reaction to what Dubya just said"; "I just remembered a thing"; "here's why <a href="{{the}}">(a)theists are dumb</a>". More about process than product.
+Writing a 'web log' was mostly social: like a <a href="{{diary}}">public diary</a>; as if everyone was a hyper-local newspaper columnist with a letters page. "Here's what I've been up to"; "here's my reaction to what Dubya just said"; "I just remembered a thing"; "here's why <a href="{{the}}">(a)theists are dumb</a>". More about process than product.
 
 Half a dozen people used to comment on everything. There were various <a href="{{sphere}}">Spheres</a>, where amateurs and <a href="{{ec}}">professionals</a> of various sorts thought out loud and gossiped and <a href="{{leiter}}">bitched</a>.  Famous economics professors followed my obscure fumbling posts, inexplicably.
 
