@@ -2,11 +2,13 @@
 <div>
 	Subsumes lyrics, libretti, slam.<br><br>
 	<ul>
+		<li>'<a href="{{rich}}">Cartographies of Silence</a>' by Adrienne Rich</li>
 		<li>'<a href="{{cali}}">In California</a>' by Joanna Newsom</li>
 		<li>'<a href="{{aut}}">Autumn</a>' by Joanna Newsom</li>
 		<li>'<a href="{{au}}">Aubade</a>' by Philip Larkin</li>
 		<li>'<a href="{{arun}}">An Arundel Tomb</a>' by Philip Larkin</li>
 		<li>'<a href="{{arun}}">Sad Steps</a>' by Philip Larkin</li>
+		<li>'<a href="{{kap}}">Summers and Springs</a>' by Jaan Kaplinski</li>
 		<li>'<a href="{{whit}}">The Whitsun Weddings</a>' by Philip Larkin</li>
 		<li>'<a href="{{back}}">The Back Country</a>' by Louis Jenkins</li>
 		<li>'<a href="{{yu}}">The South Mountains</a>' by Han Yu (韓愈)</li>

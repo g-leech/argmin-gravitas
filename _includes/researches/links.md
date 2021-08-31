@@ -32,3 +32,7 @@
 {%	assign maskstw = "https://twitter.com/g_leech_/status/1406287131534893059"	%}
 {%	assign rex = "https://twitter.com/RexDouglass/status/1406336179973152768"		%}
 {%	assign vsmike = "https://www.lesswrong.com/posts/J7RnKXcyCNdrdAus4/we-have-some-evidence-that-masks-work"	%}
+{%	assign espr = "https://espr-camp.org/"		%}
+{%	assign aisc = "https://aisafety.camp/"	%}
+{%	assign bmj = "https://gh.bmj.com/"	%}
+{%	assign maskscode = "https://github.com/g-leech/masks_v_mandates"	%}

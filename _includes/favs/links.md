@@ -88,7 +88,8 @@
 {%		assign back = "https://www.threecandles.org/archive/ljenkins.html"		%}
 {%		assign aber = "https://troublingadvocacy.blogspot.com/2020/04/aberdeen-by-iain-crichton-smith.html"		%}
 {%		assign flo = "https://halfmanhalfbiscuit.uk/this-leaden-pall-1993/floreat-inertia/"		%}
-
+{%		assign kap = "https://sci-hub.se/10.1177/030437540002500315"	%}
+{%		assign rich = "https://poetrying.wordpress.com/2008/12/15/cartographies-of-silence-adrienne-rich/"	%}
 
 {%		assign sittler = "https://fragile-credences.github.io/ps/"				%}
 {%		assign cs = "https://www.scottaaronson.com/blog/?p=152"					%}
