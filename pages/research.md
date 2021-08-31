@@ -52,6 +52,7 @@ visible:	true
 
 ## Software
 
+* <a href="{{maskscode}}">masks_v_mandates</a> (2021): Probabilistic programming for epidemic modelling and effect estimation. End to end with data getters.
 * <a href="{{prolexa}}">ProlexaPlus</a> (2020): Bringing modern language modelling into Prolog for some reason.
 * <a href="{{htk}}">Py2HTK</a> (2017): Python wrapper for the Hidden Markov ToolKit.
 
@@ -67,11 +68,18 @@ visible:	true
 
 <br>
 
+## Service
+
+* Reviewer for <a href="{{bmj}}">BMJ Global Health</a>
+* Reviewer for the <a href="{{aisc}}">AI Safety Camp</a>.
+
+<br>
+
 ## Teaching
 
 * 2019: TA for the fearsome _<a href="{{coms}}">COMS30007: Bayesian Machine Learning</a>_
 * 2020: Lead TA for _<a href="{{algo}}">COMS20010: Algorithms 2</a>_.
-
+* 2021: Designer and instructor for two courses at <a href="{{espr}}">ESPR</a>.
 
 <!-- <br> -->
 
