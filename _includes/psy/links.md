@@ -254,3 +254,5 @@
 {%	assign jhtw = "https://twitter.com/jamesheathers/status/1409520677120405505"		%}
 {%	assign hydro = "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)61127-1/fulltext"	%}
 {%	assign trainrct = "https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2657279/DP%2009.pdf?sequence=1&isAllowed=y"		%}
+
+{%	assign dunedin = "https://www.pnas.org/content/108/7/2693#T1"	%}
