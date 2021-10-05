@@ -18,7 +18,7 @@
 {%	assign robustvid = "https://nips.cc/virtual/2020/public/poster_8e3308c853e47411c761429193511819.html"	%}
 {%	assign gel = "https://statmodeling.stat.columbia.edu/2020/12/18/inferring-the-effectiveness-of-government-interventions-against-covid-19/" %}
 {%	assign epifor = "http://epidemicforecasting.org/calc"	%}
-{%	assign secondwave = "https://www.medrxiv.org/content/10.1101/2021.03.25.21254330v1"	%}
+{%	assign secondwave = "https://www.nature.com/articles/s41467-021-26013-4"	%}
 {%	assign secondwavetwit = "https://mobile.twitter.com/sorenmind/status/1375848915329769477"	%}
 {%	assign fhitwit = "https://mobile.twitter.com/sorenmind/status/1338899837564153858"	%}
 {%	assign covidpod = "https://turing.podbean.com/e/ttps2e6/"		%}
