@@ -35,4 +35,5 @@
 {%	assign espr = "https://espr-camp.org/"		%}
 {%	assign aisc = "https://aisafety.camp/"	%}
 {%	assign bmj = "https://gh.bmj.com/"	%}
+{%	assign ml = "https://www.springer.com/journal/10994"	%}
 {%	assign maskscode = "https://github.com/g-leech/masks_v_mandates"	%}
