@@ -70,8 +70,8 @@ visible:	true
 
 ## Service
 
-* Reviewer for <a href="{{bmj}}">BMJ Global Health</a>
-* Reviewer for the <a href="{{aisc}}">AI Safety Camp</a>.
+* Briefed the UK Cabinet Office COVID-19 Task Force on masks.
+* Reviewer for <a href="{{ml}}">Machine Learning</a>, <a href="{{bmj}}">BMJ Global Health</a>, <a href="{{aisc}}">AI Safety Camp</a>.
 
 <br>
 
