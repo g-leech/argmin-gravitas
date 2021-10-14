@@ -63,7 +63,7 @@ Could AI be a risk to humans? Well it already is:
 
 These systems did harm because they were too stupid to do what we ask (or because the humans deploying it are).
 
-What about systems harming us because it is too smart? Is there any real chance that advanced AI could ruin human potential on a grand scale?
+What about a system harming us because it is too smart? Is there any real chance that advanced AI could ruin human potential on a grand scale?
 
 #### Argument from caution
 
@@ -293,7 +293,7 @@ Argument:
 
 Our societies are increasingly vulnerable to hacking. Last month someone tried to <a href="{{lye}}">remotely poison</a> a Florida city's water supply. A few years ago, large parts of Ukraine's <a href="{{uk}}">power grid were shut down</a>, just as a civil war erupted.
 
-The American nuclear launch code was, for 20 years, <a href="{{giz}}">0000000"</a>. What else is currently wide open?
+The American nuclear launch code was, for 20 years, "<a href="{{giz}}">0000000</a>". What else is currently wide open?
 
 
 #### Maximisers are risky
