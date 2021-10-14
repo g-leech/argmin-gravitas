@@ -37,7 +37,7 @@ visible:    false
 -->
 	<h3>Language</h3>
 	<div>
-		My favourite languages are German, braid Scots, <a href="https://en.wikipedia.org/wiki/Standard_Chinese">simplified vernacular Beijing Chinese</a>, Kihaya. (English is not a language, it is my lungs.) My favourite computer languages are Scala, Python, Rust, and the humble, unimprovable Markdown and LaTeX. I also get a perverse kick out of bash. My indent style is <a href="https://en.wikipedia.org/wiki/Indent_style#Pico_style">Pico</a>.<br><br>
+		My favourite languages are German, braid Scots, <a href="https://en.wikipedia.org/wiki/Standard_Chinese">simplified vernacular Beijing Chinese</a>, Kihaya. (English is not a language, it is my lungs.) My favourite computer languages are Scala, Python, C#, and the humble, unimprovable Markdown. I also get a perverse kick out of bash. My indent style is <a href="https://en.wikipedia.org/wiki/Indent_style#Pico_style">Pico</a>.<br><br>
 	</div>
 <!-- 
  -->

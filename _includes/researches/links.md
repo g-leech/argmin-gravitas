@@ -18,8 +18,9 @@
 {%	assign robustvid = "https://nips.cc/virtual/2020/public/poster_8e3308c853e47411c761429193511819.html"	%}
 {%	assign gel = "https://statmodeling.stat.columbia.edu/2020/12/18/inferring-the-effectiveness-of-government-interventions-against-covid-19/" %}
 {%	assign epifor = "http://epidemicforecasting.org/calc"	%}
+{%	assign korona = "https://koronahra.cz/game"	%}
 {%	assign secondwave = "https://www.nature.com/articles/s41467-021-26013-4"	%}
-{%	assign secondwavetwit = "https://mobile.twitter.com/sorenmind/status/1375848915329769477"	%}
+{%	assign secondwavetwit = "https://twitter.com/MrinankSharma/status/1445760620696006663"	%}
 {%	assign fhitwit = "https://mobile.twitter.com/sorenmind/status/1338899837564153858"	%}
 {%	assign covidpod = "https://turing.podbean.com/e/ttps2e6/"		%}
 {%	assign impblog = "https://www.imperial.ac.uk/news/221873/uk-covid-19-transmission-shifted-towards-emerging/"	%}
@@ -37,3 +38,14 @@
 {%	assign bmj = "https://gh.bmj.com/"	%}
 {%	assign ml = "https://www.springer.com/journal/10994"	%}
 {%	assign maskscode = "https://github.com/g-leech/masks_v_mandates"	%}
+{%	assign wired = "https://www.wired.co.uk/article/face-mask-mandate-uk"	%}
+{%	assign guardian = "https://www.theguardian.com/world/2021/aug/13/common-myths-about-covid-debunked"	%}
+{%	assign mr = "https://marginalrevolution.com/marginalrevolution/2021/06/the-best-mask-wearing-study-so-far.html"	%}
+{%	assign mails = "https://www.mailonsunday.co.uk/wires/pa/article-9779677/Face-masks-Should-continue-wearing-them.html"	%}
+{%	assign nyt = "https://www.nytimes.com/2021/07/05/world/europe/england-masks-coronavirus-johnson.html"	%}
+{%	assign bbc = "https://www.bbc.co.uk/news/health-57861677"	%}
+{%	assign ag = "https://statmodeling.stat.columbia.edu/2021/06/28/reversals-in-psychology/"	%}
+{%	assign hertz = "https://everythinghertz.com/135"	%}
+{%	assign coyne = "https://whyevolutionistrue.com/2021/06/29/failures-of-replication-in-psychology/"	%}
+{%	assign sbs = "https://www.sbspod.com/episodes/responders-non-responders-and-fish-oil"	%}
+{%	assign ctf = "https://www.dailymail.co.uk/news/article-9847791/Secretive-cell-Civil-Servants-Government-ministers-blame-Covid-pingdemic.html"	%}

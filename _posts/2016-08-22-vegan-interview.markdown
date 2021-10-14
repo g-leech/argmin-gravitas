@@ -27,13 +27,13 @@ categories: ethics
 </center>
 <br><br>
 
-I don't give money to places that harm animals; the biggest part of that is not eating meat, eggs, dairy, etc. 
+I don't give money to places that harm animals; the biggest part of that is not buying meat, eggs, dairy, etc. 
 
 I haven't written much about it; I dislike signalling in that way and I'm suspicious of the effects of calling-myself-things on my thoughts. 
 
 There's a certain kind of vegan - anti-modern, pious, loud - that perhaps limits the audience for animal rights. So I had better pipe up with my supposedly more rational, <a href="https://en.wikipedia.org/wiki/Techno-progressivism#Contrasting_stance">bioprogressive</a> / <a href="http://www.ecomodernism.org/">ecomodernist</a> form. (Someone else will have to handle the task of making it not seem weird.) 
 
-I was recently interviewed on the topic for someone's sociology research:<br><br>
+I was recently interviewed on the topic for some sociology research:<br><br>
 
 
 <i><b>Can you tell me in your own words, what your definition of veganism is? What are your reasons for being vegan?</b></i><br>
@@ -169,5 +169,9 @@ Not inherently; only insofar as the meat industry is the worst thing in the worl
 I'm not a joiner really; I only joined GWWC in order to commit myself to a nonselfish life. No way out now, not without looking like a dick!
 
 
+
+## See also
+
+* [Ethics > climate in a small sample of Scottish vegans](https://www.researchgate.net/publication/325578961_A_New_Veganism_How_Climate_Change_Has_Created_More_Vegans)
 
 <br><br>

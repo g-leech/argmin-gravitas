@@ -70,8 +70,15 @@ visible:	true
 
 ## Service
 
-* Briefed the UK Cabinet Office COVID-19 Task Force on masks.
+* Briefed the UK Cabinet Office <a href="{{ctf}}">COVID-19 Task Force</a> on masks.
 * Reviewer for <a href="{{ml}}">Machine Learning</a>, <a href="{{bmj}}">BMJ Global Health</a>, <a href="{{aisc}}">AI Safety Camp</a>.
+
+<br>
+
+## Media
+
+* Masks: <a href="{{bbc}}">BBC</a>, <a href="{{nyt}}">New York Times</a>, <a href="{{wired}}">Wired</a>, <a href="{{guardian}}">Guardian</a>, <a href="{{mails}}">Mail on Sunday</a>, <a href="{{mr}}">Marginal Revolution</a>, <a href="{{ag}}">Gelman</a>
+* Psychology: <a href="{{ag}}">Gelman</a>, <a href="">Coyne</a>, <a href="{{hertz}}">Everything Hertz</a>, <a href="{{sbs}}">Stronger by Science</a>.
 
 <br>
 
