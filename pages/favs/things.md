@@ -69,3 +69,8 @@ visible:    false
 
 <!-- My favourite Aristotelian distinctions are the modes of persuasion (ethos, logos and pathos), the realms of mechanics (celestial and terrestrial), the levels of friendship (commercial, hedonic, affinity) and his 'fourfold division' of everything (into primitives, non-substantial particulars, universals, non-substantial universals).
 </div> -->
+
+
+<br>
+
+{%	include padder.html 	howMuch=24	%}

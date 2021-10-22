@@ -1,6 +1,7 @@
 ---
 layout: 	page
-title: 		Remarks
+title: 		Quotations
+nav: 		Remarks
 permalink: 	/quotations/
 visible:	true
 ---
@@ -64,7 +65,7 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 	</div>
 </div>
 
-<br><br><br>
+{%	include padder.html 	howMuch=14	%}
 
 
 
