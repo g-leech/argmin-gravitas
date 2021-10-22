@@ -1,6 +1,7 @@
 ---
 layout: 	page
 title: 		Research
+nav: 		Research
 permalink:	/researches/
 visible:	true
 ---

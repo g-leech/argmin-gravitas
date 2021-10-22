@@ -28,3 +28,4 @@
 {%	assign fume = "https://aleph.se/andart2/statistics/scientific-progress-goes-zig-zag/"		%}
 {%	assign haz = "https://concepts.effectivealtruism.org/concepts/information-hazards/"		%}
 {%	assign inoc = "https://medium.com/@ThingMaker/idea-inoculation-inferential-distance-848836a07a5b"	%}
+{%	assign kanjun = "https://kanjun.me/writing/research-as-understanding"		%}
