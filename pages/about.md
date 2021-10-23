@@ -14,7 +14,7 @@ visible:	true
 <!-- https://www.scottaaronson.com/papers/philos.pdf -->
 <!--  -->
 
-* <a class="noline" href="{{o}}">AI PhD at Bristol</a><br>
+* <a class="noline" href="{{o}}">AI PhD at Bristol</a>; machine teacher.<br>
 
 <!-- * <a class="noline" href="/researches">researcher</a><br> -->
 
