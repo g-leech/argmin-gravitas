@@ -20,11 +20,9 @@ visible:	true
 
 * <a class="noline" href="{{ea}}">potentially effective altruist</a><br>
 
-* <a class="noline" href="{{tc}}">emergent venturer</a><br>
+* <a class="noline" href="{{tc}}">emergent venturer</a>
 
-* <a class="noline" href="/favs/all">infovore</a>
-
-* <a class="noline" href="{{g}}">amateur critic</a><br>
+* <a class="noline" href="/favs/all">infovore</a>. <a class="noline" href="{{g}}">amateur critic</a><br>
 
 * ex-code-monkey, ex-statistician, ex-spreadsheet-jockey, ex-waiter, <a class="noline" href="/no-philosopher">ex-philosophy graduate?</a><br>
 
