@@ -61,6 +61,7 @@ visible:	true
 
 ## Popular
 
+* <i><a href="/psych" target="_blank">Reversals in psychology</a></i> (2020)
 * <i><a href="{{academic_safety}}" target="_blank">The academic contribution to AI safety seems large</a></i> (2020)
 * <i><a href="{{xrisk}}" target="_blank">Existential risk as common cause</a></i> (2018)
 * <i><a href="/grids" target="_blank">Side effects in Gridworlds</a></i> (2018). <a href="{{gridcite}}">Developed further</a>.
@@ -79,7 +80,7 @@ visible:	true
 ## Media
 
 * Masks: <a href="{{bbc}}">BBC</a>, <a href="{{nyt}}">New York Times</a>, <a href="{{wired}}">Wired</a>, <a href="{{guardian}}">Guardian</a>, <a href="{{mails}}">Mail on Sunday</a>, <a href="{{mr}}">Marginal Revolution</a>, <a href="{{ag}}">Gelman</a>
-* Psychology: <a href="{{ag}}">Gelman</a>, <a href="">Coyne</a>, <a href="{{hertz}}">Everything Hertz</a>, <a href="{{sbs}}">Stronger by Science</a>.
+* Psychology: <a href="{{ag}}">Gelman</a>, <a href="{{jc}}">Coyne</a>, <a href="{{hertz}}">Everything Hertz</a>, <a href="{{sbs}}">Stronger by Science</a>.
 
 <br>
 
