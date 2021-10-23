@@ -259,6 +259,7 @@ The bureaucracies act as if you can only teach once you are a master. But I ofte
 
 * <a href="{{ldem}}">Laura Deming's rage</a>.
 * <a href="{{might}}">Matt Might's ways to fail</a>
+* <a href="{{kanjun}}">I think this post obsoletes some of the above.</a>
 * <a href="{{spj}}">Peyton Jones, 'How to Write'</a>
 * <a href="{{steinhardt}}">Steinhardt, 'Research as a Stochastic Decision Process'</a>
 * <a href="{{adem}}">Abram Demski in the Field</a>, 
