@@ -29,10 +29,10 @@ visible:	true
 <!-- * <a class="noline" href="{{m}}">analytical storyteller</a> for Metaculus <a href="#fn:18" id="fnref:18">18</a><br> -->
 <!-- * I run a group for people struggling at uni<br> -->
 <!-- * <a class="noline" href="{{e}}">ESPR instructor</a><br> -->
-<!-- * despite <a href="{{ea}}">appearances</a>, <a href="/sites">not a blogger</a><br> -->
+* despite <a href="{{ea}}">appearances</a>, <a href="/sites">not a blogger</a><br>
 
 
-* <span><a class="noline" href="/no-philosopher">I</a> <a class="noline" href="{{sittler}}">like</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">solutions</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a></span>
+* <span><a class="noline" href="/no-philosopher">I</a> <a class="noline" href="{{sittler}}">like</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a></span>
 
 <div></div>
 <br>
@@ -65,4 +65,4 @@ If you want to talk, get in touch by <a href="mailto:{{ site.email }}">email</a>
 
 
 
-{%	include padder.html 	howMuch=14	%}
+{%	include padder.html 	howMuch=26	%}
