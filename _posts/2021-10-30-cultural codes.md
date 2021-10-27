@@ -11,9 +11,9 @@ visible:    1
 published:  true
 
 summary:    What can you come to like? Failing that, what can you understand?
-quality:    7
+quality:    6
 confidence: Made up. Works for me and Tyler Cowen.
-importance: 7
+importance: 6
 emotion: 	7
 warnings: 	
 wordcount:  
