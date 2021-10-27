@@ -10,13 +10,13 @@
 <blockquote>Poetry presents the thing in order to convey the feeling. It should be precise about the thing and reticent about the feeling… If the poet presents directly feelings which overwhelm ... they cannot strengthen morality and refine culture, set heaven and earth in motion and call up the spirits! </blockquote>
 – Wei Tai (魏泰)
 
-<br><br>
+<br><br><br>
 
 <b>Critics</b>: Paul Keegan, FR Leavis, IA Richards, Harold Bloom, Wei Tai<br><br>
 
 <b>Material conditions</b>: mostly people without jobs, alone, intentionally floating free of society. No capital requirements and mostly subsistence pay. So mostly posh people or patronees.<br><br>
 
-<b>Aims</b>: many!<br>
+<b>Aims</b>: many!<br><br>
 
 <ul>
 	<li>Oral history</li>
@@ -32,9 +32,9 @@
 Almost all modern poetry is written in the latter mode, the lyric-confessional. If you think you don't like poetry, this might be why.<br><br>
 <!--  -->
 
-<img data-src="/img/cultural/blake.png" width="50%" class="lazy" /><br><br>
+<img data-src="/img/cultural/blake.png" class="lazy" /><br><br>
 
-<img data-src="/img/cultural/nael.png" width="50%" class="lazy" />
+<img data-src="/img/cultural/nael.png" class="lazy" />
 
 </div>
 </div>
