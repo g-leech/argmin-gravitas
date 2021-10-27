@@ -21,6 +21,8 @@ pride:		7
 categories:	philosophy of science, language, machine learning
 ---
 
+<!-- https://github.com/acmi-lab/cmu-10721-philosophy-machine-intelligence -->
+
 <!-- Covers proof of Chomsky and Occam -->
 <!-- https://homepages.cwi.nl/~rdewolf/publ/philosophy/phthesis.pdf -->
 
