@@ -14,7 +14,7 @@
 
 <b>Critics</b>: Paul Keegan, FR Leavis, IA Richards, Harold Bloom, Wei Tai<br><br>
 
-<b>Material conditions</b>: mostly people without jobs, alone, intentionally floating free of society. No capital requirements and mostly subsistence pay. So mostly posh people or patronees.<br><br>
+<b>Material conditions</b>: mostly people without jobs, alone, intentionally floating free of society. No capital requirements and mostly subsistence pay. So mostly posh people or patronees.  <a href="#fn:7" id="fnref:7">7</a><br><br>
 
 <b>Aims</b>: many!<br><br>
 
