@@ -12,7 +12,7 @@ published:  true
 
 summary:    What can you come to like? Failing that, what can you understand?
 quality:    6
-confidence: Made up. Works for me and Tyler Cowen.
+confidence: Made up. Works for me and Tyler Cowen at least.
 importance: 6
 emotion: 	7
 warnings: 	
@@ -162,7 +162,7 @@ Too specific to say much about here. Critics again, or else a hard act of empiri
 
 ### 3. Material conditions
 
-One extremely powerful trick is to study what Marxists call the <a href="{{mat}}">material conditions</a>. <a href="#fn:1" id="fnref:1">1</a> For our purposes this is not a grand reduction of the ideal to the economic, it's just 1) how capital-intensive it is, 2) the demographics of the creators, 3) the tempo and complexity of production (weekly for manga, a month for a serious poem). Those timelapse videos of someone painting or carving are ideal.
+One extremely powerful trick is to study what Marxists call the <a href="{{mat}}">material conditions</a>. <a href="#fn:1" id="fnref:1">1</a> For our purposes this is not a grand reduction of the ideal to the economic, it's just 1) how capital-intensive it is, 2) the demographics of the creators and audience, 3) the tempo and complexity of production (weekly for manga, a month for a serious poem). Then: _how do they do it?_ Those timelapse videos of someone painting or carving are ideal.
 
 I watched every Kubrick film and didn't really see the fuss. Then I read up on him, and learned that e.g. he had <a href="{{jon}}">thousands upon thousands of doorways</a> in London photographed while location scouting for _Eyes Wide Shut_.
 It's not that obsessiveness means quality, that inputs mean output. But it means _meaning_. As I rewatch him, I am have good reason to consider many parts of the production as meaningful, and in fact I like him far more on the second runthrough.<br><br>
@@ -177,10 +177,10 @@ Only once you know what's good, what the axes are, and how it's made can you und
 
 ## Procedure
 
-1. Find a critic you can trust. Friends are best. \[2 weeks\]<br>
-2. Where is the quality? What is it _trying_ to do? \[2 weeks\]<br>
-3. What are the material conditions? \[2 weeks\]<br>
-4. If you really can't see any value: what's sociologically remarkable about it?<br>
+1. Find a critic you can trust. Friends are best. \[2 weeks\]<br><br>
+2. Where is the quality? What is it _trying_ to do? \[2 weeks\]<br><br>
+3. What are the material conditions? \[2 weeks\]<br><br>
+4. If you really can't see any value: what's sociologically remarkable about it?<br><br>
 5. When do I just accept that I am not capable of liking this? <a href="#fn:6" id="fnref:6">6</a>
 
 
