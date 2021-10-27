@@ -57,7 +57,10 @@ For simplicity I tell people this is my first time in England. The truth:<br /><
 So actually close enough. Into Carlisle about 7pm. Struck by the sheer amount of brick, especially in confectionary red-white-red-white pattern. Panic rises when the rain comes on: am hungry, alone, and have no idea how to get out of town. Rank my paranoias to pass time: fear of criminal folk (low); fear of sarcastic people (high); fear of illness from rain (med); fear for bike (med); fear for no campsite (critical). Eat in a truckstop, and meet George, a magnanimous gobshite who introduces hisself as a connoisseur of rucksacks, and offers a campsite in his garden within 30 seconds of meeting: "Life's too short to be horrible to people". Sleep in a hedge on an industrial estate instead, for some reason. Possibly manners.
 <br>
 
-<a  href="http://4.bp.blogspot.com/-Ip1_7XQe7bE/TlaT5lYVaEI/AAAAAAAABPI/0BkleVKKENU/s1600/252044_2030242473164_1157170062_31892482_4904333_n.jpg"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 400px; height: 293px;" src="http://4.bp.blogspot.com/-Ip1_7XQe7bE/TlaT5lYVaEI/AAAAAAAABPI/0BkleVKKENU/s400/252044_2030242473164_1157170062_31892482_4904333_n.jpg" alt="" id="BLOGGER_PHOTO_ID_5644861800451500098" border="0" /></a>
+<div style="text-align: center">
+	<img src="/img/england/bike.jpg" width="60%" />
+</div>
+<br>
 
 <br>
 
