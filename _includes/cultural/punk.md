@@ -8,7 +8,7 @@ This ^ is one of the all-time great punk recordings. It has 5 chords (or rather 
 
 <iframe src="https://open.spotify.com/embed/track/45fq6kIQtooot7WVRsXAum?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-Somehow this ^ is punk too. It represents punk as cheap freedom, and is by a band who practiced harder than you would believe.
+Somehow this ^ is punk too. They took punk to mean freedom (ha!), and got the real freedom afforded to the thrifty at least. By a band who practiced harder than you would believe.
 <br><br><br>
 
 <b>Critics</b>: Michael Azerrad, Daniel Sinker, Steve Albini, Robert Christgau, Pierro Scaruffi<br><br>

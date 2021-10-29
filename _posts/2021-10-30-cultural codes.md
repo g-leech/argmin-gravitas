@@ -10,7 +10,7 @@ img:        /img/cultural/cult.png
 visible:    1
 published:  true
 
-summary:    What can you come to like? Failing that, what can you understand?
+summary:    The art & philosophy of getting into stuff
 quality:    6
 confidence: Made up. Works for me and Tyler Cowen at least.
 importance: 6
@@ -24,17 +24,19 @@ argument:
 {%	include cultural/links.md	%}
 
 
-There is so much to understand, there are so many things to like - and all of us understand and like very little of it. <a href="#fn:2" id="fnref:2">2</a> If you're young, your preferences maybe define you - but you could be defined by something else. If you're any age, they determine who you spend your time with - but you _could_ spend time with almost anyone.
+There is so much to understand, there are so many things to like - and all of us understand and like very little of it. <a href="#fn:2" id="fnref:2">2</a> If you're young, your preferences maybe define you - but you could be defined by something else. If you're any age, they determine who you spend your time with - but you could spend time with almost anyone.
 
 It's easy to forget how inexhaustible the natural and human world is. This year I've been running classes on _the art of getting into things_. I collected all the interests and subcultures my students are into (or actively not into):<br><br>
 
 {%	 include cultural/list.md 	%}
 
-Every year I try to get into some major culture. <a href="{{jarg}}">Hacker lore</a>; "modern classical" music; Chinese poetry; Analytic philosophy; <a href="{{econ}}">economic rationality</a>; dank memes; singing in public; stage magic; teaching; this year, <a href="{{c}}">comic books</a>. <a href="#fn:3" id="fnref:3">3</a>
+You can attempt to get into any such system of meaning. What's a word for those? "Culture" - but they can be _much_ smaller than the national units we usually mean by "culture". So here take "a culture" to mean a subculture, an <a href="{{id}}">idiom</a>, a scene, a style, a genre, a field, a medium, a view. 
 
-You can attempt to get into any distinctive system of meaning. What's a word for those? "Culture" works, but idioms can be _much_ smaller than the national units we usually mean by that. So here take "a culture" to mean a subculture, an <a href="{{id}}">idiom</a>, a scene, a style, a genre, a field, a medium, a view. 
+<i>Claim</i>: every human activity, and every group of humans larger than one, forms a culture. It's often intentionally hard for outsiders to understand. <a href="{{j}}">Reality has a lot of detail</a>, and humans, good humans, paint this detail with <a href="{{prozd}}">meaning and distinctions</a>. Cracking these codes is the most important skill which is barely taught anywhere. <a href="#fn:5" id="fnref:5">5</a>
 
-<i>Claim</i>: every human activity, and every group of humans larger than one, forms a culture. It's often intentionally hard for outsiders to understand. <a href="{{j}}">Reality has a lot of detail</a>, and so humans, good humans, paint this detail with <a href="{{prozd}}">meaning and distinctions</a>. Cracking these codes is the most important skill which is barely taught anywhere. <a href="#fn:5" id="fnref:5">5</a>
+Every year I try to get into something major. <a href="{{jarg}}">Hacker lore</a> (2014); "modern classical" music (2020); Chinese poetry (2011); Analytic philosophy (2008); <a href="{{econ}}">economic rationality</a> (2013); dank memes (2017); singing in public (2016); teaching (2020); this year, <a href="{{c}}">comic books</a>. <a href="#fn:3" id="fnref:3">3</a>
+
+
 
 <br>
 
@@ -45,13 +47,13 @@ You can attempt to get into any distinctive system of meaning. What's a word for
 ## Why?
 
 
-#### 1. Fun! Access more of the value in the world. 
+### 1. Fun! Access more of the value in the world. 
 
 It's more than just liking more cool stuff. It's about treating your own taste and interest as an object in question, an object which could be worked on. About treating outgroups as puzzles rather than threats or weirdos. 
 
 <br>
 
-#### 2. Social life
+### 2. Social life
 
 What you like determines who you spend your time with. It often determines your life partner. Businesses and academic fields are famously culturally ornate and hard to crack.
 
@@ -59,13 +61,13 @@ You've probably had the experience of being at a party and realising that the st
 
 <br>
 
-#### 3. Understand people!
+### 3. Understand people!
 
 * You break off a piece of the giant impossible concept of human culture overall.
 
 * Subcultures do a large amount of all new and interesting work. (This is almost true by definition in art. But also startups: to replace a huge corporate incumbent, you have to have a different angle, and often they are outsiders.)
 
-* _General subtlety of thought._
+<!-- * _General subtlety of thought._ -->
 
 * _Mental flexibility_. One of the evils of ageing is bewilderment: feeling that the world is bizarre and unmanageable, that you can't interact with the young, that you are relegated. Active effort and mastery of cultures should prevent this.
 
@@ -77,9 +79,11 @@ You've probably had the experience of being at a party and realising that the st
 
 #### Why aesthetics?
 
-Aesthetics is a great place to start because it's so cheap and the experiments are so quick. And because it's surprisingly impactful, socially powerful. <a href="#fn:4" id="fnref:4">4</a> And also because once you stop seeing your taste as immutable (or god forbid Correct) you can actively pursue all of the rest of the value in the world.
+Above, I made grand claims about large portions of all human activities being available to crack. <a href="#fn:8" id="fnref:8">8</a> So why am I talking about comics?
 
-I really think there’s a general skill here - that understanding punk deeply really does increase my ability to understand Tanzanian culture, let alone prog and disco and post-punk and dub.
+Aesthetics is a great place to start because it's so cheap and the experiments are so quick. It's also surprisingly impactful, socially powerful. <a href="#fn:4" id="fnref:4">4</a> And also because once you stop seeing your taste as immutable (or god forbid correct) you can pursue all of the rest of the world.
+
+I really think there’s a general skill here - that understanding punk deeply really does increase my ability to understand Tanzanian culture, let alone prog and disco and post-punk and dub and thrash.
 
 
 <br>
@@ -141,7 +145,7 @@ Pick something you're not open to. Ask:
 <blockquote>To make something interesting, just look at it a long time.</blockquote>
 
 ― Gustave Flaubert
-</center>
+</center><br>
 
 ### 1. Canon. 
 
@@ -154,15 +158,17 @@ Once you know the canon, you can get the _allusions_, and you can understand the
 
 ### 2. Jargon, conventions, techniques
 
-Too specific to say much about here. Critics again, or else a hard act of empiricism.<br>
+Too specific to say much about here. Critics again, or else a hard act of empiricism.<br><br>
 
-<img data-src="/img/cultural/mang.png" width="50%" class="lazy" />
-<img data-src="/img/cultural/mang2.png" width="50%" class="lazy" />
+<img data-src="/img/cultural/mang.png" width="70%" class="lazy" />
+<img data-src="/img/cultural/mang2.png" width="70%" class="lazy" />
 <br><br>
 
 ### 3. Material conditions
 
-One extremely powerful trick is to study what Marxists call the <a href="{{mat}}">material conditions</a>. <a href="#fn:1" id="fnref:1">1</a> For our purposes this is not a grand reduction of the ideal to the economic, it's just 1) how capital-intensive it is, 2) the demographics of the creators and audience, 3) the tempo and complexity of production (weekly for manga, a month for a serious poem). Then: _how do they do it?_ Those timelapse videos of someone painting or carving are ideal.
+Say you try it. Say you pick the top 10 all-time whatevers. But you bounce off - it all seems so contrived / so hostile to its audience / so trivial / so pretentious. What to do?
+
+One powerful trick is to study what Marxists call the <a href="{{mat}}">material conditions</a>. <a href="#fn:1" id="fnref:1">1</a> For our purposes this is not a grand reduction of the ideal to the economic, it's just 1) how capital-intensive it is, 2) the demographics of the creators and audience, 3) the tempo and complexity of production (weekly for manga, a month for a serious poem). Then: _how do they do it?_ Those timelapse videos of someone painting or carving are ideal.
 
 I watched every Kubrick film and didn't really see the fuss. Then I read up on him, and learned that e.g. he had <a href="{{jon}}">thousands upon thousands of doorways</a> in London photographed while location scouting for _Eyes Wide Shut_.
 It's not that obsessiveness means quality, that inputs mean output. But it means _meaning_. As I rewatch him, I am have good reason to consider many parts of the production as meaningful, and in fact I like him far more on the second runthrough.<br><br>
@@ -205,7 +211,7 @@ Only once you know what's good, what the axes are, and how it's made can you und
 
 ---
 
-<br>
+<br><br>
 
 What will you like? What will you understand?
 
