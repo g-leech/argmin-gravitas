@@ -1,5 +1,5 @@
 <div class="accordion">
-    <h3>A few cultural codes, from the 60 young Europeans I sampled</h3>
+    <h3>A few cultural codes (n=70 young Europeans)</h3>
     <div>
         Note that these are their answers to cultures they like <b>and</b> cultures they hate.<br><br><br>
         <!--  -->&nbsp;&nbsp;
@@ -969,7 +969,7 @@
         - astrology&nbsp;&nbsp;
         - intolerance&nbsp;&nbsp;
         - hédonism&nbsp;&nbsp;
-        - medieval philosophy (like proves of the existence of God)&nbsp;&nbsp;
+        - medieval philosophy&nbsp;&nbsp;
         - weird narrative structure&nbsp;&nbsp;
         - classic memes&nbsp;&nbsp;
         - hacker culture&nbsp;&nbsp;
