@@ -49,3 +49,4 @@
 {%	assign jc = "https://whyevolutionistrue.com/2021/06/29/failures-of-replication-in-psychology/"	%}
 {%	assign sbs = "https://www.sbspod.com/episodes/responders-non-responders-and-fish-oil"	%}
 {%	assign ctf = "https://www.dailymail.co.uk/news/article-9847791/Secretive-cell-Civil-Servants-Government-ministers-blame-Covid-pingdemic.html"	%}
+{%	assign nat = "http://socialsciences.nature.com/posts/reversals-in-psychology"	%}
