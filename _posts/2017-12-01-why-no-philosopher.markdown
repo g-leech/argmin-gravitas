@@ -12,7 +12,7 @@ visible: 	1
 quality: 	8
 
 summary:    Philosophy's functions & benefits, and why they aren't real(?)
-confidence:	N/A. A polemic I don't usually endorse.
+confidence:	Polemic
 importance: 4
 pride:		7
 wordcount:	3000
@@ -25,13 +25,15 @@ cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philo
 
 
 <div class="accordion">
-    <h3>Retraction</h3>
-    <div>  
-    	<i>August 2019</i>: I am no longer confident of this. Even then I found myself piling up many kinds of philosophy one should be doing - e.g. negative philosophy against bad philosophy, practical ethics, schemes for handling moral uncertainty, logic, population ethics, existential risk.<br><br>
+	<h3>Resolution (2021)</h3>
+	<div>
+		I have been flip-flopping on this post every few months for 4 years. I've cracked it at last:<br><br> the <i>median</i> philosophy degree does nothing for the world. But the tails are heavy.
+		Is the left tail (Herder, Rousseau, Marx, Freud, Zhu Hongdeng, Inazō, Schmitt, <a href="{{bio}}">half of bioethics</a>) as heavy as the right tail (Mozi, Santideva, Smith, Bentham, Ramsey, Singer, Sen, Bostrom)? <a href="#fn:1" id="fnref:1">1</a>
+		<br><br>
 <!--  -->
-    	The relatively small <i>active</i> effort on many questions (at most a few hundred careers, and more often much less than one) is a good argument for it not being impossible to solve philosophical questions. (Less-likely impossible in proportion to neglect.)<br><br>Also there's <a href="{{dai}}">the importance of</a> <a href="{{zhu}}">non-perverse philosophy</a> for making a future artificial intelligence; it doesn't need to be right or definite, but it needs to land in a non-insane part of philosophical space.<br><br>
+		I think it's extremely difficult to know your own potential, and also surprisingly difficult to know which tail one is in.<br><br>
 <!--  -->
-    	I've left it up, since many of the individual rebuttals to common bad arguments still hold.
+		So my actual answer to the statement in the title is: because I am not confident I'm exceptional, and not confident I'm the good kind of exceptional. The rest of this post is for those like me.
 	</div>
 </div>
 
@@ -311,6 +313,13 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 
 
 
+Where does this leave us?
+
+I find myself piling up many kinds of philosophy one should be doing - e.g. negative philosophy against bad philosophy, practical ethics, schemes for handling moral uncertainty, logic, population ethics, existential risk. But then I remember the left tail, of very harmful philosophers.
+
+The relatively small <i>active</i> effort on many questions (at most a few hundred careers, and more often much less than one) is a good argument for it not being impossible to solve philosophical questions. (Less-likely impossible in proportion to neglect.)<br><br>Also there's <a href="{{dai}}">the importance of</a> <a href="{{zhu}}">non-perverse philosophy</a> for making a future artificial intelligence; it doesn't need to be right or definite, but it needs to land in a non-insane part of philosophical space.<br><br>
+
+
 <br>
 
 <hr />
@@ -319,7 +328,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 
 A real nonphilosopher would not feel the need to write something like this.
 
-Since my list of caveats is forty times longer than my original point, obviously I am an amateur philosopher after all. But not first.
+<!-- My list of caveats is forty times longer than my original point, so I am an amateur philosopher. But not first. -->
 
 <br><br>
 
@@ -347,3 +356,11 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 <br><br>
 
 {%  include nophil/tangents.html     %}
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+		Of course, the tails of science are <a href="{{midg}}">also</a> heavy. Heavier. But it's easier to tell which you're in.
+	</li>
+</ol>
