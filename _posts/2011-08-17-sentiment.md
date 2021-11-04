@@ -194,7 +194,7 @@ Absymal night - feverish, neuralgic, tinnitic, insomniac, gut-rotten. Sleep nake
 <div style="text-align: center">
 	<img src="/img/england/pills.jpg" width="60%" />
 </div>
-
+<br><br>
 
 ## Day 13: York to Harrogate
 
@@ -204,7 +204,7 @@ Pain largely lifts. Change a tyre, read aunt Guardian, and away. Pain returns fr
 <div style="text-align: center">
 	<img src="/img/england/harrogate.jpg" width="60%" />
 </div>
-
+<br><br>
 
 ## Day 14: Harrogate into Bronteland.
 
@@ -218,7 +218,7 @@ Self-righteous passerby asks if we have permission to camp: his transformation a
 
 ## Day 15: Bingley to Littleborough
 
-Wake to find a passing dog has eaten my breakfast. Eat cereal on the verge of an A-road. We climb 1500 feet in two miles - on the edge of the Pennines now. Haworth is bloody dramatic - all 40 degree valleys and Burtonesque outcrops. More bland road towns, and thenO!A highlight of the whole trip: an incredible, four-mile-long regular downslope to Hebden Bridge. Didn't pedal once. Shower at Todmorden and doze on an ex-golfcourse (what a lovely concept that is!) Power on to Summit Quarry, a stunning but midgey campsite. Tomato is the travel staple for some reason: 5/6 of the meals centre on it.<br />
+Wake to find a passing dog has eaten my breakfast. Eat cereal on the verge of an A-road. We climb 1500 feet in two miles - on the edge of the Pennines now. Haworth is bloody dramatic - all 40 degree valleys and Burtonesque outcrops. More bland road towns, and then<br><br>O!<br><br>A highlight of the whole trip: an incredible, four-mile-long regular downslope to Hebden Bridge. Didn't pedal once. Shower at Todmorden and doze on an ex-golfcourse (what a lovely concept that is!) Power on to Summit Quarry, a stunning but midgey campsite. Tomato is the travel staple for some reason: 5/6 of the meals centre on it.<br />
 
 <br>
 
@@ -238,7 +238,7 @@ Don't want to get up. Barns be comfy. Sit on a bench in Northwich and watch stra
 <div style="text-align: center">
 	<img src="/img/england/hel.jpg" width="80%" />
 </div>
-
+<br><br>
 
 ## Day 18: Chester
 
@@ -261,21 +261,21 @@ Poem for Chester's shot-tower:<br />
 
 Good hard towels at J's. More curry, then rush comically around Cheshire looking for J's friends in the old manner, blind guesswork. Nonbonfire party at friend-of-a-friend-of-a-friend Howard's. Thus get to see J in his hatching habitat, which is very good fun:
 
-<blockquote>"Buhhhhhhh, mi nam is J. H., I do nut kno bout art or fukkn books."</div>
+<blockquote>"Buhhhhhhh, mi nam is J. H., I do nut kno bout art or fukkn books."<br><br>
 
 "This guy had shit himself in the club. But he were so cool about it, 
-we felt like idiots for not shitting ourselves!"
+we felt like idiots for not shitting ourselves!"<br><br>
 "When in Rome, shit in the woods."</blockquote>
 
-He also gets piled on, in the course of which I clonk heads badly with another of his lovely mates. I'm totally fine, but he got fucked up. Helplessly embarassed. 
+He also gets piled on, in the course of which I clonk heads badly with another of his lovely mates. I'm totally fine, but he got fucked up. Giant swollen eye. Helplessly embarrassed. 
 
-The banter is fast and riotous; I don't keep up. He is forced to be young here. It might grieve me that I exert little of this fresh pressure, but nah SUCH LADS<br />
+Banter is fast and riotous; I don't keep up. He is forced to be young here. It might grieve me that I exert little of this fresh pressure, but nah SUCH LADS<br />
 
 <br>
 
 ## Day 19: Liverpool
 
-Another deceptively aimless 
+Another deceptively aimless one.
 
 Day out (aimed well by J). Drives us at length through bewildering spaghetti roads. Knows his history, especially the Beatles tour less travelled. First stop, the <a href="http://www.flickr.com/photos/heliophile/610320756/">Metropolitan Cathedral</a>. It is virtuoso, powerfully unsentimental. Dozens of excellent moments are set into a shocking overarching theme. It is my favourite church. I know this simply cos for once I felt no contempt in it. To 'the <a href="http://en.wikipedia.org/wiki/Philharmonic_Dining_Rooms">Phil</a>', the Docks and the Tate. It's Magritte at the moment, and he is loads of fun. Also the other Cathedral: equally brutalist but less modern, less true. They face each other down Hope Street, and the smaller Metro guts the shit out of him.
 
@@ -299,7 +299,7 @@ Back, risotto trop vert, and to the pub. Meet Cheshtronica supremo <a href="http
 
 <div style="text-align: center;">"<i>I can suck melancholy from song as a weasel sucks eggs</i>!"<br /> 
 - Jacques
-</div>
+</div><br><br>
 
 Roll straight out of bed onto the 1100 train to Manchester. No conductor! Rain forces us into weird cultural junkshop. Buzz about - go to the gay bit for Turing, the crap goth-encrusted cathedral, the cathedralite Town Hall. Try to see Johnny Vegas, but are crushed.Always so much about soldiers in churches. It's enough to drive you Marxist. Manc Cath claims all of one regiment's late-C20th dead on its wall - though a decent number of them wouldn't have given a shit about Christ. Supernatural insurance has done this world too much harm.Big public gallery is oddly dissatisfying, but there's a good Turner and some fun contemps. Try to eat in the modish Northern Quarter - no seats in: "Common", "Trof", "O??", nor "Oklahoma", so we eat in a mediocre vegan place. See Craig Charles. 
 
@@ -340,7 +340,9 @@ Woken by J having a good idea in the next room. Onwards. (J stays behind.)  Back
 
 ## Day 23: Congleton to Ashbourne
 
-Slept about 12 hours in tolerable misery. Spend ages decamping, soggy and grumpy. Less dashing, less swashing. Uphill struggle to Leek for hours - a spry 60 yearold biker overtakes us. Go to a crap cafe who begrudge us a sale. Limp on, fringing the Peaks.Altered consciousness, really. Focus on ruining your legs. Did about 40 mile yesterday; apparently that was too much. Stop at Ashbourne cemetary (count on the dead for peace). There's a humanising flash of sunlight, but that's all. Drink and chat amidst bunting and Scottish flags (?) Thai restaurant for tea which had the same gorgeous dense sculpted tofu as had in Beijing. Scratch out another mile, camp illegally on a footpath.
+Slept about 12 hours in tolerable misery. Spend ages decamping, soggy and grumpy. Less dashing, less swashing. Uphill struggle to Leek for hours - a spry 60 yearold biker overtakes us. Go to a crap cafe who begrudge us a sale. Limp on, fringing the Peaks. <br><br>
+
+Altered consciousness, really. Focus on ruining your legs. Did about 40 mile yesterday; apparently that was too much. Stop at Ashbourne cemetary (count on the dead for peace). There's a humanising flash of sunlight, but that's all. Drink and chat amidst bunting and Scottish flags (?) Thai restaurant for tea which had the same gorgeous dense sculpted tofu as had in Beijing. Scratch out another mile, camp illegally on a footpath.
 
 <!-- <div style="text-align: center">
 	<img src="/img/england/ash.jpg" width="60%" />
@@ -378,7 +380,11 @@ Up in sunshine. R's away today, so I trade my lovely inflatable mattress with hi
 
 <br>
 
-We don't stay long - there's a Christian rock band practicing in the main cavern and I'd be claustrophobic even without the aural cack. Get overwhelmed - there's a Hiroshima exhibit in a side-chapel, and something in me just gives way. I am about as fit as i'm ever going to get; I've got no physical complaints; I've done something grand with my July - but I'm not in good shape, in some important and wordless sense. R away home. I'm unaccompanied for the first time in three weeks; overtones of fear arrive. Push out defiantly for Warwick Uni, a great glass dump of knowledge. I could deal <a href="http://www.uc3m.es/portal/page/portal/postgraduate_studies/masters/Master_in_Economic_Development_and_Growth">with this</a> for a year; 2013, say. The economists are in the same building and floor as the philosophers, but of course they never speak.To Worcester by dark, whereupon I'm knackered. Their gallery's crap. Eat trendily (Slug &amp; Lettuce), shower at the leisure-centre with the broken boiler. Rain comes on so I ride around the empty '<a href="http://www.crowngate-worcester.co.uk/">Crowngate</a>', their covered marketplace-mall. Well fun. Waves of despair come on - have to bike 4 miles out of town, get a dozen rejections in that space. Find some Commons and collapse. Sleeping on the actual ground is quite a skill - have to work your back into and around all the bumps. Or go mad.
+We don't stay long - there's a Christian rock band practicing in the main cavern and I'd be claustrophobic even without the aural cack. Get overwhelmed - there's a Hiroshima exhibit in a side-chapel, and something in me just gives way. I am about as fit as i'm ever going to get; I've got no physical complaints; I've done something grand with my July - but I'm not in good shape, in some important and wordless sense. <br><br>
+
+R away home. I'm unaccompanied for the first time in three weeks; overtones of fear arrive. Push out defiantly for Warwick Uni, a great glass dump of knowledge. I could deal <a href="http://web.archive.org/web/20200729125725/https://www.uc3m.es/master/medeg">with this</a> for a year; 2013, say. The economists are in the same building and floor as the philosophers, but of course they never speak.<br><br>
+
+To Worcester by dark, whereupon I'm knackered. Their gallery's crap. Eat trendily (Slug &amp; Lettuce), shower at the leisure-centre with the broken boiler. Rain comes on so I ride around the empty '<a href="http://www.crowngate-worcester.co.uk/">Crowngate</a>', their covered marketplace-mall. Well fun. Waves of despair come on - have to bike 4 miles out of town, get a dozen rejections in that space. Find some Commons and collapse. Sleeping on the actual ground is quite a skill - have to work your back into and around all the bumps. Or go mad.
 
 <!-- <a  href="http://2.bp.blogspot.com/-JfZthsADXvU/TlaxiG01bnI/AAAAAAAABPw/ySmeAAeWbAs/s1600/skyline_420x284.jpg"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 400px; height: 270px;" src="http://2.bp.blogspot.com/-JfZthsADXvU/TlaxiG01bnI/AAAAAAAABPw/ySmeAAeWbAs/s400/skyline_420x284.jpg" alt="" id="BLOGGER_PHOTO_ID_5644894382461382258" border="0" /></a> -->
 
@@ -386,11 +392,15 @@ We don't stay long - there's a Christian rock band practicing in the main cavern
 
 ## Day 27: Callow End to Stow
 
-Woken by that most powerful of freejazz quartets, dogs screeching in joy near the ear. Even given that I've an awful unfocussed and heavy feeling, in this, our fifth week of the Road. Get a flurry of texts informing me of the passing of Amy Winehouse. (What's the obscurest celebrity you'd text someone over?)Make it to Great Malvern running on empty - no water nor nothin. Sit and eat for an hour. 
+Woken by that most powerful of freejazz quartets, dogs screeching in joy near the ear. Even given that I've an awful unfocussed and heavy feeling, in this, our fifth week of the Road. Get a flurry of texts informing me of the passing of Amy Winehouse. (What's the obscurest celebrity you'd text someone over?)
+
+Make it to Great Malvern running on empty - no water nor nothin. Sit and eat for an hour. 
 
 Overheard: [patronising] "Darling, you are what you are - it's your genes, isn't it?"<br />
 
-On this spot in AD1211: "Darlinge, you are whatt you are - it be Providence, see you not?"Nice town, full of theatres and Cryers. Up, up, up to Colwall, which is unspeakably peaceful. Lurk around the Downs School reading Auden. Then away, down to Stow. All the little towns around here are obviously nice, but I can't stand them. Spot <a href="http://en.wikipedia.org/wiki/Broadway_Tower">something bizarre</a> on a hill. We stare at each other for a bit until I give in.Wrestle over whether to get a hostel or eat well (both about £16, see). Hostel it is. Can't decide what I want first - a shower, some internet, clean shorts, food, wine, a nap, safety, a giant-ass bowl of cereals, or a little tenderness. Sort out my life; find all these things. My relief is violent.<br />
+On this spot in AD1211: "Darlinge, you are whatt you are - it be Providence, see you not?"<br><br>
+
+Nice town, full of theatres and Cryers. Up, up, up to Colwall, which is unspeakably peaceful. Lurk around the Downs School reading Auden. Then away, down to Stow. All the little towns around here are obviously nice, but I can't stand them. Spot <a href="http://en.wikipedia.org/wiki/Broadway_Tower">something bizarre</a> on a hill. We stare at each other for a bit until I give in.Wrestle over whether to get a hostel or eat well (both about £16, see). Hostel it is. Can't decide what I want first - a shower, some internet, clean shorts, food, wine, a nap, safety, a giant-ass bowl of cereals, or a little tenderness. Sort out my life; find all these things. My relief is violent.<br />
 
 <br>
 
