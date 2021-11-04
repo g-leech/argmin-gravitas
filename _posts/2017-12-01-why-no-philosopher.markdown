@@ -6,7 +6,7 @@ permalink:  /no-philosopher
 date:       2017-08-20
 author:     Gavin
 
-img:        /img/nophil.jpg
+img:        /img/nophiltop.jpg
 published:	true
 visible: 	1
 quality: 	8
@@ -332,6 +332,20 @@ A real nonphilosopher would not feel the need to write something like this.
 
 <br><br>
 
+<center>
+	<img class="big" src="/img/nophil.jpg" />
+</center>
+
+<style>
+	@media (min-width: 15em) {
+		.big {
+		width: 50%;
+		margin: 0px;
+	}
+	}
+</style>
+
+<br><br>
    
 _Dedicated to the University of Aberdeen, who in a 6 year period either fired, lost, or pushed out of teaching all but one of the excellent philosophers who taught me_: Gerald, Joe, Bob, Gerry, Guido, Nate, Tony, Catherine, Crispin, Grant, Russell, Aidan, Dylan, Aaron, Filippo, Francesco, Luca. 
 
