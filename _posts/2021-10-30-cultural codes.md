@@ -34,8 +34,7 @@ You can attempt to get into any such system of meaning. What's a word for those?
 
 <i>Claim</i>: every human activity, and every group of humans larger than one, forms a culture. It's often intentionally hard for outsiders to understand. <a href="{{j}}">Reality has a lot of detail</a>, and humans, good humans, paint this detail with <a href="{{prozd}}">meaning and distinctions</a>. Cracking these codes is the most important skill which is barely taught anywhere. <a href="#fn:5" id="fnref:5">5</a>
 
-Every year I try to get into something major. <a href="{{jarg}}">Hacker lore</a> (2014); "modern classical" music (2020); Chinese poetry (2011); Analytic philosophy (2008); <a href="{{econ}}">economic rationality</a> (2013); dank memes (2017); singing in public (2016); teaching (2020); this year, <a href="{{c}}">comic books</a>. <a href="#fn:3" id="fnref:3">3</a>
-
+Every year I try to get into something major. Hacker lore (2014); "modern classical" music (2020); Chinese poetry (2011); Analytic philosophy (2008); economic rationality (2013); dank memes (2017); singing in public (2016); teaching (2020); this year, <a href="{{c}}">comic books</a>. <a href="#fn:3" id="fnref:3">3</a>
 
 
 <br>
