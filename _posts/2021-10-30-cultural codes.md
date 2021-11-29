@@ -5,7 +5,7 @@ baselink:   /codes
 permalink:  /codes
 date:       2021-10-25
 author:     Gavin   
-img:        /img/cultural/cult.png
+img:        /img/three-mops-red-wall_1600.png
 
 visible:    1
 published:  true
@@ -170,7 +170,7 @@ Say you try it. Say you pick the top 10 all-time whatevers. But you bounce off -
 One powerful trick is to study what Marxists call the <a href="{{mat}}">material conditions</a>. <a href="#fn:1" id="fnref:1">1</a> For our purposes this is not a grand reduction of the ideal to the economic, it's just 1) how capital-intensive it is, 2) the demographics of the creators and audience, 3) the tempo and complexity of production (weekly for manga, a month for a serious poem). Then: _how do they do it?_ Those timelapse videos of someone painting or carving are ideal.
 
 I watched every Kubrick film and didn't really see the fuss. Then I read up on him, and learned that e.g. he had <a href="{{jon}}">thousands upon thousands of doorways</a> in London photographed while location scouting for _Eyes Wide Shut_.
-It's not that obsessiveness means quality, that inputs mean output. But it means _meaning_. As I rewatch him, I am have good reason to consider many parts of the production as meaningful, and in fact I like him far more on the second runthrough.<br><br>
+It's not that obsessiveness means quality, that inputs mean output. But it means _meaning_. As I rewatch him, I have good reason to consider many parts of the production as meaningful, and in fact I like him far more on the second runthrough.<br><br>
 
 Only once you know what's good, what the axes are, and how it's made can you understand originality, deviance, substyles, and your own sense of the greatness.
 
@@ -226,6 +226,7 @@ What will you like? What will you understand?
 
 ## See also 
 
+* <a href="{{mop}}">Am I advocating being a mop</a>?
 * <a href="{{sense}}">Seeking Sense</a>
 * <a href="{{coz}}">Comfort Zone Expansion</a>
 * <a href="{{zohar}}">Zohar Atkins</a> trying to explain dense and repugnant thinkers in plain and alluring terms.

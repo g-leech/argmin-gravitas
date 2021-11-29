@@ -383,7 +383,7 @@ Most of the above are other people's ideas.
 - AI Safety Support: [Safety coaching charity](https://www.aisafetysupport.org/resources/lots-of-links)
 - [80,000 Hours prioritise aspiring x-risk people](https://80000hours.org/speak-with-us/)
 - [My model of the size of AI safety](https://www.getguesstimate.com/models/16387)
-
+- [Jacob Steinhardt on engineering and safety](https://jsteinhardt.wordpress.com/2015/06/24/long-term-and-short-term-challenges-to-ensuring-the-safety-of-ai-systems/)
 
 
 <br>

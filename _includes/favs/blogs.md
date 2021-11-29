@@ -72,7 +72,8 @@
 			<a href="{{milan}}">Milan Griffes</a>, <br>
 			<a href="https://twitter.com/robertwiblin">Robert Wiblin</a>, <br>
 			<a href="http://zackmdavis.net/blog/">Zack Davis</a>, <br>
-			<a href="http://stumblingandmumbling.typepad.com/">Chris Dillow</a>, 
+			<a href="http://stumblingandmumbling.typepad.com/">Chris Dillow</a>,
+			<a href="https://samenright.com/ /">Sam Enright</a>
 	    </td>
 	  </tr>
 	</table>

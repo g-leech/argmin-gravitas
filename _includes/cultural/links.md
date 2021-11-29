@@ -31,3 +31,4 @@
 {% assign og = "https://ogiuemaniax.com/reviews/"		%}
 {% assign ae = "https://aelkus.github.io/"		%}
 {% assign jon = "https://www.theguardian.com/film/2004/mar/27/features.weekend"	%}
+{% assign mop = "https://meaningness.com/geeks-mops-sociopaths"	%}
