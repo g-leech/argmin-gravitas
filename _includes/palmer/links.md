@@ -1,0 +1,15 @@
+{%	assign black = "http://web.archive.org/web/20211129103655/https://irradiate.space/worldbuilding/notes-on-oaths-and-laws-from-terra-ignota/blacklaws/"	%}
+{%	assign euro = "https://terra-ignota.fandom.com/wiki/European_Union" %}
+{%	assign b = "https://terra-ignota.fandom.com/wiki/Gordian"	%}
+{%	assign u = "https://terra-ignota.fandom.com/wiki/Utopia"	%}
+{%	assign m = "https://terra-ignota.fandom.com/wiki/Mitsubishi"	%}
+{%	assign ma = "https://terra-ignota.fandom.com/wiki/Masons"	%}
+{%	assign c = "https://terra-ignota.fandom.com/wiki/Cousins"	%}
+{%	assign h = "https://terra-ignota.fandom.com/wiki/Humanists"	%}
+{%	assign meh = "https://terra-ignota.fandom.com/wiki/Hiveless"	%}
+{%	assign po = "https://www.reddit.com/r/TerraIgnota/comments/7srl26/zach_weinersmith_and_polystate_thought_experiment/"	%}
+{%	assign arch = "https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/"	%}
+{%	assign dril = "https://cryptovexillologist.tumblr.com/post/166039437603/the-terra-ignota-cast-as-dril-tweets"	%}
+{%	assign robnost = "http://web.archive.org/web/20211129132604/https://nostalgebraist.tumblr.com/post/669054122380656640/some-quick-reactions-to-perhaps-the"	%}
+{%	assign poll = "https://poll-maker.com/results1009893xa10948B5-42#tab-2"	%}
+{%	assign lee = "http://crookedtimber.org/2017/03/20/ada-palmers-great-conversation/"		%}
