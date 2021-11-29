@@ -22,14 +22,14 @@ visible:	true
 
 * <a class="noline" href="{{tc}}">emergent venturer</a>
 
-* <a class="noline" href="/favs/all">infovore</a>. <a class="noline" href="{{g}}">amateur critic</a><br>
+* <a class="noline" href="/favs/all">infovore</a>, <a class="noline" href="{{g}}">amateur critic</a><br>
 
-* ex-code-monkey, ex-statistician, ex-spreadsheet-jockey, ex-waiter, <a class="noline" href="/no-philosopher">ex-philosophy graduate?</a><br>
+* ex-code-monkey, ex-statistician, ex-spreadsheet-jockey, ex-waiter, <a class="noline" href="/no-philosopher">ex-philosophy fan</a><br>
 
 <!-- * <a class="noline" href="{{m}}">analytical storyteller</a> for Metaculus <a href="#fn:18" id="fnref:18">18</a><br> -->
 <!-- * I run a group for people struggling at uni<br> -->
 <!-- * <a class="noline" href="{{e}}">ESPR instructor</a><br> -->
-* despite <a href="{{ea}}">appearances</a>, <a href="/sites">not a blogger</a><br>
+* despite <a href="{{ea}}">appearances</a>, <a class="noline" href="/sites">not a blogger</a><br>
 
 
 * <span><a class="noline" href="/no-philosopher">I</a> <a class="noline" href="{{sittler}}">like</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a></span>
