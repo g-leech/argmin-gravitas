@@ -2,7 +2,7 @@
 Many riches. There are constantly five or so subplots on the go, and when one ends it spawns two others. Best are its careful sketches of deep divides: Tradition vs progress, act vs rule, order vs freedom, safety vs optimum return.
 
 Some of the oppositions fall flat because I don't have the requisite respect for the other side. For instance <i>Damnatio memoriae</i> - the official expurgation of someone from history - is presented as an ultimate horror (the pain and execution preceding it is overwhelmingly more important). 
-<blockquote>[the damned person is] <i>neither slim nor mighty, stooped nor noble, just a shape... Somewhere in a dusty archive a baptismal registry records some Hildebrand, and, when that dry page molders... I can't look, I can't! Behind the shades, the broad gray plain, that sea of shapeless gloom extending on and on... all forgotten souls, minds empty of memory, smeared one into another... to this absolute dissolution <a href="https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union" rel="nofollow noopener">Caesar</a> damns his enemies... Not me! I will never let you take me! I will carve my memory into history, by work, by force, by guile, in swathes of blood and ashes if I must!<br /></i></blockquote>
+<blockquote>[the damned person is] <i>neither slim nor mighty, stooped nor noble, just a shape... Somewhere in a dusty archive a baptismal registry records some Hildebrand, and, when that dry page molders... I can't look, I can't! Behind the shades, the broad gray plain, that sea of shapeless gloom extending on and on... all forgotten souls, minds empty of memory, smeared one into another... to this absolute dissolution <a href="https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union" class="nolink" rel="nofollow noopener">Caesar</a> damns his enemies... Not me! I will never let you take me! I will carve my memory into history, by work, by force, by guile, in swathes of blood and ashes if I must!<br /></i></blockquote>
 
 I can admire Palmer's rendition of the old bad legacy code (it has driven quite a lot of history) but I give no part of a real morality. The dead are past caring.
 
@@ -11,10 +11,10 @@ Elsewhere, the <a href="https://www.tate.org.uk/art/art-terms/a/aura" rel="nofol
 </blockquote>
 Speak for yourself; a perfect simulacrum is enough, though it screams depth to say otherwise. (I'm not actually salty: I love the breadth of ideologies on show here. No doubt someone else will grumble about how thin and unconvincing the utilitarian views presented here are. By writing so many good characters in disagreement, Palmer has passed about <a href="https://www.econlib.org/archives/2011/06/the_ideological.html" rel="nofollow noopener">10 Intellectual Turing Tests</a>. )
 
-On the other hand, I feel the horror of true deontology quite keenly:<br />
+* On the other hand, I feel the horror of true deontology quite keenly:<br />
 <blockquote><i>Dominic would happily watch the world burn if he could defile the blasphemer's corpse amid the coals.</i></blockquote>
 
-Much as I like Jedd Mason, his rise to the top of every state - the expressionless, motionless, Spectrumy king of the world - is implausible, even given his mother's scheming; it only makes sense with Intervention. Which is fine, because Palmer is committed to that, but it would still have been nice to have a natural path. 
+* Much as I like Jedd Mason, his rise to the top of every state - the expressionless, motionless, Spectrumy king of the world - is implausible, even given his mother's scheming; it only makes sense with Intervention. Which is fine, because Palmer is committed to that, but it would still have been nice to have a natural path. 
 
 
 <div class="accordion">
