@@ -21,9 +21,21 @@ Here's a solution: Just let the ones who want to stay stay!
 
 People often pose life extension and space exploration as opposites, but they just aren’t, and so they are an unsuitable pair to base thousands of pages of conflict upon. I can’t take Faust seriously when he arbitrarily prefers current people to all of the thousands of worlds’ worth of people that space exploration would bring. He misses the great daily loss of entire galaxies, lost forever. He says he wants ems, which could pack the earth denser with minds. Well consider the greater packing of galaxies full of ems! The only way it makes sense is if they’re selfish, scrabbling to keep themselves alive. His war, his terrorism, is thus rooted in repeated errors, and the books are rooted in his war. I cannot love this.
 
-(How to have them clash deeply? Make Utopia pro-death! "Science advances by funerals!")
+<div class="accordion">
+    <h3>How to have them clash deeply</h3>
+    <div>
+        Make Utopia <a href="{{ban}}">pro-death</a>! <br><br>
+        <blockquote>"Science advances by funerals! Out of the way, uncle!"</blockquote>
+          <br>
+        <!--  -->
+        Make Gordian paternalist authoritarians! <br><br>
+        <blockquote>"Utopia is drawing from <a href="{{bos}}">the Urn</a> and will get us all killed!"</blockquote>
+    </div>
+</div>
 
-Nearly all the main characters are Utopian fellow travellers, take one side.
+<br>
+
+Also nearly all the main characters are Utopian fellow travellers, take one side, which belies Palmer's normal preternatural sympathy for all. (Am I supposed to like Im-Jin?)
 
 What would I have as the war’s great theme? The one from the last book is fantastic and underemphasised here: faith in a benevolent dictator vs pragmatic, aggressive scepticism. The second? Past-regarders and future-regarders. Long reflection vs Builders. Noble lie vs radical honesty. Bioconservatism vs transhumanism (represented already, a little). Theory vs praxis. Academia vs autodidacts. Stamp collecting vs engineering. All better than the chosen "inwards vs out". 
 
@@ -44,7 +56,9 @@ What would I have as the war’s great theme? The one from the last book is fant
   <!--  -->
   <h3>Ugh to Jedd</h3>
   <div>
-      The fundamental problem: Jedd is not actually morally superior, which is why I don't like people kneeling to him. <a href="#fn:3" id="fnref:3">3</a> Absolute caring is not actually the perfect morality. He beats the monsters and Kosala and beautiful primitive Mason, but not Huxley. This is stupid for instance:
+      There was for two and a half books the question mark above Jedd - someone raised by a mother famously good at contorting human desires, with no scruples about instrumental harm. Sure, he <i>thinks</i> he's an infinite Creator from a nearby universe. But at least in the surface text this question mark disappears, for Mycroft and Outis and whoever anyway. (Palmer is clever enough that we can revive the question mark without doing damage to the text, but it does take effort.) <br><br>
+      <!--  -->
+      The fundamental problem, then: Jedd is not actually morally superior, which is why I don't like people kneeling to him. <a href="#fn:3" id="fnref:3">3</a> Absolute caring is not actually the perfect morality. He beats the monsters and Kosala and beautiful primitive Mason, but not Huxley. This is stupid for instance:
       <blockquote><i>Some occupations, mainly medical, may be judged too essential to subtract from, but for the rest, even the most important projects in the world” — tremble, Utopia and Gordian — “we must give up a portion of what would have been our life’s works to restore what we can of the devastated life’s works of the dead</i></blockquote>
       <br />
       Postponing a death from heart attack is essential, but preventing deaths from aging isn't?? A debt to the past is lexicographically above all present and future people??

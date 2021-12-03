@@ -13,3 +13,6 @@
 {%	assign robnost = "http://web.archive.org/web/20211129132604/https://nostalgebraist.tumblr.com/post/669054122380656640/some-quick-reactions-to-perhaps-the"	%}
 {%	assign poll = "https://poll-maker.com/results1009893xa10948B5-42#tab-2"	%}
 {%	assign lee = "http://crookedtimber.org/2017/03/20/ada-palmers-great-conversation/"		%}
+{%	assign gc = "https://en.wikipedia.org/wiki/Great_Conversation"		%}
+{%	assign bos = "https://www.nickbostrom.com/papers/vulnerable.pdf"		%}
+{%	assign ban = "https://www.goodreads.com/quotes/191207-was-fergus-urvill-anywhere-still-apart-from-the-body--"	%}

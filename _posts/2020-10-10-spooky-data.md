@@ -32,6 +32,9 @@ This is _weird_. It's a set of numbers.
 
 The trick is to realise that it's not the data which is contaminated: the _inference_ is.
 
+Specifically, it's circular reasoning. https://elifesciences.org/articles/48175#bib37
+
+HARKing is updating twice on the same data
 
 M errors
 
