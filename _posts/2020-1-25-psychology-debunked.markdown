@@ -18,9 +18,17 @@ importance: 5
 warnings: 	I am not a social scientist.
 categories: long-content, science, psychology, lists
 wordcount:  3500
+cross: 		https://socialsciences.nature.com/posts/reversals-in-psychology
 ---
 
 {%  include psy/links.md   %}
+
+
+<h3>Now a crowdsourced project <a href="{{f}}">elsewhere</a>. Seeking volunteers!</h3>
+
+<hr />
+
+<br>
 
 <!-- - HOPE
 - GRIT

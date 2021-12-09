@@ -256,3 +256,4 @@
 {%	assign trainrct = "https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2657279/DP%2009.pdf?sequence=1&isAllowed=y"		%}
 
 {%	assign dunedin = "https://www.pnas.org/content/108/7/2693#T1"	%}
+{%	assign f = "https://forrt.org/reversals/"		%}

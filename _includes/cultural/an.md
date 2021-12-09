@@ -6,7 +6,7 @@
 
 I didn't understand manga at all before knowing the <b>material conditions</b>: often one chapter per <i>week</i>, low pay, enormous catalogues of copy-paste backgrounds. The author does not know when the series will be cancelled, so it's impossible to plot properly. <i>Shirobako</i> is an anime about the material conditions of anime.<br><br>
 
-It's very important to understand Japanese drawing even if you hate it. It is massive among the young and growing fast. The French government is <a href="{{french}}">currently spending</a> about €200m a year on manga, because they were beautiful and decided to trust French youth with their own cultural spending.<br><br>
+It's very important to understand Japanese drawing even if you hate it. It is massive and growing fast. The French government is <a href="{{french}}">currently spending</a> about €200m a year on manga, because they were beautiful and decided to trust French youth with their own cultural spending.<br><br>
 
 <!-- $900 to buy One Piece -->
 
