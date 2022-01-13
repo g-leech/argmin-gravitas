@@ -50,3 +50,4 @@
 {%	assign sbs = "https://www.sbspod.com/episodes/responders-non-responders-and-fish-oil"	%}
 {%	assign ctf = "https://www.dailymail.co.uk/news/article-9847791/Secretive-cell-Civil-Servants-Government-ministers-blame-Covid-pingdemic.html"	%}
 {%	assign nat = "http://socialsciences.nature.com/posts/reversals-in-psychology"	%}
+{%	assign acxmandate = "https://astralcodexten.substack.com/p/lockdown-effectiveness-much-more"	%}
