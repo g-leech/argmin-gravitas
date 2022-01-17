@@ -5,16 +5,16 @@ baselink:   /jvn
 permalink:  /jvn
 date:       2022-01-01
 author:     Gavin   
-img:        /img/JohnvonNeumann.png
+img:        /img/JohnvonNeumann.jpg
 
 visible:    1
 published:  true
 quality:    
 
-summary:    
-confidence: 
-importance: 
-wordcount:  
+summary:    On intelligence and virtue and the vexed connection.
+confidence: 90% (regarding the long dead)
+importance: 9
+wordcount:  1000
 categories:	greats
 ---
 
