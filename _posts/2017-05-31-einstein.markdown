@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "'Einstein' (2007) by Isaacson"
+title:      "Einstein"
 baselink:   /einstein
 permalink:  /einstein
 date:       2018-06-27
@@ -15,7 +15,7 @@ quality:    4
 
 wordcount:  1000
 warnings: 	I am not a physicist.
-categories: bio, science, greatness
+categories: bio, science, greats
 ---
 
 <center>
@@ -28,6 +28,8 @@ Jacob Bronowski</center><br>
 {%		assign brown = "https://en.wikipedia.org/wiki/%C3%9Cber_die_von_der_molekularkinetischen_Theorie_der_W%C3%A4rme_geforderte_Bewegung_von_in_ruhenden_Fl%C3%BCssigkeiten_suspendierten_Teilchen" 		%}
 {%		assign muck = "https://books.google.co.uk/books?id=MjVgeT7Laf8C&pg=PA129&dq=To+think+I+have+spent+my+life+on+absolute+muck&hl=en&sa=X&ved=0ahUKEwjsoarEl6fnAhUnUhUIHQxJAbcQ6AEIKDAA#v=onepage&q=To%20think%20I%20have%20spent%20my%20life%20on%20absolute%20muck&f=false"		%}
 
+
+_A review of 'Einstein' (2007) by Walter Isaacson_.
 
 What to say about the stereotypically great? Start by scrubbing off the accumulated century of journalism and appropriations. <br><br>
 

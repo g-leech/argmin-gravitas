@@ -31,8 +31,7 @@ visible:	true
 <!-- * <a class="noline" href="{{e}}">ESPR instructor</a><br> -->
 * despite <a href="{{ea}}">appearances</a>, <a class="noline" href="/sites">not a blogger</a><br>
 
-
-* <span><a class="noline" href="/no-philosopher">I</a> <a class="noline" href="{{sittler}}">like</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a></span>
+* My hobbies are getting into things, singing, lifting, obituaries, idly planning to become a more serious person, <span><a class="noline" href="/no-philosopher">I</a> <a class="noline" href="{{sittler}}">and</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a></span>
 
 <div></div>
 <br>
