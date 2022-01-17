@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "'Perfect Rigour' (2009) by Gessen"
+title:      "Perelman"
 baselink:   /perelman
 permalink:  /perelman
 date:       2019-01-08
@@ -15,7 +15,7 @@ warnings:	anti-semitism, cruelty to children, literary cruelty to adults
 summary:    Maths, morals, and character in the early work of Grigori Perelman.
 confidence: Empty speculation.
 wordcount:      920
-categories: bio, maths, ethics, review
+categories: bio, maths, ethics, review, greats
 ---
 
 
@@ -23,6 +23,7 @@ categories: bio, maths, ethics, review
 	<img src="/img/perel.jpg" width="30%" />
 </center><br>
 
+_A review of 'Perfect Rigour' (2009) by Masha Gessen_.
 
 {%	assign kol = "https://www.scottaaronson.com/blog/?p=3376"	%}
 {%	assign drov = "https://en.wikipedia.org/wiki/Aleksandr_Danilovich_Aleksandrov"	%}

@@ -32,6 +32,7 @@
 			<a href="{{ozy}}">Ozy Frantz</a>; <br>
 			<a href="{{what}}">Randall Munroe</a>; <br>
 			<a href="{{buck}}">Buck Shlegeris</a>, <br>
+			<a href="https://universalprior.substack.com/">Jan Kirchner</a>, <br>
 	    </td>
 	    <td class="tg-zv4m">
 	    	<a href="{{casp}}">Caspar Oesterheld</a>, <br>

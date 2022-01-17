@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Alan Turing: The Enigma (1983) by Hodges"
+title:      "Turing"
 baselink:   /enigma
 permalink:  /enigma
 date:       2017-09-01
@@ -15,7 +15,7 @@ summary:    Turing's accomplishments, cost-benefits, & emotional consequence.
 confidence: 95%
 importance: 6
 wordcount:  1480
-categories:	bio, computers, effective-altruism
+categories:	bio, computers, effective-altruism, greats
 ---
 
 {% 	assign cpi = "https://www.in2013dollars.com/uk/inflation/1940?amount=6000"		%}
@@ -31,6 +31,8 @@ categories:	bio, computers, effective-altruism
 <br>
 
 <blockquote><i>In a man of his type, one never knows what his mental processes are going to do next.</i></blockquote><center>- JAK Ferns, Turing's coroner</center><br><br>
+
+_A review of Turing: The Enigma (1983) by Andrew Hodges_.
 
 There have been two big films about Turing (three if you count the uselessly fictionalised <i>Enigma</i> (2001)). All are dishonestly melodramatic to some degree; for instance they depict Turing's relationship with his dead love Christopher as the driver of his work on machine intelligence. And more generally they depict him as tragic. But he wasn't tragic: we were. In the 1950s we attacked a superlative person, because we were certain it was the right thing to do.<br><br>
 

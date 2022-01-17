@@ -64,3 +64,4 @@
 {%		assign bright = "https://sootyempiric.blogspot.com/2021/05/the-end-of-analytic-philosophy.html"	%}
 {%		assign bio = "https://www.lesswrong.com/posts/Wzjjynmp8gMmdX6dt/thirty-three-randomly-selected-bioethics-papers"	%}
 {%		assign midg = "https://en.wikipedia.org/wiki/Thomas_Midgley_Jr."		%}
+{%		assign koko = "https://onlinelibrary.wiley.com/doi/abs/10.1111/phpe.12133"		%}

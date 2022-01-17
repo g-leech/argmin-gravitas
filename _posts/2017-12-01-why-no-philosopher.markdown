@@ -28,7 +28,7 @@ cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philo
 	<h3>Resolution (2021)</h3>
 	<div>
 		I have been flip-flopping on this post every few months for 4 years. I've cracked it at last:<br><br> the <i>median</i> philosophy degree does nothing for the world. But the tails are heavy.
-		Is the left tail (Herder, Rousseau, Marx, Freud, Zhu Hongdeng, Inazō, Schmitt, <a href="{{bio}}">half of bioethics</a>) as heavy as the right tail (Mozi, Santideva, Smith, Bentham, Ramsey, Singer, Sen, Bostrom)? <br>
+	Is the <a href="{{koko}}">left tail</a> (Herder, Rousseau, Marx, Freud, Zhu Hongdeng, Inazō, Schmitt, <a href="{{bio}}">half of bioethics</a>) as heavy as the right tail (Mozi, Santideva, Smith, Bentham, Ramsey, Singer, Sen, Bostrom)? <br>
 		<center><a href="#fn:1" id="fnref:1">1</a></center>
 		<br><br>
 <!--  -->
