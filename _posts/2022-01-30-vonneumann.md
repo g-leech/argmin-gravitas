@@ -18,7 +18,9 @@ wordcount:  1000
 categories:	greats
 ---
 
-<img src="img/vonbook.jpg" />
+<center>
+  <img src="img/vonbook.jpg" width="60%" />
+</center>
 
 <br>
 
