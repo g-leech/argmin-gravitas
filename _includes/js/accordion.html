@@ -4,7 +4,16 @@
 
 <script>
   $( function() {
-    $( ".accordion" ).accordion({ active: false, autoHeight: false, heightStyle: "content", collapsible: true });
-  } );
+    $( ".accordion" ).accordion(
+      { 
+        active: false, autoHeight: false, heightStyle: "content", collapsible: true, 
+        icons: {
+          activeHeader: "ui-icon-triangle-1-s",
+          header: "ui-icon-triangle-1-e"
+        } 
+      }
+    );
+  } 
+  );
 </script>
 
