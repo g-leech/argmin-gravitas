@@ -18,6 +18,10 @@ wordcount:  1000
 categories:	greats
 ---
 
+<img src="img/vonbook.jpg" />
+
+<br>
+
 An awaited book; in fact I awaited it before I knew it was being written. Here is one of the most important people to ever live, and what notice do we take? Before now: One bad old biography (and <a href="https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma" rel="nofollow noopener">one-third</a> of another) and many gigantic maths monographs. Such yawning gaps come from historians and biographers being obsessed with artists instead - consider the nine Jane Austen biographies published in the last 11 years - and our scientists being inarticulate at best. unable or unwilling to stand up for themselves, and unrepresented by the chattering classes. (But a handful of scientists are great writers: Feynman and Dyson and Dawkins and Crick and Pascal and yeah Einstein is quotable and I was actually boggling at some of Gödel’s aphorisms just the other day. Boltzmann is funny.)
 
 It is incredibly difficult to cover everything von Neumann did - everything he did for the first time in history - even just everything with vast practical consequences which are still felt 60 years later. 
@@ -136,3 +140,5 @@ Nonerror: <b>The brain is digital</b><br>People act like he was naive about the 
 <b>Against high-level programming</b><br>'von Neumann opposed the development of assemblers and high-level language compilers. He preferred to employ legions of human programmers (mostly low-paid graduate students) to hand-assemble code into machine language. “It is a waste of a valuable scientific computing instrument”, von Neumann reportedly said, “to use it to do clerical work.”.'<br><br>
 
 <b>Various dumb personal risks</b><br>He did not live like someone who understood expected utility and hyperbolic discounting. He ate way too much, drove incredibly badly, was an easy mark for salesmen, pissed off his wife by leching. He spent a lot of time travelling to government meetings. He let others profit from his inventions. These imply irrationality - or a surprising lack of interest in his own wealth, longevity, time use, or marriage. <a href="https://musingsandroughdrafts.wordpress.com/2019/10/26/some-notes-on-von-neumann-as-a-human-being/" rel="nofollow noopener">This post collects other apparently bad decisions.</a>
+
+<br><br>
