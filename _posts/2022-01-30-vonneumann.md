@@ -5,20 +5,27 @@ baselink:   /jvn
 permalink:  /jvn
 date:       2022-01-01
 author:     Gavin   
-img:        /img/JohnvonNeumann.png
+img:        /img/JohnvonNeumann.jpg
 
 visible:    1
 published:  true
 quality:    
 
-summary:    
-confidence: 
-importance: 
-wordcount:  
+summary:    On intelligence and virtue and the vexed connection.
+confidence: 90% (regarding the long dead)
+importance: 8
+wordcount:  1000
 categories:	greats
 ---
 
-An awaited book; in fact I awaited it before I knew it was being written. Here is one of the most important people to ever live, and what notice do we take? Before now: One bad old biography (and <a href="https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma" rel="nofollow noopener">one-third</a> of another) and many gigantic maths monographs. Such yawning gaps come from historians and biographers being obsessed with artists instead - consider the nine Jane Austen biographies published in the last 11 years - and our scientists being inarticulate at best. unable or unwilling to stand up for themselves, and unrepresented by the chattering classes. (But a handful of scientists are great writers: Feynman and Dyson and Dawkins and Crick and Pascal and yeah Einstein is quotable and I was actually boggling at some of Gödel’s aphorisms just the other day. Boltzmann is funny.)
+<center>
+  <img src="img/vonbook.jpg" width="60%" />
+</center>
+
+<br>
+
+An awaited book; in fact I awaited it before I knew it was being written. Here is one of the most important people to ever live, and what notice do we take? Before now: One bad old biography (and <a href="https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma" rel="nofollow noopener">one-third</a> of another) and many gigantic maths monographs. Such yawning gaps come from historians and biographers being obsessed with artists instead - consider the nine Jane Austen biographies published in the last 11 years - and our scientists being inarticulate at best. unable or unwilling to stand up for themselves, and unrepresented by the chattering classes. <a href="#fn:1" id="fnref:1">1</a>
+
 
 It is incredibly difficult to cover everything von Neumann did - everything he did for the first time in history - even just everything with vast practical consequences which are still felt 60 years later. 
 
@@ -27,7 +34,7 @@ It is incredibly difficult to cover everything von Neumann did - everything he d
 * Chapter 4: solution to a profound engineering challenge which changed the world forever
 * ...
 
-Great philosophers get several kinds of books written about them - two are the Life (which gossips about their upbringing and vices), and the intellectual biography (which actually tries to explain and show the development of their ideas). Bhattacharya’s is more like the latter plus a smattering of parties, fast cars, and intellectual bitching.<br><br>
+Great philosophers get several kinds of books written about them - two are the Life (which gossips about their upbringing and vices), and the intellectual biography (which actually tries to explain and show the development of their ideas). Bhattacharya’s is more like the latter plus a smattering of parties, fast cars, and intellectual bitching.<br>
 
 <a href="/turing-bio">Hodges</a> is, in 600 pages, just able to enumerate Turing's achievements. Bhattacharya, in 284, is not even vaguely able to do this for vN. e.g. Almost no mention of his great work in group theory.
 
@@ -87,7 +94,7 @@ Bhattacharya covers about half of these.<br>
 
 <br>
 
-* The most important question in all of education: How did Hungary produce so many geniuses? Why did they stop? The second has an obvious answer (the Holocaust), but the first is tricky. von Neumann’s own answer was the empire’s weird mix of 1) tolerance and rewards for Jewish people, while 2) still being extremely volatile and so making them uncertain how long this would last and so rushing to succeed.<br><br>
+* The most important question in all of education: How did Hungary produce so many geniuses? Why did they stop? The second has an obvious answer (the Holocaust), but the first is tricky. Theories of Jewish excellence do not suffice: why Hungary instead of Poland (ten times larger population), Czechoslovakia, Britain? von Neumann’s own answer was the empire’s weird mix of 1) tolerance and rewards for Jewish people, while 2) still being extremely volatile and so making them uncertain how long this would last and so rushing to succeed.<br><br>
 
 * Bhattacharya’s informalisation of the technical results here is impressive. At least one fuckup though: on p112 he confuses completeness for correctness.<br><br>
 
@@ -111,28 +118,56 @@ Bhattacharya covers about half of these.<br>
 
 We tend to deify people, and they never deserve it. What did von Neumann get wrong?<br><br>
 
-<b>Mutually Assured Destruction</b><br>It's not obvious that this was a mistake - we're still here, MAD is a strong reason not to intentionally nuke people. But the sheer number of <a href="https://en.wikipedia.org/wiki/List_of_nuclear_close_calls" rel="nofollow noopener">near misses</a> and the overall estimate of <a href="https://www.crassh.cam.ac.uk/blog/post/less-hollywood-more-car-crash" rel="nofollow noopener">0.1%</a> annual state risk, should make us think that the strategy was actually poor, that we are walking selection bias. <br>The less obvious response is that he knew all that and was trading some existential risk to block the Soviet Empire's anti-human practices from taking over. Since this argument also works for the Soviets, or for any value system which values itself, he seems to have settled for an appalling equilibrium. Tragedy of the value lock-in commons.<br><br>
+#### <b>Mutually Assured Destruction</b><br>
+
+It's not obvious that this was a mistake - we're still here, MAD is a strong reason not to intentionally nuke people. But the sheer number of <a href="https://en.wikipedia.org/wiki/List_of_nuclear_close_calls" rel="nofollow noopener">near misses</a> and the overall estimate of <a href="https://www.crassh.cam.ac.uk/blog/post/less-hollywood-more-car-crash" rel="nofollow noopener">0.1%</a> annual state risk, should make us think that the strategy was actually poor, that we are walking selection bias. <br>The less obvious response is that he knew all that and was trading some existential risk to block the Soviet Empire's anti-human practices from taking over. Since this argument also works for the Soviets, or for any value system which values itself, he seems to have settled for an appalling equilibrium. Tragedy of the value lock-in commons.<br><br>
 
 VN wanted cooperation, wanted a long life for humanity. But he couldn’t trust enough not to escalate. The true altruist cannot afford to cooperate simply.<br><br>
 
-<b>First strike on the Soviets</b><br><blockquote>
+#### <b>First strike on the Soviets</b>
+
+<blockquote>
   <i>If you say 'why not bomb them tomorrow', I say, why not today? If you say 'today at five o'clock', I say why not one o'clock?</i>
-</blockquote>(He recanted this a couple of years later.)<br><br>
+</blockquote>(He recanted this a couple of years later.)
+<br>
 
-The mistake was twofold: to assume that the Soviets would continue growing, and to assume that the nuclear taboo would not hold. That taboo, that tradition is one of the most precious things in the world, and almost nothing is worth breaking it. To which you reply: <a href="https://en.wikipedia.org/wiki/The_Black_Book_of_Communism#Estimated_number_of_victims" rel="nofollow noopener">100 million people</a> are not worth it? To which I can only apologise and suggest that 100 million are not worth 300 million.<br><br>
+The mistake was twofold: to assume that the Soviets would continue growing, and to assume that the nuclear taboo would not hold. That taboo, that tradition is one of the most precious things in the world, and almost nothing is worth breaking it. To which you reply: <a href="https://en.wikipedia.org/wiki/The_Black_Book_of_Communism#Estimated_number_of_victims" rel="nofollow noopener">100 million people</a> are not worth it? To which I can only apologise and suggest that 100 million are not worth 300 million.<br>
 
-<br><b>Trusting Klaus Fuchs</b><br>He actually handed the Soviets a new nuke design through the infamous Fuchs.<br><br>
+#### <br><b>Trusting Klaus Fuchs</b><br>
 
-<br>Nonerror: <b>"Proof" of no hidden variables</b><br>The conventional view is that von Neumann screwed up his no-hidden-variables proof, claimed to have shown the impossibility of hidden variables, and that this convinced everyone until Bell came along and exposed the error (30 years after Grete Hermann did it and was ignored). But <a href="https://arxiv.org/abs/1006.0499" rel="nofollow noopener">this</a> <a href="https://arxiv.org/pdf/1801.09305.pdf" rel="nofollow noopener">misrepresents the proof</a>, which just says that a hidden variables theory will have to have a certain weird structure (which Bohmian mechanics does).<br><br>
+He actually handed the Soviets a new nuke design through the infamous Fuchs.<br>
 
-<b>Targeting Kyoto</b><br>I don't know if a nuclear strike on Japan was ultimately for the best (considering the appalling toll of the Pacific theatre on both sides, the likely larger toll of taking Honshū, and the second-order effects of showing the world that everything had changed). But that they were <i>civilian</i> strikes seems completely gratuitous. Striking Kyoto, the spiritual centre, in particular seems incredibly high risk.<br><br>
+#### <br>Nonerror: <b>"Proof" of no hidden variables</b><br>
 
-Nonerror: <b>The brain is digital</b><br>People act like he was naive about the brain as computer, but he just wasn’t:<br><blockquote>
+The conventional view is that von Neumann screwed up his no-hidden-variables proof, claimed to have shown the impossibility of hidden variables, and that this convinced everyone until Bell came along and exposed the error (30 years after Grete Hermann did it and was ignored). But <a href="https://arxiv.org/abs/1006.0499" rel="nofollow noopener">this</a> <a href="https://arxiv.org/pdf/1801.09305.pdf" rel="nofollow noopener">misrepresents the proof</a>, which just says that a hidden variables theory will have to have a certain weird structure (which Bohmian mechanics does).<br><br>
+
+#### <b>Targeting Kyoto</b><br>
+
+I don't know if a nuclear strike on Japan was ultimately for the best (considering the appalling toll of the Pacific theatre on both sides, the likely larger toll of taking Honshū, and the second-order effects of showing the world that everything had changed). But that they were <i>civilian</i> strikes seems completely gratuitous. Striking Kyoto, the spiritual centre, in particular seems incredibly high risk.<br><br>
+
+#### Nonerror: <b>The brain is digital</b><br>
+
+People act like he was naive about the brain as computer, but he just wasn’t:<br>
+<blockquote>
   <i>the brain can prima facie be considered as a digital computer. However, upon further reflection, some elements of analog computing (e.g., the chemistry) will also become relevant in understanding the functioning of the brain.</i>
-</blockquote><br><br>
+</blockquote>
+<br>
 
-<b>The von Neumann bottleneck</b><br>The world standard architecture for computers leads to <a href="https://en.wikipedia.org/wiki/Von_Neumann_architecture#Von_Neumann_bottleneck" rel="nofollow noopener">a huge waste of CPU cycles</a>, waiting for memory. This wasn't such a big deal in the 50s, but CPU performance has masssively outpaced bus bandwidth over the last 70 years.<br><br>
+#### <b>The von Neumann bottleneck</b><br>
 
-<b>Against high-level programming</b><br>'von Neumann opposed the development of assemblers and high-level language compilers. He preferred to employ legions of human programmers (mostly low-paid graduate students) to hand-assemble code into machine language. “It is a waste of a valuable scientific computing instrument”, von Neumann reportedly said, “to use it to do clerical work.”.'<br><br>
+The world standard architecture for computers leads to <a href="https://en.wikipedia.org/wiki/Von_Neumann_architecture#Von_Neumann_bottleneck" rel="nofollow noopener">a huge waste of CPU cycles</a>, waiting for memory. This wasn't such a big deal in the 50s, but CPU performance has masssively outpaced bus bandwidth over the last 70 years.<br><br>
 
-<b>Various dumb personal risks</b><br>He did not live like someone who understood expected utility and hyperbolic discounting. He ate way too much, drove incredibly badly, was an easy mark for salesmen, pissed off his wife by leching. He spent a lot of time travelling to government meetings. He let others profit from his inventions. These imply irrationality - or a surprising lack of interest in his own wealth, longevity, time use, or marriage. <a href="https://musingsandroughdrafts.wordpress.com/2019/10/26/some-notes-on-von-neumann-as-a-human-being/" rel="nofollow noopener">This post collects other apparently bad decisions.</a>
+#### <b>Against high-level programming</b><br>
+
+<blockquote>'von Neumann opposed the development of assemblers and high-level language compilers. He preferred to employ legions of human programmers (mostly low-paid graduate students) to hand-assemble code into machine language. “It is a waste of a valuable scientific computing instrument”, von Neumann reportedly said, “to use it to do clerical work.”.'
+</blockquote>
+<br>
+
+#### <b>Various dumb personal risks</b><br>
+
+He did not live like someone who understood expected utility and hyperbolic discounting. He ate way too much, drove incredibly badly, was an easy mark for salesmen, pissed off his wife by leching. He spent a lot of time travelling to government meetings. He let others profit from his inventions. These imply irrationality - or a surprising lack of interest in his own wealth, longevity, time use, or marriage. <a href="https://musingsandroughdrafts.wordpress.com/2019/10/26/some-notes-on-von-neumann-as-a-human-being/" rel="nofollow noopener">This post collects other apparently bad decisions.</a>
+
+<br><br>
+
+
+{%  include jvn/foots.html %}
