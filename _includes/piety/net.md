@@ -13,6 +13,7 @@ Because it contains a good and growing representation of the world entire, this 
 	<h3>The resistance to web</h3>
 	<div>
 	<ul>
+		<!-- https://docs.google.com/document/d/1DJ5VeI6BJfcIy98n7ROhxtNh7StQYpORyMTFwuO7nMI/edit -->
 		<li>The <a href="http://en.wikipedia.org/wiki/Anarcho-primitivism">primitivists</a>, who are usually wrong.</li>
 		<li>Evgeny Morozov, who is against technological hype</li>
 		<li>Similarly <a href="http://www.nytimes.com/2012/01/05/opinion/internet-access-is-not-a-human-right.html?_r=0">Vint Cerf</a>.</li>

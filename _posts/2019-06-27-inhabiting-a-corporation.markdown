@@ -25,10 +25,8 @@ argument:
 
 You find yourself inside a machine the size of a city. It is slow, powerful, <a href="{{age}}">theoretically</a> <a href="{{immort}}">immortal</a>, and contains thousands of cogs and hard-wired operators and inexplicably sealed bulkheads. It's warm and well-watered. You could die in here.
 
-<br>
 <center>
-<div style="width:60%">
-
+<div style="width:70%">
     <a href="{{mechImg}}"><div id="mechImg"></div></a>
 <br>
 </div>
@@ -100,7 +98,6 @@ That said, we shouldn't equivocate between state and private bureacracies, as th
 
 <center>
 <div style="width:40%">
-
     <a href="{{prettyImg}}"><div id="prettyImg"></div></a>
 <br>
 </div>
@@ -111,6 +108,15 @@ That said, we shouldn't equivocate between state and private bureacracies, as th
 * I wish I could say that being surrounded by beautiful buildings - nigh unto greatness - had a sustained effect on my character or even my mood but I'm afraid it didn't. Aesthetics is a <a href="{{mill}}">treadmill</a>.
 
 * The classic image of a <a href="{{boy}}">Cityboy</a> is wrong: real conformist / careerists wear a surprisingly bright blue suit.
+
+
+<center>
+<div style="width:60%">
+    <img src="{{walkie}}" />
+    <br>
+</div>
+</center>
+
 
 <br>
 

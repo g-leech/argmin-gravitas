@@ -152,9 +152,9 @@ _Expected lifespan_: Probably 10 years.
 _Expected lifespan_: 10 years.<br>
 _Cost per year_: £1.50
 
-* In the UK, <a href="{{pcs}}">PCSpecialist</a> sell fast cheap Taiwanese laptops, to spec. Roughly 40% more computer for a given price than Dell. I've had a Lafite III for 2 years, going strong (though it runs hot when working hard). Great customer service too.<br>
-_Expected lifespan_: 5 years.<br>
-_Cost per year_: £200
+* ThinkPad Carbon X1 laptop with customs maxed out (£1600). Light, fast, beautiful, runs Linux without a peep. m.2 drive is worth every penny. <a href="#fn:1" id="fnref:1">1</a><br>
+_Expected lifespan_: 6 years.<br>
+_Cost per year_: £250
 
 * I don't know if it counts as productivity, since I spend about an hour a day playing with it, but <a href="{{roam}}">Roam</a> is the best personal knowledge base software I've seen. Text, maths, code, images, bidirectional links, single-copy imports... It promises to unify me across decades. (My blogs also do this, but only for the top 1% of thoughts.) Workflowy and Notion are a tree: Roam is the awesome power of a graph, which is what thoughts are like. Currently free, soon to be pricey.
 

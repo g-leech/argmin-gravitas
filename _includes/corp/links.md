@@ -11,8 +11,9 @@
 {%		assign immort = "https://fortune.com/longform/fortune-500-through-the-ages/"		%}
 {%		assign baum = "https://www.goodreads.com/review/show/2876187626"		%}
 {%		assign boy = "https://www.theguardian.com/books/2008/jul/01/1"		%}
-{%		assign prettyImg = "/img/shot.jpg"			%}
 {%		assign mechImg = "/img/mech.jpg"			%}
+{%		assign prettyImg = "/img/shot.jpg"			%}
+{%		assign walkie = "/img/walkie.jpg"			%}
 {%		assign mill = "https://en.wikipedia.org/wiki/Hedonic_treadmill"			%}
 
 {%		assign watch = "https://corpwatch.org/company-search"		%}

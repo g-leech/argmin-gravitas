@@ -1,7 +1,7 @@
 <big>1. Following the news.</big><br>
 
 
-<i>The element of truth</i>: What good is reading the news? It's important to try to understand stuff. People act badly in the absence of oversight; the powerful act even worse.
+<i>The element of truth</i> (What good is reading the news?): It's important to try to understand stuff. People act badly in the absence of oversight; the powerful act even worse.
 <br>
 
 <i>The errors enforced:</i> 'News is a good way of understanding the world'; <br>'a newspaper is representative of events';<br> 'news is a guide to what's really (causally) important in the world';<br> 'newsreading is a necessary condition of showing concern or solidarity with the world'.
@@ -21,7 +21,6 @@ That would make my abstention <a href="{{free}}">free-riding</a>, a bad thing. B
 <div class="accordion">
 <h3>The resistance to news</h3>
 <div>
-
 	<ul>
 		<li><a href="{{davies}}">Nick Davies</a>, the big whistleblower in the UK media.</li>
 		<li><a href="{{tal}}">Nassim Taleb</a>.</li>
@@ -30,6 +29,8 @@ That would make my abstention <a href="{{free}}">free-riding</a>, a bad thing. B
 		<li><a href="{{ignore}}">Charlie</a> <a href="{{stross}}">Stross</a> </li>
 		<li><a href="{{ozy}}">Ozy Frantz</a>.</li>
 		<li><a href="{{gert}}">Aaron Gertler</a>.</li>
+		<li><a href="{{ads}}">AppliedDivinityStudies</a></li>
+		<!--  -->
 		<li><a href=""></a><a href="{{han}}">Robin Hanson</a> skewers it like always: 
 			<blockquote>... if you care less about signaling intelligence and connectedness, and more about understanding, then consider reading textbooks, review articles, and other expert summaries instead of news.</blockquote><br></li>
 		<li>Georges Perec:
