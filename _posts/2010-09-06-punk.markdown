@@ -118,6 +118,11 @@ This clunky approach lets us account for the mind-jarring variety of people that
 </div>
 <br>
 
+<center>
+	<img border=1 width="60%" src="/img/tentacle.jpg" />
+</center>
+
+<br>
 
 ### Core elements
 
