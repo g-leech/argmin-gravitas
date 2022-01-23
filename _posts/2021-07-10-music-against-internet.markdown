@@ -5,7 +5,7 @@ baselink:   /logoff
 permalink:  /logoff
 date:       2022-01-22
 author:     Gavin   
-img:        /img/
+img:        /img/Burnham.jpg
 
 visible:    1
 published:  true
@@ -24,6 +24,11 @@ categories: music, art, culture
 {%  assign aero = "https://www.science.org/doi/10.1126/science.abd9149"  %}
 {%  assign peter = "https://www.youtube.com/watch?v=wLoG9zBvvLQ"    %}
 
+
+<center>
+<img width="60%" src="/img/Burnham.jpg" />
+</center>
+<br>
 
 > Could I interest you in everything, all of the time?<br>
 A little bit of everything, all of the time?<br>
