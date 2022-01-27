@@ -49,7 +49,7 @@ We should distinguish private returns (pay, increased confidence, increased know
 
 ### Productivity
 
-Are educated people more productive? Yes. But did their education cause this? <a href="{{card}}">To some extent</a>!
+Are educated people more productive? Yes. But did their education cause this? <a href="{{card}}">To some extent maybe</a>!
 
 <!-- ...Lots of practice of self-denial and patience... -->
 
@@ -75,14 +75,21 @@ The humanist response is that educating your citizens produces huge noneconomic 
 The private noneconomic return is enormous, larger than the huge private economic return, for some people. e.g. 4 years of relative freedom, away from home, surrounded by bright horny people can be very good for your later worldview, life goals, and mental health. You get space to build yourself new. Or if not build, then to locate yourself in culture, philosophy, and personality space.
 
 
-    - Compiling a world model
-        - PG: lost the source
-        - it’s important to make kids learn specific facts, but not so important that they remember them; teaching someone (eg) Civil War history is “training” a “predictive model” of the Civil War, war in general, and history in general which will survive and remain useful even after the specific facts and battles are long forgotten. I think this is the strongest defense of modern education, given that we do spend lots of time teaching kids things they will definitely forget. But how would you test it?
-            - https://www.lesswrong.com/posts/F6ZTtBXn2cFLmWPdM/seven-years-of-spaced-repetition-software-in-the-classroom-1
+More grandly, you can see education as a compiler: you take a young person and a curriculum, and you output a young person with a better model of the world.
 
-Escape from abusive home / single ideology
+<a href="http://www.paulgraham.com/know.html?viewfullsite=1">PG</a>:
 
+> Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don't know why.
 
+This totally answers the correct charge that people forget almost everything about high school and their degrees unless constantly using that knowledge.
+
+<a href="https://www.lesswrong.com/posts/F6ZTtBXn2cFLmWPdM/seven-years-of-spaced-repetition-software-in-the-classroom-1">Or</a>:
+
+> it’s important to make kids learn specific facts, but not so important that they remember them; teaching someone (eg) Civil War history is “training” a “predictive model” of the Civil War, war in general, and history in general which will survive and remain useful even after the specific facts and battles are long forgotten. I think this is the strongest defense of modern education, given that we do spend lots of time teaching kids things they will definitely forget. But how would you test it?
+
+* Escape from abusive home / a single ideology
+
+* Makes you <a href="https://marginalrevolution.com/marginalrevolution/2006/02/why_education_i.html">savvy</a>, imparts a specific set of cultural skills, such that you can get hired and mingle well in the productive sectors. I don't know whether to call these skills productive themselves.
 
 But again, what matters in policy terms is the relative size of social gain and social cost.
 

@@ -131,11 +131,13 @@ The mood is ultra anxious, decadent, but unlike others he manages to convey some
 ### _Inside_ by Bo Burnham
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xHotXbGZiFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ObOqq1knVxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 <br>
 
-This is a covid album more than an internet album. But the covid years were the most intense internet years ever. He is always skilled, sometimes beautiful, but often limits himself to novelty songs. (What is a novelty? Something which works only once, regardless of the quality of that once.)
+A covid album more than an internet album. But the covid years were the most intense internet years ever. 
+
+He is always skilled, sometimes beautiful - but often limits himself to novelty songs. (What is a novelty? Something which works only once, regardless of the quality of that once.)
 
 > Mommy let you use her iPad; you were barely two<br>
 And it did all the things we designed it to do<br>
@@ -143,9 +145,9 @@ Now, look at you! Oh, look at you!<br>
 You, you! Unstoppable, watchable...
 
 
-_White Woman's Instagram_ is a few things. It's sneering. It's crabbed: seeing positivity makes him want to drag it down. It hides its basic negativity behind political: without the 'white' qualifier it would have caused him trouble.
+_White Woman's Instagram_ is a few things. It sneers. It's crabbed: seeing positivity makes him want to drag it down. It hides its basic negativity behind political piety: without the 'white' qualifier to validate it, it would have caused him trouble, "joyshaming" or whatever.
 
-But then it drops all that and shows the woman as mourning her dead parents and I defy you to keep smirking.
+But then it drops all that and shows the woman mourning her dead parents and I defy you to keep smirking.
 
 > Her favorite photo of her mom<br>
 The caption says, "I can't believe it<br>
@@ -156,6 +158,7 @@ Mama, I got a boyfriend and I'm crazy about him<br>
 Your little girl didn't do too bad<br>
 Mama, I love you, give a hug and kiss to dad"
 
+(Although I'm not actually sure that cruelty was the base level intention, rather than cruelty-baiting. _If in fact_ he was pretending to join in with our contempt - to get us to lower our guard and so feel ashamed when those dead parents make us remember that this is a [fictional? no matter] person and that taste-as-in-cynicism is a small thing - then this is greatness. But I fear not.)
 
 What torments Burnham? Lockdown, clearly. Modern political guilt, but only somewhat. Something organic under it all.
 
@@ -175,7 +178,7 @@ Are you gonna hold me accountable?<br>
 My bed is empty, and I'm getting cold<br>
 Isn't anybody gonna hold me accountable?
 
-But the song also distances him from his stupid, brilliant early work. Honour him for not allowing this to crush him, for still telling some jokes, even if they're sad and self-negating.
+But the song also distances him from his stupid, brilliant early work. Honour him for not allowing this to _utterly_ crush him, for still telling some jokes, even if they're sad and reject comedy.
 
 
 > Stunning 8K-resolution meditation app<br>
@@ -376,4 +379,4 @@ To listen to them, you'd think the internet was a curse.
 
 I'm reminded of the popular view of Twitter (and Reddit), as a sea of toxin which needs to be tightly controlled. Sorry to tell you that the toxin is coming from inside the house.
 
-None succeed in capturing the internet's aesthetics and logics as well as Dril. But then nothing does.<br>
+None succeed in capturing the internet's aesthetics and logics as well as Dril. But then nothing does.<br><br>

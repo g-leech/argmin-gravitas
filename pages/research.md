@@ -73,7 +73,7 @@ visible:	true
 ## Service
 
 * Briefed the UK Cabinet Office <a href="{{ctf}}">COVID-19 Task Force</a> on masks.
-* Reviewer for <a href="{{ml}}">Machine Learning</a>, <a href="{{bmj}}">BMJ Global Health</a>, <a href="{{aisc}}">AI Safety Camp</a>.
+* Reviewer for <a href="{{pnas}}">PNAS</a>, <a href="{{ml}}">Machine Learning</a>, <a href="{{bmj}}">BMJ Global Health</a>, <a href="{{aisc}}">AI Safety Camp</a>.
 
 <br>
 

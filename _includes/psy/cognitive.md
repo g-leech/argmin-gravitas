@@ -38,7 +38,7 @@
 				<span class="b">Original effect size</span>: No sds reported so I don't know.<br><br>
 				2 of the 4 experiments showed a <i>positive</i> relationship between score and perceived ability; 2 showed no strong relationship. And the best performers tended to underestimate their performance. <a href="{{gig}}">This replicates</a>: the correlation between your IQ and your assessment of it is around \(r \simeq 0.3\). (3) and (4) are not at all warranted.<br><br> 
 				<!--  -->
-				(5) is much shakier than (1). The original paper concedes that there's a <a href="{{dkmath}}">purely statistical</a> explanation for (1): just that it is much easier to overestimate a low number which has a lower bound! And the converse: if I am a perfect performer, I am <i>unable</i> to overestimate myself. D&K just think there's something notable left when you subtract this.<br> It's also confounded by (2). 
+				(5) is much shakier than (1). The original paper concedes that there's a <a href="{{dkmath}}">purely statistical</a> explanation for (1): just that it is much easier to overestimate a low number which has a lower bound! And the converse: if I am a perfect performer, I am <i>unable</i> to overestimate myself. D&K just think there's something notable left when you subtract this.<br> It's also confounded by (2). <a href="{{buhr}}">Here's a great explainer</a>.
 			</li>
 			<br>
 			<li>
