@@ -15,6 +15,7 @@ visible:	true
 
 <table>
 	{%	include researches/covid_neur.html	%}
+	{%	include researches/forrt.html	%}
 	{%	include researches/ilp.html	%}
 </table>
 
