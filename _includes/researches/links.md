@@ -52,3 +52,6 @@
 {%	assign nat = "http://socialsciences.nature.com/posts/reversals-in-psychology"	%}
 {%	assign acxmandate = "https://astralcodexten.substack.com/p/lockdown-effectiveness-much-more"	%}
 {%	assign pnas = "https://www.pnas.org/"	%}
+{%	assign forrtvid= "https://www.youtube.com/watch?v=M1TzjegeEtw"	%}
+{%	assign forrt= "https://forrt.org/reversals/"	%}
+{%	assign aimos= "http://web.archive.org/web/20220130224512/https://www.aimosconference.com/schedule.html"	%}
