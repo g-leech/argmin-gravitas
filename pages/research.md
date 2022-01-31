@@ -14,8 +14,8 @@ visible:	true
 ## Conference
 
 <table>
-	{%	include researches/covid_neur.html	%}
 	{%	include researches/forrt.html	%}
+	{%	include researches/covid_neur.html	%}
 	{%	include researches/ilp.html	%}
 </table>
 
