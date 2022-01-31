@@ -382,12 +382,19 @@ I'm reminded of the popular view of Twitter (and Reddit), as a sea of toxin whic
 
 None succeed in capturing the internet's aesthetics and logics as well as Dril. But then nothing does.<br><br>
 
-<div class="">
-    Shockingly good writing from a business professor, <a href="{{forgues}}">Forgues</a>:
+<div class="accordion">
+    <h3>Cherrypicking and lemonpicking</h3>
+    <div>
+        Shockingly good writing from a business professor, <a href="{{forgues}}">Forgues</a>:
     <!--  -->
     <blockquote>
         The problem is, extreme cases are rare. Rare enough not to show up in our random samples (or at least not in sufficient numbers for us to run statistics). So we resort to laboratory experiments or simulations, which bring rigour and yield strong results, but also face constant criticisms for lack of external validity. Or we single out cases for qualitative analysis, which allows in-depth understanding, but are mostly suited to specific (often processual) research questions. There is another way to sidestep the issue of rare cases. It consists in purposely taking identified rare cases and adding other observations randomly, and is known as case-control design. The case-control design offers promising research avenues for our field. It opens the door to a better understanding of breakthrough innovation, corporate misconduct, megamergers, financial restatements, etc. Still, this boils down to sampling on the dependent variable, something we have been warned against repeatedly as graduate students. The risk is sample selection bias and false inferences...
     </blockquote>
     <!--  -->
-    So too with all cultural criticism like the above.
+        So too with all cultural criticism, like the above.
+    </div>
 </div>
+
+## See also
+
+* [Tyler on music as vehicle for ideas - formerly](https://marginalrevolution.com/marginalrevolution/2022/01/a-simple-theory-of-culture.html).
