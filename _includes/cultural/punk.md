@@ -11,7 +11,7 @@ This ^ is one of the all-time great punk recordings. It has 5 chords (or rather 
 Somehow this ^ is punk too. They took punk to mean freedom (ha!), and got the real freedom afforded to the thrifty at least. By a band who practiced harder than you would believe.
 <br><br><br>
 
-<b>Critics</b>: Michael Azerrad, Daniel Sinker, Steve Albini, Robert Christgau, Pierro Scaruffi<br><br>
+<b>Critics</b>: Michael Azerrad, Daniel Sinker, Steve Albini, Robert Christgau, Piero Scaruffi<br><br>
 
 <b>Material conditions</b>: Ideal teenage culture. Parents don’t like it, it’s incredibly easy for you to participate, cool and edgy, easy uniform, expresses & ennobles alienation you were feeling anyway. DIY. Cheap! $5 gig tickets. Skill optional. Shocking on purpose. Alternative economics. Full lifestyle. Distortion covers mistakes.<br><br>
 
