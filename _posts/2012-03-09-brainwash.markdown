@@ -10,7 +10,7 @@ img:        /img/
 visible:    1
 published:  false
 
-summary:    Why false consciousness is a risky idea 
+summary:    Why ascribing false consciousness is risky, often false 
 quality:    4
 emotion: 	4
 confidence: 70%
@@ -21,6 +21,9 @@ argument:   brainwash/argument.html
 ---
 
 <!-- https://deaexmachinus.substack.com/p/machines-society-16-mass-sleeping -->
+
+{%	assign adorno = "https://aeon.co/essays/against-guilty-pleasures-adorno-on-the-crimes-of-pop-culture"	%}
+{%	assign orlando = "https://books.google.bs/books?id=zfuwDwAAQBAJ&pg=PA258&lpg=PA258&dq=%22stultifying+effects+of+popular+culture+on+the+Western+working+class%22&source=bl&ots=d-W4TURYYD&sig=ACfU3U1Kn1cbn7TZpSTt5zhGv43lG6K9PA&hl=en&sa=X&ved=2ahUKEwiDi5OBm-v1AhVSTDABHbO2An4Q6AF6BAgFEAM#v=onepage&q=%22stultifying%20effects%20of%20popular%20culture%20on%20the%20Western%20working%20class%22&f=false"		%}
 
 
 
@@ -164,7 +167,16 @@ Two problems with treating it as an end:
 		Science Wars
 		Culture War
 	</div>
-	<!--  -->
+	<!--  
+	-->
+	<h3>The pomo critique of pop and globalised pop</h3>
+	<div>
+		The above idiotic model of psychology pops up again in the elitist postmodernist disdain for pop culture. Half of the complaining about Western homogenisation of the world comes from the West, left and right. And this is very close to the original <a href="{{adorno}}">modernist</a>/ postmodernist attack on the 'stultifying effects of pop culture on the Western working class'. <a href="{{orlando}}">Orlando Patterson</a>:<br><br>
+		<blockquote>
+		people never passively absorb cultural messages... "The incandescence is not simply a surface market quality. It produces, is driven by, and reproduces further forms and varieties for everyday symbolic work and creativity, some of which remain in the everyday and in common culture far longer than they do on the market."<br> Critics of global pop culture have in mind a world of passive consumers, homogenized and manipulated into Marx's notorious sack of potatoes. It is nothing of the sort... The semi- and non-literate masses of the Third World invariably react to Western cultural influence in a non-passive manner, reinterpreting what they receive in the context of their own cultures... something new [to them], although still local, emerges
+	</div>
+	<!-- 
+	-->
 	<h3>Epigram</h3>
 	<div>
 		<blockquote>
@@ -179,7 +191,7 @@ Two problems with treating it as an end:
 
 ## See also
 
-* [Mako Shen](https://deaexmachinus.substack.com/p/machines-society-16-mass-sleeping) on dream arguments, false consciousness, wokeness.
+* [Mako Shen](https://deaexmachinus.substack.com/p/machines-society-16-mass-sleeping) on dream arguments, false consciousness, and the nervous energy currently called woke.
 
 
 <br><br>

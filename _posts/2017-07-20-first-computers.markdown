@@ -67,7 +67,5 @@ wordcount:	1039
 
 {%	include comput/details.html 	%}
 
-{%  include comments.html 	%}
-
 {%  include comput/foots.html %}
 
