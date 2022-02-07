@@ -19,17 +19,18 @@ visible:	true
 
 * <a class="noline" href="{{tc}}">emergent venturer</a>
 
-* <a class="noline" href="/favs/all">infovore</a>, <a class="noline" href="{{g}}">amateur critic</a><br>
+* <a class="noline" href="{{g}}">amateur</a> <a class="noline" href="/favs/all">critic</a><br>
 
-* ex-code-monkey, ex-statistician, ex-spreadsheet-jockey, ex-waiter, <a class="noline" href="/no-philosopher">ex-philosophy fan</a><br>
+* ex code monkey, ex spreadsheet jockey, ex waiter, <a class="noline" href="/no-philosopher">ex-philosophy fan</a><br>
 
-<!-- * I run a group for people struggling at uni<br> -->
 * <a class="noline" href="{{e}}">instructor at ESPR</a><br>
 
-* despite <a href="{{ea}}">appearances</a>, <a class="noline" href="/sites">not a blogger</a><br>
+<!-- * I run a group for people struggling at uni<br> -->
+
+<!-- * despite <a href="{{ea}}">appearances</a>, <a class="noline" href="/sites">not a blogger</a><br> -->
 
 
-* My hobbies are getting into things, singing, lifting, obituaries, idly planning to become a more serious person, <span><a class="noline" href="/no-philosopher">I</a> <a class="noline" href="{{sittler}}">and</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a></span>
+* My hobbies are getting into things, singing, lifting, obituaries, idly planning to become a more serious person, <a class="noline" href="{{sittler}}">and</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a></span>
 <!-- https://www.scottaaronson.com/papers/philos.pdf -->
 
 <div></div>
