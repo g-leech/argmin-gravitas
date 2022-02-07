@@ -59,3 +59,4 @@
 {%	assign hk = "https://www.cold-takes.com/honesty-about-reading/"	%}
 {%	assign ads = "https://applieddivinitystudies.com/against-news/"		%}
 {%	assign mat = "https://andymatuschak.org/books/"		%}
+{%	assign gwernlittle = "https://www.gwern.net/Littlewood"	%}

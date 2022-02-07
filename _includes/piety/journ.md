@@ -25,11 +25,12 @@ That would make my abstention <a href="{{free}}">free-riding</a>, a bad thing. B
 		<li><a href="{{davies}}">Nick Davies</a>, the big whistleblower in the UK media.</li>
 		<li><a href="{{tal}}">Nassim Taleb</a>.</li>
 		<li><a href="{{sw}}">Aaron Swartz</a>.</li>
+\		<li><a href="{{gwernlittle}}">Gwern</a></li>
 		<li><a href="{{crich}}">Michael Crichton</a>.</li>
 		<li><a href="{{ignore}}">Charlie</a> <a href="{{stross}}">Stross</a> </li>
 		<li><a href="{{ozy}}">Ozy Frantz</a>.</li>
 		<li><a href="{{gert}}">Aaron Gertler</a>.</li>
-		<li><a href="{{ads}}">AppliedDivinityStudies</a></li>
+\		<li><a href="{{ads}}">AppliedDivinityStudies</a></li>
 		<!--  -->
 		<li><a href=""></a><a href="{{han}}">Robin Hanson</a> skewers it like always: 
 			<blockquote>... if you care less about signaling intelligence and connectedness, and more about understanding, then consider reading textbooks, review articles, and other expert summaries instead of news.</blockquote><br></li>
