@@ -11,26 +11,26 @@ visible:	true
 <div></div>
 
 
-* <a class="noline" href="{{o}}">AI PhD at Bristol</a>; machine teacher.<br>
+* machine teacher (<a class="noline" href="{{o}}">AI PhD at Bristol</a>)<br>
 
-<!-- * <a class="noline" href="/researches">researcher</a><br> -->
-
-* <a class="noline" href="{{ea}}">potentially effective altruist</a><br>
+* <a class="noline" href="{{eaf}}">potentially effective altruist</a><br>
 
 * <a class="noline" href="{{tc}}">emergent venturer</a>
 
+* <a class="noline" href="{{e}}">ESPR instructor</a><br>
+
 * <a class="noline" href="{{g}}">amateur</a> <a class="noline" href="/favs/all">critic</a><br>
 
-* ex code monkey, ex spreadsheet jockey, ex waiter, <a class="noline" href="/no-philosopher">ex-philosophy fan</a><br>
+* ex code monkey, ex spreadsheet jockey, ex waiter, <a class="noline" href="/no-philosopher">ex philosophy fan</a><br>
 
-* <a class="noline" href="{{e}}">instructor at ESPR</a><br>
 
 <!-- * I run a group for people struggling at uni<br> -->
 
 <!-- * despite <a href="{{ea}}">appearances</a>, <a class="noline" href="/sites">not a blogger</a><br> -->
 
 
-* My hobbies are getting into things, singing, lifting, obituaries, idly planning to become a more serious person, <a class="noline" href="{{sittler}}">and</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a></span>
+* Hobbies: getting into things, singing, lifting, obituaries, idly planning to become a more serious person, <a class="noline" href="{{sittler}}">and</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a>
+
 <!-- https://www.scottaaronson.com/papers/philos.pdf -->
 
 <div></div>
