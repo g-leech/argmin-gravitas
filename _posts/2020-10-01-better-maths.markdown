@@ -233,6 +233,12 @@ All of academic science is stuck on many of the above, stuck in the 90s. Maybe w
 
 <br>
 
+> mathematics is, to a large extent, the invention of better notations
+
+- Feynman
+
+<br>
+
 ## See also 
 
 * <a href="{{tao}}">Terry Tao</a> on the mathematics of mathematical notation.
