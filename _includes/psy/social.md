@@ -144,6 +144,7 @@ https://eprints.qut.edu.au/38329/1/38329a.pdf
 	<li><span class="b">Critiques</span>: <a href="{{orben}}">Orben 2019</a>, n=355,358</li><br>
 	<li><span class="b">Original effect size</span>: N/A</li><br>
 	<li><span class="b">Replication effect size</span>: median association of technology use with adolescent well-being was β=−0.035, s.e.=0.004</li><br>
+	<li><a href="{{twengehaidt}}">The usual suspects</a> responded with a spec curve analysis (great!) and go fishing for a subgroup where the effect is notable. They find one (social media time in girls rather than screentime in the young), but only after misusing <a href="{{rohrermed}}">Rohrer 2018</a> to justify dropping important confounders as potential mediators.</li>
 </ul>
 </div>
 </div><br>

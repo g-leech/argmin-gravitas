@@ -105,6 +105,7 @@
 {%	assign wansink = "https://web.archive.org/web/20180307074049/https://www.timvanderzee.com/the-wansink-dossier-an-overview/"		%}
 {%	assign real = "https://journals.sagepub.com/doi/abs/10.1177/1088868318762183?journalCode=psra"	%}
 {%	assign eggo = "https://en.wikipedia.org/wiki/Ego_depletion"		%}
+{%	assign rohrermed = "https://journals.sagepub.com/doi/full/10.1177/2515245917745629"		%}
 
 {%	assign newton = "https://en.wikipedia.org/wiki/Isaac_Newton%27s_occult_studies"	%}
 {%	assign wallace = "https://en.wikipedia.org/wiki/Alfred_Russel_Wallace#Spiritualism"	%}
@@ -139,6 +140,7 @@
 {%	assign trz = "https://journals.sagepub.com/doi/abs/10.1177/1745691609356789"		%}
 {%	assign robe = "https://journals.sagepub.com/doi/abs/10.1177/1745691609357019"		%}
 {%	assign twen2 = "https://journals.sagepub.com/doi/abs/10.1177/1948550609355719"		%}
+{%	assign twengehaidt = "https://drive.google.com/file/d/17kVfI5zG_bc1souME54aQOhxfTYx9Mk-/view"		%}
 
 {% 	assign brown = "https://twitter.com/sTeamTraen"		%}
 {% 	assign meehl = "https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0102_1"		%}
