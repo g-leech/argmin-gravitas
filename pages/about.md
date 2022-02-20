@@ -20,7 +20,7 @@ visible:	true
 
 * <a class="noline" href="{{tc}}">emergent venturer</a>
 
-* <a class="noline" href="{{e}}">ESPR instructor</a><br>
+* <a class="noline" href="{{e}}">ESPR instructor</a>. I teach humans.<br>
 
 * <a class="noline" href="{{g}}">amateur</a> <a class="noline" href="/favs/all">critic</a><br>
 

@@ -12,7 +12,7 @@ published:  true
 quality: 	6
 
 summary:    A practical theory of the mind's panic mode and its giant harm.
-confidence: 70%. (Novel social science.)
+confidence: 50%. (some failed replications.)
 importance: 7
 wordcount:      
 ---
@@ -31,6 +31,10 @@ wordcount:
 {%	assign hospit = "https://www.strategy-business.com/article/00229?gko=a073f"		%}
 {%	assign iron = "https://www.gwern.net/docs/sociology/1987-rossi"		%}
 {%	assign slack = "https://www.lesswrong.com/posts/yLLkWMDbC9ZNKbjDG/slack"		%}
+
+
+
+
 
 Economics bills itself as 'the study of decisions under scarcity', but a lot of it is actually about excess: <a href="{{lux}}">luxury</a> substitution, savings rates, futures markets, conspicuous consumption... But even these theories are about constrained optimisation, just with looser constraints.
 
@@ -116,6 +120,21 @@ Only not five stars because we can't give any social science book five stars unt
 	</div>
 </div>
 {%	include scarc/disclaimer.md	%}
+
+
+<br /><br /><br />
+
+## Scarce evidence?
+
+[Camerer 2018](https://sci-hub.hkvisa.net/10.1038/s41562-018-0399-z) replication and meta-analysis wiped out
+Then [O'Donnell 2021](https://www.pnas.org/content/118/44/e2103313118)'s bundle of 20 replications
+
+
+<img src="/img/scarce_evidence.jpg" />
+
+
+
+Their own rerun found that one of the effect didn't replicate, but "scarcity itself leads to overborrowing" did.
 
 <br /><br /><br />
 
