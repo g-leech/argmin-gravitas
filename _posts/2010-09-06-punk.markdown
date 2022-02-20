@@ -22,6 +22,7 @@ argument:	punk/argument.md
 
 {%	include punk/links.md	%}
 
+
 <div align="center">
 	<img src="/img/punk.jpg" width="60%" />
 	<!-- Church of Euthanasia 'activist', c.2005. -->
