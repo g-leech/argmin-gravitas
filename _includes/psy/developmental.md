@@ -22,7 +22,7 @@
 </div><br>
 
 
-* Evidence for a small <span class="b">marshmallow effect</span>, that ability to delay gratification as a 4 year old predicts educational outcomes at 15 or beyond (Mischel).<br> After controlling for the socioeconomic status of the child's family, the Marshmallow effect is r=0.05 or <a href="{{marsh}}">d=0.1</a> one-tenth of a standard deviation for an additional minute delay, with nonsignificant p-values. And since it's usually easier to get SES data...
+* Mixed evidence for a small <span class="b">marshmallow effect</span>, that ability to delay gratification as a young person predicts educational outcomes at 15 or beyond (Mischel).<br> 
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -32,7 +32,8 @@
 		<li><span class="b">Critiques</span>: <a href="{{marsh}}">Watts et al 2018</a> (n=918), <a href="{{mischel2}}">Benjamin & Mischel 2020 (n=113 of the original participants!)</a> 
 		<br>(total citations: &#126; 120)</li><br>
 		<li><span class="b">Original effect size</span>: r= [0.42, 0.57] for SAT </li><br>
-		<li><span class="b">Replication effect size</span>: Watts: r=0.28. But after controlling for the socioeconomic status of the child's family, the Marshmallow effect is r=0.05 or d=0.1, one-tenth of a standard deviation for an additional minute delay, 'nonsignificant' p-values. </li><br>
+		<li><span class="b">Replication effect size</span>: Watts: r=0.28. But after controlling for the socioeconomic status of the child's family, the Marshmallow effect is r=0.05 or d=0.1, one-tenth of a standard deviation for an additional minute delay, 'nonsignificant' p-values. And since it's usually easier to get SES data...</li><br><br>
+		B&M (2020) note that preschool self-control is not predictive for success at 46.    
 		<!--  -->
 		However, the impressive <a href="{{dunedin}}">Dunedin longitudinal study</a> (n=1000 over 29 years) is some independent evidence for childhood self-control being persistent on many things, including dropping out of school. (Also some hair-raising results: "24% of the study members had been convicted of a crime by the age of 32 y.")
 	</ul>
