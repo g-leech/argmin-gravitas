@@ -225,7 +225,7 @@ The worst kind of cheating is <a href="{{danaher}}">treachery</a>: initially pre
 
 #### We can't even make groups of humans (e.g. corporations) do the right thing.
 
-No one at an oil company loves pollution, or hates nature. They just strong incentives to pollute. Also have strong incentives to stop any process which stops them (“regulatory capture”).
+No one at an oil company loves pollution, or hates nature. They just have strong incentives to pollute. Also strong incentives to stop any process which stops them (“regulatory capture”).
 
 We've maybe gotten a bit better at aligning them: corporations mostly don't <a href="{{banana}}">murder thousands of strikers anymore</a>.
 
