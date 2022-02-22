@@ -7,7 +7,7 @@ date:       2012-03-09
 author:     Gavin   
 img:        /img/
 
-visible:    1
+visible:    0
 published:  false
 
 summary:    Why ascribing false consciousness is risky, often false 
