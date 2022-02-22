@@ -31,10 +31,16 @@ wordcount:
 {%	assign hospit = "https://www.strategy-business.com/article/00229?gko=a073f"		%}
 {%	assign iron = "https://www.gwern.net/docs/sociology/1987-rossi"		%}
 {%	assign slack = "https://www.lesswrong.com/posts/yLLkWMDbC9ZNKbjDG/slack"		%}
+{%	assign sigh = "https://www.gleech.org/scarcity#scarce-evidence"	%}
 
 
+<br>
 
+<center>
+	<h3>See <a href="{{sigh}}">below</a> for the inevitable replication shrinkage making me look gullible again</h3>
+</center>
 
+<br>
 
 Economics bills itself as 'the study of decisions under scarcity', but a lot of it is actually about excess: <a href="{{lux}}">luxury</a> substitution, savings rates, futures markets, conspicuous consumption... But even these theories are about constrained optimisation, just with looser constraints.
 

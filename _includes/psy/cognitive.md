@@ -50,6 +50,8 @@
 				<a href="{{muller}}">Muller (2020)</a> replicate claim (1) and add some EEG stuff.
 				<br><br> 
 				Some suggestion that claim (2) is <a href="{{weird}}">WEIRD</a> only.</li><br>
+<!--  -->
+				Here's <a href="{{moore}}">some helpful terminology</a>.
 		</ul>
 		<br>
 	</div>
