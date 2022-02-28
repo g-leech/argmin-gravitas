@@ -23,6 +23,7 @@ visible:	true
 * <a class="noline" href="{{e}}">ESPR instructor</a>. I teach humans.<br>
 
 * <a class="noline" href="{{g}}">amateur</a> <a class="noline" href="/favs/all">critic</a><br>
+<!-- https://letterboxd.com/gleech/films/by/member-rating/ -->
 
 * probably the worst at maths of all Erdős number 4s
 <!--  href="#fn:18" id="fnref:18">18  -->
@@ -48,8 +49,11 @@ visible:	true
 
 <!-- Technically an <a href="{{ea}}">EA blog</a>, though I don't consider this a blog. (Blogging is more <a class="noline" href="/sites">speech</a> than writing.)<br><br> -->
 <!--  -->
-* If you want to talk, get in touch by <a href="mailto:{{ site.email }}">email</a>, or <a href="{{Form}}">anonymously</a>, or extremely privately <a href="{{pgp}}">via PGP</a>.
-<br><br><br>
+
+* If you want to talk, get in touch by <a href="mailto:{{ site.email }}">email</a>, or <a href="{{Form}}">anonymously</a>, or extremely privately <a href="{{pgp}}">via PGP</a>.<br><br>
+
+
+
 
 
 <!-- <div class="accordion">
@@ -69,9 +73,13 @@ visible:	true
 	{%	include about/misc.html	%}
 </div>
 
+<br><br>
+
+{%    include mc.html  %}
+
 
 {%	include about/foots.html	%}
 
 
 
-{%	include padder.html 	howMuch=26	%}
+{%	include padder.html 	howMuch=21	%}

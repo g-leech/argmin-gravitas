@@ -93,5 +93,7 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 		</li>
 	</ol>
 </div>
-<br>
+
+
+{%    include mc.html  %}
 
