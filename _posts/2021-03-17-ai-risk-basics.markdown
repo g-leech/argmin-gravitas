@@ -47,8 +47,6 @@ argument:	agi-intro/argument.html
 
 <br>
 
-### Harm through stupidity
-
 Could AI be a risk to humans? Well it already is:
 
 * <a href="{{eh}}">Elaine Herzberg</a> was killed by an Uber self-driving car, while walking her bike across a pedestrian crossing. The system couldn't decide if she was a bike or a person, and the switching between these two possibilities confused it. Uber had disabled the Volvo automatic braking system. (It was slowing them down.)
@@ -63,7 +61,7 @@ Could AI be a risk to humans? Well it already is:
 
 These systems did harm because they were too stupid to do what we ask (or because the humans deploying it are).
 
-What about a system harming us because it is too smart? Is there any real chance that advanced AI could ruin human potential on a grand scale?
+What about a system harming us because it is too smart? Is there any real chance that advanced AI could ruin us?
 
 #### Argument from caution
 
@@ -241,7 +239,7 @@ We should expect AI to be worse. The parts of a corporation, humans, all have hu
 
 
 
-#### Most goals are not helpful.
+#### Most goals are not helpful
 
 Look around your room. Imagine a random thing being changed. Your chair becomes 3 inches shorter or taller; your fridge turns upside down; your windows turn green, whatever.
 
@@ -315,6 +313,17 @@ Again, all of the best current systems are maximisers.
 ---
 
 <br>
+
+Consider the following possible reactions to an instruction:
+
+1. Do what I say ("wash the dishes": autoclave the dishes)
+2. Do what I mean (wash the dishes with water and gentle detergents)
+3. Do what makes me think you've done what I want (hide the dishes)
+4. Do what makes me say you've done what I want (threaten me until I click "complete")
+5. Do things which correlate with what I mean (disc-sand all objects in the area)
+6. Do what removes me from the reward process (hack yourself and give yourself infinite washed dishes)
+
+Until we understand intelligence better, we need to give some weight to each of these. Only (2) could be safe (once we also solve the problem of humans meaning harm).
 
 
 ### The mess of society

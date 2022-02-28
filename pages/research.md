@@ -101,6 +101,9 @@ visible:	true
 
 <!-- My acceptance rate is 50% (4/8) -->
 
+<br>
+
+{%    include mc.html  %}
 
 
 <br><br>
