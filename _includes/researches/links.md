@@ -1,7 +1,7 @@
 {%	assign goog = "https://scholar.google.com/citations?user=xC-v_aUAAAAJ"		%}
 {%	assign orcid = "https://orcid.org/0000-0002-9298-1488"		%}
 {%	assign bris = "http://www.bristol.ac.uk/engineering/people/gavin-l-leech/overview.html"	%}
-{%	assign covid = "https://science.sciencemag.org/content/early/2020/12/15/science.abd9338"		%}
+{%	assign covid = "https://www.science.org/doi/10.1126/science.abd9338"		%}
 {%	assign neurips_covid = "https://papers.nips.cc/paper/2020/file/8e3308c853e47411c761429193511819-Paper.pdf"	%}
 {%	assign coms = "https://github.com/carlhenrikek/COMS30007/"		%}
 {%	assign xrisk = "https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause"	%}
