@@ -64,6 +64,5 @@ Harvey's path - from development worker, to entrepreneur, to philanthropist, to 
 	<div>
 		* He was a wee bit of a <a href="http://philharveylit.org/books.php">libertarian crank</a> - but the good kind, considering the things that were illegal in his day. This probably drove his decision to make his nonprofits charge their recipients.<br><br>
 		* He also wrote <a href="http://philharveylit.org/wip.php">romance novels</a> about aid workers.<br><br>
-		* I can't find a single photo of him smiling.
 	</div>
 </div>

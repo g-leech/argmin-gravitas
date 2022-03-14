@@ -131,7 +131,7 @@ In the study of viruses and bacteria, there's a thing called "Gain of function" 
 
 #### We're getting there.
 
-GPT-3 displays <a href="{{gpt}}">quite a bit</a> of common-sense, an extremely hard open problem. We will probably pass the Turing test within 5 years. 
+GPT-3 displays <a href="{{gpt}}">quite a bit</a> of common-sense, an extremely hard open problem. We will probably pass the Turing test within 15 years. 
 
 We've already passed a number of other <a href="{{glue}}">classic benchmarks</a>, including the fiendish <a href="{{wino}}">Winograd schemas</a>.
 
