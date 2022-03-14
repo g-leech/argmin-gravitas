@@ -146,9 +146,9 @@ Now, look at you! Oh, look at you!<br>
 You, you! Unstoppable, watchable...
 
 
-_White Woman's Instagram_ is a few things. It sneers. It's crabbed: seeing positivity makes him want to drag it down. It hides its basic negativity behind political piety: without the 'white' qualifier to validate it, it would have caused him trouble, "joyshaming" or whatever.
+_White Woman's Instagram_ is several things. It sneers. Positivity makes him want to drag it down. He hides his negativity behind political piety: without the 'white' qualifier to validate it, it would have caused him trouble. Race as a normative modifier: it's ok cos...
 
-But then it drops all that and shows the woman mourning her dead parents and I defy you to keep smirking.
+But then it drops all that and shows her mourning her dead parents and I defy you to smirk.
 
 > Her favorite photo of her mom<br>
 The caption says, "I can't believe it<br>
@@ -159,7 +159,9 @@ Mama, I got a boyfriend and I'm crazy about him<br>
 Your little girl didn't do too bad<br>
 Mama, I love you, give a hug and kiss to dad"
 
-(Although I'm not actually sure that cruelty was the base level intention, rather than cruelty-baiting. _If in fact_ he was pretending to join in with our contempt - to get us to lower our guard and so feel ashamed when those dead parents make us remember that this is a [fictional? no matter] person and that taste-as-in-cynicism is a small thing - then this is greatness. But I fear not.)
+So the cruelty was a tool: bait for our cruelty, to get us to lower our guard and so feel shame when those dead parents remind us that this is a [fictional? no matter] person and that taste-as-in-cynicism is a small thing.
+
+<br>
 
 What torments Burnham? Lockdown, clearly. Modern political guilt, but only somewhat. Something organic under it all.
 

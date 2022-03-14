@@ -261,3 +261,4 @@
 {%	assign dunedin = "https://www.pnas.org/content/108/7/2693#T1"	%}
 {%	assign f = "https://forrt.org/reversals/"		%}
 {%	assign buhr = "https://jmbuhr.de/posts/2021-03-20-why-the-dunning-krueger-effect-is-probably-not-real/"	%}
+{%	assign med2 = "https://twitter.com/adamcifu/status/1501291771590021132"		%}
