@@ -22,7 +22,7 @@ visible:	true
 
 * <a class="noline" href="{{e}}">ESPR instructor</a>. I teach humans.<br>
 
-* <a class="noline" href="{{g}}">amateur</a> <a class="noline" href="/favs/all">critic</a><br>
+* <a class="noline" href="{{g}}">amateur</a> <a class="noline" href="/favs/all">critic</a>. <a href="/fivebooks#five-books">Here's</a> where I'm coming from.<br>
 <!-- https://letterboxd.com/gleech/films/by/member-rating/ -->
 
 * probably the worst at maths of all Erdős number 4s
@@ -50,7 +50,7 @@ visible:	true
 <!-- Technically an <a href="{{ea}}">EA blog</a>, though I don't consider this a blog. (Blogging is more <a class="noline" href="/sites">speech</a> than writing.)<br><br> -->
 <!--  -->
 
-* If you want to talk, get in touch by <a href="mailto:{{ site.email }}">email</a>, or <a href="{{Form}}">anonymously</a>, or extremely privately <a href="{{pgp}}">via PGP</a>.<br><br>
+* If you want to talk, get in touch: <a href="mailto:{{ site.email }}">email</a>, or <a href="{{Form}}">anonymously</a>, or extremely privately <a href="{{pgp}}">via PGP</a>.<br><br>
 
 
 
