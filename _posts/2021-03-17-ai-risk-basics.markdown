@@ -386,6 +386,7 @@ Most of the above are other people's ideas.
 
 ### Other links
 
+- [Daniel Dewey](https://www.danieldewey.net/risk) on trends in deep learning and why that might bite us
 - [DeepMind on real reward hacking](https://deepmind.com/blog/article/Specification-gaming-the-flip-side-of-AI-ingenuity)
 - [Long list of real-world ML cheats](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
 - [Long list of resources at all levels](https://vkrakovna.wordpress.com/ai-safety-resources/)

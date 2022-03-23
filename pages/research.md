@@ -62,6 +62,8 @@ visible:	true
 
 ## Popular
 
+* <i><a href="{{kulveit}}">Learning from crisis</a></i> (2022)
+* <i><a href="{{supers}}">Comparing top forecasters and domain experts</a></i> (2022)
 * <i><a href="/psych" target="_blank">Reversals in psychology</a></i> (2020)
 * <i><a href="{{academic_safety}}" target="_blank">The academic contribution to AI safety seems large</a></i> (2020)
 * <i><a href="{{xrisk}}" target="_blank">Existential risk as common cause</a></i> (2018)

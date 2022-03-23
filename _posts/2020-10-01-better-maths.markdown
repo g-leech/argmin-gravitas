@@ -38,6 +38,9 @@ argument:
 {%	assign dist2 = "https://distill.pub/2020/circuits/zoom-in/"	%}
 {%	assign sipser = "https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation"	%}
 {%	assign qiao = "https://mobile.twitter.com/QiaochuYuan/status/1306035720109404162"	%}
+{%	assign kun = "https://buttondown.email/j2kun/archive/ideas-for-math-tools/"		%}
+
+
 
 
 <center>
@@ -241,6 +244,7 @@ All of academic science is stuck on many of the above, stuck in the 90s. Maybe w
 
 ## See also 
 
+* <a href="{{kun}}">Jeremy Kun on some real shit</a>
 * <a href="{{tao}}">Terry Tao</a> on the mathematics of mathematical notation.
 * <a href="{{tao2}}">Terry Tao</a> on good notation
 * <a href="{{qc}}">Quantum Country</a>

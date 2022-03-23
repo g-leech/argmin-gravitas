@@ -55,3 +55,5 @@
 {%	assign forrtvid= "https://www.youtube.com/watch?v=M1TzjegeEtw"	%}
 {%	assign forrt= "https://forrt.org/reversals/"	%}
 {%	assign aimos= "http://web.archive.org/web/20220130224512/https://www.aimosconference.com/schedule.html"	%}
+{%	assign kulveit = "https://forum.effectivealtruism.org/posts/by8u954PjM2ctcve7/experimental-longtermism-theory-needs-data"	%}
+{%	assign supers = "https://forum.effectivealtruism.org/posts/qZqvBLvR5hX9sEkjR/comparing-top-forecasters-and-domain-experts"	%}
