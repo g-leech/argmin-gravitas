@@ -37,7 +37,12 @@ visible:	true
 <!-- * despite <a href="{{ea}}">appearances</a>, <a class="noline" href="/sites">not a blogger</a><br> -->
 
 
-* I like getting into things, <a class="noline" href="{{letter}}">judging</a> things, singing, <!-- <a class="noline" href="/strength">lifting</a>, --> <a class="noline" href="/deaths">obituaries</a>, idly planning to become a more serious person, <a class="noline" href="{{sittler}}">and</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a>
+* I like getting into things, <a class="noline" href="{{letter}}">judging</a> things, people changing their mind, singing, <!-- <a class="noline" href="/strength">lifting</a>, --> idly planning to become a more serious person, <a class="noline" href="{{sittler}}">and</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a>
+<!-- teaching people who want to know -->
+
+* Some of my favourite things are Mexican food, Pakistan green, <i>Mushishi</i>, <a class="noline" href="/deaths">obituaries</a>, shavasana, Scottish tap water, Werner Herzog, Limmy, Joanna Newsom, <a class="noline" href="{{hickey}}">Dave Hickey</a> and Jonathan Meades.
+
+<!-- * Jason Metheny -->
 
 <!-- https://www.scottaaronson.com/papers/philos.pdf -->
 

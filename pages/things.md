@@ -12,7 +12,6 @@ Some great things
 * Teaching people who want to know
 * Werner Herzog
 * Limmy
-* Have One On Me
-* Dave Hickey and Clive James
+* Have One On Me; Dave Hickey, Jonathan Meades and Clive James
 https://www.goodreads.com/review/show/2426812217?book_show_action=false&from_review_page=1
 <!-- * Jason Metheny -->
