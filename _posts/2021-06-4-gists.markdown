@@ -49,9 +49,15 @@ categories: code, science,
     - https://gist.github.com/g-leech/5a4f611ea79eb4e119a283f7b8811f04
  -->
 
+<a name="spock"></a>
+
 #### Via Julia Galef: <a href="{{spock}}">comparing Spock's predictive skill to a coin flip</a>
 
-The online forecasting community have a way of scoring how calibrated someone is, the Brier score. The _Enterprise_ would do better to consult a random process like a coin flip (and in fact they do ignore him most of the time). This matters because Spock is one of the main exemplars for rational thought, and he is a dingbat, which might explain some people's attitude towards explicit rationality.
+The online forecasting community have a way of scoring how calibrated someone is, the Brier score. Julia Galef gathered every time Spock from _Star Trek_ made one of his characteristic probability statements. I in turn just summarised her data into his Brier score: 0.57, a truly terrible score. (On average, his predictions are off by a full _75% out of 100%_.)
+
+So the _Enterprise_ would do better to consult a random process like a coin flip (and in fact they do ignore him most of the time). 
+
+As Galef notes, this matters because Spock is one of the main exemplars for rational thought, and he is a dingbat, which might explain some people's attitude towards explicit rationality.
 
 A natural objection: the episodes we see are not a representative sample of events; they are "selected" to be as dramatic and telegenic as they can be, which means that of course Spock predicts wrong! But by the exact same token, these are the events it is most important for Spock to predict well, and he does terribly, so the expected value of listening to him is still bad even if he gets everything else right.
 
