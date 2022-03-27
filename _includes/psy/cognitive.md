@@ -7,7 +7,7 @@
 		<ul>
 			<li><span class="b">Original paper</span>: '<a href="{{bau}}">Ego Depletion: Is the Active Self a Limited Resource?</a>', Baumeister 1998, n=67.
 				<br>(&#126;5700 citations).</li><br>
-			<li><span class="b">Critiques</span>: <a href="{{many2}}">Hagger 2016</a>, 23 independent conceptual replications 
+			<li><span class="b">Critiques</span>: <a href="{{many2}}">Hagger 2016</a>, 23 independent conceptual replications. <a href="https://pigee.wordpress.com/2018/06/15/eyes-wide-shut-or-eyes-wide-open/">Classic post</a>.
 				<br>
 			(total citations: &#126;640)</li><br>
 			<li><span class="b">Original effect size</span>: something like d = minus 1.96 between control and worst condition. (I hope I'm <a href="{{code}}">calculating</a> that wrong.)	<br>
