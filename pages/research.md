@@ -25,6 +25,7 @@ visible:	true
 ## Journal
 
 <table>
+	{%	include researches/coviddata.html	%}
 	{%	include researches/covid2.html	%}
 	{%	include researches/lineage.html	%}
 	{%	include researches/covid.html	%}
