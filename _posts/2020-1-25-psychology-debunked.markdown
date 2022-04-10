@@ -100,7 +100,9 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 
 ## Marketing
 
-* <a href="{{wansink}}">Brian Wansink</a> accidentally admitted gross malpractice; fatal errors were found in 50 of his lab's papers. These include flashy results about increased portion size massively reducing satiety.<br><br><br>
+* <a href="{{wansink}}">Brian Wansink</a> accidentally admitted gross malpractice; fatal errors were found in 50 of his lab's papers. These include flashy results about increased portion size massively reducing satiety.
+
+* Aaron Charlton maintains a remarkable list <a href="{{charl}}">here</a>.<br><br><br>
 
 <a id="neuro"></a>
 

@@ -262,3 +262,4 @@
 {%	assign f = "https://forrt.org/reversals/"		%}
 {%	assign buhr = "https://jmbuhr.de/posts/2021-03-20-why-the-dunning-krueger-effect-is-probably-not-real/"	%}
 {%	assign med2 = "https://twitter.com/adamcifu/status/1501291771590021132"		%}
+{%	assign charl = "https://openmkt.org/research/replications-of-marketing-studies/"	%}
