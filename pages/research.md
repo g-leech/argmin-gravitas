@@ -112,15 +112,16 @@ visible:	true
 
 <!-- My acceptance rate is 50% (4/8) -->
 
-<br>
+<br><br>
 
 {%    include mc.html  %}
 
 
-<br><br>
+<br><br><br>
+
 <small>Credit to James Walsh for the <a href="{{ac}}">academic SVGs</a>.</small>
 
-{%	include padder.html 	howMuch=5 	%}
+{%	include padder.html 	howMuch=3 	%}
 
 
 <script>
