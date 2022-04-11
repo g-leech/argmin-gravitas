@@ -193,6 +193,8 @@ Figures correct as of March 2020; I will put some effort into keeping this curre
 
 <!-- * gxE evidence for the MAOA warrior gene. -->
 
+<a name="melancholy"></a>
+
 <br>
 
 <hr />
@@ -208,15 +210,27 @@ What now? When the next flashy <a href="{{weird}}">WEIRD</a> paper out of a worl
 
 <a href="{{gel2}}">Andrew Gelman and others</a> suggest deflating _all_ single-study effect sizes you encounter in the social sciences, without waiting for the subsequent shrinkage from publication bias, measurement error, data-analytic degrees of freedom, and so on. There is no uniform factor, but it seems sensible to divide novel effect sizes by a number between 2 and 100 (depending on its sample size, method, measurement noise, _maybe_ its p-value if it's really tiny)...
 
-<a name="melancholy"></a>
-<br>
 
+<br><br>
+
+<h3>The melancholy of pareidolia</h3>
+<div>
+	Let me drop out of my proper "effect size estimation > binary truth or falsity" talk for a moment: There is something unbearably sad about the Wikipedia page for <a href="{{eggo}}">Ego depletion</a>.<br><br>
+<!--  -->
+	It's 3500 words, not including the Criticism section. It is rich with talk of moderators, physiological mechanisms, and practical upshots for the layman. And it is <a href="{{real}}">quite possible</a> that the whole lot of it is a phantom, a giant mistake. For small effect sizes, we can't tell the difference. Even people quite a bit smarter than us can't.<br><br>
+<!--  -->
+	If I wander around an old bookshop, I can run my fingers over sophisticated theories of ectoplasm, kundalini, past lives, numerology, clairvoyance, alchemy. Some were written by <a href="{{newton}}">brilliant</a> <a href="{{wallace}}">people</a> <a href="{{richet}}">who also</a> <a href="{{jpl}}">discovered</a> <a href="{{shel}}">real things</a>, <a href="{{mullis}}">whose</a> <a href="{{marg}}">minds</a> <i>worked</i>, damnit.<br><br>
+<!--  -->
+	We are so good at explaining that we can explain things which aren't there. We have made many whole libraries and entire fields without the slightest correspondence to anything. Except our deadly ingenuity.
+</div>
+
+<br><br>
 
 
 {%  include psy/caveats.md %}
 {%  include psy/foots.md %}
 
-<br>
+<br><br>
 
 # See also
 
@@ -225,6 +239,7 @@ What now? When the next flashy <a href="{{weird}}">WEIRD</a> paper out of a worl
 
 <br><br>
 
+# Acknowledgments
 
 _Thanks to <a href="{{gelman}}">Andrew Gelman</a>, <a href="{{ritchie}}">Stuart Ritchie</a>, <a href="{{scheel}}">Anne Scheel</a>, <a href="{{lakensSite}}">Daniël Lakens</a>, <a href="{{ggg}}">Gwern Branwen</a>, and <a href="{{brown}}">Nick Brown</a> for pointers to effectively all of these_.
 

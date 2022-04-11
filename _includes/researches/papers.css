@@ -3,6 +3,35 @@
 	font-weight: bold;
 }
 
+.ai-google-scholar, .bris, .ai-orcid {
+	display:inline-block;
+  text-align: center;
+  padding-right: 20px;
+  vertical-align:middle;
+}
+
+
+.ai-orcid:hover {
+	color: green;
+
+}
+
+.ai-google-scholar:hover {
+	color: green;
+}
+
+
+.bris {
+	width: 20%;
+	padding: 10px;
+	border: 1px solid #555;
+}
+
+.bris:hover {
+	border: 0px;	
+	padding: 11px;
+}
+
 button {
   background-color: #006800;
   /*border: none;*/
@@ -63,6 +92,10 @@ img {
 	button {
 		padding-top: 1.5em;
 		padding-bottom: 1.5em;
+	}
+
+	.bris {
+		width: 50%;
 	}
 
 }

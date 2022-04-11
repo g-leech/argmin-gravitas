@@ -1,15 +1,4 @@
 <div class="accordion">
-	<h3>The melancholy of pareidolia</h3>
-	<div>
-		Let me drop out of my proper "effect size estimation > binary truth or falsity" talk for a moment: There is something unbearably sad about the Wikipedia page for <a href="{{eggo}}">Ego depletion</a>.<br><br>
-<!--  -->
-		It's 3500 words, not including the Criticism section. It is rich with talk of moderators, physiological mechanisms, and practical upshots for the layman. And it is <a href="{{real}}">quite possible</a> that the whole lot of it is a phantom, a giant mistake. For small effect sizes, we can't tell the difference. Even people quite a bit smarter than us can't.<br><br>
-<!--  -->
-		If I wander around an old bookshop, I can run my fingers over sophisticated theories of ectoplasm, kundalini, past lives, numerology, clairvoyance, alchemy. Some were written by <a href="{{newton}}">brilliant</a> <a href="{{wallace}}">people</a> <a href="{{richet}}">who also</a> <a href="{{jpl}}">discovered</a> <a href="{{shel}}">real things</a>, <a href="{{mullis}}">whose</a> <a href="{{marg}}">minds</a> <i>worked</i>, damnit.<br><br>
-<!--  -->
-		We are so good at explaining that we can explain things which aren't there. We have made many whole libraries and entire fields without the slightest correspondence to anything. Except our deadly ingenuity.
-	</div>
-<!--  -->
 <!--  -->
 	<h3>Selection criteria</h3>
 	<div>
