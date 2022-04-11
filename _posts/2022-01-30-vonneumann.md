@@ -5,7 +5,7 @@ baselink:   /jvn
 permalink:  /jvn
 date:       2022-01-01
 author:     Gavin   
-img:        /img/JohnvonNeumann.jpg
+img:        /img/smaljvn.jpg
 
 visible:    1
 published:  true

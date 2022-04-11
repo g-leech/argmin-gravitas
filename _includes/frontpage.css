@@ -1,0 +1,28 @@
+@media (min-width: 15em) {
+  .i {
+    height: 20%;
+    /*width: 80%;*/
+    margin: 0px;
+  }
+
+  .centerer {
+    width: 85%;
+  }
+}
+
+img {
+  vertical-align: middle;
+  width:  100%;
+}
+
+.centerer {
+  text-align: center;
+  vertical-align: middle;
+  padding: 30px;
+  width: 75%;
+}
+
+.fancy {
+  font-family: 'Playfair Display', serif;
+  font-size: 28pt;
+}

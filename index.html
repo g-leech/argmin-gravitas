@@ -5,35 +5,25 @@ visible:  false
 ---
 
 <style>
-    @media (min-width: 15em) {
-      .i {
-        height: 20%;
-        /*width: 80%;*/
-        margin: 0px;
-      }
-
-      .centerer {
-        width: 85%;
-      }
-  }
-
-  img {
-      vertical-align: middle;
-      width:  100%;
-  }
-
-  .centerer {
-      text-align: center;
-      vertical-align: middle;
-      padding: 30px;
-      width: 75%;
-  }
-
-
+  {%   include frontpage.css  %}
 </style>
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,680;1,800&display=swap" rel="stylesheet">
+
+<center>
+  <span class="fancy">
+    <a class="nolink" href="/about">
+      A simulacrum standing in for Gavin Leech
+    </a>
+  </span>
+</center>
+
+<br><br><br>
+
 <div id="best" class="home">
-  <h1>Best posts:</h1>
+  <h1 class="fancy">Best posts:</h1>
     <table id="fixed" rules=rows>
     <center>
     {%  assign count = 0   %}
@@ -67,7 +57,7 @@ visible:  false
 <br>
 
 <div id="whole" class="home">
-  <h1>New posts:</h1>
+  <h1 class="fancy">New posts:</h1>
     <table class="post-list" border=1 frame=void rules=rows>
     
     {% for post in site.posts limit:6 %}
