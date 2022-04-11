@@ -9,15 +9,9 @@ visible:	true
 {%	include researches/links.md	%}
 {%	include researches/icons.html	%}
 
-<br>
-
-## Conference
-
-<table>
-	{%	include researches/forrt.html	%}
-	{%	include researches/covid_neur.html	%}
-	{%	include researches/ilp.html	%}
-</table>
+<style>
+	{% include researches/papers.css %}
+</style>
 
 
 <br>
@@ -31,8 +25,22 @@ visible:	true
 	{%	include researches/covid.html	%}
 </table>
 
+<br>
 
+## Conference
 
+<table>
+	{%	include researches/covid_neur.html	%}
+</table>
+
+<br>
+
+## Workshop
+
+<table>
+	{%	include researches/forrt.html	%}
+	{%	include researches/ilp.html	%}
+</table>
 
 <br>
 
@@ -55,20 +63,20 @@ visible:	true
 
 ## Software
 
-* <a href="{{maskscode}}">masks_v_mandates</a> (2021): Probabilistic programming for epidemic modelling and effect estimation. End to end with data getters.
-* <a href="{{prolexa}}">ProlexaPlus</a> (2020): Bringing modern language modelling into Prolog for some reason.
-* <a href="{{htk}}">Py2HTK</a> (2017): Python wrapper for the Hidden Markov ToolKit.
+* <a  class="noline" href="{{maskscode}}">masks_v_mandates</a> (2021): Probabilistic programming for epidemic modelling and effect estimation. End to end with data getters.
+* <a  class="noline" href="{{prolexa}}">ProlexaPlus</a> (2020): Bringing modern language modelling into Prolog for some reason.
+* <a  class="noline" href="{{htk}}">Py2HTK</a> (2017): Python wrapper for the Hidden Markov ToolKit.
 
 <br>
 
 ## Popular
 
-* <i><a href="{{kulveit}}">Learning from crisis</a></i> (2022)
-* <i><a href="{{supers}}">Comparing top forecasters and domain experts</a></i> (2022)
-* <i><a href="/psych" target="_blank">Reversals in psychology</a></i> (2020)
-* <i><a href="{{academic_safety}}" target="_blank">The academic contribution to AI safety seems large</a></i> (2020)
-* <i><a href="{{xrisk}}" target="_blank">Existential risk as common cause</a></i> (2018)
-* <i><a href="/grids" target="_blank">Side effects in Gridworlds</a></i> (2018). <a href="{{gridcite}}">Developed further</a>.
+* <i><a  class="noline" href="{{kulveit}}">Learning from crisis</a></i> (2022)
+* <i><a  class="noline" href="{{supers}}">Comparing top forecasters and domain experts</a></i> (2022)
+* <i><a  class="noline" href="/psych" target="_blank">Reversals in psychology</a></i> (2020)
+* <i><a  class="noline" href="{{academic_safety}}" target="_blank">The academic contribution to AI safety seems large</a></i> (2020)
+* <i><a  class="noline" href="{{xrisk}}" target="_blank">Existential risk as common cause</a></i> (2018)
+* <i><a  class="noline" href="/grids" target="_blank">Side effects in Gridworlds</a></i> (2018). <a href="{{gridcite}}">Developed further</a>.
 
 <!-- *Gelman  -->
 
@@ -139,46 +147,3 @@ visible:	true
 	}
 </script>
 
-<style>
-	.dropdown {
-	  display: inline-block;
-	  padding: 0;
-	}
-
-	.dropdown-content {
-	  display: none;
-	  z-index: 1;
-	}
-
-	.dropdown-content {
-	  padding-left: 16px;
-	  font-size: 11px;
-	}
-
-	.show {
-		display:block;
-	}
-
-	.frame {
-    text-align: center;
-	}
-
-	img {
-		padding-top:8px;
-	    vertical-align: top;
-	}
-
-	.logo {
-		width: 11%;
-	}
-
-	tr>td {
-  		padding-bottom: 1em;
-	}
-
-	.me {
-		font-weight: bold;
-		font-size: 12px;
-	}
-
-</style>

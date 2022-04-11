@@ -3,11 +3,13 @@
 		<a href="{{ilp}}"><img src="/img/papers/ilp.png" /></a>
 	</td>
 	<td style="padding-left: 5px">
-		<i><a href="{{ilp}}">Safety Properties of Inductive Logic Programming</a></i> (2020), AAAI SafeAI workshop,<br>
-		1st author / 3. <br>
+		<i><a  class="noline" href="{{ilp}}">Safety Properties of Inductive Logic Programming</a></i> 
+		(2020)<br>
+		AAAI SafeAI workshop,<br>
 		<span class="dropdown">
-		  <a class="dropped" href="javascript:drop('ilp')">The point</a>, 
-		  <div id="ilp" class="dropdown-content">
+		  <button class="dropped" onclick="javascript:drop('ilp')">The point</button>,
+
+			<div id="ilp" class="dropdown-content">
 			<br>
 			We look at an obscure kind of machine learning, seeing if it is (or could be) safer than neural networks. We use an existing framework for thinking about AI safety, and formalise it a bit to allow the comparison.<br><br>
 			Upsides: ILP is convenient for specification, is robust to some syntactic input changes, has greater control over the inductive bias, actually can be formally verified, and the results are pretty interpretable (you can read the model and see how it is built).<br><br>
