@@ -6,15 +6,16 @@
 	</td>
 	<td style="padding-left: 5px">
 		<i>
-			<a href="{{lgfo}}" target="_blank">Legally Grounded Fairness Objectives</a> (2020),
-		</i>
-		<br>2nd author / 3.
-		<br>
+			<a class="noline" href="{{lgfo}}" target="_blank">Legally Grounded Fairness Objectives</a></i> (2020),
+		
+		<br><br>
+
 		<span class="dropdown">
-		  <a class="dropped" href="javascript:drop('lgfo')">The point</a>,
-		  <div id="lgfo" class="dropdown-content">
+  		  <button class="dropped" onclick="javascript:drop('lgfo')">The point</button>,
+
+			<div id="lgfo" class="dropdown-content">
 			<br>
-			We try to work around the impossibility results in algorithmic fairness, by using legal damages as a signal about all-things-considered unfairness. This lets us use multiple definitions of fairness at once and set the weight on each in a non-arbitrary way.<br><br>
+			We try to work around the famous impossibility results in algorithmic fairness, by using legal damages as a signal about all-things-considered unfairness. This lets us use multiple definitions of fairness at once and set the weight on each in a non-arbitrary way.<br><br>
 
 			A human picks a set of fairness definitions; A human gives the algorithm a set of past cases, along with the damages awarded in each case; LGFO works out how much weight to give each kind of fairness, and so produces a classifier which is relatively fair, if we trust the legal system to know this relatively well.
 			<br><br>

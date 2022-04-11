@@ -4,6 +4,8 @@
 {%	assign covid = "https://www.science.org/doi/10.1126/science.abd9338"		%}
 {%	assign coviddata = "https://www.nature.com/articles/s41597-022-01175-y"		%}
 {%	assign neurips_covid = "https://papers.nips.cc/paper/2020/file/8e3308c853e47411c761429193511819-Paper.pdf"	%}
+{%	assign janlineage = "https://twitter.com/JanMBrauner/status/1421549366926614534"	%}
+{%	assign neurtwitmrin = "https://twitter.com/MrinankSharma/status/1346891304932880386"	%}
 {%	assign coms = "https://github.com/carlhenrikek/COMS30007/"		%}
 {%	assign xrisk = "https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause"	%}
 {%	assign academic_safety = "https://forum.effectivealtruism.org/posts/8ErtxW7FRPGMtDqJy/the-academic-contribution-to-ai-safety-seems-large"	%}
@@ -58,3 +60,4 @@
 {%	assign aimos= "http://web.archive.org/web/20220130224512/https://www.aimosconference.com/schedule.html"	%}
 {%	assign kulveit = "https://forum.effectivealtruism.org/posts/by8u954PjM2ctcve7/experimental-longtermism-theory-needs-data"	%}
 {%	assign supers = "https://forum.effectivealtruism.org/posts/qZqvBLvR5hX9sEkjR/comparing-top-forecasters-and-domain-experts"	%}
+{%	assign janvidataexplainer = "https://twitter.com/jn_ahuja/status/1512010901175558144"	%}

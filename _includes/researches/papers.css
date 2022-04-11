@@ -1,0 +1,78 @@
+.noline {
+	text-decoration:none;
+	font-weight: bold;
+}
+
+button {
+  background-color: #006800;
+  /*border: none;*/
+  color: white;
+  padding: 5px 10px 5px 10px;
+  /*border-radius: 30%;*/
+
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+button:focus {
+	background-color: #FFF;
+  	color: black;
+}
+
+
+.dropdown {
+  display: inline-block;
+  padding: 0;
+}
+
+.dropdown-content {
+  display: none;
+  z-index: 1;
+}
+
+.dropdown-content {
+  padding-left: 16px;
+  font-size: 11px;
+}
+
+.show {
+	display:block;
+}
+
+.frame {
+text-align: center;
+}
+
+img {
+	padding-top:8px;
+
+    vertical-align: top;
+}
+
+.logo {
+	width: 16% !important;
+    vertical-align: top;
+	padding-right:8px;
+}
+
+@media screen and (max-width: 600px) {
+	.logo {
+		width: 25% !important;
+	}
+
+	button {
+		padding-top: 1.5em;
+		padding-bottom: 1.5em;
+	}
+
+}
+
+
+td {
+	padding-bottom: 1.4em;
+}
+
+.me {
+	font-weight: bold;
+	font-size: 14px;
+}
