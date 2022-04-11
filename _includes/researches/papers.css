@@ -3,6 +3,12 @@
 	font-weight: bold;
 }
 
+a {
+	text-decoration-thickness: 14%;
+	text-decoration-skip: spaces;
+	text-underline-offset: 2.5px;
+}
+
 .ai-google-scholar, .bris, .ai-orcid {
 	display:inline-block;
   text-align: center;
@@ -12,12 +18,12 @@
 
 
 .ai-orcid:hover {
-	color: green;
+	color: #006800;
 
 }
 
 .ai-google-scholar:hover {
-	color: green;
+	color: #006800;
 }
 
 
@@ -45,7 +51,7 @@ button {
 
 button:focus {
 	background-color: #FFF;
-  	color: black;
+  color: black;
 }
 
 
