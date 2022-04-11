@@ -35,7 +35,7 @@
       <div>
         <time>
           2019 – Now
-          <span class="flag">󠁧󠁢󠁥󠁮󠁧󠁿🇨🇿🏴󠁧󠁢󠁥󠁮󠁧󠁿</span>
+          <span class="flag">󠁧󠁢󠁥󠁮󠁧󠁿🇨🇿🏴󠁧󠁢󠁥󠁮󠁧󠁿</span>󠁧
        </time>
         <a href="/researches">AI PhD</a>. Probabilistic programming, AI safety. Long detour on COVID models.
       </div>
@@ -66,7 +66,7 @@
       <div>
         <time>
           2015
-          <img class="flag" width="6%" src="/img/ea.svg" />
+          <img class="ea" src="/img/ea.svg" />
         </time>
         <a href="{{GWWC}}">Giving What We Can</a> pledge;<br><a class="noline" href="{{eaf}}">potentially effective altruist</a>
       </div>
@@ -230,6 +230,18 @@ h1 {
 .flag {
   float: right; 
   font-size: 24px;
+}
+
+
+.ea {
+  width: 6%;
+  float: right; 
+}
+
+@media screen and (max-width: 600px) {
+    .ea {
+      width: 12%;
+    }
 }
 
 /* TIMELINE
