@@ -146,7 +146,7 @@ Now, look at you! Oh, look at you!<br>
 You, you! Unstoppable, watchable...
 
 
-_White Woman's Instagram_ is several things. It sneers. Positivity makes him want to drag it down. He hides his negativity behind political piety: without the 'white' qualifier to validate it, it would have caused him trouble. Race as a normative modifier: it's ok cos...
+_White Woman's Instagram_ is several things. It sneers. Seeing positivity, he has to drag it down. He hides his negativity behind political piety: without the 'white' qualifier it would have caused him trouble. (Race as a normative modifier: it's ok cos...)
 
 But then it drops all that and shows her mourning her dead parents and I defy you to smirk.
 
