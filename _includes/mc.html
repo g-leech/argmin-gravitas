@@ -35,6 +35,10 @@
 		display:block;
 	}
 
+	@media screen and (min-width: 600px)  {
+        .break { display: none; }
+    }
+
 </style>
 
 
@@ -45,7 +49,8 @@
 		<form action="https://protonmail.us1.list-manage.com/subscribe/post?u=bc9cb67ac84bed1e6702919e5&amp;id=69c3ece977" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 	    <div id="mc_embed_signup_scroll">
 			<h3>
-				   subscribe <a href="{{ '/feed.xml' | prepend: site.url }}">via RSS</a> 
+				   subscribe
+				   <a href="{{ '/feed.xml' | prepend: site.url }}">via RSS</a> 
 				    <a href="{{ '/feed.xml' | prepend: site.url }}" style="text-decoration: none">
 				   		<span class="icon">
 					      <svg class="svg-icon" fill="black" viewBox="50 85 400 400">
@@ -53,7 +58,8 @@
 				      	  </svg>
 				       </span>
 				    </a>
-				    &nbsp;
+				    <br class="break">
+
 				    <a href="{{pod}}">or podcast</a> 
 				    <a href="{{pod}}" style="text-decoration: none">
 				   		<span class="icon">
@@ -77,8 +83,8 @@
 				      	  </svg>
 				       </span>
 				    </a>
-				<!-- &nbsp;&nbsp; -->
-				&nbsp;
+				<br class="break">
+
 				<label for="mce-EMAIL"><a class="dropped" href="javascript:drop()">or email</a></label>
 				<a class="dropped" href="javascript:drop()">
 					<span class="icon icon-envelop">

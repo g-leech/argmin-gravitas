@@ -60,12 +60,13 @@ To see if it's good in general, better than my emoting is checking the graduatio
 * _Zero entry requirements_. "The university of the second chance": Everybody gets in, and there's a few competence streams to prevent terror/boredom. There's an optional <a href="http://mathschoices.open.ac.uk/mu123">high-school-level</a> course to give you the really basic building blocks. For the highly driven, it's an alternative to school without the brakes: a few kids have speed-run it <a href="{{pok}}">by the age of 15</a>.
 
 
-* _Cheap_. OK, so on this I got lucky. 
+* _Cheap_. OK, so on this I got lucky.<br><br>Total cost for an Honours degree (with a Scottish address): <span style="font-weight:bold">£6,048</span>. <br> Total cost (England or <a href="{{int}}">international</a>): <span style="font-weight:bold">£18,072</span>. 
 
-> The total cost for an Honours degree (with a Scottish address): <span style="font-weight:bold">£6,048</span>. <br> Total cost (England or <a href="{{int}}">international</a>): <span style="font-weight:bold">£18,072</span>. 
 
 <ul>NB: <a href="{{emp}}">About 1 in 10 students</a> get fees paid by their employer - it's so cheap, it buys your loyalty, and they can write it off. I got the whole thing paid this way, plus a bunch of study leave.
 </ul>
+
+<br>
 
 * _Breadth_. I've got a rough idea of large parts of pure mathematics, even though I took every statistics elective I could. I won't pretend this is more than me being able to learn any subfield now.
 
@@ -115,6 +116,15 @@ The full £18k sticker price probably isn't worth it unless you have really hard
 <br>
 
 
-
+<div class="accordion">
+	<h3>Statistics about results</h3>
+	<div>
+		There used to be a really useful and revealing site which gave stats about the results for each course. (It's since been made toothless and access to the underlying data was <a href="{{block}}">restricted</a>, but the ever-loyal Internet Archive gives us <a href="{{snap}}">a snapshot</a> which is probably still accurate.)<br><br>
+	<!--  -->
+		Of the Maths and Stats cohort, 40% dropped out in the first year. Let's assume this got up to the average 86% over the typical six years.<br><br>
+	<!--  -->
+		26% of those who finished got a First (i.e. suffiently many grades over 85%), so this puts you above the <a href="{{pile}}">96th percentile</a>. Pretty strong signal!<br><br>
+	</div>
+</div>
 
 {%  include ou/foots.html %}

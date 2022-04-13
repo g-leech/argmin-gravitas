@@ -15,4 +15,7 @@
 {%	assign tm = "http://www.open.ac.uk/courses/modules/tm129"						%}
 {%	assign glmm = "https://en.wikipedia.org/wiki/Generalized_linear_mixed_model"		%}
 {%	assign fundie = "https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra"		%}
+{%	assign snap = "http://web.archive.org/web/20170415000000*/https://unistats.ac.uk/subjects/study/10007773PT-Q36/ReturnTo/"		%}
 {%	assign pok = "https://www.birminghammail.co.uk/news/uk-news/university-graduate-set-become-youngest-17393814"	%}
+{%	assign block = "https://unistatsdataset.hesa.ac.uk/api/UnistatsDatasetDownload"	%}
+{%	assign pile = "https://www.google.com/search?q=1+-+%280.14+*+0.2626%29" 	%}
