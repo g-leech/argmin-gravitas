@@ -4,6 +4,9 @@ title:    argmin gravitas
 visible:  false
 ---
 
+{%    assign arb = "https://twitter.com/ArbResearch"   %}
+
+
 <style>
   {%   include frontpage.css  %}
 </style>
@@ -11,7 +14,7 @@ visible:  false
 
 <div class="fancy">
     <a class="just" href="/about">
-      A simulacrum standing in for <br class="break">Gavin Leech
+      A simulacrum standing in for Gavin Leech
     </a>
 </div>
 
@@ -46,6 +49,46 @@ visible:  false
       {%  if count > 5  %} {% break %} {% endif %}
     {% endfor %}
       </center>
+    </table>
+</div>
+
+<br>
+
+<div id="whole" class="home">
+  <h1 class="fancy">
+    <a href="{{arb}}">Arb</a> posts:
+  </h1>
+    <table class="post-list" border=1 frame=void rules=rows>
+      {% for post in site.posts limit:12 %}
+        {% if post.arb == 1  %}
+        <tr>
+        <td>
+          <a class="post-link" href="{{ post.url | prepend: site.url }}">
+            <img src="{{ post.img }}" height="20%" />
+          </a>
+        </td>
+        </td>
+        <td style="width:73%;padding:20px;padding-bottom:30px;">
+          <h3 style="padding: 0px; margin: 0px;margin-left:7%">
+            <a class="post-link frontpage" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+          </h3> 
+          <span style="display:inline-block;margin-left:7%">
+            <small>
+              <a class="nolink" href="{{ post.url | prepend: site.url }}">{{ post.summary }}</a>
+            </small>
+          </span>          
+        </td>
+        
+        <td style="width:9%;border-left:1px;"> 
+          <div align="right">
+            <span class="post-meta">
+              <a class="date" href="{{ post.url | prepend: site.url }}">{{ post.date | date: "%b %Y" }}</a>
+            </span>
+          </div>
+        </td>
+      </tr>
+      {% endif  %}
+    {% endfor %}
     </table>
 </div>
 
