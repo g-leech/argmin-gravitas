@@ -8,17 +8,12 @@ visible:  false
   {%   include frontpage.css  %}
 </style>
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,680;1,800&display=swap" rel="stylesheet">
 
-<center>
-  <span class="fancy">
-    <a class="nolink" href="/about">
-      A simulacrum standing in for Gavin Leech
+<div class="fancy">
+    <a class="just" href="/about">
+      A simulacrum standing in for <br class="break">Gavin Leech
     </a>
-  </span>
-</center>
+</div>
 
 <br><br>
 
@@ -110,10 +105,12 @@ visible:  false
 
 <center>
 <h2>
-  <a href="{{ "/archive" | prepend: site.url }}">See all posts</a>;
-  <a href="{{ "/tags" | prepend: site.url }}">by topic</a>; 
+  <a href="{{ "/archive" | prepend: site.url }}">See all posts</a>; <br class="break">
+  <a href="{{ "/tags" | prepend: site.url }}">by topic</a>; <br class="break">
   <a href="{{ "/importance" | prepend: site.url }}">most important</a>.  
 </h2>
+
+<br>
 
 {%    include mc.html  %}
 
