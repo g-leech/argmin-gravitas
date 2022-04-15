@@ -39,4 +39,4 @@ Thinktanks
     neolibs
     Neocons
     https://en.wikipedia.org/wiki/International_Institute_for_Applied_Systems_Analysis
-https://www.aeaweb.org/rfe/showCat.php?cat_id=44
+http://web.archive.org/web/20101119090716/https://www.aeaweb.org/rfe/showCat.php?cat_id=44

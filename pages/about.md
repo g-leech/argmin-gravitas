@@ -9,6 +9,7 @@ visible:	true
 {%	include about/links.html	%}
 
 {%	include about/timeline.html		%}
+{%	include timeline_code.html		%}
 
 <br>
 
@@ -45,8 +46,7 @@ visible:	true
 
 <div class="accordion">	
 	{%	include about/contact.html 	%}	
-	<!-- %	include about/now.md	%} -->
-	<!-- %	include about/research.html	%} -->
+	{%	include about/now.md	%}
 	{%	include about/errata.html	%}	
 	{%	include about/books.html	%}	
 	{%	include about/misc.html	%}
