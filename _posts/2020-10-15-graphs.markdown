@@ -21,12 +21,16 @@ argument:
 
 {%	include graph/links.md	%}
 
+<br>
 
 If you were to learn one area of maths properly, what should it be?
 
 Depends what you want to do with it. _Send tweet._
 
+<br>
+
 <hr />
+
 <br>
 
 In computer science or machine learning, when people talk about the areas you need, they usually mention calculus, linear algebra, probability theory.<a href="#fn:1" id="fnref:1">1</a> These are some of humanity's greatest achievements, and probability can totally change your life, since (outside of mathematics or the wider Set Exercises of school) we have nothing to work with but probable and improbable, priors and data.
@@ -50,7 +54,9 @@ _Proof by inspection_. You can go far in graph theory with visual reasoning.
 
 _Modularity._ You can do lots of things locally, ignoring the overall structure.
 
-It is always nice to be able to reduce some problem to shortest-path or minimum spanning or message-passing or any of graphs' optimal dongles.
+It is always nice to be able to reduce some problem to shortest-path or minimum spanning or message-passing or any of graphs' optimal dongles. 
+
+<br>
 
 ## So many things are graphs
 
@@ -72,6 +78,7 @@ In some sense anyway, whether it's mathematical equivalence , having a 1-1 mappi
 
 without edges.
 
+<br>
 
 ### Logic is Trees is Graphs
 
@@ -81,16 +88,19 @@ Any well-formed sentence of logic has a syntax tree, which is a graph.
 
 (Also linked-lists are trees are graphs...)
 
+<br>
 
 ### <a href="{{group}}">Groups have graphs</a>
 
-
+<br>
 
 ### Optimisation is shortest-pathing
 
 Ray tracing and Q-learning and currency arbitrage is graphs. <a href="{{jang}}">I love this post so much.</a>
 
 <a href="{{SAT}}">See also constraint sat as graph</a>.
+
+<br>
 
 ### Graphical models: joint distributions have graphs
 
@@ -117,9 +127,13 @@ Strictly speaking there isn't a _lot_ of graph theory in PGM work. But some grap
 
  <!-- The distinction between directed and undirected is important, but "Bayes" and "Markov" don't really convey it, since directed graphs have Markov properties and one uses Bayes's rule all the time in undirected graphs. -->
 
+<br>
+
 ### Causal inference
 
 [Shalizi on causal models.](http://bactra.org/notebooks/graphical-causal-models.html)
+
+<br>
 
 ### Graph neural networks
 	
@@ -140,6 +154,7 @@ Many serious databases use <a href="{{btree}}">trees</a>. i.e. Every formal acti
 
 <a href="{{kern}}">Graph kernels are so fast</a>.
 
+<br>
 
 ### High theory
 
@@ -157,6 +172,7 @@ The path from basic principles (Pigeonhole or Handshake) to huge results like th
 <!-- graph-theoretical techniques, discarding almost entirely the additive structure of the problem -->
 <!--  Szemeredi’s original proof is only partly graph-theoretical, as it exploits the additive structure of progressions in many different places. -->
 
+<br>
 
 ### Life as graph
 
@@ -164,12 +180,15 @@ The path from basic principles (Pigeonhole or Handshake) to huge results like th
 
 <a href="{{nir}}">Learning which cells are connected</a>(!)
 
+<br>
+
 ### Society as graph
 
 PageRank treats the internet as one giant implicit graph. 
 
 A lot of the best <a href="{{ergm}}">sociology</a> and epidemiology uses graphs as the core tool.
 
+<br>
 
 ### Thought as graph
 
@@ -184,15 +203,19 @@ When I write, I am taking the great implicit graph of my thoughts and ripping ou
 The "don't call it a notetaking app" notetaking app <a href="{{r}}">Roam</a> is designed with this in mind, and it is by far the least unpleasant way of thinking about everything I've ever seen.
 
 <br>
-<hr />
-<br>
 
-I am frankly <a href="{{hammer}}">dazzled</a> by how general it is. I haven't seen any list of the above; I just kept on finding it in new places, it just kept eating objects until I fell in love with it.
+<hr />
+
+<br><br>
+
+I am <a href="{{hammer}}">dazzled</a> by how general it is. I haven't seen any list of the above; I just kept on finding it in new places, it just kept eating objects until I fell in love with it.
 
 Of course you can go much more general in <a href="{{ncat}}">at least three directions</a>: programs, for instance, are much bigger than graphs. But for an _easy_ step into rigorous and general ideas they are the winner.
 
-<br>
+<br><br>
+
 <hr />
+
 <br>
 
 
