@@ -221,7 +221,7 @@ visible:	false
           <a class="org" href="{{vso}}">VSO Tanzania</a><br>
         </time>
           <br class="break">
-    
+          <br class="break">
       </div>
     </li>
 </ul>
