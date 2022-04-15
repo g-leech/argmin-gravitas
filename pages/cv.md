@@ -120,7 +120,7 @@ visible:	false
 
 
 <center>
-  <h1>
+  <h1 class="titl">
   &nbsp;&nbsp;
    🐞 Tech 🐞 
   </h1>
@@ -160,7 +160,8 @@ visible:	false
 <br>
  -->
 <center>
-  <h1>
+  <h1 class="titl">
+
   &nbsp;&nbsp;
   🙋 Volunteering 🙋
   </h1>
