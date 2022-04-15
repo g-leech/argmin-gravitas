@@ -9,7 +9,8 @@
 <div>	
 	<div class="note">
 	  <div class="title">
-		1. Founding a great research company
+		1. Founding a great<br class="break">
+		research company
 	  </div>
 	  <div class="insides">
 	<!--  -->
@@ -43,7 +44,7 @@
 <!--  -->
 	<div class="note">
 	  <div class="title">
-		2. Side-channel attacks against AI risk
+		2. Side-channel attacks<br class="break"> against AI risk
 	  </div>
 	  	<div class="insides">
 			I'm interested in keeping an eye on AI. By a stroke of luck my PhD advisor is <a href="{{la}}">Laurence Aitchison</a>. I'm currently on sabbatical. <br><br>
