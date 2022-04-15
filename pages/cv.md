@@ -1,6 +1,6 @@
 ---
 layout: 	page
-title: 		
+title: 		Gavin Leech
 nav: 		CV
 permalink:	/cv/
 visible:	false
@@ -8,33 +8,52 @@ visible:	false
 
 {%  include about/links.html  %}
 
-
+{%  include about/now.md  %}
 
 <!-- <div class="note">
   <div class="title">
-    I'm a <span style="font-weight: bold;">technical generalist</span>
+    I'm a technical generalist
     <br>
   </div> 
   <div class="insides">
-    — &nbsp;
-    <a href="researches/">Need to model something?</a>
-    <br>— &nbsp;
-    <a href="researches/#service">Need research critiqued?</a>
-    <br>— &nbsp;
-    <a href="{{pred}}">Forecasting arbitrary events?</a>
-    <br>— &nbsp;
-    Need something difficult explained clearly? I <a href="/stims">pride</a> <a href="/fermi">myself</a> <a href="/games-of-life">on it</a>.
-    <br>— &nbsp;
-    I built machine learning pipelines for years at <a href="{{axafort}}">a Fortune 100</a>.
-    <br>— &nbsp;
-    I've also built <a href="{{metha}}">medical device firmware</a> and web apps.
-    <br>— &nbsp;
-    Need an unreasonable amount of these on a tight schedule? <a href="/psych">I do that for fun</a>.
+    <ul>
+      <li>
+        <a href="researches/">Need to model something?</a>
+      </li>
+      
+      <li>
+        <a href="researches/#service">Need research critiqued?</a>
+      </li>
+      
+      <li>
+        <a href="{{pred}}">Forecasting arbitrary events?</a>
+      </li>
+      <li>
+        <a href="/stims">Need</a> <a href="/fermi">something</a> <a href="/games-of-life">difficult</a> explained?
+      </li>
+      <br>
+      
+      <li>
+        I built machine learning pipelines at <a href="{{axafort}}">a Fortune 100</a> company.
+      </li>
+      
+      <li>
+        Also <a href="{{metha}}">medical device firmware</a> and web apps.
+      </li>
+      <br>
+      <li>
+        Need an unreasonable amount of these things fast?<br>
+        <a href="/psych">I do that for fun</a>.
+      </li>
+  </ul>
   </div>
 </div> -->
 
+<br>
 
+<hr />
 
+<br>
 
 <br>
 <center>
@@ -45,7 +64,7 @@ visible:	false
 
 {%  include cv/work.html  %}
 
-<br>
+<br><br>
 
 <hr />
 
@@ -111,7 +130,7 @@ visible:	false
 </section>
 
 
-<br>
+<br><br>
 
 <hr />
 
@@ -125,8 +144,35 @@ visible:	false
   </h1>
 </center>
 
-
 <br>
+
+* <time>
+      Mask-wearing in community settings reduces COVID-19 transmission<br><span style="font-weight: normal;">(2022)<!-- <i>PNAS</i> --> </span>
+  </time> 
+<br>
+
+* <time>
+      Inferring the effectiveness of government interventions against COVID<br><span style="font-weight: normal;">(2020),
+      <i>Science</i>
+    </span>
+  </time> 
+<br>
+
+* <time>
+      How Robust are Estimated Effects of Interventions against COVID-19?<br><span style="font-weight: normal;">(2020), <i>NeurIPS</i>
+      </span>
+  </time> 
+<br>
+
+* <time>
+    Safety Properties of Inductive Logic Programming
+    <span style="font-weight: normal;">
+      (2020),<br>
+      <i>AAAI SafeAI</i>
+    </span>
+  
+
+<br><br>
 
 <hr />
 
@@ -134,7 +180,7 @@ visible:	false
 
 {%  include cv/ed.html  %}
 
-<br>
+<br><br>
 
 <hr />
 
@@ -152,13 +198,26 @@ visible:	false
 
 * <time><a href="/grids">Side effects in Gridworlds</a> (2018):</time> New Pycolab environments and implementations of DQN and MaxEnt IRL in Tensorflow. <a href="{{citess}}">Reused</a> in DeepMind and MIT papers.
 
-* <time><a href="{{prolexa}}">ProlexaPlus</a> (2021):</time>Brought modern language modelling (Flair) into Prolog for some reason.
+<br>
 
-* <time><a href="{{masksman}}">Masks V Mandates</a> (2021):</time>Journal-grade instance of a modern Bayesian workflow in PyMC3.
+* <time><a href="{{prolexa}}">ProlexaPlus</a> (2021):</time>
+Brought modern language modelling (Flair) into Prolog for some reason.
+
+<br>
+
+* <time><a href="{{masksman}}">Masks V Mandates</a> (2021):</time>
+Journal-grade modern Bayesian workflow in PyMC3. Probabilistic programming for epidemic modelling and effect estimation. End to end with data getters.
+
+<br>
+
+* <time><a href="{{htk}}">Py2HTK</a> (2017):</time>
+Python wrapper for the Hidden Markov ToolKit.
+
+<br>
 
 * <time><a href="{{argg}}">Argmin Gravitas</a> (2017):</time>Just a Jekyll site, but a <a href="/colophon">particularly satisfying</a> one.
 
-<br>
+<br><br>
 
 <hr />
 
@@ -268,15 +327,13 @@ visible:	false
     color: #006800
   }
   .note{
-    margin-top:1.5em;width:95%;margin-left:auto;margin-right:auto;background-color:aliceblue;border-radius:5px;margin-bottom:1em
+    margin-top:1.5em;width:80%;margin-left:auto;margin-right:auto;background-color:aliceblue;border-radius:5px;margin-bottom:1em
   }
 
-  .note .insides{padding:30px;}
-
-  .note .title{
-    font-size:120%;border-top-left-radius:5px;border-top-right-radius:5px;padding-left:14px;padding-top:10px;padding-bottom: 10px;
-    color:white;background:cornflowerblue
+  ul {
+    list-style-type: '—   ';
   }
+
 </style>
 
 {%	include timeline_code.html		%}
