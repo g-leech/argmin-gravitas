@@ -70,10 +70,22 @@ a {
     text-underline-offset: 2.5px;
 }
 
+.note {
+    border: 4px solid;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    border-radius: 0px;
+}
 
 .note .insides{padding:40px;}
 
 .note .title{
-    font-size:120%;border-top-left-radius:5px;border-top-right-radius:5px;padding-left:14px;padding-top:10px;padding-bottom: 10px;
-    color:white;background:cornflowerblue
+    font-size:120%;
+    
+    padding-left:14px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    color:white;
+    
+    background:cornflowerblue
 }

@@ -73,8 +73,11 @@ visible:	false
 
 <center>
   <h1 class="titl">
-    &nbsp;&nbsp;
-    🏆 Awards 🏆
+    🏆
+    <br class="break">
+    Awards
+    <br class="break">
+    🏆
   </h1>
 </center>
 
@@ -139,7 +142,9 @@ visible:	false
 <center>
   <h1 class="titl">
     📃
+    <br class="break">
     <a class="pubs" href="/researches">Publications</a>
+    <br class="break">
     📃
   </h1>
 </center>
@@ -189,8 +194,11 @@ visible:	false
 
 <center>
   <h1 class="titl">
-  &nbsp;&nbsp;
-   🐞 Tech 🐞 
+   🐞
+   <br class="break">
+   Tech
+   <br class="break">
+   🐞 
   </h1>
   <br>
 </center>
@@ -243,8 +251,11 @@ Python wrapper for the Hidden Markov ToolKit.
 <center>
   <h1 class="titl">
 
-  &nbsp;&nbsp;
-  🙋 Volunteering 🙋
+  🙋 
+  <br class="break">
+  Volunteering 
+  <br class="break">
+  🙋
   </h1>
 </center>
 
@@ -325,9 +336,6 @@ Python wrapper for the Hidden Markov ToolKit.
 <style>
   .pubs:hover {
     color: #006800
-  }
-  .note{
-    margin-top:1.5em;width:80%;margin-left:auto;margin-right:auto;background-color:aliceblue;border-radius:5px;margin-bottom:1em
   }
 
   ul {
