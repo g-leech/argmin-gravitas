@@ -8,13 +8,35 @@ visible:	false
 
 {%  include about/links.html  %}
 
-<style>
-  .pubs:hover {
-    color: #006800
-  }
-</style>
 
 
+<!-- <div class="note">
+  <div class="title">
+    I'm a <span style="font-weight: bold;">technical generalist</span>
+    <br>
+  </div> 
+  <div class="insides">
+    — &nbsp;
+    <a href="researches/">Need to model something?</a>
+    <br>— &nbsp;
+    <a href="researches/#service">Need research critiqued?</a>
+    <br>— &nbsp;
+    <a href="{{pred}}">Forecasting arbitrary events?</a>
+    <br>— &nbsp;
+    Need something difficult explained clearly? I <a href="/stims">pride</a> <a href="/fermi">myself</a> <a href="/games-of-life">on it</a>.
+    <br>— &nbsp;
+    I built machine learning pipelines for years at <a href="{{axafort}}">a Fortune 100</a>.
+    <br>— &nbsp;
+    I've also built <a href="{{metha}}">medical device firmware</a> and web apps.
+    <br>— &nbsp;
+    Need an unreasonable amount of these on a tight schedule? <a href="/psych">I do that for fun</a>.
+  </div>
+</div> -->
+
+
+
+
+<br>
 <center>
   <h1 class="titl">
     💪 Work 💪
@@ -240,6 +262,22 @@ visible:	false
   </a>
 </center>
 
+
+<style>
+  .pubs:hover {
+    color: #006800
+  }
+  .note{
+    margin-top:1.5em;width:95%;margin-left:auto;margin-right:auto;background-color:aliceblue;border-radius:5px;margin-bottom:1em
+  }
+
+  .note .insides{padding:30px;}
+
+  .note .title{
+    font-size:120%;border-top-left-radius:5px;border-top-right-radius:5px;padding-left:14px;padding-top:10px;padding-bottom: 10px;
+    color:white;background:cornflowerblue
+  }
+</style>
 
 {%	include timeline_code.html		%}
 {%  include padder.html   howMuch=13  %}

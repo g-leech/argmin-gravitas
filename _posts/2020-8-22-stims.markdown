@@ -65,8 +65,8 @@ Consider two (extreme) scenarios for a quickly-eliminated, chronic-use substance
 
 
 <center>
-	<img class="i50" src="/img/positive.svg" />
-	<img class="i50" src="/img/reversal.svg" />
+	<img src="/img/positive.svg" /><br>
+	<img src="/img/reversal.svg" /><br>
 	<a href="#fn:4" id="fnref:4">4</a>
 </center><br>
 
