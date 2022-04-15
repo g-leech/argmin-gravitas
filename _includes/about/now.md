@@ -70,7 +70,7 @@
 		4. Giving a damn
 	  </div>
 	  <div class="insides">
-		I started teaching and mentoring people. I help with the AI Safety Camp, the EA Bristol student group, and I teach at ESPR. I received an Infrastructure Fund grant to try and fix executive function in the community (“<a href="{{offroad}}">Off Road</a>”). I speak for the <a href="{{obit}}">dead</a>.
+		I started teaching and mentoring people at last. I help with the AI Safety Camp, the EA Bristol Uni group, and teach at ESPR. I received an Infrastructure Fund grant to try and fix executive function in the community (“<a href="{{offroad}}">Off Road</a>”). I speak for the <a href="{{obit}}">dead</a>.
 		<br><br>
 	</div>
 	</div>
