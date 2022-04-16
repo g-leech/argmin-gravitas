@@ -4,8 +4,9 @@
 {%	assign offroad = "https://forum.effectivealtruism.org/posts/8ekqxkowckzEKu3uG/off-road-support-for-eas-struggling-at-uni"	%}
 {%	assign iiasa = "https://en.wikipedia.org/wiki/International_Institute_for_Applied_Systems_Analysis"	%}
 
+<div class="accordion" id="nowacc">	
 
-<h3>Now:</h3>
+<h3 id="nowacc">Now:</h3>
 <div>	
 	<div class="note">
 	  <div class="title">
@@ -59,7 +60,7 @@
 		3. Becoming less well-rounded
 	  </div>
 	  <div class="insides">
-		My background is extremely mixed: a lot of philosophy, a bit of economics, a bit of stats, a bit of computer science, a bit of computational linguistics, a bit of epidemiology, a bit of literary criticism. But in research, much depends on you mastering one thing or one cluster of things.<br><br>So I am trying to become less rounded. This boils down to more maths. One carrot: I aim to fully understand the great explanations: relativity, QM, evolutionary dynamics, reinforcement learning, and computational complexity. 
+		My background is extremely mixed: a lot of philosophy, a bit of economics, a bit of stats, a bit of computer science, a bit of computational linguistics, a bit of epidemiology, a bit of literary criticism. But in research, much depends on you mastering one thing or one cluster of things.<br><br>So I am trying to become less rounded. This boils down to more maths. One carrot: I aim to fully understand the great explanations: relativity, QM, evolutionary dynamics, Bayes, reinforcement learning, and computational complexity. 
 		<br><br>
 		</div>
 	</div>
@@ -88,4 +89,4 @@
 </style>
 </div>
 
-
+</div>

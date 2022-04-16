@@ -46,7 +46,9 @@ visible:	true
 
 <div class="accordion">	
 	{%	include about/contact.html 	%}	
+</div>
 	{%	include about/now.md	%}
+<div class="accordion">	
 	{%	include about/errata.html	%}	
 	{%	include about/books.html	%}	
 	{%	include about/misc.html	%}
