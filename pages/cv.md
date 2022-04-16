@@ -342,6 +342,21 @@ Python wrapper for the Hidden Markov ToolKit.
     list-style-type: '—   ';
   }
 
+  .ui-accordion .ui-accordion-header {
+    font-size: 160% !important;
+  }
+
+  #nowacc {
+    background-color: cornflowerblue !important;
+    border:  2px solid #000;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    padding: 0.5em;
+  }
+
+
 </style>
 
 {%	include timeline_code.html		%}
