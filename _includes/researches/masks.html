@@ -1,6 +1,10 @@
+{%	assign id = "maskimg" 	%}
+
 <tr>
 	<td class="logo">
-		<a href="{{maskspp}}"><img src="/img/papers/masks.png" /></a>
+		<a href="{{maskspp}}">
+			<div id="{{id}}"></div>
+		</a>
 	</td>
 	<td style="padding-left: 5px">
 
@@ -26,3 +30,8 @@
 		<a href="{{maskstw}}">explainer</a>, <a href="/masks">blogpost</a>, <a href="{{maskscode}}">code</a>, <a href="{{rex}}">liveblogging</a>, <a href="{{vsmike}}">rebuttal</a>.
 	</td>
 </tr>
+
+<script>  
+	var src="/img/papers/masks.png"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

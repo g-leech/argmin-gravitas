@@ -24,13 +24,13 @@ visible:  false
   <h1 class="fancy">Best posts:</h1>
     <table id="fixed" rules=rows>
     <center>
-    {%  assign count = 0   %}
-    {% for post in site.posts %}
-      {% if post.quality > 7  %}
+    {% assign posts = site.posts | where_exp: "item", "item.quality > 6" | sample: 6 %}
+    {% for post in posts %}
+      {% if post.arb != 1 %}
         <tr class="best">
           <td>
             <a class="post-link" href="{{ post.url | prepend: site.url }}">
-              <img class="i" src="{{ post.img }}" />
+              <img class="im" src="{{ post.img }}" />
             </a>
           </td>
           <td class="centerer">
@@ -44,9 +44,7 @@ visible:  false
             </span>
           </td>
         </tr>
-        {% assign count = count | plus: 1 %}
-      {% endif  %}
-      {%  if count > 5  %} {% break %} {% endif %}
+      {%  endif   %}
     {% endfor %}
       </center>
     </table>

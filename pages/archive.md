@@ -61,6 +61,24 @@ visible:  false
 <!--  -->
 <br><br>
 
+<h1>Pages</h1>
+
+
+{% for page in site.pages %}
+  <table>
+    {% if page.favpage != true %}
+    <tr class="spaced">
+    <td style="width:55%;"><a class="archive-link frontpage" href="{{ page.url | prepend: site.baseurl }}"
+      > > {{ page.title }}</a>
+    </td>
+    </tr>
+    {%  endif   %}
+  </table>
+{% endfor %}
+
+<br><br>
+
+
 <p class="rss-subscribe">
   subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
 </p>

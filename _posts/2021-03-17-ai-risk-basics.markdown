@@ -6,15 +6,16 @@ permalink:  /ai-risk
 date:       2021-03-21  <!--site.time-->
 author:     Gavin
 
-img:        /img/chimpclose.png
+img:        /img/chimp_horiz.jpg
 published:  true
 visible:    1
 
-summary:    Reasons general AI might do extreme things.
-confidence: High that it's worth worrying about. Only 20% that it will happen.
+summary:    Concrete reasons it might do extreme things.
+confidence: High that it's worth worrying about. 20% that it will happen.
 categories: ai, xrisk
 warnings:   Not much original material.
 importance: 9
+quality: 	8
 wordcount:  2200
 argument:	agi-intro/argument.html
 ---
@@ -295,6 +296,8 @@ The American nuclear launch code was, for 20 years, "<a href="{{giz}}">0000000</
 
 
 #### Maximisers are risky
+
+The above is why it will probably do the wrong thing, and why it will have the opportunity. But why expect it to do something _extremely_ wrong?
 
 1. Intelligence and benevolence are distinct. So an AGI with unfriendly goals is possible.
 

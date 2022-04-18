@@ -1,7 +1,9 @@
+{%	assign id = "covid2img" 	%}
+
 <tr>
 	<td class="logo">
 		<a href="{{secondwave}}">
-			<img src="/img/papers/second.jpg" />
+			<div id="{{id}}"></div>
 		</a>
 	</td>
 	<td style="padding-left: 5px">
@@ -32,3 +34,7 @@
 	</td>
 </tr>
 
+<script>  
+	var src="/img/papers/second.jpg"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

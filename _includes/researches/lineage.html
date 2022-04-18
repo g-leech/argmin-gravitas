@@ -1,7 +1,9 @@
+{%	assign id = "lineageimg" 	%}
+
 <tr>
 	<td class="logo">
 		<a href="{{eclinic}}">
-			<img src="/img/papers/lineage.jpg" />
+			<div id="{{id}}"></div>
 		</a>
 	</td>
 	<td style="padding-left: 5px">
@@ -27,3 +29,9 @@
 		<a href="{{eclinic}}" target="_blank">the paper</a>, <a href="{{janlineage}}">explainer</a>, <a href="{{impblog}}">discussion</a>
 	</td>
 </tr>
+
+
+<script>  
+	var src="/img/papers/lineage.jpg"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

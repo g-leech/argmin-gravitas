@@ -1,6 +1,10 @@
+{%	assign id = "seasonimg" 	%}
+
 <tr>
 	<td class="logo">
-		<a href="{{seasons}}"><img src="/img/papers/season-graph.jpg" /></a>
+		<a href="{{seasons}}">
+			<div id="{{id}}"></div>
+		</a>
 	</td>
 	<td style="padding-left: 5px">
 		<i><a class="noline" href="{{seasons}}" target="_blank">Seasonal variation in SARS-CoV-2 transmission in temperate climates</a></i> (2021) <br>
@@ -24,3 +28,9 @@
 		
 	</td>
 </tr>
+
+<script>  
+	var src="/img/papers/season-graph.jpg"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>
+

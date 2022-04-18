@@ -10,44 +10,8 @@ visible:	false
 
 {%  include about/now.md  %}
 
-<!-- <div class="note">
-  <div class="title">
-    I'm a technical generalist
-    <br>
-  </div> 
-  <div class="insides">
-    <ul>
-      <li>
-        <a href="researches/">Need to model something?</a>
-      </li>
-      
-      <li>
-        <a href="researches/#service">Need research critiqued?</a>
-      </li>
-      
-      <li>
-        <a href="{{pred}}">Forecasting arbitrary events?</a>
-      </li>
-      <li>
-        <a href="/stims">Need</a> <a href="/fermi">something</a> <a href="/games-of-life">difficult</a> explained?
-      </li>
-      <br>
-      
-      <li>
-        I built machine learning pipelines at <a href="{{axafort}}">a Fortune 100</a> company.
-      </li>
-      
-      <li>
-        Also <a href="{{metha}}">medical device firmware</a> and web apps.
-      </li>
-      <br>
-      <li>
-        Need an unreasonable amount of these things fast?<br>
-        <a href="/psych">I do that for fun</a>.
-      </li>
-  </ul>
-  </div>
-</div> -->
+<!-- %  include about/infomercial.md  %} -->
+
 
 <br>
 
@@ -55,7 +19,6 @@ visible:	false
 
 <br>
 
-<br>
 <center>
   <h1 class="titl">
     💪 Work 💪
@@ -348,7 +311,7 @@ Python wrapper for the Hidden Markov ToolKit.
 
   #nowacc {
     background-color: cornflowerblue !important;
-    border:  2px solid #000;
+    border:  4px solid #000;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
     border-top-left-radius: 0;

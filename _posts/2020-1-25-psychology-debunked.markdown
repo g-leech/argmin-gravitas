@@ -12,7 +12,7 @@ published:  true
 best: 		1
 
 summary:    A list of exaggerated psychological phenomena
-quality:    8
+quality:    10
 confidence: High that I'm representing the current evidence well, low that all of these will stay reversed.
 importance: 5
 warnings: 	I am not a social scientist.

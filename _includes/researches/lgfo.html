@@ -1,7 +1,9 @@
+{%	assign id = "lgfoimg" 	%}
+
 <tr>
 	<td class="logo">
 		<a href="{{lgfo}}">
-			<img src="/img/papers/lgfo.jpg" />
+			<div id="{{id}}"></div>
 		</a>
 	</td>
 	<td style="padding-left: 5px">
@@ -27,3 +29,9 @@
 		<a href="/lgfo">blogpost</a>
 	</td>
 </tr>
+
+
+<script>  
+	var src="/img/papers/lgfo.jpg"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

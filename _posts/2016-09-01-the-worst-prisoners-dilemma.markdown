@@ -5,6 +5,7 @@ baselink:	/worst
 permalink:	/worst
 date:   	2016-10-21  
 author:		Gavin	
+img:      /img/guillotine.webp
 
 visible:	1
 published: 	true

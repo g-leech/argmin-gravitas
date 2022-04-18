@@ -6,7 +6,7 @@ permalink:  /relative
 date:       2014-07-31
 author:     Gavin
 
-img:        /img/
+img:        /img/star.jpg
 published:  true
 visible:    1
 

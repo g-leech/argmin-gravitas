@@ -6,7 +6,7 @@ permalink:  /acais
 date:       2020-07-29
 author:     Gavin
 
-img:        /img/nonsense.gif
+img:        /img/nonsense.jpg
 published:  true
 visible:    1
 
