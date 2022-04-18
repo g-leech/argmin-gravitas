@@ -1,7 +1,9 @@
+{%	assign id = "coviddataimg" 	%}
+
 <tr>
 	<td class="logo">
 		<a href="{{coviddata}}">
-			<img src="/img/coviddata.jpg" />
+			<div id="{{id}}"></div>
 		</a>
 	</td>
 	<td style="padding-left: 5px">
@@ -28,3 +30,8 @@
 </tr>
 
 
+
+<script>  
+	var src="/img/coviddata.jpg"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

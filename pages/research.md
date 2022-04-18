@@ -8,11 +8,12 @@ visible:	true
 
 {%	include researches/links.md	%}
 {%	include researches/icons.html	%}
+{%  include js/lazyFrame.html  %}
+
 
 <style>
 	{% include researches/papers.css %}
-</style>
-
+</style>    
 
 <br>
 
@@ -123,13 +124,8 @@ visible:	true
 
 {%	include padder.html 	howMuch=3 	%}
 
-
+<!-- THE POINT DROPDOWN -->
 <script>
-	// function drop(el) {
- //    	// document.getElementById("myDropdown").classList.toggle("show");
- //    	el.classList.toggle("show");
- //  	}
-
   	function drop(id) {
     	document.getElementById(id).classList.toggle("show");
   	}
@@ -147,4 +143,5 @@ visible:	true
 	    }
 	}
 </script>
+
 

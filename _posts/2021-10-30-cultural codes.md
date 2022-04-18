@@ -5,10 +5,11 @@ baselink:   /codes
 permalink:  /codes
 date:       2021-10-25
 author:     Gavin   
-img:        /img/three-mops-red-wall_1600.png
+img:        /img/mops.jpg
 
 visible:    1
 published:  true
+best: 		1
 
 summary:    The art & philosophy of getting into stuff
 quality:    6

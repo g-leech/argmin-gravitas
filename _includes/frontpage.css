@@ -1,4 +1,11 @@
 @media (min-width: 15em) {
+  .im {
+    height: 150px;
+    /*width: 80%;*/
+    margin: 0px;
+    object-fit: cover;
+  }
+
   .i {
     height: 20%;
     /*width: 80%;*/
@@ -12,7 +19,7 @@
 
 img {
   vertical-align: middle;
-  width:  100%;
+  width:  80%;
 }
 
 @media screen and (min-width: 600px)  {
@@ -27,7 +34,7 @@ img {
 .centerer {
   text-align: center;
   vertical-align: middle;
-  padding: 30px;
+  padding: 10px;
   width: 75%;
 }
 

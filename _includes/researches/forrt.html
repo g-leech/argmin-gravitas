@@ -1,6 +1,10 @@
+{%	assign id = "forrtimg" 	%}
+
 <tr>
 	<td class="logo">
-		<a href="{{aimos}}"><img src="/img/forrt.png" /></a>
+		<a href="{{aimos}}">
+			<div id="{{id}}"></div>
+		</a>
 	</td>
 	<td style="padding-left: 5px">
 		<i><a class="noline" href="{{aimos}}">Replications and Reversals in the Social Sciences</a></i> (2021)<br>
@@ -17,3 +21,9 @@
 		<a href="{{forrtvid}}">video</a>, <a href="{{forrt}}">professionalised</a>, <a href="/psych">original</a>
 	</td>
 </tr>
+
+
+<script>  
+	var src="/img/forrt.png"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

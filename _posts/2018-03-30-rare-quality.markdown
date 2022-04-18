@@ -9,7 +9,7 @@ author:     Gavin
 img:        /img/sturgeon.jpg
 published:	true
 visible: 	1
-quality: 	8
+quality: 	9
 
 summary:    Why in general is it harder to do things well than badly?
 confidence:	80% that I've captured the main contributors.

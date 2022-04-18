@@ -12,7 +12,7 @@ visible: 	1
 
 summary:    Why many different worldviews should prioritise reducing existential risk.
 confidence:	70%.
-quality: 	9
+quality: 	7
 emotion: 	4
 categories: longtermism, philosophy, xrisk
 importance: 10

@@ -10,7 +10,7 @@ img:        /img/smolBoo.jpg
 published:	true
 visible: 	1
 best:		1
-quality:    8
+quality:    9
 
 summary:    Tiny app for defining "computer" and selecting between first computers.
 confidence:	Pretty sure, 90%. A few dates missing, but there's no crucial overlaps.

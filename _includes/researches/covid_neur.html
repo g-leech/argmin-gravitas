@@ -1,6 +1,10 @@
+{%	assign id = "covidneurimg" 	%}
+
 <tr>
 	<td class="logo" style="padding-bottom: 10px">
-		<a href="{{neurips_covid}}"><img src="/img/papers/1.png" /></a>
+		<a href="{{neurips_covid}}">
+			<div id="{{id}}"></div>
+		</a>
 	</td>
 	<td style="padding-left: 5px">
 		<i><a  class="noline" href="{{neurips_covid}}" target="_blank">How Robust are Estimated Effects of Interventions against COVID-19?</a></i> (2020)<br>
@@ -24,3 +28,9 @@
 		<a href="{{neurtwitmrin}}">explainer</a>, <a href="{{robustvid}}">video</a>
 	</td>
 </tr>
+
+
+<script>  
+	var src="/img/papers/1.png"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>
