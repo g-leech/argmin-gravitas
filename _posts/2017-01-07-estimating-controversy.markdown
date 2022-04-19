@@ -13,8 +13,8 @@ technical:	true
 quality:    4
 
 summary:	A tiny research proposal - can we quantify controversy / obstructionism?
-confidence: 70% on equations' truth (because vague). 80% that it's worth doing.
-warnings: 	terrorism, inexorable ideologies
+confidence: 70% that the equations are true (because vague). 50% that it's worth doing.
+warnings: 	terrorism, inexorable ideologies. 
 importance: 7
 pride:		3
 categories: cause-prioritisation, effective-altruism, quantification

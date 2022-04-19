@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "on veganism"
+title:      "<strike>on veganism</strike>"
 baselink:   /vegan
 permalink:  /vegan
 date:       2016-08-22
@@ -10,11 +10,12 @@ img:        /img/minced-meat-lucian-tidorescu.jpg
 visible:    1
 published:  true
 
-summary:    My view on meat and similar things.
+summary:    My old view on meat and similar things.
 quality:    4
 emotion:    7
-confidence: 80%
 importance: 5
+confidence: 80%
+warnings: 	I now think several other things are overwhelmingly more important.
 wordcount:  2100
 categories: ethics
 ---

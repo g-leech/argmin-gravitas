@@ -9,9 +9,9 @@ img:        /img/rubin.jpg
 
 visible:    1
 published:  true
-quality:    3
 
 summary:    An excellent trend in C21st pop - young producers + past-it singers.
+quality:    3
 importance: 3
 wordcount:  350
 categories:	music, criticism, lists

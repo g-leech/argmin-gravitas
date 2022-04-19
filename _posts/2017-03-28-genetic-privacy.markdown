@@ -8,7 +8,7 @@ author:     Gavin
 img:		/img/bio.jpg
 
 visible:    1
-quality:    7
+quality:    6
 
 summary:    A qualitative look at risks from publishing your genome.
 confidence:	Low; 60%. Huge speculations in the second and third sections.

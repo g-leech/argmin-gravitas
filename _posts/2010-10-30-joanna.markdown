@@ -9,7 +9,7 @@ img:
 
 visible:    1
 published: 	true
-quality:    6
+quality:    7
 
 summary:    A reading of the best album of the last 20 years.
 confidence: internally consistent
