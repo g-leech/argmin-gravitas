@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "to desperately instrumentalise myself"
+title:      "<strike>to desperately instrumentalise myself</strike>"
 baselink:   /instrument
 permalink:  /instrument
 date:       2012-05-29
@@ -11,8 +11,8 @@ visible:    1
 published:  true
 
 summary:    On realising that degrees are not skills and skills are a moral imperative.
-quality:    2
 confidence: "Obsoleted."
+quality:    2
 importance: 5
 emotion: 	8
 warnings: 	

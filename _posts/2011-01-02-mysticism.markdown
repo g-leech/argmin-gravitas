@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Staring at mystics"
+title:      "<strike>Staring at mystics</strike>"
 baselink:   /mysticism
 permalink:  /mysticism
 date:       2011-01-02  <!--site.time-->

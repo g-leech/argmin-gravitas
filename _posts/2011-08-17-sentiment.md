@@ -13,7 +13,7 @@ published:  true
 summary:    Riding my bike all the way through west England
 quality:    5
 confidence: 
-importance: 
+importance: 4
 emotion: 	8
 warnings: 	
 wordcount:  5300

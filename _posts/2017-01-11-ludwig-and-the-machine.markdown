@@ -7,7 +7,6 @@ date:   	2019-01-07  <!--site.time-->
 author:		Gavin	
 
 published: 	false
-quality:    8
 
 visible:	1
 simple:		true
@@ -16,6 +15,7 @@ technical:	true
 
 summary:	Recent formal results address philosophical questions, sometimes even negating them.
 confidence:	70%. I am not a computer scientist.
+quality:    8
 importance: 6
 pride:		7
 categories:	philosophy of science, language, machine learning

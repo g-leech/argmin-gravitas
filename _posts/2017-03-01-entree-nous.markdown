@@ -11,7 +11,7 @@ visible:    1
 published:  true
 
 summary:    Formalising a throwaway line about philosophical scepticism.
-quality:    4
+quality:    5
 emotion:	4
 confidence: It doesn't solve the original problem, but it is quite fun.
 importance: 0 or 10

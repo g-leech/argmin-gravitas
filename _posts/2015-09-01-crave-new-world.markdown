@@ -19,6 +19,10 @@ wordcount:
 categories: philosophy
 ---
 
+
+https://www.lesswrong.com/posts/8rdoea3g6QGhWQtmx/existential-angst-factory
+
+
 <div align="center">
 	<img src="/img/haring.jpg" /><br>
 	<span style="font-size: small;"> 'The Marriage of Heaven and Hell', (c) Keith Haring (1984) </span><br />
