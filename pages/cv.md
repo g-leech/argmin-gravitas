@@ -319,6 +319,20 @@ Python wrapper for the Hidden Markov ToolKit.
     padding: 0.5em;
   }
 
+  .ui-icon-triangle-1-e, .ui-icon-triangle-1-s {
+    transform: scale(3.5);
+    margin-right: 10px;
+    margin-left: 15px;
+  }
+
+  .ui-icon-triangle-1-s {
+    transform: scale(3.5);
+    margin-left: 20px;
+    margin-right: 10px;
+  } 
+  
+
+
 
 </style>
 

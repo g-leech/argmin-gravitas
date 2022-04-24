@@ -8,7 +8,7 @@ author:     Gavin
 img:        /img/gather.jpg
 
 visible:    1
-published:  true
+published:  false
 
 summary:    Claims about the relative welfare of traditional human societies.
 confidence: 90% that the confidence of others is misplaced.
