@@ -178,43 +178,47 @@ He did not live like someone who understood expected utility and hyperbolic disc
     Feynman: "John von Neumann gave me an interesting idea: that you don't have to be responsible for the world that you're in. So I have developed a very powerful sense of social irresponsibility as a result of von Neumann's advice. It's made me a very happy man ever since. But it was von Neumann who put the seed in that grew into my active irresponsibility!“<br><br>
     I'm gonna go out on a long limb and say that Feynman straight up misunderstood vN. It's not that you have no responsibility, that you are radically free to indulge your own whims.
 <!--  -->
-    It's that the world isn't your fault. That the world is too large for you to feel responsible for the whole of it.
+    It's that the world isn't your fault. That the world is too large for you to feel responsible for the whole of it.<br><br>
 <!--  -->
-    My main evidence for this extraordinary claim is JvN's sustained and frantic service for the world, sustained for decades at great personal cost. You can't read his work on nuclear strategy, or ‘Can We Survive Technology?', or note his open sourcing the vn architecture, or note the cumulative years he spent travelling to DC, without seeing that he took lots of responsibility, as much as he could.
+    My main evidence for this extraordinary claim is JvN's sustained and frantic service for the world, sustained for decades at great personal cost. You can't read his work on nuclear strategy, or ‘Can We Survive Technology?', or note his open sourcing the vn architecture, or note the cumulative years he spent travelling to DC, without seeing that he took lots of responsibility, as much as he could.<br><br>
     <!--  -->
-By "responsible" I sure do not mean morally flawless. It means facing the world and trying.
+"Responsible" sure does not mean morally flawless. It means facing the world and trying.<br><br>
 
-It actually doesn't make very much sense to feel remorse for birthing the atomic bomb, once you find yourself in a post-Curie, post-Hahn, post-Szilard world. It's gonna happen eventually; the question is who will get it first?
+It actually doesn't make very much sense to feel remorse for birthing the atomic bomb, once you find yourself in a post-Curie, post-Hahn, post-Szilard world. It's gonna happen eventually; the question is who will get it first?<br><br>
 
-(Yes, in practice their pathetic security and JvN's in particular handed it to Stalin.)
+(Yes, in practice their pathetic security and JvN's in particular handed it to Stalin.)<br><br>
 
-(Yes, von Neumann overestimated the transmissibility and stability of communism, leading to an inhuman and absurd strategy which he recanted a couple of years later.)
+(Yes, von Neumann overestimated the transmissibility and stability of communism, leading to an inhuman and absurd strategy which he recanted a couple of years later.)<br><br>
 
-Working for the US government for 30 years is not the action of a capering harlequin.
+Working for the US government for 30 years is not the action of a capering harlequin.<br><br>
 
-It's easiest to see JvN's moral seriousness in his late writing on x risk and by comparison with the true amoral fucks like Nash and Teller
+It's easiest to see JvN's moral seriousness in his late writing on x risk and by comparison with the true amoral fucks like Nash and Teller<br><br>
 
-<blockquote>What von Neumann disliked most about Nash’s approach, though, was the axioms upon which it was built. The idea that people might not work together for mutual benefit was anathema to him. He was central European to the core, his intellectual outlook shaped by a milieu where ideas were debated and shaped over coffee and wine. At that very moment, he was busily pushing as much as he could about the technical details of his computing project into the public domain. Ruling out communication ran counter to the spirit of his ‘coalitional’ conception of game theory. Even the fact that Nash’s solution could produce a point-solution to a complex game struck von Neumann as unrealistic. He maintained the theory could provide only a spectrum of solutions, with the actual result determined by social mores and the specific circumstances at the time...
+<blockquote>What von Neumann disliked most about Nash’s approach, though, was the axioms upon which it was built. The idea that people might not work together for mutual benefit was anathema to him. He was central European to the core, his intellectual outlook shaped by a milieu where ideas were debated and shaped over coffee and wine. At that very moment, he was busily pushing as much as he could about the technical details of his computing project into the public domain. Ruling out communication ran counter to the spirit of his ‘coalitional’ conception of game theory. Even the fact that Nash’s solution could produce a point-solution to a complex game struck von Neumann as unrealistic. He maintained the theory could provide only a spectrum of solutions, with the actual result determined by social mores and the specific circumstances at the time...<br><br>
 
-‘I was playing a non-cooperative game in relation to von Neumann rather than simply seeking to join his coalition’... 
+‘I was playing a non-cooperative game in relation to von Neumann rather than simply seeking to join his coalition’... <br><br>
 
-arch-rationalist von Neumann had presupposed that even the hard-boiled players he envisaged would collaborate for common advantage. By contrast, Nash would himself describe his thinking, in retrospect, as more individualistic, more ‘American’. It is arguably Nash’s conception of game theory, not von Neumann’s, that more closely embodies the kill-or-be-killed paranoia of the early Cold War. And it would be Nash’s powerful solution to games that would for the first few decades after the Second World War take academia, economics and RAND by storm.
+arch-rationalist von Neumann had presupposed that even the hard-boiled players he envisaged would collaborate for common advantage. By contrast, Nash would himself describe his thinking, in retrospect, as more individualistic, more ‘American’. It is arguably Nash’s conception of game theory, not von Neumann’s, that more closely embodies the kill-or-be-killed paranoia of the early Cold War. And it would be Nash’s powerful solution to games that would for the first few decades after the Second World War take academia, economics and RAND by storm.<br><br>
 
 With two equally valid solutions to choose from, Nash or von Neumann-Morgenstern, the question was which would real humans plump for?... they leaned towards the von Neumann-Morgenstern solution of mutual cooperation.
 </blockquote>
-
+<br><br>
+<!-- 
+ -->
 We need clown geniuses like Ricky F and we need quiet backroom geniuses like Jason Metheny and we need human calculators like JvN. (I'm not sure if we need psycho fucks like Nash, except that we find ourselves in a world which already has psycho fucks to counter.)
+<br><br>
+<!--  -->
     <!--  -->
-    He has a waking nightmare at one point which can be read as supporting this idea:
+    His waking nightmare can be read as supporting this:<br><br>
     <blockquote>
       ‘What we are creating now,’ [JvN] told her, 'is a monster whose influence is going to change history, provided there is any history left, yet it would be impossible not to see it through, not only for the military reasons, but it would also be unethical from the point of view of the scientists not to do what they know is feasible, no matter what terrible consequences it may have. And this is only the beginning! The energy source which is now being made available will make scientists the most hated and also the most wanted citizens of any country.'
 <!--  -->
       But then von Neumann abruptly switched from talking about the power of the atom to the power of machines that he thought were ‘going to become not only more important but indispensable’.
       “We will be able to go into space way beyond the moon if only people could keep pace with what they create,’ he said. And he worried that if we did not, those same machines could be more dangerous than the bombs he was helping to build.”
     </blockquote>
-  </div>
-
   This seems to assert nonconsequentialism - science for science's sake, some idiotic idea of it being "unethical" to not build what can be built - but it makes more sense as saying the decision to build the bomb is counterfactually inert: terrible consequences are coming no matter what.
+  <br><br>
+  </div>
 </div>
 
 {%  include jvn/foots.html %}
