@@ -5,7 +5,7 @@ baselink:   /hoom
 permalink:  /hoom
 date:       2010-10-30  <!--site.time-->
 author:     Gavin   
-img:        
+img:        /img/hoom/755mujoannanewsom1open.jpg
 
 visible:    1
 published: 	true
