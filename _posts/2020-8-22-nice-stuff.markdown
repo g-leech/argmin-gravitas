@@ -133,7 +133,7 @@ _Expected lifespan_: Forever.
 
 * This blog is hosted on <a href="https://www.netlify.com/">Netlify</a>, they are amazing and free for small fry.<br>
 
-* <a href="{{ether}}">Wire up your laptop for calls</a> (£5). Who knows how much of social difficulties are due to people disliking latency on your calls? Replace the cable every couple years just in case.
+* <a href="{{ether}}">Wire up your laptop for calls</a> (£5). Who knows how much social difficulty in your life is due to people disliking latency on your calls? Replace the cable every couple years just in case.
 
 * <a href="{{bose}}">Bose QuietComfort 25</a> (£150). Being able to turn down noise is a superpower: actual focus. They even made working in an open-plan office intermittently tolerable. They don't work _that_ well on conversations, but are excellent for humming appliances, engine roar, wind. Lasted 3.5 years so far. These are the wired ones because I resented paying an extra £100 for a transponder; I've had to replace the cable twice, 2 x £7, and probably about £20 of batteries.<br>
 _Expected lifespan_: I guess 5 years?<br>
@@ -169,7 +169,7 @@ _Cost per year_: £4
 _Expected lifespan_: 4 years.<br>
 _Cost per year_: £40
 
-## Services, Security
+## Services & Security
 
 * <a href="{{kee}}">KeePassX</a> password manager (£0). Works on every platform: Linux, Win, Mac, Android. Probably saves a few minutes a week and a lot of mental overhead. See <a href="/browser">here</a> for why you want this.<br>
 
@@ -188,6 +188,10 @@ _Expected lifespan_: 1 month.
 * Emergency backup bank account (Free). A couple times in the last decade I've been locked out of my account due to a false-positive for fraud, or lost my bank card. To be able to get to the bank / to work during the day (or four) this takes to resolve, I have a backup bank card with about £100 on it. You can also just stash a little cash in your house, but this is more general than that. Free, takes maybe one hour including the appointment some UK places make you do.<br>
 _Expected lifespan_: Forever.
 
+* I use iCloud for photos as a hedge against Google attacking my account for no reason.
+
+<br>
+
 ## Fun
 
 * <a href="{{ks}}">KS Miami</a> bluetooth speaker (£20). Surprisingly good bass; makes watching things on a laptop much less dreadful. Good battery life too.<br>
@@ -200,6 +204,8 @@ _Expected lifespan_: 3 years.
 * Two actually nice shirts (<a href="{{haw}}">£40</a>). There are a lot of weddings in my life at the moment. And besides that it's nice to surprise people once in a while.<br>
 _Expected lifespan_: 3 years.<br>
 _Cost per year_: £15
+
+* Uniqlo Airism pants.
 
 * Fairy lights make all rooms nicer, any time of year (£20 for loads).
 
