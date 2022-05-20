@@ -1,3 +1,30 @@
+@media (max-width: 600px) {
+
+  .post-link {
+    padding-bottom: 10px;
+  }
+
+  .i {
+    font-size: 22px;
+    padding-bottom: 10px;
+    text-align: left;
+  }
+
+  .summ {
+    text-align: left !important;
+  }
+
+  tr>td {
+    padding-top: 2em;
+    padding-bottom: 2em;
+  }
+
+  .date {
+    display: none;
+  }
+
+}
+
 @media (min-width: 15em) {
   .im {
     height: 150px;
