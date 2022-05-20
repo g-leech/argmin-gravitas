@@ -376,6 +376,6 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 <ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
-		Of course, the tails of science are <a href="{{midg}}">also</a> heavy. Heavier. But it's easier to tell which you're in.
+		Of course, the tails of science are <a href="{{lead}}">also</a> heavy. Heavier. But it's easier to tell which you're in.
 	</li>
 </ol>
