@@ -70,10 +70,10 @@ visible:  false
         </td>
         </td>
         <td style="width:63%;padding:10px;padding-bottom:30px;">
-          <h3 style="padding: 0px; margin: 0px;margin-left:7%">
+          <h3>
             <a class="post-link frontpage" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
           </h3> 
-          <span style="display:inline-block;margin-left:7%">
+          <span>
             <small>
               <a class="nolink" href="{{ post.url | prepend: site.url }}">{{ post.summary }}</a>
             </small>
@@ -149,12 +149,20 @@ visible:  false
 
 <center>
 <h2>
-  <a href="{{ "/archive" | prepend: site.url }}">See all posts</a>; &nbsp;<br class="break">
-  <a href="{{ "/tags" | prepend: site.url }}">by topic</a>; &nbsp;<br class="break">
-  <a href="{{ "/importance" | prepend: site.url }}">most important</a>.  
+  <a href="{{ "/archive" | prepend: site.url }}">See all posts</a>; &nbsp;
+<!--  -->
+  <a href="{{ "/tags" | prepend: site.url }}">by topic</a>; &nbsp;
+<!--   -->
+  <a href="{{ "/importance" | prepend: site.url }}">importance</a>.  
 </h2>
 
-<br>
+<br><br class="break">
+
+<style>
+  #mc_embed_signup {
+    font-size: 20px;
+  }
+</style>
 
 {%    include mc.html  %}
 
