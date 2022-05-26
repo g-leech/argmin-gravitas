@@ -42,6 +42,24 @@
 	</div>
 </div><br>
 
+
+{%	assign dumbar = "https://www.sciencedirect.com/science/article/abs/pii/004724849290081J"	%}
+{%	assign lindenfors = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8103230/	%}
+
+
+* No good evidence that humans are cognitively or emotionally limited to 150 relationships with other people (<b>Dunbar's number</b>). Nutrition was a way more important constraint than cognition. The variation is so great that we can't say anything about the cognitive upper bound. "_Dunbar’s method arrives at an estimate of average human group size. But then it is used to indicate maximum human group size_". Anthropology shares the blame. 
+<div class="accordion">
+	<h3>Stats</h3>
+	<div>
+		<ul>
+	<li><span class="b">Original paper</span>: <a href="{{dumbar}}">Dunbar 1992</a> (3029 citations).</li><br>
+	<li><span class="b">Critiques</span>: <a href="{{lindenfors}}">Lindenfors 2021</a><br>(total citations: ). </li><br>
+	<li><span class="b">Original</span>: "100-200", n=38 genuses of primate with mean brain volumes</li><br>
+	<li><span class="b">Replication</span>: 4–520, n=more</li><br>
+	</ul>
+	</div>
+</div><br>
+
 * No good evidence that large parents have <span class="b">more sons</span> (Kanazawa); original analysis makes several errors and <a href="{{denny}}">reanalysis shows near-zero effect</a>. (Original effect size: 8% more likely.)
 <div class="accordion">
 	<h3>Stats</h3>

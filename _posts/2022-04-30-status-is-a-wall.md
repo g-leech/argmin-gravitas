@@ -1,3 +1,22 @@
+---
+layout:     post
+title:      "Comparing experts and generalists"
+baselink:   /status
+permalink:  /status
+date:       2022-05-26  
+author:     Gavin   
+img:        /img/
+
+visible:    0
+quality:    
+summary:    
+confidence: 
+warnings:   
+categories: 
+importance: 
+pride:      
+---
+
 Status replaces achievement
 
 * Honours are easier to understand than actual achievements
