@@ -69,7 +69,7 @@ visible:  false
           </a>
         </td>
         </td>
-        <td style="width:63%;padding:10px;padding-bottom:30px;">
+        <td style="width:76%;padding:10px;padding-bottom:30px;">
           <h3>
             <a class="post-link frontpage" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
           </h3> 
@@ -78,14 +78,6 @@ visible:  false
               <a class="nolink" href="{{ post.url | prepend: site.url }}">{{ post.summary }}</a>
             </small>
           </span>          
-        </td>
-        
-        <td style="width:9%;border-left:1px;"> 
-          <div align="right">
-            <span class="post-meta">
-              <a class="date" href="{{ post.url | prepend: site.url }}">{{ post.date | date: "%b %Y" }}</a>
-            </span>
-          </div>
         </td>
       </tr>
       {% endif  %}
@@ -107,8 +99,8 @@ visible:  false
             <img src="{{ post.img }}" height="25%" />
           </a>
         </td>
-        </td>
-        <td style="width:63%;padding-top:30px;padding-bottom:30px;">
+
+        <td style="width:76%;padding-top:30px;padding-bottom:30px;">
           <h3>
             <a class="post-link frontpage" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
           </h3> 
@@ -125,16 +117,6 @@ visible:  false
             {% endif %}
             </small>
           </span><br>
-
-          
-        </td>
-        
-        <td class="date" style="width:9%;border-left:1px;"> 
-          <div align="right">
-            <span class="post-meta">
-              <a class="date" href="{{ post.url | prepend: site.url }}">{{ post.date | date: "%b %Y" }}</a>
-            </span>
-          </div>
         </td>
       </tr>
       {% endif  %}

@@ -6,7 +6,6 @@
 
   .i {
     font-size: 22px;
-    padding-bottom: 10px;
     text-align: left;
   }
 
@@ -23,6 +22,10 @@
     display: none;
   }
 
+}
+
+h3 {
+    margin-bottom: 6px !important;
 }
 
 @media (min-width: 15em) {
