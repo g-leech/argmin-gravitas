@@ -30,12 +30,11 @@ a {
 .bris {
 	width: 20%;
 	padding: 10px;
-	border: 1px solid #555;
 }
 
 .bris:hover {
-	border: 0px;	
-	padding: 11px;
+	border: 1px;	
+	padding: 9px;
 }
 
 button {

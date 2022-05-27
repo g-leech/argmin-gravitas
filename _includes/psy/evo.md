@@ -44,7 +44,7 @@
 
 
 {%	assign dumbar = "https://www.sciencedirect.com/science/article/abs/pii/004724849290081J"	%}
-{%	assign lindenfors = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8103230/	%}
+{%	assign lindenfors = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8103230/"	%}
 
 
 * No good evidence that humans are cognitively or emotionally limited to 150 relationships with other people (<b>Dunbar's number</b>). Nutrition was a way more important constraint than cognition. The variation is so great that we can't say anything about the cognitive upper bound. "_Dunbar’s method arrives at an estimate of average human group size. But then it is used to indicate maximum human group size_". Anthropology shares the blame. 
