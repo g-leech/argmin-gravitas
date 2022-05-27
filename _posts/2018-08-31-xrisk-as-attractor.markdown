@@ -8,24 +8,24 @@ author:     Gavin
 
 img:        /img/grey.jpg
 published:	true
-visible: 	1
+visible: 		1
 
-summary:    Why many different worldviews should prioritise reducing existential risk.
+summary:    Why many views should prioritise existential risk.
 confidence:	70%.
-quality: 	7
-emotion: 	4
+quality: 		7
+emotion: 		4
 categories: longtermism, philosophy, xrisk
 importance: 10
-pride: 		9
+pride: 			9
 wordcount: 	1000
-cross:		https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause
+cross:			https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause
 ---
 
 {%	include xriskAll/links.md		%}
 
 <br> Imagine someone who thought that art was the only thing that made life worth living. <a href="#fn:1" id="fnref:1">1</a> 
 
-What should they do? Binge on galleries? <a href="#fn:2" id="fnref:2">2</a> Work to increase the amount of art and artistic experience, by <a href="{{e2g}}">going into finance</a> to fund artists? Or by becoming an activist for government funding for the arts? Maybe. But there's a strong case that they should pay attention to <a href="{{gcr}}">the ways the world might end</a>: after all, you can't enjoy art if we're all dead.<br><br>
+What should they do? Binge on galleries? <a href="#fn:2" id="fnref:2">2</a> Work to increase the amount of art and artistic experience, by going into finance to fund artists? Or by becoming an activist for government funding for the arts? Maybe. But there's a strong case that they should pay attention to the ways the world might end: after all, you can't enjoy art if we're all dead.<br><br>
 
 1. Aesthetic experience is good in itself: it's a 'terminal goal'.
 2. The extinction of life would destroy all aesthetic experience & prevent future experiences.

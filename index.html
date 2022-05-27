@@ -65,15 +65,15 @@ visible:  false
         <tr>
         <td>
           <a class="post-link" href="{{ post.url | prepend: site.url }}">
-            <img src="{{ post.img }}" height="20%" />
+            <img class="im" src="{{ post.img }}" />
           </a>
         </td>
         </td>
-        <td style="width:76%;padding:10px;padding-bottom:30px;">
-          <h3>
+        <td>
+          <h3 class="i">
             <a class="post-link frontpage" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
           </h3> 
-          <span>
+          <span class="summ">
             <small>
               <a class="nolink" href="{{ post.url | prepend: site.url }}">{{ post.summary }}</a>
             </small>
