@@ -114,17 +114,18 @@ visible:	false
 
 <br>
 
-* <time>
-      <a class="noline" href="/researches">Mask-wearing in community settings reduces COVID-19 transmission</a>
-      <br><span style="font-weight: normal;">(2022), <i>PNAS</i> </span> 
-  </time> 
-<br>
 
 * <time>
       <a class="noline" href="/researches">Inferring the effectiveness of government interventions against COVID</a>
         <br><span style="font-weight: normal;">(2020),
       <i>Science</i>
     </span>
+  </time> 
+<br>
+
+* <time>
+      <a class="noline" href="/researches">Mask-wearing in community settings reduces COVID-19 transmission</a>
+      <br><span style="font-weight: normal;">(2022), <i>PNAS</i> </span> 
   </time> 
 <br>
 

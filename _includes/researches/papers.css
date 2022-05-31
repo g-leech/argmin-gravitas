@@ -37,10 +37,15 @@ a {
 	padding: 9px;
 }
 
+tr>td {
+  padding-bottom: 1em;
+}
+
 button {
   background-color: #006800;
   /*border: none;*/
   color: white;
+  margin-top: 15px;
   padding: 5px 10px 5px 10px;
   /*border-radius: 30%;*/
 
@@ -55,7 +60,7 @@ button:focus {
 
 
 .dropdown {
-  display: inline-block;
+  /*display: inline-block;*/
   padding: 0;
 }
 
@@ -66,7 +71,7 @@ button:focus {
 
 .dropdown-content {
   padding-left: 16px;
-  font-size: 11px;
+  font-size: 17px;
 }
 
 .show {
@@ -74,18 +79,17 @@ button:focus {
 }
 
 .frame {
-text-align: center;
+	text-align: center;
 }
 
 img {
 	padding-top:8px;
-
-    vertical-align: top;
+  vertical-align: top;
 }
 
 .logo {
-	width: 16% !important;
-    vertical-align: top;
+	width: 21% !important;
+  vertical-align: top;
 	padding-right:8px;
 }
 
@@ -105,12 +109,25 @@ img {
 
 }
 
+.journo {
+		margin-top: 10px;
+		margin-bottom: 5px;
+}
 
-td {
-	padding-bottom: 1.4em;
+table {
+		border-collapse: collapse; 
+}
+
+tr {
+  border-bottom: 1pt solid black;
+}
+
+tr>td {
+	padding-bottom: 1.5em;
+	padding-top: 2em;
 }
 
 .me {
 	font-weight: bold;
-	font-size: 14px;
+	font-size: 17px;
 }

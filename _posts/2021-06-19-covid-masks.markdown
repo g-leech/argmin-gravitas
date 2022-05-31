@@ -26,7 +26,7 @@ categories: code, science, research
 
 We seem to be first to use the incredible <a href="https://covidmap.umd.edu/">UMD / Facebook</a> survey of COVID behaviour to look at masks.
 
-Short answer: Yup! 24.6% [6%, 43%] reduction in R the reproduction number, or cases / case.
+Short answer: Yup! 25% [6%, 43%] reduction in R the reproduction number, or cases / case.
 
 We also have interesting secondary results
 
