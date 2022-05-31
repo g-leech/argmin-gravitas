@@ -20,6 +20,7 @@ visible:	true
 ## Journal
 
 <table>
+	{%	include researches/masks.html	%}
 	{%	include researches/coviddata.html	%}
 	{%	include researches/covid2.html	%}
 	{%	include researches/lineage.html	%}
@@ -49,7 +50,6 @@ visible:	true
 
 <table>
 	<!-- 	include researches/trees.html	%} -->
-	{%	include researches/masks.html	%}
 	{%	include researches/seasons.html	%}
 	{%	include researches/lgfo.html	%}
 
@@ -60,23 +60,16 @@ visible:	true
 <!-- * _<a href="/files/" target="_blank">The computational humour of single-word edits</a>_ (2020) -->
 <!-- * _<a href="/files/" target="_blank">Failing to Find Proxies for Population Loneliness</a>_ (2020) -->
 
-<br>
+<br><br>
 
-## Software
-
-* <a  class="noline" href="{{maskscode}}">masks_v_mandates</a> (2021): Probabilistic programming for epidemic modelling and effect estimation. End to end with data getters.
-* <a  class="noline" href="{{prolexa}}">ProlexaPlus</a> (2020): Bringing modern language modelling into Prolog for some reason.
-* <a  class="noline" href="{{htk}}">Py2HTK</a> (2017): Python wrapper for the Hidden Markov ToolKit.
-
-<br>
 
 ## Popular
 
-* <i><a  class="noline" href="{{kulveit}}">Learning from crisis</a></i> (2022)
-* <i><a  class="noline" href="{{supers}}">Comparing top forecasters and domain experts</a></i> (2022)
-* <i><a  class="noline" href="/psych" target="_blank">Reversals in psychology</a></i> (2020)
-* <i><a  class="noline" href="{{academic_safety}}" target="_blank">The academic contribution to AI safety seems large</a></i> (2020)
-* <i><a  class="noline" href="{{xrisk}}" target="_blank">Existential risk as common cause</a></i> (2018)
+* <i><a  class="noline" href="{{kulveit}}">Learning from crisis</a></i> (2022)<br><br>
+* <i><a  class="noline" href="{{supers}}">Comparing top forecasters and domain experts</a></i> (2022)<br><br>
+* <i><a  class="noline" href="/psych" target="_blank">Reversals in psychology</a></i> (2020)<br><br>
+* <i><a  class="noline" href="{{academic_safety}}" target="_blank">The academic contribution to AI safety seems large</a></i> (2020)<br><br>
+* <i><a  class="noline" href="{{xrisk}}" target="_blank">Existential risk as common cause</a></i> (2018)<br><br>
 * <i><a  class="noline" href="/grids" target="_blank">Side effects in Gridworlds</a></i> (2018). <a href="{{gridcite}}">Developed further</a>.
 
 <!-- *Gelman  -->
@@ -85,22 +78,22 @@ visible:	true
 
 ## Service
 
-* Briefed the UK Cabinet Office <a href="{{ctf}}">COVID-19 Task Force</a> on masks.
+* Briefed the UK Cabinet Office <a href="{{ctf}}">COVID-19 Task Force</a> on masks.<br><br>
 * Reviewer for <a href="{{pnas}}">PNAS</a>, <a href="{{ml}}">Machine Learning</a>, <a href="{{bmj}}">BMJ Global Health</a>, <a href="{{aisc}}">AI Safety Camp</a>.
 
 <br>
 
 ## Media
 
-* Masks: <a href="{{bbc}}">BBC</a>, <a href="{{acxmandate}}">ACX</a>, <a href="{{nyt}}">New York Times</a>, <a href="{{wired}}">Wired</a>, <a href="{{guardian}}">Guardian</a>, <a href="{{mails}}">Mail</a>, <a href="{{mr}}">Marginal Revolution</a>, <a href="{{ag}}">Gelman</a>
+* Masks: <a href="{{bbc}}">BBC</a>, <a href="{{acxmandate}}">ACX</a>, <a href="{{nyt}}">New York Times</a>, <a href="{{wired}}">Wired</a>, <a href="{{guardian}}">Guardian</a>, <a href="{{mails}}">Mail</a>, <a href="{{mr}}">Marginal Revolution</a>, <a href="{{ag}}">Gelman</a><br><br>
 * Psychology: <a href="{{nat}}">Nature</a>, <a href="{{ag}}">Gelman</a>, <a href="{{jc}}">Coyne</a>, <a href="{{hertz}}">Everything Hertz</a>, <a href="{{sbs}}">Stronger by Science</a>.
 
 <br>
 
 ## Teaching
 
-* 2019: TA for the fearsome _<a href="{{coms}}">COMS30007: Bayesian Machine Learning</a>_
-* 2020: Lead TA for _<a href="{{algo}}">COMS20010: Algorithms 2</a>_.
+* 2019: TA for the fearsome _<a href="{{coms}}">COMS30007: Bayesian Machine Learning</a>_.<br><br>
+* 2020: Lead TA for _<a href="{{algo}}">COMS20010: Algorithms 2</a>_.<br><br>
 * 2021: Designer and instructor for two courses at <a href="{{espr}}">ESPR</a>.
 
 <!-- <br> -->
@@ -113,7 +106,7 @@ visible:	true
 
 <!-- My acceptance rate is 50% (4/8) -->
 
-<br><br>
+<br><br><br>
 
 {%    include mc.html  %}
 
