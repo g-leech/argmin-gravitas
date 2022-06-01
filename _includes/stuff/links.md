@@ -61,3 +61,10 @@
 {%	assign mh = "https://eaforum.issarice.com/posts/o7E47dNfeArTTQh74/10-things-i-bought-and-recommend-2020"	%}
 {%	assign arden = "https://docs.google.com/document/d/1ZrSzGLuwIEWeQJ_2zL5vpYDyV-LmC-8SBy-Q4WPF318/edit"	%}
 {%	assign xu = "https://markxu.com/things"	%}
+{%	assign james = "https://www.facebook.com/jimmieaung/posts/10212664121438278"	%}
+{%	assign dmn = "https://davidmn.org/things-i-recommend-you-buy-2020-edition/"	%}
+{%	assign mm = "https://cookerymonster.substack.com/p/the-2020-annual-kitchen-gift-guide"	%}
+{%	assign yuriy = "https://yakopov.me/things-i-recommend-you-buy-and-use"	%}
+{%	assign yuriy2 = "https://yakopov.me/things-i-recommend-you-buy-and-use-2"	%}
+{%	assign schif = "https://forum.effectivealtruism.org/posts/BnnDRy2yFzJqJ4Mvz/things-i-recommend-you-buy-and-use"	%}
+{%	assign berg = "https://forum.effectivealtruism.org/posts/fwtoEN5pZpDfQQLKz/stuff-i-buy-and-use-a-listicle-to-boost-your-consumer"	%}
