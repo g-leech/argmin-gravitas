@@ -45,6 +45,7 @@ argument:	agi-intro/argument.html
 {%	assign omo = "https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf"	%}
 {%	assign treac = "http://lukemuehlhauser.com/treacherous-turns-in-the-wild/"	%}
 {%	assign danaher = "https://philosophicaldisquisitions.blogspot.com/2014/07/bostrom-on-superintelligence-3-doom-and.html"	%}
+{%	assign aiaa = "https://www.aiaaic.org/aiaaic-repository" %}
 
 <br>
 
@@ -55,6 +56,8 @@ Could AI be a risk to humans? Well it already is:
 * <a href="{{robo}}">About one in 100</a> robot surgeries involve accidents; about 20% of these were what we'd call AI failures (things turning on at the wrong moment, or off, or misinterpreting what it sees). (This seems to be lower than the human rate.)
 
 * Consider also things like the <a href="{{zi}}">Ziyan Blowfish</a>, an autonomous Chinese military drone currently under export to the Middle East.
+
+* <a href="{{aiaa}}">Here's a list of relatively bad things that have happened.</a>
 
 <br>
 
