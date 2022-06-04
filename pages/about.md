@@ -7,7 +7,6 @@ visible:	true
 ---
 
 {%	include about/links.html	%}
-
 {%	include about/timeline.html		%}
 {%	include timeline_code.html		%}
 

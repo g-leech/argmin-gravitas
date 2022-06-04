@@ -156,6 +156,9 @@ _Cost per year_: £1.50
 _Expected lifespan_: 6 years.<br>
 _Cost per year_: £250
 
+
+* Docdrop (<a href="https://docdrop.org/video/6Af6b_wyiwI/">e.g.</a>). I never watch videos; this pulls out the transcript for me.
+
 * I don't know if it counts as productivity, since I spend about an hour a day playing with it, but <a href="{{roam}}">Roam</a> is the best personal knowledge base software I've seen. Text, maths, code, images, bidirectional links, single-copy imports... It promises to unify me across decades. (My blogs also do this, but only for the top 1% of thoughts.) Workflowy and Notion are a tree: Roam is the awesome power of a graph, which is what thoughts are like. Currently free, soon to be pricey.
 
 
@@ -205,7 +208,7 @@ _Expected lifespan_: 3 years.
 _Expected lifespan_: 3 years.<br>
 _Cost per year_: £15
 
-* Uniqlo Airism pants.
+* Uniqlo Airism pants. Hard to describe the ways they are better but they are.
 
 * Fairy lights make all rooms nicer, any time of year (£20 for loads).
 

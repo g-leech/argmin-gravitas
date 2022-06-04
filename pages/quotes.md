@@ -3,7 +3,7 @@ layout: 	page
 title: 		Quotations
 nav: 		Remarks
 permalink: 	/quotations/
-visible:	true
+visible:	false
 ---
 
 <div align="center" style="padding-top: 30px;">

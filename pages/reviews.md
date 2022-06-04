@@ -8,14 +8,6 @@ visible:    false
 {%	assign gr = "https://www.goodreads.com/user/show/68316850-gavin"	%}
 {%	assign current = "https://www.goodreads.com/review/list/68316850?shelf=currently-reading"	%}
 
-<!-- 
-</blockquote></i>
-data-src
-height
-
-	<th class="short-column"></th>
-	<th class="long-column"></th>
- -->
 
 <style>
 
@@ -73,7 +65,9 @@ For an overview, it's probably easier to <a href="{{gr}}">look on Goodreads</a>.
 		Books I most disagree with others about:<br><br>
 		{%	include books/sort_by_disagreement_dec_20.html	%}
 	</div>
-</div><br><br>
+</div>
+
+<br><br><br><br>
 
 
 ## Jump to
@@ -84,7 +78,7 @@ For an overview, it's probably easier to <a href="{{gr}}">look on Goodreads</a>.
 * _<a href="#two">2/5: Only for enthusiasts. 25th percentile.</a>_
 * _<a href="#one">1/5: False, ugly, evil, or vapid. 1st percentile.</a>_
 
-<br>
+<br><br><br>
 
 ## Reviews
 
