@@ -197,7 +197,7 @@ https://eprints.qut.edu.au/38329/1/38329a.pdf
 		<ul>
 	<li><span class="b">Original paper</span>: '<a href="{{stereothreat}}">Stereotype Threat and Women’s Math Performance</a>', Spencer 1999, n=30 women <br>
 	(&#126;3900 citations).</li><br>
-	<li><span class="b">Critiques</span>: <a href="{{stoet}}">Stoet & Geary 2012</a>, meta-analysis of 23 studies. <a href="{{gan}}">Ganley 2013</a>, n=931. <a href="{{flore}}">Flore 2015</a>, meta-analysis of 47 measurements. <a href="{{flore2}}">Flore 2018</a>, n=2064. <br>
+	<li><span class="b">Critiques</span>: <a href="{{stoet}}">Stoet & Geary 2012</a>, meta-analysis of 23 studies. <a href="{{gan}}">Ganley 2013</a>, n=931. <a href="{{flore}}">Flore 2015</a>, meta-analysis of 47 measurements. <a href="{{flore2}}">Flore 2018</a>, n=2064. <a href="{{inglis}}">Inglis & O'Hagan</a> 2022, n=250,000<br>
 	(total citations: &#126;500)</li><br>
 	<li><span class="b">Original effect size</span>: Not reported properly; Fig.2 <i>looks like</i> control-group-women-mean-score = 17 with sd=20, and experiment-group-women-score = 5 with sd=15. Which might mean roughly d= −0.7.</li><br>
 	<li><span class="b">Replication effect size</span>:<br> 

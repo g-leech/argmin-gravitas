@@ -10,7 +10,7 @@ img:        /img/nonsense.jpg
 published:  true
 visible:    1
 
-summary:    Estimating AI safety work by academics working in adjacent areas.
+summary:    Estimating safety work by academics in adjacent areas.
 quality:    7
 categories: effective-altruism, AI, academia
 confidence: High that there is a notable contribution, low in the particular estimates. Lots of Fermi estimates.

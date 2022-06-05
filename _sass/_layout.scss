@@ -4,7 +4,7 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 72px;
+    min-height: 87px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -16,7 +16,7 @@
 
 .site-title {
     font-size: 26px;
-    line-height: 72px;
+    line-height: 87px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -29,7 +29,7 @@
 
 .site-nav {
     float: right;
-    line-height: 72px;
+    line-height: 87px;
     padding-left: 5%;
     @media (max-width:600px) { padding-right: 5%; } 
 
@@ -112,8 +112,12 @@
     margin-left: 0;
 }
 
+.contact-list>li {
+    padding-bottom: 10px;
+}
+
 .footer-col-wrapper {
-    font-size: 15px;
+    font-size: 21px;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
@@ -145,6 +149,7 @@
 .footer-col-3 {
     width: -webkit-calc(46% - (#{$spacing-unit} / 2));
     width:         calc(46% - (#{$spacing-unit} / 2));
+    font-size: 17px;
 }
 
 @include media-query($on-laptop) {

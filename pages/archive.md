@@ -41,10 +41,13 @@ visible:  false
         {% endif %}
 <!--  -->
         <tr class="spaced">
-          <td style="width:55%;"><a class="archive-link frontpage" href="{{ post.url | prepend: site.baseurl }}"
-            > > {{ post.title }}</a>
+          <td style="width:57%;">
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}</a>
           </td>
 <!--  -->
+          <td style="width:3%;">
+          </td>
           <td> 
             <small>
               <a class="nolink" href="{{ post.url | prepend: site.baseurl }}"><i>{{ post.summary }}</i></a>
@@ -68,8 +71,9 @@ visible:  false
   <table>
     {% if page.favpage != true %}
     <tr class="spaced">
-    <td style="width:55%;"><a class="archive-link frontpage" href="{{ page.url | prepend: site.baseurl }}"
-      > > {{ page.title }}</a>
+    <td style="width:55%;">
+      <a class="archive-link frontpage" href="{{ page.url | prepend: site.baseurl }}">
+      {{ page.title }}.</a>
     </td>
     </tr>
     {%  endif   %}

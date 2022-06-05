@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Comparing experts and generalists"
+title:      "Status is a wall"
 baselink:   /status
 permalink:  /status
 date:       2022-05-26  
@@ -8,6 +8,7 @@ author:     Gavin
 img:        /img/
 
 visible:    0
+published:  false
 quality:    
 summary:    
 confidence: 
