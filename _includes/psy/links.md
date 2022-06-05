@@ -6,6 +6,7 @@
 {%	assign libet = "https://www.discovermagazine.com/mind/libet-and-free-will-revisited"	%}
 {%	assign potato = "http://www.ox.ac.uk/news/2019-01-15-technology-use-explains-most-04-adolescent-wellbeing"	%}
 {%	assign himmi = "https://www.sciencedirect.com/science/article/pii/S2212094715300517"	%}
+{%	assign inglis = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267699"	%}
 {%	assign sem = "http://laplab.ucsd.edu/articles/RohrerPashlerHarris2015JEPG.pdf"	%}
 {%	assign wreck = "https://replicationindex.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-went-of-the-rails/"	%}
 {%	assign zim1 = "http://pdf.prisonexp.org/ijcp1973.pdf"		%}

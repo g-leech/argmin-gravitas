@@ -12,9 +12,13 @@ visible:  false
 </style>
 
 
+<br>
+
 <div class="fancy">
     <a class="just" href="/about">
-      A simulacrum standing in for Gavin Leech
+      <center>
+        A simulacrum standing in for Gavin Leech
+      </center>
     </a>
 </div>
 
@@ -30,20 +34,34 @@ visible:  false
       {% if post.arb != 1 %}
         <tr class="best">
           <td>
+            
+            {% if forloop.index != 1 %}
+              <br>
+            {% endif %}
+            
             <a class="post-link" href="{{ post.url | prepend: site.url }}">
               <img class="im" src="{{ post.img }}" />
             </a>
+            <br>
           </td>
           <td>
             <h3 class="i">
-              <a class="post-link frontpage" href="{{ post.url | prepend: site.url }}">
-                {{ post.title }}</a>
+              <a class="post-link" href="{{ post.url | prepend: site.url }}">
+                {{ post.title }}
+              </a>
             </h3> 
             <span class="summ">
               <small>
-                <a class="nolink" href="{{ post.url | prepend: site.url }}">{{ post.summary }}</a>
+                <a class="nolink" href="{{ post.url | prepend: site.url }}">
+                  {{ post.summary }}
+                </a>
               </small>
             </span>
+
+            {% if forloop.index == 1 %}
+              <br><br>
+            {% endif %}
+
 
           </td>
         </tr>
@@ -62,16 +80,18 @@ visible:  false
     <table class="post-list" border=1 frame=void rules=rows>
       {% for post in site.posts limit:12 %}
         {% if post.arb == 1  %}
-        <tr>
+        <tr class="best">
         <td>
           <a class="post-link" href="{{ post.url | prepend: site.url }}">
             <img class="im" src="{{ post.img }}" />
           </a>
         </td>
-        </td>
+
         <td>
           <h3 class="i">
-            <a class="post-link frontpage" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+            <a class="post-link" href="{{ post.url | prepend: site.url }}">
+              {{ post.title }}
+            </a>
           </h3> 
           <span class="summ">
             <small>
@@ -95,28 +115,30 @@ visible:  false
       {% if post.visible == 1  %}
       <tr>
         <td>
+
+            {% if forloop.index != 1 %}
+              <br>
+            {% endif %}
+
           <a class="post-link" href="{{ post.url | prepend: site.url }}">
-            <img src="{{ post.img }}" height="25%" />
+            <img class="im" src="{{ post.img }}" />
           </a>
+          <br>
         </td>
 
-        <td style="width:76%;padding-top:30px;padding-bottom:30px;">
+        <td>
           <h3>
-            <a class="post-link frontpage" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+            <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
           </h3> 
           <span>
             <small>
               <a class="nolink" href="{{ post.url | prepend: site.url }}">{{ post.summary }}</a>
-              <br>
-            {% if post.simple %} 
-              <a href="{{post.baselink | prepend: site.url}}/#simple" target="_blank">Simple</a> {% endif %}
-            {% if post.stylised %}
-              / <a href="{{post.baselink | prepend: site.url}}/#stylised" target="_blank"> Stylised</a> {% endif %}
-            {% if post.technical %} 
-              / <a href="{{post.baselink | prepend: site.url}}/#technical" target="_blank"> Technical</a> 
-            {% endif %}
             </small>
-          </span><br>
+          </span>
+            {% if forloop.index == 1 %}
+              <br><br>
+            {% endif %}
+
         </td>
       </tr>
       {% endif  %}

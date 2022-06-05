@@ -11,7 +11,7 @@ published:  true
 visible:    1
 quality:    7
 
-summary:    Two arguments against consuming insurance, and where they fail.
+summary:    Two arguments against insurance, and where they fail.
 categories: utility, rationality, finance
 confidence: 80%. Some details fuzzy.
 importance: 5

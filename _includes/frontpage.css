@@ -28,6 +28,10 @@ h3 {
     margin-bottom: 6px !important;
 }
 
+.im {
+    padding-right: 40px;
+}
+
 @media (min-width: 15em) {
   .im {
     height: 150px;
@@ -70,5 +74,5 @@ img {
 
 .fancy {
   font-family: “Didot”, "Times New Roman", Times, serif;
-  font-size: 24pt;
+  font-size: 22pt;
 }
