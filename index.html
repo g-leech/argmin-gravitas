@@ -36,13 +36,13 @@ visible:  false
           <td>
             
             {% if forloop.index != 1 %}
-              <br>
+              <br class="nomob">
             {% endif %}
             
             <a class="post-link" href="{{ post.url | prepend: site.url }}">
               <img class="im" src="{{ post.img }}" />
             </a>
-            <br>
+            <br class="nomob">
           </td>
           <td>
             <h3 class="i">
@@ -59,7 +59,7 @@ visible:  false
             </span>
 
             {% if forloop.index == 1 %}
-              <br><br>
+              <br class="nomob"><br class="nomob">
             {% endif %}
 
 
@@ -72,6 +72,47 @@ visible:  false
 </div>
 
 <br>
+
+<div id="whole" class="home">
+  <h1 class="fancy">New posts:</h1>
+    <table class="post-list" border=1 frame=void rules=rows>
+    
+    {% for post in site.posts limit:6 %}
+      {% if post.visible == 1  %}
+      <tr>
+        <td>
+
+            {% if forloop.index != 1 %}
+              <br class="nomob">
+            {% endif %}
+
+          <a class="post-link" href="{{ post.url | prepend: site.url }}">
+            <img class="im" src="{{ post.img }}" />
+          </a>
+          <br class="nomob">
+        </td>
+
+        <td>
+          <h3>
+            <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+          </h3> 
+          <span>
+            <small>
+              <a class="nolink" href="{{ post.url | prepend: site.url }}">{{ post.summary }}</a>
+            </small>
+          </span>
+            {% if forloop.index == 1 %}
+              <br class="nomob"><br class="nomob">
+            {% endif %}
+
+        </td>
+      </tr>
+      {% endif  %}
+    {% endfor %}
+
+    </table>
+</div>
+
 
 <div id="whole" class="home">
   <h1 class="fancy">
@@ -93,6 +134,7 @@ visible:  false
               {{ post.title }}
             </a>
           </h3> 
+          
           <span class="summ">
             <small>
               <a class="nolink" href="{{ post.url | prepend: site.url }}">{{ post.summary }}</a>
@@ -105,49 +147,7 @@ visible:  false
     </table>
 </div>
 
-<br>
-
-<div id="whole" class="home">
-  <h1 class="fancy">New posts:</h1>
-    <table class="post-list" border=1 frame=void rules=rows>
-    
-    {% for post in site.posts limit:6 %}
-      {% if post.visible == 1  %}
-      <tr>
-        <td>
-
-            {% if forloop.index != 1 %}
-              <br>
-            {% endif %}
-
-          <a class="post-link" href="{{ post.url | prepend: site.url }}">
-            <img class="im" src="{{ post.img }}" />
-          </a>
-          <br>
-        </td>
-
-        <td>
-          <h3>
-            <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
-          </h3> 
-          <span>
-            <small>
-              <a class="nolink" href="{{ post.url | prepend: site.url }}">{{ post.summary }}</a>
-            </small>
-          </span>
-            {% if forloop.index == 1 %}
-              <br><br>
-            {% endif %}
-
-        </td>
-      </tr>
-      {% endif  %}
-    {% endfor %}
-
-    </table>
-</div>
-<br>
-
+<br><br>
 
 
 

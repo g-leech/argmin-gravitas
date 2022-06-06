@@ -56,9 +56,10 @@ img {
   width:  80%;
 }
 
-@media screen and (min-width: 600px)  {
-    .break { display: none; }
-    .just { text-align: center; }
+
+
+@media screen and (max-width: 600px)  {
+    .nomob { display: none; }
 }
 
 .just {

@@ -10,7 +10,7 @@ visible:  false
   
   tr.spaced > td
   {
-    padding-bottom: 1.5em;
+    padding-bottom: 2em;
   }
 
 
@@ -72,7 +72,7 @@ visible:  false
     {% if page.favpage != true %}
     <tr class="spaced">
     <td style="width:55%;">
-      <a class="archive-link frontpage" href="{{ page.url | prepend: site.baseurl }}">
+      <a class="archive-link" href="{{ page.url | prepend: site.baseurl }}">
       {{ page.title }}.</a>
     </td>
     </tr>
