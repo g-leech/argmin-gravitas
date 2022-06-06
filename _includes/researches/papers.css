@@ -1,12 +1,11 @@
 .noline {
-	text-decoration:none;
 	font-weight: bold;
 }
 
 a {
 	text-decoration-thickness: 14%;
 	text-decoration-skip: spaces;
-	text-underline-offset: 2.5px;
+	text-underline-offset: 3.5px;
 }
 
 .ai-google-scholar, .bris, .ai-orcid {
@@ -62,11 +61,16 @@ button:focus {
 .dropdown {
   /*display: inline-block;*/
   padding: 0;
+  margin-bottom: 10px;
 }
 
 .dropdown-content {
   display: none;
   z-index: 1;
+}
+
+.dropped {
+	font-size: 17px;
 }
 
 .dropdown-content {
@@ -90,7 +94,7 @@ img {
 .logo {
 	width: 21% !important;
   vertical-align: top;
-	padding-right:8px;
+	padding-right: 28px;
 }
 
 @media screen and (max-width: 600px) {
@@ -110,8 +114,8 @@ img {
 }
 
 .journo {
-		margin-top: 10px;
-		margin-bottom: 5px;
+		margin-top: 25px;
+		margin-bottom: 15px;
 }
 
 table {
