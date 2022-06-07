@@ -108,10 +108,6 @@ visible:	true
 
 <br><br><br>
 
-{%    include mc.html  %}
-
-
-<br><br><br>
 
 <small>Credit to James Walsh for the <a href="{{ac}}">academic SVGs</a>.</small>
 
