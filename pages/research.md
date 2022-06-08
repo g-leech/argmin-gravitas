@@ -65,12 +65,12 @@ visible:	true
 
 ## Popular
 
-* <i><a  class="noline" href="{{kulveit}}">Learning from crisis</a></i> (2022)<br><br>
-* <i><a  class="noline" href="{{supers}}">Comparing top forecasters and domain experts</a></i> (2022)<br><br>
-* <i><a  class="noline" href="/psych" target="_blank">Reversals in psychology</a></i> (2020)<br><br>
-* <i><a  class="noline" href="{{academic_safety}}" target="_blank">The academic contribution to AI safety seems large</a></i> (2020)<br><br>
-* <i><a  class="noline" href="{{xrisk}}" target="_blank">Existential risk as common cause</a></i> (2018)<br><br>
-* <i><a  class="noline" href="/grids" target="_blank">Side effects in Gridworlds</a></i> (2018). <a href="{{gridcite}}">Developed further</a>.
+* <a  class="noline" href="{{kulveit}}">Learning from crisis</a> (2022)<br><br>
+* <a  class="noline" href="{{supers}}">Comparing top forecasters and domain experts</a> (2022)<br><br>
+* <a  class="noline" href="/psych" target="_blank">Reversals in psychology</a> (2020)<br><br>
+* <a  class="noline" href="{{academic_safety}}" target="_blank">The academic contribution to AI safety seems large</a> (2020)<br><br>
+* <a  class="noline" href="{{xrisk}}" target="_blank">Existential risk as common cause</a> (2018)<br><br>
+* <a  class="noline" href="/grids" target="_blank">Side effects in Gridworlds</a> (2018). <a href="{{gridcite}}">Developed further</a>.
 
 <!-- *Gelman  -->
 
