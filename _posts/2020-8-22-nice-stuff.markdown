@@ -172,6 +172,10 @@ _Cost per year_: £4
 _Expected lifespan_: 4 years.<br>
 _Cost per year_: £40
 
+* https://smallworld.kiwi/ lets you see who's going to be where you're going.
+
+<br>
+
 ## Services & Security
 
 * <a href="{{kee}}">KeePassX</a> password manager (£0). Works on every platform: Linux, Win, Mac, Android. Probably saves a few minutes a week and a lot of mental overhead. See <a href="/browser">here</a> for why you want this.<br>
