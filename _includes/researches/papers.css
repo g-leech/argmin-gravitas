@@ -2,8 +2,8 @@
 	font-weight: bold;
 }
 
-a {
-	text-decoration-thickness: 14%;
+.noline {
+	text-decoration-thickness: 17%;
 	text-decoration-skip: spaces;
 	text-underline-offset: 3.5px;
 }
@@ -37,7 +37,7 @@ a {
 }
 
 tr>td {
-  padding-bottom: 1em;
+  padding-bottom: 1.5em;
 }
 
 button {
@@ -97,6 +97,11 @@ img {
 	padding-right: 28px;
 }
 
+img {
+	border: 1px solid black;
+}
+
+
 @media screen and (max-width: 600px) {
 	.logo {
 		width: 25% !important;
@@ -114,16 +119,16 @@ img {
 }
 
 .journo {
-		margin-top: 25px;
-		margin-bottom: 15px;
+		margin-top: 17px;
+		margin-bottom: 6px;
 }
 
 table {
-		border-collapse: collapse; 
+		/*border-collapse: collapse; */
 }
 
 tr {
-  border-bottom: 1pt solid black;
+  /*border-bottom: 1pt solid black;*/
 }
 
 tr>td {

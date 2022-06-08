@@ -18,6 +18,8 @@ visible:	true
 
 <!-- * This isn't a blog. (Blogging is more <a href="/sites">speech</a> than writing.) All claims subject to change, under the principle of Long Content, i.e. I commit to improving my past work til I die. If you need to check for some reason, you can see all past versions in the <a href="{{argg}}">version control</a>. -->
 
+* I don't really understand how people pick two "research interests". My research interests lie in things and in abstractions.
+
 * I like getting into things, <a class="noline" href="{{letter}}">judging</a> things, people changing their mind, singing, <!-- <a class="noline" href="/strength">lifting</a>, --> idly planning to become a more serious person, <a class="noline" href="{{sittler}}">and</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a>
 <!-- https://www.scottaaronson.com/papers/philos.pdf -->
 <!-- teaching people who want to know -->
