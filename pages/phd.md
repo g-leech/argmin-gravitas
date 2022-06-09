@@ -8,6 +8,9 @@ visible:	false
 {%	assign aies = "https://dl.acm.org/doi/abs/10.1145/3375627.3375851"	%}
 {%	assign krak = "https://proceedings.neurips.cc/paper/2020/hash/dc1913d422398c25c5f0b81cab94cc87-Abstract.html"		%}
 {%	assign acs = "https://www.alignmentforum.org/posts/H5iGhDhQBtoDpCBZ2/announcing-the-alignment-of-complex-systems-research-group"	%}
+{%	assign psy = "https://socialsciences.nature.com/posts/reversals-in-psychology"		%}
+{%	assign fo = "https://forrt.org/reversals"		%}
+
 
 _Currently on sabbatical._
 
@@ -21,7 +24,7 @@ I'm interested in keeping an eye on AI. By a stroke of luck my PhD advisor is <a
 
 ### Covid modelling
 
-I started my PhD just before the Covid pandemic. I had no epidemiology background. In a strange turn, a bunch of computer scientists invited me to do a little bit of writing on their big Bayesian model of what policies worked against the bug. 12 months later, we had produced a series of <a href="/researches">7 papers</a> on important questions which weren't being treated with the proper uncertainty.
+I started my PhD just before Covid. In a strange turn, a bunch of computer scientists invited me to do a little bit of writing on their big Bayesian model of what policies worked against the bug. I had no epidemiology background. 12 months later, we'd produced a series of <a href="/researches">7 leading papers</a> on important questions which weren't being treated with the proper uncertainty.
 
 Yes, this was the least neglected research topic in the world. Yes, it is strange that noobs could do this. 
 
@@ -53,6 +56,13 @@ I also helped on <a href="/lgfo">a wee paper</a> with a sort of counsel of despa
 
 I've also <a href="/acais">written</a> about the likely overlap between work on current systems and future systems.
 
+
+<br>
+
+
+### Metascience
+
+Over Christmas, instead of studying for quals I started <a href="{{psy}}">listing</a> all the failed replications in psychology I'd heard of. This ballooned into a list of hundreds, and was taken up by the volunteer org <a href="{{fo}}">FORRT</a> for permanent maintenance.
 
 <br>
 
