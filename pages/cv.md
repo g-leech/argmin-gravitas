@@ -228,6 +228,8 @@ Python wrapper for the Hidden Markov ToolKit.
   </h1>
 </center>
 
+<br>
+
 <section class="timeline cv vol">
   <ul>
     {%  include cv/espr.html  %}
@@ -275,20 +277,17 @@ Python wrapper for the Hidden Markov ToolKit.
         <time>
           2012
           <br class="break">
-          <span class="org">
-            Gender Development Volunteer,
-          </span>
-          <br>
-          <a class="org" href="{{vso}}">VSO Tanzania</a><br>
+          <a class="org" href="{{vso}}">VSO Tanzania</a>
+          <br><br>
+            <span style="font-weight: normal;">Gender development projects</span>
         </time>
-          <br class="break">
           <br class="break">
       </div>
     </li>
 </ul>
 </section>
 
-<br>
+<br><br>
 
 <hr />
 
