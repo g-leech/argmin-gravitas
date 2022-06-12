@@ -11,6 +11,11 @@ visible:  false
 - _Causation, Prediction, and Search_
 - _The Nature of Computation_
 - _Statistical Rethinking_
+- _Fooled by Randomness_
+- A Programmer's Introduction to Mathematics
+
+<!-- Gödel, Escher, Bach  -->
+<!-- Structure and Interpretation of Computer Programs -->
 
 <br>
 
@@ -40,6 +45,7 @@ visible:  false
 - [Odds & Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
 - Neal's Intro to Causal Inference
+- https://socviz.co/
 
 <br>
 
@@ -68,6 +74,10 @@ visible:  false
 - Eric Temple Bell’s _Men of Mathematics_
 - Mathematics Made Difficult
 
+## CS
+
+* Algorithmics: The Spirit of Computing
+
 <br>
 
 ## Machine learning
@@ -81,6 +91,15 @@ visible:  false
 - AIMA
 
 <br>
+
+## Tools
+
+* [Eloquent JS](https://eloquentjavascript.net/)
+* [why's poignant guide to ruby](https://poignant.guide/)
+* [LYA Haskell](http://learnyouahaskell.com/)
+* Functional Programming in Scala
+* Seven Languages in Seven Weeks
+* [Git](https://learngitbranching.js.org/)
 
 ## Terse
 
@@ -114,6 +133,7 @@ visible:  false
 # Soc
 
 - [The Effect](https://theeffectbook.net/introduction.html)
+- Filthy Lucre
 
 <br>
 
