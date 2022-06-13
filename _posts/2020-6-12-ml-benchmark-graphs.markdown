@@ -62,6 +62,13 @@ categories: machine-learning
 <br>
 
 
+<i><a href="{{hern}}">Ganguli et al</a></i>:
+
+<img style="width: 80%" src="/img/mlbench/hern.png" />
+
+<br>
+
+
 <i><a href="{{coles}}">Coles</a></i>:
 
 <img src="/img/mlbench/coles.gif" />
