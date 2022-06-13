@@ -36,6 +36,10 @@ visible:	true
 	<li>
 		Some of my <a href="/rec">favourite things</a> are Mexican food, Pakistan green, novelty, sudden relevance, brevity, <i>Mushishi</i>, <a class="noline" href="/deaths">these people</a>, <a href="{{starlings}}">this video</a>, Vines, shavasana, Scottish tap water, Frank Ramsey, Werner Herzog, Wodehouse, Limmy, Zach Weiner, Joanna Newsom, Pessoa, and Jonathan Meades.
 	</li>
+	<br>
+	<li>
+		<a href="/">this site is for essays</a>
+	</li>
 </ul>
 
 
