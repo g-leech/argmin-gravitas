@@ -17,12 +17,14 @@ categories: machine-learning
 ---
 
 {%	assign scinlp = "https://www.science.org/content/article/computers-ace-iq-tests-still-make-dumb-mistakes-can-different-tests-help"	%}
-{%	assign sevilla = ""	%}
+{%	assign sevilla = "https://arxiv.org/abs/2202.05924"	%}
 {%	assign coles = "https://www.drdobbs.com/parallel/computer-chess-the-drosophila-of-ai/184405171?pgno=2"	%}
 {%	assign chin = "https://arxiv.org/pdf/2203.15556.pdf"	%}
 {%	assign strang = "https://arxiv.org/pdf/2112.15594.pdf"	%}
 {%	assign flam = "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/tackling-multiple-tasks-with-a-single-visual-language-model/flamingo.pdf"	%}
 {%	assign gato = "https://arxiv.org/pdf/2205.06175.pdf"	%}
+{%	assign hern = "https://arxiv.org/abs/2202.07785"	%}
+
 
 
 <i><a href="{{scinlp}}">Science</a></i>:
@@ -64,7 +66,7 @@ categories: machine-learning
 
 <i><a href="{{hern}}">Ganguli et al</a></i>:
 
-<img style="width: 80%" src="/img/mlbench/hern.png" />
+<img style="width: 80%" src="/img/mlbench/hernandez.png" />
 
 <br>
 
