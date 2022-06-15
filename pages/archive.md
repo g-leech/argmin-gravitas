@@ -26,6 +26,11 @@ visible:  false
 
 </style>
 
+
+<script async src="https://cse.google.com/cse.js?cx=942c04d4b5a4e68e0"></script>
+<div class="gcse-search"></div>
+
+
 <div class="home">
       {% for post in site.posts %}
 <!--  -->
