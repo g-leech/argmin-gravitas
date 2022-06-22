@@ -47,6 +47,16 @@ visible:	false
 
 <section class="timeline cv prize">
   <ul>
+<!--      <li>
+      <div>
+        <time>
+          2022
+        </time>
+        Open Philanthropy Early Career Funding
+      </div>
+    </li> 
+-->
+    <!--  -->
      <li>
       <div>
         <time>
@@ -232,6 +242,7 @@ Python wrapper for the Hidden Markov ToolKit.
 
 <section class="timeline cv vol">
   <ul>
+    {%  include cv/alert.html  %}
     {%  include cv/espr.html  %}
     <!--  -->
     <li>
@@ -243,14 +254,14 @@ Python wrapper for the Hidden Markov ToolKit.
           <a class="org" href="aisafety.camp">AI Safety Camp</a>
           <br class="break">
         </time>
-        Vetting & interviewing for a scrappy intro to AI safety <i>research</i>.
+        Vetting & interviewing for a scrappy intro to AI safety research.
       </div>
     </li>
     <!--  -->
     <li>
       <div>
         <time>
-          2021 – Now
+          2021
           <br class="break">
           <!--  -->
           <a class="org" href="{{offf}}">Off Road</a>

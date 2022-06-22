@@ -28,7 +28,8 @@ cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philo
 	<h3>Resolution (2021)</h3>
 	<div>
 		I have been flip-flopping on this post every few months for 4 years. I've cracked it at last:<br><br> the <i>median</i> philosophy degree does nothing for the world. But the tails are heavy.
-	Is the <a href="{{koko}}">left tail</a> (Herder, Rousseau, Marx, Freud, Zhu Hongdeng, Inazō, Schmitt, <a href="{{bio}}">half of bioethics</a>) as heavy as the right tail (Mozi, Santideva, Smith, Bentham, Ramsey, Singer, Sen, Bostrom)? <br>
+	Is the <a href="{{koko}}">left tail</a> (Herder, Rousseau, Marx, Freud, Zhu Hongdeng, Inazō, Schmitt, <a href="{{bio}}">half of bioethics</a>) as heavy as the right tail (Mozi, Santideva, Smith, Bentham, Ramsey, Singer, Sen, Bostrom)? 
+	<br><br>
 		<center><a href="#fn:1" id="fnref:1">1</a></center>
 		<br><br>
 <!--  -->
@@ -58,9 +59,7 @@ cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philo
 
 It's simple: The greatest nontechnical minds in history have all failed to work out the nature of the world just by thinking about it, and so would I. 
 
-(Technical minds sometimes manage it, but only with a lot of help from data, plus maths, plus just thinking about it. But that isn't philosophy, <a href="{{nat}}">anymore</a>.)
-
-
+(Technical minds sometimes manage it, but only with a lot of help from data, plus maths, plus just thinking about it. But that isn't philosophy, <a href="{{nat}}">anymore</a>. Philosophers quite often solve technical problems, but they do so only when they go past purely verbal philosophy. David Lewis, Frank Ramsey, John Broome, Hilary Putnam, John Harsanyi, Derek Parfit all made big steps forward by using decision theory or game theory or utility theory or learning theory. As I note below, logic is the most progressive programme in philosophy _for a reason_.)
 
 ...
 
@@ -312,6 +311,11 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 
 </ul>
 
+<br>
+
+<hr />
+
+<br>
 
 
 Where does this leave us?
