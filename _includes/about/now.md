@@ -15,8 +15,9 @@
 	  </div>
 	  <div class="insides">
 	<!--  -->
-		I help lead Arb, a research consultancy in the mould of Rethink Priorities, RAND, and <a href="{{iiasa}}">IIASA</a>.<br><br> 	
-		We focus on forecasting and other important niche areas (large-scale data collection; machine learning for epistemics). 	Consultancies are reactive, but we have our own agenda - some ideas sketched <a href="{{ideas}}">here</a>. 
+		I help lead <a href="https://arbresearch.com">Arb</a>, a research consultancy in the mould of Rethink Priorities, RAND, and <a href="{{iiasa}}">IIASA</a>.<br><br> 	
+		We focus on forecasting and other important niche areas (large-scale data collection; machine learning for epistemics). 
+		Consultancies are reactive, but we have our own agenda - some ideas sketched <a href="{{ideas}}">here</a>. 
 	<br><br> 
 	<!-- Even great researchers often lack communication skills, people skills, particular engineering skills, or academic shibboleths. As a result, there's a shortage of research managers and technical generalists. I’m the latter already and I'm working on the former. -->
 <!--  -->
@@ -34,7 +35,7 @@
 			Processing an author's entire corpus and automatically evaluating their forecasting ability
 		</li>
 		<li class="bot">
-			Following my COVID <a href="/researches">work</a>, I’m helping Jan Kulveit set up the <a href="{{alert}}">Active Long-termist Emergency Response Team</a>.
+			Following my Covid <a href="/researches">work</a>, I’m helping Jan Kulveit set up the <a href="{{alert}}">Active Long-termist Emergency Response Team</a>.
 		</li> 
 	</ul>
 	<!-- <br>
