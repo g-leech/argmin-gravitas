@@ -40,7 +40,7 @@ the error that needs to be reduced in the brains of organisms such as ourselves 
 
 When deciding whether a situation is good or bad, you can compare up (to a superior reference class) or compare down. 
 
-<a href="{{relat}}">A key finding</a> of the behavioural and psychological sciences is that humans don't take absolute measurements (naturally). Instead we find some similar object and judge things relative to it. This is why <a href="{{an}}">anchoring</a>, framing effects (etc) work on us, when they shouldn't. Most importantly: we seem to judge value this way too. The tantalising possibility is that we can _create_ value for free, by merely changing our framing.<br><br>
+<a href="{{rel}}">A key finding</a> of the behavioural and psychological sciences is that humans don't take absolute measurements (naturally). Instead we find some similar object and judge things relative to it. This is why <a href="{{an}}">anchoring</a>, framing effects (etc) work on us, when they shouldn't. Most importantly: we seem to judge value this way too. The tantalising possibility is that we can _create_ value for free, by merely changing our framing.<br><br>
 
 <h3>Examples:</h3>
 
@@ -50,7 +50,7 @@ When deciding whether a situation is good or bad, you can compare up (to a super
 
 * Comparing _between_ people is difficult: too much varies (energy; aptitude; <a href="{{lottery}}">lottery of fascinations</a>) and ordering them is anyway risky. Better to compare up to your personal best, or down to your past self. <br><br>
 
-* "It's just a drop in the ocean" is comparing up, to having solved the entire problem all at once. This is very useful for correcting people who think their ineffective policy is amazing ([recycling](https://medium.com/@robertwiblin/what-you-think-about-landfill-and-recycling-is-probably-totally-wrong-3a6cf57049ce), say). David Mitchell: "_Yet what is any ocean, but a multitude of drops?_"
+* "It's just a drop in the ocean" is comparing up, to having solved the entire problem all at once. This is very useful for correcting people who think their ineffective policy is amazing ([recycling](https://medium.com/@robertwiblin/what-you-think-about-landfill-and-recycling-is-probably-totally-wrong-3a6cf57049ce), say). David Mitchell: "_Yet what is any ocean, but a multitude of drops?_"<br><br>
 
 * One of the strongest ways to make me realise my good fortune is checking my 'temporal privilege'. <a href="{{tabb}}">In many ways</a> it is better to be a minimum-wage worker now than to be Julius Caesar, or King Croesus in their time. There's no amount of money you could give me to live in the year 1700 even. (It's far larger than the other privileges.)<br><br> When people (or <a href="{{g}}">I myself</a>) complain about the tedium or inauthenticity of white-collar jobs, I retort, “But think of how painful and miserable and cold and hungry and scared and ignorant our ancestors were! Your problems are small on the long view, and in such a rich society <a href="{{gwern}}">there is an alternative</a>". (Gwern's calculation is not prudential: it is a tool to force you to realise your freedom and your luck.) <br><br>
 

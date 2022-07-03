@@ -20,8 +20,8 @@ visible:	true
 * <a href="/best">Posts</a><br><br>
 * <a href="/papers">Papers</a><br><br>
 <!-- * <a href="/poems">Poems</a><br><br> -->
-<!-- * <a href="/tweets">Tweets</a><br><br> -->
 * <a href="{{filum}}">Films</a><br><br>
+* <a href="/tweets">Tweets</a><br><br>
 * <a href="/favs/all">Misc</a>
 
 
