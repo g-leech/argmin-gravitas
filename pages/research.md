@@ -65,8 +65,9 @@ visible:	true
 
 ## Popular
 
-* <a  class="noline" href="{{kulveit}}">Learning from crisis</a> (2022)<br><br>
-* <a  class="noline" href="{{supers}}">Comparing top forecasters and domain experts</a> (2022)<br><br>
+* <a class="noline" href="{{big3}}">Scoring the Big Three</a> (2022)<br><br>
+* <a class="noline" href="{{kulveit}}">Learning from crisis</a> (2022)<br><br>
+* <a class="noline" href="{{supers}}">Comparing top forecasters and domain experts</a> (2022)<br><br>
 * <a  class="noline" href="/psych" target="_blank">Reversals in psychology</a> (2020)<br><br>
 * <a  class="noline" href="{{academic_safety}}" target="_blank">The academic contribution to AI safety seems large</a> (2020)<br><br>
 * <a  class="noline" href="{{xrisk}}" target="_blank">Existential risk as common cause</a> (2018)<br><br>

@@ -61,3 +61,4 @@
 {%	assign kulveit = "https://forum.effectivealtruism.org/posts/by8u954PjM2ctcve7/experimental-longtermism-theory-needs-data"	%}
 {%	assign supers = "https://forum.effectivealtruism.org/posts/qZqvBLvR5hX9sEkjR/comparing-top-forecasters-and-domain-experts"	%}
 {%	assign janvidataexplainer = "https://twitter.com/jn_ahuja/status/1512010901175558144"	%}
+{%	assign big3 = "https://www.cold-takes.com/the-track-record-of-futurists-seems-fine/"	%}

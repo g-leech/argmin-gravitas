@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "Scoring the Big Three"
+baselink:   /big3
+permalink:  /big3
+date:       2022-07-01  
+author:     Gavin   
+img:        /img/arb.svg
+
+visible:    0
+quality:    6
+arb: 		1
+summary:    Collecting predictions from natural language systematically... from science fiction authors!
+categories: arb, forecasting, scifi
+importance: 7
+---
+
+<a href="https://www.cold-takes.com/the-track-record-of-futurists-seems-fine/">Surely the maddest thing I will ever be paid to do.</a>
+
+<br><br><br><br>
