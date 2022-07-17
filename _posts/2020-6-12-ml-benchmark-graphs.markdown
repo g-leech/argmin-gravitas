@@ -5,8 +5,7 @@ baselink:   /benchmarks
 permalink:  /benchmarks
 date:       2022-06-12
 author:     Gavin   
-img:        /img/mlbench/nlp_bench.png
-
+img:        "/img/DALLE 2022-07-17 212121 - steep trend lines of AI progress, watercolours, artstation.jpg"
 visible:    1
 published:  true
 

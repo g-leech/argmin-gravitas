@@ -1,0 +1,82 @@
+---
+layout:     post
+title:      "The best of Scott Aaronson (for laymen)"
+baselink:   /aaronson
+permalink:  /aaronson
+date:       2022-07-17
+author:     Gavin   
+img:        "/img/DALLE 2022-07-17 233705 - quantum computer on the farm, pale watercolours, artstation.jpg"
+
+visible:    1
+published:  false
+
+summary:    
+quality:    
+importance: 
+wordcount:      
+categories: 
+---
+
+> I’m sure there’s a lesson in here somewhere about what I should spend my time on.
+
+
+<br>
+
+Some of the greatest blog posts of all time are by the computer scientist Scott Aaronson. (That might look like faint praise to you -- but Aaronson's rank does not fall much when placed among the greatest _essays_ of all time.)
+
+He's incredibly sensitive, and thus spends a lot of his time rebutting fleeting manias and nasty fuckers. It is rare for a great thinker to have such an obsession with politics (the culture war, Trump, Moldbug). This obsession, along with his fine historical and philosophical sense, allows him to write cri de couers, dispelling manias and moral panic. There was a point in my life where his and Kelsey Piper's tonics were extremely important to me. But if you haven't been beaten down by some culture war or other these essays are small and by comparison to his physics.
+
+<br>
+
+---
+
+<br>
+
+### [The Zeroth Commandment](https://scottaaronson.blog/?p=3766)
+
+> compassion for the woman facing sexual harassment, or simply quizzical glances that wonder what she thinks she’s doing pursuing a PhD in physics.  Compassion for the cancer patient, for the bereaved parent, for the victim of famine.  Compassion for the undocumented immigrant facing deportation.  Compassion for the LGBT man or woman dealing with self-doubts, ridicule, and abuse.  Compassion for the nerdy male facing suicidal depression because modern dating norms, combined with his own shyness and fear of rule-breaking, have left him unable to pursue romance or love.  Compassion for the woman who feels like an ugly, overweight, unlovable freak who no one will ask on dates.  Compassion for the African-American victim of police brutality.  Compassion even for the pedophile who’d sooner kill himself than hurt a child, but who’s been given no support for curing or managing his condition.  This is what I advocate.  This is my platform.
+
+<br>
+
+---
+
+<br>
+
+### [The No-Cloning Theorem and the Human Condition](https://scottaaronson.blog/?p=2903)
+
+> Look — I don’t know if any of you are like me, and have ever gotten depressed by reflecting that all of your life experiences, all your joys and sorrows and loves and losses, every itch and flick of your finger, could in principle be encoded by a huge but finite string of bits, and therefore by a single positive integer. (Really? No one else gets depressed about that?) It’s kind of like: given that this integer has existed since before there was a universe, and will continue to exist after the universe has degenerated into a thin gruel of radiation, what’s the point of even going through the motions? You know?
+
+> But the No-Cloning Theorem raises the possibility that at least this integer is really your integer. At least it’s something that no one else knows, and no one else could know in principle, even with futuristic brain-scanning technology: you’ll always be able to surprise the world with a new digit. I don’t know if that’s true or not, but if it were true, then it seems like the sort of thing that would be worthy of elevating unclonability to a fundamental principle of the universe.
+
+> So as you enjoy your dinner and dessert at this historic Mayflower Hotel, I ask you to reflect on the following. People can photograph this event, they can video it, they can type up transcripts, in principle they could even record everything that happens down to the millimeter level, and post it on the Internet for posterity. But they’re not gonna get the quantum states. There’s something about this evening, like about every evening, that will vanish forever, so please savor it while it lasts. Thank you.
+
+<br>
+
+---
+
+<br>
+
+### [Why I Am Not An Integrated Information Theorist (or, The Unconscious Expander)](https://scottaaronson.blog/?p=1799)
+
+<br>
+
+---
+
+<br>
+
+### [Book Review: _A New Kind of Science_](https://arxiv.org/abs/quant-ph/0206089)
+
+Not strictly for laymen, but readable enough for this nonphysicist.
+
+<br>
+
+---
+
+### [On blankfaces](https://scottaaronson.blog/?p=5675)
+
+
+---
+
+### 
+
+> what can we say about God, assuming He exists? I think we can say the following.<br /><br />First, that He’s created Himself a vale of tears, a theater of misery beyond the imagination of any horror writer. That He’s either unaware of all the undeserved suffering He’s wrought, or else unable or unwilling to prevent it. That in times of greatest need, He’s nowhere to be found. That He doesn’t answer the prayers of the afflicted, or punish evildoers in any discernible way. That He most likely doesn’t intervene in human affairs at all — though I wouldn’t want to argue with those who say He does intervene, but only for the worse.<br /><br />Second, that He apparently prefers complex numbers to real numbers, and the L2 norm to the L1 norm. 

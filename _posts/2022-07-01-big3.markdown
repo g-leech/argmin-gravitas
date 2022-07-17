@@ -10,11 +10,21 @@ img:        /img/arb.svg
 visible:    0
 quality:    6
 arb: 		1
-summary:    Collecting predictions from natural language systematically... from science fiction authors!
+summary:    Collecting predictions from natural language... from science fiction!
 categories: arb, forecasting, scifi
 importance: 7
 ---
 
 <a href="https://www.cold-takes.com/the-track-record-of-futurists-seems-fine/">Surely the maddest thing I will ever be paid to do.</a>
+
+One thing that came up repeatedly: I very often smirked at a claim and then realised that it was actually true under a different name. There's a kind of aura of preposterousness that surrounds the 1950s.
+
+> only unmanned ships will have landed on Mars, though a manned expedition will be in the works. 
+
+Hahaha yeah sure.
+
+> it seems to me that the important discoveries will be how to fiddle around with genes so as to perhaps correct some of the diseases we that are congenital maybe instead of treating diabetes with insulin we can fix up a gene so that you make your own maybe perhaps we can get rid of some other conditions like that how would that be administered you you get like an inoculation at birth or the parents get in early how would that happen well I suppose that eventually we'll reach the stage where children who as born will have a genetic analysis and that you could then try to do something like that graft the necessary genes into the pancreas for instance and hope that they'll do sufficient work to prevent the eventual development of the diabetes
+
+The border between ludicrousness and banal ubiquity is crossed all the time. Unless a great writer happens to stop and take of the crossing, we cross in silence, not realising what has happened to us. This is why Gwern can write [this list](https://www.gwern.net/Improvements) and we marvel and go "oh yeah" instead of "yeah yeah".
 
 <br><br><br><br>

@@ -6,7 +6,7 @@ permalink:  /insurance
 date:       2019-08-20
 author:     Gavin
 
-img:        /img/ins.jpg
+img:        "/img/DALLE 2022-07-17 234319 - insurance isn't bad, bright, pale watercolours, artstation.jpg"
 published:  true
 visible:    1
 quality:    7

@@ -6,7 +6,7 @@ permalink:  /first-computers
 date:       2017-08-28  <!--site.time-->
 author:     Gavin
 
-img:        /img/smolBoo.jpg
+img:        "/img/comput/DALLE 2022-07-17 204947 - 1940s computer, messy valves, watercolours, artstation.jpg"
 published:	true
 visible: 	1
 best:		1

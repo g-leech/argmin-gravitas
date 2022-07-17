@@ -184,7 +184,9 @@ _Cost per year_: £40
 
 * <a href="{{proton}}">Protonmail</a> is free and actually secure. <br>
 
-* <a href="{{vpn}}">Private Internet Access</a> VPN (£50 per year). VPNs are imperfect, but they help mitigate a few different problems (IP tracking, unencrypted traffic, ISP logs, public wifi spoofing, geo-locking, app requests). PIA got a subpoena for their logs and <a href="{{logs}}">they came up clean</a>. Again, see <a href="/browser">here</a>.<br>
+* NordVPN (£50 per year). VPNs are imperfect, but they help mitigate a few different problems (IP tracking, unencrypted traffic, ISP logs, public wifi spoofing, geo-locking, app requests). I used to recommend PIA, but their new owner is extremely scummy, a major adware vendor. Again, see <a href="/browser">here</a>.<br>
+
+* https://gethuman.com/
 
 * <a href="{{pi}}">Pi-hole</a> ad blocker (£25). Stops ads at the source, for every device in your house at once.<br>
 _Expected lifespan_: 5 years.
