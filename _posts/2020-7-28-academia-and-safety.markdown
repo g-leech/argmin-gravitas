@@ -6,7 +6,7 @@ permalink:  /acais
 date:       2020-07-29
 author:     Gavin
 
-img:        /img/nonsense.jpg
+img:        "/img/fish walking on tall stilts, watercolour dreamlike - DALLE 2022-07-17 210710.jpg"
 published:  true
 visible:    1
 

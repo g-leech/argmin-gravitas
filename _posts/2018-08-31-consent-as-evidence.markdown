@@ -6,7 +6,7 @@ permalink:  /consent
 date:       2019-08-09  <!--site.time-->
 author:     Gavin
 
-img:        /img/psych/tick.png
+img:        "/img/DALLE 2022-07-17 235156 - palm pointing upward, its wrist grabbed from both sides, pale watercolours, artstation.jpg"
 published:	true
 visible: 	1
 quality: 	7

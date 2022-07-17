@@ -62,7 +62,7 @@ visible:	false
         <time>
           2022
         </time>
-        Residency at the FTX EA Fellowship.
+        3 month residency at the FTX EA Fellowship.
       </div>
     </li>
 <!--  -->
@@ -81,7 +81,7 @@ visible:	false
         <time>
           2021
         </time>
-        1st prize at the <a href="{{amoc}}">Advanced Modelling of Cybercrime</a> hackathon.
+        1st prize, <a href="{{amoc}}">Advanced Modelling of Cybercrime</a> hackathon.
       </div>
     </li>
     <!--  -->
@@ -90,7 +90,8 @@ visible:	false
         <time>
           2020
         </time>
-        EA Forum Prize for <a href="{{aiac}}">models</a> of how much AI safety is done indirectly.
+        <a href="{{aiac}}">EA Forum Prize</a>: 
+        how much AI safety is done indirectly?
       </div>
     </li>
     <!--  -->
@@ -99,9 +100,19 @@ visible:	false
         <time>
           2020
         </time>
-        Top forecaster in Nuño Sempere’s <a href="{{vtf}}">Value Forecasting Tournament</a>.
+        1st place, <a href="{{vtf}}">Value Forecasting Tournament</a>.
       </div>
     </li>
+    <!--  -->
+    <li>
+      <div>
+        <time>
+          2019
+        </time>
+        UKRI studentship for PhD study (~$150k).
+      </div>
+    </li>
+
 </ul>
 </section>
 
@@ -244,32 +255,8 @@ Python wrapper for the Hidden Markov ToolKit.
   <ul>
     {%  include cv/alert.html  %}
     {%  include cv/espr.html  %}
-    <!--  -->
-    <li>
-      <div>
-        <time>
-          2018 – Now
-          <br class="break">
-          <!--  -->
-          <a class="org" href="aisafety.camp">AI Safety Camp</a>
-          <br class="break">
-        </time>
-        Vetting & interviewing for a scrappy intro to AI safety research.
-      </div>
-    </li>
-    <!--  -->
-    <li>
-      <div>
-        <time>
-          2021
-          <br class="break">
-          <!--  -->
-          <a class="org" href="{{offf}}">Off Road</a>
-          <br class="break">
-        </time>
-        I started a thing to help people with executive dysfunction. Fully funded by a bitcoin rando! Thanks!
-      </div>
-    </li>
+    {%  include cv/aisc.html  %}
+    {%  include cv/offroad.html  %}
     <!--  -->
     <li>
       <div>
