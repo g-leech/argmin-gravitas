@@ -6,7 +6,7 @@ permalink:  /no-philosopher
 date:       2017-08-20
 author:     Gavin
 
-img:        /img/nophiltop.jpg
+img:        "/img/DALLE 2022-07-18 181109 - man in a toga crushed by falling boulder, technical, watercolours, artstation.jpg"
 published:	true
 visible: 	1
 quality: 	8
