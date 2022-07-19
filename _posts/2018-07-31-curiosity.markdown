@@ -9,7 +9,7 @@ img:        /img/ball.jpg
 
 visible:    1
 published:  true
-quality: 	7
+quality: 	6
 
 summary:    A model of science by reference to its unscientific origins
 confidence: 80% that I capture most of the axes
