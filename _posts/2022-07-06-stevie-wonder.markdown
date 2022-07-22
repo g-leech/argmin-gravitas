@@ -17,7 +17,7 @@ wordcount:  1000
 categories: music, culture, rationality
 ---
 
-Stevie Wonder is known first for sappy shit. But about once per album he _goes hard_, is intense or fresh or philosophically savoury.
+Stevie Wonder is known first of all as a supplier of catchy sappy shit. But about once per album he _goes hard_, is intense or fresh or philosophically savoury.
 
 ## _Superstition_: against fake frameworks
 https://www.lesswrong.com/posts/wDP4ZWYLNj7MGXWiW/in-praise-of-fake-frameworks

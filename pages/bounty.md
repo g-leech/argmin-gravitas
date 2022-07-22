@@ -1,8 +1,11 @@
 ---
 layout: 	page
-title: 		Change my mind 
+title: 		""
 permalink:	/bounty
 visible:	false
 ---
 
 {%	include about/errata.html	%}	
+
+
+{%  include padder.html     howMuch=15  %}

@@ -133,6 +133,8 @@ There are <a href="{{agi}}">72 public projects</a> with the stated goal of makin
 
 In the study of viruses and bacteria, there's a thing called "Gain of function" research, when you intentionally modify a pathogen to be more lethal or more transmissible. Most AI research is gain of function research.
 
+[We have started to use AI to speed up AI development.](https://www.lesswrong.com/posts/W3tZacTRt4koHyxbr/examples-of-ai-increasing-ai-progress)
+
 #### We're getting there.
 
 GPT-3 displays <a href="{{gpt}}">quite a bit</a> of common-sense, an extremely hard open problem. We will probably pass the Turing test within 15 years. 
