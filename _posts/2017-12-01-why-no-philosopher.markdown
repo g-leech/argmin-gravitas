@@ -325,6 +325,8 @@ I find myself piling up many kinds of philosophy one should be doing - e.g. nega
 The relatively small <i>active</i> effort on many questions (at most a few hundred careers, and more often much less than one) is a good argument for it not being impossible to solve philosophical questions. (Less-likely impossible in proportion to neglect.)<br><br>Also there's <a href="{{dai}}">the importance of</a> <a href="{{zhu}}">non-perverse philosophy</a> for making a future artificial intelligence; it doesn't need to be right or definite, but it needs to land in a non-insane part of philosophical space.<br><br>
 
 
+You can't naively ask philosophers how promising their work or their field is. _By selection_, most philosophers will automatically be metaphilosophical optimists. You also have to ask the overwhelming majority of people who engage seriously with philosophy and leave. (The one pessimist in my department is now a therapist instead.)
+
 <br>
 
 <hr />
