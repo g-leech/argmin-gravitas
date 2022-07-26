@@ -13,6 +13,7 @@ visible:	true
 * <a href="/quotations">Remarks</a><br><br>
 * <a href="/albums">Albums</a><br><br>
 * <a href="{{spot}}">Playlists</a><br><br>
+* <a href="/food">Food</a><br><br>
 * <a href="/books">Books</a><br><br>
 * <a href="/technicalities">Technical books</a><br><br>
 * <a href="/blogroll">Blogs</a><br><br>

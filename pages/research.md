@@ -93,9 +93,10 @@ visible:	true
 
 ## Teaching
 
-* 2019: TA for the fearsome _<a href="{{coms}}">COMS30007: Bayesian Machine Learning</a>_.<br><br>
+* 2022: Lead instructor for ESPR.<br><br>
+* 2021: Designer and instructor for two courses at <a href="{{espr}}">ESPR</a>.<br><br>
 * 2020: Lead TA for _<a href="{{algo}}">COMS20010: Algorithms 2</a>_.<br><br>
-* 2021: Designer and instructor for two courses at <a href="{{espr}}">ESPR</a>.
+* 2019: TA for the fearsome _<a href="{{coms}}">COMS30007: Bayesian Machine Learning</a>_.<br><br>
 
 <!-- <br> -->
 
@@ -107,7 +108,7 @@ visible:	true
 
 <!-- My acceptance rate is 50% (4/8) -->
 
-<br><br><br>
+<br>
 
 
 <small>Credit to James Walsh for the <a href="{{ac}}">academic SVGs</a>.</small>
