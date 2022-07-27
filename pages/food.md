@@ -7,7 +7,7 @@ visible:    false
 
 {%  assign gb = "https://thewoksoflife.com/dry-fried-string-beans-sichuan/"    %}
 
-It's hard to choose between Sichuan and Mexico for #1 but I guess Mex.
+It's hard to choose between Sichuan and Mexico for #1 but I guess I choose the international language of potato.
 
 
 * Sichuan green beans, <a href="{{gb}}">Ganbian sijidou</a>
@@ -48,6 +48,7 @@ It's hard to choose between Sichuan and Mexico for #1 but I guess Mex.
 * Nutritional yeast on rye bread
 * Bloody mary ketchup
 * More garlic than you can believe
+* only potato
 
 * Golden milk
 * Shoofly pie

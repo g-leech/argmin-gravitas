@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Reading for becoming"
+title:      "Reading to become"
 baselink:   /becoming
 permalink:  /becoming
 date:       2022-07-19
@@ -136,4 +136,3 @@ This is my name for one of the most important emotions in the world: the love of
 * Cromartie High School
 * Philip Larkin
 * What Matters Most is How Well You Walk Through the Fire
-* 

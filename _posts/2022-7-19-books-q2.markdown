@@ -1,0 +1,37 @@
+---
+layout:     post
+title:      "Reading, Q2 2022"
+baselink:   /2022q2
+permalink:  /2022q2
+date:       2022-07-26
+author:     Gavin   
+img:        "/img/"
+
+visible:    1
+published:  false
+
+summary:    
+quality:    5
+importance: 3
+wordcount:     
+categories: books, me-me-me
+---
+
+
+
+
+Xenocide (Ender's Saga, #3), Card, Orson Scott
+Haskell Programming From First Principles, Allen, Christopher
+Second Foundation (Foundation #3), Asimov, Isaac
+Foundation and Empire (Foundation #2), Asimov, Isaac
+Learn You a Haskell for Great Good!, Lipovača, Miran
+Foundation (Foundation, #1), Asimov, Isaac
+Mathematics for Human Flourishing, Su, Francis
+Gödel, Escher, Bach: An Eternal Golden Braid, Hofstadter, Douglas R.
+The Chemistry Book, Lowe, Derek B.
+Where I Lived, and What I Lived For, Thoreau, Henry David
+Shuggie Bain, Stuart, Douglas 
+Interplanetary Flight, Clarke, Arthur C.
+Aurora, Robinson, Kim Stanley
+Lord of Light, Zelazny, Roger
+The Testament of Cresseid & Seven Fables, Henryson, Robert
