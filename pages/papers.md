@@ -25,7 +25,8 @@ visible:  false
 {%	assign chris = "https://sideways-view.com/2020/01/26/hedonic-asymmetries/"	%}
 
 
-* Bataglia et al, <a href="{{dm_graph}}">Relational inductive biases, deep learning, and graph networks</a>
+https://www.scottaaronson.com/papers/philos.pdf
+
 Grand. Sweeping the furls and swarf of conferences into a dense block.
 * McElreath and Smaldino, [The natural selection of bad science](https://royalsocietypublishing.org/doi/10.1098/rsos.160384). Stunning. 
 * '<a href="{{roman}}">Statistical reliability analysis</a> for a most dangerous occupation: Roman emperor'
@@ -81,3 +82,4 @@ https://arxiv.org/abs/2112.15594
 https://arxiv.org/pdf/2104.01191.pdf
 https://arxiv.org/abs/2010.07287
 https://scienceplusplus.org/visions/assets/Wheeler1989.pdf
+* Bataglia et al, <a href="{{dm_graph}}">Relational inductive biases, deep learning, and graph networks</a>

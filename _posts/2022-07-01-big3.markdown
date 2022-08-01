@@ -13,6 +13,7 @@ arb: 		1
 summary:    Collecting predictions from natural language... from science fiction!
 categories: arb, forecasting, scifi
 importance: 7
+where:      "Prague, Czechia"
 ---
 
 <a href="https://www.cold-takes.com/the-track-record-of-futurists-seems-fine/">Surely the maddest thing I will ever be paid to do.</a>

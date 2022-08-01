@@ -15,6 +15,7 @@ quality:    4
 importance: 5
 wordcount:  1000    
 categories: music, culture, rationality
+where:      "Nassau, Bahamas"
 ---
 
 Stevie Wonder is known first of all as a supplier of catchy sappy shit. But about once per album he _goes hard_, is intense or fresh or philosophically savoury.

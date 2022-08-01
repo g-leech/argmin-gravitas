@@ -1,30 +1,50 @@
 ---
-layout:     post
+layout:     math_post
 title:      "The best of Scott Aaronson (for laymen)"
 baselink:   /aaronson
 permalink:  /aaronson
-date:       2022-07-17
+date:       2022-08-01
 author:     Gavin   
 img:        "/img/DALLE 2022-07-17 233705 - quantum computer on the farm, pale watercolours, artstation.jpg"
 
 visible:    1
-published:  false
+published:  true
 
-summary:    
-quality:    
-importance: 
+summary:    best of the best (13 easy pieces)
+quality:    5
+importance: 7
+emotion:    7
 wordcount:      
 categories: 
+where:      "Tallinn, Estonia"
 ---
+
+<center>
+    <img width="60%" src="/img/DALLE 2022-07-17 233705 - quantum computer on the farm, pale watercolours, artstation.jpg" />
+    <br>
+    <small><i>"Quantum computer on the farm, watercolour 4k"</i></small>
+</center>
+
+
+<br><br>
 
 > I’m sure there’s a lesson in here somewhere about what I should spend my time on.
 
 
 <br>
 
-Some of the greatest blog posts of all time are by the computer scientist Scott Aaronson. (That might look like faint praise to you -- but Aaronson's rank does not fall much when placed among the greatest _essays_ of all time.)
+Some of my favourite blog posts ever are by the eminent computer scientist Scott Aaronson. <a href="#fn:1" id="fnref:1">1</a> They're written in the great tradition of writer-scientists like Russell, Ibn Rushd, Einstein, Grothendieck, von Mises, Hamming, Pascal, Chomsky, McCarthy, Weinberg. Complete minds.
 
-He's incredibly sensitive, and thus spends a lot of his time rebutting fleeting manias and nasty fuckers. It is rare for a great thinker to have such an obsession with politics (the culture war, Trump, Moldbug). This obsession, along with his fine historical and philosophical sense, allows him to write cri de couers, dispelling manias and moral panic. There was a point in my life where his and Kelsey Piper's tonics were extremely important to me. But if you haven't been beaten down by some culture war or other these essays are small and by comparison to his physics.
+Aaronson is [thin-skinned](https://scottaaronson.blog/?cat=42), and so he spends a lot of time rebutting fleeting manias and stupid fuckers. It's odd for a great thinker to obsess over political flotsam as he does (e.g. the culture war on either side; Trump; Moldbug; _every_ US election goes under his "Fate of Humanity" tag; etc). 
+
+But that obsession, plus his fine historical and philosophical sense, allows him to write _cris de cœur_, to be the countercyclical voice of reason and afford the rest of us an exit. There was a point where his (and Kelsey Piper's) tonics were extremely important to me. But if you haven't suffered in some culture war or self-torment, the political posts look small and fleeting by comparison to his titanic physics and philosophy. 
+
+Maybe I should give him more credit, punditry more -- since, in venting his anger and horror at current affairs, he defends the Enlightenment's modern offshoots. General principles get defended -- people pay attention to their defence -- in reference to particular cases, in the inexhaustible, self-organising muck and noise of current affairs. 
+
+Unlike the greats I listed above, Aaronson gives me a [glimpse](https://scottaaronson.blog/?cat=12) of something beyond ordinary philosophy (or "[merely] verbal philosophy" as he [somewhere](https://scottaaronson.blog/?p=3975#comment-1787526) calls it). The technical is essential.
+
+So:
+
 
 <br>
 
@@ -32,9 +52,9 @@ He's incredibly sensitive, and thus spends a lot of his time rebutting fleeting 
 
 <br>
 
-### [The Zeroth Commandment](https://scottaaronson.blog/?p=3766)
+### [A Euclidean theater of misery](https://scottaaronson.blog/?p=55) (2006)
 
-> compassion for the woman facing sexual harassment, or simply quizzical glances that wonder what she thinks she’s doing pursuing a PhD in physics.  Compassion for the cancer patient, for the bereaved parent, for the victim of famine.  Compassion for the undocumented immigrant facing deportation.  Compassion for the LGBT man or woman dealing with self-doubts, ridicule, and abuse.  Compassion for the nerdy male facing suicidal depression because modern dating norms, combined with his own shyness and fear of rule-breaking, have left him unable to pursue romance or love.  Compassion for the woman who feels like an ugly, overweight, unlovable freak who no one will ask on dates.  Compassion for the African-American victim of police brutality.  Compassion even for the pedophile who’d sooner kill himself than hurt a child, but who’s been given no support for curing or managing his condition.  This is what I advocate.  This is my platform.
+> what can we say about God, assuming He exists? I think we can say the following.<br /><br />First, that He’s created Himself a vale of tears, a theater of misery beyond the imagination of any horror writer. That He’s either unaware of all the undeserved suffering He’s wrought, or else unable or unwilling to prevent it. That in times of greatest need, He’s nowhere to be found. That He doesn’t answer the prayers of the afflicted, or punish evildoers in any discernible way. That He most likely doesn’t intervene in human affairs at all — though I wouldn’t want to argue with those who say He does intervene, but only for the worse.<br /><br />Second, that He apparently prefers complex numbers to real numbers, and the $$L_2$$ norm to the $$L_1$$ norm. 
 
 <br>
 
@@ -42,7 +62,7 @@ He's incredibly sensitive, and thus spends a lot of his time rebutting fleeting 
 
 <br>
 
-### [The No-Cloning Theorem and the Human Condition](https://scottaaronson.blog/?p=2903)
+### [The No-Cloning Theorem and the Human Condition](https://scottaaronson.blog/?p=2903) (2016)
 
 > Look — I don’t know if any of you are like me, and have ever gotten depressed by reflecting that all of your life experiences, all your joys and sorrows and loves and losses, every itch and flick of your finger, could in principle be encoded by a huge but finite string of bits, and therefore by a single positive integer. (Really? No one else gets depressed about that?) It’s kind of like: given that this integer has existed since before there was a universe, and will continue to exist after the universe has degenerated into a thin gruel of radiation, what’s the point of even going through the motions? You know?
 
@@ -56,7 +76,21 @@ He's incredibly sensitive, and thus spends a lot of his time rebutting fleeting 
 
 <br>
 
-### [Why I Am Not An Integrated Information Theorist (or, The Unconscious Expander)](https://scottaaronson.blog/?p=1799)
+### [The Kolmogorov option](https://scottaaronson.blog/?p=3376) (2017)
+
+> Anyone as intelligent, individualistic, and morally sensitive as Kolmogorov would obviously have seen through the lies of his government, and been horrified by its brutality.  So then why did he utter nary a word in public against what was happening?
+
+> As far as I can tell, the answer is simply: because Kolmogorov knew better than to pick fights he couldn’t win.  He judged that he could best serve the cause of truth by building up an enclosed little bubble of truth, and protecting that bubble from interference by the Soviet system, and even making the bubble useful to the system wherever he could—rather than futilely struggling to reform the system, and simply making martyrs of himself and all his students for his trouble.
+
+> If it means anything to be a lover of truth, it means that anytime society finds itself stuck in one of these naked-emperor equilibriums—i.e., an equilibrium with certain facts known to nearly everyone, but severe punishments for anyone who tries to make those facts common knowledge—you hope that eventually society climbs its way out.  But crucially, you can hope this while also realizing that, if you tried singlehandedly to change the equilibrium, it wouldn’t achieve anything good for the cause of truth.  If iconoclasts simply throw themselves against a ruling ideology one by one, they can be picked off as easily as tribesmen charging a tank with spears, and each kill will only embolden the tank-gunners still further.  The charging tribesmen don’t even have the assurance that, if truth ultimately does prevail, then they’ll be honored as martyrs: they might instead end up like Ted Nelson babbling about hypertext in 1960, or H.C. Pocklington yammering about polynomial-time algorithms in 1917, nearly forgotten by history for being too far ahead of their time.
+
+> Does this mean that, like Winston Smith, the iconoclast simply must accept that 2+2=5, and that a boot will stamp on a human face forever?  No, not at all.  Instead the iconoclast can choose what I think of as the Kolmogorov option.  This is where you build up fortresses of truth in places the ideological authorities don’t particularly understand or care about, like pure math, or butterfly taxonomy, or irregular verbs.  You avoid a direct assault on any beliefs your culture considers necessary for it to operate.  You even seek out common ground with the local enforcers of orthodoxy.  Best of all is a shared enemy, and a way your knowledge and skills might be useful against that enemy.  For Kolmogorov, the shared enemy was the Nazis; for someone today, an excellent choice might be Trump, who’s rightly despised by many intellectual factions that spend most of their time despising each other.  Meanwhile, you wait for a moment when, because of social tectonic shifts beyond your control, the ruling ideology has become fragile enough that truth-tellers acting in concert really can bring it down.  You accept that this moment of reckoning might never arrive, or not in your lifetime.  But even if so, you could still be honored by future generations for building your local pocket of truth, and for not giving falsehood any more aid or comfort than was necessary for your survival.
+
+> Galileo quickly capitulated.  He repented of his error, and agreed never to defend the Copernican heresy again.  And he didn’t, at least not publicly. Some have called Galileo a coward for that.  But the great David Hilbert held a different view.  Hilbert said that science, unlike religion, has no need for martyrs, because it’s based on facts that can’t be denied indefinitely.  Given that, Hilbert considered Galileo’s response to be precisely correct: in effect Galileo told the Inquisitors, hey, you’re the ones with the torture rack.  Just tell me which way you want it.  I can have the earth orbiting Mars and Venus in figure-eights by tomorrow if you decree it so.
+
+> Three hundred years later, Andrey Kolmogorov would say to the Soviet authorities, in so many words: hey, you’re the ones with the Gulag and secret police.  Consider me at your service.  I’ll even help you stop Hitler’s ideology from taking over the world—you’re 100% right about that one, I’ll give you that.  Now as for your own wondrous ideology: just tell me the dogma of the week, and I’ll try to make sure Soviet mathematics presents no threat to it.
+
+> There’s a quiet dignity to Kolmogorov’s (and Galileo’s) approach: a dignity that I suspect will be alien to many, but recognizable to those in the business of science.
 
 <br>
 
@@ -64,19 +98,192 @@ He's incredibly sensitive, and thus spends a lot of his time rebutting fleeting 
 
 <br>
 
-### [Book Review: _A New Kind of Science_](https://arxiv.org/abs/quant-ph/0206089)
+### [Who Can Name the Bigger Number?](https://www.scottaaronson.com/writings/bignumbers.html) (1999)
 
-Not strictly for laymen, but readable enough for this nonphysicist.
+by Scott A, aged 18.
+
+> no Turing machine can list the Busy Beaver numbers — for if it could, it could solve the Halting Problem, which we already know is impossible.
+
+> But here’s a curious fact. Suppose we could name a number greater than the Nth Busy Beaver number $$BB(N)$$. Call this number $$D$$ for dam, since like a beaver dam, it’s a roof for the Busy Beaver below. With $$D$$ in hand, computing $$BB(N)$$ itself becomes easy: we just need to simulate all the Turing machines with N rules. The ones that haven’t halted within $$D$$ steps — the ones that bash through the dam’s roof—never will halt. So we can list exactly which machines halt, and among these, the maximum number of steps that any machine takes before it halts is $$BB(N)$$.
+
+> Conclusion? The sequence of Busy Beaver numbers, $$BB(1)$$, $$BB(2)$$, and so on, grows faster than any computable sequence. Faster than exponentials, stacked exponentials, the Ackermann sequence, you name it. Because if a Turing machine could compute a sequence that grows faster than Busy Beaver, then it could use that sequence to obtain the $$D$$s — the beaver dams. And with those D’s, it could list the Busy Beaver numbers, which (sound familiar?) we already know is impossible. The Busy Beaver sequence is non-computable, solely because it grows stupendously fast—too fast for any computer to keep up with it, even in principle.
+
+>  As for $$BB(6)$$, Marxen and Buntrock set another record in 1997 by proving that it’s at least 8,690,333,381,690,951. A formidable accomplishment, yet Marxen, Buntrock, and the other Busy Beaver hunters are merely wading along the shores of the unknowable. Humanity may never know the value of $$BB(6)$$ for certain, let alone that of $$BB(7)$$ or any higher number in the sequence.
+
+> If you ever challenge a friend to the biggest number contest, I suggest you write something like this: $$BB(11111)$$—Busy Beaver shift #—1, 6, 21, etc. If your friend doesn’t know about Turing machines or anything similar, but only about, say, Ackermann numbers, then you’ll win the contest. You’ll still win even if you grant your friend a handicap, and allow him the entire lifetime of the universe to write his number. 
+
+> To exceed higher-level Busy Beavers, we’d presumably need some new computational model surpassing even Turing machines. I can’t imagine what such a model would look like. Yet somehow I doubt that the story of notational systems for big numbers is over. Perhaps someday humans will be able concisely to name numbers that make Busy Beaver 100 seem as puerile and amusingly small as our nobleman’s eighty-three. 
+
+> Who can name the bigger number? Whoever has the deeper paradigm. Are you ready? Get set. Go.
 
 <br>
 
 ---
 
-### [On blankfaces](https://scottaaronson.blog/?p=5675)
+<br>
 
+### [Why I Am Not An Integrated Information Theorist (or, The Unconscious Expander)](https://scottaaronson.blog/?p=1799) (2014)
+
+> In my opinion, how to construct a theory that tells us which physical systems are conscious and which aren’t—giving answers that agree with “common sense” whenever the latter renders a verdict—is one of the deepest, most fascinating problems in all of science.  Since I don’t know a standard name for the problem, I hereby call it the Pretty-Hard Problem of Consciousness.  Unlike with the Hard Hard Problem, I don’t know of any philosophical reason why the Pretty-Hard Problem should be inherently unsolvable; but on the other hand, humans seem nowhere close to solving it (if we had solved it, then we could reduce the abortion, animal rights, and strong AI debates to “gentlemen, let us calculate!”).
+
+> IIT fails to solve the Pretty-Hard Problem because it unavoidably predicts vast amounts of consciousness in physical systems that no sane person would regard as particularly “conscious” at all: indeed, systems that do nothing but apply a low-density parity-check code, or other simple transformations of their input data.  Moreover, IIT predicts not merely that these systems are “slightly” conscious (which would be fine), but that they can be unboundedly more conscious than humans are.
+
+> the fact that Integrated Information Theory is wrong — demonstrably wrong, for reasons that go to its core—puts it in something like the top 2% of all mathematical theories of consciousness ever proposed.  Almost all competing theories of consciousness, it seems to me, have been so vague, fluffy, and malleable that they can only aspire to wrongness.
+
+
+
+<br>
 
 ---
 
-### 
+<br>
 
-> what can we say about God, assuming He exists? I think we can say the following.<br /><br />First, that He’s created Himself a vale of tears, a theater of misery beyond the imagination of any horror writer. That He’s either unaware of all the undeserved suffering He’s wrought, or else unable or unwilling to prevent it. That in times of greatest need, He’s nowhere to be found. That He doesn’t answer the prayers of the afflicted, or punish evildoers in any discernible way. That He most likely doesn’t intervene in human affairs at all — though I wouldn’t want to argue with those who say He does intervene, but only for the worse.<br /><br />Second, that He apparently prefers complex numbers to real numbers, and the L2 norm to the L1 norm. 
+### [Book Review: _A New Kind of Science_](https://arxiv.org/abs/quant-ph/0206089) (2002)
+
+> The trouble is that, as the title implies, Wolfram emphatically does not believe that he is using cellular automata to popularize known ideas. In the introduction, he describes his finding that one-dimensional cellular automata can produce complex behavior as one of the “more important single discoveries in the whole history of theoretical science” (p. 2). He refers in the preface to “a crack in the very foundations of existing science,” “new ideas and new methods that ultimately depend very little on what has gone before,” and “a vast array of applications—both conceptual and practical—that can now be developed.” Comments of this character pervade the book.  
+
+> Significantly, there is no bibliography. Instead there are 349 pages of endnotes, which summarize the history, from antiquity to the present, of each subject that Wolfram addresses. The notes are fascinating; in many respects they constitute a better book than the main text. However, in both the main text and in the notes, Wolfram generally brings up prior work only to dismiss it as misguided, or at best as irrelevant to his concerns.
+
+> Wolfram’s ‘long-range thread’ model cannot be made compatible with both special relativity and Bell inequality violations. Moreover, this is not a fixable oversight, but a basic shortcoming of any such model. 
+
+<br>
+
+---
+
+<br>
+
+### [The Zeroth Commandment](https://scottaaronson.blog/?p=3766) (2018)
+
+> compassion for the woman facing sexual harassment, or simply quizzical glances that wonder what she thinks she’s doing pursuing a PhD in physics.  Compassion for the cancer patient, for the bereaved parent, for the victim of famine.  Compassion for the undocumented immigrant facing deportation.  Compassion for the LGBT man or woman dealing with self-doubts, ridicule, and abuse.  Compassion for the nerdy male facing suicidal depression because modern dating norms, combined with his own shyness and fear of rule-breaking, have left him unable to pursue romance or love.  Compassion for the woman who feels like an ugly, overweight, unlovable freak who no one will ask on dates.  Compassion for the African-American victim of police brutality.  Compassion even for the pedophile who’d sooner kill himself than hurt a child, but who’s been given no support for curing or managing his condition.  This is what I advocate.  This is my platform.
+
+<br>
+
+---
+
+<br>
+
+### [Eigenmorality](https://scottaaronson.blog/?p=1820) (1997 and 2014)
+
+> Searching for other circular notions to elucidate using linear algebra, I hit on morality.  Philosophers from Socrates on, I was vaguely aware, had struggled to define what makes a person “moral” or “virtuous,” without tacitly presupposing the answer.  Well, it seemed to me that, as a first attempt, one could do a lot worse than the following:
+
+> A moral person is someone who cooperates with other moral people, and who refuses to cooperate with immoral people.
+
+> Obviously one can quibble with this definition on numerous grounds: for example, what exactly does it mean to “cooperate,” and which other people are relevant here?  If you don’t donate money to starving children in Africa, have you implicitly “refused to cooperate” with them?  What’s the relative importance of cooperating with good people and withholding cooperation with bad people, of kindness and justice?  Is there a duty not to cooperate with bad people, or merely the lack of a duty to cooperate with them?  Should we consider intent, or only outcomes?  Surely we shouldn’t hold someone accountable for sheltering a burglar, if they didn’t know about the burgling?  Also, should we compute your “total morality” by simply summing over your interactions with everyone else in your community?  If so, then can a career’s worth of lifesaving surgeries numerically overwhelm the badness of murdering a single child?
+
+> For now, I want you to set all of these important questions aside, and just focus on the fact that the definition doesn’t even seem to work on its own terms, because of circularity.  How can we possibly know which people are moral (and hence worthy of our cooperation), and which ones immoral (and hence unworthy), without presupposing the very thing that we seek to define?
+
+> Ah, I thought—this is precisely where linear algebra can come to the rescue!  Just like in CLEVER or PageRank, we can begin by giving everyone in the community an equal number of “morality starting credits.”  Then we can apply an iterative update rule, where each person A can gain morality credits by cooperating with each other person B, and A gains more credits the more credits B has already.  We apply the rule over and over, until the number of morality credits per person converges to an equilibrium.  (Or, of course, we can shortcut the process by simply finding the principal eigenvector of the “cooperation matrix,” using whatever algorithm we like.)  We then have our objective measure of morality for each individual, solving a 2400-year-old open problem in philosophy.
+
+> The next step, I figured, would be to hack together some code that computed this “eigenmorality” metric, and then see what happened when I ran the code to measure the morality of each participant in a simulated society.  What would happen?  Would the results conform to my pre-theoretic intuitions about what sort of behavior was moral and what wasn’t?  If not, then would watching the simulation give me new ideas about how to improve the morality metric?  Or would it be my intuitions themselves that would change?
+
+> Unfortunately, I never got around to the “coding it up” part—there’s a reason why I became a theorist!  The eigenmorality idea went onto my back burner, where it stayed for the next 16 years: 16 years in which our world descended ever further into darkness, lacking a principled way to quantify morality.  But finally, this year, just two separate things have happened on the eigenmorality front, and that’s why I’m blogging about it now.
+
+> #### Eigenjesus and Eigenmoses
+
+<br>
+
+---
+
+<br>
+
+
+### [The bullet-swallowers](https://scottaaronson.blog/?p=326) (2008)
+
+> A bullet-dodger is a person who says things like: "Sure, obviously if you pursued that particular line of reasoning to an extreme, then you’d get such-and-such an absurd-seeming conclusion. But that very fact suggests that other forces might come into play that we don’t understand yet or haven’t accounted for. So let’s just make a mental note of it and move on.""
+
+> Faced with exactly the same situation, a bullet-swallower will exclaim: "The entire world should follow the line of reasoning to precisely this extreme, and this is the conclusion, and if a ‘consensus of educated opinion’ finds it disagreeable or absurd, then so much the worse for educated opinion! Those who accept this are intellectual heroes; those who don’t are cowards.""
+
+> In a lifetime of websurfing, I don’t think I’ve ever read an argument by a libertarian or a Many-Worlds proponent that didn’t sound like the latter.
+
+> We know plenty of historical examples where the bullet-swallowers were gloriously right: Moore’s Law, Darwinism, the abolition of slavery, women’s rights. On the other hand, at various points within the last 150 years, extremely smart people also reasoned themselves to the inescapable conclusions that aether had to exist for light to be a wave in, that capitalism was reaching its final crisis, that only a world government could prevent imminent nuclear war, and that space colonies would surely exist by 2000. In those cases, even if you couldn’t spot any flaws in the arguments, you still would’ve been wise to doubt their conclusions. (Or are you sure you would have spotted the flaws where Maxwell and Kelvin, Russell and Einstein did not?)
+
+> Here’s a favorite analogy. The world is a real-valued function that’s almost completely unknown to us, and that we only observe in the vicinity of a single point x0. To our surprise, we find that, within that tiny vicinity, we can approximate the function extremely well by a Taylor series.
+
+> “Aha!” exclaim the bullet-swallowers. “So then the function must be the infinite series, neither more nor less.”
+
+> “Not so fast,” reply the bullet-dodgers. “All we know is that we can approximate the function in a small open interval around x0. Who knows what unsuspected phenomena might be lurking beyond it?”
+
+> “Intellectual cowardice!” the first group snorts. “You’re just like the Jesuit schoolmen, who dismissed the Copernican system as a mere calculational device! Why can’t you accept what our best theory is clearly telling us?”
+
+<br>
+
+---
+
+<br>
+
+### [Higher-level causation exists (but I wish it didn’t)](https://scottaaronson.blog/?p=3294) (2017)
+
+> Faced with a claim about “causation at higher levels,” what reductionists disagree with is not the object-level claim that such causation exists (I scratched my nose because it itched, not because of the Standard Model of elementary particles).  Rather, they disagree with the meta-level claim that there’s anything shocking about such causation, anything that poses a special difficulty for the reductionist worldview that physics has held for centuries.  I.e., they consider it true both that
+
+> 1. my nose is made of subatomic particles, and its behavior is in principle fully determined (at least probabilistically) by the quantum state of those particles together with the laws governing them, and
+> 2. my nose itched.
+
+> At least if we leave the hard problem of consciousness out of it—that’s a separate debate—there seems to be no reason to imagine a contradiction between 1 and 2 that needs to be resolved, but “only” a vast network of intervening mechanisms to be elucidated.  So, this is how it is that reductionists can find anti-reductionist claims to be both wrong and vacuously correct at the same time.
+
+\[BUT...\]
+
+> In my view, these simply aren’t the sort of outcomes that you expect from atoms blindly interacting according to the laws of physics.  These are, instead, the signatures of higher-level causation—and specifically, of a teleological force that operates in our universe to make it distinctively cruel and horrible.
+
+> Admittedly, I don’t claim to know the exact mechanism of the higher-level causation.  Maybe, as the physicist Yakir Aharonov has advocated, our universe has not only a special, low-entropy initial state at the Big Bang, but also a “postselected final state,” toward which the outcomes of quantum measurements get mysteriously “pulled”—an effect that might show up in experiments as ever-so-slight deviations from the Born rule.  And because of the postselected final state, even if the human race naïvely had only (say) a one-in-thousand chance of killing itself off, even if the paths to its destruction all involved some improbable absurdity, like an orange clown showing up from nowhere—nevertheless, the orange clown would show up.  Alternatively, maybe the higher-level causation unfolds through subtle correlations in the universe’s initial state, along the lines I sketched in my 2013 essay The Ghost in the Quantum Turing Machine.  Or maybe Erik Hoel is right after all, and it all comes down to normalization: if we looked at the uniform distribution over macrostates rather than over microstates, we’d discover that orange clowns destroying the world predominated.  Whatever the details, though, I think it can no longer be doubted that we live, not in the coldly impersonal universe that physics posited for centuries, but instead in a tragicomically evil one.
+
+> I call my theory reverse Hollywoodism, because it holds that the real world has the inverse of the typical Hollywood movie’s narrative arc.  Again and again, what we observe is that the forces of good have every possible advantage, from money to knowledge to overwhelming numerical superiority.  Yet somehow good still fumbles.  Somehow a string of improbable coincidences, or a black swan or an orange Hitler, show up at the last moment to let horribleness eke out a last-minute victory, as if the world itself had been rooting for horribleness all along.  That’s our universe.
+
+> maybe the full weight of our universe’s freakish awfulness doesn’t bear down on you as it does on me.  But I hope you’ll concede that, if nothing else, this theory is a genuinely non-reductionist one.
+
+<br>
+
+---
+
+<br>
+
+
+### [On blankfaces](https://scottaaronson.blog/?p=5675) (2021)
+
+> a blankface is someone who freely chose to dehumanize themselves: to abdicate their human responsibility to see what’s right in front of them, to act like malfunctioning pieces of electronics even though they, like all of us, were born with the capacity for empathy and reason.
+
+> With many other human evils and failings, I have a strong inclination toward mercy, because I understand how someone could’ve succumbed to the temptation—indeed, I worry that I myself might’ve succumbed to it “but for the grace of God.” But here’s the thing about blankfaces: in all my thousands of dealings with them, not once was I ever given cause to wonder whether I might have done the same in their shoes. It’s like, of course I wouldn’t have! Even if I were forced (by my own higher-ups, an intransigent computer system, or whatever else) to foist some bureaucratic horribleness on an innocent victim, I’d be sheepish and apologetic about it. I’d acknowledge the farcical absurdity of what I was making the other person do, or declaring that they couldn’t do. Likewise, even if I were useless in a crisis, at least I’d get out of the way of the people trying to solve it. How could I live with myself otherwise?
+
+> The fundamental mystery of the blankfaces, then, is how they can be so alien and yet so common.
+
+> Rules can be either good or bad. All things considered, I’d probably rather be on a plane piloted by a robotic stickler for safety rules, than by someone who ignored the rules at his or her discretion. And as I said in the post, in the first months of covid, it was ironically the anti-blankfaces who were screaming for rules, regulations, and lockdowns; the blankfaces wanted to continue as though nothing had changed!
+
+> Here’s how to tell a blankface: suppose you see someone enforcing or interpreting a rule in a way that strikes you as obviously absurd. And suppose you point it out to them. Do they say “I disagree, here’s why it actually does make sense”? They might be mistaken but they’re not a blankface. Do they say “tell me about it, it makes zero sense, but it’s above my pay grade to change”? You might wish they were more dogged or courageous but again they’re not a blankface. Or do they ignore all your arguments and just restate the original rule—seemingly angered by what they understood as a challenge to their authority, and delighted to reassert it?
+
+<br>
+
+---
+
+<br>
+
+### [Umeshisms](https://scottaaronson.blog/?p=40) (2005)
+
+> If you never cut yourself while shaving, you’re not shaving close enough.
+
+> If you’ve never been robbed, you’re spending too much time locking doors.
+
+> If you’ve never been rejected, you’re not asking enough. 
+
+> If you’ve never regretted a blog entry, your blog is boring.
+
+<br>
+
+---
+
+<br>
+
+#### Easter egg
+
+His post ids are not sequential, so despite appearances he hasn't written [6622 posts](https://scottaaronson.blog/?p=6622). I spent a little while wondering what mathematical joke the sequence [476](https://scottaaronson.blog/?p=476), 477, 478, 6,7 [..](https://oeis.org/search?q=476%2C477%2C478%2C6%2C7&language=english&go=Search) forms but it's beyond me. It's very possibly just what happens when you migrate Wordpress many times.
+
+<br>
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+        That might look like faint praise to you -- but his rank does not fall much when placed among the greatest _essays_.
+    </li>
+</ol>
+</div>

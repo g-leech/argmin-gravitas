@@ -16,6 +16,7 @@ emotion:    8
 importance: 8
 wordcount:  1300
 categories: longtermism 
+where:      "Nassau, Bahamas"
 ---
 
 Bryan Magee: 

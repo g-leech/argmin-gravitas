@@ -19,6 +19,7 @@ importance: 4
 pride:      8
 wordcount:  6000
 argument: 	hoom/argument.html
+where:      "Aberdeen, Scotland"
 ---
 
 {%	assign hook = "http://www.jstor.org/sici?sici=0261-1430%28198701%296%3A1%3C1%3AATO"	%}
