@@ -19,6 +19,7 @@ wordcount:  3000
 warnings: 	Too late. Suicide, swastikas, humanism, anti-humanism, ironic immorality.
 categories: music, culture, politics, subculture, criticism
 argument:	punk/argument.md
+where:      "Aberdeen, Scotland"
 ---
 
 {%	include punk/links.md	%}

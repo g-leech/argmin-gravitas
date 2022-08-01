@@ -7,8 +7,6 @@ visible:    false
 
 {%  assign gb = "https://thewoksoflife.com/dry-fried-string-beans-sichuan/"    %}
 
-It's hard to choose between Sichuan and Mexico for #1 but I guess I choose the international language of potato.
-
 
 * Sichuan green beans, <a href="{{gb}}">Ganbian sijidou</a>
 * Zha qiehe
@@ -81,3 +79,31 @@ It's hard to choose between Sichuan and Mexico for #1 but I guess I choose the i
 * Wicca, Laulasmaa
 * Antonínovo pekařství, Prague
 * San Crispino, Grom, Venchi, Giolitti, Rome
+
+## Cuisines
+
+It's hard to choose between Sichuan and Mexico for #1 so I guess I choose the international language of potato.
+
+
+1. Sichuan
+2. Mexican
+3. South Indian 
+4. Sicilian 
+5. Neapolitan
+5. Korean
+6. Cantonese
+7. Vietnamese
+8. North Indian
+9. Japanese
+10. Thai
+11. Lebanese
+12. Jiangsu
+12. Turkish
+13. French
+14. Bengali
+15. Malaysian
+16. Ethiopian
+17. Shandong
+17. Spanish
+
+Implicitly just ranking by quality of the vegetarian options.

@@ -18,7 +18,7 @@ warnings:	There is a lot of patent nonsense here.
 importance: 2
 pride: 		
 wordcount:	8000
-
+where:      "Elgin, Scotland"
 ---
 
 {%	assign ana = "https://en.wikipedia.org/wiki/Analytic_philosophy#Analytic_metaphysics"	%}
