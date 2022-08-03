@@ -10,7 +10,7 @@ img:        "/img/DALLE 2022-07-17 233705 - quantum computer on the farm, pale w
 visible:    1
 published:  true
 
-summary:    best of the best (13 easy pieces)
+summary:    13 easy pieces
 quality:    5
 importance: 7
 emotion:    7
@@ -283,7 +283,7 @@ His post ids are not sequential, so despite appearances he hasn't written [6622 
 <ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
-        That might look like faint praise to you -- but his rank does not fall much when placed among the greatest _essays_.
+        That might look like faint praise to you -- but his rank does not fall much when placed among the greatest <i>essays</i>.
     </li>
 </ol>
 </div>

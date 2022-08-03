@@ -6,7 +6,7 @@ permalink:  /x-for-all
 date:       2018-10-17
 author:     Gavin
 
-img:        /img/grey.jpg
+img:        "/img/twenty roads converging on one spot, beautiful pencil sketch, artstation.jpg"
 published:	true
 visible: 		1
 
