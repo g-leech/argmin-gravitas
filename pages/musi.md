@@ -155,6 +155,7 @@ Most of this list was written when I was a more contrived person. I love everyth
 
 ## 7/10
 
+* **Om Shanti Om** by Don Cherry
 * **Freewheelin'** by Bob Dylan
 * **Public Void** by Penelope Scott
 * **Madcap Laughs** by Syd Barrett

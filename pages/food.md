@@ -91,12 +91,13 @@ It's hard to choose between Sichuan and Mexico for #1 so I guess I choose the in
 4. Sicilian 
 5. Neapolitan
 5. Korean
+6. Hunan
 6. Cantonese
-7. Vietnamese
 8. North Indian
 9. Japanese
-10. Thai
+7. Vietnamese
 11. Lebanese
+10. Thai
 12. Jiangsu
 12. Turkish
 13. French

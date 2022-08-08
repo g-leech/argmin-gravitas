@@ -124,6 +124,8 @@
 			<br>
 			http://leahneukirchen.org/trivium/
 			<br>
+			https://deaexmachinus.substack.com/
+			<br>
 			https://theconsequentialist.wordpress.com/
 			<br>
 			http://allegedwisdom.blogspot.com/
