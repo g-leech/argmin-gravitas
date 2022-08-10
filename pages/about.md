@@ -34,7 +34,9 @@ visible:	true
 	<!-- https://www.scottaaronson.com/papers/philos.pdf -->
 	<!-- teaching people who want to know -->
 	<li>
-		Some of my <a href="/rec">favourite things</a> are Mexican food, Pakistan green, novelty, sudden relevance, brevity, <i>Mushishi</i>, <a class="noline" href="/deaths">these people</a>, <a href="{{starlings}}">this video</a>, Vines, shavasana, Scottish tap water, Frank Ramsey, Werner Herzog, Wodehouse, Limmy, Zach Weiner, Joanna Newsom, Pessoa, and Jonathan Meades.
+		Some of my <a href="/rec">favourite things</a> are Mexican food, Pakistan green, novelty, sudden relevance, brevity, <a class="noline" href="/deaths">these people</a>, Vines, shavasana, Scottish tap water, Frank Ramsey, Werner Herzog, Wodehouse, Zach Weiner, Joanna Newsom, Pessoa.
+		<!-- , and Jonathan Meades. -->
+		<!-- <a href="{{starlings}}">this video</a>,  -->
 	</li>
 	<br>
 	<li>

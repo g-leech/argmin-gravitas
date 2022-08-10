@@ -10,7 +10,7 @@ img:        "/img/twenty roads converging on one spot, beautiful pencil sketch, 
 published:	true
 visible: 		1
 
-summary:    Why many views should prioritise existential risk.
+summary:    Why many views should prioritise preventing the worst events.
 confidence:	70%.
 quality: 		7
 emotion: 		4
