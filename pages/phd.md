@@ -12,8 +12,6 @@ visible:	false
 {%	assign fo = "https://forrt.org/reversals"		%}
 
 
-_Currently on sabbatical._
-
 I'm interested in keeping an eye on AI. By a stroke of luck my PhD advisor is <a href="{{la}}">Laurence Aitchison</a>. I'm part of the Interactive Artificial Intelligence Centre for Doctoral Training at the University of Bristol.<br><br>
 
 <center>

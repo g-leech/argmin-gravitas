@@ -109,7 +109,7 @@ visible:	false
         <time>
           2019
         </time>
-        UKRI studentship for PhD study (~$150k).
+        UKRI studentship for PhD (~$150k).
       </div>
     </li>
 
@@ -194,7 +194,7 @@ visible:	false
 </center>
 
 
-* <time><a href="/grids">Side effects in Gridworlds</a> (2018):</time> New Pycolab environments and implementations of DQN and MaxEnt IRL in Tensorflow. <a href="{{citess}}">Reused</a> in DeepMind and MIT papers.
+* <time><a href="/grids">Side effects in Gridworlds</a> (2018):</time> New Pycolab environments and implementations of DQN and MaxEnt IRL in Tensorflow. <a href="{{citess}}">Reused</a> in Deepmind papers.
 
 <br>
 

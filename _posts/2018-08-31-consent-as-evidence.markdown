@@ -6,7 +6,7 @@ permalink:  /consent
 date:       2019-08-09  <!--site.time-->
 author:     Gavin
 
-img:        "/img/DALLE 2022-07-17 235156 - palm pointing upward, its wrist grabbed from both sides, pale watercolours, artstation.jpg"
+img: 		"/img/padded_hand.jpg"  
 published:	true
 visible: 	1
 quality: 	7
@@ -19,6 +19,7 @@ importance: 8
 wordcount:	1000
 ---
 
+<!-- /img/DALLE 2022-07-17 235156 - palm pointing upward, its wrist grabbed from both sides, pale watercolours, artstation.jpg -->
 
 {%	assign halluc = "https://en.wikipedia.org/wiki/Deathbed_phenomena#Scientific_evaluation"	%}
 {%	assign dmt = "https://www.bbc.co.uk/bbcthree/article/dd52796e-5935-414e-af0c-de9686d02afa"	%}
