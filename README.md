@@ -11,5 +11,6 @@ gem install jekyll bundler
 bundle install
 
 echo 'alias jekse="bundle exec jekyll serve --incremental"' >> ~/.bashrc
+source ~/.bashrc
 jekse
 ```

@@ -1,9 +1,3 @@
----
-layout: 	page
-title: 		Notes from Yudkowsky
-permalink: 	/yud/
-visible:	false
----
 
 
 > "These essays are fumbling attempts to put into words lessons better taught by experience. But at least there’s underlying math, plus experimental evidence from cognitive psychology on how humans actually think. Maybe that will be enough to cross the stratospherically high threshold required for a discipline that lets you actually get it right, instead of just constraining you into interesting new mistakes."
