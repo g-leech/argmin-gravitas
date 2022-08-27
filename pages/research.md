@@ -21,6 +21,7 @@ visible:	true
 
 <table>
 	{%	include researches/masks.html	%}
+	{%	include researches/seasons.html	%}
 	{%	include researches/coviddata.html	%}
 	{%	include researches/covid2.html	%}
 	{%	include researches/lineage.html	%}
@@ -50,7 +51,6 @@ visible:	true
 
 <table>
 	<!-- 	include researches/trees.html	%} -->
-	{%	include researches/seasons.html	%}
 	{%	include researches/lgfo.html	%}
 
 </table>

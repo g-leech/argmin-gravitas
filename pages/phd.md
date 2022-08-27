@@ -12,7 +12,8 @@ visible:	false
 {%	assign fo = "https://forrt.org/reversals"		%}
 
 
-I'm interested in keeping an eye on AI. By a stroke of luck my PhD advisor is <a href="{{la}}">Laurence Aitchison</a>. I'm part of the Interactive Artificial Intelligence Centre for Doctoral Training at the University of Bristol.<br><br>
+I'm interested in keeping an eye on AI. By a stroke of luck my PhD advisor is <a href="{{la}}">Laurence Aitchison</a>. I'm at the Interactive Artificial Intelligence Centre for Doctoral Training at the University of Bristol.<br><br>
+
 
 <center>
 {%	include researches/icons.html	%}
