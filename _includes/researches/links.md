@@ -30,7 +30,7 @@
 {%	assign rep44 = "https://www.imperial.ac.uk/media/imperial-college/medicine/mrc-gida/20-05-20-COVID19-Report-44.pdf"	%}
 {%	assign eclinic = "https://authors.elsevier.com/sd/article/S2589537021003448"	%}
 {%	assign flax = "https://www.nature.com/articles/s41586-020-2405-7"		%}
-{%	assign seasons = "https://www.medrxiv.org/lookup/doi/10.1101/2021.06.10.21258647"		%}
+{%	assign seasons = "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010435"		%}
 {%	assign seasontw = "https://twitter.com/jankulveit/status/1404369971334070273"	%}
 {%	assign maskspp = "https://doi.org/10.1073/pnas.2119266119"		%}
 {%	assign maskstw = "https://twitter.com/g_leech_/status/1531691152327458819"	%}
