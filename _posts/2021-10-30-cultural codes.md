@@ -25,7 +25,7 @@ argument:
 {%	include cultural/links.md	%}
 
 
-There is so much to understand, there are so many things to like - and all of us understand and like very little of it. <a href="#fn:2" id="fnref:2">2</a> If you're young, your preferences maybe define you - but you could be defined by something else. If you're any age, they determine who you spend your time with - but you could spend time with almost anyone.
+There is so much to understand, so many things to like - and all of us understand and like very little of it. <a href="#fn:2" id="fnref:2">2</a> If you're young, your preferences maybe define you - but you could be defined by something else. If you're any age, they determine who you spend your time with - but you could spend time with almost anyone.
 
 It's easy to forget how inexhaustible the natural and human world is. This year I've been running classes on _the art of getting into things_. I collected all the interests and subcultures my students are into (or actively not into):<br><br>
 
@@ -122,9 +122,13 @@ Pick something you're not open to. Ask:
 
 * Does it offend me? Is it ugly? Low class? Pretentious?
 
-* What is it trying to do?
+* What is it trying to do?*
 
 * How would I have to change to get it?
+
+<br>
+
+* I didn't realize that I ripped this off from Ebert. Or from Christgau, who ripped it off from Ebert
 
 <br>
 

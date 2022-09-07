@@ -87,6 +87,7 @@ categories: machine-learning
 
 ## See also
 
+* [EFF](https://www.eff.org/ai/metrics)
 * [Vance](https://www.lesswrong.com/posts/G993PFTwqqdQv4eTg/is-ai-progress-impossible-to-predict)
 
 <br>
