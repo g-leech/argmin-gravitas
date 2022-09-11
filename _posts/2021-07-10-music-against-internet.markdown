@@ -16,7 +16,7 @@ confidence:
 importance: 5
 wordcount:  600
 warnings: 	Doomers.
-categories: music, art, culture
+categories: music, art, subculture
 ---
 
 {%  assign nbt = "https://www.youtube.com/watch?v=wfBdL32L3Z8"  %}
@@ -45,7 +45,7 @@ No one's ever been this lost<br>
 I just get the information, retweet or say it sucks
 
 <center>– Childish Gambino </center>
-<br>
+<br><br>
 
 What does music tell us about the world? Almost nothing.
 

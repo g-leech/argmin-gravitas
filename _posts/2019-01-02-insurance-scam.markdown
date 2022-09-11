@@ -9,7 +9,7 @@ author:     Gavin
 img:        "/img/DALLE 2022-07-17 234319 - insurance isn't bad, bright, pale watercolours, artstation.jpg"
 published:  true
 visible:    1
-quality:    7
+quality:    6
 
 summary:    Two arguments against insurance, and where they fail.
 categories: utility, rationality, finance

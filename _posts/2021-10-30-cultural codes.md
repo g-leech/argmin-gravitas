@@ -18,7 +18,7 @@ importance: 6
 emotion: 	7
 warnings: 	
 wordcount:  
-categories: art, meaning, philosophy
+categories: art, meaning, philosophy, subculture
 argument:	
 ---
 

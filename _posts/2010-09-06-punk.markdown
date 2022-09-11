@@ -17,7 +17,7 @@ importance: 3
 emotion: 	7
 wordcount:  3000    
 warnings: 	Too late. Suicide, swastikas, humanism, anti-humanism, ironic immorality.
-categories: music, culture, politics, subculture, criticism
+categories: music, politics, subculture, criticism
 argument:	punk/argument.md
 where:      "Aberdeen, Scotland"
 ---
@@ -26,9 +26,9 @@ where:      "Aberdeen, Scotland"
 
 
 <div align="center">
-	<img src="/img/punk.jpg" width="60%" />
+	<img src="/img/punk.jpg" width="75%" />
 	<!-- Church of Euthanasia 'activist', c.2005. -->
-	<br><br>
+	<br><br><br>
 	<blockquote>
 		Punk is a music that is inherently hilarious. To try to make serious punk music is like trying to make serious happy hardcore. That's never been its purpose for me.
 	</blockquote>
