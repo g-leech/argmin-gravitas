@@ -5,7 +5,7 @@ baselink:   /country
 permalink:  /country
 date:       2022-09-07
 author:     Gavin   
-img:        /img/country-music-cryptography.jpg
+img:        /img/DALLE country music encrypted, watercolours halved.jpg
 
 visible:    1
 published:  true
@@ -20,8 +20,16 @@ categories: art, status, subculture
 argument:   
 ---
 
+<center>
+    <img src="/img/DALLE country music encrypted, watercolours.jpg" width="50%" />
+    <br>
+    <small><i>DALL-E: "country music encrypted, watercolours</i>"</small>
+</center>
+<br><br>
+
 _Context: my hobby is <a href="/codes">getting into things</a>, new parts of culture._
 
+<br>
 
 One of my [students](https://mesaoptimized.substack.com/) won a prize off me: I am to help him get into a subculture or [idiom](https://www.gleech.org/favs/all/) of his choice.
 
@@ -123,6 +131,13 @@ Several possible lines of attack:
 * Or go back up the tree from which country came. The common root of blues, folk, country gets called "roots". Early country is a lot like white blues plus Celtic folk, for instance. <a href="https://open.spotify.com/track/0gVTOC191ScBI2Frj9NQQX?si=7b28c32f1ff94caa">Bluegrass</a> is a related virtuoso form, often with no lyrics, and is easy to appreciate for anyone who likes technique. Here's the roots playlist that got me into it:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/20MVGQxbvPOyJfB6v9G4gj?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
+<br><br>
+
+<center>
+    <img src="/img/DALLE 2022-09-11Merle Haggard cryptography, watercolours.jpg" width="70%" />
+    <br>
+    <small><i>"Merle Haggard cryptography, watercolours"</i></small>
+</center>
 <br><br>
 
 ### 2. Technicalities
