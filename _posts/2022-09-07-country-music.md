@@ -16,7 +16,7 @@ importance: 3
 emotion:    4
 warnings:   
 wordcount:  
-categories: art, meaning, philosophy
+categories: art, status, subculture
 argument:   
 ---
 
@@ -81,6 +81,13 @@ You'd have to stop viewing disliking it as virtuous. You'd have to realise that 
 <br>
 
 ---
+
+<br>
+
+
+> Charlie Parker... was between sets at one of the clubs he played at on Fifty-Second Street in New York City in the late 1940s. Much to his fellow musicians’ shock, they found him feeding nickels into the jukebox, playing country music songs. “Bird,” they asked, using his famous nickname, “how can you play that music?” Parker replied, “Listen to the stories.” 
+
+- [apocryphal](https://www.pbs.org/kenburns/country-music/book-excerpt)
 
 <br>
 
@@ -150,6 +157,14 @@ It's a huge business. Garth Brooks was the second-bestselling solo artist of the
 See also my above skit on country as one of few places for male emoting in some parts of the world.
 
 <br><br>
+
+## See also
+
+* https://www.goodreads.com/book/show/388758.Will_the_Circle_be_Unbroken
+* https://www.publishersweekly.com/978-0-06-019047-7
+* https://www.goodreads.com/book/show/16033285-hidden-in-the-mix
+* https://www.goodreads.com/book/show/18723634-rednecks-queers-and-country-music
+
 
 <div class="footnotes">
 
