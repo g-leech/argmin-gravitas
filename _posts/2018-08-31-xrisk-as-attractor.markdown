@@ -145,6 +145,11 @@ So it looks like there's a strong apriori case to prioritise x-risk, for anyone 
 
 <br><br>
 
+## See also 
+
+* Fyodorov's [original Common Cause](https://commontask.io/a-letter-about-nikolai-fyodorovich-fyodorov)
+
+<br><br>
 
 <div class="accordion">
 	<h3>Fates other than death</h3>

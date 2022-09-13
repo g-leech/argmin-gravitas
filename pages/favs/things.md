@@ -5,8 +5,9 @@ permalink:  /favs/all/
 visible:    false
 ---
 
-<blockquote><i>If you are a human, the biggest influence on your personality is your peer group. Choose your peers.</i></blockquote>
-<center> – 'Modus Ponies'</center><br>
+
+<blockquote><i>We like lists because we don’t want to die.</i></blockquote>
+<center> – Umberto Eco</center><br>
 
 {%	include favs/links.md	%}
 

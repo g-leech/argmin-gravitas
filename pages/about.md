@@ -28,7 +28,7 @@ visible:	true
 	</li>
 	<br>
 	<li>
-		I like getting into things, <a class="noline" href="{{letter}}">judging</a> things, people changing their mind, singing, <!-- <a class="noline" href="/strength">lifting</a>, --> idly planning to become a more serious person, <a class="noline" href="{{sittler}}">and</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a>
+		I like getting into things, <a class="noline" href="{{g}}">judging</a> things, people changing their mind, singing, <!-- <a class="noline" href="/strength">lifting</a>, --> idly planning to become a more serious person, <a class="noline" href="{{sittler}}">and</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a>
 	</li>
 	<br>
 	<!-- https://www.scottaaronson.com/papers/philos.pdf -->
