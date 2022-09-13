@@ -1,0 +1,685 @@
+---
+layout:     post
+title:      "Cracking anime"
+baselink:   /anime
+permalink:  /anime
+date:       2020-09-14
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+
+summary:    
+quality:    
+emotion:    
+confidence: 
+importance: 
+wordcount:  
+categories: subculture
+---
+
+{%  include anime/films.html    %}
+
+## 1. Mushishi (蟲師) -4 / 46
+
+{%  include anime/mush.html    %}
+
+    - **Scores**
+        - 2W / 1A / 1S
+        - Visuals: 10
+            - only problem is all the dissociative women look the same
+        - Music: 9
+        - Characters: 10
+            - Ginko is husband
+            - dozens of incredibly deeply sketched one-offs
+        - Voices: 8
+        - Script: 9
+            - utterly subtle
+            - no filler
+
+
+
+- 2. [[FLCL (フリクリ)]] -13 / 40
+    - Spectacle / symbolism / coming of age
+    - **Scores**
+        - [[Weeb Ass Shit]]: 6W / 6A / 2S
+            - +2W for giant robots
+            - +1W for aliens
+            - +2W for teens
+            - +1W for dayglo hair
+            - +2W for a bit of highschool
+            - -2W for a great English dub
+        - Visuals: 8
+        - Music: 10
+        - Characters: 7
+            - Mamini much deeper than she seems
+            - Amarao
+            - Eri's two-episode arc is glorious
+            - Naota becomes ok
+        - Voices: 7
+        - Script: 8
+    - **tags**
+        - #teen  #[[painful useful]]  #music  #absurdism  #highschool
+        - #[[multiple art styles]]  #symbolism  #[[glorious mess]]
+        - #[[no such thing as adults]]  #angst  #LOL
+    - **People**
+        - [Yōji Enokido](https://en.wikipedia.org/wiki/Y%C5%8Dji_Enokido), 
+        - directed by [Kazuya Tsurumaki](https://en.wikipedia.org/wiki/Kazuya_Tsurumaki),
+        - Gainaz / Production IG
+- 3. [[Ping Pong (ピンポン)]]-7 / 40
+    - **Scores** 
+        - 5W / 1A / 1S
+            - +2 teen
+            - +3 highschool
+        - Visuals: 9
+        - Music: 8
+        - Characters: 8
+            - Smile
+            - Peco
+            - Akuma
+            - Kong
+            - Kazama
+            - Old lady
+            - Koizumi vs Old Kazama
+            - Yurie is meh
+            - random sea guy
+        - Voices: 7
+        - Script: 8
+            - some actual buildup and callback
+    - **tags**
+        - #sport  #teen  #highschool  #anhedonia
+        - #[[astonishing OP]]
+    - **people**
+        - [Taiyō Matsumoto](https://en.wikipedia.org/wiki/Taiy%C5%8D_Matsumoto)
+        - [Masaaki Yuasa](https://en.wikipedia.org/wiki/Masaaki_Yuasa)
+        - Eunyoung Choi
+        - Yuka Okayasu
+        - [Tatsunoko Production](https://en.wikipedia.org/wiki/Tatsunoko_Production)
+    - one week to produce each episode
+- 4. [[Kaiba (カイバ)]] -14 / 39
+    - **scores**
+        - 3W / 8A / 3S
+        - Visuals: 9
+            - 15fps
+            - +3 for originality
+        - Music: 8
+        - Characters: 7
+        - Voices: 7
+        - Script: 8
+            - Dialogue is very flat. But there's very little of it, and bags of visual story
+    - **tags**
+        - #[[empty world]]  #prosaic  #sci-fi
+        - #minimalism
+    - **People**
+        - Masaaki Yuasa
+        - [Madhouse](https://en.wikipedia.org/wiki/Madhouse_(company))
+        - Music by [Kiyoshi Yoshida](https://en.wikipedia.org/wiki/Kiyoshi_Yoshida)
+    - **best**
+        - E4 is a proper vignette, one Little Prince planet, the death of a broken stupid family
+            - The vault of grandma's mind. Her sensible suicide.
+- 
+- 5. [[Mob Psycho 100 (モブサイコ100)]] -9 / 35
+    - Spectacle / coming of age
+    - **Scores**
+        - 5W / 2A / 1S
+            - +2 from teens
+            - +2 from school
+        - Visuals: 8
+        - Music: 7
+        - Characters: 8
+            - Reigen is husband
+            - Musashi Goda
+                - whole [Body Improvement Club](https://mob-psycho-100.fandom.com/wiki/Body_Improvement_Club) ftw
+            - Mob (Shigeo) is wonderful
+            - Onigawara
+            - Serizawa
+            - Sho Suzuki
+            - Teruki
+            - [Kirin Jodo](https://mob-psycho-100.fandom.com/wiki/Kirin_Jodo)
+            - Mogami
+            - Ishiguro
+            - Ritsu is ok 
+            - Ekubo
+            - Emi
+            - Tsubomi
+            - Kurata is just an ineffectual Haruhi
+        - Voices: 6
+        - Script: 6
+    - **tags**
+        - #teen  #[[multiple art styles]]  #shonen  #omnipotence
+        - #sakuga  #highschool  #saikyo  #subversion  #music  #[[astonishing OP]]
+        - #[[actually funny anime]]
+    - **People**
+        - ONE / Hiroshi Seko
+        - Yuzuru Tachikawa
+        - [Bones](https://en.wikipedia.org/wiki/Bones_(studio))
+- 6. [[Stand Alone Complex]] -14 / 34
+    - **1st Gig**
+    
+
+    - **scores** 
+            - [[Weeb Ass Shit]]: 4W / 6A / 4S
+                - +6A the major's fucking thong 
+                - +4S for the bad CG opening
+                - Portentous but badass
+            - Visuals: 6
+                - -1 terrible CG OP
+                - Tachikoma CG looks great
+                - Very muddy, esp season 2
+            - Music: 7
+                - pretty edgy, nu metal / techno
+                - "Lithium Flower" is an incredible piece of Engrish sung by Australians
+            - Characters: 7
+                - The Major +3
+                - Batou
+                - Togusa
+                - Tachikoma
+                - Boss Arakama
+                - Laughing Man!
+                - lots of one-offs
+            - Voices: 7
+            - Script: 7
+                - some actually new social phenomena
+                - and some old french theory
+                - omniconspiracy is a bit silly
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fgleech%2FuStcppYdD1.png?alt=media&token=99113678-fc40-4e47-b232-72901ca8794b)
+    
+
+    - **People**
+            - [Production I.G](https://en.wikipedia.org/wiki/Production_I.G)
+            - Yoko Kanno
+    
+
+    - **Best**
+            - S1E4: Interceptor
+                - finally some proper intrigue, bodysnatching
+            - S1E10: Jungle Cruise
+            - S1E12: Escape From
+            - S1E13
+        - Monsters of the week are hit and miss. Final arc is amazing
+    - 2nd Gig
+    - Solid State Society
+        - finally some body switching
+        - not that good
+        - As usual, the terrifying antagonist is actually a person with radical good intentions whose actions are co-opted
+            - The Major (her subconscious trace from switching bodies so much) being the radical this time
+    - **tags**
+        - #sci-fi  #sociology  #transhumanism  #Baudrillard  #[[competence]]
+    - Avoids grimdark through occasionally resolved cases, banter, and the Tachikoma theme
+        - and Togusa's mullet
+    - Art is quite stuttery; better at 1.2x
+- 7. [[Puella Magi Madoka Magica (2011)]] -18 / 33
+    - **Scores**
+        - 8W / 6A / 4S
+            - +2 teens
+            - +2 school
+            - +2 skirts
+            - +2 all girl
+        - Visuals: 8
+            - Amazing Czech battles
+            - Absurd stills, but stylised and pulled off
+        - Music: 6
+        - Characters: 6
+            - Homura is classic 
+        - Voices: 5
+        - Script: 8
+    - **Best**
+        - End of Episode 7, Sayaka losing it
+- 8. [[Evangelion]] -13/ 37
+    - The poetry of dissociation. The darkness within love. The chasm between us.
+    - **Scores**
+        - 6W / 6A / 1S
+            - -2 robots
+            - -2 teenagers, 
+            - -2 angst
+            - lots of panties but not ott
+        - Visuals: 9
+            - Incredible confidence in the stills.
+        - Music: 7
+            - Cruel Angel is unforgettable
+            - Fly me to the Moon also
+        - Characters: 7
+        - Voices: 8
+            - Shinji has to fight to get the words out
+            - Many of them are intentionally impassive and monotone
+            - 
+        - Script: 6
+            - Nonsense. Highly suggestive nonsense. Highly emotive nonsense. 
+            - Reading between the lines we see an auteur's bildungs
+    - **tags**
+    - **People**
+- 9. [[Great Teacher Onizuka]] -22 / 28
+    - About trauma, about what the middle class can learn from the underclass, about contempt for bureaucracy and impersonality in personal services
+    - Very trashy, ecchi and un-PC.
+    - **Scores**
+        - 7W / 8A / 7S
+            - +2W highschool
+                - homeroom teachers as surrogate parent
+            - +2W teens
+            - +2W gals
+            - +1W gundam, games
+            - +4A sexual harassment retribution
+            - +1A boobs episode
+            - +2A photoshop and upskirt
+            - +1A teacher lech
+            - most of the villains are girls with emotional issues
+        - Visuals: 3
+            - lots of stills
+            - lo-res
+        - Music: 5
+            - [fucking banger of a song](https://www.youtube.com/watch?v=phAoChN1nC4) (S1)
+        - Characters: 7
+            - The man
+            - Miyabi
+            - Urumi??
+            - uchiyamada
+        - Voices: 6
+            - Ari Ozawa very dry
+        - Script: 7
+            - not on average. lots of meh episodes. Maybe 1/3 really good
+            - -1 for boobs episode, ghost episode, stupid countryside episode
+            - +1 for ending
+    - **Tags**
+        - #[[the book was better]]  #ecchi
+        - #highschool  #perverted  #comedy  #sexist  #antihero
+        - #tears  #[[education as protection against the educated]]
+        - #anti-villain  #[[great ending]]
+    - **Best:**
+        - S1E2, Enter Uchiyamada!
+        - S1E5, An Eye for an Eye, a Butt for a Butt
+        - S1E8, Bungee Jumping Made Easy
+        - S1E15, The Great Sacrifice
+        - S1E19, Private Investigations
+    
+
+    - **S1E24, Compromising Positions**
+        - The school trip funds arc
+        - E36 is intensely stupid but quite moving
+        - Okinawa bit is p good
+        - Ending <3
+- 10. [[Gankutsuō (巌窟王)]] -15 / 34
+    - C19th drama with ridiculous scifi overlay, rather than the reverse I expected.
+    - Manages to make the Count's viciousness seem understandable.
+    - **Scores**
+        - 6W / 4A / 5S
+            - Boys boys boys
+            - 2W random giant robots
+        - Visuals: 8
+            - Slightly naff cgi
+                - robots...
+        - Music: 7
+        - Characters: 5
+            - As always, shows 15 year olds doing ultraviolence and suffering greatly
+            - Bertuccio is good.
+            - Maximilien
+            - Poison wife
+            - Noirtier
+            - The Count attracts virtuous and loyal followers with crook faces
+            - Albert is basic af
+            - Subtle downfalls. Apart from the two mecha sword duels.
+            - Villefort loses his judgment.
+            - Danglars loses his fortune. And then spoons it.
+            - Mondego loses his self-conceit.
+        - Voices: 8
+        - Script: 6
+            - Lots of little details
+            - Haydee closing the tabs on her bed laptop
+            - "back taxes"
+    - **tags**
+        - [[gay]]  [[sci-fi]]  [[vampire]]
+        - [[Terra Ignota]]!!!
+        -  The Stars My Destination vs Count of Monte Cristo
+    - **people**
+        - Mahiro Maeda
+- 11. [[Gekkan Shoujo Nozaki-kun]] -19 / 36
+    - Joy of life / comedy
+    - **Scores**
+        - 8W / 5A / 5S
+            - +2 highschool
+            - +2 teens
+            - +4 romance, manga, dating sims, crossdressing
+        - Visuals: 6
+        - Music: 9
+            - fucking banger of a song
+        - Characters: 6
+            - Sakura
+            - Nozaki
+                - Boy is thick as a brick. And methodical.
+            - Mikorin is fine
+            - Seo
+            - Kashima
+        - Voices: 7
+            - Ari Ozawa very dry
+        - Script: 8?
+            - actually funny a couple times an episode
+            - few filler eps though
+    - **tags**
+        - #teen #highschool  #comedy  #hornyonmain  #shojo  #[[astonishing OP]]
+        - #deconstruction  #meta
+    - **People**
+        - [Izumi Tsubaki](https://en.wikipedia.org/wiki/Izumi_Tsubaki)
+        - Mitsue Yamazaki
+        - Yoshiko Nakamura
+        - [Doga Kobo](https://en.wikipedia.org/wiki/Doga_Kobo)
+- 12. [[Samurai Champloo (サムライチャンプルー)]] -12 / 32
+    - About the many-sided unfreedom of pre-industrial society.
+        - aesthetics - mashup and anachronism - as ironically free juxtaposition
+    - **Scores**
+        - 3W / 6A / 3S
+            - quite historically versed in Edo but not in a weeb way
+                - samurai are one of the few non-weeb things about Japan
+        - Visuals: 7
+            - occasional sakuga
+        - Music: 7
+        - Characters: 7
+        - Voices: 5
+        - Script: 6
+    - **tags**
+        - #hiphop  #edo  #sex  #poverty  #[[social realism]]
+        - #intertext  #history  #women  #[[artistic licence]]  #anachronism
+        - One incongruous piece of supernaturalism, chi wounds
+        - Mild marxist vibe
+        - #[[first episodes suck]]
+- 
+- 13. [[One-Punch Man (ワンパンマン)]] -10 / 35
+    - About moral luck, the absurdity of power, the hollowness of status games
+        - also subverting shonen nonsense about power
+        - also sheer spectacle, quality of execution
+    - **Scores**
+        - Season 1:
+            - 3W / 6A / 2S
+                - +4 various domme bosses
+                - +2 Tatsumaki and Blizzard
+            - Visuals: 9
+            - Music: 7
+            - Characters: 7
+                - Saitama 
+                - KING
+                - Genos
+                - Silverfang
+                - Garou
+                    - [[great villains]]
+                - Fubuki Blizzard
+                - Mumen
+                - Sonic
+                - Suiryu
+                    - [[amoralist]]
+                - Zombieman
+                - Armour Ape
+                - Sweet Mask
+                - Charanko
+                - Ape
+                - Black Sperm
+            - Voices: 6
+            - Script: 6
+            - SE2: 
+                - Visuals: 5
+                - Music: 5
+                - Characters: 9
+                - Voices: 8
+                - Script: 6
+    - **tags**
+        - #sakuga  #shonen  #saikyo  #subversion  #[[multiple art styles]]
+        - #one-season  #deconstruction  #credentialism  #existentialism
+        - #LOL  #simulacra  #omnipotence
+    - **People**
+        - ONE
+        - Shingo Natsume
+        - Tomohiro Suzuki
+        - [Madhouse](https://en.wikipedia.org/wiki/Madhouse_(company))
+- 14. [[Planetes]] -11 / 32
+    - **scores**
+        - 3W / 3A / 5S
+        - Visuals: 7
+            - some very painterly scenes in the ship
+            - extreme closeups
+        - Music: 7
+            - repetitive and OTT 
+        - Characters: 6
+            - Tanabe is a really annoying emotional deontologist 
+                - but man she cute
+            - ridiculously slow tsundere 
+            - Yuri is stolid and deep in a shallow way
+            - Hachi's PTSD and coming out of slackerdom is...
+        - Voices: 5
+        - Script: 7
+            - OK pretty bad E2 - E10
+            - but ending is very elegant
+            - lots of very nice EVA details, foot hooks, jet rotation
+            - Is Yuri the foreigner's grammar quite precise and formal?
+            - As well as its many Power of Friendship blahs, manages to have good disagreements: Tanabe v Claire on space inequality
+    - **tags**
+        - #space  #sci-fi  #conservatism  #class  #poverty  #cheese
+    - **best**
+        - E1. INTO = NATO = fucked
+        - E9. A Moving murder,
+        - E11. Third world entrepreneurial passion. The ecstasy of standardised tests
+- 15. Space Dandy -13 / 32
+    - **scores** 
+        - [[Weeb Ass Shit]]: 2W / 8A / 3S
+        - Visuals: 8/9
+        - Music: 7
+        - Characters: 4
+        - Voices: 6
+        - Script: 6
+    - **tags**
+        - #[[fourth wall]]  #sci-fi  #ecchi  #sakuga
+        - #trash  #comedy 
+        - wait for the second season
+    - **Best**
+        - S1E2. Ramen
+        - S1E4. [Sometimes You Can't Live With Dying, Baby](https://www.funimation.com/shows/space-dandy/sometimes-you-cant-live-with-dying-baby/?qid=)
+        - S1E9. Plants
+            - Eunyoung Choi
+    - **People**
+        - Goro Taniguchi, Keiko Nobumoto, Yasuhiro Nakura, Toshio Hirata, Fumihiko Takayama, Katsuhiro Otomo, solo episodes by Kiyotaka Oshiyama and Michio Mihara,
+    - Hitchhiker's Guide with tits. Johnny Bravo with explosions and aliens
+        - "speculative scifi concepts through the unpredictability of a Saturday morning cartoon"
+    - Same "hero pervert" vibe as GTO
+    - ED "X Jigen e Youkoso" is sung to Hugh Everett
+        - this is the key to the absurdity: every time he dies, it's a new branch
+    - Ending: amor fati
+        - To refuse transcendence. To love the world too dearly.
+        - Breasts as synecdoche for all value
+    - スペース☆ダンディ
+    - http://www.pelleas.net/aniTOP/index.php/space-dandy-14
+- 16. [[Shirobako (シロバコ)]] -11 / 32
+    - About tension between art & commerce, low- and middlebrow, work and life
+    - **Scores**
+        - 6W / 2A / 3S
+            - +2W from anime allusions
+                - Anno cameo
+            - +4W from technical detail
+            - +3S from basicness of the girl crew
+        - Visuals: 7
+        - Music: 5
+        - Characters: 6
+            - Director
+            - Anno
+            - Aoi
+        - Voices: 7
+        - Script: 7
+    - **tags**
+        - #meta  #slice-of-life  #adulthood  #ordinary-madness  #shojo
+        - 
+    - Sharper than it looks. Still sanitised depiction tho.
+        - [Gwern](https://myanimelist.net/reviews.php?id=200297)
+    - **People**
+        - Kenji Sugihara
+        - [Tsutomu Mizushima](https://en.wikipedia.org/wiki/Tsutomu_Mizushima)
+        - [Michiko Yokote](https://en.wikipedia.org/wiki/Michiko_Yokote)
+        - PA Works
+- 17. [[Hellsing Ultimate]] -12 / 35
+    - **scores**
+        - 6W / 7A / 1S
+            - -2W good English dub
+            - quite rapey
+        - Visuals: 9
+        - Music: 7
+        - Characters: 7
+        - Voices: 5
+        - Script: 7
+    - **tags**
+        - #ultraviolent  #goth  #extra
+        - #batty  #[[bizarro europe]]
+- 18. [[Trigun (トライガン)]] -13 / 27
+    - About the dark side of environmentalism, about the rage inside compassion, about the importance of cheer in a dark world
+    - **Scores**
+        - 3W / 4A / 7S
+            - +4S for Vash's clowning
+        - Visuals: 2
+        - Music: 7
+            - Tsuneo Imahori
+        - Characters: 7
+            - Vash alone
+            - Knives
+                - [[great villains]]
+        - Voices: 5
+            - Vash is very childish
+            - Millie is also annoying
+        - Script: 6
+    - **tags**
+        - #[[the manga is better]]
+        - #[[deep ecology]]
+        - #tears
+        - #space-cowboy
+    - **People**
+        - [Yasuhiro Nightow](https://en.wikipedia.org/wiki/Yasuhiro_Nightow)
+        - Satoshi Nishimura
+        - [Yōsuke Kuroda](https://en.wikipedia.org/wiki/Y%C5%8Dsuke_Kuroda)
+        - Madhouse
+- 19. [[Shinsekai Yori (新世界より)]] -14 / 32
+    - About [[dirty hands]], coming of age, oppression, revolution
+    - **Scores**
+        - 5W / 6A / 3S
+            - +3A for that random hookup episode
+        - Visuals: 7
+        - Music: 7
+        - Characters: 6
+            - Squealer, 
+                - [[anti-villain]]
+            - Kiroumaru, 
+            - Tomiko, 
+            - Saki
+            - but the society is the real character
+        - Voices: 5
+        - Script: 7
+    - **tags**
+        - #[[first episodes suck]]
+        - #postapocalypse  #teen  #romance  #transhumanism   #[[social engineering]]
+        - #juxtaposition  #[[instrumental religion]]  #[[hard magic]]
+        - #[[philosopher kings]]  #[[being the police state]]  #[[life under fascism]]
+        - #[[biosphere engineering]]  #Buddhism  #[[body horror]]  #[[noble lie]]
+        - #[[the enemy within]]  #[[existential angst factories]]  #[[dirty hands]]
+        - #[[Clarke's Third Law]]  #[[40k]]  #[[authoritarianism]]  #[[apartheid]]
+        - #[[psychic unconscious blah]]  #incompetence  #[[reality shock]]
+    - **People**
+        - A-1 Pictures
+            - Masashi Ishihama
+            - Masashi Sogo
+            - 
+    - **Best**
+        - S1E4  Pretty bad until the camping trip infodump
+        - S1E10: the threat is real, the social control unavoidable
+            - 11: the rational, kind, wise Stasi
+        - 15 - the Robber Flies modernise
+        - 20
+        - 25
+- 20. Cromartie High School  -13 / 31
+    - **scores**
+        - 6W / 2A / 5S
+            - +2 W schoolkids in school
+        - Visuals: 3
+        - Music: 7
+        - Characters: 7
+            - Takenouchi is great
+        - Voices: 7
+            - comedy is easier to ham up
+        - Script: 7
+    - https://vrv.co/series/G675N3ENR
+    - **tags**
+        - #highschool
+        - #[[fourth wall]]
+        - #idiots
+        - #men
+        - #[[actually funny anime]]
+- 21. [[Black Lagoon]] -14 / 30
+    - **scores**
+        - [[Weeb Ass Shit]]: 4W / 7A / 3S
+        - Visuals: 7
+        - Music: 4
+            - Aside from the ludicrous OP, the music's incredibly low in the mix
+        - Characters: 6
+            - Japanese terrorist is good
+        - Voices: 7
+        - Script: 7
+            - better than Bebop at emptiness and protagonist villainy
+    - **tags**
+        - #Japan #ultraviolent  #[[south china sea]]
+        - #
+    - Rare Japanese depiction of "Japan as seen by outsiders"
+        - hard drinking 
+        - big accounts
+- [[Fullmetal Alchemist: Brotherhood]] -10 / 35
+    - 鋼の錬金術師
+    - About relationships as the meaning of life
+    - **Scores**
+        - 3W / 3A / 6S
+            - lots and lots of slapstick, tsundere crap
+            - -2W good English dub
+        - Visuals: 8
+            - immersive
+        - Music: 7
+            - great but really repetitive
+        - Characters: 8
+            - Van Hohenheim
+            - Mustang
+            - Scar
+            - Al
+            - Hawkeye
+            - Wrath
+            - Olivier
+            - Greed
+            - Lin Yao
+            - Marcoh
+            - Grumman
+            - Maria
+            - Miles
+            - Alex
+            - Kimblee
+            - Selim
+            - Barry
+            - Ed is repetitive but sound
+            - Father is fine
+        - Voices: 7
+        - Script: 5
+    - **Tags**
+        - #shonen  #music  #tears  #[[life under fascism]]
+        - #[[being the police state]]  #[[weird politics]]  #[[Japanese Prussians]]
+        - #[[bad comedy]]  #[[great ending]]
+        - Comedy / tragedy rammed together
+    - **People**
+        - [Yasuhiro Irie](https://en.wikipedia.org/wiki/Yasuhiro_Irie)
+        - [Hiroshi Ōnogi](https://en.wikipedia.org/wiki/Hiroshi_%C5%8Cnogi)
+        - Bones
+- [[Made in Abyss (メイドインアビス)]] -14 / 35
+    - **Scores**
+        - 5W / 7A / 2S 
+            - +6A for weird Emi bathing and Reg's dick
+        - Visuals: 8
+        - Music: 8
+        - Characters: 6
+            - Riko is annoying, brash
+            - Nanachi is the best
+        - Voices: 7
+        - Script: 6
+            - S1 finale...
+    - **tags**
+        - #chibi  #postapocalypse  #[[Clarke's Third Law]]  preteen
+        - #mystery  #existentialism  #econ  #fantasy
+    - **Personnel**
+        - Akihito Tsukushi
+        - [Masayuki Kojima](https://en.wikipedia.org/wiki/Masayuki_Kojima)
+        - [Hideyuki Kurata](https://en.wikipedia.org/wiki/Hideyuki_Kurata)
+    - Moe Tarkovsky

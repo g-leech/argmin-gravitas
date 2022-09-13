@@ -65,7 +65,7 @@ visible:	true
 
 ### Popular
 
-<!-- * Major rewrite of the <a class="noline" href="">AI alignment wikipedia page</a>, with Mantas Manzeikas and Sören Mindermann (2022)<br><br> -->
+* Total rewrite of the <a class="noline" href="{{wiki}}">AI alignment wikipedia page</a> with Mantas Manzeikas and Sören Mindermann (2022)<br><br>
 * <a class="noline" href="{{big3}}">Scoring the Big Three</a> (2022)<br><br>
 * <a class="noline" href="{{kulveit}}">Learning from crisis</a> (2022)<br><br>
 * <a class="noline" href="{{supers}}">Comparing top forecasters and domain experts</a> (2022)<br><br>

@@ -33,7 +33,7 @@ argument:   bootstraps/argument.md
 
 <div style="text-align: center;">
 	<blockquote>
-		...we give you no fixed place to live, no form that is peculiar to you, nor any function that is yours alone. According to your desires and judgment, you will have and possess whatever place to live, whatever form, and whatever functions you yourself choose.
+		...we give you no fixed place to live, no form that is peculiar to you, nor any function that is yours alone. According to your desires and judgment, you will have and possess whatever place to live, whatever form, and whatever functions you yourself choose. <a href="#fn:3" id="fnref:3">3</a>
 	</blockquote>
 	– Pico della Mirandola
 	<br /><br><br>
@@ -186,6 +186,14 @@ Is bootstrapping obvious? I don't think so, judging by how static and <em>crudel
 	<!--  -->
 	<li class="footnote" id="fn:2">
 		I'm emphasising the preferential part of identity (over the social part): this is not to say, with the dubious American Beats, that someone who likes black culture a lot thereby <i><a href="https://en.wikipedia.org/wiki/The_White_Negro">becomes</a> </i>black. Though those of us who support other social transitions do have <a href="{{hyp}}">a puzzle to solve</a>.
+	</li>
+	<!--  -->
+	<li class="footnote" id="fn:3">
+		<blockquote>
+		Statuit tandem optimus opifex, ut cui dari nihil proprium poterat commune esset quicquid privatum singulis fuerat.
+		<br><br>
+		Igitur hominem accepit indiscretae opus imaginis atque in mundi positum meditullio sic est alloquutus: «Nec certam sedem, nec propriam faciem, nec munus ullum peculiare tibi dedimus, o Adam, ut quam sedem, quam faciem, quae munera tute optaveris, ea, pro voto, pro tua sententia, habeas et possideas.
+		</blockquote>
 	</li>
 </ol>
 </div>
