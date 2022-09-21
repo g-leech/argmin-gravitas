@@ -19,28 +19,85 @@ wordcount:
 categories: subculture
 ---
 
+_Context: my hobby is getting into things, new parts of culture._
+
+<br>
+
+For years I wrote off anime as an incontinent junk medium. This is not totally unfair: most of it is crass wish fulfillment. Even after understanding what's good about it I still qualify my scores (below) with a secondary score of how affected, crass or exploitative each is. I don't have to do this for country or punk!
+
+
+
+
+The essence of manga is exaggeration. Eyes, swords, reactions, and yes bodies.
+
+Squeaking.
+
+
+
+## Some key questions for probing your own distaste:
+
+<br>
+
+#### "Why don't I like it? Do I not like the people who like it?"
+
+
+<br>
+
+#### "Do my friends dislike it?"
+
+<br>
+
+#### "Does it offend me? Is it ugly? Low class? Pretentious?"
+
+
+<br>
+
+#### "What is it trying to do?"
+
+<br>
+
+#### "How would I have to change to get it?"
+
+
+
+
+
+### 1. Canon. 
+
+### 2. Technicalities
+
+#### Jargon
+
+
+#### conventions 
+
+
+#### techniques
+
+
+<br><br>
+
+### 3. Material conditions
+
+Brutal.
+
+
+
+
+
+
+# Results
+
 {%  include anime/films.html    %}
 
 ## 1. Mushishi (蟲師) -4 / 46
 
 {%  include anime/mush.html    %}
 
-    - **Scores**
-        - 2W / 1A / 1S
-        - Visuals: 10
-            - only problem is all the dissociative women look the same
-        - Music: 9
-        - Characters: 10
-            - Ginko is husband
-            - dozens of incredibly deeply sketched one-offs
-        - Voices: 8
-        - Script: 9
-            - utterly subtle
-            - no filler
 
 
 
-- 2. [[FLCL (フリクリ)]] -13 / 40
+2. [[FLCL (フリクリ)]] -13 / 40
     - Spectacle / symbolism / coming of age
     - **Scores**
         - [[Weeb Ass Shit]]: 6W / 6A / 2S
@@ -59,15 +116,8 @@ categories: subculture
             - Naota becomes ok
         - Voices: 7
         - Script: 8
-    - **tags**
-        - #teen  #[[painful useful]]  #music  #absurdism  #highschool
-        - #[[multiple art styles]]  #symbolism  #[[glorious mess]]
-        - #[[no such thing as adults]]  #angst  #LOL
-    - **People**
-        - [Yōji Enokido](https://en.wikipedia.org/wiki/Y%C5%8Dji_Enokido), 
-        - directed by [Kazuya Tsurumaki](https://en.wikipedia.org/wiki/Kazuya_Tsurumaki),
-        - Gainaz / Production IG
-- 3. [[Ping Pong (ピンポン)]]-7 / 40
+
+3. [[Ping Pong (ピンポン)]]-7 / 40
     - **Scores** 
         - 5W / 1A / 1S
             - +2 teen
