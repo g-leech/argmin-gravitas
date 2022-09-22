@@ -26,9 +26,10 @@
 <br>
 
 <li>
-	Macs are severely underpowered for their price. Even factoring in longevity and usability, they are still a bad deal for people who like performance.<br>
-	(<i>Confidence</i>: 70%)
+	<strike>Macs are severely underpowered for their price. Even factoring in longevity and usability, they are still a bad deal for people who like performance.</strike><br>
+	(Thanks to Kaarel for pointing out this is no longer true)
 </li>
+<br>
 
 <li>
 	Japanese animation is, on average, better than Western animation - visually, musically, and thematically. (It has worse depths of idiocy, perversion, and repetition, but it is easy to avoid these once you learn the symptoms.)
