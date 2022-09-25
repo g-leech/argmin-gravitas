@@ -63,6 +63,17 @@
 		"Fashion" is probably too narrow: this kind of punk was shock art, instances from all media.
 	</div>
 	<!--  -->
+	<h3>Co-opted</h3>
+	<div>
+		Punk (rock n roll played badly, with moany lyrics) wasn't much of a challenge to pop music. In fact it was <a href="{{edge}}">trendy</a> to do a "punksploitation" song. The Village People had one!
+		<br><br>
+		<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5a4JPUMyUXbsaJMQsuhKEK?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+		<br><br>
+		And in the decades since, punk has been a <a href="{{pink}}">staple</a> <a href="{{busted}}">ingredient</a> <a href="{{avril}}">in the great</a> <a href="https://www.youtube.com/watch?v=yqwYgpnCRGA">rendering plant</a> <a href="{{tramp}}">of pop music</a>.<br><br>
+	<!--  -->
+		(Again, I claim that it was commodified from the start, so this is just a matter of the majors taking the commodity off of McLaren. And then 'true punk', ideological punk, is simply not the original punk.)
+	</div>
+	<!--  -->
 	<h3>Why did early punk seem political?</h3>
 	<div>
 		I think it's people mistaking official documents as a complete picture of 70s culture. Punk really did challenge a couple of dull British institutions: TV and radio were very clean and tightly controlled; but <i>people</i> never have been all that clean and controlled.

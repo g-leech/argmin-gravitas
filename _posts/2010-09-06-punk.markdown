@@ -123,7 +123,10 @@ This clunky approach lets us account for the mind-jarring variety of people that
 
 <center>
 	<img border=1 width="60%" src="/img/tentacle.jpg" />
+	<br>
+	<small>There's a reason the <a href="{{quincy}}">Quincy Punk</a> idea persisted though.</small>
 </center>
+
 
 <br>
 

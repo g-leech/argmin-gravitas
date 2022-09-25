@@ -32,7 +32,7 @@
 <br>
 
 <li>
-	Japanese animation is, on average, better than Western animation - visually, musically, and thematically. (It has worse depths of idiocy, perversion, and repetition, but it is easy to avoid these once you learn the symptoms.)
+	The top decile of Japanese animation is better than the top decile of Western animation - visually, musically, and thematically. (It has worse average idiocy, perversion, and repetition, but it is easy to avoid these once you learn the symptoms.) This is true even though it is much less well-animated!
     <br>(<i>Confidence</i>: 80%)
 </li>
 <br>
