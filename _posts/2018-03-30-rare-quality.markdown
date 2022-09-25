@@ -132,7 +132,14 @@ I recently realised I don't know why quality is rare. Some possible reasons:<br>
 	<span style="font-weight: bold">
 		<i>Evolved reward bias: pessimism</i><br>
 	</span>
-	<a href="{{christ}}">Paul Christiano notes</a> that when you are designing agents, if you don't know the correct reward function then you are much better served by giving them falsely low reward (including random jump-scare penalties) than falsely high reward. The latter leads to inactivity and randomness; the former to desperate intelligence. This is the best single explanation.
+	<a href="{{christ}}">Paul Christiano notes</a> that when you are designing agents, if you don't know the correct reward function then you are much better served by giving them falsely low reward (including random jump-scare penalties) than falsely high reward. The latter leads to inactivity and randomness; the former to desperate intelligence. This is the best single explanation.<br><br>
+<!--  -->
+	Bostrom & Shulman instead ground this in fitness directly:
+	<blockquote>
+		<i>
+			for human beings, it is generally much easier to lose large amounts of reproductive fitness in a short time than to gain an equivalent amount. Staying in a fire for a few moments can result in permanent injury or death, at the cost of all of an organism’s remaining reproductive opportunities. No single meal or sex act has as much at stake per second—it takes weeks to starve, and the expected number of reproducing children produced per minute of mating is small. Thus, evolution may have had call to generate more intensely motivating-per-second pains in response to injury than pleasures in response to positive events.
+		</i>
+	</blockquote>
 </li><br>
 
 

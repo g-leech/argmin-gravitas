@@ -76,5 +76,9 @@
 {%	assign sit = "https://en.wikipedia.org/wiki/Situationist_International"		%}
 {%	assign monk = "https://en.wikipedia.org/wiki/The_Monks"		%}
 {%	assign corre = "https://consequenceofsound.net/2016/11/joe-corre-son-of-sex-pistols-manager-malcolm-mclaren-burns-7-million-worth-of-punk-artifacts/"	%}
-
-
+{%  assign pink = "https://www.youtube.com/watch?v=fMtByPKb7lY"    %}
+{%  assign busted = "https://www.youtube.com/watch?v=Iyx1ShPlY9A&t=19s"       %}
+{%  assign edge = "https://www.youtube.com/watch?v=Fd3NG2JX6lc"   %}
+{%  assign quincy = "https://tvtropes.org/pmwiki/pmwiki.php/Main/TheQuincyPunk"   %}
+{%  assign avril = "https://www.youtube.com/watch?v=ciqUEV9F0OY"   %}
+{%  assign tramp = "https://www.youtube.com/watch?v=HsAnEP31N1Y"   %}
