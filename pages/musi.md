@@ -286,3 +286,10 @@ Most of this list was written when I was a more contrived person. I love everyth
 * Mm Food
 * _Super What?_ by Czarface and DOOM
 * _All of Me_ (1979) by [Masayoshi Takanaka](https://www.youtube.com/watch?v=BNig6xG36i4)
+
+
+## Not on Spotify
+
+* Joanna
+* **Friday Night Lights** by Explosions in the Sky
+* Om Shanti Om

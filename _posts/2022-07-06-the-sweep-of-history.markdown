@@ -5,7 +5,7 @@ baselink:   /sweep
 permalink:  /sweep
 date:       2022-07-06
 author:     Gavin   
-img:        /img/
+img:        "/img/historical starting blocks sprint, watercolours artstation 4k.jpg"
 
 visible:    1
 published:  true
@@ -19,6 +19,14 @@ categories: longtermism, meaning
 where:      "Nassau, Bahamas"
 ---
 
+<center>
+    <img width="60%" src="/img/historical starting blocks sprint, watercolours artstation 4k.jpg" />
+    <br>
+    <small><i>"historical starting blocks sprint, watercolours artstation 4k"</i></small>
+</center>
+
+<br><br>
+
 {%  assign sum = "https://www.dailykos.com/stories/2007/03/09/310038/-Science-Friday-Sixty-Men-from-Ur"    %}
 {%  assign mag = "https://www.goodreads.com/book/show/51025650-on-time-and-water"   %}
 {%  assign wapo = "https://www.washingtonpost.com/history/2020/07/27/slave-son-racism-george-floyd/"    %}
@@ -30,12 +38,25 @@ where:      "Nassau, Bahamas"
 {%  assign mac = "https://books.google.cz/books?id=luNmEAAAQBAJ&pg=PT7&lpg=PT7&dq=%22Imagine+living,+in+order+of+birth%22&source=bl&ots=Cf57UgYn9l&sig=ACfU3U3HJqoeE6rjF3DsH5LIge3-2iVvsA&hl=en&sa=X&ved=2ahUKEwi01MDQwrf6AhWuiP0HHXDfC1AQ6AF6BAgDEAM#v=onepage&q=%22Imagine%20living%2C%20in%20order%20of%20birth%22&f=false" %}
 {%  assign sag = "http://palaeos.com/time/cosmic_calendar.html" %}
 {%  assign chr = "https://chronozoom.com"   %}
+{%  assign g = "https://eukaryotewritesblog.com/2018/10/09/the-funnel-of-human-experience/"   %}
+{%  assign d = "https://futureoflife.org/2015/11/05/90-of-all-the-scientists-that-ever-lived-are-alive-today/"  %}
+
 
 
 <a href="{{chr}}">ChronoZoom</a>
 
 <img src="/img/humans.gif" />
 
+
+<br>
+
+<hr /> 
+
+<br>
+
+<a href="{{g}}">Georgia Ray</a>:
+
+> 50% of human experience has happened after 1309 AD. 15% of all experience has been experienced by people who are alive right now.<br><br> I call this “the funnel of human experience” – the fact that because of a tiny initial population blossoming out into a huge modern population, more of human experience has happened recently than time would suggest.<br><br>50,000 years is a long time, but 8,000,000,000 people is a lot of people.
 
 <br>
 
@@ -176,6 +197,18 @@ Sixty life times ago, a man named Abram left Ur of the Chaldees and took his fam
 <br>
 
 
+<a href="{{d}}">Derek de Solla Price</a>:
+
+>  If we assume each scientist is 27 years old when they receive their PhD, and 80 years old when they die, then in my model the PhD grantees from 1959-2012 are alive, and those from 1900-1959 are dead (my apologies if I have given you an untimely death). By that measure, **exactly 90% of all scientists that ever lived are currently alive**. Of course, this ignores scientists that lived before 1900, although I expect that number to be small relative to the millions of scientists alive today. Technically, de Solla Price said it was 80-90%, so within that range of uncertainty, the statistic probably still stands.
+
+
+<br>
+
+<hr /> 
+
+<br>
+
+
 <a href="{{rota}}">Giancarlo Rota</a>: 
 
 > Running overtime is the one unforgivable error a lecturer can make. After fifty minutes (one microcentury as von Neumann used to say) everybody's attention will turn elsewhere even if we are trying to prove the Riemann hypothesis. One minute overtime can destroy the best of lectures.
@@ -188,7 +221,7 @@ Sixty life times ago, a man named Abram left Ur of the Chaldees and took his fam
 
 <a href="{{giga}}">Gigasecond</a>:
 
-> A billion seconds sounds like a long time: After all, a billion is a pretty big number. But as we can see, it's actually quite manageable, depending on how you look at it. And this is only one of the many quantities we are confronted with from our universe that can be viewed on the human scale, from the size of a neutron star (it could fit comfortable in the Boston metro area) to the frequency of supernovas in our galaxy (about once every hundred years). These are intersections of the cosmic with the human,
+> A billion seconds sounds like a long time: After all, a billion is a pretty big number. But as we can see, it's actually quite manageable, depending on how you look at it. And this is only one of the many quantities we are confronted with from our universe that can be viewed on the human scale, from the size of a neutron star (it could fit comfortable in the Boston metro area) to the frequency of supernovas in our galaxy (about once every hundred years). These are intersections of the cosmic with the human
 
 
 <br>
@@ -197,6 +230,9 @@ Sixty life times ago, a man named Abram left Ur of the Chaldees and took his fam
 
 <br><br>
 
+<img src="/img/a2historical starting blocks sprint, watercolours artstation 4k.jpg" />
+
+<br><br>
 
 ## See also
 
