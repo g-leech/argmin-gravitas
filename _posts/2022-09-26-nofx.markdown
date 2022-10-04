@@ -19,7 +19,9 @@ wordcount:
 categories: subculture, music
 ---
 
-NOFX's 1994 album _Punk in Drublic_ is a work of moral imagination. More than many novels.
+NOFX's 1994 album _Punk in Drublic_ is a work of moral imagination greater than many novels.
+
+<br>
 
 ## 1. 'Linoleum'
 
