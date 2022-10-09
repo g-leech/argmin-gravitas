@@ -131,6 +131,8 @@ _Cost per year_: £10
 * <a href="{{sub}}">Sublime Text</a> (£35). I do basically all of my writing and coding in this editor. Wonderful search, regex, markdown, and build options. Packages for everything. There are languages that really need IDEs (Java comes to mind), but I don't write in em. You can get it free, but I wanted to support it. I hear VS Code is even better but I am content.<br>
 _Expected lifespan_: Forever.
 
+* <a href="{{alac}}">Alacritty</a> (£0).
+
 * This blog is hosted on <a href="https://www.netlify.com/">Netlify</a>, they are amazing and free for small fry.<br>
 
 * <a href="{{ether}}">Wire up your laptop for calls</a> (£5). Who knows how much social difficulty in your life is due to people disliking latency on your calls? Replace the cable every couple years just in case.

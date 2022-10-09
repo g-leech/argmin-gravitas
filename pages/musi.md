@@ -251,6 +251,7 @@ Most of this list was written when I was a more contrived person. I love everyth
 
 ## Yet to settle
 
+* _Out of the Blue_  Blue Gene Tyranny
 * _Ba Power_	Ngoni Ba
 * _Currents_ 	Tame Impala
 * _Depression Cherry_	Beach House
