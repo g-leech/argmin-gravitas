@@ -70,3 +70,4 @@
 {%	assign berg = "https://forum.effectivealtruism.org/posts/fwtoEN5pZpDfQQLKz/stuff-i-buy-and-use-a-listicle-to-boost-your-consumer"	%}
 {%	assign v = "https://vitalik.ca/general/2022/06/20/backpack.html"		%}
 {%  assign en = "https://samenright.com/2022/09/21/things-i-recommend-you-buy-and-use-sam-edition/"      %}
+{%  assign alac = "https://alacritty.org/" %}

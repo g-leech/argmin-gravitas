@@ -62,7 +62,7 @@ visible:	false
         <time>
           2022
         </time>
-        3 month residency at the FTX EA Fellowship.
+        Residencies: FTX EA Fellowship, Prague Fall Season, <a href="{{mex}}">Mexico EA Fellowship</a>.
       </div>
     </li>
 <!--  -->
@@ -90,8 +90,7 @@ visible:	false
         <time>
           2020
         </time>
-        <a href="{{aiac}}">EA Forum Prize</a>: 
-        how much AI safety is done indirectly?
+        <a href="{{aiac}}">EA Forum Prize</a>, modelling AI safety
       </div>
     </li>
     <!--  -->
@@ -100,7 +99,7 @@ visible:	false
         <time>
           2020
         </time>
-        1st place, <a href="{{vtf}}">Value Forecasting Tournament</a>.
+        1st place in the <a href="{{vtf}}">Value Forecasting Tournament</a>.
       </div>
     </li>
     <!--  -->
@@ -210,6 +209,12 @@ Journal-grade modern Bayesian workflow in PyMC3. Probabilistic programming for e
 
 * <time><a href="{{htk}}">Py2HTK</a> (2017):</time>
 Python wrapper for the Hidden Markov ToolKit.
+
+<br>
+
+* <time><a href="{{euler}}">Project Euler in Haskell</a> (2022):</time>
+Solving little computational maths problems. Gimmick is I don't import anything.
+
 
 <br>
 
