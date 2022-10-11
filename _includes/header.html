@@ -13,10 +13,10 @@
         </svg>
       </a>
 
-      <div class="trigger">
+      <div class="trigger burger">
         {% for page in site.pages %}
           {% if page.visible == true %}
-              <a class="headText frontpage" href="{{ page.url | prepend: site.url }}">{{ page.nav }}</a> 
+              <a class="headText" href="{{ page.url | prepend: site.url }}">{{ page.nav }}</a> 
               
               {% if page.title != "Research" %}
                   &nbsp;&nbsp;|&nbsp;&nbsp;

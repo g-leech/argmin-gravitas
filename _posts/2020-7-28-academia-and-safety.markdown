@@ -11,7 +11,7 @@ published:  true
 visible:    1
 
 summary:    Estimating safety work by academics in adjacent areas.
-quality:    7
+quality:    6
 categories: effective-altruism, AI, academia
 confidence: High that there is a notable contribution, low in the particular estimates. Lots of Fermi estimates.
 importance: 9

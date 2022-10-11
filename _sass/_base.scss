@@ -101,20 +101,19 @@ a {
         text-decoration: none;
     }
 
-    &:hover {
-        color: $brand-color;
-    }
-
-
     &:active {
         color:white;
     }
 
 }
 
+.burger {
+    font-family: "Didot", "Times New Roman", Times, serif;
+    font-size: 15pt;
+}
+
 .frontpage {
     text-decoration: none !important;
-
     &:hover {
         text-decoration: underline !important;
     }
