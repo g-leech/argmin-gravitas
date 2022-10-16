@@ -5,7 +5,7 @@ baselink:   /sweep
 permalink:  /sweep
 date:       2022-07-06
 author:     Gavin   
-img:        "/img/historical starting blocks sprint, watercolours artstation 4k.jpg"
+img:        "/img/a2historical starting blocks sprint, watercolours artstation 4k.jpg"
 
 visible:    1
 published:  true
