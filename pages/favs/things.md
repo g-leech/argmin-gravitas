@@ -5,11 +5,14 @@ permalink:  /favs/all/
 visible:    false
 ---
 
-
-<blockquote><i>We like lists because we don’t want to die.</i></blockquote>
-<center> – Umberto Eco</center><br>
-
 {%	include favs/links.md	%}
+
+<br>
+<center>
+	<blockquote><i>We like lists because we don’t want to die.</i></blockquote>
+ 	– Umberto Eco
+ </center><br><br>
+
 
 
 <div class="accordion">
@@ -74,4 +77,4 @@ visible:    false
 
 <br>
 
-{%	include padder.html 	howMuch=24	%}
+{%	include padder.html 	howMuch=30	%}

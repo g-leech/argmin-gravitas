@@ -20,9 +20,9 @@ where:      "Tallinn, Estonia"
 ---
 
 <center>
-    <img width="60%" src="/img/DALLE 2022-07-17 233705 - quantum computer on the farm, pale watercolours, artstation.jpg" />
+    <img width="60%" src="/img/stablediffusion1pt4.jpg" />
     <br>
-    <small><i>"Quantum computer on the farm, watercolour 4k"</i></small>
+    <small><i>"Quantum computer on the farm, watercolour 4k"</i> (Stable Diffusion 1.4)</small>
 </center>
 
 
