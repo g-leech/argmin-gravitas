@@ -9,7 +9,7 @@ visible:	true
 {%	assign filum =	"https://letterboxd.com/gleech/films/by/member-rating/"	%}
 {%	assign spot = "https://open.spotify.com/user/technicalities1/playlists"	%}
 {%  assign hh = "https://open.spotify.com/playlist/3xZIFXJRzzaDSXkrybc2gz?si=b2d6bfd43e2e42ae" %}
-
+{%  assign gam = "https://backloggd.com/u/glee/games/user-rating/" %}
 
 ## Listen
 
@@ -38,6 +38,7 @@ visible:	true
 <!-- * <a href="/poems">Poems</a><br><br> -->
 * <a href="{{filum}}">Films</a><br><br>
 * <a href="/specie">Species</a><br><br>
+* <a href="{{gam}}">Games</a><br><br>
 * <a href="/favs/all">Misc</a>
 
 
