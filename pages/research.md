@@ -99,7 +99,14 @@ visible:	true
 * 2020: Lead TA for _<a href="{{algo}}">COMS20010: Algorithms 2</a>_.<br><br>
 * 2019: TA for the fearsome _<a href="{{coms}}">COMS30007: Bayesian Machine Learning</a>_.<br><br>
 
-<!-- <br> -->
+<!-- ### Students
+
+* Seth
+* Uzay
+* Juan
+* Yudi
+<br><br>
+ --><!-- <br> -->
 
 <!-- ## Patents -->
 
