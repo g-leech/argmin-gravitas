@@ -62,7 +62,7 @@ visible:	false
         <time>
           2022
         </time>
-        Residencies: FTX EA Fellowship, Prague Fall Season, <a href="{{mex}}">Mexico EA Fellowship</a>.
+        Residencies: FTX Fellowship, Prague Fall Season, Mexico EA Fellowship
       </div>
     </li>
 <!--  -->
@@ -258,6 +258,7 @@ Solving little computational maths problems. Gimmick is I don't import anything.
 
 <section class="timeline cv vol">
   <ul>
+    {%  include cv/critcont.html  %}
     {%  include cv/alert.html  %}
     {%  include cv/espr.html  %}
     {%  include cv/aisc.html  %}
