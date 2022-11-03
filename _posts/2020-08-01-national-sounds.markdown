@@ -90,10 +90,7 @@ argument:
 			{%	include nation/ita.html	%}
 		</div>
 		<!--  -->
-		<h3>Netherlands</h3>
-		<div>
-			{%	include nation/neder.html	%}
-		</div>
+		{%	include nation/neder.html	%}
 		<!--  -->
 		<h3>Estonia</h3>
 		<div>
@@ -114,9 +111,13 @@ argument:
 		<div>
 			{%	include nation/portug.html	%}
 		</div>
+		{%	include nation/fin.html	%}
+		<!--  -->	
+		{%	include nation/uke.html	%}
 		<!--  -->
 		</div>
 	</div>
+	{%	include nation/ru.html	%}
 	<!--  -->
 	<!--  -->
 	<h3>asia</h3>
