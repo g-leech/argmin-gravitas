@@ -292,7 +292,15 @@ Most of this list was written when I was a more contrived person. I love everyth
 
 ## Not on Spotify
 
-* Joanna
 * **We Love Katamari** by Various
+* Joanna Newsom
+* Almost all of Joni Mitchell
+* Almost all of Neil Young
+* Samhain
+* The good De La Soul albums
 * **Friday Night Lights** by Explosions in the Sky
 * Om Shanti Om
+* Exmilitary
+* The Grey Album
+* You Reposted In the Wrong Neighborhood
+* Yuki C Honda
