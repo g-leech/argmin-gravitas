@@ -10,7 +10,7 @@ img:        ""
 visible:    1
 published:  false
 
-summary:    
+summary:    The giant realisations of my life.
 quality:    
 emotion:    
 importance: 
