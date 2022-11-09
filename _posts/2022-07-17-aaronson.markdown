@@ -10,7 +10,7 @@ img:        "/img/DALLE 2022-07-17 233705 - quantum computer on the farm, pale w
 visible:    1
 published:  true
 
-summary:    13 easy pieces
+summary:    14 easy pieces
 quality:    5
 importance: 7
 emotion:    7
@@ -229,6 +229,36 @@ by Scott A, aged 18.
 > I call my theory reverse Hollywoodism, because it holds that the real world has the inverse of the typical Hollywood movie’s narrative arc.  Again and again, what we observe is that the forces of good have every possible advantage, from money to knowledge to overwhelming numerical superiority.  Yet somehow good still fumbles.  Somehow a string of improbable coincidences, or a black swan or an orange Hitler, show up at the last moment to let horribleness eke out a last-minute victory, as if the world itself had been rooting for horribleness all along.  That’s our universe.
 
 > maybe the full weight of our universe’s freakish awfulness doesn’t bear down on you as it does on me.  But I hope you’ll concede that, if nothing else, this theory is a genuinely non-reductionist one.
+
+
+<br>
+
+---
+
+<br>
+
+### [“Can computers become conscious?”: My reply to Roger Penrose](https://scottaaronson.blog/?p=2756) (2016)
+
+> Pinning consciousness on “the brain’s biological causal powers” is just a restatement of the problem, like pinning why a sleeping pill works on its sedative virtue.
+
+> One of the many reasons I admire Roger is that, out of all the AI skeptics on earth, he’s virtually the only one who’s actually tried to meet this burden, as I understand it!  He, nearly alone, did what I think all AI skeptics should do, which is: suggest some actual physical property of the brain that, if present, would make it qualitatively different from all existing computers, in the sense of violating the Church-Turing Thesis.  Indeed, he’s one of the few AI skeptics who even understands what meeting this burden would entail: that you can’t do it with the physics we already know, that some new ingredient is necessary.
+
+But despite my admiration, I part ways from Roger on at least five crucial points.
+
+> First, I confess that I wasn’t expecting this, but in his talk, Roger suggested dispensing with the argument from Gödel’s Theorem, and relying instead on an argument from evolution.  He said: if you really thought humans had an algorithm, a computational procedure, for spitting out true mathematical statements, such an algorithm could never have arisen by natural selection, because it would’ve had no survival value in helping our ancestors escape saber-toothed tigers and so forth.  The only alternative is that natural selection imbued us with a general capacity for understanding, which we moderns can then apply to the special case of mathematics.  But understanding, Roger claimed, is inherently non-algorithmic.
+
+> I’m not sure how to respond to this, except to recall that arguments of the form “such-and-such couldn’t possibly have evolved” have a poor track record in biology.  But maybe I should say: if the ability to prove theorems is something that had to arise by natural selection, survive against crowding out by more useful abilities, then you’d expect obsession with generating mathematical truths to be confined, at most, to a tiny subset of the population—a subset of mutants, freaks, and genetic oddballs.  I … rest my case.  [This got the biggest laugh of the talk.]
+
+> Second, I don’t agree with the use Roger makes of Gödel’s Incompleteness Theorem.  Roger wants to say: a computer working within a fixed formal system can never prove that system’s consistency, but we, “looking in from the outside,” can see that it’s consistent.  My basic reply is that Roger should speak for himself!  Like, I can easily believe that he can just see which formal systems are consistent, but I have to fumble around and use trial and error.  Peano Arithmetic?  Sure, I’d bet my left leg that’s consistent.  Zermelo-Fraenkel set theory?  Seems consistent too.  ZF set theory plus the axiom that there exists a rank-into-rank cardinal?  Beats me.  But now, whatever error-prone, inductive process I use to guess at the consistency of formal systems, Gödel’s Theorem presents no obstruction to a computer program using that same process...
+
+> there’s no reason to assume the AI mathematically infallible, since humans aren’t either.  This is also the reply that most of Penrose’s critics gave in the 1990s.
+
+> So at some point, it seems to me, the argument necessarily becomes: sure, the computer might say it sees that the Peano axioms have the standard integers as a model—but you, you really see it, with your mind’s eye, your Platonic perceptual powers!  OK, but in that case, why even talk about the Peano axioms?  Why not revert to something less abstruse, like your experience of tasting a fresh strawberry, which can’t be reduced to any third-person description of what a strawberry tastes like?
+
+> [I can’t resist adding that, in a prior discussion, I mentioned that I found it amusing to contemplate a future in which AIs surpass human intelligence and then proceed to kill us all—but the AIs still can’t see the consistency of Zermelo-Fraenkel set theory, so in that respect, humanity has the last laugh…]
+
+> The third place where I part ways with Roger is that I wish to maintain what’s sometimes called the Physical Church-Turing Thesis: the statement that our laws of physics can be simulated to any desired precision by a Turing machine (or at any rate, by a probabilistic Turing machine).  That is, I don’t see any compelling reason, at present, to admit the existence of any physical process that can solve uncomputable problems... even if I supposed we could solve uncomputable problems, I’ve never understood how that’s meant to enlighten us regarding consciousness.  I mean, an oracle for the halting problem seems just as “robotic” and “unconscious” as a Turing machine.  Does consciousness really become less mysterious if we outfit the brain with what amounts to a big hardware upgrade?
+
 
 <br>
 
