@@ -33,5 +33,7 @@ where:      "Prague, Czechia"
 - realise that books are still small
 - realise that art is small by comparison with the world
 - realise that philosophy is a cage
+- realise that I need to become technical to do great things
+- realise that I need to become technical to do real philosophy
 - realise that most science is not real
 - realise that running a business is freedom

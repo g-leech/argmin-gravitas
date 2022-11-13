@@ -29,7 +29,7 @@
         Also <a href="{{metha}}">medical device firmware</a> and web apps.
       </li>
       <li>
-        I like naming things. Some of my names: Arb, Off Road, Sky Palace, Rubination, Argmin Gravitas, Theories of Victory. 
+        I like naming things. Some of my names: Arb, Off Road, Sky Palace, Rubination, Argmin Gravitas, Theories of Victory.
       </li>
       <br>
       <li>

@@ -8,14 +8,6 @@ visible:	false
 
 {%  include about/links.html  %}
 
-{%  include about/now.md  %}
-
-<!-- %  include about/infomercial.md  %} -->
-
-
-<br>
-
-<hr />
 
 <br>
 
@@ -62,7 +54,7 @@ visible:	false
         <time>
           2022
         </time>
-        Residencies: FTX Fellowship, Prague Fall Season, Mexico EA Fellowship
+        Residencies: EA Bahamas Fellowship, Prague Fall Season, Mexico EA Fellowship
       </div>
     </li>
 <!--  -->
