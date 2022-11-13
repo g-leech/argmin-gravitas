@@ -34,7 +34,7 @@ For most of my life I thought I was an introvert. Actually I just hate parties.
 
 Normal life involves interacting with unchosen strangers for 10 to 200 minutes. (Work trips. Group projects. Chatting at the school gates. Chipping in phatic pebbles at parties. Client management. One to ones with managers. Hairdresser background.)
 
-But is it normal to be good at this, feel ok with this, or is it just overrepresented? (How would you meet the majority of people who aren't?) 
+(Is it normal to feel okay with this or is it just overrepresented? How would you meet the majority of people who aren't?) 
 
 Some number of people just don't go to things; a gentle British expression for this is that they "don't mix". For instance, my parents don't mix, much as Alan Bennett's didn't.<br><br>
 
@@ -56,7 +56,7 @@ Some number of people just don't go to things; a gentle British expression for t
 
 Similarly, I am useless at chatting and preternatural at bullshitting about ideas. Can go for hours. Any idea. Just let me choose who I'm talking to.
 
-Most interactions aren't strictly chosen (who they talk to or what they talk about). I suffered for years as a result. 
+Most interactions aren't strictly chosen (who you talk to or what you talk about). I suffered for years as a result. 
 This overriding need for social freedom seems to me to be the _heart_ of nerdiness. (OK, along with obsessiveness.) Experiencing pain when compelled to socialise, particularly when it's gossip or news or chitchat or intros.
 
 For the first 18 years of my life I had almost no-one to share my native mode (obsessive talk about big ideas). Half of my life was then alienated socialising. <a href="#fn:1" id="fnref:1">1</a><a href="#fn:2" id="fnref:2">2</a> So I read obsessively instead, joining the <a href="https://en.wikipedia.org/wiki/Great_Conversation">conversation</a>.
