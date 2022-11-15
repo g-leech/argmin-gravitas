@@ -54,7 +54,7 @@ visible:	false
         <time>
           2022
         </time>
-        Residencies: EA Bahamas Fellowship, Prague Fall Season, Mexico EA Fellowship
+        Residencies: Prague Fall Season, Mexico EA Fellowship
       </div>
     </li>
 <!--  -->
