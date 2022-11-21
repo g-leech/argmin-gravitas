@@ -21,3 +21,5 @@ categories:
 Moloch
 
 https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/
+
+Guzey

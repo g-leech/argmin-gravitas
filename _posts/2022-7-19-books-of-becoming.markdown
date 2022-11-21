@@ -30,7 +30,7 @@ My student recently received funding for independent study, and asked me for a r
 
 ## The Romance of Technology
 
-This is my name for one of the most important emotions in the world: the love of what makes the world better, of technical knowledge. It's so underemphasised, I had to come up with a name. I learned very few technical topics until I realised what was beautiful and meaningful and philosophical about them. Computer science as intersection of philosophy and engineering. But greater than a mere intersection.
+This is my name for one of the most important emotions in the world: the love of what makes the world better, of technical knowledge. It's so underemphasised, I had to come up with the name. I learned very little technical content until I realised what was beautiful and meaningful and philosophical about them. Computer science as intersection of philosophy and engineering. But greater than an intersection.
 
 
 * The Information by Gleick

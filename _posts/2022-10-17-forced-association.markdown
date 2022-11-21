@@ -6,7 +6,7 @@ permalink:  /association
 date:       2022-11-09
 author:     Gavin
 
-img:        "/img/DALLE - happily alone in a meadow, blue sky, watercolours 4k.jpg"
+img:        "/img/DALLE - happily alone in a meadow, blue sky, watercolours 4k cropped.jpg"
 published:  true
 visible:    1
 

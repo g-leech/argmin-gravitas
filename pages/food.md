@@ -66,19 +66,21 @@ visible:    false
 * Kailash Momo, London
 * Wolkite, London
 * Shapur, London
+* Nusa Kitchen, London
 * San Carlo, Bristol
 * Suyuan, Bristol
 * Eat-a-Pitta, Bristol
 * Trongs, Ipswich
 * Mono, Glasgow
 * Mosque Kitchen, Edinburgh
-* Nusa Kitchen, London
 * Woorijip, New York
 * Mama Chang, Fairfax
 * Jietai Temple, Beijing
 * Wicca, Laulasmaa
-* Antonínovo pekařství, Prague
+<!-- * Antonínovo pekařství, Prague -->
 * San Crispino, Grom, Venchi, Giolitti, Rome
+* Casa Bell, CDMX
+
 
 ## Cuisines
 
