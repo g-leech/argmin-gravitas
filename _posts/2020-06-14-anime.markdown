@@ -669,6 +669,7 @@ Brutal.
     - Rare Japanese depiction of "Japan as seen by outsiders"
         - hard drinking 
         - big accounts
+
 - [[Fullmetal Alchemist: Brotherhood]] -10 / 35
     - 鋼の錬金術師
     - About relationships as the meaning of life
@@ -698,8 +699,6 @@ Brutal.
             - Kimblee
             - Selim
             - Barry
-            - Ed is repetitive but sound
-            - Father is fine
         - Voices: 7
         - Script: 5
     - **Tags**
@@ -711,10 +710,10 @@ Brutal.
         - [Yasuhiro Irie](https://en.wikipedia.org/wiki/Yasuhiro_Irie)
         - [Hiroshi Ōnogi](https://en.wikipedia.org/wiki/Hiroshi_%C5%8Cnogi)
         - Bones
+
 - [[Made in Abyss (メイドインアビス)]] -14 / 35
     - **Scores**
         - 5W / 7A / 2S 
-            - +6A for weird Emi bathing and Reg's dick
         - Visuals: 8
         - Music: 8
         - Characters: 6

@@ -1,0 +1,41 @@
+---
+layout:     post
+title:      "On wordcels and shapecels"
+baselink:   /words-words-words
+permalink:  /words-words-words
+date:       2022-11-09
+author:     Gavin
+
+img:        ""
+published:  false
+visible:    1
+
+quality:    
+emotion:    8
+confidence: 
+importance: 
+
+summary:    How do the forms of intelligence structure society?
+categories: 
+wordcount:  500
+warnings:   At least partially culture war bullshit
+where:      "Florencia, CDMX"
+---
+
+Maths is how we control physical reality. Words are how we control social reality. Does this mean that people with those skills form two classes with different values, different goals, and intrinsic reason to conflict?
+
+There's some scientific content to it, some laughable political content, and a kernel of true political content.
+
+Recently people have bundled enormous amounts of shit into it under "wordcels and shape rotators". But this is an old idea:
+
+* Business schools self-divide into "poets" and "quants": persuasion guys and data guys. 
+
+* "V" and "M"
+
+* PMs and coders
+
+* Journalism Vs Tech
+
+* Neats and scruffies
+
+* Crypto vs deep learning. Even programmers aren't safe from this.
