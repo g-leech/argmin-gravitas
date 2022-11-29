@@ -65,7 +65,7 @@ It's simple: The greatest nontechnical minds in history have all failed to work 
 
 Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is manifestly bad at: why do philosophy?   <br><br>
 
-<ul>
+<ol>
 <!--  -->
 	<li>
 		<h3>the philosopher as intellectual janitor</h3>
@@ -309,7 +309,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 		Well, <a href="#point">my original point</a> was an induction from past philosophy to my philosophy career, and induction <a href="{{indu}}">tends</a> to be used in science, not philosophy. But I grant you that generalising hastily, like I have, is characteristic of philosophy. 
 	</li>
 
-</ul>
+</ol>
 
 <br>
 
