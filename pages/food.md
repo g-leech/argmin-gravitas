@@ -79,7 +79,7 @@ visible:    false
 * Wicca, Laulasmaa
 <!-- * Antonínovo pekařství, Prague -->
 * San Crispino, Grom, Venchi, Giolitti, Rome
-* Casa Bell, CDMX
+* Castizo, CDMX
 
 
 ## Cuisines

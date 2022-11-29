@@ -3,6 +3,8 @@
 {%	assign ideas = "https://forum.effectivealtruism.org/users/arb/replies"	%}
 {%	assign offroad = "https://forum.effectivealtruism.org/posts/8ekqxkowckzEKu3uG/off-road-support-for-eas-struggling-at-uni"	%}
 {%	assign iiasa = "https://en.wikipedia.org/wiki/International_Institute_for_Applied_Systems_Analysis"	%}
+{%	assign work = "https://arbresearch.com/work/"	%}
+
 
 <div class="accordion" id="nowacc">	
 
@@ -34,7 +36,8 @@
 	  </div>
 	  	<div class="insides">
 			I'm interested in keeping an eye on AI. By a stroke of luck my PhD advisor is <a href="{{la}}">Laurence Aitchison</a>. <br><br>
-			Besides that, I’m working on a large project upstream of AI forecasting and leading a Mercatus Center project on AI talent, with the aim of bringing in non-financial support like technical mentors, visas, and excitement. 
+			<!--  -->
+			You can see our other efforts in the <a href="{{work}}">Arb newsfeed</a> and <a href="https://arbresearch.com">Current Work</a>.
 		<br><br>
 		</div>
 	</div>

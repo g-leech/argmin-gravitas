@@ -109,11 +109,17 @@ started:    	2017
 </div>
 
 
-<br><br><br>
+<br><br>
 
 
 Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fresh programmer from an actual engineer. <a href="#fn:2" id="fnref:2">2</a>.<br><br><br>
 
+<br><br>
+
+## See also
+
+
+* [Goodbye](https://ryxcommar.com/2022/11/27/goodbye-data-science/)
 
 
 [Snot]: 		http://www.starling-software.com/employment/programmer-competency-matrix.html 
