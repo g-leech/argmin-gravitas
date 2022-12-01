@@ -39,3 +39,13 @@ Recently people have bundled enormous amounts of shit into it under "wordcels an
 * Neats and scruffies
 
 * Crypto vs deep learning. Even programmers aren't safe from this.
+
+
+
+Lacking the big picture.
+
+---
+
+Really you should have one shape attribute and one word attribute.
+
+https://mobile.twitter.com/awprokop/status/1597713089121878016
