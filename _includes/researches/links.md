@@ -17,7 +17,7 @@
 {%	assign lgfo = "https://arxiv.org/abs/2009.11677"		%}
 {%	assign ilp = "http://ceur-ws.org/Vol-2808/Paper_14.pdf"		%}
 {%	assign gridcite = "https://scholar.google.com/scholar?hl=en&q=Gavin+Leech%2C+Karol+Kubicki%2C+Jessica+Cooper%2C+and+Tom+McGrath.+Preventing+side-effects+in+gridworlds%2C+2018."	%}
-{%	assign ilpvid = "https://youtu.be/leQ56mahNMs?t=585"		%}
+{%	assign ilpvid = "https://youtu.be/leQ56mahNMs?t=605"		%}
 {%	assign robustvid = "https://nips.cc/virtual/2020/public/poster_8e3308c853e47411c761429193511819.html"	%}
 {%	assign gel = "https://statmodeling.stat.columbia.edu/2020/12/18/inferring-the-effectiveness-of-government-interventions-against-covid-19/" %}
 {%	assign epifor = "http://epidemicforecasting.org/calc"	%}

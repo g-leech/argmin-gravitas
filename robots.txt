@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /cv.pdf
+
+User-agent: Googlebot
+Disallow: /css/main.css
+
+User-agent: *
+Allow: /
