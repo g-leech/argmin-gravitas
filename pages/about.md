@@ -66,7 +66,8 @@ visible:	true
 	{%	include about/misc.html	%}
 </div>
 
-<br><br>
+<br><br><br><br>
+
 
 {%    include mc.html  %}
 

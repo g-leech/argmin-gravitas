@@ -32,7 +32,7 @@ visible:    false
 * Rajas con crema
 * Penne alla norma
 * Aglio e olio, cacio e pepe
-* Roast friggitelli (unpickled)
+* Roast friggitelli (_not_ pickled) / pimientos de padron
 * Thakkali sadam 
 * Bhindi bhaji
 * Gobi Manchurian
@@ -48,6 +48,7 @@ visible:    false
 * More garlic than you can believe
 * only potato
 
+* Horchata
 * Golden milk
 * Shoofly pie
 * Brita cake
@@ -80,6 +81,8 @@ visible:    false
 <!-- * Antonínovo pekařství, Prague -->
 * San Crispino, Grom, Venchi, Giolitti, Rome
 * Castizo, CDMX
+* Chilpa, CDMX
+
 
 
 ## Cuisines
@@ -109,4 +112,4 @@ It's hard to choose between Sichuan and Mexico for #1 so I guess I choose the in
 17. Shandong
 17. Spanish
 
-Implicitly just ranking by quality of the vegetarian options.
+Implicitly just ranking by quality of vegetarian options.
