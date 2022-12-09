@@ -50,6 +50,7 @@ visible:    false
 
 * Horchata
 * Golden milk
+* Tres leches
 * Shoofly pie
 * Brita cake
 * Banoffee
@@ -82,7 +83,10 @@ visible:    false
 * San Crispino, Grom, Venchi, Giolitti, Rome
 * Castizo, CDMX
 * Chilpa, CDMX
-
+* Chinampa, CDMX
+* Chilaquiles del Barrio, CDMX
+* Frutos prohibidos, CDMX
+* Pujol, CDMX
 
 
 ## Cuisines

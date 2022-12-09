@@ -273,9 +273,9 @@ Solving little computational maths problems. Gimmick is I don't import anything.
           2012
           <br class="break">
           <a class="org" href="{{vso}}">VSO Tanzania</a>
-          <br><br>
-            <span style="font-weight: normal;">Gender development projects</span>
+          <br>
         </time>
+          <span style="font-weight: normal;">Gender development projects</span>
           <br class="break">
       </div>
     </li>
