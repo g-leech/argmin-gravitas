@@ -1,0 +1,5 @@
+_id: 16a72010-1edc-11e8-8af7-ab99598a1222
+name: niplav
+email: 1111
+message: "Surprisingly not mentioned: Do backups! I've found the 3-2-1 rule (3 copies on the same hard drive, 2 more copies on local but airgapped hard drives, and 1 more copy on a hard drive in remote storage far away in case your place burns down) to be really useful for important files.<br><br>Makes one far less susceptible to ransomware, and you just don't want to rely on your one hard drive. (Slightly tricky to get right with encryption, though)."
+date: 1670880028

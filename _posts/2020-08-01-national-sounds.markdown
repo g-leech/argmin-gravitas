@@ -125,22 +125,21 @@ argument:
 	<h3>asia</h3>
 	<div>
 		<div class="accordion">
-		<!--  -->
-		<h3>Japan</h3>
-		<div>
-			{%	include nation/jp.html	%}
-		</div>
-		<!--  -->
-		<h3>Mainland China</h3>
-		<div>
+			<!--  -->
+			<h3>Japan</h3>
+			<div>
+				{%	include nation/jp.html	%}
+			</div>
+			<!--  -->
 			{%	include nation/chin.html	%}
-		</div>
-		<!--  -->
-		<h3>Hong Kong</h3>
-		<div>
-			{%	include nation/hk.html	%}
-		</div>
-		<!--  -->
+			<!--  -->
+			<h3>Hong Kong</h3>
+			<div>
+				{%	include nation/hk.html	%}
+			</div>
+			<!--  -->
+			{%	include nation/taiwan.html	%}
+			<!--  -->
 		</div>
 	</div>
 	<!--  -->
