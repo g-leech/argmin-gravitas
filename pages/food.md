@@ -87,7 +87,7 @@ visible:    false
 * Chilaquiles del Barrio, CDMX
 * Frutos prohibidos, CDMX
 * Pujol, CDMX
-
+* Plantasia, CDMX
 
 ## Cuisines
 
