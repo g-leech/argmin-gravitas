@@ -5,7 +5,7 @@ baselink:   /ladder
 permalink:  /ladder
 date:       2022-11-29  <!--site.time-->
 author:     Gavin   
-img:        "/img/a.jpg"
+img:        "/img/cropped DALL·E 2022-12-16 16.25.42 - ladder stretching up through the atmosphere into space, watercolour, trending on artstation, 4k.jpg"
 
 visible:    1
 published:  true

@@ -38,10 +38,10 @@ The Scot seethes with hatred of ambition. In the manner of the Jacobite rebels o
 
 <br>
 
-They have not even a false prophet, like my own Wagner. Who might be prophetaster? _Mill_? 
+They have not even a false prophet, like our Wagner. Who might be the prophetaster? _Mill_? 
 
 <br>
 
-There is nothing specially degenerate about them; Europe swims much the same tributaries fouled by church. In Scots one sees the same magnitude of decline as elsewhere, yet perhaps, in their good Europeanism and their advanced nihilism, the grounds for something higher, if only they deign to cast aside their camaraderie with the herd. Who can say what new slant daylight may lie in grey places?
+There is nothing specially degenerate about them; Europe swims much the same tributaries fouled by church. In Scots one sees the same magnitude of decline as elsewhere -- yet, perhaps, in their good Europeanism and their advanced nihilism, are grounds for something higher, if only they cast aside their camaraderie with herd animals. Who can say what new slant daylight may lie in grey places?
 
 <br><br>

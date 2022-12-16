@@ -5,7 +5,7 @@ baselink:   /hype
 permalink:  /hype
 date:       2022-11-27
 author:     Gavin   
-img:        "/img/DALLE2022-11-26 21.39.42 - closeup of handsome man with glasses, dilated pupil, watercolour 4k.jpg"
+img:        "/img/DALL·E 2022-12-16 16.23.27 - closeup of woman with dilated pupils, watercolour, trending on artstation, 4k.jpg"
 
 visible:    1
 published:  true
