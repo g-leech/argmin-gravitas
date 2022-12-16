@@ -6,7 +6,7 @@ permalink:  /association
 date:       2022-11-09
 author:     Gavin
 
-img:        "/img/DALLE - happily alone in a meadow, blue sky, watercolours 4k cropped.jpg"
+img:        "/img/happy man alone in a beautiful meadow on a sunny day, watercolour, trending on artstation 4k.jpg"
 published:  true
 visible:    1
 
@@ -86,7 +86,7 @@ Before you go thinking of yourself as "shy" or "introverted" or "not socially sk
 <br>
 
 <center>
-    <img width="50%" src="/img/DALLE - happily alone in a meadow, blue sky, text, watercolours 4k.jpg" />
+    <img width="50%" src="/img/DALLE - happily alone in a meadow, blue sky, watercolours 4k cropped.jpg" />
 </center>
 
 <br><br>

@@ -23,6 +23,7 @@ visible:    false
 * Mapo tofu
 * Laksa
 * Pho
+* Mole negro
 * Cebollitas
 * Molcajete stew
 * Flautas, jaladas, frijolillas, panucho
