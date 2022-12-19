@@ -28,6 +28,7 @@ visible:    false
 * Molcajete stew
 * Flautas, jaladas, frijolillas, panucho
 * Enchiladas de Cancun
+* Truffle habanero salsa
 * Sopa di tortilla
 * Chilaquiles
 * Rajas con crema
@@ -89,6 +90,8 @@ visible:    false
 * Frutos prohibidos, CDMX
 * Pujol, CDMX
 * Plantasia, CDMX
+* Areperia, CDMX
+<!-- * Nueve Nueve, CDMX -->
 
 ## Cuisines
 
