@@ -101,5 +101,7 @@ Before you go thinking of yourself as "shy" or "introverted" or "not socially sk
 <!--  -->
     <li class="footnote" id="fn:2">
         There was nothing wrong with my classmates, to be clear. They were mostly kind. Just not what I needed.
+        <br><br>
+        "<i>That was the price of autonomy: an inalienable right to madness and suffering, inseparable from the right to solitude and peace.</i>" ― Greg Egan
     </li>
 </ol>

@@ -250,22 +250,11 @@ Solving little computational maths problems. Gimmick is I don't import anything.
 
 <section class="timeline cv vol">
   <ul>
+    {%  include cv/ment.html  %}
     {%  include cv/critcont.html  %}
     {%  include cv/espr.html  %}
     {%  include cv/aisc.html  %}
     {%  include cv/offroad.html  %}
-    <!--  -->
-    <li>
-      <div>
-        <time>
-          2019
-          <br class="break">
-            <a href="{{parallel}}" class="org">Parallel Forecast</a>
-          <br>
-        </time>
-        Resolution Council member of a short-lived AI prediction market.
-      </div>
-    </li>
     <!--  -->
     <li>
       <div>
