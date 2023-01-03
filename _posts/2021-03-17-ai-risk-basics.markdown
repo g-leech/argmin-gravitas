@@ -315,6 +315,13 @@ A corporation is a profit maximiser, and this is probably part of why they do ba
 
 Again, all of the best current systems are maximisers.
 
+---
+
+<br>
+
+#### Theoretical risk
+
+People have come up with [real but unrealistically slow](https://en.wikipedia.org/wiki/AIXI) algorithms for general intelligence published: [each](https://ojs.aaai.org/index.php/aimagazine/article/view/15084) implies an attempt to gain arbitrary power. Assuming that such models tell us anything about computationally tractable systems which will approximate them, we find weak reason to think that the default outcome is unsafe.
 
 <br>
 

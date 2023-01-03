@@ -10,145 +10,160 @@ img:
 visible:    1
 published:  true
 
-summary:    Trying to make sense of the organising principle of modern life. 
+summary:    Trying to make sense of the organising principle
 confidence: 
-quality:    6
-importance: 3
-emotion:    5
-warnings:   Fiction!
-wordcount:  400
-categories: philosophy, scotland
+quality:    5
+importance: 6
+emotion:    7
+wordcount:  2000
 argument:   
 ---
 
-<p align="left"><img id="BLOGGER_PHOTO_ID_5468199242010030626" style="display: block; margin: 0px auto 10px; width: 300px; height: 400px; text-align: center;" alt="" src="http://3.bp.blogspot.com/_1jKHfOdSZhQ/S-LyPSURciI/AAAAAAAAAFo/xzcwnAwlMh4/s400/%210.jpg" border="0" /></p><p align="left">
-<a href="http://3.bp.blogspot.com/_1jKHfOdSZhQ/S9l2CvGtBoI/AAAAAAAAAFQ/YUUuenqi_4E/s1600/%210.jpg"></a>
-
 <div align="center">
-    <blockquote>Shut it, 'Love Actually'!</blockquote>
-    <a href="http://www.youtube.com/watch?v=wa3eoMnMC80">- Jamie McDonald</a> 
-</div>
 
-
-_2022 Note: I wrote this to recover from the most painful moment of my life._
+<img id="BLOGGER_PHOTO_ID_5468199242010030626" src="/img/%210.jpg" border="0" />
 
 
 <!-- For some, a rational analysis of love is an enraging idea; you obviously get that way without much prompting by the world - but this approach to the matter is largely in an appendix at the end, so you may simply avoid it.  -->
 
+<br><br>
 
-</p><blockquote><p></p><span style="color: rgb(204, 153, 51);"><blockquote><p style="text-align: center;"><span style="color: rgb(204, 153, 51);">"</span><a name="3.1.134"><span style="color: rgb(204, 153, 51);">Methinks, mistress, you should have little reason</span></a>
-<a name="3.1.135"><span style="color: rgb(204, 153, 51);">for that: and yet, to say the truth, </span></a><span style="color: rgb(204, 153, 51);">reason and
-</span><a name="3.1.136"><span style="color: rgb(204, 153, 51);">love keep little company together now-a-days; the</span></a>
-<a name="3.1.137"><span style="color: rgb(204, 153, 51);">more the pity that some honest neighbours will not</span></a>
-<a name="3.1.138"><span style="color: rgb(204, 153, 51);">make them friends.</span></a><span style="color: rgb(204, 153, 51);">"</span>
-</p><div style="text-align: center;"><span style="color: rgb(255, 255, 255);">- A Midsummer Night's Dream, 400</span>
-<span style="color: rgb(255, 255, 255);">years ago</span></div></blockquote></span></blockquote><span style="color: rgb(204, 153, 51);"><blockquote><div style="text-align: center;"><span style="color: rgb(255, 255, 255);"></span></div><p><span style="color: rgb(204, 153, 51);"></span> </p></blockquote><p align="left"></p></span>
-<p></p><p>AND: You might argue that this is surplus, that "our culture is obsessed with all this shit, maan; most of our books and all of our poetry never shuts up about it, maan." Yes, it is, and they do. But there's a difference between bald usage and <em>received demand</em> for something and actual thought about it. This skirts mawkishness. But all mawk is is unguarded sentimentality, and I've been trying for readable unguardedness for some time now.
+<blockquote>
+    ...you should have little reason for that: and yet, to say the truth, reason and love keep little company together now-a-days; the more the pity that some honest neighbours will not make them friends.
+</blockquote>
+-- A Midsummer Night's Dream
+
+<br><br>
+
+<blockquote>Shut it, 'Love Actually'!</blockquote>
+    -- <a href="http://www.youtube.com/watch?v=wa3eoMnMC80">Jamie McDonald</a> 
 
 
-I dunno. If anything at all may be disqualified from the cold attention of crackly, analytic attention, then the unspeakable analysandum, love, is foremost. Because 1) it's a holism if it is anything; because 2) it seems small from outside; because 3) it is, fundamentally, <em>an uncomfortable thing to read about. </em></p><p>But as a culture we haven't moved on from (or even taken in) the <a href="http://en.wikipedia.org/wiki/Greek_words_for_love">four Greek words</a>, and we seem to be torturing ourselves over a vague mire borne of half-successful feminism and runaway adolescent bullshit. Speaking of which:</p>
-<p></p><div align="center"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_1jKHfOdSZhQ/TB48Gu1sVMI/AAAAAAAAALA/AopFyCTAQQE/s1600/EscherBondUnion.jpg"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 320px; height: 244px;" src="http://3.bp.blogspot.com/_1jKHfOdSZhQ/TB48Gu1sVMI/AAAAAAAAALA/AopFyCTAQQE/s320/EscherBondUnion.jpg" alt="" id="BLOGGER_PHOTO_ID_5484887482533958850" border="0" /></a>
-<span style="color: rgb(204, 51, 204);font-size:130%;" >1.
-Eros;
-soulmating;
-A symbiotic clutch, if not actual </span><a href="http://www.answers.com/topic/parasitoid"><span style="color: rgb(204, 51, 204);font-size:130%;" ><u>idiobiontism</u></span></a><span style="color: rgb(153, 51, 153);font-size:130%;" ><span style="color: rgb(204, 51, 204);">.</span> </span></div>
 
-<div align="center"></div><ul><li><div align="left">"You are my life now." </div></li></ul><ul><li><div align="left">"It makes me… anxious… to be away from you." </div></li></ul><ul><li><div align="left">"I’m here, and I love you. I have always loved you, and I will always love you. I was thinking of you, seeing your face in my mind, every second that I was away. When I told you that I didn’t want you, it was the very blackest kind of blasphemy." </div></li></ul><ul><li><div align="left">"I just want it to be official — that you belong to me and no one else." (on marriage)</div></li></ul><ul><li><div align="left">"Bring on the shackles — I’m your prisoner." </div></li></ul><div style="text-align: center;">
-- all Mr Edward Cullen, Twilight series,
-whose life, no doubt, is a black abyss. </div>
-<div align="left"></div><p></p><p>
-It's this idea of love that we jump to first, that most would call "true love", and that many torture themselves over attaining and torture others by demanding. This, the ingrained, passionate, possessive blood-love. </p><div align="left"></div><div align="left"></div><div align="left"></div><div align="left">Augustine describes it as "eating one another up, as people do with their food." Consumption is the underlying drive; love is supposed to ignite you and burn you out, and capital-r-Romantic love has been seen as the desire to make another into ourselves.
+</div>
 
-Nietzsche calls it <span style="font-style: italic;">Natural</span> love, though he doesn't mean this well at all. </div><div align="left"></div><div align="left">
-One of the few people I've ever managed to speak properly to about this sort of thing to had a terrifying ideal: essentially, lovers as a fucking mind-meld, as an utterly unified entity. This seems the logical conclusion of Romantic, excessional eros, that bullshit which Twilight instantiates, and which is filed under "emo" with a couple of other deviant ideas, and thus disarmed and made ridiculous rather than scary. </div>
-<div align="left"></div>
+<br><br>
 
-<div align="left"></div><img id="BLOGGER_PHOTO_ID_5468199965443502834" style="display: block; margin: 0px auto 10px; width: 363px; height: 349px; text-align: center;" alt="" src="http://2.bp.blogspot.com/_1jKHfOdSZhQ/S-Ly5ZUQMvI/AAAAAAAAAF4/rcjA_GheXAI/s400/1zx6ttt.gif" border="0" />
-<div align="center">
-<span style="color: rgb(204, 51, 204);"><span style="font-size:130%;">2.
-Aphorisms
-(which is anyway what most people seem to think philosophy is)</span> </span></div><div align="center"><span style="color: rgb(153, 51, 153);"></span></div>
-<div align="left"></div><div align="left"></div><div align="left"><span style="color: rgb(204, 153, 51);">
+_2022 Note: I wrote this in recovering from the most painful moment of my life._
+
+<br>
+
+We are obsessed with love as much as our lovers. But there's a difference between bald usage and actual thought about it. 
+
+<!-- mawk is unguarded sentimentality, and I've been trying for readable unguardedness for some time now. -->
+
+
+If anything at all does not qualify for cold, crackly analytic attention, then the unspeakable analysandum, love, is it. Because 1) it's holistic if it is anything; because 2) it seems small from outside; because 3) it is, fundamentally, <em>uncomfortable to read about.</em> (But nothing doesn't qualify.)
+
+As a culture we haven't moved on from (or even reached the level of) the <a href="http://en.wikipedia.org/wiki/Greek_words_for_love">four Greek words</a>, and we seem to be torturing ourselves over a vague mire borne of half-successful feminism and runaway adolescent bullshit. Speaking of which:
+
+## 1. Eros; soul mates; symbiotic clutch
+
+<ul><li>"You are my life now."</li></ul>
+<ul><li>"It makes me… anxious… to be away from you."</li></ul>
+<ul><li>"I’m here, and I love you. I have always loved you, and I will always love you. I was thinking of you, seeing your face in my mind, every second that I was away. When I told you that I didn’t want you, it was the very blackest kind of blasphemy."</li></ul>
+<ul><li><div align="left">"I just want it to be official — that you belong to me and no one else." (on marriage)</div></li></ul>
+<ul><li><div align="left">"Bring on the shackles — I’m your prisoner." </div></li></ul>
+
+<div style="text-align: center;">
+-- <i>Twilight</i></div>
+
+<br><br>
+
+Amour fou is what passes for love in most art. "true love". Passion and possession. 
+
+Augustine describes it as "eating one another up, as people do with their food." Consuming, being consumed; love to ignite you and burn you out. the desire to make another into ourselves. Nietzsche calls it natural love. This isn't a compliment.
+
+One of the few people I've ever managed to speak about this with had a terrifying ideal: love as mind-meld, as unified entity. filed under "emo" and thus disarmed and made ridiculous rather than scary. 
+
+<img id="BLOGGER_PHOTO_ID_5468199965443502834" src="http://2.bp.blogspot.com/_1jKHfOdSZhQ/S-Ly5ZUQMvI/AAAAAAAAAF4/rcjA_GheXAI/s400/1zx6ttt.gif" border="0" />
+
+
+## 2. Aphorisms (what most people seem to think philosophy is)
+
 "To love is to be delighted by the happiness of another."
-- Leibniz</span> </div>
-<div align="left">
-"The great ability of Daniel was that he was the only person who could really interest her in herself."
-- Sartre </div>
-<div align="left"><span style="color: rgb(204, 153, 51);">
-"It is an act of endless forgiveness, a tender look which becomes a habit."
-- Peter Ustinov</span></div>
+- Leibniz
 
-<div align="left">"Love is the only sane and satisfactory answer to the problem of human existence."
-- Erich Fromm </div>
+"The great ability of Daniel was that he was the only person who could really interest her in herself."
+- Sartre 
+
+"It is an act of endless forgiveness, a tender look which becomes a habit."
+- Peter Ustinov
+
+"the only sane and satisfactory answer to the problem of human existence."
+- Erich Fromm 
 
 "Love feels like a great misfortune, a monstrous parasite, a permanent state of emergency that ruins all small pleasures."  
-- <a href="http://www.goodreads.com/author/quotes/2340358.Slavoj_i_ek" class="authorNameRegular">Slavoj Žižek</a>
+- Slavoj Žižek
 
-<div align="left"></div><div align="left">
-Also, from that <a href="http://afterallitcouldbeworse.blogspot.com/2010/03/thoughts-on-recent-julian-lethbridge.html">Lethbridge</a> guy I'm still not shutting up about: </div><div align="left"><blockquote>
-<div align="left"><span style="color: rgb(204, 153, 51);">"Entering it, one is suddenly aesthetically magnified; the stars are presenting for you alone, birdsong is omnipresent and omnibenevolent. An astounding amount of negative experience becomes perfectly tolerable, and the merest things about the object become cosmically significant." </span></div>
-<div align="left">
-<span style="color: rgb(204, 153, 51);">"There is a limit to what one may do if one is the object or cause of jealousy; for the jealous lover, everything one does is transmuted into misdirected love. It is a vicious and total transformation of the world, the inverse of the other love's action. And you cannot understand that which you hate" </span></div></blockquote></div>
-<div align="center">Nom nom palpably wise nom. </div>
-<div align="center"></div>
-<div align="center"></div><div align="center">
-<span style="color: rgb(204, 51, 204);font-size:130%;" >3.
-After the modern, comes the hollowness </span></div><div align="left"></div>
-<div align="left">
-Sex is about power, they said. Porn is not about women, nor really even sex; porn is about usage and ease of escape. Love, they said finally, is a patriarchal construction. </div>
-<div align="center">How can one reply?</div><div align="center">(Incredulity just makes you a victim of the ideology.)</div><div align="left"></div><p>
-From Nietzsche on through the postmodern folk he accidentally gave breath to, we find antipathy to and critique of the great dumb thing, amour. Firstly, love is not a <a href="http://www.nbb.cornell.edu/neurobio/land/OldStudentProjects/cs490-95to96/hjkim/emotions.html">universal emotion</a>; a great many cultures studied apparently lack its characteristics. Even leaving aside the large and intimidating field of <a href="http://en.wikipedia.org/wiki/Shulamith_Firestone">Marxist</a> (and on through "French feminism") readings, love can be decried simply as a twinned egoism, stupid contentment, a smug sharing in the fact of one another rather than in any proper personal or communal cause.
-</p><blockquote><span style="color: rgb(204, 153, 51);">
+"Entering it, one is suddenly aesthetically magnified; the stars are presenting for you alone, birdsong is omnipresent and omnibenevolent. An astounding amount of negative experience becomes perfectly tolerable, and the merest things about the object become cosmically significant."
+
+"There is a limit to what one may do if one is the object or cause of jealousy; for the jealous lover, everything one does is transmuted into misdirected love. It is a vicious and total transformation of the world, the inverse of the other love's action. And you cannot understand that which you hate" 
+
+
+## 3. critique
+
+After the modern, hollowness. Sex is about power. Porn is not about women, nor really even sex; porn is about use and ease of escape. Love, they said finally, is a patriarchal construction. 
+
+How can one reply? (Incredulity just makes you a victim of the ideology.)
+
+From Nietzsche on through the postmodernists he accidentally gave breath to, we find critique of the great dumb thing. 
+
+Firstly, love is not a <a href="http://www.nbb.cornell.edu/neurobio/land/OldStudentProjects/cs490-95to96/hjkim/emotions.html">universal emotion</a>; many cultures apparently lack it. Even leaving aside the large and intimidating <a href="http://en.wikipedia.org/wiki/Shulamith_Firestone">Marxist</a> (and on through "French feminism") readings, love can be called a twinned egoism, stupid contentment, a smug sharing in the fact of one another rather than a proper communal cause.
+
+
 "Love, which was once believed to contain the Answer, we now know to be nothing more than an inherited behavior pattern.”
-</span><div style="text-align: center; color: rgb(204, 204, 204);"><span style="color: rgb(204, 153, 51);"><blockquote></blockquote>- James Thurber
+-- James Thurber
 
-</span></div></blockquote><div align="left">
-Less crunchily, we could talk about how much of love-praxis has the built-in premise:
+Concretely we could talk about how much of love has the built-in premise: "P: life revolves around my love." I can see why you'd want to resist this, as slavish <a href="http://www.time.com/time/magazine/article/0,9171,95210,00.html">surrender</a>, but it's also just true for most people. Maybe amend it to "loves", i.e. favourite things, obsessions, and then I'd have to endorse it despite its problems.
 
-<div style="text-align: center;">"P: My life revolves around my love."
-
-<div style="text-align: left;">I can see why you'd want to resist this, being as it's slavish and <a href="http://www.time.com/time/magazine/article/0,9171,95210,00.html">surrender</a>-y, but it's also just <span style="font-style: italic;">true</span> for most emotionally alive folk in the world, right? Maybe amend it to "loves", i.e. favourite things, obsessions, and then I'd have to endorse it despite its problems.
-
-</div></div>
-Nietzsche went on about how love is actually an expression of the basic “deadly hatred of the sexes”; men and women fundamentally hate each other, and their relationships are the “war in its means”. This horrible idea is given development in Germaine Greer et al, when they talk about the artificiality of straight relationships and the extraordinary social structures that had to develop in order to get the genders to coexist.
+Nietzsche went on about how love is actually an expression of the “deadly hatred of the sexes”; men and women fundamentally hate each other, and their relationships are the “war in its means”. This horrible idea is given development in Germaine Greer et al, when they talk about the artificiality of relationships and the extraordinary social structures that had to develop in order to get the genders to coexist.
 
 Others agree that it's all an evolutionary and socially oppressive structure - an act of sublimated violence, and a base urge for control, possession and a steady supply of fucking.<a href="http://www.fallacyfiles.org/genefall.html"> (Genetic fallacy...)</a></div><div align="left"></div><div align="left"></div><div align="left"></div><div align="left">
 With all due respect to the social sciences and the Marxist feminists, and despite the uncontested correctness of some of the above, excuse me while I hold on to my intuitions for once, and get my coat. </div>
-<div align="center">(Postmodern bars always get so fucking lairy after dark) </div><p>
-</p><p align="center"><img style="display: block; margin: 0px auto 10px; width: 165px; height: 244px; text-align: center;" alt="" src="http://3.bp.blogspot.com/_uZSn5cK98KU/S23X0pnt3WI/AAAAAAAAJXY/oA1YigkW1Ew/s320/firestone.jpg" border="0" /></p><p align="center">
-<span style="color: rgb(204, 51, 204);font-size:130%;" >4.
-"Volo ut sis" </span></p><p align="center"><span style="color: rgb(204, 51, 204);">(I call you to being; I want you to be)</span></p><p>
-So, here's the kernel that started all this off: "volo ut sis", an idea misattributed to St Augustine<a href="http://thescottishenlightenment.com/">:</a> the idea is that it's his name for ideal love. This is caritas, agape; God's love.
 
-Hannah Arendt used it for the basis of a consistent political ethics; Volo ut sis is such a relation so as not to grasp or restrict the other. Some superlative form of respect, trust and encouraging warmth, with each ego trying not to impose itself on the other... </p><p>You do this by "sharing another's object" - that is, take on their reading of the world, and avoid dictating yours. It could be decried as pragmatic love, as head-love - merely <a href="http://www.iep.utm.edu/love/#SH2b">philia</a>? - since it sounds somewhat voluntary and cognitive. But I don't see such an objection coming from many folk who've actually ever had a lasting relationship.
-</p><p>
-</p><p style="text-align: center;"><span style="color: rgb(204, 153, 51);">“Love does not cause suffering: what causes it is the sense
-of ownership, which is love's opposite”
-</span></p><p style="text-align: center;">- Antoine de Saint-Exupéry</p><div style="text-align: center;"><span style="color: rgb(204, 153, 51);"><blockquote></blockquote></span></div><p>
-It's the only evenhanded, sustainable kind I can see. And if animal <em>need</em> is lacking in this version of love, well, fine; fuck need. Eros is anyway nowt but cold, dead Faith. (Trust is earned; faith is given, and demanded, on credit.)
-</p><p>
-</p><p align="center">A better question is whether any human is actually capable of such a thing.
-</p><div align="center"></div><div align="center"></div><div align="center">
-*************************************************************** </div><p></p><div align="center"><span style="font-size:130%;">APPENDIX:
-THE LOGICAL TREATMENT OF THE PATIENT</span> </div><div align="left"></div>
 
-<div align="center">
-<span style="color: rgb(204, 153, 51);">“Philosophy stands in the same relation to the study of the actual world as masturbation to sexual love.”
-- Marx, in "The German Ideology" </span></div>
+## 4. "Volo ut sis" (I want you to be)
 
-<img id="BLOGGER_PHOTO_ID_5468201227488336210" style="display: block; margin: 0px auto 10px; width: 224px; height: 237px; text-align: center;" alt="" src="http://4.bp.blogspot.com/_1jKHfOdSZhQ/S-L0C2zMGVI/AAAAAAAAAGA/_YfaIB7omqw/s400/%210.jpg" border="0" />
+"volo ut sis", misattributed to St Augustine <a href="http://thescottishenlightenment.com/">:</a> supposed to be his name for ideal love. caritas, agape; God's love.
 
-<div align="left"></div><div align="left">If this were a German philosophy textbook of the 1800s, I'd begin by matching the topic's <em>Begriff und Einteilung</em> to its <em>Aufgabe und Methode</em>, such were the great incongruent buggers;
+Hannah Arendt used it for the basis of a politics; Volo ut sis is a relation with someone that doesn't restrict the other. Superlative respect, trust and encouraging warmth, with each ego trying not to impose itself on the other... 
 
-do we really believe that clean, cold thought can tell us anything about the dirty, white-hot complex? Would you run the dialectic, work up your justification, read the latest formal proofs? </div>
-<div align="left"></div><div align="left">But Christ, we do this to <em>reality as a whole</em>, to Time, to modal multiverses: what disqualifies a mere emotion from it? To make philosophy a thing apart, as Marx does in the above quote, is simplistic; there's surely nothing wrong with the age-old moot: "What in the fuck is this thing?"</div><div align="left">
+You do this by "sharing another's object" - that is, take on their reading of the world, and avoid dictating yours. It could be decried as pragmatic love, as head-love - merely <a href="http://www.iep.utm.edu/love/#SH2b">philia</a>? - since it sounds somewhat voluntary and cognitive. But I don't see such an objection coming from many folk who've actually ever had a lasting relationship.
+
+
+“Love does not cause suffering: what causes it is the sense of ownership, which is love's opposite”
+-- Antoine de Saint-Exupéry
+
+
+
+is anyone actually capable of such a thing?
+
+<hr />
+
+## THE LOGICAL TREATMENT OF THE PATIENT
+
+
+“Philosophy stands in the same relation to the study of the actual world as masturbation to sexual love.”
+
+-- Marx, in "The German Ideology" 
+
+
+<!-- If this were a German philosophy textbook of the 1800s, I'd begin by matching the topic's <em>Begriff und Einteilung</em> to its <em>Aufgabe und Methode</em>,  -->
+
+
+<!-- do we really believe that clean, cold thought can tell us anything about the dirty, white-hot complex? Would you run the dialectic, work up your justification, read the latest formal proofs?  -->
+
+we do this to <em>reality as a whole</em>, to Time, to modal multiverses: what disqualifies a mere emotion from it? To make philosophy a thing apart, as Marx does in the above quote, is simplistic; there's surely nothing wrong with the age-old moot: "What in the fuck is this thing?"</div><div align="left">
+
 The opposing of reason and emotion in the Western tradition is extremely overwrought, but even so ...to deduce a logical warrant of desire... </div><div align="left"></div>
 <ul><li><div align="left">Does love exist? </div></li></ul><ul><li><div align="left">What is its nature? </div></li></ul><ul><li><div align="left">How does one know it? </div></li></ul><ul><li><div align="left">How does one know how one knows it? etc. </div></li></ul><ul><li><div align="left">Which distinct categories are identifiable? </div></li></ul><ul><li><div align="left">What are the truth-conditions for its obtaining? </div></li></ul><ul><li><div align="left">etc. </div></li></ul><div align="left"></div><div align="center">Well? Is this clear-eyed and evenhanded or just falsely reductive? </div><div align="center">
-</div><div align="left"></div><div align="left"></div><div align="left"></div><div align="center">
-*********************************************************************</div><div align="center"></div><div align="center">
-</div><div align="left">
-The philosopher Gabriele Taylor did a properly analytic treatment of it in the 70s which is impressive and absurd in equal measures. </div><div align="left"></div>
-<div align="left"></div><p><em>Contention: </em>Can love ever be justified?</p><p><em>Discourse: </em>Love treated as an attitudinal belief (like fear). "Lovable" posited as an attributed property of the objects of love. Misattribution and epistemic factors raised.</p><p></p><p></p><p>
+
+
+Gabriele Taylor did a properly analytic treatment of it in the 70s which is impressive and absurd in equal measures. 
+
+
+Contention: </em>Can love ever be justified?</p><p><em>Discourse: </em>Love treated as an attitudinal belief (like fear). "Lovable" posited as an attributed property of the objects of love. Misattribution and epistemic factors raised.</p><p></p><p></p><p>
 </p><p>"There is a class of emotions the members of which share the following
 characteristics:</p><p>1) If a person <em>x </em>feels one of these emotions then it will always be possible for him to specify what it is 'about'.</p><p>2) If <em>x</em> feels the emotion <em>E</em>, and <em>y</em> is the object, then <em>x </em>believes <em>y </em>to have a specific set of properties.</p><p align="center"><span style="color: rgb(204, 153, 51);"><strong>∃</strong>Φ(<em>xy</em>)(<em>E</em>xy ⇒ B<em>x</em>Φ<em>y</em>)</span></p><p align="center"><span style="color: rgb(204, 153, 51);"></span></p><p align="left">
 Φ cannot, of course, tell us much about the object<em> y </em>or how<em> y </em>appears to <em>x. </em>It is instead a <em>determinable quality, </em>which all objects which elicit <em>E</em> can be said to possess.</p><p align="left">3) <em>x </em>will therefore also believe that <em>y</em> has certain <em>determinate qualities</em> ψ and that it is due to these that <em>y</em> has the determinable Φ.</p><p align="center"><span style="color: rgb(204, 153, 51);">(xy)(<strong>∃</strong>ψ)(<em>Exy</em> ⇒ B<em>xψy</em>)</span></p><p align="center"><span style="color: rgb(204, 153, 51);"></span></p><p align="left">
