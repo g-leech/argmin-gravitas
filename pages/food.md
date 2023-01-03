@@ -84,14 +84,18 @@ visible:    false
 <!-- * Antonínovo pekařství, Prague -->
 * San Crispino, Grom, Venchi, Giolitti, Rome
 * Castizo, CDMX
+* El Califa, CDMX
 * Chilpa, CDMX
-* Chinampa, CDMX
-* Chilaquiles del Barrio, CDMX
-* Frutos prohibidos, CDMX
+<!-- * Chinampa, CDMX -->
+<!-- * Chilaquiles del Barrio, CDMX -->
+<!-- * Frutos prohibidos, CDMX -->
 * Pujol, CDMX
-* Plantasia, CDMX
+<!-- * Plantasia, CDMX -->
+* Nueve Nueve, CDMX
 * Areperia, CDMX
-<!-- * Nueve Nueve, CDMX -->
+* Azul Condesa, CDMX
+
+<br>
 
 ## Cuisines
 
