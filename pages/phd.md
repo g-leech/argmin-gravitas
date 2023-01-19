@@ -10,6 +10,7 @@ visible:	false
 {%	assign acs = "https://www.alignmentforum.org/posts/H5iGhDhQBtoDpCBZ2/announcing-the-alignment-of-complex-systems-research-group"	%}
 {%	assign psy = "https://socialsciences.nature.com/posts/reversals-in-psychology"		%}
 {%	assign fo = "https://forrt.org/reversals"		%}
+{%	assign wiki = "https://en.wikipedia.org/wiki/AI_alignment"		%}
 
 
 I'm interested in keeping an eye on AI. By a stroke of luck my PhD advisor is <a href="{{la}}">Laurence Aitchison</a>. I'm at the Interactive Artificial Intelligence Centre for Doctoral Training at the University of Bristol.<br><br>
@@ -43,9 +44,7 @@ The original plan has passed to a colleague, but I'll be back.
 
 ### AI safety
 
-<a href="/ai-risk">Here's my sceptic's guide to AI risk</a>. (For relative sceptics.)
-
-I currently work with the <a href="{{acs}}">Alignment of Complex Systems Group</a>, Charles University.
+<a href="/ai-risk">Here's my sceptic's guide to AI risk</a>. (For relative sceptics.) I also contributed a couple thousand words to the <a href="{{wiki}}">main wiki page</a>. I currently work with the <a href="{{acs}}">Alignment of Complex Systems Group</a>, Charles University.
 
 At the first AI Safety Camp I worked with a team on inverse reinforcement learning, <a href="/grids">designing environments</a> to help us probe the limits of such reward learning. Our work was reused by a <a href="{{krak}}">team</a> at Deepmind and in an <a href="{{aies}}">AIES paper</a>. 
 

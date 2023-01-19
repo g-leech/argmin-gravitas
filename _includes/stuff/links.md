@@ -1,4 +1,6 @@
-{%	assign c2w = "https://www.cyclescheme.co.uk/calculator"		%}
+{%  assign cool = "https://kk.org/cooltools/" %}
+{%  assign kk = "https://ipfs.io/ipfs/bafykbzaceacb636do3cnezuflvw6fk7z7a5foki4pyyebobgfnr4hwckedcok?filename=recomendo-500-brief-reviews-of-cool-stuff-kevin--annas-archive--zlib-5305312.pdf"    %}
+{%  assign c2w = "https://www.cyclescheme.co.uk/calculator"		%}
 {%	assign dahon = "https://www.bikefolded.com/dahon-espresso-d24-folding-bike-review/"	%}
 {%	assign green = "https://www.bulkpowders.co.uk/complete-greens.html"		%}
 {%	assign oxy = "https://www.amazon.co.uk/Vicks-Micromist-Nasal-Pump-Spray/dp/B004GKG6MQ/"	%}
@@ -29,6 +31,7 @@
 {%	assign sam = "https://medium.com/@s8mb/things-i-recommend-you-buy-and-use-second-edition-457a8e7163f6"	%}
 {%	assign haw = "https://www.hawesandcurtis.co.uk/menswear/shirts"		%}
 {%	assign lw = "https://www.lesswrong.com/posts/3ibmxAsvmFftXmYHX/less-wrong-product-and-service-recommendations"	%}
+{%  assign tw = "https://twitter.com/g_leech_/status/1608799729537912832"   %}
 {%	assign q = "https://queal.com/shop/steady-standard/"		%}
 {%	assign pcs = "https://www.pcspecialist.co.uk/thin-light-laptops/"	%}
 {%	assign msg = "https://www.amazon.co.uk/Ajinomoto-MONOSODIUM-GLUTAMATE-454G-1LB/dp/B0050O7N4C/ref=sr_1_2?dchild=1&keywords=msg&qid=1586602913&sr=8-2"	%}
@@ -71,3 +74,4 @@
 {%	assign v = "https://vitalik.ca/general/2022/06/20/backpack.html"		%}
 {%  assign en = "https://samenright.com/2022/09/21/things-i-recommend-you-buy-and-use-sam-edition/"      %}
 {%  assign alac = "https://alacritty.org/" %}
+{%  assign conner = "https://andrewconner.com/recommendations/things/"    %}

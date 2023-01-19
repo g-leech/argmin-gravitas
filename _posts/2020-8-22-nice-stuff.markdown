@@ -35,6 +35,9 @@ categories: self-help, lists, quantification,
 
 ## Health
 
+* <a href="{{tw}}">Bag of travel meds</a>. No brainer. Besides saving yourself 1-2 days of misery a year, you can also save your unprepared friends, which for me was 3 times last year.
+_Cost per year_: £20.
+
 * <a href="{{bow}}">Bowflex SelectTech 552</a> dumbbell (£180). By my desk; much harder to avoid than the gym. 15 dumbbells in one. I love how little space they take, and the design is extremely satisfying. You can get by with one.<br>
 _Expected lifespan_: 15 years?<br>
 _Cost per year_: £12.
@@ -258,6 +261,7 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 
 # See also
 
+* <a href="{{kk}}">Kevin Kelly</a> <a href="{{cool}}">and friends</a>
 * <a href="{{use}}">1000 nerds</a>
 * <a href="{{scott}}">Scott</a> <a href="{{alex}}">Alexander</a>
 * <a href="{{rob}}">Rob Wiblin</a>
@@ -276,6 +280,7 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 * <a href="{{ben}}">Louis being mean</a>
 * <a href="{{spencer}}">Spencer's joy</a>
 * <a href="{{james}}">James Aung</a>
+* <a href="{{conner}}">Andrew Conner</a>
 * <a href="{{dmn}}">David Megins-Nicholas</a>
 * <a href="{{better}}">100 bookish types</a>
 * <a href="{{mm}}">Megan McArdle's kitchen</a>
