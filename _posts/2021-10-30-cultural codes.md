@@ -157,7 +157,10 @@ You need to start with the greatest (or the most accessible greats) so that you 
 
 Finding critics you can trust helps, because their activity consists in taking the unwritten and writing it down. (Obviously they never fully succeed.) Outside literature, academics are often surprisingly poor critics.
 
-Once you know the canon, you can get the _allusions_, and you can understand the principal components, the ways instances are supposed to vary.<br><br>
+Once you know the canon, you can get the _allusions_, and you can understand the principal components, the ways instances are supposed to vary.
+
+Note that I do not mean the vanilla starter-pack consensus canon! For instance, learning about great cinema through Oscar Best Pictures would be a terrible idea. Nor do I mean the dumb hipster inversion of it.
+<br><br>
 
 
 ### 2. Jargon, conventions, techniques

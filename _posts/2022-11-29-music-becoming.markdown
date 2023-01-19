@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "the music"
+title:      "the knife without a hilt"
 baselink:   /music
 permalink:  /music
 date:       2022-12-29
@@ -20,7 +20,7 @@ argument:
 where:      "Garmouth"
 ---
 
-To be into music above a certain level implies there was something wrong with you. That it filled in for thinking, talking, or loving.
+To be into music above a certain level more or less implies there was something wrong with you. It filled in for thinking, or talking, or loving.
 
 <br>
 
