@@ -40,7 +40,7 @@ visible:	true
 	</li>
 	<br>
 	<li>
-		<a href="/">this site is for essays</a>
+		<a href="/">this site is for essays</a>. None of the text is computer-generated unless explicitly indicated.
 	</li>
 </ul>
 

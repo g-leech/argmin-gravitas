@@ -43,8 +43,6 @@ visible:    false
 
 </style>
 
-For an overview, it's probably easier to <a href="{{gr}}">look on Goodreads</a>.
-
 <br>
 
 <div class="accordion">

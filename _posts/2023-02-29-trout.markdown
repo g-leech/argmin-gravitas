@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "Cracking <i>Trout Mask Replica</i>"
+baselink:   /trout
+permalink:  /trout
+date:       2023-02-06
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+
+summary:    
+confidence: 
+quality:    
+importance: 
+emotion:    
+wordcount:  
+argument:   
+warnings:   
+where:      "Bristol"
+---
+
+
+The first bit is noticing that _they are doing whatever this is on purpose_. They are perfectly capable of [beautiful songs](https://open.spotify.com/track/0FQcRQEGbJjNny5G0A2hle?si=5196a9bcd8654708), pop songs, [jukebox songs](https://open.spotify.com/track/7tWQKJnPrHVxB6MnoBivgb?si=52dbff85dfba4695), dance music, of love and being loved.
+
