@@ -35,7 +35,8 @@ categories: self-help, lists, quantification,
 
 ## Health
 
-* <a href="{{tw}}">Bag of travel meds</a>. No brainer. Besides saving yourself 1-2 days of misery a year, you can also save your unprepared friends, which for me was 3 times last year.
+* <a href="{{tw}}">Bag of travel meds</a> (£20). Many discomforts are now optional.
+No brainer. Paracetamol/ibuprofen lysine/aspirin/melatonin/ACC/loratadine/loperamide/calcium carbonate. Besides saving yourself 1-2 days of misery a year, you can also save your unprepared friends, which for me was 3 times last year.<br>
 _Cost per year_: £20.
 
 * <a href="{{bow}}">Bowflex SelectTech 552</a> dumbbell (£180). By my desk; much harder to avoid than the gym. 15 dumbbells in one. I love how little space they take, and the design is extremely satisfying. You can get by with one.<br>
@@ -75,9 +76,8 @@ _Cost per year_: £50 if you have space / £250 if renting a space with two othe
 		<i>Expected lifespan</i>: 3 years?
 	</div>
 </div>
-<br>
+<br><br>
 
-* Travel medicine (£15 / year). Many discomforts are now optional. When I travel a carry a little bag of pills: paracetamol/ibuprofen/aspirin/lysine form for migraines + melatonin + ACC + loratadine + loperamide + calcium carbonate. This is nice enough for myself, but every trip I find myself giving some to a fellow.
 
 * <a href="{{dahon}}">Dahon Espresso D24</a> folding bike (<a href="{{c2w}}">£320</a> on the Cycle To Work scheme, down from £530). Full size wheels and front suspension: fine for offroad. Folding means you can take it on trains, subways and car boots despite the size. The wheels it comes with are ridiculously thick, but you can get road ones. Probably saves me about 100 hours a year walking, and also gives me joy. I loved the old version, which had <a href="{{pump}}">a bike pump</a> hidden in the seat column. <br>
 _Expected lifespan_: 10 years light use with £100 annual service. <br>

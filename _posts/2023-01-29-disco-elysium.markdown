@@ -10,17 +10,20 @@ img:        /img/thought2.png
 visible:    1
 published:  false
 
-summary:    
+summary:    On the best work of political fiction of recent decades.
 confidence: 
 quality:    
 importance: 
 emotion:    
 wordcount:  
 argument:   
+warnings:   Minor spoilers throughout.
 where:      "Bristol"
 ---
 
 {%   assign thought = "/img/fullthought.jpg"   %}
+{%   assign baby = "https://genius.com/Against-me-baby-im-an-anarchist-lyrics"   %}
+
 
 
 <a href="{{thought}}" target="_blank">
@@ -48,7 +51,7 @@ where:      "Bristol"
 <br><br>
 
 
-A new game of _Disco Elysium_ presents you immediately with 24 bizarre skills, half of which you can't vaguely understand the function of. The script is about <a href="https://www.dualshockers.com/disco-elysium-script-length-one-million-words/">2000</a> pages long. The soundtrack screeches at you. In one sense it took <a href="https://www.articy.com/en/showcase/disco-elysium/">19 years</a> to make.
+A new game of _Disco Elysium_ presents you immediately with 24 bizarre skills, half of which you can't vaguely understand the function of. The script is about <a href="https://www.dualshockers.com/disco-elysium-script-length-one-million-words/">2000</a> pages long. The soundtrack screeches at you. In a real sense it took <a href="https://www.articy.com/en/showcase/disco-elysium/">19 years</a> to make.
 
 <!-- > Cuno... was rewritten 20 different times, thanks to the input of multiple perspectives -->
 
@@ -58,7 +61,10 @@ A new game of _Disco Elysium_ presents you immediately with 24 bizarre skills, h
 
 It is yet another lesson, if you needed one, that there is no genre so overdone, no trope too passe, that a great artist cannot wring more greatness out of. DE is a whodunnit with an amnesic protagonist for fuck's sake!
 
+In art, nothing is ruined, nothing is useless, nothing is meaningless. This is one reason it can never be realistic.
+
 Existentialism and post-marxism and Lucian Freud art and post-rock ambience
+
 <br>
 
 It's the sort of thing people wrongly call pretentious, because people don't get that pretension is about _pretence_: pretending to be deeper than you are. Being abstruse isn't enough. More politically sophisticated than most books, more psychologically deep. It's melancholy but not self-pitying and not life-denying. It's cynical but not sneering and not unkind. The grail.
@@ -123,7 +129,9 @@ Kurvits and Hindpere are not idiots. They know that monsters usually abuse the r
 
 To my surprise they depict the union as extremely ambiguous. A giant giga-racist is their bouncer.
 
-They give Wild Pines the extremely sympathetic and genre-savvy Joyce. But then they go even further and show us Dros, who was made into a monster, a terrifying Templar with a totalised mind.
+They give Wild Pines the extremely sympathetic and genre-savvy Joyce. But then they go even further and show us Dros, who was made into a monster, a terrifying Templar with a mind completely poisoned by ideology.
+
+(Bit crazy for a critique of ideology to come from avowed communists in a country devastated by actually-existing communism, but again they are artists, they can be more than themselves.)
 
 
 <br><br>
@@ -172,7 +180,7 @@ the struggle to reconstruct a personality amidst the ruins of society
 
 ### Europe. 
 
-It's very European - the writers steal stereotypes and words from all over the place, but smear them. Revachol is New Orleans, East Berlin, Haiti. No one is married. It used to be the center of the world. Maybe Paris - the seething banlieue spirit, wallowing but also completely willing to punch an authority in the face.
+It's very European - the writers steal stereotypes and words from all over the place, but smear them. Revachol is Berlin 1946, East Berlin 1975, Haiti, New Orleans. No one is married. It used to be the center of the world. Maybe Paris - the seething banlieue spirit, wallowing but also completely willing to punch an authority in the face.
 
 Sunday Friend is a indictment of the EU. 
 
@@ -183,9 +191,35 @@ https://en.wikipedia.org/wiki/Europa_regina
 
 <br><br>
 
-### Humanism and international capital. 
+### The system of the world
+
+If the world can even be said to have a system, it is Humanism (bourgeois morality, rights) plus neoliberalism (international capital) plus nationalism (which is actually portrayed quite positively, as the post-commune Revachol demi-pride of Kim and many others).
+
+
 
 > “Instead of building Communism, he now builds a precise model of this grotesque, duplicitous world.”
+
+
+What _is_ the relationship between ultraliberalism and Moralism? (Capitalism and humanism.) How do they share power? Are they the same thing, is one a mask for the other to operate more freely with a good conscience?
+
+This is probably their weakest treatment of a big ideology, because it fails to note any common ground between centrism and leftism - the fucking labour movement being the obvious one, human rights, antiwar. Even a cartoonish punk band of 20 year olds can do <a href="{{baby}}">better</a> than this ("We marched together for the eight-hour day / and held hands in the streets of Seattle.")
+
+Against this, we have their loving portrait of Kim, the sincere, decent, principled Moralist. The icon of self-control and the good side of the professions and the institutions. If commie cop is in some ways the natural path for you to take Harry, every playthrough will have the same Kim.
+
+Their main valid jab is at the hypocrisy of institutional humanism. We killed hundreds of thousands of Iraqis, or got them killed, in the name of freedom, democracy, human rights, education, etc.
+
+> The First World War was, like the abattoir in Vietnam, quite describable as a liberals’ war. Any medium-run view of history will show that it did more damage to ‘Western civilisation’ than any form of ideology, not least in clearing the very path, through the ruins and cadavers, along which totalitarians could later instate and militarise themselves...  Yet I think it’s clear... that it was the disturbance to the natural order that made the young Isaiah tremble and flinch... Ignatieff is surely right to say that the episode with the arrested policeman ‘continued to work within Berlin, strengthening his horror of physical violence and his suspicion of political experiment’. But it would have been more precise to say: only for certain sorts of physical violence and political experiment. Policemen are supposed to control crowds, not crowds policemen. Vietnam, for example, was not just an instance of horrific premeditated violence. It was a laboratory experiment run by technician-intellectuals and academic consultants, who furnished us with terms like ‘interdict’, ‘relocate’, ‘body count’ and ‘strategic hamlet’. To cope with the ensuing calamity, the Bundys and McNamaras later evolved the view that, while the war might have been a blunder, the error could, for reasons of state and for reasons of face, not be admitted. In this, too, they were seconded by Berlin. 
+
+https://www.lrb.co.uk/the-paper/v20/n23/christopher-hitchens/moderation-or-death
+
+All we can say is that it murders less. We mustn't say this proudly.
+
+
+McCloskey. Growth and moral generosity.
+
+
+Reddit on the ultra ending: "These complaints all feel sort of thematically fitting to the whole moralist attitude. Nothing happens, nothing changes, nothing improves. Everything just fizzles out."
+
 
 The Chomskyan vice of assuming that every event and every I'll has a designer. Obviously a Western designer or a Western puppet. Haiti is one exception. 
 
@@ -193,7 +227,7 @@ They don't do quite as well on fascism or neoliberalism or centrism. But still a
 
 
 
-You could reconstruct the great dialogue tree... in dozens of choose-your-own adventure paper books.
+You _could_ reconstruct the great dialogue tree... in dozens of choose-your-own adventure paper books.
 
 
 > You: If communism keeps failing every time we try it...
@@ -227,10 +261,14 @@ Steban: I guess you could say we believe it *because it's impossible*. (he looks
 
 ## Life imitates art
 
-The buyout of DE _after_ its initial 2019 success.
+> Capital has the ability to subsume all critiques into itself. Even those who would *critique* capital end up *reinforcing* it instead...”
+
+<br>
+
+The game is greatly enhanced by the extremely on-the-nose drama that befell the studio: they suffered something like a hostile takeover _after_ its initial 2019 success attracted the sharks. The details are hazy, behind the standard totally opaque walls of commerce. Was Kender an Ephialtes?
 
 
-Capitalist realism, brought to you by [the creators](https://www.dj2entertainment.com/blog/https/varietycom/2020/tv/news/disco-elysium-tv-series-1234690455) of "Sonic the Hedgehog: The Movie" (2020)
+This dark comedy is ready to birth a domino comedy: capitalist realism, brought to you by [the creators](https://www.dj2entertainment.com/blog/https/varietycom/2020/tv/news/disco-elysium-tv-series-1234690455) of "Sonic the Hedgehog: The Movie" (2020).
 
 <br>
 

@@ -147,6 +147,8 @@
 			https://stefanfschubert.com/blog
 			<br>
 			https://blog.cerebralab.com/
+			<br>
+			https://milkyeggs.com/
 		</div>
 	</div>
 </div>

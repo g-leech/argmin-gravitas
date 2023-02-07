@@ -11,6 +11,7 @@ visible:	true
 {%  assign hh = "https://open.spotify.com/playlist/3xZIFXJRzzaDSXkrybc2gz?si=b2d6bfd43e2e42ae" %}
 {%  assign gam = "https://backloggd.com/u/glee/games/user-rating/" %}
 {%  assign boa = "https://boardgamegeek.com/collection/user/gleec?subtype=boardgame&ff=1" %}
+{%  assign tv = "https://srlzd.com/u/gleec"    %}
 
 ## Listen
 
@@ -33,14 +34,22 @@ visible:	true
 
 <br>
 
+## Gawk
+
+* <a href="{{filum}}">Films</a>
+* <a href="{{filum}}">tv</a><br><br>
+* <a href="/specie">Species</a><br><br>
+* <a href="{{gam}}">Games</a>, <a href="{{boa}}">games</a><br><br>
+* art
+* photography
+
+<br>
+
 ## Misc
 
 * <a href="/food">Food</a><br><br>
 * <a href="/stuff">Goods</a><br><br>
 * <a href="/deaths">Obituaries</a><br><br>
-* <a href="{{filum}}">Films</a><br><br>
-* <a href="/specie">Species</a><br><br>
-* <a href="{{gam}}">Games</a>, <a href="{{boa}}">games</a><br><br>
 * <a href="/favs/all">Misc</a>
 
 
