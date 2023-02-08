@@ -180,7 +180,7 @@ the struggle to reconstruct a personality amidst the ruins of society
 
 ### Europe. 
 
-It's very European - the writers steal stereotypes and words from all over the place, but smear them. Revachol is Berlin 1946, East Berlin 1975, Haiti, New Orleans. No one is married. It used to be the center of the world. Maybe Paris - the seething banlieue spirit, wallowing but also completely willing to punch an authority in the face.
+It's very European - the writers steal stereotypes and words from all over the place, but smear them. Revachol is Berlin 1946, East Berlin 1975, Haiti, New Orleans 2005. No one is married. It used to be the center of the world. Maybe Paris - the seething banlieue spirit, wallowing but also completely willing to punch an authority in the face.
 
 Sunday Friend is a indictment of the EU. 
 
@@ -195,12 +195,31 @@ https://en.wikipedia.org/wiki/Europa_regina
 
 If the world can even be said to have a system, it is Humanism (bourgeois morality, rights) plus neoliberalism (international capital) plus nationalism (which is actually portrayed quite positively, as the post-commune Revachol demi-pride of Kim and many others).
 
-
-
 > “Instead of building Communism, he now builds a precise model of this grotesque, duplicitous world.”
 
 
 What _is_ the relationship between ultraliberalism and Moralism? (Capitalism and humanism.) How do they share power? Are they the same thing, is one a mask for the other to operate more freely with a good conscience?
+
+> Joy, beautiful spark of divinity,
+Daughter of Elysium,
+We enter, drunk with fire,
+Heavenly one, thy sanctuary!
+Thy magic binds again
+What custom strictly divided;
+All men become brothers
+Where thy gentle wing rests.
+
+> Be embraced, Millions!
+This kiss to all the world!
+Brothers, above the starry canopy
+There must dwell a loving Father.
+Are you collapsing, millions?
+Do you sense the creator, world?
+Seek him above the starry canopy!
+Above stars must He dwell.
+
+- <a href="https://en.wikipedia.org/wiki/Anthem_of_Europe">Euro</a>
+<br>
 
 This is probably their weakest treatment of a big ideology, because it fails to note any common ground between centrism and leftism - the fucking labour movement being the obvious one, human rights, antiwar. Even a cartoonish punk band of 20 year olds can do <a href="{{baby}}">better</a> than this ("We marched together for the eight-hour day / and held hands in the streets of Seattle.")
 
