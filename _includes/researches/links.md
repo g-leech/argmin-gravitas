@@ -1,6 +1,7 @@
+{%  assign talent = "https://psyarxiv.com/gq9r6"  %}
 {%	assign goog = "https://scholar.google.com/citations?user=xC-v_aUAAAAJ"		%}
 {%	assign orcid = "https://orcid.org/0000-0002-9298-1488"		%}
-{%	assign bris = "http://www.bristol.ac.uk/engineering/people/gavin-l-leech/overview.html"	%}
+{%	assign bris = "https://www.bristol.ac.uk/people/person/Gavin-Leech-16c2a616-ecbe-4d2d-90d7-87bc3252aa02"	%}
 {%	assign covid = "https://www.science.org/doi/10.1126/science.abd9338"		%}
 {%	assign coviddata = "https://www.nature.com/articles/s41597-022-01175-y"		%}
 {%	assign neurips_covid = "https://papers.nips.cc/paper/2020/file/8e3308c853e47411c761429193511819-Paper.pdf"	%}
