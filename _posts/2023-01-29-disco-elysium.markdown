@@ -326,7 +326,7 @@ But what _is_ the relationship between ultraliberalism (capitalism) and Moralism
 
 I don't think the game has the answers. It's probably their weakest treatment of the big ideologies, because it fails to note _any_ common ground between centrism and leftism - the fucking labour movement being the obvious one, human rights, antiwar, [growth](http://fayde.co.uk/dialojue/3621637). Even a cartoon punk band of 20 year olds can do <a href="{{baby}}">better</a> than that ("_We marched together for the eight-hour day / and held hands in the streets of Seattle._")
 
-Against the general dismissal and othering of liberals, we have to note KHTK's loving portrait of Kim, the sincere, decent Moralist - whose portrait, on screen for most of the game, wears <a href="https://static.wikia.nocookie.net/disco-elysium/images/7/77/Kim-kitsuragi.jpg/revision/latest?cb=20191217202813">an actual halo</a>. The icon of self-control and the good side of the professions and the institutions. If commie cop is in some ways the natural path for you to take Harry, every playthrough will have the same Kim.
+Against the general dismissal and othering of liberals, we have to note KHTK's loving portrait of Kim, the sincere, decent Moralist - whose portrait, on screen for most of the game, wears <a href="https://static.wikia.nocookie.net/disco-elysium/images/7/77/Kim-kitsuragi.jpg">an actual halo</a>. The icon of self-control and the good side of the professions and the institutions. If commie cop is in some ways the natural path for you to take Harry, every playthrough will have the same Kim.
 
 <!-- "stable shape compared to the blurry smears of colour we see in other portraits, which indicates Kim's role as an anchor"  -->
 
