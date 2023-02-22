@@ -20,6 +20,11 @@ wordcount:  2200
 argument:	agi-intro/argument.html
 ---
 
+
+{%	assign zhang = "https://arxiv.org/abs/2206.04132" %}
+{%	assign katja2 = "https://aiimpacts.org/what-do-ml-researchers-think-about-ai-in-2022/"	%}
+{%	assign fana = "https://ora.ox.ac.uk/catalog/uuid:822703dc-56ba-4717-98b4-663d251e8acb/download_file?file_format=application%2Fpdf&safe_filename=Kosonen_2022_Tiny_probabilities_of.pdf"	%}
+{%	assign anthro = "https://arxiv.org/pdf/2212.09251.pdf"	%}
 {%	assign lp = "https://online-optimizer.appspot.com/?model=builtin:default.mod"	%}
 {%	assign eh = "https://en.wikipedia.org/wiki/Death_of_Elaine_Herzberg"		%}
 {%	assign gcoin = "https://www.google.com/search?q=0.5%5E5" %}
@@ -53,11 +58,12 @@ Could AI be a risk to humans? Well it already is:
 
 * <a href="{{eh}}">Elaine Herzberg</a> was killed by an Uber self-driving car, while walking her bike across a pedestrian crossing. The system couldn't decide if she was a bike or a person, and the switching between these two possibilities confused it. Uber had disabled the Volvo automatic braking system. (It was slowing them down.)
 
-* <a href="{{robo}}">About one in 100</a> robot surgeries involve accidents; about 20% of these were what we'd call AI failures (things turning on at the wrong moment, or off, or misinterpreting what it sees). (This seems to be lower than the human rate.)
+* <a href="{{robo}}">About one in 100</a> robot surgeries involve accidents; about 20% of these were what we'd call AI failures (things turning on at the wrong moment, or off, or misinterpreting what it sees). 
+<!-- (This seems to be lower than the human rate.) -->
 
 * Consider also things like the <a href="{{zi}}">Ziyan Blowfish</a>, an autonomous Chinese military drone currently under export to the Middle East.
 
-* <a href="{{aiaa}}">Here's a list of relatively bad things that have happened.</a>
+* <a href="{{aiaa}}">Here's a list of other relatively bad cases.</a>
 
 <br>
 
@@ -78,21 +84,22 @@ We don't know. They don't exist, so we can't study them and work it out. Here's 
 5. Not many people are working on this. (<a href="/acais"><500</a>)
 6. So it's probably worth working on.
 
-In particular, your starting guess for _P(soon & dangerous & difficult)_ should be at _least_ 3%.
-
-I just put a number on the risk of this unknown thing. How?
+In particular, I claim that your starting guess for _P(soon & dangerous & difficult)_ should be at _least_ 3%. I just put a number on this unknown risk. How?
 
 Well, [we](https://arxiv.org/pdf/1705.08807.pdf) surveyed 350 mainstream AI researchers in 2017.
 
-* Median P of AGI within a century: 75% 
-* Median P of “extremely bad” outcome (human extinction, loss of governance, or worse): 5%
-* Median P of safety being as hard or harder than capabilities: 75%
+* Their median P of AGI within a century: 75% 
+* Their median P of “extremely bad” outcome (human extinction, loss of governance, or worse): 5%
+* Their median P of safety being as hard or harder than capabilities: 75%
 
-If we illicitly multiply these, we get a prior of a 3% chance of catastrophic AGI this century.
+If we illicitly multiply these, we get a prior of a 3% chance of catastrophic AGI this century. <a href="#fn:1" id="fnref:1">1</a>
 
-This is weak evidence! AI researchers are <a href="{{arm}}">notoriously bad</a> at predicting AI; they're probably biased in lots of ways (e.g. biased against the idea that what they're working on could be morally wrong; e.g. biased in favour of AGI being soon).
+Now, this is weak evidence! AI researchers are <a href="{{arm}}">notoriously bad</a> at predicting AI; they're probably biased in lots of ways (e.g. biased against the idea that what they're working on could be morally wrong; e.g. biased in favour of AGI being soon).
 
-But you should go with 3% until you think about it more than them.
+But you should go with 3% until you think about it more than them. <a href="#fn:2" id="fnref:2">2</a>
+
+
+<br>
 
 <div class="accordion">
 	<h3>3% is small!</h3>
@@ -120,6 +127,8 @@ But you should go with 3% until you think about it more than them.
 
 <br>
 
+
+
 ---
 
 <br>
@@ -135,6 +144,8 @@ In the study of viruses and bacteria, there's a thing called "Gain of function" 
 
 [We have started to use AI to speed up AI development.](https://www.lesswrong.com/posts/W3tZacTRt4koHyxbr/examples-of-ai-increasing-ai-progress)
 
+<br>
+
 #### We're getting there.
 
 GPT-3 displays <a href="{{gpt}}">quite a bit</a> of common-sense, an extremely hard open problem. We will probably pass the Turing test within 15 years. 
@@ -143,6 +154,14 @@ We've already passed a number of other <a href="{{glue}}">classic benchmarks</a>
 
 OpenAI, the people who made GPT-3, were polled. Their median guess for when AGI was <a href="{{oai}}">15 years</a>.
 
+We have greatly expanded the size of our models in the last five years. The AI lab Anthropic <a href="{{anthro}}">note that some problems</a> (or attestations of problems) get worse with larger models
+
+> Larger LMs more often give answers that indicate
+a willingness to pursue potentially dangerous
+subgoals (Omohundro, 2008): resource acquisition,
+optionality preservation, goal preservation, powerseeking, and more 
+
+<br>
 
 ### Indirect evidence of danger
 
@@ -299,6 +318,7 @@ Our societies are increasingly vulnerable to hacking. Last month someone tried t
 
 The American nuclear launch code was, for 20 years, "<a href="{{giz}}">0000000</a>". Here's a [long list](https://nintil.com/ai-safety/#cybersecurity) of past incidents, some more worrying than others. What else is currently wide open?
 
+<br>
 
 #### Maximisers are risky
 
@@ -321,7 +341,9 @@ Again, all of the best current systems are maximisers.
 
 #### Theoretical risk
 
-People have come up with [real but unrealistically slow](https://en.wikipedia.org/wiki/AIXI) algorithms for general intelligence published: [each](https://ojs.aaai.org/index.php/aimagazine/article/view/15084) implies an attempt to gain arbitrary power. Assuming that such models tell us anything about computationally tractable systems which will approximate them, we find weak reason to think that the default outcome is unsafe.
+People have come up with [real but unrealistically slow](https://en.wikipedia.org/wiki/AIXI) algorithms for general intelligence: [each](https://ojs.aaai.org/index.php/aimagazine/article/view/15084) of them entail an attempt to gain arbitrary power. 
+
+So if we assume that such models tell us _anything_ about the tractable systems which will approximate them, we have weak reason to think that the default outcome is unsafe.
 
 <br>
 
@@ -340,6 +362,7 @@ Consider the following possible reactions to an instruction:
 
 Until we understand intelligence better, we need to give some weight to each of these. Only (2) could be safe (once we also solve the problem of humans meaning harm).
 
+<br><br>
 
 ### The mess of society
 
@@ -377,7 +400,7 @@ And huge questions I didn't even mention:
 <br>
 
 
-Overall, my guess of this turning out terrible is 15%. One round of Russian roulette.
+Overall, my guess of this turning out terrible is 20%. One round of Russian roulette.
 
 
 ---
@@ -412,3 +435,22 @@ Most of the above are other people's ideas.
 
 
 <br>
+
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+    	The <a href="{{katja2}}">2022</a> numbers are similar (n=737).<br><br>
+<!--  -->
+    	<a href="{{zhang}}">See also</a>.
+	</li>
+<!--  -->
+	<li class="footnote" id="fn:2">
+		Importantly, this whole-number percentage takes us out of the extremely dodgy realm of Pascal's wager and '<a href="{{fana}}">fanaticism</a>'.
+	</li>
+</ol>
+
+</div>

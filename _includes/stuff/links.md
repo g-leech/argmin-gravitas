@@ -75,3 +75,4 @@
 {%  assign en = "https://samenright.com/2022/09/21/things-i-recommend-you-buy-and-use-sam-edition/"      %}
 {%  assign alac = "https://alacritty.org/" %}
 {%  assign conner = "https://andrewconner.com/recommendations/things/"    %}
+{%  assign arjun = "https://arjunpanickssery.substack.com/p/stuff-i-recommend-you-use" %}

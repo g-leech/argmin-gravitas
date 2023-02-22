@@ -285,6 +285,7 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 * <a href="{{better}}">100 bookish types</a>
 * <a href="{{mm}}">Megan McArdle's kitchen</a>
 * <a href="{{yuriy}}">Yuriy 1</a>, * <a href="{{yuriy2}}">Yuriy 2</a>
+* <a href="{{arjun}}">Arjun Panickssery</a>
 * <a href="{{schif}}">Ben Schifman</a>
 * <a href="{{berg}}">Aaron Bergman</a>
 * <a href="{{v}}">Vitalik on tour</a>

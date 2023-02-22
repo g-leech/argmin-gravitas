@@ -54,7 +54,7 @@ where:      "Bristol"
 <!-- - John Peel -->
 
 
-> "Every school of thought and government has failed in this city — but I love it nonetheless. It belongs to me as much as it belongs to you.”
+> Every school of thought and government has failed in this city — but I love it nonetheless.
 
 <center>– <a href="{{kim}}">Kim</a></center>
 
@@ -66,7 +66,7 @@ where:      "Bristol"
 
 <br>
 
-> "[The world] is such a precarious place. Nothing ever works out the way you wanted. That’s why people like role-playing games. You can be whoever you want to be. You can try again."
+> Nothing ever works out the way you wanted. That’s why people like role-playing games. You can be whoever you want to be. You can try again.
 
 <center>– <a href="{{dice}}">Novelty Dicemaker</a></center>
 
@@ -207,7 +207,7 @@ The remarkable thing is that KHTK can depict humanity's prey relationship to ide
 
 ### Gettier superstitions
 
-> "We're big fans of Émile Zola but if there's one thing he leaves out, it’s the supernatural. we live in a world where, even in the C21st we don't really understand what's happening... I think in order to truly represent life realistically, you have to have a complete unknown."
+> We're big fans of Émile Zola but if there's one thing he leaves out, it’s the supernatural. we live in a world where, even in the C21st we don't really understand what's happening... I think in order to truly represent life realistically, you have to have a complete unknown.
 
 <center>– <a href="{{inverse}}">Helen Hindpere</a></center>
 
@@ -231,7 +231,7 @@ To my surprise _DE_ depicts the union as extremely ambiguous. (One of your first
 
 ### Ambivalence towards art and work
 
-The script has some contempt for the rave babblers and the idiot edginess of the <a href="">Skulls</a>. People who mistake artistic shock for a political statement. 
+The script has some contempt for the rave babblers and the idiot edginess of the Skulls. People who mistake artistic shock for a political statement. (TODO: write about how the idiot ravers are actually the heart of the story, the titular theme, living inside liberalism's ruins, hedonistic but wise.)
 
 The developers are represented throughout the game. The failure of <a href="http://web.archive.org/web/20160517101025/http://devblog.fortressoccident.com/">Fortress Accident</a> is their fear for their own fate. 
 
@@ -333,7 +333,7 @@ Against the general dismissal and othering of liberals, we have to note KHTK's l
 Kim aside, in the broader geopolitics of Elysium I smell the Chomskyan vice: assuming that every event and every ill has a designer. Obviously a Western designer or a Western puppet. <!-- Haiti is one exception.  -->
 
 
-The main valid jab is at the hypocrisy of institutional humanism. We killed hundreds of thousands of Iraqis, or got them killed, in the name of freedom, democracy, human rights, education, etc. This was not long ago and is not the most recent case.
+The main valid jab is at the hypocrisy of institutional humanism. We killed hundreds of thousands of Iraqis, or got them killed, in the name of freedom, democracy, human rights, education, etc. [We tortured many others](https://www.independent.co.uk/news/uk/politics/complicity-in-torture-the-case-against-the-united-kingdom-9922063.html). This was not long ago and is not the most recent case.
 
 > The First World War was, like the abattoir in Vietnam, quite describable as a liberals’ war. Any medium-run view of history will show that it did more damage to ‘Western civilisation’ than any form of ideology, not least in clearing the very path, through the ruins and cadavers, along which totalitarians could later instate and militarise themselves...  Yet I think it’s clear... that it was the disturbance to the natural order that made the young Isaiah tremble and flinch... it would have been more precise to say: [horror] only for certain sorts of physical violence and political experiment. Policemen are supposed to control crowds, not crowds policemen. Vietnam... was a laboratory experiment run by technician-intellectuals and academic consultants, who furnished us with terms like ‘interdict’, ‘relocate’, ‘body count’ and ‘strategic hamlet’. To cope with the ensuing calamity, the Bundys and McNamaras later evolved the view that, while the war might have been a blunder, the error could, for reasons of state and for reasons of face, not be admitted. In this, too, they were seconded by Berlin. 
 
