@@ -19,8 +19,8 @@ quality: 	8
 wordcount:  2200
 argument:	agi-intro/argument.html
 ---
-
-
+	
+{%	assign langl = "https://arxiv.org/abs/2102.07716"	%}
 {%	assign zhang = "https://arxiv.org/abs/2206.04132" %}
 {%	assign katja2 = "https://aiimpacts.org/what-do-ml-researchers-think-about-ai-in-2022/"	%}
 {%	assign fana = "https://ora.ox.ac.uk/catalog/uuid:822703dc-56ba-4717-98b4-663d251e8acb/download_file?file_format=application%2Fpdf&safe_filename=Kosonen_2022_Tiny_probabilities_of.pdf"	%}
@@ -236,8 +236,19 @@ The point of these examples are: We cannot write down exactly what we want. The 
 
 If we don't write down exactly what we want, then the system will find edge cases. They already do.
 
-The worst kind of cheating is <a href="{{danaher}}">treachery</a>: initially pretending to be aligned, then switching to dangerous behaviour when you can get away with it (for instance, after you've completely entrenched yourself). This seems less likely, since it requires more machinery (two goals, and hiding behaviour, and a second-order policy to decide between them), and requires us to not be able to fully inspect the system we "designed". But we can't fully inspect our current best systems, and it too has <a href="{{treac}}">already been observed</a> in a system not designed for deceit.
+<br>
 
+#### Deception
+
+The worst kind of cheating is <a href="{{danaher}}">treachery</a>: initially seeming aligned, then switching to dangerous behaviour when you can get away with it (for instance, after you've completely entrenched yourself). 
+
+On the face of it this seems less likely, since it requires more machinery (two goals, and hiding behaviour, and a second-order policy to decide between them), and requires us to not be able to fully inspect the system we "designed". But we can't fully inspect our current best systems, and it too has <a href="{{treac}}">already</a> <a href="{{langl}}">been observed</a> in systems not designed for deceit.
+
+Our current training paradigm can lead to undesirable behaviour being both disincentivised and [merely hidden](https://www.alignmentforum.org/posts/A9NxPTwbw6r6Awuwt/how-likely-is-deceptive-alignment), since it's the _display_ of the behaviour that gets penalized by the feedback process. We might thus be selecting against warning signs of misalignment.
+
+Naive response: "just severely penalize any hint of hidden goals". This only delays the problem, since such a penalty puts selection pressure on proportionally more _patient_ deception. The response also doesn't apply to tasks where human scoring of results is difficult (i.e. any long-range task with slow feedback loops or messy causal inference).
+
+One problem with this line of thinking is that it makes the exact same predictions as the inverse scenario, "AI is safe and has no power-seeking tendencies", right up until it's too late. This is the worst situation to be in, unless it's not.
 
 
 <br>
