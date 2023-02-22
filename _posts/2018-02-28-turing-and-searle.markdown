@@ -23,6 +23,7 @@ argument:	turing-searle/argument.md
 
 {%	assign crux = "https://en.wikipedia.org/wiki/Experimentum_crucis"		%}
 {%	assign discourse = "https://www.gutenberg.org/files/59/59-h/59-h.htm"		%}
+{%	assign atrd = "https://twitter.com/HaneMaung/status/1626688215544483861"	%}
 
 
 > <span style="font-weight:bold">SIMPLICIO</span>: ‘Some computer programs might be able to pass a Turing test, but that doesn’t provide any evidence that they can think. They might use all the right words, but that doesn’t mean they understand what the words mean.’
@@ -115,7 +116,7 @@ Despite Turing's inspiring attempt to sideline it, the metaphysics of mind is a 
 <!--  -->
 	<h3>Chomskyan Descartes </h3>
 	<div>
-		I can't miss the opportunity to pass on a Good Fact: the Turing Test <a href="{{discourse}}">was suggested</a> 300 years earlier by Rene Descartes!<br><br>
+		I can't miss the opportunity to pass on a Good Fact: the <a href="{{atrd}}">Turing Test</a> <a href="{{discourse}}">was suggested</a> 300 years earlier by Rene Descartes!<br><br>
 	<!--  -->
 		<blockquote>
 			If there were machines which bore a resemblance to our bodies and imitated our actions as closely as possible for all practical purposes, we should still have two very certain means of recognizing that they were not real men. <br><br>The first is that they could never use words, or put together signs, as we do in order to declare our thoughts to others. For we can certainly conceive of a machine so constructed that it utters words, and even utters words that correspond to bodily actions causing a change in its organs. … But it is not conceivable that such a machine should produce different arrangements of words so as to give an appropriately meaningful answer to whatever is said in its presence, as the dullest of men can do.<br><br> Secondly, even though some machines might do some things as well as we do them, or perhaps even better, they would inevitably fail in others, which would reveal that they are acting not from understanding, but only from the disposition of their organs. For whereas reason is a universal instrument, which can be used in all kinds of situations, these organs need some particular action; hence it is for all practical purposes impossible for a machine to have enough different organs to make it act in all the contingencies of life in the way in which our reason makes us act.
