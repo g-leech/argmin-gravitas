@@ -49,11 +49,10 @@ where:      "Bristol"
 <small><a href="{{thought}}" target="_blank">[click]</a></small>
 </center>
 
-<br>
+<br><br>
 
 <!-- > "If there has been anything in the history of popular music which could be described as a work of art in a way that people who are involved in other areas of art would understand, then Trout Mask Replica is probably that work" -->
 <!-- - John Peel -->
-
 
 > Every school of thought and government has failed in this city — but I love it nonetheless.
 
@@ -75,13 +74,13 @@ where:      "Bristol"
 <br><br>
 
 
-On launch, _Disco Elysium_ presents you with <a href="/img/discoskill.webp">24 bizarre skills</a>, half of which you can't even vaguely understand. The script is about <a href="https://www.dualshockers.com/disco-elysium-script-length-one-million-words/">2000</a> pages long. <!-- The soundtrack screeches at you.--> In a real sense it took <a href="https://www.articy.com/en/showcase/disco-elysium/">19 years</a> to make. The branching factor on most conversations is well above 1.
+On launch, _Disco Elysium_ presents you with <a href="/img/discoskill.webp">24 bizarre skills</a>, half of which you can't even vaguely understand. The script is about <a href="https://www.dualshockers.com/disco-elysium-script-length-one-million-words/">2000</a> pages long. <!-- The soundtrack screeches at you.--> In a real sense it took <a href="https://www.articy.com/en/showcase/disco-elysium/">19 years</a> to make. The branching factor on most conversations is well above 1. You _could_ reconstruct its <a href="http://fayde.co.uk/search?query=sorry&WordBoundaries=0&actor1=&actor2=&VariableSearch=0&commit=Search">great and vast dialogue tree</a> in a mere novel... if you printed dozens of choose-your-own adventure paper books with thousands of post-its inside. So, excessive.
+
 
 <img src="/img/DiscoElysium_Articy_Flow_HangedMan.jpg" />
 <br><center><small>Now imagine 10,000 screens like this</small></center>
 <br>
 
-You _could_ reconstruct its <a href="http://fayde.co.uk/search?query=sorry&WordBoundaries=0&actor1=&actor2=&VariableSearch=0&commit=Search">great and vast dialogue tree</a> in a mere novel... if you printed dozens of choose-your-own adventure paper books with thousands of post-its inside. So, excessive.
 
 <!-- > Cuno... was rewritten 20 different times, thanks to the input of multiple perspectives -->
 
@@ -138,7 +137,7 @@ some themes I've spotted so far:
 
 ### The political is personal
 
-It's roughly correct to locate the origins and energy of fascism in personal grievance, gut feelings about purity, and nostalgia. But so too for communism and wishful thinking, magical thinking, impulsivity, fatigue, and resentment. 
+It's roughly correct to locate the origins and energy of fascism in personal grievance, gut feelings about purity, and nostalgia. (People like to say that misogyny is a necessary condition but I'm not sure: there can be more than one bad thing in the world.) But so too for communism and wishful thinking, magical thinking, impulsivity, fatigue, and resentment. 
 
 > You: If communism keeps failing every time we try it...<br>
 Steban: (he waits patiently for you to finish)<br>
@@ -159,11 +158,12 @@ Love [stands](http://fayde.co.uk/dialojue/5240035) as a metaphor for communism i
 
 
 
-_Hatred as one of the main political emotions_. The old monarchist Rene and the political commissar Dros are the same in an important sense: desensitized, unmoored from sympathy. The desensitization of one is organic (rooted in nostalgia) and theoretical in the other (rooted in the totalising kind of marxism). (This chasm between the organic and the theoretical is another theme I should develop. You have the ordinary racists and then Measurehead, Psuedoscientist. You have the familial quasi-socialism of Titus Hardie vs the terrifying abstractions of the Deserter.)
+_Hatred as the primary political emotion_. The old monarchist Rene and the political commissar Dros are the same in an important sense: desensitized, unmoored from sympathy. The desensitization of one is organic (rooted in nostalgia) and theoretical in the other (rooted in the totalising kind of marxism). (This chasm between the organic and the theoretical is another theme I should develop. You have the ordinary racists and then Measurehead, Psuedoscientist. You have the familial quasi-socialism of Titus Hardie vs the terrifying abstractions of the Deserter.)
 <!-- KHTK are deeply, over-the-top political, but they satirise their own.  -->
 
 One obvious absurd example: Harry calls his ex Dora a war criminal and identifies her with a mythical Europa figure (who I can't quite place. Justice?) Harry's enormous pain is hysteroid dysphoria from a bad breakup, PTSD from 20 years of hard policing and terrible acts, brain damage from [sticking his head into a radioactive singularity](http://fayde.co.uk/dialojue/11050788-11050925#11050925), and only fourthly the social pain of an undemocratic life, a humiliated populace, poverty, and a lost utopia. But give him any chance and he will attribute his problems to the Coalition and the war.
 
+In a funny way (following the communism = love thread) Dros is Harry's future if he never gets over his breakup. A void where a person used to be; a person completely defined by his own failure, which he thinks of as the world failing him. Pure resentment and lashing out the last mode of human interaction.
 
 
 <br><br>
@@ -396,7 +396,9 @@ Steban: I guess you could say we believe it *because it's impossible*. (he looks
 
 <br>
 
-You'd never guess these days, but I come from the hard left (protested the Iraq war, called my college microeconomics class "capitalist missiology", rejected careerism as a racket, etc). It is common to mock the hard left for talking big and being totally ineffectual. But this is wisdom in a modern radical! No one with any awareness of history, human motivations, economics, or current affairs can think that the state of things is ok. But no one with any awareness of history, human motivations, economics, or current affairs can think that solving things would be easy, that you violently wresting the reins of power would end well. So you stand to the side and shout. 
+You'd never guess these days, but I come from the hard left (protested the Iraq war, called my college microeconomics class "capitalist missiology", rejected careerism as a racket, etc). It is common to mock the hard left for talking big and being totally ineffectual. 
+
+But this is wisdom in a modern radical! No one with any awareness of history, human motivations, economics, or current affairs can think that the state of things is ok. But no one with any awareness of history, human motivations, economics, or current affairs can think that solving things would be easy, that you violently wresting the reins of power would end well. So you stand to the side and shout. 
 
 <br>
 
@@ -436,7 +438,7 @@ That black comedy is ready to birth another: the new owners sold the film rights
 
 Cynical as they are, realistic as they are, idealistic as they are, they don't go far enough along any of these axes. _Cynicism_: Revolution is a youth politics for a reason: it's a great signal and offers the young and psychotic resources they can't get otherwise. _Realistic_: the world is not actually broken. It's unfair and contains many terrible things, and no we cannot actually solve collective action problems by saying nice words and hoping hard, but that's different from being hopeless, valueless, in pieces. _Idealistic_: The world is getting better in many ways, in spite of rent-seekers and bastards. Individuals are surprisingly powerful and the system still has millions of holes in it.
 
-But playing it I am reminded what is great about the left – the cussed rejection of compromise, the joy of deviance, the white-hot rage inside compassion, also the shrug. I am not as I was before. I am open to other experiments, weirder art, weirder people, ready to be disappointed again, chambered and aimed. 
+But playing it I am reminded what is great about the left – the cussed rejection of compromise, the joy of deviance, death before compromise, the white-hot [rage](https://twitter.com/EverDundas/status/958664289405079555/photo/1) inside compassion. I am not as I was before. I am open to other experiments, weirder art, weirder people, ready to be disappointed again, chambered and aimed. 
 
 <br><br>
 
@@ -448,7 +450,7 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 
 <br>
 
-> "You are a violent and irrepressible miracle. The vacuum of cosmos and the stars burning in it are afraid of you."
+> You are a violent and irrepressible miracle. The vacuum of cosmos and the stars burning in it are afraid of you.
 
 <center>— The Insulindian Phasmid</center>
 
