@@ -73,6 +73,8 @@ These systems did harm because they were too stupid to do what we ask (or becaus
 
 What about a system harming us because it is too smart? Is there any real chance that advanced AI could ruin us?
 
+<br>
+
 #### Argument from caution
 
 We don't know. They don't exist, so we can't study them and work it out. Here's an argument for worrying, even so:
@@ -98,6 +100,7 @@ Now, this is weak evidence! AI researchers are <a href="{{arm}}">notoriously bad
 
 But you should go with 3% until you think about it more than them. <a href="#fn:2" id="fnref:2">2</a>
 
+Some of the shorter-run claims from that survey [mostly turned out pretty correct](https://www.lesswrong.com/posts/tQwjkFT8s2uf2arFN/scoring-forecasts-from-the-2016-expert-survey-on-progress-in#comments).
 
 <br>
 
@@ -198,6 +201,8 @@ Two counterexamples:
 * Reinforcement learning algorithms. Their goals (reward function) are completely separate from their intelligence (optimiser / planner).
 
 RL is the most likely current technology to eventually become an AGI. It has a few worrying features: autonomous (no human input as standard), maximising, and with hand-written goals, with <100 variables. i.e. they are told to value only a tiny fraction of the environment.
+
+["Morality is complicated, AIs [are trained] to be simple"](https://aizi.substack.com/p/ai-are-less-surprising-when-you-ignore)
 
 <br>
 

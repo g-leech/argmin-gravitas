@@ -36,6 +36,7 @@ where:      "Bristol"
 {%   assign dice = "http://fayde.co.uk/dialojue/4600811"    %}
 {%   assign rey = "https://www.google.co.uk/books/edition/Rip_it_Up_and_Start_Again/dK-F43T8V0wC"  %}
 {%   assign hitch = "https://www.lrb.co.uk/the-paper/v20/n23/christopher-hitchens/moderation-or-death"    %}
+{%   assign greek = "https://slimemoldtimemold.com/2022/04/11/disco-elysium-breaks-the-looms-of-rpgs/"  %}
 
 
 
@@ -92,7 +93,7 @@ It's far more politically sophisticated than most books. I call it political fic
 How did they make the best RPG ever? Well, spending 18 years on it must've helped. Returning to the opening Reynolds line, I also want to say that their post-marxism is a long difficult ladder which let them into virgin areas of game narrative and of course provided a rich layer of historical tragedy over everything else in the game. The truth or usefulness of theory isn't the main thing when you're making art. This is the _latent_ function of critical theory: making people make interesting art, by removing certain preconceptions and instilling new ones. So, an elevating false framework.
 
 
-That the game is also actually existentialist and an amazing portrait of multi-agent mind and a work of science fiction which justifies <a href="{{slip}}">an obtuse synonym</a> and bedecked in Lucian Freud visuals and shimmery post-rock ambience is just icing. 
+That the game is also actually existentialist and an amazing portrait of multi-agent mind and <a href="{{greek}}">a Greek tragedy</a> and a work of science fiction which justifies <a href="{{slip}}">an obtuse synonym</a> and bedecked in Lucian Freud visuals and shimmery post-rock ambience is just icing. 
 
 <br>
 
@@ -129,7 +130,7 @@ Subcultures and archetypes it depicts perfectly: cops, drugs, organic racism, th
 <br><br>
 
 
-ALL THAT SAID, some themes I've spotted so far:  
+some themes I've spotted so far:  
 
 <br><br>
 
@@ -170,13 +171,19 @@ One obvious absurd example: Harry calls his ex Dora a war criminal and identifie
 
 ### The personal is not political
 
-You can internalise Marxism-Leninism and spout about it in nearly every conversation – and this doesn't constrain your behaviour at all. You still wear whatever, lech, shoot people whenever.
+You can internalise Marxism-Leninism and spout about it in nearly every conversation – and this doesn't constrain your behaviour at all. You still wear whatever, lech, shoot people whenever, [go work at Wild Pines](https://twitter.com/NikVenkatesh/status/1629082923906244608?s=20).
 
 You can max out communism, fascism, neoliberalism, and bureaucrat humanism, at nearly the same time. You can be an actual Nazi feminist. 
 
 The game's revealed stance is: politics is primarily talk. Because politics is about your gang against the other gang, and talk is the way you pledge yourself.
 
 <!-- Not all bad things are the same thing, and people are rarely good on every topic. -->
+
+> In Disco Elysium the world is quickly being destroyed by a supernatural substance known as the "pale": they don't know how much time they have left, but it's on the order of a few decades. Everyone goes on with their petty squabbles regardless. The more I think about it, it seems like less of a fantasy and more of a mirror. How long until the last generation? 
+
+- [Alvaro](https://fantasticanachronism.com/2021/03/23/two-paths-to-the-future)
+
+
 
 <br><br>
 

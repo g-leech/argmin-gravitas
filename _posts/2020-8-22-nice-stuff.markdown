@@ -122,7 +122,7 @@ _Cost per year_: Same as a solid breakfast.
 _Expected lifespan_: 3 years if you sharpen it<br>
 _Cost per year_: £10
 
-* <a href="{{bread}}">Fastbake breadmaker</a> (£50). British supermarket bread is crap. This makes 900g of warm, chewy, custom bread for about 55p. Chuck in poppy seeds or linseed or nuts for 10p, done. Wholemeal is trickier, needs a little bit of vitamin C powder. Power is maybe 5p.<br>
+* <a href="{{bread}}">Fastbake breadmaker</a> (£50). **CARBS COMPILER_**. British supermarket bread is crap. This makes 900g of warm, chewy, custom bread for about 55p. Chuck in poppy seeds or linseed or nuts for 10p, done. Wholemeal is trickier, needs a little bit of vitamin C powder. Power is maybe 5p.<br>
 _Expected lifespan_: 4 years?<br>
 _Cost per year_: roughly the same as shop bread.
 
