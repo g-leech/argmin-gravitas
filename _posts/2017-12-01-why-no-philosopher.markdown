@@ -57,9 +57,7 @@ cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philo
 <a name="point"></a>
 <br>
 
-It's simple: The greatest nontechnical minds in history have all failed to work out the nature of the world just by thinking about it, and so would I. 
-
-(Technical minds sometimes manage it, but only with a lot of help from data, plus maths, plus just thinking about it. But that isn't philosophy, <a href="{{nat}}">anymore</a>. Philosophers quite often solve technical problems, but they do so only when they go past purely verbal philosophy. David Lewis, Frank Ramsey, John Broome, Hilary Putnam, John Harsanyi, Derek Parfit all made big steps forward by using decision theory or game theory or utility theory or learning theory. As I note below, logic is the most progressive programme in philosophy _for a reason_.)
+It's simple: The greatest nontechnical minds in history have all failed to work out the nature of the world just by thinking about it, and so would I. <a href="#fn:2" id="fnref:2">2</a> 
 
 ...
 
@@ -383,5 +381,9 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
     <!-- 1 -->
     <li class="footnote" id="fn:1">
 		Of course, the tails of science are <a href="{{lead}}">also</a> heavy. Heavier. But it's easier to tell which you're in.
+	</li>
+<!--  -->
+	<li class="footnote" id="fn:2">
+		Technical minds sometimes manage it, but only with a lot of help from data, plus maths, plus just thinking about it. But that isn't philosophy, <a href="{{nat}}">anymore</a>. Philosophers quite often solve technical problems, but they do so only when they go past purely verbal philosophy. David Lewis, Frank Ramsey, John Broome, Hilary Putnam, John Harsanyi, Derek Parfit all made big steps forward by using decision theory or game theory or utility theory or learning theory. As I note below, logic is the most progressive programme in philosophy for a reason.
 	</li>
 </ol>
