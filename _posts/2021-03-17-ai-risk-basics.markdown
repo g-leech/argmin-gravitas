@@ -63,7 +63,7 @@ Could AI be a risk to humans? Well it already is:
 
 * Consider also things like the <a href="{{zi}}">Ziyan Blowfish</a>, an autonomous Chinese military drone currently under export to the Middle East.
 
-* <a href="{{aiaa}}">Here's a list of other relatively bad cases.</a>
+* <a href="{{aiaa}}">Here's</a> a list of other relatively bad cases, and [here's](https://betterwithout.ai/AI-already-at-war) a (melodramatic but largely valid) look at the power and scale of our existing automation of surveillance and influence.
 
 <br>
 

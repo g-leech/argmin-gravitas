@@ -190,43 +190,47 @@ You'll take a minute a day adding new sites to your NoScript list. And Captchas 
 
 <br>
 
-### Add-on risk
 
-Whenever you install a browser add-on, you're allowing unknown code to execute on your machine, behind NoScript. Processes are "sandboxed" in modern browsers - that is, browser malware is unlikely to break into your main OS account - but this is still a risk.
+<div class="accordion">
+    <h3>Add-on risk</h3>
+    <div>
+	Whenever you install a browser add-on, you're allowing unknown code to execute on your machine, behind NoScript. Processes are "sandboxed" in modern browsers - that is, browser malware is unlikely to break into your main OS account - but this is still a risk.
+	<!--  -->
+	Worst is when someone replaces an honest add-on with a malwared version. This is not hypothetical: for example, part of the Python central package repository <a href="{{pypi}}">was subverted in 2017</a>. And it can take months for someone to notice this.
+	<!--  -->
+	However, you can be very confident in EFF and Mozilla products - HTTPS Everywhere, Privacy Badger, Containers - and relatively confident in popular open-source add-ons like <a href="{{openNo}}">NoScript</a>, <a href="{{autodel}}">Cookie-Autodelete</a>, <a href="{{ublock}}">uBlock</a>, especially if you built from source.
+	<!--  -->
+	Still, lean toward avoiding others.
+	</div>
+<!--  -->
+    <h3>More things you could do:</h3>
+    <div>
 
-Worst is when someone replaces an honest add-on with a malwared version. This is not hypothetical: for example, part of the Python central package repository <a href="{{pypi}}">was subverted in 2017</a>. And it can take months for someone to notice this.
+<ul>
+	<li> <a href="{{beginux}}">Get Linux</a> (<a href="{{linux}}">99</a>%+ of malware doesn't work on it, and there's strong prevention of state backdoors and 'security through obscurity' zero-days).</li>
+	<li>Turn off <a href="{{ff}}">these Firefox configs</a>.</li>
+	<li>"Hacker tape" (putting a removable cover over your webcam) is a successful meme. Good for it! But an <a href="{{captivated}}">even more significant risk</a> is the <a href="{{mic}}">built-in mic</a>: your unguarded speech is a much more <i>high-res</i> thing to use against you. (Imagine your employer hearing you complain about them to your partner.) <a href="{{dummy}}">One solution</a> is leaving a 3.5mm jack plugged-in, with the wire trimmed off (and the wires taped-up separately to prevent a short circuit!) - but this is still software-mediated rather than hardware, and so could conceivably be bypassed.</li>
+	<li>Add an additional <a href="{{keyfile}}">keyfile</a> for Keepass, on a USB. This is too far for me. You'd want it <a href="{{sweden}}">attached to your body</a>.</li>
+	<li><a href="{{tor}}">Tor</a>. Slow!</li>
+	<li><a href="{{cvb}}">CanvasBlocker</a>: people can get a wee bit of identifying info from <a href="{{canvas}}">spying on</a> your GPU and screen specs.</li>
+	<li>Airgapping one of your computers.</li>
+	<li><a href="{{clean}}">ClearURLs</a> (truncate the identifying info from the end of your links).</li>
+	<li><a href="{{exfil}}">CSS Exfil Protection</a> (yet another graphical fingerprinting technique).</li>
+	<li>Consider not using <a href="{{huawei}}">Chinese</a> <a href="{{linder}}">hardware</a>.</li>
+<li>Consider not using <a href="{{nsa}}">American hardware</a>.</li>
+<li>Consider not using Kaspersky (sad - seems to have been involuntary aid to Putin's people).</li>
+<li><a href="{{bank}}">Two-factor authenticated bank</a>.</li>
+<li><a href="{{rua}}">RandomUserAgent</a>: changes the device and browser you're reporting, at random. Sometimes breaks things.</li>
+<li>Store a PGP key somewhere public (e.g. <a href="{{keybase}}">Keybase</a>): makes it possible to authenticate yourself without identifying documents. (Softening the blow of identity theft, preventing chronic lulz).</li>
+<li><a href="{{faraday}}">Faraday wallet</a> for phone and contactless card. Obviously this prevents all incoming calls too.</li>
+<li>Life / work separation. Never shop at work, never work on your home computers. This makes two of you, with two different attacks (and sets of attacks) needed.</li>
+<li>_Phone_: The iPhone's encryption has been defended in court against heavy pressure, but also subverted by <a href="{{israe}}">commercial tools</a>. The <a href="{{librem}}">Librem 5</a> will be better on many axes - hardware control, OS security, supply chain ethics - but is unlikely to do better in crypto.</li>
+<li>Against reward hacking (that is, being distracted with push notifications and infinite feeds): Just don't have a smartphone, or keep it in your bag and use a dumbphone for interpersonal alerts. Also <a href="https://addons.mozilla.org/en-US/firefox/addon/impulse-blocker/">ImpulseBlocker</a>.</li>
 
-However, you can be very confident in EFF and Mozilla products - HTTPS Everywhere, Privacy Badger, Containers - and relatively confident in popular open-source add-ons like <a href="{{openNo}}">NoScript</a>, <a href="{{autodel}}">Cookie-Autodelete</a>, <a href="{{ublock}}">uBlock</a>, especially if you built from source.
+</ul>
 
-Still, lean toward avoiding others.
-
-<br>
-
----
-
-<br>
-
-### More things you could do:
-
-* <a href="{{beginux}}">Get Linux</a> (<a href="{{linux}}">99</a>%+ of malware doesn't work on it, and there's strong prevention of state backdoors and 'security through obscurity' zero-days).
-* Turn off <a href="{{ff}}">these Firefox configs</a>.
-* "Hacker tape" (putting a removable cover over your webcam) is a successful meme. Good for it! But an <a href="{{captivated}}">even more significant risk</a> is the <a href="{{mic}}">built-in mic</a>: your unguarded speech is a much more <i>high-res</i> thing to use against you. (Imagine your employer hearing you complain about them to your partner.) <a href="{{dummy}}">One solution</a> is leaving a 3.5mm jack plugged-in, with the wire trimmed off (and the wires taped-up separately to prevent a short circuit!) - but this is still software-mediated rather than hardware, and so could conceivably be bypassed.
-* Add an additional <a href="{{keyfile}}">keyfile</a> for Keepass, on a USB. This is too far for me. You'd want it <a href="{{sweden}}">attached to your body</a>.
-* <a href="{{tor}}">Tor</a>. Slow!
-* <a href="{{cvb}}">CanvasBlocker</a>: people can get a wee bit of identifying info from <a href="{{canvas}}">spying on</a> your GPU and screen specs.
-* Airgapping one of your computers.
-* <a href="{{clean}}">ClearURLs</a> (truncate the identifying info from the end of your links).
-* <a href="{{exfil}}">CSS Exfil Protection</a> (yet another graphical fingerprinting technique).
-* Consider not using <a href="{{huawei}}">Chinese</a> <a href="{{linder}}">hardware</a>.
-* Consider not using <a href="{{nsa}}">American hardware</a>.
-* Consider not using Kaspersky (sad - seems to have been involuntary aid to Putin's people).
-* <a href="{{bank}}">Two-factor authenticated bank</a>.
-* <a href="{{rua}}">RandomUserAgent</a>: changes the device and browser you're reporting, at random. Sometimes breaks things.
-* Store a PGP key somewhere public (e.g. <a href="{{keybase}}">Keybase</a>): makes it possible to authenticate yourself without identifying documents. (Softening the blow of identity theft, preventing chronic lulz).
-* <a href="{{faraday}}">Faraday wallet</a> for phone and contactless card. Obviously this prevents all incoming calls too.
-* Life / work separation. Never shop at work, never work on your home computers. This makes two of you, with two different attacks (and sets of attacks) needed.
-* _Phone_: The iPhone's encryption has been defended in court against heavy pressure, but also subverted by <a href="{{israe}}">commercial tools</a>. The <a href="{{librem}}">Librem 5</a> will be better on many axes - hardware control, OS security, supply chain ethics - but is unlikely to do better in crypto.
-* Against reward hacking (that is, being distracted with push notifications and infinite feeds): Just don't have a smartphone, or keep it in your bag and use a dumbphone for interpersonal alerts. Also <a href="https://addons.mozilla.org/en-US/firefox/addon/impulse-blocker/">ImpulseBlocker</a>.
+</div>
+</div>
 
 <br>
 

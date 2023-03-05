@@ -29,11 +29,11 @@ argument:
 <br><br>
 
 <blockquote>
-    ...you should have little reason for that: and yet, to say the truth, reason and love keep little company together now-a-days; the more the pity that some honest neighbours will not make them friends.
+    reason and love keep little company together now-a-days; the more the pity that some honest neighbours will not make them friends.
 </blockquote>
 -- A Midsummer Night's Dream
 
-<br><br>
+<br><br><br>
 
 <blockquote>Shut it, 'Love Actually'!</blockquote>
     -- <a href="http://www.youtube.com/watch?v=wa3eoMnMC80">Jamie McDonald</a> 
@@ -48,7 +48,7 @@ _2022 Note: I wrote this in recovering from the most painful moment of my life._
 
 <br>
 
-We are obsessed with love as much as our lovers. But there's a difference between bald usage and actual thought about it. 
+We are obsessed with love as much as our lovers. But there's a difference between bare usage and actual thought about it. 
 
 <!-- mawk is unguarded sentimentality, and I've been trying for readable unguardedness for some time now. -->
 
@@ -56,6 +56,8 @@ We are obsessed with love as much as our lovers. But there's a difference betwee
 If anything at all does not qualify for cold, crackly analytic attention, then the unspeakable analysandum, love, is it. Because 1) it's holistic if it is anything; because 2) it seems small from outside; because 3) it is, fundamentally, <em>uncomfortable to read about.</em> (But nothing doesn't qualify.)
 
 As a culture we haven't moved on from (or even reached the level of) the <a href="http://en.wikipedia.org/wiki/Greek_words_for_love">four Greek words</a>, and we seem to be torturing ourselves over a vague mire borne of half-successful feminism and runaway adolescent bullshit. Speaking of which:
+
+<br>
 
 ## 1. Eros; soul mates; symbiotic clutch
 
@@ -81,25 +83,26 @@ One of the few people I've ever managed to speak about this with had a terrifyin
 
 ## 2. Aphorisms (what most people seem to think philosophy is)
 
-"To love is to be delighted by the happiness of another."
+> "To love is to be delighted by the happiness of another."
 - Leibniz
 
-"The great ability of Daniel was that he was the only person who could really interest her in herself."
+> "The great ability of Daniel was that he was the only person who could really interest her in herself."
 - Sartre 
 
-"It is an act of endless forgiveness, a tender look which becomes a habit."
+> "It is an act of endless forgiveness, a tender look which becomes a habit."
 - Peter Ustinov
 
-"the only sane and satisfactory answer to the problem of human existence."
+> "the only sane and satisfactory answer to the problem of human existence."
 - Erich Fromm 
 
-"Love feels like a great misfortune, a monstrous parasite, a permanent state of emergency that ruins all small pleasures."  
+> "Love feels like a great misfortune, a monstrous parasite, a permanent state of emergency that ruins all small pleasures."  
 - Slavoj Žižek
 
-"Entering it, one is suddenly aesthetically magnified; the stars are presenting for you alone, birdsong is omnipresent and omnibenevolent. An astounding amount of negative experience becomes perfectly tolerable, and the merest things about the object become cosmically significant."
+> "Entering it, one is suddenly aesthetically magnified; the stars are presenting for you alone, birdsong is omnipresent and omnibenevolent. An astounding amount of negative experience becomes perfectly tolerable, and the merest things about the object become cosmically significant."
 
-"There is a limit to what one may do if one is the object or cause of jealousy; for the jealous lover, everything one does is transmuted into misdirected love. It is a vicious and total transformation of the world, the inverse of the other love's action. And you cannot understand that which you hate" 
+> "There is a limit to what one may do if one is the object or cause of jealousy; for the jealous lover, everything one does is transmuted into misdirected love. It is a vicious and total transformation of the world, the inverse of the other love's action. And you cannot understand what you hate" 
 
+<br>
 
 ## 3. critique
 
@@ -122,6 +125,7 @@ Nietzsche went on about how love is actually an expression of the “deadly hatr
 Others agree that it's all an evolutionary and socially oppressive structure - an act of sublimated violence, and a base urge for control, possession and a steady supply of fucking.<a href="http://www.fallacyfiles.org/genefall.html"> (Genetic fallacy...)</a></div><div align="left"></div><div align="left"></div><div align="left"></div><div align="left">
 With all due respect to the social sciences and the Marxist feminists, and despite the uncontested correctness of some of the above, excuse me while I hold on to my intuitions for once, and get my coat. </div>
 
+<br>
 
 ## 4. "Volo ut sis" (I want you to be)
 
@@ -139,7 +143,12 @@ You do this by "sharing another's object" - that is, take on their reading of th
 
 is anyone actually capable of such a thing?
 
+<br>
+
 <hr />
+
+<br>
+
 
 ## THE LOGICAL TREATMENT OF THE PATIENT
 
