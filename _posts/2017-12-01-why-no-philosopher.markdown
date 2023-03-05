@@ -33,7 +33,7 @@ cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philo
 		<center><a href="#fn:1" id="fnref:1">1</a></center>
 		<br><br>
 <!--  -->
-		I think it's extremely difficult to know your own potential, and also surprisingly difficult to know which tail one is in.<br><br>
+		I think it's difficult to know your own potential, and also surprisingly difficult to know which tail one is in.<br><br>
 <!--  -->
 		So my actual answer to the statement in the title is: because I am not confident I'm exceptional, and not confident I'm the good kind of exceptional. The rest of this post is for those like me.
 	</div>
@@ -47,7 +47,7 @@ cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philo
 </blockquote>
 – David Lewis
 
-<br><br>
+<br><br><br>
 
 <blockquote>People are not confident [analytic philosophy] can solve its own problems, not confident that it can be modified so as to do better on that first score, and not confident its problems are worth solving in the first place... what we see is a desperate scramble to show that the skills or tools we have might find some problem space wherein their, our, worth can be made manifest… I do not think such a problem space has been forthcoming. </blockquote>
 – <a href="{{bright}}">Liam Bright</a>
@@ -110,6 +110,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	<blockquote>
 		Make no mistake about this: nothing that I or any other teacher can lecture to you about is philosophy. If we're lucky, we may possess some philosophy ourselves, but we cannot give it away.
 	</blockquote>
+	<br>
 <!--  -->
 	(This <a href="{{grace}}">explains why we read so much old/obsolete work</a>: we're learning by demonstration!)
 	</li>

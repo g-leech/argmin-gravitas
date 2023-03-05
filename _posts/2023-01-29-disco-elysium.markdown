@@ -37,6 +37,7 @@ where:      "Bristol"
 {%   assign rey = "https://www.google.co.uk/books/edition/Rip_it_Up_and_Start_Again/dK-F43T8V0wC"  %}
 {%   assign hitch = "https://www.lrb.co.uk/the-paper/v20/n23/christopher-hitchens/moderation-or-death"    %}
 {%   assign greek = "https://slimemoldtimemold.com/2022/04/11/disco-elysium-breaks-the-looms-of-rpgs/"  %}
+{%   assign bangs = "https://www.villagevoice.com/2020/01/05/the-white-noise-supremacists"  %}
 
 
 
@@ -87,7 +88,7 @@ On launch, _Disco Elysium_ presents you with <a href="/img/discoskill.webp">24 b
 
 It is a _point and click whodunnit with an amnesic protagonist_, for fuck's sake! Yet another lesson, if you needed one, that there is no genre so overdone, no trope too passé, that a great artist cannot wring more out of. In art, nothing is ruined, nothing is useless, nothing is meaningless. (One reason it can never be realistic.) So, revitalising.
 
-It's far more politically sophisticated than most books. I call it political fiction because it depicts the emotional and structural detail of several wildly different worldviews so well, better than anything since <i>Red Plenty</i> (2010). They made something [smarter than themselves](https://www.youtube.com/watch?v=d1gKGq44NxQ). This can happen. It is memeable, and ripe for the dirtbag left (see the [dubious Chapo](https://www.vg247.com/how-the-last-living-soviet-video-game-developers-recruited-chapo-trap-house-for-disco-elysium) voiceovers in the original cut). But it is less simple than that, you have to work to make it that simple, ignore 90% of the game. The game resists compression. I could spend another couple dozen hours noticing things and making up themes. Redemption – isn't everyone's first playthrough the redemption arc? – is only the simplest and most obvious route through. 
+It's far more politically sophisticated than most books. I call it political fiction because it depicts the emotional and structural detail of several wildly different worldviews so well, better than anything since <i>Red Plenty</i> (2010). They made something [smarter than themselves](https://www.youtube.com/watch?v=d1gKGq44NxQ). This can happen. It is memeable, and ripe for the dirtbag left (see the [dubious Chapo](https://www.vg247.com/how-the-last-living-soviet-video-game-developers-recruited-chapo-trap-house-for-disco-elysium) voiceovers in the original cut). But it is less simple than that, you have to work to make it that simple, ignore 90% of the game. The game resists compression. I could spend another couple dozen hours noticing things and making up themes. Redemption – isn't everyone's first playthrough the redemption arc? – is only the simplest and most obvious route through. So, polymorphous.
 
 How did they make the best RPG ever? Well, spending 18 years on it must've helped. Returning to the opening Reynolds line, I also want to say that their post-marxism is a long difficult ladder which let them into virgin areas of game narrative and of course provided a rich layer of historical tragedy over everything else in the game. The truth or usefulness of theory isn't the main thing when you're making art. This is the _latent_ function of critical theory: making people make interesting art, by removing certain preconceptions and instilling new ones. So, an elevating false framework.
 
@@ -108,7 +109,8 @@ Subcultures and archetypes it depicts perfectly: cops, drugs, organic racism, th
     <h3>The artists</h3>
     <div>
         <blockquote>
-            <i>on this level of collaboration it just feels wrong to take ownership because because, the way the writing process worked - at least back when we started with this game - is that everyone started out with a character or a scene, wrote it to a certain extent, then other people whose characters or scenes interact with it came and wrote another layer on top. Then there was an editing layer - maybe sometimes even after that we went back to the drawing board. For example I think I rewrote Cuno like 20 times... part of why the game feels so like textured and lived-in is because like there are probably still parts of that [draft] Cuno in there somewhere - part of why it feels so surreal is that it is layered in that way... It taught us all a little bit about how small we really are.  
+            <i>on this level of collaboration, it just feels wrong to take ownership, because the way the writing process worked - at least back when we started... - is that everyone started out with a character or a scene, wrote it, to a certain extent, then other people whose characters or scenes interact with it came and wrote another layer on top. Then there was an editing layer - maybe sometimes even after that we went back to the drawing board. For example I think I rewrote Cuno like 20 times...<br><br> 
+                part of why the game feels so textured and lived-in is because there are probably still parts of that [draft] Cuno in there somewhere - part of why it feels so surreal is that it is layered in that way... It taught us all a little bit about how small we really are.  
             </i>
         </blockquote>
         <center>– <a href="{{argo}}">Tuulik</a></center>
@@ -126,7 +128,7 @@ Subcultures and archetypes it depicts perfectly: cops, drugs, organic racism, th
 
 ---
 
-<br><br>
+<br>
 
 
 some themes I've spotted so far:  
@@ -135,9 +137,16 @@ some themes I've spotted so far:
 
 
 
+
 ### The political is personal
 
-It's roughly correct to locate the origins and energy of fascism in personal grievance, gut feelings about purity, and nostalgia. (People like to say that misogyny is a necessary condition but I'm not sure: there can be more than one bad thing in the world.) But so too for communism and wishful thinking, magical thinking, impulsivity, fatigue, and resentment. 
+> anytime you conclude that life stinks and the human race mostly amounts to a pile of shit, you’ve got the perfect breeding ground for fascism.
+
+– <a href="{{bangs}}">Lester Bangs</a>
+
+<br>
+
+It's roughly correct to locate the origins and energy of fascism in personal grievance, gut feelings about purity, and nostalgia. <a href="#fn:1" id="fnref:1">1</a> But so too for communism and wishful thinking, magical thinking, impulsivity, fatigue, and sheer resentment. 
 
 > You: If communism keeps failing every time we try it...<br>
 Steban: (he waits patiently for you to finish)<br>
@@ -156,14 +165,19 @@ Love [stands](http://fayde.co.uk/dialojue/5240035) as a metaphor for communism i
 
 > Real darkness has love for a face.
 
-
-
-_Hatred as the primary political emotion_. The old monarchist Rene and the political commissar Dros are the same in an important sense: desensitized, unmoored from sympathy. The desensitization of one is organic (rooted in nostalgia) and theoretical in the other (rooted in the totalising kind of marxism). (This chasm between the organic and the theoretical is another theme I should develop. You have the ordinary racists and then Measurehead, Psuedoscientist. You have the familial quasi-socialism of Titus Hardie vs the terrifying abstractions of the Deserter.)
+<div class="accordion">
+    <h3>Hatred as the primary political emotion</h3>
+    <div>
+        The old monarchist Rene and the political commissar Dros are the same in an important sense: desensitized, unmoored from sympathy. The desensitization of one is organic (rooted in bitter nostalgia) and theoretical in the other (rooted in totalising marxism). Both stem in failure.
+        <br><br>
+        (This chasm between the organic and the theoretical is another theme I should develop. You have ordinary racists and then Measurehead, Pseudoscientist. You have the neighbourhood-scale gang communitarian Titus Hardie vs the terrifying abstractions of the Deserter.)
+    </div>
+</div>
 <!-- KHTK are deeply, over-the-top political, but they satirise their own.  -->
 
-One obvious absurd example: Harry calls his ex Dora a war criminal and identifies her with a mythical Europa figure (who I can't quite place. Justice?) Harry's enormous pain is hysteroid dysphoria from a bad breakup, PTSD from 20 years of hard policing and terrible acts, brain damage from [sticking his head into a radioactive singularity](http://fayde.co.uk/dialojue/11050788-11050925#11050925), and only fourthly the social pain of an undemocratic life, a humiliated populace, poverty, and a lost utopia. But give him any chance and he will attribute his problems to the Coalition and the war.
+One obvious absurd example of hiding your baggage behind noble political terms: Harry calls his ex Dora a war criminal and identifies her with a mythical Europa figure (who I can't quite place. Justice?) Harry's enormous pain is hysteroid dysphoria from a bad breakup, PTSD from 20 years of hard policing and terrible acts, brain damage from [sticking his head into a radioactive singularity](http://fayde.co.uk/dialojue/11050788-11050925#11050925), and only fourthly the social pain of an undemocratic life, a humiliated populace, poverty, and a lost utopia. But give him any chance and he will attribute his problems to the Coalition and the war.
 
-In a funny way (following the communism = love thread) Dros is Harry's future if he never gets over his breakup. A void where a person used to be; a person completely defined by his own failure, which he thinks of as the world failing him. Pure resentment and lashing out the last mode of human interaction.
+Following the communism = love thread right to the end: Dros is Harry's future if he never gets over his breakup. A void where a person used to be; a person completely defined by his own failure, cast as the world failing him. Lashing out as his last mode of human interaction.
 
 
 <br><br>
@@ -177,12 +191,27 @@ You can max out communism, fascism, neoliberalism, and bureaucrat humanism, at n
 
 The game's revealed stance is: politics is primarily talk. Because politics is about your gang against the other gang, and talk is the way you pledge yourself.
 
+
 <!-- Not all bad things are the same thing, and people are rarely good on every topic. -->
 
 > In Disco Elysium the world is quickly being destroyed by a supernatural substance known as the "pale": they don't know how much time they have left, but it's on the order of a few decades. Everyone goes on with their petty squabbles regardless. The more I think about it, it seems like less of a fantasy and more of a mirror. How long until the last generation? 
 
-- [Alvaro](https://fantasticanachronism.com/2021/03/23/two-paths-to-the-future)
+– [Alvaro](https://fantasticanachronism.com/2021/03/23/two-paths-to-the-future)
 
+
+<div class="accordion">
+    <h3>Sympathy for the devil</h3>
+    <div>
+        I begin to see something systematic in their assignment of virtues to characters.<br><br> 
+<!--  -->
+        Kim is a Moralist and a deeply principled man; Joyce is the avatar of the ultraliberal corp and but kind and wise; Claire is a socialist and a murderous perfect liar; Dros is the biggest marxist of the bunch and is devoid of human qualities. The police captain is foretold to liberate Revachol.<br><br>
+<!--  -->
+        (But the psychotic death squad have no ideology.)
+<!--  -->
+        We can float the claim "virtue and correctness are uncorrelated", or some Sod's Law about one's allies invariably being dickheads. 
+        This kind of irony / even-handedness / tragedy feels like a condition of good political art to me.
+    </div>
+</div>
 
 
 <br><br>
@@ -207,6 +236,14 @@ identity never your own.<br>
 
 You might think you've been to some pretty strange corners of the internet. "[Egregore](https://www.weirdstudies.com/36)" is a word used in the strange corners beyond the strange corners of the internet, in treating ideologies as as-if demonic adaptive predators who need human hosts and enforcers to live and breed.
 
+This idea comes from bizarre radicals, but it ironically provides one of the few actual arguments for centrism:
+
+> all the Tribes are waging the same war the same ways. They all believe they are fated to win, because they are morally correct, which justifies tearing societies apart. Trying even harder to stomp on the Bad Tribe is the fuel for the dynamic... Realistically, your side can never gain enough power to silence them, nor will your propaganda ever convert them. No side can win the culture war. We all lose. It’s better to see the war itself, and the technology that stokes it, as the enemy.
+
+– [David Chapman](https://betterwithout.ai/AI-is-out-of-control)
+
+<br>
+
 The remarkable thing is that KHTK can depict humanity's prey relationship to ideology _while still enthusiastically submitting to one_. (It is one thing to be a young communist in Britain, where the parties were tiny and their evils limited to toadyism and ruining a [few dozen lives](https://en.wikipedia.org/wiki/Gerry_Healy) through sexual abuse. It is quite mad to be a young communist in Estonia, where everyone's grandparents still remember someone they shot. The "Last Living Soviet Video Game Developers".)
 
 
@@ -214,7 +251,7 @@ The remarkable thing is that KHTK can depict humanity's prey relationship to ide
 
 ### Gettier superstitions
 
-> We're big fans of Émile Zola but if there's one thing he leaves out, it’s the supernatural. we live in a world where, even in the C21st we don't really understand what's happening... I think in order to truly represent life realistically, you have to have a complete unknown.
+> We're big fans of Émile Zola but if there's one thing he leaves out, it’s the supernatural... we live in a world where, even in the C21st we don't really understand what's happening... I think in order to truly represent life realistically, you have to have a complete unknown.
 
 <center>– <a href="{{inverse}}">Helen Hindpere</a></center>
 
@@ -231,7 +268,7 @@ KHTK are not idiots. They know that monsters usually abuse the revolution, take 
 
 To my surprise _DE_ depicts the union as extremely ambiguous. (One of your first interactions with it is to see that a giant giga-racist is their bouncer.) In contrast, they give the Wild Pines corporation the extremely sympathetic and genre-savvy Joyce. 
 
-(It's a bit crazy for a critique of ideology to come from avowed (Euro) communists in a country devastated by actually-existing (imperialist) communism, but they are real artists, they can make things larger than themselves.)
+(Bit crazy for a critique of ideology and vanguardism to come from avowed (Euro) communists in a country devastated by actually-existing (imperialist) communism – but they are real artists, they can make things larger than themselves.)
 
 
 <br><br>
@@ -276,6 +313,7 @@ What you're good at determines your decisions (represented by the game rolling c
 
 Playing as Harry gives us a remarkable portrait of the bundle of impressions, hallucinations, hunches, scherzos that forms a sensitive person on an average day.
 
+Embodied cognition: What you're wearing in-game has an absurdly dramatic effect on your capacities. Wearing the right outfit can give you like 30 IQ. 
 
 > "It would be unbelievable [cool] to use our skill system to speak about the bodily sensations of having another organism inside of you, while you're in the setting and talking to another person."
 
@@ -301,7 +339,7 @@ What custom strictly divided;<br>
 All men become brothers<br>
 Where thy gentle wing rests.<br><br>
 Be embraced, you millions!<br>
-This kiss to all the world!<br>
+A kiss to all the world!<br>
 Brothers, above the starry canopy<br>
 There <b>must</b> dwell a loving Father.<br>
 Are you collapsing, you millions?<br>
@@ -309,11 +347,13 @@ Do you sense the creator?<br>
 Seek him above the starry canopy!<br>
 Above the stars he must dwell.
 
-– <a href="https://en.wikipedia.org/wiki/Anthem_of_Europe">Euro</a>
+– <a href="https://en.wikipedia.org/wiki/Anthem_of_Europe">Euro</a> 
 <br><br>
 
 
-It's very European - the writers steal stereotypes and words from all over the place, but smear them. Revachol is Paris 1871, Berlin 1946, East Berlin 1975, Haiti forever, Tallinn 1999, New Orleans 2005. No one is married. It used to be the center of the world. Maybe Paris - the seething banlieue spirit, wallowing but also completely willing to punch an authority in the face.
+It's very European - the writers steal stereotypes and words from all over the place, but smear them. Revachol is Paris 1871, Berlin 1946, East Berlin 1975, Haiti forever, Tallinn 1999, New Orleans 2005. 
+
+No one is married. It used to be the center of the world. It used to have hope until it was taken by the colonisers. Maybe Paris - the seething esprit banlieue: wallowing, but also completely willing to punch an authority in the face.
 
 [Sunday Friend is one long indictment of the EU.](http://fayde.co.uk/dialojue/5490276-5490345-5490598-5490949-5490950-5490392-5490297-5490008-5490661-5490444-5490601-5490009-5490909-5490341#5490341) Which leads us to "Moralism", the ruling ideology.
 
@@ -326,21 +366,21 @@ It's very European - the writers steal stereotypes and words from all over the p
 
 ### The system of the world
 
-If our world can be said to have a system, it is Humanism (bourgeois morality, rights) plus neoliberalism (international capital) plus nationalism (which in _DE_ is portrayed quite positively, in the post-commune Revachol demi-pride of Kim and many others).
+If our world can be said to have a system, it is humanism (bourgeois morality, rights) plus neoliberalism (international capital) plus nationalism (which in _DE_ is a positive, the post-commune Revacholian demi-pride of Kim and most other characters). <a href="#fn:2" id="fnref:2">2</a>
 
 
-But what _is_ the relationship between ultraliberalism (capitalism) and Moralism (humanism). On the face of it they seem unrelated, answering different questions, with different temperaments. How do they share power? Are they the same thing, is one a mask for the other to operate more freely with a good conscience?
+But what is the relationship between ultraliberalism (capitalism) and Moralism (humanism)? On the face of it they seem unrelated, answering different questions, enlisting different people with very different temperaments. How do they share power? Are they the same thing, is one a mask for the other to operate more freely with a good conscience?
 
-I don't think the game has the answers. It's probably their weakest treatment of the big ideologies, because it fails to note _any_ common ground between centrism and leftism - the fucking labour movement being the obvious one, human rights, antiwar, [growth](http://fayde.co.uk/dialojue/3621637). Even a cartoon punk band of 20 year olds can do <a href="{{baby}}">better</a> than that ("_We marched together for the eight-hour day / and held hands in the streets of Seattle._")
+I don't think the game has the answers. Centrism gets a weak treatment: the authors fail to note _any_ common ground between centrism and leftism - the fucking labour movement being the obvious one, or human rights, antiwar, and for most of history, the prioritisation of [growth](http://fayde.co.uk/dialojue/3621637). Even a cartoon punk band of 20 year olds can do <a href="{{baby}}">better</a> than that ("_We marched together for the eight-hour day / and held hands in the streets of Seattle._")
 
-Against the general dismissal and othering of liberals, we have to note KHTK's loving portrait of Kim, the sincere, decent Moralist - whose portrait, on screen for most of the game, wears <a href="https://static.wikia.nocookie.net/disco-elysium/images/7/77/Kim-kitsuragi.jpg">an actual halo</a>. The icon of self-control and the good side of the professions and the institutions. If commie cop is in some ways the natural path for you to take Harry, every playthrough will have the same Kim.
+Against this general othering of liberals, we have to note KHTK's loving portrait of Kim, the sincere, decent Moralist - whose portrait, on your screen for most of the game, wears <a href="https://static.wikia.nocookie.net/disco-elysium/images/7/77/Kim-kitsuragi.jpg">an actual halo</a>. He's the icon of self-control and the good side of the professions and institutions. If commie cop is in some ways the natural path for you to make Harry walk – if Harry is an incoherent soul who could turn into something else at any moment – every playthrough will have the same Kim, a fulcrum of normie virtue to anchor him.
 
 <!-- "stable shape compared to the blurry smears of colour we see in other portraits, which indicates Kim's role as an anchor"  -->
 
-Kim aside, in the broader geopolitics of Elysium I smell the Chomskyan vice: assuming that every event and every ill has a designer. Obviously a Western designer or a Western puppet. <!-- Haiti is one exception.  -->
+But (leaving Kim aside) I smell vice in the broader geopolitics of Elysium: the Chomskyan vice of assuming that every event and every ill has a designer. Obviously a Western designer or a Western puppet. <!-- Haiti is one exception.  -->
 
 
-The main valid jab is at the hypocrisy of institutional humanism. We killed hundreds of thousands of Iraqis, or got them killed, in the name of freedom, democracy, human rights, education, etc. [We tortured many others](https://www.independent.co.uk/news/uk/politics/complicity-in-torture-the-case-against-the-united-kingdom-9922063.html). This was not long ago and is not the most recent case.
+The main valid jab at institutional humanism is not murder or exploitation (which it usually does less than the alternatives) but hypocrisy, political cover, and denial of its own power. We killed hundreds of thousands of Iraqis, or got them killed, in the name of freedom, democracy, human rights, education, etc. [We tortured many others](https://www.independent.co.uk/news/uk/politics/complicity-in-torture-the-case-against-the-united-kingdom-9922063.html). This was not long ago and is not the most recent case.
 
 > The First World War was, like the abattoir in Vietnam, quite describable as a liberals’ war. Any medium-run view of history will show that it did more damage to ‘Western civilisation’ than any form of ideology, not least in clearing the very path, through the ruins and cadavers, along which totalitarians could later instate and militarise themselves...  Yet I think it’s clear... that it was the disturbance to the natural order that made the young Isaiah tremble and flinch... it would have been more precise to say: [horror] only for certain sorts of physical violence and political experiment. Policemen are supposed to control crowds, not crowds policemen. Vietnam... was a laboratory experiment run by technician-intellectuals and academic consultants, who furnished us with terms like ‘interdict’, ‘relocate’, ‘body count’ and ‘strategic hamlet’. To cope with the ensuing calamity, the Bundys and McNamaras later evolved the view that, while the war might have been a blunder, the error could, for reasons of state and for reasons of face, not be admitted. In this, too, they were seconded by Berlin. 
 
@@ -357,17 +397,20 @@ All we can say is that it murders less. We mustn't say this very proudly.
 <!-- Reddit on the ultra ending: "These complaints all feel sort of thematically fitting to the whole moralist attitude. Nothing happens, nothing changes, nothing improves. Everything just fizzles out." -->
 
 
+
 <br><br>
+
+
 
 <!-- > Now this ideology is only represented by student book clubs and old, decaying philosophers. -->
 
 ### Depressive leftism
 
-> “Instead of building Communism, he now builds a precise model of this grotesque, duplicitous world.”
+> Instead of building Communism, he now builds a precise model of this grotesque, duplicitous world.
 
 <br>
 
-> "The Gottwald School believe that intellectuals as a class are incapable of sparking revolutionary change, so all they can do is *critique* capitalism from inside itself."
+> "The Gottwald School believe that intellectuals as a class are incapable of sparking revolutionary change, so all they can do is *critique* capitalism from inside itself."<br>
 > LOGIC - In other words, they have lost faith in their own relevance.
 
 <br>
@@ -398,11 +441,14 @@ Steban: I guess you could say we believe it *because it's impossible*. (he looks
 
 You'd never guess these days, but I come from the hard left (protested the Iraq war, called my college microeconomics class "capitalist missiology", rejected careerism as a racket, etc). It is common to mock the hard left for talking big and being totally ineffectual. 
 
+> Protest songs in response to military aggression!<br>Protest songs trying to stop soldiers' guns!
+
+
 But this is wisdom in a modern radical! No one with any awareness of history, human motivations, economics, or current affairs can think that the state of things is ok. But no one with any awareness of history, human motivations, economics, or current affairs can think that solving things would be easy, that you violently wresting the reins of power would end well. So you stand to the side and shout. 
 
 <br>
 
-I chose something else though: actually helping.
+I chose something else though: 
 
 
 <blockquote>
@@ -410,11 +456,8 @@ I chose something else though: actually helping.
 </blockquote>
 <center>– <a href="https://theunitofcaring.tumblr.com/post/135400140231/you-have-the-most-hilariously-naive-politics-ive">unit of caring</a></center>
 
-<br>
+<br><br>
 
----
-
-<br>
 
 ### Life imitates art
 
@@ -425,7 +468,7 @@ I chose something else though: actually helping.
 The game is enhanced further by the extremely on-the-nose drama that befell the studio: they suffered <a href="{{kompus}}">something like a hostile takeover</a> and embezzlement after its initial success attracted the sharks. The details are hazy, behind the standard totally opaque walls of commerce. 
 <!-- Was Kender an Ephialtes? -->
 
-That black comedy is ready to birth another: the new owners sold the film rights to DE's capitalist realism -- brought to you by [the creators](https://www.dj2entertainment.com/blog/https/varietycom/2020/tv/news/disco-elysium-tv-series-1234690455) of "Sonic the Hedgehog: The Movie" (2020).
+That black comedy is ready to birth another: the new owners sold the film rights. Capitalist realism, brought to you by [the creators](https://www.dj2entertainment.com/blog/https/varietycom/2020/tv/news/disco-elysium-tv-series-1234690455) of "Sonic the Hedgehog: The Movie" (2020).
 
 
 
@@ -436,15 +479,15 @@ That black comedy is ready to birth another: the new owners sold the film rights
 
 <br>
 
-Cynical as they are, realistic as they are, idealistic as they are, they don't go far enough along any of these axes. _Cynicism_: Revolution is a youth politics for a reason: it's a great signal and offers the young and psychotic resources they can't get otherwise. _Realistic_: the world is not actually broken. It's unfair and contains many terrible things, and no we cannot actually solve collective action problems by saying nice words and hoping hard, but that's different from being hopeless, valueless, in pieces. _Idealistic_: The world is getting better in many ways, in spite of rent-seekers and bastards. Individuals are surprisingly powerful and the system still has millions of holes in it.
+Cynical as they are, realistic as they are, idealistic as they are, they don't go far enough along any of these axes. _Cynicism_: Revolution is a youth politics for a reason: it's a great signal and offers the young and psychotic resources they can't get otherwise. _Realistic_: the world is not actually broken. It's unfair and contains many terrible things, and no we cannot actually solve collective action problems by saying nice words and hoping hard -- but that's different from being hopeless, valueless, in pieces. _Idealistic_: The world is getting better in many ways, in spite of rent-seekers and bastards. Individuals are surprisingly powerful and the system still has millions of holes in it.
 
-But playing it I am reminded what is great about the left – the cussed rejection of compromise, the joy of deviance, death before compromise, the white-hot [rage](https://twitter.com/EverDundas/status/958664289405079555/photo/1) inside compassion. I am not as I was before. I am open to other experiments, weirder art, weirder people, ready to be disappointed again, chambered and aimed. 
+But playing it I am reminded what is great about the left – the cussed rejection of compromise for a third option which might never arrive – the joy of deviance in the teeth of moralists and authoritarians – getting up after being punched again, betrayed again, dumped again – the white-hot [rage](https://twitter.com/EverDundas/status/958664289405079555/photo/1) inside compassion. I am not as I was before. I am open to other experiments, weirder art, weirder people, ready to be disappointed again, chambered and aimed. 
 
 <br><br>
 
 
 
-> unexpected, beautiful things are still possible with moments like the Phasmid scene and the brief glimmers of genuine solidarity among its characters. The dice-rolling nature of the game itself asserts that while we have very little control over our lives, there is always possibility. 
+> unexpected, beautiful things are still possible... brief glimmers of genuine solidarity... The dice-rolling nature of the game asserts that, while we have very little control over our lives, there is always possibility. 
 
 <center>— <a href="https://www.backloggd.com/u/caebl201/review/306803">caebl</a></center>
 
@@ -486,4 +529,19 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 * https://noescapevg.com/disco-elysium-and-copaganda/ <br>
 * https://www.thefandomentals.com/past-disco-elysium/
     </div>
+</div>
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+        People like to say that misogyny is a necessary condition but I'm not sure: there can be more than one bad thing in the world.
+    </li>   
+    <li class="footnote" id="fn:2">
+        Some people argue that the really essential component of the world-system is a sense of inevitability for these three ideologies ("capitalist realism"). 
+    </li>
+</ol>
+
 </div>
