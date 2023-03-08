@@ -5,7 +5,7 @@ baselink:   /big3
 permalink:  /big3
 date:       2022-07-01  
 author:     Gavin   
-img:        /img/arb.svg
+img:        /img/arb.png
 
 visible:    0
 quality:    6
@@ -15,6 +15,14 @@ categories: arb, forecasting, scifi
 importance: 7
 where:      "Prague, Czechia"
 ---
+
+
+<img width="9%" src="/img/arb.png" />
+<br>
+
+_<a href="{{arb}}">Arb</a> is my research consultancy. We are usually <a href="https://arbresearch.com/jobs">hiring</a>._
+
+<br>
 
 <a href="https://www.cold-takes.com/the-track-record-of-futurists-seems-fine/">Surely the maddest thing I will ever be paid to do.</a>
 

@@ -362,12 +362,17 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 {%	assign schw = "https://schwitzsplinters.blogspot.com/2020/08/philosophy-that-closes-vs-philosophy.html"	%}
 {%	assign stove = "https://web.maths.unsw.edu.au/~jim/wrongthoughts.html"	%}
 {%	assign spol = "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/"		%}
+{%	assign carl = "https://joecarlsmith.com/2023/02/16/why-should-ethical-anti-realists-do-ethics"	%}
+
+
+
 
 * <a href="/broadness">Broadness as trivial predictor of philosophical status</a>
 * Tom Adamczewski, <a href="{{sitt}}">Philosophical Success Stories</a>
 * Massimo Pigliucci, <a href="{{pig2}}">Progress in Philosophy</a>
 * Graham Johnson, <a href="{{suspended}}">Conceptual engineering: the revolution in philosophy you've never heard of</a>
 * <a href="{{schw}}">Schwitzgebel on philosophy that opens</a>
+* Carlsmith, <a href="{{carl}}">Why ethical anti-realists should do ethics</a>
 * <a href="{{stove}}">The dangerous ravings of David Stove</a>
 * Luke Muehlhauser, <a href="{{prog}}">Philosophy: A Diseased Discipline</a>
 * <a href="{{spol}}">Spolsky on the risks of abstraction even in practical matters</a>
@@ -385,6 +390,8 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 	</li>
 <!--  -->
 	<li class="footnote" id="fn:2">
-		Technical minds sometimes manage it, but only with a lot of help from data, plus maths, plus just thinking about it. But that isn't philosophy, <a href="{{nat}}">anymore</a>. Philosophers quite often solve technical problems, but they do so only when they go past purely verbal philosophy. David Lewis, Frank Ramsey, John Broome, Hilary Putnam, John Harsanyi, Derek Parfit all made big steps forward by using decision theory or game theory or utility theory or learning theory. As I note below, logic is the most progressive programme in philosophy for a reason.
+		Technical minds sometimes manage it, but only with a lot of help from data, plus maths, plus just thinking about it. But that isn't philosophy, <a href="{{nat}}">anymore</a>.<br><br> 
+<!--  -->
+		Philosophers quite often solve technical problems, but they do so only when they go past purely verbal philosophy. David Lewis, Frank Ramsey, John Broome, Hilary Putnam, John Harsanyi, Derek Parfit all made big steps forward by using decision theory or game theory or utility theory or learning theory. As I note below, logic is the most progressive programme in philosophy for a reason.
 	</li>
 </ol>

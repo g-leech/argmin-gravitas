@@ -195,6 +195,8 @@ _Cost per year_: £40
 
 * https://gethuman.com/
 
+* https://www.verifyemailaddress.org/email-validation
+
 * <a href="{{pi}}">Pi-hole</a> ad blocker (£25). Stops ads at the source, for every device in your house at once.<br>
 _Expected lifespan_: 5 years.
 

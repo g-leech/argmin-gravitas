@@ -65,6 +65,7 @@ visible:	true
 
 ### Popular
 
+* <a href="{{ifp}}">Can Policymakers Trust Forecasters?</a> (2023)
 * Total rewrite of the <a class="noline" href="{{wiki}}">AI alignment wikipedia page</a> with Mantas Manzeikas and Sören Mindermann (2022)<br><br>
 * Some shallow investigations of modern psychometrics and <a href="{{talent}}">talent scouting</a> (2023).
 * <a class="noline" href="{{big3}}">Scoring the Big Three</a> (2022)<br><br>
@@ -83,7 +84,7 @@ visible:	true
 
 * Briefed the UK Cabinet Office <a href="{{ctf}}">COVID-19 Task Force</a> on mask policy.<br><br>
 * Briefed the UK Cabinet Office on AI economics.<br><br>
-* Reviewer for <a href="{{pnas}}">PNAS</a>, <a href="{{ml}}">Machine Learning</a>, <a href="{{bmj}}">BMJ Global Health</a>, <a href="{{bmc}}">BMC Medicine</a>, <a href="{{aisc}}">AI Safety Camp</a>.
+* Reviewer for <a href="{{pnas}}">PNAS</a>, <a href="{{ml}}">Machine Learning</a>, <a href="{{bmj}}">BMJ Global Health</a>, <a href="{{bmc}}">BMC Medicine</a>, <a href="{{aisc}}">AI Safety Camp</a>, <a href="{{pib}}">PIBBSS</a>.
 
 <br>
 
