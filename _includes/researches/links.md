@@ -65,3 +65,5 @@
 {%	assign big3 = "https://www.cold-takes.com/the-track-record-of-futurists-seems-fine/"	%}
 {%  assign wiki = "https://en.wikipedia.org/wiki/AI_alignment"      %}
 {%  assign bmc = "https://bmcmedicine.biomedcentral.com"  %}
+{%  assign pib = "https://pibbss.ai/"   %}
+{%  assign ifp= "https://progress.institute/can-policymakers-trust-forecasters/"    %}

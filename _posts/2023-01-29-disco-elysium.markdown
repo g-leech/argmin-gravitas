@@ -15,7 +15,7 @@ confidence:
 quality:    7
 importance: 5
 emotion:    7
-wordcount:  4000
+wordcount:  5000
 argument:   
 categories: art, politics, mind, becoming  
 warnings:   Spoilers throughout.
@@ -106,7 +106,7 @@ That the game is also actually existentialist and an amazing portrait of multi-a
 
 <br>
 
-People wrongly call this sort of thing 'pretentious', because people don't get that pretension is about _pretence_: pretending to be deeper than you are. Being abstruse is something else. It's melancholy but not self-pitying and not life-denying. It's cynical but not sneering and not unkind. The grail.
+People wrongly call this sort of thing 'pretentious', because people don't get that pretension is about _pretence_: pretending to be deeper than you are. Being abstruse is something else. It's melancholy but not self-pitying and not life-denying. <a href="#fn:7" id="fnref:7">7</a> It's cynical but not sneering and not unkind. The grail.
 <!-- Its misanthropy is pretty toothless – we are just 'evil apes'.  -->
 
 Subcultures and archetypes it depicts perfectly: cops, drugs, organic racism, theoretical racism, rave philosophers, locker room nastiness, bureaucrats, petit bourgeois, haute bourgeois, realpolitik operators, depressed leftists, and the various kinds of <a href="{{temp}}">revolutionary</a>. They don't do quite as well on fascism or neoliberalism or centrism. But still more accurate and thoughtful than almost any radicals.
@@ -267,7 +267,7 @@ The remarkable thing is that KHTK can depict humanity's prey relationship to ide
 
 ### Gettier superstitions
 
-> We're big fans of Émile Zola but if there's one thing he leaves out, it’s the supernatural... we live in a world where, even in the C21st we don't really understand what's happening... I think in order to truly represent life realistically, you have to have a complete unknown.
+> We're big fans of Émile Zola but if there's one thing he leaves out, it’s the supernatural... we live in a world where, even in the twenty-first century — the age of science — we don't really understand what's happening. We don't understand death or the universe. I think in order to truly represent life realistically, you have to have a complete unknown..
 
 <center>– <a href="{{inverse}}">Helen Hindpere</a></center>
 
@@ -304,9 +304,14 @@ What hope do we have against it?
 
 The script has some contempt for the rave babblers and the idiot edginess of the Skulls. People who mistake artistic shock for a political statement. (TODO: write about how the idiot ravers are actually the heart of the story, the titular theme, living inside liberalism's ruins, hedonistic but wise.)
 
-The developers are represented throughout the game. The failure of <a href="http://web.archive.org/web/20160517101025/http://devblog.fortressoccident.com/">Fortress Accident</a> is their fear for their own fate. 
+The developers are represented throughout the game. The failure of <a href="http://web.archive.org/web/20160517101025/http://devblog.fortressoccident.com/">Fortress Accident</a> is their fear for their own fate.
 
-Another depiction portrays them as pathetic workaholics:
+> NOVELTY DICEMAKER: They seemed to believe they were historical individuals on some *grand* quest.
+> DRAMA - She sounds almost mocking when she says that. 
+
+> They lacked the *will* to get things done. As their financial situation became more desperate, their ideas devolved from realistic to absolute insanity. We lost all of our money. High-art types never deliver. 
+
+Yet another depiction portrays them as pathetic workaholics:
 
 > YOU: Are there people in there?<br>SHIVERS – Yes, [ZA/UM] hard at work at their desks. They can barely tell if it's day or night anymore because the lights in the building are so uniform and bright. Who knows when they'll come out?<br>YOU – What keeps them motivated?<br>SHIVERS – Irony. They're yuppies masquerading as [Marxists]... Or was it [Marxists] masquerading as yuppies? Even they get confused sometimes...
 
@@ -329,7 +334,9 @@ To fight the pale (the past and its nihilism), you need to look forward instead 
 
 > a *strict* psychological regime imitating the creation process of poetry...
 
-[You need](http://fayde.co.uk/dialojue/5580503)... <a href="{{full}}">anodic music</a>. Art which incorporates the sound of the world dying, and somehow makes the situation better. 
+[You need](http://fayde.co.uk/dialojue/5580503)... <a href="{{full}}">anodic music</a>. Art which incorporates the sound of the world dying, 'the anthem of a future which will never come', and somehow makes the situation seem better. 
+
+> The wounds from the war you've waged on your body are healing, twist by twist, turn by turn. You must have touched upon an entirely new way of moving the human body! 
 
 <br>
 
@@ -451,6 +458,11 @@ If our world can be said to have a system, it is humanism (bourgeois morality, r
 But what is the relationship between ultraliberalism (capitalism) and Moralism (humanism)? On the face of it they seem unrelated, answering different questions, enlisting different people with very different temperaments. How do they share power? Are they the same thing, is one a mask for the other to operate more freely with a good conscience?
 
 I don't think the game has the answers. Centrism gets a weak treatment: the authors fail to note _any_ common ground between centrism and leftism - the fucking labour movement being the obvious one, or human rights, antiwar, and for most of history, the prioritisation of [growth](http://fayde.co.uk/dialojue/3621637). Even a cartoon punk band of 20 year olds can do <a href="{{baby}}">better</a> than that ("_We marched together for the eight-hour day / and held hands in the streets of Seattle._")
+
+
+> Business loves silence, the second loudest sound in the world, eclipsed only by the collective screams of market crash victims. So let me whisper... Are the better days gone, are we entering bankruptcy? Is the company gonna go down and leave you in the gutter with the rest of the dredges, delivering parcels for soup money? You need to crisis-manage your way out of this.
+
+> You just need to move on -- like a plague of locusts. Failure is a core tenet of liberalism. When life closes a door, it opens a window. And if the fall is too steep, use the fire exit. Run to the roof -- you always have that airship on the dock. The most important thing is to keep moving. Keep dreaming. The auditors cannot get to you if you keep running -- very, very fast, from one fuck-up to the next.
 
 Against this general othering of liberals, we have to note KHTK's loving portrait of Kim, the sincere, decent Moralist - whose portrait, on your screen for most of the game, wears <a href="https://static.wikia.nocookie.net/disco-elysium/images/7/77/Kim-kitsuragi.jpg">an actual halo</a>. He's the icon of self-control and the good side of the professions and institutions. If commie cop is in some ways the natural path for you to make Harry walk – if Harry is an incoherent soul who could turn into something else at any moment – every playthrough will have the same Kim, a fulcrum of normie virtue to anchor him. <a href="#fn:6" id="fnref:6">6</a>
 
@@ -634,6 +646,9 @@ But playing it I am reminded what is great about the left – the cussed rejecti
     </li>
     <li class="footnote" id="fn:6">
         You actually can't do many evil or illegal things when he's with you. You don't want to let him down.
+    </li>
+    <li class="footnote" id="fn:7">
+        <blockquote>When life closes a door, it opens a window.</blockquote>
     </li>
 </ol>
 
