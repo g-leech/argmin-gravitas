@@ -65,7 +65,7 @@ visible:	true
 
 ### Popular
 
-* <a href="{{ifp}}">Can Policymakers Trust Forecasters?</a> (2023)
+* <a class="noline" href="{{ifp}}">Can policymakers trust forecasters?</a> (2023)<br><br>
 * Total rewrite of the <a class="noline" href="{{wiki}}">AI alignment wikipedia page</a> with Mantas Manzeikas and Sören Mindermann (2022)<br><br>
 * Some shallow investigations of modern psychometrics and <a href="{{talent}}">talent scouting</a> (2023).
 * <a class="noline" href="{{big3}}">Scoring the Big Three</a> (2022)<br><br>
