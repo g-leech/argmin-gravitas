@@ -38,6 +38,12 @@ On a lighter note, security is an amazing way to learn about how the internet ac
 
 Most of this article assumes you're using Firefox, <a href="{{chrome}}">because</a> <a href="{{chromeCookies}}">Chrome</a> <a href="https://blog.cryptographyengineering.com/2018/09/23/why-im-leaving-chrome/">is itself</a> <a href="{{protonChrome}}">an attack</a>. That is, it protects you very well against everyone except Google. <a href="#fn:2" id="fnref:2">2</a> It's not a big deal compared to the other parts of this list, you'll just need to find alternatives to the add-ons I recommend.
 
+<br>
+
+_2023 edit: most of the below is still fairly relevant, but the adaptive nature of attacks means you should seek out [more modern notes](https://ssd.eff.org) too._
+
+<br><br>
+
 <div class="accordion">
 	<h3>Ugh factors and tail risks</h3>
 	<div>

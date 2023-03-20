@@ -149,6 +149,8 @@
 			https://blog.cerebralab.com/
 			<br>
 			https://milkyeggs.com/
+			<br>
+			http://alok.github.io/
 		</div>
 	</div>
 </div>
