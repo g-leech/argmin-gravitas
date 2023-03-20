@@ -49,6 +49,19 @@ Why prefer the bottom-right? Why not write ephemera, or for oneself only?
 No binding reason: just if you want to do something big; if your ego or your morals demand it; if you want to seed more than a one-time flurry of agreement, disagreement, indifference, impressions. The rest of this piece is about the second column.
 
 
+<div class="accordion">
+    <h3>Foundations of long work</h3>
+    <div>
+        1. <a href="/scarcity">Slack</a> <br>
+        2. <a href="{{long}}">Perspective</a> <br>
+        3. <a href="{{life}}">Lifespan</a>.<br>
+        4. Backups (your stuff <i>and</i> <a href="{{link}}">your links</a>)<br>
+        5. Unusually <a href="{{serv}}">resilient</a> or portable software.<br>
+        6. Public version control to prevent impropriety (memory holes, retcons, unstable testimony).<br>
+        7. Maybe a notification for big updates, or a way of reporting diffs.<br>
+        8. Something worth growing.
+    </div>
+</div>
 
 <br>
 
