@@ -67,7 +67,7 @@ visible:	true
 
 * <a class="noline" href="{{ifp}}">Can policymakers trust forecasters?</a> (2023)<br><br>
 * Total rewrite of the <a class="noline" href="{{wiki}}">AI alignment wikipedia page</a> with Mantas Manzeikas and Sören Mindermann (2022)<br><br>
-* Some shallow investigations of modern psychometrics and <a href="{{talent}}">talent scouting</a> (2023).
+* Some shallow investigations of modern psychometrics and <a class="noline" href="{{talent}}">talent scouting</a> (2023).<br><br>
 * <a class="noline" href="{{big3}}">Scoring the Big Three</a> (2022)<br><br>
 * <a class="noline" href="{{kulveit}}">Learning from crisis</a> (2022)<br><br>
 * <a class="noline" href="{{supers}}">Comparing top forecasters and domain experts</a> (2022)<br><br>
@@ -76,7 +76,6 @@ visible:	true
 * <a  class="noline" href="{{xrisk}}" target="_blank">Existential risk as common cause</a> (2018)<br><br>
 * <a  class="noline" href="/grids" target="_blank">Side effects in Gridworlds</a> (2018). <a href="{{gridcite}}">Developed further</a>.
 
-<!-- *Gelman  -->
 
 <br>
 
@@ -93,6 +92,7 @@ visible:	true
 * Masks: <a href="{{bbc}}">BBC</a>, <a href="{{acxmandate}}">ACX</a>, <a href="{{nyt}}">New York Times</a>, <a href="{{wired}}">Wired</a>, <a href="{{guardian}}">Guardian</a>, <a href="{{mails}}">Mail</a>, <a href="{{mr}}">Marginal Revolution</a>, <a href="{{ag}}">Gelman</a><br><br>
 * Psychology: <a href="{{nat}}">Nature</a>, <a href="{{ag}}">Gelman</a>, <a href="{{jc}}">Coyne</a>, <a href="{{hertz}}">Everything Hertz</a>, <a href="{{sbs}}">Stronger by Science</a>.
 
+<!-- *Gelman  -->
 <br>
 
 ### Teaching
