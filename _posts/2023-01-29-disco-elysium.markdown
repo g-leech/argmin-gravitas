@@ -43,12 +43,24 @@ where:      "Bristol"
 {%   assign anode = "https://en.wikipedia.org/wiki/Anodic_protection"        %}
 {%   assign zaum = "http://web.archive.org/web/20200506203110/https://zaumstudio.com/2019/10/08/welcome-to-revachol/" %}
 {%   assign full = "https://youtu.be/wm_RTOABNKs?t=644" %}
+{%   assign hanged = "https://www.youtube.com/watch?v=ZfQRf4zLcrU"    %}
+{%   assign spine = "https://youtu.be/m6ZLhVXL8wA?t=1400" %}
+{%   assign horrific = "https://www.youtube.com/watch?v=72v8jMlCNT4"   %}
+{%   assign bloat = "https://www.youtube.com/watch?v=zTLIjfJVDOc"    %}
+{%   assign arb = "https://www.reddit.com/r/DiscoElysium/comments/elvu08/ancient_reptilian_brain_and_the_limbic_system/"   %}
+{%   assign plasm = "http://fayde.co.uk/dialojue/3650005"  %}
+{%   assign cris = "https://baslag.fandom.com/wiki/Crisis_theory"   %}
+{%   assign art = "https://archive.org/details/discoelysiumartbook/"   %}
 
 
 
 <a href="{{thought}}" target="_blank">
     <img src="{{thought}}" />
 </a>
+
+<style>
+    .noline { text-decoration: none }
+</style>
 
 <center>"Thought Cabinet" (2019) by Anton Vill 
     &nbsp;&nbsp;
@@ -62,27 +74,27 @@ where:      "Bristol"
 
 > Every school of thought and government has failed in this city — but I love it nonetheless.
 
-<center>– <a href="{{kim}}">Kim</a></center>
+<center>– <a class="noline" href="{{kim}}">Kim</a></center>
 
 <br>
 
 > Blending often incompatible systems of thought, the resulting hodge-podge lacked rigour from the stern standpoint of academics and ideologues alike. But in rock music a little rigour is rather bracing and galvanizing. Too much is plain rigid, but Gang of Four hit just the right balance. In the grand tradition of British art-rock, theory helped them achieve the sort of conceptual breakthroughs that more organically evolving groups never reach.
 
-<center>– <a href="{{rey}}">Simon Reynolds</a></center>
+<center>– <a class="noline" href="{{rey}}">Simon Reynolds</a></center>
 
 <br>
 
 > Nothing ever works out the way you wanted. That’s why people like role-playing games. You can be whoever you want to be. You can try again.
 
-<center>– <a href="{{dice}}">Novelty Dicemaker</a></center>
+<center>– <a class="noline" href="{{dice}}">Novelty Dicemaker</a></center>
 
 
 <br><br>
 
 
-On launch, _Disco Elysium_ presents you with <a href="/img/discoskill.webp">24 bizarre skills</a>, half of which you can't even vaguely understand. These are actually your [subpersonalities](https://www.alignmentforum.org/posts/iCfdcxiyr2Kj8m8mT/the-shard-theory-of-human-values). As well as this incredibly loud internal chorus, your character state includes your overall archetype (Intellectual, Psyche, Motorics, "Physique"); your political ideologies (nonexclusive); your identity projects and Idees fixes (Thought Cabinet); and _crucially_ your outfit, which drastically alters your personality and capacities.
+On launch, _Disco Elysium_ presents you with <a href="/img/discoskill.webp">24 bizarre skills</a>, half of which you can't even vaguely understand. These are actually your [subpersonalities](https://www.alignmentforum.org/posts/iCfdcxiyr2Kj8m8mT/the-shard-theory-of-human-values). <a href="#fn:8" id="fnref:8">8</a> As well as this incredibly loud internal chorus, your character state includes your overall archetype (Intellectual, Psyche, Motorics, "Physique"); your political ideologies (nonexclusive); your identity projects and Idees fixes (Thought Cabinet); and _crucially_ your outfit, which drastically alters your personality and capacities.
 
-The script is about <a href="https://www.dualshockers.com/disco-elysium-script-length-one-million-words/">2000</a> pages long. <!-- The soundtrack screeches at you.--> In a real sense it took <a href="https://www.articy.com/en/showcase/disco-elysium/">19 years</a> to make. The branching factor on most conversations is well above 1. You _could_ reconstruct its <a href="http://fayde.co.uk/search?query=sorry&WordBoundaries=0&actor1=&actor2=&VariableSearch=0&commit=Search">great and vast dialogue tree</a> in a mere novel... if you printed dozens of choose-your-own adventure paper books with thousands of post-its inside. So, excessive.
+The script is about <a href="https://www.dualshockers.com/disco-elysium-script-length-one-million-words/">2000</a> pages long. <!-- The soundtrack screeches at you.--> In a minor sense it took <a href="https://www.articy.com/en/showcase/disco-elysium/">19 years</a> to make, but even the 5 years of intensive work is unusual. The branching factor on most conversations is well above 1. You _could_ reconstruct its <a href="http://fayde.co.uk/search?query=sorry&WordBoundaries=0&actor1=&actor2=&VariableSearch=0&commit=Search">great and vast dialogue tree</a> in a mere novel... if you printed dozens of choose-your-own adventure paper books with thousands of post-its inside. So, excessive.
 
 
 <img src="/img/DiscoElysium_Articy_Flow_HangedMan.jpg" />
@@ -95,21 +107,26 @@ The script is about <a href="https://www.dualshockers.com/disco-elysium-script-l
 
 It is a _point and click whodunnit with an amnesic protagonist_, for fuck's sake! <a href="#fn:4" id="fnref:4">4</a>  Yet another lesson, if you needed one, that there is no genre so overdone, no trope too passé, that a great artist cannot wring more out of. In art, nothing is ruined, nothing is useless, nothing is meaningless. (One reason it can never be realistic.) So, revitalising.
 
-It's far more politically sophisticated than most books. I call it political fiction because it depicts the emotional and structural detail of several wildly different worldviews so well, better than anything since <i>Red Plenty</i> (2010). They made something [smarter than themselves](https://www.youtube.com/watch?v=d1gKGq44NxQ), they satirise their own too. This can happen! <a href="#fn:3" id="fnref:3">3</a> 
+It's far more politically sophisticated than most books. I call it political fiction because it depicts the emotional and structural detail of several wildly different worldviews so well, better than anything since <i>Red Plenty</i> (2010). They made something [smarter than themselves](https://www.youtube.com/watch?v=d1gKGq44NxQ), they satirise their own too. This can happen! <a href="#fn:3" id="fnref:3">3</a> It resists compression. I could spend another couple dozen hours noticing things and making up themes. Redemption – isn't everyone's first playthrough the redemption arc? – is only the simplest and most obvious route through. Subcultures and archetypes it depicts perfectly: cops, drugs, organic racism, theoretical racism, rave philosophers, locker room nastiness, bureaucrats, petit bourgeois, haute bourgeois, realpolitik operators, depressed leftists, and the various kinds of <a href="{{temp}}">revolutionary</a>. They don't do quite as well on fascism or neoliberalism or centrism. But still more accurate and thoughtful than almost any radicals. So, polymorphous.
 
-It resists compression. I could spend another couple dozen hours noticing things and making up themes. Redemption – isn't everyone's first playthrough the redemption arc? – is only the simplest and most obvious route through. So, polymorphous.
+> TEN BRAINS HYPERTHREADING
 
 How did they make the best RPG ever? Well, spending 18 years on it must've helped. Returning to the opening Reynolds line, I also want to say that their post-marxism is a long difficult ladder which let them into virgin areas of game narrative and of course provided a rich layer of historical tragedy over everything else in the game. The truth or usefulness of theory isn't the main thing when you're making art. This is the _latent_ function of critical theory: making people make interesting art, by removing certain preconceptions and instilling new ones. So, an elevating false framework.
 
+> Micro-reactivity is the game reacting to a minor choice you made long ago. For example: you have the gardening gloves from Elizabeth the Gardener, and now, many hours later, in the middle of a completely unrelated quest, you’re considering what hobby to take on. Kim should say: "Why not gardening?” This is cross-quest micro-reactivity and developers who aren’t brain damaged don’t have it in their games
 
-That the game is also actually existentialist and an amazing portrait of multi-agent mind and <a href="{{greek}}">a Greek tragedy</a> and a work of science fiction which justifies <a href="{{slip}}">an obtuse synonym</a> and bedecked in Lucian Freud visuals and shimmery post-rock ambience is just icing. 
+<center>– <a class="noline" href="{{art}}">Kurvitz</a></center>
 
 <br>
 
-People wrongly call this sort of thing 'pretentious', because people don't get that pretension is about _pretence_: pretending to be deeper than you are. Being abstruse is something else. It's melancholy but not self-pitying and not life-denying. <a href="#fn:7" id="fnref:7">7</a> It's cynical but not sneering and not unkind. The grail.
+That the game is also actually existentialist and an amazing portrait of multi-agent mind and <a href="{{greek}}">a Greek tragedy</a> and a work of science fiction which justifies <a href="{{slip}}">an obtuse synonym</a> and bedecked in Lucian Freud / Jenny Saville _actually-painted_ visuals and shimmery post-rock ambience is just icing. 
+
+<br>
+
+<!-- People wrongly call this sort of thing 'pretentious', because people don't get that pretension is about _pretence_: pretending to be deeper than you are. Being abstruse is something else.  -->
+It's melancholy but not self-pitying and not life-denying. <a href="#fn:7" id="fnref:7">7</a> It's cynical but not sneering and not unkind. The grail.
 <!-- Its misanthropy is pretty toothless – we are just 'evil apes'.  -->
 
-Subcultures and archetypes it depicts perfectly: cops, drugs, organic racism, theoretical racism, rave philosophers, locker room nastiness, bureaucrats, petit bourgeois, haute bourgeois, realpolitik operators, depressed leftists, and the various kinds of <a href="{{temp}}">revolutionary</a>. They don't do quite as well on fascism or neoliberalism or centrism. But still more accurate and thoughtful than almost any radicals.
 
 <br>
 
@@ -125,8 +142,16 @@ Subcultures and archetypes it depicts perfectly: cops, drugs, organic racism, th
         <center>– <a href="{{argo}}">Tuulik</a></center>
         <br><br>
         I'm mostly focussing on the script in this, because that's the really astonishing element of the game. Who did this?<br><br>
-        If any one person gets named it's <a href="{{kurv}}">Kurvitz</a>, the novelist and designer. <a href="{{helen}}">Helen Hindpere</a> came in halfway through development but probably deserves nearly as much credit. Kaur Kender is a novelist and was one of the first people to join the project but he's not credited as a writer. <a href="{{argo}}">Argo Tuulik and Justin Keenan</a> are likely not far behind (Cuno, Evrart). I'll say KHTK for short.<br><br> 
-        <i>As exophone prose</i>, it's really not far off Conrad and Nabokov.</div>
+        If any one person gets named it's <a href="{{kurv}}">Kurvitz</a>, the novelist and designer. <a href="{{helen}}">Helen Hindpere</a> came in halfway through development but probably deserves nearly as much credit. Kaur Kender is a novelist and was one of the first people to join the project but he's not credited as a writer. <a href="{{argo}}">Argo Tuulik and Justin Keenan</a> are likely not far behind (Cuno, Evrart). I'll say KHTK for short. (Kurvitz says there were 10 writers.)<br><br> 
+        <i>As exophone prose</i>, it's really not far off Conrad and Nabokov.<br><br>
+<!--  -->
+        It was an art collective before it was a game studio - they learned Blender and shaders off youtube - "<i>A roaringly unsuccessful group of writers, artists and
+political thinkers – from Estonia. A dark, tiny, angry... place</i>" - and who could have predicted how well that would work?
+        <blockquote>
+            You don’t reforge the tattered remains of your cultural organization into a blood-and-grinding-gears video game company because it’s nice. And natural. You do it because you’re utterly out of options<br><br>
+            An important part of ZA/UM studio culture was hosting life-and-gesture drawing events at least once a week. With the help of designer Toon Vugts, we held a public weekly community event where some twenty people, professionals, and hobbyists alike, would regularly come and draw with us. Our studio happened to share the same decrepit building as a small bookstore, and the two youngwomen running it kindly invited us to use their back room for these events. Together we worked towards reestablishing a tradition of figure drawing.
+        </blockquote>
+    </div>
 </div>
 
 <!-- It depicts racism in more detail than I thought was still possible in art. -->
@@ -146,20 +171,19 @@ some themes I've spotted so far:
 
 
 
-
 ### The political is personal
 
 > anytime you conclude that life stinks and the human race mostly amounts to a pile of shit, you’ve got the perfect breeding ground for fascism.
 
-– <a href="{{bangs}}">Lester Bangs</a>
+<center>
+    – <a class="noline" href="{{bangs}}">Lester Bangs</a>
+</center>
 
 <br>
 
-It's roughly correct to locate the origins and energy of fascism in personal grievance, gut feelings about purity, and nostalgia. <a href="#fn:1" id="fnref:1">1</a> But so too for communism and wishful thinking, magical thinking, impulsivity, fatigue, and sheer resentment. 
+It's roughly correct to locate the origins and energy of fascism in personal grievance, gut feelings about purity, and nostalgia. <a href="#fn:1" id="fnref:1">1</a> But so too for communism and its wishful thinking, magical thinking, impulsivity, fatigue, and sheer resentment. 
 
-> You: If communism keeps failing every time we try it...<br>
-Steban: (he waits patiently for you to finish)<br>
-You: ...And the rest of the world keep killing us for our beliefs...<br>
+> You: If communism keeps failing every time we try it... And the rest of the world keep killing us for our beliefs...<br>
 Steban: Yes?<br>
 Volition: Say it.<br>
 You: ...What's the point?<br>
@@ -188,10 +212,13 @@ Love [stands](http://fayde.co.uk/dialojue/5240035) as a metaphor for communism i
 
 <br>
 
-Absurd example of hiding baggage behind noble politics: Harry calls his ex Dora a war criminal and identifies her with a mythical Europa figure (who I can't quite place. Justice?) Harry's enormous pain is hysteroid dysphoria from a bad breakup, PTSD from 20 years of hard policing and terrible acts, brain damage from [sticking his head into a radioactive singularity](http://fayde.co.uk/dialojue/11050788-11050925#11050925), and only fourthly the social pain of an undemocratic life, a humiliated populace, [poverty](https://discoelysium.fandom.com/wiki/Revachol#Decades), and a lost utopia. But give him any chance and he will attribute his problems to the Coalition and the war.
+An absurd example of hiding baggage behind noble politics: Harry calls his ex Dora a war criminal and identifies her with a mythical Europa figure (who I can't quite place. Justice?) Harry's enormous pain is hysteroid dysphoria from a bad breakup, PTSD from 20 years of hard policing and terrible acts, brain damage from [sticking his head into a radioactive singularity](http://fayde.co.uk/dialojue/11050788-11050925#11050925), and only fourthly the social pain of an undemocratic life, a humiliated populace, [poverty](https://discoelysium.fandom.com/wiki/Revachol#Decades), and a lost utopia. But give him any chance and he will attribute his problems to the Coalition and the war.
 
 Following the communism = love thread right to the end: Dros is Harry's future if he never gets over his breakup. A void where a person used to be; a person completely defined by his own failure, cast as the world failing him. Lashing out as his last mode of human interaction.
 
+<br><br>
+
+<img src="/img/disco/physique.png" />
 
 <br><br>
 
@@ -210,7 +237,7 @@ The game's revealed stance is: politics is primarily talk. Because politics is a
 > In Disco Elysium the world is quickly being destroyed by a supernatural substance known as the "pale": they don't know how much time they have left, but it's on the order of a few decades. Everyone goes on with their petty squabbles regardless. The more I think about it, it seems like less of a fantasy and more of a mirror. How long until the last generation? 
 
 <center>
-– <a href="{{alvaro}}">Alvaro</a>
+– <a class="noline" href="{{alvaro}}">Alvaro</a>
 </center>
 
 <br>
@@ -256,11 +283,20 @@ This idea comes from bizarre radicals, but it ironically provides one of the few
 
 > all the Tribes are waging the same war the same ways. They all believe they are fated to win, because they are morally correct, which justifies tearing societies apart. Trying even harder to stomp on the Bad Tribe is the fuel for the dynamic... Realistically, your side can never gain enough power to silence them, nor will your propaganda ever convert them. No side can win the culture war. We all lose. It’s better to see the war itself, and the technology that stokes it, as the enemy.
 
-– [David Chapman](https://betterwithout.ai/AI-is-out-of-control)
+<center>
+    – <a href="https://betterwithout.ai/AI-is-out-of-control" class="noline">David Chapman</a>
+</center>
 
 <br>
 
-The remarkable thing is that KHTK can depict humanity's prey relationship to ideology _while still enthusiastically submitting to one_. (It is one thing to be a young communist in Britain, where the parties were tiny and their evils limited to toadyism and ruining a [few dozen lives](https://en.wikipedia.org/wiki/Gerry_Healy) through sexual abuse. It is quite mad to be a young communist in Estonia, where everyone's grandparents still remember someone they shot. The "Last Living Soviet Video Game Developers".)
+The remarkable thing is that KHTK can depict humanity's prey relationship to ideology _while still enthusiastically submitting to one_. (It is one thing to be a young communist in Britain, where the parties were tiny and their evils limited to toadyism and ruining a [few dozen lives](https://en.wikipedia.org/wiki/Gerry_Healy) through sexual abuse. It is quite mad to be a young communist in Estonia, where everyone's grandparents still remember someone they shot. <!-- The "Last Living Soviet Video Game Developers". -->)
+
+> We did not want a commercial paracosm. It was un-Hegelian. We wanted a quasi-sacral object complex. All that is interesting and terrible about history – and only that... As Soviet artists – perhaps the last Soviet artists – it was our duty to add to the relay. To keep history moving. Onward to the outer cosmos and the stars.
+
+
+<br><br>
+
+<img src="/img/disco/mental.png" />
 
 
 <br><br>
@@ -269,7 +305,7 @@ The remarkable thing is that KHTK can depict humanity's prey relationship to ide
 
 > We're big fans of Émile Zola but if there's one thing he leaves out, it’s the supernatural... we live in a world where, even in the twenty-first century — the age of science — we don't really understand what's happening. We don't understand death or the universe. I think in order to truly represent life realistically, you have to have a complete unknown..
 
-<center>– <a href="{{inverse}}">Helen Hindpere</a></center>
+<center>– <a class="noline" href="{{inverse}}">Helen Hindpere</a></center>
 
 <br>
 
@@ -286,21 +322,21 @@ A repeated irony is that _the cranks are right_, though for the wrong reasons. P
 
 > Beyond the curve of the horizon, where the ocean ends, is an unknowable anti-reality mass called the pale. It has been there for as long as human beings have written down history. And it’s advancing.
 
-<center>– <a href="{{zaum}}">Kurvitz</a></center>
+<center>– <a class="noline" href="{{zaum}}">Kurvitz</a></center>
 <br>
 
 What is it? Well, we <a href="{{pale}}">know</a> it's anthropogenic ("It is a nervous shadow cast into the world by you, eating away at reality. A great, unnatural territory. Its advent coincides with the arrival of the human mind."); that it's growing; that it has physical effects: it crushed the planet. [Joyce](http://fayde.co.uk/dialojue/6360172) speculates, I think correctly:
 
 > something whose fundamental property is the suspension of properties: physical, epistemological, linguistic... [it] somehow *consists* of past information... it’s rarefied past, not rarefied matter.
 
-So what threatens all life on Elysium? The past. Human trauma as a physical force, as entropy. The pale is nostalgia, looking backwards, and nihilism: collapsing under the weight of disappointment, revenge, collective punishment, trauma, accumulated damage and exposure. The pale is [the pathetic fallacy](https://en.wikipedia.org/wiki/Pathetic_fallacy) on the grandest possible scale: Harry being stuck on a bad breakup and giving up on life _is a microcosm of how the world ends_.
+So what threatens all life on Elysium? The past. <a href="#fn:5" id="fnref:5">5</a> Human trauma as a physical force, as entropy. The pale is nostalgia, looking backwards, and nihilism: collapsing under the weight of disappointment, revenge, collective punishment, trauma, accumulated damage and exposure. The pale is [the pathetic fallacy](https://en.wikipedia.org/wiki/Pathetic_fallacy) on the grandest possible scale: Harry being stuck on a bad breakup and giving up on life _is a microcosm of how the world ends_.
 
 
 What hope do we have against it?
 
 <br>
 
-### Ambivalence towards art and work
+### art and work, ambivalence towards
 
 The script has some contempt for the rave babblers and the idiot edginess of the Skulls. People who mistake artistic shock for a political statement. (TODO: write about how the idiot ravers are actually the heart of the story, the titular theme, living inside liberalism's ruins, hedonistic but wise.)
 
@@ -320,13 +356,15 @@ Quite scary: even marxists as sophisticated as KHTK have still internalised the 
 
 They obviously worked their arses off though. So this negativity about their project is a rare moment of pandering - or an incoherent little piece of antiwork.
 
+<br>
+
 > It's a small price to pay, a single human life, a little heart attack to make the greatest CRPG the world has ever seen! We are Eastern Europeans. <b>We need to make best computer RPG made!</b>"
 
-<center>–<a href="{{rpg}}"> Kurvitz</a></center>
+<center>–<a class="noline" href="{{rpg}}"> Kurvitz</a></center>
 
 <br>
 
-In fact (returning to the question of the Pale and the end of the world), one of the very few sentimental parts of the script involves art saving the world. The art of the club you help the kids start: the titular Disco.
+In fact (returning to the Pale and the end of the world), one of the very few sentimental parts of the script involves art saving the world. The art of the club you help the kids start: the titular Disco.
 
 Recall that the venue was built over the hole in the world, which is [the source](http://fayde.co.uk/dialojue/5581051) of the pale. It spills out the most hardcore thing there can be, "less than less than nothing".
 
@@ -348,8 +386,15 @@ To fight the pale (the past and its nihilism), you need to look forward instead 
     "<a href="{{anode}}">Anodic protection</a>": to electrify something, to stop it being corroded<br><br>
     "Anechoic" (sound deadening; cancelling waves; creating a clean slate)<br><br>
     </div>
+    <h3>Art, religion, science, and politics</h3>
+    <div>
+        The other thing we know can affect the pale is passion. The church was built to contain the hole in the world, and might have worked somewhat. Art is one way passion comes out. Religion another. Politics another. Science another. Passion looks forward. It is a <a href="{{plasm}}">plasm</a> and <a href="{{cris}}">crisis</a>.
+    </div>
 </div>
 
+<br><br>
+
+<img src="/img/disco/motoric.png" />
 
 
 
@@ -377,6 +422,7 @@ What you're good at _determines your decisions_ (represented by the game rolling
 
 There is such a thing as having too many skill points in something, particularly Physique (which leads to stuff like compulsive drug use as soon as you see them).
 
+To return to the political is personal: Skills also provide your political impulses. Authority and Endurance are the fascist skills. Endurance often talks about your gut (gut feeling), again with the organic intuitions of hatred. Your Communist thoughts are most often repped by Rhetoric (cheap talk). Empathy entails centrism; Savoir Faire implies capitalism. Fascist body, socialist mouth, centrist heart, capitalist dexterity.
 
 <br>
 
@@ -399,6 +445,25 @@ Embodied cognition: What you're wearing in-game has an absurdly dramatic effect 
 
 <br><br>
 
+### the unreliable narrator of your own life
+
+VOLITION - I have bad news for you.<br>
+YOU - What?<br>
+VOLITION - You know <a href="/img/discoskill.webp">these guys</a>?<br>
+LOGIC - Who, me?<br>
+DRAMA - Yes, you. He's talking about you, you boring stiff.<br>
+VOLITION - You too.<br>
+DRAMA - Me? What did I do? I'm merely a master thespian...<br>
+VOLITION - These guys are compromised. She's got them singing along to her tune. The little bleeps and bloops you trust for info -- you can't trust them anymore...<br>
+YOU - Which ones exactly are affected?<br>
+VOLITION - There's no way of knowing. At the moment I'm afraid it's best to assume ...*all* of them... when it comes to assessments of character and factual accuracy they are not to be trusted. Not with her.
+
+<br><br>
+
+<!-- Cunoesse is the Gnome of Geroma -->
+<!-- Egg Head is Far-Out Son of Lung -->
+<!-- Robert Kurvitz’s mom’s name is also Lillian -->
+
 ### Europe. 
 
 > Joy, the beautiful spark of divinity,<br>
@@ -418,7 +483,7 @@ Do you sense the creator?<br>
 Seek him above the starry canopy!<br>
 Above the stars he must dwell.
 
-– <a href="https://en.wikipedia.org/wiki/Anthem_of_Europe">Euro</a> 
+– <a class="noline" href="https://en.wikipedia.org/wiki/Anthem_of_Europe">Euro</a> 
 <br><br>
 
 
@@ -440,11 +505,10 @@ Maybe Paris - the seething esprit banlieue: wallowing, but also completely willi
 <br><br>
 
 
+<img src="/img/disco/inland.png" />
 
 
-
-
-
+<br><br>
 
 ### The system of the world
 
@@ -464,18 +528,18 @@ I don't think the game has the answers. Centrism gets a weak treatment: the auth
 
 > You just need to move on -- like a plague of locusts. Failure is a core tenet of liberalism. When life closes a door, it opens a window. And if the fall is too steep, use the fire exit. Run to the roof -- you always have that airship on the dock. The most important thing is to keep moving. Keep dreaming. The auditors cannot get to you if you keep running -- very, very fast, from one fuck-up to the next.
 
-Against this general othering of liberals, we have to note KHTK's loving portrait of Kim, the sincere, decent Moralist - whose portrait, on your screen for most of the game, wears <a href="https://static.wikia.nocookie.net/disco-elysium/images/7/77/Kim-kitsuragi.jpg">an actual halo</a>. He's the icon of self-control and the good side of the professions and institutions. If commie cop is in some ways the natural path for you to make Harry walk – if Harry is an incoherent soul who could turn into something else at any moment – every playthrough will have the same Kim, a fulcrum of normie virtue to anchor him. <a href="#fn:6" id="fnref:6">6</a>
+Against this general othering of liberals, we have to note KHTK's loving portrait of Kim, the sincere, decent Moralist - whose portrait, on your screen for most of the game, wears <a href="https://static.wikia.nocookie.net/disco-elysium/images/7/77/Kim-kitsuragi.jpg">an actual halo</a>. He's the icon of self-control and the good side of the professions and institutions. If commie cop is in some ways the natural path for you to make Harry walk – if Harry is an incoherent soul who could turn into something else at any moment – every playthrough will have the same Kim, a fulcrum of normie virtue, to anchor him. <a href="#fn:6" id="fnref:6">6</a>
 
 <!-- "stable shape compared to the blurry smears of colour we see in other portraits, which indicates Kim's role as an anchor"  -->
 
-But (leaving Kim aside) I smell vice in the broader geopolitics of Elysium: the Chomskyan vice of assuming that every event and every ill has a designer. Obviously a Western designer or a Western puppet. <!-- Haiti is one exception.  -->
+But (leaving Kim aside) I smell vice in the broader geopolitics of Elysium: the Chomskyan vice of assuming that every event and every ill has a designer. Obviously a Western designer or a Westerner's puppet. <!-- Haiti is one exception.  -->
 
 
 The main valid jab at institutional humanism is not murder or exploitation (which it usually does less than the alternatives) but hypocrisy, political cover, and denial of its own power. We killed hundreds of thousands of Iraqis, or got them killed, in the name of freedom, democracy, human rights, education, etc. [We tortured many others](https://www.independent.co.uk/news/uk/politics/complicity-in-torture-the-case-against-the-united-kingdom-9922063.html). This was not long ago and is not the most recent case.
 
 > The First World War was, like the abattoir in Vietnam, quite describable as a liberals’ war. Any medium-run view of history will show that it did more damage to ‘Western civilisation’ than any form of ideology, not least in clearing the very path, through the ruins and cadavers, along which totalitarians could later instate and militarise themselves...  Yet I think it’s clear... that it was the disturbance to the natural order that made the young Isaiah tremble and flinch... it would have been more precise to say: [horror] only for certain sorts of physical violence and political experiment. Policemen are supposed to control crowds, not crowds policemen. Vietnam... was a laboratory experiment run by technician-intellectuals and academic consultants, who furnished us with terms like ‘interdict’, ‘relocate’, ‘body count’ and ‘strategic hamlet’. To cope with the ensuing calamity, the Bundys and McNamaras later evolved the view that, while the war might have been a blunder, the error could, for reasons of state and for reasons of face, not be admitted. In this, too, they were seconded by Berlin. 
 
-<center>— <a href="{{hitch}}">Hitchens</a></center>
+<center>— <a class="noline" href="{{hitch}}">Hitchens</a></center>
 
 <br>
 
@@ -545,7 +609,7 @@ I chose something else though:
 <blockquote>
         <span style="font-weight:bold;">Anonymous asked</span>: 'you have the most hilariously naive politics i've ever seen, it's milquetoast pacifist liberalism meets autistic rationalism. grow a fucking backbone you fuck.'<br /><br /><span style="font-weight:bold;">Unitofcaring</span>: certain subbubbles of the Left have constructed this environment in which it is inherently pathetic, inherently contemptible, to say “mass murder is a really awful thing and if we can achieve our goals without it that’s worth striving for” or even “no matter what, I won’t endorse or participate in mass murder”. <br /><br />I can imagine how I’d be a Marxist. 30,000 kids die preventable deaths every day and that makes me angrier and sadder than you can possibly imagine and if I’d gotten ensnared in an ideology that claimed the only way for that to end was to kill all of the rich people, I’d probably also go around saying “kill all the rich people!” But I hope I’d never, ever equate “willingness to call for murder” with “moral strength” or “strength of character”.<br /><br />Valuing life is moral strength. Protecting people is strength of character. Calling for mass murder from your keyboard is cowardice. And the communities that deny those things, that circle the wagons around their conviction that willingness to kill people is equivalent to having a backbone, that claiming “the rich all deserve to die” is moral strength, that caring about human life is hilariously naive -<br /><br />- well, first of all, you’ll never get anything done. My friends and I will end those  deaths, eradicate malaria, fix global inequality, hunt down every source of human suffering and watch it take its last breath while you’ll sit there going “milquetoast pacifists! hilariously naive! the rich are not innocent!”. But second of all, you’ll spend your not-accomplishing-anything time in a bubble where caring about all human life is a weakness, where not wanting to murder people is disgusting and contemptible, and I know people are different psychologically but I can’t imagine anything worse than that.<br /><br />...come join us, we milquetoast autistic rationalist liberals, because you don’t have to rant on the internet about killing people to earn our esteem, you just have to fix stuff. 
 </blockquote>
-<center>– <a href="https://theunitofcaring.tumblr.com/post/135400140231/you-have-the-most-hilariously-naive-politics-ive">unit of caring</a></center>
+<center>– <a class="noline" href="https://theunitofcaring.tumblr.com/post/135400140231/you-have-the-most-hilariously-naive-politics-ive">unit of caring</a></center>
 
 <br><br>
 
@@ -556,7 +620,7 @@ I chose something else though:
 
 <br>
 
-The game is enhanced further by the extremely on-the-nose drama that befell the studio: they suffered <a href="{{kompus}}">something like a hostile takeover</a> and embezzlement after its initial success attracted the sharks. The details are hazy, behind the standard totally opaque walls of commerce. 
+The game is enhanced further by the extremely on-the-nose drama that befell the studio: they suffered <a href="{{kompus}}">something like a hostile takeover</a> and embezzlement after its initial success attracted the sharks. [Ganked](https://www.gamepressure.com/newsroom/fans-have-the-right-to-know-disco-elysium-co-creator-talks-zaum-l/z04ad7). The details are hazy, behind the standard totally opaque walls of commerce. 
 <!-- Was Kender an Ephialtes? -->
 
 That black comedy is ready to birth another: the new owners sold the film rights. Capitalist realism, brought to you by [the creators](https://www.dj2entertainment.com/blog/https/varietycom/2020/tv/news/disco-elysium-tv-series-1234690455) of "Sonic the Hedgehog: The Movie" (2020).
@@ -580,7 +644,7 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 
 > unexpected, beautiful things are still possible... brief glimmers of genuine solidarity... The dice-rolling nature of the game asserts that, while we have very little control over our lives, there is always possibility. 
 
-<center>— <a href="https://www.backloggd.com/u/caebl201/review/306803">caebl</a></center>
+<center>— <a class="noline" href="https://www.backloggd.com/u/caebl201/review/306803">caebl</a></center>
 
 <br>
 
@@ -588,7 +652,9 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 
 <center>— The Insulindian Phasmid</center>
 
+<br><br>
 
+<img src="/img/disco/revo.png" />
 
 
 <!-- https://www.tumblr.com/crimson-compass/56866500409/conversation-with-a-tax-collector-about-poetry -->
@@ -601,8 +667,12 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 * [FAYDE](http://fayde.co.uk/)
 * [Breaking the looms](https://slimemoldtimemold.com/2022/04/11/disco-elysium-breaks-the-looms-of-rpgs/)
 * Dubious [Chapo](https://www.vg247.com/how-the-last-living-soviet-video-game-developers-recruited-chapo-trap-house-for-disco-elysium) voiceovers.
-* https://www.inverse.com/input/gaming/the-materialism-magic-of-the-surprise-rpg-hit-disco-elysium
-* https://www.thefandomentals.com/past-disco-elysium/
+* [Inverse](https://www.inverse.com/input/gaming/the-materialism-magic-of-the-surprise-rpg-hit-disco-elysium)
+* [Fandomental](https://www.thefandomentals.com/past-disco-elysium/)
+* [The future of literature is video games](https://erikhoel.substack.com/p/the-future-of-literature-is-video)
+* [FULL-CORE STATE-NIHILIST](https://medium.com/@martinluiga/full-core-state-nihilist-bd6d6a13c3ba) (2012)
+<!-- https://archiveofourown.org/works/36377617/ -->
+* [ARTBOOK](https://archive.org/details/discoelysiumartbook/)<br><br>
 * Most of the academic writing about it sucks.
 
 <div class="accordion">
@@ -639,7 +709,7 @@ But playing it I am reminded what is great about the left – the cussed rejecti
         It is memeable, and ripe for the dirtbag left (see the [dubious Chapo](https://www.vg247.com/how-the-last-living-soviet-video-game-developers-recruited-chapo-trap-house-for-disco-elysium) voiceovers in the original cut). But it is less simple than that, you have to work to make it that simple, ignore 90% of the game. 
     </li>
     <li class="footnote" id="fn:4">
-        His blanket amnesia means that Harry has to learn literally everything about Elysium from his own name up to the political superstructure. "<a href="https://en.wiktionary.org/wiki/disco#Latin">discō</a>” is Latin for "I learn" (as in <i>discovery</i>). Detectives do disco.
+        His blanket amnesia means that Harry has to learn literally everything about Elysium from his own name up to the political superstructure.<br><br>"<a href="https://en.wiktionary.org/wiki/disco#Latin">discō</a>” is Latin for "I learn" (as in <i>discovery</i>). Detectives do disco. Harry rediscovers Elysium with us.
     </li>
     <li class="footnote" id="fn:5">
         A trivial gloss of this would read as "causality" instead, path dependence. But this robs the pale of its weird psychological ("dialectical materialist") features. Psychology and history causes the pale, which causes nothingness. 
@@ -650,6 +720,12 @@ But playing it I am reminded what is great about the left – the cussed rejecti
     <li class="footnote" id="fn:7">
         <blockquote>When life closes a door, it opens a window.</blockquote>
     </li>
+    <li class="footnote" id="fn:8">
+        Actually 30 subpersonalities if we include your <a href="{{arb}}">Ancient Reptilian Brain</a> (self-preservation), <a href="{{arb}}">Limbic System</a> (emotional immune system), <a href="{{spine}}">Spinal Cord</a> (love of movement), <a href="{{horrific}}">Horrific Necktie</a> (love of fun), the <a href="{{bloat}}">Bloated Corpse of a Drunk</a> (death drive), and <a href="{{hanged}}">the Hanged Man you ventriloquise</a>.<br><br>(I'm not counting the hallucinated Dora. The Mysterious Pair of Eyes might also be you.)
+        <br>
+        Note that when Harry sings karaoke, the voice which comes out is the ancient reptilian brain (and the performance is credited to it). We never hear Harry's voice otherwise, so I feel good about saying this is his normal voice.
+    </li>
 </ol>
 
 </div>
+<br>
