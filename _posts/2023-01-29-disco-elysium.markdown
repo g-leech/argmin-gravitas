@@ -51,7 +51,8 @@ where:      "Bristol"
 {%   assign plasm = "http://fayde.co.uk/dialojue/3650005"  %}
 {%   assign cris = "https://baslag.fandom.com/wiki/Crisis_theory"   %}
 {%   assign art = "https://archive.org/details/discoelysiumartbook/"   %}
-
+{%   assign little = "https://en.wikipedia.org/wiki/Littlewood%27s_law"    %}
+{%   assign quest = "http://fayde.co.uk/dialojue/4600373"   %}
 
 
 <a href="{{thought}}" target="_blank">
@@ -121,8 +122,6 @@ How did they make the best RPG ever? Well, spending 18 years on it must've helpe
 
 That the game is also actually existentialist and an amazing portrait of multi-agent mind and <a href="{{greek}}">a Greek tragedy</a> and a work of science fiction which justifies <a href="{{slip}}">an obtuse synonym</a> and bedecked in Lucian Freud / Jenny Saville _actually-painted_ visuals and shimmery post-rock ambience is just icing. 
 
-<br>
-
 <!-- People wrongly call this sort of thing 'pretentious', because people don't get that pretension is about _pretence_: pretending to be deeper than you are. Being abstruse is something else.  -->
 It's melancholy but not self-pitying and not life-denying. <a href="#fn:7" id="fnref:7">7</a> It's cynical but not sneering and not unkind. The grail.
 <!-- Its misanthropy is pretty toothless – we are just 'evil apes'.  -->
@@ -143,10 +142,11 @@ It's melancholy but not self-pitying and not life-denying. <a href="#fn:7" id="f
         <br><br>
         I'm mostly focussing on the script in this, because that's the really astonishing element of the game. Who did this?<br><br>
         If any one person gets named it's <a href="{{kurv}}">Kurvitz</a>, the novelist and designer. <a href="{{helen}}">Helen Hindpere</a> came in halfway through development but probably deserves nearly as much credit. Kaur Kender is a novelist and was one of the first people to join the project but he's not credited as a writer. <a href="{{argo}}">Argo Tuulik and Justin Keenan</a> are likely not far behind (Cuno, Evrart). I'll say KHTK for short. (Kurvitz says there were 10 writers.)<br><br> 
+        I credit Kurvitz with the grandiose bluster and Hindpere with ironically <a href="{{quest}}">undercutting</a> it. 
         <i>As exophone prose</i>, it's really not far off Conrad and Nabokov.<br><br>
 <!--  -->
-        It was an art collective before it was a game studio - they learned Blender and shaders off youtube - "<i>A roaringly unsuccessful group of writers, artists and
-political thinkers – from Estonia. A dark, tiny, angry... place</i>" - and who could have predicted how well that would work?
+        It was an art collective before it was a game studio - they learned Blender and Unity and shaders off youtube - "<i>A roaringly unsuccessful group of writers, artists and political thinkers – from Estonia. A dark, tiny, angry... place</i>" - and who could have predicted how well that'd work?
+        <br>
         <blockquote>
             You don’t reforge the tattered remains of your cultural organization into a blood-and-grinding-gears video game company because it’s nice. And natural. You do it because you’re utterly out of options<br><br>
             An important part of ZA/UM studio culture was hosting life-and-gesture drawing events at least once a week. With the help of designer Toon Vugts, we held a public weekly community event where some twenty people, professionals, and hobbyists alike, would regularly come and draw with us. Our studio happened to share the same decrepit building as a small bookstore, and the two youngwomen running it kindly invited us to use their back room for these events. Together we worked towards reestablishing a tradition of figure drawing.
@@ -310,11 +310,13 @@ The remarkable thing is that KHTK can depict humanity's prey relationship to ide
 <br>
 
 
-A repeated irony is that _the cranks are right_, though for the wrong reasons. Plaisance is right about the Presence (the phasmid; [the hole in the world](http://fayde.co.uk/dialojue/4280591); the deserter skulking around the tunnels; the Mega Rich Light-Bending Guy). The cryptozoologist Morrell is right about the phasmid. Harry is constantly right on wild hunches. You're not safe just because you're careful and modest and sceptical.
-
-[Elysium itself is flat earth!](http://fayde.co.uk/dialojue/6360587) (or anyway not an intact sphere):
+A repeated irony is that _the cranks are right_, though for the wrong reasons. Plaisance is right about the Presence (the phasmid; [the hole in the world](http://fayde.co.uk/dialojue/4280591); the deserter skulking around the tunnels; the Mega Rich Light-Bending Guy). The cryptozoologist Morrell is right about the phasmid. Harry is constantly right on wild hunches, not least about Victor Méjean. The infra-materialists are right about plasm being a (though completely wrong about it being specific to communism). [Elysium itself is flat earth!](http://fayde.co.uk/dialojue/6360587) (or anyway not an intact sphere):
 
 > There are grey flares and prominences, even arcs above entire isolas... The images are blurry, but if there was a sphere in there it certainly looks like it fractured a long time ago... They say there is a rarefied envelope of matter surrounding the darkened disc of our planet. That is, if we are still living on a planet.
+
+
+You're not safe just because you're careful and modest and sceptical: the world is <a href="{{little}}">constantly generating</a> the bizarre and showing us up.
+
 
 <br>
 
@@ -342,7 +344,7 @@ The script has some contempt for the rave babblers and the idiot edginess of the
 
 The developers are represented throughout the game. The failure of <a href="http://web.archive.org/web/20160517101025/http://devblog.fortressoccident.com/">Fortress Accident</a> is their fear for their own fate.
 
-> NOVELTY DICEMAKER: They seemed to believe they were historical individuals on some *grand* quest.
+> NOVELTY DICEMAKER: They seemed to believe they were historical individuals on some *grand* quest.<br>
 > DRAMA - She sounds almost mocking when she says that. 
 
 > They lacked the *will* to get things done. As their financial situation became more desperate, their ideas devolved from realistic to absolute insanity. We lost all of our money. High-art types never deliver. 
@@ -352,9 +354,7 @@ Yet another depiction portrays them as pathetic workaholics:
 > YOU: Are there people in there?<br>SHIVERS – Yes, [ZA/UM] hard at work at their desks. They can barely tell if it's day or night anymore because the lights in the building are so uniform and bright. Who knows when they'll come out?<br>YOU – What keeps them motivated?<br>SHIVERS – Irony. They're yuppies masquerading as [Marxists]... Or was it [Marxists] masquerading as yuppies? Even they get confused sometimes...
 
 
-Quite scary: even marxists as sophisticated as KHTK have still internalised the idea that work is bad, even creative work, and that hard work is stupid. A million miles from Marx.
-
-They obviously worked their arses off though. So this negativity about their project is a rare moment of pandering - or an incoherent little piece of antiwork.
+Quite scary: even marxists as sophisticated as KHTK have still internalised the idea that work is bad, even creative work, and that hard work is stupid. A million miles from Marx. They obviously worked their arses off though. So this negativity about their project is a rare moment of pandering - or an incoherent little piece of antiwork.
 
 <br>
 
@@ -366,9 +366,7 @@ They obviously worked their arses off though. So this negativity about their pro
 
 In fact (returning to the Pale and the end of the world), one of the very few sentimental parts of the script involves art saving the world. The art of the club you help the kids start: the titular Disco.
 
-Recall that the venue was built over the hole in the world, which is [the source](http://fayde.co.uk/dialojue/5581051) of the pale. It spills out the most hardcore thing there can be, "less than less than nothing".
-
-To fight the pale (the past and its nihilism), you need to look forward instead of backwards. You need to make art.
+Recall that the venue was built over the hole in the world, which is [the source](http://fayde.co.uk/dialojue/5581051) of the pale. It spills out the most hardcore thing there can be, "less than less than nothing". To fight the pale (the past and its nihilism), you need to look forward instead of backwards. You need to make art.
 
 > a *strict* psychological regime imitating the creation process of poetry...
 
@@ -416,13 +414,17 @@ To my surprise _DE_ depicts the union as extremely ambiguous. (One of your first
 
 The skill archetypes give four totally different ways of playing the game: abstraction vs intuition/emotion vs aggression vs "Motorics" (sensitivity, stream entry, embodiment, integration). 
 
-What you're good at _determines your decisions_ (represented by the game rolling checks for you).
+What you're good at _determines your decisions_ (represented by the game rolling checks for you). So there is such a thing as having too much skill in something. Physique leads to stuff like compulsive drug use as soon as you see drugs. Rhetoric makes you annoying. Volition is too good at shutting down ideas and jokes from the other voices.
 
 > At high levels, Hand/Eye Coordination makes you deadly – supposing you’ve a weapon in your hand. But once you do, Hand/Eye Coordination will compel you to take the shot – even if it’s not the best approach.
 
-There is such a thing as having too many skill points in something, particularly Physique (which leads to stuff like compulsive drug use as soon as you see them).
+> At high levels, Logic will be able to solve even the most complicated puzzle. You will be very proud and thus susceptible to intellectual flattery; for those blinded by their own brilliance often miss important clues. 
 
-To return to the political is personal: Skills also provide your political impulses. Authority and Endurance are the fascist skills. Endurance often talks about your gut (gut feeling), again with the organic intuitions of hatred. Your Communist thoughts are most often repped by Rhetoric (cheap talk). Empathy entails centrism; Savoir Faire implies capitalism. Fascist body, socialist mouth, centrist heart, capitalist dexterity.
+> At high levels, Visual Calculus makes the world reveal its secrets to you – but you may be so absorbed by your mind-diorama, you don’t notice as crooks steal your pants. 
+
+> At high levels, you’ll be the very heart of the police force: not only willing and able but obliged to take a bullet for your partner. 
+
+To return to 'the political is personal': Skills also provide your political impulses. Authority and Endurance are the fascist skills. Endurance often talks about your gut (gut feeling), again with the organic intuitions of hatred. Your Communist thoughts are most often repped by Rhetoric (cheap talk), but really it is just the voice of horseshoe radicalism, anything overstated. Empathy entails centrism; Savoir Faire implies capitalism. Fascist body, socialist mouth, centrist heart, capitalist dexterity.
 
 <br>
 
@@ -612,6 +614,13 @@ I chose something else though:
 <center>– <a class="noline" href="https://theunitofcaring.tumblr.com/post/135400140231/you-have-the-most-hilariously-naive-politics-ive">unit of caring</a></center>
 
 <br><br>
+
+<center>
+    <img width="70%" src="/img/disco/disgrace.jpg" />
+</center>
+
+<br><br>
+
 
 
 ### Life imitates art
