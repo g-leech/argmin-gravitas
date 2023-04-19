@@ -74,6 +74,16 @@ It is _extremely interesting_ that people can make and climb this ladder at all.
         It feels like a moment ago we were talking about things I use all the time in real life, and now we’ve crossed over into a void of weightless, faceless abstract terms that only refer to other terms.
         </blockquote>
     </div>
+    <h3>The Grothendieck primes</h3>
+    <div>
+        Amusingly, mastery of higher levels doesn't strictly imply mastery of low. A running gag among mathematicians is that they are bad at calculation. The best story of this is the impatience and disdain of the great algebraist Grothendieck for examples (<a href="https://hsm.stackexchange.com/questions/6358/story-of-grothendiecks-prime-number">or Weyl</a>).
+    </div>
+    <h3>Arithmetic as rare and powerful ability</h3>
+    <div>
+        It's not the case that higher levels are better, either. Certainly not in terms of practical utility.
+        <br><br>
+        It turns out, to my horror, that mastering arithmetic (in the sense of actually using it as a quick tool for detecting errors) is not the default among soi-disant educated people. <a href="https://www.politifact.com/factchecks/2020/mar/06/msnbc/bad-math-msnbc-bloombergs-ad-spending-wasnt-enough/">Here</a> is the most memorable example in recent years. Pause for a moment and realise the implications for political life and your fellow voters.
+    </div>
 </div>
 
 
