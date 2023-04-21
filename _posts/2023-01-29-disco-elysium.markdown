@@ -112,7 +112,7 @@ The script is about <a href="https://www.dualshockers.com/disco-elysium-script-l
 
 It is a _point and click whodunnit with an amnesic protagonist_, for fuck's sake! <a href="#fn:4" id="fnref:4">4</a>  Yet another lesson, if you needed one, that there is no genre so overdone, no trope too passé, that a great artist cannot wring more out of. In art, nothing is ruined, nothing is useless, nothing is meaningless. (One reason it can never be realistic.) So, revitalising.
 
-It's far more politically sophisticated than most books. I call it political fiction because it depicts the emotional and structural detail of several wildly different worldviews so well, better than anything since <i>Red Plenty</i> (2010). They made something [smarter than themselves](https://www.youtube.com/watch?v=d1gKGq44NxQ), they satirise their own too. This can happen! <a href="#fn:3" id="fnref:3">3</a> It resists compression. I could spend another couple dozen hours noticing things and making up themes. Redemption – isn't everyone's first playthrough the redemption arc? – is only the simplest and most obvious route through. Subcultures and archetypes it depicts perfectly: cops, drugs, organic racism, theoretical racism, rave philosophers, locker room nastiness, bureaucrats, petit bourgeois, haute bourgeois, realpolitik operators, depressed leftists, and the various kinds of <a href="{{temp}}">revolutionary</a>. They don't do quite as well on fascism or neoliberalism or centrism. But still more accurate and thoughtful than almost any radicals. So, schizoposting.
+It's far more politically sophisticated than most books. I call it political fiction because it depicts the emotional and structural detail of several wildly different worldviews so well, better than anything since <i>Red Plenty</i> (2010). They made something [smarter than themselves](https://www.youtube.com/watch?v=d1gKGq44NxQ), they satirise their own too. This can happen! <a href="#fn:3" id="fnref:3">3</a> It resists compression. I could spend another couple dozen hours noticing things and making up themes. Redemption – isn't everyone's first playthrough the redemption arc? – is only the simplest and most obvious route through. Subcultures and archetypes it depicts perfectly: cops, drugs, organic racism, theoretical racism, rave philosophers, locker room nastiness, bureaucrats, petit bourgeois, haute bourgeois, realpolitik operators, depressed leftists, and the various kinds of <a href="{{temp}}">revolutionary</a>. They don't do quite as well on neoliberalism or centrism or humanitarianism. But still more accurate and thoughtful than almost any radicals. So, schizoposting.
 
 > TEN BRAINS HYPERTHREADING
 
@@ -178,7 +178,11 @@ some themes I've spotted so far:
 
 <br><br>
 
+### The microcosm: man as world 
 
+The world's problems mirror Harry's personal problems. Revachol used to be great and full of dreams, but was broken. The island has no government. A violent past, first brutalising others and then waging war on itself. The past threatens to consume all of Elysium. Dolores the Innocence / Dora Ingerlund has forsaken us. All of these recur in our rudderless lieutenant.
+
+<br><br>
 
 ### The political is personal
 
@@ -190,7 +194,8 @@ some themes I've spotted so far:
 
 <br>
 
-It's roughly correct to locate the origins and energy of fascism in personal grievance, gut feelings about purity, and nostalgia. <a href="#fn:1" id="fnref:1">1</a> But so too for communism and its wishful thinking, magical thinking, impulsivity, fatigue, envy, and/or <a href="{{envy}}">sheer resentment</a>. 
+
+Similarly: people often confuse their personal problems for political ones. It's an easy way to ennoble your specific brand of negativity. So KHTK are roughly correct to imply that fascism comes out of the fascist's personal grievances, gut feelings about purity, and nostalgia <a href="#fn:1" id="fnref:1">1</a>. But so too for the communist's wishful thinking, magical thinking, impulsivity, fatigue, and/or <a href="{{envy}}">sheer resentment</a>.
 
 > You: If communism keeps failing every time we try it... And the rest of the world keep killing us for our beliefs...<br>
 Steban: Yes?<br>
@@ -203,7 +208,7 @@ You: Wait, who is he thinking about?<br>
 Empathy: Hard to say. Someone dear to him.<br>
 
 
-Love [stands](http://fayde.co.uk/dialojue/5240035) as a metaphor for communism in several places. Both are the struggle which always fails. Breakups are reactionary, failed revolutions. People have done such terrible things in the name of each:
+This isn't the only example: love [stands](http://fayde.co.uk/dialojue/5240035) as a metaphor for communism in several places. Both are the struggle which always fails. Breakups are reactionary, failed revolutions. People have done such terrible things in the name of each:
 
 > Real darkness has love for a face.
 
@@ -319,7 +324,9 @@ The remarkable thing is that KHTK can depict humanity's prey relationship to ide
 <br>
 
 
-A repeated irony is that _the cranks are right_, though for the wrong reasons. Plaisance is right about the Presence (the phasmid; [the hole in the world](http://fayde.co.uk/dialojue/4280591); the deserter skulking around the tunnels; the Mega Rich Light-Bending Guy). The cryptozoologist Morrell is right about the phasmid. Harry is constantly right on wild hunches, not least about Victor Méjean. The infra-materialists are right about plasm being a (though completely wrong about it being specific to communism). [Elysium itself is flat earth!](http://fayde.co.uk/dialojue/6360587) (or anyway not an intact sphere):
+A repeated irony is that _the cranks are right_, though for the wrong reasons. Plaisance is right about the Presence (the phasmid; [the hole in the world](http://fayde.co.uk/dialojue/4280591); the deserter skulking around the tunnels; the Mega Rich Light-Bending Guy). The cryptozoologist Morrell is right about the phasmid. Harry is constantly right on wild hunches, not least about Victor Méjean. The infra-materialists are right about plasm being a physical force (though completely wrong about it being specific to communism). 
+
+[Elysium itself is flat earth!](http://fayde.co.uk/dialojue/6360587) (or anyway not an intact sphere):
 
 > There are grey flares and prominences, even arcs above entire isolas... The images are blurry, but if there was a sphere in there it certainly looks like it fractured a long time ago... They say there is a rarefied envelope of matter surrounding the darkened disc of our planet. That is, if we are still living on a planet.
 
@@ -379,13 +386,11 @@ Quite scary: even marxists as sophisticated as KHTK have still internalised the 
 
 <br>
 
-In fact (returning to the Pale and the end of the world), one of the very few sentimental parts of the script involves art saving the world. The art of the club you help the kids start: the titular Disco.
-
-Recall that the venue was built over the hole in the world, which is [the source](http://fayde.co.uk/dialojue/5581051) of the pale. It spills out the most hardcore thing there can be, "less than less than nothing". To fight the pale (the past and its nihilism), you need to look forward instead of backwards. You need to make art.
+Returning to the Pale and the end of the world: one of the very few sentimental parts of the script is about trying to save the world with art. The art of the club you help the kids start: the titular Disco. Recall that it was built over the hole in the world, [the source](http://fayde.co.uk/dialojue/5581051) of the pale. It spills out the most hardcore thing that can exist, "<i>less than less than nothing</i>". To fight the pale (the past and its nihilism), you need to look forward instead of backwards. You need to make art.
 
 > a *strict* psychological regime imitating the creation process of poetry...
 
-[You need](http://fayde.co.uk/dialojue/5580503)... <a href="{{full}}">anodic music</a>. Art which incorporates the sound of the world dying, 'the anthem of a future which will never come', and somehow makes the situation seem better. 
+[You need](http://fayde.co.uk/dialojue/5580503)... <a href="{{full}}">anodic music</a>. Art which incorporates the sound of the world dying, '<i>the anthem of a future which will never come</i>'. Somehow this music, this game, makes the situation seem better. 
 
 > The wounds from the war you've waged on your body are healing, twist by twist, turn by turn. You must have touched upon an entirely new way of moving the human body! 
 
@@ -424,16 +429,17 @@ To my surprise _DE_ depicts the union as extremely ambiguous. (One of your first
 
 <br><br>
 
-## You are not one thing, you have no essence
+### You are not one thing, you have no essence
 <!-- Malleability and unknowability -->
 <!-- the struggle to reconstruct a personality amidst the ruins of society -->
 
 > What if you didn’t lose your memory? What if something in Martinaise came and stored it all away? For you to slowly open one box at a time. So you can *choose* which parts to keep.<br><br>Keep almost none of it. Only the flowers on the windowsill. Only the distant sound of a radio. Lose all the actors, the dark shadows, leave only the still lifes, the blissful distant wash of waves. If everybody knew -- you never did. She’ll be coming soon. That is all.
 
+<br>
 
 > [maybe] this is why, in the “homosexual underground” thought cabinet quest, the desire to make sense of Harry’s orientation is dismissed with the admonishment that it is unhelpful to obsess about sexual identity... this game is geared towards eventually letting go of being a particular sort of person with a specific object of desire, and instead just being the whole of what is there. That’s in some ways a problematic statement to make [because it's not politically convenient]. But it’s a remarkable statement... Harry DuBois doesn’t know who he is, and ultimately, that’s because such a thing cannot be known.
 
-<center><a href="{{gay}}">Zoyander Street</a></center>
+<center>-- <a href="{{gay}}">Zoyander Street</a></center>
 
 <br><br>
 
@@ -448,7 +454,7 @@ To my surprise _DE_ depicts the union as extremely ambiguous. (One of your first
 
 The skill archetypes give four totally different ways of playing the game: abstraction vs intuition/emotion vs aggression vs "Motorics" (sensitivity, stream entry, embodiment, integration). 
 
-What you're good at _determines your decisions_ (represented by the game rolling checks for you). So there is such a thing as having too much skill in something. Physique leads to stuff like compulsive drug use as soon as you see drugs. Rhetoric makes you annoying. Volition is too good at shutting down ideas and jokes from the other voices.
+What you're good at _determines your decisions_ (the game takes actions, rolls checks, without you choosing them). So there is such a thing as having too much skill in something. Excess physique leads to stuff like compulsive drug use as soon as you see drugs. Rhetoric makes you annoying. Volition is too good at shutting down the other voices, losing you ideas and jokes.
 
 > At high levels, Hand/Eye Coordination makes you deadly – supposing you’ve a weapon in your hand. But once you do, Hand/Eye Coordination will compel you to take the shot – even if it’s not the best approach.
 
@@ -458,7 +464,7 @@ What you're good at _determines your decisions_ (represented by the game rolling
 
 > At high levels, you’ll be the very heart of the police force: not only willing and able but obliged to take a bullet for your partner. 
 
-To return to 'the political is personal': Skills also provide your political impulses. Authority and Endurance are the fascist skills. Endurance often talks about your gut (gut feeling), again with the organic intuitions of hatred. Your Communist thoughts are most often repped by Rhetoric (cheap talk), but really it is just the voice of horseshoe radicalism, anything overstated. Empathy entails centrism; Savoir Faire implies capitalism. Fascist body, socialist mouth, centrist heart, capitalist dexterity.
+To return to 'the political is personal': Skills also provide your political impulses. Authority and Endurance are the fascist skills. Endurance often talks about your gut (gut feeling), again with the organic intuitions of hatred. Your Communist thoughts are most often repped by Rhetoric (cheap talk), but really it is just the voice of horseshoe radicalism, anything overstated and exciting. Empathy entails centrism; Savoir Faire implies capitalism. Fascist body, socialist mouth, centrist heart, capitalist confidence.
 
 <br>
 
@@ -481,13 +487,13 @@ Embodied cognition: What you're wearing in-game has an absurdly dramatic effect 
 
 ### the unreliable narrator of your own life
 
-VOLITION - I have bad news for you.<br>
+> VOLITION - I have bad news for you.<br>
 YOU - What?<br>
-VOLITION - You know <a href="/img/discoskill.webp">these guys</a>?<br>
-LOGIC - Who, me?<br>
+VOLITION - You know <a href="/img/discoskill.webp">these guys</a>?<br><br>
+LOGIC: – Who, me?<br>
 DRAMA - Yes, you. He's talking about you, you boring stiff.<br>
 VOLITION - You too.<br>
-DRAMA - Me? What did I do? I'm merely a master thespian...<br>
+DRAMA - Me? What did I do? I'm merely a master thespian...<br><br>
 VOLITION - These guys are compromised. She's got them singing along to her tune. The little bleeps and bloops you trust for info -- you can't trust them anymore...<br>
 YOU - Which ones exactly are affected?<br>
 VOLITION - There's no way of knowing. At the moment I'm afraid it's best to assume ...*all* of them... when it comes to assessments of character and factual accuracy they are not to be trusted. Not with her.
@@ -523,13 +529,13 @@ Above the stars he must dwell.
 <br><br>
 
 
-Atop all of THAT, it's maybe the most European game I've ever played - the writers steal stereotypes and words from all over the place, but smear them. Revachol is Paris 1871, Berlin 1946, East Berlin 1975, Haiti forever, Tallinn 1999, New Orleans 2005. 
+Atop all of THAT, it's maybe the most European game I've ever played - the writers steal stereotypes and words from all over the place, but smear them. Not just Europe: Revachol is Paris 1871, Berlin 1946, East Berlin 1975, Haiti forever, the Shanghai International Settlement, Tallinn 1999. 
 
-No one is married. It used to be the center of the world. It used to have hope, until the pandemic lifted the communists that drew the colonisers. 
+No one is married. It used to be the center of the world. It used to have hope, until the pandemic lifted the radicals that drew the colonisers. 
 
 > Once we were an octopus that straddled the world, sucking up natural and human resources from Iilmaraa to South-East Seol. The city state that screwed the whole world. 
 
-Maybe Paris - the seething esprit banlieue: wallowing, but also completely willing to punch an authority in the face.
+Paris today too - the seething <i>esprit banlieue</i>: wallowing, but also completely willing to punch an authority in the face.
 
 [Sunday Friend is one long indictment of the EU.](http://fayde.co.uk/dialojue/5490276-5490345-5490598-5490949-5490950-5490392-5490297-5490008-5490661-5490444-5490601-5490009-5490909-5490341#5490341) Which leads us to "Moralism", the ruling ideology.
 
@@ -550,7 +556,7 @@ Maybe Paris - the seething esprit banlieue: wallowing, but also completely willi
 
 <br>
 
-If our world can be said to have a system, it is humanism (bourgeois morality, rights) plus neoliberalism (international capital) plus nationalism (which in _DE_ is a positive, the post-commune Revacholian demi-pride of Kim and other characters). <a href="#fn:2" id="fnref:2">2</a>
+If our world can be said to have a system, it is humanism (bourgeois morality and rights) plus neoliberalism (international capital) plus nationalism (which in _DE_ is pretty positive, the post-commune Revacholian demi-pride of Kim and other characters) <a href="#fn:2" id="fnref:2">2</a>.
 
 
 But what is the relationship between ultraliberalism (capitalism) and Moralism (humanism)? On the face of it they seem unrelated, answering different questions, enlisting different people with very different temperaments. How do they share power? Are they the same thing, is one a mask for the other to operate more freely with a good conscience?
@@ -745,7 +751,9 @@ But playing it I am reminded what is great about the left – the cussed rejecti
     <li class="footnote" id="fn:2">
         Some people argue that the really essential component of the world-system is a sense of <i>inevitability</i> for these three ideologies ("capitalist realism").<br><br>
 <!--  -->
-        Note also that Revachol used to be the exploiter.
+        Note also that Revachol used to be the exploiter.<br><br>
+<!--  -->
+        Note also that small postcolonial countries like Estonia detach nationalism from the fashy feel it usually has in postcolonising countries.   
     </li>
     <li class="footnote" id="fn:3">
         It is memeable, and ripe for the dirtbag left (see the [dubious Chapo](https://www.vg247.com/how-the-last-living-soviet-video-game-developers-recruited-chapo-trap-house-for-disco-elysium) voiceovers in the original cut). But it is less simple than that, you have to work to make it that simple, ignore 90% of the game. 
