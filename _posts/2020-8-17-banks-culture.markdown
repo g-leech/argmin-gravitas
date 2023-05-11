@@ -372,7 +372,7 @@ Big reasons for hope:
 * Sandifer, '<a href="{{sandifer}}">Cultural Marxism 1: _Consider Phlebas_</a>'
 * Jacobs, '<a href="{{jac}}">The ambiguous utopia of Iain M Banks</a>'
 * <a href="{{em}}">_The Age of Em_</a> is the hardest social science fiction I know, albeit written as nonfiction. What do our best nonphysical theories imply?
-
+* [Can Liberalism Survive Without a Wolf at the Door?](https://www.nytimes.com/2022/04/09/opinion/ukraine-russia-liberalism-religion.html)
 
 
 <br><br>
