@@ -1,43 +1,43 @@
 ---
 layout:     post
-title:      "Virtue, work, and the world to come"
-baselink:   /ea
-permalink:  /ea
+title:      "<strike>Virtue, work, and the world to come</strike>"
+baselink:   /ea-origin
+permalink:  /ea-origin
 date:       2014-01-10
 author:     Gavin   
 img:        /img/
 
-visible:    1
-published:  false
+visible:    0
+published:  true
 
-summary:    On coming to terms with effective altruism.
-confidence: I feel like a different person from the one that wrote this.
+summary:    On coming to terms with effective altruism [DRAFT].
+confidence: I am a different person from he that wrote this, and the guy barely finished writing it.
 quality:    3
 importance: 9
 wordcount:  
 warnings:	suicide, people making the perfect the enemy of the good.
 categories: effective-altruism
-argument:   ea/argument.html
 ---
 
+{%		include ea/links.md		%}
 
 
 
 <div style="text-align: center;">
-	<img src="/img/Meghan-Howland-Ennui-2012.jpg" width="60%" />
-	<!--  -->
-	<br>
-	<span style="font-size: small;">
-		(c) <a href="{{how}}">Meghan Howland (2012)</a>, "<a href="http://www.greynotgrey.com/blog/wp-content/uploads/2012/09/Meghan-Howland-Ennui-2012.jpg">Ennui</a>"
-	</span>
-	<br>	<br>
-	<!--  -->
+<img src="/img/Meghan-Howland-Ennui-2012.jpg" width="60%" />
+<!--  -->
+<br>
+<span style="font-size: small;">
+	(c) <a href="{{how}}">Meghan Howland (2012)</a>, "<a href="http://www.greynotgrey.com/blog/wp-content/uploads/2012/09/Meghan-Howland-Ennui-2012.jpg">Ennui</a>"
+</span>
+
+<br><br><br>
 	<blockquote>
 		<i>A rich boy goes to college. He makes a lot of friends. They all think they are special and that they suffer in distinct ways, but they are all hurtling down the same world-historical funnel. They will attempt to professionalize their passions, or else just get jobs</i>.<br>
 	</blockquote>
 	<div style="line-height: 5px;">
 	–  Sam Lipsyte<br></div>
-	<br><br>
+	<br><br><br>
 	<!--  -->
 	<blockquote>
 		<i>Freedom in an unfree world is merely licence to exploit</i>.<br>
@@ -52,9 +52,12 @@ argument:   ea/argument.html
 <div class="accordion">
 	<h3>Disclaimer</h3>
 	<div>
-		<i>May 2020:</i> This is a bit of a mess. It makes no sense without the background, that up to then I had been stubbornly systemic / the personal is political / anti-careerist / counter-cultural. And also deeply suspicious of statistical or mathematical modelling of humans or moral action (though for sour grapes reasons, not <a href="{{saulius}}">the many good reasons</a>).<br><br>
+		<i>May 2020:</i> This post is a bit of a mess. It makes no sense without my background, that up to then I had been stubbornly socialist / personal-political / anti-careerist / counter-culture. Also deeply suspicious of statistical or mathematical modelling of humans or moral action (though for sour grapes reasons, not <a href="{{saulius}}">the many good reasons</a>).<br><br>
 <!--  -->
-		I'm posting it because it represents a huge philosophical shift, one which defined the next decade of my life (and counting), and I wanted to show what that looks like. Also a couple of people told me they found it helpful because they were coming from a similar place.
+		My conception of the best thing to do is now notably different from the donation focus here.
+		<br><br>
+<!--  -->
+		I'm posting it because it marks a huge philosophical shift, one which defined the next decade of my life and counting, and I wanted to show what that looks like. Also a couple of people told me they found it helpful because they were coming from a similar place.
 	</div>
 </div>
 <br>
@@ -168,13 +171,13 @@ Longer pieces criticising EA:
 ****************************************************************</div>
 <br>
 <br>
-<i>Effective Altruism is part subversive, part conformist: subversive in its radical egalitarianism and its critique of complacent privilege; conformist in that it’s another force channeling us towards the traditional success model... the iron<br>logic of replaceability leaves many dreams dead on the ground, to be sure.<br>But is this a problem with EA as an ideology, or a problem with reality?</i>
-<br>
-<div style="line-height: 5px;">
+<blockquote>Effective Altruism is part subversive, part conformist: subversive in its radical egalitarianism and its critique of complacent privilege; conformist in that it’s another force channeling us towards the traditional success model... the iron logic of replaceability leaves many dreams dead on the ground, to be sure.<br>But is this a problem with EA as an ideology, or a problem with reality?</blockquote>
+
 –  <a href="http://aeon.co/magazine/philosophy/art-is-a-selfish-waste-of-time-says-effective-altruism/">Rhys Southan</a>
-</div>
+
 <br>
 <br>
+
 Further to not working in banking, but for non-ethical / non-political reasons: <br>
 <ul>
 <li>It's boring.</li>
@@ -199,12 +202,11 @@ Is that really solidarity? Not sure. Am I on the <a href="http://anfortaswound.f
 I want to be neither a high-impact shill nor an endless-vacation&nbsp;revolutionary. Thus do I learn&nbsp;the limits to my altruism: namely boredom, and suits (clowns to the left of me, jokers to the right). <br>
 <br>
 
-<br>
-<br>
-<br>
-ANALYTIC EGALITARIANISM
+
+## ANALYTIC EGALITARIANISM
+
 Things we have tried:
-<br>
+
 <ol>
 <li>Give ‘em a bunch of stuff.</li>
 <li>Send some people to see what needs doing (Technical support)</li>

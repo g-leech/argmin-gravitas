@@ -82,7 +82,9 @@ visible:    false
 * Jietai Temple, Beijing
 * Wicca, Laulasmaa
 <!-- * Antonínovo pekařství, Prague -->
-* San Crispino, Grom, Venchi, Giolitti, Rome
+* San Crispino, Grom, Giolitti, Rome
+* Della Passera, Rivareno, Perche No, Florence
+* Le Vespe, Florence
 * Castizo, CDMX
 * El Califa, CDMX
 * Chilpa, CDMX
