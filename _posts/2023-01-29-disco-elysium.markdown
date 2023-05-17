@@ -415,6 +415,21 @@ Returning to the Pale and the end of the world: one of the very few sentimental 
 <img src="/img/disco/motoric.png" />
 
 
+### The Sublime
+
+The death drive, nihilism, self-loathing, anti-humanism, malign supernatural forces, true crime, staring into the eyes of a venomous snake, looking down from the edge of a sheer cliff.
+
+... are all pretty cool. How the fuck does _that_ work?
+
+One large portion of DE's aesthetic charm involves using the Sublime, the romantic blend of awe and horror. It is horrible that the universe is uncaring. It is also kind of epic, it places us in a natural posture for defiance and narrativising.
+
+(However, recall Nagel:
+
+> Such dramatics, even if carried out in private, betray a failure to appreciate the cosmic
+unimportance of the situation. If sub specie aeternitatis there is no reason to believe that
+anything matters, then that doesn’t matter either... It is often remarked that nothing we do now will matter in a million years. But if that is true, then by the same token, nothing that will be the case in a million years matters now. In particular, it does not matter now that in million years nothing we do now will matter.
+
+"we can therefore approach our absurd lives with irony rather than heroism or despair")
 
 <br><br>
 
