@@ -8,7 +8,7 @@ visible:	true
 
 {%	assign filum =	"https://letterboxd.com/gleech/films/by/member-rating/"	%}
 {%	assign spot = "https://open.spotify.com/user/technicalities1/playlists"	%}
-{%  assign hh = "https://open.spotify.com/playlist/3xZIFXJRzzaDSXkrybc2gz?si=b2d6bfd43e2e42ae" %}
+{%  assign hh = "https://open.spotify.com/playlist/3KjyXKtffCVLJMKZM1zheL?si=3baf816a41654cea" %}
 {%  assign gam = "https://backloggd.com/u/glee/games/user-rating/" %}
 {%  assign boa = "https://boardgamegeek.com/collection/user/gleec?subtype=boardgame&ff=1" %}
 {%  assign tv = "https://srlzd.com/u/gleec"    %}

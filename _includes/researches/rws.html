@@ -1,0 +1,43 @@
+{%  assign id = "rwsimg"  %}
+
+<tr>
+    <td class="logo" style="padding-bottom: 10px">
+        <a href="{{rws}}">
+            <div id="{{id}}"></div>
+        </a>
+    </td>
+    <td style="padding-left: 5px">
+        <a class="noline" href="{{rws}}" target="_blank">
+            Massively Parallel Reweighted Wake-Sleep
+        </a> 
+
+        <div class="journo">
+        (2023),
+            <i>UAI</i> 
+        </div>
+        
+        <span class="dropdown">
+          <button class="dropped" onclick="javascript:drop('rws')">The point</button>
+          
+          <div id="rws" class="dropdown-content">
+            <br>
+            Reweighted wake-sleep (RWS) does Bayesian inference for a very general class of models. RWS samples from an approximate posterior, then uses importance weighting to provide a better estimate of the true posterior. RWS then updates its approximate posterior towards the importance-weighted estimate of the true posterior. But the sheer number of samples you need for IW rules out any realistically sized model.<br><br>
+            We develop "massively parallel RWS", which samples all latent variables and reasons about all possible combinations of samples. You can do this in polynomial time by exploiting conditional independencies. We get a dramatic speedups over standard RWS, which samples the full joint.
+
+            <!-- more general derivations of massively parallel reweighted wake-sleep, making them more general and enabling the use of a wider range of approximate posteriors in Bayesian inference.
+
+Empirical benefits are demonstrated in terms of achieving higher log-likelihood w.r.t alternative training methods for the same model. -->
+            <br><br>
+
+            <i>Authors</i>: Thomas Heap, <span class="me">Gavin Leech</span>, Laurence Aitchison.
+            <br><br>
+          </div>
+        </span>
+    </td>
+</tr>
+
+
+<script>  
+    var src="/img/papers/rws.png"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>
