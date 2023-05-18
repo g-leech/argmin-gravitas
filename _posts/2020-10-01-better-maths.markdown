@@ -23,6 +23,7 @@ argument:
 {%	assign jang = "https://blog.evjang.com/2018/08/dijkstras.html"		%}
 {%	assign sym = "https://en.wikipedia.org/wiki/History_of_mathematical_notation#Symbolic_stage"	%}
 {%	assign tao = "https://mathoverflow.net/questions/366070/what-are-the-benefits-of-writing-vector-inner-products-as-langle-u-v-rangle/366118#366118" 	%}
+{%	assign meyer = "https://pbs.twimg.com/media/FwYdeB7WcAABYuH?format=jpg&name=large"	%}
 {%	assign tao2 = "https://terrytao.wordpress.com/advice-on-writing-papers/use-good-notation/" 	%}
 {%	assign qc = "https://quantum.country/"		%}
 {%	assign di = "https://en.wikipedia.org/wiki/Dependency_inversion_principle"	 %}
@@ -140,6 +141,8 @@ Michael Sipser has good comments on all the proofs in <a href="{{sipser}}">his g
 For learning material (rather than research writeups), the steps of a proof could be tagged as "routine", "creative", "tricky", or "key" (h/t <a href="{{qiao}}">Qiaochu</a>). These would be best as sidenotes.
 
 Further: Why is there no metadata? The field dependencies; the theorem dependencies, upfront; how important this result is, for what; some proofs with a similar flavour; or, for fun, what's the newest result necessary for this proof? When could it first have been proved?
+
+An important subset of commentary is historical notes _which explain why something apparently arbitrary is not_, <a href="{{meyer}}">as with Carl Meyer's "Matrix Analysis"</a>.
 
 <br>
 
