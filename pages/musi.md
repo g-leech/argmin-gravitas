@@ -22,12 +22,14 @@ Most of this list was written when I was a more contrived person. I love everyth
 * **20 Years of Dischord**
 * **Inflammable Material** by Stiff Little Fingers
 * **All Hail West Texas** by Mountain Goats
+* **My Beautiful Dark Twisted Fantasy** by Kanye West
 * **Jackson C Frank** by Jackson C Frank
 * **Songs of Love and Hate** by Leonard Cohen
 * **Raw Power** by Stooges
+* **Live at the Star-Club Hamburg** by Jerry Lee Lewis
 * **Beer in the Breakers** by Wave Pictures
 * **Achtung Bono** by Half Man Half Biscuit
-* **Meat Puppets II** by Meat Puppets
+* **Meat Puppets II** by Meat Puppets 
 * **Double Nickels** by Minutemen
 * **Rain Dogs** by Tom Waits
 * **Up on the Sun** by Meat Puppets
@@ -51,7 +53,6 @@ Most of this list was written when I was a more contrived person. I love everyth
 * **Vampire Weekend** by Vampire Weekend
 * **If You Leave it Alone** by Wave Pictures
 * **Travels with Myself and Another** by Future of the Left
-* **My Beautiful Dark Twisted Fantasy** by Kanye West
 * **Tallahassee** by Mountain Goats
 * **New History Warfare Vol.2** by Colin Stetson
 * **Good** by Morphine
@@ -70,9 +71,10 @@ Most of this list was written when I was a more contrived person. I love everyth
 * **FLCL** by the Pillows
 * **Larkin’s Jazz** by Various
 * **Moon Colony Bloodbath** by Darnielle and Vanderslice
-* **Life is Killing Me** by Type O Neg
+* **Life is Killing Me** by Type O Negative
 * **Green** by Hiroshi Yoshimura
 * **The Stage Names** by Okkervil River
+* **Operation Ivy**
 * **Bringing It All Back Home** by Bob Dylan
 * **Times They Are A-Changin'** by Bob Dylan
 * **Highway 61 Revisited** by Bob Dylan
@@ -85,6 +87,7 @@ Most of this list was written when I was a more contrived person. I love everyth
 * **It's Alive** by Ramones
 * **Inside** by Bo Burnham
 * **Elis & Tom**
+* **Divine Comedy** by Milla Jovovich
 * **Jagged Little Pill** by Alanis
 * **Cowboy Bebop** by Seatbelts
 * **Utopia Parkway** by Fountains of Wayne
@@ -96,6 +99,7 @@ Most of this list was written when I was a more contrived person. I love everyth
 * **What Makes a Man Start Fires** by Minutemen
 * **Swordfishtrombones** by Tom Waits
 * **New Day Rising** by Husker Du
+* **Pure... Rock n Roll** 
 * **Pleased to Meet Me** by Replacements
 * **13 Songs** by Fugazi
 * **Repeater** by Fugazi
@@ -103,6 +107,7 @@ Most of this list was written when I was a more contrived person. I love everyth
 * **The Blue Album** by Weezer
 * **Casanova** by Divine Comedy
 * **Elliott Smith** by Elliott Smith 
+* **Mornington Crescent** by My Life Story
 * **Sound of Mcalmont and Butler** by Mcalmont and Butler
 * **If You're Feeling Sinister** by Belle and Sebastian
 * **Slush** by OP8
@@ -137,6 +142,7 @@ Most of this list was written when I was a more contrived person. I love everyth
 * **Release the Stars** by Rufus Wainwright
 * **Dim Lit** by Polar Bear
 * **Made in the Dark** by Hot Chip
+* **O Brother, Where Art Thou?**
 * **ArchAndroid** by Janelle Monae
 * **The Original Transatlantic Sessions** by Various
 * **Larkin’s Jazz** by Various

@@ -251,6 +251,7 @@ Solving little computational maths problems. Gimmick is I don't import anything.
 <section class="timeline cv vol">
   <ul>
     {%  include cv/espr.html  %}
+    {%  include cv/80k.html  %}
     {%  include cv/ment.html  %}
     {%  include cv/critcont.html  %}
     {%  include cv/aisc.html  %}
