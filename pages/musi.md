@@ -55,7 +55,7 @@ Most of this list was written when I was a more contrived person. I love everyth
 * **Travels with Myself and Another** by Future of the Left
 * **Tallahassee** by Mountain Goats
 * **New History Warfare Vol.2** by Colin Stetson
-* **Good** by Morphine
+* **Yes** by Morphine
 * **musicforprogramming()** by Various
 * **Paralytic Stalks** by Of Montreal
 * **The Shape of Jazz to Come** by Ornette Coleman
