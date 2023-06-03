@@ -107,7 +107,9 @@ The script is about <a href="https://www.dualshockers.com/disco-elysium-script-l
 <br>
 
 
-<!-- > Cuno... was rewritten 20 different times, thanks to the input of multiple perspectives -->
+<!-- 
+    > Cuno... was rewritten 20 different times, thanks to the input of multiple perspectives    
+-->
 
 
 It is a _point and click whodunnit with an amnesic protagonist_, for fuck's sake! <a href="#fn:4" id="fnref:4">4</a>  Yet another lesson, if you needed one, that there is no genre so overdone, no trope too passé, that a great artist cannot wring more out of. In art, nothing is ruined, nothing is useless, nothing is meaningless. (One reason it can never be realistic.) So, revitalising.
@@ -683,8 +685,9 @@ I chose something else though:
 
 <br>
 
-The game is enhanced further by the extremely on-the-nose drama that befell the studio: they suffered <a href="{{kompus}}">something like a hostile takeover</a> and embezzlement after its initial success attracted the sharks. [Ganked](https://www.gamepressure.com/newsroom/fans-have-the-right-to-know-disco-elysium-co-creator-talks-zaum-l/z04ad7). The details are hazy, behind the standard totally opaque walls of commerce. 
-<!-- Was Kender an Ephialtes? -->
+The game is enhanced further by the extremely on-the-nose drama that befell the studio: they suffered <a href="{{kompus}}">something like a hostile takeover</a> and possible embezzlement after its initial success made the sharks close ranks. [Ganked](https://www.gamepressure.com/newsroom/fans-have-the-right-to-know-disco-elysium-co-creator-talks-zaum-l/z04ad7). The details are hazy, behind the standard totally opaque walls of commerce. 
+
+The [PMG analysis](https://www.youtube.com/watch?v=JGIGA8taN-M) of the situation has its merits, but leans far too far into false balance, naively swallowing filtered evidence, and sanctimony. The vid is a paradigm of journalism's strengths and weaknesses: it is good to let people speak, but it is absurd to take them at face value and to give all evidence equal weight. I am _more_ sympathetic to KHR after seeing this tape: long absences, lying to avoid some work, and going to a meeting he was not invited to is the worst mud that the suits could find, from years of operation, with years of prep. 
 
 That black comedy is ready to birth another: the new owners sold the film rights. Capitalist realism, brought to you by [the creators](https://www.dj2entertainment.com/blog/https/varietycom/2020/tv/news/disco-elysium-tv-series-1234690455) of "Sonic the Hedgehog: The Movie" (2020).
 

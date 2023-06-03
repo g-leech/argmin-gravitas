@@ -113,6 +113,7 @@ argument:
 		<div>
 			{%	include nation/portug.html	%}
 		</div>
+		{%	include nation/cz.html	%}
 		{%	include nation/fin.html	%}
 		<!--  -->	
 		{%	include nation/uke.html	%}
