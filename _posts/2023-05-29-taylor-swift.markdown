@@ -319,7 +319,7 @@ Most machines stop iterating once they find a hypersuccessful selling point. TS 
 
 Bowie changed so often because there was nothing underneath. He is the great artist of surfaces. (He was also thoughtful enough that we should credit him with intentional rebellion against the pop/art and fake/authentic spectrums.) The difference is his quality and prescience: he managed to pre-empt glam, punk, new wave, and Online. A leading indicator, where TS is lagging. 
 
-Madonna is a much better fit; the constant try-hard <a href="{{mad}}">iteration</a>, the artful use of superficiality, sex, and the celeb racket.
+Madonna is a much better fit; the constant try-hard <a href="{{mad}}">iteration</a>, the artful use of superficiality, sex, and the celeb racket. The lauded versatility ultimately boiling down to a couple of flavours of pop.
 
 <!-- Fake Twang / fake diphthongs -->
 
