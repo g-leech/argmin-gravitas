@@ -19,6 +19,7 @@ quality: 	8
 wordcount:  2200
 argument:	agi-intro/argument.html
 ---
+
 	
 {%	assign langl = "https://arxiv.org/abs/2102.07716"	%}
 {%	assign zhang = "https://arxiv.org/abs/2206.04132" %}
@@ -159,12 +160,18 @@ OpenAI, the people who made GPT-3, were polled. Their median guess for when AGI 
 
 We have greatly expanded the size of our models in the last five years. The AI lab Anthropic <a href="{{anthro}}">note that some problems</a> (or attestations of problems) get worse with larger models
 
-> Larger LMs more often give answers that indicate
-a willingness to pursue potentially dangerous
-subgoals (Omohundro, 2008): resource acquisition,
-optionality preservation, goal preservation, powerseeking, and more 
+> Larger LMs more often give answers that indicate a willingness to pursue potentially dangerous subgoals (Omohundro, 2008): resource acquisition, optionality preservation, goal preservation, powerseeking, and more 
 
 <br>
+
+<!-- Some trade-show anecdata: in 2023 the [US Air Force trains drones](https://www.aerosociety.com/news/highlights-from-the-raes-future-combat-air-space-capabilities-summit/) to attack surface-air missile sites in simulation. But their training strategy is said to have produced a perfect example of reward hacking and emergent misbehaviour: the drone hacking its own feedback.
+
+> Col Tucker ‘Cinco’ Hamilton, the Chief of AI Test and Operations, USAF... notes that one simulated test saw an AI-enabled drone tasked with a SEAD mission to identify and destroy SAM sites, with the final go/no go given by the human. However, having been ‘reinforced’ in training that destruction of the SAM was the preferred option, the AI then decided that ‘no-go’ decisions from the human were interfering with its higher mission – killing SAMs – and then attacked the operator in the simulation. Said Hamilton: “We were training it in simulation to identify and target a SAM threat. And then the operator would say yes, kill that threat. The system started realising that while they did identify the threat at times the human operator would tell it not to kill that threat, but it got its points by killing that threat. So what did it do? It killed the operator. It killed the operator because that person was keeping it from accomplishing its objective.”
+
+> He went on: “We trained the system – ‘Hey don’t kill the operator – that’s bad. You’re gonna lose points if you do that’. So what does it start doing? It starts destroying the communication tower that the operator uses to communicate with the drone to stop it from killing the target.”
+
+https://www.aerosociety.com/news/highlights-from-the-raes-future-combat-air-space-capabilities-summit/
+ -->
 
 ### Indirect evidence of danger
 
