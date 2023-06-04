@@ -26,6 +26,7 @@ argument:
 {%  assign bjork = "https://slate.com/culture/2015/01/bjork-pitchfork-interview-shes-tired-of-not-getting-credit-for-her-music-just-like-mia-taylor-swift-neko-case-solange-knowles-grimes-more.html"   %}
 {%  assign guy = "https://en.wikipedia.org/wiki/Guy_Chambers"   %}
 {%  assign saw = "https://en.wikipedia.org/wiki/Stock_Aitken_Waterman"   %}
+{%  assign saw = "https://www.theage.com.au/lifestyle/fashion/baggy-t-shirts-combat-boots-the-mass-appeal-of-the-90s-anti-it-girl-20200429-p54oa0.html" %}
 {%  assign mad = "https://www.musicradar.com/news/madonna-max-martin-studio"   %}
 {%  assign stein = "https://open.spotify.com/playlist/6yAapcxu5bdTGOtMKOlahg?si=28cc2cf8250b46d1"   %}
 {%  assign cobain = "https://www.kerrang.com/kurt-on-kurt-the-nirvana-icon-in-his-own-words"  %}
@@ -67,6 +68,8 @@ argument:
 {%  assign indie = "https://www.acelinguist.com/2018/10/dialect-dissection-indie-girl-voice.html" %}
 {%  assign kontext = "https://kontextmaschine.tumblr.com/post/96493509413/taylor-swifts-semantic-overloading" %}
 {%  assign martin = "https://en.wikipedia.org/wiki/Max_Martin"    %}
+{%  assign hark = "https://www.vogue.com/article/the-outrageous-life-of-rebekah-harkness-taylor-swifts-high-society-muse" %}
+
 
 
 > the person who has come up with the single greatest body of pop songwriting in the 21st century is also its most popular performer
@@ -105,13 +108,13 @@ I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a hre
 
 The interesting part is that Swift the human built the machine and controls it in some detail. A _self_-manufactured pop star: she is deeply invested in making the machine seem like her and in feeding it people (fans, co-writers, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to even more fame, fame which automatically produces more controversies. Call the machine _TS_.
 
-TS performs characters (<a href="{{c}}">Cinderella</a>, say) and at the same time pretends to deeply express Swift the woman. She performed innocence (and a twang) for Nashville and now performs demisexuality (and FKA-sighing) for the glossies, BPD (and drawling) for the extremely online, and a persecution complex (and diphthongs) for everyone. <a href="#fn:1" id="fnref:1">1</a>
+TS presents itself as Swift. It performs characters (<a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) and at the same time pretends to deeply express Swift the woman. She performed innocence (and a twang) for Nashville and now performs demisexuality (and FKA-sighing) for the glossies, BPD (and drawling) for the extremely online, and a persecution complex (and diphthongs) for everyone. <a href="#fn:1" id="fnref:1">1</a>
 
-That's half of it; the other half is the mediocrity of the output and your incredible overestimation of it. (Bowie pulled off a cheaper version of the TS trick 50 years ago and I love him for it because his songs are, _at the very least_, interesting and aimed at more than pleasing me.) TS songs are moderately catchy, recently moderately perverse, and expertly ape The Current Thing (Faith Hill / Kelly Clarkson / Jenny Lewis / Lady Gaga / Kesha / Lana del Rey / Lorde / FKA Twigs / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
+That's half of it; the other half is the mediocrity of the output and your incredible overestimation of it. (Bowie pulled off a cheaper version of the TS trick 50 years ago and I love him for it because his songs are, _at the very least_, interesting and aimed at more than pleasing me.) TS songs are moderately catchy, recently moderately perverse, and expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / Jenny Lewis / Lady Gaga / Kesha / Lana del Rey / Lorde / FKA Twigs / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
 
 Why does the music's reception matter if the music doesn't matter? Well, I dislike things that pretend to be deep when they're not. Things which pretend to be personal are on tricky aesthetic ground. It is not fine for entertainment to stand in place of art. We used to be iffy about parasocial relationships, corporate machines, being played.
 
-I realise now that Swift _is_ a kind of artist – but the art is not music, it's marketing. Empire-building. Really ingenious <a href="https://www.theringer.com/2016/7/12/16039240/when-did-you-first-realize-taylor-swift-was-lying-to-you-bb5a00a32b65">image management</a>, audience relationship management, and hiring. She weathered <a href="{{prob}}">culture war</a> struggle sessions completely fine; people have repeatedly <a href="{{sady}}">pronounced</a> her demise, and yet here she is. I'm impressed at the wrong thing. <!-- These feats require intelligence, perception, and cold blood. So the music is uninteresting but the phenomenon isn't. --> Three different industry roles run together in Swift:
+I realise now that Swift _is_ a kind of artist – but the art is not music, it's marketing. Empire-building. Really ingenious <a href="https://www.theringer.com/2016/7/12/16039240/when-did-you-first-realize-taylor-swift-was-lying-to-you-bb5a00a32b65">image management</a>, audience relationship management, and hiring. She weathered <a href="{{prob}}">culture war</a> struggle sessions completely fine; people have repeatedly <a href="{{sady}}">announced</a> her demise - and yet here she is. I'm impressed, at the wrong thing. <!-- These feats require intelligence, perception, and cold blood. So the music is uninteresting but the phenomenon isn't. --> Three different industry roles run together in Swift:
 
 * the Impresario (Tin Pan Alley / Brill / Music Row / Colonel Parker / A&R execs)
 * the Manufactured Popstar (Kylie / Britney / Katy Perry / Selena / Ariana)
@@ -204,13 +207,21 @@ Once something costs <a href="{{a}}">$140m</a> to make, certain forms of art bec
 
 This is why I put up with bad production and sloppy musicianship: the higher the budget, the less likely I am to see any true experiment and idiosyncracy and deviance, which is what I want from art and often from entertainment too. Music is very cheap compared to other artforms (<a href="{{riri}}">barely a million</a> per hit), which is why we still see a modicum of experiment in popular songs.
 
-I think the usual mechanism is that the execs meddle to ensure that they recoup their investment. And committee art is generally inferior because it takes us further from honesty and idiosyncracy. I don't know if TS has investors to please; probably not. <a href="#fn:8" id="fnref:8">8</a>
+I think the usual mechanism is that the execs meddle to ensure that they recoup their investment. And committee art is generally inferior because it takes us further from honesty and idiosyncracy. TS has sponsors and <a href="https://www.capitalone.com/about/newsroom/taylor-swift-the-eras-tour-presale">"partners"</a> to please, but I doubt they're let into the writing room explicitly. <a href="#fn:8" id="fnref:8">8</a>
 
 <br>
 
 ### the parasocial
 
+> [Fan's] devotion to Taylor Swift runs so deep that she feels as if she can trust her like a friend. After the pop star encouraged fans to vote in the 2018 midterm elections, Ms. Smith registered. The 23-year-old’s most recent rite of passage — getting her first credit card — was also prompted by the singer.
+
+<center>– <a href="https://www.nytimes.com/2022/12/24/business/taylor-swift-tour-capital-one.html">isabella simonetti</a> </center>
+
+<br>
+
 > people on tumblr and twitter really don’t like to separate art from the artist, for example the artist Adele, or Taylor Swift. Everything has to be about the person Taylor Swift, and the kabbalistic implications of pieces of the lyrics. It’s not enough for people to like or not like her music. It’s all about Taylor Swift existing in the public eye, criticism is criticism of her person, her life... even the posts that criticise... feel painfully parasocial.
+
+<center>– someone on tumblr </center>
 
 
 <!-- > entire public persona on turning on her exes and shit-talking them in public! -->
@@ -221,7 +232,7 @@ This part of the machine is really interesting. The romantic singer-songwriter t
 
 One thing: TS is simultaneously an optimised hit factory which tracks stylistic trends in the charts and creates products in response, _and_ an extension of gossip-mag voyeurism. The songs are more explicit about its celeb subjects than past love / revenge songs. It's a product to a greater degree than everything else is now a product. (You lot would go parasocial regardless of how private Swift was, but as it is it's cultivated in a way which makes me run screaming.)
 
-Another is the melding of public and private. Living in public prevents you being yourself (think of the self-censorship alone), which undermines the romantic artist story another way <a href="#fn:9" id="fnref:9">9</a>.
+Another is that melding public and private _destroys_ the private. Living in public prevents you being yourself (think of the self-censorship alone), which undermines the romantic artist story another way <a href="#fn:9" id="fnref:9">9</a>.
 
 There are various plays for sympathy in the music - which are possibly even honest, but they remain plays. (e.g. The absurd premise of "Reputation" is that she is a victim, needs defenders. Maybe she really is trapped inside TS, the cage she intentionally constructed.)
 
@@ -246,10 +257,12 @@ There are various plays for sympathy in the music - which are possibly even hone
 <br>
 
 
-> I mean it’s a little foolish to knock Taylor Swift for basing her brand on authentic teenage experiences that she never actually had for the same reason that it’s naive to point out that William Shakespeare wasn’t an Italian teenager willing to die for love; the art is separate from the artist, and the better the artist the less likely they actually have any personal experience 
+> I mean it’s a little foolish to knock Taylor Swift for basing her brand on authentic teenage experiences that she never actually had for the same reason that it’s naive to point out that William Shakespeare wasn’t an Italian teenager willing to die for love; the art is separate from the artist, and the better the artist the less likely they actually have any personal experience in what they’re arting.
 
 <center>–  <a class="noline" href="{{arg}}">Argumate</a> </center>
 
+
+<!-- the lyrics of her songs are deeply introspective and relate to the experience of what it’s like to be a 47 year old Swedish music producer living in the body of an American teenage girl. https://argumate.tumblr.com/post/174555226934/argumate-amazing-that-britney-spears-and-taylor -->
 
 
 
@@ -259,9 +272,13 @@ The machine is most visible in its precision and repetition (Sittenfeld notices 
 
 Authenticity is a very stupid idea in a lot of ways. It's ahistorical - katsu curry is a Japanese adaptation of the British adaptation of the Indian recipe, much of the <a href="{{ital}}">Italian menu canon</a> didn't exist 100 years ago but is now fiercely gatekept as the essence of Italian culture - it prevents innovation, it has made some great artists superstitiously avoid money (or <a href="{{cobain}}">kill themselves</a>). But look at the alternative.
 
-Pop as a whole is larger and more literally hegemonic than little old TS: it ate gospel, it ate jazz, it ate rock, it ate punk, it ate hip-hop, it ate <a href="{{elec}}">various</a> weird obtuse electronic genres, and it ate lo-fi, and it wears their skins whenever it likes. TS is just one little corner of this larger machine; TS only works at all because of the debasement of the "indie" category over the last 20 years. "Indie" once connoted creative freedom / intensely personal weirdness. It now mainly means "has guitars and vaguely depressed vocals": corporate indie, overproduced lo-fi, pensive strumming with no thoughts. The upside of this debasement is to make pop larger: irony, self-doubt and negativity are now options for hitmakers, and this makes the charts less monotonous. (Making whole _albums_ full of miserable pop remains a minor achievement. The imperfect girlfriend and vengeful ex remain underrepresented in the charts.)
+(The difference between Shakespeare writing about Veronese gang kids and Taylor writing about high school is that Shakey pulled it off.)
 
-For all Swift's work and shrewdness, TS is in this sense just a splinter cell of the same spontaneous order that created Britney, Katy Perry, Demi Lovato, Halsey, Meghan Trainor, Ariana Grande, Selena Gomez. Her diphthongs are far from the full absurd <a href="{{indie}}">Indie Pop Vocal</a> (except in moments like "<a href="{{oiim}}">oiiim insane</a>"), and the autotune is subtler. <a href="#fn:11" id="fnref:11">11</a> I can't improve on <a href="{{vox}}">this analysis</a> of how the TS image is engineered. 
+Pop as a whole is obviously larger and more literally hegemonic than little old TS: it ate gospel, it ate jazz, it ate rock, it ate punk, it ate hip-hop, it ate <a href="{{elec}}">various</a> weird obtuse electronic genres, and it ate lo-fi, and it wears their skins whenever it likes. TS is just one little corner of this larger machine; TS only works at all because of the debasement of the "indie" category over the last 20 years. "Indie" once connoted creative freedom / intensely personal weirdness. It now mainly means "has guitars and vaguely depressed vocals": corporate indie, overproduced lo-fi, pensive strumming with no thoughts. The upside of this debasement is to make pop larger: irony, self-doubt and negativity are now options for hitmakers, and this makes the charts less monotonous. 
+
+(Yet another current that runs through TS is the defiant, seething, post-grunge <a href="{{nine}}">90s girl</a> - think Fiona Apple, Alanis, Sinead O’Connor, Courtney Love. TS dilutes it, of course: uses the attitude while completely dropping the look. But making whole _albums_ full of miserable pop remains a minor achievement. The imperfect girlfriend and vengeful ex remain underrepresented in the charts.)
+
+For all Swift's grinding and shrewdness, TS is in this sense just a splinter cell of the same spontaneous order that created Britney, Katy Perry, Demi Lovato, Halsey, Meghan Trainor, Ariana Grande, Selena Gomez. Her diphthongs are far from the full absurd <a href="{{indie}}">Indie Pop Vocal</a> (except in moments like "<a href="{{oiim}}">oiiim insane</a>"), and the autotune is subtler. <a href="#fn:11" id="fnref:11">11</a> I can't improve on <a href="{{vox}}">this analysis</a> of how the TS image is engineered. 
 
 
 
@@ -299,7 +316,7 @@ The most interesting things about Swift were harder to discover: she's a sort of
 
 ### Polymorphousness
 
-> David Bowie turned marketing into the essence of his art. All great phenomena of popular music, from Elvis Presley to the Beatles, had been, first and foremost, marketing phenomena... With Bowie... art and marketing become one. There [are] intellectuals who proclaimed this theory in rebellious terms. Bowie was... the heir, no matter how perverted, of Andy Warhol's pop art... He [was to make underground transgressive art] precisely what they had been designed to fight: a commodity.
+> David Bowie turned marketing into the essence of his art. All great phenomena of popular music, from Elvis Presley to the Beatles, had been, first and foremost, marketing phenomena... With Bowie... art and marketing become one... Bowie was... the heir, no matter how perverted, of Andy Warhol's pop art... He [made underground transgressive art into] precisely what [it] had been designed to fight: a commodity.
 
 <center>
     – <a class="noline" href="{{scar}}">Piero Scaruffi</a>
@@ -315,9 +332,9 @@ The most interesting things about Swift were harder to discover: she's a sort of
 
 <br>
 
-Most machines stop iterating once they find a hypersuccessful selling point. TS is thus in a rare category along with Bowie and Madonna: the red queens. TS found massive success by presenting as a chaste country girl; a stadium dance-pop star running family-friendly S&M; an oversexed indie grrl; a politically-aware ally; a bedroom-recording-studio murmurer ...
+Most machines stop iterating once they find a hypersuccessful selling point. TS is thus in a rare category along with Bowie and Madonna: the red queens. TS found massive success by presenting as a chaste country girl; a stadium dance-pop star running family-friendly S&M; an oversexed indie grrl; a politically-aware ally; a goth bedroom-recording-studio murmurer ...
 
-Bowie changed so often because there was nothing underneath. He is the great artist of surfaces. (He was also thoughtful enough that we should credit him with intentional rebellion against the pop/art and fake/authentic spectrums.) The difference is his quality and prescience: he managed to pre-empt glam, punk, new wave, and Online. A leading indicator, where TS is lagging. 
+Bowie changed so often because there was nothing underneath. He is the great artist of surfaces. (He was also thoughtful enough that we should credit him with intentional rebellion against the pop/art and fake/authentic spectrums.) The difference is his quality and prescience: he managed to pre-empt glam, prog, vanilla funk, punk, AOR, new wave, and Online. He was a leading indicator, where TS is lagging. 
 
 Madonna is a much better fit; the constant try-hard <a href="{{mad}}">iteration</a>, the artful use of superficiality, sex, and the celeb racket. The lauded versatility ultimately boiling down to a couple of flavours of pop.
 
