@@ -104,23 +104,23 @@ Pop music is good. Songwriting teams are good. Precision is good. Strategy is go
 
 So why does Taylor Swift (your reception of Taylor Swift) make me feel like I have ants beneath my skin? 
 
-I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a href="{{c2}}">of large</a> <a href="{{c3}}">corporations</a> and 40+ writers and designers <a href="#fn:6" id="fnref:6">6</a>) represent itself as a singular human being I am to empathise with. Then a large part of society greets this machine as a capital-A artist. 
+I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a href="{{c2}}">of large</a> <a href="{{c3}}">corporations</a> and 40+ writers and designers <a href="#fn:6" id="fnref:6">6</a>) represent itself as a singular human being I am to empathise with. Then a large part of society greets this machine as a capital-A artist ("the _person_ who has come up with"). 
 
 The interesting part is that Swift the human built the machine and controls it in some detail. A _self_-manufactured pop star: she is deeply invested in making the machine seem like her and in feeding it people (fans, co-writers, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to even more fame, fame which automatically produces more controversies. Call the machine _TS_.
 
 TS presents itself as Swift. It performs characters (<a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) and at the same time pretends to deeply express Swift the woman. She performed innocence (and a twang) for Nashville and now performs demisexuality (and FKA-sighing) for the glossies, BPD (and drawling) for the extremely online, and a persecution complex (and diphthongs) for everyone. <a href="#fn:1" id="fnref:1">1</a>
 
-That's half of it; the other half is the mediocrity of the output and your incredible overestimation of it. (Bowie pulled off a cheaper version of the TS trick 50 years ago and I love him for it because his songs are, _at the very least_, interesting and aimed at more than pleasing me.) TS songs are moderately catchy, recently moderately perverse, and expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / Jenny Lewis / Lady Gaga / Kesha / Lana del Rey / Lorde / FKA Twigs / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
+That's half of it; the other half is your incredible overestimation of the output. (Bowie pulled off a cheaper version of the TS trick 50 years ago and I love him for it - because his songs are, _at the very least_, interesting and aimed at more than pleasing me.) TS songs are moderately catchy, (recently) moderately perverse, and expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / Jenny Lewis / Lady Gaga / Kesha / Lana del Rey / Lorde / FKA Twigs / St Vincent / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
 
-Why does the music's reception matter if the music doesn't matter? Well, I dislike things that pretend to be deep when they're not. Things which pretend to be personal are on tricky aesthetic ground. It is not fine for entertainment to stand in place of art. We used to be iffy about parasocial relationships, corporate machines, being played.
+Why does the music's reception matter if the music doesn't matter? Well, I dislike things that pretend to be deep when they're not. Things which pretend to be personal are on tricky aesthetic ground. Entertainment is fine but not when it stands in place of art. We used to be iffy about parasocial relationships, corporate machines, being played.
 
 I realise now that Swift _is_ a kind of artist – but the art is not music, it's marketing. Empire-building. Really ingenious <a href="https://www.theringer.com/2016/7/12/16039240/when-did-you-first-realize-taylor-swift-was-lying-to-you-bb5a00a32b65">image management</a>, audience relationship management, and hiring. She weathered <a href="{{prob}}">culture war</a> struggle sessions completely fine; people have repeatedly <a href="{{sady}}">announced</a> her demise - and yet here she is. I'm impressed, at the wrong thing. <!-- These feats require intelligence, perception, and cold blood. So the music is uninteresting but the phenomenon isn't. --> Three different industry roles run together in Swift:
 
-* the Impresario (Tin Pan Alley / Brill / Music Row / Colonel Parker / A&R execs)
+* the Impresario (Tin Pan Alley / Brill / Music Row / Colonel Parker / A&R exec scouting and team-building and hitmaking)
 * the Manufactured Popstar (Kylie / Britney / Katy Perry / Selena / Ariana)
 * the Songwriting Chameleon (Lou Reed / Bowie / Madonna) <a href="#fn:4" id="fnref:4">4</a>
 
-She appears to be the best in the business at two of these and serviceable at the other.
+She appears to be the best in the business at two of these and serviceable at the other. <a href="#fn:12" id="fnref:12">12</a> 
 
 <!-- Dolly was impresario and popstar -->
 
@@ -257,7 +257,7 @@ There are various plays for sympathy in the music - which are possibly even hone
 <br>
 
 
-> I mean it’s a little foolish to knock Taylor Swift for basing her brand on authentic teenage experiences that she never actually had for the same reason that it’s naive to point out that William Shakespeare wasn’t an Italian teenager willing to die for love; the art is separate from the artist, and the better the artist the less likely they actually have any personal experience in what they’re arting.
+> it’s a little foolish to knock Taylor Swift for basing her brand on authentic teenage experiences that she never actually had for the same reason that it’s naive to point out that William Shakespeare wasn’t an Italian teenager willing to die for love; the art is separate from the artist, and the better the artist the less likely they actually have any personal experience in what they’re arting.
 
 <center>–  <a class="noline" href="{{arg}}">Argumate</a> </center>
 
@@ -272,11 +272,11 @@ The machine is most visible in its precision and repetition (Sittenfeld notices 
 
 Authenticity is a very stupid idea in a lot of ways. It's ahistorical - katsu curry is a Japanese adaptation of the British adaptation of the Indian recipe, much of the <a href="{{ital}}">Italian menu canon</a> didn't exist 100 years ago but is now fiercely gatekept as the essence of Italian culture - it prevents innovation, it has made some great artists superstitiously avoid money (or <a href="{{cobain}}">kill themselves</a>). But look at the alternative.
 
-(The difference between Shakespeare writing about Veronese gang kids and Taylor writing about high school is that Shakey pulled it off.)
+(One difference between Shakespeare writing about Veronese gang kids and TS writing about high school kids is that Shakey wasn't pretending to be a Veronese gang kid.)
 
-Pop as a whole is obviously larger and more literally hegemonic than little old TS: it ate gospel, it ate jazz, it ate rock, it ate punk, it ate hip-hop, it ate <a href="{{elec}}">various</a> weird obtuse electronic genres, and it ate lo-fi, and it wears their skins whenever it likes. TS is just one little corner of this larger machine; TS only works at all because of the debasement of the "indie" category over the last 20 years. "Indie" once connoted creative freedom / intensely personal weirdness. It now mainly means "has guitars and vaguely depressed vocals": corporate indie, overproduced lo-fi, pensive strumming with no thoughts. The upside of this debasement is to make pop larger: irony, self-doubt and negativity are now options for hitmakers, and this makes the charts less monotonous. 
+Pop as a whole is obviously larger and more literally hegemonic than little old TS: it ate gospel, it ate country, it ate jazz, it ate rock, it ate punk, it ate hip-hop, it ate <a href="{{elec}}">various</a> weird obtuse electronic genres, it ate lo-fi, and it wears their skins whenever it likes. TS is just one little corner of this larger machine; TS only works at all because of pop's debasement of the "indie" category over the last 20 years. "Indie" once connoted creative freedom / intensely personal weirdness. It now mainly means "has guitars and vaguely depressed vocals"; corporate indie, overproduced lo-fi, pensive strumming with no thoughts. (The upside of this debasement is to make pop larger: irony, self-doubt and negativity are now options for hitmakers, and this makes the charts less monotonous.)
 
-(Yet another current that runs through TS is the defiant, seething, post-grunge <a href="{{nine}}">90s girl</a> - think Fiona Apple, Alanis, Sinead O’Connor, Courtney Love. TS dilutes it, of course: uses the attitude while completely dropping the look. But making whole _albums_ full of miserable pop remains a minor achievement. The imperfect girlfriend and vengeful ex remain underrepresented in the charts.)
+Yet another current that runs through TS is the defiant, seething, post-grunge <a href="{{nine}}">90s girl</a> - think Fiona Apple, Alanis, Sinead O’Connor, Courtney Love. TS dilutes it, of course: uses the attitude while completely dropping the look. But making whole _albums_ full of miserable angry pop remains a minor achievement. The imperfect girlfriend and vengeful ex remain underrepresented in the charts.
 
 For all Swift's grinding and shrewdness, TS is in this sense just a splinter cell of the same spontaneous order that created Britney, Katy Perry, Demi Lovato, Halsey, Meghan Trainor, Ariana Grande, Selena Gomez. Her diphthongs are far from the full absurd <a href="{{indie}}">Indie Pop Vocal</a> (except in moments like "<a href="{{oiim}}">oiiim insane</a>"), and the autotune is subtler. <a href="#fn:11" id="fnref:11">11</a> I can't improve on <a href="{{vox}}">this analysis</a> of how the TS image is engineered. 
 
@@ -387,6 +387,11 @@ Washed up and ranting about the same old bitter things
 
 
 <div class="accordion">
+    <h3>what's good</h3>
+    <div>
+        I quite like the Max Martin numbers "Style", "Blank Space", "Shake it Off", "I Knew You Were Trouble". ("We Are Never" shows its gears and emotional pulleys too nakedly for me to forgive it.) Antonoff's "Dress" is a FKA knock-off, still good. Of the solo work, "Enchanted" is perfect in its way (Carmichael just did the strings; I think nearly none of TS' arrangements are Swift).
+    </div>
+    <!--  -->
     <h3>lyricist</h3>
     <div>
         I'm told that Swift's own self-conception and real talents lie in lyric-writing. I don't see it but will quote <a href="{{kontext}}">Kontextmaschine</a> for completeness:
@@ -442,7 +447,11 @@ Washed up and ranting about the same old bitter things
         <blockquote>"This body of songwriters will not give publishing or songwriting credit to anyone who did not create or change the lyric or melody or otherwise contribute to the composition without a reasonably equivalent/meaningful exchange for all the writers on the song,”... These songwriters have worked on songs such as Ariana Grande’s “Dangerous Woman,” Harry Styles’ “Adore You,” Katy Perry’s “Rise,” Taylor Swift’s “Only The Young” and Selena Gomez and Blackpink’s “Ice Cream.” However, the letter does not mention any specific artists or songs.</blockquote>
     </li>
     <li class="footnote" id="fn:11">
-        I've been getting into hitmakers, the pop artists upstream of society's defining noises for a decade at a time. Skeleton keys for eras. <a href="{{stein}}">Billy Steinberg</a>, <a href="{{saw}}">SAW</a>, <a href="{{guy}}">Guy Chambers</a>, Timbaland, Max Martin.<br><br> You can't taste the sulphur and saccharine at this altitude.
+        I've been getting into hitmakers, the pop artists upstream of society's defining noises for a decade at a time. Skeleton keys for eras. Quincy Jones, <a href="{{stein}}">Billy Steinberg</a>, <a href="{{saw}}">SAW</a>, <a href="{{guy}}">Guy Chambers</a>, Timbaland, Max Martin.<br><br> You can't taste the sulphur and saccharine at this altitude.
+    </li>
+    <!--  -->
+    <li class="footnote" id="fn:12">
+        Doing all three isn't unprecedented: Michael Jackson is Swift's obvious forebear here. But (despite some of his hits being entirely written by others), he seems more of an auteur and his self-presentation is stable and deeply idiosyncratic (pathologically so).
     </li>
 </ol>
 
