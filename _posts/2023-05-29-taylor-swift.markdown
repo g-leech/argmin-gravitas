@@ -14,7 +14,7 @@ summary:    political economy and hermeneutics for some reason
 categories: music
 confidence: N/A. howling my aesthetics against yours.
 importance: 2
-quality:    5
+quality:    6
 wordcount:  
 argument:   
 ---
@@ -24,12 +24,14 @@ argument:
 {%  assign t = "https://twitter.com/phokarlsson/status/1662551767429574659"    %}
 {%  assign credit = "https://www.cnbc.com/2021/04/01/songwriters-ask-artists-to-stop-taking-credit-for-hits-they-didnt-write.html"   %}
 {%  assign bjork = "https://slate.com/culture/2015/01/bjork-pitchfork-interview-shes-tired-of-not-getting-credit-for-her-music-just-like-mia-taylor-swift-neko-case-solange-knowles-grimes-more.html"   %}
+{%  assign diary = "https://www.nytimes.com/2019/08/26/arts/music/taylor-swift-lover-journals.html"   %}
 {%  assign guy = "https://en.wikipedia.org/wiki/Guy_Chambers"   %}
 {%  assign saw = "https://en.wikipedia.org/wiki/Stock_Aitken_Waterman"   %}
 {%  assign saw = "https://www.theage.com.au/lifestyle/fashion/baggy-t-shirts-combat-boots-the-mass-appeal-of-the-90s-anti-it-girl-20200429-p54oa0.html" %}
 {%  assign mad = "https://www.musicradar.com/news/madonna-max-martin-studio"   %}
 {%  assign stein = "https://open.spotify.com/playlist/6yAapcxu5bdTGOtMKOlahg?si=28cc2cf8250b46d1"   %}
 {%  assign cobain = "https://www.kerrang.com/kurt-on-kurt-the-nirvana-icon-in-his-own-words"  %}
+{%  assign obama = "https://www.buzzfeednews.com/article/scott/obama-calls-kanye-a-jackass"   %}
 {%  assign arg = "https://www.tumblr.com/argumate/186348895184/i-mean-its-a-little-foolish-to-knock-taylor-swift"  %}
 {%  assign sady = "https://www.elle.com/culture/celebrities/a12119630/taylor-swift-downfall"   %}
 {%  assign prob = "https://yourfaveisproblematic.tumblr.com/post/45761093757/taylor-swift" %}
@@ -53,6 +55,7 @@ argument:
 {%  assign elec = "https://en.wikipedia.org/wiki/Electronic_music#Late_1960s_to_early_1980s" %}
 {%  assign inc = "https://nypost.com/2023/02/14/forbes-highest-paid-entertainers-2022-taylor-swift-bad-bunny-more" %}
 {%  assign nyer = "https://www.newyorker.com/culture/cultural-comment/taylor-swift-is-confusing"    %}
+{%  assign shake = "https://www.youtube.com/watch?v=nfWlot6h_JM"    %}
 {%  assign c1 = "https://opencorporates.com/companies/us_tn/000608656"  %}
 {%  assign c2 = "https://opencorporates.com/companies/us_tn/000658255"  %}
 {%  assign c3 = "https://opencorporates.com/companies/us_tn/000595933"  %}
@@ -69,6 +72,9 @@ argument:
 {%  assign kontext = "https://kontextmaschine.tumblr.com/post/96493509413/taylor-swifts-semantic-overloading" %}
 {%  assign martin = "https://en.wikipedia.org/wiki/Max_Martin"    %}
 {%  assign hark = "https://www.vogue.com/article/the-outrageous-life-of-rebekah-harkness-taylor-swifts-high-society-muse" %}
+{%  assign trademark = "https://trademarks.justia.com/864/34/t-86434695.html"   %}
+{%  assign law = "https://www.theguardian.com/music/musicblog/2015/jan/29/taylor-swift-this-sick-beat-worlds-first-trademarked-lyric"   %}
+{%  assign miso = "https://thecurrentmsu.com/2021/10/04/do-you-hate-taylor-swift-or-is-it-just-misogyny"   %}
 
 
 
@@ -104,17 +110,19 @@ Pop music is good. Songwriting teams are good. Precision is good. Strategy is go
 
 So why does Taylor Swift (your reception of Taylor Swift) make me feel like I have ants beneath my skin? 
 
-I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a href="{{c2}}">of large</a> <a href="{{c3}}">corporations</a> and 40+ writers and designers <a href="#fn:6" id="fnref:6">6</a>) represent itself as a singular human being I am to empathise with. Then a large part of society greets this machine as a capital-A artist ("the _person_ who has come up with"). 
+I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a href="{{c2}}">of large</a> <a href="{{c3}}">corporations</a> and 40+ ghostwriters and designers and <a href="{{law}}">lawyers</a> <a href="#fn:6" id="fnref:6">6</a>) represent itself as a singular human being I am to empathise with. Then a large part of society greets this machine as a capital-A artist ("the _person_ who has come up with"). 
 
-The interesting part is that Swift the human built the machine and controls it in some detail. A _self_-manufactured pop star: she is deeply invested in making the machine seem like her and in feeding it people (fans, co-writers, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to even more fame, fame which automatically produces more controversies. Call the machine _TS_.
+The interesting part is that Swift the human built the machine and controls it in some detail. A _self_-manufactured pop star: she is deeply invested in making the machine seem like her and in feeding it people (fans, co-writers, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to even more fame, fame which automatically produces more controversies. Call the machine <a href="{{trademark}}">TS</a>.
 
-TS presents itself as Swift. It performs characters (<a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) and at the same time pretends to deeply express Swift the woman. She performed innocence (and a twang) for Nashville and now performs demisexuality (and FKA-sighing) for the glossies, BPD (and drawling) for the extremely online, and a persecution complex (and diphthongs) for everyone. <a href="#fn:1" id="fnref:1">1</a>
+TS presents itself as Swift. It performs characters (<a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) and at the same time pretends to deeply express Swift the woman. She performed innocence (and a twang) for Nashville and now performs demisexuality (and FKA-sighing) for the glossies, BPD (and drawling) for the extremely online, and a persecution complex (and diphthongs) for everyone <a href="#fn:1" id="fnref:1">1</a>.
 
-That's half of it; the other half is your incredible overestimation of the output. (Bowie pulled off a cheaper version of the TS trick 50 years ago and I love him for it - because his songs are, _at the very least_, interesting and aimed at more than pleasing me.) TS songs are moderately catchy, (recently) moderately perverse, and expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / Jenny Lewis / Lady Gaga / Kesha / Lana del Rey / Lorde / FKA Twigs / St Vincent / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
+That's half of it; the other half is your incredible overestimation of the output. (Bowie pulled off a cheaper version of the TS trick 50 years ago and I love him for it - because his songs are, _at the very least_, interesting and aimed at more than pleasing me.) TS songs are moderately catchy, (recently) moderately perverse, and expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / Jenny Lewis / Lady Gaga / Kesha / Lana del Rey / Lorde / FKA Twigs / <!--St Vincent--> Billie Eilish / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
 
 Why does the music's reception matter if the music doesn't matter? Well, I dislike things that pretend to be deep when they're not. Things which pretend to be personal are on tricky aesthetic ground. Entertainment is fine but not when it stands in place of art. We used to be iffy about parasocial relationships, corporate machines, being played.
 
-I realise now that Swift _is_ a kind of artist – but the art is not music, it's marketing. Empire-building. Really ingenious <a href="https://www.theringer.com/2016/7/12/16039240/when-did-you-first-realize-taylor-swift-was-lying-to-you-bb5a00a32b65">image management</a>, audience relationship management, and hiring. She weathered <a href="{{prob}}">culture war</a> struggle sessions completely fine; people have repeatedly <a href="{{sady}}">announced</a> her demise - and yet here she is. I'm impressed, at the wrong thing. <!-- These feats require intelligence, perception, and cold blood. So the music is uninteresting but the phenomenon isn't. --> Three different industry roles run together in Swift:
+I realise now that Swift _is_ a kind of artist – but the art is not music, it's marketing. Empire-building. Really ingenious <a href="https://www.theringer.com/2016/7/12/16039240/when-did-you-first-realize-taylor-swift-was-lying-to-you-bb5a00a32b65">image management</a>, audience relationship management, and hiring. She weathered <a href="{{prob}}">culture war</a> struggle sessions completely fine; people have repeatedly <a href="{{sady}}">announced</a> her demise, critics have bleated about the derivativeness and hollowness of the songs - and yet here she is. These feats require intelligence, deep cultural awareness, and cold blood. So if the music is uninteresting the phenomenon isn't. She plays the world like a fiddle.
+
+Three different industry roles run together in Swift:
 
 * the Impresario (Tin Pan Alley / Brill / Music Row / Colonel Parker / A&R exec scouting and team-building and hitmaking)
 * the Manufactured Popstar (Kylie / Britney / Katy Perry / Selena / Ariana)
@@ -133,7 +141,7 @@ She appears to be the best in the business at two of these and serviceable at th
 <div class="accordion">
     <h3>What?</h3>
     <div>
-        Art music exists and isn't the same as pop music. Attention is limited; true artistic appreciation is 1000 times more limited. TS is fine except insofar as it stands in place of art music, a switcharoo you lot are pulling on yourselves.<br><br>
+        Art music exists and isn't the same as pop music. Attention is limited; true artistic appreciation is 1000 times more limited. TS is fine except insofar as it stands in place of art music, a switcharoo you lot are pulling on yourselves. Fake things (as opposed to fictions) struggle to attain greatness.<br><br>
         <!--  -->
         I like analysing stuff. In the course of making that plea for demarcation, I found actually interesting things about TS. (When you are faced with something with no merit, you always have the option of anthropology: stepping back and studying the fans, working out the deep things any phenomenon <i>of this size</i> will say about culture. The world in a grain of sand, in the flash of the feed.)
     </div>
@@ -223,20 +231,28 @@ I think the usual mechanism is that the execs meddle to ensure that they recoup 
 
 <center>– someone on tumblr </center>
 
-
+<!-- https://www.nbcchicago.com/news/local/some-taylor-swift-fans-are-reporting-post-concert-amnesia-a-psychologist-explains-why/3154168/ -->
 <!-- > entire public persona on turning on her exes and shit-talking them in public! -->
 
 <br>
 
 This part of the machine is really interesting. The romantic singer-songwriter tradition says that music is good to the extent that it honestly expresses one person's feelings. So how can it be bad that she talks about her love life, and people respond to it?
 
-One thing: TS is simultaneously an optimised hit factory which tracks stylistic trends in the charts and creates products in response, _and_ an extension of gossip-mag voyeurism. The songs are more explicit about its celeb subjects than past love / revenge songs. It's a product to a greater degree than everything else is now a product. (You lot would go parasocial regardless of how private Swift was, but as it is it's cultivated in a way which makes me run screaming.)
+One thing: TS is simultaneously an optimised hit factory which tracks stylistic trends in the charts and creates products in response, _and_ an extension of gossip-mag voyeurism. The songs are more explicit about its celeb subjects than past love / revenge songs. You can read her <a href="{{diary}}">diary</a>. It's a product to a greater degree than everything else is now a product. (You lot would go parasocial regardless of how private Swift was, but as it is it's cultivated in a way which makes me run screaming.)
 
-Another is that melding public and private _destroys_ the private. Living in public prevents you being yourself (think of the self-censorship alone), which undermines the romantic artist story another way <a href="#fn:9" id="fnref:9">9</a>.
+Another is that melding public and private _destroys_ the private. Living in public prevents you being yourself (think of the self-censorship alone), which undermines the romantic artist story another way <a href="#fn:9" id="fnref:9">9</a>. 
 
 There are various plays for sympathy in the music - which are possibly even honest, but they remain plays. (e.g. The absurd premise of "Reputation" is that she is a victim, needs defenders. Maybe she really is trapped inside TS, the cage she intentionally constructed.)
 
 (What's the difference between people delighting in her outfits and new beau and me loving every anecdote I can get about <a href="/frank">Frank Ramsey</a>? Well, one of them is a human being who lived for himself, rather than a giant mech running a fuzzing attack on your emotions with a human player inside.)
+
+Yet another strat: the pretence that TS is uncool, the victim of snobbery, mean girls, <a href="{{shake}}">haters</a>, paps, hacks, <a href="{{miso}}">misogyny</a>. (She's uncool, like you. She's bullied, like you. Being a fan of her is brave and kind.) Apparently this has an actual referent in Swift's misfit teen experience, but it becomes a grotesque pose in the light of TS' global <a href="{{obama}}">supremacy</a>. A side effect of the pretence is pre-empting essays like this. Haters are going to hate.
+
+<br>
+
+<center>
+    <img width="50%" src="/img/whos-taylor-anyway.jpg" />
+</center>
 
 <br>
 
@@ -276,9 +292,21 @@ Authenticity is a very stupid idea in a lot of ways. It's ahistorical - katsu cu
 
 Pop as a whole is obviously larger and more literally hegemonic than little old TS: it ate gospel, it ate country, it ate jazz, it ate rock, it ate punk, it ate hip-hop, it ate <a href="{{elec}}">various</a> weird obtuse electronic genres, it ate lo-fi, and it wears their skins whenever it likes. TS is just one little corner of this larger machine; TS only works at all because of pop's debasement of the "indie" category over the last 20 years. "Indie" was an economic category meaning "not a machine product". Choosing this economic niche meant you weren't very interested in being popular, and so "indie" also connoted a cluster of intensely personal kinds of weird rock. "Indie" now means "has guitars and vaguely depressed vocals" and it is prominent among corporate releases - corporate indie, overproduced lo-fi, pensive strumming with no thoughts. (The upside of this debasement is to make pop larger: irony, self-doubt and negativity are now options for hitmakers, and this makes the charts less monotonous.)
 
-Yet another current that runs through TS is the defiant, seething, post-grunge <a href="{{nine}}">90s girl</a> - think Fiona Apple, Alanis, Sinead O’Connor, Courtney Love. TS dilutes it, of course: uses the attitude while completely dropping the look. But making whole _albums_ full of miserable angry pop remains a minor achievement. The imperfect girlfriend and vengeful ex remain underrepresented in the charts.
 
 For all Swift's grinding and shrewdness, TS is in this sense just a splinter cell of the same spontaneous order that created Britney, Katy Perry, Demi Lovato, Halsey, Meghan Trainor, Ariana Grande, Selena Gomez. Her diphthongs are far from the full absurd <a href="{{indie}}">Indie Pop Vocal</a> (except in moments like "<a href="{{oiim}}">oiiim insane</a>"), and the autotune is subtler. <a href="#fn:11" id="fnref:11">11</a> I can't improve on <a href="{{vox}}">this analysis</a> of how the TS image is engineered. 
+
+
+<div class="accordion">
+    <h3>Aping the 90s girl</h3>
+    <div>
+        Yet another current that runs through TS is the defiant/seething/heavy-lidded post-grunge <a href="{{nine}}">90s girl</a> - think Fiona Apple, Alanis, Sinead O’Connor, Courtney Love. TS dilutes it, of course: uses the attitude while completely dropping the look. But making whole _albums_ full of miserable angry pop remains a minor achievement. The imperfect girlfriend and vengeful ex remain underrepresented in the charts.
+    </div>
+    <h3>Aping the 90s girl</h3>
+    <div>
+        The Guardian grants her absurd, unprecedented lawfare the privilege of the artist. It's actually kind of liberatory that she is trademarking phrases she did not coin.
+        <blockquote>This is arguably less about her wanting to boil every single thing she does down to a “revenue stream” and more about a pre-emptive strike against callously opportunistic third parties who might want to make money off her without either her involvement or her say-so.</blockquote>
+    </div>
+</div>
 
 
 

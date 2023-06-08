@@ -44,14 +44,17 @@ wordcount:  1200
 	<blockquote>
 		The man scarce lives who is not more credulous than he ought to be.
 	</blockquote>
-	– Adam Smith<br><br>
+	– Adam Smith
+<!--  -->
+	<br><br>
 <!--  -->
 	<blockquote>
 		I will call the imaginary philosopher who acquiesces in the Cartesian paradox a Cartesian skeptic, and the (even more) imaginary philosopher who acquiesces in the Kantian paradox a Kantian skeptic.
 	</blockquote>
-	– James Conant<br><br>
+	– James Conant
 </div>
 
+<br><br>
 
 I love contrariness. I love <a href="{{cross}}">Saudi cross-dressers</a>, <a href="{{sxe}}">sober punks</a>, <a href="{{lib}}">bleeding-heart libertarians</a>, <a href="{{clare}}">worker</a>-<a href="{{cb}}">poets</a>, <a href="{{bee}}">poet-scientists</a>, <a href="{{meat}}">vegan meat growers</a>, <a href="{{morm}}">Mormon transhumanists</a>, <a href="{{env}}">pro-nuclear pro-GM environmentalists</a>. But all contrarians are rank amateurs. We all take there to be a world, we all take ourselves to know things about it and ourselves. We cling to our views, define ourselves with them, even if by taking the opposite of some other group's beliefs.
 
@@ -101,6 +104,8 @@ The Sceptic: "Not yours."
 
 > the only winning move is not to play
 
+<br>
+
 What enables the sceptical paradoxes? A big bundle of positions:
 
 * _Internalism_. The demand for everything to make complete sense to us, before we will call it justified.
@@ -141,6 +146,7 @@ There is surprisingly little interaction between radical doubt and inaction. One
 
 > To be right, be vague. To be productively wrong, be precise.
 
+<br>
 
 One way of making sense of True Sceptics (and mere methodological sceptics like Descartes) is through the language of statistics. What is the loss function of radical scepticism? What are they trying to avoid?
 
@@ -156,7 +162,7 @@ The word for being paralysed by doubt is "<a href="{{apo}}">aporia</a>". It isn'
 
 But one of the promises of Greek scepticism was <a href="{{ata}}">equanimity</a>! Maybe it's like Keanu:
 
-> I'm at that stage in life where I stay out of discussions. Even if you say 1+1=5, you're right - have fun.
+> I'm at that stage in life where I stay out of discussions. Even if you say 1+1=5, [I just reply] "you're right - have fun".
 
 <br>
 
