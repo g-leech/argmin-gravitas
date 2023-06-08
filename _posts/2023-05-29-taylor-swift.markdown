@@ -114,7 +114,7 @@ I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a hre
 
 The interesting part is that Swift the human built the machine and controls it in some detail. A _self_-manufactured pop star: she is deeply invested in making the machine seem like her and in feeding it people (fans, co-writers, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to even more fame, fame which automatically produces more controversies. Call the machine <a href="{{trademark}}">TS</a>.
 
-TS presents itself as Swift. It performs characters (<a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) and at the same time pretends to deeply express Swift the woman. She performed innocence (and a twang) for Nashville and now performs demisexuality (and FKA-sighing) for the glossies, BPD (and drawling) for the extremely online, and a persecution complex (and diphthongs) for everyone <a href="#fn:1" id="fnref:1">1</a>.
+TS presents itself as Swift. It performs characters (<a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) and at the same time pretends to deeply express Swift the woman. It performed innocence (and a twang) for Nashville and now performs demisexuality (and FKA-sighing) for the glossies, BPD (and drawling) for the extremely online, and a persecution complex (and diphthongs) for everyone <a href="#fn:1" id="fnref:1">1</a>.
 
 That's half of it; the other half is your incredible overestimation of the output. (Bowie pulled off a cheaper version of the TS trick 50 years ago and I love him for it - because his songs are, _at the very least_, interesting and aimed at more than pleasing me.) TS songs are moderately catchy, (recently) moderately perverse, and expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / Jenny Lewis / Lady Gaga / Kesha / Lana del Rey / Lorde / FKA Twigs / <!--St Vincent--> Billie Eilish / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
 
@@ -301,14 +301,14 @@ For all Swift's grinding and shrewdness, TS is in this sense just a splinter cel
     <div>
         Yet another current that runs through TS is the defiant/seething/heavy-lidded post-grunge <a href="{{nine}}">90s girl</a> - think Fiona Apple, Alanis, Sinead O’Connor, Courtney Love. TS dilutes it, of course: uses the attitude while completely dropping the look. But making whole _albums_ full of miserable angry pop remains a minor achievement. The imperfect girlfriend and vengeful ex remain underrepresented in the charts.
     </div>
-    <h3>Aping the 90s girl</h3>
+    <h3>Lawyering up</h3>
     <div>
-        The Guardian grants her absurd, unprecedented lawfare the privilege of the artist. It's actually kind of liberatory that she is trademarking phrases she did not coin.
+        The Guardian grants TS' absurd, unprecedented lawfare the benefit of the doubt, matey journalistic licence. It's actually kind of liberatory that she is trademarking phrases she did not coin.
         <blockquote>This is arguably less about her wanting to boil every single thing she does down to a “revenue stream” and more about a pre-emptive strike against callously opportunistic third parties who might want to make money off her without either her involvement or her say-so.</blockquote>
     </div>
 </div>
 
-
+<br>
 
 <!-- mistaking corporate chimeras for auteurs means that the auteurs get even less attention -->
 

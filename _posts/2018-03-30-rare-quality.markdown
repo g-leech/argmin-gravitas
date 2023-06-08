@@ -162,3 +162,8 @@ But if we were stubbornly happy - if we often experienced joy for no particular 
 
 
 {%	include quality/foots.html 	%}
+
+
+## See also
+
+* [Convergent analysis from Jooda](https://bewrong.substack.com/p/more-good-things)
