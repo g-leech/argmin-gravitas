@@ -24,7 +24,8 @@
           
           <div id="rws" class="dropdown-content">
             <br>
-            Reweighted wake-sleep (RWS) does Bayesian inference for a very general class of models. RWS samples from an approximate posterior, then uses importance weighting to provide a better estimate of the true posterior. RWS then updates its approximate posterior towards the importance-weighted estimate of the true posterior. But the sheer number of samples you need for IW rules out any realistically sized model.<br><br>
+            Reweighted wake-sleep (RWS) can do Bayesian inference in a very general class of models. It samples from an approximate posterior Q, then uses importance weighting to estimate the true posterior P, then updates Q towards the importance-weighted estimate of P. But the sheer number of samples you need in IW rules out any realistic-size model.
+            <br><br>
             We develop "massively parallel RWS", which samples all latent variables and reasons about all possible combinations of samples. You can do this in polynomial time by exploiting conditional independencies. We get a dramatic speedups over standard RWS, which samples the full joint.
 
             <!-- more general derivations of massively parallel reweighted wake-sleep, making them more general and enabling the use of a wider range of approximate posteriors in Bayesian inference.

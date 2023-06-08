@@ -36,8 +36,7 @@ visible:	true
 
 ## Gawk
 
-* <a href="{{filum}}">Films</a>
-* <a href="{{filum}}">tv</a><br><br>
+* <a href="{{filum}}">Films</a>, <a href="{{tv}}">tv</a><br><br>
 * <a href="/specie">Species</a><br><br>
 * <a href="{{gam}}">Games</a>, <a href="{{boa}}">games</a><br><br>
 * art
