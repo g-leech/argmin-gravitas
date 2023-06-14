@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "A marxist explanation of marx"
+baselink:   /marx
+permalink:  /marx
+date:       2023-06-11
+author:     Gavin
+
+img:        /img/
+published:  false
+visible:    1
+
+summary:    How did a bourgeois German in the time of empire discern the logic of history?
+categories: philosophy, history
+confidence: Fiction. (He didn't.)
+importance: 
+quality:    
+wordcount:  
+argument:   
+---
+
