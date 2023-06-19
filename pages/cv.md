@@ -28,6 +28,75 @@ visible:	false
 
 <center>
   <h1 class="titl">
+    📃
+    <br class="break">
+    <a class="pubs" href="/researches">Publications</a>
+    <br class="break">
+    📃
+  </h1>
+</center>
+
+<br>
+
+* <time>
+    <a class="noline" href="/researches">
+      Massively Parallel Reweighted Wake-Sleep
+    </a>
+    <span style="font-weight: normal;">
+      (2023),<br>
+      <i>UAI</i>
+    </span>
+<br>
+
+* <time>
+      <a class="noline" href="/researches">Inferring the effectiveness of government interventions against COVID</a>
+        <br><span style="font-weight: normal;">(2020),
+      <i>Science</i>
+    </span>
+  </time> 
+<br>
+
+* <time>
+      <a class="noline" href="/researches">Mask-wearing in community settings reduces COVID-19 transmission</a>
+      <br><span style="font-weight: normal;">(2022), <i>PNAS</i> </span> 
+  </time> 
+<br>
+
+* <time>
+      <a class="noline" href="/researches">How Robust are Estimated Effects of Interventions against COVID-19?</a>
+        <br><span style="font-weight: normal;">(2020), <i>NeurIPS</i>
+      </span>
+  </time> 
+<br>
+
+* <time>
+    <a class="noline" href="/researches">
+      Safety Properties of Inductive Logic Programming
+    </a>
+    <span style="font-weight: normal;">
+      (2020),<br>
+      <i>AAAI SafeAI workshop</i>
+    </span>
+  
+
+<br><br>
+
+<hr />
+
+<br>
+
+{%  include cv/ed.html  %}
+
+
+
+<br><br>
+
+<hr />
+
+<br>
+
+<center>
+  <h1 class="titl">
     🏆
     <br class="break">
     Awards
@@ -107,64 +176,6 @@ visible:	false
 </ul>
 </section>
 
-
-<br><br>
-
-<hr />
-
-<br>
-
-<center>
-  <h1 class="titl">
-    📃
-    <br class="break">
-    <a class="pubs" href="/researches">Publications</a>
-    <br class="break">
-    📃
-  </h1>
-</center>
-
-<br>
-
-
-* <time>
-      <a class="noline" href="/researches">Inferring the effectiveness of government interventions against COVID</a>
-        <br><span style="font-weight: normal;">(2020),
-      <i>Science</i>
-    </span>
-  </time> 
-<br>
-
-* <time>
-      <a class="noline" href="/researches">Mask-wearing in community settings reduces COVID-19 transmission</a>
-      <br><span style="font-weight: normal;">(2022), <i>PNAS</i> </span> 
-  </time> 
-<br>
-
-* <time>
-      <a class="noline" href="/researches">How Robust are Estimated Effects of Interventions against COVID-19?</a>
-        <br><span style="font-weight: normal;">(2020), <i>NeurIPS</i>
-      </span>
-  </time> 
-<br>
-
-* <time>
-    <a class="noline" href="/researches">
-      Safety Properties of Inductive Logic Programming
-    </a>
-    <span style="font-weight: normal;">
-      (2020),<br>
-      <i>AAAI SafeAI workshop</i>
-    </span>
-  
-
-<br><br>
-
-<hr />
-
-<br>
-
-{%  include cv/ed.html  %}
 
 <br><br>
 

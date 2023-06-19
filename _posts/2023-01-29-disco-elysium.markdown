@@ -546,13 +546,14 @@ Above the stars he must dwell.
 <br><br>
 
 
-Atop all of THAT, it's maybe the most European game I've ever played - the writers steal stereotypes and words from all over the place, but smear them. Not just Europe: Revachol is Paris 1871, Berlin 1946, East Berlin 1975, Haiti forever, the Shanghai International Settlement, Tallinn 1999. 
+Atop all of THAT, it's maybe the most European game I've ever played - the writers steal stereotypes and words from all over the place, but smear them. Not just Europe: Revachol is Paris 1871, Berlin 1946, East Berlin 1975, Haiti forever, the Shanghai International Settlement, Tallinn 1999 <a href="#fn:9" id="fnref:9">9</a>. 
 
-No one is married. It used to be the center of the world. It used to have hope, until the pandemic lifted the radicals that drew the colonisers. 
+(No one is married. It used to be the center of the world. It used to have hope, until the pandemic lifted the radicals that drew the colonisers.)
 
 > Once we were an octopus that straddled the world, sucking up natural and human resources from Iilmaraa to South-East Seol. The city state that screwed the whole world. 
 
-Paris today too - the seething <i>esprit banlieue</i>: wallowing, but also completely willing to punch an authority in the face.
+More: Elysium is a European world without _America_. European power dominates because the big lad is missing / because KHTK bring (some) modern technology and spirit back in time, to the 1930s. Before the American century, when Europe was the centre. They have cars and techno but no computers. The airships should have given us a clue. It's a 1930s political economy, tragic and extreme. But mixed in with neoliberal pomo and the EU
+
 
 [Sunday Friend is one long indictment of the EU.](http://fayde.co.uk/dialojue/5490276-5490345-5490598-5490949-5490950-5490392-5490297-5490008-5490661-5490444-5490601-5490009-5490909-5490341#5490341) Which leads us to "Moralism", the ruling ideology.
 
@@ -792,6 +793,10 @@ But playing it I am reminded what is great about the left – the cussed rejecti
         Actually 30 subpersonalities if we include your <a href="{{arb}}">Ancient Reptilian Brain</a> (self-preservation), <a href="{{arb}}">Limbic System</a> (emotional immune system), <a href="{{spine}}">Spinal Cord</a> (love of movement), <a href="{{horrific}}">Horrific Necktie</a> (love of fun), the <a href="{{bloat}}">Bloated Corpse of a Drunk</a> (death drive), and <a href="{{hanged}}">the Hanged Man you ventriloquise</a>.<br><br>(I'm not counting the hallucinated Dora. The Mysterious Pair of Eyes might also be you.)
         <br>
         Note that when Harry sings karaoke, the voice which comes out is the ancient reptilian brain (and the performance is credited to it). We never hear Harry's voice otherwise, so I feel good about saying this is his normal voice.
+    </li>
+    <!--  -->
+    <li class="footnote" id="fn:9">
+        Paris today too - the seething <i>esprit banlieue</i>: wallowing, but also completely willing to punch an authority in the face.
     </li>
 </ol>
 
