@@ -13,7 +13,7 @@ visible:    1
 summary:    political economy and hermeneutics for some reason
 categories: music
 confidence: N/A. howling my aesthetics against yours.
-importance: 2
+importance: 3
 quality:    6
 wordcount:  
 argument:   
