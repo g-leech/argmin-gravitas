@@ -16,7 +16,7 @@ visible:	true
 
 <ul class="beeg">
 	<li>
-		probably the worst at maths of all Erdős number 4s. <!--  href="#fn:18" id="fnref:18">18  --> 
+		possibly the worst at maths of all Erdős number 4s. <!--  href="#fn:18" id="fnref:18">18  --> 
 		<a class="noline" href="{{pred}}">Brier 0.16</a>; <a class="noline" href="{{grrr}}">1064 book reviews</a>; 275lb 1RM squat<br>
 	</li>
 	<br>
