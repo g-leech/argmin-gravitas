@@ -153,6 +153,10 @@ argument:
 			<div>
 				{%	include nation/aus.html	%}
 			</div>
+			<h3>New Zealand</h3>
+			<div>
+				{%	include nation/nz.html	%}
+			</div>
 		</div>
 	</div>
 </div>

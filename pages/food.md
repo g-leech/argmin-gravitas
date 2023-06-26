@@ -80,7 +80,8 @@ visible:    false
 * Woorijip, New York
 * Mama Chang, Fairfax
 * Jietai Temple, Beijing
-* Wicca, Laulasmaa
+<!-- * Wicca, Laulasmaa -->
+* Hapsal Dietrich, Haapsalu
 <!-- * Antonínovo pekařství, Prague -->
 * San Crispino, Grom, Giolitti, Rome
 * Della Passera, Rivareno, Perche No, Florence

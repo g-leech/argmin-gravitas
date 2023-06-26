@@ -57,6 +57,7 @@ where:      "Bristol"
 {%   assign gay = "https://zoyastreet.wordpress.com/2020/08/14/pissft-about-a-jacket-in-disco-elysium/"       %}
 {%   assign envy = "https://www.youtube.com/watch?v=aPhrTOg1RUk"     %}
 {%   assign collab = "https://en.wikipedia.org/wiki/Category:Collaborative_novels"    %}
+{%   assign layer = "https://www.youtube.com/watch?v=9X0-W5erEXw&t=755s"   %}
 
 
 <a href="{{thought}}" target="_blank">
@@ -77,6 +78,7 @@ where:      "Bristol"
 <!-- > "If there has been anything in the history of popular music which could be described as a work of art in a way that people who are involved in other areas of art would understand, then Trout Mask Replica is probably that work" -->
 <!-- - John Peel -->
 
+
 > Every school of thought and government has failed in this city — but I love it nonetheless.
 
 <center>– <a class="noline" href="{{kim}}">Kim</a></center>
@@ -89,9 +91,9 @@ where:      "Bristol"
 
 <br>
 
-> Nothing ever works out the way you wanted. That’s why people like role-playing games. You can be whoever you want to be. You can try again.
+> there’s an entire layer of our perception of reality that has not been simulated [by videogames] at all... there's an extra layer between your willpower - the controller - and your body: this is your mind... this extra layer of being is what we want to focus on with _Disco Elysium_.
 
-<center>– <a class="noline" href="{{dice}}">Novelty Dicemaker</a></center>
+<center>– <a class="noline" href="{{layer}}">Kurvitz</a></center>
 
 
 <br><br>
@@ -164,6 +166,13 @@ It's melancholy but not self-pitying and not life-denying. <a href="#fn:7" id="f
 > Micro-reactivity is the game reacting to a minor choice you made long ago. For example: you have the gardening gloves from Elizabeth the Gardener, and now, many hours later, in the middle of a completely unrelated quest, you’re considering what hobby to take on. Kim should say: "Why not gardening?” This is cross-quest micro-reactivity and developers who aren’t brain damaged don’t have it in their games
 
 <center>– <a class="noline" href="{{art}}">Kurvitz</a></center>
+
+<br>
+
+> Nothing ever works out the way you wanted. That’s why people like role-playing games. You can be whoever you want to be. You can try again.
+
+<center>– <a class="noline" href="{{dice}}">Novelty Dicemaker</a></center>
+
 
 <!-- It depicts racism in more detail than I thought was still possible in art. -->
 
@@ -740,6 +749,7 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 <!-- https://archiveofourown.org/works/36377617/ -->
 * [ARTBOOK](https://archive.org/details/discoelysiumartbook/)<br><br>
 * https://joycemessier.tumblr.com/post/679243441467801600/disco-elysium-readings<br>
+* https://backloggd.com/u/PHoovy/review/833332/
 * Most of the academic writing about it sucks.
 
 <div class="accordion">
