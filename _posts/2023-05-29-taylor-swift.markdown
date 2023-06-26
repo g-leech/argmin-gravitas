@@ -125,7 +125,7 @@ I realise now that Swift _is_ a kind of artist – but the art is not music, it'
 Three different industry roles run together in Swift:
 
 * the Impresario (Tin Pan Alley / Brill / Music Row / Colonel Parker / A&R exec scouting and team-building and hitmaking)
-* the Manufactured Popstar (Kylie / Britney / Katy Perry / Selena / Ariana)
+* the Manufactured Popstar (Kylie / Britney / Katy / Selena / Ariana)
 * the Songwriting Chameleon (Lou Reed / Bowie / Madonna) <a href="#fn:4" id="fnref:4">4</a>
 
 She appears to be the best in the business at two of these and serviceable at the other. <a href="#fn:12" id="fnref:12">12</a> 
