@@ -110,7 +110,7 @@ Pop music is good. Songwriting teams are good. Precision is good. Strategy is go
 
 So why does Taylor Swift (your reception of Taylor Swift) make me feel like I have ants beneath my skin? 
 
-I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a href="{{c2}}">of large</a> <a href="{{c3}}">corporations</a> and 40+ ghostwriters and designers and <a href="{{law}}">lawyers</a> <a href="#fn:6" id="fnref:6">6</a>) represent itself as a singular human being I am to empathise with. Then a large part of society greets this machine as a capital-A artist ("the _person_ who has come up with"). 
+I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a href="{{c2}}">of large</a> <a href="{{c3}}">corporations</a> and 40+ ghostwriters and designers and <a href="{{law}}">lawyers</a> <a href="#fn:6" id="fnref:6">6</a>) represent itself as a singular human being I am to empathise with. Then a large part of society greets this machine as an artist ("the _person_ who has come up with"). Like a long line of ducklings imprinted on a combine harvester.
 
 The interesting part is that Swift the human built the machine and controls it in some detail. A _self_-manufactured pop star: she is deeply invested in making the machine seem like her and in feeding it people (fans, co-writers, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to even more fame, fame which automatically produces more controversies. Call the machine <a href="{{trademark}}">TS</a>.
 

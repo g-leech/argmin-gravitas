@@ -30,6 +30,7 @@ visible:	true
 * <a href="/best">Posts</a><br><br>
 * <a href="/papers">Papers</a><br><br>
 * <a href="/tweets">Tweets</a><br><br>
+* <a href="/journos">Journos</a>
 <!-- * <a href="/poems">Poems</a><br><br> -->
 
 <br>
