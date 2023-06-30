@@ -17,6 +17,16 @@ visible:	true
 
 <br>
 
+### Conference
+
+<table>
+	{%	include researches/rws.html	%}
+	{%	include researches/covid_neur.html	%}
+</table>
+
+<br>
+
+
 ### Journal
 
 <table>
@@ -28,14 +38,6 @@ visible:	true
 	{%	include researches/covid.html	%}
 </table>
 
-<br>
-
-### Conference
-
-<table>
-	{%	include researches/rws.html	%}
-	{%	include researches/covid_neur.html	%}
-</table>
 
 <br>
 
