@@ -18,14 +18,10 @@
 	  <div class="insides">
 	<!--  -->
 		I help lead <a href="https://arbresearch.com">Arb</a>, a research consultancy in the mould of Rethink Priorities, RAND, and <a href="{{iiasa}}">IIASA</a>.<br><br> 	
-		We focus on forecasting, metascience, history, and other important niche areas (large-scale data collection; machine learning for epistemics). 
-		Consultancies are reactive, but we have our own agenda - some ideas sketched <a href="{{ideas}}">here</a>. 
+		We focus on forecasting, machine learning, and other important niche areas. 
 	<br><br> 
 	<!-- Even great researchers often lack communication skills, people skills, particular engineering skills, or academic shibboleths. As a result, there's a shortage of research managers and technical generalists. I’m the latter already and I'm working on the former. -->
 <!--  -->
-<!--  -->
-	<!-- <br>
-	I most enjoy the start and the end of projects. -->
 		</div>
 	</div>
 <!--  -->
@@ -37,7 +33,7 @@
 	  	<div class="insides">
 			I'm interested in keeping an eye on AI. By a stroke of luck my PhD advisor is <a href="{{la}}">Laurence Aitchison</a>. <br><br>
 			<!--  -->
-			You can see our other efforts in the <a href="{{work}}">Arb newsfeed</a> and <a href="https://arbresearch.com">Current Work</a>.
+			You can see other efforts in the <a href="{{work}}">Arb newsfeed</a> and <a href="https://arbresearch.com">Current Work</a>.
 		<br><br>
 		</div>
 	</div>
@@ -59,7 +55,7 @@
 		4. Giving a damn
 	  </div>
 	  <div class="insides">
-		I started teaching and mentoring people at last. I help with the AI Safety Camp, the EA Bristol Uni group, and teach at ESPR. I received an Infrastructure Fund grant to try and fix executive function in the community (“<a href="{{offroad}}">Off Road</a>”). I speak for the <a href="{{obit}}">dead</a>.
+		I started teaching and mentoring at last. I head a camp at ESPR. I'm an external coach for 80,000 Hours. I speak for the <a href="{{obit}}">dead</a>.
 		<br><br>
 	</div>
 	</div>
