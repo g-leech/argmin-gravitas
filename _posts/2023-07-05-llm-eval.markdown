@@ -1,0 +1,64 @@
+---
+layout:     post
+title:      "Why are ML benchmarks so unreliable?"
+baselink:   /evals
+permalink:  /evals
+date:       2023-07-05
+author:     Gavin
+
+img:        
+published:  false
+visible:    1
+
+summary:    
+categories: 
+confidence: 
+importance: 
+quality:    
+wordcount:  
+argument:   
+---
+
+Are language model benchmarks so unreliable because of 
+
+incidental reasons:
+Training data contamination
+Different implementations (as in MMLU)
+Widely varying hyperparams (and more generally amount of optimisation) 
+Widely varying prompt quality (very easy to just be a little less persistent with optimising prompts for your enemies’ models)
+Anthropomorphism and cherrypicking
+
+
+deep reasons:
+Measuring abstract ability is hard
+Measuring things in adversarial environments is hard
+Don’t know what to look for. Actually very hard to evaluate black boxes that can have new, surprising capabilities
+General deep fact: "sampling can prove the presence of something but not the absence". And benchmarks are only ever doing comparatively tiny sampling of latent space
+
+
+(a)(iv) Just use the same prompt for every model, you say? Only works to remove noise (and equalise prompt quality) if the chosen prompt strategies are very transferable across models. Which I suppose many tricks are.
+
+
+Safety evals vs Capabilities evals
+> Are you talking about evaluating possible harms/dangers? Evaluating the strength of capabilities might not fall to the same problem
+
+No, it’s true of capabilities too. But maybe less true, since capabilities is usually less abstract than safety and so easier to operationalise.
+
+Token probabilities not that useful because the space of possible completions is too large? I think you actually could map the space pretty well. Except for the long tail, which is exactly why(?) the big models beat the wee ones and why expensive-data proprietary models beat the open ones.
+
+Inter-lab ranking reliability vs Intra-lab ranking reliability
+
+We could enumerate the "researcher degrees of freedom" in an LLM eval and then we shall see part of the mystery dissolved: people do stuff like optional stopping when evaluating their own models. (This dissolves the inter-lab mystery, not the within-Gavin mystery)
+
+The Intra-lab mystery is: if Gavin honestly tries to eval several of other people's models (with no incentive to lie or delude himself) he will still probably produce an unreliable ranking. Probably Intra-reliability >> Inter-reliability though.
+
+Why is intra-lab ranking of other people’s models still bad? 
+
+people have different priorities for a model and scaling doesn’t always lead to uniform task dominance
+Recall that GPT-4 only beats GPT-3 in pairwise human preference like 70% of the time
+
+
+
+
+
+Thanks to Gytis for prompt engineering me.

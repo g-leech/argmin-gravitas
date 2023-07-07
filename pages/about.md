@@ -15,11 +15,11 @@ visible:	true
 
 
 <ul class="beeg">
-	<li>
-		possibly the worst at maths of all Erdős number 4s. <!--  href="#fn:18" id="fnref:18">18  --> 
+<!-- 	<li>
+		possibly the worst at maths of all Erdős number 4s. href="#fn:18" id="fnref:18">18  
 		<a class="noline" href="{{pred}}">Brier 0.16</a>; <a class="noline" href="{{grrr}}">1064 book reviews</a>; 275lb 1RM squat<br>
-	</li>
-	<br>
+	</li> -->
+	<!-- <br> -->
 <!--  -->
 <!-- * This isn't a blog. (Blogging is more <a href="/sites">speech</a> than writing.) All claims subject to change, under the principle of Long Content, i.e. I commit to improving my past work til I die. If you need to check for some reason, you can see all past versions in the <a href="{{argg}}">version control</a>. -->
 <!--  -->
@@ -28,19 +28,11 @@ visible:	true
 	</li>
 	<br>
 	<li>
-		I like getting into things, <a class="noline" href="{{g}}">judging</a> things, people changing their mind, singing, <!-- <a class="noline" href="/strength">lifting</a>, --> idly planning to become a more serious person, <a class="noline" href="{{sittler}}">and</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a>
-	</li>
-	<br>
-	<!-- https://www.scottaaronson.com/papers/philos.pdf -->
-	<!-- teaching people who want to know -->
-	<li>
-		Some of my <a href="/rec">favourite things</a> are Mexican food, Pakistan green, novelty, sudden relevance, brevity, <a class="noline" href="/deaths">these people</a>, Vines, shavasana, Scottish tap water, Frank Ramsey, Werner Herzog, Wodehouse, Zach Weiner, Joanna Newsom, Pessoa.
-		<!-- , and Jonathan Meades. -->
-		<!-- <a href="{{starlings}}">this video</a>,  -->
+		{%	include about/random_faves.html	%}
 	</li>
 	<br>
 	<li>
-		<a href="/">this site is for essays</a>. None of the text is computer-generated unless explicitly indicated.
+		<a href="/">this site is for essays</a>. No text computer-generated unless explicitly indicated. <!-- All claims subject to change: I commit to improving past work til I die. -->
 	</li>
 </ul>
 
