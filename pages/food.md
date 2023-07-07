@@ -83,6 +83,7 @@ visible:    false
 <!-- * Wicca, Laulasmaa -->
 * Hapsal Dietrich, Haapsalu
 <!-- * Antonínovo pekařství, Prague -->
+* Gemüse Corner Kebab, Prague 
 * San Crispino, Grom, Giolitti, Rome
 * Della Passera, Rivareno, Perche No, Florence
 * Le Vespe, Florence
@@ -110,6 +111,7 @@ It's hard to choose between Sichuan and Mexico for #1 so I guess I choose the in
 3. South Indian 
 4. Sicilian 
 5. Neapolitan
+5. Nepalese
 5. Korean
 6. Hunan
 6. Cantonese

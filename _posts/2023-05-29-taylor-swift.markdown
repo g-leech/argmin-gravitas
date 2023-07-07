@@ -112,11 +112,11 @@ So why does Taylor Swift (your reception of Taylor Swift) make me feel like I ha
 
 I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a href="{{c2}}">of large</a> <a href="{{c3}}">corporations</a> and 40+ ghostwriters and designers and <a href="{{law}}">lawyers</a> <a href="#fn:6" id="fnref:6">6</a>) represent itself as a singular human being I am to empathise with. Then a large part of society greets this machine as an artist ("the _person_ who has come up with"). Like a long line of ducklings imprinted on a combine harvester.
 
-The interesting part is that Swift the human built the machine and controls it in some detail. A _self_-manufactured pop star: she is deeply invested in making the machine seem like her and in feeding it people (fans, co-writers, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to even more fame, fame which automatically produces more controversies. Call the machine <a href="{{trademark}}">TS</a>.
+Call the machine <a href="{{trademark}}">TS</a>. The interesting part is that Swift the human built TS the machine and controls it to some extent. A _self_-manufactured pop star: Swift makes the machine seem like her and feeds it vast hosts of people (fans, co-writers, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to even more fame, fame which automatically produces more controversies.
 
 TS presents itself as Swift. It performs characters (<a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) and at the same time pretends to deeply express Swift the woman. It performed innocence (and a twang) for Nashville and now performs demisexuality (and FKA-sighing) for the glossies, BPD (and drawling) for the extremely online, and a persecution complex (and diphthongs) for everyone <a href="#fn:1" id="fnref:1">1</a>.
 
-That's half of it; the other half is your incredible overestimation of the output. (Bowie pulled off a cheaper version of the TS trick 50 years ago and I love him for it - because his songs are, _at the very least_, interesting and aimed at more than pleasing me.) TS songs are moderately catchy, (recently) moderately perverse, and expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / Jenny Lewis / Lady Gaga / Kesha / Lana del Rey / Lorde / FKA Twigs / <!--St Vincent--> Billie Eilish / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
+That's half of it; the other half is your incredible overestimation of the output. <a href="#fn:13" id="fnref:13">13</a>  TS songs are moderately catchy, (recently) moderately perverse, and expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / Jenny Lewis / Lady Gaga / Kesha / Lana del Rey / Lorde / FKA Twigs / <!--St Vincent--> Billie Eilish / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
 
 Why does the music's reception matter if the music doesn't matter? Well, I dislike things that pretend to be deep when they're not. Things which pretend to be personal are on tricky aesthetic ground. Entertainment is fine but not when it stands in place of art. We used to be iffy about parasocial relationships, corporate machines, being played.
 
@@ -233,6 +233,10 @@ I think the usual mechanism is that the execs meddle to ensure that they recoup 
 
 <!-- https://www.nbcchicago.com/news/local/some-taylor-swift-fans-are-reporting-post-concert-amnesia-a-psychologist-explains-why/3154168/ -->
 <!-- > entire public persona on turning on her exes and shit-talking them in public! -->
+
+<br>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s more difficult to effectively curse a high profile public figure than you might like it to be as they exist more as a complex of swarming ideologies &amp; invested dreams than as a regular person, and the pathway for the work can get lost or diverted within that complex maze.</p>&mdash; Anthony Nine (@spaceweather9) <a href="https://twitter.com/spaceweather9/status/1674953284023402497?ref_src=twsrc%5Etfw">July 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 
@@ -449,7 +453,8 @@ Washed up and ranting about the same old bitter things
     </li>
     <!--  -->
     <li class="footnote" id="fn:4">
-        Reed made a lot of old shit and a not inconsiderable amount of great pop, but you can tell he was an artist too because so much of his stuff is intentionally unlikeable. Bowie is more complicated.
+        Reed made a lot of old shit and a not inconsiderable amount of great pop, but you can tell he was an artist too because so much of his stuff is intentionally unlikeable. Bowie is more complicated.<br><br>
+        "I always had a repulsive need to be something more than human. I felt very puny as a human. I thought, ‘Fuck that. I want to be a superhuman.'"
     </li>
     <li class="footnote" id="fn:5">
         "used to practice her guitar until her fingers bled, and her mother had to tape them up"
@@ -480,6 +485,10 @@ Washed up and ranting about the same old bitter things
     <!--  -->
     <li class="footnote" id="fn:12">
         Doing all three isn't unprecedented: Michael Jackson is Swift's obvious forebear here. But (despite some of his hits being entirely written by others), he seems more of an auteur and his self-presentation is stable and deeply idiosyncratic (pathologically so).
+    </li>
+    <!--  -->
+    <li class="footnote" id="fn:13">
+        Bowie pulled off a less-corporate, high-culture version of the TS trick 50 years ago and I love him for it - because his songs are, <i>at the very least</i>, interesting and aimed at more than pleasing me.
     </li>
 </ol>
 
