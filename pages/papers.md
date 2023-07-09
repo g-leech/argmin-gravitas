@@ -83,3 +83,5 @@ https://arxiv.org/pdf/2104.01191.pdf
 https://arxiv.org/abs/2010.07287
 https://scienceplusplus.org/visions/assets/Wheeler1989.pdf
 * Bataglia et al, <a href="{{dm_graph}}">Relational inductive biases, deep learning, and graph networks</a>
+
+https://projecteuclid.org/journals/annals-of-statistics/volume-30/issue-5/What-is-a-statistical-model/10.1214/aos/1035844977.full

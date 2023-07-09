@@ -6,6 +6,7 @@ permalink: 	/rec/
 visible:	true
 ---
 
+{%  assign album =  "https://www.albumoftheyear.org/user/gleech/ratings/highest/"    %}
 {%	assign filum =	"https://letterboxd.com/gleech/films/by/member-rating/"	%}
 {%	assign spot = "https://open.spotify.com/user/technicalities1/playlists"	%}
 {%  assign hh = "https://open.spotify.com/playlist/3KjyXKtffCVLJMKZM1zheL?si=3baf816a41654cea" %}
@@ -15,7 +16,7 @@ visible:	true
 
 ## Listen
 
-* <a href="/albums">Albums</a><br><br>
+* <a href="{{album}}">Albums</a><br><br>
 * <a href="{{spot}}">Playlists</a><br><br>
 * <a href="/punk">Punk</a>, <a href="/country">country</a>, <a href="{{hh}}">hip-hop</a>, <a href="/nation-sound">nations</a>
 

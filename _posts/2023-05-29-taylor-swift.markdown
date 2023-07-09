@@ -221,6 +221,12 @@ I think the usual mechanism is that the execs meddle to ensure that they recoup 
 
 ### the parasocial
 
+> Whatever you are upset about, the poet laureate of this generation has got a song somewhere in her mega-oeuvre describing that precise feeling. 
+
+<center>– <a href="https://archive.is/fDbSk">Suzanne Garfinkle-Crowell</a></center>
+
+<br>
+
 > [Fan's] devotion to Taylor Swift runs so deep that she feels as if she can trust her like a friend. After the pop star encouraged fans to vote in the 2018 midterm elections, Ms. Smith registered. The 23-year-old’s most recent rite of passage — getting her first credit card — was also prompted by the singer.
 
 <center>– <a href="https://www.nytimes.com/2022/12/24/business/taylor-swift-tour-capital-one.html">isabella simonetti</a> </center>
