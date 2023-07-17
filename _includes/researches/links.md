@@ -4,7 +4,7 @@
 {%	assign bris = "https://www.bristol.ac.uk/people/person/Gavin-Leech-16c2a616-ecbe-4d2d-90d7-87bc3252aa02"	%}
 {%	assign covid = "https://www.science.org/doi/10.1126/science.abd9338"		%}
 {%	assign coviddata = "https://www.nature.com/articles/s41597-022-01175-y"		%}
-{%  assign rws = "https://openreview.net/forum?id=0Fg1OcePHH"       %}
+{%  assign rws = "https://proceedings.mlr.press/v216/heap23a.html"       %}
 {%	assign neurips_covid = "https://papers.nips.cc/paper/2020/file/8e3308c853e47411c761429193511819-Paper.pdf"	%}
 {%	assign janlineage = "https://twitter.com/JanMBrauner/status/1421549366926614534"	%}
 {%	assign neurtwitmrin = "https://twitter.com/MrinankSharma/status/1346891304932880386"	%}

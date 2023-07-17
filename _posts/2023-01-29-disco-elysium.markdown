@@ -22,42 +22,7 @@ warnings:   Spoilers throughout.
 where:      "Bristol"
 ---
 
-{%   assign thought = "/img/fullthought.jpg"   %}
-{%   assign baby = "https://genius.com/Against-me-baby-im-an-anarchist-lyrics"   %}
-{%   assign kim = "http://fayde.co.uk/dialojue/3460074" %}
-{%   assign kurv = "https://www.youtube.com/watch?v=9X0-W5erEXw" %}
-{%   assign helen = "https://youtu.be/Xf_hU7IW5qs?t=96"  %}
-{%   assign argo = "https://www.youtube.com/watch?v=qX5ZHVMaEFY"   %}
-{%   assign kompus = "https://medium.com/@artofrostov/to-fans-of-disco-elysium-concerning-the-situation-at-za-um-3e6bc46ea9c" %}
-{%   assign inverse = "https://www.inverse.com/input/gaming/the-materialism-magic-of-the-surprise-rpg-hit-disco-elysium" %}
-{%   assign rpg = "https://www.rockpapershotgun.com/disco-elysiums-developers-are-in-a-bloody-battle-for-the-human-mind"    %}
-{%   assign slip = "https://en.wikipedia.org/wiki/Slipstream_genre"  %}
-{%   assign temp = "https://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar"  %}
-{%   assign dice = "http://fayde.co.uk/dialojue/4600811"    %}
-{%   assign rey = "https://www.google.co.uk/books/edition/Rip_it_Up_and_Start_Again/dK-F43T8V0wC"  %}
-{%   assign hitch = "https://www.lrb.co.uk/the-paper/v20/n23/christopher-hitchens/moderation-or-death"    %}
-{%   assign greek = "https://slimemoldtimemold.com/2022/04/11/disco-elysium-breaks-the-looms-of-rpgs/"  %}
-{%   assign bangs = "https://www.villagevoice.com/2020/01/05/the-white-noise-supremacists"  %}
-{%   assign alvaro = "https://fantasticanachronism.com/2021/03/23/two-paths-to-the-future"   %}
-{%   assign pale = "http://fayde.co.uk/dialojue/7620521"        %}
-{%   assign anode = "https://en.wikipedia.org/wiki/Anodic_protection"        %}
-{%   assign zaum = "http://web.archive.org/web/20200506203110/https://zaumstudio.com/2019/10/08/welcome-to-revachol/" %}
-{%   assign full = "https://youtu.be/wm_RTOABNKs?t=644" %}
-{%   assign hanged = "https://www.youtube.com/watch?v=ZfQRf4zLcrU"    %}
-{%   assign spine = "https://youtu.be/m6ZLhVXL8wA?t=1400" %}
-{%   assign horrific = "https://www.youtube.com/watch?v=72v8jMlCNT4"   %}
-{%   assign bloat = "https://www.youtube.com/watch?v=zTLIjfJVDOc"    %}
-{%   assign arb = "https://www.reddit.com/r/DiscoElysium/comments/elvu08/ancient_reptilian_brain_and_the_limbic_system/"   %}
-{%   assign plasm = "http://fayde.co.uk/dialojue/3650005"  %}
-{%   assign cris = "https://baslag.fandom.com/wiki/Crisis_theory"   %}
-{%   assign art = "https://archive.org/details/discoelysiumartbook/"   %}
-{%   assign little = "https://en.wikipedia.org/wiki/Littlewood%27s_law"    %}
-{%   assign quest = "http://fayde.co.uk/dialojue/4600373"   %}
-{%   assign grand = "https://www.escapistmagazine.com/why-the-creator-of-disco-elysium-hasnt-read-the-reviews-and-whats-next-for-the-ip/"   %}
-{%   assign gay = "https://zoyastreet.wordpress.com/2020/08/14/pissft-about-a-jacket-in-disco-elysium/"       %}
-{%   assign envy = "https://www.youtube.com/watch?v=aPhrTOg1RUk"     %}
-{%   assign collab = "https://en.wikipedia.org/wiki/Category:Collaborative_novels"    %}
-{%   assign layer = "https://www.youtube.com/watch?v=9X0-W5erEXw&t=755s"   %}
+{%  include disco/links.md   %}
 
 
 <a href="{{thought}}" target="_blank">
@@ -99,9 +64,11 @@ where:      "Bristol"
 <br><br>
 
 
-Most games are mindless. On launch, _Disco Elysium_ presents you with <a href="/img/discoskill.webp">24 bizarre skills</a>, half of which you can't even vaguely understand. These are actually your mind, your chorus of [subpersonalities](https://www.alignmentforum.org/posts/iCfdcxiyr2Kj8m8mT/the-shard-theory-of-human-values). <a href="#fn:8" id="fnref:8">8</a> As well as this incredibly loud internal chorus, your character state includes your overall archetype ("Intellectual, Psyche, Motorics, Physique"); your political ideologies (nonexclusive); your identity projects and Idees fixes ("Thought Cabinet"); and crucially your outfit, which drastically alters your personality and capacities.
+Most games are mindless. On launch, _Disco Elysium_ presents you with <a href="/img/discoskill.webp">24 bizarre skills</a>, half of which you can't even vaguely understand. These are actually your mind, your subpersonalities. <a href="#fn:8" id="fnref:8">8</a> As well as this incredibly loud internal chorus, your character state includes your overall archetype ("Intellectual, Psyche, Motorics, Physique"); your political ideologies (nonexclusive); your identity projects and Idees fixes ("Thought Cabinet"); and crucially your outfit, which drastically alters your personality and capacities.
 
-The script is about <a href="https://www.dualshockers.com/disco-elysium-script-length-one-million-words/">2000</a> pages long. <!-- The soundtrack screeches at you.--> In a minor sense it took <a href="https://www.articy.com/en/showcase/disco-elysium/">19 years</a> to make, but even the 5 years of intensive work is unusual. The branching factor on most conversations is well above 1. You _could_ reconstruct its <a href="http://fayde.co.uk/search?query=sorry&WordBoundaries=0&actor1=&actor2=&VariableSearch=0&commit=Search">great and vast dialogue tree</a> in a mere novel... if you printed dozens of choose-your-own adventure paper books with thousands of post-its inside. So, excessive.
+The script is about <a href="https://www.dualshockers.com/disco-elysium-script-length-one-million-words/">2000</a> pages long. <!-- The soundtrack screeches at you.--> They took <a href="https://www.articy.com/en/showcase/disco-elysium/">19 years</a> to make it in one sense -- but even its 5 years of intensive development is unusual. 
+<!-- The branching factor on most conversations is well above 1.  -->
+You _could_ reconstruct its <a href="http://fayde.co.uk/search?query=sorry&WordBoundaries=0&actor1=&actor2=&VariableSearch=0&commit=Search">great and vast dialogue tree</a> in a mere novel... if you printed dozens of choose-your-own adventure paper books with thousands of post-its inside. So, excessive.
 
 
 <img src="/img/DiscoElysium_Articy_Flow_HangedMan.jpg" />
@@ -116,18 +83,19 @@ The script is about <a href="https://www.dualshockers.com/disco-elysium-script-l
 
 It is a _point and click whodunnit with an amnesic protagonist_, for fuck's sake! <a href="#fn:4" id="fnref:4">4</a>  Yet another lesson, if you needed one, that there is no genre so overdone, no trope too passé, that a great artist cannot wring more out of. In art, nothing is ruined, nothing is useless, nothing is meaningless. (One reason it can never be realistic.) So, revitalising.
 
-It's far more politically sophisticated than most books. I call it political fiction because it depicts the emotional and structural detail of several wildly different worldviews so well, better than anything since <i>Red Plenty</i> (2010). They made something [smarter than themselves](https://www.youtube.com/watch?v=d1gKGq44NxQ), they satirise their own too. This can happen! <a href="#fn:3" id="fnref:3">3</a> It resists compression. I could spend another couple dozen hours noticing things and making up themes. Redemption – isn't everyone's first playthrough the redemption arc? – is only the simplest and most obvious route through. Subcultures and archetypes it depicts perfectly: cops, drugs, organic racism, theoretical racism, rave philosophers, locker room nastiness, bureaucrats, petit bourgeois, haute bourgeois, realpolitik operators, depressed leftists, and the various kinds of <a href="{{temp}}">revolutionary</a>. They don't do quite as well on neoliberalism or centrism or humanitarianism. But still more accurate and thoughtful than almost any radicals. So, schizoposting.
-
+It's far more politically sophisticated than most books. I call it political fiction because it depicts the emotional and structural detail of several wildly different worldviews so well, better than anything since <i>Red Plenty</i> (2010). They made something [smarter than themselves](https://www.youtube.com/watch?v=d1gKGq44NxQ), they satirise their own too. This can happen! <a href="#fn:3" id="fnref:3">3</a> 
 > TEN BRAINS HYPERTHREADING
 
-How did they make the best RPG ever? How did they overcome the curse of collaborative fiction (how many of <a href="{{collab}}">these books</a> are worth a damn)? 
+It resists compression. I could spend another couple dozen hours noticing things and making up themes. Redemption – isn't everyone's first playthrough the redemption arc? – is only the simplest and most obvious route through. Subcultures and archetypes it depicts perfectly: cops, drugs, organic racism, theoretical racism, rave philosophers, locker room nastiness, bureaucrats, petit bourgeois, haute bourgeois, realpolitik operators, depressed leftists, and the various kinds of <a href="{{temp}}">revolutionary</a>. They don't do quite as well on neoliberalism or centrism or humanitarianism. But still more accurate and thoughtful than almost any radicals. So, schizoposting.
 
-Well, spending 18 years on it must've helped. Returning to the opening Reynolds line, I also wanna say that their post-marxism is a long difficult ladder letting them into virgin areas of game narrative and ofc it provided a rich layer of historical tragedy over everything else in the game. The truth or practicality of a theory isn't the main thing, when you're making art. This is the _latent_ function of critical theory: making people make interesting art, by removing certain preconceptions and instilling new ones. So, an elevating false framework.
+
+
+How did they make the best RPG ever? How did they overcome the curse of collaborative fiction (how many of <a href="{{collab}}">these books</a> are worth a damn)? Insane amounts of work! Returning to the opening Reynolds line, I also wanna say that their post-marxism is a long difficult ladder letting them into virgin areas of game narrative and ofc it provided a rich layer of historical tragedy over everything else in the game. The truth or practicality of a theory isn't the main thing, when you're making art. This is the _latent_ function of critical theory: making people make interesting art, by removing certain preconceptions and instilling new ones. So, an elevating false framework.
 
 
 <br>
 
-That the game is also actually existentialist and an amazing portrait of multi-agent mind and <a href="{{greek}}">a Greek tragedy</a> and a work of science fiction which justifies <a href="{{slip}}">an obtuse synonym</a> and bedecked in Lucian Freud / Jenny Saville _actually-painted_ visuals and shimmery post-rock ambience is just icing. 
+That the game is also actually existentialist and an amazing portrait of multi-agent mind and <a href="{{greek}}">a Greek tragedy</a> and a work of science fiction which justifies <a href="{{slip}}">an obtuse synonym</a> and bedecked in Lucian Freud / Jenny Saville actual-art visuals and shimmery post-rock <a href="{{seapower}}">sound</a> is just icing. 
 
 <!-- People wrongly call this sort of thing 'pretentious', because people don't get that pretension is about _pretence_: pretending to be deeper than you are. Being abstruse is something else.  -->
 It's melancholy but not self-pitying and not life-denying. <a href="#fn:7" id="fnref:7">7</a> It's cynical but not sneering and not unkind. The grail.
@@ -153,7 +121,7 @@ It's melancholy but not self-pitying and not life-denying. <a href="#fn:7" id="f
         <i>As exophone prose</i>, it's really not far off Conrad and Nabokov.<br><br>
 <!--  -->
         It was an art collective before it was a game studio - they learned Blender and Unity and shaders off youtube - "<i>A roaringly unsuccessful group of writers, artists and political thinkers – from Estonia. A dark, tiny, angry... place</i>" - and who could have predicted how well that'd work?
-        <br>
+        <br><br>
         <blockquote>
             You don’t reforge the tattered remains of your cultural organization into a blood-and-grinding-gears video game company because it’s nice. And natural. You do it because you’re utterly out of options<br><br>
             An important part of ZA/UM studio culture was hosting life-and-gesture drawing events at least once a week. With the help of designer Toon Vugts, we held a public weekly community event where some twenty people, professionals, and hobbyists alike, would regularly come and draw with us. Our studio happened to share the same decrepit building as a small bookstore, and the two youngwomen running it kindly invited us to use their back room for these events. Together we worked towards reestablishing a tradition of figure drawing.
@@ -237,7 +205,7 @@ This isn't the only example: love [stands](http://fayde.co.uk/dialojue/5240035) 
 
 <br>
 
-An absurd example of hiding baggage behind noble politics: Harry calls his ex Dora a war criminal and identifies her with a mythical Europa figure (who I can't quite place. Justice?) Harry's enormous pain is hysteroid dysphoria from a bad breakup, PTSD from 20 years of hard policing and terrible acts, brain damage from [sticking his head into a radioactive singularity](http://fayde.co.uk/dialojue/11050788-11050925#11050925), and only fourthly the social pain of an undemocratic life, a humiliated populace, [poverty](https://discoelysium.fandom.com/wiki/Revachol#Decades), and a lost utopia. But give him any chance and he will attribute his problems to the Coalition and the war.
+An absurd example of hiding your shit behind a facade of noble politics: Harry calls his ex Dora a war criminal and identifies her with a mythical Europa figure (who I can't quite place. Justice?) Harry's enormous pain is hysteroid dysphoria from a bad breakup, PTSD from 20 years of hard policing and terrible acts, brain damage from [sticking his head into a radioactive singularity](http://fayde.co.uk/dialojue/11050788-11050925#11050925), and only fourthly the social pain of an undemocratic life, a humiliated populace, [poverty](https://discoelysium.fandom.com/wiki/Revachol#Decades), and a lost utopia. But give him the chance and he will attribute his problems to the Coalition and the war. Give others the chance and they will absurdly just call it alcoholism.
 
 Following the communism = love thread right to the end: Dros is Harry's future if he never gets over his breakup. A void where a person used to be; a person completely defined by his own failure, cast as the world failing him. Lashing out as his last mode of human interaction.
 
@@ -555,7 +523,7 @@ Above the stars he must dwell.
 <br><br>
 
 
-Atop all of THAT, it's maybe the most European game I've ever played - the writers steal stereotypes and words from all over the place, but smear them. Not just Europe: Revachol is Paris 1871, Berlin 1946, East Berlin 1975, Haiti forever, the Shanghai International Settlement, Tallinn 1999 <a href="#fn:9" id="fnref:9">9</a>. 
+Atop all of THAT, it's maybe the most European game I've ever played - the writers steal stereotypes and words from all over the place, but smear them. Not just Europe: <a href="{{rav}}">Revachol</a> is Paris 1871, Berlin 1946, East Berlin 1975, Haiti forever, the Shanghai International Settlement, Tallinn 1999 <a href="#fn:9" id="fnref:9">9</a>. 
 
 (No one is married. It used to be the center of the world. It used to have hope, until the pandemic lifted the radicals that drew the colonisers.)
 
@@ -766,6 +734,13 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 * https://bulletpointsmonthly.com/2019/11/06/chaos-as-canon/ <br>
 * https://alastairhadden.medium.com/a-storm-is-blowing-from-paradise-disco-elysium-on-the-past-and-present-e2fff5d629be <br>
 * https://noescapevg.com/disco-elysium-and-copaganda/ 
+    </div>
+    <h3>a history of doomed utopian politics</h3>
+    <div>
+        https://en.wikipedia.org/wiki/Ravachol
+        https://en.wikipedia.org/wiki/Martinique
+        https://en.wikipedia.org/wiki/New_Caledonia
+        https://en.wikipedia.org/wiki/Insulinde_(political_party)
     </div>
 </div>
 
