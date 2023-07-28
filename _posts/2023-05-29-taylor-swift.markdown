@@ -10,7 +10,7 @@ img:        /img/tttt.jpg
 published:  true
 visible:    1
 
-summary:    political economy and hermeneutics for some reason
+summary:    her political economy, for some reason
 categories: music
 confidence: N/A. howling my aesthetics against yours.
 importance: 3
@@ -76,6 +76,7 @@ argument:   swift/argument.html
 {%  assign trademark = "https://trademarks.justia.com/864/34/t-86434695.html"   %}
 {%  assign law = "https://www.theguardian.com/music/musicblog/2015/jan/29/taylor-swift-this-sick-beat-worlds-first-trademarked-lyric"   %}
 {%  assign miso = "https://thecurrentmsu.com/2021/10/04/do-you-hate-taylor-swift-or-is-it-just-misogyny"   %}
+{%  assign gamb = "https://stevengamble.com/hiphopification/"   %}
 
 
 
@@ -115,7 +116,7 @@ I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a hre
 
 Call the machine <a href="{{trademark}}">TS</a>. The interesting part is that Swift the human built TS the machine and controls it to some extent. A _self_-manufactured pop star: Swift makes the machine seem like her and feeds it vast hosts of people (fans, co-writers, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to even more fame, fame which automatically produces more controversies.
 
-TS presents itself as Swift. It performs characters (<a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) and at the same time pretends to deeply express Swift the woman. It performed innocence (and a twang) for Nashville and now performs demisexuality (and FKA-sighing) for the glossies, BPD (and drawling) for the extremely online, and a persecution complex (and diphthongs) for everyone <a href="#fn:1" id="fnref:1">1</a>.
+TS presents itself as Swift. It performs characters (<a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) and at the same time pretends to deeply express Swift the woman. Innocence-coded (and a twang) for Nashville then, demisexual-coded (and FKA-sighing) for the glossies now, BPD-coded (and drawling) for the extremely online now. A persecution complex (and diphthongs) for everyone <a href="#fn:1" id="fnref:1">1</a>.
 
 That's half of it; the other half is your incredible overestimation of the output. <a href="#fn:13" id="fnref:13">13</a>  TS songs are moderately catchy, (recently) moderately perverse, and expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / Jenny Lewis / Lady Gaga / Kesha / Lana del Rey / Lorde / FKA Twigs / <!--St Vincent--> Billie Eilish / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
 
@@ -315,7 +316,7 @@ Authenticity is a very stupid idea in a lot of ways. It's ahistorical - e.g. muc
 
 (One difference between Shakespeare writing about Veronese gang kids and TS writing about high school kids is that Shakey wasn't pretending to be a Veronese gang kid. I can't improve on <a href="{{vox}}">this analysis</a> of how the TS image is engineered. )
 
-Pop as a whole is obviously larger and more literally hegemonic than little old TS: it ate gospel, it ate country, it ate jazz, it ate rock, it ate punk, it ate hip-hop, it ate <a href="{{elec}}">various</a> weird obtuse electronic genres, it ate lo-fi. It wears their shucked skins whenever it likes.<br>
+Pop as a whole is obviously larger and more literally hegemonic than little old TS: it ate gospel, it ate country, it ate jazz, it ate rock, it ate punk, it ate <a href="{{gamb}}">hip-hop</a>, it ate <a href="{{elec}}">various</a> weird obtuse electronic genres, it ate lo-fi. It wears their shucked skins whenever it likes.<br>
 
 TS is just one little corner of this larger machine; TS only works at all because of pop's debasement of the "indie" category over the last 20 years. "Indie" began not as an aesthetic category but an _economic_ category, meaning "not a machine product". Admittedly, your choosing this economic niche meant you weren't very interested in being popular, and so "indie" in practice connoted a cluster of intensely personal weird rock. But "indie" now means "has guitars and vaguely depressed vocals" and is extremely prominent among corporate releases - overproduced lo-fi, pensive strumming with no thoughts. (The upside of this debasement is to make pop larger: irony, self-doubt and negativity are now options for hitmakers, and this makes the charts less monotonous.)
 

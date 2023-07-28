@@ -56,19 +56,19 @@ where:      "Bristol"
 
 <br>
 
-> there’s an entire layer of our perception of reality that has not been simulated [by videogames] at all... there's an extra layer between your willpower - the controller - and your body: this is your mind... this extra layer of being is what we want to focus on with _Disco Elysium_.
+> there’s an entire layer of our perception of reality that has not been simulated [by videogames] at all... there's an extra layer between your willpower - the controller - and your body: your mind... this extra layer of being is what we want to focus on with _Disco Elysium_.
 
-<center>– <a class="noline" href="{{layer}}">Kurvitz</a></center>
+<center>– <a class="noline" href="{{layer}}">Robert Kurvitz</a></center>
 
 
 <br><br>
 
 
-Most games are mindless. On launch, _Disco Elysium_ presents you with <a href="/img/discoskill.webp">24 bizarre skills</a>, half of which you can't even vaguely understand. These are actually your mind, your subpersonalities. <a href="#fn:8" id="fnref:8">8</a> As well as this incredibly loud internal chorus, your character state includes your overall archetype ("Intellectual, Psyche, Motorics, Physique"); your political ideologies (nonexclusive); your identity projects and Idees fixes ("Thought Cabinet"); and crucially your outfit, which drastically alters your personality and capacities.
+Most games are mindless. But, on launch, _Disco Elysium_ presents you with <a href="/img/discoskill.webp">24 bizarre skills</a>, half of which you can't even vaguely understand. These are actually your mind, your subpersonalities. <a href="#fn:8" id="fnref:8">8</a> As well as this incredibly loud internal chorus, your character state includes your overall archetype ("Intellectual, Psyche, Motorics, Physique"); your political ideologies (nonexclusive); your identity projects and Idees fixes ("Thought Cabinet"); and crucially your outfit, which drastically alters your personality and capacities.
 
-The script is about <a href="https://www.dualshockers.com/disco-elysium-script-length-one-million-words/">2000</a> pages long. <!-- The soundtrack screeches at you.--> They took <a href="https://www.articy.com/en/showcase/disco-elysium/">19 years</a> to make it in one sense -- but even its 5 years of intensive development is unusual. 
+The script is about <a href="https://www.dualshockers.com/disco-elysium-script-length-one-million-words/">2000</a> pages long. <!-- The soundtrack screeches at you.--> It took <a href="https://www.articy.com/en/showcase/disco-elysium/">19 years</a> to make in one sense -- but even its 5 years of intensive development is unusual. 
 <!-- The branching factor on most conversations is well above 1.  -->
-You _could_ reconstruct its <a href="http://fayde.co.uk/search?query=sorry&WordBoundaries=0&actor1=&actor2=&VariableSearch=0&commit=Search">great and vast dialogue tree</a> in a mere novel... if you printed dozens of choose-your-own adventure paper books with thousands of post-its inside. So, excessive.
+You _could_ reconstruct its <a href="http://fayde.co.uk/search?query=sorry&WordBoundaries=0&actor1=&actor2=&VariableSearch=0&commit=Search">great and vast dialogue tree</a> in a mere novel... if you printed dozens of choose-your-own adventure paper books with thousands of post-its inside. So: it's excessive.
 
 
 <img src="/img/DiscoElysium_Articy_Flow_HangedMan.jpg" />
@@ -735,11 +735,12 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 * https://alastairhadden.medium.com/a-storm-is-blowing-from-paradise-disco-elysium-on-the-past-and-present-e2fff5d629be <br>
 * https://noescapevg.com/disco-elysium-and-copaganda/ 
     </div>
-    <h3>a history of doomed utopian politics</h3>
+    <!--  -->
+    <h3>an allusive history of doomed utopian politics</h3>
     <div>
-        https://en.wikipedia.org/wiki/Ravachol
-        https://en.wikipedia.org/wiki/Martinique
-        https://en.wikipedia.org/wiki/New_Caledonia
+        https://en.wikipedia.org/wiki/Ravachol<br>
+        https://en.wikipedia.org/wiki/Martinique<br>
+        https://en.wikipedia.org/wiki/New_Caledonia<br>
         https://en.wikipedia.org/wiki/Insulinde_(political_party)
     </div>
 </div>
