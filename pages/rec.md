@@ -13,12 +13,16 @@ visible:	true
 {%  assign gam = "https://backloggd.com/u/glee/games/user-rating/" %}
 {%  assign boa = "https://boardgamegeek.com/collection/user/gleec?subtype=boardgame&ff=1" %}
 {%  assign tv = "https://srlzd.com/u/gleec"    %}
+{%  assign j = "https://open.spotify.com/playlist/6LvVnQrcaO6j2itnUq1EZJ?si=d154700c3bae44f6" %}
+{%  assign leccy = "https://open.spotify.com/playlist/0AqWekVsM504tEAJ0Pu8er?si=f8c0516f3b8541af"  %}
+
+
 
 ## Listen
 
 * <a href="{{album}}">Albums</a><br><br>
 * <a href="{{spot}}">Playlists</a><br><br>
-* <a href="/punk">Punk</a>, <a href="/country">country</a>, <a href="{{hh}}">hip-hop</a>, <a href="/nation-sound">nations</a>
+* <a href="/punk">Punk</a>, <a href="{{j}}">jazz</a>, <a href="/country">country</a>, <a href="{{hh}}">hip-hop</a>, <a href="{{leccy}}">electronic</a>, <a href="/nation-sound">nations</a>
 
 <br>
 
