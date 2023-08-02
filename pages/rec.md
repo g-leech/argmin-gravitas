@@ -45,9 +45,11 @@ visible:	true
 * <a href="{{filum}}">Films</a>, <a href="{{tv}}">tv</a><br><br>
 * <a href="/specie">Species</a><br><br>
 * <a href="{{gam}}">Games</a>, <a href="{{boa}}">games</a><br><br>
-* art
-* photography
-
+<!-- 
+* memes<br><br>
+* art<br><br>
+* photography<br><br>
+ -->
 <br>
 
 ## Misc

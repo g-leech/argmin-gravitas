@@ -22,6 +22,7 @@ argument:   swift/argument.html
 {%  assign vox = "https://www.vox.com/culture/2017/11/9/16598106/taylor-swift-reputation-intimacy-control"    %}
 {%  assign a = "https://twitter.com/FreightAlley/status/1654860984714944514"    %}
 {%  assign t = "https://twitter.com/phokarlsson/status/1662551767429574659"    %}
+{%  assign e = "https://en.wikipedia.org/wiki/The_Eras_Tour"    %}
 {%  assign credit = "https://www.cnbc.com/2021/04/01/songwriters-ask-artists-to-stop-taking-credit-for-hits-they-didnt-write.html"   %}
 {%  assign bjork = "https://slate.com/culture/2015/01/bjork-pitchfork-interview-shes-tired-of-not-getting-credit-for-her-music-just-like-mia-taylor-swift-neko-case-solange-knowles-grimes-more.html"   %}
 {%  assign diary = "https://www.nytimes.com/2019/08/26/arts/music/taylor-swift-lover-journals.html"   %}
@@ -406,8 +407,24 @@ Madonna is a much better fit; the constant try-hard <a href="{{mad}}">iteration<
 
 <!-- > From a survivorship bias perspective that's unsurprising. popular artists are popular because the machine is good at appealing to lots of people -->
 
+<br>
 
+<div class="accordion">
+    <h3>Eras</h3>
+    <div>
+        "<a href="{{e}}">Eras</a>" is a funny brand for a career retrospective (one 'era' per album):<br><br>
+        <!--  -->
+        The conceit is that TS has as many distinct artistic and personal personas as it has albums (ten). This is simultaneously a (spurious but effective) brag about TS' versatility and a relatable bit about the inconstancy of personality.<br><br> 
+        <!--  -->
+        It imposes narrative structure and nobility on a trend-chasing optimisation process.
+    </div>
+</div>
 
+<br>
+
+<hr />
+
+<br>
 
 <!-- > her image was reflected not only on large screens on either side of the stage but also on the single biggest screen that I’ve seen in my life, which, curiously, faced the backs of most of the crowd and the front of only Swift herself, lending it a mirror-above-the-bed quality of self-interest notable even in these highly narcissistic times. -->
 

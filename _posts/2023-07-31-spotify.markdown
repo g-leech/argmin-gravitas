@@ -1,0 +1,95 @@
+---
+layout:     post
+title:      "Spotify is not a social network"
+baselink:   /spotify
+permalink:  /spotify
+date:       2023-07-31  <!--site.time-->
+author:     Gavin
+
+img:        /img/
+published:  false
+visible:    1
+quality:    4
+
+summary:    but it's not unsocial
+confidence: 
+categories: 
+warnings:   
+importance: 3
+wordcount:      
+---
+
+{%  assign inv = "https://www.inverse.com/input/culture/obsessed-listening-spying-strangers-old-spotify-playlists" %}
+
+
+Spotify is the most solipsistic social network. It doesn't emphasise other users at all. This lack of interest obscures the fact that you can by default see anyone, and walk their graph.
+
+This means there's very little incentive to lie, to pretend to like cool things you don't actually like.
+
+Couple this to the fact that music is the centre of most(?) people's emotional lives, and you get with a uniquely sincere and <a href="{{inv}}">far-reaching representation</a> of us. Peoplewatching for feelings.
+
+<br>
+
+1. Functional
+2. Events. Parties and funerals
+3. Best of artist
+4. Best of year
+5. Best of country
+6. Best of niche scene 
+7. Love mixtapes
+
+## Some scholars
+
+I took a little walk around the user graph looking for remarkable things.
+
+Ulysses' Classical
+Joachim Pedersen
+MP
+Eule Chris
+Brian Askrud
+lukeprog
+acephale9
+Jazz Whatever
+Matthew Perpetua
+Xe-Xir
+Derek Robertson
+Margeaux
+Ida-Rose C
+Vapor Memory
+Teju Cole
+Joe Schuetz
+mofgimmers
+Ian Wade
+Carrie white
+https://open.spotify.com/user/1230297633?si=RU_9_pFZSuCb1EfXwomdKw
+
+
+This is not counting the paid geezers ("playlist editors") who publish as "Spotify". They are ultimately the central nodes. More influential than any music journalist now.
+
+Adam P Gorman
+https://open.spotify.com/user/glennpmcdonald
+https://www.thestar.com/entertainment/meet-the-man-classifying-every-genre-of-music-on-spotify-all-1-387-of-them/article_250cba6e-d7c1-5b14-81f0-b7e89c26eddf.html
+
+
+Note the usual marketing grift proving that they're important:
+https://www.dk-mba.com/blog/spotify-playlist-curators
+
+<br>
+
+## Structuration
+
+Even if, like many users, you don't follow anyone else, you are still affected by users, because they are the ultimate source of your recommendations.
+
+This is just a legible, quantifiable version of [how you](https://en.wikipedia.org/wiki/Socialization) [came to be](https://en.wikipedia.org/wiki/Structuration_theory) and continue to change.
+
+<br>
+
+## Sociology of emotion
+
+This is the richest dataset in the world about music's functions, about trends, about curation and creativity. It's like getting a partial diary for 500 million people.  
+
+There are obviously big question marks about the ethics of using this, given that it feels private to most users. 
+
+
+
+You could also use their historical data (pre-2014) to see the effect of algorithms on listening patterns and so emotional life. The emanations of the [echo nest](https://en.wikipedia.org/wiki/The_Echo_Nest).
