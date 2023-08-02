@@ -1,3 +1,4 @@
+{%  assign josephson = "https://en.wikipedia.org/wiki/Brian_Josephson"  %}
 {%	assign moore = "https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/spc3.12331"	%}
 {%	assign ritchiee = "https://unherd.com/2020/03/dont-trust-the-psychologists-on-coronavirus/"		%}
 {%	assign med = "https://en.wikipedia.org/wiki/Medical_reversal"	%}

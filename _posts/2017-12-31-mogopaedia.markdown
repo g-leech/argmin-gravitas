@@ -11,7 +11,7 @@ published:	false
 visible: 	1
 quality: 	4
 
-summary:    Ranking all 700 songs
+summary:    Ranking all 800 songs
 confidence:	99%
 categories: 
 warnings:	

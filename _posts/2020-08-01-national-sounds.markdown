@@ -22,128 +22,45 @@ argument:
 {%	include nation/links.md	%}
 
 <div class="accordion">
-	<h3>uk</h3>
-	<div>
-		<div class="accordion">
-		<h3>Scotland</h3>
-		<div>
-			{%	include nation/scot.html	%}
-		</div>
-		<!-- 	 -->
-		<h3>England</h3>
-		<div>
-			{%	include nation/eng.html	%}
-		</div>
-		<!--  -->
-		<h3>Wales</h3>
-		<div>
-			{%	include nation/wales.html	%}
-		</div> 
-		<!--  -->
-		<h3>Northern Ireland</h3>
-		<div>
-			{%	include nation/ulster.html	%}
-		</div>
-		<!--  -->
-		</div>
-	</div>
-	<!--  -->
-	<!--  -->
-	<h3>americas</h3>
-	<div>
-		<div class="accordion">
-			<h3>Brazil</h3>
-			<div>
-				{%	include nation/bra.html	%}
-			</div>
-			<!--  -->
-			<h3>Canada</h3>
-			<div>
-				{%	include nation/can.html	%}
-			</div>
-			<!--  -->
-			<h3>America</h3>
-			<div>
-				{%	include nation/us.html	%}
-			</div>
-		</div>
-		<!--  -->
-	</div>
-	<!--  -->
-	<!--  -->
 	<h3>euro</h3>
 	<div>
 		<div class="accordion">
-		<!--  -->
-		<h3>France</h3>
-		<div>
+			{%	include nation/uk.html	%}
 			{%	include nation/fra.html	%}
-		</div>
-		<!--  -->
-		<h3>Germany</h3>
-		<div>
+			{%	include nation/ire.html	%}
 			{%	include nation/ger.html	%}
-		</div>
-		<!--  -->
-		<h3>Italy</h3>
-		<div>
 			{%	include nation/ita.html	%}
-		</div>
-		<!--  -->
-		{%	include nation/neder.html	%}
-		<!--  -->
-		<h3>Estonia</h3>
-		<div>
+			{%	include nation/swe.html	%}
+			{%	include nation/cz.html	%}
+			{%	include nation/latv.html	%}
 			{%	include nation/est.html	%}
-		</div>
-		<!--  -->
-		{%	include nation/latv.html	%}
-		<!--  -->
-		<h3>Hungary</h3>
-		<div>
-			{%	include nation/hun.html	%}
-		</div>
-		<!--  -->
-		<h3>Spain</h3>
-		<div>
 			{%	include nation/esp.html	%}
-		</div>
-		<!--  -->
-		<h3>Portugal</h3>
-		<div>
+			{%	include nation/neder.html	%}
 			{%	include nation/portug.html	%}
-		</div>
-		{%	include nation/cz.html	%}
-		{%	include nation/fin.html	%}
-		<!--  -->	
-		{%	include nation/uke.html	%}
-		<!--  -->
+			{%	include nation/hun.html	%}
+			{%	include nation/fin.html	%}
+			{%	include nation/uke.html	%}
 		</div>
 	</div>
-	{%	include nation/ru.html	%}
 	<!--  -->
+	{%	include nation/eura.html	%}
 	<!--  -->
 	<h3>asia</h3>
 	<div>
 		<div class="accordion">
-			<!--  -->
-			<h3>Japan</h3>
-			<div>
-				{%	include nation/jp.html	%}
-			</div>
-			<!--  -->
+			{%	include nation/jp.html	%}
 			{%	include nation/chin.html	%}
-			<!--  -->
-			<h3>Hong Kong</h3>
-			<div>
-				{%	include nation/hk.html	%}
-			</div>
-			<!--  -->
-			{%	include nation/taiwan.html	%}
-			<!--  -->
+			{%	include nation/hk.html	%}
+			{%	include nation/taiwan.html	%}		
 		</div>
 	</div>
 	<!--  -->
+	<h3>africa</h3>
+	<div>
+		<div class="accordion">
+			{%	include nation/nigria.html		%}
+		</div>
+	</div>
 	<!--  -->
 	<h3>oceania</h3>
 	<div>
@@ -157,6 +74,15 @@ argument:
 			<div>
 				{%	include nation/nz.html	%}
 			</div>
+		</div>
+	</div>
+	<!--  -->
+	<h3>americas</h3>
+	<div>
+		<div class="accordion">
+			{%	include nation/bra.html	%}
+			{%	include nation/can.html	%}
+			{%	include nation/us.html	%}
 		</div>
 	</div>
 </div>
