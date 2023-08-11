@@ -27,6 +27,7 @@ argument:   swift/argument.html
 {%  assign bjork = "https://slate.com/culture/2015/01/bjork-pitchfork-interview-shes-tired-of-not-getting-credit-for-her-music-just-like-mia-taylor-swift-neko-case-solange-knowles-grimes-more.html"   %}
 {%  assign diary = "https://www.nytimes.com/2019/08/26/arts/music/taylor-swift-lover-journals.html"   %}
 {%  assign murica = "https://www.locatelli.com/blog/the-origin-of-italian-american-food-favorites-the-surprising-truth/"   %}
+{%  assign tv = "https://www.vox.com/culture/22278732/taylor-swift-re-recording-speak-now-enchanted-mine-master-rights-scooter-braun" %}
 {%  assign guy = "https://en.wikipedia.org/wiki/Guy_Chambers"   %}
 {%  assign saw = "https://en.wikipedia.org/wiki/Stock_Aitken_Waterman"   %}
 {%  assign saw = "https://www.theage.com.au/lifestyle/fashion/baggy-t-shirts-combat-boots-the-mass-appeal-of-the-90s-anti-it-girl-20200429-p54oa0.html" %}
@@ -165,7 +166,7 @@ I realise now that Swift _is_ a kind of artist – but the art is not music, it'
     <div>Three different industry roles run together in Swift:
     <br><br>
 <ul>
-    <li>the Impresario (Tin Pan Alley / Brill / Music Row / Colonel Parker / A&R exec scouting and CEO and hitmaker)</li>
+    <li>the Impresario (showrunner, director; Tin Pan Alley / Brill / Music Row / Colonel Parker / A&R exec scouting and CEO and hitmaker)</li>
     <li>the Manufactured Popstar (Kylie / Britney / Katy / Selena / Ariana)</li>
     <li>the Songwriting Chameleon (Lou Reed / Bowie / Madonna) <a href="#fn:4" id="fnref:4">4</a></li>
 </ul>
@@ -311,18 +312,20 @@ Yet another strat: the pretence that TS is uncool, the victim of snobbery, mean 
 
 <br>
 
-The machine is most visible in its precision and repetition (Sittenfeld notices it in the exact reproduction, every show, of that giggle from "Shake It Off"). But James Brown was much <a href="{{dick}}">more of a dick</a> about precision, and I don't view him as a lesser artist because of it.
+The machine is most visible in its precision and <a href="{{tv}}">repetition</a> (Sittenfeld notices it in the exact reproduction, every show, of that giggle from "Shake It Off"). But James Brown was much <a href="{{dick}}">more of a dick</a> about precision, and I don't view him as a lesser artist because of it.
 
 Authenticity is a very stupid idea in a lot of ways. It's ahistorical - e.g. much of the <a href="{{ital}}">Italian menu canon</a> didn't exist 100 years ago, and some are <a href="{{murica}}">American adaptations</a>, but the recipes are now fiercely gatekept as _the_ essence of Italian culture. It prevents innovation. It has made some great artists superstitiously avoid money (or <a href="{{cobain}}">kill themselves</a>) for fear of becoming inauthentic. But look at the alternative!
 
 (One difference between Shakespeare writing about Veronese gang kids and TS writing about high school kids is that Shakey wasn't pretending to be a Veronese gang kid. I can't improve on <a href="{{vox}}">this analysis</a> of how the TS image is engineered. )
 
+The most interesting things about Swift were harder to discover: she's a sort of <a href="{{hs}}">high school dropout</a>; she started her career at 13 as a genuine social misfit; she remains a massive hustler who doesn't seem to regret her child-star path, and who outdoes any cupidinous rapper re: stacks <a href="#fn:5" id="fnref:5">5</a>. Her re-recording her back catalogue is simultaneously a highly original act of independence and profiteering laziness. (Throughout this piece I've had to check myself whenever I go to say that TS is <i>only</i> a scary money machine. Scary money machines do not make this much money!)
+
 Pop as a whole is obviously larger and more literally hegemonic than little old TS: it ate gospel, it ate country, it ate jazz, it ate rock, it ate punk, it ate <a href="{{gamb}}">hip-hop</a>, it ate <a href="{{elec}}">various</a> weird obtuse electronic genres, it ate lo-fi. It wears their shucked skins whenever it likes.<br>
 
-TS is just one little corner of this larger machine; TS only works at all because of pop's debasement of the "indie" category over the last 20 years. "Indie" began not as an aesthetic category but an _economic_ category, meaning "not a machine product". Admittedly, your choosing this economic niche meant you weren't very interested in being popular, and so "indie" in practice connoted a cluster of intensely personal weird rock. But "indie" now means "has guitars and vaguely depressed vocals" and is extremely prominent among corporate releases - overproduced lo-fi, pensive strumming with no thoughts. (The upside of this debasement is to make pop larger: irony, self-doubt and negativity are now options for hitmakers, and this makes the charts less monotonous.)
+TS is just one little corner of this larger machine; TS only works at all because of pop's debasement of the "indie" category over the last 20 years. "Indie" began not as an aesthetic category but an _economic_ category, meaning "not a machine product". Admittedly, your choosing this economic niche meant you weren't very interested in being popular, and so "indie" in practice connoted a cluster of intensely personal weird rock. But "indie" now means "has guitars and vaguely depressed vocals" and is extremely prominent among corporate releases - overproduced lo-fi - pensive strumming with no thoughts. (The upside of this debasement is to make pop larger: irony, self-doubt and negativity are now options for hitmakers, and this makes the charts less monotonous.)
 
 
-For all Swift's grinding and shrewdness, TS is in this sense just a splinter cell of the same spontaneous order that created Britney, Katy Perry, Demi Lovato, Halsey, Meghan Trainor, Ariana Grande, Selena Gomez. <a href="#fn:11" id="fnref:11">11</a> 
+For all Swift's grinding and shrewdness, TS is in this sense just a splinter cell of the same spontaneous order that created Britney, Katy Perry, Demi Lovato, Halsey, Meghan Trainor, Ariana Grande, Selena Gomez. <a href="#fn:11" id="fnref:11">11</a> But they aren't out here being given a PhD in fine arts.
 
 <br>
 
@@ -346,7 +349,6 @@ For all Swift's grinding and shrewdness, TS is in this sense just a splinter cel
 
 <br>
 
-The most interesting things about Swift were harder to discover: she's a sort of <a href="{{hs}}">high school dropout</a>; she started her career at 13 as a genuine social misfit; she remains a massive hustler who doesn't seem to regret her child-star path, and who outdoes any cupidinous rapper re: stacks <a href="#fn:5" id="fnref:5">5</a>.
 
 <!-- mistaking corporate chimeras for auteurs means that the auteurs get even less attention -->
 
