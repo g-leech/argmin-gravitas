@@ -5,7 +5,14 @@ layout: default
 <div class="post">
 
 <header class="post-header">
-  <h1 class="post-title">{{ page.title }}</h1>
+  <table>
+    <td><h1 class="post-title">{{ page.title }}</h1></td>
+    <td width="20%">
+      {% if page.img %}
+          <img class="im" src="{{ page.img }}" />
+      {% endif %}
+    </td>
+  </table>
   <p style="line-height: 3px"></p>
   <p style="margin-left:15px" class="post-meta">
     {%  assign s = "&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;"  %}
@@ -15,13 +22,13 @@ layout: default
     {% if page.simple or page.stylised or page.technical %} 
       {{s}} Available in  
       {% if page.simple %} 
-      <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simpleLink">Simple</a> 
+        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simpleLink">Simple</a> 
       {% endif %} 
       {% if page.stylised %} | 
-      <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylisedLink">Stylised</a> 
+        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylisedLink">Stylised</a> 
       {% endif %} 
       {% if page.technical %} | 
-      <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'technical')" id="technicalLink">Technical</a> English 
+        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'technical')" id="technicalLink">Technical</a> English 
       {% endif %} 
     {% endif %}
 

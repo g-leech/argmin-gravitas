@@ -6,7 +6,6 @@ permalink:  /ilp
 date:       2020-03-01
 author:     Gavin
 
-img:        /img/
 published:  true
 visible:    1
 

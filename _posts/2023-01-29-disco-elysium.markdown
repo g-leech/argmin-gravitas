@@ -10,7 +10,7 @@ img:        /img/thought2.png
 visible:    1
 published:  true
 
-summary:    Messy thoughts on the best work of political fiction of recent decades.
+summary:    Messy thoughts on the best work of political fiction of recent decades
 confidence: 
 quality:    7
 importance: 5
