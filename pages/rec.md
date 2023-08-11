@@ -15,14 +15,14 @@ visible:	true
 {%  assign tv = "https://srlzd.com/u/gleec"    %}
 {%  assign j = "https://open.spotify.com/playlist/6LvVnQrcaO6j2itnUq1EZJ?si=d154700c3bae44f6" %}
 {%  assign leccy = "https://open.spotify.com/playlist/0AqWekVsM504tEAJ0Pu8er?si=f8c0516f3b8541af"  %}
-
+{%  assign x = "https://open.spotify.com/playlist/3qL3GTAJGyjdQKAWPtuhHu?si=f9b0b84f442b4024"   %}
 
 
 ## Listen
 
 * <a href="{{album}}">Albums</a><br><br>
 * <a href="{{spot}}">Playlists</a><br><br>
-* <a href="/punk">Punk</a>, <a href="{{j}}">jazz</a>, <a href="/country">country</a>, <a href="{{hh}}">hip-hop</a>, <a href="{{leccy}}">electronic</a>, <a href="/nation-sound">nations</a>
+* <a href="/punk">Punk</a>, <a href="{{j}}">jazz</a>, <a href="/country">country</a>, <a href="{{hh}}">hip-hop</a>, <a href="{{leccy}}">electronic</a>, <a href="{{x}}">☧mas</a>, <a href="/nation-sound">nations</a>
 
 <br>
 
@@ -46,9 +46,9 @@ visible:	true
 * <a href="/specie">Species</a><br><br>
 * <a href="{{gam}}">Games</a>, <a href="{{boa}}">games</a><br><br>
 <!-- 
-* memes<br><br>
-* art<br><br>
-* photography<br><br>
+\* memes<br><br>
+\* art<br><br>
+\* photography<br><br>
  -->
 <br>
 

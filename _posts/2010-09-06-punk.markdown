@@ -221,6 +221,11 @@ This clunky approach lets us account for the mind-jarring variety of people that
 
 It is a style, it became an ideology, and it remains a community. All in all, a good way to spend your teens.<br><br>
 
+
+<a href="{{goat}}">Here's my full all-time great punk playlist.</a>
+
+<br><br>
+
 {%	include punk/against.md		%}
 {%	include punk/leatherface.md	%}
 {%	include punk/epigram.md 	%}

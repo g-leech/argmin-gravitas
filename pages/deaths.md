@@ -11,6 +11,11 @@ visible:	false
 	}
 </style>
 
+{%	include quotes/deaths.html	%}
+
+<br><br>
+
+
 Some full obits, mostly scientists or philanthropists or other people overlooked by the media:
 
 * [Carl Djerassi](https://forum.effectivealtruism.org/posts/WAdhvskTh2yffW9gc/carl-djerassi-1923-2014)
@@ -22,6 +27,3 @@ Some full obits, mostly scientists or philanthropists or other people overlooked
 * [James Lovelock](https://forum.effectivealtruism.org/posts/YFyzHT3H67jrk7mdc/james-lovelock-1919-2022)
 * [Hugh Thompson Jr](https://forum.effectivealtruism.org/posts/JGR87M8to93D7Ahzh/hugh-thompson-jr-1943-2006)
 
-<br><br>
-
-{%	include quotes/deaths.html	%}

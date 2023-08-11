@@ -1,3 +1,4 @@
+{%  assign goat = "https://open.spotify.com/playlist/7I96UF2gfobLiaSrVM8wwx?si=85babd34e8a9439f"    %}
 {%	assign lfth = "https://www.bbc.co.uk/programmes/articles/4f0B5rf6z2wYQpm5WNqsqP7/they-swear-they-were-there-sex-pistols-at-the-lesser-free-trade-hall"	%}
 {%	assign clash = "https://www.youtube.com/watch?v=KorwwAjKpaY"	%}
 {%	assign zero = "https://theconversation.com/year-zero-for-british-punk-was-1976-but-there-had-long-been-anarchy-in-the-usa-61329"		%}
