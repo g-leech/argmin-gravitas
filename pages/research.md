@@ -53,6 +53,7 @@ visible:	true
 ### Preprint
 
 <table>
+	{%  include researches/actadd.html	%}
 	{%  include researches/trees.html	%}
 	{%	include researches/lgfo.html	%}
 

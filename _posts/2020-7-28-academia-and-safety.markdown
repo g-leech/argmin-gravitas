@@ -157,7 +157,7 @@ Again, the model is conservative: I don’t count the most prominent safety-rele
 ### A cursory check of the model
 
 The above implies that there should be a lot of mainstream work with alignment implications - maybe as much as EA produces. A systematic study would be a big undertaking, but can we at least find examples? Yes:
-aix
+
 * <a href="{{aix}}">AIXI</a> (2000), a theoretically optimal RL agent.
 
 * <a href="{{goe}}">Gödel machines</a> (2003), the limit case of verified self-improvement.

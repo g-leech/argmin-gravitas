@@ -1,0 +1,41 @@
+{%  assign id = "actaddimg"  %}
+
+<tr>
+    <td class="logo">
+        <a href="{{actaddl}}">
+            <div id="{{id}}"></div>
+        </a>
+    </td>
+    <td style="padding-left: 5px">
+        <a class="noline" href="{{actaddl}}" target="_blank">
+            Steering Language Models Without Optimisation
+        </a>
+        <div class="journo">
+            (2023)
+        </div>
+        
+        <span class="dropdown">
+          <button class="dropped" onclick="javascript:drop('actadd')">The point</button>,
+
+          <div id="actadd" class="dropdown-content">
+            <br>
+            <b>Full title: Activation Addition: Steering Language Models Without Optimization</b>
+            <br><br>
+            We investigate activation engineering: modifying the activations of a language model <i>at inference time</i> to predictably alter its behavior. It works by adding a bias to the forward pass, a 'steering vector' implicitly specified through normal prompts.
+
+            Activation Addition (ActAdd) computes these by taking the activation differences of pairs of prompts. We get control over high-level properties of the output without damaging the model's performance. ActAdd takes far less compute and implementation effort compared to finetuning or RLHF, allows nontechnical users to provide natural language specifications, and it scales really naturally with model size.<br><br>
+             This is the first (superficial-) alignment method which doesn't need training data or gradient descent.
+           <br><br><br>
+
+            <i>Authors</i>: Alex Turner, Lisa Thiergart, David Udell, <span class="me">Gavin Leech</span>, Ulisse Mini, Monte MacDiarmid.<br><br>
+                <i>Total hours I contributed</i>: 190.
+            <br><br>
+          </div>
+        </span>
+    </td>
+</tr>
+
+<script>  
+    var src="/img/papers/actaddimg.png"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

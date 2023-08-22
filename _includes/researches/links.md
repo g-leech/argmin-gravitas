@@ -68,3 +68,4 @@
 {%  assign bmc = "https://bmcmedicine.biomedcentral.com"  %}
 {%  assign pib = "https://pibbss.ai/"   %}
 {%  assign ifp= "https://progress.institute/can-policymakers-trust-forecasters/"    %}
+{%  assign actaddl = "https://arxiv.org/abs/2308.10248"    %}
