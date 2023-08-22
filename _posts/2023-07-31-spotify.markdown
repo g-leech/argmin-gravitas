@@ -22,9 +22,13 @@ wordcount:
 {%  assign inv = "https://www.inverse.com/input/culture/obsessed-listening-spying-strangers-old-spotify-playlists" %}
 
 
-Spotify is the most solipsistic social network. It doesn't emphasise other users at all. This lack of interest obscures the fact that you can by default see anyone, and walk their graph.
+<img src="/img/minutes.png" />
 
-This means there's very little incentive to lie, to pretend to like cool things you don't actually like.
+<br>
+
+Spotify is the most solipsistic social network. It doesn't emphasise other users at all. This obscures the fact that you can by default see anyone, and walk their graph.
+
+This false privacy means there's very little incentive to lie, to pretend to like cool things you don't actually like.
 
 Couple this to the fact that music is the centre of most(?) people's emotional lives, and you get with a uniquely sincere and <a href="{{inv}}">far-reaching representation</a> of us. Peoplewatching for feelings.
 

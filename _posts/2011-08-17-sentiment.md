@@ -10,7 +10,7 @@ img:
 visible:    1
 published:  true
 
-summary:    Riding my bike all the way through west England
+summary:    Riding my bike all the way through west England without any electronics
 quality:    5
 confidence: 
 importance: 4
