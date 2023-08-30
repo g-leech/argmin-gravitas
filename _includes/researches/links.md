@@ -1,4 +1,5 @@
 {%  assign talent = "https://psyarxiv.com/gq9r6"  %}
+{%  assign zotero = "https://www.zotero.org/groups/4774748/the_hard_problems_bibliography/library"  %}
 {%	assign goog = "https://scholar.google.com/citations?user=xC-v_aUAAAAJ"		%}
 {%	assign orcid = "https://orcid.org/0000-0002-9298-1488"		%}
 {%	assign bris = "https://www.bristol.ac.uk/people/person/Gavin-Leech-16c2a616-ecbe-4d2d-90d7-87bc3252aa02"	%}

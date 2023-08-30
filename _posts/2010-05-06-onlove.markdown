@@ -19,6 +19,8 @@ wordcount:  2000
 argument:   
 ---
 
+<!-- https://afterallitcouldbeworse.blogspot.com/2013/11/mathematical-desire.html -->
+
 <div align="center">
 
 <img id="BLOGGER_PHOTO_ID_5468199242010030626" src="/img/%210.jpg" border="0" />

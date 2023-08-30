@@ -88,6 +88,8 @@ visible:	true
 * Briefed the UK Cabinet Office <a href="{{ctf}}">COVID-19 Task Force</a> on mask policy.<br><br>
 * Briefed the UK Cabinet Office on AI economics.<br><br>
 * Reviewer for <a href="{{pnas}}">PNAS</a>, <a href="{{ml}}">Machine Learning</a>, <a href="{{bmj}}">BMJ Global Health</a>, <a href="{{bmc}}">BMC Medicine</a>, <a href="{{aisc}}">AI Safety Camp</a>, <a href="{{pib}}">PIBBSS</a>.
+* Created a <a href="{{zotero}}">1000-paper bibliography</a> on every angle of the AI problem.
+
 
 <br>
 
