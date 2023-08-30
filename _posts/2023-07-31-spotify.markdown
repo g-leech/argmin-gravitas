@@ -11,7 +11,7 @@ published:  false
 visible:    1
 quality:    4
 
-summary:    but it's not unsocial
+summary:    
 confidence: 
 categories: 
 warnings:   
