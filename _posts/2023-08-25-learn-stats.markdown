@@ -10,12 +10,12 @@ img:        /img/badsciencelong.png
 published:  true
 visible:    1
 quality:    4
+importance: 8
 
 summary:    How to be less bad at it than most
 confidence: 80%
 categories: stats
 warnings:   
-importance: 8
 wordcount:      
 ---
 

@@ -1,6 +1,8 @@
 {%  assign id = "rwsimg"  %}
 {%  assign rwarx = "https://arxiv.org/abs/2305.11022"       %}
+{%  assign rwsvid = "https://www.youtube.com/watch?v=LypuoCIX6xA"   %}
 {%  assign uai = "https://www.auai.org/uai2023/"      %}
+{%  assign rwspost = "https://www.auai.org/uai2023/posters/216.pdf" %}
 
 
 <tr>
@@ -26,7 +28,7 @@
             <br>
             Reweighted wake-sleep (RWS) can do Bayesian inference in a very general class of models. It samples from an approximate posterior Q, then uses importance weighting to estimate the true posterior P, then updates Q towards the importance-weighted estimate of P. But the sheer number of samples you need in IW rules out any realistic-size model.
             <br><br>
-            We develop "massively parallel RWS", which samples all latent variables and reasons about all possible combinations of samples. You can do this in polynomial time by exploiting conditional independencies. We get a dramatic speedups over standard RWS, which samples the full joint.
+            We develop "massively parallel RWS", which samples all latent variables and reasons about all possible combinations of samples. You can do this in polynomial time by exploiting conditional independencies. We get a dramatic speedup over standard RWS, which samples the full joint.
 
             <!-- more general derivations of massively parallel reweighted wake-sleep, making them more general and enabling the use of a wider range of approximate posteriors in Bayesian inference.
 
@@ -39,7 +41,7 @@ Empirical benefits are demonstrated in terms of achieving higher log-likelihood 
             <br>            <br>
           </div>
         </span>
-        <a href="{{rws}}" target="_blank">the paper</a>
+        <a href="{{rws}}" target="_blank">the paper</a>, <a href="{{rwsvid}}">video</a>, <a href="{{rwspost}}">poster</a>
     </td>
 </tr>
 
