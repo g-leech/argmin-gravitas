@@ -339,6 +339,8 @@ Argument:
 
 Our societies are increasingly vulnerable to hacking. Last month someone tried to <a href="{{lye}}">remotely poison</a> a Florida city's water supply. A few years ago, large parts of Ukraine's <a href="{{uk}}">power grid were shut down</a>, just as a civil war erupted.
 
+https://www.theguardian.com/world/2023/aug/29/air-passengers-face-further-delays-after-uk-air-traffic-control-failure
+
 The American nuclear launch code was, for 20 years, "<a href="{{giz}}">0000000</a>". Here's a [long list](https://nintil.com/ai-safety/#cybersecurity) of past incidents, some more worrying than others. What else is currently wide open?
 
 <br>
