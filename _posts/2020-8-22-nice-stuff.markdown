@@ -94,6 +94,11 @@ _Cost per year_: £5
 _Expected lifespan_: 2 years?<br>
 _Cost per year_: £4
 
+* <a href="{{beary}}">Beary Quiet earplugs</a> (£10). The best, for my shape anyway. 40 dB decrease, always still in by morning.<br>
+_Expected lifespan_: 1 year<br>
+_Cost per year_: £10
+
+
 * <a href="{{oxy}}">Oxymetazoline</a> (£8 for months). Never mind the Vicks or the steam bath. This clears your nose in seconds; makes sleeping when ill _much_ easier.<br>
 _Cost per year_: £8
 
