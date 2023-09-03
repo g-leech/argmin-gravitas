@@ -1,0 +1,43 @@
+<i>compressible</i> \(:=\) If an object contains regularities, then there's a description shorter than it<br>
+- the [K] complexity \(C(x) \) of an object \(x \)<br>
+- \(l\): string length (binary length in bits)<br>
+- \(C \): description length<br>
+- \(C(x|y) \), conditional Kolmogorov complexity given \(y\) as an auxiliary input to the procedure<br><br>
+
+<h4>A counting argument gets us the existence of 1 incompressible string</h4>
+- For each \(n \) there are \(2^n \) binary strings of length \(n \), <br>
+- but only \(\Sigma_{i=0}^{n-1} = 2n − 1 \) possible shorter descriptions. <br>
+- Therefore, there is at least one binary string \(x \) of length \(n \) such that \(C(x) ≥ n \). call such strings incompressible. <br><br>
+
+- It also follows that for any length \(n \) and any binary string \(y \), there is a binary string \(x \) of length \(n \) such that \(C(x|y) ≥ n \).<br>
+- <i>c-incompressible</i>: of a string \(x \), if \(C(x) ≥ l(x) − c \). <br>
+- Strings that are incompressible (say, c-incompressible with small \(c \)) are patternless, since any pattern could be used to reduce the description length. <br>
+- Intuitively, we think of such patternless sequences as close to random<br><br>
+
+<h4>How <i>many</i> strings of length \(n \) are \(c \)-incompressible?</h4>
+- counting argument again yields<br>
+- the number of strings of length \(n \) that are \(c \)-incompressible is \(\geq 2^n − 2^{n−c} + 1 \). <br>
+- Hence there is at least one 0-incompressible string of length n,<br> 
+- at least one-half of all strings of length n are 1-incompressible,<br> 
+- at least three-fourths of all strings of length n are 2-incompressible...<br> 
+- and at least the \((1 − 1/2^c) \)th part of all \(2^n \) strings of length \(n \) are \(c \)-incompressible. <br><br>
+- This means that for each \(c > 1 \) the majority of all strings with \(n>c \) are c-incompressible.
+
+<br><br>
+
+<!-- <h4>incompressibility theorem</h4>
+- __Statement__<br>
+- Let \(c \in \Z > 0 \) . <br>
+- For each fixed \(y \) and finite set \(A \) of cardinality \(m \)<br>
+    - \(M_c = \) number of elements \(x \) with \(C(x|y) ≥ \log m−c \)<br>
+    - \(M_c \geq m(1−2^{−c})+1 \) <br><br>
+
+<b>Proof</b>
+\(|A| = m \)<br>
+\(N = \) the number of programs shorter than  \(\log m − c \)<br>
+\(= 2^{\log m -c} -1 \) <br><br>
+there are at least \(m − m2^{−c} + 1 \) elements in A that have __no__ program of length less than \(\log m − c \)<br>
+ -->
+
+<br><br>
+\(\simeq\) <i>there are few short programs, so there can be only few objects of low complexity</i>

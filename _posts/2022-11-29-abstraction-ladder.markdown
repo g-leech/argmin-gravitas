@@ -10,7 +10,7 @@ img:        "/img/cropped DALL·E 2022-12-16 16.25.42 - ladder stretching up thr
 visible:    1
 published:  true
 
-summary:    generality as a yardstick of mind, but no more
+summary:    generality as mental yardstick
 confidence: 
 warnings:   
 categories: maths, becoming, philosophy

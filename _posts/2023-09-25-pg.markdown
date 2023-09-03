@@ -1,0 +1,67 @@
+---
+layout:     post
+title:      "Great work"
+baselink:   /pg
+permalink:  /pg
+date:       2023-09-01  <!--site.time-->
+author:     Gavin
+
+img:        /img/babel.jpg
+published:  true
+visible:    1
+quality:    4
+importance: 6
+
+summary:    Some exercises inspired by Paul Graham's schtick
+confidence: 70% that the legibilisation will be worth it for you
+categories: work, self-help
+warnings:   
+wordcount:      
+---
+
+{%  assign pg = "http://www.paulgraham.com/greatwork.html"    %}
+{%  assign bor = "https://forum.effectivealtruism.org/posts/J7nmbqcWncPMZFhGC/want-to-make-a-difference-on-policy-and-governance-become-an"  %}
+
+
+Like so much of Paul Graham's writing, <a href="{{pg}}">his new piece</a> seems shallow and unsupported on first reading. But there's a great model of the world in it, and rare suitably-hedged advice. You don't need to believe that any of YCombinator's reflected glories are actually glorious to take something from it.
+
+I recently ran a couple of related sessions for my students. (It takes an hour to run the following exercises -- but if you're honest with yourself that's less than it'd take you to read the original.)
+
+<br><br>
+
+* How many areas have you seriously tried working in?
+* What haven’t you tried but want to? <a href="#fn:1" id="fnref:1">1</a>
+* What are you a natural at?
+* What are you excessively curious about?
+* What have you mastered? What are the gaps at the frontier of that?
+* What would you do in a basic-income world?
+* If you took a break from "serious" work to work on something interesting, what would you do? 
+* What _intersections_ of things have you mastered? <a href="#fn:3" id="fnref:3">3</a> Anything <a href="{{bor}}">specific and boring</a>?
+* What is the hardest you have ever worked without an external deadline?
+* How many independent projects have you done? (No teacher, no boss, no company, no manager)
+* What open questions are you holding in your head right now? Have you actually tried to answer them? <a href="#fn:2" id="fnref:2">2</a>
+* What is the most _delighted_ you have been while working?
+* Who are you trying to impress? Is that who you should?
+* Cultivating luck: how many <a href="https://colah.github.io/personal/micromarriages/">microfounders</a> and <a href="https://www.lesswrong.com/posts/voLJhDWKmiQ4J6pqD/beyond-micromarriages">micromuses</a> are you accruing every day?
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+        If nothing pulls you, just keep sampling, go for max diversity and value of information.
+    </li>
+    <!--  -->
+    <li class="footnote" id="fn:2">
+        Resolve cycle: try to answer one in 5 mins, right now
+    </li>
+<!--  -->
+    <li class="footnote" id="fn:3">
+        (e.g. Computer graphics, e.g. Bioinformatics, e.g. history of mathematics, e.g. )
+    </li>
+</ol>
+
+</div>
+
+<br><br>
