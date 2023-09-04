@@ -63,9 +63,9 @@ QED correctly predicts all those decimal places (to within the measurement uncer
 <br><br>
 
 <h4>Precision of form</h4>
-Fiber bundles invented by mathematicians 60 years before they were needed for gauge theory. Perfect. This happens a lot.
+Fiber bundles invented by mathematicians 60 years before they were needed for gauge theory. Perfect. This happens a lot.<br><br>
 
-> That non-Abelian gauge fields are conceptually identical to ideas in the beautiful theory of fiber bundles, developed by mathematicians without reference to the physical world, was a great marvel to me. In 1975 I discussed my feelings with Chern, and said 'this is both thrilling and puzzling, since you mathematicians dreamed up these concepts out of nowhere'. He immediately protested: 'No, no. These concepts were not dreamed up. They were natural and real.' 
+<blockquote>That non-Abelian gauge fields are conceptually identical to ideas in the beautiful theory of fiber bundles, developed by mathematicians without reference to the physical world, was a great marvel to me. In 1975 I discussed my feelings with Chern, and said 'this is both thrilling and puzzling, since you mathematicians dreamed up these concepts out of nowhere'. He immediately protested: 'No, no. These concepts were not dreamed up. They were natural and real.' </blockquote>
 
 <br><br>
 
