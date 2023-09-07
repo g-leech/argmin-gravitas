@@ -1,3 +1,4 @@
+{%  assign ct = "https://podcast.clearerthinking.org/episode/171/gavin-leech-can-we-choose-who-we-are" %}
 {%  assign talent = "https://psyarxiv.com/gq9r6"  %}
 {%  assign zotero = "https://www.zotero.org/groups/4774748/the_hard_problems_bibliography/library"  %}
 {%	assign goog = "https://scholar.google.com/citations?user=xC-v_aUAAAAJ"		%}

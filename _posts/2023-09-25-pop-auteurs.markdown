@@ -20,6 +20,7 @@ wordcount:
 ---
 
 {%  assign stats = "https://loudandclear.byspotify.com/"    %}
+{%  assign chch = "https://open.spotify.com/playlist/1jtTXCr3ni3XVFN9ntH5En?si=30f36cd9d82f4685"    %}
 {%  assign credit = "https://www.cnbc.com/2021/04/01/songwriters-ask-artists-to-stop-taking-credit-for-hits-they-didnt-write.html"    %}
 {%  assign xeno = "https://open.spotify.com/playlist/5Mgw5vagYYDCBbRpEm83rV?si=379a98f87cf74806"    %}
 {%  assign hal = "https://open.spotify.com/playlist/1NcJXZ7mb0CliRpYJhKp63?si=de988c1f9f454835"  %}
@@ -115,6 +116,8 @@ One way to cut through the noise of chart music is to go past the face of it. As
 ### <a href="{{arif}}">Arif Mardin</a>
 
 ### <a href="{{saw}}">SAW</a>
+
+### <a href="{{chch}}">Chinnichap</a> (pop rock, glam, new wave)
 
 <!-- Eno -->
 
