@@ -96,6 +96,11 @@ https://www.youtube.com/watch?v=tWvkQqukPLg
 3. Bandy band band. Cool Dr. habil. jaja. (2012 - 2017)
 4. Piano + horns + saccharine sprechgesang + Merge + Serj Tankian Chigurh face (2017 - Present)
 
+
+I can't stand (4) but luckily he releases all the demos
+https://www.youtube.com/playlist?list=PL1lGEznMoBmAyuUS8aeEzy5tUmBSZ8GQY
+
+
 The trouble is that between AHWT and TLotWTC he became a Musician. (He may also be attempting to gracefully sidestep the chord damage and ageing.) That doesn't explain the turn against guitars and towards jam-band I love the _demos_ of his recent smoothie albums. There only used to be demos.
 
 
