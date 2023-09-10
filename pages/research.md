@@ -95,7 +95,7 @@ visible:	true
 
 ### Media
 
-* <a href="{{ct}}">Clearer Thinking</a>
+* <a href="{{ct}}">Clearer Thinking</a><br><br>
 * Masks: <a href="{{bbc}}">BBC</a>, <a href="{{acxmandate}}">ACX</a>, <a href="{{nyt}}">New York Times</a>, <a href="{{wired}}">Wired</a>, <a href="{{guardian}}">Guardian</a>, <a href="{{mails}}">Mail</a>, <a href="{{mr}}">Marginal Revolution</a>, <a href="{{ag}}">Gelman</a><br><br>
 * Psychology: <a href="{{nat}}">Nature</a>, <a href="{{ag}}">Gelman</a>, <a href="{{jc}}">Coyne</a>, <a href="{{hertz}}">Everything Hertz</a>, <a href="{{sbs}}">Stronger by Science</a>.
 
@@ -104,7 +104,7 @@ visible:	true
 
 ### Teaching
 
-* 2022, 2023: Lead instructor for ESPR. (Metaphilosophy and thermodynamics)<br><br>
+* 2022, 2023: Lead instructor for ESPR. (Metaphilosophy and metamathematics)<br><br>
 * 2021: Course designer and instructor, <a href="{{espr}}">ESPR</a>. (Metascience, cultural literacy, speculative cosmology.)<br><br>
 * 2020: Lead TA for _<a href="{{algo}}">COMS20010: Algorithms 2</a>_.<br><br>
 * 2019: TA for the fearsome _<a href="{{coms}}">COMS30007: Bayesian Machine Learning</a>_.<br><br>
