@@ -78,7 +78,7 @@ And his live shows are exciting because there is much old treasure, quite beside
 
 The autobiographical ones can be split into childhood, vampires (drug squatting), and .
 
-One hair-raising fact is that 5 fansites have done what I am doing and all are dead.
+One hair-raising fact is that 5 fansites have done what I am doing and all of them are dead.
 
 https://www.mountain-goats.com/forums/read.php?2,18802,23156#msg-23156
 http://web.archive.org/web/20220124123314/https://kylebarbour.org/tmg/
@@ -91,14 +91,53 @@ https://www.youtube.com/watch?v=tWvkQqukPLg
 ## Eras
 
  <!-- Stephen Malkmus, Colin Newman  -->
-1. Acoustic thrash + nasal wail + panasonic + Shrimper + Young David Byrne / Tim Kinsella face (1985 - 2001)
-2. Electric reverb + big ass studio + muttering + 4AD + John Oliver face (2002 - 2013)
-3. Bandy band band. Cool Dr. habil. jaja. (2012 - 2017)
-4. Piano + horns + saccharine sprechgesang + Merge + Serj Tankian Chigurh face (2017 - Present)
+1. Acoustic thrash + nasal wail + panasonic + Shrimper + Young David Byrne / Tim Kinsella face (1985 - 2001). Divorces looming and mythologies coursing through the young.
+2. Electric reverb + big ass studio + muttering + 4AD + John Oliver face (2002 - 2013). Autobiography begins in 2004 and tenderises him.
+3. Bandy band band. Power trio. Cool Dr. habil. jaja. (2012 - 2017). Also horns.
+4. Lounge four-piece flirting with jangle, country-rock, and mere autobiography (Piano + horns + saccharine sprechgesang + Merge + lookin like Serj Tankian and Anton Chigurh). Fatherhood. (2017 - Present)
 
 
-I can't stand (4) but luckily he releases all the demos
-https://www.youtube.com/playlist?list=PL1lGEznMoBmAyuUS8aeEzy5tUmBSZ8GQY
+I can't stand (4) but it's largely just my allergy to the jazz keyboard hammond mellotron reverb and muted melisma muso production. Luckily he releases most of em as demos - better sound quality than 1993 cassettes and sometimes the same fire. Makes a 6 out of a 4 and an 7 out of a 5.
+
+It is the prerogative of the long time fan to get arsey about changes of direction and scream the names of the cult classics; it is the prerogative of the artist to pay literally zero attention.
+
+<br>
+
+<div class="accordion">
+    <h3>The new albums but done with the 1993 vibe</h3>
+    <div>
+        <ul>
+            <li><a href="https://www.youtube.com/playlist?list=PL1lGEznMoBmCoTAXyCnMmwagCXxNk3gXy">Goths (2017)</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PL1lGEznMoBmAyuUS8aeEzy5tUmBSZ8GQY">In League with Dragons (2019)</a></li>
+            <li><a href="https://www.youtube.com/watch?v=4X_DpIpakaw&list=PLC80P4gsPr-ZqsUiUD3rJMwR9tRkUs0kQ">Songs for Pierre Chuvin (2020)</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PL1lGEznMoBmB11j4Y4pmG65V9uc231Voe">Getting Into Knives (2020)</a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+        </ul>
+    </div>
+    <h3>Best songs since 2015</h3>
+    <div>
+        <ul>
+            <li>Shelved</li>
+            <li>Let Me Bathe In Demonic Light (bassoon cut only)</li>
+            <li>The Great Gold Sheep</li>
+            <li>Sicilian Kitchen Stomp</li>
+            <li>Training Montage</li>
+            <li>The Ultimate Jedi Who Wastes All the Other Jedi and Eats Their Bones</li>
+            <li>Bleed Out (Jordan Lake)</li>
+            <li>Hand of Death</li>
+            <li>Elsa from Rialto</li>
+            <li>Incandescent Ruins</li>
+            <li>Hostages (WFPK)</li>
+            <li>Done Bleeding (Demo)</li>
+            <!-- Fresh Tattoo -->
+            <li>Mark on You</li>
+            <li>Tucson Fog</li>
+            <li>From the Lake Trials</li>
+            <li>Divided Sky Lane</li>
+        </ul>
+    </div>
+</div>
 
 
 The trouble is that between AHWT and TLotWTC he became a Musician. (He may also be attempting to gracefully sidestep the chord damage and ageing.) That doesn't explain the turn against guitars and towards jam-band I love the _demos_ of his recent smoothie albums. There only used to be demos.
@@ -177,6 +216,14 @@ That is all.<br />
 <br />
 
 
+## Privacy and arcana
+
+> my heart belongs to Ennius, and to Calvus, and to those writers of whom only a few lines survive.
+
+There is something wrong with this post.
+
+<img src="/img/cool.png" />
+
 
 ## Cataloguing
 
@@ -224,3 +271,4 @@ Well now <em>yes</em>. <i>All Eternals Deck</i> is just that, retaining the perf
 * [John Nall](http://www.themountaingoats.net/)
 * [Richard O’Brien](https://thirtyyearslater.substack.com/s/now-here-we-are-thirty-years-later)
 * [Kyle Barbour]()
+* [Poetry](http://lastplanetojakarta.com/)
