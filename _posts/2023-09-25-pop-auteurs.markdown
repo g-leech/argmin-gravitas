@@ -14,7 +14,7 @@ importance: 2
 
 summary:    Minds behind the mindless
 confidence: 
-categories: music
+categories: music, lists
 warnings:   
 wordcount:      
 ---

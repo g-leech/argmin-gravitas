@@ -15,7 +15,7 @@ quality:    5
 importance: 7
 emotion:    7
 wordcount:      
-categories: 
+categories: science, philosophy, lists
 where:      "Tallinn, Estonia"
 ---
 

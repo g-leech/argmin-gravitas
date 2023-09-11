@@ -16,7 +16,7 @@ confidence:
 importance: 5
 wordcount:  600
 warnings: 	Doomers.
-categories: music, art, subculture
+categories: music, art, subculture, lists
 ---
 
 {%  assign nbt = "https://www.youtube.com/watch?v=wfBdL32L3Z8"  %}

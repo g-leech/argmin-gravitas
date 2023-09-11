@@ -12,7 +12,7 @@ visible:    1
 
 summary:    My favourite music from various places.
 quality:    2
-categories: music
+categories: music, lists
 confidence: 
 importance: 2
 wordcount:  
