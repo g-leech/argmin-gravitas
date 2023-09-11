@@ -15,7 +15,7 @@ quality:    5
 emotion:    8
 importance: 8
 wordcount:  1300
-categories: longtermism, meaning
+categories: longtermism, meaning, lists
 where:      "Nassau, Bahamas"
 ---
 

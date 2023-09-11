@@ -14,7 +14,7 @@ importance: 8
 
 summary:    How to be less bad at it than most
 confidence: 80%
-categories: stats
+categories: stats, lists
 warnings:   
 wordcount:      
 ---
