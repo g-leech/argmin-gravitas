@@ -73,7 +73,7 @@ This false privacy means there's little incentive to lie, e.g. to pretend to lik
 
 I took a little walk around the user graph, looking for remarkable things. The following all impressed me with erudition or sheer determination (some of them have thousands of playlists; some have hundreds of times more playlists than followers).
 
-I am quite serious in calling them scholars. No doubt I missed the greatest of them, equals of the greatest musicologists.
+I am quite serious in calling them scholars. No doubt I missed the best, the equals of any musicologist.
 
 <br> 
 
@@ -93,6 +93,7 @@ I am quite serious in calling them scholars. No doubt I missed the greatest of t
 <!-- * <a href="https://open.spotify.com/user/derekrobertson?si=8148f5a158174c3b">Derek Robertson</a> (maybe <a href="https://www.theguardian.com/profile/derek-robertson">this one</a>?) -->
 * <a href="{{ida}}">Ida-Rose Chabon</a> (all kinds of country subgenres)
 * <a href="https://open.spotify.com/user/1220511975?si=154976ff7eb848e2">Margeaux</a> (another simple cathedral of self)
+* <a href="https://open.spotify.com/user/1258508389?si=de955e6707864fa3">Jonathan Evans</a> (Synaesthetics)
 * <a href="https://open.spotify.com/user/dnled5ui4q28w1eh0i82h2syj?si=989f0a9970eb4159">Vapor Memory</a> (skip the artist playlists and scroll down to the labels)
 * <a href="https://open.spotify.com/user/1218340696?si=59663073cd3a43f7">Joe Schuetz</a> (hand of the king [Bangs], every angle on rock)
 * <a href="https://open.spotify.com/user/mofgimmers?si=8b5672e62d1b46b2">mofgimmers</a> (Taking Pills with the French, music for loud shirts, amazing single-artist lists)

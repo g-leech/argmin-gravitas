@@ -90,7 +90,9 @@ It resists compression. I could spend another couple dozen hours noticing things
 
 
 
-How did they make the best RPG ever? How did they overcome the curse of collaborative fiction (how many of <a href="{{collab}}">these books</a> are worth a damn)? Insane amounts of work! Returning to the opening Reynolds line, I also wanna say that their post-marxism is a long difficult ladder letting them into virgin areas of game narrative and ofc it provided a rich layer of historical tragedy over everything else in the game. The truth or practicality of a theory isn't the main thing, when you're making art. This is the _latent_ function of critical theory: making people make interesting art, by removing certain preconceptions and instilling new ones. So, an elevating false framework.
+How did they make the best RPG ever? How did they overcome the curse of collaborative fiction (how many of <a href="{{collab}}">these books</a> are worth a damn)? 
+
+Insane amounts of work! Returning to the opening Reynolds line, I also wanna say that their post-marxism is a long difficult ladder letting them into virgin areas of game narrative and ofc it provided a rich layer of historical tragedy over everything else in the game. The truth or practicality of a theory isn't the main thing, when you're making art. This is the _latent_ function of critical theory: making people make interesting art, by removing certain preconceptions and instilling new ones. So, an elevating false framework.
 
 
 <br>
@@ -287,6 +289,18 @@ The remarkable thing is that KHTK can depict humanity's prey relationship to ide
 > We did not want a commercial paracosm. It was un-Hegelian. We wanted a quasi-sacral object complex. All that is interesting and terrible about history – and only that... As Soviet artists – perhaps the last Soviet artists – it was our duty to add to the relay. To keep history moving. Onward to the outer cosmos and the stars.
 
 
+(The game allows socialist players to indulge in unreconstructed, untroubled, C19th socialism - which is one reason it is so beloved online, and oddly commercially successful. But even in _that_ playthrough it takes a lot to ignore the tragedy of the students and the deserter.)
+
+> Do you believe the status quo is preferable to chaos and bloodshed?
+> \> No.
+> Empathy: Then you've never experienced real chaos."
+
+> Do you believe the status quo is preferable to chaos and bloodshed?
+> Yes. 
+> There you have it. Sometimes holding the line is progress.
+
+
+
 <br><br>
 
 <img src="/img/disco/mental.png" />
@@ -332,7 +346,7 @@ Mere chemical pollution would be a stupid metaphor. So what else?
 
 What threatens all life on Elysium?: The past. <a href="#fn:5" id="fnref:5">5</a> Human trauma as a physical force, as entropy. The pale is nostalgia, looking backwards, and nihilism: collapsing under the weight of disappointment, revenge spirals, collective punishment, trauma, accumulated damage and excess exposure. 
 
-The pale is [the pathetic fallacy](https://en.wikipedia.org/wiki/Pathetic_fallacy) on the grandest possible scale: Harry being unable to move on and so giving up on life _is a microcosm of how the world ends_.
+The pale is [the pathetic fallacy](https://en.wikipedia.org/wiki/Pathetic_fallacy) on the grandest possible scale: Harry being unable to move on, blotting out his past, and giving up on life _is a microcosm of how the world ends_.
 
 
 What hope do we have against it?
@@ -742,6 +756,17 @@ But playing it I am reminded what is great about the left – the cussed rejecti
         https://en.wikipedia.org/wiki/Martinique<br>
         https://en.wikipedia.org/wiki/New_Caledonia<br>
         https://en.wikipedia.org/wiki/Insulinde_(political_party)
+    </div>
+    <h3>Quotes</h3>
+    <div>
+        <ul>
+            <li>"Disco is dead - but even dead dreams can be beautiful." - Rolling.cz</li>
+            <li>On the coast of the Martinaise Inlet, in a small weather-beaten stave church built 380 years ago by settlers from the Occident, most likely to guard against an anomaly at its centre, an officer of the RCM is contorting his body into idiotically rigid shapes, as he invents the future of dance music... It's the hardest anyone has ever danced.</li>
+            <li>And when you fall we will come to raise you up, bud from you, banner-like, blossom from you and carry you apart in a sky funeral.</li>
+            <li>Sometimes a kebab is just a kebab.</li>
+            <li>The people who built this world intended it to be better for you, but they failed. It is easier to live in their failure with [your tape recorder] by your side. It is not a childish fantasy. It can be a real weapon against what’s coming for you now</li>
+            <li>In dark times, should the stars also go out?</li>
+        </ul>
     </div>
 </div>
 
