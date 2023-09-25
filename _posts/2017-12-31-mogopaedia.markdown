@@ -19,7 +19,11 @@ importance: 2
 wordcount:		
 ---
 
-<!-- > Tracking live is like that. You're actually hearing something which actually happened. -->
+{%  assign horse = "https://www.mountain-goats.com/forums/read.php?2,107305,page=4"    %}
+{%  assign detail = "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"   %}
+
+
+> Tracking live is like that. You're actually hearing something which actually happened.
 
 
 <br>
@@ -38,9 +42,11 @@ wordcount:
 
 <br>
 
-Reality has a lot of lore. But not enough, so we make more.
+<br>
 
-It's a entire little world, with fallen civilizations and frightening violence. It has a history _and a historiography_.
+Reality has a lot of <a href="{{detail}}">lore</a>. But not enough, so we make more.
+
+The world of the Mountain Goats is an entire little world, with fallen civilizations and frightening violence and opinions about little truck stops outside Gothenburg. It has a history _and a historiography_.
 
 Many of my tasteful friends disdain even his soft hi-fi work, and some of my tasteless friends are much enamoured of the lot. Just like anyone, I cannot rule out 'adaptive preferences', that I like it because I've put a lot into it.
 
@@ -78,7 +84,7 @@ And his live shows are exciting because there is much old treasure, quite beside
 
 The autobiographical ones can be split into childhood, vampires (drug squatting), and .
 
-One hair-raising fact is that 5 fansites have done what I am doing and all of them are dead.
+One hair-raising fact is that 5 fansites have done what I am doing and <a href="">all</a> of them are <a href="{{horse}}">dead</a>.
 
 https://www.mountain-goats.com/forums/read.php?2,18802,23156#msg-23156
 http://web.archive.org/web/20220124123314/https://kylebarbour.org/tmg/

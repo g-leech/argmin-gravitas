@@ -132,6 +132,7 @@ visible:  false
 
 # Soc
 
+- McElreath again
 - [The Effect](https://theeffectbook.net/introduction.html)
 - Filthy Lucre
 
