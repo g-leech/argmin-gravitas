@@ -9,6 +9,7 @@ visible:    false
 {%	assign current = "https://www.goodreads.com/review/list/68316850?shelf=currently-reading"	%}
 
 
+
 <style>
 
 	.short-column { width: 15%; }

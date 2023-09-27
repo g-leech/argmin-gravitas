@@ -20,12 +20,13 @@ visible:	true
 	</li>
 	<br>
 	<li>
-		{%	include about/random_faves.html	%}
+		This site consists of {%	include wc.html 	%} words. <a href="/">It is for essays</a>. No text computer-generated unless explicitly indicated. <!-- All claims subject to change: I commit to improving past work til I die. -->
 	</li>
 	<br>
 	<li>
-		<a href="/">this site is for essays</a>. No text computer-generated unless explicitly indicated. <!-- All claims subject to change: I commit to improving past work til I die. -->
+		{%	include about/random_faves.html	%}
 	</li>
+	<br>
 </ul>
 
 
