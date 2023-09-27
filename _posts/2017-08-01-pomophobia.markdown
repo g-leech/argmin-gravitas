@@ -6,7 +6,7 @@ permalink:  /pomo
 date:       2011-08-15  <!--site.time-->
 author:     Gavin
 
-img:        /img/smolBoo.jpg
+img:        /img/calvinmonological.png
 published:	true
 visible: 	1
 quality:    6
