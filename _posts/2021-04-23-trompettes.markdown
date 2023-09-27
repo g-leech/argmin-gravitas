@@ -12,8 +12,9 @@ published:  true
 
 summary:    Rescuing and reading a great lost album. 
 quality:    3
-confidence: N/A, criticism.
 importance: 2
+emotion: 	7
+confidence: N/A, criticism.
 wordcount:  500
 warnings: 	
 categories: music, art, death

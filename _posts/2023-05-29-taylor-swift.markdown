@@ -15,6 +15,7 @@ categories: music
 confidence: N/A. howling my aesthetics against yours.
 importance: 3
 quality:    6
+emotion:    8
 wordcount:  
 argument:   swift/argument.html
 ---
@@ -116,15 +117,23 @@ So why does Taylor Swift (your reception of Taylor Swift) make me feel like I ha
 
 I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a href="{{c2}}">of large</a> <a href="{{c3}}">corporations</a> and 40+ ghostwriters and designers and <a href="{{law}}">lawyers</a> <a href="#fn:6" id="fnref:6">6</a>) represent itself as a singular human being I am to empathise with. Then a large part of society greets this machine as an artist <a href="#fn:14" id="fnref:14">14</a>, like a line of ducklings imprinting on a combine harvester.
 
-Call the machine <a href="{{trademark}}">TS</a>. The interesting part is that Swift the human built TS the machine and controls it to some extent. A _self_-manufactured pop star: Swift makes the machine seem like her and feeds it vast hosts of people (fans, co-writers, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to even more fame, fame which automatically produces more controversies.
+Call the machine <a href="{{trademark}}">TS</a>. The interesting part is that Swift the human built TS the machine and to some extent controls it. A _self_-manufactured pop star: Swift obscures the machine, equivocates, and feeds it vast hosts of people (fans, co-writers, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to more fame, fame which automatically produces more controversies.
 
-TS presents itself as Swift. It performs characters (<a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) and at the same time pretends to deeply express Swift the woman. Innocence-coded (and a twang) for Nashville then, demisexual-coded (and FKA-sighing) for the glossies now, BPD-coded (and drawling) for the extremely online now. A persecution complex (and diphthongs) for everyone <a href="#fn:1" id="fnref:1">1</a>.
+TS presents itself as Swift. It does perform characters explicitly (e.g. <a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) but it mostly pretends to be the woman in various forms. It adapts to audience and times: innocence-coded (with a twang) for Nashville then, demisexual-coded (with FKA-sighing) for the glossies, BPD-coded (and drawling) for the extremely online now. A persecution complex (and diphthongs) for everyone <a href="#fn:1" id="fnref:1">1</a>.
 
-That's half of it; the other half is your incredible overestimation of the output. <a href="#fn:13" id="fnref:13">13</a>  TS songs are moderately catchy, (recently) moderately perverse, and expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / Jenny Lewis / Lady Gaga / Kesha / Lana del Rey / Lorde / FKA Twigs / <!--St Vincent--> Billie Eilish / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
+That's half of it; the other half is your incredible overestimation of the output. <a href="#fn:13" id="fnref:13">13</a>  TS songs are moderately catchy, (recently) moderately perverse, but expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / Jenny Lewis / Lady Gaga / Kesha / Lana del Rey / Lorde / FKA Twigs / <!--St Vincent--> Billie Eilish / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
+
+<br>
+
+<center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/3yDP9MKVhZc?si=URPPpOEL4h23F_N_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/G_GneCw-IoA?si=TrIoX0gwjka0fPB_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+<br>
 
 Why does the music's reception matter if the music doesn't matter? Well, I dislike things that pretend to be deep when they're not. Things which pretend to be personal are on tricky aesthetic ground. Entertainment is fine but not when it stands in place of art. We used to be iffy about parasocial relationships, corporate machines, being played.
 
-I realise now that Swift _is_ a kind of artist – but the art is not music, it's marketing. Empire-building. Really ingenious <a href="https://www.theringer.com/2016/7/12/16039240/when-did-you-first-realize-taylor-swift-was-lying-to-you-bb5a00a32b65">image management</a>, audience relationship management, and hiring. She weathered <a href="{{prob}}">culture war</a> struggle sessions completely fine; people have repeatedly <a href="{{sady}}">announced</a> her demise, critics have bleated about the derivativeness and hollowness of the songs - and yet here she is. These feats require intelligence, deep cultural awareness, and cold blood. So if the music is uninteresting the phenomenon isn't. She plays the world like a fiddle.
+I realise now that Swift _is_ a kind of artist – but the art is not music, it's marketing. Empire-building. Trend sniffing. Ingenious <a href="https://www.theringer.com/2016/7/12/16039240/when-did-you-first-realize-taylor-swift-was-lying-to-you-bb5a00a32b65">image management</a>, audience relationship management, and hiring. She weathered <a href="{{prob}}">culture war</a> struggle sessions completely fine; people have repeatedly <a href="{{sady}}">announced</a> her demise; critics have bleated about the derivativeness and hollowness - and yet here she is. These feats require intelligence, deep cultural awareness, and cold blood. So if the music is uninteresting the phenomenon isn't. She plays the world like a fiddle.
 
 
 

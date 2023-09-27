@@ -10,10 +10,10 @@ img:        "/img/happy man alone in a beautiful meadow on a sunny day, watercol
 published:  true
 visible:    1
 
-quality:    
+quality:    3
 emotion:    8
 confidence: 
-importance: 
+importance: 6
 
 summary:    An overlooked source of suffering
 categories: 

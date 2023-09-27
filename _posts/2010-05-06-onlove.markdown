@@ -14,7 +14,7 @@ summary:    Trying to make sense of the organising principle
 confidence: 
 quality:    5
 importance: 6
-emotion:    7
+emotion:    8
 wordcount:  2000
 argument:   
 ---

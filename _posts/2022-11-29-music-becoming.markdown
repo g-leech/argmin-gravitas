@@ -14,7 +14,7 @@ summary:
 confidence: 
 quality:    
 importance: 
-emotion:    
+emotion:    9
 wordcount:  
 argument:   
 where:      "Garmouth"
