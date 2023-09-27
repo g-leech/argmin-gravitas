@@ -14,6 +14,7 @@ summary:    What's the point if we can't have fun? [DRAFT]
 confidence: I am a different person from he that wrote this.
 quality:    3
 importance: 7
+emotion:    9
 wordcount:  
 warnings:   vague, sentimental, never endorsed. 
 categories: effective-altruism

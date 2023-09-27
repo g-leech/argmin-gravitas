@@ -14,7 +14,7 @@ summary:    Messy thoughts on the best work of political fiction of recent decad
 confidence: 
 quality:    7
 importance: 5
-emotion:    7
+emotion:    8
 wordcount:  5000
 argument:   
 categories: art, politics, mind, becoming  

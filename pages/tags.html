@@ -30,3 +30,14 @@ visible:  false
   <br>
 
 {% endfor %}
+
+<br><br>
+
+<h3>written in blood</h3>
+
+{% assign posts = site.posts | where_exp: "item", "item.emotion > 6" %}
+{% for post in posts %}
+    {% if post.arb != 1 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {%  endif   %}
+{% endfor %}

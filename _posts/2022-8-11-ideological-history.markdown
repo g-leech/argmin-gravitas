@@ -15,6 +15,7 @@ warnings:   politicised epistemology, relativism
 categories: philosophy, scepticism, social-science
 importance: 4
 quality:    4
+emotion:    9
 wordcount:  1000
 started:    2022
 ---
@@ -34,6 +35,8 @@ Anti-neoclassical economics
 
 ### 2012
 
+
+Culture warrior?
 
 ### 2016
 

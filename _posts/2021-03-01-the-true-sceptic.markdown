@@ -15,6 +15,7 @@ confidence: 70%. My knowledge of modern epistemology has eroded a lot in 8 years
 categories: philosophy, ethics-of-belief, epistemology
 warnings:   
 importance: 5
+emotion: 	7
 wordcount:  1200
 ---
 

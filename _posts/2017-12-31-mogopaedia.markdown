@@ -10,6 +10,7 @@ img:        /img/
 published:	false
 visible: 	1
 quality: 	4
+emotion:    8
 
 summary:    Ranking all 800 songs
 confidence:	99%
