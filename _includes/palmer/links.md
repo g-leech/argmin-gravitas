@@ -16,3 +16,4 @@
 {%	assign gc = "https://en.wikipedia.org/wiki/Great_Conversation"		%}
 {%	assign bos = "https://www.nickbostrom.com/papers/vulnerable.pdf"		%}
 {%	assign ban = "https://www.goodreads.com/quotes/191207-was-fergus-urvill-anywhere-still-apart-from-the-body--"	%}
+{%  assign sixteen = "https://www.reddit.com/r/TerraIgnota/comments/nmepab/the_missing_mardi_spoilers_for_all_3_books/?xpromo_edp=enabled"  %}

@@ -653,6 +653,12 @@ But this is wisdom in a modern radical! No one with any awareness of history, hu
 
 <br>
 
+> Pessimism of the Intellect, Optimism of the Will!
+
+- Gramsci
+
+<br>
+
 I chose something else though: 
 
 
