@@ -25,6 +25,13 @@ argument:
 {%	include cultural/links.md	%}
 
 
+> first one has to learn to hear a figure and melody at all, to detect and distinguish it, to isolate it and delimit it as a separate life; then it requires some exertion and good will to tolerate it in spite of its strangeness, to be patient with its appearance and expression, and kindhearted about its oddity <br><br>:— finally there comes a moment when we are used to it, when we wait for it, when we sense that we should miss it if it were missing: and now it continues to compel and enchant us relentlessly until we have become its humble and enraptured lovers who desire nothing better from the world than it and only it. —<br><br>But that is what happens to us not only in music: that is how we have learned to love all things that we now love. In the end we are always rewarded for our good will, our patience, fairmindedness, and gentleness with what is strange; gradually, it sheds its veil and turns out to be a new and indescribable beauty :— that is its thanks for our hospitality. Even those who love themselves will have learned it in this way: for there is no other way. Love, too, has to be learned.
+
+<center>— Nietzsche</center>
+
+<br><br>
+
+
 There is so much to understand, so many things to like - and all of us understand and like very little of it. <a href="#fn:2" id="fnref:2">2</a> If you're young, your preferences maybe define you - but you could be defined by something else. If you're any age, they determine who you spend your time with - but you could spend time with almost anyone.
 
 It's easy to forget how inexhaustible the natural and human world is. This year I've been running classes on _the art of getting into things_. I collected all the interests and subcultures my students are into (or actively not into):<br><br>
