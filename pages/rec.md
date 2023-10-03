@@ -16,6 +16,7 @@ visible:	true
 {%  assign j = "https://open.spotify.com/playlist/6LvVnQrcaO6j2itnUq1EZJ?si=d154700c3bae44f6" %}
 {%  assign leccy = "https://open.spotify.com/playlist/0AqWekVsM504tEAJ0Pu8er?si=f8c0516f3b8541af"  %}
 {%  assign x = "https://open.spotify.com/playlist/3qL3GTAJGyjdQKAWPtuhHu?si=f9b0b84f442b4024"   %}
+{%  assign resto = "https://app.beliapp.com/lists/gleech"   %}
 
 
 ## Listen
@@ -54,7 +55,7 @@ visible:	true
 
 ## Misc
 
-* <a href="/food">Food</a><br><br>
+* <a href="/food">Food</a>, <a href="{{resto}}">resto</a><br><br>
 * <a href="/stuff">Goods</a><br><br>
 * <a href="/deaths">Obituaries</a><br><br>
 * <a href="/favs/all">Misc</a>

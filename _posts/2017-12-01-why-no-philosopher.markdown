@@ -368,6 +368,7 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 
 
 * <a href="/broadness">Broadness as trivial predictor of philosophical status</a>
+* http://justmorephilosophy.blogspot.com/2015/10/never-questioning-value-of-philosophy.html
 * Tom Adamczewski, <a href="{{sitt}}">Philosophical Success Stories</a>
 * Massimo Pigliucci, <a href="{{pig2}}">Progress in Philosophy</a>
 * Graham Johnson, <a href="{{suspended}}">Conceptual engineering: the revolution in philosophy you've never heard of</a>
