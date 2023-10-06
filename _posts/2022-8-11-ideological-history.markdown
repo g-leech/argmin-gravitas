@@ -10,9 +10,9 @@ img:        /img/
 published:  false
 
 summary:    
-confidence: 80% that there's a problem with the field. 50% that this is worth doing.
-warnings:   politicised epistemology, relativism
-categories: philosophy, scepticism, social-science
+confidence: 
+warnings:   
+categories: becoming, politics
 importance: 4
 quality:    4
 emotion:    9
@@ -35,7 +35,7 @@ Anti-neoclassical economics
 
 ### 2012
 
-
+EA
 Culture warrior?
 
 ### 2016

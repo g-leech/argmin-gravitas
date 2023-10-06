@@ -11,7 +11,7 @@ published:  true
 visible:    1
 
 summary:    Trying to take maxims and wisdom from the dismal science.
-categories: economics, philosophy
+categories: economics, philosophy, becoming
 confidence: 
 quality:    4
 importance: 6

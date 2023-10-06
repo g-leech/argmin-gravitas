@@ -8,7 +8,7 @@ author:     Gavin
 img:        /img/
 
 visible:    1
-published:  false
+published:  true
 
 summary:    
 quality:    
@@ -16,7 +16,7 @@ emotion:
 confidence: 
 importance: 
 wordcount:  
-categories: 
+categories: becoming
 ---
 
 <br>

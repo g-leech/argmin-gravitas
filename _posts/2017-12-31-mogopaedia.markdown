@@ -39,6 +39,10 @@ wordcount:
 
 <br>
 
+> I combed through the stuff I have that's on two of the computers in this house and I got seven demos for you. One or two of them haven't been released in any form I think. I don't know though. I don't keep such good track of what has or hasn't been released. Anyhow, these are just my way of saying how sorry I did not get to see you this month. It was going to be an awesome tour. It will still be awesome when we get back. Til then please accept these!Dudes who like to crosspost stuff from this forum to another/on your lj/etc etc, I wish you wouldn't, I can't stop you, there I've said my piece.
+
+<br>
+
 > John has repeatedly threatened on social media that when he dies, all his notebooks and tapes and hard drives die with him. Very conservatively, there's probably 100-200 songs floating around John's office that could be considered more or less finished.
 
 <br>

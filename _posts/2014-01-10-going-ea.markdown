@@ -17,7 +17,7 @@ importance: 9
 emotion: 	9
 wordcount:  
 warnings:	suicide, people making the perfect the enemy of the good.
-categories: effective-altruism
+categories: effective-altruism, becoming
 ---
 
 {%		include ea/links.md		%}
