@@ -15,7 +15,7 @@ summary:    A compressed version of what's important to me.
 categories: 
 importance: 9
 wordcount:      1000
-categories: self-representation, lists, philosophy
+categories: self-representation, lists, philosophy, becoming
 ---
 
 {%  include fivebooks/style.html %}

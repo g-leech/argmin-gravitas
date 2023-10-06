@@ -17,7 +17,7 @@ importance: 7
 emotion:    9
 wordcount:  
 warnings:   vague, sentimental, never endorsed. 
-categories: effective-altruism
+categories: effective-altruism, becoming
 ---
 
 

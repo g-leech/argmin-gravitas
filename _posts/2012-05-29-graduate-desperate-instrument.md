@@ -17,7 +17,7 @@ importance: 5
 emotion: 	8
 warnings: 	
 wordcount:  400
-categories: 
+categories: becoming, work, philosophy, academia, effective-altruism
 argument:	
 ---
 

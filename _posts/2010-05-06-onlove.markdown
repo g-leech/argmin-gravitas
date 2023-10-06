@@ -17,6 +17,7 @@ importance: 6
 emotion:    8
 wordcount:  2000
 argument:   
+categories: becoming
 ---
 
 <!-- https://afterallitcouldbeworse.blogspot.com/2013/11/mathematical-desire.html -->

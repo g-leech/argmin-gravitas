@@ -12,7 +12,7 @@ visible:    1
 
 summary:    A living, breathing demonstration of the limits of philosophy.
 confidence: 70%. My knowledge of modern epistemology has eroded a lot in 8 years.
-categories: philosophy, ethics-of-belief, epistemology
+categories: philosophy, ethics-of-belief, epistemology, becoming
 warnings:   
 importance: 5
 emotion: 	7

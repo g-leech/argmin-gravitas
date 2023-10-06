@@ -164,6 +164,8 @@ One way to cut through the noise of chart music is to go past the face of it. As
 
 ### <a href="{{schl}}">Adam Schlesinger</a>
 
+### Soulquarians
+
 ### <a href="{{rob}}">Steve Robson</a>
 
 ### <a href="{{xeno}}">Xenomania</a> (Girls Aloud, Sugababes, Annie)

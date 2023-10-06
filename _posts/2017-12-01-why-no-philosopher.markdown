@@ -16,7 +16,7 @@ confidence:	Polemic
 importance: 4
 pride:		7
 wordcount:	3000
-categories: long-content, philosophy
+categories: long-content, philosophy, becoming
 cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philosopher
 ---
 
