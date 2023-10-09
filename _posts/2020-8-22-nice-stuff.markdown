@@ -176,7 +176,8 @@ _Cost per year_: £250
 
 ## Travel
 
-* Airalo eSIMs. https://play.google.com/store/apps/details?id=com.mobillium.airalo&hl=en_GB&gl=US
+* [Airalo eSIMs](https://play.google.com/store/apps/details?id=com.mobillium.airalo) (£15). Finally, the solution to data when travelling. As soon as you land, in the airport, any time of day. Currently you need a newer phone to use eSIMs though. 
+_Cost per year_: £60
 
 * <a href="{{berg}}">Berghaus Freeflow 35+8 backpack</a> (£80). This has a clever mechanism at the back to shrink and grow the volume by 25%, and also a harness to leave a gap between your back and the bag, preventing deathly hike sweats. On extra small mode it fits even stingy Ryanair airline cabin requirements (there's some optical illusion about you wearing your cabin bag on your back, I've never been bothered about it in 43L mode. (If you wear two jumpers and a jacket just for passing through the gate, 35L is two weeks' basics, no cabin bag.) I've had this for 8 years, maybe 100 difficult trips including long haul airports and 1km mountains, and it's fine.<br>
 _Expected lifespan_: 'Lifetime guarantee'. (20 years?)<br>
