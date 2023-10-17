@@ -29,9 +29,7 @@ wordcount:
 
 <br>
 
-> 8 to 20 On a Weapons Charge is a bonus track from <b>1 copy</b> of Taking the Dative.
-
-<!-- > ...A Leonard Cohen cover found at the end of certain copies of Transmissions to Horace -->
+> 8 to 20 On a Weapons Charge is a bonus track from <b>1 copy</b> of Taking the Dative... YouTube user DoctorSinatra discovered [Like A Bullet] on a "beat up old cassette" he found, where it was the only song on the tape salvageable. <!-- > ...A Leonard Cohen cover found at the end of certain copies of Transmissions to Horace -->
 
 <br>
 
@@ -45,7 +43,17 @@ wordcount:
 
 > John has repeatedly threatened on social media that when he dies, all his notebooks and tapes and hard drives die with him. Very conservatively, there's probably 100-200 songs floating around John's office that could be considered more or less finished.
 
+> So many of these don't even have recordings that have left JD's possession so good luck I really hope some surface
+
+> They were all in Nall's closet but Nall burnt those tapes years ago.
+
 <br>
+
+> I was writing these poems called 'Songs from Point Alpha Privative', and, uh, but I was discovering with poems, nobody wanted to read any poems. You show up, you show up with your poems, people, they're busy, they have a thing to do. But if you're writing poems, probably, like, I'd like some attention for these poems, it's why I write them, because I need attention. So I started setting them to music, and then they seemed less offensive
+
+<br>
+
+> let fiction be fiction
 
 <br>
 
@@ -99,7 +107,28 @@ https://www.youtube.com/watch?v=tWvkQqukPLg
 
 > there's a sense in which if you know everything about your work while you're doing it, then it's probably not very interesting work. It needs to in some ways be obscure to you. You have to be trying to chase something that you can't quite get.
 
+
+<br><br>
+
+## Why ?
+
+We shouldn't dismiss his hostility. The line between something being a thought and an artefact is thin. We lay claim to his thoughts. We harvest the time-bound and scarce thoughts and freeze them, chain them to our phones. He takes some of them back.
+
+We don't even need to push a cynical line about scarce things being more desirable.
+
+> How do we know these songs ever existed if he never played them live?
+
+<br><br>
+
+THING IS THOUGH he is extremely familiar with and in recovery from the fan mindset, the speedfreak alphabetization.
+
+
+<br><br>
+
+
 ## Eras
+
+Profound shift. Not just sound, not just lyrical attitude. From alone to jam band, raw live to overproduction.
 
  <!-- Stephen Malkmus, Colin Newman  -->
 1. Acoustic thrash + nasal wail + panasonic + Shrimper + Young David Byrne / Tim Kinsella face (1985 - 2001). Divorces looming and mythologies coursing through the young.
@@ -107,6 +136,8 @@ https://www.youtube.com/watch?v=tWvkQqukPLg
 3. Bandy band band. Power trio. Cool Dr. habil. jaja. (2012 - 2017). Also horns.
 4. Lounge four-piece flirting with jangle, country-rock, and mere autobiography (Piano + horns + saccharine sprechgesang + Merge + lookin like Serj Tankian and Anton Chigurh). Fatherhood. (2017 - Present)
 
+The vocals go really country.
+https://www.youtube.com/watch?v=KgJ8qqebM8g
 
 I can't stand (4) but it's largely just my allergy to the jazz keyboard hammond mellotron reverb and muted melisma muso production. Luckily he releases most of em as demos - better sound quality than 1993 cassettes and sometimes the same fire. Makes a 6 out of a 4 and an 7 out of a 5.
 
@@ -283,3 +314,4 @@ Well now <em>yes</em>. <i>All Eternals Deck</i> is just that, retaining the perf
 * [Richard O’Brien](https://thirtyyearslater.substack.com/s/now-here-we-are-thirty-years-later)
 * [Kyle Barbour]()
 * [Poetry](http://lastplanetojakarta.com/)
+* [Flotsam](https://johndarnielle.tumblr.com/)
