@@ -9,14 +9,17 @@
 }
 
 .bris {
-	display:inline-block;
-  text-align: center;
-/*	padding-top: 3em;*/
-/*	padding-right: 1em !important;*/
-	vertical-align: middle;
 }
 
-	.frame{
+.hoverable:hover {
+  	fill: #DA4567;
+}
+
+.hoverable:active {
+  	fill: #ffffff;
+}
+
+.frame{
 	    margin-top: 2em;
     	margin-bottom: 2em;
 	    width: 100%;
