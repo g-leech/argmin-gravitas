@@ -110,10 +110,11 @@ It's hard to choose between Sichuan and Mexico for #1 so I guess I choose the in
 1. Sichuan
 2. Mexican
 3. South Indian 
-4. Sicilian 
-5. Neapolitan
 5. Nepalese
+5. Balkan
+4. Sicilian 
 5. Korean
+5. Neapolitan
 6. Hunan
 6. Cantonese
 8. North Indian

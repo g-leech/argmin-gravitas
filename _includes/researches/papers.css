@@ -8,33 +8,31 @@
 	text-underline-offset: 3.5px;
 }
 
-.ai-google-scholar, .bris, .ai-orcid {
+.bris {
 	display:inline-block;
   text-align: center;
-  padding-right: 20px;
-  vertical-align:middle;
+/*	padding-top: 3em;*/
+/*	padding-right: 1em !important;*/
+	vertical-align: middle;
+}
+
+	.frame{
+	    margin-top: 2em;
+    	margin-bottom: 2em;
+	    width: 100%;
+	    max-width: 600px;
+	    display: flex;
+	    text-align: center;
+	    align-items: center;
+	    justify-content: center;
+	}
+
+.orcid {
+	margin-top: 2em;
+  	width: 72%;
 }
 
 
-.ai-orcid:hover {
-	color: #006800;
-
-}
-
-.ai-google-scholar:hover {
-	color: #006800;
-}
-
-
-.bris {
-	width: 20%;
-	padding: 10px;
-}
-
-.bris:hover {
-	border: 1px;	
-	padding: 9px;
-}
 
 tr>td {
   padding-bottom: 1.5em;
