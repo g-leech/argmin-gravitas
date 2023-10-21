@@ -27,11 +27,11 @@ img.bris {
 }
 
 .hoverable:hover {
-  	fill: #DA4567;
+  	fill: #FFAC1C;
 }
 
 .hoverable:active {
-  	fill: #ffffff;
+  	fill: #006800;
 }
 
 .frame{
