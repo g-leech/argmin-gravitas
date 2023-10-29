@@ -5,7 +5,7 @@ baselink:   /brainwash
 permalink:  /brainwash
 date:       2012-03-09
 author:     Gavin   
-img:        /img/
+img:        /img/obey.jpg
 
 visible:    1
 published:  true
