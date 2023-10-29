@@ -7,25 +7,44 @@ date:       2012-03-09
 author:     Gavin   
 img:        /img/
 
-visible:    0
-published:  false
+visible:    1
+published:  true
 
 summary:    Why ascribing false consciousness is risky, often false 
 quality:    4
 emotion: 	4
 confidence: 70%
-importance: 5
+importance: 7
 wordcount:  900
-categories: philosophy, politics, epistemology
+categories: philosophy, politics, epistemology, becoming
 argument:   brainwash/argument.html
 ---
+
+
 
 <!-- https://deaexmachinus.substack.com/p/machines-society-16-mass-sleeping -->
 
 {%	assign adorno = "https://aeon.co/essays/against-guilty-pleasures-adorno-on-the-crimes-of-pop-culture"	%}
 {%	assign orlando = "https://books.google.bs/books?id=zfuwDwAAQBAJ&pg=PA258&lpg=PA258&dq=%22stultifying+effects+of+popular+culture+on+the+Western+working+class%22&source=bl&ots=d-W4TURYYD&sig=ACfU3U1Kn1cbn7TZpSTt5zhGv43lG6K9PA&hl=en&sa=X&ved=2ahUKEwiDi5OBm-v1AhVSTDABHbO2An4Q6AF6BAgFEAM#v=onepage&q=%22stultifying%20effects%20of%20popular%20culture%20on%20the%20Western%20working%20class%22&f=false"		%}
+{%	assign heath = "https://events.vanderbilt.edu/live/files/406-critical-conspiracy-theorydocx"	%}
+<!-- https://web.archive.org/web/20231029113316/https://events.vanderbilt.edu/live/files/406-critical-conspiracy-theorydocx -->
+{%	assign rus = "https://www.nature.com/articles/s41467-022-35576-9"	%}
+{%	assign tw = "https://blog.twitter.com/official/en_us/topics/company/2017/Update-Russian-Interference-in-2016--Election-Bots-and-Misinformation.html"	%}
+{%	assign mb = "https://www.forbes.com/sites/michelatindera/2021/02/25/these-billionaire-donors-spent-the-most-money-on-the-2020-election/?sh=7edf6ce314ce"	%}
+{%	assign vid = "https://www.apa.org/news/press/releases/2020/03/violent-video-games-behavior"	%}
+{%	assign porn = "https://www.sciencedirect.com/science/article/pii/S0160252709000715"	%}
+{%	assign ad = "https://www.tandfonline.com/doi/abs/10.1080/135048596356393"	%}
 
 
+<br>
+
+#### 10 years later, Heath did my argument much better than me, <a href="{{heath}}">here</a>.
+
+<br> 
+
+<hr />
+
+<br>
 
 > I can only suggest that he would combat false consciousness to awaken people to their true interests has much to do, because the sleep is very deep. And I do not intend here to provide a lullaby but merely to sneak in and watch the people snore.
 
@@ -48,29 +67,32 @@ argument:   brainwash/argument.html
 
 ## First-order psychology
 
-- electoral interference.
-- Body image,
-- Violent videogames
-- Porn
-- Advertising
+One extremely common claim in popular writing about society and the mind is that _people are being dramatically influenced_ by malign or uncaring forces.
+
+- <a href="{{rus}}">electoral interference</a> (online ads controlling your votes)
+- <a href="{{ad}}">online ads</a> (controlling your self-esteem or body image or altering your desires)
+- <a href="{{vid}}">violent videogames</a> (videogames turning you into a crim)
+- <a href="{{porn}}">porn</a> (controlling your beliefs about sex, or humanity in general, or again turning you into a crim)
+<!-- - Advertising in general  -->
 
 
-What is this idea that the Russians can spend $0.1m and totally pervert American discourse, but that Michael Bloomberg can spend $700m and die on his feet? (Do the Russian really understand America 10,000 times better than the Bloomberg campaign? Does taking the gloves off allow you to do this much better?)
+What is this idea, that the Russians can spend <a href="{{tw}}">$0.5m</a> and totally pervert American political process, while Michael Bloomberg can spend <a href="{{mb}}">$1,100m</a> and die on his feet? (Do the Russian really understand America 10,000 times better than the Bloomberg campaign? Does taking the gloves off allow you to do this much better?)
 
-Hegemony. Chomskyan consent.
+Call this view, in which humans are extremely easily programmable, a first-order model of human psychology. Input means output. You are being incepted and psyoped all the time, and it works.
 
-Foucauldian biopower.
+<br>
 
 ## Radicalism implies that everyone is brainwashed
 
-Many interesting theories accuse us of being brainwashed: "You lack information; now, open your eyes":
+
+But it's not just journalists who are absurd about the size and simplicity of these effects. Many interesting "serious" academic theories accuse us of being brainwashed: "You lack information; now, open your eyes":
 
 People have this naive equivalence between a fantasy and a preference, a voluntary simulation and an increased inclination to _do_
 
 
 <!-- Tectonics (on solid ground) -->
 
-the unconscious mind (you're so unconscious you don't realise you've a massive unconscious)
+* the unconscious mind (you're so unconscious you don't realise you've a massive unconscious)
 
 <!-- Relativity (space-and-time is squishy; no space without objects; no one thing can move)
 
@@ -78,16 +100,17 @@ the Everett interpretation (all possible things actually happen)
 
 the germ theory of disease (the world's so dirty you've no idea how dirty) -->
 
-Radical feminism (you're so oppressed you don't know you're oppressed, and/or you're so sexist you don't know you're sexist)
+* Radical feminism (you're so oppressed you don't know you're oppressed, and/or you're so sexist you don't know you're sexist)
 
-Or more generally Critical theory (you're so oppressed you don't know you're oppressed).
+* Or more generally Critical theory (you're so oppressed you don't know you're oppressed).
 
-eliminative materialism (you're so evolved you don't know you're evolved)
+* eliminative materialism (you're so evolved you don't know you're evolved)
 
-Wittgenstein II (you're so linguistic you're constantly lost in the woods of your words)
+* Wittgenstein II (you're so linguistic you're constantly lost in the woods of your words)
 
-genealogies of anything (you're such a slave you don't know you're a slave),
+* genealogies of anything (you're such a slave you don't know you're a slave),
 
+* Gramscian Hegemony. Chomskyan consent. Foucauldian biopower.
 
 <!-- I don’t know that I do suffer as a result of identifying with my thoughts; I don’t think that dissatisfaction lurks in every sensation I ever experience or also my whole life in retrospect. But the old claim, similar to Marxist or feminist ‘false consciousness’, is that I am too owned to realise I’m being owned: -->
 
@@ -191,6 +214,7 @@ Two problems with treating it as an end:
 
 ## See also
 
+* <a href="{{heath}}">The great Joseph Heath</a>
 * [Mako Shen](https://deaexmachinus.substack.com/p/machines-society-16-mass-sleeping) on dream arguments, false consciousness, and the nervous energy currently called woke.
 
 

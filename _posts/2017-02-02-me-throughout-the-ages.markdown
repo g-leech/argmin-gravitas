@@ -24,8 +24,8 @@ categories: becoming
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-yw4l{vertical-align:top}
 </style>
 <table class="tg">
@@ -43,7 +43,7 @@ categories: becoming
   </tr>
   <tr>
     <td class="tg-yw4l">Boomer<br><small>(fl. 1975)</small><br></td>
-    <td class="tg-yw4l">Computer programmer *<br></td>
+    <td class="tg-yw4l">Computer programmer <a href="#fn:1" id="fnref:1">1</a><br></td>
     <td class="tg-yw4l">Consequentialist</td>
     <td class="tg-yw4l">Extropian</td>
   </tr>
@@ -63,7 +63,7 @@ categories: becoming
     <td class="tg-yw4l">Early Modern<br><small>(fl. 1650)</small></td>
     <td class="tg-yw4l">Law?<br>Belletrist.</td>
     <td class="tg-yw4l"><a href="https://en.wikipedia.org/wiki/Tractatus_Theologico-Politicus">Dutch</a> <a href="https://en.wikipedia.org/wiki/Hugo_Grotius">liberalism</a> <br>/ Leveller / Quaker</td>
-    <td class="tg-yw4l">Baconian optimism ***</td>
+    <td class="tg-yw4l">Baconian optimism<a href="#fn:3" id="fnref:3">3</a></td>
   </tr>
 
   <tr>
@@ -74,12 +74,12 @@ categories: becoming
   </tr>
   <tr>
     <td class="tg-yw4l">Middle ages <br><small>(fl. 1200)</small></td>
-    <td class="tg-yw4l">"gramarien, retoriki, <br>filofer, geometrer, <br>logissian" **<br></td>
+    <td class="tg-yw4l">"gramarien, retoriki, <br>filofer, geometrer, <br>logissian" <a href="#fn:2" id="fnref:2">2</a><br></td>
     <td class="tg-yw4l"><a href="https://en.wikipedia.org/wiki/Thomism#Ethics">Thomist</a><br> by default</td>
     <td class="tg-yw4l"><a href="https://en.wikipedia.org/wiki/Millennialism">Millennialism</a><br> by default</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">...</small></td>
+    <td class="tg-yw4l">...</td>
     <td class="tg-yw4l">...<br></td>
     <td class="tg-yw4l">...</td>
     <td class="tg-yw4l">...</td>
@@ -108,14 +108,26 @@ categories: becoming
 
 </div>
 
-<br><br><br>
-<blockquote>
-* <i>Maybe</i> "<a href="https://en.wikipedia.org/wiki/Expert_system">expert system</a> designer".<br><br>
+<div class="footnotes">
 
-** More likely lay clergy. If we're going by birth rather than affinity I would be a "turnip herder".<br><br>
+<ol>
+    <!-- 1 -->
+  <li class="footnote" id="fn:1">
+    <i>Maybe</i> "<a href="https://en.wikipedia.org/wiki/Expert_system">expert system</a> designer".
+  </li>
 
-*** The object of which is more or less our present day.
-</blockquote>
+  <li class="footnote" id="fn:2">
+    More likely lay clergy. If we're going by birth rather than affinity, turnip-herd.
+  </li>
+
+  <li class="footnote" id="fn:3">
+    The object of which is more or less our present day.
+  </li>
+
+</ol>
+
+</div>
+
 
 
 <br><br><br>
