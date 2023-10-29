@@ -67,28 +67,40 @@ visible:	true
 <br><br>
 
 
-### Popular
+<div class="accordion">
+	<h3>Popular</h3>
+	<div>
+		<ul>
+		<li> <a class="noline" href="{{ifp}}">Can policymakers trust forecasters?</a> (2023)</li>
+		<li> Total rewrite of the <a class="noline" href="{{wiki}}">AI alignment wikipedia page</a> with Mantas Manzeikas and Sören Mindermann (2022)</li>
+		<li> Some shallow investigations of modern psychometrics and <a class="noline" href="{{talent}}">talent scouting</a> (2023).</li>
+		<li> <a class="noline" href="{{big3}}">Scoring the Big Three</a> (2022)</li>
+		<li> <a class="noline" href="{{kulveit}}">Learning from crisis</a> (2022)</li>
+		<li> <a class="noline" href="{{supers}}">Comparing top forecasters and domain experts</a> (2022)</li>
+		<li> <a  class="noline" href="{{nat}}">Reversals in psychology</a> (2020)</li>
+		<li> <a  class="noline" href="{{academic_safety}}" target="_blank">The academic contribution to AI safety seems large</a> (2020)</li>
+		<li> <a  class="noline" href="{{xrisk}}" target="_blank">Existential risk as common cause</a> (2018)</li>
+		<li> <a  class="noline" href="/grids" target="_blank">Side effects in Gridworlds</a> (2018). <a href="{{gridcite}}">Developed further</a>.</li>
+		</ul>
+	</div>
+<!--  -->
+	<h3>Service</h3>
+	<div>
+		<ul>
+			<li> Briefed the UK Cabinet Office <a href="{{ctf}}">COVID-19 Task Force</a> on mask policy.</li>
+			<li> Briefed the UK Cabinet Office on AI economics.</li>
+			<li> Reviewer for <a href="{{pnas}}">PNAS</a>, <a href="{{ml}}">Machine Learning</a>, <a href="{{bmj}}">BMJ Global Health</a>, <a href="{{bmc}}">BMC Medicine</a>, <a href="{{aisc}}">AI Safety Camp</a>, <a href="{{pib}}">PIBBSS</a>.</li>
+			<li> Created a <a href="{{zotero}}">1000-paper bibliography</a> on every angle of the AI problem.</li>
+		</ul>
+	</div>
+<!--  -->
+	<h3>Service</h3>
+		<div>
+			<ul>
+			</ul>
+</div>
 
-* <a class="noline" href="{{ifp}}">Can policymakers trust forecasters?</a> (2023)<br><br>
-* Total rewrite of the <a class="noline" href="{{wiki}}">AI alignment wikipedia page</a> with Mantas Manzeikas and Sören Mindermann (2022)<br><br>
-* Some shallow investigations of modern psychometrics and <a class="noline" href="{{talent}}">talent scouting</a> (2023).<br><br>
-* <a class="noline" href="{{big3}}">Scoring the Big Three</a> (2022)<br><br>
-* <a class="noline" href="{{kulveit}}">Learning from crisis</a> (2022)<br><br>
-* <a class="noline" href="{{supers}}">Comparing top forecasters and domain experts</a> (2022)<br><br>
-* <a  class="noline" href="{{nat}}">Reversals in psychology</a> (2020)<br><br>
-* <a  class="noline" href="{{academic_safety}}" target="_blank">The academic contribution to AI safety seems large</a> (2020)<br><br>
-* <a  class="noline" href="{{xrisk}}" target="_blank">Existential risk as common cause</a> (2018)<br><br>
-* <a  class="noline" href="/grids" target="_blank">Side effects in Gridworlds</a> (2018). <a href="{{gridcite}}">Developed further</a>.
 
-
-<br>
-
-### Service
-
-* Briefed the UK Cabinet Office <a href="{{ctf}}">COVID-19 Task Force</a> on mask policy.<br><br>
-* Briefed the UK Cabinet Office on AI economics.<br><br>
-* Reviewer for <a href="{{pnas}}">PNAS</a>, <a href="{{ml}}">Machine Learning</a>, <a href="{{bmj}}">BMJ Global Health</a>, <a href="{{bmc}}">BMC Medicine</a>, <a href="{{aisc}}">AI Safety Camp</a>, <a href="{{pib}}">PIBBSS</a>.<br><br>
-* Created a <a href="{{zotero}}">1000-paper bibliography</a> on every angle of the AI problem.
 
 
 <br>

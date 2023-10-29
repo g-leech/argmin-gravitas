@@ -13,7 +13,7 @@ visible:	false
 
 <center>
   <h1 class="titl">
-    💪 Work 💪
+    💪 &nbsp;Work&nbsp; 💪
   </h1>
 </center>
 
@@ -23,20 +23,38 @@ visible:	false
 
 <hr />
 
+{%  include cv/award.md  %}
+
+<hr />
+
 <br>
 
 
 <center>
   <h1 class="titl">
-    📃
+    📃 &nbsp;
     <br class="break">
-    <a class="pubs" href="/researches">Publications</a>
+    <a class="pubs" href="/researches">Publications</a> &nbsp;
     <br class="break">
     📃
   </h1>
 </center>
 
 <br>
+
+
+
+* <time>
+    <a class="noline" href="/researches">
+      Steering Language Models Without Optimisation
+    </a>
+    <span style="font-weight: normal;">
+      (2023),<br>
+      <i>AAAI</i>
+    </span>
+<br><br>
+
+
 
 * <time>
     <a class="noline" href="/researches">
@@ -46,7 +64,7 @@ visible:	false
       (2023),<br>
       <i>UAI</i>
     </span>
-<br>
+<br><br>
 
 * <time>
       <a class="noline" href="/researches">Inferring the effectiveness of government interventions against COVID</a>
@@ -83,101 +101,7 @@ visible:	false
 
 <hr />
 
-<br>
-
 {%  include cv/ed.html  %}
-
-
-
-<br><br>
-
-<hr />
-
-<br>
-
-<center>
-  <h1 class="titl">
-    🏆
-    <br class="break">
-    Awards
-    <br class="break">
-    🏆
-  </h1>
-</center>
-
-
-<section class="timeline cv prize">
-  <ul>
-<!--      <li>
-      <div>
-        <time>
-          2022
-        </time>
-        Open Philanthropy Early Career Funding
-      </div>
-    </li> 
--->
-    <!--  -->
-     <li>
-      <div>
-        <time>
-          2022
-        </time>
-        Residencies: Prague Fall Season, Mexico EA Fellowship
-      </div>
-    </li>
-<!--  -->
-<!--  -->
-     <li>
-      <div>
-        <time>
-          2021
-        </time>
-        <a href="{{tc}}">Emergent Ventures</a> grant for a few wild ideas.
-      </div>
-    </li>
-    <!--  -->
-    <li>
-      <div>
-        <time>
-          2021
-        </time>
-        1st prize, <a href="{{amoc}}">Advanced Modelling of Cybercrime</a> hackathon.
-      </div>
-    </li>
-    <!--  -->
-    <li>
-      <div>
-        <time>
-          2020
-        </time>
-        <a href="{{aiac}}">EA Forum Prize</a>, modelling AI safety
-      </div>
-    </li>
-    <!--  -->
-    <li>
-      <div>
-        <time>
-          2020
-        </time>
-        1st place in the <a href="{{vtf}}">Value Forecasting Tournament</a>.
-      </div>
-    </li>
-    <!--  -->
-    <li>
-      <div>
-        <time>
-          2019
-        </time>
-        UKRI studentship for PhD (~$150k).
-      </div>
-    </li>
-
-</ul>
-</section>
-
-
-<br><br>
 
 <hr />
 
@@ -188,7 +112,7 @@ visible:	false
   <h1 class="titl">
    🐞
    <br class="break">
-   Tech
+   &nbsp;Tech&nbsp;
    <br class="break">
    🐞 
   </h1>
@@ -206,7 +130,7 @@ Brought modern language modelling (Flair) into Prolog for some reason.
 <br>
 
 * <time><a href="{{masksman}}">Masks V Mandates</a> (2021):</time>
-Journal-grade modern Bayesian workflow in PyMC3. Probabilistic programming for epidemic modelling and effect estimation. End to end with data getters.
+Policy-grade modern Bayesian workflow in PyMC3. Probabilistic programming for epidemic modelling and effect estimation. End to end with data getters.
 
 <br>
 
@@ -251,7 +175,7 @@ Solving little computational maths problems. Gimmick is I don't import anything.
 
   🙋 
   <br class="break">
-  Volunteering 
+  &nbsp;Volunteering&nbsp;
   <br class="break">
   🙋
   </h1>

@@ -11,12 +11,12 @@ published:	false
 visible: 	1
 quality: 	4
 emotion:    8
+importance: 2
 
 summary:    Ranking all 800 songs
 confidence:	99%
 categories: 
 warnings:	
-importance: 2
 wordcount:		
 ---
 
@@ -82,7 +82,7 @@ Once you're no longer in the day job, you don't know what's going on with people
 
 Lots going on. Ex-con. Recovered junkie. Quasi-Christian. English major / classicist lifelong-learner type. Metalhead. Dad. MTG nerd. Twitter liberal. Strong opinions about contemporary French translation.
 
-Scholar-novel
+Scholar-novel. The key is outcasts, the equivalence of heretics and scapegoats, speedfreaks and metalheads in rural Christian towns. Despite his own deep vibing with Christianity!!
 
 The greatest song about democracy.
 
