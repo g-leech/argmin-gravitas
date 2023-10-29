@@ -45,7 +45,6 @@
 			<a href="{{hans}}">Robin Hanson</a>, <br>
 			<a href="{{nint}}">Jose Ricon</a>, <br>
 			<a href="{{farrell}}">Henry Farrell</a>; <br>
-			(Crooked Timber taught<br> me a <i>lot</i>)<br>
 			<a href="{{heal}}">Kieran Healy</a>; <br>
 			<a href="{{heath}}">Joseph Heath</a>; <br>
 			<a href="{{kun}}">Jeremy Kun</a>; <br>
@@ -69,7 +68,6 @@
 			<a href="{{luu}}">Dan Luu</a>, <br>
 			<a href="{{evo}}">Evolution is Just a Theorem</a>, <br>
 			<a href="{{white}}">John Myles White</a>, <br>
-			<a href="{{noah}}">Noah Smith</a>; <br>
 			<a href="{{milan}}">Milan Griffes</a>, <br>
 			<a href="https://twitter.com/robertwiblin">Robert Wiblin</a>, <br>
 			<a href="http://zackmdavis.net/blog/">Zack Davis</a>, <br>
