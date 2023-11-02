@@ -71,3 +71,4 @@
 {%  assign pib = "https://pibbss.ai/"   %}
 {%  assign ifp= "https://progress.institute/can-policymakers-trust-forecasters/"    %}
 {%  assign actaddl = "https://arxiv.org/abs/2308.10248"    %}
+{%  assign fli = "https://fli.smapply.org/res/p/postdoc-fellowship-ai/" %}
