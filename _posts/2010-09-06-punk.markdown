@@ -42,7 +42,7 @@ where:      "Aberdeen, Scotland"
 	<p style="line-height:5px">– Greg Graffin</p>
 
 </div>
-<br>
+<br><br>
 
 
 Punk is ancient: say 40 years old. Anything this old in the modern age will in fact be several different things uneasily sharing a name. <a href="#fn:3" id="fnref:3">3</a>
@@ -52,7 +52,7 @@ It's easy to view punk as necessarily political and necessarily left-wing. But n
 At first, punk was <i>negative</i>: defined by its opposition and not a positive programme; and also as in nihilistic and downbeat, focussing on the worst things in the world for aesthetic reasons.
 
 <u><a href="{{spot}}">For best effects, set this playlist going before you continue.</a></u>
-<br><br>
+<br><br><br><br>
 
 
 {%	include punk/history.md	%}

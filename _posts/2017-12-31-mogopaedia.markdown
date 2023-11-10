@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Every Mountain Goats Song that has Been Recorded and Does Not Have a Death Geas Placed Upon It By Its Author"
+title:      "Every Mountain Goats song ever recorded and which does not have a Death Geas placed upon it by its Author"
 baselink:   /mogos
 permalink:  /mogos
-date:       2017-12-31  <!--site.time-->
+date:       2023-12-31  <!--site.time-->
 author:     Gavin
 
 img:        /img/
@@ -20,12 +20,28 @@ warnings:
 wordcount:		
 ---
 
+<!-- This post took me 6 years to write. -->
+
 {%  assign horse = "https://www.mountain-goats.com/forums/read.php?2,107305,page=4"    %}
 {%  assign detail = "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"   %}
-
+{%  assign mays = "https://www.goodreads.com/review/show/3174238831"    %}
+{%  assign adap = "https://academic.oup.com/mind/article/127/508/1003/5051681"  %}
+{%  assign ark = "https://www.youtube.com/watch?v=HttPrN3v1go" %}
+{%  assign fem = "https://rachelfershleiser.com/post/39668198789/and-the-rest-of-the-conversation" %}
+{%  assign THESHEET = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSnay8fn3PKCjQ9UidEPOFHGuy4QcubVOP8dX4CkKVVQt7KtW-9Eu6vWJDJA3LXUqyavtaM9lFZZYxY/pubhtml"  %}
 
 > Tracking live is like that. You're actually hearing something which actually happened.
 
+— I forget where I saw this, possibly <a href="{{mays}}">his intro</a> to The Mays XX
+
+<!-- I don't like the fact that nobody is playing stuff live onto a record how the Sun sessions did...  -->
+<!-- http://web.archive.org/web/19990427042719/http://mb1.musicblvd.com/cgi-bin/tw/288145857327820_105_4973 -->
+
+<br>
+
+> I was writing these poems... but... nobody wanted to read any poems. You show up, you show up with your poems, people, they're "busy", they "have a thing to do". But if you're writing poems, probably like, [you'd] like some attention for these poems - it's why I write them, because I _need_ attention. So I started setting them to music, and then they seemed less offensive then... 
+
+<!-- https://themountaingoats.fandom.com/wiki/One_Winter_at_Point_Alpha_Privative -->
 
 <br>
 
@@ -37,9 +53,6 @@ wordcount:
 
 <br>
 
-> I combed through the stuff I have that's on two of the computers in this house and I got seven demos for you. One or two of them haven't been released in any form I think. I don't know though. I don't keep such good track of what has or hasn't been released. Anyhow, these are just my way of saying how sorry I did not get to see you this month. It was going to be an awesome tour. It will still be awesome when we get back. Til then please accept these!Dudes who like to crosspost stuff from this forum to another/on your lj/etc etc, I wish you wouldn't, I can't stop you, there I've said my piece.
-
-<br>
 
 > John has repeatedly threatened on social media that when he dies, all his notebooks and tapes and hard drives die with him. Very conservatively, there's probably 100-200 songs floating around John's office that could be considered more or less finished.
 
@@ -49,25 +62,32 @@ wordcount:
 
 <br>
 
-> I was writing these poems called 'Songs from Point Alpha Privative', and, uh, but I was discovering with poems, nobody wanted to read any poems. You show up, you show up with your poems, people, they're busy, they have a thing to do. But if you're writing poems, probably, like, I'd like some attention for these poems, it's why I write them, because I need attention. So I started setting them to music, and then they seemed less offensive
+> I combed through the stuff I have that's on two of the computers in this house and I got seven demos for you. One or two of them haven't been released in any form I think. I don't know though. I don't keep such good track of what has or hasn't been released. Anyhow, these are just my way of saying how sorry I did not get to see you this month... Dudes who like to crosspost stuff from this forum to another/on your lj/etc etc, I wish you wouldn't, I can't stop you, there I've said my piece.
+
+<br>
+
 
 <br>
 
 > let fiction be fiction
 
-<br>
+<!-- https://johndarnielle.tumblr.com/post/171097785911/is-it-weird-if-people-name-their-artistic -->
+
+<br><br>
 
 Reality has a lot of <a href="{{detail}}">lore</a>. But not enough, so we make more.
 
 The world of the Mountain Goats is an entire little world, with fallen civilizations and frightening violence and opinions about little truck stops outside Gothenburg. It has a history _and a historiography_.
 
-Many of my tasteful friends disdain even his soft hi-fi work, and some of my tasteless friends are much enamoured of the lot. Just like anyone, I cannot rule out 'adaptive preferences', that I like it because I've put a lot into it.
+Many of my tasteful friends disdain even his softer hi-fi work, and some of my tasteless friends are much enamoured of the whole lot. Just like anyone, I cannot rule out that I like it <a href="{{adap}}">because</a> I've put a lot of work into it.
 
-There's just a lot to it. He has a lot to say, a lot to remember. He does a dozen interviews a year, and I watch em all, and he remains full of new stories, recommendations, enthusiasms and disgusts. 
+There's just a lot to it. He has a lot to say, a lot to remember. He does a dozen interviews a year, and I watch em all, and he remains full of new stories, recommendations, enthusiasms and disgusts. He writes where others only output text.
 
-You might think that writing this makes me some kind of superfan but I am not. I only ever bought the CDs.
+You might think that writing this long post makes me some kind of superfan but I am not. (I only ever bought the CDs.)
 
-You could view this as ingenious marketing except most people don't know and don't care
+It's impossible to be the Darnielle completist I am. On top of the maybe 400 commercial objects, are <a href="{{THESHEET}}">way more</a> than 400 tracks of arcana: a completed unreleased album, three dozen online-only ephemeral downloads, a hundred covers, a hundred live-only bootleg-only songs, a 30 known "missing" songs, dozens of songs with no attestation but a title or a verse, and who knows how many more we couldn't snatch from him out of the air. Thirteen songs are actively disowned and forbidden and he asks you not to listen; one or two are deprecated for <a href="{{fem}}">feminist</a> reasons. <a href="{{ark}}">Some of his best</a> have been performed exactly once, and probably never again.
+
+You _could_ view this as ingenious marketing (artificial scarcity _and_ artificial grandeur) except most people don't know and don't care about the 
 
 1. cut. higher standards than you'd think for a guy with 800 songs
 2. love of easter eggs and arcana
@@ -82,7 +102,11 @@ Once you're no longer in the day job, you don't know what's going on with people
 
 Lots going on. Ex-con. Recovered junkie. Quasi-Christian. English major / classicist lifelong-learner type. Metalhead. Dad. MTG nerd. Twitter liberal. Strong opinions about contemporary French translation.
 
-Scholar-novel. The key is outcasts, the equivalence of heretics and scapegoats, speedfreaks and metalheads in rural Christian towns. Despite his own deep vibing with Christianity!!
+Scholar-novel. The key is outcasts, the equivalence of heretics and scapegoats, speedfreaks and metalheads in rural Christian towns. Despite his own deep vibing with Christianity!! SFPC is about Christianity destroying paganism in deeply unchristian* brutality
+
+\* that is, doing so in a fashion which is very Christian empirically, but not very Christian normatively
+
+
 
 The greatest song about democracy.
 
@@ -104,15 +128,33 @@ http://web.archive.org/web/20220124123314/https://kylebarbour.org/tmg/
 https://www.youtube.com/watch?v=tWvkQqukPLg
 
 
+## Things he has some scholarly grasp of
 
-> there's a sense in which if you know everything about your work while you're doing it, then it's probably not very interesting work. It needs to in some ways be obscure to you. You have to be trying to chase something that you can't quite get.
+Latin grammar
+Black Sabbath
+Early education
+The original wave of Dungeons and Dragons and the Satanic Panic
+American professional wrestling in its regional days (NWA, UWF, AWA) before corporatization
+The lo-fi and cassette scene of Pomona County, California (1988-1999)
+The folk history of North Carolina
+The nursing of juveniles involuntarily committed to mental institutions
+Ancient history and dark age Europe
+    The history of the Christianisation of the pagans of Greece and the Balkans
 
 
 <br><br>
 
 ## Why ?
 
-We shouldn't dismiss his hostility. The line between something being a thought and an artefact is thin. We lay claim to his thoughts. We harvest the time-bound and scarce thoughts and freeze them, chain them to our phones. He takes some of them back.
+> there's a sense in which if you know everything about your work while you're doing it, then it's probably not very interesting work. It needs to in some ways be obscure to you. You have to be trying to chase something that you can't quite get.
+
+> The unused [tracks] that still seem interesting to me are here as bonus tracks; there was once a third tape of the stuff I kept writing after I felt like I had enough for the album, but I threw a tempter tantrum one day years later and pitched it into the garbage, which I'd almost regret doing, except that the idea of lost and unrecoverable work has this dumb romantic appeal to me, so when I think of that tape off in oblivion somewhere, rotting away, I get the sort of moony-eyed stupid look on my face that is the exclusive domain of dumb romantics.
+
+> Naturally, there's also more dumb romantic appeal for me in the degradation of original sources. I can't help it.
+
+<br>
+
+We shouldn't dismiss his hostility. The line between something being a thought and an artefact is now fiercely thin. We lay claim to his thoughts. We harvest the time-bound and scarce thoughts and freeze them, chain them to our phones. He takes some of them back.
 
 We don't even need to push a cynical line about scarce things being more desirable.
 
@@ -124,6 +166,29 @@ THING IS THOUGH he is extremely familiar with and in recovery from the fan minds
 
 
 <br><br>
+
+
+## The other Mountain Goat
+
+> [The Panasonic RX-FT500's] built-in condenser microphone didn't condense (that is, it didn't react to changes in volume by automatically contracting its diaphragm) unless the levels with which it found itself confronted were truly overwhelming, which never happened; meanwhile, oblivious to this tic of mass production, the machine's designers hadn't thought to situate the actual moving parts (that is, the gears) as far as cosmetically possible from this unusually sensitive microphone. The results were uncannily accurate representations of sound complemented and complicated by some pretty ferocious wheel-grind. 
+
+> Sometime around 1998, the Panasonic appeared to have breathed its last. When you'd punch "Record," a large triangular piece of plastic just to the left of the spindles would begin jutting in and out of the view frame, bringing with it a clicking noise whose arrhythmic clatter could in no way be incorporated into any songs one might be trying to record on such a low-tech piece of equipment. In the summer of 2000 6 having written a few new songs that took place in Texas and being frustrated with the uniform sound of the Marantz, we hauled the Panasonic out of its corner and gave it a shot, just in case it might have repaired itself during the long time it had spent standing all alone near the window.
+
+> The results are what you have with you now: the sound of a long-broken machine deciding, on its own and without the interference of repairmen or excessive prayer vigils, to function again... Its inexplicable self-originating will to go on echoes some of the boneheaded ideas that motivate the people who populate these little songs... 
+
+> Of course the original signal is never actually anywhere near any recordings anywhere, but you all already knew that. You have been sure of it for quite some time now. You see the proof everywhere. It is the reason you started reading these lines in the first place.
+
+<br>
+
+## Workin'
+
+> I don't remember when the album came out, or how it did, or whether it met with favorable reviews. By the time it got released I was pretty heavily into that job I'd been going through orientation for. it involved working with children in a residential setting: rich, rewarding work. I do remember bringing my first copy into work one day and playing in on the house boombox after the children had gone off to school. I watched the door closely and kept my hand near the player so my supervisor wouldn't come in just in time to hear her morning shift guy singing "hail, Satan" through the speakers, and I had few plans for the future except to keep working at all the things I liked working at. I didn't know, at the time, that this would be the last album I'd make where all the takes were live within minutes of having written the songs,
+
+
+> Once you're no longer in the day job, you don't know what's going on with people... Even if you're not a hermit, you're talking to people as an observer, and an observer can never know what a participant can know... I seemed to have less to say... If a writer disengages from people at large, his ability to describe the behaviour of people is going to suffer. 
+
+<!-- https://www.youtube.com/watch?v=wOT00y1rE-8 --> 
+
 
 
 ## Eras
@@ -139,14 +204,20 @@ Profound shift. Not just sound, not just lyrical attitude. From alone to jam ban
 The vocals go really country.
 https://www.youtube.com/watch?v=KgJ8qqebM8g
 
+
+
 I can't stand (4) but it's largely just my allergy to the jazz keyboard hammond mellotron reverb and muted melisma muso production. Luckily he releases most of em as demos - better sound quality than 1993 cassettes and sometimes the same fire. Makes a 6 out of a 4 and an 7 out of a 5.
 
-It is the prerogative of the long time fan to get arsey about changes of direction and scream the names of the cult classics; it is the prerogative of the artist to pay literally zero attention.
+OK it's not just the sound shift but also the themes and AA-meeting flabby humanism. for GOD'S sake man i don't want your warmth and i don't need your acceptance. _Bleed Out_ is passable because the old sociopathy and mental illness comes back.
+
+> Wild Sage was really the first song I ever wrote about mental illness.
+
+It is the prerogative of the long time fan to get arsey about changes of direction and scream the names of the cult classics; it is the prerogative of the artist to pay literally zero attention to them.
 
 <br>
 
 <div class="accordion">
-    <h3>The new albums but done with the 1993 vibe</h3>
+    <h3>The new albums but done with the 1993 vibe (demos)</h3>
     <div>
         <ul>
             <li><a href="https://www.youtube.com/playlist?list=PL1lGEznMoBmCoTAXyCnMmwagCXxNk3gXy">Goths (2017)</a></li>
@@ -258,11 +329,24 @@ That is all.<br />
 <br />
 
 
+
+## Alpha
+
+> “[my] misunderstanding of the term ‘alpha privative’ which is the ‘a’ in front of a word that negates: moral, amoral, right. In Latin that's called alpha privative. When I first learned that I was like twenty and I was like, ‘Awesome, the letter that negates!’, you know. A couple years later I was talking to my Latin teacher about it and he was like, ‘Yeah, it just doesn’t carry that kind of force, nobody thinks of the term alpha privative as something you know, annihilating stuff.’ But I did.”
+
+<!-- https://themountaingoats.fandom.com/wiki/2004-03-27_-_VPRO_Session_-_Amsterdam,_Netherlands -->
+
+
+
 ## Privacy and arcana
 
 > my heart belongs to Ennius, and to Calvus, and to those writers of whom only a few lines survive.
 
-There is something wrong with this post.
+<!--  -->
+
+There is something wrong with this post. It imposes a system on something which he has repeatedly and . His insane hardcore live aesthetic, epitomising Real Lo-Fi, has long passed on. But the quixotic request to let some things be private, to not record him, to not photograph him. It's quixotic because recording and tabulating is unilateral. But he knows there are people like me and he's not like Grothendieck or Perelman or anything, a seraph withdrawing from the fallen world with its beady little minds like mine.
+
+<br>
 
 <img src="/img/cool.png" />
 
@@ -307,6 +391,7 @@ Well now <em>yes</em>. <i>All Eternals Deck</i> is just that, retaining the perf
 
 ## See also 
 
+* https://themountaingoats.fandom.com/wiki/Unreleased_and_Unofficially-Released_Songs
 * [Bootlegs](https://archive.org/search?query=mountain+goats)
 * [Rarities](https://www.youtube.com/@notasfarwest/videos), [rarities](https://www.youtube.com/@willneu97/videos)
 * [4 hours of extreme rarities](https://www.youtube.com/watch?v=tWvkQqukPLg&t=142s)
@@ -315,3 +400,4 @@ Well now <em>yes</em>. <i>All Eternals Deck</i> is just that, retaining the perf
 * [Kyle Barbour]()
 * [Poetry](http://lastplanetojakarta.com/)
 * [Flotsam](https://johndarnielle.tumblr.com/)
+* https://allhail.substack.com/p/1994-zopilote-machine

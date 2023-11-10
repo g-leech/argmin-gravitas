@@ -311,6 +311,8 @@ David Deutsches hate this one trick to stop trying to complete mathematics!!
 * [Friedman on the logic of the darkness](https://www.flickr.com/photos/61656241@N02/15441918067/)
 * [Chaitin](https://www.goodreads.com/book/show/1077040.The_Unknowable)
 * [Yanofsky](https://mitpress.mit.edu/9780262529846/the-outer-limits-of-reason/)
+* [Kosoy](https://www.alignmentforum.org/posts/qpbYwTqKQG8G7mdFK/the-reasonable-effectiveness-of-mathematics-or-ai-vs)
+
 
 <div class="footnotes">
 
