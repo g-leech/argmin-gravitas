@@ -19,6 +19,7 @@ visible:	true
 
 ### Conference
 
+
 <table>
 	{%	include researches/rws.html	%}
 	{%	include researches/covid_neur.html	%}

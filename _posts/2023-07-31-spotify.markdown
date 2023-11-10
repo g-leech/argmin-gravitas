@@ -180,6 +180,8 @@ Frankly we need critical service more than we need another great band. <a href="
         I've never managed to watch a Fantano video all the way through, but god bless him anyway.
     </li>
     <li class="footnote" id="fn:5">
+        The funniest "social" feature of Spotify is that they will show you the number of people who liked your playlist but give you no way to find out who. 
+        <br><br>
         <a href="https://open.spotify.com/user/12167202630/followers">I often</a> see users with just the user ID or a long alphanumeric hash as their name, which might be the result of them deleting their account. No way out.<br><br>
         Another thing producing a sort of privacy is that the internal search sucks ass.
     </li>
