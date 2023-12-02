@@ -19,9 +19,9 @@ categories:
 warnings:	
 wordcount:		
 ---
-
-
 <!-- This post took me 6 years to write. -->
+
+
 
 {%  assign horse = "https://www.mountain-goats.com/forums/read.php?2,107305,page=4"    %}
 {%  assign detail = "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"   %}
