@@ -111,7 +111,9 @@ BANKS: I think a lot of the struggle is kind of pointless and is in itself borin
 
 <br>
 
-The humans are not the protagonists. Even when the books seem to have a human protagonist, doing large serious things, they are actually the agent of an AI. (<a href="{{zak}}">Zakalwe</a> is one of the only exceptions, because he can do immoral things the Minds don't want to.) "The Minds in the Culture don't need the humans, and yet the humans need to be needed." (I think only a small number of humans need to be needed - or, only a small number of them need it enough to forgo the many comforts. Most people do not live on this scale. It's still a fine critique.)
+The humans are not the protagonists. Even when the books seem to have a human protagonist, doing large serious things, they are actually the agent of an AI's plan. (<a href="{{zak}}">Zakalwe</a> is a partial exception, because he can happily do immoral things the Minds don't want to do or make innocent Culture citizens do.) 
+
+"The Minds in the Culture don't need the humans, and yet the humans need to be needed." (I think only a small number of humans need to be needed - or, only a small number of them need it enough to forgo the many comforts. Most people do not live on this scale. It's still a fine critique.)
 
 The projects the humans take on risk inauthenticity. Almost anything they do, a machine could do better. What can you do? You can order the Mind to not catch you if you fall from the cliff you're climbing-just-because; you can delete the backups of your mind so that you are actually risking. You can also just leave the Culture and rejoin some old-fashioned, unfree "<a href="{{eval}}">strongly evaluative</a>" civ. The alternative is to evangelise freedom by joining Contact.
 

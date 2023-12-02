@@ -1,0 +1,42 @@
+---
+layout:     post
+title:      "Log of self-experiments"
+baselink:   /experi
+permalink:  /experi
+date:       2023-12-31  <!--site.time-->
+author:     Gavin
+
+img:        /img/
+published:  false
+visible:    1
+quality:    4
+emotion:    8
+importance: 2
+
+summary:    
+confidence: 
+categories: 
+warnings:   
+wordcount:      
+---
+
+### Successful (noticeable)
+
+* Semaglutide
+* 20/4 intermittent fasting (this stopped working after a month, maybe because of stomach capacity increasing dynamically goddamnit)
+* Glucomannan as fasting aid
+* Caffeine once per week
+* Salbutamol for cardio
+* Lumenator for SAD
+* Bupropion for SAD
+
+
+### Ongoing
+
+* Oral minoxidil
+* Tretinoin 
+
+
+Failure
+* Topical minoxidil
+* Magnesium for sleep

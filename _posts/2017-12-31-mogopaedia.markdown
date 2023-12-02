@@ -3,11 +3,11 @@ layout:     post
 title:      "Every Mountain Goats song ever recorded and which does not have a Death Geas placed upon it by its Author"
 baselink:   /mogos
 permalink:  /mogos
-date:       2023-12-31  <!--site.time-->
+date:       2023-11-30  <!--site.time-->
 author:     Gavin
 
-img:        /img/
-published:	false
+img:        /img/johnd.png
+published:	true
 visible: 	1
 quality: 	4
 emotion:    8
@@ -20,6 +20,7 @@ warnings:
 wordcount:		
 ---
 
+
 <!-- This post took me 6 years to write. -->
 
 {%  assign horse = "https://www.mountain-goats.com/forums/read.php?2,107305,page=4"    %}
@@ -30,12 +31,14 @@ wordcount:
 {%  assign fem = "https://rachelfershleiser.com/post/39668198789/and-the-rest-of-the-conversation" %}
 {%  assign THESHEET = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSnay8fn3PKCjQ9UidEPOFHGuy4QcubVOP8dX4CkKVVQt7KtW-9Eu6vWJDJA3LXUqyavtaM9lFZZYxY/pubhtml"  %}
 
-> Tracking live is like that. You're actually hearing something which actually happened.
-
-— I forget where I saw this, possibly <a href="{{mays}}">his intro</a> to The Mays XX
+> Tracking live is like that. You're actually hearing something which actually happened. <a href="#fn:1" id="fnref:1">1</a>
 
 <!-- I don't like the fact that nobody is playing stuff live onto a record how the Sun sessions did...  -->
 <!-- http://web.archive.org/web/19990427042719/http://mb1.musicblvd.com/cgi-bin/tw/288145857327820_105_4973 -->
+
+<br>
+
+> This is a song I declined to release. I had people say, 'please, people want to hear that song.' I say 'yeah, but it's better live, it's better live, it's better live.' And they go, 'Yes, but people would like to hear it.' 'It's - it's better live.'"
 
 <br>
 
@@ -88,6 +91,10 @@ You might think that writing this long post makes me some kind of superfan but I
 It's impossible to be the Darnielle completist I am. On top of the maybe 400 commercial objects, are <a href="{{THESHEET}}">way more</a> than 400 tracks of arcana: a completed unreleased album, three dozen online-only ephemeral downloads, a hundred covers, a hundred live-only bootleg-only songs, a 30 known "missing" songs, dozens of songs with no attestation but a title or a verse, and who knows how many more we couldn't snatch from him out of the air. Thirteen songs are actively disowned and forbidden and he asks you not to listen; one or two are deprecated for <a href="{{fem}}">feminist</a> reasons. <a href="{{ark}}">Some of his best</a> have been performed exactly once, and probably never again.
 
 You _could_ view this as ingenious marketing (artificial scarcity _and_ artificial grandeur) except most people don't know and don't care about the 
+
+Still, a real fan couldn't write this post or concoct this data. I'm past all that.
+
+<br>
 
 1. cut. higher standards than you'd think for a guy with 800 songs
 2. love of easter eggs and arcana
@@ -193,6 +200,11 @@ THING IS THOUGH he is extremely familiar with and in recovery from the fan minds
 
 ## Eras
 
+> I think there's one song in the catalogue prior to [2015] that [has modulation], and it literally only modulates on the last chord
+
+<br>
+
+
 Profound shift. Not just sound, not just lyrical attitude. From alone to jam band, raw live to overproduction.
 
  <!-- Stephen Malkmus, Colin Newman  -->
@@ -204,6 +216,7 @@ Profound shift. Not just sound, not just lyrical attitude. From alone to jam ban
 The vocals go really country.
 https://www.youtube.com/watch?v=KgJ8qqebM8g
 
+It's not that I only like him screaming but there has to be the [possibility](https://www.youtube.com/watch?v=qVXkXSTrqXk) of him screaming.
 
 
 I can't stand (4) but it's largely just my allergy to the jazz keyboard hammond mellotron reverb and muted melisma muso production. Luckily he releases most of em as demos - better sound quality than 1993 cassettes and sometimes the same fire. Makes a 6 out of a 4 and an 7 out of a 5.
@@ -213,6 +226,7 @@ OK it's not just the sound shift but also the themes and AA-meeting flabby human
 > Wild Sage was really the first song I ever wrote about mental illness.
 
 It is the prerogative of the long time fan to get arsey about changes of direction and scream the names of the cult classics; it is the prerogative of the artist to pay literally zero attention to them.
+
 
 <br>
 
@@ -266,6 +280,10 @@ My emotions are hopelessly tied up with the <a href="https://en.wikipedia.org/wi
 - JD</blockquote>
 <br />
 <br />
+
+
+
+"I have always had a sort of religious awe of geography... For whatever reason, towns that I don't know anything about, I don't know where they are, what country they're in, it's just the sounds of the words, combined with the knowledge that that refers to some place, that have always rung like a bell being struck in in my head. Like 'Ah! Belize!' But I couldn't find Belize on a map to save my soul."
 
 
 
@@ -329,6 +347,14 @@ That is all.<br />
 <br />
 
 
+## Sheer breadth of reference
+
+I often pride myself on the breadth and scrappiness of my life course. I’ve lived in 11 countries (for at least a couple months). I have arts and science. I worked 50 jobs including waiting tables and the State and the belly of a Fortune 100 bureaucracy.
+
+But you and I are not like John. We haven’t slept in jail, got into and quit meth, watched our rentboy friends die, haven’t found ourselves in a lounge band. We feel for the methheads but not like this. We have no pangs. The good things in our lives are just good things and not miracles
+
+
+
 
 ## Alpha
 
@@ -372,7 +398,7 @@ All of these songs can receive a +3 at a given live performance.
 
 > Of course the original signal is never actually anywhere near any recordings anywhere, but you all already knew that. You have been sure of it for quite some time now. You see the proof everywhere. It is the reason you started reading these lines in the first place... Tracking live... You're hearing something which actually happened.
 
-
+<br>
 
 ## Psychological realism
 
@@ -386,7 +412,7 @@ Well now <em>yes</em>. <i>All Eternals Deck</i> is just that, retaining the perf
 
 <!--  -->
 
-
+<br><br>
 
 
 ## See also 
@@ -401,3 +427,21 @@ Well now <em>yes</em>. <i>All Eternals Deck</i> is just that, retaining the perf
 * [Poetry](http://lastplanetojakarta.com/)
 * [Flotsam](https://johndarnielle.tumblr.com/)
 * https://allhail.substack.com/p/1994-zopilote-machine
+* [The liberated mind](https://hooksexup.com/screeningroom/music/MountainGoats/)
+* https://web.archive.org/web/20140208135422/http://www.johndarnielle.com/
+
+
+<br><br>
+
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+        I forget where I saw this, possibly <a href="{{mays}}">his intro</a> to The Mays XX. 
+    </li>
+
+    <li class="footnote" id="fn:2">
+    </li>
