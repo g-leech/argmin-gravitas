@@ -114,6 +114,41 @@ visible:	true
 			<li>2019: TA for the fearsome <a href="{{coms}}">COMS30007: Bayesian Machine Learning</a>.</li>
 		</ul>
 	</div>
+	<h3>Talks</h3>
+	<div>
+		<ul>
+			<li>
+				Conference: <a href="https://youtu.be/leQ56mahNMs?t=605">Safety Properties of Inductive Logic Programming</a>
+			</li>
+			<li>
+				Journal club: <a href="https://docs.google.com/presentation/d/1WiCqOKVSMm0MTaOElbPG_AodEB2AfGwBhbi8DJn7cDY/edit">Are Emergent Abilities of Large Language Models a Mirage?</a>
+			</li>
+			<li>
+				Journal club: <a href="https://docs.google.com/presentation/d/1NIzMIuQOxQj9v9cdXHXc47bM142a4ZGW1K5LGAgDJpA">Reframing Reinforcement Learning as Sequence Modeling</a>
+			</li>
+			<li>
+				Journal club: <a href="https://docs.google.com/presentation/d/16LvCQxTT_2Ps23ztZ0w9ow7SiSCfhIBDOFnj3Gy95RE/edit">Learning to summarize from human feedback</a>
+			</li>
+			<li>
+				Journal club: <a href="https://docs.google.com/presentation/d/1nJMO5K6T1vfI9Qg80tHn2-t69jcficNhy6RapzX8V1s/edit#slide=id.p">Tensorised probabilistic programming</a>
+			</li>
+			<li>
+				Journal club: <a href="https://docs.google.com/presentation/d/1Cvmk3Vr2mqHcGV27QnBE-Vqtjh6X2TzyiMNFPKaC_ZU/edit#slide=id.p">Predicting Human Deliberative Judgments</a>
+			</li>
+			<li>
+				Journal club: <a href="https://docs.google.com/presentation/d/1MR8PGBl6LXFwY1MZ1kOPRMTD2GiNiMCtjX-E7h8pXl0/edit">Underspecification Presents Challenges for Credibility in ML</a>
+			</li>
+			<li>
+				Journal club: <a href="https://docs.google.com/presentation/d/1c94JgMHiyOHf2oAxhiOP3gT9K8-Yp2yHzDReJdqaT9g/edit">Acquisition of Chess Knowledge in AlphaZero </a>
+			</li>
+			<li>
+				Journal club: <a href="https://docs.google.com/presentation/d/1MzKIBMmroD0PyXqgbnGf9qVpqmiJT5nAlhRaZw1ZVyk/edit#slide=id.g10cdee45bd2_0_10">“Reward is Enough” and its critics</a>
+			</li>
+			<li>
+				Journal club: <a href="https://docs.google.com/presentation/d/1pQ5I2XNBjKW1JEsM6ZebAqskqs3c87IwPEd8RVvp9zQ/edit?usp=sharing">The Linear Representation Hypothesis</a>
+			</li>
+		</ul>
+	</div>
 </div>
 
 
