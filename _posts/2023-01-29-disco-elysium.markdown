@@ -154,6 +154,14 @@ It's melancholy but not self-pitying and not life-denying. <a href="#fn:7" id="f
 
 <br>
 
+<center>
+    <img src="/img/insulinde.jpeg" /><br>
+    <small>(c) <a href="{{luis}}">Luís Melo</a></small>
+
+</center>
+
+<br><br>
+
 
 some themes I've spotted so far:  
 

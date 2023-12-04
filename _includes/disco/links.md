@@ -1,3 +1,4 @@
+{%   assign luis = "https://www.inprnt.com/gallery/luis_melo/disco-elysium-insulidian-phasmid/"   %}
 {%   assign thought = "/img/fullthought.jpg"   %}
 {%   assign baby = "https://genius.com/Against-me-baby-im-an-anarchist-lyrics"   %}
 {%   assign kim = "http://fayde.co.uk/dialojue/3460074" %}
