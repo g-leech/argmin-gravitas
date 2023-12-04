@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Every Mountain Goats song ever recorded and which does not have a Death Geas placed upon it by its Author"
+title:      "[DRAFT] Every Mountain Goats song ever recorded and which does not have a Death Geas placed upon it by its Author"
 baselink:   /mogos
 permalink:  /mogos
 date:       2023-11-30  <!--site.time-->
@@ -30,6 +30,9 @@ wordcount:
 {%  assign ark = "https://www.youtube.com/watch?v=HttPrN3v1go" %}
 {%  assign fem = "https://rachelfershleiser.com/post/39668198789/and-the-rest-of-the-conversation" %}
 {%  assign THESHEET = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSnay8fn3PKCjQ9UidEPOFHGuy4QcubVOP8dX4CkKVVQt7KtW-9Eu6vWJDJA3LXUqyavtaM9lFZZYxY/pubhtml"  %}
+{%  assign canop = "https://archive.is/WMUmA"   %}
+
+
 
 > Tracking live is like that. You're actually hearing something which actually happened. <a href="#fn:1" id="fnref:1">1</a>
 
@@ -78,7 +81,7 @@ wordcount:
 
 <br><br>
 
-Reality has a lot of <a href="{{detail}}">lore</a>. But not enough, so we make more.
+Reality has a lot of <a href="{{detail}}">lore</a>. But not enough, so we <a href="{{canop}}">make</a> more.
 
 The world of the Mountain Goats is an entire little world, with fallen civilizations and frightening violence and opinions about little truck stops outside Gothenburg. It has a history _and a historiography_.
 
