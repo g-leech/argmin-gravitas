@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Every Mountain Goats song ever recorded and which does not have a Death Geas placed upon it by its Author"
+title:      "Every Mountain Goats song ever recorded including those which have a Death Geas placed upon it by its Author"
 baselink:   /mogos
 permalink:  /mogos
 date:       2023-11-30  <!--site.time-->
@@ -171,7 +171,9 @@ We don't even need to push a cynical line about scarce things being more desirab
 <!--  -->
 
 
-His insane hardcore live aesthetic, which epitomised Real Lo-Fi, has long passed. But the quixotic request to let some things be private, to not record him, to not photograph him. It's quixotic because recording and tabulating is unilateral. But he knows there are people like me (and he's not like Grothendieck or Perelman or anything, a seraph withdrawing from the fallen world with its beady little minds like mine).
+His insane hardcore live aesthetic, which epitomised Real Lo-Fi, has long passed. But the quixotic request to let some things be private, to not record him, to not photograph him, has survived his aesthetic convulsion. It's quixotic because recording and tabulating is unilateral and there are thousands of ruffians like me. 
+
+But he knows there are people like me (and he's not like Grothendieck or Perelman or anything, a seraph withdrawing from the fallen world with its beady little minds like mine).
 
 
 <img src="/img/cool.png" />
