@@ -1,0 +1,38 @@
+{%  assign id = "psychometimg"   %}
+{%  assign pscode = ""  %}
+
+
+<tr>
+    <td class="logo">
+        <a href="{{psychofore}}">
+            <div id="{{id}}"></div>
+        </a>
+    </td>
+    <td style="padding-left: 5px">
+            <a class="noline" href="{{psychofore}}" target="_blank">Rationality, superforecasting, and other psychometrics</a>
+            <div class="journo">
+                (2023)
+            </div>
+
+        <span class="dropdown">
+          <button class="dropped" onclick="javascript:drop('psychofore')">The point</button>,
+
+          <div id="psychofore" class="dropdown-content">
+            <br>
+            In short order we answered three questions for Atlas, a fellowship for ambitious young people: How do you find extremely gifted people? What other measures could work? What do people do in practice in elite firms and in talent programmes? See also the other <a class="noline" href="{{talent}}">two</a> <a class="noline" href="{{iq}}">papers</a> in the project.
+            <br><br>
+            <i>Authors</i>: Gavin Leech, Misha Yagudin, and Vasco Grilo
+            <br><br>
+            <i>Total hours I contributed</i>: 80 on all 3 papers.
+            <br><br>
+          </div>
+        </span>
+    </td>
+</tr>
+
+
+<script>  
+    var src="/img/psychometrics.jpg"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>
+
