@@ -20,7 +20,7 @@ visible:	true
 	</li>
 	<br>
 	<li>
-		This site consists of {%	include wc.html 	%} words. No text computer-generated unless explicitly indicated. <!-- All claims subject to change: I commit to improving past work til I die. -->
+		This site consists of {%	include wc.html 	%} words including about 1100 <a href="{{grrr}}">book reviews</a>. No text computer-generated unless explicitly indicated. <!-- All claims subject to change: I commit to improving past work til I die. -->
 	</li>
 	<br>
 	<li>

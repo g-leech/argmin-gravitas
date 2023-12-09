@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Every Mountain Goats song ever recorded including those which have a Death Geas placed upon it by its Author"
+title:      "Every Mountain Goats song ever recorded including those which have a Death Geas placed upon em by the Author"
 baselink:   /mogos
 permalink:  /mogos
 date:       2023-11-30  <!--site.time-->
@@ -15,7 +15,7 @@ importance: 2
 
 summary:    Ranking all 800 songs
 confidence:	99%
-categories: music, art
+categories: music, art, lists
 warnings:	
 wordcount:		
 ---
@@ -145,6 +145,10 @@ His keynote is outcasts, the equivalence of heretics and scapegoats, speedfreaks
 
 <br>
 
+
+
+<br>
+
 ## Why be obscure?
 
 > there's a sense in which if you know everything about your work while you're doing it, then it's probably not very interesting work. It needs to in some ways be obscure to you. You have to be trying to chase something that you can't quite get.
@@ -240,12 +244,17 @@ It is the prerogative of the long time fan to get arsey about changes of directi
     <h3>Best songs since 2015</h3>
     <div>
         <ul>
-            <li>Shelved</li>
-            <li>Let Me Bathe In Demonic Light (bassoon cut only)</li>
             <li>The Great Gold Sheep</li>
+            <li>For the Krishnacore Bands</li>
+            <li>Let Me Bathe In Demonic Light (bassoon cut only)</li>
+            <li>Shot, Repeatedly, at Close Range, in the Chest, by Your Love </li>
+            <li>For the Snakes</li>
+            <li>Heel Turn 2</li>
+            <li>Foreign Object</li>
+            <li>Shelved</li>
             <li>Sicilian Kitchen Stomp</li>
+            <li>Picture Of My Dress</li>
             <li>Training Montage</li>
-            <li>The Ultimate Jedi Who Wastes All the Other Jedi and Eats Their Bones</li>
             <li>Bleed Out (Jordan Lake)</li>
             <li>Hand of Death</li>
             <li>Elsa from Rialto</li>
@@ -271,10 +280,12 @@ The trouble is that between AHWT and TLotWTC he became a Musician. (He might hav
 <br />
 <br />
 
+<center>
+    <img width="50%" src="/img/darn.png" />
+</center>
 
 
-
-
+<br><br>
 
 <!-- <big>1) BOOMBOX </big><br />
 <br />
