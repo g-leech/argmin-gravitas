@@ -39,9 +39,9 @@ I actually have no idea if I have allergies, either. Maybe my family were neglig
 
 I don't have severe allergies, obviously. But there is a power of sin hidden under the terms "mild symptoms" and "subclinical syndrome" and "idiopathic". If you have 10 subclinical problems, each [d=0.05](https://en.wikipedia.org/wiki/Effect_size), your life could easily be worse than someone with one obvious condition.
 
-[Healthcare spending](https://ourworldindata.org/financing-healthcare) is rising, and not all of it is [cost disease](https://pubmed.ncbi.nlm.nih.gov/29423941/). The young are more surveilled in every way, but one upside is that more of their actual health problems get caught. The word for this is "[ascertainment rate](https://www.covid19.uga.edu/nowcast-US-ascertainment.html)". For Covid, the most studied disease in history - and the only one that 99% of you will have been tested for - AR was around 30% _in rich countries_. This is then a ceiling on the AR of all less severe diseases (most diseases).
+[Healthcare consumption](https://ourworldindata.org/financing-healthcare) is rising, not just [cost disease](https://pubmed.ncbi.nlm.nih.gov/29423941/). The young are more surveilled in every way, but one upside is that more of their actual health problems get caught. The word for this is "[ascertainment rate](https://www.covid19.uga.edu/nowcast-US-ascertainment.html)". For Covid, the most studied disease in history - and the only one that 99% of you will have been tested for - AR (reports per case) was around 30% _in rich countries_. This is then a ceiling on the AR of all less severe diseases (most diseases).
 
-There is sometimes talk about young people being unusually frail in body or mind. But if the speaker doesn't mention increasing ascertainment, instantly bin them.
+There is sometimes talk about young people being unusually frail in body or mind. But if the speaker doesn't mention increasing ascertainment, bin them.
 
 <br>
 
@@ -51,20 +51,20 @@ There is sometimes talk about young people being unusually frail in body or mind
 
 ## the pandemic of words
 
-Some of my friends are very fond of the [social contagion hypothesis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4381550/) of mental illness. This claims that 
+Some of my friends are very fond of the [social contagion hypothesis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4381550/) of mental illness. This claims that either:
 
-1. specific mental or idiopathic syndromes are [culture-bound](https://www.smithsonianmag.com/history/brief-history-americanitis-180954739/) and that globalisation has caused a huge rise in Western-style depression, anxiety, and dysphoria where they used to be unknown/differently expressed.
-2. (within-cultures) talking about and emphasising mental illness somehow increases prevalence through some unspecified psychosomatic mechanism. This hypothesis is not mostly about iatrogenics (doctor-caused illness); the claim is that the much larger body of awareness-raising activists and healthcare auxiliaries and occupational health workers are the main vector.
+1. specific mental or psychosomatic syndromes are [culture-bound](https://www.smithsonianmag.com/history/brief-history-americanitis-180954739/) and globalisation has caused a huge rise in Western-style depression, anxiety, bulimia, and dysphoria where they used to be unknown/differently expressed.
+2. (within-cultures) talking about and emphasising mental illness somehow increases prevalence through some unspecified psychosomatic mechanism. This hypothesis is actually not mostly about iatrogenics (doctor-caused illness); the claim is that the much larger body of awareness-raising activists and healthcare auxiliaries and occupational health workers is the main vector.
 
-(1) [seems](https://www.astralcodexten.com/p/book-review-crazy-like-us) to occur for depression, though we can't very well tell contagion apart from a shift in symptom expression / rising ascertainment of already-existing secret disorders. 
+(1) [seems](https://www.astralcodexten.com/p/book-review-crazy-like-us) to occur for depression and bulimia, though we can't very well tell contagion apart from a shift in symptom expression / rising ascertainment of already-existing secret disorders. 
 
 There are _some_ examples of (2) - [manias](https://en.wikipedia.org/wiki/Extraordinary_Popular_Delusions_and_the_Madness_of_Crowds), maybe [back pain](https://twitter.com/patrickc/status/1559737765566173185?lang=en); some [long covid](https://www.theamericanconservative.com/what-long-covid-means/) cases go into remission overnight, following the person reading about psychosomatic disorders and snapping out of it somehow.
 
-But the strong form of the hypothesis is vicious politicised shit. (The ultimate way the libs would be owned is if they were inflicting vast amounts of damage on themselves and their friends, if their whole orientation to life were vitiating and ironic. Destigmatisation as transmission.)
+The strong form of the hypothesis often comes out of vicious politicised shit, though. (The ultimate way the libs would be owned is if they were inflicting vast amounts of damage on themselves and their friends, if their whole orientation to life were vitiating and ironic. Destigmatisation as transmission.) But that's not a full counterargument, of course. We'd actually need to look to know which syndromes are social, and to which degree:
 
-(One way of getting around the culture war nonsense is to go "[taxometric](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2710982/)": try and find conditions which are harmful differences of kind, not mere differences of degree (and maybe also not subjective differences of degree like fatigue).)
+* One way of getting around the culture war nonsense is to go "[taxometric](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2710982/)": try and find conditions which are harmful differences of kind, not mere differences of degree (and maybe also not subjective differences of degree like fatigue).
 
-(Another good test would be showing that chronic fatigue / chronic lyme / encephalomyelitis / long covid are _conserved_ over time: that the rise of long covid meant a fall in the others.)
+* Another good test would be showing that chronic fatigue / chronic lyme / encephalomyelitis / long covid total prevalence is _conserved_ over time: that the rise of long covid meant a fall in the others.
 
 <br>
 
@@ -76,7 +76,11 @@ But the strong form of the hypothesis is vicious politicised shit. (The ultimate
 
 Until the early 1900s, therapeutic nihilism (the view that there's nothing we can profitably do for a patient) was more or less correct, except for certain kinds of fracture and bullet wounds. Surgery was one of the few things which did anything, but with terrible success rates and even worse side effects. One popular school of cancer treatment was to just [cut until you can't cut anymore](https://en.wikipedia.org/wiki/Radical_surgery).
 
+<br>
+
 > By... 1867, when the first results of Lister's work were published in the Lancet, he had treated a total of eleven patients using his new antiseptic method. Of those, only one had died...
+
+<br>
 
 I'm not going to dig into the mortality rate discontinuities right now, but I would guess the turning points are
 
@@ -84,12 +88,12 @@ I'm not going to dig into the mortality rate discontinuities right now, but I wo
 * 1847: chloroform for anaesthetic (reduces accidental damage from twitches and convulsion)
 * 1865: Carbolic acid
 * 1929: Penicillin
-* The vaccine boom
+* The vaccine boom (claimed by Public Health rather than Medicine)
 * 1960: Oral rehydration therapy
 * 1973: the phrase "don't smoke" repeated 1000 times
 <!-- * 1980: MRI -->
 
-Medicine's power has increased vastly
+Medicine's power has increased vastly, and so its scope has. Power is the main limit on the extension of "the medical". They took mental illness from the priests around the same time.
 
 <br>
 
@@ -101,7 +105,7 @@ Medicine's power has increased vastly
 
 The concept of a "medical matter" is obviously not fixed, but is instead a function of technology level and wealth (the level of care economically viable for a given patient). <a href="#fn:1" id="fnref:1">1</a>
 
-To date, the universal [disease] of aging has basically not been treated; treated as nonmedical. Left to the cranks and the beauty industry. Various authorities control this, but the FDA is one major one. That changed last week:
+To date, the universal [disease] of aging has basically not been treated; treated as nonmedical. Left to the cranks and the beauty industry. Various authorities control this, but the FDA is one major one and they have blocked every avenue towards making money off the tech. That changed last week:
 
 <center>
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">1 - Loyal has earned what we believe is the FDA’s first-ever formal acceptance that a drug can be developed + approved for lifespan extension<br><br>2 - We have &#39;technical section complete&#39; AKA the &#39;does it work&#39; data for LOY-001 - our large dog lifespan extension drug - is done</p>&mdash; Celine Halioua (@celinehalioua) <a href="https://twitter.com/celinehalioua/status/1729525718827274642?ref_src=twsrc%5Etfw">November 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -109,7 +113,7 @@ To date, the universal [disease] of aging has basically not been treated; treate
 
 Medicine is larger than it was last week.
 
-The writers who notice this fact are mostly against it - the word "[medicalisation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=medicalisation&btnG=)" is an academic swear word, like "neoliberal". Certainly some medicalisation is straightforwardly evil, like the institutionalisation and [drugging](https://www.independent.co.uk/news/obituaries/yegor-letov-father-of-russian-punk-787304.html) of political dissidents in the USSR. Others - like the overuse of the language of therapy to describe your entire inner life and interactions with other people - are only probably damaging. And yet there are lots of things we want medicalised. [And when death?](https://nickbostrom.com/fable/dragon).
+The writers who notice this fact are mostly against it - the word "[medicalisation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=medicalisation&btnG=)" is an academic swear word, like "neoliberal". Certainly some medicalisation is straightforwardly evil, like the institutionalisation and [drugging](https://www.independent.co.uk/news/obituaries/yegor-letov-father-of-russian-punk-787304.html) of political dissidents in the USSR. Others - like the overuse of the language of therapy to describe your entire inner life and interactions with other people - are only probably damaging overall. And yet there are lots of things we want medicalised. [And when death?](https://nickbostrom.com/fable/dragon).
 
 
 <br><br>
