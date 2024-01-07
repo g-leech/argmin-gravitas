@@ -21,8 +21,8 @@ argument:
 
 Are language model benchmarks so unreliable because of 
 
-incidental reasons:
-Training data contamination
+* incidental reasons:
+* Training data contamination
 Different implementations (as in MMLU)
 Widely varying hyperparams (and more generally amount of optimisation) 
 Widely varying prompt quality (very easy to just be a little less persistent with optimising prompts for your enemies’ models)

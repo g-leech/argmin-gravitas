@@ -111,7 +111,7 @@ Sawyer:
 
 We don't focus on phenomena which are hard to model / we don't report our terrible results from trying to model them. So science looks omnipotent and clean.
 
-Approximation is everywhere and often works ok. e.g. We choose to model discrete things (people) with smooth things (pdfs). But this is an importantly different kind of maths which gives you much less confidence, authority, and metaphysics than exact theory. 
+Approximation is everywhere and often works ok. e.g. We choose to model discrete things (people) with smooth things (pdfs). e.g. we choose to model bodies as [points](https://en.wikipedia.org/wiki/Lumped-element_model) (and not just in class!). But this is an importantly different kind of maths which gives you much less confidence, authority, and metaphysics than exact theory. 
 
 <br>
 
