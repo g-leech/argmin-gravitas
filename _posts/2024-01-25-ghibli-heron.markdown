@@ -169,9 +169,13 @@ td {
 * <blockquote>Anime is produced by humans who can't stand looking at other humans.</blockquote>
 <br>
 
-* \[Double-check this\]: Grand Uncle's precarious stack, the thing he must every day tinker with to keep the tower world from being destroyed, is made of 12 blocks (Miyazaki directed 12 feature films).
+* Grand Uncle's precarious stack, which he must tinker with every day to keep the tower world (Ghibli) from being destroyed, is made of 13 blocks (Miyazaki directed 13 feature films if like IMDb we count _[Conan](https://www.imdb.com/title/tt0462699/?ref_=nm_flmg_t_11_dr)_).
 
-* Yet another variation on this reading would be an alternate-timeline rejection of anime _from the start_: then, Mahito is Hayao and Great Uncle is Tezuka.
+* If Hayao is both Mahito and Uncle, then the film is counterfactual - what Miyazaki feels he should have done: reject anime _from the start_, not make the films. (Yet another variation on this reading: Mahito as Hayao and Great Uncle as Tezuka.)
+
+* The ending is extremely abrupt - jarring, uncharacteristic. This is ok on the anime-as-mistake reading, since it is then a way of saying "I'm done. seriously, go home. Now."
+
+<br>
 
 <center>
     <blockquote class="twitter-tweet" data-cards="hidden"><p lang="en" dir="ltr">Hayao Miyazaki coming out of retirement to make a film entirely about sometimes you don’t have a successor and legacies just end<br> <a href="https://t.co/aIgkZwWh0i">pic.twitter.com/aIgkZwWh0i</a></p>&mdash; re: emma (@evemmore) <a href="https://twitter.com/evemmore/status/1741463759699251567?ref_src=twsrc%5Etfw">December 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -181,8 +185,13 @@ td {
 
 ## Other notes
 
-* One huge problem for any reading are the warawara: what happens to their migration after the fall of the tower? Do humans born after 1944 have no souls?
+* One huge problem for any reading: the warawara. What happens to their migration after the fall of the tower? Do humans born after 1944 have no souls?
 
+* Many pairs or mirrors. Pelicans and parakeets; the dolmen and the meteor; Himi and Natsuko; the tower in 132 and the tower in seaworld; 
+
+* There are seven dwarfish grannies. I didn't check whether the personalities match.
+
+* I haven't been careful to distinguish renunciation (giving up on) and denunciation (attacking). Shakespeare renounced theatre but didn't denounce it. Currently _The Boy and the Heron_ feels angry to me and so closer to denouncing.
 
 
 <!-- https://www.reddit.com/r/ghibli/comments/18ky5tl/is_the_boy_and_the_heron_about_miyazakis_son/
@@ -221,7 +230,7 @@ https://davidtitterington.medium.com/esoteric-symbolism-in-the-boy-and-the-heron
     </li>
     <!--  -->
     <li class="footnote" id="fn:2">
-        The film's true title hits us over the head: _How Does One Live?_<br><br>
+        The film's true title hits us over the head: <i>How Does One Live?</i><br><br>
         <blockquote>This is a personal film, showing how [Miyazaki] lived, how he should have lived and throwing out the question to the audience, 'So how [will] you live?'," Nishioka said.</blockquote>
         <br><br>
         The funniest evidence for this reading would be <a href="{{mis}}">this image</a>, but it's fake.<br><br>
@@ -229,7 +238,7 @@ https://davidtitterington.medium.com/esoteric-symbolism-in-the-boy-and-the-heron
     <!--  -->
     <li class="footnote" id="fn:3">
         I'm ignoring three other readings: as straight autobiography (Hayao evacuating from Tokyo during the war, a mother in hospital, being a misfit); as psychodrama of young grief; and as religious allegory, misotheism.<br><br>
-        Of course, the meme "the film is about telling Goro to stop making movies" is also a psychodrama, and worse, gossip. This is one reason I prefer Mahito-as-counterfactual-Hayao.
+        The meme "the film is about telling Goro to stop making movies" is also a psychodrama, and worse, gossip. This is one reason I prefer Mahito-as-counterfactual-Hayao.
     </li>
     <!-- -->
     <li class="footnote" id="fn:4">
