@@ -6,24 +6,24 @@ permalink:  /experi
 date:       2023-12-31  <!--site.time-->
 author:     Gavin
 
-img:        /img/
+img:        /img/selfexp.jpg
 published:  true
 visible:    1
 quality:    4
 emotion:    8
-importance: 2
+importance: 6
 
-summary:    
+summary:    things I've tried on myself
 confidence: 
 categories: 
 warnings:   
 wordcount:      
 ---
 
-### Successful (noticeable)
+### Successful (noticeable, d>0.5)
 
 * Semaglutide
-* 20/4 intermittent fasting (this stopped working after a month, maybe because of stomach capacity increasing dynamically goddamnit)
+* 20/4 intermittent fasting 
 * Glucomannan as fasting aid
 * Caffeine <a href="/stims">once per week</a>
 * Salbutamol for cardio
@@ -37,10 +37,11 @@ wordcount:
 * Tretinoin 
 
 
-## Failure
+## Failure (effect not noticeable or worth it)
 
 * Topical minoxidil
 * Magnesium for sleep
+* Vyvanse
 
 
 <br>
