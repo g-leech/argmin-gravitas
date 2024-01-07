@@ -7,7 +7,7 @@ date:       2023-12-31  <!--site.time-->
 author:     Gavin
 
 img:        /img/
-published:  false
+published:  true
 visible:    1
 quality:    4
 emotion:    8
@@ -25,18 +25,22 @@ wordcount:
 * Semaglutide
 * 20/4 intermittent fasting (this stopped working after a month, maybe because of stomach capacity increasing dynamically goddamnit)
 * Glucomannan as fasting aid
-* Caffeine once per week
+* Caffeine <a href="/stims">once per week</a>
 * Salbutamol for cardio
 * Lumenator for SAD
 * Bupropion for SAD
 
 
-### Ongoing
+### Ongoing (no results yet)
 
 * Oral minoxidil
 * Tretinoin 
 
 
-Failure
+## Failure
+
 * Topical minoxidil
 * Magnesium for sleep
+
+
+<br>

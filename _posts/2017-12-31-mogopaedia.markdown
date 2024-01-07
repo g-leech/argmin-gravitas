@@ -13,14 +13,13 @@ quality: 	4
 emotion:    8
 importance: 2
 
-summary:    Ranking all 800 songs
+summary:    all 800 songs, synoptically
 confidence:	99%
 categories: music, art, lists
 warnings:	
 wordcount:		
 ---
 <!-- This post took me 6 years to write. -->
-
 
 
 {%  assign horse = "https://www.mountain-goats.com/forums/read.php?2,107305,page=4"    %}
@@ -53,6 +52,10 @@ wordcount:
 
 <br>
 
+>  The music for the song was improvised during the only time it was performed live,
+
+<br>
+
 > 8 to 20 On a Weapons Charge is a bonus track from <b>1 copy</b> of Taking the Dative... YouTube user DoctorSinatra discovered [Like A Bullet] on a "beat up old cassette" he found, where it was the only song on the tape salvageable. <!-- > ...A Leonard Cohen cover found at the end of certain copies of Transmissions to Horace -->
 
 <br>
@@ -76,7 +79,7 @@ wordcount:
 
 <br><br>
 
-Reality has a lot of <a href="{{detail}}">lore</a>. But not enough, so we <a href="{{canop}}">make</a> more. The <a href="{{welt}}">world</a> of the Mountain Goats is a world entire, with lost civilizations and frightening violence and opinions about little truck stops outside Gothenburg. It has a history _and a historiography_.
+Reality has a lot of <a href="{{detail}}">lore</a>. But not enough, so we <a href="{{canop}}">make</a> more. The <a href="{{welt}}">world</a> of the Mountain Goats is a world entire, with lost civilizations and frightening violence and opinions about little truck stops outside Gothenburg and that [sort of thing](https://www.youtube.com/watch?v=OCvxGd9bJpg). It has a history _and a [historiography](https://themountaingoats.fandom.com/wiki/Historiography)_.
 
 Many of my tasteful friends disdain even his softer hi-fi work, and some of my tasteless friends are much enamoured of the whole lot. <a href="#fn:6" id="fnref:6">6</a> Just like anyone, I cannot rule out that I like it <a href="{{adap}}">because</a> I've put a lot of work into it.
 
@@ -92,9 +95,9 @@ You _could_ view this as ingenious marketing (artificial scarcity _and_ artifici
 <br>
 
 
-Because I am heathen born I decided to go through everything, B sides, deep cuts, no-cuts. (One hair-raising fact is that 4 fansites have done what I am doing and <a href="https://www.mountain-goats.com/forums/read.php?2,18802,23156#msg-23156">all</a> <a href="http://web.archive.org/web/20220124123314/https://kylebarbour.org/tmg/">of them</a> are <a href="{{horse}}">dead</a>.)
+Because I am heathen born I decided to go through everything, B sides, deep cuts, no-cuts. (One hair-raising fact is that 4 fansites have done what I am doing and <a href="https://www.mountain-goats.com/forums/read.php?2,18802,23156#msg-23156">all</a> <a href="http://web.archive.org/web/20220124123314/https://kylebarbour.org/tmg/">of them</a> [are](http://www.themountaingoats.net/lyrics/extras_lyr.html) <a href="{{horse}}">dead</a>.)
 
-> How do we know these songs ever existed if he never played them live?
+> How do we know these songs ever [existed](https://themountaingoats.fandom.com/wiki/Hey_Dan_K.) if he never played them live?
 
 
 <br>
@@ -106,6 +109,8 @@ My emotions are hopelessly tied up with the <a href="https://en.wikipedia.org/wi
 
 > I have always had a sort of religious awe of geography... For whatever reason, towns that I don't know anything about, I don't know where they are, what country they're in, it's just the sounds of the words, combined with the knowledge that that refers to some place, that have always rung like a bell being struck in in my head. Like 'Ah! Belize!' But I couldn't find Belize on a map to save my soul.
 
+> I’ve been to Crete [Greece] and seen the Cretan [mountain goats], and they can climb these walls and they can cling to the walls like they’re spiders. But also, every year, many of them die from misjudging a gap that they think they can jump, and then down they plunge. And I thought, ‘Well this is hubris.’
+
 <br>
 
 
@@ -113,14 +118,21 @@ My emotions are hopelessly tied up with the <a href="https://en.wikipedia.org/wi
 
 ## Sheer breadth of reference
 
+> I'm really attracted to things once they have have passed their sell-by date, you know, people, and their careers
+
+<br>
+
 <blockquote>
     Once you're no longer in the day job, you don't know what's going on with people... Even if you're not a hermit, you're talking to people as an observer, and an observer can never know what a participant can know... I seemed to have less to say... If a writer disengages from people at large, his ability to describe the behaviour of people is going to suffer. <a href="#fn:4" id="fnref:4">4</a>
 </blockquote>
 
-I often pride myself on the breadth and scrappiness of my life course. I’ve lived in 11 countries (for at least a couple months). I have arts and science. I worked 50 jobs including waiting tables and the State and the belly of a Fortune 100 bureaucracy.
+I pride myself on the breadth and scrappiness of my life course. I’ve lived in 11 countries for at least a couple months. I have arts and science and opinions on Malebranche and people like that. I worked 40 jobs, waiting tables and calculating the state of a whole nation and coding in bonds in the belly of a Fortune 100.
 
-But you and I are not like John. We haven’t slept in jail, got into and quit meth, watched our rentboy friends die, haven’t found ourselves in a lounge band. We feel for the methheads but not like this. We have no pangs. The good things in our lives are just good things and not miracles
+But you and I are not like John. We haven’t slept in jail, got into and quit meth, watched our rentboy friends die, nearly died half a dozen times ourselves. We haven’t put together a lounge band. We feel for the methheads but not like this. We have no pangs. The good things in our lives are just good things and not miracles. <a href="#fn:11" id="fnref:11">11</a>
 
+> I go to church, but I don't have the faith of the people there. So it's weird, because if people get stuck in a conversation with you, you don't want to say, "I'm kind of on the outside here." It's interesting... I go to church as often as I can, but I will also go to ISKCON Centers and chant Hare Krishna. I like feeling part of an ecclesiastical body. I like feeling that feeling of faith community. I like being around it. I like being able to catch some of the energy, whatever I can or can't believe. 
+
+<br>
 
 It's literary pop music, in the sense of closely observed and emotionally sophisticated. He's an ex-con. Recovered junkie. Quasi-Christian. English major / classicist lifelong-learner type. Late bloomer. Metalhead. Dad. MTG nerd. Twitter liberal. Strong opinions about contemporary French translation.
 
@@ -129,11 +141,12 @@ Things he has some scholarly grasp of:
 * Latin grammar
 * Exegetic Chains
 * Black Sabbath
+* Chaucer <a href="#fn:10" id="fnref:10">10</a>
 * Early years education
 * The emotional side of Hinduism
 * The original wave of Dungeons and Dragons and the Satanic Panic
 * American professional wrestling in its regional days (NWA, UWF, AWA) before corporatization
-* The lo-fi and cassette scene of Pomona County, California (1988-1999)
+* The lo-fi and cassette scene (Inland Empire etc) (1988-1999)
 * The folk history of North Carolina
 * The nursing of juveniles involuntarily committed to mental institutions
 * Ancient history and dark age Europe
@@ -155,9 +168,11 @@ His keynote is outcasts, the equivalence of heretics and scapegoats, speedfreaks
 
 > This digitization of ephemera preserves the work but destroys its transience.
 
-> there was once a third tape... but I threw a tempter tantrum one day years later and pitched it into the garbage, which I'd almost regret doing, except that the idea of lost and unrecoverable work has this dumb romantic appeal to me, so when I think of that tape off in oblivion somewhere, rotting away, I get the sort of moony-eyed stupid look on my face that is the exclusive domain of dumb romantics. Naturally, there's also more dumb romantic appeal for me in the degradation of original sources. I can't help it.
+> there was once a third tape... but I threw a temper tantrum one day years later and pitched it into the garbage, which I'd almost regret doing, except that the idea of lost and unrecoverable work has this dumb romantic appeal to me, so when I think of that tape off in oblivion somewhere, rotting away, I get the sort of moony-eyed stupid look on my face that is the exclusive domain of dumb romantics. Naturally, there's also more dumb romantic appeal for me in the degradation of original sources. I can't help it.
 
 > I combed through the stuff I have that's on two of the computers in this house and I got seven demos for you. One or two of them haven't been released in any form I think. I don't know though. I don't keep such good track of what has or hasn't been released. Anyhow, these are just my way of saying how sorry I did not get to see you this month... Dudes who like to crosspost stuff from this forum to another/on your lj/etc etc, I wish you wouldn't, I can't stop you, there I've said my piece.
+
+> There are many, many Mountain Goats songs that were never intended for everyone (or in many cases, anyone) to hear. With newer material, this is generally because John Darnielle has an affinity for ephemera, placing cast-off tracks inside art magazines curated by friends, audiobooks that he doesn’t expect most fans of the band to simply happen across, or concerts where taping is discouraged prior to play. He doesn’t announce or discuss these things publicly specifically because they’re meant to be found at random, a special surprise for the Mountain Goats fan who happens to be in the right place at the right time. For these works, wide public availability of a track spoils the intent of its careful placement. That’s not to say that John will come after anybody for posting a track on YouTube, but it’s the sort of thing that is meant to be enjoyed in a different way.
 
 > my heart belongs to Ennius, and to Calvus, and to those writers of whom only a few lines survive.
 
@@ -174,17 +189,32 @@ We don't even need to push a cynical line about scarce things being more desirab
 > I’m often happy when things that have run their course are gone; it’s satisfying to me. Nothing is allowed to just go away any more; the archival nature of the web means if you make something, you’re consenting to its decontextualization and reuse forever. Things that exist for a season and are gone are some of the loveliest things in the world, in my opinion; few share that opinion now, but that’s ok, too.
 <!--  -->
 
+> the internet’s transformation of old-school tape trading ethics into a rabid rarities hunt has meant that the old forums, Twitter, and other outlets were polluted constantly by people asking John or the community around him for links to tracks they didn’t yet have. These people generally had very little interaction otherwise with the community: they’d create a forum account, post a thread asking for links to downloads, and would never be heard from again. This turned John’s curated conversation spaces (which began in the 90s with letters and emails before morphing into the forums) into much more stressful places, and detracted from meaningful conversation. That all came to a head when John canceled the release of West Texas Orphans in response to a new forum user who relentlessly asked for a leaked downloadable copy of Moon Colony Bloodbath. After that point, John slowly disappeared from his own forums, and eventually closed them to new accounts and finally shut them down at the end of last year. That might all seem inevitable, but it represented a transformation of a cohesive community into something more transactional.
 
-His insane hardcore live aesthetic, which epitomised Real Lo-Fi, has long passed. But the quixotic request to let some things be private, to not record him, to not photograph him, has survived his aesthetic convulsion. It's quixotic because recording and tabulating is unilateral and there are thousands of ruffians like me. 
+
+His insane hardcore live aesthetic, which epitomised Real Lo-Fi, has long passed. But the quixotic request to let some things be private, to not record his most intimate songs, to not photograph him, has survived his aesthetic convulsion. It's quixotic because recording and tabulating is unilateral and there are thousands of ruffians like me. 
 
 But he knows there are people like me (and he's not like Grothendieck or Perelman or anything, a seraph withdrawing from the fallen world with its beady little minds like mine).
 
+<br>
+
+> **you often think of the titles of your songs as keys to unlocking what the song is actually about. This idea of solving a puzzle—playing games, uncovering secrets**
+
+> I work in reveals. The reveal is a big part of what I do. The unveiling and the unmasking is a constantly recurring theme, I think. As with a lot of stuff for me, I think it ties in with my spirituality, which is Catholic. I left the Church a long time ago, but you’re always Catholic, right? This is what we say in the mass: “Let us celebrate the mystery of faith.” Catholicism is all about mystery. It’s about approaching the unapproachable, it’s acknowledging that, when you get close to that, it’s not definable, not knowable. Yeats uses the word “mystery” in some amazing ways. That’s the stuff for me, always. I like things that I don’t understand.
+
+> With some of my work, to some people, this is frustrating. Especially in the Internet age, people want to annotate things, to say “this means this, this means this.” With my stuff, I always want it to reach a nexus of, Can you sit with something that doesn’t resolve, and be happy there? Or not even be happy, but be present. That’s what I like, in art. That’s what I like in novels, especially. With songs, if the lyric doesn’t resolve, the music does. When that happens, that’s mystery itself
+
+<br>
 
 <img src="/img/cool.png" />
 
 <br>
 
 ## Cataloguing despite it all
+
+> Good Morning to All Vultures
+
+<br>
 
 All that said,
 
@@ -203,7 +233,6 @@ All that said,
 ## Eras
 
 > I think there's one song in the catalogue prior to [2015] that [has modulation], and it literally only modulates on the last chord
-
 
 
 His work has shifted profoundly over the last 20 years. Not just sound, genre, not just lyrical attitude, not merely moving from basic chords to composition, and not just moving to personal confessions. No: he tired of his two strongest artistic choices: being nearly completely alone and him rejecting all Production. The eras are
@@ -233,7 +262,7 @@ I can't stand (4) but it's largely just my allergy to the jazz keyboard hammond 
 </div>
 <br>
 
-OK OK it's not just the shift in sound but also the themes and AA-meeting flabby humanism. for GOD'S sake man i don't want your warmth and i don't need your acceptance. _Bleed Out_ is passable because the old sociopathy and new mental illness come back. <a href="#fn:2" id="fnref:2">2</a>
+OK OK it's not just the shift in sound but also the themes and AA-meeting flabby humanism. for GOD'S sake man i don't want your warmth and i don't need your acceptance. _Bleed Out_ is passable because the [old](https://themountaingoats.fandom.com/wiki/Nikki_Oh_Nikki) [sociopathy](https://www.youtube.com/watch?v=nIhALzwNcLc) and new mental illness come back. <a href="#fn:2" id="fnref:2">2</a>
 
 
 It is the prerogative of the long time fan to get arsey about changes of direction and scream the names of the cult classics; it is the prerogative of the artist to pay literally zero attention to them.
@@ -404,6 +433,30 @@ That is all.<br />
 <blockquote>Once you're no longer in the day job, you don't know what's going on with people... Even if you're not a hermit, you're talking to people as an observer, and an observer can never know what a participant can know... I seemed to have less to say... If a writer disengages from people at large, his ability to describe the behaviour of people is going to suffer. </blockquote>
 <!-- https://www.youtube.com/watch?v=wOT00y1rE-8 --> 
      </div>
+     <h3>Sense organs</h3>
+     <div>
+        "you've got a sentence waiting on your tongue."<br>
+        "the taste of your tongue was thick and pure and impossibly sweet."<br>
+        "i wet my finger with my tongue and pressed it in the ashes, rubbed it up against your perfect eyelashes."<br>
+        "life and liberty on my tongue."<br>
+        "I've got Coca-Cola on my tongue."<br>
+        "It was resting lightly on my tongue."<br>
+        "I tasted chocolate on my tongue."<br>
+        "It burned my tongue."<br>
+        "Stick your tongue out, catch the pieces."<br>
+        "We're all here chewing our tongues off."<br>
+        "The taste of scotch rich on my tongue."<br>
+        "Flicking my tongue out at the wet leaves."<br>
+        "Now I taste jasmine on my tongue."<br>
+        "Dead languages on our tongues."<br>
+        "It's like I've got molasses on my tongue."<br>
+        "My tongue struck dumb."<br>
+        "Let every knee be bent and every tongue confess."<br>
+        "Battle cry rising from your tongue."<br>
+        "Capsule just in case underneath my tongue."<br>
+        "Tongue swollen with prayer."<br>
+        "Songs of the great god wild on my tongue."<br>
+     </div>
      <!-- 
       -->
       <h3>Psychological realism</h3>
@@ -417,6 +470,9 @@ Well now <em>yes</em>. <i>All Eternals Deck</i> is just that, retaining the perf
 
 </div>
 
+<br><br>
+
+> And you must know <br>All your secrets will go with me when I go
 
 
 
@@ -458,6 +514,13 @@ Well now <em>yes</em>. <i>All Eternals Deck</i> is just that, retaining the perf
     </li>
     <li class="footnote" id="fn:9">
         It's not that I only like him screaming but there has to be the <a href="https://www.youtube.com/watch?v=qVXkXSTrqXk">possibility</a> of him screaming.
+    </li>
+    <li class="footnote" id="fn:10">
+        Actually one of his <a href="https://themountaingoats.fandom.com/wiki/No_More_Tears">Ozzy songs</a> has a <a href="http://famouspoetsandpoems.com/poets/geoffrey_chaucer/poems/6675.html#:~:text=let%20me%20sleep%3B%20*-,a%20twenty%20devil%20way,-*.%20*twenty%20devils%20take">Chaucer reference</a>.
+    </li>
+    <li class="footnote" id="fn:11">
+        <blockquote>I had this real bad blackout when I lived in Portland, I was kind of a mess up there, and I had this blackout where when I came to I didn't know what day it was, and I think I'd been out for four or five days, but I had it in my mind that I'd been out for longer than that. So elected to stay in the house longer until I could figure out what day it was. This was not really too bright, but...so, but I was there for a couple more days convinced that, you know, convinced that I was [unintelligible] and I was pretty crazy, and finally I was like 'Well fuck it, I'm goin' outside!' And I combed my hair and I put on my hat and my sunglasses with which I did not leave the house, and I walked outside, and it wasn't cold anymore as it had been when I blacked out. And I looked around, and they'd put flowers in the planters in downtown Portland. And I was like...it was like the whole world was transformed
+        </blockquote>
     </li>
 
 </ol>

@@ -1,0 +1,47 @@
+---
+layout:     post
+title:      "The Shortest Trip"
+baselink:   /trip
+permalink:  /trip
+date:       2023-12-27  <!--site.time-->
+author:     Gavin
+
+img:        /img/
+published:  false
+visible:    1
+quality:    2
+emotion:    5
+importance: 3
+
+summary:    a throwaway philosophy of life
+confidence: 
+categories: 
+warnings:   
+wordcount:      
+---
+
+The videogame "[Shortest Trip to Earth](https://shortesttriptoearth.fandom.com/wiki/Shortest_Trip_to_Earth_Wiki)" has unusually good writing. It captures a kind of 1960s SF wonder (and horniness) which its obvious inspiration "FTL" doesn't. The game is by a tiny studio - I think one guy, [Edvin Aedma](https://et.wikipedia.org/wiki/Edvin_Aedma), wrote basically all of it.
+
+Its achievement is to encapsulate the science hippie vibe (think Sagan or Gleick). The good parts of the overall sickly New Age attitude. It's still a bit clunky and naive but it still moved me.
+
+<br>
+
+> "The causal chain reaction": Years ago, you helped somebody, changing their life forever. It started a chain-reaction of events that led to somebody helping you today.
+
+> "The seeds of generosity": By sowing the seeds of generosity, you have arrived to the harvest of abundance.
+
+> "The friend of truth": Awareness of your personal limitations has granted you an even deeper awareness of your freedom
+
+> "The focused one": you understand something so deeply that it allows you to understand everything a bit better than individuals usually do.
+
+> "The masterful exister": Random coincidences seem to support the fulfillment of your wishes more than what is usually considered normal
+
+> "The Great Peace": you're startting to realise your intimate connection with the Great Peace, remaining calm even in situations of utter distress.
+
+> "The optimality": you are in the right place at the right time
+
+> "The taste of victory": those who know what awaits them at the end of the road can enjoy the road better
+
+
+
+There are funny descriptions of which drugs your crew are using in the message log - completely ephemeral and difficult to catch. The hand weapons all have little funny descriptions, like the handgun with an onboard AI which prevents firing if there's a civilian lined up.
