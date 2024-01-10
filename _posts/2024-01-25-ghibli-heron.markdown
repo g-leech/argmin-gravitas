@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "The Boy and the Heron: renunciations"
+title:      "<i>The Boy and the Heron</i>: renunciations"
 baselink:   /heron
 permalink:  /heron
 date:       2024-01-07  <!--site.time-->
@@ -37,7 +37,7 @@ Two readings of Miyazaki's _The Boy and the Heron_ are that it's
 2. _The Tempest_; about <a href="{{goro}}">rejecting art</a>, laying down your staff, repudiating your life's work <a href="#fn:2" id="fnref:2">2</a>.
 
 <br>
-Taking both of these seriously leads us to a rich and disturbing joint: art (or anime) as deluded authoritarianism, and the artistic life (or his own life) as mistake. It is his least child-friendly film by far. <a href="#fn:3" id="fnref:3">3</a>
+Taking both of these seriously leads us to a rich and disturbing joint: author and authoritarian. Art (or anime) as deluded authoritarianism, and the artistic life (or his own life) as mistake. It is his least child-friendly film by far. <a href="#fn:3" id="fnref:3">3</a>
 <br>
 
 <center>
