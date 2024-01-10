@@ -133,6 +133,12 @@ Our culture&nbsp;focusses on&nbsp;practicality. Good. But it expends that accumu
 <br /><br /><br />
 
 
+## See also
+
+* <blockquote>what Henry Sidgwick called “rational hedonism” and “rational benevolence”—the tension being between insisting that all human beings seek individual pleasure for themselves while also claiming that they should put aside private gratification where necessary to secure the greatest happiness for the greatest number.</blockquote>
+
+
+
 <div class="footnotes">
 
 <ol>

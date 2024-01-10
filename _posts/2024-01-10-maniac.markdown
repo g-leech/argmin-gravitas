@@ -1,0 +1,140 @@
+---
+layout:     post
+title:      "'The Maniac' (2023) by Labatut"
+baselink:   /maniac
+permalink:  /maniac
+date:       2024-01-10  <!--site.time-->
+author:     Gavin
+
+img:        /img/vn.jpg
+published:  true
+visible:    1
+quality:    6
+emotion:    5
+importance: 9
+
+summary:    A good attempt to understand the most important theme of the last 80 years
+confidence: 90% on AI bits.
+categories: AI, xrisk, computers, science, maths, greats
+warnings:   War crimes, crimes against humanity, rationalised mental illness
+wordcount:  2291
+---
+
+<blockquote><i>I’m thinking about something much more important than bombs, my dear. I’m thinking about computers... I remember him there, standing silent within the computation, staring at the lights flashing in front of his eyes. One machine thinking inside of another... He left us a part of his mind.</i></blockquote>
+
+<br>
+
+This book is elevated by its choice of subject: the continuity between nuclear weapons, computers, and AI; the resulting threat to all things; the psychology that led people to produce them. This is ~the most important thing to talk about. And vN is still underrated and understudied -- equivalent in productivity to a thousand scientists, [more](https://www.gleech.org/jvn) ("<i>the creative outpouring of some minor god toying with the world... he did not comprehend the insecurities that haunt the rest of us; he understood nothing of uncertainty, awkwardness, or lack of self-worth since he was always so much better, so much smarter than anyone else</i>"). 
+
+But Labatut is not technical enough to really pull it off and (and so) he opts for melodrama to make you care. (His choice of an <a href="https://www.youtube.com/watch?v=x1bX3F7uTrg">Adam Curtis</a> epigram is revealing.) Obviously he can't put the technicalities on the page, but he's not technical enough behind the scenes and trying too hard to be emotive. 
+
+Portions of the text are verbatim disquotations (see e.g. <a href="https://www.goodreads.com/quotes/6564963-i-returned-to-civilization-shortly-after-that-and-went-to">Feynman</a>). But the rest of it, the connective tissue he adds, words in their mouth, is only imperfectly simulated. Chiefly melodrama.
+
+The great challenge of science writing is managing to convey any real structure to the nontechnical reader. Labatut does not ever hop this high bar, the great wall between you and the real thing. Instead we have only consequences, black boxes. You will forever miss most of von Neumann unless you look at a <a href="https://archive.org/details/mathematicalfoun0613vonn/page/n7/mode/2up">single page</a> of his actual work.
+
+He is way too fond of the "irrational rationality" meme - that you can be too rational, that rationality is inhuman. This comes from 1) an artist's love of cheap paradox; 2) an impoverishment conception of rationality as mere explicit intellection (rather than wisdom, integration, all-things-considered utility). He opts for the same pat shit that Turing's champions so often do:
+<blockquote><i>He felt lonely even among the people he loved. Because of that, I could understand the strange kinship he felt toward computers</i></blockquote>
+
+L suggests that vN was ~psychopathic until the H-bomb test - a Maniac. Supposedly he started to take responsibility for the world, for his giant effects on it, after hearing about the even greater monster he had helped make. [It's simpler to say](https://www.gleech.org/jvn#:~:text=Was%20von%20Neumann%20amoral%3F) that he was an (excessively) high decoupler who bet on American supremacy and took gigantic instrumental risks to ensure it.
+<blockquote><i>His mind was in a state of constant hunger... Spiritually, he was an ignoramus, yes, but he did have unquestionable faith in logic. Ah, but that type of faith is always dangerous! Especially if it is later betrayed. Nothing should be beyond question... Lost faith is worse than no faith at all, because it leaves behind a gaping hole... once he abandoned his juvenile faith in mathematics he became more practical and effective than before, but also dangerous. He was, in a very real sense, set free...<br><br>
+
+it was actually von Neumann who convinced them that they shouldn’t detonate the devices at ground level, but higher up in the atmosphere, since that way the blast wave would cause incomparably larger damage. He even calculated the optimal height himself — six hundred meters, about two thousand feet. And that is exactly how high our bombs were when they exploded above the roofs of those quaint wooden houses in Hiroshima and Nagasaki.<br><br>
+
+Many people still believe that Mutually Assured Destruction helped prevent the Cold War from turning hot</i></blockquote>
+
+<blockquote><i>I asked him, point-blank, why he felt that he needed to stay in Europe and to travel so often to Germany. He was so close, he said, so close to the foundations of mathematics that he could feel a tingle in his brain! That month, the Nazis had become the second-strongest political force in Germany, and Jancsi’s wife, Mariette, kept nagging me to convince him to stop traveling there, to stay with her in Hungary. It was pointless, really, we both knew how stubborn he was, so I did not even try... Jancsi was obsessed with history—especially with the fall of ancient empires—and though his hatred for the Nazis was essentially boundless, he was also convinced that he would know exactly when to leave. I now shudder at the accuracy of some of his prognoses, prophecies that no doubt came from his incredible capacity to process information and to sift the sand of the present through the currents of history. That gave him a certain sense of security, an overconfidence that would no doubt have betrayed a lesser man. </i></blockquote>
+
+<br><br>
+
+It is, though, fine and correct to describe him as <a href="https://musingsandroughdrafts.com/2019/10/26/some-notes-on-von-neumann-as-a-human-being/">a fool</a>. Labatut depicts the Mitteleuropean bourgeois as looking down on his love of America and toys and gambling and fooling around - no doubt accurately - but this reflects more on them than him. What I take from Klari is that it is all the more impressive that Von Neumann wasn't miserable and a snob. (Einstein too.)
+<blockquote><i>He once spent half an hour explaining the many advantages of having a small Pekinese versus a Great Dane, and he was still going on about it when I got up and left. This, from the same person who made countless contributions to group, ergodic, and operator theory, and published thirty-two major papers in less than three years
+
+America altered something inside him, it triggered a chemical or electrical rewiring of his brain... Not a breath of culture to be found in that entire country.
+
+peeking underneath the desks of the secretaries at the institute. Some of those poor women had to stick pieces of cardboard there, just so that this great man, this Übermensch, would stop staring up their skirts</i></blockquote>
+
+<br>
+
+---
+
+<br>
+
+* I liked the notes in passing about von Neumann's appropriation of other people's ideas, though he misses the biggest examples (like vN unilaterally releasing The computer design - including huge amounts of other people's work - into the public domain and profiting off ENIAC at IBM). The only place that Labatut manages to outdo <a href="https://www.gleech.org/jvn">Bhattacharya</a> is the discussion of <a href="https://en.wikipedia.org/wiki/Nils_Aall_Barricelli">Barricelli</a>, the actual father of genetic algorithms and so-called artificial life. ("<i>Neither acknowledged each other’s work. Not a word in their writings. I’ve checked. It’s as if they never met.</i>")
+
+* "<i>it later turned out that his attempt [to axiomatise set theory] was also unsuccessful</i>". As written, this is false. Labatut means that it didn't offer <a href="https://en.wikipedia.org/wiki/Hilbert%27s_second_problem">completeness</a>, but the theory is successful on a different great goal.
+
+* "<i>Janos and Gödel. Even in death, they are still connected, buried in the same cemetery, a few feet apart from each other.</i>" 
+
+* Labatut lets Morgenstern give himself more credit than he deserves, but also includes Klari: "the parasites that rode my husband’s coattails and fed off his brilliance like those tiny wasps that drill into the cores of regal oaks. Morgenstern, for example".
+
+* "<i>Heisenberg [intentionally] stalled [the nazi nuclear weapons programme], apparently, but we didn’t know that at the time</i>" - classic <a href="https://www.goodreads.com/review/show/2443328088">falsehood</a>.
+
+* It is very striking to see Labatut try to talk about <a href="https://slatestarcodex.com/2017/05/26/the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project/">the Martians</a> without mentioning Jewishness (14 out of 18 of them were Jewish). "<i>how could such a little country—surrounded as it was by enemies on all sides and torn between rival empires—produce so many extraordinary scientists in so little time... a pressure on the <b>whole society</b> of that part of Central Europe</i>"
+
+* "<i>von Neumann, and he was awful at [chess]</i>" (compared to Feynman).
+
+* It is irrational to misuse of game theory, to overlook all the violated assumptions. But this is no strike against the theory. "<i>if you looked at it logically using the models of game theory, he said, a nuclear first strike was not just the optimal solution</i>". This was one of the worst errors of all time, but he repudiated it within months of loudly proclaiming it.
+
+* The MANIAC computer foregrounded here isn't very prominent in the history of the first computers. "<i>Our computer wasn’t the first. Wasn’t even the third. But it was a stored-program computer</i>." So were Baby and modified-ENIAC, earlier. And (contra Labatut) it wasn't really von Neumann's baby. I don't think it was ever at the IAS either, he's probably confusing it with the (much less useful) EDVAC.
+
+* "<i>a mushroom-shaped cloud that rose toward the stratosphere and continued to grow until it was five times taller than Mount Everest</i>"
+
+* "<i>in modern biology we have this very peculiar situation: its most fundamental and precise mathematical basis was established first, and then we found out how life on Earth had actually gone about implementing it. That’s not the way things go. In science, you normally start from the concrete and then move to the abstract, while here von Neumann laid out the rules, with our DNA being just one particular example of them. So if you were writing a history of ideas, you could definitely say that Watson and Crick’s description of the function of DNA was prefigured by von Neumann, because he had explained it nearly a decade earlier</i>"
+
+* Haha biologists get owned: "<i>in biology, I became truly worried about what he could do. Unlike mathematics or physics, that entire realm of science was still untouched by logic</i>". (She means literal formal logic I think)
+
+* "<i>qwvickly, qwvestion, twvaining, or — his trademark — integhers, mistakes that were so common in his speech that I came to believe that he made them on purpose, since he was always perfectly articulate in all the other languages he spoke</i>"
+
+* Sorry to say that Klári sounds exhausting.
+
+* von Neumann's terror on his deathbed is sad, undignified. Converting to Catholicism, drunkenly strapping on <i>tefillin</i>, losing everything. But then he was losing more than I'll lose
+<blockquote><i>He suffered from the loss of his mind more than I have seen any human being suffer, in any other circumstance</i></blockquote>
+
+* <a href="https://www.youtube.com/watch?v=vLbllFHBQM4">The only video we have of him.</a>
+
+* I have never heard of the bizarre lethal electrical cure for cancer Labatut suggests vN died from: "<i>his skin had turned black, with dime-sized white spots all over it, as if they had covered his body in electrodes and burned him to a crisp... closed casket</i>".
+
+<br><br>
+
+---
+
+<br><br>
+
+On the other hand, Boltzmann and Ehrenfest are perfect for Labatut's style because they actually were tragic and melodramatic men.
+<blockquote><i>the slow and constant advance of his mental disorder, which seemed, like the entropy of the universe he had so wonderfully captured in [Boltzmann's] equation, to be constantly and irreversibly increasing, leading to inevitable randomness and decay. He admitted to his colleagues that he lived in perpetual fear that he might suddenly lose his mind during a lecture. Toward the end of his life he could hardly breathe from his asthma, his eyesight dimmed to the point where he could no longer read, and his headaches and migraines became so utterly unbearable that his physician ordered him to completely abstain from any scientific activity. In September 1906, Boltzmann hanged himself with a short rope from the crossbars of the window
+
+"[mathematics] kills everyone whose spinal marrow isn’t conditioned to fit the movement of its wheels"</i></blockquote>
+
+Ehrenfest was oddly vulnerable to the classic layman's reaction to the crisis of foundations: to clutch pearls and go full Pythogoras in the face of inconvenience and surprise:
+<blockquote><i>To acknowledge even the possibility of the irrational, to recognize disharmony, would place the fabric of existence at risk, since not just our reality, but every single aspect of the universe — whether physical, mental, or ethereal — depended on the unseen threads that bind all things together... it would be a death blow to science, philosophy, and rationality</i></blockquote>
+
+
+<blockquote><i>[Ehrenfest] knew of no way to keep [his son] safe from the strange new rationality that was beginning to take shape all around them, a profoundly inhuman form of intelligence that was completely indifferent to mankind’s deepest needs; this deranged reason, this specter haunting the soul of science... Paul sensed its budding influence, could hear the faint stirring of its tendrils as it slowly crawled toward us, and yet he could not name or place it, and hardly dared to speak of it out loud, for how could he tell if this morbid imagining, this inexplicable bane that he felt it was his duty to arrest, was the fruit of genuine foresight, or just another malignant growth of the delusion that was slowly overcoming his mind</i></blockquote>
+
+Naziism was <i>famously</i> irrational. Naive noncooperative game theory didn't exist yet so that can't be the culprit. Industrialism / economism / extractivism isn't really relevant here. So that leaves some supposed premonition of Godel -> Turing -> AI. The <a href="https://simple.wikipedia.org/wiki/Foundational_crisis_of_mathematics">foundational crisis</a> is in fact causally linked to a dire existential risk, but Labatut's mouthpiece for it doesn't satisfy me. Ehrenfest was obviously the irrational one!
+
+<br><br>
+
+---
+
+<br><br>
+
+
+The climactic AI chapter is not successful. ("<i>Its name is AlphaZero</i>". dan-dan-DAAAAN.) RL is the wrong lineage to worry about, and no leading approach uses genetic algorithms much, nor the theory of self-replicators. "Life" is here a category error for "agent".
+
+But again this is the red thread of our time and maybe all time. That he picks Go, RL - the other, less portentous branch - is a minor peccadillo given he is looking in the right direction with the right gravitas. <a href="https://en.wikipedia.org/wiki/The_Passenger_(McCarthy_novel)">Most</a> novelists would not have made the leap, satisfied with the well-worn and fully sufficient dramaturgy of nuclear physics. Maybe more will now as AI becomes visible to the naked eye, requiring no imagination to contend with.
+
+<blockquote><i>[a point in] history when our relationship with technology will be fundamentally altered, as the creatures of our imagination slowly begin to take real form, and we are faced with the responsibility to not only create but also care for them.</i></blockquote>
+If they care for us first!
+
+<br><br>
+
+Read <a href="https://www.gleech.org/jvn">Bhattacharya</a> first.
+
+<br><br>
+
+## See also
+
+* [My additions to Bhattacharya](https://www.gleech.org/jvn)
+
+<br><br>
