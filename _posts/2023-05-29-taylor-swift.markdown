@@ -119,7 +119,7 @@ I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a hre
 
 Call the machine <a href="{{trademark}}">TS</a>. The interesting part is that Swift the human built TS the machine and to some extent controls it. A _self_-manufactured pop star: Swift obscures the machine, equivocates, and feeds it vast hosts of people (fans, co-writers, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to more fame, fame which automatically produces more controversies.
 
-TS presents itself as Swift. It does perform characters explicitly (e.g. <a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) but it mostly pretends to be the woman in various forms. It adapts to audience and times: innocence-coded (with a twang) for Nashville then, demisexual-coded (with FKA-sighing) for the glossies, BPD-coded (and drawling) for the extremely online now. A persecution complex (and diphthongs) for everyone <a href="#fn:1" id="fnref:1">1</a>.
+TS presents itself as Swift. It does perform characters explicitly (e.g. <a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) but the machine TS mostly pretends to be the woman Swift in various forms. It adapts to audience and times: innocence-coded (with a twang) for Nashville then; demisexual-coded (with FKA-sighing) for the glossies now; BPD-coded (and drawling) for the extremely online now. A persecution complex (and diphthongs) for everyone <a href="#fn:1" id="fnref:1">1</a>.
 
 That's half of it; the other half is your incredible overestimation of the output. <a href="#fn:13" id="fnref:13">13</a>  TS songs are moderately catchy, (recently) moderately perverse, but expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / Jenny Lewis / Lady Gaga / Kesha / Lana del Rey / Lorde / FKA Twigs / <!--St Vincent--> Billie Eilish / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
 
@@ -199,6 +199,8 @@ Some of her fans are terrible but this isn't unusual or interesting.
 https://twitter.com/alloftaysgirls/status/1658985747104317441/photo/1
  -->
 
+ <br>
+
 
 
 ### Poptimism
@@ -265,13 +267,15 @@ I think the usual mechanism is that the execs meddle to ensure that they recoup 
 
 <br>
 
-This part of the machine is really interesting. The romantic singer-songwriter tradition says that music is good to the extent that it honestly expresses one person's feelings. So how can it be _bad_ that she talks about her love life, and that people respond to it?
+This part of the machine is really interesting. 
 
-One thing: TS is simultaneously an optimised hit factory which tracks stylistic trends in the charts and creates products in response, _and_ an extension of gossip mag voyeurism. The songs are more explicit about its celebrity subjects than past love / revenge songs. It's a product to a greater degree than everything else is now a product. (You lot would go parasocial regardless of how private Swift was, but as it is it's cultivated in a way which makes me run screaming.)
+The romantic singer-songwriter tradition says that music is good to the extent that it honestly expresses one person's feelings. So how can it be _bad_ that TS talks about Swift's love life, and that people respond to it?
 
-Another is that melding public and private _destroys_ the private. Living in public prevents you being yourself (think of the self-censorship alone), which undermines the romantic artist story another way <a href="#fn:9" id="fnref:9">9</a>. And like you can read her <a href="{{diary}}">diary</a>. 
+First: TS is simultaneously an optimised hit factory which tracks chart trends and creates products in response, _and_ a gossip mag analogue. The songs are more explicit about its celebrity subjects than past love / revenge songs. The result is a product to a greater degree than everything else is now a product. (You lot would go parasocial regardless of how private Swift was - but as it is it's cultivated in a way which makes me run screaming.)
 
-The music is generally a play for sympathy or (even more sympathetic) a revenge fantasy. Possibly these bids are even sincere -- one imagines it's quite therapeutic to have a million people cheering you. But their one-sidedness makes me disdain them. (e.g. recall the absurd premise of "Reputation", that she is a victim and needs defenders.)
+Another is that melding public and private _destroys_ the private. Living in public prevents you being yourself (think of the self-censorship alone). This undermines the romantic artist story a second way <a href="#fn:9" id="fnref:9">9</a>. And like you can read her <a href="{{diary}}">diary</a>.
+
+The music is generally a play for sympathy or (even more sympathetic!) a revenge fantasy. Possibly these bids are even sincere -- one imagines it's quite therapeutic to have a million people cheering you. But the one-sidedness makes me disdain them (e.g. recall the absurd premise of "Reputation", that she is a victim and needs defenders).
 
 
 Yet another strat: the pretence that TS is uncool, the victim of snobbery, mean girls, <a href="{{shake}}">haters</a>, paps, hacks, <a href="{{miso}}">misogyny</a>. (She's uncool, like you. She's bullied, like you. Being a fan of her is brave and kind.) Apparently this has an actual referent in Swift's misfit teen experience, but it becomes a grotesque pose in the light of TS' global <a href="{{obama}}">supremacy</a>. A side effect of the pretence is pre-empting essays like this. Haters are going to hate.
@@ -558,7 +562,7 @@ Washed up and ranting about the same old bitter things
     </li>
     <!--  -->
     <li class="footnote" id="fn:13">
-        Bowie pulled off a less-corporate, high-culture version of the TS trick 50 years ago and I love him for it - because his songs are, <i>at the very least</i>, interesting and aimed at more than pleasing me.
+        Bowie pulled off a less-corporate, more-high-culture version of the TS trick 50 years ago and I love him for it - because his songs are, <i>at the very least</i>, interesting and aimed at more than pleasing me.
     </li>
     <!--  -->
     <li class="footnote" id="fn:14">
