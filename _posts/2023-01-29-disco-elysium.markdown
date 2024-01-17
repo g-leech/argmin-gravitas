@@ -614,6 +614,10 @@ All we can say is that it murders less. We mustn't say this very proudly.
 <br><br>
 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I mean the creators had a poster of Stalin in their offices and the theme of the game was that the EU was bad for bringing jobs and immigrants, so the impression checks out. <a href="https://t.co/umVlM36P2M">https://t.co/umVlM36P2M</a></p>&mdash; Sasho Todorov (@SashoTodorov1) <a href="https://twitter.com/SashoTodorov1/status/1746041074949165519?ref_src=twsrc%5Etfw">January 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br><br>
+
 
 <!-- > Now this ideology is only represented by student book clubs and old, decaying philosophers. -->
 

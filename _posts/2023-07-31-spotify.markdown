@@ -39,6 +39,8 @@ wordcount:
 {%  assign mcd = "https://www.thestar.com/entertainment/meet-the-man-classifying-every-genre-of-music-on-spotify-all-1-387-of-them/article_250cba6e-d7c1-5b14-81f0-b7e89c26eddf.html" %}
 {%  assign wave = "https://rateyourmusic.com/discussion/music/spotify-data-analysts-just-invent-genres-now-apparently" %}
 {%  assign seven = "https://open.spotify.com/user/12168710240/playlists" %}
+{%  assign evans = "https://open.spotify.com/user/1258508389?si=3c9661dd7d5b4299"   %}
+{%  assign rockwell = "https://www.nytimes.com/2006/12/24/books/review/Lopate.t.html"  %}
 
 
 <img src="/img/minutes.png" />
@@ -57,14 +59,16 @@ This false privacy means there's little incentive to lie, e.g. to pretend to lik
 <div class="accordion">
     <h3>types of playlist</h3>
     <div>
-        1. Functional. The commission of altered states: workout, study, dancing, yoga for the anxious.<br>
-        2. Events. <a href="{{part}}">Parties</a>, road trips, and <a href="{{fun}}">funerals</a>. (Drown thought.)<br>
-        3. Best of [artist]. Or <a href="{{dyl}}">weirder</a> views of artist.<br>
-        4. Best of [<a href="{{seven}}">year</a>]<br>
-        5. Best of [<a href="/nation-sound">country</a>]<br>
-        6. Best of [<a href="{{sco}}">niche scene</a>]<br>
-        7. mixtapes and fumbling <a href="{{love}}">love letters</a> composed with the words of others<br>
-        8. a sort of second-order art or found poetry<br>
+        1. Functional, personal. The commission of altered states: workout, study, dancing, yoga for the anxious.<br><br>
+        2. Functional, social. Commissioning a vibe for a specific event. <a href="{{part}}">Parties</a>, road trips, and <a href="{{fun}}">funerals</a>. (Drown thought and conversation.)<br><br>
+        3. Best of 
+          <ul><li>[artist]. Or <a href="{{dyl}}">weirder</a> views of artist.</li>
+          <li>[<a href="{{seven}}">year</a>]</li>
+          <li>[<a href="/nation-sound">country</a>]</li>
+          <li>[<a href="{{sco}}">niche scene</a>]</li>
+          </ul><br>
+        4. mixtapes and fumbling <a href="{{love}}">love letters</a> composed with the words of others<br><br>
+        5. a sort of second-order art or found poetry<br>
     </div>
 </div>
 <br><br>
@@ -98,6 +102,7 @@ I am quite serious in calling them scholars. No doubt I missed the best, the equ
 * <a href="https://open.spotify.com/user/1218340696?si=59663073cd3a43f7">Joe Schuetz</a> (hand of the king [Bangs], every angle on rock)
 * <a href="https://open.spotify.com/user/mofgimmers?si=8b5672e62d1b46b2">mofgimmers</a> (Taking Pills with the French, music for loud shirts, amazing single-artist lists)
 * <a href="https://open.spotify.com/user/wadeywade?si=e194bc7374ee4d5e">Ian Wade</a> (foreign charts, decades and decades)
+* <a href="{{evans}}">Jonathan Evans</a> (just really well-executed party lists and subsubgenres. Notable for colour-coding by mood)
 * <a href="https://open.spotify.com/user/fredpessaro?si=902f29a2dd3a46fa">Fred Pessaro</a> (music for DMVs, incels, lots of blind alleys and red herrings)
 <!-- * <a href="">Carrie white</a> -->
 <!-- * <a href="{{forks}}">Forks Clove Tofu</a>  -->
@@ -140,7 +145,7 @@ Still, you could use their historical data (pre-2014) to see the effect of algor
 
 ### Self-serving paean to curators
 
-Musical culture is now too large for anyone to even survey, let alone master - even if we window to contemporary musical culture alone, ignoring the past completely. We needed <a href="{{xgau}}">Christgau</a> (and <a href="{{scar}}">Scaruffi</a>, and <a href="{{hull}}">Hull</a> and Rockwell), to find jewels in the dross and more importantly structure in the great noise. But the job is much harder now.
+Musical culture is now too large for anyone to even survey, let alone master - even if we window to contemporary musical culture alone, ignoring the past completely. We needed <a href="{{xgau}}">Christgau</a> (and <a href="{{scar}}">Scaruffi</a>, and <a href="{{hull}}">Hull</a> and <a href="{{rockwell}}">Rockwell</a>), to find jewels in the dross and more importantly structure in the great noise. But the job is much harder now.
 
 Frankly we need critical service more than we need another great band. <a href="#fn:4" id="fnref:4">4</a> Something is lost without curation and interpretation: we can't understand. This post is me doing my bit on the third order: thinking about people who think about music. 
 
