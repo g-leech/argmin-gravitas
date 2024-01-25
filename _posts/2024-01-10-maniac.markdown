@@ -32,7 +32,9 @@ Portions of the text are verbatim disquotations (see e.g. <a href="https://www.g
 
 The great challenge of science writing is managing to convey any real structure to the nontechnical reader. Labatut does not ever hop this high bar, the great wall between you and the real thing. Instead we have only consequences, black boxes. You will forever miss most of von Neumann unless you look at a <a href="https://archive.org/details/mathematicalfoun0613vonn/page/n7/mode/2up">single page</a> of his actual work.
 
-He is way too fond of the "irrational rationality" meme - that you can be too rational, that rationality is inhuman. This comes from 1) an artist's love of cheap paradox; 2) an impoverishment conception of rationality as mere explicit intellection (rather than wisdom, integration, all-things-considered utility). He opts for the same pat shit that Turing's champions so often do:
+He is way too fond of the "irrational rationality" meme - that you can be too rational, that rationality is inhuman. This comes from 1) an artist's love of cheap paradox; 2) an impoverished conception of rationality as mere explicit intellection (rather than wisdom, integration, the all-things-considered achievement of Value). 
+
+He opts for the same pat shit that Turing's champions so often do:
 <blockquote><i>He felt lonely even among the people he loved. Because of that, I could understand the strange kinship he felt toward computers</i></blockquote>
 
 L suggests that vN was ~psychopathic until the H-bomb test - a Maniac. Supposedly he started to take responsibility for the world, for his giant effects on it, after hearing about the even greater monster he had helped make. [It's simpler to say](https://www.gleech.org/jvn#:~:text=Was%20von%20Neumann%20amoral%3F) that he was an (excessively) high decoupler who bet on American supremacy and took gigantic instrumental risks to ensure it.
@@ -73,7 +75,7 @@ peeking underneath the desks of the secretaries at the institute. Some of those 
 
 * "<i>von Neumann, and he was awful at [chess]</i>" (compared to Feynman).
 
-* It is irrational to misuse of game theory, to overlook all the violated assumptions. But this is no strike against the theory. "<i>if you looked at it logically using the models of game theory, he said, a nuclear first strike was not just the optimal solution</i>". This was one of the worst errors of all time, but he repudiated it within months of loudly proclaiming it.
+* It is irrational to misuse game theory, to overlook all the constantly violated assumptions and still try to use it. But this is no strike against the theory. "<i>if you looked at it logically using the models of game theory, he said, a nuclear first strike was not just the optimal solution</i>". This was one of the worst errors of all time, but he repudiated it within months of loudly proclaiming it.
 
 * The MANIAC computer foregrounded here isn't very prominent in the history of the first computers. "<i>Our computer wasn’t the first. Wasn’t even the third. But it was a stored-program computer</i>." So were Baby and modified-ENIAC, earlier. And (contra Labatut) it wasn't really von Neumann's baby. I don't think it was ever at the IAS either, he's probably confusing it with the (much less useful) EDVAC.
 
@@ -123,6 +125,8 @@ Naziism was <i>famously</i> irrational. Naive noncooperative game theory didn't 
 The climactic AI chapter is not successful. ("<i>Its name is AlphaZero</i>". dan-dan-DAAAAN.) RL is the wrong lineage to worry about, and no leading approach uses genetic algorithms much, nor the theory of self-replicators. "Life" is here a category error for "agent".
 
 But again this is the red thread of our time and maybe all time. That he picks Go, RL - the other, less portentous branch - is a minor peccadillo given he is looking in the right direction with the right gravitas. <a href="https://en.wikipedia.org/wiki/The_Passenger_(McCarthy_novel)">Most</a> novelists would not have made the leap, satisfied with the well-worn and fully sufficient dramaturgy of nuclear physics. Maybe more will now as AI becomes visible to the naked eye, requiring no imagination to contend with.
+
+An artist more serious about conveying reality in such domains will have to spend years learning or go the <a href="https://en.wikipedia.org/wiki/The_Science_of_Discworld">Pratchett route</a> with coauthors.
 
 <blockquote><i>[a point in] history when our relationship with technology will be fundamentally altered, as the creatures of our imagination slowly begin to take real form, and we are faced with the responsibility to not only create but also care for them.</i></blockquote>
 If they care for us first!

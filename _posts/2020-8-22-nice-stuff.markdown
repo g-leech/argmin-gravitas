@@ -94,6 +94,9 @@ _Cost per year_: £5
 _Expected lifespan_: 2 years?<br>
 _Cost per year_: £4
 
+* Two single duvets. If you or your partner are blanket hogs, you might benefit from having two separate duvets on the bed.<br>
+_Additional cost per year_: £0.
+
 * <a href="{{beary}}">Beary Quiet earplugs</a> (£10). The best, for my shape anyway. 40 dB decrease, always still in by morning.<br>
 _Expected lifespan_: 1 year<br>
 _Cost per year_: £10
