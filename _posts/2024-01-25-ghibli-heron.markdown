@@ -14,7 +14,7 @@ emotion:
 importance: 3
 
 summary:    two clear allegories for the Tower
-confidence: Coherentist; I'm not making strong claims about Miyazaki's intention.
+confidence: Eisegesis; I'm not making strong claims about Miyazaki's intention.
 categories: art, becoming, meaning
 warnings:   Spoilers in the high sense.
 wordcount:      

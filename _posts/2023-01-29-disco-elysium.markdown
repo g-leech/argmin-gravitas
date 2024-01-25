@@ -391,6 +391,10 @@ Returning to the Pale and the end of the world: one of the very few sentimental 
 
 > a *strict* psychological regime imitating the creation process of poetry...
 
+(The initial attempt to contain nihilism - the church, the old [sacred canopy](https://web.pdx.edu/~tothm/religion/Summary%20of%20Peter%20Berger,%20The%20Sacred%20Canopy.pdf) that tried to keep us warm - is no longer viable, in the 51st year of [the Current Century](https://knowyourmeme.com/memes/come-on-its-2015-current-year). It's not even an option for _Harry_ - Harry, the Channeler of Doomed Ideologies.)
+
+<br>
+
 [You need](http://fayde.co.uk/dialojue/5580503)... <a href="{{full}}">anodic music</a>. Art which incorporates the sound of the world dying, '<i>the anthem of a future which will never come</i>'. Somehow this music, this game, makes the situation seem better. 
 
 > The wounds from the war you've waged on your body are healing, twist by twist, turn by turn. You must have touched upon an entirely new way of moving the human body! 
@@ -667,7 +671,7 @@ But this is wisdom in a modern radical! No one with any awareness of history, hu
 
 > Pessimism of the Intellect, Optimism of the Will!
 
-- Gramsci
+<center>- Gramsci</center>
 
 <br>
 
@@ -678,6 +682,12 @@ I chose something else though:
         <span style="font-weight:bold;">Anonymous asked</span>: 'you have the most hilariously naive politics i've ever seen, it's milquetoast pacifist liberalism meets autistic rationalism. grow a fucking backbone you fuck.'<br /><br /><span style="font-weight:bold;">Unitofcaring</span>: certain subbubbles of the Left have constructed this environment in which it is inherently pathetic, inherently contemptible, to say “mass murder is a really awful thing and if we can achieve our goals without it that’s worth striving for” or even “no matter what, I won’t endorse or participate in mass murder”. <br /><br />I can imagine how I’d be a Marxist. 30,000 kids die preventable deaths every day and that makes me angrier and sadder than you can possibly imagine and if I’d gotten ensnared in an ideology that claimed the only way for that to end was to kill all of the rich people, I’d probably also go around saying “kill all the rich people!” But I hope I’d never, ever equate “willingness to call for murder” with “moral strength” or “strength of character”.<br /><br />Valuing life is moral strength. Protecting people is strength of character. Calling for mass murder from your keyboard is cowardice. And the communities that deny those things, that circle the wagons around their conviction that willingness to kill people is equivalent to having a backbone, that claiming “the rich all deserve to die” is moral strength, that caring about human life is hilariously naive -<br /><br />- well, first of all, you’ll never get anything done. My friends and I will end those  deaths, eradicate malaria, fix global inequality, hunt down every source of human suffering and watch it take its last breath while you’ll sit there going “milquetoast pacifists! hilariously naive! the rich are not innocent!”. But second of all, you’ll spend your not-accomplishing-anything time in a bubble where caring about all human life is a weakness, where not wanting to murder people is disgusting and contemptible, and I know people are different psychologically but I can’t imagine anything worse than that.<br /><br />...come join us, we milquetoast autistic rationalist liberals, because you don’t have to rant on the internet about killing people to earn our esteem, you just have to fix stuff. 
 </blockquote>
 <center>– <a class="noline" href="https://theunitofcaring.tumblr.com/post/135400140231/you-have-the-most-hilariously-naive-politics-ive">unit of caring</a></center>
+
+<br><br>
+
+The tribunal as Fanonian violence. 
+
+What legitimates the RCM in Martinaise again, after decades of brutality and vigilantism?: Standing together against the outsider, and [killing him](https://www.youtube.com/watch?v=By_T39ENlkg).
 
 <br><br>
 

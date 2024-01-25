@@ -22,26 +22,64 @@ wordcount:
 
 ### Successful (noticeable, d>0.5)
 
+* Hydroxyapatite
 * Semaglutide
-* 20/4 intermittent fasting 
+* 20/4 intermittent fasting
 * Glucomannan as fasting aid
 * Caffeine <a href="/stims">once per week</a>
 * Salbutamol for cardio
 * Lumenator for SAD
 * Bupropion for SAD
+* 2.5g DHA & EPA for mood
+* Nicotine lozenges, 2mg/day
 
 
 ### Ongoing (no results yet)
 
 * Oral minoxidil
 * Tretinoin 
+* [Vollagen](https://www.vegetology.com/supplements/vollagen)
 
 
 ## Failure (effect not noticeable or worth it)
 
+* Caffeine
 * Topical minoxidil
 * Magnesium for sleep
 * Vyvanse
 
 
 <br>
+
+
+
+<!-- factorial analysis of supplements.
+No external validity sought.
+
+Caffeine sends some people to sleep.
+
+Index
+1. Books per month
+2. #pomodoros
+3. Self-rated productivity
+4. Sleep quality
+5. Fluid cognition
+    RAPM
+    DNB
+    backward digit span
+    Cambridge Brain Sciences?
+
+
+Need
+
+* EEG (when sleep on side)
+
+
+
+
+## Chems
+Modafinil
+Nicotine
+Flow
+Theanine
+Caffeine -->

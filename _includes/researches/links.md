@@ -45,6 +45,7 @@
 {%	assign vsmike = "https://www.lesswrong.com/posts/J7RnKXcyCNdrdAus4/we-have-some-evidence-that-masks-work"	%}
 {%	assign espr = "https://espr-camp.org/"		%}
 {%	assign aisc = "https://aisafety.camp/"	%}
+{%  assign shallow = "https://www.lesswrong.com/posts/zaaGsFBeDTpCsYHef/shallow-review-of-live-agendas-in-alignment-and-safety" %}
 {%	assign bmj = "http://web.archive.org/web/20220127185926/https://gh.bmj.com/pages/thank-you-to-our-reviewers/"	%}
 {%	assign ml = "https://www.springer.com/journal/10994"	%}
 {%	assign maskscode = "https://zenodo.org/record/6385347"	%}
