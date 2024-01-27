@@ -1,0 +1,82 @@
+---
+layout:     post
+title:      "The best of Siderea"
+baselink:   /siderea
+permalink:  /siderea
+date:       2024-02-29  <!--site.time-->
+author:     Gavin
+
+img:        /img/
+published:  false
+visible:    1
+quality:    
+emotion:    
+importance: 
+
+summary:    Inscribing the Boston sibyl
+confidence: 
+categories: 
+warnings:   
+wordcount:      
+---
+
+
+{%   assign sid = "https://siderea.dreamwidth.org/"   %}
+
+
+<img src="/img/sidint.png" />
+
+<br>
+
+> We interrupt your regularly scheduled program of mental illness, man's inhumanity to man, social injustice, and the fiasco that is the US healthcare system for something actually cheerful and uplifting... the novel Watership Down
+
+<br>
+
+https://www.patreon.com/siderea/community
+https://siderea.dreamwidth.org/archive
+
+
+
+You probably haven't heard of <a href="{{sid}}">one of the best bloggers</a>. This is partially because of her chosen platform: it is the greatest LiveJournal blog and the last of its kind (it runs on a fork of the LJ codebase).
+
+It is a little pocket of air preserved from 2009 and good for ails you.
+
+She's been at it for 21 years, partially Patreon-funded since 2014. She was a software engineer who pivoted to psychotherapy, a rare and powerful background. Centrally a healthcare blogger, but has extremely interesting things to say about social theory and is a fount of useful handles and little mental models.
+
+Many people liveblogged their way through Covid and Covid science. Siderea started in January 2020 and kept going for 320 posts (and another 292 if you count "pestilence", her project of recounting the 1918 flu).
+https://siderea.dreamwidth.org/1576034.html
+
+Like Scott Aaronson, she is roiled by American current affairs in a way. She was woke before the term was .
+https://siderea.dreamwidth.org/1766175.html
+
+<br>
+
+---
+
+<br>
+
+> discussing class is basically taboo in American culture: but, specifically, the class which it is taboo to discuss is social class. This presents a problem for Americans because social class is a real phenomenon, an important phenomenon around which huge amounts of American policy, politics, and culture organizes. It's the elephant in the American living room. Social class is taboo to discuss, but economic class is not, and that presents an obvious "solution": Americans conflate social and economic class so they can talk about social class under the guise of talking about economic class.
+
+https://siderea.dreamwidth.org/1237182.html
+
+https://siderea.dreamwidth.org/1209794.html
+
+https://siderea.dreamwidth.org/1148597.html
+
+https://siderea.dreamwidth.org/1361333.html
+
+https://siderea.dreamwidth.org/1394433.html
+
+https://siderea.dreamwidth.org/1209794.html
+
+https://siderea.dreamwidth.org/1486739.html
+
+https://siderea.dreamwidth.org/1238585.html
+
+https://siderea.dreamwidth.org/1773806.html
+
+https://siderea.dreamwidth.org/1477942.html
+
+https://siderea.dreamwidth.org/1192109.html
+
+https://siderea.dreamwidth.org/1763628.html
