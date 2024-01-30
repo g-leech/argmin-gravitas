@@ -301,6 +301,7 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 * <a href="{{schif}}">Ben Schifman</a>
 * <a href="{{berg}}">Aaron Bergman</a>
 * <a href="{{v}}">Vitalik on tour</a>
+<!-- https://tynan.com/gear2024/ -->
 
 <br><br>
 

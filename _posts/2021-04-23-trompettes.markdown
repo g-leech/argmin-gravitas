@@ -33,6 +33,8 @@ argument:
 	<h2><a href="{{yt}}">Listen</a></h2>
 </center>
 
+<br>
+
 
 <blockquote style="margin-left:10%"> 
 	Autumn comes, the trees are naked, I am shaking like a leaf<br>
@@ -73,12 +75,12 @@ The arrangement is twee: the two most prominent voices are xylophone and Hammond
 
 It's not a concept album but it is a suite, which people often mistake for a concept album. If there is a concept, it's refusing to let life deflate you - even if you find yourself in a little life, alone and ill-conditioned. Or the need to see your life as a story, for all that school and work and ill health demean us, stopping us see ourselves as protagonists. (If you can't manage to live grandly, then fantasise.)
 
-> My trade was a whaler - <br>
+> My trade was a whaler - 
 but the whales are no longer biting.<br>
-I retrained in data management <br>
+I retrained in data management 
 and I came back fighting<br>
 
-(At first I thought this was mocking the character, but now I think we should admire his strength, his ability to imbue his life with meaning.)
+(At first I thought this was mocking the character, but now I think we should admire his strength, his ability to [imbue](https://www.theguardian.com/lifeandstyle/2017/may/19/putting-off-important-things-not-reasons-think) his life with meaning.)
 
 <br>
 <center>
@@ -86,7 +88,11 @@ and I came back fighting<br>
 </center>
 <br>
 
-Trompettes de la mort (trumpets of the dead) are mushrooms. I haven't quite cracked the connection between vegetables and existential resilience, but mushrooms thrive in all sorts of bad conditions. Then there's several songs about the sea which I also haven't related to the social trauma theme or the vegetable theme.
+Trompettes de la mort (trumpets of the dead) are mushrooms. [What's the connection between vegetables and existential resilience?](https://knowyourmeme.com/memes/you-cannot-kill-me-in-a-way-that-matters)
+
+> you cannot kill me in a way that matters... decay exists as an extant form of life
+
+Then there's several songs about the sea which I haven't yet related to the social trauma theme or the vegetable theme.
 
 I hear Tucker sing 3 characters:
 - Track 1, 4, 14 are the narrator (not as shrill)
@@ -185,6 +191,7 @@ I think it's my album of 2005 <a href="#fn:1" id="fnref:1">1</a>, and until I du
 	</ol>
 </div>
 
+<br>
 
 <center>
 	<h2>
