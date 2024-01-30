@@ -9,8 +9,21 @@ visible:  false
 
 <style>
   {%   include frontpage.css  %}
+  #sim {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .rowlink::before {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 1.5em; /* don't forget to set the height! */
+  }
 </style>
 
+<!-- <br class="wide"> -->
 <br>
 
 <div id="best" class="home">
@@ -60,7 +73,7 @@ visible:  false
     </table>
 </div>
 
-<br>
+<br><br>
 
 <div id="whole" class="home">
   <h1 class="fancy">New posts:</h1>
@@ -104,6 +117,7 @@ visible:  false
     <br>
     <h2 class="fancy">
       <a href="{{ "/archive" | prepend: site.url }}">[more]</a>
+    <br class="break">
     <br class="break">
 
 </div>
@@ -151,10 +165,10 @@ visible:  false
 <br class="break">
   <a href="{{ "/tags" | prepend: site.url }}">[by topic]</a>; &nbsp;
 <br class="break">
-  <a href="{{ "/importance" | prepend: site.url }}">[importance]</a>.
+  <a href="{{ "/importance" | prepend: site.url }}">[by importance]</a>
 </h2>
 
-<br><br class="break">
+<br><br class="break"><br class="break">
 
 <style>
   #mc_embed_signup {
@@ -165,7 +179,7 @@ visible:  false
 {%    include mc.html  %}
 
 
-<a rel="me" href="https://schelling.pt/@gl">&nbsp;</a>
+<!-- <a rel="me" href="https://schelling.pt/@gl">&nbsp;</a> -->
 
 
 {%  include padder.html   howMuch=6  %}
