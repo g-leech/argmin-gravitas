@@ -47,7 +47,7 @@ wordcount:  1200
 	</blockquote>
 	– Adam Smith
 <!--  -->
-	<br><br>
+	<br><br><br>
 <!--  -->
 	<blockquote>
 		I will call the imaginary philosopher who acquiesces in the Cartesian paradox a Cartesian skeptic, and the (even more) imaginary philosopher who acquiesces in the Kantian paradox a Kantian skeptic.
@@ -61,7 +61,7 @@ I love contrariness. I love <a href="{{cross}}">Saudi cross-dressers</a>, <a hre
 
 I have something on all of you. In university I knew an _actual_ sceptic. Not a "fucking-love-science" atheist; not a special-case <a href="{{redd}}">doubting Thomas</a>. No: A full blown _we do not know if there is a world_ <a href="{{rad}}">radical</a>. The most seriously philosophical person I will ever meet.
 
-I found this extremely engaging, because I was trying to be the kind of person who strictly followed argument, who had philosophy as the centre of their life. I never took on radical scepticism as a full belief (or a full absence). But it still helped me: it was an exposé of the lack of justification for most things I saw around me - no matter how intimidating or high status. Most people start with a protective <a href="{{scott}}">epistemic helplessness</a> (in the positive sense of not treating any single argument you can't immediately counter as coercive). I had to learn it. I gave up on certainty, on certain useless definitions of knowledge, and on armchair inquiry. I am now glad of it.
+I found this extremely engaging, because I was trying to be the kind of person who strictly followed argument, who had philosophy as the centre of their life. I never took on radical scepticism as a full belief (or a full absence). But it still helped me: it exposed the lack of justification for most things I saw around me - no matter how intimidating or high status. Most people start with a protective <a href="{{scott}}">epistemic helplessness</a> (in the positive sense of not treating any single argument you can't immediately counter as coercive). I had to learn it. I gave up on certainty, on certain useless definitions of knowledge, and on armchair inquiry. I am now glad of it.
 
 If meeting such a person - if realising that a common kind of philosophy cannot answer the sceptical paradoxes - doesn't cure you of a naive relationship with philosophy, nothing will.
 

@@ -13,7 +13,7 @@ published:  true
 summary:    Serious or ironic? Political or aesthetic? Yay or boo?
 confidence: High in the historical claims; N/A for the cultural criticism.
 quality:    7
-importance: 3
+importance: 5
 emotion: 	7
 wordcount:  3000    
 warnings: 	Too late. Suicide, swastikas, humanism, anti-humanism, ironic immorality.

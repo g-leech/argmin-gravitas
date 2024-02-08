@@ -17,12 +17,13 @@ confidence: N/A
 importance: 7
 wordcount:  1500
 warnings:	Centred on PhD research, which has particular pathologies.
-categories: research, writing, self-help
+categories: research, writing, self-help, phd
 argument:   ignorance/argument.html
 ---
 
 <!-- Writing Checklist -->
 <!-- https://roamresearch.com/#/app/gleech/page/5jHVvVI8w -->
+
 {% 	include phone_img.html 		%}
 {%	include ignorance/links.md	%}
 {%	assign chapman = "https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf"	%}
@@ -37,13 +38,13 @@ argument:   ignorance/argument.html
 </blockquote>
 
 – <a href="{{heid}}">Martin Heidegger</a> <a href="#fn:1" id="fnref:1">1</a>
-<br><br>
+<br><br><br>
 
 <blockquote>
 	As a researcher, either you won’t understand something and you will feel stupid and like a worm, or you will understand something and think it’s too trivial and hence still feel like a worm. 
 </blockquote>
 – <a href="{{spj}}">Simon Peyton Jones</a>
-<br><br>
+<br><br><br>
 
 
 <blockquote>
@@ -58,6 +59,8 @@ argument:   ignorance/argument.html
 What do you need, to do new things? Imagine you're a junior researcher; a scientist; a <a href="{{dry}}">dry-lab</a> scientist; a Machine Learning person. For good and bad reasons you want to publish in <b>D</b>eep <b>L</b>earning, a decade-old bandwagon which continues to <a href="{{gelada}}">steamroll</a> your field. You're rolling in the deep. How do you get to work?
 
 A natural answer is to start at the <a href="{{dl}}">beginning</a>: go read the underlying mathematics.
+
+<br>
 
 <center>
 	<img class="i50" src="/img/dl.png" />

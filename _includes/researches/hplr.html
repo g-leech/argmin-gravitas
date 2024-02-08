@@ -1,0 +1,42 @@
+{%  assign id = "hplrimg"  %}
+{%  assign hplr = "https://arxiv.org/abs/2402.04464"    %}
+{%  assign hplrtw = "https://twitter.com/g_leech_/status/1755542850433946107"    %}
+
+
+
+<tr>
+    <td class="logo">
+        <a href="{{hplr}}">
+            <div id="{{id}}"></div>
+        </a>
+    </td>
+    <td style="padding-left: 5px">
+        <a class="noline" href="{{hplr}}" target="_blank">
+            10 Hard Problems in Artificial Intelligence
+        </a>
+        <div class="journo">
+            (2024)
+        </div>
+        
+        <span class="dropdown">
+          <button class="dropped" onclick="javascript:drop('hplr')">The point</button>,
+
+          <div id="hplr" class="dropdown-content">
+            <br>
+            <b>Full title: Ten Hard Problems in Artificial Intelligence We Must Get Right</b>
+            <br><br>
+            We explore the AI2050 "hard problems" that block the promise of AI and cause AI risks: (1) developing general capabilities of the systems; (2) assuring the performance of AI systems and their training processes; (3) aligning system goals with human goals; (4) enabling great applications of AI in real life; (5) addressing economic disruptions; (6) ensuring the participation of all; (7) at the same time ensuring socially responsible deployment; (8) addressing any geopolitical disruptions that AI causes; (9) promoting sound governance of the technology; and (10) managing the philosophical disruptions for humans living in the age of AI. For each problem, we outline the area, identify significant recent work, and suggest ways forward. [Note: this paper reviews literature through January 2023.]
+            <br><br><br>
+
+            <i>Authors</i>: Gavin Leech, Simson Garfinkel, Misha Yagudin, Alexander Briand, Aleksandr Zhuravlev.<br><br>
+                <i>Total hours I contributed</i>: 800.
+            <br><br>
+          </div> <a href="{{hplrtw}}">explainer</a>, 
+        </span>
+    </td>
+</tr>
+
+<script>  
+    var src="/img/gpt.jpg"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>
