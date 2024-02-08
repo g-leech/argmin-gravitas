@@ -38,7 +38,7 @@ the error that needs to be reduced in the brains of organisms such as ourselves 
 <center> – <a href="{{log}}">Varshney & Sun</a></center>
 <br>
 
-When deciding whether a situation is good or bad, you can compare up (to a superior reference class) or compare down. 
+When deciding whether a situation is good or bad, you can compare up (to a superior reference class) or compare down (to something worse than the current state). 
 
 <a href="{{rel}}">A key finding</a> of the behavioural and psychological sciences is that humans don't take absolute measurements (naturally). Instead we find some similar object and judge things relative to it. This is why <a href="{{an}}">anchoring</a>, framing effects (etc) work on us, when they shouldn't. Most importantly: we seem to judge value this way too. The tantalising possibility is that we can _create_ value for free, by merely changing our framing.<br><br>
 
@@ -46,9 +46,9 @@ When deciding whether a situation is good or bad, you can compare up (to a super
 
 * To have <a href="{{grat}}">gratitude</a> for 𝑥 is to compare down to a world where you don't have it.<br><br>
 
-* Clinical trials with placebo controls are comparing down, to (roughly) nothing; clinical trials with reference treatment controls are comparing up. <br><br>
+* Clinical trials with placebo controls are comparing down, to (roughly) nothing; clinical trials with reference treatment controls are comparing up. Placebo trials are in this sense a trick.<br><br>
 
-* Comparing _between_ people is difficult: too much varies (energy; aptitude; <a href="{{lottery}}">lottery of fascinations</a>) and ordering them is anyway risky. Better to compare up to your personal best, or down to your past self. <br><br>
+* Comparing _between_ people is difficult: too much varies (energy; aptitude; <a href="{{lottery}}">lottery of fascinations</a>) and ordering them is anyway risky. Better to compare up to your ideal performance, or down to your past self. (I hope your past is down, anyway.)<br><br>
 
 * "It's just a drop in the ocean" is comparing up, to having solved the entire problem all at once. This is very useful for correcting people who think their ineffective policy is amazing ([recycling](https://medium.com/@robertwiblin/what-you-think-about-landfill-and-recycling-is-probably-totally-wrong-3a6cf57049ce), say). David Mitchell: "_Yet what is any ocean, but a multitude of drops?_"<br><br>
 
@@ -185,7 +185,7 @@ Saying “what I have is good” might reduce your drive to improve the situatio
 
 * [The Parable of the Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) by Scott Alexander
 * _<a href="{{ortho}}">Choosing the Zero Point</a>_ by orthonormal
-* _<a href="{{rob}}"></a>_
+* _<a href="{{rob}}">rob</a>_
 * Stoicism seems to be the philosophy of constantly comparing down.
 
 <br><br><br>

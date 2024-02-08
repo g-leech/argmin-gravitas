@@ -11,58 +11,81 @@ visible:	false
 {%	assign psy = "https://socialsciences.nature.com/posts/reversals-in-psychology"		%}
 {%	assign fo = "https://forrt.org/reversals"		%}
 {%	assign wiki = "https://en.wikipedia.org/wiki/AI_alignment"		%}
+{%	assign la = "" %}
 
 
-I'm interested in keeping an eye on AI. By a stroke of luck my PhD advisor is <a href="{{la}}">Laurence Aitchison</a>. I'm at the Interactive Artificial Intelligence Centre for Doctoral Training at the University of Bristol.<br><br>
-
-
+<style>
+	{%	include researches/papers.css	%}
+</style>
 <center>
-{%	include researches/icons.html	%}
+	{%	include researches/icons.html	%}
 </center>
 
-<br>
 
-### Covid modelling
 
-I started my PhD just before Covid. In a strange turn, a bunch of computer scientists invited me to do a little bit of writing on their big Bayesian model of what policies worked against the bug. I had no epidemiology background. 12 months later, we'd produced a series of <a href="/researches">7 leading papers</a> on important questions which weren't being treated with the proper uncertainty.
+I did a PhD in machine learning at Bristol with <a href="{{la}}">Laurence Aitchison</a>, 2019-2024. (Though I had a year of classes and took a year off in the middle to start <a href="https://arbresearch.com">Arb</a>.)<br>
 
-Yes, this was the least neglected research topic in the world. Yes, it is strange that noobs could do this. 
+I went in wanting to work on AI safety. True to form, I instead ended up with a huge grab-bag of fields and topics: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, inductive logic, algorithmic fairness and (of course) large language models. Some safety work in there if you squint. But I published enough, so the resulting thesis is _Methods Failing the Data, Data Failing the Methods_.
 
-<br>
-
-### Probabilistic programming
-
-My original project was _Tensorised Probabilistic Programming_.
-
-Exact inference is intractable in many realistic latent variable models. Of the available approximations, variational inference is fast, but underestimates the variance; and Markov Chain Monte Carlo estimates the variance well but is far too slow in large models (Bishop 2006, Betancourt, 2020). For policy applications, where the variance must be accurate to prevent large irreversible decisions, we thus need new methods. Extending Aitchison's 2019 work on speeding up variational autoencoders, we seek to generalise the use of tensor products for approximate inference.
-
-The end goal is multi-sample inference for any such scheme, and we aim to implement this in a probabilistic programming language (PPL) to maximise usability and impact. There are already ‘tensorised‘ PPLs, in the weak sense of using tensor operations for arbitrary probabilistic programs with one inference scheme (e.g. Bingham et al., 2019, which uses stochastic variational inference for all runs). We seek a further abstraction for any inference scheme. In our project, ‘tensorised’ denotes the tensor products used to achieve the speedup.
-
-The original plan has passed to a colleague, but I'll be back.
+I was very lucky. It looks like a success if you use the usual measures (h-index, top journals and conferences, first-author publications, academic job offer at the end). But I didn't go into it for poxy goodharted numbers or a mere job; I went in to become a great scientist. Obviously this did not happen. But I did learn how to really read papers, how to write papers, how to present technical ideas clearly, and how to become stubborn and insensitive in the face of uncertainty in latent spaces. Academia is forever demystified for me. My aversion to mathematics has settled down into mere guarded neutrality. I am unafraid. This training was ambiguously worth it.
 
 <br>
 
-### AI safety
-
-<a href="/ai-risk">Here's my sceptic's guide to AI risk</a>. (For relative sceptics.) I also contributed a couple thousand words to the <a href="{{wiki}}">main wiki page</a>. I currently work with the <a href="{{acs}}">Alignment of Complex Systems Group</a>, Charles University.
-
-At the first AI Safety Camp I worked with a team on inverse reinforcement learning, <a href="/grids">designing environments</a> to help us probe the limits of such reward learning. Our work was reused by a <a href="{{krak}}">team</a> at Deepmind and in an <a href="{{aies}}">AIES paper</a>. 
-
-Before starting on probabilistic programming, I played with an odd alternative ML paradigm called _<a href="/ilp">inductive logic programming</a>_. This led to my first paper, a negative result.
-
-I also helped on <a href="/lgfo">a wee paper</a> with a sort of counsel of despair about algorithmic fairness.
-
-I've also <a href="/acais">written</a> about the likely overlap between work on current systems and future systems.
+_Undying thanks to Kristi, Misha, Laurence, Jan B, Jan K, Dan, Kaveh, ..., Tomas, Matthijs, ..., Juan. Sine qua non._
 
 
 <br>
 
+### Posts about my PhD
 
-### Metascience
+* My thesis in plain language
+* Click "The Point" on the entries <a href="/researches">here</a>
+* an unusual PhD by numbers
+* Description of the cost and the benefit
+* <a href="/ignorance">Crossing the ocean of my ignorance</a>
+* Thoughts on the field of machine learning
+* Against PhDs
+	* Going rogue
+	* Annual decision about whether to quit
+	* Authorship politics
+* phdiary
+* Lessons
 
-Over Christmas, instead of studying for quals I started <a href="{{psy}}">listing</a> all the failed replications in psychology I'd heard of. This ballooned into a list of hundreds, and was taken up by the volunteer org <a href="{{fo}}">FORRT</a> for permanent maintenance.
 
 <br>
+
+## Areas
+
+
+<div class="accordion">
+	<h3>Covid modelling</h3>
+	<div>
+		I started my PhD just before Covid. In a strange turn, a bunch of computer scientists invited me to do a little bit of writing on their big Bayesian model of what policies worked against the bug. I had no epidemiology background. 12 months later, we'd produced a series of <a href="/researches">7 papers</a> on important questions which weren't being treated with the proper uncertainty.<br><br>
+		Yes, this was the least neglected research topic in the world. Yes, it is strange that noobs could do this. 
+	</div>
+	<h3>Probabilistic programming</h3>
+	<div>
+		My original project was _Tensorised Probabilistic Programming_.<br><br>
+		Exact inference is intractable in many realistic latent variable models. Of the available approximations, variational inference is fast, but underestimates the variance; and Markov Chain Monte Carlo estimates the variance well but is far too slow in large models (Bishop 2006, Betancourt, 2020). For policy applications, where the variance must be accurate to prevent large irreversible decisions, we thus need new methods. Extending Aitchison's 2019 work on speeding up variational autoencoders, we seek to generalise the use of tensor products for approximate inference.<br><br>
+		The end goal is multi-sample inference for any such scheme, and we aim to implement this in a probabilistic programming language (PPL) to maximise usability and impact. There are already ‘tensorised‘ PPLs, in the weak sense of using tensor operations for arbitrary probabilistic programs with one inference scheme (e.g. Bingham et al., 2019, which uses stochastic variational inference for all runs). We seek a further abstraction for any inference scheme. In our project, ‘tensorised’ denotes the tensor products used to achieve the speedup.<br><br>
+		The original plan has passed to a colleague. Sorry Thomas.		
+	</div>
+	<!--  -->
+	<h3>AI safety</h3>
+	<div>
+		<a href="/ai-risk">Here's my sceptic's guide to AI risk</a>. (For relative sceptics.) I also contributed a couple thousand words to the <a href="{{wiki}}">main wiki page</a>. I currently work with the <a href="{{acs}}">Alignment of Complex Systems Group</a>, Charles University.<br><br>
+		At the first AI Safety Camp I worked with a team on inverse reinforcement learning, <a href="/grids">designing environments</a> to probe the limits of such reward learning. Our work was reused by a <a href="{{krak}}">team</a> at Deepmind and in an <a href="{{aies}}">AIES paper</a>. <br><br>
+		Before starting on probabilistic programming, I played with an odd alternative ML paradigm called _<a href="/ilp">inductive logic programming</a>_. This led to my first paper, a negative result.<br><br>
+		I also helped on <a href="/lgfo">a wee paper</a> with a sort of counsel of despair about algorithmic fairness.<br><br>
+		I've also <a href="/acais">written</a> about the likely overlap between work on current systems and future systems.
+	</div>
+	<h3>Metascience</h3>
+	<div>
+		Over Christmas, instead of studying for quals I started <a href="{{psy}}">listing</a> all the failed replications in psychology I'd heard of. This ballooned into a list of hundreds, and was taken up by the volunteer org <a href="{{fo}}">FORRT</a> for permanent maintenance.
+	</div>
+</div>
+
+
 
 
 <style>
@@ -82,16 +105,5 @@ Over Christmas, instead of studying for quals I started <a href="{{psy}}">listin
 .ai-google-scholar:hover {
 	color: #006800;
 }
-
-.bris {
-	width: 25%;
-	padding: 10px;
-}
-
-.bris:hover {
-	border: 1px;	
-	padding: 9px;
-}
-
 
 </style>

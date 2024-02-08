@@ -161,7 +161,7 @@ Mama, I love you, give a hug and kiss to dad"
 
 So the cruelty was a tool: bait for our cruelty, to get us to lower our guard and so feel shame when those dead parents remind us that this is a [fictional? no matter] person and that taste-as-in-cynicism is a small thing.
 
-(Notes on craft: Burnham shifts his voice more nasal for this section, her direct speech. He also expands the aspect ratio, to denote that this is the real thing instead of the screen representation; or to denote our narrow view of this woman. And here's a stretch: you could crudely say that her Insta looks like heaven because she thinks her  parents are there.)
+(Notes on craft: Burnham shifts his voice more nasal for this section, her direct speech. He also expands the aspect ratio, to denote that this is the real thing instead of the screen representation; or to denote our narrow view of this woman. Crudely you could say that her Insta looks like heaven because she thinks her parents are there.)
 
 <br><br>
 

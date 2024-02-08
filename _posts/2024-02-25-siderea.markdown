@@ -37,11 +37,9 @@ https://siderea.dreamwidth.org/archive
 
 
 
-You probably haven't heard of <a href="{{sid}}">one of the best bloggers</a>. This is partially because of her chosen platform: it is the greatest LiveJournal blog and the last of its kind (it runs on a fork of the LJ codebase).
+You probably haven't heard of <a href="{{sid}}">one of the best bloggers</a>. This is mostly because of her chosen platform: it is the greatest LiveJournal blog and the last of its kind (it runs on a fork of the LJ codebase). It is a little pocket of air preserved from 2009 and good for ails you.
 
-It is a little pocket of air preserved from 2009 and good for ails you.
-
-She's been at it for 21 years, partially Patreon-funded since 2014. She was a software engineer who pivoted to psychotherapy, a rare and powerful background. Centrally a healthcare blogger, but has extremely interesting things to say about social theory and is a fount of useful handles and little mental models.
+She's been at it for 21 years, partially Patreon-funded since 2014. She was a software engineer but pivoted to psychotherapy, a rare and powerful background. Centrally a healthcare blogger but has interesting things to say about social theory and is a fount of useful handles and little mental models.
 
 Many people liveblogged their way through Covid and Covid science. Siderea started in January 2020 and kept going for 320 posts (and another 292 if you count "pestilence", her project of recounting the 1918 flu).
 https://siderea.dreamwidth.org/1576034.html

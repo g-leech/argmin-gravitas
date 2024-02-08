@@ -81,7 +81,7 @@ You _could_ reconstruct its <a href="http://fayde.co.uk/search?query=sorry&WordB
 -->
 
 
-It is a _point and click whodunnit with an amnesic protagonist_, for fuck's sake! <a href="#fn:4" id="fnref:4">4</a>  Yet another lesson, if you needed one, that there is no genre so overdone, no trope too passé, that a great artist cannot wring more out of. In art, nothing is ruined, nothing is useless, nothing is meaningless. (One reason it can never be realistic.) So, revitalising.
+It is a _point and click whodunnit with an amnestic protagonist_, for fuck's sake! <a href="#fn:4" id="fnref:4">4</a>  Yet another lesson, if you needed one, that there is no genre so overdone, no trope too passé, that a great artist cannot wring more out of. In art, nothing is ruined, nothing is useless, nothing is meaningless. (One reason it can never be realistic.) So, revitalising.
 
 It's far more politically sophisticated than most books. I call it political fiction because it depicts the emotional and structural detail of several wildly different worldviews so well, better than anything since <i>Red Plenty</i> (2010). They made something [smarter than themselves](https://www.youtube.com/watch?v=d1gKGq44NxQ), they satirise their own too. This can happen! <a href="#fn:3" id="fnref:3">3</a> 
 > TEN BRAINS HYPERTHREADING

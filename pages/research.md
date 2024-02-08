@@ -28,6 +28,18 @@ visible:	true
 <br>
 
 
+### Preprint
+
+<table>
+	{%  include researches/hplr.html	%}
+	{%  include researches/actadd.html	%}
+	{%  include researches/psychofore.html	%}
+	{%  include researches/trees.html	%}
+	{%	include researches/lgfo.html	%}
+</table>
+
+<br>
+
 ### Journal
 
 <table>
@@ -49,17 +61,7 @@ visible:	true
 	{%	include researches/ilp.html	%}
 </table>
 
-<br>
 
-### Preprint
-
-<table>
-	{%  include researches/actadd.html	%}
-	{%  include researches/psychofore.html	%}
-	{%  include researches/trees.html	%}
-	{%	include researches/lgfo.html	%}
-
-</table>
 
 <!-- * _Towards Tensorised Probabilistic Programming_ (2020) -->
 <!-- * _<a href="/files/ILP_vs_DL_v0.9.pdf" target="_blank">Comparing Inductive Logic Programming & Deep Learning</a>_ (2020) -->
