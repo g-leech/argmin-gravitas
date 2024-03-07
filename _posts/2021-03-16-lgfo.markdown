@@ -12,7 +12,7 @@ visible:    1
 
 summary:    Explaining the impossibility of algorithmic fairness to a high schooler.
 confidence: 80%
-categories: ai, ethics
+categories: AI, ethics
 quality: 	3
 importance: 3
 ---

@@ -12,10 +12,12 @@ visible:  false
 - _The Nature of Computation_
 - _Statistical Rethinking_
 - _Fooled by Randomness_
-- A Programmer's Introduction to Mathematics
-
+- _A Programmer's Introduction to Mathematics_
+- Barak and Sanjeev Arora: _Comp Complexity_
 <!-- Gödel, Escher, Bach  -->
 <!-- Structure and Interpretation of Computer Programs -->
+
+
 
 <br>
 

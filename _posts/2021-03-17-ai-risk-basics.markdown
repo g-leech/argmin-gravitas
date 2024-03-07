@@ -12,7 +12,7 @@ visible:    1
 
 summary:    Concrete reasons it might do extreme things.
 confidence: High that it's worth worrying about. 20% that it will happen.
-categories: ai, xrisk
+categories: AI, xrisk
 warnings:   Not much original material.
 importance: 9
 quality: 	8
