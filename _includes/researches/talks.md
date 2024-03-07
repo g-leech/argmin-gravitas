@@ -5,6 +5,9 @@
             Conference: <a href="https://youtu.be/leQ56mahNMs?t=605">Safety Properties of Inductive Logic Programming</a>
         </li>
         <li>
+            Lecture: <a href="https://docs.google.com/presentation/d/12TbEhDZA6inWcVWeme6x8jhDRXcZoJ9B63DWG92lryY/edit#slide=id.geb36be4e5e_0_1">on metascience</a> at Fixed Point, Prague.
+        </li>
+        <li>
             Journal club: <a href="https://docs.google.com/presentation/d/1WiCqOKVSMm0MTaOElbPG_AodEB2AfGwBhbi8DJn7cDY/edit">Are Emergent Abilities of Large Language Models a Mirage?</a>
         </li>
         <li>

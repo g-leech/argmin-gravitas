@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "Fey"
+baselink:   /fey
+permalink:  /fey
+date:       2024-02-29  <!--site.time-->
+author:     Gavin
+
+img:        /img/
+published:  false
+visible:    1
+quality:    
+emotion:    
+importance: 
+
+summary:    
+confidence: 
+categories: 
+warnings:   
+wordcount:      
+---
+
+A word we have completely lost to fandom
+
+"The shadow of death had already descended over him." He had died inside, pre-emptively. Absurdism in the subtractive mode.
+
+Sandlin
+
+
+Njal?
+
+---
+
+Me: Snowball fight
+
+---
+
+AGI

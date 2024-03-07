@@ -169,7 +169,7 @@ I realise now that Swift _is_ a kind of artist – but the art is not music, it'
         <!-- > The food was terrible, and such small portions -->
         <!--  -->
         (It's <a href="{{martin}}">Martin</a> and Shellback and Antonoff's and the thirty others' <i>job</i> to fade into the background, to make the star seem larger than they are. But even with coauthorship this is still a trick and we shouldn't fall for it.<br><br>
-        I think this tricks explains TS' dominance over other pop stars: it exploits a vulnerability in the "singer-songwriter" high culture status and pairing it with standard post-Britney sexy choreographed stadium hook shit. Then when TS smells an upcoming popstar it hitches her wagon to them with a collab.)
+        I think this trick explains TS' dominance over other pop stars: positioning the output as her ~sole work exploits a vulnerability in the "singer-songwriter" high culture status. The killer move is to pair that soi-disant confessional authenticity with the standard post-Britney sexy choreographed stadium hook shit. (Gaga did something similar, more credibly.) Then when TS smells an upcoming popstar it hitches her wagon to them with a collab.)
         <br><br>
     </div>
     <!--  -->
@@ -388,6 +388,11 @@ For all Swift's grinding and shrewdness, TS is just a splinter of the same spont
         <br>
         There's also <a href="https://www.theverge.com/2017/11/6/16613656/taylor-swift-first-amendment-lawsuit-aclu-nazi-kkk-lyrics">this ugly moment</a>.
     </div>
+    <h3>Playing you</h3>
+    <div>
+     <blockquote>The less charitable reading is that she wanted the lyric to be released to the public, but to also publically reject it as misogynistic</blockquote><br>
+     https://www.newstatesman.com/culture/music/2016/07/kim-kardashian-vs-taylor-swift-battle-two-pr-styles
+     </div>
 </div>
 
 <br>

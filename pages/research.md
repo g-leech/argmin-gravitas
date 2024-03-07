@@ -127,10 +127,13 @@ visible:	true
 
 <!-- ### Students
 
+* Dylan
 * Seth
 * Uzay
 * Juan
-* Yudi
+* Yudhi
+* Miles
+
 <br><br>
  --><!-- <br> -->
 
