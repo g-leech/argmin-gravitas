@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      ""
+title:      "Ten Hard Problems in and around AI"
 baselink:   /hplr
 permalink:  /hplr
 date:       2024-02-09
@@ -10,7 +10,7 @@ img:        /img/arb.png
 visible:    0
 quality:    8
 arb:        1
-summary:    Literature review - who gives more accurate forecasts?
+summary:    New paper on what it will take to make AI go well.
 confidence: 
 warnings:   
 categories: arb, AI
