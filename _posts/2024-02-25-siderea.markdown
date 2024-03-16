@@ -6,8 +6,8 @@ permalink:  /siderea
 date:       2024-02-29  <!--site.time-->
 author:     Gavin
 
-img:        /img/
-published:  false
+img:        /img/siderea.png
+published:  true
 visible:    1
 quality:    
 emotion:    
@@ -15,8 +15,8 @@ importance:
 
 summary:    Inscribing the Boston sibyl
 confidence: 
-categories: 
-warnings:   
+categories: social-science, mental-health, game-theory, humanism, psychology, politics
+warnings:   suicide, American politics
 wordcount:      
 ---
 
@@ -28,24 +28,23 @@ wordcount:
 
 <br>
 
-> We interrupt your regularly scheduled program - of mental illness, man's inhumanity to man, social injustice, and the fiasco that is the US healthcare system - for something actually cheerful and uplifting... the novel Watership Down
+> We interrupt your regularly scheduled program - of mental illness, man's inhumanity to man, social injustice, and the fiasco that is the US healthcare system - for something actually cheerful and uplifting... the novel Watership Down 
 
 <br>
 
-https://www.patreon.com/siderea/community
-https://siderea.dreamwidth.org/archive
+<!-- https://www.patreon.com/siderea/community -->
+<!-- https://siderea.dreamwidth.org/archive -->
 
 
 
 You probably haven't heard of <a href="{{sid}}">one of the best bloggers</a>. This is mostly because of her chosen platform: it is the greatest LiveJournal blog and the last of its kind (it runs on a fork of the LJ codebase). It is a little pocket of air preserved from 2009 and good for ails you.
 
-She's been at it for 21 years, partially Patreon-funded since 2014. She was a software engineer but pivoted to psychotherapy, a rare and powerful background. Centrally a healthcare blogger but has interesting things to say about social theory and is a fount of useful handles and little mental models.
+She's been at it for 21 years, partially Patreon-funded since 2014. She was a software engineer but pivoted to psychotherapy, a rare and powerful background. She plays [early music](https://siderea.dreamwidth.org/tag/early+music) (i.e. medieval and renaissance). Centrally a healthcare blogger but has interesting things to say about social theory and is a fount of useful handles and little mental models.
 
-Many people liveblogged their way through Covid and Covid science. Siderea started in January 2020 and kept going for 320 posts (and another 292 if you count "pestilence", her project of recounting the 1918 flu).
-https://siderea.dreamwidth.org/1576034.html
+Many of us liveblogged their way through Covid and Covid science. Well, Siderea started [January 2020](https://siderea.dreamwidth.org/1576034.html) and kept going for 320 posts (plus another 292 if you count "pestilence", her project recounting the 1918 flu). For some reason I'm a Covid scientist, so I will say she did incredibly well. It's an amazing time capsule of what a smart person thought and didn't know.
 
-Like Scott Aaronson, she is roiled by American current affairs in a way. She was woke before the term was .
-https://siderea.dreamwidth.org/1766175.html
+Like <a href="/aaronson">Scott Aaronson</a>, she is [roiled](https://siderea.dreamwidth.org/1766175.html) by American current affairs in the Paranoid Style. Or so it looks to those of us on the outside. But even these posts are well worth reading. 
+
 
 <br>
 
@@ -53,34 +52,213 @@ https://siderea.dreamwidth.org/1766175.html
 
 <br>
 
-> discussing class is basically taboo in American culture: but, specifically, the class which it is taboo to discuss is social class. This presents a problem for Americans because social class is a real phenomenon, an important phenomenon around which huge amounts of American policy, politics, and culture organizes. It's the elephant in the American living room. Social class is taboo to discuss, but economic class is not, and that presents an obvious "solution": Americans conflate social and economic class so they can talk about social class under the guise of talking about economic class.
+#### [Attitude](https://siderea.dreamwidth.org/517585.html) (2007)
 
-https://siderea.dreamwidth.org/1237182.html
+> there is an entire (successful!) medical industry based around changing people through changing their attitudes (or, if you prefer, helping people to change by helping them to change their attitudes), is because, to a whole lot of people, attitude is serious fucking black magic. Seriously. Not only don't they know how it works, it's deeply threatening. It's a hole in the order of the world. It threatens their business-as-usual lives and it threatens their world-view.
 
-https://siderea.dreamwidth.org/1209794.html
+> what attitude is, is this. When you subtract everything from the human mind that is involuntary, every predisposition, every aptitude, every limit, every trauma, every scar, every in-built trait and every unerasable consequence, what is left, is attitude... the stuff in your head you get to choose...
 
-https://siderea.dreamwidth.org/1148597.html
+> This has (to many people's world-views) horrible ramifications about morality and ethics, consequences so horrible they are emotionally unacceptable, and the whole thing is rejected outright: attitude cannot matter, science be damned; what happens in the privacy of my own head cannot have any affect on my outcomes. So, in this world where there's entirely too much affirmation of the idea that attitude matters for some people's comfort, there are a whole lot of people who pay lip-service to the idea, then do everything possible to deny and bury it.
 
-https://siderea.dreamwidth.org/1361333.html
+> The right attitude can let you see opportunities more clearly and act more effectively in pursuing them... Your attitude engages the social reality around you enormously, and causes dramatic effects in others' conduct both towards you and in general. Your attitude engages your own intrapsychic processes, changing the interal resources you have to bear in the immediate future, and changes your locus of control in the longer future. Moving one's locus of control inward ups one's sense of self-efficacy; upping one's sense of self-efficacy ups one's self-esteem. In short, managing one's attitude is not sufficient to improve one's life... but it's pretty much necessary to doing so.
 
-https://siderea.dreamwidth.org/1394433.html
+<br>
 
-https://siderea.dreamwidth.org/1209794.html
 
-https://siderea.dreamwidth.org/1486739.html
+#### [The Asshole Filter](https://siderea.dreamwidth.org/1209794.html) (2015)
 
-https://siderea.dreamwidth.org/1238585.html
+>  An asshole filter happens when one has set of norms which results in one primarily, or at least disproportionately, coming into contact with assholes... Assholes are abundant. Non-assholes are also abundant, maybe even more so than assholes, but there's no shortage of assholes. Consequently, if you start repelling non-assholes, there will be plenty of people left, all of whom are assholes. 
 
-https://siderea.dreamwidth.org/1773806.html
+> Now, you may be thinking, "Oh, you mean repelling non-assholes by being an asshole?" While that certainly can happen, that's not what I'm here to explain today, because that's not particularly mysterious. Frankly, far more mysterious is how being an asshole doesn't always, or maybe even often, drive away the non-assholes – something the phenomenon I'm describing goes some way to explaining. If you've been thinking that being a non-asshole should protect you from assholes, and that hasn't been working for you, and you're getting bitter about that, well, I have some news for you.
 
-https://siderea.dreamwidth.org/1477942.html
+> The simplest way to do this is to ask politely... Here's an example. Fred is a department head for a convention; he has a staff of people working directly under him, and they and he wrangle a huge number of convention attendees' arrangements. Fred initially had his personal email address as the contact for his department, and started drowning in emails; he'd forward them to his team, but him having to do that manually was a big bottle neck. So he has a distribution address set up for his department, so his staff get all emails set to it. He promulgates the policy (on the website, on FB, in publications), "Please do not email my personal email account about convention business. Please send all convention correspondence to fredsstaff@fredsconvention.tld." 
 
-https://siderea.dreamwidth.org/1192109.html
+> Who uses the officially designated email address? People who feel strongly about following rules; People who feel following the rules is generally a good idea; People who respect Fred's request because they're generally respectful; People who respect Fred's request because they like Fred personally; People who don't want to antagonize Fred; People who realize the problem Fred is trying to solve and want to be cooperative to reduce the burden on Fred; People who feel it important to respect role boundaries; People who are concerned that overwhelming Fred will cause their request to get lost.
 
-https://siderea.dreamwidth.org/1763628.html
+> Who uses Fred's personal email address? People who can't be bothered to learn and follow procedures; People who feel rules are for other people;  People who feel they should get to cut in line; People who don't feel keeping track of what other people prefer is all that important; People who aren't troubled by the thought of pissing off Fred, either because they don't care whom they piss off or because they think Fred is of no account; People who feel entitled to get their way; People who feel satisfaction when they find an illicit "shortcut" to getting what they want, that "suckers" are too "chicken" to use.
+
+<br>
+
+
+#### [Class (American)](https://siderea.dreamwidth.org/1237182.html) (2016)
+
+> the class which it is taboo to discuss is social class... Americans conflate social and economic class so they can talk about social class under the guise of talking about economic class.
+
+> Two baristas stand at an espresso machine, pulling drinks for identical wages: for one, this is a day job while she pursues her singer-songwriter career while living out of her lover's condo on Beacon Hill; the other is working two jobs to support three children in an illegal apartment in the basement of an Everett triple-decker. These two women are both "service-industry workers", but if they turn out to have two different social classes, would this be a surprise?
+
+> Social classes are cultures... They have entitativity. They command loyalty. They have customs. They have territories. They have insiders and outsiders; they Other others. They have rivalries. They are performative. This is why there are such readily read class signifiers. This is why certain preferences and tastes are indicative of a larger cultural identity. It is, in crucial sense, the answer to the question, "Why do they dress like that?": "Because in our class, this is normal, and considered becoming."
+
+> This may come as a rude shock, but while most people would appreciate more money, not everybody wants to perform middle-classness. There are probably quite a lot of people who would prefer to move up the economic ladder not by going to college and taking up desk work and changing how they dress and speak, but by getting raises and being paid overtime when they work it and not having to endure wage theft and getting to dress and speak as they are accustomed. Most people, at all times and in all places, do not like to give up their culture. Memento, terrigena. Suus cuique carus.
+
+<br>
+
+
+#### [On Self-Diagnosis](https://siderea.dreamwidth.org/1148597.html) (2014)
+
+> if you want to minimize the bad reaction of medical personnel to your self-diagnosing, my hypothesis about medical professional conflict-aversion suggests the primary way to do that would be to (1) not get attached to it and (2) be very scrupulously careful, in how you present your diagnostic idea, to communicate by both word and tone to your medical professional that you aren't attached to your diagnostic idea.
+
+> By presenting your diagnostic idea as a weakly held hypothesis -- an idea you're merely entertaining -- you basically give your medical professional an opportunity to contradict you without it being a big deal... So according to my hypothesis, one of the failure modes is approaching your medical professional with great enthusiasm for having Finally! Figured! It! Out! and presenting your self-diagnosis with the air of self-satisfaction that comes from having solved a particularly challenging puzzle.
+
+> a secret superweapon: the question mark. All of these examples demonstrate putting the self-diagnosis out there in a way that doesn't set up a power battle with the medical professional, by deferring to the medical professional's authority explicitly... None of which should be taken to suggest that if your medical professional is skeptical or disagrees that you shouldn't argue with them. By all means. You may find this mode a particular useful one for the carrying on such an argument: taking the rhetorical position of two thoughtful people discussing the evidence for and against a proposition.
+
+
+<br>
+
+#### [What New Atheism Says](https://siderea.dreamwidth.org/1361333.html) (2017)
+
+> The New Atheists contend that the beliefs we hold have consequences for our conduct. That contention, just in and of itself, offends against certain philosophical commitments most on the left have without really being aware they have them. The New Atheists contend that religious beliefs have consequences for the behavior of those who hold them, and that these consequences are dangerous – to the individual, to others around them, and to society as a whole.
+
+> The cultural norms of the left are that it's fine to be of the opinion that no gods exist, but not fine to be of the opinion that it's bad to believe in gods... It would be hard to overstate what a violation of liberal norms this contention is. To say that religion is bad and people should not indulge religious beliefs flies right in the face of the beloved liberal moral values of cultural tolerance and intellectual freedom...
+
+> Unfortunately, putting religion in a special epistemological bubble where it is beyond reproach has unhappy consequences of its own. For one thing, doing so proceeds on the supposition – the hope – that it really doesn't matter what someone believes, and that it really is okay for everyone to believe whatever they want, because it won't really effect anything. It relies on that being true, a priori – but it's not.
+
+> the antagonism they elicit has far more with being boorish than boring. That does seem to be the concept critics are usually grasping for in describing the New Atheists as irritating, loud, arrogant, contentious, sententious, tedious, etc. At the risk of putting words in others' mouths, it does seem that the complaint on the left about the New Atheists is that they're boors. But the thing is, a boor is someone who is rude, not someone who is wrong. Which does seem to be what the alluded to article at The Baffler (which I haven't read and have no intention to read) is indirectly getting at: "NNNG, it's not even that they're wrong, it's just like, shut up already, we don't want to hear it." By liberal mores, the New Atheists are terribly, terribly gauche for constantly going on with their anti-god-bothering. It's not just that what they're saying offends against the treasured principle of religious tolerance, but because it puts liberals in what is for many of them a terribly uncomfortable position.
+
+<br>
+
+#### [Looking Further from the Bridge](https://siderea.dreamwidth.org/1394433.html) (2018)
+
+>  How much lead is in the bodies of ALL the depressed and anxious people, ALL the hyperactive kids and acting-out adolescents, the psychotic adults and the demented elderly, EVERYWHERE? this isn't just about lead. As I mentioned in the epilogue, the excerpt is merely the beginning of the chapter, which then discusses other cases of "psychotic" people who turned out to be (or seemed highly likely to be) poisoned.
+
+> My point here, and Dumont's, is not "Gee, carbon disulfide poisoning is terrible". Our point is that it seems that psychiatrists do not consider, when presented with a patient presenting with any of 'deep depression and loss of memory' or 'acute mania' or 'delusions of persecution with hallucinations' that the patient should be assessed for carbon disulfide poisoning. Now, in my case, I'm a talk therapist, and worrying about patients maybe being poisoned is not even supposed to be on my radar. I'm supposed to trust the MDs to handle it. Dumont, however, is just such an MD. And that this was a clinical possibility was almost entirely ignored by his training.
+
+> psychiatry as a profession did not ask the question is the patient being poisoned? And it didn't ask the question, because clinical psychiatry had other explanations it liked better, to which it had a priori philosophical commitments...
+
+> Science is a GIGO – "Garbage In, Garbage Out" – process. We don't usually think of it that way, because ostensibly the whole point of science is to separate garbage from the gold.** But the scientific method is a method of testing hypotheses, not generating them. Science, reasonably enough, can only comment on the hypotheses submitted to it. If entire spaces of potential explanatory hypotheses are eliminated as candidates for scientific examination, a priori, for political reasons, for reasons of intellectual fads, for self-serving or emotional reasons, science has no innate ability to correct for that. If a field of science is constrained to only subject to scientific inquiry certain hypotheses none of which are right, because the right hypotheses are not socially acceptable, all the scientific method can report is, "Nope, that's not right", over and over and over again.
+
+<br>
+
+#### [The Vimes Boots Theory: Further Reflections](https://siderea.dreamwidth.org/1477942.html) (2018)
+
+> "These boots," I said gesturing at what I was trying on, on my feet, "cost $200. Given that I typically buy a pair for $20 every year, that means these boots have to last 10 years to recoup the initial investment." That was on January 17, 2005. They died earlier this month – that is in the first week of December, 2018. So: almost but not quite 14 years. So, purely as an investment, they returned a bit under $80, which is a 40% ROI.
+
+> another reason rich people are rich is that they don't have to spend as much time shopping, and, as we all know, time equals money... I feel that especially keenly because I am not on a salary. Time I'm not spending working is time that I don't get to bill for.
+
+> It is not really knowable what role my having reliable boots – and not needing to scramble to get or replace boots in the middle of the winter should the cheap boots fail precipitously – had in my being able to get and keep the internships and jobs I had that let me make it to private practice... by being able to secure jobs I could – with sufficient fortitude, patience, and really good winter boots – get to via the services of the MBTA, I didn't have to get a car...
+
+> the reason rich people get to save themselves money on boots is that they have the $200 for boots that poor people don't. That is true, of course, as discussed above. But that's not the whole story... They also know where to buy $200 boots... They also know which $200 boots to buy.
+
+<br>
+
+#### [Improper Nouns](https://siderea.dreamwidth.org/1773806.html) (2022)
+
+> It usually plays out like this. Somebody else takes a noun phrase – usually there's an adjective or two involved, sometimes multiple nouns – that seems perfectly ordinary and makes sense on the face of it, and which refers to something in the real world, and the speaker makes some bold assertion about it that strikes you as really weird, and possibly highly prejudicial. What they've said leaves you thinking, "wait, how could that possibly be true?" That's all you get. That's all the sign of what's happening. That's the glitch in the matrix... if you can catch yourself in that moment, and not reflexively dismiss it as silliness, you could, instead, ask yourself: "Hey, is that noun phrase maybe a technical term of art which means something much more specific and possibly quite different from what the individual words literally mean?" Doing this? Is a super power. Lots of people can recognize specific technical terms that they are acquainted with. Few people cultivate the more general ability to recognize – or just suspect – that a noun phrase is a technical term they aren't familiar with...
+
+> Common noun phrases describe their referent. Proper noun phrases do not describe, they merely designate. A woman named Joy can be in a bad mood; a man named Ernest can dissemble; and building named Green can be a light brown tinged with crud... That's what I want to bring to your attention: noun phrases that work like proper nouns, but look like – and are easily mistaken by outsiders for – a common noun phrase. Call them improper nouns. It's like a stealth proper noun: like a proper noun phrase, it designates, without describing, but it sure looks like it's just garden-variety description.
+
+
+<br>
+
+
+#### [The Two Moral Modes](https://siderea.dreamwidth.org/1249694.html) (2016)
+
+> One [mode] holds that morality extends, at least by default, to all interactions between humans. The other holds that morality only extends to interactions with qualified humans.
+
+> In Mode 1, one's moral standard of conduct for interacting with other people by default (there can be exceptions) applies to all other human beings, simply for the fact of their being human beings. Given the demographics of who reads my stuff, Gentle reader, this is probably the mode in which you reason, and with which you are most familiar. Mode 1 is the mode of Kant's Categorical Imperative and "I'd Like to Teach the World to Sing" and the idea of the universal brotherhood of man. We could say (though it may be a bit of a projection) that the deep presumption of Mode 1 is that morality's whole purpose is to serve as a universal protocol whereby all people – all people – who follow it would be able to live in a productive and amenable harmony.
+
+> In the other, Mode 2, one's moral standard of conduct for interacting with other people by default doesn't include all human beings – and that is considered a feature, not a bug. There is some, somewhat flexible, mental category of people to whom one owes moral conduct – but then there's everybody else. In Mode 2, morality only applies to interactions with people in a certain set, and in dealing with people outside that set, morality doesn't apply. I don't think Mode 2 is very familiar to most of my readers, because the forces that filter who comes here mostly only admit people of the professional classes, and in that class, the second mode is deeply socially unacceptable. Mode 2 remains more acceptable in other classes, but those who function in that mode know that the professional classes feel very strongly about it, and consequently they're mostly pretty scrupulous about not letting on, lest Mode 1 professionals ostracize them in outrage. Well, until recently... In Mode 2 resides this idea of usable outsiders. Morality is predicated on sorting humans into two groups: fellow in-group members to whom one owes a moral standard of conduct (e.g. you may not murder them, you may not steal from them), and out-group members to whom one owes nothing, and consequently of whom one is entitled to make whatever use one can impose by force or fraud.
+
+> This paradigm explains why it is that societies seem to toggle so abruptly into a persecutory culture. A society – such as ours – may seem to be entirely committed to Mode 1, but actually have some large faction actually being Mode 2 functioning, who are just playing along with the norms of the Mode 1 majority. Some subset of these may be consider to be just biding their time until they think they can make a successful push for cultural dominance.
+
+<br>
+
+#### [Suicide and Mental Illness](https://siderea.dreamwidth.org/1775300.html) (2022)
+
+> Suicidality is not exclusively associated with depression. In fact, for psych professionals, it's not even primarily associated with depression...  sometimes people commit suicide who, contrary to the public imagination, do not seem to have a diagnosable mental illness. 
+
+> This is a pet peeve of mine... One way it's harmful is that it's quite unpleasant when other people make bad assumptions about one's mental health. For a person who is dealing with suicidal thoughts or feelings but who isn't depressed, having the assumption they are projected on them can feel pretty icky. It can feel like other people don't care about them enough to find out what's really going on with them. It can feel like evidence that they're not important enough to pay attention to or listen to. It can feel like evidence that nobody will ever understand them, they're just too weird, to broken, to different to be understood by anyone else, ever.
+
+> Another way I think it's harmful is that it... makes suicidality harder to understand. When people assume that suicidality is necessarily conclusive evidence of depression, implicit in that is a model of what suicidality is and when it happens: if suicidality is a product of depression, then suicidality is a product of depressed mood. Suicidality is conceived of then as a product of sadness. This is wrong. People don't become suicidal because they're sad. Not even very sad. People become suicidal when they're in pain – and despairing of ever not being in pain... Typically suicidal people have strong opinions, rightly or wrongly, that their problems aren't temporary and that it won't get better. While it can be beneficial to assist a suicidal person in seeing how things can be made better, empty, ready, unspecific assurances that their circumstances are temporary mostly just convinces suicidal people that one doesn't understand.
+
+>  the third way that the equation of suicidality with depression is harmful is that it tends to thwart consciousness-raising about other conditions which are also worthy of awareness... Robin Williams didn't lose his battle with depression, nor with substance abuse. He was about a decade in recovery from both. Robin Williams committed suicide in response to the symptoms of a hellish disorder you might never have heard of: Lewy Body Dementia. Also called Dementia with Lewy Bodies, or Lewy Body Disease... for a long time, his widow's voice was drowned out by the huge number of people saying what they assumed was true: if suicide, then depression.
+
+
+
+<br>
+
+#### [Perfectionism, Toxic and Otherwise](https://siderea.dreamwidth.org/1224455.html) (2015)
+
+> One would get the impression from reading the wikipedia page (which is actually kind of terrible) that the predominant view in psychology these days is that there is both healthy and unhealthy perfectionism. However among clinicians, in my experience, as well as among the general public, "perfectionism", the term, has become synonymous with toxic perfectionism, and perfectionism, the personality trait and/or attitude, is pathologized...
+
+> The reign of this idea that all perfectionism is toxic is very frustrating: it's like nobody is allowed to have a realistically negative appraisal of their own work or ability. Or not allowed to admit it. If you do, you're corrected. You're told a socially-appropriately positive thing to think about yourself instead. Which, quite aside of the odiousness of one's feelings being policed and one's judgment implicit denigrated, in telling you what to think about yourself also commits the toxic perfectionism error of conflating one's self and one's work. This makes it hard to be an artist. I mean, harder than it otherwise is...
+
+> learning to shoot at unattainable targets is, done right, fabulously condusive to mental health... If one can tolerate the perennial disappointment, one will never grow as much as when one reaches that far.
+
+<br>
+
+#### [The Value of College](https://siderea.dreamwidth.org/1238585.html) (2016)
+
+> Can we please stop pretending that 'for the education' is a... common reason to go to college? It is tremendously disingenuous. Only the very most economically privileged (and those who get free tuition from something like the GI bill) could afford to attend college just for the enrichment of their minds. Everybody else has to get something else out of it – something radically more valuable to them than an education – to justify the staggering expense.
+
+> To say that people go to college to get an education is simply not what is happening, except in the case of those poor bastards who fall for the emic lie, and wind up saying things like, "You can get just as good a quality of education at a cheaper school," as if that mattered, as if whether or not that was true was relevant, because they have no idea what everyone else is going to college for.
+
+> I'm not saying that college doesn't educate. I got a fabulous education at my graduate school. If you are a college student, the college you attend will offer you an education. Considering what you're paying to be there, I strongly recommend that you take it. You bought that orange; I suggest you squeeze every last drop out of it. Hopefully it will be a really great orange, considering what you paid for it... An education may be the thing you have to get through to get what it was you went there for.
+
+> Going to college is a tool to improve your life after college. It may be the single most powerful tool to do so that you ever have access to. That is why people are willing to go into hock for tens or hundreds of thousands of dollars to go to college. Going to college is an attempt at buying a future.
+
+> Here's a list of benefits that one can get from attending college... Let's examine each of these in turn...
+
+<br>
+
+#### [How Professional Ethics Work](https://siderea.dreamwidth.org/1817931.html) (2023)
+
+> Professional ethics are the system by which professionals take themselves hostage... Professional ethics is entirely, absolutely, and wholly bound to the concept of professional licensure.
+
+> Professional licensure is a way of safely building exceptions into the social contract. For instance, the social contract holds that you don't get to go around stabbing people – and, commensurately, other people don't get to go around stabbing you. You forfeit the behavioral option of solving problems by stabbing people in exchange for not getting stabbed by people. The state, for it's part in the social contract, forbids anybody to do any stabbing, and if anybody gets stabby, the state will use its monopoly on violence to enforce the prohibition on stabbing people... What possible sort of stabbing could be beneficial? Oh, a ceasarian section. The amputation of a gangrenous limb. The excision of a tumor. You know: surgery.
+
+> What this means is that if you're a licensed professional, your license board holds your whole career hostage for your good behavior... one might assume – in a sort of massless ropes and frictionless pulleys sort of way – the system works more or less correctly and fairly. I haven't even broached the topic of Boards of Licensure being stupid, malicious, demented, or prejudiced. (I once was participating in general forum of therapists, and somebody related a story of a ghastly thing done by their license board, and I replied, based on the details, "Oh, you must be in California: that sounds like the BBS. I'm three thousand miles away and even I know how bad they are.") (My license board used to have a FAQ on their website with the question, "What if I have further questions about the process of applying for a license?" to which the answer was, approximately, "You can ask your professional organization." Which is to say, "Fuck off, we don't answer questions from licensees." I say used to: now they have no FAQ at all.) To be licensed is in many professions often to have at least a little tiny bit of terror, in the back of your head, all the time.
+
+> having ethical qualms is a career-hindering move. In the market for labor, the practitioners who don't give their bosses any resistance are going to be more hireable than those who do. Practitioners who are... cooperative... will have their names passed around as particularly good practitioners to hire, for bosses who don't want no trouble. That situation goes away when every practitioner in a field shares the same standard of conduct.
+
+
+<br>
+
+#### [The Ineluctable Smell of Beer](https://siderea.dreamwidth.org/1179450.html) (2015)
+
+> "The game is initialized in equilibrium. Each inventory contains 12 cases and initial throughput is four cases per week. In the first few weeks of the game the players learn the mechanics of filling orders, recording inventory, etc. During this time customer demand remains constant at four cases per week, and each player is directed to order four cases, maintaining the equilibrium. Beginning with week four the players are allowed to order any quantity they wish, and are told that customer demand may vary; one of their jobs is to forecast demand. Players are told the game will run for 50 simulated weeks, but play is actually halted after 36 weeks to avoid horizon effects... In virtually all cases, the inventory levels of the retailer decline, followed in sequence by a decline in the inventory of the wholesaler, distributor, and factory. As inventory falls, players tend to increase their orders. Players soon stock out. Backlogs of unfilled orders grow. Faced with rising orders and large backlogs, players dramatically boost the orders they place with their supplier. Eventually, the factory brews and ships this huge quantity of beer, and inventory levels surge."
+
+> When I regard the problem of the exploding costs of health care in the US, I detect the faint but unmistakable hoppy aroma of The Beer Game. Now, I want to be clear here, there are two obvious lessons The Beer Game teaches. One of them, the effect of lag-time on supply chains' feedback loops, is not the one I'm pointing to here. (There may well be supply-chain-lag-type problems in healthcare but they haven't come to my attention.) It's the other lesson I think is pertinent: in a dynamic system of even quite modest complexity, a one-time change in an operating parameter's value – with no change to the structure of the system at all – can cause the whole thing to lose equilibrium and toggle into a different, uncontrolled and destructive mode.
+
+> This is the first part in a multi-post series about a hypothesis I have about the nature of the escalation of costs in the US health care system. It's been running over 10k words, and climbing, so I've decided to serialize it. This chunk is a bit short, but the subsequent ones will be considerably longer. Stay tuned for more.
+
+<br>
+
+
+#### [Siderea Reads Watership Down](https://siderea.dreamwidth.org/1191426.html) (2015)
+
+> we get to savor the experience of having a whole alien culture set out to explore. This is a pleasure for which readers often turn to genre – SF, Fantasy, Michener-style Historical fiction – which may explain why so many genre readers love Watership Down: it provides exactly the same "sensawonda" of exploring an alien culture as does a story set on another planet, or in the past, or in another country. The effect of these two together is positively electric. Everything is strange, but nothing is inaccessible: endless inventive novelty, with no cognitive impedance at all. It's the most enticing of intellectual playgrounds. But wait, there's more!
+
+> Watership Down is about Kingship. I mean that, of course, in the Jungian sense. Watership Down is about the archetype of the King, about what it means, to use Moore and Gillette's terms, "to access the King in his fullness"... it is about power and authority in interpersonal relations... Your culture, Western culture, has not taught you that being a king is a job, a responsibility to the wellbeing of others. This is because Western culture is fucked up. In the stories of Western culture, coronations are the happily-ever-afters that happen at the end of the story. Watership Down is a story that starts with someone becoming king. Watership Down is a new myth for our society, a story that says being a king isn't a merit badge you get at the end of your adventures, it says being a king is an adventure. It says, contra to what is implied by all the stories that stop at coronations, the story of a king is interesting and worth hearing.
+
+
+
+<br>
+
+#### [Rent and Reputation](https://siderea.dreamwidth.org/1486739.html) (2019)
+
+> If you industriously and reliably pay all your bills for domestic services, including your rent, on time and save up cash for large purchases rather than buy things on credit, none of that responsibility and reliability and fiscal prudence will be captured to your credit report. You will appear as a cipher to lenders... Only negative behaviors make it on to one's credit report, not positive ones, where utility payments are concerned.
+
+> Far and away the biggest contractual obligation I have, financially, is my rent. It amounts to a hair under half my gross income. I have serviced that "account" with my old landlord, reliably, for twenty-three years. For most of which time, rent reporting services didn't exist. And because, like the vast majority of tenants, I didn't use a rent reporting service, the single greatest financial responsibility I have – and my single greatest financial accomplishment – does not appear on my credit report... Technically, my credit report is correct. I watch it like a hawk (because trying to rent an apartment!) and there's nothing on there that's erroneous. But it basically constitutes a substantive slander against me, because it elides correct factual information in my favor. It is deceitful by omission.
+
+> Let us all appreciate that I am complaining about being insufficiently surveilled.
+
+<br>
+
+
+#### [The Problem with Punching Up](https://siderea.dreamwidth.org/1574726.html) (2020)
+
+> The people who cling most tightly to this "punching up vs punching down" paradigm are those who really, really want to punch people, and want to know which people it's okay to punch. Remember, this was originally a moral principle for regulating comedy. Insofar as comedy involves ridicule and mockery, comedy is "punching" as an art form – as entertainment – and "punching up vs punching down" is a professional ethic for comedians, people who "punch" others for a living. As such, comedians have an a priori desire to get on with the punching, and thus a need to identify which targets are fair game.
+
+> But there's plenty of other people who just want to get their "punching" on, and are delighted to have this "punching up vs punching down" principle because otherwise they didn't have any principle at all which said that punching was ever acceptable. As far as they knew, being mean was always morally bad, which is a total bummer if you really, really, really want to be mean but also want to not think of yourself as someone who does morally bad things – or don't want other people to think you're bad for being mean. For people nursing this kind of covert aggressive impulse, this moral principle, that it is totally licit to "punch" people of more privilege, was like a declaration of open season.
+
+<br><br>
 
 ---
 
-"Social theory" is a big term. It recalls well-paid radicals in hardwood-panelled seminar rooms. It recalls the [French](https://ndpr.nd.edu/reviews/french-theory-how-foucault-derrida-deleuze-co-transformed-the-intellectual-life-of-the-united-states/). But it should mean anything which helps us understand what's going on. It should mean little artisanal mental tools. It should mean things that stick in the mind because they snap into resolution something, a confusing set of things, that you weren't quite seeing before. This is the theory of bloggers, and - if pressed to choose between them and the grand style - I know which improves my understanding and my decisions more.
+<br><br>
 
-<br>
+Back to me:
+
+"Social theory" is a big term. It recalls upper-class radicals in hardwood-panelled rooms. It recalls the [French](https://ndpr.nd.edu/reviews/french-theory-how-foucault-derrida-deleuze-co-transformed-the-intellectual-life-of-the-united-states/). But it should mean anything which helps us understand what's going on. It should mean little artisanal mental tools. It should mean things that stick in the mind because they snap into resolution something, a confusing set of things, that you weren't quite seeing before. This is the theory of bloggers, and - if pressed to choose between them and the grand style - I know which improves my understanding and my life more.
+
+<br><br>
