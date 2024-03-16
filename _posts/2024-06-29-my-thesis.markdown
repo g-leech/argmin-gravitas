@@ -1,0 +1,29 @@
+---
+layout:     post
+title:      "My PhD thesis"
+baselink:   /thesis
+permalink:  /thesis
+date:       2024-02-29  <!--site.time-->
+author:     Gavin
+
+img:        /img/phd/
+published:  false
+visible:    1
+quality:    5
+emotion:    5
+importance: 6
+
+summary:    My PhD in plain language
+confidence: 
+categories: 
+warnings:   
+wordcount:      
+---
+
+
+- A thesis is definitionally a __unified__ contribution to knowledge. Something new, several pieces of knowledge all pointing in the same direction. I am not focussed enough to do this. It's also a big claim. I obviously had to retrodict a single big claim, and surely most people do the same. 
+        <!-- - [[concocting a coherent PhD (2023)]] -->
+
+
+
+You can also click "The Point" on the entries <a href="/researches">here</a>

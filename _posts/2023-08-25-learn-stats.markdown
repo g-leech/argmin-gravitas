@@ -62,7 +62,7 @@ How to tame it?
 
 Refuse to learn the whole zoo; instead learn <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;    a. <a href="{{glm}}">GLMs</a>. But distrust linear regression and read <a href="{{ros}}">ROS</a> <a href="#fn:2" id="fnref:2">2</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp; b. <a href="{{mcel}}">Bayes</a>) <a href="#fn:1" id="fnref:1">1</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp; b. <a href="{{mcel}}">Bayes</a> <a href="#fn:1" id="fnref:1">1</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;    c. <a href="{{glym}}">Causal</a> <a href="{{cinf}}">inference</a>. <a href="{{whichbook}}">Just draw the</a> <a href="{{gcm}}">damn</a> <a href="/graphs">graph</a>!<br><br>
 <a href="{{shal}}">Shalizi</a> gets you (a) and (c), <a href="{{mcel}}">McElreath videos</a> or <a href="{{lam}}">Lambert</a> for (b). 
 <br><br><br>

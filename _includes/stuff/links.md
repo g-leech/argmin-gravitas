@@ -76,3 +76,5 @@
 {%  assign alac = "https://alacritty.org/" %}
 {%  assign conner = "https://andrewconner.com/recommendations/things/"    %}
 {%  assign arjun = "https://arjunpanickssery.substack.com/p/stuff-i-recommend-you-use" %}
+{%  assign ara = "https://arataki.me/material-life-upgrades/" %}
+{%  assign ara2 = "https://arataki.me/consumables/" %}

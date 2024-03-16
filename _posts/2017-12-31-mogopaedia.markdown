@@ -475,6 +475,8 @@ Well now <em>yes</em>. <i>All Eternals Deck</i> is just that, retaining the perf
 > And you must know <br>All your secrets will go with me when I go
 
 
+<br><br>
+
 
 <div class="footnotes">
 

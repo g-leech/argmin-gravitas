@@ -1,0 +1,161 @@
+---
+layout:     post
+title:      "Google-fu and Scihub-jutsu"
+baselink:   /google
+permalink:  /google
+date:       2024-03-16  <!--site.time-->
+author:     Gavin
+
+img:        /img/
+published:  false
+visible:    1
+quality:    
+emotion:    
+importance: 
+
+summary:    how to find information and foil the forces of evil
+confidence: 
+categories: 
+warnings:   
+wordcount:      
+---
+
+
+
+- [uBlock Origin](https://ublockorigin.com/)
+- https://sci-hub.ru/ To find the currently alive mirrors, go [here](https://www.reddit.com/r/scihub) 
+- https://annas-archive.org/ https://libgen.rs/ {:tag :h3}[archive.is](https://archive.is)
+- https://archive.org/ 
+- https://www.startpage.com
+- Defeat almost all paywalls](http://archive.is)
+- [Who likes me?](https://ahrefs.com/backlink-checker)
+- How google works, [ad targeting](https://support.google.com/google-ads/answer/7478529?sjid=10679167049777231289-AP&visit_id=638442480917506145-1422998113&rd=1)
+- https://search.marginalia.nu/ 
+- [IndieWeb](https://indieweb.org/)
+- SearchMySite: [Manually created index of real human sites](https://searchmysite.net/)
+    - Phind
+    - Exa.ai
+    - [FOR NOTICING](https://www.sixdegreesofwikipedia.com/?source=William%20James&target=Judea%20Pearl)
+    - ### [Internet security](https://www.gleech.org/browser)
+        - https://1.1.1.1/
+
+
+I open by showing the class how long it takes to get into JSTOR as an academic vs Sci-hub.
+
+
+
+
+
+- Handpoll: What fraction of your info comes from the internet?
+- This is a class about the internet dying. Finding information is much harder than it used to be and the situation is going to get really bad. Enshittification
+    - [Exact quotes used to work](https://support.google.com/google-ads/answer/9131274)
+        - [This is actually kinda bad for advertisers](https://www.searchnurture.com/blog/google-ads-exact-match-is-dead-what-to-do-about-it/)
+    - Hard for you to see
+    - In the 90s, everything on the internet was written by a nerd. Sometimes an insane nerd, but always something with a mind attached. Then the world joined in, and then the language models.
+    - - handpoll for who has noticed it getting worse?
+- Search
+    - Most pages are garbage.
+    - Imagine the simplest possible search engine
+        - Store all documents
+        - Take user query, do a lookup for strings
+        - Return by string distance
+        - How does this go wrong?
+    - Rough architecture of modern Google Search
+        - Crawling
+            - There is no central register of all websites. ICANN only gives out IP ranges. Root servers are autonomous
+            - Send trillions of requests every day to find new sites / check if anything changed
+        - Indexing
+            - Now, they do all kinds of speech recognition and image similarity
+                - https://xkcd.com/1425/
+        - Serving
+            - Retriever (index and GKG)
+                - GOFAI
+            - Ranker
+            - Autocompleter
+            - Quality judge
+                - E-E-A-T (Expertise, Experience, Authoritativeness, and Trustworthiness) (novelty, credentials)
+                - Fast page
+            - search the index for matching pages and return the results we believe are the highest quality and most relevant to the user's query. Relevancy is determined by hundreds of factors, which could include information such as the user's location, language, and device (desktop or phone).
+            - "bicycle repair shops" in Paris than it would to a user in Hong Kong.
+- ## Problems
+- ### Ads / SEO
+    - The money followed. SEO. Content farms. Clickbait
+    - You are constantly clicking on ads
+    - common to see search engines ransoming the top slot for companies, so that companies that don't buy the ad for their own name end up with searches for that company putting their competitors at the top
+    - Markov chain language models. Spam
+    - [Corporate bloat](https://danluu.com/diseconomies-scale/)
+    - Red Queen
+    - For products, [about 1/3 of first pages are junk, not counting the Sponsored ](https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf?ref=404media.co#page=7)
+    - Tiktok
+    - Reddit
+- ### Lost / deleted / silently edited content
+    - [Link rot](https://archive.is/D44oc#selection-1025.180-1029.18)
+    - 50 percent of the links embedded in Supreme Court opinions since 1996, when the first hyperlink was used, no longer worked. 75 percent of the links in the Harvard Law Review no longer worked.
+- ### Bot spam
+    - "Clarkesworld, a sci-fi magazine, said 500 out of 1,200 submissions in a single month were created by AI. The problem got so bad the magazine had to suspend submissions."
+    - Botnet prevalence: [11%](https://www.cs.jhu.edu/~fabian/papers/botnets.pdf) of all traffic????
+    - This has obviously exploded since last Feb
+    - Now the bots are starting to dominate
+        - [Dead internet theory](https://arxiv.org/abs/2401.05749)
+            - [47% of internet traffic is bots](https://securitytoday.com/articles/2023/05/17/report-47-percent-of-internet-traffic-is-from-bots.aspx)
+            - 76% of Twitter is bots
+            - Much worse in non-English languages
+        - Quora
+    - Why?? Bot detection has just become unsolved again.
+- ### Attacks
+    - [Internet security](https://www.gleech.org/browser)
+    - **Google Fu**
+        - [Archive.is](http://archive.is/) vs paywalls
+        - - Minus
+        - Booleans
+        - site:
+        - #page=
+        - allintitle:
+        - …reddit
+        - cache:example.com
+        - before:2022
+        - Scholar!!
+            - Cited_by. This makes you an expert in 3 hours
+        - Ask GPT for the keywords to search
+        - https://www.google.com/alerts
+- ## **Scihubjutsu**
+    - Demonstrate getting into Jstor as an academic vs Scihub
+        - I am an academic. My university pays $147m dollars to publishers. Students pay $1000 a year, each for it. It is a giant pain. I have to do this every time.
+        - These are for-profit.
+    - Who’s heard of Aaron Schwartz?
+    - History of Sci-hub. Strange and wonderful woman. Deniability of credentials
+    - Your country may ban it. VPN is totally fine. I promise you won’t get in trouble
+    - The address changes all the time
+        - Currently https://sci-hub.ru/
+        - To find the currently alive mirrors, go [here](https://www.reddit.com/r/scihub)
+    - Here’s how to get the DOI
+    - Visit a campus in person
+- ## **Books**
+    - Now we face a moral question
+    - https://annas-archive.org/
+    - https://libgen.rs/
+    - https://archive.org/
+    - [Mirrors](https://www.reddit.com/r/libgen/)
+- ## Who likes me?
+    - https://ahrefs.com/backlink-checker
+    - **Alternative engines**
+        - Phind
+        - Marginalia
+            - How is Marginalia, a search engine built by a single person, so good?" as a puzzle. One answer: "because it is currently too small to profitably attack with SEO".
+        - Cache
+        - Exa.ai
+    - **Bonus: the fate of successful systems is to invite parasites**
+        - Red Queen
+        - a curse of success leading to inherently short lifespan for good measures
+        - Google is under incredibly intense attack. It succeeded, and drew the parasites.
+        - Windows viruses vs Linux. Is Linux more secure? No!
+        - Anyone heard of Emergent Ventures?
+        - The amount of optimisation in the world is about to increase massively. AI
+    - **Bonus: PRIVACY AND SECURITY**
+        - Who uses a password manager?
+        - Who uses a 2FA app?
+- ### Sources for mehttps://jaimelightfoot.com/blog/learning-google-fu-google-directives-for-penetration-testers/https://www.searchnurture.com/blog/google-ads-exact-match-is-dead-what-to-do-about-it/https://engineuring.wordpress.com/https://ahrefs.com/blog/how-do-search-engines-work/https://www.semrush.com/blog/google-search-algorithm/https://www.google.com/search/howsearchworks/https://rockcontent.com/blog/google-search-engine/ https://the-grey-tribe.tumblr.com/post/740890906020970496/cea-tide-ladyshinga-im-sorry-friends-but#noteshttps://danluu.com/seo-spam/https://danluu.com/diseconomies-scale/https://developers.google.com/search/docs/fundamentals/how-search-works#:~:text=Indexing%3A%20Google%20analyzes%20the%20text,relevant%20to%20the%20user's%20query.
+    - https://www.reddit.com/r/scihub/wiki/index/#wiki_solution_1
+    - https://www.404media.co/google-search-really-has-gotten-worse-researchers-find/
+    - https://twitter.com/g_leech_/status/1741436434391679170?t=C-a3k0sfFUDJJ65zwn_XPQ&s=19
+    - https://gwern.net/search
