@@ -23,11 +23,13 @@ visible:	false
 
 
 
-I did a PhD in machine learning at Bristol with <a href="{{la}}">Laurence Aitchison</a>, 2019-2024. (Though I had a year of classes and took a year off in the middle to start <a href="https://arbresearch.com">Arb</a>.)<br>
+I did a PhD in machine learning at Bristol with <a href="{{la}}">Laurence Aitchison</a>, 2019-2024. (Includes a year of mandatory classes and a year off in which I started <a href="https://arbresearch.com">Arb</a>.)<br>
 
 I went in wanting to work on AI safety. True to form, I instead ended up with a huge grab-bag of fields and topics: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, inductive logic, algorithmic fairness and (of course) large language models. Some safety work in there if you squint. But I published enough, so the resulting thesis is _Methods Failing the Data, Data Failing the Methods_.
 
-I was very lucky. It looks like a success if you use the usual measures (h-index, top journals and conferences, first-author publications, academic job offer at the end). But I didn't go into it for poxy goodharted numbers or a mere job; I went in to become a great scientist. Obviously this did not happen. But I did learn how to really read papers, how to write papers, how to present technical ideas clearly, and how to become stubborn and insensitive in the face of uncertainty in latent spaces. Academia is forever demystified for me. My aversion to mathematics has settled down into mere guarded neutrality. I am unafraid. This training was ambiguously worth it.
+I was very lucky. It looks like a success on the usual measures (h-index, impact factors, top conferences, first-author pubs, an academic job offer at the end). But I didn't go into it for poxy numbers or a mere job; I went in become a great scientist. Obviously this did not happen. 
+
+But I did learn how to really read papers, how to write papers, how to present technical ideas clearly, and how to become stubborn and insensitive in the face of latent spaces. Academia is forever demystified for me. My aversion to mathematics has settled down into guarded neutrality. I am unafraid. This was probably worth it.
 
 <br>
 
@@ -38,18 +40,14 @@ _Undying thanks to Kristi, Misha, Laurence, Jan B, Jan K, Dan, Kaveh, ..., Tomas
 
 ### Posts about my PhD
 
-* My thesis in plain language
-* Click "The Point" on the entries <a href="/researches">here</a>
-* an unusual PhD by numbers
-* Description of the cost and the benefit
+* <a href="/phdone">Overall index</a> 
+* <a href="/thesis">My thesis in plain language
+	* Click "The Point" on the entries <a href="/researches">here</a>
+* <a href="/phd-numbers">my PhD by numbers</a>
 * <a href="/ignorance">Crossing the ocean of my ignorance</a>
-* Thoughts on the field of machine learning
-* Against PhDs
-	* Going rogue
-	* Annual decision about whether to quit
-	* Authorship politics
-* phdiary
-* Lessons
+* <a href="/csml">Thoughts on the field of machine learning</a>
+* <a href="/nograd">Against PhDs</a>
+* <a href="/diary">phdiary</a>
 
 
 <br>

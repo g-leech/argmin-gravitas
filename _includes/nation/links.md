@@ -33,7 +33,7 @@
 {%	assign spotspain = "https://open.spotify.com/embed/playlist/37FIzw2D4vQpOrueKhHc8c"		%}
 {%  assign spotlatv = "https://open.spotify.com/embed/playlist/5MopEl1xgugYHOBRUyhsBB?utm_source=generator"    %}
 {%  assign spotlond = "https://open.spotify.com/embed/playlist/5BkMxZyrjogFxAjHdUyDUT?utm_source=generator"    %}
-{%  assign spotbrum = "https://open.spotify.com/playlist/0bakE2rag5bgXq9ZgNCBC6"    %}
+{%  assign spotbrum = "https://open.spotify.com/embed/playlist/0bakE2rag5bgXq9ZgNCBC6"    %}
 
 {%	assign gravybread = "https://gravybread.wordpress.com/my-favorite-brazilian-albums/"		%}
 {%	assign clear = "https://clearandrefreshing.wordpress.com/"		%}

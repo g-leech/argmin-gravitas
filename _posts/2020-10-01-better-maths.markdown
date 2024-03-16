@@ -247,6 +247,7 @@ All of academic science is stuck on many of the above, stuck in the 90s. Maybe w
 
 ## See also 
 
+* <a href="https://epistem.ink/570c388dff0e4eeb9de16c35129baac2">George on leaky abstractions and what will replace mathematics</a>
 * <a href="{{kun}}">Jeremy Kun on some real shit</a>
 * <a href="{{tao}}">Terry Tao</a> on the mathematics of mathematical notation.
 * <a href="{{tao2}}">Terry Tao</a> on good notation

@@ -1,0 +1,468 @@
+---
+layout:     post
+title:      "Piled higher and deeper"
+baselink:   /phdone
+permalink:  /phdone
+date:       2024-02-29  <!--site.time-->
+author:     Gavin
+
+img:        /img/phd/bumped.png
+published:  false
+visible:    1
+quality:    8
+emotion:    8
+importance: 6
+
+summary:    On doctoral study; on purgatory
+confidence: 90%
+categories: education, becoming, academia, machine-learning, phd
+warnings:   long and navel-gazing
+wordcount:      
+---
+
+<!-- [[PhD by numbers]]  
+        [[What was my PhD?]]  
+        [[Talk: the meaning of our research]]  
+        [[Excessive honesty with the external examiner]] 
+        [[iai 1st year]]
+ -->
+
+
+{%  include phd/links.md   %}
+
+<img src="/img/phd/oppressed.png" />
+
+<br>
+
+> The trouble with having a Duty you cannot bring yourself to fulfill, one with flexible hours and flexible oversight, is that it leeches into every moment of your life, casting a quiet pall over the whole of it. I should do something productive, you think—but sitting right on top of the “something productive” list, absent urgent tasks with pressing deadlines, is That. There are no weekends, no evenings, no moments of contentment in knowing you have done all you need to do.
+
+<center>– <a href="{{tracing}}">Tracing Woodgrains</a></center>
+
+<br><br>
+
+> When working on a PhD, you must focus on a topic so narrow that you can understand it completely. It will seem at first that you're working on the proverbial needle, a tiny fragment of the world, a minute crystal, beautiful but in the scheme of things, microscopic. Work with it. And the more you work with it, the more you penetrate it, the more you will come to see that your work, your subject, encompasses the world. In time, you will come to see the world in your grain of sand. 
+
+<center>– Manuel Blum </center>
+
+
+<br><br>
+
+## tl;dr
+
+- Probably only read this if you are considering doing a PhD.
+
+- PhDs vary so much that no post could ever cover them all. Read this as the experience of a 1) 2020s 2) CS guy, 3) in a British university, 4) during covid, 5) with his own funding, who 6) got lucky in first year with a publication, with 7) a productive advisor with 8) broad interests, no god complex, and 9) not many other students (and 10) who was willing to cover for me while I flailed and skived and e.g. went to Mexico to vent).<br><br>
+
+- They are so costly and emotionally fraught that you can assume people are not thinking very clearly about them; including me. (They don't want to have wasted 5 years / they want their hard and slightly humiliating work to be rewarded with status and deference.) Not doing one is also emotionally fraught, if this means you carry a chip on your shoulder for the rest of your life (if you feel intellectually incomplete, feel that others are pulling rank to dismiss your valid arguments).
+
+- As always, there's a huge selection effect: unhappy PhDs cannot shut up about it.<br><br>
+
+
+- The cognitive demands are lower than people think and the emotional demands are remarkably high. For a common personality type, the emotional cost is too high.
+
+- However, __you can <a href="/nograd#rogue">go rogue</a>__, which greatly reduces the emotional damage, but is only open to an uncommon personality type (the chancer, <a href="/nograd">the disloyal, the agent).
+
+    - In the meantime I started a small company, got a minor academic post at a friend’s lab, travelled the world, helped build a beautiful community, advised the UK government, and did dozens of cool side projects, some of which ended up looking like a PhD. This was very lucky.<br><br>
+
+- Little about the process looks like how you'd want your epistemic authorities to be picked. There is no accuracy test, calibration. Explanation.
+
+- I went in wanting to work on AI safety. True to form, I instead ended up with a huge grab-bag: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, inductive logic, algorithmic fairness and (of course) large language models. Some safety in there, if you squint. But I published enough, so I finished.
+
+- It took me about 4000 hours of actual work. I read 400 papers, I started 49 projects, I published 6 first author papers on random shit and managed to bind em together post-hoc.
+
+- I was very lucky. It looks like a success on the usual measures (h-index, impact factors, top conferences, first-author pubs, an academic job offer at the end). But I didn't go into it for poxy numbers or a mere job; I went in become a great scientist. Obviously this did not happen. 
+
+    - But I did learn how to really read papers, how to write papers, how to present technical ideas clearly, and how to become stubborn and insensitive in the face of latent spaces. Academia is forever demystified for me. My aversion to mathematics has settled down into guarded neutrality. I am unafraid. This was probably worth it.<br><br>
+
+- When I see someone has a PhD, I don’t update much about their intelligence or creativity. More about their tolerance of pain, arbitrariness, and low pay.
+
+<br>
+
+## Parable
+
+You walk into town and quickly find the saloon. As you enter, the locals fall silent and stare. One man reaches into the brazier, extracts a sizzling coal and holds it out in his bare fist, not breaking eye contact with you. Another man licks the length of a straight razor. Blood trickles from between his pursed lips.
+
+You walk straight up to them, pull up your academic cv on your Blackberry. PhD in computer science. The men grow pale. The coal hits the floor, the blood with it. They clear right out not stopping for their hats and chaps. 
+
+Some things are too awful to stunt with. What might men who’ve burned years of their own life just to smell the smoke __not__ do?
+
+<br>
+
+I've exported most of the good stuff into the following posts:
+
+## <a href="/phd-numbers">my PhD by numbers</a>
+
+What does a phd cost you?<br>
+What's the rate of research projects failing?<br>
+
+## <a href="/thesis">My thesis in plain language</a>
+
+## <a href="/csml">On my field</a>
+
+## <a href="/ignorance">On depressing ignorance and foundationalism</a>
+
+## <a href="/nograd">Against PhDs</a>
+
+## <a href="/diary">phdiary</a>
+
+
+This export leaves the rest of this post to undiluted personal venting.
+
+<br>
+
+## Me me me
+
+The best thing about having a PhD is that I can rant about the deep problems with PhDs.
+
+The worst thing about it is that I can't really explain why it was painful to you without sounding absurdly cosseted - "boohoo I was paid to read for 4 years, poor me".
+
+I don't want to milk this too much. I was being paid to read, paid to think, paid to talk freely and wildly and rigorously. This is an insane privilege. But who says privileges can't drive you mad?
+
+
+
+### Why did I start one?
+
+https://www.alignmentforum.org/posts/yi7shfo6YfhDEYizA/more-people-getting-into-ai-safety-should-do-a-phd#comments
+
+I was so thrilled to leave industry, and to not rely on EA funding, to actually add, to begin with a neutral balance.
+    [[PLN (2019)]]
+    [[things I want from my PhD (2020)]]
+It was a top-down moralistic thing. I spent a few years wrestling against the Bostrom argument, unwilling to throw my life away on speculative crap and give up my conception of altruism
+Around 2017 it became clear to me that AI was going to be the defining story of the near future. So I pushed myself into AI (from nearby pro data science). This almost never works.
+I get some credit for being ahead of the EA wave and the even later crypto bro / influencer invasion of the field
+But I ended up not doing an alignment PhD, getting a weird epidemiology / methodology phd with ML assumptions and ML sprinkles. Akrasia.
+The self-serving story for why I worked very hard on anything except machine learning is that I am unable to compartmentalise my horror of its worst-case prospects. I feel that people should not work on it, and so I don't. I find the technology more disgusting than fascinating, though it is fascinating.
+This is spurious, because the median ML paper does nothing for the frontier and slightly distracts from productive work by increasing the arxiv firehose.
+The heart has its own reasons though.
+One reason it was hard is that I actually just don't like working at the maths/code interface and do maths reluctantly like eating my spinach. for the common emotional block reasons.
+(an earlier version of this post said "not very good at maths" which gives the wrong idea. I can do it if forced, but you have to force me – I don't dance automatically like I do in words)
+I had no research programme and came out with a completely incoherent body of work. My papers were in inductive logic, algorithmic fairness, Covid epidemiology, metascience, good ol' fashioned decision trees, probabilistic programming, fine control of language models, and AI as a whole. With the collusion of more powerful minds, I managed to glue all that into a mâché which got through.
+It wasn't a sure thing. I was relentlessly disloyal to my current project, my advisor, and my nominal field. If I had forced myself to be loyal I would have cracked in year 2.
+Probably the median rollout of reality finds me dropping out, having struggled along in probabilistic programming, producing very little, feeling terrible for 18 months. In these common worlds I'd feel pretty bad about it, forever, and my criticisms of academia would be tempered by worry about sour grapes.
+I just don't focus, and this is the 4 years of focus project. I am incapable of sustaining work on anything for more than about 6 weeks.
+I hate letting people down. I love coworking. Solitude is avoidable if you are careful
+For a maths graduate and software engineer, I have a fairly poor relationship with maths and code.
+I had misgivings throughout.
+I was a thoroughly mediocre student. (Recall that 25% or 50% of students drop out). My publications look good, but that turns out to be doable without great insight, just writing ability, smart friends, and pain tolerance. I would have probably dropped out if I didn't have the covid papers and my friend Nandi
+Cynically, my PhD was over as soon as the PNAS acceptance landed. The rest was padding and PR.
+I am extremely proud of my papers. I wanted to be a researcher very badly. When I got my first citation (for a blog post actually) I was happy all week.
+
+
+
+# What I wanted to get
+
+* 8 heavy textbooks
+
+- ## [[Project: Grokkage]]
+- ## + Legible output:
+- **Papers**
+    - 3 first author conference papers
+        -  [[ILP and Safety]]
+        -  [[COVID #3: Masks]]
+        
+        - [[MASSIVELY PARALLEL IWAE AND RWS]]
+    - 7 others
+        - 4 <- [[my research in 2020]]
+- **Internships**
+    - 2 x 3 months
+    - Summer 2021, 2022, 2023
+    - [[research internship]]
+- **Network**
+    -  AISRP
+    - Matthijs
+    - **Jan B**
+    - Tomas
+    - Soeren
+    - Misha
+    - Rose
+    - **Jan K**
+    - Tom McG
+    - **Laurence**
+    - Dan W
+    - Kaveh
+- **Service**
+    - Reviews
+        -  BMJ Global Health
+- ### Public Impact
+    - ### Masks press
+        - Altmetric ~700
+        - BBC Radio 4 (Bhatt)
+            - https://www.bbc.co.uk/sounds/play/m000xkz8
+        - BBC Radio Bristol (L)
+        - Coverage on Marginal Revolution
+        - [Wired](https://www.wired.co.uk/article/face-mask-mandate-uk)
+        - 
+- **Conferences**
+    - 3 presentations
+        -  [[SafeAI ILP pres]]
+        - 2/9/21: BIAS Conference Bristol, poster
+    -  NeurIPS 2020
+    - milk dat RTFG
+-  **Teaching**
+    - 3 TA gigs
+    - ESPR
+- **Summer schools**
+    - 0/2
+
+
+# What I got
+
+* I went in wanting to become a scientist, and this actually happened. Overfulfilled it in one narrow sense: I published in CS, psychology, and lots in soft biology. But "scientist" also implies focus and theory and I am instead a technical generalist.
+* I became a teacher, including a maths teacher.
+* I have a much better understanding of what it is that people smarter and deeper than me do differently. 
+* I replaced my aversion to mathematical work with guarded neutrality. This will end up being worth $1m.
+* I have lost all respect for academic publishing.
+* I have lost most of my respect for the median statistical model.
+
+
+
+
+### Studying during Covid
+
+Lockdown was pretty much the best time to do a ("dry" lab) phd, maybe in history. Incredibly low opportunity cost, and piles of impact lying around for any scientist.
+- Bliss for the first few months
+- Radically altered my understanding of expertise, overton, credentials, government
+- Didn't ever go into my campus office afterward
+- Travel
+- AAAI and Neurips were online, massive loss. also missed my second conference paper in person (to go to a wedding)
+
+### My luck
+
+- Very lucky to be one of Laurence's first PhD students
+- Very lucky to be invited to work on the big EpiFor papers
+- Very lucky to have brilliant coauthors on every single one of "my" projects. I could not have done it without them. That's usually a kind of meek and pleasant expression, but you should read this instance as more of a confession.
+- Extremely lucky that Misha wanted to start a company which saved my sanity
+- ML twitter is excellent. Criticisms in 1 hour, rather than 1 year    
+
+### Misc features of my time
+
+My advisor had plenty of time for me. At one point (when I was struggling with the heavy numerical implementations) we did two meetings a week. One of my friends spoke to her advisor once every three months. Another got 15 minutes every other week.
+Thanks to covid I actually only met my advisor in person about 4 times.
+<!--  -->
+I thought about machine learning probably one day in three. This is not advice.
+<!--  -->
+I tried a few times to start a daily labbook but failed. Bought a very fancy A4 hardback for it.
+<!--  -->
+A common pang of people who made it through school is horror at realising how little you remember, 10 years on. I got ahead of this by forgetting all about statistical learning __during__ grad school
+<!--  -->
+My phd was marred by an unusual amount of jostling for position within research teams. Covid papers were a pretty hot quantity - 
+<!--  -->
+As so often with pretentious academics, I grew to hate my host institution. 
+- Hands off after 1st year, thankfully
+- 45% tax on graph theorist
+- Paid themselves x thousand out of the UKRI grant
+- Uni shambles, 5 months before they checked on my overdue APM
+- Packing 300 kids into intro to ML, one instructor. >100k profit
+- ### CDT
+- Takes them 10 days to update the website
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fgleech%2FqnK4J1CdKB.png?alt=media&token=3c563834-2dfc-4dfc-911d-2521f0e72e6b)
+
+
+### What I actually did
+
+[[list of discrete projects in my PhD]]
+- 83 overleafs started
+- [[What I tried in AI alignment]]  
+
+
+Results
+
+Intro
+    Enumerate common features and failures of “statistical workflow” (actual practices)
+    Bringing metascience into Bayes and ML 
+    Bringing post-2012 ML stylised facts into philosophy of science?
+    Comparison of evidential standards in 3 different fields
+    Psych and epi, Freq and bayes. P-hacking
+
+Covid
+    First person in the world to notice the voluntary wearing spike
+    Exposed ubiquitous methodological mistake (mandate proxy)
+    First analysis of masks with massive aggregate of individual data
+    First Bayesian analysis of masks(?)
+    Maybe add the little modelling [[masks functional form]]
+    Seasonality contrib
+    Mention big papers
+    EXPERIMENT: Rate of test set use in 2019 epi vs 2023 epi
+    EXPERIMENT: rate of economic cost estimates in NPI epi
+
+Psych
+    Dataset, ongoing community solution
+    Shift from sign replication to effect replication
+    ?
+
+ML
+    ActAdd: designed the experiments
+    ILP: safety 
+    EXPERIMENT: classifying all of ML arxiv by methods
+    EXPERIMENT: ablating 10 years of tweaks. What’s the minimal working arch?
+    EXPERIMENT: what’s the scaling law for random forests?
+    EXPERIMENT: big replication study?
+
+
+
+- ### What I learned
+    - I can actually analyse data -> used it once, for masks
+    - I can write papers on my own now
+    - I am much better at reading and composing mathematics, and porting to and from language
+    - Academia is not my environment. Lots of people who say this are just not good at research or self-direction. The confusing part is that I am a sort of good researcher.
+        - The research my company does is fun. 
+            - I make it rigorous not to cover my ass but because I deeply want the answer to be right
+- ### Concrete
+    - Bayesian workflow
+    - Basic RL...
+    - Public speaking
+    - How to write a paper
+    - How to respond to reviewers
+    - Quite a lot about alignment
+    - [[my research in 2020]]
+    - [[my research in 2021]]
+    - [[my research in 2022]]
+    - Lots of things about forecasting theory
+    - Lots of untrue things about psychology
+    - Lots of minutiae about covid
+    - Some stats lore and ML lore
+        - [[great tricks]]
+        - [[insight]]
+    - __What did I actually learn in TB1?__
+    - Basic Haskell
+    - Inductive logic
+- ### Meta
+    - Papers are very bad
+    - Data is very bad
+    - Books are very bad
+    - I am a leader
+    - I am fairly wise
+    - I am bad at conflict
+    - I am bad at rejecting people
+    - How hard top people work
+    - Writing assistance for busy Minds is a big deal
+    - I basically never need a job again
+        - no job hunt
+    - Modicum of patience
+    - There really are no adults
+    - I can say strong opinions on the Forum
+    - Going viral hijacks my whole mind
+    - I can be an entrepreneur. I must be.
+
+
+### Another timeline
+
+If I had focussed and stuck to my initial priorities (and if I was 10x better at programming) I would have produced something like my contemporary <a href="{{lind}}">David Lindner's work</a>. (The funny thing is that this would have been a good result: RL looped back around to being supremely useful through RLHF on LLMs)
+
+
+<br>
+
+
+
+## Who should do a PhD?
+
+(First, read <a href="/nograd">this</a>.)
+
+
+Hypothesis: The PhD is a crisis for people who haven't fixed locus of control and overidentification with work
+
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fgleech%2F0tfEo3ood5.jpeg?alt=media&token=c3b70604-9a5e-411f-be06-76f9f1f9a2e0)
+
+My current guess is that the set of people who should do a PhD is exhausted by
+    - People who are really remarkably chill and really want to become a "PI" (research lead)
+    - __Love__: People who are obsessed with their specific topic. You'd do it for free (you nearly are).
+        - Do not get a PhD in anything you are not obsessed with. Intrinsic interestingness, like AI, is a poor substitute
+    - __Hermits__: People who do not feel at home in society except in the regimented and half-real sanctuary of academia
+        - You should consider being a campus IT guru instead though, much less bullshit to handle
+    - __Rogue PhD__: Poor people who need basic income to work on their art or their startup or their basic understanding, while doing research on the side
+        - https://acritch.com/deliberate-grad-school/
+    - Maybe a short stint for very arrogant people, to knock the stuffing out 
+
+
+Sink or swim. I did both
+    - The Scylla of loneliness and floundering and the Charybdis of mandatory training, compelled speech, and bureaucratic pseudosocial
+    - Covid saved me
+
+
+<!-- - I do wonder how much less a 2024 phd means compared to a 1924 phd. Side effect of the huge expansion? -->
+
+
+## Lessons
+
+- [[types of research guy]] [[Types of research]]
+- You must form a healthy scepticism of reading. You have to do things
+    - https://www.cs.umd.edu/~oleary/gradstudy/
+    - > It is possible to spend almost all of your time in literature review and seminars. It is easy to convince yourself that by doing this you are working hard and accomplishing something. The truth of the matter is that nothing will come of it unless your are an active reader and listener and unless you assign yourself time to develop your own ideas, too. It is impossible to "finish a literature review and then start research". New literature is always appearing, and as your depth and breadth increases, you will continually see new connections and related areas that must be studied.
+- I shed the notion that a thesis is A Thesis, a statement, a one-off cementing of intellectual turf. That it means something
+
+    - Put an annual or twice-annual quit decision point in your calendar. Take it seriously. Ask friends.
+    - Write to me if you're in doubt
+    - If you are already a strong scholar, strongly consider <a href="{{pub}}">PhD by publication</a>
+    - Afterwards, there are lots of options! The tenure track, the adjunct-hell track, the alt-ac track, the public intellectual track, the scientific consultant track, the ascended blogger track, and the <a href="{{visit}}">perma-visiting</a> track. Many of these look the same from the outside.
+    - You must prepare yourself for powerful cognitive distortions.
+        - MOST PEOPLE DON'T PUBLISH A PAPER EVERY YEAR. look for the missing names
+        - Most people don't feel that their work is very good
+        - Most people are constantly feeling slightly fraudulent
+    - I didn't realise that most of my learning should have come from peers (fellow phds) rather than slogging alone or asking advisor.
+        - I was free, to travel and skip meetings and to make playlists. But I had foregone peer learning and mutual suffering and the ego boost of helping
+    - My other big mistake was not getting the fundamentals in place. I started writing after 6 months and was distracted by totally irrelevant mandatory classes.
+<br>
+<img src="/img/phd/emo.drawio.png" />
+
+
+
+<br><br>
+
+
+> Productive stupidity means being ignorant by choice. Focusing on important questions puts us in the awkward position of being ignorant. One of the beautiful things about science is that it allows us to bumble along, getting it wrong time after time, and feel perfectly fine as long as we learn something each time. No doubt, this can be difficult for students who are accustomed to getting the answers right. No doubt, reasonable levels of confidence and emotional resilience help... The more comfortable we become with being stupid, the deeper we will wade into the unknown and the more likely we are to make big discoveries.
+
+- Martin Schwartz
+
+
+<br><br>
+
+
+Tattoo it on my tomb: "He never found anything he couldn't bullshit".
+
+
+<br><br>
+
+<div class="accordion">
+    <h3>See also</h3>
+    <div>
+        - http://www.shouldyouphd.com/
+        - https://www.natolambert.com/writing/reflecting-on-being-a-graduate-student-in-ai-in-2020
+        - https://matt.might.net/articles/phd-school-in-pictures/
+        - https://acritch.com/deliberate-grad-school/
+        - https://gleech.org/ignorance
+        - https://drmaciver.substack.com/p/people-dont-work-as-much-as-you-think
+        - https://universalprior.substack.com/p/on-not-reading-papers
+        - [The phd game](https://research.wmz.ninja/projects/phd/index.html)
+        - [[the grad school novel]]
+    </div>
+    <h3>Types of research</h3>
+    <div>
+        I came in not really knowing what counted as meaningful research. Anything except "desk research", writing review articles.
+    - Applications
+    - apply methods
+    - Computation 
+        - (algos, speedups)
+    - Methods
+        - develop new methods or extend existing methods; 
+        - place existing methods into a larger theoretical framework
+        - study the properties of methods
+    - Theory
+    </div>
+    <h3>Acknowledgments</h3>
+    <div>
+        - Kristi
+        - Misha
+        - ....
+        - I think I would probably have quit after 18 months if not for [my coach](https://danielkestenholz.com/) 
+        - Dan Whettam
+        - Kaveh
+        - Jan Brauner
+        - Jan Kulveit
+        - Tomas G
+        - Charlie RS
+        - Adam Yang, an incredibly joyful and curious man
+        - My advisor <a href="{{la}}">Laurence</a>, a real scientist with a lot of patience for my hand-waving and stubborn incomprehension.
+    </div>
+</div>
+
+

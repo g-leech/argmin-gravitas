@@ -29,3 +29,5 @@
 {%	assign haz = "https://concepts.effectivealtruism.org/concepts/information-hazards/"		%}
 {%	assign inoc = "https://medium.com/@ThingMaker/idea-inoculation-inferential-distance-848836a07a5b"	%}
 {%	assign kanjun = "https://kanjun.me/writing/research-as-understanding"		%}
+{%  assign holden = "https://www.cold-takes.com/useful-vices-for-wicked-problems/"  %}
+{%  assign sch = "https://web.stanford.edu/~fukamit/schwartz-2008.pdf"       %}
