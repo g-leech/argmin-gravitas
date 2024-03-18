@@ -197,6 +197,7 @@ Only once you know what's good, what the axes are, and how it's made can you und
 
 ## Procedure
 
+1. Try to go a week without art or entertainment. Fasting, clearing the palate; creating a need in yourself
 1. Find a critic you can trust. Friends are best. \[2 weeks\]<br><br>
 2. Where is the quality? What is it _trying_ to do? \[2 weeks\]<br><br>
 3. What are the material conditions? \[2 weeks\]<br><br>

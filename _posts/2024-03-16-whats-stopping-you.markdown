@@ -71,6 +71,10 @@ ESPR instructor saved ??lives by optimizing a central Google process and thinks 
 "you don't need a hero license"
 
 
+Never underestimate people's hatred for establishing their own independent set of values and planning an optimal sequence of decisions according to them
+
+
+
 Transcript
 
 Who here has a clear idea of what they want from life?

@@ -6,7 +6,7 @@ permalink:  /siderea
 date:       2024-02-29  <!--site.time-->
 author:     Gavin
 
-img:        /img/siderea.png
+img:        /img/siderea.jpg
 published:  true
 visible:    1
 quality:    
