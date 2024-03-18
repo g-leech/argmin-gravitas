@@ -21,6 +21,10 @@ wordcount:
 ---
 
 
+> Google got worse because the web got worse. 
+
+> We would be living in a much better world if there was a small number of large content farms and bot operators poisoning our search results. Instead, we are living in a world where many real people are individually doing their part.
+
 
 - [uBlock Origin](https://ublockorigin.com/)
 - https://sci-hub.ru/ To find the currently alive mirrors, go [here](https://www.reddit.com/r/scihub) 
