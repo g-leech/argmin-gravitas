@@ -26,46 +26,127 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 	<h3>reason</h3>
 	<div>
 		<div class="accordion">
-			<h3>epistemology</h3><div>	{%	include quotes/epistemology.html	%}	</div>
-			<h3>ethics</h3><div>		{%	include quotes/morals.html	%}			</div>
-			<h3>ultimately</h3><div>	{%	include quotes/existence.html	%}		</div>
-			<h3>maths</h3><div>			{%	include quotes/maths.html	%}			</div>
-			<h3>stats</h3><div>			{%	include quotes/stats.html	%}			</div>
-			<h3>code</h3><div>			{%	include quotes/code.html	%}			</div>
-			<h3>economics</h3><div>		{%	include quotes/econ.html	%}			</div>
-			<h3>research</h3><div>		{%	include quotes/research.html	%}			</div>
-			<h3>metaphilosophy</h3><div>{%	include quotes/meta.html	%}			</div>
-			<h3>humility</h3><div>		{%	include quotes/humble.html	%}			</div>
+			<h3>epistemology</h3>
+			<div>	
+			{%	include quotes/epistemology.html	%}
+			</div>
+			<h3>ethics</h3>
+			<div>		
+			{%	include quotes/morals.html	%}
+			</div>
+			<h3>ultimately</h3>
+			<div>	
+			{%	include quotes/existence.html	%}
+			</div>
+			<h3>maths</h3>
+			<div>			
+			{%	include quotes/maths.html	%}
+			</div>
+			<h3>stats</h3>
+			<div>			
+			{%	include quotes/stats.html	%}
+			</div>
+			<h3>code</h3>
+			<div>			
+			{%	include quotes/code.html	%}
+			</div>
+			<h3>economics</h3>
+			<div>		
+			{%	include quotes/econ.html	%}
+			</div>
+			<h3>research</h3>
+			<div>		
+			{%	include quotes/research.html	%}
+			</div>
+			<h3>metaphilosophy</h3>
+			<div>
+			{%	include quotes/meta.html	%}
+			</div>
+			<h3>humility</h3>
+			<div>		
+			{%	include quotes/humble.html	%}
+			</div>
 		</div>
 	</div>
 	<!--  -->
-	<h3>happiness</h3><div>	{%	include quotes/happ.html	%}			</div>
-	<h3>work</h3><div>		{%	include quotes/work.html	%}			</div>
-	<!-- <h3>briefs</h3><div>	{%	include quotes/tersely.html	%}			</div> -->
-	<h3>politics</h3><div>	{%	include quotes/politics.html	%}		</div>
-	<h3>art</h3><div>		{%	include quotes/art.html		%}			</div>
-	<h3>education</h3><div>		{%	include quotes/education.html		%}			</div>
+	<h3>happiness</h3>
+			<div>	
+			{%	include quotes/happ.html	%}
+			</div>
+	<h3>work</h3>
+			<div>		
+			{%	include quotes/work.html	%}
+			</div>
+	<!-- <h3>briefs</h3>
+			<div>	
+			{%	include quotes/tersely.html	%}
+			</div> -->
+	<h3>politics</h3>
+			<div>	
+			{%	include quotes/politics.html	%}
+			</div>
+	<h3>art</h3>
+			<div>		
+			{%	include quotes/art.html		%}
+			</div>
+	<h3>education</h3>
+			<div>		
+			{%	include quotes/education.html		%}
+			</div>
 	<!--  -->
-	<h3>deaths</h3><div>	{%	include quotes/deaths.html	%}			</div>
+	<h3>deaths</h3>
+			<div>	
+			{%	include quotes/deaths.html	%}
+			</div>
 	<h3>aphorists</h3>
 	<div>
 		<div class="accordion">
-			<h3>nietzsche</h3><div>{%	include quotes/fritz.html	%}	</div>
-			<h3>pessoa</h3><div>{%		include quotes/pessoa.html	%}	</div>
-			<h3>wittgenstein</h3><div>{% include quotes/luki.html	%}	</div>
-			<h3>gide</h3><div>{%		include quotes/gide.html	%}	</div>
-			<h3>cioran</h3><div>{%		include quotes/cioran.html	%}	</div>
-			<h3>perlis</h3><div>{%		include quotes/perlis.html	%}	</div>
-			<h3>borges</h3><div>{%		include quotes/borges.html	%}	</div>
-			<h3>gwern</h3><div>{%		include quotes/gwern.html	%}	</div>
-			<h3>me</h3><div>	{%		include quotes/I.html		%}	</div>
-			<h3>epigram for this page</h3><div>{%		include quotes/epigram.md		%}</div>
+			<h3>nietzsche</h3>
+			<div>
+			{%	include quotes/fritz.html	%}
+			</div>
+			<h3>pessoa</h3>
+			<div>
+			{%		include quotes/pessoa.html	%}
+			</div>
+			<h3>wittgenstein</h3>
+			<div>
+			{% include quotes/luki.html	%}
+			</div>
+			<h3>gide</h3>
+			<div>
+			{%		include quotes/gide.html	%}
+			</div>
+			<h3>cioran</h3>
+			<div>
+			{%		include quotes/cioran.html	%}
+			</div>
+			<h3>perlis</h3>
+			<div>
+			{%		include quotes/perlis.html	%}
+			</div>
+			<h3>borges</h3>
+			<div>
+			{%		include quotes/borges.html	%}
+			</div>
+			<h3>gwern</h3>
+			<div>
+			{%		include quotes/gwern.html	%}
+			</div>
+			<h3>me</h3>
+			<div>	
+			{%		include quotes/I.html		%}
+			</div>
+			<h3>epigram for this page</h3>
+			<div>
+			{%		include quotes/epigram.md		%}</div>
 		<br>	
 		</div>
 	</div>
 </div>
 
-{%	include padder.html 	howMuch=14	%}
+
+			{%	include padder.html 	howMuch=14	%}
 
 
 
@@ -95,5 +176,6 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 </div>
 
 
-{%    include mc.html  %}
+
+			{%    include mc.html  %}
 
