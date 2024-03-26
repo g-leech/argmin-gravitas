@@ -13,13 +13,15 @@ visible:    false
 * Xiaolongbao
 * Sichuan dry-fried cauliflower (干锅花菜)
 * Tomato egg drop soup
-* Hot and sour soup
+* Hot n sour soup
+* Scallion pancake
 * Xian biangbiang
 * Guaiwei sauce (怪味)
 * Chengdu hotpot, Napa cabbage hotpot 
 * Braised aubergine (鱼香茄龙)
 * Sichuan aubergine in yuxiang 
 * Beijing pancake-dumplings (褡裢火烧)
+* Scallion pancake
 * Mapo tofu
 * Laksa
 * Pho
@@ -50,8 +52,10 @@ visible:    false
 * More garlic than you can believe
 * only potato
 
+* White pomelo
 * Raasiku kali 
 * Horchata
+* MSG on watermelon
 * Golden milk
 * Tres leches
 * Shoofly pie
@@ -66,39 +70,51 @@ visible:    false
 
 ## Restaurants
 
+* King's Joy, Beijing
 * Rishi's, Aberdeen
-* Mestizo, London
+<!-- * Mestizo, London -->
+* MUME, Taipei
 * Kailash Momo, London
-* Wolkite, London
-* Shapur, London
-* Nusa Kitchen, London
-* San Carlo, Bristol
+* Mama Chang, Fairfax
+<!-- * Wolkite, London -->
+<!-- * Shapur, London -->
+<!-- * San Carlo, Bristol -->
+* Pujol, CDMX
+* Salon 1905, Belgrade
+* Bulrush, Bristol
+* Hapsal Dietrich, Haapsalu
+* Just a Maestro, Belgrade
+* Tast, Prague
+* Jietai Temple, Beijing
+* Mantel ja Korsten, Tallinn
+* New Balkan Cuisine, Belgrade
+* Chilpa, CDMX
 * Suyuan, Bristol
-* Eat-a-Pitta, Bristol
+* Veggienius, Taipei
+* Paco Tapas, Bristol
+* Eska, Prague
+* Little Tree Food, Taipei
+* Nusa Kitchen, London
+<!-- * Eat-a-Pitta, Bristol -->
 * Trongs, Ipswich
 * Mono, Glasgow
 * Mosque Kitchen, Edinburgh
-* Woorijip, New York
-* Mama Chang, Fairfax
-* Jietai Temple, Beijing
+<!-- * Woorijip, New York -->
 <!-- * Wicca, Laulasmaa -->
-* Hapsal Dietrich, Haapsalu
 <!-- * Antonínovo pekařství, Prague -->
 * Gemüse Corner Kebab, Prague 
-* San Crispino, Grom, Giolitti, Rome
+<!-- * San Crispino, Grom, Giolitti, Rome -->
 * Della Passera, Rivareno, Perche No, Florence
-* Le Vespe, Florence
-* Castizo, CDMX
-* El Califa, CDMX
-* Chilpa, CDMX
+<!-- * Le Vespe, Florence -->
+<!-- * Castizo, CDMX -->
+<!-- * El Califa, CDMX -->
 <!-- * Chinampa, CDMX -->
 <!-- * Chilaquiles del Barrio, CDMX -->
 <!-- * Frutos prohibidos, CDMX -->
-* Pujol, CDMX
 <!-- * Plantasia, CDMX -->
-* Nueve Nueve, CDMX
-* Areperia, CDMX
-* Azul Condesa, CDMX
+<!-- * Nueve Nueve, CDMX -->
+<!-- * Areperia, CDMX -->
+<!-- * Azul Condesa, CDMX -->
 
 <br>
 
