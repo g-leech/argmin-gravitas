@@ -16,7 +16,7 @@ visible:	true
 	<!--  -->
 	<!--  -->
 	<li>
-		I don't really understand how people pick two "research interests". My two research interests are things and stuff.
+		I don't really understand how people pick two "research interests". My two research interests are things and stuff. My special interest is getting into stuff.
 	</li>
 	<br>
 	<li>
@@ -46,14 +46,13 @@ visible:	true
 </div>
 <!-- include about/now.md	 -->
 <div class="accordion">	
-	{%	include about/stats.html	%}	
 	{%	include about/errata.html	%}	
+	{%	include about/stats.html	%}	
 	{%	include about/books.html	%}	
 	{%	include about/misc.html	%}
 </div>
 
-<br><br><br><br>
-
+<br><br><br>
 
 {%    include mc.html  %}
 
@@ -62,4 +61,4 @@ visible:	true
 
 
 
-{%	include padder.html 	howMuch=13	%}
+{%	include padder.html 	howMuch=6	%}

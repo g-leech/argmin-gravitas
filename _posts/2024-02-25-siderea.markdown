@@ -15,9 +15,10 @@ importance:
 
 summary:    Inscribing the Boston sibyl
 confidence: 
-categories: social-science, mental-health, game-theory, humanism, psychology, politics
+categories: social-science, mental-health, game-theory, humanism, psychology, politics, bloggers
 warnings:   suicide, American politics
 wordcount:      
+where:      "Taipei"
 ---
 
 

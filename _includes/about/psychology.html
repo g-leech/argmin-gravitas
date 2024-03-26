@@ -12,6 +12,8 @@
 {%		assign moralPhil = "/img/psych/philo.png"	%}
 {%		assign cats = "/img/psych/cats.png"	%}
 {%		assign hartree = "https://forum.effectivealtruism.org/posts/av7MiEhi983SjoXTe/some-core-assumptions-of-effective-altruism-according-to-me"	%}
+{%		assign mtg = "https://still-anchorage-15218.herokuapp.com/"	%}
+{%	assign mtgImg = "/img/psych/mtg.png"		%}
 
 {%	assign kin = "https://en.wikipedia.org/wiki/Kin_selection"		%}
 {%	assign convent = "https://plato.stanford.edu/entries/convention/#Lew"		%}
@@ -76,6 +78,10 @@
 <br><br><br>
 
 
+<a href="{{mtg}}">MtG Color Wheel</a>
+<a href="{{mtgImg}}"><div id="mtgImg"></div></a>
+<br><br><br>
+
 <a href="{{hartree}}">Core assumptions of effective altruism</a>
 66%.
 
@@ -101,6 +107,8 @@
 	//definiteEvent( createImg, [src, "schwartzImg"] ); 
 	var src = "{{fiveImg}}";
 	definiteEvent( createImg, [src, "fiveImg"] ); 
+	var src = "{{mtgImg}}";
+	definiteEvent( createImg, [src, "mtgImg"] ); 
 </script>
 
 

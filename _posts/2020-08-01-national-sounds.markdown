@@ -35,9 +35,9 @@ argument:
 			{%	include nation/latv.html	%}
 			{%	include nation/est.html	%}
 			{%	include nation/esp.html	%}
+		    {%  include nation/pl.html  %}
 			{%	include nation/neder.html	%}
 			{%	include nation/portug.html	%}
-			{%	include nation/hun.html	%}
 			{%	include nation/fin.html	%}
 			{%	include nation/uke.html	%}
 		</div>
