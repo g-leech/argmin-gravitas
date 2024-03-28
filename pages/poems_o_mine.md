@@ -26,7 +26,7 @@ Selection pressures we don't really understand led the deerhorn clarkia to have 
 
 Louis Bachelier modeled the process now called Brownian. Einstein read that. Wiener read that that. Itô read that that that.
 
-The stochastic calculus was made during the war. It describes all random events. that is, it describes
+The stochastic calculus was made during the war. It describes all random events. that is, it describes.
 
 <img src="/img/ito.png" />
 
@@ -160,7 +160,7 @@ Grampian, the uniformity and wall-eyed mist.<br>
 Back, grey cries for colour: quayside tattoos, <br>
 neon dye, Jäger. Colour isn't given.<br><br>
 
-Nae thermo, nae sae dynamic. (Ootsides, onywauy.) <br>
+Nae thermo, nae sae dynamic. (Ootside, onywoy.) <br>
 Folk thole the grey reef lang enou, <br>
 puddle in the sea, hoovering <br>
 at livid macroeconomic cracks. <br>
@@ -1606,17 +1606,6 @@ but felt your heart beat through it<br />
 a night just then.
 
 
-<br><br><br><br><br>
-
-
-#### __weaponized__
-
-against nothingness we used bang.<br />against lifelessness we used rna.<br />against stasis we used predation.<br />against blind we used sense.<br />
-<!--against sense we used mind.<br />-->
-against neanderthals we used braining.<br />against darkness we used each other.<br />against peace we used questions.<br />against angst we used questions.<br />against boredom we used questions.<br />against impotence we used questions.<br />against arrogance we used questions.<br />against questions we used god and fire.<br />against hunger we use life.<br />against women we use themselves.<br />against happiness we use ideals.<br />against death we use soap.<br />against thought we use stuff.<br />against memory we use google.
-
-
-<br><br><br><br><br>
 
 
 <br><br><br>
@@ -1629,6 +1618,17 @@ against neanderthals we used braining.<br />against darkness we used each other.
 ## 2011
 
 <br>
+
+
+#### __weaponized__
+
+against nothingness we used bang.<br />against lifelessness we used rna.<br />against stasis we used predation.<br />against blind we used sense.<br />
+<!--against sense we used mind.<br />-->
+against neanderthals we used braining.<br />against darkness we used each other.<br />against peace we used questions.<br />against angst we used questions.<br />against boredom we used questions.<br />against impotence we used questions.<br />against arrogance we used questions.<br />against questions we used god and fire.<br />against hunger we use life.<br />against women we use themselves.<br />against happiness we use ideals.<br />against death we use soap.<br />against thought we use stuff.<br />against memory we use google.
+
+
+<br><br><br><br><br>
+
 
 
 #### __speak sense__
