@@ -299,12 +299,16 @@ The remarkable thing is that KHTK can depict humanity's prey relationship to ide
 
 (The game allows socialist players to indulge in unreconstructed, untroubled, C19th socialism - which is one reason it is so beloved online, and oddly commercially successful. But even in _that_ playthrough it takes a lot to ignore the tragedy of the students and the deserter.)
 
-> Do you believe the status quo is preferable to chaos and bloodshed?
-> \> No.
+> Do you believe the status quo is preferable to chaos and bloodshed?<br>
+> \> No.<br>
 > Empathy: Then you've never experienced real chaos."
 
-> Do you believe the status quo is preferable to chaos and bloodshed?
-> Yes. 
+<br>
+
+or in an alternative timeline: 
+
+> Do you believe the status quo is preferable to chaos and bloodshed?<br>
+> Yes. <br>
 > There you have it. Sometimes holding the line is progress.
 
 
@@ -326,6 +330,9 @@ The remarkable thing is that KHTK can depict humanity's prey relationship to ide
 
 
 A repeated irony is that _the cranks are right_, though for the wrong reasons. Plaisance is right about the Presence (the phasmid; [the hole in the world](http://fayde.co.uk/dialojue/4280591); the deserter skulking around the tunnels; the Mega Rich Light-Bending Guy). The cryptozoologist Morrell is right about the phasmid. Harry is constantly right on wild hunches, not least about Victor Méjean. The infra-materialists are right about plasm being a physical force (though completely wrong about it being specific to communism). 
+
+Cunoesse is the Gnome of Geroma. Egg Head is the Far-Out Son of Lung. 
+
 
 [Elysium itself is flat earth!](http://fayde.co.uk/dialojue/6360587) (or anyway not an intact sphere):
 
@@ -407,7 +414,7 @@ Returning to the Pale and the end of the world: one of the very few sentimental 
 <!--  -->
     "Anodic music" (an anode, the opposite of a cathode, opposite of a TV, opposite of passive entertainment)<br><br>
     "<a href="{{anode}}">Anodic protection</a>": to electrify something, to stop it being corroded<br><br>
-    "Anechoic" (sound deadening; cancelling waves; creating a clean slate)<br><br>
+    "Anechoic" (sound deadening; cancelling waves; creating a clean slate; stilling the effects of <i>past</i> noise)<br><br>
     </div>
     <h3>Art, religion, science, and politics</h3>
     <div>
@@ -434,7 +441,7 @@ One large portion of DE's aesthetic charm involves using the Sublime, the romant
 unimportance of the situation. If sub specie aeternitatis there is no reason to believe that
 anything matters, then that doesn’t matter either... It is often remarked that nothing we do now will matter in a million years. But if that is true, then by the same token, nothing that will be the case in a million years matters now. In particular, it does not matter now that in million years nothing we do now will matter.
 
-"we can therefore approach our absurd lives with irony rather than heroism or despair")
+so "<i>we can therefore approach our absurd lives with irony rather than heroism or despair</i>")
 
 <br><br>
 
@@ -468,7 +475,7 @@ To my surprise _DE_ depicts the union as extremely ambiguous. (One of your first
 
 > There's a party in my head and no one is invited
 
--- [Kevin Parker](https://www.youtube.com/watch?v=-F2e9fmYL7Y)
+<center>-- [Kevin Parker](https://www.youtube.com/watch?v=-F2e9fmYL7Y)</center>
 
 <br>
 
@@ -484,7 +491,9 @@ What you're good at _determines your decisions_ (the game takes actions, rolls c
 
 > At high levels, you’ll be the very heart of the police force: not only willing and able but obliged to take a bullet for your partner. 
 
-To return to 'the political is personal': Skills also provide your political impulses. Authority and Endurance are the fascist skills. Endurance often talks about your gut (gut feeling), again with the organic intuitions of hatred. Your Communist thoughts are most often repped by Rhetoric (cheap talk), but really it is just the voice of horseshoe radicalism, anything overstated and exciting. Empathy entails centrism; Savoir Faire implies capitalism. Fascist body, socialist mouth, centrist heart, capitalist confidence.
+To return to 'the political is personal': Skills also provide your political impulses. Authority and Endurance are the fascist skills. Endurance often talks about your gut (gut feeling), again with the organic intuitions of hatred. Your Communist thoughts are most often repped by Rhetoric (cheap talk), but really it is just the voice of horseshoe radicalism, anything overstated and exciting. Empathy entails centrism; Savoir Faire implies capitalism. 
+
+Fascist body, socialist mouth, centrist heart, capitalist confidence.
 
 <br>
 
@@ -520,11 +529,6 @@ VOLITION - There's no way of knowing. At the moment I'm afraid it's best to assu
 
 <br><br>
 
-<!-- Cunoesse is the Gnome of Geroma -->
-<!-- Egg Head is Far-Out Son of Lung -->
-<!-- Robert Kurvitz’s mom’s name is also Lillian -->
-<!-- Kim also smokes on a balcony -->
-<!-- Homophobia is special: it gets to Harry. "f****t has been singled out for unique treatment, a special kind of distortion and a loud kind of silence. The word is never displayed visually without censoring, and the audio is replaced with noise that hisses in your ears, as though Harry’s senses cannot take it in." -->
 
 ### Europe. 
 
@@ -631,7 +635,7 @@ All we can say is that it murders less. We mustn't say this very proudly.
 
 <br>
 
-> "The Gottwald School believe that intellectuals as a class are incapable of sparking revolutionary change, so all they can do is *critique* capitalism from inside itself."<br>
+> "The Gottwald School believe that intellectuals as a class are incapable of sparking revolutionary change, so all they can do is *critique* capitalism from inside itself."<br><br>
 > LOGIC - In other words, they have lost faith in their own relevance.
 
 <br>
@@ -649,11 +653,11 @@ You: Wait, who is he thinking about?<br>
 Empathy: Hard to say. Someone dear to him.<br><br>
 ...The only promise it offers is that the future can be better than the past, if we're willing to work and fight and die for it.<br>
 You: But what if humanity keeps letting us down?<br>
-Steban: Nobody said fulfilling the proletariat's historic role would be easy. (he smiles a tight smile) It demands great faith with no promise of tangible reward. But that doesn't mean we can simply give up.
+Steban: Nobody said fulfilling the proletariat's historic role would be easy. (he smiles a tight smile) It demands great faith with no promise of tangible reward. But that doesn't mean we can simply give up.<br>
 You: Even when they ignore us?<br>
 Steban: Even then.<br>
 Ulixes: Mazov says it's the arrogance of capital that will be its ultimate undoing. It does not believe it can fail, which is why it must fail.<br>
-Volition: So young. So *unbearably* young...<br>
+Volition: So young. So **unbearably** young...<br>
 Half Light: Why do you see the two of them with their backs against a bullet-pocked wall, all of a sudden?<br>
 Inland Empire: Their faces, blurred yet frozen as though in ambrotype. You were never *that young*, were you?<br>
 Steban: I guess you could say we believe it *because it's impossible*. (he looks at the scattered matchboxes on the ground) It's our way of saying we refuse to accept that the world has to remain... like this...<br>
@@ -685,7 +689,7 @@ I chose something else though:
 
 <br><br>
 
-The tribunal as Fanonian violence. 
+#### The tribunal as Fanonian violence. 
 
 What legitimates the RCM in Martinaise again, after decades of brutality and vigilantism?: Standing together against the outsider, and [killing him](https://www.youtube.com/watch?v=By_T39ENlkg).
 
@@ -701,7 +705,7 @@ What legitimates the RCM in Martinaise again, after decades of brutality and vig
 
 ### Life imitates art
 
-> Capital has the ability to subsume all critiques into itself. Even those who would *critique* capital end up *reinforcing* it instead...”
+> Capital has the ability to subsume all critiques into itself. Even those who would *critique* capital end up *reinforcing* it instead...
 
 <br>
 
@@ -718,9 +722,21 @@ That black comedy is ready to birth another: the new owners sold the film rights
 
 ---
 
+> unexpected, beautiful things are still possible... brief glimmers of genuine solidarity... The dice-rolling nature of the game asserts that, while we have very little control over our lives, there is always possibility. 
+
+<center>— <a class="noline" href="https://www.backloggd.com/u/caebl201/review/306803">caebl</a></center>
+
 <br>
 
-Cynical as they are, realistic as they are, idealistic as they are, they don't go far enough along any of these axes. _Cynicism_: Revolution is a youth politics for a reason: it's a great signal and offers the young and psychotic resources they can't get otherwise. _Realistic_: the world is not actually broken. It's unfair and contains many terrible things, and no we cannot actually solve collective action problems by saying nice words and hoping hard -- but that's different from being hopeless, valueless, in pieces. _Idealistic_: The world is getting better in many ways, in spite of rent-seekers and bastards. Individuals are surprisingly powerful and the system still has millions of holes in it.
+<br>
+
+Cynical as they are, realistic as they are, idealistic as they are, they don't go far enough along any of these axes. 
+
+_Cynicism_: Revolution is a youth politics for a reason: it's a great signal and offers the young and psychotic resources they can't get otherwise. 
+
+_Realism_: the world is not actually broken. It's unfair and contains many terrible things, and no we cannot actually solve collective action problems by saying nice words and hoping hard -- but that's different from being hopeless, valueless, in pieces. 
+
+_Idealism_: The world is getting better in many ways, in spite of rent-seekers and bastards. Individuals are surprisingly powerful and the system still has millions of holes in it.
 
 But playing it I am reminded what is great about the left – the cussed rejection of compromise for a third option which might never arrive – the joy of deviance in the teeth of moralists and authoritarians – getting up after being punched again, betrayed again, dumped again – the white-hot [rage](https://twitter.com/EverDundas/status/958664289405079555/photo/1) inside compassion. I am not as I was before. I am open to other experiments, weirder art, weirder people, ready to be disappointed again, chambered and aimed. 
 
@@ -728,11 +744,6 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 
 
 
-> unexpected, beautiful things are still possible... brief glimmers of genuine solidarity... The dice-rolling nature of the game asserts that, while we have very little control over our lives, there is always possibility. 
-
-<center>— <a class="noline" href="https://www.backloggd.com/u/caebl201/review/306803">caebl</a></center>
-
-<br>
 
 > You are a violent and irrepressible miracle. The vacuum of cosmos and the stars burning in it are afraid of you.
 
@@ -776,6 +787,13 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 * https://bulletpointsmonthly.com/2019/11/06/chaos-as-canon/ <br>
 * https://alastairhadden.medium.com/a-storm-is-blowing-from-paradise-disco-elysium-on-the-past-and-present-e2fff5d629be <br>
 * https://noescapevg.com/disco-elysium-and-copaganda/ 
+    </div>
+    <!--  -->
+    <h3>misc</h3>
+    <div>
+        Robert Kurvitz’s mum’s name is Lilian<br><br>
+        Kim also smokes on a balcony<br><br>
+        Homophobia is special: it gets to Harry. Zoyander Street: "<i>f****t has been singled out for unique treatment, a special kind of distortion and a loud kind of silence. The word is never displayed visually without censoring, and the audio is replaced with noise that hisses in your ears, as though Harry’s senses cannot take it in.</i>"
     </div>
     <!--  -->
     <h3>an allusive history of doomed utopian politics</h3>
