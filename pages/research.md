@@ -17,7 +17,7 @@ visible:	true
 
 <br>
 
-### Conference
+## Conference
 
 
 <table>
@@ -28,7 +28,7 @@ visible:	true
 <br>
 
 
-### Preprint
+## Preprint
 
 <table>
 	{%  include researches/hplr.html	%}
@@ -40,7 +40,7 @@ visible:	true
 
 <br>
 
-### Journal
+## Journal
 
 <table>
 	{%	include researches/masks.html	%}
@@ -54,7 +54,7 @@ visible:	true
 
 <br>
 
-### Workshop
+## Workshop
 
 <table>
 	{%	include researches/forrt.html	%}
@@ -63,12 +63,7 @@ visible:	true
 
 
 
-<!-- * _Towards Tensorised Probabilistic Programming_ (2020) -->
-<!-- * _<a href="/files/ILP_vs_DL_v0.9.pdf" target="_blank">Comparing Inductive Logic Programming & Deep Learning</a>_ (2020) -->
-<!-- * _<a href="/files/" target="_blank">The computational humour of single-word edits</a>_ (2020) -->
-<!-- * _<a href="/files/" target="_blank">Failing to Find Proxies for Population Loneliness</a>_ (2020) -->
-
-<br><br><br>
+<br><br><br><br>
 
 
 <div class="accordion">
@@ -125,17 +120,6 @@ visible:	true
 
 
 
-<!-- ### Students
-
-* Dylan
-* Seth
-* Uzay
-* Juan
-* Yudhi
-* Miles
-
-<br><br>
- --><!-- <br> -->
 
 <br><br>
 
