@@ -428,7 +428,6 @@ The harsh light of <a href="#the_law" epub-type="stretchsummary">Sturgeon's law<
 
 But also that, were humanity better than it is - more thoughtful, more caring, more original, funnier - the situation would be <i>more</i> tragic. Because the feeling I have of missing out on you all would be, well, justified.
 
-<p>"90% of everything is crap"</p>
 
 <br><br><br><br><br>
 
@@ -1243,6 +1242,7 @@ and we both say we crave independence,<br />
 </blockquote>
 -- Carl Hancock Rux
 
+<br>
 
 Hey! hark at their coming, oi! quake at their bells:<br />
 it's those buggering jobs that feed&nbsp;the Bourgeois Nation-State.<br />
@@ -1450,7 +1450,7 @@ an efficacious&nbsp;blessing, for once.
 
 
 
-
+<br><br><br><br><br>
 
 
 
