@@ -27,7 +27,7 @@ where:      "Taipei"
 
 **Audience interaction**: Who here has a clear idea of how to get it?
 
-That was a joke; very few 50 year adults have a good answer to both of those questions.
+That was a joke; very few 50 year old adults have a good answer to both of those questions.
 
 
 <br><br>
@@ -35,13 +35,13 @@ That was a joke; very few 50 year adults have a good answer to both of those que
 
 This is a class about a fatal trap that lies in wait for the brilliant but unwary young person: success; or other people’s definitions of success.
 
-This class is a polemic. I make a number of extremely large claims. Feel free to challenge them, we have time.
+This class is a polemic. I make a number of [extremely large](https://www.gleech.org/stopping#:~:text=Giant%20claims%20in%20this%20class) claims. Feel free to challenge them, we have time.
 
 Some of this class is based on personal experiences you can't verify. Various sociologists agree with me.
 
 <br><br>
 
-### What do we mean by success
+### What we mean by success
 
 1. **“Excellence”**: Ordinary success. Pejorative, here. Default. money, status, fame, Ivy League degree, fancy title, proximity to power <br><br>
 2. **“Greatness”**. _Very roughly for the purposes of argument_, doing something no one has ever done before. <br><br>
@@ -49,7 +49,7 @@ Some of this class is based on personal experiences you can't verify. Various so
 
 <br>
 
-You cannot allow other people to decide what you want from life. This is the most likely single thing to ruin your life. Doing the wrong thing reduces your effective lifespan by 40 years: your career
+_You cannot allow other people to decide what you want from life._ This is the most likely single thing to ruin your life. Doing the wrong thing reduces your effective lifespan by 40 years: i.e. the length of your career. If excellence was a chemical substance it would be banned in every country and limited to extremely well-ventilated hazmat laboratories.
 
 This includes me. All of the following is conditional on what _you_ want in life. 
 
@@ -103,10 +103,6 @@ Never underestimate people's hatred for establishing their own independent set o
 
 <br>
 
-Two fundamental reasons that these places lead you away from your own values: 
-* Organisations are complex. [Internal politics distract you](https://thezvi.wordpress.com/2020/05/23/mazes-sequence-summary/). Most of the org is not at the coalface, getting any real feedback at all.
-* Success in the org is a proxy objective for your success. If you optimise a proxy hard enough, you can [diverge very very far](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/#:~:text=The%20metric%20gap%3A%20In%20almost%20all%20cases%2C%20we%20do%20not%20optimize%20the%20actual%20measure%20of%20success%20we%20care%20about%2C%20but%20rather%20another%20metric%20that%20is%20at%20best%20correlated%20with%20it.) from what you actually want.
-
 
 <br><br>
 
@@ -123,22 +119,29 @@ Two fundamental reasons that these places lead you away from your own values:
 
 The reasons that old institutions so often end up doing unoriginal and fake things are deep and interesting but for a later session.
 
+Two fundamental reasons that these places lead you away from your own values: 
+* Organisations are complex. [Internal politics distract you](https://thezvi.wordpress.com/2020/05/23/mazes-sequence-summary/). Most of the org is not at the coalface, getting any real feedback at all.
+* Success in the org is a proxy objective for your success. If you optimise a proxy hard enough, you can [diverge very very far](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/#:~:text=The%20metric%20gap%3A%20In%20almost%20all%20cases%2C%20we%20do%20not%20optimize%20the%20actual%20measure%20of%20success%20we%20care%20about%2C%20but%20rather%20another%20metric%20that%20is%20at%20best%20correlated%20with%20it.) from what you actually want.
+
+
 
 <br><br>
 
 ### Me
 
-Another thing that stops people is not realising that you can just do things. You don’t need permission, you usually don’t need a credential, you don’t need to solve all your personal problems first
+Another thing that stops people is not realising that you can just do things. You don’t need permission, you usually don’t need a credential, you don’t need to solve all your personal problems first.
 
-I’m the first person in my family to go to college. Grandparents farmers. Mother a cleaner. I was also shy and depressed for a lot of the first 20 years. It took me a while to get going. 
+I’m the first person in my family to finish college. Grandparents farmers. Mother a cleaner. I was also shy and depressed for a lot of the first 20 years. It took me a while to get going. 
 
 But! Several times in my life, people have tapped me on the shoulder and told me that I wasn’t living up to my potential.
 
-* I was working in London finance, doing “very well”, not working very hard. But the work was meaningless and the corporation I inhabited was extremely dysfunctional. I told a researcher I met that I didn’t think I was good enough to do a PhD. He scoffed and said that I was obviously far above median.
-* A bit later, I was a researcher, I was in a PhD. But no one was really paying any attention. I sent a famous public intellectual my work. He sent me $30,000 and promoted my work to millions of people. This led to me starting my company, working on incredibly fun things all the time, and never worrying about money ever again.
+* I was working in London finance, doing “very well”, not working very hard. But the work was meaningless and the corporation I inhabited was extremely dysfunctional. I told a researcher I met that I didn’t think I was good enough to do a PhD. He scoffed and said that I was obviously far above median.<br><br>
+* A bit later, I was a researcher, I was in a PhD. But no one was really paying any attention. I sent a famous public intellectual my work. He sent me $30,000 and promoted my work to millions of people. This led to me starting my company, working on incredibly fun things all the time, and never worrying about money ever again.<br><br>
 * At the same time, I didn’t have a circle. I had friends but no collaborators, no one who cared about the things I cared about, no one pushing me to do concrete better work. I didn’t think of myself as a leader. I went to Czechia and met this crazy bunch of researchers and meditators and programmers. It was one of the most fun weeks of my life. Some time later, they asked me to lead this camp for teenagers they run.
 
-I was waiting for permission and was deluded about how much it takes to be great, to do actually new things. 
+<br>
+
+I was waiting for permission ... from no-one... and was deluded about how much it takes to be great, to do actually new things. 
 
 My hope is that this class is the last tap on the shoulder you need.
 
@@ -159,7 +162,7 @@ My hope is that this class is the last tap on the shoulder you need.
 
 Ask people to share.
 
-Parents, Skill, School, Poverty., Lack of self-knowledge, Miscalibration about how much skill you need, Lack of connections, Credentials. “Job requirements”, Team , Ideas, Audience, Excellence trap, Youth, Courage. “Permission”
+Parents, Skill, School, Poverty, Lack of self-knowledge, Miscalibration about how much skill you need, Lack of connections, Credentials. “Job requirements”, Team , Ideas, Audience, Excellence trap, Youth, Courage. “Permission”
 
 <br>
 
@@ -173,7 +176,7 @@ Another problem: To attain self-fulfilment, others must comply.
 
 
 
-Recall what you said is stopping you. That was your top 1. What about 
+Recall what you said is stopping you. That was your top 1. What about the next bit?
 
 
 
@@ -190,7 +193,12 @@ Recall what you said is stopping you. That was your top 1. What about
 
 I cannot tell you “be more ambitious”. It’s a tightrope with terrible waste on either extreme. 
 
-rails, inauthenticity, fakery, waste     vs           wasted resources, pretension, stress, waste
+\[rails, inauthenticity, fakery, waste\]     
+<br>
+vs 
+<br>
+
+\[wasted resources, pretension, stress, waste\]
 
 
 
