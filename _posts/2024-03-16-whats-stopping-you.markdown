@@ -35,11 +35,9 @@ That was a joke; very few 50 year adults have a good answer to both of those que
 
 This is a class about a fatal trap that lies in wait for the brilliant but unwary young person: success; or other people’s definitions of success.
 
-This class is a polemic.
+This class is a polemic. I make a number of extremely large claims. Feel free to challenge them, we have time.
 
-I make a number of extremely large claims. Feel free to challenge them, we have time
-
-Some of this class is based on personal experiences you can't verify. Various sociologists agree with me
+Some of this class is based on personal experiences you can't verify. Various sociologists agree with me.
 
 <br><br>
 
@@ -93,30 +91,26 @@ Ask people to share.
 
 
 
-#### The Excellence trap
+### The Excellence trap
 
 Most smart people do not change the world much.
 
-Why? They get trapped in excellence. Instead of making a path for themselves, they climb ladders. Life on rails. It's easier.
+Why? They get trapped in excellence. Instead of making a path for themselves, they climb the ladders that already exist. Life on rails. It's easier.
 
-Never underestimate people's hatred for establishing their own independent set of values and planning an optimal sequence of decisions according to them
+Never underestimate people's hatred for establishing their own independent set of values and planning an optimal sequence of decisions according to them. Uncertainty about your values and the best actions for them is so painful and intractable that, upon for the first time exiting the cave aged 22, most people instantly find a new cave to hide in. (Ok, maybe the 22 year old who makes this decision isn't fully informed of the gravity of their decision.)
 
-Uncertainty about your values and the best actions for them is so painful and intractable that, upon for the first time exiting the cave aged 22, most people instantly find a new cave to hide in. 
+"[Value capture](https://philarchive.org/rec/NGUVCH)"? No, not here. This is value relinquishment. Value abandonment.
 
-Ok, maybe the 22 year old who makes this decision isn't fully informed of the gravity of their decision.
+<br>
 
-"Value capture"? No, not here. This is value relinquishment. Value abandonment.
+Two fundamental reasons that these places lead you away from your own values: 
+* Organisations are complex. [Internal politics distract you](https://thezvi.wordpress.com/2020/05/23/mazes-sequence-summary/). Most of the org is not at the coalface, getting any real feedback at all.
+* Success in the org is a proxy objective for your success. If you optimise a proxy hard enough, you can [diverge very very far](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/#:~:text=The%20metric%20gap%3A%20In%20almost%20all%20cases%2C%20we%20do%20not%20optimize%20the%20actual%20measure%20of%20success%20we%20care%20about%2C%20but%20rather%20another%20metric%20that%20is%20at%20best%20correlated%20with%20it.) from what you actually want.
 
-
-
-Fundamental reason that these places lead you away from your own values: 
-* Organisations are complex. Internal politics. Most of the org is not at the coalface, getting real feedback
-* It's a proxy objective optimised hard, which 
-* Moral Mazes
 
 <br><br>
 
-#### All old or large institutions are ladders
+### All old or large institutions are ladders
 
 * Corporate ladder - L7 ($1m a year), C-level, first class flights, PA, suits
 * Government ladder
@@ -154,7 +148,7 @@ My hope is that this class is the last tap on the shoulder you need.
 
 * No "hero licence" (social or internal permission to do new things, nonstandard things, ambitious things)
 * Ignorance of the option set (I didn't hear about school olympiads until I was 26 years old)
-* Miscalibration about skill requirements or your own skill level
+* Miscalibration about [skill](https://danluu.com/p95-skill/) requirements or your own skill level. Ignore job "requirements".
 
 <br><br>
 
@@ -213,18 +207,18 @@ You fail this class if you do not ask for something
 <br>
 
 
-help finding who to contact (profs, founders, anons)
-help writing cold emails
-help starting a blog and plugging it
-help calibrating ambition level correctly (usually up)
-help finding funding
-help developing mastery (maths, forecasting, public speaking, whatev)
-scholarships
-detailed research feedback
-finding collaborators
-Create hard things
-Find your coterie
-Ask people without shame
+help finding who to contact (profs, founders, anons); 
+help writing cold emails; 
+help starting a blog and plugging it; 
+help calibrating ambition level correctly (usually up); 
+help finding funding; 
+help developing mastery (maths, forecasting, public speaking, whatev); 
+scholarships; 
+detailed research feedback; 
+finding collaborators; 
+Create hard things; 
+Find your coterie; 
+Ask people without shame.
 
 
 <br><br>
