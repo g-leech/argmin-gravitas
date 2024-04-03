@@ -3,244 +3,216 @@ layout:     post
 title:      "What's stopping you?"
 baselink:   /stopping
 permalink:  /stopping
-date:       2024-03-16  <!--site.time-->
+date:       2024-04-03  <!--site.time-->
 author:     Gavin
 
-img:        /img/
-published:  false
+img:        /img/skylla_og_charybdis.jpg
+published:  true
 visible:    1
 quality:    
 emotion:    
 importance: 
 
 summary:    a class I teach (differently every year)
-confidence: 
-categories: 
-warnings:   
+confidence: 70% that you could benefit from more of this and not less
+categories: education, meaning, becoming, Life, warnings
+warnings:   You could easily overdo this advice.
 wordcount:      
+where:      "Taipei"
 ---
 
 
-Outline
-Joke
-Definitions of success
-RESIST
-# 1. What do you want in life? (5 mins)
-# 2. What is stopping you? (5mins)
-# 3. What’s missing in the world? (3 mins)
 
-Recall what you said is stopping you. Top 1
-# 4. After that is relaxed, what's stopping you (1min)
-# 5. After that is relaxed, what's stopping you (1min)
-# 6. What can ESPR do for you? What can you do for the above this week? (5 mins)
+**Audience interaction**: Who here has a clear idea of what they want from life?
 
-# Damage control
+**Audience interaction**: Who here has a clear idea of how to get it?
+
+That was a joke; very few 50 year adults have a good answer to both of those questions.
 
 
+<br><br>
 
 
-Giant claims in this class
-implicit: you should be fixing what's missing in the world 
-
-most smart people don't change the world
-<2% of parents are great at parenting
-
-"define smart people by iq > 130"
-"iq kinda sucks"
-
-corporations, academia, NGOs, Art, EA and modern startups are ladders people climb and waste 40 years of their lives on 
-
-the vast majority of papers are useless, even to their authors
-same for most books, patents(?), art(?)
-
-academics sacrifice their vision for tenure and hope to do better later but don't because the 7-year grind changes you 
-
-antiwork is also a ladder
-
-you can goodhart the IMO by memorizing proofs
-
-startups 1990s-2000s did involve small groups of very weird people changing the world, but the window for startups is closing
-
-The Knowledge Society which teaches kids to make fake startups is literally satanic 
-
-The Efficient Market Hypothesis is trivially false for intellectual work 
-
-ESPR instructor saved ??lives by optimizing a central Google process and thinks it's the most valuable thing he's done 
-
-"you don't need credentials"
-"you don't need a hero license"
-
-
-Never underestimate people's hatred for establishing their own independent set of values and planning an optimal sequence of decisions according to them
-
-
-
-Transcript
-
-Who here has a clear idea of what they want from life?
-Who here has a clear idea of how to get it?
-Jokes
-
-a fatal trap that lies in wait for the brilliant but unwary young person: success
-    ; other people’s definitions of success
+This is a class about a fatal trap that lies in wait for the brilliant but unwary young person: success; or other people’s definitions of success.
 
 This class is a polemic.
+
 I make a number of extremely large claims. Feel free to challenge them, we have time
+
 Some of this class is based on personal experiences you can't verify. Various sociologists agree with me
 
-What do we mean by success
-“Excellence”: Ordinary success. Pejorative. Default.
-money, status, fame
-Ivy League degree, fancy title, proximity to power 
-“Greatness”. 
-Doing something no one has ever done before. 
-Self-fulfilment
-whatever you want including all of the above
+<br><br>
 
-You cannot allow other people to decide what you want from life.
-This is the most likely single thing to ruin your life. 
-Doing the wrong thing reduces your effective lifespan by 40 years: your career
-This includes me. All of the following is conditional on what you want in life. 
+### What do we mean by success
+
+1. **“Excellence”**: Ordinary success. Pejorative, here. Default. money, status, fame, Ivy League degree, fancy title, proximity to power <br><br>
+2. **“Greatness”**. _Very roughly for the purposes of argument_, doing something no one has ever done before. <br><br>
+3. **Self-fulfilment**. whatever you want _including all of the above_
+
+<br>
+
+You cannot allow other people to decide what you want from life. This is the most likely single thing to ruin your life. Doing the wrong thing reduces your effective lifespan by 40 years: your career
+
+This includes me. All of the following is conditional on what _you_ want in life. 
+
+<br><br>
 
 
-1. What do you want in life? (5 mins)
+
+
+### 1. What do you want in life? 
+
+
+**Audience interaction**: 5mins silent writing
+
+Ask people to share.
+
+
 While you’re thinking I will list some examples. 
+
 Scientific discovery, art, parenting, happiness, freedom, chill, Enlightenment, fun, safety, doing something genuinely new, retiring early, saving the world, varietymaxxing
 
 
-Breakout, share
+
+
+<br><br>
+
+
+### 2. What’s missing in the world? 
 
 
 
-2. What’s missing in the world? (3 mins)
 Same question with a different centre of gravity
-Breakout, share
+
+**Audience interaction**: 3mins silent writing
+
+Ask people to share.
+
+<br><br>
 
 
-3. What is stopping you?
-Solicit
 
-Parents
-Skill
-School
-Poverty.
-Lack of self-knowledge
-Miscalibration about how much skill you need
-Lack of connections
-Credentials. “Job requirements”
-Team 
-Ideas
-Audience
-Excellence trap
-Youth
-Courage. “Permission”
 
-The Excellence trap
-Most smart people do not change the world much. EXTREMELY SKETCHY ARGUMENT NONLITERAL AND NONROBUST NUMBERS JUST TO GIVE SOME INTUITION
+#### The Excellence trap
 
-IQ is overrated but say for the purposes just of this argument that “smart” is 130+
-There are 182m people in that set
-Claim: There are not 182m great works a year / a decade
-5m academic papers published a year
-1m books a year
-Patents suck but 647k a year
-Roughly 1 billion parents. Probably 10 million great ones if we’re honest
+Most smart people do not change the world much.
 
-Why?
-They get trapped in excellence. Climb ladders.
+Why? They get trapped in excellence. Instead of making a path for themselves, they climb ladders. Life on rails. It's easier.
 
-Fundamental reason that these places lead you away from: 
-Organisations are complex. Internal politics. Most of the org is not at the coalface, getting real feedback
-Proxy objective optimised hard enough. not the true objective. Metric gap
-Moral Mazes
+Never underestimate people's hatred for establishing their own independent set of values and planning an optimal sequence of decisions according to them
 
-Corporate ladder - L7 ($1m a year), C-level, first class flights, PA, suits
-Government ladder
-Academia ladder - how many of you know how tenure works?
-Nonprofit ladder - grand speeches and unbelievable inefficiency
-Fine art ladder - 
-Startup ladder - TKS
-EA ladder
+Uncertainty about your values and the best actions for them is so painful and intractable that, upon for the first time exiting the cave aged 22, most people instantly find a new cave to hide in. 
 
-(There's also [a ladder](https://ranprieur.com/essays/dropout.html) for radical off-grid dropouts)
+Ok, maybe the 22 year old who makes this decision isn't fully informed of the gravity of their decision.
+
+"Value capture"? No, not here. This is value relinquishment. Value abandonment.
+
+
+
+Fundamental reason that these places lead you away from your own values: 
+* Organisations are complex. Internal politics. Most of the org is not at the coalface, getting real feedback
+* It's a proxy objective optimised hard, which 
+* Moral Mazes
+
+<br><br>
+
+#### All old or large institutions are ladders
+
+* Corporate ladder - L7 ($1m a year), C-level, first class flights, PA, suits
+* Government ladder
+* Academia ladder - how many of you know how tenure works?
+* Nonprofit ladder - grand speeches and unbelievable inefficiency
+* Fine art ladder - 
+* Startup ladder - TKS
+* EA ladder
 
 
 The reasons that old institutions so often end up doing unoriginal and fake things are deep and interesting but for a later session.
 
-Hero licence
-Ignorance of the option set
-Miscalibration about skill requirements
-Missing self-image
+
+<br><br>
+
+### Me
 
 Another thing that stops people is not realising that you can just do things. You don’t need permission, you usually don’t need a credential, you don’t need to solve all your personal problems first
 
-I’m the first person in my family to go to college. Grandparents all farmers. Mother a cleaner.
-I was also shy and depressed for a lot of the first 20 years.
-It took me a while to get going. 
+I’m the first person in my family to go to college. Grandparents farmers. Mother a cleaner. I was also shy and depressed for a lot of the first 20 years. It took me a while to get going. 
 
-Several times in my life, people have tapped me on the shoulder and told me that I wasn’t living up to my potential.
+But! Several times in my life, people have tapped me on the shoulder and told me that I wasn’t living up to my potential.
 
-I was working in London finance, doing “very well”, not working very hard. But the work was meaningless and the corporation I inhabited was extremely dysfunctional. I told a researcher I met that I didn’t think I was good enough to do a PhD. He scoffed and said that I was obviously far above median.
-A bit later, I was a researcher, I was in a PhD. But no one was really paying any attention. I sent a famous public intellectual my work. He sent me $30,000 and promoted my work to millions of people. This led to me starting my company, working on incredibly fun things all the time, and never worrying about money ever again.
-At the same time, I didn’t have a circle. I had friends but no collaborators, no one who cared about the things I cared about, no one pushing me to do concrete better work. I didn’t think of myself as a leader. I went to Czechia and met this crazy bunch of researchers and meditators and programmers. It was one of the most fun weeks of my life. Some time later, they asked me to lead this camp for teenagers they run.
+* I was working in London finance, doing “very well”, not working very hard. But the work was meaningless and the corporation I inhabited was extremely dysfunctional. I told a researcher I met that I didn’t think I was good enough to do a PhD. He scoffed and said that I was obviously far above median.
+* A bit later, I was a researcher, I was in a PhD. But no one was really paying any attention. I sent a famous public intellectual my work. He sent me $30,000 and promoted my work to millions of people. This led to me starting my company, working on incredibly fun things all the time, and never worrying about money ever again.
+* At the same time, I didn’t have a circle. I had friends but no collaborators, no one who cared about the things I cared about, no one pushing me to do concrete better work. I didn’t think of myself as a leader. I went to Czechia and met this crazy bunch of researchers and meditators and programmers. It was one of the most fun weeks of my life. Some time later, they asked me to lead this camp for teenagers they run.
 
 I was waiting for permission and was deluded about how much it takes to be great, to do actually new things. 
 
 My hope is that this class is the last tap on the shoulder you need.
 
+<br><br>
+
+### What stops people?
+
+* No "hero licence" (social or internal permission to do new things, nonstandard things, ambitious things)
+* Ignorance of the option set (I didn't hear about school olympiads until I was 26 years old)
+* Miscalibration about skill requirements or your own skill level
+
+<br><br>
+
+
+### 3. What is stopping you? 
+
+**Audience interaction**: 5mins silent writing
+
+Ask people to share.
+
+Parents, Skill, School, Poverty., Lack of self-knowledge, Miscalibration about how much skill you need, Lack of connections, Credentials. “Job requirements”, Team , Ideas, Audience, Excellence trap, Youth, Courage. “Permission”
+
+<br>
+
+
+Another problem: To attain self-fulfilment, others must comply.
+
+<br><br>
+
+
+### 4. After that is relaxed, what's stopping you (1min)
 
 
 
-EMH
-Economists walking down the street and see $20 on the sidewalk. “Ignore it” one says, “if it was real someone would already have picked it up”. The dollar bills are life-changing ideas
-
-Feb 2020 Covid, some of the ESPR instructors spotted things that weren’t going to get done. No background, no credentials. 
-I’ve published well in psychology and epidemiology and linguistics. I’ve never taken a class in these or read a textbook in them. Just ain’t that hard.
-I’ve advised the UK government 3 times on topics
-
-Who knows what a monotile is?
-We have the first safe and effective obesity treatment since 2021.
-We discovered that multiple sclerosis is caused by Epstein-Barr
-Brain-spine interface
-Mars is geologically active. It has volcanoes
-
-Startup. Noticing something about the domain. Also speed
-OpenAI was initially nine people
-Wise
-
-First CRISPR gene therapy
-Per Enflo (80!!) INVARIANT SUBSPACE PROBLEM IN HILBERT SPACES
-
-The world is too high-dimensional to be explored easily, for EMH to apply.
+Recall what you said is stopping you. That was your top 1. What about 
 
 
-Ways to identify fake ambition
-Sometimes it’s hard to tell if you authentically want something, or are trying to impress people with how ambitious you are. Here are a few tricks I’ve picked up for distinguishing them.
-What do you feel when you think about shrinking the project?
-Anger, fear, or disappointment that the goal won’t be accomplished = seems like you care a lot, good sign for the project. 
-Relief = project seems like a lot of work. Consider if you’re up for that level of work before beginning (but the answer might be yes).
-Fear of failure = this is a terrible sign, unless you have some reason the smaller version is more likely to fail (if you do, try the question again with a version that is easier and more likely to succeed). If failure feels like a bigger threat for a project that is objectively easier, that’s a suggestion you are, on some level, not taking the big version seriously. If you were, it would be scarier.
-Fear of other people’s reaction = your primary motivation here is probably social. Knowing that, do you still want to go forward? The answer can be yes, although if so I hope the project is cheap.
-If you fail, will you or the people around you go “well what did you expect?” That would suggest your goal is unachievable from your current state.
-Another reason smaller projects can be scarier is that people will judge you more for failing. Don’t let this push you into too-big projects.
-If you fail, will it be educational? “No” is both a sign the project is too big (because you don’t understand it well enough) and a reason the project is too big (you’re going to pour all that energy in and not even get learning out?)
-How does concrete, accurate, actionable criticism make you feel? 
-If it’s a real goal you should be delighted, because feedback helps you reach that goal faster. Or if you’re a little less evolved, not delighted, but at least it feels like a really productive massage or workout, where it hurts but you can tell it will be worth it. If you feel terrified, or angry, or especially unsupported, that suggests you care more about the social aspect of the project than its outcome.
-Does the project give you a satisfying feeling of contact with reality? That’s maybe a sign it’s a real goal, and definitely good in general.
-What does “contact with reality” mean? That is a very reasonable question I don’t have a good answer for, at least not in words. Hopefully you’ll know it when you see it.
+
+<br><br>
+
+### 5. After that is relaxed, what's stopping you (1min)
 
 
-5. What's stopping you? (5mins)
-Self-knowledge? Courage? Permission? Team? Skill? Audience? X?
 
-Hopefully ESPR will solve the first four for you
-
- Most “job requirements” are nonsense. No legal force, just there to attempt to increase the pool quality.
-5. After that is relaxed, what's stopping you (1min)
-6. After that is relaxed, what's stopping you (1min)
+<br><br>
 
 
-7. What can ESPR do for you? What can you do for the above this week? (5 mins)
+### Are you the right amount of ambitious? 
+
+I cannot tell you “be more ambitious”. It’s a tightrope with terrible waste on either extreme. 
+
+rails, inauthenticity, fakery, waste     vs           wasted resources, pretension, stress, waste
+
+
+
+The golden median is different for each of you. One of the chief tasks of your life is finding it.
+
+<br><br>
+
+
+### 6. What can we do for you? What can you do for the above this week? (5 mins)
+
+
+You fail this class if you do not ask for something
+
+<br>
+
+
 help finding who to contact (profs, founders, anons)
 help writing cold emails
 help starting a blog and plugging it
@@ -250,63 +222,126 @@ help developing mastery (maths, forecasting, public speaking, whatev)
 scholarships
 detailed research feedback
 finding collaborators
+Create hard things
+Find your coterie
+Ask people without shame
 
-You fail this class if you do not ask for something
 
-Damage control
-One thing you might take away from this class is that you need to do bigger things, put even more pressure on yourself. No! I am telling you that you have that option, you are more powerful than you think.
-Ladders are useful. Most useful work takes place inside them, despite them. You can't scale without a ladder
-To attain self-fulfilment, others must comply 
+<br><br>
 
-Do not let me tell you what to do.
 
-Most work makes the world better in a small and quiet way. This is a beautiful thing. Mihaly once worked on Google’s central TCP/IP code. He commented out one line and sped up every single web request that Google performs. A quadrillion of milliseconds saved every day = 11 years of human life every year. He says this is likely the most valuable work he ever did.
+### Damage control
+
+
+
+One thing you might take away from this class is that you need to do _bigger_ things -- put even more pressure on yourself. 
+
+No! I am telling you that you have that option, you are more powerful than you think.
+
+Ladders are useful. Most useful work takes place inside them, despite them. You can't scale without a ladder.
+
+Please do not let me tell you what to do.
+
+<br>
+
+Most work makes the world better in a small and quiet way. This is a beautiful thing. M once worked on Google’s central TCP/IP code. He commented out one line and sped up every single web request that Google performs. A quadrillion of milliseconds saved every day = 11 years of human life every year. He says this is likely the most valuable work he ever did.
 
 Getting to L6 at Google, having 2 children, saying true things, retiring at 50, being kind. This is a lot. It is more than most humans who ever lived achieved 
 
 
 
+<br><br>
 
 
 
 
 
 
-What do you want in life
-What needs fixing
-What's stopping you
-After that is relaxed, what's stopping you
-…
-What are your next 3 steps
-
-
-Create hard things
-Find your coterie
-Ask people without shame
-
-On rails
-You go where they say, do the assignments they say, when they say, and doing well means meeting the goals they set for you. You get choices in your leisure activity, but leisure is unimportant
-Then you get further in school, and the authorities give you some choice over the hoops you jump through. You can choose which book you write your report on or even what classes you take (within a predetermined set). This feels like freedom, but you’re in still a system someone else designed and set the win conditions for. You can fulfill a college distribution requirement with any history class at all- but you are going to take one, and the professor is the one determining if you succeeded at it. 
-you’ll like it. Creating your own definition of success feels scary; enacting it feels impossible. 
-
-
-Quadrants
-
-
-I could fill in the bottom half but it’s irrelevant to the people in this class
-
-4. Are you the right amount of ambitious? (2mins)
-I cannot tell you “be more ambitious”. It’s a tightrope with terrible waste on either extreme. 
 
 
 
-rails, inauthenticity, fakery, waste                resources, pretension, stress, waste
-
-The golden median is different for each of you. One of the chief tasks of your life is finding it.
-
-
-
-Mathematics is one of the least fake things in the world. But you still see the trap there. 
+<!-- Mathematics is one of the least fake things in the world. But you still see the trap there. 
 People memorise proofs and names and trade off against understanding. 
 Reading too much is dangerous past a certain point. IMO “oh apply Cauchy-Schwartz”
+ -->
 
+<br><br>
+<br>
+
+
+### See also
+
+* [Antiwork as ladder](https://ranprieur.com/essays/dropoutcrit.html)
+* [Art as ladder](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762)
+
+
+
+
+<br><br>
+
+
+<div class="accordion">
+    <h3>Giant claims in this class</h3>
+    <div>
+        <ul>
+            <li>You might take me as saying you should feel some urge to fix what's missing in the world. I don't say this and hope to protect you from this claim. </li>
+            <li>most smart people don't "change the world"</li>
+            <li>Most parents are not great at parenting</li>
+            <li>"iq kinda sucks for individual prediction"</li>
+            <li>corporations, academia, NGOs, Art, EA and modern startups are ladders people climb and waste 40 years of their lives on </li>
+            <li>the vast majority of papers are useless, even to their authors</li>
+            <li>same for most books, patents, art</li>
+            <li>academics sacrifice their vision for tenure and hope to do better later but don't because the 7-year grind changes you </li>
+            <li>startups 1990s-2000s did involve small groups of very weird people changing the world, but the window for these people is closing</li>
+            <li>The Knowledge Society, which teaches kids to make fake startups, is satanic </li>
+            <li>The Efficient Market Hypothesis is trivially false for intellectual work </li>
+            <li>An instructor saved lives by optimizing a central Google process and thinks it's the most valuable work he did there </li>
+            <li>You might take me as saying "you don't need credentials". Some life paths do, of course.</li>
+            <li>You might take me as saying "you don't need a hero license". you do, but I want this to be it for you.</li>
+        </ul>
+    </div>
+    <h3>Closed worlds</h3>
+    <div>
+        <blockquote>In high school and college, we get additional degrees of freedom. We choose our majors, the colors of our socks, the identities we wear. Still, however, the system exists within a larger narrative. Close to perfectly determined. The right way is to win the zero-sum peer-competitions: cross country races, debate championships, Putnam medals, Rhodes scholarships, internships to financial trading/law/software firms.</blockquote>
+        <blockquote>However, we have spent the first twenty four years of our life within highly determined systems. The openness of an underdetermined system is beyond our capacity to navigate...  the heuristic seems to be mimicry. We will copy what we see other people doing. And so, aspiring elites, habituated to optimize within an overdetermined small world, seem to end up competing for a small number of positions at selective institutions that in return to unhappily reenact the small world competitive impulses</blockquote>
+    </div>
+    <h3>Ways to identify fake ambition</h3>
+    <div>
+        <a href="https://www.lesswrong.com/posts/uGDtroD26aLvHSoK2/dear-self-we-need-to-talk-about-ambition-1">Lifting heavily from Elizabeth vN</a><br><br>
+
+Sometimes it’s hard to tell if you authentically want something, or are trying to impress people with how ambitious you are. A few tricks:<br><br>
+
+* What do you feel when you think about shrinking the project?<br><br>
+    * Anger, fear, or disappointment that the goal won’t be accomplished = seems like you care a lot, good sign for the project. <br><br>
+    * Relief = project seems like a lot of work. Consider if you’re up for that level of work before beginning (but the answer might be yes).<br><br>
+    * Fear of failure = this is a terrible sign, unless you have some reason the smaller version is more likely to fail (if you do, try the question again with a version that is easier and more likely to succeed). If failure feels like a bigger threat for a project that is objectively easier, that’s a suggestion you are, on some level, not taking the big version seriously. If you were, it would be scarier.<br><br>
+    * Fear of other people’s reaction = your primary motivation here is probably social. Knowing that, do you still want to go forward? The answer can be yes, although if so I hope the project is cheap.<br><br><br><br>
+
+* If you fail, will you or the people around you go “well what did you expect?” That would suggest your goal is unachievable from your current state.<br><br>
+* Another reason smaller projects can be scarier is that people will judge you more for failing. Don’t let this push you into too-big projects.<br><br>
+* If you fail, will it be educational? “No” is both a sign the project is too big (because you don’t understand it well enough) and a reason the project is too big (you’re going to pour all that energy in and not even get learning out?)<br><br>
+* How does concrete, accurate, actionable criticism make you feel? <br><br>
+    * If it’s a real goal you should be delighted, because feedback helps you reach that goal faster. Or if you’re a little less evolved, not delighted, but at least it feels like a really productive massage or workout, where it hurts but you can tell it will be worth it. If you feel terrified, or angry, or especially unsupported, that suggests you care more about the social aspect of the project than its outcome.<br><br>
+* Does the project give you a satisfying feeling of contact with reality? That’s maybe a sign it’s a real goal, and definitely good in general.<br><br>
+* What does “contact with reality” mean? That is a very reasonable question I don’t have a good answer for, at least not in words. Hopefully you’ll know it when you see it.<br><br>
+    </div>
+    <h3>EMH</h3>
+    <div>
+        Old joke: Two economists are walking down the street and see $20 on the sidewalk. “Ignore it” one says, “if it was real someone would already have picked it up”. The dollar bills are life-changing ideas.<br><br>
+
+* Feb 2020 Covid, some of the ESPR instructors spotted things that weren’t going to get done. No background, no credentials. <br><br>
+* I’ve published well in psychology and epidemiology and linguistics. I’ve never taken a class in these or read a textbook in them. Just ain’t that hard.<br><br>
+* I’ve advised the UK government 3 times on topics<br><br>
+
+* Who knows what a monotile is?<br><br>
+* We have the first safe and effective obesity treatment since 2021.<br><br>
+* We discovered that multiple sclerosis is caused by Epstein-Barr<br><br>
+* Brain-spine interface<br><br>
+* Mars is geologically active. It has volcanoes<br><br>
+
+How do startups beat companies 10,000 times larger than them? 1) Noticing something about the domain. 2) Also speed. OpenAI was initially nine people. Wise worked out how to use ACH outside the US.<br><br>
+
+
+The world is too high-dimensional to be explored easily, for EMH to apply.
+    </div>
+</div>
