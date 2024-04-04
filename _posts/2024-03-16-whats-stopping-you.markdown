@@ -317,17 +317,16 @@ Reading too much is dangerous past a certain point. IMO “oh apply Cauchy-Schwa
         </ol>
     </div>
 <!--  -->
-    </div>
     <h3>Closed worlds</h3>
     <div>
-        <blockquote>In high school and college, we get additional degrees of freedom. We choose our majors, the colors of our socks, the identities we wear. Still, however, the system exists within a larger narrative. Close to perfectly determined. The right way is to win the zero-sum peer-competitions: cross country races, debate championships, Putnam medals, Rhodes scholarships, internships to financial trading/law/software firms.</blockquote>
-        <blockquote>However, we have spent the first twenty four years of our life within highly determined systems. The openness of an underdetermined system is beyond our capacity to navigate...  the heuristic seems to be mimicry. We will copy what we see other people doing. And so, aspiring elites, habituated to optimize within an overdetermined small world, seem to end up competing for a small number of positions at selective institutions that in return to unhappily reenact the small world competitive impulses</blockquote>
+    <blockquote>In high school and college, we get additional degrees of freedom. We choose our majors, the colors of our socks, the identities we wear. Still, however, the system exists within a larger narrative. Close to perfectly determined. The right way is to win the zero-sum peer-competitions: cross country races, debate championships, Putnam medals, Rhodes scholarships, internships to financial trading/law/software firms.</blockquote>
+        <blockquote>However, we have spent the first twenty four years of our life within highly determined systems. The openness of an underdetermined system is beyond our capacity to navigate...  the heuristic seems to be mimicry. We will copy what we see other people doing. And so, aspiring elites, habituated to optimize within an overdetermined small world, seem to end up competing for a small number of positions at selective institutions that in return to unhappily reenact the small world competitive impulses</blockquote>    
     </div>
-    <h3>Ways to identify fake ambition</h3>
-    <div>
-        <a href="https://www.lesswrong.com/posts/uGDtroD26aLvHSoK2/dear-self-we-need-to-talk-about-ambition-1">Lifting heavily from Elizabeth vN</a><br><br>
-
-Sometimes it’s hard to tell if you authentically want something, or are trying to impress people with how ambitious you are. A few tricks:<br><br>
+    
+<h3>Ways to identify fake ambition</h3>
+<div>
+    <a href="https://www.lesswrong.com/posts/uGDtroD26aLvHSoK2/dear-self-we-need-to-talk-about-ambition-1">Lifting heavily from Elizabeth vN</a><br><br>
+    Sometimes it’s hard to tell if you authentically want something, or are trying to impress people with how ambitious you are. A few tricks:<br><br>
 
 * What do you feel when you think about shrinking the project?<br><br>
     * Anger, fear, or disappointment that the goal won’t be accomplished = seems like you care a lot, good sign for the project. <br><br>
