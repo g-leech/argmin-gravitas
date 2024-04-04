@@ -189,7 +189,7 @@ Google is not blameless (<a href="{{luu}}">it is</a> "common to see search engin
 
 ## 3. Paywalls
 
-I am an academic. My university pays about [$140m](https://www.google.com/search?q=29%2C434*500&oq=29%2C434*500&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQBhhA0gEINjMzM2owajmoAgCwAgE&client=ubuntu-chr&sourceid=chrome&ie=UTF-8) dollars to publishers. That is, each student pays [$500](https://www.bristol.ac.uk/media-library/sites/finance/documents/UoB%20AR%20FS%202023%20WEB2.pdf) a year for this. 
+I am an academic. Every year, my university pays about [$15m](https://www.google.com/search?q=29%2C434*500&oq=29%2C434*500&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQBhhA0gEINjMzM2owajmoAgCwAgE&client=ubuntu-chr&sourceid=chrome&ie=UTF-8) to publishers. That is, each student pays [$500](https://www.bristol.ac.uk/media-library/sites/finance/documents/UoB%20AR%20FS%202023%20WEB2.pdf) a year for this. 
 
 <br>
 
