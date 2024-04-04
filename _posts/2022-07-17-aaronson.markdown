@@ -15,7 +15,7 @@ quality:    5
 importance: 7
 emotion:    7
 wordcount:      
-categories: science, philosophy, lists
+categories: science, philosophy, lists, bloggers
 where:      "Tallinn, Estonia"
 ---
 

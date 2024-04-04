@@ -93,7 +93,7 @@ Ask people to share.
 
 Most smart people do not change the world much.
 
-Why? They get trapped in excellence. Instead of making a path for themselves, they climb the ladders that already exist. Life on rails. It's easier.
+Why? They get trapped in excellence. Instead of making a path for themselves, they climb the ladders that already exist. Life on rails. It's easier. <a href="#fn:1" id="fnref:1">1</a>
 
 Never underestimate people's hatred for establishing their own independent set of values and planning an optimal sequence of decisions according to them. Uncertainty about your values and the best actions for them is so painful and intractable that, upon for the first time exiting the cave aged 22, most people instantly find a new cave to hide in. (Ok, maybe the 22 year old who makes this decision isn't fully informed of the gravity of their decision.)
 
@@ -147,6 +147,7 @@ My hope is that this class is the last tap on the shoulder you need.
 
 ### What stops people?
 
+* The excellence trap
 * No "hero licence" (social or internal permission to do new things, nonstandard things, ambitious things)
 * Ignorance of the option set (I didn't hear about school olympiads until I was 26 years old)
 * Miscalibration about [skill](https://danluu.com/p95-skill/) requirements or your own skill level. Ignore job "requirements".
@@ -238,7 +239,7 @@ One thing you might take away from this class is that you need to do _bigger_ th
 
 No! I am telling you that you have that option, you are more powerful than you think.
 
-Ladders are useful. Most useful work takes place inside them, despite them. You can't scale without a ladder.
+Ladders are useful. Most useful work takes place inside them, despite them. You can't scale without a ladder. It's fine to [rest and vest](https://www.google.com/search?q=rest+and+vest&client=ubuntu-chr&sourceid=chrome&ie=UTF-8) once in a while.
 
 Please do not let me tell you what to do.
 
@@ -361,4 +362,21 @@ How do startups beat companies 10,000 times larger than them? 1) Noticing someth
 
 The world is too high-dimensional to be explored easily, for EMH to apply.
     </div>
+</div>
+
+
+
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+        <a href="https://www.ethanrosenthal.com/2024/01/14/big-company-bachelors/">Ethan Rosenthal</a>:
+        <blockquote>On first pass, working at a big company was just so easy compared to startups. I hadn’t realized how much I had to manually do or figure out en route while working at a startup. From onboarding to offboarding, many processes at a big company are a well-oiled machine. There are entire teams of people dedicated to making these processes smooth, and there is a goldmine of go/links, historical slack conversations, and wiki docs to help you along the way. In terms of my actual job, other people had already paved the path for all of the early Data pain points: non-technical stakeholders already appreciated the value of data; key metrics had already been established; a data warehouse existed; there were Looker dashboards aplenty. 
+        On top of this, the work/life balance was very reasonable, the business was significantly less volatile than in startups, and I enjoyed a step change in my total compensation.</blockquote>
+    </li>
+</ol>
+
 </div>

@@ -6,160 +6,354 @@ permalink:  /google
 date:       2024-03-16  <!--site.time-->
 author:     Gavin
 
-img:        /img/
-published:  false
+img:        /img/google.jpg
+published:  true
 visible:    1
 quality:    
 emotion:    
 importance: 
 
-summary:    how to find information and foil the forces of evil
-confidence: 
+summary:    a class on foiling the forces of evil (finding information)
+confidence: Techniques likely to change substantially by 2026.
 categories: 
 warnings:   
 wordcount:      
+where:      "Taipei"
 ---
 
-
-> Google got worse because the web got worse. 
-
-> We would be living in a much better world if there was a small number of large content farms and bot operators poisoning our search results. Instead, we are living in a world where many real people are individually doing their part.
-
-
-- [uBlock Origin](https://ublockorigin.com/)
-- https://sci-hub.ru/ To find the currently alive mirrors, go [here](https://www.reddit.com/r/scihub) 
-- https://annas-archive.org/ https://libgen.rs/ {:tag :h3}[archive.is](https://archive.is)
-- https://archive.org/ 
-- https://www.startpage.com
-- Defeat almost all paywalls](http://archive.is)
-- [Who likes me?](https://ahrefs.com/backlink-checker)
-- How google works, [ad targeting](https://support.google.com/google-ads/answer/7478529?sjid=10679167049777231289-AP&visit_id=638442480917506145-1422998113&rd=1)
-- https://search.marginalia.nu/ 
-- [IndieWeb](https://indieweb.org/)
-- SearchMySite: [Manually created index of real human sites](https://searchmysite.net/)
-    - Phind
-    - Exa.ai
-    - [FOR NOTICING](https://www.sixdegreesofwikipedia.com/?source=William%20James&target=Judea%20Pearl)
-    - ### [Internet security](https://www.gleech.org/browser)
-        - https://1.1.1.1/
-
-
-I open by showing the class how long it takes to get into JSTOR as an academic vs Sci-hub.
+<!-- _A class I teach about the internet dying._ -->
 
 
 
+{%  assign luu = "https://danluu.com/seo-spam/"    %}
+
+<!--  -->
 
 
-- Handpoll: What fraction of your info comes from the internet?
-- This is a class about the internet dying. Finding information is much harder than it used to be and the situation is going to get really bad. Enshittification
-    - [Exact quotes used to work](https://support.google.com/google-ads/answer/9131274)
-        - [This is actually kinda bad for advertisers](https://www.searchnurture.com/blog/google-ads-exact-match-is-dead-what-to-do-about-it/)
-    - Hard for you to see
-    - In the 90s, everything on the internet was written by a nerd. Sometimes an insane nerd, but always something with a mind attached. Then the world joined in, and then the language models.
-    - - handpoll for who has noticed it getting worse?
-- Search
-    - Most pages are garbage.
-    - Imagine the simplest possible search engine
-        - Store all documents
-        - Take user query, do a lookup for strings
-        - Return by string distance
-        - How does this go wrong?
-    - Rough architecture of modern Google Search
-        - Crawling
-            - There is no central register of all websites. ICANN only gives out IP ranges. Root servers are autonomous
-            - Send trillions of requests every day to find new sites / check if anything changed
-        - Indexing
-            - Now, they do all kinds of speech recognition and image similarity
-                - https://xkcd.com/1425/
-        - Serving
-            - Retriever (index and GKG)
-                - GOFAI
-            - Ranker
-            - Autocompleter
-            - Quality judge
-                - E-E-A-T (Expertise, Experience, Authoritativeness, and Trustworthiness) (novelty, credentials)
-                - Fast page
-            - search the index for matching pages and return the results we believe are the highest quality and most relevant to the user's query. Relevancy is determined by hundreds of factors, which could include information such as the user's location, language, and device (desktop or phone).
-            - "bicycle repair shops" in Paris than it would to a user in Hong Kong.
-- ## Problems
-- ### Ads / SEO
-    - The money followed. SEO. Content farms. Clickbait
-    - You are constantly clicking on ads
-    - common to see search engines ransoming the top slot for companies, so that companies that don't buy the ad for their own name end up with searches for that company putting their competitors at the top
-    - Markov chain language models. Spam
-    - [Corporate bloat](https://danluu.com/diseconomies-scale/)
-    - Red Queen
-    - For products, [about 1/3 of first pages are junk, not counting the Sponsored ](https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf?ref=404media.co#page=7)
-    - Tiktok
-    - Reddit
-- ### Lost / deleted / silently edited content
-    - [Link rot](https://archive.is/D44oc#selection-1025.180-1029.18)
-    - 50 percent of the links embedded in Supreme Court opinions since 1996, when the first hyperlink was used, no longer worked. 75 percent of the links in the Harvard Law Review no longer worked.
-- ### Bot spam
-    - "Clarkesworld, a sci-fi magazine, said 500 out of 1,200 submissions in a single month were created by AI. The problem got so bad the magazine had to suspend submissions."
-    - Botnet prevalence: [11%](https://www.cs.jhu.edu/~fabian/papers/botnets.pdf) of all traffic????
-    - This has obviously exploded since last Feb
-    - Now the bots are starting to dominate
-        - [Dead internet theory](https://arxiv.org/abs/2401.05749)
-            - [47% of internet traffic is bots](https://securitytoday.com/articles/2023/05/17/report-47-percent-of-internet-traffic-is-from-bots.aspx)
-            - 76% of Twitter is bots
-            - Much worse in non-English languages
-        - Quora
-    - Why?? Bot detection has just become unsolved again.
-- ### Attacks
-    - [Internet security](https://www.gleech.org/browser)
-    - **Google Fu**
-        - [Archive.is](http://archive.is/) vs paywalls
-        - - Minus
-        - Booleans
-        - site:
-        - #page=
-        - allintitle:
-        - …reddit
-        - cache:example.com
-        - before:2022
-        - Scholar!!
-            - Cited_by. This makes you an expert in 3 hours
-        - Ask GPT for the keywords to search
-        - https://www.google.com/alerts
-- ## **Scihubjutsu**
-    - Demonstrate getting into Jstor as an academic vs Scihub
-        - I am an academic. My university pays $147m dollars to publishers. Students pay $1000 a year, each for it. It is a giant pain. I have to do this every time.
-        - These are for-profit.
-    - Who’s heard of Aaron Schwartz?
-    - History of Sci-hub. Strange and wonderful woman. Deniability of credentials
-    - Your country may ban it. VPN is totally fine. I promise you won’t get in trouble
-    - The address changes all the time
-        - Currently https://sci-hub.ru/
-        - To find the currently alive mirrors, go [here](https://www.reddit.com/r/scihub)
-    - Here’s how to get the DOI
-    - Visit a campus in person
-- ## **Books**
-    - Now we face a moral question
-    - https://annas-archive.org/
-    - https://libgen.rs/
-    - https://archive.org/
-    - [Mirrors](https://www.reddit.com/r/libgen/)
-- ## Who likes me?
-    - https://ahrefs.com/backlink-checker
-    - **Alternative engines**
-        - Phind
-        - Marginalia
-            - How is Marginalia, a search engine built by a single person, so good?" as a puzzle. One answer: "because it is currently too small to profitably attack with SEO".
-        - Cache
-        - Exa.ai
-    - **Bonus: the fate of successful systems is to invite parasites**
-        - Red Queen
-        - a curse of success leading to inherently short lifespan for good measures
-        - Google is under incredibly intense attack. It succeeded, and drew the parasites.
-        - Windows viruses vs Linux. Is Linux more secure? No!
-        - Anyone heard of Emergent Ventures?
-        - The amount of optimisation in the world is about to increase massively. AI
-    - **Bonus: PRIVACY AND SECURITY**
-        - Who uses a password manager?
-        - Who uses a 2FA app?
-- ### Sources for mehttps://jaimelightfoot.com/blog/learning-google-fu-google-directives-for-penetration-testers/https://www.searchnurture.com/blog/google-ads-exact-match-is-dead-what-to-do-about-it/https://engineuring.wordpress.com/https://ahrefs.com/blog/how-do-search-engines-work/https://www.semrush.com/blog/google-search-algorithm/https://www.google.com/search/howsearchworks/https://rockcontent.com/blog/google-search-engine/ https://the-grey-tribe.tumblr.com/post/740890906020970496/cea-tide-ladyshinga-im-sorry-friends-but#noteshttps://danluu.com/seo-spam/https://danluu.com/diseconomies-scale/https://developers.google.com/search/docs/fundamentals/how-search-works#:~:text=Indexing%3A%20Google%20analyzes%20the%20text,relevant%20to%20the%20user's%20query.
-    - https://www.reddit.com/r/scihub/wiki/index/#wiki_solution_1
-    - https://www.404media.co/google-search-really-has-gotten-worse-researchers-find/
-    - https://twitter.com/g_leech_/status/1741436434391679170?t=C-a3k0sfFUDJJ65zwn_XPQ&s=19
-    - https://gwern.net/search
+
+Finding information is harder than it used to be - and the situation may soon get really bad. This is because the total amount of optimisation in the world is now increasing massively. But you won't get to pick the objective function. <a href="#fn:1" id="fnref:1">1</a>
+
+<br>
+
+
+**Audience interaction**: What fraction of your info comes from the internet?
+
+* Most people say 70%. There's then interesting arguments about things like testimony chains, like about whether a book written in the last 20 years counts, since the author will almost certainly have been totally saturated in web info.
+
+**Audience interaction**: What fraction of your info comes from Google specifically?
+
+<br><br>
+
+But what specific threats do you face as an internet person seeking information?
+
+
+<br><br>
+
+## 1. Google
+
+Hard for you to see, because you don't know how good it used to be.
+
+**Audience interaction**: who has noticed it getting worse?
+
+**Audience interaction**: who has added " reddit" to their search queries?
+
+**Audience interaction**: who has noticed that exact search with "" [doesn't work anymore](https://support.google.com/google-ads/answer/9131274)? <a href="#fn:5" id="fnref:5">5</a>
+
+<center>[pause for the shock to propagate]</center>
+
+<br><br>
+
+<div class="accordion">
+    <h3>How modern search works</h3>
+    <div>
+        Imagine the simplest possible search engine
+        <br><br>
+        <ol>
+            <li>Go to the notional central index of all links on the internet <a href="#fn:2" id="fnref:2">2</a></li>
+            <li>Store all documents</li>
+            <li>Take user query, do a lookup for strings</li>
+            <li>Return by string distance</li>
+        </ol>
+            How does this go wrong?<br><br>
+            SPAM! You incentivise vast numbers of nonsense pages consisting of every short substring in English. Or Markov chain language models. The under-internet. The for-profit library of babel. So this method was already passé by about 1993.
+        <br><br>
+    <br>
+    <h3>A rough architecture of modern Google Search</h3>
+    <ol>
+        <li>Crawling</li>
+            <ul>
+                <li>There actually is no central register of all websites. ICANN only gives out IP ranges. Root servers are autonomous</li>
+                <li>So send trillions of requests every day to find new sites / check if anything changed</li>
+            </ul><br>
+        <li>Indexing</li>. Throw it all into one data structure so you can find it again. <a href="#fn:7" id="fnref:7">7</a><br><br><br>
+        <li>Serving
+            <ul>
+                <li>An autocompleter to spellcheck / slightly ruin your query</li>
+                <li>An encoder to map your English string to a vibes vector and some GKG entities</li>
+                <li>A retriever (index and GKG). This is GOFAI!</li>
+                <li>A ranker. Quality + relevance judge.
+                    <ul>
+                        <li>E-E-A-T (Expertise, Experience, Authoritativeness, and Trustworthiness) (novelty, credentials). e.g. If a page is written by someone with a PhD it gets a boost.</li>
+                        <li>Fast pages get rank boosts</li>
+                        <li>It is important to use your location for the query "bicycle repair shops" if you're in Paris and not Hong Kong.</li>
+                        <li>"Relevancy is determined by hundreds of factors, which could include information such as the user's location, language, and device (desktop or phone)."</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        </ol><br><br>
+        The system intervenes in dozens of places between you typing and you getting results. Some of these interventions improve your experience. Some of them harm it for money.
+    </div>
+    <h3>Alternative engines</h3>
+    <div>
+        <ul>
+        <li><a href="https://search.marginalia.nu/">Marginalia</a> ("How is Marginalia, a search engine built by a single person, so good?" as a puzzle. One answer: "because it is currently too small to profitably attack with SEO".)</li>
+        <li>https://explorer.globe.engineer/?q=De+Novo+synthesis+</li>
+        <li><a href="https://indieweb.org/">IndieWeb</a></li>
+        <li><a href="https://searchmysite.net/">SearchMySite</a>: [Manually created index of real human sites</li>
+        <li><a href="https://www.startpage.com">Google without trackers</a></li><br><br>
+<!--  -->
+I don't like the AI ones but one day they will come through:<br><br>
+        <li>https://planting.space/</li>
+        <li>Phind</li>
+        <li>Exa.ai</li>
+        <li>Some people use GPT-4 which is nuts to me</li>
+        </ul>
+    </div>
+</div>
+
+<br>
+
+I don't want to demonize Google unduly. They are as much victim as perpetrator. As well as destroying things and botting themselves, they invest large amounts of effort into countering SEO and other people's bots. A [curse of success](https://twitter.com/g_leech_/status/1741436434391679170?t=C-a3k0sfFUDJJ65zwn_XPQ) applies to anyone their size (or even 1% their size). <a href="#fn:6" id="fnref:6">6</a> So far it hasn't been economically viable to attack small players; the small resulting revenue doesn't cover the cost. This will change as AIs make every task cheap.
+
+<br><br>
+
+### **Solution**: Google-fu
+
+To be honest these still don't get me back to 2015 level search.
+
+<br>
+
+* `-` a minus sign to exclude terms, homographs
+* [Booleans](https://southern.libguides.com/google/boolean) still work sometimes
+* Limit to one `site:`
+* Add `#page=x` to the url of a pdf to skip to that page
+* Search titles pretty strictly with `allintitle:`
+* `... reddit`
+* `cache:example.com`
+* `before:2022`
+* Ask GPT for what keywords to search if you're a noob
+* Get instant warnings about your obsessions: https://www.google.com/alerts
+
+<br>
+
+One particularly powerful trick which deserves a full description: how to find criticisms of any paper older than ~a year.
+
+<br>
+<center>
+    <img width="90%" src="/img/gleech_masks.png" />
+</center>
+<br>
+
+Click `Cited by`! Pulls up papers that liked the paper but crucially also _those who went out of their way to diss it_. By recursing into the critiques of the criticising papers you can became a half-expert in 2 hours.
+
+<br><br>
+
+## 2. Ads
+
+In the 90s, everything on the internet was written by a nerd. Often unhinged, often false, but still touched by intentionality, sincerity, or sincere trolling. Something with a mind attached. Then the world joined in, and then the language models.
+
+The world joining in wasn't the main problem: the problem is they brought their money. Eventually, about [a sixth](https://archive.is/ZIRz2) of all retail money. 
+
+That much money and attention is a profound amount of social gravity. It gravitated new, large grey- and black- markets, to prey on them and distort information. You may know the keywords already: "SEO", "Content farms", "Clickbait", "dropshipping", all that. <a href="#fn:4" id="fnref:4">4</a>
+
+You [are](https://fraudblocker.com/articles/how-to-block-accidental-clicks-that-are-wasting-your-ad-spend) clicking on ads without realising it. So you are learning from ad content without realising it.
+
+For searches for a product, [about 1/3 of the first page is junk](https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf?ref=404media.co#page=7). _This is not even counting Google's separate Sponsored Links carousel._
+
+Google is not blameless (<a href="{{luu}}">it is</a> "common to see search engines ransoming the top slot for companies, so that companies that don't buy the ad for their own name end up with searches for that company putting their competitors at the top"). But they are also being preyed on.
+
+
+**Solution**: Just use [uBlock Origin](https://ublockorigin.com/). You will usually [gain speed](https://news.ycombinator.com/item?id=21052969) on net. <a href="#fn:3" id="fnref:3">3</a> On mobile, use [Brave](https://brave.com/).
+
+**Mild ethical qualm**: Some good parts of the internet [depend](https://www.jefftk.com/p/why-i-work-on-ads) on ads. Some ads are relevant and could change your life.
+
+
+<!-- - [Corporate bloat](https://danluu.com/diseconomies-scale/) -->
+<!-- - Red Queen -->
+<!-- - Tiktok -->
+<!-- -  -->
+
+<br>
+
+
+## 3. Paywalls
+
+I am an academic. My university pays about [$140m](https://www.google.com/search?q=29%2C434*500&oq=29%2C434*500&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQBhhA0gEINjMzM2owajmoAgCwAgE&client=ubuntu-chr&sourceid=chrome&ie=UTF-8) dollars to publishers. That is, each student pays [$500](https://www.bristol.ac.uk/media-library/sites/finance/documents/UoB%20AR%20FS%202023%20WEB2.pdf) a year for this. 
+
+<br>
+
+**Audience interaction**: show the class how long it takes to get a pdf off [JSTOR](https://www.jstor.org/) as _an actual academic with a live rich-world institutional affiliation_ vs using Sci-hub. It's about 10 times longer from a cold start: easily 40 seconds.
+
+**Audience interaction**: Who’s heard of Aaron Schwartz?
+
+<br>
+
+These companies are for-profit, and [how](https://www.newscientist.com/article/mg24032052-900-time-to-break-academic-publishings-stranglehold-on-research/). You pay them to put up your pdf and then pay them to download it.
+
+Besides a gross waste of money and an injustice, it is just a giant pain. I have to do this every time. They log you out every week, sometimes every day. 
+
+**Solution**: Scihubjutsu. 88m papers. (History of Sci-hub. Strange woman, wonderful work. Deniability of credential theft.)
+
+- Currently [https://sci-hub.ru](https://sci-hub.ru). It's down quite often (under attack). 
+- Your country may ban it. VPN is totally fine. 
+- The address changes all the time. To find the currently alive mirrors, go [here](https://www.reddit.com/r/scihub)
+- Search using the DOI. Here’s how to get the DOI for each paper.
+- [https://annas-archive.org/](https://annas-archive.org/) have SciDB but it rarely works for my queries.
+- \[April 2024 edit: As of right now, Sci-hub are fighting an Indian lawsuit and to show willing they've disabled parts of their database.\]
+
+<br>
+
+
+**Solution**: Visiting a campus sometimes get you through academic paywalls automatically (on their wifi).
+
+<br>
+
+I haven't mentioned media paywalls yet. There's a bit more ethical question about that but
+
+**Solution**: You can defeat almost all nonacademic paywalls by looking up the url in an [archive](http://archive.is). If it's not indexed yet just add it yourself first (with the red text field). ([Archive.org](https://web.archive.org/) has the largest and oldest collection of stored pages but is very slow.)
+
+
+<br>
+
+
+## 4. Bot spam
+
+This is the one I'm in full alert waiting for. AI bullshit.
+
+> Google got worse because the web got worse... If Google had started to show users meaningless AI generated content from large content farms, that means Google has finally lost the SEO war... Real people whose job it is to generate content are increasingly turning in AI junk at their jobs. Furthermore, even people who are setting up a web site for a local business or an online presence for their personal brand/CV are using auto-generated text... We would be living in a much better world if there was a small number of large content farms and bot operators poisoning our search results. Instead, we are living in a world where many real people are individually doing their part.
+
+<center>
+    – <a href="https://www.tumblr.com/blubberquark/745011776908886016/auto-generated-junk-web-sites">Blubberquark</a>
+</center>
+<br><br>
+
+- Maybe [76%](https://mashable.com/article/x-twitter-elon-musk-bots-fake-traffic) of Twitter is bots, at least at peak times
+- Botnet prevalence: [11%](https://www.cs.jhu.edu/~fabian/papers/botnets.pdf) of all traffic???? This has obviously exploded since last Feb
+- [47% of internet traffic is by bots](https://securitytoday.com/articles/2023/05/17/report-47-percent-of-internet-traffic-is-from-bots.aspx)
+- "Clarkesworld, a sci-fi magazine, said 500 out of 1,200 submissions in a single month were created by AI. The problem got so bad the magazine had to suspend submissions."
+- [Dead internet theory](https://arxiv.org/abs/2401.05749) was a laughable conspiracy theory.
+    - Most of Quora. They did this to themselves on purpose.
+- **Much worse in non-English languages**
+
+<br>
+
+[Here's](https://www.theintrinsicperspective.com/p/here-lies-the-internet-murdered-by) a guy skilfully making the creepiness salient. [Here's](https://archive.is/Lllcu) a famous philosopher slightly losing his mind over this.
+
+<br>
+
+<center><big> "detectors" like GPTZero are extremely weak, do not rely on them</big></center>
+
+<br> 
+
+**Solutions:** the only really foolproof one is using the Google directive `before:2022`.
+
+You can still catch [the really](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22as+of+my+last+knowledge+update%22&btnG=) [lazy human users](https://arxiv.org/pdf/2403.07183.pdf) but no one else.
+
+<br><br>
+
+
+
+
+## 5. Lost / deleted / silently edited content
+
+People say to be careful what you put on the internet, because it'll be there forever. Unfortunately this isn't true.
+
+[Two-thirds dies every 9 years.](https://ahrefs.com/blog/link-rot-study/). Many of the great comment sections are gone. The walled gardens of Facebook, Discord, Slack will die too.
+
+"[Link rot](https://www.vice.com/en/article/d73yx7/when-will-the-internet-defeat-link-rot)"
+    - [50 percent](https://archive.is/D44oc#selection-1025.180-1029.18) of the links embedded in Supreme Court opinions since 1996, when the first hyperlink was used, no longer work. 
+    - 75 percent of the links in the Harvard Law Review no longer worked.
+
+**Solution**: web.archive.org again. 
+
+**Solution**: [archiver](https://gwern.net/archiving#daemon)
+
+<br><br>
+
+
+## 6. Books
+
+> If you are desperate to get my books and your library can't afford them, try to type the words "library genesis" in a search engine. I disagree with piracy, but this site saved me many trips to the library, which unfortunately does not carry electronic versions of older books.
+
+-- [Talagrand](https://michel.talagrand.net/)
+
+<br>
+
+Here's the first big moral question, since authors are often deserving. I leave it to your conscience and optimiser.
+
+- [https://annas-archive.org/](https://annas-archive.org/)
+- [https://libgen.rs/](https://libgen.rs/)
+- [Mirrors](https://www.reddit.com/r/libgen/)
+
+<br><br>
+
+
+
+
+
+
+
+
+
+## See also
+
+* <a href="/browser">My post about cybersecurity</a> which could use an update. 
+* [Yes half of my classes are derivative of Gwern](https://gwern.net/search), what of it
+* [Pentesters](https://jaimelightfoot.com/blog/learning-google-fu-google-directives-for-penetration-testers/)
+<!-- * [The curse](https://twitter.com/g_leech_/status/1741436434391679170?t=C-a3k0sfFUDJJ65zwn_XPQ&s=19) -->
+* https://siboehm.com/articles/22/tools-I-like
+* https://engineuring.wordpress.com/
+* https://ahrefs.com/blog/how-do-search-engines-work/
+* https://www.searchnurture.com/blog/google-ads-exact-match-is-dead-what-to-do-about-it/
+* https://www.semrush.com/blog/google-search-algorithm/
+* https://www.google.com/search/howsearchworks/
+* https://rockcontent.com/blog/google-search-engine/ 
+* https://the-grey-tribe.tumblr.com/post/740890906020970496/cea-tide-ladyshinga-im-sorry-friends-but
+* https://danluu.com/seo-spam/https://danluu.com/diseconomies-scale/
+* https://developers.google.com/search/docs/fundamentals/how-search-works#:~:text=Indexing%3A%20Google%20analyzes%20the%20text,relevant%20to%20the%20user's%20query.
+* https://www.reddit.com/r/scihub/wiki/index/#wiki_solution_1
+* https://www.404media.co/google-search-really-has-gotten-worse-researchers-find/
+* https://1.1.1.1/
+* https://siboehm.com/articles/22/tools-I-like
+* [Who likes me?](https://ahrefs.com/backlink-checker)
+* [FOR NOTICING](https://www.sixdegreesofwikipedia.com/?source=William%20James&target=Judea%20Pearl)
+
+<br><br>
+
+<div class="footnotes">
+<ol>
+    <li class="footnote" id="fn:1">
+        I realise that I am memeable on this point, "<i>Gavin's thing is to say that you personally are in danger, various kinds of figurative danger</i>" -- but hey it's true.
+    </li>
+    <li class="footnote" id="fn:2">
+        Not actually possible - there is no central register of sites
+    </li>
+    <li class="footnote" id="fn:3">
+        You might think this is obvious or patronising but there's reliably a couple of smart teens who don't have an adblocker.
+    </li>
+    <li class="footnote" id="fn:4">
+        The ecosystem is mature enough to have hyperparasites: <a href="https://blog.optickssecurity.com/click-injection">click injection</a> or <a href="https://www.google.com/search?client=ubuntu-chr&hs=pKT&sca_esv=959a59c8beda7f19&sxsrf=ACQVn0-1NRn9eklf13NyVGeZdvD4MOCCJg:1712244016123&q=click+farms&uds=AMwkrPvi6Fn774vFV8erJs7Dhp5EA00cl-Uy6zi4BH867yZd-B_-VlUzVufSagh5HhfjRQBx30di2KXFflUJ_1P1grfhBWAJsTEJEpsra2Pyt0FPsxIgDe_8LuWWBGCkiOdEckCjtA-OBFn2PyN5WqOWEk80ekeet_yD-exUIElYcyN1LTIh_BujWw7Uxt2PmT3fSunweabRNLLzuON_OJO3Q-3Fn6kF0Pn19w7JlzjYElUCx3tIW_zk3biD6wnNQ8fkIrNG7JxIm9suHa4s2UW0XF7SDoDwkcQSYc2wIoTfErGYExA6r4c&udm=2&prmd=ivnmbtz&sa=X&ved=2ahUKEwiT6-WC7qiFAxVkR0EAHR0wDxwQtKgLegQIFhAB&biw=1229&bih=699&dpr=2.5">click farming</a>. As in biology, this helps a bit but not enough.
+    </li>
+    <li class="footnote" id="fn:5">
+        <a href="https://www.searchnurture.com/blog/google-ads-exact-match-is-dead-what-to-do-about-it/">This change is actually kinda bad for advertisers</a>
+    </li>
+    <li class="footnote" id="fn:6">
+        Notice this is a fully general phenomenon: large things are worth attacking. This includes large in fame or status and includes merely reputational attack.
+    </li>
+    <li class="footnote" id="fn:7">
+        Now, they do all kinds of speech recognition and embedding and image similarity too and throw that into the index.<br> 
+        2014: <a href="https://xkcd.com/1425">a near impossibility</a>
+    </li>
+</ol>
+</div>

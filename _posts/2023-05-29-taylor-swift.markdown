@@ -546,6 +546,13 @@ Washed up and ranting about the same old bitter things
 </div>
 
 
+<!-- https://notebook.substack.com/p/taylor-swift-studies-takes-a-detour -->
+<!-- https://notebook.substack.com/p/taylor-swift-studies-contd -->
+<!-- https://notebook.substack.com/p/but-im-only-looking-at-you -->
+<!-- https://theoutline.com/post/8484/sore-winners-decade -->
+<!-- https://notebook.substack.com/p/miss-americana-and-the-heartbreak -->
+<!-- https://www.vulture.com/2017/08/taylor-swift-look-what-you-made-me-do-pure-trump-era-pop-art.html -->
+
 
 <div class="footnotes">
 
