@@ -282,6 +282,11 @@ Reading too much is dangerous past a certain point. IMO “oh apply Cauchy-Schwa
 
 
 <div class="accordion">
+    <h3>epigram</h3>
+    <div>
+        <blockquote>[Beware] the death of the spirit which threatens every man unless he is conscious of the danger and has a real purpose which can keep it alive and enable it to thrust its way through the choking weeds and thorns to the air and to the sun</blockquote>
+        ― Hugh Trevor-Roper
+    </div>
     <h3>Giant claims in this class</h3>
     <div>
         Some of this class is based on personal experiences you can't verify. Various sociologists agree with me, I claim.<br>
