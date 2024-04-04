@@ -14,7 +14,7 @@ emotion:
 importance: 
 
 summary:    a class I teach (differently every year)
-confidence: 70% that you could benefit from more of this and not less
+confidence: Made up social theory. 70% that you could benefit from more of this and not less
 categories: education, meaning, becoming, Life, warnings
 warnings:   You could easily overdo this advice.
 wordcount:      
@@ -36,8 +36,6 @@ That was a joke; very few 50 year old adults have a good answer to both of those
 This is a class about a fatal trap that lies in wait for the brilliant but unwary young person: success; or other people’s definitions of success.
 
 This class is a polemic. I make a number of [extremely large](https://www.gleech.org/stopping#:~:text=Giant%20claims%20in%20this%20class) claims. Feel free to challenge them, we have time.
-
-Some of this class is based on personal experiences you can't verify. Various sociologists agree with me.
 
 <br><br>
 
@@ -121,7 +119,7 @@ The reasons that old institutions so often end up doing unoriginal and fake thin
 
 Two fundamental reasons that these places lead you away from your own values: 
 * Organisations are complex. [Internal politics distract you](https://thezvi.wordpress.com/2020/05/23/mazes-sequence-summary/). Most of the org is not at the coalface, getting any real feedback at all.
-* Success in the org is a proxy objective for your success. If you optimise a proxy hard enough, you can [diverge very very far](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/#:~:text=The%20metric%20gap%3A%20In%20almost%20all%20cases%2C%20we%20do%20not%20optimize%20the%20actual%20measure%20of%20success%20we%20care%20about%2C%20but%20rather%20another%20metric%20that%20is%20at%20best%20correlated%20with%20it.) from what you actually want.
+* Success in the org is a proxy objective for your success. If you optimise a proxy [hard enough](https://www.lesswrong.com/posts/dC7mP5nSwvpL65Qu5/why-the-tails-come-apart), you can [diverge very very far](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/#:~:text=The%20metric%20gap%3A%20In%20almost%20all%20cases%2C%20we%20do%20not%20optimize%20the%20actual%20measure%20of%20success%20we%20care%20about%2C%20but%20rather%20another%20metric%20that%20is%20at%20best%20correlated%20with%20it.) from what you actually want.
 
 
 
@@ -246,9 +244,9 @@ Please do not let me tell you what to do.
 
 <br>
 
-Most work makes the world better in a small and quiet way. This is a beautiful thing. M once worked on Google’s central TCP/IP code. He commented out one line and sped up every single web request that Google performs. A quadrillion of milliseconds saved every day = 11 years of human life every year. He says this is likely the most valuable work he ever did.
+Most work makes the world better in a small and quiet way. This is a beautiful thing. M once worked on Google’s central TCP/IP stack. He commented out one line and sped up every single web request that Google performs. A quadrillion of milliseconds saved every day = 11 years of human life every year. He says this is likely the most valuable day of work he ever did for them.
 
-Getting to L6 at Google, having 2 children, saying true things, retiring at 50, being kind. This is a lot. It is more than most humans who ever lived achieved 
+Getting to L6 at Google; having 2 children; saying true things; retiring at 50; being kind. This is a lot. It is more than most humans who ever lived achieved.
 
 
 
@@ -285,6 +283,8 @@ Reading too much is dangerous past a certain point. IMO “oh apply Cauchy-Schwa
 <div class="accordion">
     <h3>Giant claims in this class</h3>
     <div>
+        Some of this class is based on personal experiences you can't verify. Various sociologists agree with me, I claim.<br>
+        <!--  -->
         <ul>
             <li>You might take me as saying you should feel some urge to fix what's missing in the world. I don't say this and hope to protect you from this claim. </li>
             <li>most smart people don't "change the world"</li>
@@ -301,6 +301,22 @@ Reading too much is dangerous past a certain point. IMO “oh apply Cauchy-Schwa
             <li>You might take me as saying "you don't need credentials". Some life paths do, of course.</li>
             <li>You might take me as saying "you don't need a hero license". you do, but I want this to be it for you.</li>
         </ul>
+    </div>
+    <h3>Why do large orgs go fake?</h3>
+    <div>
+        <ol>
+            <li>simply: as it gets larger most of the org is no longer in contact with external reality: instead they handle (necessary at scale!) internal processes. They can't know what the current realities are. But they still get a fractional vote in what the org is and does. So the mission drifts.</li>
+<!--  -->
+            <li>success draws <a href="https://www.lesswrong.com/posts/uiEoxLh8kaDzkayfL/on-geeks-mops-and-sociopaths">predators and conformists</a> who do not understand or care about the mission. They <a href="https://en.wikipedia.org/wiki/Free-rider_problem">free-ride</a> or worse. This repels or demoralises the original aligned crew.</li>
+<!--  -->
+            <li><a href="https://en.wikipedia.org/wiki/Brooks%27s_law">communication overhead</a> grows fast in number of people. This is another cause of <a href="https://status451.com/2016/08/09/too-late-for-the-pebbles-to-vote-part-1/">information silos</a>, which makes the other problems here much worse.</li>
+<!--  -->
+            <li>vision and originality is not a constant, it requires a constant fight against entropy. The original energy is very <a href="https://samoburja.com/wp-content/uploads/2020/11/Great_Founder_Theory_by_Samo_Burja_2020_Manuscript.pdf">unlikely</a> to get preserved after the founders move on</li>
+<!--  -->
+            <li>The introduction of middle management totally <a href="https://thezvi.wordpress.com/2020/05/23/mazes-sequence-summary/">changes the game</a>, creating a "mesa-optimiser" inside the org which is maximising its share of resources instead of the org's official goal</li>
+        </ol>
+    </div>
+<!--  -->
     </div>
     <h3>Closed worlds</h3>
     <div>
