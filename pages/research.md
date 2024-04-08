@@ -13,6 +13,11 @@ visible:	true
 
 <style>
 	{% include researches/papers.css %}
+
+	tr {
+    	border-bottom: 22px solid transparent;
+	}
+
 </style>    
 
 <br>

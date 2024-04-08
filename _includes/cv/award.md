@@ -16,12 +16,21 @@
     <li>
       <div>
         <time>
-          2023
+          2024
         </time>
-        Schmidt Futures ISF Fellow
+        <a href="{{isf}}">Schmidt Futures ISF Fellow</a>
       </div>
     </li>
-<!--      <li>
+<!--  -->
+    <li>
+      <div>
+        <time>
+          2024
+        </time>
+        89th percentile, <a href="/forecasting">ACX Forecasting Contest</a>
+      </div>
+    </li>
+    <li>
       <div>
         <time>
           2022
@@ -29,14 +38,13 @@
         Open Philanthropy Early Career Funding
       </div>
     </li> 
--->
     <!--  -->
      <li>
       <div>
         <time>
           2022
         </time>
-        Residencies: Prague Fall Season, Mexico EA Fellowship
+        Residencies: Prague Fall Season, Schelling Residence, ITAM AI Futures Fellowship
       </div>
     </li>
 <!--  -->

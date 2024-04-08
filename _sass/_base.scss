@@ -124,10 +124,10 @@ a {
 }
 
 .nolink {
-    text-decoration: none !important;
+    text-decoration: none;
 
     &:hover {
-        text-decoration: none !important;
+        text-decoration: none;
         color: $text-color !important;
     }
 }

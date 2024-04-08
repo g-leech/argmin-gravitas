@@ -16,6 +16,9 @@ img.bris {
   border: 0px solid transparent;
 }
 
+h4 {
+	font-style: italic;
+}
 
 .noline {
 	text-decoration-thickness: 17%;
@@ -48,9 +51,14 @@ img.bris {
 }
 
 
+.year {
+		font-style: normal;
+		padding-left: 5px;
+}
+
 
 tr>td {
-  padding-bottom: 1.5em;
+  padding-bottom: 1.6em;
 }
 
 button {
@@ -99,6 +107,8 @@ button:focus {
 	text-align: center;
 }
 
+
+
 img {
 	padding-top:8px;
   vertical-align: top;
@@ -108,6 +118,7 @@ img {
 	width: 21% !important;
   vertical-align: top;
 	padding-right: 28px;
+	padding-bottom: 30px;
 }
 
 img {
@@ -156,4 +167,11 @@ table:first-child {
 .me {
 	font-weight: bold;
 	font-size: 17px;
+}
+
+
+a:hover {
+  text-decoration: underline !important;
+  text-decoration-thickness: 12%  !important;
+  text-underline-offset: 2.5px  !important;
 }
