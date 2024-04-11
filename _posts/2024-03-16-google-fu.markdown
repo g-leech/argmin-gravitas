@@ -26,7 +26,9 @@ where:      "Taipei"
 
 
 {%  assign luu = "https://danluu.com/seo-spam/"    %}
-
+{%  assign yahoo = "https://gist.github.com/artlung/74184de3c381966a14f97a8605d17572"   %}
+{%  assign dan = "https://www.position2.com/blog/jerry-davids-guide-world-wide-web-shuttered/"    %}
+{%  assign gio = "https://www.honest-broker.com/p/what-happened-to-my-search-engine"    %}
 <!--  -->
 
 
@@ -63,11 +65,17 @@ Hard for you to see, because you don't know how good it used to be.
 
 <br><br>
 
+<img src="/img/goog/danluu.png" />
+
+
+<br><br>
+
 <div class="accordion">
     <h3>How modern search works</h3>
     <div>
         Imagine the simplest possible search engine
         <br><br>
+        Well, ok sure it's <a href="{{david}}">one guy</a> manually adding sites. (<a href="{{yahoo}}">Here</a> is the code of the ~first search engine, which became Yahoo!) But think bigger:
         <ol>
             <li>Go to the notional central index of all links on the internet <a href="#fn:2" id="fnref:2">2</a></li>
             <li>Store all documents</li>
@@ -103,6 +111,26 @@ Hard for you to see, because you don't know how good it used to be.
         </li>
         </ol><br><br>
         The system intervenes in dozens of places between you typing and you getting results. Some of these interventions improve your experience. Some of them harm it for money.
+    </div>
+    <h3>What the old search engines lacked</h3>
+    <div>
+        <a href="{{gio}}">Ted Gioia</a>: 
+        <br><br>
+        <blockquote>
+        <ul>
+            <li>They didn’t practice 24/7 surveillance of users.</li>
+            <li>They didn’t sell user’s private information.</li>
+            <li>They didn’t fill up search results with garbage in order to collect placement fees.</li>
+            <li>They didn’t manipulate users—prodding them to use ancillary services.</li>
+            <li>They didn’t make it difficult (or sometimes impossible) to remove the search engine from your computer.</li>
+            <li>They didn’t force you to log in and create a profile—so that they could have more private info to sell to third parties.</li>
+            <li>They didn’t put ‘cookies’ on your computer so that your online movements could be more easily monetized.</li>
+            <li>They didn’t work with authoritarian regimes and government censors so that political agendas could be embedded into your search results.</li>
+            <li>They didn’t lobby Congress to weaken copyright protections, block antitrust prosecution, avoid transparency, and disempower users.</li>
+            <li>They didn’t kiss the asses of foreign dictators in order to maintain overseas distribution.</li>
+            <li>They didn’t even sell ads.</li>
+        </ul>
+        </blockquote>
     </div>
     <h3>Alternative engines</h3>
     <div>
@@ -221,7 +249,7 @@ Besides a gross waste of money and an injustice, it is just a giant pain. I have
 
 I haven't mentioned media paywalls yet. There's a bit more ethical question about that but
 
-**Solution**: You can defeat almost all nonacademic paywalls by looking up the url in an [archive](http://archive.is). If it's not indexed yet just add it yourself first (with the red text field). ([Archive.org](https://web.archive.org/) has the largest and oldest collection of stored pages but is very slow.)
+**Solution**: You can defeat almost all nonacademic paywalls by looking up the url in an [archive](http://archive.is). If it's not indexed yet just add it yourself first (with the red text field). ([Archive.org](https://web.archive.org/) has the largest and oldest collection of stored pages but is very slow.) [Here's another fun option.](https://en.wikipedia.org/wiki/Lynx_(web_browser))
 
 
 <br>
@@ -312,7 +340,8 @@ Here's the first big moral question, since authors are often deserving. I leave 
 * [Yes half of my classes are derivative of Gwern](https://gwern.net/search), what of it
 * [Pentesters](https://jaimelightfoot.com/blog/learning-google-fu-google-directives-for-penetration-testers/)
 <!-- * [The curse](https://twitter.com/g_leech_/status/1741436434391679170?t=C-a3k0sfFUDJJ65zwn_XPQ&s=19) -->
-* https://siboehm.com/articles/22/tools-I-like
+* https://www.honest-broker.com/p/what-happened-to-my-search-engine
+* https://lifehacksthatwork.com/bunch-of-useful-websites-2023-edition/
 * https://engineuring.wordpress.com/
 * https://ahrefs.com/blog/how-do-search-engines-work/
 * https://www.searchnurture.com/blog/google-ads-exact-match-is-dead-what-to-do-about-it/

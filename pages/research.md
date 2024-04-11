@@ -37,6 +37,7 @@ visible:	true
 
 <table>
 	{%  include researches/hplr.html	%}
+	{%  include researches/redreplication.html	%}
 	{%  include researches/actadd.html	%}
 	{%  include researches/psychofore.html	%}
 	{%  include researches/trees.html	%}
