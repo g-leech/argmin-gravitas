@@ -1,0 +1,50 @@
+{%  assign id = "redimg"  %}
+{%  assign redosf = "https://osf.io/preprints/metaarxiv/me2ub"    %}
+{%  assign redcode = "https://osf.io/aepcj" %}
+{%  assign redapp = "https://metaanalyses.shinyapps.io/replicationdatabase/"   %}
+
+<tr>
+    <td class="logo" style="padding-bottom: 10px">
+        <a href="{{redosf}}">
+            <div id="{{id}}"></div>
+        </a>
+    </td>
+    <td style="padding-left: 5px">
+        <h4>
+            <a class="nolink" href="{{redosf}}" target="_blank">
+                ReD: The Replication Database
+                <span class="year">(2024)</span>
+            </a> 
+        </h4>
+
+        <div class="journo">
+            OSF
+        </div>
+        
+        <span class="dropdown">
+          <button class="dropped" onclick="javascript:drop('redrep')">The point</button>,
+          
+          <div id="redrep" class="dropdown-content">
+            <br>
+            <b>Full title: The Replication Database: Documenting the Replicability of Psychological Science</b>
+            <br><br>
+            <a href="{{redapp}}">Does what it says on the tin</a>. My replications dataset formed one of several input datasets that ReD generalises.
+            <br><br>
+            we present the Replication Database, hosting 1,239 original findings paired with replication findings. The infrastructure of this database allows researchers to submit, access, and engage with replication findings. The database makes replications visible, easily findable via a graphical user interface, and tracks replication rates across various factors, such as publication year or journal. 
+            <br><br>
+
+            <i>Authors</i>: L (52 others), ..., Gavin Leech, ..., (44 others).
+            <br><br>
+            <i>Total hours I contributed</i>: 10 marginal hours.<br>
+            <br>
+          </div>
+        </span>
+        <a href="{{redapp}}">app</a>, <a href="{{redcode}}">code</a>
+    </td>
+</tr>
+
+
+<script>  
+    var src="/img/papers/red.png"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

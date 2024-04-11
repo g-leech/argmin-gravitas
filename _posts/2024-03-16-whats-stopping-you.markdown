@@ -99,12 +99,14 @@ Never underestimate people's hatred for establishing their own independent set o
 
 "[Value capture](https://philarchive.org/rec/NGUVCH)"? No, not here. This is value relinquishment. Value abandonment.
 
+I call them ladders because they 1) are linear, 2) break up progress into small, unthreatening local gradient steps, 3) provide an unambiguous path forward, 4) are rigid and fixed in place. I also take it that none of you have ever built a ladder.
+
 <br>
 
 
 <br><br>
 
-### All old or large institutions are ladders
+### ~All old or large institutions are ladders
 
 * Corporate ladder - L7 ($1m a year), C-level, first class flights, PA, suits
 * Government ladder
