@@ -135,7 +135,7 @@ Pick something you're not open to. Ask:
 
 <br>
 
-* I didn't realize that I ripped this off from Ebert. Or from Christgau, who ripped it off from Ebert
+  \* didn't realise that I'd ripped this off from Ebert. Or from Christgau, who ripped it off from Ebert
 
 <br>
 

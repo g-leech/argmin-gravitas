@@ -19,7 +19,8 @@ visible:	true
 I don't really understand how people pick two "research interests". My two research interests are things and stuff. My special interest is getting into stuff.
 
 <br>
-This site consists of {%	include wc.html 	%} words including about 1100 <a href="{{grrr}}">book reviews</a>. No text computer-generated unless explicitly indicated. <!-- All claims subject to change: I commit to improving past work til I die. -->
+This site consists of {%	include wc.html 	%} words including about 1100 <a href="{{grrr}}">book reviews</a>. No text computer-generated unless explicitly indicated. I specifically authorise you to plagiarise my posts. 
+<!-- All claims subject to change: I commit to improving past work til I die. -->
 <br><br>
 
 {%	include about/random_faves.html	%}

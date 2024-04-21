@@ -36,7 +36,7 @@ categories: self-help, lists, quantification, becoming
 ## Health
 
 * <a href="{{tw}}">Bag of travel meds</a> (£20). Many discomforts are now optional.
-No brainer. Paracetamol/ibuprofen lysine/aspirin/melatonin/ACC/loratadine/loperamide/calcium carbonate. Besides saving yourself 1-2 days of misery a year, you can also save your unprepared friends, which for me was 3 times last year.<br>
+No brainer. Paracetamol/ibuprofen lysine/aspirin/melatonin/ACC/loratadine/loperamide/calcium carbonate/Kwells. Besides saving yourself 1-2 days of misery a year, you can also save your unprepared friends, which for me was 3 times last year. <a href="#fn:1" id="fnref:1">1</a><br>
 _Cost per year_: £20.
 
 * <a href="{{bow}}">Bowflex SelectTech 552</a> dumbbell (£180). By my desk; much harder to avoid than the gym. 15 dumbbells in one. I love how little space they take, and the design is extremely satisfying. You can get by with one.<br>
@@ -78,6 +78,8 @@ _Cost per year_: £50 if you have space / £250 if renting a space with two othe
 </div>
 <br><br>
 
+* _Nonemergency medicine in the UK_. There are 1-year waiting lists on the NHS for many, many minor ailments and suboptimalities. So I'm very impressed with the online pharmacy Treated (semaglutide, zyban, finasteride) and expect to be impressed with their spinoff <a href="{{fo}}">Focused</a> (ADHD). It's an actual pharmacy, i.e. it gives out legal prescriptions. You can get things cheaper on sites like Voy though. In contrast, private insurance covers ~everything and isn't that much more expensive than buying these prescriptions. But it's still in-person and only a bit faster than the NHS, and might involve a song and dance for elective things, where Treated is instant and computerised.<br>
+_Cost per year_: £500-£2000 per year depending on what you get.
 
 * <a href="{{dahon}}">Dahon Espresso D24</a> folding bike (<a href="{{c2w}}">£320</a> on the Cycle To Work scheme, down from £530). Full size wheels and front suspension: fine for offroad. Folding means you can take it on trains, subways and car boots despite the size. The wheels it comes with are ridiculously thick, but you can get road ones. Probably saves me about 100 hours a year walking, and also gives me joy. I loved the old version, which had <a href="{{pump}}">a bike pump</a> hidden in the seat column. <br>
 _Expected lifespan_: 10 years light use with £100 annual service. <br>
@@ -89,6 +91,9 @@ _Cost per year_: £80
 
 * <a href="{{zinc1}}">Zinc acetate</a> lozenges (£10 for 30). There's <a href="{{zinc2}}">some evidence</a> that keeping particular ligands of zinc in your mouth when you have a cold speeds up your recovery, maybe by a full day. Many other viruses also perish under zincky attention, so they're out of stock as of Spring 2020.<br>
 _Cost per year_: £5
+
+* <a href="{{tret}}">Tretinoin</a>. The skin anti-aging thing which actually works. It's not over the counter though: <a href="{{derm}}">these people</a> are overpriced but fine. (I use about a third of the stated dose to keep the puffiness down.) It makes you more sensitive to UV so it will also make a sunscreen guy of you.
+_Cost per year_: £100 at my rate
 
 * <a href="{{mask}}">Sleep mask</a> (£8). I slept poorly after I moved to the city, mostly because of ambient light. Now I don't! You want one which curves away from your eyelashes and isn't too hot. This is excellent.<br>
 _Expected lifespan_: 2 years?<br>
@@ -309,3 +314,15 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 
 
 <br><br>
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+    	though I feel honour-bound to mention that Kwells is scopolamine, a famous hallucinogen / entheogen / interrogation drug.
+	</li>
+</ol>
+
+</div>

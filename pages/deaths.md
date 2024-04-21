@@ -11,9 +11,20 @@ visible:	false
 	}
 </style>
 
+<br>
+
+> there is nothing I desire to be informed of more than the death of men... I affect no subject so particularly as this. Were I a composer of books, I would keep a register of diverse deaths, which, in teaching men to die, should afterwards teach them to live.
+
+<center>– Montaigne</center>
+
+<br><br>
+
+
 {%	include quotes/deaths.html	%}
 
 <br><br>
+
+
 
 
 Some full obits, mostly scientists or philanthropists or other people overlooked by the media:

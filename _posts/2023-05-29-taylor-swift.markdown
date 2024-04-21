@@ -20,6 +20,17 @@ wordcount:
 argument:   swift/argument.html
 ---
 
+{%  assign lemon = "https://tidal.com/browse/video/108046194"  %}
+{%  assign sanneh = "https://web.archive.org/web/20240421072356/https://www.nytimes.com/2004/10/31/arts/music/the-rap-against-rockism.html"       %}
+{%  assign boss = "https://en.wikipedia.org/wiki/Bruce_Springsteen_discography#:~:text=American%20rock%20musician%20Bruce%20Springsteen,selling%20music%20artists%20in%20history."  %}
+{%  assign zimm = "https://en.wikipedia.org/wiki/Bob_Dylan#:~:text=He%20has%20sold%20more%20than,Award%20and%20an%20Academy%20Award."    %}
+{%  assign cons = "https://journals.sagepub.com/doi/10.1177/13675494211006090"  %}
+{%  assign bourdieu = "https://dynomight.net/bourdieu/#:~:text=cultural%20omnivores%3A%20The%20true%20upper%2Dclass%20person%20likes%20all%20kinds%20of%20food%20and%20all%20types%20of%20movies%20and%20books%20and%20likes%20traveling%20to%20all%20countries%20and%20likes%20all%20kinds%20of%20hobbies."   %}
+{%  assign mono1 = "https://www.escapistmagazine.com/the-monoculture-isnt-dead-its-just-resting/"     %}
+{%  assign zom = "https://twitter.com/purplewaves7/status/1781374467782144451" %}
+{%  assign fans = "https://www.forbes.com/sites/marisadellatto/2023/03/14/more-than-half-of-us-adults-say-theyre-taylor-swift-fans-survey-finds/"       %}
+{%  assign high = "https://genius.com/Taylor-swift-so-high-school-lyrics"        %}
+{%  assign bey = "https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0dl567,%2Fm%2F01mpq7s&hl=en"    %}
 {%  assign vox = "https://www.vox.com/culture/2017/11/9/16598106/taylor-swift-reputation-intimacy-control"    %}
 {%  assign a = "https://twitter.com/FreightAlley/status/1654860984714944514"    %}
 {%  assign t = "https://twitter.com/phokarlsson/status/1662551767429574659"    %}
@@ -123,19 +134,25 @@ Call the machine <a href="{{trademark}}">TS</a>. The interesting part is that Sw
 
 TS presents itself as Swift. It does perform characters explicitly (e.g. <a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) but the machine TS mostly pretends to be the woman Swift in various forms. It adapts to audience and times: innocence-coded (with a twang) for Nashville then; demisexual-coded (with FKA-sighing) for the glossies now; BPD-coded (and drawling) for the extremely online now. A persecution complex (and diphthongs) for everyone <a href="#fn:1" id="fnref:1">1</a>.
 
-That's half of it; the other half is your incredible overestimation of the output. <a href="#fn:13" id="fnref:13">13</a>  TS songs are moderately catchy, (recently) moderately perverse, but expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / Jenny Lewis / Lady Gaga / Kesha / Lana del Rey / Lorde / FKA Twigs / <!--St Vincent--> Billie Eilish / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
+That's half of it; the other half is your incredible overestimation of the output. <a href="#fn:13" id="fnref:13">13</a>  TS songs are moderately catchy, (recently) moderately perverse, but expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / <!-- Jenny Lewis /--> Lady Gaga / Kesha / Lana del Rey / Lorde / HAIM / Chvrches / FKA Twigs / <!--St Vincent--> Billie Eilish / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
 
 <br>
 
-<center>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/3yDP9MKVhZc?si=URPPpOEL4h23F_N_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/G_GneCw-IoA?si=TrIoX0gwjka0fPB_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</center>
-<br>
+<div class="accordion">
+    <h3>Mother FKA</h3>
+    <div>
+        <center>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/3yDP9MKVhZc?si=URPPpOEL4h23F_N_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/G_GneCw-IoA?si=TrIoX0gwjka0fPB_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </center>
+    </div>
+</div>
+
+<br><br>
 
 Why does the music's reception matter if the music doesn't matter? Well, I dislike things that pretend to be deep when they're not. Things which pretend to be personal are on tricky aesthetic ground. Entertainment is fine but not when it stands in place of art. We used to be iffy about parasocial relationships, corporate machines, being played.
 
-I realise now that Swift _is_ a kind of artist – but the art is not music, it's marketing. Empire-building. Trend sniffing. Ingenious <a href="https://www.theringer.com/2016/7/12/16039240/when-did-you-first-realize-taylor-swift-was-lying-to-you-bb5a00a32b65">image management</a>, audience relationship management, and hiring. She weathered <a href="{{prob}}">culture war</a> struggle sessions completely fine; people have repeatedly <a href="{{sady}}">announced</a> her demise; critics have bleated about the derivativeness and hollowness - and yet here she is. These feats require intelligence, deep cultural awareness, and cold blood. So if the music is uninteresting the phenomenon isn't. She plays the world like a fiddle.
+I realise now that Swift _is_ a kind of artist – but the art is not music, it's marketing. Empire-building. Trend sniffing. Ingenious <a href="https://www.theringer.com/2016/7/12/16039240/when-did-you-first-realize-taylor-swift-was-lying-to-you-bb5a00a32b65">image management</a>, audience relationship management, and hiring. She weathered <a href="{{prob}}">culture war</a> struggle sessions completely fine; people have repeatedly <a href="{{sady}}">announced</a> her demise; critics have bleated about the derivativeness and hollowness - and yet here she is. These feats require intelligence, deep cultural awareness, and cold blood. She <a href="{{fans}}">bucks</a> claims about the <a href="{{mono1}}">death of the monoculture (you only need one counterexample to overturn a universal claim). So if the music is uninteresting the phenomenon isn't. She plays the world like a fiddle.
 
 
 
@@ -153,11 +170,25 @@ I realise now that Swift _is_ a kind of artist – but the art is not music, it'
     <!--  -->
     <h3>Why should I care what you think?</h3>
     <div>
-        Likely you shouldn't. I'm not the target audience. 
+        Likely you shouldn't. I'm not <!-- prey -->the target audience. <br><br>
         Still, you might want to understand the dominant musical forces in the world, or the most lucrative tour in history (<a href="{{inc}}">probably the highest income</a> celebrity this year). Or you simply get the bad vibe and want to see what's behind it.
     </div>
     <!--  -->
     <!--  -->
+    <h3>Why now?</h3>
+    <div>
+        <a href="{{bey}}">She only became unavoidable</a>, the singular winner-takes-all megastar, at the start of 2023. As of 2024 she's 4-5 times more discussed than Beyoncé, her nearest peer. Why?
+        <br><br>
+<!--  -->
+        <ul>
+            <li>Her 2006 fans aged into wealth and influence. The long march through the institutions, completed.</li>
+            <li>She managed to appeal to current teens, by aping younger stars and maybe as a mother figure making music <a href="{{high}}">for you</a> that your mom also likes.</li>
+            <li>Sheer tempo of releases: 8 albums in the last 4 years (the Taylor's Versions counting, for the market, as new work). A constant nongossip pretext for articles and teasers.</li>
+            <li>The complete cultural victory of <a href="{{zom}}">zombified poptimism</a> (which holds that all pop is good and judgment is for losers [haters]) over the hipsters...</li>
+            <li>...combined with TS' post-<i>Folklore</i> explicit play for credibility. It had enough superficial indie content to overcome critics' final line of immunity to machine products, resulting in the media consensus you see around you. <a href="#fn:15" id="fnref:15">15</a></li>
+            <li>A simple snowball: exponential fame; being talked about makes you get talked about. I'm part of this process.</li>
+        </ul>
+    </div>
     <h3>Crossing ourselves</h3>
     <div>
         People often deny that the female face of a machine had creative control. Even <i>Björk</i>, one of the most distinctive musicians of the last 30 years, <a href="{{bjork}}">has had people deny</a> her contribution to her own music, particularly her production work.<br><br>
@@ -215,9 +246,15 @@ QJ: "Knowing what you're doing...<br>
 INTERVIEWER: Plenty of people talk as though Taylor Swift has great songs.<br>
 QJ: "But they don't know, man. They don't know. I've come and gone through seven decades of this shit. Seen all that. Seen how that works. Ignorance is no thing."
 
+<br><br>
+
+> Let people enjoy things
+
+-- Proverb
+
 <br>
 
-It's uncomfortable to be out here proclaiming about Art vs Pop; 10 years ago I was on the other side, of the <a href="{{pop}}">poptimists</a> (who said that pop is good and worth talking about). I welcome us no longer pretending that pop music is bad music; I welcome us no longer doing violence to our own taste.
+It's uncomfortable to be out here proclaiming about Art vs Pop; 10 years ago I was on the <a href="{{sanneh}}">other side</a>, of the <a href="{{pop}}">poptimists</a> (who said that pop can be good and worth talking about). I welcome us no longer pretending that pop music is bad music; I welcome us no longer doing violence to our own taste.
 
 <center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">selling out is when you exchange cultural capital (appeal to elite tastemakers) for real capital (marketability to the dirty, unwashed masses)</p>&mdash; nihilism disrespecter (@meaning_enjoyer) <a href="https://twitter.com/meaning_enjoyer/status/1664484493443624960?ref_src=twsrc%5Etfw">June 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -225,25 +262,26 @@ It's uncomfortable to be out here proclaiming about Art vs Pop; 10 years ago I w
 
 <br>
 
-But! pop's aims are vastly different from those of art music, and I want there to be _some_ space for the latter. Midcult machines like TS steal this space <a href="#fn:2" id="fnref:2">2</a>.
+But as usual the revolutionaries ran to excess in their imperial era: poptimism was originally just the claim that pop music can be good -- but it morphed into a relativist land grab: that all pop is good. Sucked all the critical oxygen. Pop's aims are vastly different from those of art music, and I want _some_ space for the latter. Midcult machines like TS steal this space <a href="#fn:2" id="fnref:2">2</a>.
 
-As usual, the revolution lost its mind after crushing the opposition. (Pitchfork, once a caricature of thoughtless hipster antipathy to the mainstream, made the _Red_ reissue an album of the year. Until 2017 they were able to totally ignore her, never reviewing any of it.)<br><br> 
+(Pitchfork, once a caricature of thoughtless hipster antipathy to the mainstream, made the _Red_ reissue an album of the year. Until 2017 they were able to totally ignore her, never reviewing any of it.)<br><br> 
 <!-- https://www.tiktok.com/@vsprice7/video/7326059623377849646 -->
-
 
 
 <a href="{{scar2}}">Scaruffi</a>'s radical conservatism:
 
 > Art Music differs from Commercial Music the way a Monet painting differs from IKEA furniture. Although the border is frequently fuzzy... [we can still say that] being an art musician is a different kind of job, more similar to the job of the scientific researcher (and the old-fashioned inventor) than to the job of the popular entertainer...<br><br>The goal of an art musician is, first and foremost, to do what s/he feels is important and, secondly, to secure a place in the history of human civilization... Art music knows no stylistic boundaries: the division in classical, jazz, rock, hip hop and so forth still makes sense for commercial music (it basically identifies the sales channel) 
 
-Macdonald, quoted above, carries a lot of baggage about the outsized importance of novels and elite cultural stewardship. But we don't need any of that to take the key point: pure pop is better than pop which is pretending to be art. (Yes, some art music finds commercial success. But as a side effect of being itself.)
+Macdonald, quoted above, carries a lot of baggage about the outsized importance of novels and elite cultural stewardship. But we don't need any of that to take the key point: pure pop is better than pop which is pretending to be art. (Yes, <a href="{{boss}}">some</a> <a href="{{zimm}}">art</a> music finds commercial success. But as a side effect of being itself.)
 
 <!-- I think collaborative art usually sucks but it's not because multiple people are working on it. -->
 
 
-> in 2020, Swift surprise-released Folklore and Evermore, two albums produced with the National’s Aaron Dessner that repositioned her as a serious musician, not just a pop star.
+<!-- > in 2020, Swift surprise-released Folklore and Evermore, two albums produced with the National’s Aaron Dessner that repositioned her as a serious musician, not just a pop star.
 
-Product pivot!
+Product pivot! -->
+
+There's an interesting overlap here with <a href="{{bourdieu}}">class theory</a>. No, honestly: the signalling game is now genre-omnivorous and you distinguish yourself by liking only the "<a href="{{cons}}">consecrated</a>" (high-status) instances of each genre. This is much more fun and varied than the old hauteur, but it is also .
 
 <br>
 
@@ -552,6 +590,7 @@ Washed up and ranting about the same old bitter things
 <!-- https://theoutline.com/post/8484/sore-winners-decade -->
 <!-- https://notebook.substack.com/p/miss-americana-and-the-heartbreak -->
 <!-- https://www.vulture.com/2017/08/taylor-swift-look-what-you-made-me-do-pure-trump-era-pop-art.html -->
+<!-- https://samkriss.substack.com/p/taylor-swift-does-not-exist -->
 
 
 <div class="footnotes">
@@ -611,6 +650,9 @@ Washed up and ranting about the same old bitter things
     <!--  -->
     <li class="footnote" id="fn:14">
         "the <i>person</i> who has come up with..."
+    </li>
+    <li class="footnote" id="fn:15">
+        For proper credit, a theory should also explain Beyoncé breaking into hipster critical acclaim. Fortunately I think mine does: her <i>Lemonade</i> (2016) <a href="{{lemon}}">benefitted</a> from a similar sombre, angry, indiefied aesthetic, as well as familiar political trends. Pitchfork fell for Bey first.
     </li>
 </ol>
 

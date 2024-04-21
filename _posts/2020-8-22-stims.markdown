@@ -91,6 +91,7 @@ I take this seriously enough that I quit caffeine. But if withdrawal reversal _a
 
 Could billions of people really do something every day and not notice it has no net effect? Could science fail to discover or communicate this for decades, despite the experiments being cheap and safe? (...)
 
+It's fairly unlikely.
 
 <br>
 
@@ -184,6 +185,13 @@ The terribly named "Non-low" mean "non-consumer or low-consumer of caffeine".
 Overall, the high caffeine users are worse than the non-lows when each are given placebo, and are not notably better than the non-lows when both are given caffeine. This is consistent with withdrawal reversal.
 
 <!-- - I don’t value [long-term memory](https://en.wikipedia.org/wiki/long-term_memory) that much because LTM is something that is easily assisted or replaced (personal archives, and [spaced repetition](https://www.gwern.net/Spaced-repetition)). -->
+
+However, there's a giant confounder in that they didn't assign people randomly to these caffeine statuses. However, this would be most worrying if unwell people avoided caffeine; in passing Rogers do get evidence about the health statuses and intelligence of the two sets!
+
+For a beyond-eyeball summary, [see Michael Dickens' cool analysis](https://mdickens.me/2024/03/29/does_caffeine_stop_working/) of 6 studies' likelihoods including Rogers, which comes out leaning that caffeine tolerance removes only _half_ of the effect. This may also apply to the anxiety and jitteriness effects, another strike against cycling.
+
+<br>
+
 
 #### Mere physiology
 
