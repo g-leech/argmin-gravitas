@@ -51,6 +51,13 @@ I recently realised I don't know why quality is rare. Some possible reasons:<br>
 	(Cop-out, true only of positional goods and not others.)
 </li><br>
 
+<li> 
+	<span style="font-weight: bold">
+		<i>Easy quality is unnoticed</i><br>
+	</span>
+	e.g. I have a flawless track record of keeping my lungs cycling and my blood oxygenated. That is, I am a skilled breather. My breathing is high-quality, four nines of reliability. But this is easy for me, so I don't notice.<br> 
+</li><br>
+
 <li>
 	<span style="font-weight: bold">
 		<i>Labour theory of quality</i><br>
