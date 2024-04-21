@@ -20,79 +20,7 @@ wordcount:
 argument:   swift/argument.html
 ---
 
-{%  assign lemon = "https://tidal.com/browse/video/108046194"  %}
-{%  assign sanneh = "https://web.archive.org/web/20240421072356/https://www.nytimes.com/2004/10/31/arts/music/the-rap-against-rockism.html"       %}
-{%  assign boss = "https://en.wikipedia.org/wiki/Bruce_Springsteen_discography#:~:text=American%20rock%20musician%20Bruce%20Springsteen,selling%20music%20artists%20in%20history."  %}
-{%  assign zimm = "https://en.wikipedia.org/wiki/Bob_Dylan#:~:text=He%20has%20sold%20more%20than,Award%20and%20an%20Academy%20Award."    %}
-{%  assign cons = "https://journals.sagepub.com/doi/10.1177/13675494211006090"  %}
-{%  assign bourdieu = "https://dynomight.net/bourdieu/#:~:text=cultural%20omnivores%3A%20The%20true%20upper%2Dclass%20person%20likes%20all%20kinds%20of%20food%20and%20all%20types%20of%20movies%20and%20books%20and%20likes%20traveling%20to%20all%20countries%20and%20likes%20all%20kinds%20of%20hobbies."   %}
-{%  assign mono1 = "https://www.escapistmagazine.com/the-monoculture-isnt-dead-its-just-resting/"     %}
-{%  assign zom = "https://twitter.com/purplewaves7/status/1781374467782144451" %}
-{%  assign fans = "https://www.forbes.com/sites/marisadellatto/2023/03/14/more-than-half-of-us-adults-say-theyre-taylor-swift-fans-survey-finds/"       %}
-{%  assign high = "https://genius.com/Taylor-swift-so-high-school-lyrics"        %}
-{%  assign bey = "https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0dl567,%2Fm%2F01mpq7s&hl=en"    %}
-{%  assign vox = "https://www.vox.com/culture/2017/11/9/16598106/taylor-swift-reputation-intimacy-control"    %}
-{%  assign a = "https://twitter.com/FreightAlley/status/1654860984714944514"    %}
-{%  assign t = "https://twitter.com/phokarlsson/status/1662551767429574659"    %}
-{%  assign e = "https://en.wikipedia.org/wiki/The_Eras_Tour"    %}
-{%  assign credit = "https://www.cnbc.com/2021/04/01/songwriters-ask-artists-to-stop-taking-credit-for-hits-they-didnt-write.html"   %}
-{%  assign bjork = "https://slate.com/culture/2015/01/bjork-pitchfork-interview-shes-tired-of-not-getting-credit-for-her-music-just-like-mia-taylor-swift-neko-case-solange-knowles-grimes-more.html"   %}
-{%  assign diary = "https://www.nytimes.com/2019/08/26/arts/music/taylor-swift-lover-journals.html"   %}
-{%  assign murica = "https://www.locatelli.com/blog/the-origin-of-italian-american-food-favorites-the-surprising-truth/"   %}
-{%  assign tv = "https://www.vox.com/culture/22278732/taylor-swift-re-recording-speak-now-enchanted-mine-master-rights-scooter-braun" %}
-{%  assign guy = "https://en.wikipedia.org/wiki/Guy_Chambers"   %}
-{%  assign saw = "https://en.wikipedia.org/wiki/Stock_Aitken_Waterman"   %}
-{%  assign tm = "https://www.theguardian.com/music/musicblog/2015/jan/29/taylor-swift-this-sick-beat-worlds-first-trademarked-lyric"    %}
-{%  assign it = "https://www.theage.com.au/lifestyle/fashion/baggy-t-shirts-combat-boots-the-mass-appeal-of-the-90s-anti-it-girl-20200429-p54oa0.html" %}
-{%  assign mad = "https://www.musicradar.com/news/madonna-max-martin-studio"   %}
-{%  assign stein = "https://open.spotify.com/playlist/6yAapcxu5bdTGOtMKOlahg?si=28cc2cf8250b46d1"   %}
-{%  assign cobain = "https://www.kerrang.com/kurt-on-kurt-the-nirvana-icon-in-his-own-words"  %}
-{%  assign obama = "https://www.buzzfeednews.com/article/scott/obama-calls-kanye-a-jackass"   %}
-{%  assign arg = "https://www.tumblr.com/argumate/186348895184/i-mean-its-a-little-foolish-to-knock-taylor-swift"  %}
-{%  assign sady = "https://www.elle.com/culture/celebrities/a12119630/taylor-swift-downfall"   %}
-{%  assign prob = "https://yourfaveisproblematic.tumblr.com/post/45761093757/taylor-swift" %}
-{%  assign ring = "" %}
-{%  assign truck = "https://www.reddit.com/r/TaylorSwift/comments/12nlu7f/one_of_the_2_rows_of_trucks_it_takes_to_haul_the/"   %}
-{%  assign heap = "http://imogenheap.com/home.php?article=1321"    %}
-{%  assign oiim = "https://youtu.be/e-ORhEE9VVg?t=80"    %}
-{%  assign boak = "https://variety.com/2023/music/concert-reviews/taylor-swift-eras-tour-concert-review-glendale-phoenix-1235558467/"   %}
-{%  assign berk = "https://www.nytimes.com/2022/05/14/style/taylor-swift-nyu.html"  %}
-{%  assign nyu = "https://www.coursicle.com/nyu/courses/REMUUT/1174/"  %}
-{%  assign gpt = "https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web" %}
-{%  assign riri = "https://www.npr.org/sections/money/2011/07/05/137530847/how-much-does-it-cost-to-make-a-hit-song" %}
-{%  assign myhr = "https://www.wired.com/2011/02/ff-myhrvold" %}
-{%  assign chuck = "https://www.gq.com/story/taylor-swift-gq-cover-story" %}
-{%  assign weeks = "https://twitter.com/jeremydlarson/status/929419999441313792?lang=en" %}
-{%  assign mid = "https://xroads.virginia.edu/~DRBR/macdonald.pdf" %}
-{%  assign surv = "https://www.washingtonpost.com/news/arts-and-entertainment/wp/2017/12/06/taylor-swift-explains-her-blunt-testimony-during-her-sexual-assault-trial" %}
-{%  assign dick = "https://americansongwriter.com/the-story-behind-james-browns-infamous-5-fines" %}
-{%  assign solo = "https://open.spotify.com/embed/playlist/126Z5DolKsYFzzM7nptvuB?utm_source=generator" %}
-{%  assign ital = "https://qz.com/661055/when-the-french-try-to-beat-the-italians-at-italian-food-things-get-ugly" %}
-{%  assign elec = "https://en.wikipedia.org/wiki/Electronic_music#Late_1960s_to_early_1980s" %}
-{%  assign inc = "https://nypost.com/2023/02/14/forbes-highest-paid-entertainers-2022-taylor-swift-bad-bunny-more" %}
-{%  assign nyer = "https://www.newyorker.com/culture/cultural-comment/taylor-swift-is-confusing"    %}
-{%  assign shake = "https://www.youtube.com/watch?v=nfWlot6h_JM"    %}
-{%  assign c1 = "https://opencorporates.com/companies/us_tn/000608656"  %}
-{%  assign c2 = "https://opencorporates.com/companies/us_tn/000658255"  %}
-{%  assign c3 = "https://opencorporates.com/companies/us_tn/000595933"  %}
-{%  assign scar = "https://www.scaruffi.com/vol3/bowie.html"  %}
-{%  assign scar2 = "https://www.scaruffi.com/avant/cpt0.html"    %}
-{%  assign grimes = "https://www.nytimes.com/2023/05/24/arts/music/grimes-ai-songs.html" %}
-{%  assign elf = "https://elf.tech"  %}
-{%  assign hyper = "https://www.tandfonline.com/doi/abs/10.1080/1369118X.2016.1186713"  %}
-{%  assign hs = "https://www.reddit.com/r/TaylorSwift/comments/eg2ke3/did_taylor_ever_graduate_high_school"    %}
-{%  assign pop = "https://en.wikipedia.org/wiki/Rockism_and_poptimism"    %}
-{%  assign c = "https://www.youtube.com/watch?v=b7QlX3yR2xs"  %}
-{%  assign kon = "https://kontextmaschine.tumblr.com/post/161618043448/argumate-kontextmaschine-listening-again-to"   %}
-{%  assign indie = "https://www.acelinguist.com/2018/10/dialect-dissection-indie-girl-voice.html" %}
-{%  assign kontext = "https://kontextmaschine.tumblr.com/post/96493509413/taylor-swifts-semantic-overloading" %}
-{%  assign martin = "https://en.wikipedia.org/wiki/Max_Martin"    %}
-{%  assign hark = "https://www.vogue.com/article/the-outrageous-life-of-rebekah-harkness-taylor-swifts-high-society-muse" %}
-{%  assign trademark = "https://trademarks.justia.com/864/34/t-86434695.html"   %}
-{%  assign law = "https://www.theguardian.com/music/musicblog/2015/jan/29/taylor-swift-this-sick-beat-worlds-first-trademarked-lyric"   %}
-{%  assign miso = "https://thecurrentmsu.com/2021/10/04/do-you-hate-taylor-swift-or-is-it-just-misogyny"   %}
-{%  assign gamb = "https://stevengamble.com/hiphopification/"   %}
-{%  assign beech = "https://www.theguardian.com/music/2023/sep/08/how-taylor-swift-became-the-worlds-biggest-pop-star-again"   %}
+{%  include swift/links.html   %}
 
 
 
@@ -126,15 +54,15 @@ In [pop] the trick is plain – to please the crowd by any means. But [mid work]
 
 Pop music is good. Songwriting teams are good. Precision is good. Reptilian strategising is good. Working your arse off is good. People liking things is good. <a href="{{t}}">Artists making money</a> is good. Admitting you are a trash-fire human being is good. And reinventing yourself is good. <!-- Serial monogamy is good. Narcissist art is often great. Trash is good. Dancing in heels is impressive I guess. Singers who can't sing very well are good. She acknowledges her team frequently even if you lot don't. -->
 
-So why does Taylor Swift (your reception of Taylor Swift) make me feel like I have ants beneath my skin? 
+So why does Taylor Swift make me feel like I have ants beneath my skin? 
 
 I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a href="{{c2}}">of large</a> <a href="{{c3}}">corporations</a> and 40+ ghostwriters and designers and <a href="{{law}}">lawyers</a> <a href="#fn:6" id="fnref:6">6</a>) represent itself as a singular human being I am to empathise with. Then a large part of society greets this machine as an artist <a href="#fn:14" id="fnref:14">14</a>, like a line of ducklings imprinting on a combine harvester.
 
-Call the machine <a href="{{trademark}}">TS</a>. The interesting part is that Swift the human built TS the machine and to some extent controls it. A _self_-manufactured pop star: Swift obscures the machine, equivocates, and feeds it vast hosts of people (fans, co-writers, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to more fame, fame which automatically produces more controversies.
+Call the machine <a href="{{trademark}}">TS</a>. The interesting part is that Swift the human built TS the machine and to some extent controls it. A _self_-manufactured pop star: Swift obscures the machine, equivocates, and feeds it vast hosts of people (fans, co-writers, arrangers, choreographers, crew, squad, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to more fame, fame which automatically produces more controversies.
 
-TS presents itself as Swift. It does perform characters explicitly (e.g. <a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>) but the machine TS mostly pretends to be the woman Swift in various forms. It adapts to audience and times: innocence-coded (with a twang) for Nashville then; demisexual-coded (with FKA-sighing) for the glossies now; BPD-coded (and drawling) for the extremely online now. A persecution complex (and diphthongs) for everyone <a href="#fn:1" id="fnref:1">1</a>.
+TS presents itself as Swift. It does perform characters explicitly (e.g. <a href="{{c}}">Cinderella</a>, <a href="{{hark}}">Rebekah Harkness</a>), but the machine TS mostly pretends to be the woman Swift in various forms. It adapts to audience and times: innocence-coded (with a twang) for Nashville then; demisexual-coded (with FKA-sighing) for the glossies now; BPD-coded (and drawling) for the extremely online now. A <a href="{{per}}">persecution</a> complex (and diphthongs) for everyone. <a href="#fn:16" id="fnref:16">16</a> 
 
-That's half of it; the other half is your incredible overestimation of the output. <a href="#fn:13" id="fnref:13">13</a>  TS songs are moderately catchy, (recently) moderately perverse, but expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / <!-- Jenny Lewis /--> Lady Gaga / Kesha / Lana del Rey / Lorde / HAIM / Chvrches / FKA Twigs / <!--St Vincent--> Billie Eilish / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
+That's half of it; the other half is your incredible overestimation of the output. <a href="#fn:13" id="fnref:13">13</a>  TS songs are moderately catchy, (recently) moderately perverse, but expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / <!-- Jenny Lewis /--> Gaga / Kesha / Lana / Lorde / HAIM / Chvrches / FKA Twigs / <!--St Vincent--> Billie Eilish / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
 
 <br>
 
@@ -152,7 +80,9 @@ That's half of it; the other half is your incredible overestimation of the outpu
 
 Why does the music's reception matter if the music doesn't matter? Well, I dislike things that pretend to be deep when they're not. Things which pretend to be personal are on tricky aesthetic ground. Entertainment is fine but not when it stands in place of art. We used to be iffy about parasocial relationships, corporate machines, being played.
 
-I realise now that Swift _is_ a kind of artist – but the art is not music, it's marketing. Empire-building. Trend sniffing. Ingenious <a href="https://www.theringer.com/2016/7/12/16039240/when-did-you-first-realize-taylor-swift-was-lying-to-you-bb5a00a32b65">image management</a>, audience relationship management, and hiring. She weathered <a href="{{prob}}">culture war</a> struggle sessions completely fine; people have repeatedly <a href="{{sady}}">announced</a> her demise; critics have bleated about the derivativeness and hollowness - and yet here she is. These feats require intelligence, deep cultural awareness, and cold blood. She <a href="{{fans}}">bucks</a> claims about the <a href="{{mono1}}">death of the monoculture</a> (you only need one counterexample to overturn a universal claim). So if the music is uninteresting the phenomenon isn't. She plays the world like a fiddle. How?
+I realise now that Swift _is_ a kind of artist – but the art is not music, it's marketing. Empire-building. Trend sniffing. Ingenious <a href="https://www.theringer.com/2016/7/12/16039240/when-did-you-first-realize-taylor-swift-was-lying-to-you-bb5a00a32b65">image management</a>, audience relationship management, and hiring. She weathered <a href="{{prob}}">culture war</a> struggle sessions completely fine; people have repeatedly <a href="{{sady}}">announced</a> her demise; critics have bleated about the derivativeness and hollowness - and yet here she is. These feats require intelligence, deep cultural awareness, and cold blood. She <a href="{{fans}}">bucks</a> claims about the <a href="{{mono1}}">death of the monoculture</a> (you only need one counterexample to overturn a universal claim). 
+
+So if the music is uninteresting the phenomenon isn't. She plays the world like a fiddle. How?
 
 
 
@@ -181,8 +111,8 @@ I realise now that Swift _is_ a kind of artist – but the art is not music, it'
         <br><br>
 <!--  -->
         <ul>
-            <li>Her 2006 fans aged into wealth and influence. The long march through the institutions, completed.</li>
-            <li>She managed to appeal to current teens, by aping younger stars and maybe as a mother figure making music <a href="{{high}}">for you</a> that your mom also likes.</li>
+            <li>The 2006 fans aged into wealth and influence. The long march through the institutions, completed.</li>
+            <li>TS managed to appeal to current teens, by aping younger stars and maybe as a mother figure making music <a href="{{high}}">for you</a> that your mom also likes.</li>
             <li>Sheer tempo of releases: 8 albums in the last 4 years (the Taylor's Versions counting, for the market, as new work). A constant nongossip pretext for articles and teasers.</li>
             <li>The complete cultural victory of <a href="{{zom}}">zombified poptimism</a> (which holds that all pop is good and judgment is for losers [haters]) over the hipsters...</li>
             <li>...combined with TS' post-<i>Folklore</i> explicit play for credibility. It had enough superficial indie content to overcome critics' final line of immunity to machine products, resulting in the media consensus you see around you. <a href="#fn:15" id="fnref:15">15</a></li>
@@ -200,7 +130,7 @@ I realise now that Swift _is_ a kind of artist – but the art is not music, it'
         <!-- > The food was terrible, and such small portions -->
         <!--  -->
         (It's <a href="{{martin}}">Martin</a> and Shellback and Antonoff's and the thirty others' <i>job</i> to fade into the background, to make the star seem larger than they are. But even with coauthorship this is still a trick and we shouldn't fall for it.<br><br>
-        I think this trick explains TS' dominance over other pop stars: positioning the output as her ~sole work exploits a vulnerability in the "singer-songwriter" high culture status. The killer move is to pair that soi-disant confessional authenticity with the standard post-Britney sexy choreographed stadium hook shit. (Gaga did something similar, more credibly.) Then when TS smells an upcoming popstar it hitches her wagon to them with a collab.)
+        I think this trick explains TS' dominance over other pop stars: positioning the output as her ~sole work exploits a vulnerability in the "singer-songwriter" high culture status. The killer move is to pair that soi-disant confessional authenticity with the standard post-Britney sexy choreographed stadium hook shit. (Gaga did something similar, more credibly.) Then when TS smells an upcoming popstar it hitches wagons to them with a collab.
         <br><br>
     </div>
     <!--  -->
@@ -208,12 +138,14 @@ I realise now that Swift _is_ a kind of artist – but the art is not music, it'
     <div>Three different industry roles run together in Swift:
     <br><br>
 <ul>
-    <li>the Impresario (showrunner, director; Tin Pan Alley / Brill / Music Row / Colonel Parker / A&R exec scouting and CEO and hitmaker)</li>
-    <li>the Manufactured Popstar (Kylie / Britney / Katy / Selena / Ariana)</li>
-    <li>the Songwriting Chameleon (Lou Reed / Bowie / Madonna) <a href="#fn:4" id="fnref:4">4</a></li>
+    <li>the Impresario (showrunner, director; Tin Pan Alley / Brill / Music Row / Colonel Parker / A&R exec scouting and CEO and hitmaker)</li><br>
+    <li>the Manufactured Popstar (Kylie / Britney / Katy / Selena / Ariana)</li><br>
+    <li>the Songwriting Chameleon (Lou Reed / Bowie / Madonna) <a href="#fn:4" id="fnref:4">4</a></li><br>
 </ul>
-    She appears to be the best in the business at two of these and serviceable at the other.<br>
-    <center><a href="#fn:12" id="fnref:12">12</a> </center>
+    <center>She appears to be the best in the business at two of these and serviceable at the other. 
+        <a href="#fn:12" id="fnref:12">12</a> 
+    </center>
+    <br><br><br><br>
     </div>
 
 
@@ -238,13 +170,13 @@ https://twitter.com/alloftaysgirls/status/1658985747104317441/photo/1
 
 ### Poptimism imperial
 
-> Quincy Jones: "We need more songs, man. Fucking songs, not hooks."<br>
+> Quincy Jones: We need more songs, man. Fucking songs, not hooks.<br>
 INTERVIEWER: Some people consider her the great songwriter of our age.<br>
-QJ: laughs. "Whatever crumbles your cookie."<br>
+QJ: [laughs]. Whatever crumbles your cookie.<br>
 INTERVIEWER: What's missing?<br>
-QJ: "Knowing what you're doing...<br>
+QJ: Knowing what you're doing...<br>
 INTERVIEWER: Plenty of people talk as though Taylor Swift has great songs.<br>
-QJ: "But they don't know, man. They don't know. I've come and gone through seven decades of this shit. Seen all that. Seen how that works. Ignorance is no thing."
+QJ: But they don't know, man. They don't know. I've come and gone through seven decades of this shit. Seen all that. Seen how that works. Ignorance is no thing.
 
 <br><br>
 
@@ -262,7 +194,7 @@ It's uncomfortable to be out here proclaiming about Art vs Pop; 10 years ago I w
 
 <br>
 
-But as usual the revolutionaries ran to excess in their imperial era: poptimism was originally just the claim that pop music can be good -- but it morphed into a relativist land grab: that all pop is good. Sucked all the critical oxygen. Pop's aims are vastly different from those of art music, and I want _some_ space for the latter. Midcult machines like TS steal this space <a href="#fn:2" id="fnref:2">2</a>.
+But as usual the revolutionaries ran to excess in their imperial era: poptimism was originally just the claim that pop music can be good -- but it morphed into a relativist land grab: that all pop is good. Sucked up all the critical oxygen. Pop's aims are vastly different from those of art music, and I want _some_ space for the latter. Midcult machines like TS steal this space <a href="#fn:2" id="fnref:2">2</a>.
 
 (Pitchfork, once a caricature of thoughtless hipster antipathy to the mainstream, made the _Red_ reissue an album of the year. Until 2017 they were able to totally ignore her, never reviewing any of it.)<br><br> 
 <!-- https://www.tiktok.com/@vsprice7/video/7326059623377849646 -->
@@ -281,9 +213,8 @@ Macdonald, quoted above, carries a lot of baggage about the outsized importance 
 
 Product pivot! -->
 
-There's an interesting overlap here with <a href="{{bourdieu}}">class theory</a>. No, honestly: the signalling game is now genre-omnivorous and you distinguish yourself by liking only the "<a href="{{cons}}">consecrated</a>" (high-status) instances of each genre. This is much more fun and varied than the old hauteur, but it is also .
+There's an interesting overlap here with <a href="{{bourdieu}}">class theory</a>. No, honestly: the signalling game is now genre-omnivorous and you distinguish yourself by liking only the "<a href="{{cons}}">consecrated</a>" (high-status) instances of each genre. This is much more fun and varied than the old Classical hauteur, but it also clears the path for commercial machines like TS.
 
-<br>
 
 
 
@@ -422,6 +353,7 @@ For all Swift's grinding and shrewdness, TS is just a splinter of the same spont
     <h3>Lawyering up</h3>
     <div>
         Unprecedently, TS has tried to <a href="{{tm}}">trademark various commonplaces</a>. The Guardian grants this absurd lawfare the benefit of the doubt. "It's really just about protecting herself." 
+        <br><br>
         <blockquote>This is arguably less about her wanting to boil every single thing she does down to a “revenue stream” and more about a pre-emptive strike against callously opportunistic third parties who might want to make money off her without either her involvement or her say-so.</blockquote>
         <br>
         There's also <a href="https://www.theverge.com/2017/11/6/16613656/taylor-swift-first-amendment-lawsuit-aclu-nazi-kkk-lyrics">this ugly moment</a>.
@@ -548,7 +480,7 @@ Also: God knows what <a href="{{grimes}}">TS or its successor</a> will be like w
 
 <br>
 
-It would not amaze me if this post ended up feeding TS in its way (bloggers have been useful to it before). What a machine!
+It would not amaze me if this post ended up feeding TS in its way (bloggers <a href="{{lefsetz}}">have been</a> useful to it before). What a machine!
 
 <br>
 
@@ -596,10 +528,6 @@ Washed up and ranting about the same old bitter things
 <div class="footnotes">
 
 <ol>
-    <!-- 1 -->
-    <li class="footnote" id="fn:1">
-        <a href="https://www.buzzfeed.com/elliewoodward/how-taylor-swift-played-the-victim-and-made-her-entire-caree?utm_term=.gpQdB1YWz#.axKr4bOyG">persecution</a> of... someone <!-- who has been aimed directly at maximal fame and riches (and writing success) since the age of 14 --> with the world's largest and loudest fanbase.
-    </li>
 <!--  -->
     <li class="footnote" id="fn:2">
         The industry's <a href="https://exploration.io/what-is-a-recording-artist/">standard term</a> for a performer is partly to blame here.
@@ -653,6 +581,10 @@ Washed up and ranting about the same old bitter things
     </li>
     <li class="footnote" id="fn:15">
         For proper credit, a theory should also explain Beyoncé breaking into hipster critical acclaim. Fortunately I think mine does: her <i>Lemonade</i> (2016) <a href="{{lemon}}">benefitted</a> from a similar sombre, angry, indiefied aesthetic, as well as familiar political trends. Pitchfork fell for Bey first.
+    </li>
+    <li class="footnote" id="fn:16">
+        Despite appearances, despite the sound, it <a href="{{nerd}}">is also a</a> <a href="{{gandalf}}">minor part</a> of <a href="{{patton}}">diluted C21st</a> <a href="{{hoel}}">geek culture</a>.<br><br>
+        This is one of the machine's adaptations I'm not cynical about. Think of Swift's awkwardness and overthinking and victimhood and crude referentiality! She's an alpha nerd.
     </li>
 </ol>
 
