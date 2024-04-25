@@ -1,0 +1,95 @@
+---
+layout:     post
+title:      "<s>high brow and under belly crafts</s>"
+baselink:   /crafts
+permalink:  /crafts
+date:       2013-01-18  <!--site.time-->
+author:     Gavin
+
+img:        /img/
+published:  false
+visible:    1
+quality:    2
+emotion:    
+importance: 
+
+summary:    Over-the-top song of praise for DIY
+confidence: N/A. Time capsule, moved past. 
+categories: agency, art
+warnings:   
+wordcount:      
+where:      "Hilton, Aberdeen"
+---
+
+<a href="http://upload.wikimedia.org/wikipedia/commons/1/1a/The_Triumph_of_Death,_or_The_Three_Fates.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_u7LboIWvdDIWt_83A8z3_mfv_8hhQbj9Ni7qc5_77NNDVEyy7v9meTc4NFLYgj3MCypRCjEiG4RCF4CPWK5L3DOkiiA6_Oa7qdpazWzk6sZvbtuaYjwCDNMA5hdDnlkcF9yktidBiwE_TLopWWx2OCpIMdqcro5gBG3toPQWec7V0=s0-d" width="268"></a>
+<center>"The Three Fates" -cutter, measurer, and spinner - by Anon (Flemish c.1515)
+
+<br>
+
+<span style="color: #7f6000;">Craft, from the Old English cræft: 'power'; 'skill'; 'trade'...<br />
+- Wiktionary
+</center>
+
+<br><br>
+
+I broke my wind-up torch in Africa. This was bad, cos our toilets were outdoors, and theoretical hippos and puff-adders could have lain in wait between me and my nocturnal squat. I spent a week or so brushing my path with a stick before Sharif, one of my brothers, laughed and asked to see my torch. Five minutes with a screwdriver later, hooking together two little bits of pulley, it worked fine. 
+
+This is not remarkable as a feat except that it just did not occur to me that this was an action open to me - and that it did to him, a thirteen-year old boy with four years of schooling. I'm going to save face by blaming my upbringing, in a mass culture of mass disposal. I'm going to claim I'mm entally blocked from moulding my trappings, owing to my moulding by the forces of Global Production who have an interest in keeping me unable to repair. 
+
+I do not have to fix things; so I do not; and so do not know how; and I think myself improved. (But one longs to be a handyman. To be cræfty.)
+
+
+
+From the Renaissance on, craft talents are held beneath artistic ones. This is pure classism, except where it is also sexism. When one is crafty, one is more connected to ordinary objects; one can manipulate, combine, and repurpose. You include yourself in the history of the object; you live among possibilities. This agency is a closer relationship to the world than the mere link of possessing. (There's also individualism; things one makes oneself are really yours: they're unique, individuating, copyright-free.) Since people's lives are constituted by a stream of encounters with artefacts, it's not excessive to call crafting an Authentic Mode - even in consumerist modernity. In this sense, one can be free only in proportion to one's craftiness.
+
+By this measure, Hobbycraft is a Very Bad Thing. By prepackaging thousands of identikit crafts and spelling out direct instructions, it co-opts the authentic thing described above. Just the same old passivity; <a href="http://direct.hobbycraft.co.uk/shop/painting-by-numbers-and-scraper-foils">life-by-numbers</a>. Less melodramatically: It also supplies people with 50000 cheap components to form millions of potentially authentic new objects. 
+
+<!-- Similarly unreasonably, one might complain about Etsy as the ultimate commercialisation of the personal crafts form - but then, like few jobs,it's completely unexploitative, and it is allowing a growing number of people(<a href="http://www.businessweek.com/stories/2007-06-12/etsy-a-site-for-artisans-takes-offbusinessweek-business-news-stock-market-and-financial-advice">75-95% women</a>) to supplementthemselves off their creativity. -->
+
+
+It's counterintuitive but easy to see Punk and DIY movements as crafts, what with the emphasis on authenticity, idiosyncracy, and independence. Obviously more oppositional- with Arts and Crafts, as a movement, not really having an Other to match punk's rejection of Society or Taste or Capitalism - and DIY is much more <a href="http://repository.wcsu.edu/cgi/viewcontent.cgi?article=1074&amp;context=ssj">theoretical</a>. Granny is a punk rocker.
+
+<!-- It's a stretch, but say that (<a href="http://plato.stanford.edu/entries/plato-ethics/#HapDesForSelCom">Greek-style</a>) philosophy is one too - being just the least material cræft.<br /> -->
+
+
+<hr />
+
+
+
+> "<span style="color: #7f6000;">The stay-at-home-daughters movement, which is promoted by Vision  Forum, encourages young girls and single women to forgo college and  outside employment in favor of training as &#8220;keepers at home&#8221; until they  marry. Young women pursuing their own ambitions and goals are viewed as  selfish and antifamily; marriage is not a choice or one piece of a  larger life plan, but the ultimate goal. Stay-at-home daughters spend  their days learning &#8220;advanced homemaking&#8221; skills, such as cooking and  sewing, and other skills that at one time were a necessity - knitting,  crocheting, soap- and candle-making."
+
+<center>- on the 'Christian Patriarchy Movement'movement, fl. 2010 </center>
+
+
+
+However, I'm not <a href="http://en.wikipedia.org/wiki/Arts_and_crafts_movement#Social_principles">John Ruskin</a>. Crafts had another side, anti-agency in practice. Remember that embroidery takes about an hour per inch&#65279;; that little boys, when taught needlework in school, whinge endlessly about the affront to their masculinity.<br />
+
+
+Crafts (as the decorative leisure thing I was going on about above) are hard-core bourgeois. Recall the Georgian cult of feminine "accomplishment", where a girl's marriage market value was tied to her skill in needlepoint (anything to signal that the family could keep her otherwise unemployed). 
+
+<!-- And since working class women had little time to craft after their: formal employment, cooking, washing, and less self-actualising helpmeet tasks, like mending and darning. (I'd include home repairs and shed obsessions in "crafts", if only to break down an arbitrary gender wall.)<br /> -->
+
+<!-- The mindset is alive and well everywhere, whetherin extreme form,as in Wahhabist states and ultra-fundamentalist Christian sects,or the dilute toxin found everywhere, e.g. the less openly psychotic 'family values' talk,or the institution of fashion in general. (Note that the 'Christian Patriarchy Movement' group summarised above self-identify as patriarchal. 'Patriarchy', the word coinedto identify atrocities,has absolutely no negative connotationfor the men and women of that benighted stripe. Ffs.) -->
+
+
+
+But things have surely changed? The Etsy sort are more self-expressive than most of us, and there are consciously <a href="http://www.shamelessmag.com/blog/2010/11/smash-patriarchy-embroidery-sampler/">feminist</a> and <a href="http://journalofmoderncraft.com/tag/queercraft">Queer</a> reclamations. 
+
+
+
+<hr />
+
+
+
+> [Utopian socialist] William Morris wanted to save the world with nice wallpaper.
+
+- Jonathan Meades
+
+
+
+Whatever radical story I can tell using crafts can also be obscured by the actual materialism of it all. Even without capitalism muscling in, the love of things can crowd out the love of people. (Yes, yes, the existence and nature of <a href="http://www.welshicons.org.uk/news/wp-content/uploads/2012/04/Craft-Circle-Banners.jpg">craft groups</a> goes a long way in belittling my alarmism.) 
+
+
+
+"Pretty things make the world a better place"; certainly, certainly. But the decorative arts onlyact on surfaces; they can have little bearing on the heart of things.
+

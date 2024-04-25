@@ -42,6 +42,10 @@ visible:    false
 		text-align: center!important;
 	}
 
+	h3:after {
+		content: none;
+	}
+
 </style>
 
 <br>
@@ -49,7 +53,7 @@ visible:    false
 <div class="accordion">
 	<h3>Now</h3>
 	<div>
-		{%	include books/widget.html	%}
+		%	include books/widget.html	%}
 	</div>
 	<!--  -->
 	<!--  -->
@@ -66,7 +70,7 @@ visible:    false
 	</div>
 </div>
 
-<br><br><br><br>
+<br><br><br>
 
 
 ## Jump to
@@ -77,24 +81,26 @@ visible:    false
 * _<a href="#two">2/5: Only for enthusiasts. 25th percentile.</a>_
 * _<a href="#one">1/5: False, ugly, evil, or vapid. 1st percentile.</a>_
 
-<br><br><br>
-
-## Reviews
+<br><br>
 
 <a name="five"></a>
 
-### 5/5: Will re-read until I die. 97th percentile+
+## 5/5: Will re-read until I die. 97th percentile+
 
 <a name="five"></a>
+
+<br>
 
 {%	include books/reviews_5.html	%}
 
-<!-- </i></td></tr></ul></td></tr></i></li></ul></blockquote></td></tr></ul></td></tr></i></td></tr></li></li></li></li></td></tr> -->
+
 
 <a name="four"></a>
 <br><br>
 
-### 4/5: Very impressed. 75th percentile.
+## 4/5: Very impressed. 75th percentile.
+
+<br>
 
 {%	include books/reviews_4.html	%}
 
@@ -103,17 +109,19 @@ visible:    false
 <a name="three"></a>
 <br><br>
 
-### 3/5: Net likeable. 50th percentile.
+## 3/5: Net likeable. 50th percentile.
+
+<br>
 
 {%	include books/reviews_3.html	%}
 
-<!--     </i></i></td></tr></i></blockquote></td></tr></span></i></blockquote></td></tr></blockquote></i></td></tr></i></i></i></td></tr></i></blockquote></td></tr></i></i></blockquote></td></tr></i></li></i></li></i></li></ul></i></blockquote></blockquote></td></tr></i></i></td></tr> -->
+<!-- </i></i></td></tr></i></blockquote></td></tr></span></i></blockquote></td></tr></blockquote></i></td></tr></i></i></i></td></tr></i></blockquote></td></tr></i></i></blockquote></td></tr></i></li></i></li></i></li></ul></i></blockquote></blockquote></td></tr></i></i></td></tr> -->
 
 
 <a name="two"></a>
 <br><br>
 
-### 2/5: Only for enthusiasts. 25th percentile.
+## 2/5: Only for enthusiasts. 25th percentile.
 
 {%	include books/reviews_2.html	%}
 
@@ -122,7 +130,7 @@ visible:    false
 <a name="one"></a>
 <br><br>
 
-### 1/5: False, ugly, evil, or vapid. 1st percentile.
+## 1/5: False, ugly, evil, or vapid. 1st percentile.
 
 {%	include books/reviews_1.html	%}
 
