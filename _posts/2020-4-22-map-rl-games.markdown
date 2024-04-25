@@ -37,6 +37,7 @@ argument:
 {%	assign gwern = "https://www.gwern.net/Backstop"		%}
 {%	assign baez = "https://arxiv.org/pdf/0903.0340.pdf"		%}
 {%	assign nlab = "https://ncatlab.org/nlab/show/computational+trinitarianism"		%}
+{%	assign bayes = "https://link.aps.org/accepted/10.1103/PhysRevE.99.052140"	%}
 
 
 <style type="text/css">
@@ -229,6 +230,7 @@ What to call the topic in common? 'Distributed optimisation'? '<a href="{{cadam}
 ## See also
 
 * <a href="/conversion">Mapping metaphysics, mathematics, and programming</a>
+* <a href="{{bayes}}">Correspondence between thermodynamics and inference</a> (2019)
 * _<a href="{{cosma}}">In Soviet Russia, Optimisation Problem Solves You</a>_ (2012)
 * _<a href="{{gt}}">An Analysis of Stochastic Game Theory for Multiagent
 Reinforcement Learning</a>_ (2000)
