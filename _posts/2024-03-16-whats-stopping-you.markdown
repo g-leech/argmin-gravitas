@@ -66,7 +66,7 @@ Ask people to share.
 
 While you’re thinking I will list some examples. 
 
-Scientific discovery, art, parenting, happiness, freedom, chill, Enlightenment, fun, safety, doing something genuinely new, retiring early, saving the world, varietymaxxing
+Scientific discovery, art, parenting, happiness, taste, freedom, slack, chill, Enlightenment, fun, safety, doing something genuinely new, Connection, fulfilling my duties, untarnished goodness, neoteny, original seeing, great stories, peace, a nest and place of rest, being a net source, synthesis, recognition, appreciating others, hands in soil, retiring early, saving the world, varietymaxxing
 
 
 
@@ -99,7 +99,7 @@ Never underestimate people's hatred for establishing their own independent set o
 
 "[Value capture](https://philarchive.org/rec/NGUVCH)"? No, not here. This is value relinquishment. Value abandonment.
 
-I call them ladders because they 1) are linear, 2) break up progress into small, unthreatening local gradient steps, 3) provide an unambiguous path forward, 4) are rigid and fixed in place. I also take it that none of you have ever built a ladder.
+I call them ladders because they 1) are linear, 2) break up progress into small, unthreatening local gradient steps, 3) provide an unambiguous path forward, 4) are rigid and fixed in place. I also take it that none of you have ever built a ladder in real life.
 
 <br>
 
@@ -113,7 +113,7 @@ I call them ladders because they 1) are linear, 2) break up progress into small,
 * Academia ladder - how many of you know how tenure works?
 * Nonprofit ladder - grand speeches and unbelievable inefficiency
 * Fine art ladder - 
-* Startup ladder - TKS
+* Startup ladder - TKS, [WC](https://www.startupworldcup.io/)
 * EA ladder
 
 
@@ -122,7 +122,6 @@ The reasons that old institutions so often end up doing unoriginal and fake thin
 Two fundamental reasons that these places lead you away from your own values: 
 * Organisations are complex. [Internal politics distract you](https://thezvi.wordpress.com/2020/05/23/mazes-sequence-summary/). Most of the org is not at the coalface, getting any real feedback at all.
 * Success in the org is a proxy objective for your success. If you optimise a proxy [hard enough](https://www.lesswrong.com/posts/dC7mP5nSwvpL65Qu5/why-the-tails-come-apart), you can [diverge very very far](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/#:~:text=The%20metric%20gap%3A%20In%20almost%20all%20cases%2C%20we%20do%20not%20optimize%20the%20actual%20measure%20of%20success%20we%20care%20about%2C%20but%20rather%20another%20metric%20that%20is%20at%20best%20correlated%20with%20it.) from what you actually want.
-
 
 
 <br><br>
@@ -276,8 +275,8 @@ Reading too much is dangerous past a certain point. IMO “oh apply Cauchy-Schwa
 
 * [Antiwork as ladder](https://ranprieur.com/essays/dropoutcrit.html)
 * [Art as ladder](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762)
-
-
+* What wanting to be in [the establishment](https://srconstantin.github.io/2016/10/20/ra.html) does to you
+* https://leonardtang.me/posts/Life-Gradient-Descent/
 
 
 <br><br>
@@ -322,6 +321,10 @@ Reading too much is dangerous past a certain point. IMO “oh apply Cauchy-Schwa
             <li>vision and originality is not a constant, it requires a constant fight against entropy. The original energy is very <a href="https://samoburja.com/wp-content/uploads/2020/11/Great_Founder_Theory_by_Samo_Burja_2020_Manuscript.pdf">unlikely</a> to get preserved after the founders move on</li>
 <!--  -->
             <li>The introduction of middle management totally <a href="https://thezvi.wordpress.com/2020/05/23/mazes-sequence-summary/">changes the game</a>, creating a "mesa-optimiser" inside the org which is maximising its share of resources instead of the org's official goal</li>
+<!--  -->
+            <li>
+                Even the most powerful orgs on earth are more sensitive to PR and internal PR than you'd think. So <a href="https://www.overcomingbias.com/p/why-is-everyone-so-boringhtml">maybe large organisations are <i>intentionally</i> boring, so as not to bring down mobs, opportunists and investigators.
+            </li>
         </ol>
     </div>
 <!--  -->

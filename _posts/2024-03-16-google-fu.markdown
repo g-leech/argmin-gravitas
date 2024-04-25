@@ -152,7 +152,11 @@ I don't like the AI ones but one day they will come through:<br><br>
 
 <br>
 
-I don't want to demonize Google unduly. They are as much victim as perpetrator. As well as destroying things and botting themselves, they invest large amounts of effort into countering SEO and other people's bots. A [curse of success](https://twitter.com/g_leech_/status/1741436434391679170?t=C-a3k0sfFUDJJ65zwn_XPQ) applies to anyone their size (or even 1% their size). <a href="#fn:6" id="fnref:6">6</a> So far it hasn't been economically viable to attack small players; the small resulting revenue doesn't cover the cost. This will change as AIs make every task cheap.
+I don't want to demonize Google unduly. They are as much victim as perpetrator. As well as destroying things and botting themselves, they invest [large amounts of effort](https://blog.google/products/search/google-search-update-march-2024/) into countering SEO and other people's bots. It doesn't work (see [this](https://www.theregister.com/2022/08/19/google_search_algorithm/?ref=wheresyoured.at) identical effort from 2022). The [curse of success](https://twitter.com/g_leech_/status/1741436434391679170?t=C-a3k0sfFUDJJ65zwn_XPQ) would apply to anyone their size (or even 1% their size). <a href="#fn:6" id="fnref:6">6</a> So far it hasn't been economically viable to attack small players; the small resulting revenue doesn't cover the cost. So they look good because they aren't suffering the same attacks (though there is spillover from the attacks on google, when the internet in general fills up with crap). This will change as AIs make every task cheap.
+
+The defence against the first wave of SEO spam already cost us [a lot](https://www.benlandautaylor.com/p/the-ddos-attack-of-academic-bullshit):
+
+>  in 1999... When you looked for information about how to tell if your bread is rising correctly, or about South Korean cement manufacturing, or the musical influences on Igor Stravinsky, or whatever weird thing, Google would pull up high-quality reference material, or blogs and BBS arguments among disagreeable weirdos who specialized in the subject... A cottage industry arose of finding some search term and churning out low-cost copy on the subject in order to serve ads to people trying to find real information. Specialists in “search engine optimization” popularized their techniques as consultants to big companies, and before long this became standard practice. In their efforts to keep these problems from getting totally out of hand, Google and other search engines weighted search results towards a whitelist of standard lowest-common-denominator websites. The long tail of the internet could no longer be found from a simple search.
 
 <br><br>
 
@@ -185,6 +189,8 @@ One particularly powerful trick which deserves a full description: how to find c
 
 Click `Cited by`! Pulls up papers that liked the paper but crucially also _those who went out of their way to diss it_. By recursing into the critiques of the criticising papers you can became a half-expert in 2 hours.
 
+Moreover, [you can do this](https://ahrefs.com/backlink-checker) for _any web page_.
+
 <br><br>
 
 ## 2. Ads
@@ -193,9 +199,11 @@ In the 90s, everything on the internet was written by a nerd. Often unhinged, of
 
 The world joining in wasn't the main problem: the problem is they brought their money. Eventually, about [a sixth](https://archive.is/ZIRz2) of all retail money. 
 
-That much money and attention is a profound amount of social gravity. It gravitated new, large grey- and black- markets, to prey on them and distort information. You may know the keywords already: "SEO", "Content farms", "Clickbait", "dropshipping", all that. <a href="#fn:4" id="fnref:4">4</a>
+That much money and attention is a profound amount of social gravity. It gravitated new, large grey- and black- markets, to prey on them and distort information. You may know the keywords already: "SEO", "Content farms", "Clickbait", "dropshipping", all that. The SEO industry takes in about [$70bn](https://finance.yahoo.com/news/search-engine-optimization-seo-market-125900367.html#:~:text=Vancouver%2C%20Jan.,latest%20analysis%20by%20Emergen%20Research.) in annual revenue. <a href="#fn:4" id="fnref:4">4</a>
 
-You [are](https://fraudblocker.com/articles/how-to-block-accidental-clicks-that-are-wasting-your-ad-spend) clicking on ads without realising it. So you are learning from ad content without realising it.
+You [are](https://fraudblocker.com/articles/how-to-block-accidental-clicks-that-are-wasting-your-ad-spend) clicking on ads without realising it. So you are learning from ad content without realising it. Don't misunderstand me, the original paranoid "[subliminal](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.4220040204)" theory doesn't [really work](https://meltingasphalt.com/ads-dont-work-that-way/). It's not rewriting your brain, it's rewriting your beliefs about other peoples' brains:
+
+> An ad doesn't need to incept itself all the way into anyone's deep emotional brain; it merely needs to suggest that it might have incepted itself into other people's brains — and then (barring contrary evidence about what people actually believe) it will slowly work its way into consensus reality, to become part of the cultural landscape.
 
 For searches for a product, [about 1/3 of the first page is junk](https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf?ref=404media.co#page=7). _This is not even counting Google's separate Sponsored Links carousel._
 
@@ -263,6 +271,14 @@ This is the one I'm in full alert waiting for. AI bullshit.
 
 <center>
     – <a href="https://www.tumblr.com/blubberquark/745011776908886016/auto-generated-junk-web-sites">Blubberquark</a>
+</center>
+<br><br>
+
+
+> it's not actual spam — it's cheaply-made crap that nevertheless fulfills a need and sort of fits [the] remit. Amazon doesn't have any incentive to get rid of low-quality books that sell for the same reason that it doesn't get rid of its other low-quality items. People aren't looking for the best, they're looking to fulfill a need, even if that need is fulfilled with poorly-constructed crap.
+
+<center>
+    – <a href="https://www.wheresyoured.at/are-we-watching-the-internet-die/?ref=ed-zitrons-wheres-your-ed-at-newsletter">Zitron</a>
 </center>
 <br><br>
 
@@ -341,6 +357,7 @@ Here's the first big moral question, since authors are often deserving. I leave 
 * [Pentesters](https://jaimelightfoot.com/blog/learning-google-fu-google-directives-for-penetration-testers/)
 <!-- * [The curse](https://twitter.com/g_leech_/status/1741436434391679170?t=C-a3k0sfFUDJJ65zwn_XPQ&s=19) -->
 * https://www.honest-broker.com/p/what-happened-to-my-search-engine
+* https://www.wheresyoured.at/are-we-watching-the-internet-die/
 * https://lifehacksthatwork.com/bunch-of-useful-websites-2023-edition/
 * https://engineuring.wordpress.com/
 * https://ahrefs.com/blog/how-do-search-engines-work/
@@ -355,6 +372,7 @@ Here's the first big moral question, since authors are often deserving. I leave 
 * https://www.404media.co/google-search-really-has-gotten-worse-researchers-find/
 * https://1.1.1.1/
 * https://siboehm.com/articles/22/tools-I-like
+* [Academia is also suffering a kind of SEO, with fake scholarship for jobs](https://www.benlandautaylor.com/p/the-ddos-attack-of-academic-bullshit) 
 * [Who likes me?](https://ahrefs.com/backlink-checker)
 * [FOR NOTICING](https://www.sixdegreesofwikipedia.com/?source=William%20James&target=Judea%20Pearl)
 
