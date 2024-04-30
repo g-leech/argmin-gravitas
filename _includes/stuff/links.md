@@ -78,3 +78,8 @@
 {%  assign arjun = "https://arjunpanickssery.substack.com/p/stuff-i-recommend-you-use" %}
 {%  assign ara = "https://arataki.me/material-life-upgrades/" %}
 {%  assign ara2 = "https://arataki.me/consumables/" %}
+{%  assign fo = "https://uk.focused.clinic/"  %}
+{%  assign tre = "https://uk.treated.com/"  %}
+{%  assign tret = "https://www.health.harvard.edu/staying-healthy/do-retinoids-really-reduce-wrinkles"  %}
+{%  assign derm = "https://www.dermatica.co.uk/login"  %}
+
