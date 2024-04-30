@@ -354,6 +354,8 @@ Here's the first big moral question, since authors are often deserving. I leave 
 
 * <a href="/browser">My post about cybersecurity</a> which could use an update. 
 * [Yes half of my classes are derivative of Gwern](https://gwern.net/search), what of it
+* [Schneier warning](https://www.schneier.com/blog/archives/2024/04/the-rise-of-large.html)
+* [Dennett warning](https://www.theatlantic.com/technology/archive/2023/05/problem-counterfeit-people/674075/)
 * [Pentesters](https://jaimelightfoot.com/blog/learning-google-fu-google-directives-for-penetration-testers/)
 <!-- * [The curse](https://twitter.com/g_leech_/status/1741436434391679170?t=C-a3k0sfFUDJJ65zwn_XPQ&s=19) -->
 * https://www.honest-broker.com/p/what-happened-to-my-search-engine

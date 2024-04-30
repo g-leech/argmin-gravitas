@@ -11,15 +11,13 @@ visible:	false
 {%	assign psy = "https://socialsciences.nature.com/posts/reversals-in-psychology"		%}
 {%	assign fo = "https://forrt.org/reversals"		%}
 {%	assign wiki = "https://en.wikipedia.org/wiki/AI_alignment"		%}
-{%	assign la = "" %}
+{%	assign la = "https://www.gatsby.ucl.ac.uk/~laurence/" %}
 
 
 <style>
 	{%	include researches/papers.css	%}
 </style>
-<center>
-	{%	include researches/icons.html	%}
-</center>
+
 
 
 
@@ -27,13 +25,13 @@ I did a PhD in machine learning at Bristol with <a href="{{la}}">Laurence Aitchi
 
 I went in wanting to work on AI safety. True to form, I instead ended up with a huge grab-bag of fields and topics: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, inductive logic, algorithmic fairness and (of course) large language models. Some safety work in there if you squint. But I published enough, so the resulting thesis is _Methods Failing the Data, Data Failing the Methods_.
 
-I was very lucky. It looks like a success on the usual measures (h-index, impact factors, top conferences, first-author pubs, an academic job offer at the end). But I didn't go into it for poxy numbers or a mere job; I went in become a great scientist. Obviously this did not happen. 
+I was very lucky. It looks like a success on the usual bad measures (h-index, impact factors, top conferences, first-author pubs, an academic job offer at the end). But I didn't go into it for poxy numbers or a mere job; I went in become a great scientist. Obviously this did not happen. 
 
 But I did learn how to really read papers, how to write papers, how to present technical ideas clearly, and how to become stubborn and insensitive in the face of latent spaces. Academia is forever demystified for me. My aversion to mathematics has settled down into guarded neutrality. I am unafraid. This was probably worth it.
 
 <br>
 
-_Undying thanks to Kristi, Misha, Laurence, Jan B, Jan K, Dan, Kaveh, ..., Tomas, Matthijs, ..., Juan. Sine qua non._
+_Undying thanks to Kristi Laurence Jan Jan Juan Tomáš Rian Matthijs Misha Daniel Dandy Dan Nandi Simson Mrinank Sören Kaveh Alexander Nic Charlie Maxime Samir Swapnil Miranda Peter Yarin Tyler. Sine qua non._
 
 
 <br>

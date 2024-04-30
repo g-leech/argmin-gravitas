@@ -186,7 +186,7 @@ QJ: But they don't know, man. They don't know. I've come and gone through seven 
 
 <br>
 
-It's uncomfortable to be out here proclaiming about Art vs Pop; <a href="/dreaming">10 years ago</a> I was on the <a href="{{sanneh}}">other side</a>, of the <a href="{{pop}}">poptimists</a> (who said that pop can be good and worth talking about). I welcome us no longer pretending that pop music is bad music; I welcome us no longer doing violence to our own taste.
+It's uncomfortable to proclaim about Art vs Pop; <a href="/dreaming">10</a> years ago I was on the <a href="{{sanneh}}">other side</a>, of the <a href="{{pop}}">poptimists</a> (who said that pop can be good and worth talking about). I welcome us no longer pretending that pop music is bad music; I welcome us no longer doing violence to our own taste.
 
 <center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">selling out is when you exchange cultural capital (appeal to elite tastemakers) for real capital (marketability to the dirty, unwashed masses)</p>&mdash; nihilism disrespecter (@meaning_enjoyer) <a href="https://twitter.com/meaning_enjoyer/status/1664484493443624960?ref_src=twsrc%5Etfw">June 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -213,21 +213,25 @@ Macdonald, quoted above, carries a lot of baggage about the outsized importance 
 
 Product pivot! -->
 
-There's an interesting overlap here with <a href="{{bourdieu}}">class theory</a>. No, honestly: the signalling game is now genre-omnivorous and you distinguish yourself by liking only the "<a href="{{cons}}">consecrated</a>" (high-status) instances of each genre. This is much more fun and varied than the old Classical hauteur, but it also clears the path for commercial machines like TS.
+There's an interesting overlap here with class <a href="{{bourdieu}}">theory</a>. No, honestly: the signalling game is now genre-omnivorous and you distinguish yourself by liking only the "<a href="{{cons}}">consecrated</a>" (high-status) instances of each genre. This is much more fun and varied than the old Classical hauteur, but it also clears the path for commercial machines like TS.
 
+<br>
 
+Let people enjoy things. But don't let people weaken art.
 
 
 <br>
 
-#### The economics of art
-
-Once something costs <a href="{{a}}">$140m</a> to make, certain forms of art become impossible. You cannot take risks, aesthetic or physical. You cannot improvise. You must appeal broadly, probably too broadly to be yourself, unless your soul is already a common denominator. <a href="{{truck}}">Logistics</a>, an iron constraint on vision.
-
-This is why I put up with bad production and sloppy musicianship: the higher the budget, the less likely I am to see any true experiment and idiosyncracy and deviance, which is what I want from art and often from entertainment too. Music is very cheap compared to other artforms (<a href="{{riri}}">barely a million</a> per hit), which is why we still see a modicum of experiment in popular songs.
-
-I think the usual mechanism is that the execs meddle to ensure that they recoup their investment. And committee art is generally inferior because it takes us further from honesty and idiosyncracy. TS has sponsors and <a href="https://www.capitalone.com/about/newsroom/taylor-swift-the-eras-tour-presale">"partners"</a> (investors) to please <a href="#fn:8" id="fnref:8">8</a>.
-
+<div class="accordion">
+    <h3>The economics of art</h3>
+    <div>
+        Once something costs <a href="{{a}}">$140m</a> to make, certain forms of art become impossible. You cannot take risks, aesthetic or physical. You cannot improvise. You must appeal broadly, probably too broadly to be yourself, unless your soul is already a common denominator. <a href="{{truck}}">Logistics</a>, an iron constraint on vision.
+        <br><br>
+        This is why I put up with bad production and sloppy musicianship: the higher the budget, the less likely I am to see any true experiment and idiosyncracy and deviance, which is what I want from art and often from entertainment too. Music is very cheap compared to other artforms (<a href="{{riri}}">barely</a> a million per hit), which is why we still see a modicum of experiment in popular songs.
+        <br><br>
+        I think the usual mechanism is that the execs meddle to ensure that they recoup their investment. And committee art is generally inferior because it takes us further from honesty and idiosyncracy. TS has sponsors and <a href="https://www.capitalone.com/about/newsroom/taylor-swift-the-eras-tour-presale">"partners"</a> (investors) to please <a href="#fn:8" id="fnref:8">8</a>.
+    </div>
+</div>
 <br>
 
 
@@ -264,7 +268,7 @@ Yet another strat: the pretence that TS is uncool, the victim of snobbery, mean 
 
 <br>
 <div class="accordion">
-    <h3>Ramsey against the machine </h3>
+    <h3>Ramsey and the machine </h3>
     <div>
         What's the difference between people delighting in her outfits and new beau and me loving every anecdote I can get about <a href="/frank">Frank Ramsey</a>?<br><br>
         Well, one of them is a human being who lived for himself, and one is a giant mech running a fuzzing attack on your emotions with a human pilot somewhere inside.
@@ -319,9 +323,9 @@ Yet another strat: the pretence that TS is uncool, the victim of snobbery, mean 
 
 The machine is most visible in its precision and <a href="{{tv}}">repetition</a> (Sittenfeld notices it in the exact reproduction, every show, of that giggle from "Shake It Off"). But James Brown was much <a href="{{dick}}">more of a dick</a> about precision, and I don't view him as a lesser artist because of it.
 
-Authenticity is a very stupid idea in a lot of ways. It's ahistorical - e.g. much of the <a href="{{ital}}">Italian menu canon</a> didn't exist 100 years ago, and some are <a href="{{murica}}">American adaptations</a>, but the recipes are now fiercely gatekept as _the_ essence of Italian culture. It prevents innovation. It has made some great artists superstitiously avoid money (or <a href="{{cobain}}">kill themselves</a>) for fear of becoming inauthentic. But look at the dominant alternative!
+Authenticity is a very stupid idea in a lot of ways. It's ahistorical - e.g. much of the Italian <a href="{{ital}}">menu</a> didn't exist 100 years ago, and some are <a class="nolink" href="{{murica}}">American adaptations</a>, but the recipes are now fiercely gatekept as _the_ essence of Italian culture. It prevents innovation. It has made some great artists superstitiously avoid money (or <a href="{{cobain}}">kill themselves</a>) for fear of becoming inauthentic. But look at the dominant alternative!
 
-(One difference between Shakespeare writing about Veronese gang kids and TS writing about high school kids is that Shakey wasn't pretending to be a Veronese gang kid. I can't improve on <a href="{{vox}}">this analysis</a> of how the TS image is engineered.)
+(One difference between Shakespeare writing about Veronese gang kids and TS writing about high school kids is that Shakey wasn't pretending to be a Veronese gang kid. I can't improve on <a href="{{vox}}">this</a> analysis of how TS is engineered.)
 
 The most interesting things about Swift were harder to discover: she's a sort of <a href="{{hs}}">high school dropout</a>; she started her career at 13 as a genuine social misfit; she remains a massive hustler who doesn't seem to regret her child-star path, and who outdoes any cupidinous rapper re: stacks <a href="#fn:5" id="fnref:5">5</a>. Her re-recording her back catalogue is simultaneously a highly original act of independence and profiteering laziness. (Throughout this piece I've had to check myself whenever I go to say that TS is <i>only</i> a scary money machine. Scary money machines do not make this much money!)
 
@@ -495,6 +499,7 @@ With that same big loud opinion<br>
 But nobody's listening<br>
 Washed up and ranting about the same old bitter things
 
+<br>
 <br>
 <br>
 
