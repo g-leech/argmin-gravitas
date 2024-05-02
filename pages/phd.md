@@ -12,7 +12,7 @@ visible:	false
 {%	assign fo = "https://forrt.org/reversals"		%}
 {%	assign wiki = "https://en.wikipedia.org/wiki/AI_alignment"		%}
 {%	assign la = "https://www.gatsby.ucl.ac.uk/~laurence/" %}
-
+{%	assign tree = "https://neurotree.org/neurotree/tree.php?pid=933951&pnodecount=12&cnodecount=2"	%}
 
 <style>
 	{%	include researches/papers.css	%}
@@ -46,7 +46,7 @@ _Undying thanks to Kristi Laurence Jan Jan Juan Tomáš Rian Matthijs Misha Dani
 * <a href="/csml">Thoughts on the field of machine learning</a>
 * <a href="/nograd">Against PhDs</a>
 * <a href="/diary">phdiary</a>
-
+* <a href="{{tree}}">My academic family</a>. Darwin is my great^10th grandfather.
 
 <br>
 
