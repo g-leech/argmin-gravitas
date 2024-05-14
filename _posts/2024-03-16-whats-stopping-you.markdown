@@ -99,7 +99,7 @@ Never underestimate people's hatred for establishing their own independent set o
 
 "[Value capture](https://philarchive.org/rec/NGUVCH)"? No, not here. This is value relinquishment. Value abandonment.
 
-I call them ladders because they 1) are linear, 2) break up progress into small, unthreatening local gradient steps, 3) provide an unambiguous path forward, 4) are rigid and fixed in place. I also take it that none of you have ever built a ladder in real life.
+I call them ladders because they 1) are linear, 2) break up life progress into small, unthreatening local gradient steps, 3) provide an unambiguous path forward, 4) are rigid and fixed in place. <a href="#fn:2" id="fnref:2">2</a>
 
 <br>
 
@@ -383,9 +383,12 @@ The world is too high-dimensional to be explored easily, for EMH to apply.
 <ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
-        <a href="https://www.ethanrosenthal.com/2024/01/14/big-company-bachelors/">Ethan Rosenthal</a>:
-        <blockquote>On first pass, working at a big company was just so easy compared to startups. I hadn’t realized how much I had to manually do or figure out en route while working at a startup. From onboarding to offboarding, many processes at a big company are a well-oiled machine. There are entire teams of people dedicated to making these processes smooth, and there is a goldmine of go/links, historical slack conversations, and wiki docs to help you along the way. In terms of my actual job, other people had already paved the path for all of the early Data pain points: non-technical stakeholders already appreciated the value of data; key metrics had already been established; a data warehouse existed; there were Looker dashboards aplenty. 
+        <a href="https://www.ethanrosenthal.com/2024/01/14/big-company-bachelors/">Ethan Rosenthal</a>:<br>
+        <blockquote>On first pass, working at a big company was just so easy compared to startups. I hadn’t realized how much I had to manually do or figure out en route while working at a startup. From onboarding to offboarding, many processes at a big company are a well-oiled machine. There are entire teams of people dedicated to making these processes smooth, and there is a goldmine of go/links, historical slack conversations, and wiki docs to help you along the way.<br><br> In terms of my actual job, other people had already paved the path for all of the early Data pain points: non-technical stakeholders already appreciated the value of data; key metrics had already been established; a data warehouse existed; there were Looker dashboards aplenty. 
         On top of this, the work/life balance was very reasonable, the business was significantly less volatile than in startups, and I enjoyed a step change in my total compensation.</blockquote>
+    </li>
+    <li class="footnote" id="fn:2">
+        I also take it that none of you have ever built a ladder in real life, that your choice of ladders has been limited to those built by others.
     </li>
 </ol>
 

@@ -147,7 +147,7 @@ Think tanks are the usual way to be a full-time intellectual outside academia. B
 * <a href="{{stock}}">Stock and flow</a> (2010)
 * This has something to do with <a href="{{gard1}}">Digital</a> <a href="{{gard}}">gardens</a>, but those are just an intermediate public phase between raw notes and final essays. Alive though.
 * <a href="{{rot}}">Link rot</a>
-
+* https://cheapskatesguide.org/articles/personal-website-hunting.html
 
 <br><br>
 

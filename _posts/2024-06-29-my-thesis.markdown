@@ -21,9 +21,49 @@ wordcount:
 ---
 
 
-- A thesis is definitionally a __unified__ contribution to knowledge. Something new, several pieces of knowledge all pointing in the same direction. I am not focussed enough to do this. It's also a big claim. I obviously had to retrodict a single big claim, and surely most people do the same. 
+<!-- https://emmabluemke.com/phd-thesis -->
+
+
+A thesis is nominally a __unified__ contribution to knowledge. Something new, several pieces of knowledge all pointing in the same direction. I am not focussed enough to do this. It's also a big claim. I obviously had to retrodict a single big claim, and surely most people do the same. 
         <!-- - [[concocting a coherent PhD (2023)]] -->
 
+Here's an attempt to explain plainly what I actually did. (You can also click "The Point" on the individual papers <a href="/researches">here</a>.)
 
 
-You can also click "The Point" on the entries <a href="/researches">here</a>
+## Official conclusions
+
+I bring lessons from metascience into Bayesian practice and into broader machine learning practice. 
+I also attempt to compare evidential standards in these fields.
+
+
+## Unofficial conclusions
+
+* It's surprisingly easy to do real work in fields you have zero background in. This is partly because stats now reigns imperial in roughly all sciences but also because many fields are in some sense methodologically shallow and content deep.
+
+* All solutions to bad science have their own vulnerabilities and/or high costs. This war will never end. 
+
+* It's pretty fishy how few retractions there are in machine learning. (In every field, but especially machine learning.)
+
+* We don't win on average (the average paper is very bad and will always be fairly bad) but as long as our filtering mechanism allows us to continue to find the best 1% which actually progress us, we'll be okay. This filter is also under strain.
+
+* [[ML ate AI]]  [[stat ML ate ML]]  [[ML ate stats]] 
+
+<!-- Here's the kind of thing that one might do if one was able to try harder https://arxiv.org/abs/2403.07949 -->
+
+
+
+
+A real phd. Discoveries. You know, something like
+
+<img src="/img/riechers.png" />
+
+
+The Point
+
+Discoveries 
+- mandate method doesn't work (hundreds of papers)
+
+Negative results
+- ILP
+- GJOpen
+- EPJ

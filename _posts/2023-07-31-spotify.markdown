@@ -140,13 +140,13 @@ It is completely unsurprising that Spotify <a href="{{wave}}">often</a> <a href=
 
 This is the richest dataset in the world about music's functions, about trends, about curation and creativity. It's like getting a partial diary for 500 million people. But it's probably not good to use it for this, given that it _feels_ private to most users. 
 
-Still, you could use their historical data (pre-2014) to see the effect of algorithms on listening patterns and so the emotional life of a whole society. The emanations of the [echo nest](https://en.wikipedia.org/wiki/The_Echo_Nest).
+Still, you could use their historical data (pre-2014) as a baseline to see the effect of algorithms on listening patterns and so the emotional life of a whole society. The emanations of the [echo nest](https://en.wikipedia.org/wiki/The_Echo_Nest).
 
 <br>
 
 ### Self-serving paean to curators
 
-Musical culture is now too large for anyone to even survey, let alone master - even if we window to contemporary musical culture alone, ignoring the past completely. We needed <a href="{{xgau}}">Christgau</a> (and <a href="{{scar}}">Scaruffi</a>, and <a href="{{hull}}">Hull</a> and <a href="{{rockwell}}">Rockwell</a>), to find jewels in the dross and more importantly structure in the great noise. But the job is much harder now.
+Musical culture is now too large for anyone to even survey, let alone master - even if we window to contemporary musical culture alone, ignoring the past completely. We needed <a href="{{xgau}}">Christgau</a> (and <a href="{{scar}}">Scaruffi</a>, and <a href="{{hull}}">Hull</a> and <a href="{{prin}}">Prindle</a> and <a href="{{rockwell}}">Rockwell</a>), to find jewels in the dross and more importantly structure in the great noise. But the job is much harder now.
 
 Frankly we need critical service more than we need another great band. <a href="#fn:4" id="fnref:4">4</a> Something is lost without curation and interpretation: we can't understand. This post is me doing my bit on the third order: thinking about people who think about music. 
 

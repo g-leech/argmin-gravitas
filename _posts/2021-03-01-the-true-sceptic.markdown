@@ -178,6 +178,12 @@ Philosophy is just evidence like any other kind of inquiry. There's a limit on h
 
 <br>
 
+
+> A <em>skeptical</em> solution of a philosophical problem begins...by conceding that the skeptic's negative assertions are unanswerable.<br />Nevertheless our ordinary practice or belief is justified because -- contrary appearances notwithstanding -- it need not require the justification the sceptic has shown to be untenable.<br />And much of the value of the sceptical argument consists precisely in the fact that he has shown that an ordinary practice, if it is to be defended at all, cannot be defended in a certain way.
+
+- Saul Kripke"
+
+
 ---
 
 <br>

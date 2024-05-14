@@ -40,10 +40,16 @@ wordcount:
         - Adv top
     - 1700 coding, writing papers, rebuttals
         - Response doc for the masks paper was 42 pages
-    - 400 hours writing thesis
+    - [32 + 62 + post April 21st 2024] hours writing thesis
     - 500 hours meetings, advisor
     - 500 hours reading
 
+- 46 months
+    - not counting the 10 month sabbatical
+    - Where does the time go?
+        - I didn't really keep a lab book like you're supposed to (I didn't really work hard enough to merit one. But I have a diary)
+        - This is mostly for myself, an attempt to reduce the dimensionality of this terrible, wonderful thing while it is still fresh. But if you're about to start you might benefit from seeing the long stretches of procrastination, incomprehension, and just how much support I needed to get through
+        - It is partially censored
 
 
 
@@ -58,6 +64,7 @@ wordcount:
     - N coauthors
     - completed n textbooks (all exercises)
     - $100k funding, among the highest in the country
+    - number of difficult books: 
 - Opportunity cost
     - I was working in London tech. I couldn't have continued because I was bored out, but if I had found something roughly as remunerative my earnings would have been around £((  (65000*1.15^1 + 65000*1.15^2 + 65000*1.15^3 + 65000*1.15^4) )), so I lost about $300k
     - 
@@ -83,3 +90,13 @@ wordcount:
 - [[what does a research advisor do?]]
 - [[free shit with an institutional login]]
 
+
+## Humans
+
+I almost did a experiment with humans, standard HCI experimental economics blah
+
+
+
+## Time
+
+My reviewer advised that I budget 6 months for write up time. My friend did his in 7 days. 

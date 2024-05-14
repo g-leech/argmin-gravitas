@@ -38,9 +38,9 @@ I would greatly appreciate any answers you could provide.
 
 <br>
 
-I don't think any algorithm exists that can make verdicts on its own. And LGFO isn't intended to decide court cases. Instead it uses data from courts as a way of working out how to balance the many kinds of fairness, for any classifier which is making predictions about social input.
+I don't think any current algorithm can make verdicts on its own. And LGFO isn't intended to decide court cases - instead it uses data from courts as a way of working out how to balance the many kinds of fairness, for _any_ classifier which is making predictions about social input.
 
-You might have heard that there are lots of ways of putting fairness into mathematical form, and that <a href="https://arxiv.org/abs/1609.05807">many of them contradict each other</a>. You literally cannot satisfy them all. How then do we decide how unfair something is? How do we decide how much each type of fairness counts? 
+You might have heard that there are lots of ways of putting fairness into mathematical form, and that <a href="https://arxiv.org/abs/1609.05807">many of them contradict each other</a>. You literally cannot satisfy them all. How then do we decide how unfair something is? Given that we can't maximise them all, how do we decide how much each type of fairness counts? 
 
 Our system solves this as follows:
 
@@ -53,7 +53,9 @@ It does this by assuming that the amount of money awarded in a case scales close
 Now, your questions:
 
 **1) Is it possible to apply the LGFO algorithm to determining verdicts in court cases?**<br>
-It gives you a general classifier, so nothing technically stops you applying it to verdicts, or to recividism predictions. But it wasn't developed for this and would only accept simple numerical inputs (like the defendant's age). I wouldn't use it in courts in its current form: it's like a prototype which would need a lot of work to customise for justice applications, because the stakes are so high and a bad system could really harm people.
+It gives you a general classifier, so nothing technically stops you applying it to verdicts or recividism prediction. But it wasn't developed for this and would only accept simple numerical inputs (like the defendant's age). I wouldn't use it in courts in its current form: it's like a prototype which would need a lot of work to customise for justice applications, because the stakes are so high and a bad system could really harm people.
+
+Again, what we're doing is using courts for ML rather than ML for courts.
 
 **2) How were you able to bypass potential bias when creating this algorithm?**<br>
 All systems are biased, in the weak sense that you can't satisfy all fairness measures at the same time. The advantage of LGFO is that it limits the bias to be only as severe as the legal system it uses for input, in particular the civil tort system of your country. The bias of most other systems is not so limited: the user makes all kinds of decisions (e.g. the definition of fairness, the weight to give each definition, the thresholds at which the classifier flips) which could be much more biased. This isn't perfect, but at least the law is a partially democratic process. It's hard to see how to do better than this.

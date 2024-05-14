@@ -27,7 +27,7 @@ where:      "Taipei"
 
 {%  assign luu = "https://danluu.com/seo-spam/"    %}
 {%  assign yahoo = "https://gist.github.com/artlung/74184de3c381966a14f97a8605d17572"   %}
-{%  assign dan = "https://www.position2.com/blog/jerry-davids-guide-world-wide-web-shuttered/"    %}
+{%  assign david = "https://www.position2.com/blog/jerry-davids-guide-world-wide-web-shuttered/"    %}
 {%  assign gio = "https://www.honest-broker.com/p/what-happened-to-my-search-engine"    %}
 <!--  -->
 
@@ -75,7 +75,9 @@ Hard for you to see, because you don't know how good it used to be.
     <div>
         Imagine the simplest possible search engine
         <br><br>
-        Well, ok sure it's <a href="{{david}}">one guy</a> manually adding sites. (<a href="{{yahoo}}">Here</a> is the code of the ~first search engine, which became Yahoo!) But think bigger:
+        Well, ok, sure that would be <a href="{{david}}">one guy</a> manually adding sites. (<a href="{{yahoo}}">Here</a> is the code of the ~first search engine, which became Yahoo!)
+        <br><br>
+        But think bigger:
         <ol>
             <li>Go to the notional central index of all links on the internet <a href="#fn:2" id="fnref:2">2</a></li>
             <li>Store all documents</li>
@@ -93,7 +95,7 @@ Hard for you to see, because you don't know how good it used to be.
                 <li>There actually is no central register of all websites. ICANN only gives out IP ranges. Root servers are autonomous</li>
                 <li>So send trillions of requests every day to find new sites / check if anything changed</li>
             </ul><br>
-        <li>Indexing</li>. Throw it all into one data structure so you can find it again. <a href="#fn:7" id="fnref:7">7</a><br><br><br>
+        <li>Indexing</li> Throw it all into one data structure so you can find it again. <a href="#fn:7" id="fnref:7">7</a><br><br><br>
         <li>Serving
             <ul>
                 <li>An autocompleter to spellcheck / slightly ruin your query</li>
@@ -152,7 +154,9 @@ I don't like the AI ones but one day they will come through:<br><br>
 
 <br>
 
-I don't want to demonize Google unduly. They are as much victim as perpetrator. As well as destroying things and botting themselves, they invest [large amounts of effort](https://blog.google/products/search/google-search-update-march-2024/) into countering SEO and other people's bots. It doesn't work (see [this](https://www.theregister.com/2022/08/19/google_search_algorithm/?ref=wheresyoured.at) identical effort from 2022). The [curse of success](https://twitter.com/g_leech_/status/1741436434391679170?t=C-a3k0sfFUDJJ65zwn_XPQ) would apply to anyone their size (or even 1% their size). <a href="#fn:6" id="fnref:6">6</a> So far it hasn't been economically viable to attack small players; the small resulting revenue doesn't cover the cost. So they look good because they aren't suffering the same attacks (though there is spillover from the attacks on google, when the internet in general fills up with crap). This will change as AIs make every task cheap.
+I don't want to demonize Google unduly. They are as much victim as perpetrator. As well as destroying things and botting themselves, they invest [large amounts of effort](https://blog.google/products/search/google-search-update-march-2024/) into countering SEO and other people's bots. It doesn't work (see [this](https://www.theregister.com/2022/08/19/google_search_algorithm/?ref=wheresyoured.at) identical effort from 2022). 
+
+The [curse of success](https://twitter.com/g_leech_/status/1741436434391679170?t=C-a3k0sfFUDJJ65zwn_XPQ) would apply to anyone their size (or even 1% their size). <a href="#fn:6" id="fnref:6">6</a> So far it hasn't been economically viable to attack small players; the small resulting revenue doesn't cover the cost. So they look good because they aren't suffering the same attacks (though there is spillover from the attacks on google, when the internet in general fills up with crap). This will change as AIs make every task cheap.
 
 The defence against the first wave of SEO spam already cost us [a lot](https://www.benlandautaylor.com/p/the-ddos-attack-of-academic-bullshit):
 

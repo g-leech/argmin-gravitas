@@ -25,7 +25,9 @@ started:    2015
 
 <img src="/img/Olduvai.jpg" />
 
-<div align="center"><small>Olduvai Gorge (2009), by <a href="{{feans}}">Noel Feans</a></small></div><br>
+<div align="center">
+    <small>Olduvai Gorge (2009), by <a href="{{feans}}">Noel Feans</a></small>
+</div><br>
 
 
 
@@ -38,6 +40,8 @@ However, some anthropologists I've talked to declaim the title of 'science' enti
 > Until now, the association’s long-range plan was “to advance anthropology as the science that studies humankind in all its aspects.” The executive board revised this last month to say, “The purposes of the association shall be to advance public understanding of humankind in all its aspects.” This is followed by a list of anthropological subdisciplines that includes political research. The word “science” has been excised from two other places in the revised statement...
 
 <a href="#fn:1" id="fnref:1">1</a>
+
+<br>
 
 To put it lightly, this is counterproductive. 
 
