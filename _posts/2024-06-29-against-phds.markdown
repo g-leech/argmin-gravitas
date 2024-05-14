@@ -21,7 +21,7 @@ wordcount:
 ---
 
 
-> COWEN: Do you think of it as an __advantage__ that you don’t have a PhD?
+<!-- > COWEN: Do you think of it as an __advantage__ that you don’t have a PhD?
 > MEAD: __Huge__ advantage.
 > COWEN: How would you describe that advantage?
 > MEAD: I don’t really believe in disciplines. I see connections between things. I start from reality. I’m not trying to be anti-intellectual here. You need ideas to help you organize your perceptions of reality. But I think there’s a tendency in a lot of social science disciplines — you start from a bunch of really smart, engaged people who have been thinking about a set of questions and say, “We’ll do a lot better if we stop randomly thinking about everything that pops up and try, in some systematic way, to organize our thinking of this.”
@@ -30,6 +30,13 @@ wordcount:
 
 https://conversationswithtyler.com/episodes/walter-russell-mead/
 
+ -->
+ 
+> “No insults, please!" said Pugg. "For I am not your usual uncouth pirate, but refined and with a Ph.D., and therefore extremely high-strung.”
+― Stanisław Lem,
+
+
+https://eiko-fried.com/antidotes-to-cynicism-creep/#:~:text=(2)%20More%20broadly%2C%20for,efficient%20antidote%20against%20cynicism%20creep.
 
 
 \#winning
@@ -57,10 +64,19 @@ I think this is only true about 40% of the time
 
 https://elevanth.org/blog/2023/06/14/some-dumpster-fires-for-your-consideration/
 
+
+
+>  you and your supervisor do not have aligned objectives with regard to project risk. For them, you are just one bet in a portfolio, and they can tolerate a project not really working out that well. For you, this is what you will be working on for the next three or four years. There are a range of other misalignments between yourself, your supervisors, and your department.
+
+https://athowes.github.io/posts/2024-04-01-phd-advice/
+
+
 <br><br>
 
 
 # Pain
+
+> In hardly any other profession do neurotic problems incapacitate so many people such a large part of the time. I would guess that such mental health problems add an average of a year to the Ph.D. program, mostly in the dissertation ‘hang-up.’ Even among those who get a research degree and are recommended for scholarly promise to leading universities, a very large percentage of assistant professors fail to do enough to justify keeping them on.
 
 
 ## Dropout rates
@@ -204,6 +220,12 @@ Thesis writing is oddly gruelling
 <a name="rogue"></a>
 
 
+
+I hesitate to call doing a PhD 'ambitious' - for many people it is instead vitiating and cowardly. But it is sink or swim, and that can be what you need. One way to get dunked.
+
+https://twitter.com/nabeelqu/status/1781021084948828259
+
+
 ## Going Rogue
 - covid
 - publishing covers all sins
@@ -224,9 +246,43 @@ Thesis writing is oddly gruelling
 
 
 
+## Against Academia in general
+
+what does academia demand?
+
+- Lots of time
+    - No family helps
+- No geographical ties
+- Collabs
+    - Very smart friends / subaltern student pipeline
+- Some intelligence
+- Like reading
+- Writing
+- Extreme comfort with uncertainty
+- Exquisite sense of trends, PR strategy
+- Incredible stomach for paperwork and bureaucracy
+
+
+> UK academics on research-only contracts spend just over a third of their time doing research, a report has revealed... The figure is much lower for academics who teach alongside their research with just 14 per cent of their working hours being spent conducting research activities
+
+<!-- https://www.researchprofessionalnews.com/rr-news-uk-universities-2022-8-uk-academics-spend-only-third-of-their-time-doing-research/ -->
+
 <br>
 <center>
+    <img width="60%" src="/img/phd/getrich.png" />
     <img width="60%" src="/img/phd/harambe.png" />
 </center>
 
 <br>
+
+
+https://www.goodreads.com/review/show/3025203866
+
+## See also
+
+* Brian Timar (2019), [Mimetic](https://www.briantimar.com/notes/mimetic/mimetic)
+* Philip Guo (2012), [The PhD Grind](https://cacm.acm.org/blogcacm/the-ph-d-grind-main-grinds-and-side-grinds/)
+* Ethan Rosenthal (2019), https://www.ethanrosenthal.com/2019/02/12/liberal-physics-phd/
+
+https://www.yuan-meng.com/posts/nothingness/
+https://nautil.us/what-does-any-of-this-have-to-do-with-physics-236309/

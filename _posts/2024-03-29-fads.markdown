@@ -1,0 +1,50 @@
+---
+layout:     post
+title:      "My faddishness"
+baselink:   /fads
+permalink:  /fads
+date:       2024-03-21  <!--site.time-->
+author:     Gavin
+
+img:        /img/
+published:  false
+visible:    1
+quality:    
+emotion:    
+importance: 
+
+summary:    
+confidence: 
+categories: 
+warnings:   
+wordcount:      
+where:      "London"
+---
+
+I recently noticed something worrying: I have held many intellectual positions in my life - and the time I took them up was often near their peak of salience and buzziness.
+
+* Atheism (2006)
+* Socialism (2009)
+* Feminism (2013)
+* Longtermism (2021) 
+
+<br> 
+
+This doesn't strictly disqualify me, for reasons I model below. But it does suggest that I am not doing enough from first principles.
+
+<br> 
+
+## Trying on hats
+
+
+
+## Endogenous model of hearing arguments
+
+
+
+## Also 
+
+* Ahead of the curve on vegetarianism (2006). First vegan in my entire extended social circle.
+* Slightly ahead of the curve on AI (2016)
+* Bayes
+* Anti-woke (2014)

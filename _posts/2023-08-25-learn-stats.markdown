@@ -106,6 +106,7 @@ ML is <a href="{{breiman}}">sort of</a> <a href="{{ds}}">in</a> <a href="{{gel2}
 * [Basic sins](https://theconversation.com/the-seven-deadly-sins-of-statistical-misinterpretation-and-how-to-avoid-them-74306)
 * [Nice visual guide](https://www.stuartmcnaylor.com/ten_stats_mistakes/)
 * [Book of Stats Proofs](https://statproofbook.github.io/I/ToC)
+* [Learn by teaching](https://avehtari.github.io/ActiveStatistics/index.html)
 
 <br><br>
 

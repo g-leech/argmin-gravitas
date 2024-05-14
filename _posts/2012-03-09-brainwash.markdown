@@ -216,6 +216,6 @@ Two problems with treating it as an end:
 
 * <a href="{{heath}}">The great Joseph Heath</a>
 * [Mako Shen](https://deaexmachinus.substack.com/p/machines-society-16-mass-sleeping) on dream arguments, false consciousness, and the nervous energy currently called woke.
-
+* https://www.newyorker.com/magazine/2024/04/22/dont-believe-what-theyre-telling-you-about-misinformation
 
 <br><br>

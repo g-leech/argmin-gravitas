@@ -239,6 +239,7 @@ Reinforcement Learning</a>_ (2000)
 * _<a href="{{dmdp}}">Decentralized partially-observable Markov decision process</a>_
 * _<a href="{{comp}}">Stochastic Recursive Variance Reduction for... Compositional Optimization</a>_ (2020)
 * I just found <a href="{{gwern}}">this superior treatment</a> by Gwern.
+* https://wiki.haskell.org/Curry-Howard-Lambek_correspondence
 * <a href="{{nlab}}">Proofs as programs, propositions as types, relational types as categories</a>
 * _<a href="{{baez}}">Physics, Topology, Logic and Computation: A Rosetta Stone</a>_ (2009)
 <br><br>

@@ -43,6 +43,11 @@ Dynasties, stationary bandits. States. "the coldest of all cold monsters"
 
 At first, we could only steal.
 
+Agriculture (literally pilfering, being their legs). Coevolution
+https://twitter.com/andreamatranga/status/1590076609306165249
+
+Artificial selection
+Whole plasmids
 
 ## Random search
 

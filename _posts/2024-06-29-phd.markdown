@@ -34,6 +34,8 @@ wordcount:
 
 <br>
 
+<!-- https://turntrout.com/Essays/Looking-back-on-my-alignment-PhD -->
+
 > The trouble with having a Duty you cannot bring yourself to fulfill, one with flexible hours and flexible oversight, is that it leeches into every moment of your life, casting a quiet pall over the whole of it. I should do something productive, you think—but sitting right on top of the “something productive” list, absent urgent tasks with pressing deadlines, is That. There are no weekends, no evenings, no moments of contentment in knowing you have done all you need to do.
 
 <center>– <a href="{{tracing}}">Tracing Woodgrains</a></center>
@@ -64,7 +66,7 @@ wordcount:
 
     - In the meantime I started a small company, got a minor academic post at a friend’s lab, travelled the world, helped build a beautiful community, advised the UK government, and did dozens of cool side projects, some of which ended up looking like a PhD. This was very lucky.<br><br>
 
-- Little about the process looks like how you'd want your epistemic authorities to be picked. There is no accuracy test, calibration. Explanation.
+    - i had zero disciplinary warnings. this suggests that i could have gone further than i did
 
 - I went in wanting to work on AI safety. True to form, I instead ended up with a huge grab-bag: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, inductive logic, algorithmic fairness and (of course) large language models. Some safety in there, if you squint. But I published enough, so I finished.
 
@@ -106,9 +108,13 @@ What's the rate of research projects failing?<br>
 ## <a href="/diary">phdiary</a>
 
 
-This export leaves the rest of this post to undiluted personal venting.
+This leaves the rest of this post to undiluted personal venting.
 
-<br>
+<br><br>
+
+<img src="/img/phd/mit.jpeg" />
+
+<br><br>
 
 ## Me me me
 
@@ -151,7 +157,8 @@ I am extremely proud of my papers. I wanted to be a researcher very badly. When 
 
 # What I wanted to get
 
-* 8 heavy textbooks
+* Mathematical maturity
+* 8 heavy textbooks (if not now, when?)
 
 - ## [[Project: Grokkage]]
 - ## + Legible output:
@@ -213,6 +220,9 @@ I am extremely proud of my papers. I wanted to be a researcher very badly. When 
 * I replaced my aversion to mathematical work with guarded neutrality. This will end up being worth $1m.
 * I have lost all respect for academic publishing.
 * I have lost most of my respect for the median statistical model.
+
+"deconstructing mental defensiveness through boot camp of merciless criticism"
+
 
 Thrills
 
@@ -383,6 +393,14 @@ My current guess is that the set of people who should do a PhD is exhausted by
     - Maybe a short stint for very arrogant people, to knock the stuffing out 
 
 
+
+<!-- 1. Do you want to go into academia? Yes $\to$ PhD; No $\to$ 2. -->
+<!-- 2. Will your research goals counterfactually benefit from having personal academic freedom with what to work on and/or what to say about it publicly? Yes $\to$ PhD; No $\to$ 3. -->
+<!-- 3. Do you have any particular interest in some research group or working situation? Yes $\to$ pursue that; No $\to$ 4.  -->
+<!-- 4. Do you prefer flexibility or money? Flexibility $\to$ do a PhD by default, learn stuff, and consider mastering/dropping out; 
+        Money $\to$ Industry. -->
+
+
 Sink or swim. I did both
     - The Scylla of loneliness and floundering and the Charybdis of mandatory training, compelled speech, and bureaucratic pseudosocial
     - Covid saved me
@@ -415,7 +433,29 @@ Sink or swim. I did both
 
 
 
+
+> There are few sources of energy so powerful as a procrastinating grad student.Paul Graham (“How to Start a Startup”)
+
+
+
+## The best phd experiences
+
+https://www.math.uchicago.edu/~farb/papers/thurston.pdf
+
 <br><br>
+
+
+I've split out my warnings about grad school into <a href="/nograd">a separate post</a>. But I did become stronger and it did bless me with rare and savoury experiences. Not many people get to see how Science and Neurips actually work. Not many people have the sheer delight of realising that the NAS means very little.
+
+I got to see an editor of the Proceedings of the mighty American National Academy of Sciences feel embarrassed about how terrible a fancy academician's review of my work was
+
+> I realize that Referee 1's comments are non-standard, and include a number of idiosyncratic excursions that you may or may not choose to address
+
+I got to see how governments rely on academics.
+
+
+
+
 
 
 > Productive stupidity means being ignorant by choice. Focusing on important questions puts us in the awkward position of being ignorant. One of the beautiful things about science is that it allows us to bumble along, getting it wrong time after time, and feel perfectly fine as long as we learn something each time. No doubt, this can be difficult for students who are accustomed to getting the answers right. No doubt, reasonable levels of confidence and emotional resilience help... The more comfortable we become with being stupid, the deeper we will wade into the unknown and the more likely we are to make big discoveries.

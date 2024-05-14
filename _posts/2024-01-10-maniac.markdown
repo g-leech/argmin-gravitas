@@ -13,7 +13,7 @@ quality:    6
 emotion:    5
 importance: 9
 
-summary:    A good attempt to understand the most important theme of the last 80 years
+summary:    A good attempt at the most important theme of the last 80 years
 confidence: 90% on AI bits.
 categories: AI, xrisk, computers, science, maths, greats
 warnings:   War crimes, crimes against humanity, rationalised mental illness
