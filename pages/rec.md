@@ -18,6 +18,8 @@ visible:	true
 {%  assign x = "https://open.spotify.com/playlist/3qL3GTAJGyjdQKAWPtuhHu?si=f9b0b84f442b4024"   %}
 {%  assign resto = "https://app.beliapp.com/lists/gleech"   %}
 {%  assign ragg = "https://open.spotify.com/playlist/1uTm7KJ9U2BmgrcgDyWPm0?si=17d0ecdf89224d06"   %}
+{%  assign landfill = "https://open.spotify.com/playlist/56qHq7Mp5Pzs9QpbilOd2K?si=f6e9a4dc7f424efd" %}
+
 
 <br>
 
@@ -25,7 +27,7 @@ visible:	true
 
 * <a href="{{album}}">Albums</a><br><br>
 * <a href="{{spot}}">Playlists</a><br><br>
-* <a href="/punk">Punk</a>, <a href="{{j}}">jazz</a>, <a href="/country">country</a>, <a href="{{hh}}">hip-hop</a>, <a href="{{leccy}}">electronic</a>, <a href="{{x}}">☧mas</a>, <a href="{{ragg}}">reggae</a>, <a href="/nation-sound">nations</a>
+* <a href="/punk">Punk</a>, <a href="{{j}}">jazz</a>, <a href="/country">country</a>, <a href="{{hh}}">hip-hop</a>, <a href="{{leccy}}">electronic</a>, <a href="{{landfill}}">indie</a>, <a href="{{x}}">☧mas</a>, <a href="{{ragg}}">reggae</a>, <a href="/nation-sound">nations</a>
 
 <br>
 
