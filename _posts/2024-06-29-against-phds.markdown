@@ -31,7 +31,7 @@ wordcount:
 https://conversationswithtyler.com/episodes/walter-russell-mead/
 
  -->
- 
+
 > “No insults, please!" said Pugg. "For I am not your usual uncouth pirate, but refined and with a Ph.D., and therefore extremely high-strung.”
 ― Stanisław Lem,
 
@@ -274,6 +274,9 @@ what does academia demand?
 </center>
 
 <br>
+
+
+https://twitter.com/opinonhaver/status/1791158220846960912
 
 
 https://www.goodreads.com/review/show/3025203866
