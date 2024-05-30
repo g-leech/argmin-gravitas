@@ -100,3 +100,4 @@ I would have done pretty well in an information studies or some social science p
 ## See also
 
 * http://www.cs.umd.edu/~oleary/gradstudy/
+* https://www.lesswrong.com/posts/AtfQFj8umeyBBkkxa/a-bird-s-eye-view-of-the-ml-field-pragmatic-ai-safety-2
