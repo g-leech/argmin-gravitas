@@ -75,6 +75,7 @@ Landing on a comet and returning with 6 burns: <a href="{{osiris}}">OSIRIS-REX</
 
 8th Sep 2016 launch to 3 December 2018 arrival, vs predicted November 23rd 2018. a week off!
 Very likely to land within hours of predicted end 24 September 2023, 15:00 UTC  
+
 <br><br><br>
 
 <h4>Concision</h4>
@@ -131,6 +132,7 @@ University maths, physics, engineering are looking under the streetlight
 <img width="60%" src="/img/mathmeme2.jpg" /><br>
 <img src="/img/mathmeme3.png" />
 </center>
+<!-- https://x.com/aeporreca/status/1669988344980185089 -->
 
 <br><br>
 
@@ -168,7 +170,8 @@ What else is out there? What is the "dark matter" of maths?
     <!--  -->
     <h3>Most reals are indescribable</h3>
     <div>
-        that is, you can't write them down even in infinite time.
+        that is, you can't write them down explicitly even in infinite time.
+        <!-- https://en.wikipedia.org/wiki/Definable_real_number -->
         <br><br>
         1. Describable\((n)\) := some string denotes \(n\)<br>
         Use quotes to denote the human symbolic representation e.g. \(``7"\)<br>
@@ -198,6 +201,7 @@ What else is out there? What is the "dark matter" of maths?
         So ZFC does not entail its value,<br>
         ZFC underdetermines the Busy Beaver numbers!<br><br>
         (Now need to carry independence over to higher N.) 
+        </blockquote>
     </div>
 </div>
 
@@ -236,7 +240,14 @@ What else is out there? What is the "dark matter" of maths?
     <a href="{{chaitin}}">in several senses</a>
 </div>
 
+<!-- Most interesting mathematical questions are independent of the axioms -->
+<!-- most numbers are not Constructible -->
+
 <!-- if you use limits to define infinite time Turing machines, not only do there exist reals no ITTM can write on empty input, there exists a real x which is not writable in infinite time but such that {x} is decidable in infinite time. -->
+
+<!-- Chaitin: Call a program "elegant" if no smaller program produces the same output.
+You can't prove that a program is elegant. More precisely,N bits of axioms
+are needed to be able to prove that an N-bit program is elegant. -->
 
 </div>
 <br>
@@ -280,7 +291,7 @@ We only work with representations. And we will never, can never, see most of eve
 
 Much more than 99% of technical discussion is about a tiny fraction of mathematical space. Almost nowhere.
 
-We can't work with em, can't talk about em, can't use them, they are emphatically not decision relevant. It's also hard to publish about them. So we ignore em. (Incentives distort, even here!)
+We can't work with em, can't really talk about em, can't use them, they are emphatically not decision relevant. It's also hard to publish about them except in one subfield. So we ignore em. (Incentives distort, even here!)
 
 You won't encounter these dark objects again. But I wanted to use 1 hour of your life to look into the vast majority, the dark.
 
@@ -325,6 +336,13 @@ Our intuitions, including mathematical intuitions, are maybe shaped by actual ph
 
 
 <div class="accordion">
+    <h3>huge caveats</h3>
+    <div>
+        I say "most maths" when actually all I've shown is "most of a handful of classes of mathematical objects".<br><br>
+        And the above statements make no sense without a measure on statements. We want to <i>weight</i> things by their complexity for instance.<br><br>I've mostly been assuming symbol length or sth.<br><br>
+        I suppose this post has also outed me as an anti-constructivist. But I don't really have a philosophy of mathematics, honest.<br><br>
+        Words seem in <a href="https://en.wikipedia.org/wiki/Richard%27s_paradox">certain</a> ways more powerful than the symbols above. ("stating something to be unnameable makes it nameable" - Bhartrhari) Chaitin <a href="https://en.wikipedia.org/wiki/Berry_paradox#Formal_analogues">formalised some of it</a> though.
+    </div>
     <h3>a call for Icaruses</h3>
     <div>
         You don't encounter any dark matter in any area of life -- <i>except</i> when you reach way out and try to make universal claims, try to make claims about numbers as a whole, programs as a whole, mathematics as a whole. But Hilbert's failed programme got us computers!<br><br>
@@ -350,6 +368,7 @@ David Deutsches hate this one trick to stop trying to complete mathematics!!
 
 ## See also
 
+* https://www.gleech.org/tractatus
 * [Inspired by](https://www.goodreads.com/quotes/9371135-remember-most-strings-are-incompressible-most-reals-uncomputable-most-theorems)
 * [Friedman on the logic of the darkness](https://www.flickr.com/photos/61656241@N02/15441918067/)
 * [Chaitin](https://www.goodreads.com/book/show/1077040.The_Unknowable)
@@ -363,11 +382,6 @@ David Deutsches hate this one trick to stop trying to complete mathematics!!
 <div class="footnotes">
 
 <ol>
-    <!-- 1 -->
-    <li class="footnote" id="fn:1">
-        It doesn't make sense to state or prove these things without a measure on statements. We want to <i>weight</i> things by their complexity for instance.<br><br>I've mostly been assuming symbol length or sth.<br><br>
-        I suppose this post has also outed me as an anti-constructivist. But I don't really have a philosophy of mathematics, honest.
-    </li>
     <!--  -->
     <li class="footnote" id="fn:2">
         Lives have been spent improving the experiments and machines to squeeze out another couple of OOMs. Noble use of a life, imo.
