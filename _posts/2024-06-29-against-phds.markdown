@@ -276,6 +276,8 @@ what does academia demand?
 <br>
 
 
+https://x.com/hyhieu226/status/1793686585067942142
+
 https://twitter.com/opinonhaver/status/1791158220846960912
 
 

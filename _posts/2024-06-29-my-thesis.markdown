@@ -20,12 +20,24 @@ warnings:
 wordcount:      
 ---
 
+> When working on a PhD, you must focus on a topic so narrow that you can understand it completely. It will seem at first that you're working on the proverbial needle, a tiny fragment of the world, a minute crystal, beautiful but in the scheme of things, microscopic. Work with it. And the more you work with it, the more you penetrate it, the more you will come to see that your work, your subject, encompasses the world. In time, you will come to see the world in your grain of sand.
+
+Manuel Blum
+
 
 <!-- https://emmabluemke.com/phd-thesis -->
 
 
 A thesis is nominally a __unified__ contribution to knowledge. Something new, several pieces of knowledge all pointing in the same direction. I am not focussed enough to do this. It's also a big claim. I obviously had to retrodict a single big claim, and surely most people do the same. 
         <!-- - [[concocting a coherent PhD (2023)]] -->
+
+
+
+I'm not amazed with it as a contribution to science but it is a pretty good representation of my mind: unfocussed, sweeping, long on synthesis, short on analysis, more amusing than deep but not not deep.
+
+
+It's called Methods Failing the Data, Data Failing the Methods (they made me change it just before submission but I see no reason to view the university's title as the true title).
+
 
 Here's an attempt to explain plainly what I actually did. (You can also click "The Point" on the individual papers <a href="/researches">here</a>.)
 
@@ -67,3 +79,17 @@ Negative results
 - ILP
 - GJOpen
 - EPJ
+
+
+
+## Some theses I admire
+
+https://discovery.ucl.ac.uk/id/eprint/10121219/1/Aitchison_000_Thesis.pdf 
+https://ora.ox.ac.uk/objects/uuid:98a6d3eb-6fee-4850-87f2-8dd048fd6864/
+https://www.mct.dev/assets/mct-thesis.pdf
+https://arxiv.org/pdf/2210.09925.pdf
+https://arxiv.org/abs/2404.12150
+https://www.inference.org.uk/mackay/thesis.pdf
+https://arxiv.org/abs/2403.07949 
+https://www.research-collection.ethz.ch/handle/20.500.11850/635156
+https://csc.ucdavis.edu/~cmg/papers/Riechers.UCDDissertation2016.pdf
