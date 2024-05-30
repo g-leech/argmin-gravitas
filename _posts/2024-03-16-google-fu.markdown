@@ -162,6 +162,9 @@ The defence against the first wave of SEO spam already cost us [a lot](https://w
 
 >  in 1999... When you looked for information about how to tell if your bread is rising correctly, or about South Korean cement manufacturing, or the musical influences on Igor Stravinsky, or whatever weird thing, Google would pull up high-quality reference material, or blogs and BBS arguments among disagreeable weirdos who specialized in the subject... A cottage industry arose of finding some search term and churning out low-cost copy on the subject in order to serve ads to people trying to find real information. Specialists in “search engine optimization” popularized their techniques as consultants to big companies, and before long this became standard practice. In their efforts to keep these problems from getting totally out of hand, Google and other search engines weighted search results towards a whitelist of standard lowest-common-denominator websites. The long tail of the internet could no longer be found from a simple search.
 
+
+> Google Search effectively controls the epistemology of the world — @atomgardner
+
 <br><br>
 
 ### **Solution**: Google-fu
@@ -170,6 +173,7 @@ To be honest these still don't get me back to 2015 level search.
 
 <br>
 
+* https://tedium.co/2024/05/17/google-web-search-make-default/
 * `-` a minus sign to exclude terms, homographs
 * [Booleans](https://southern.libguides.com/google/boolean) still work sometimes
 * Limit to one `site:`

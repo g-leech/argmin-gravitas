@@ -48,6 +48,7 @@ If you're reading this, you are probably quite impressed with maths. It explains
 <div class="accordion">
     <h3>Awe</h3>
     <div>
+        <br>
 <h4>Predictive precision and measurement precision</h4>
 
 prediction of grav waves, size \(10^{-20} \,\mathrm{m}\); nailed it<br><br>
@@ -60,21 +61,21 @@ Depending on how you want to count it, that's either 11 or 14 digits of precisio
 
 QED correctly predicts all those decimal places (to within the measurement uncertainty)
 
-<br><br>
+<br><br><br>
 
 <h4>Precision of form</h4>
 Fiber bundles invented by mathematicians 60 years before they were needed for gauge theory. Perfect. This happens a lot.<br><br>
 
 <blockquote>That non-Abelian gauge fields are conceptually identical to ideas in the beautiful theory of fiber bundles, developed by mathematicians without reference to the physical world, was a great marvel to me. In 1975 I discussed my feelings with Chern, and said 'this is both thrilling and puzzling, since you mathematicians dreamed up these concepts out of nowhere'. He immediately protested: 'No, no. These concepts were not dreamed up. They were natural and real.' </blockquote>
 
-<br><br>
+<br><br><br>
 
 <h4>Rule of cool</h4>
 Landing on a comet and returning with 6 burns: <a href="{{osiris}}">OSIRIS-REX</a>. launched it two years before it landed. exactly 3 burns in 2 years, lots of slingshots and avoiding stuff.<br><br>
 
 8th Sep 2016 launch to 3 December 2018 arrival, vs predicted November 23rd 2018. a week off!
 Very likely to land within hours of predicted end 24 September 2023, 15:00 UTC  
-<br><br>
+<br><br><br>
 
 <h4>Concision</h4>
 The <a href="{{lagrang}}">Lagrangian of the standard model</a> is 2075 characters. It roughly exhausts all of physics (except for gravity and mass values) in 4kB.
@@ -126,6 +127,7 @@ University maths, physics, engineering are looking under the streetlight
 
 <center>
 <img width="60%" src="/img/mathmeme1.jpg" /><br>
+<img width="60%" src="/img/mathmeme1point5.jpg" /><br>
 <img width="60%" src="/img/mathmeme2.jpg" /><br>
 <img src="/img/mathmeme3.png" />
 </center>
@@ -156,7 +158,7 @@ What else is out there? What is the "dark matter" of maths?
     <h3>Most reals are incomputable</h3>
     <div>
         1. \(|\mathbb{Z}| = \aleph_0\)<br>
-        2. \(|\mathbb{R}| = 2^{\aleph_0}\)<br>
+        2. \(|\mathbb{R}| > \aleph_0}\)<br>
         3. <a href="https://en.wikipedia.org/wiki/Hume%27s_principle">Hume's principle</a>; If two sets can be placed into bijection, then they have the same size. \(|A| = |B| \Leftrightarrow A \,{\hookrightarrow\hspace{-1.8ex}\to} \,B\)<br><br>
         4. Computable \(n :=\) some program outputs \(n\); there is a Turing machine (TM) which outputs it.<br><br>
         5. \( |\mathrm{TM}| = \aleph_0 \). See <a href="{{count}}">here</a>.<br>
@@ -166,6 +168,8 @@ What else is out there? What is the "dark matter" of maths?
     <!--  -->
     <h3>Most reals are indescribable</h3>
     <div>
+        that is, you can't write them down even in infinite time.
+        <br><br>
         1. Describable\((n)\) := some string denotes \(n\)<br>
         Use quotes to denote the human symbolic representation e.g. \(``7"\)<br>
         2. Let \(S := \forall\) well-formed formulae<br><br>
@@ -181,6 +185,20 @@ What else is out there? What is the "dark matter" of maths?
             </div>
         </div>
     </div>
+    <!--  -->
+    <h3>Most values of the Busy Beaver function cannot be found within any formal system</h3>
+    <div>
+        \(BB(N)\) – the number of steps taken by the longest running Turing machine with N states before halting.
+        <br>
+        <blockquote>the existence of a 7918 state Turing machine whose behavior is independent of ZFC. <br>
+        In particular, whether the machine halts or not can not be proven by ZFC.<br>
+        So ZFC cannot prove the value of BB(7918).<br>
+        ZFC is a first order theory and first order logic is complete,<br>
+        So the unprovability means BB(7918) actually has different values in different models!<br>
+        So ZFC does not entail its value,<br>
+        ZFC underdetermines the Busy Beaver numbers!<br><br>
+        (Now need to carry independence over to higher N.) 
+    </div>
 </div>
 
 
@@ -190,18 +208,35 @@ What else is out there? What is the "dark matter" of maths?
 
 <div class="accordion">
 
+<h3>Most problems are undecidable</h3>
+<div>
+     A problem is undecidable if no algorithm can solve all instances of it<br>
+     We can encode a problem as a <a href="https://s22.cs251.com/Text/07_Undecidability/contents.html">formal language</a> (input -> accept/reject -> 0/1) and so as an infinite bitstring of all outputs.<br>
+     Infinite bitstrings can be mapped to the reals<br>
+     So there are uncountably many problems<br>
+     but only countably many Turing Machines<br>
+     but you need a Turing machine to be decidable<br><br>
+     So there are at most countably many decidable problems.<br>
+     So most problems are undecidable.
+
+</div>
+
 <h3>Most strings are incompressible</h3>
 <div>
     {%  include compress.html %}
 </div>
+
 <h3>Most languages are not learnable</h3>
 <div>
     <a href="{{gold}}">by Gold's theorem</a>
 </div>
+
 <h3>Almost all numbers are random</h3>
 <div>
     <a href="{{chaitin}}">in several senses</a>
 </div>
+
+<!-- if you use limits to define infinite time Turing machines, not only do there exist reals no ITTM can write on empty input, there exists a real x which is not writable in infinite time but such that {x} is decidable in infinite time. -->
 
 </div>
 <br>
@@ -213,9 +248,10 @@ What else is out there? What is the "dark matter" of maths?
     <div>
         I originally had a grandiose idea of this class before realising that I'm not that good at TCS and it's already pushing an hour.<br><br> 
         <ul>
+        <li>Most numbers are inaccessible? </li>
+        <li>Most numbers are independent of ZFC?</li>
             <li>Most true statements are unprovable?</li>
         <li>Is a random theorem provable?</li>
-        <li>Most programs are undecidable?</li>
         <li>Most tasks are np-hard?</li>
         <li>Most distributions lack moments?</li>
         <li>Most functions are incomputable?</li>
@@ -242,15 +278,22 @@ Most? mathematical objects are impossible to work with, impossible to talk about
 
 We only work with representations. And we will never, can never, see most of even those. Map (human symbols, human reasoning) and territory (platonic realm / formal realm). The human map will always be smaller.
 
-much more than 99% of technical discussion is about a tiny fraction of mathematical space. Almost nowhere.
+Much more than 99% of technical discussion is about a tiny fraction of mathematical space. Almost nowhere.
 
-Can't work with em, can't talk about em, can't use them, not decision relevant. Hard to publish about them. So ignore em. Incentives distort, even here.
+We can't work with em, can't talk about em, can't use them, they are emphatically not decision relevant. It's also hard to publish about them. So we ignore em. (Incentives distort, even here!)
 
-you won't encounter these dark objects again. But I wanted to use 1 hour of your life to look into the dark.
+You won't encounter these dark objects again. But I wanted to use 1 hour of your life to look into the vast majority, the dark.
+
+<br>
+
+> For decidable but non-feasible problems, we can ask for approximate or partial solutions. Many cognitive tasks such as reasoning or planning are non-feasible. But, in spite of that,
+we do reason and do make plans in our every day activities.
 
 <br>
 
 #### Whence <a href="{{nat}}">naturalness bias</a>?
+
+> most interesting problems are decidable
 
 Do we care though? The above is another way of saying that the unreachable or unworkable parts are literally useless. Maybe unphysical, maybe basically nonexistent.
 
@@ -312,6 +355,9 @@ David Deutsches hate this one trick to stop trying to complete mathematics!!
 * [Chaitin](https://www.goodreads.com/book/show/1077040.The_Unknowable)
 * [Yanofsky](https://mitpress.mit.edu/9780262529846/the-outer-limits-of-reason/)
 * [Kosoy](https://www.alignmentforum.org/posts/qpbYwTqKQG8G7mdFK/the-reasonable-effectiveness-of-mathematics-or-ai-vs)
+* [Cantor's attic](https://neugierde.github.io/cantors-attic/Upper_attic)
+* https://s22.cs251.com/Text/07_Undecidability/contents.html
+* https://x.com/YonderDavid/status/1796025541427868065
 
 
 <div class="footnotes">
@@ -319,16 +365,17 @@ David Deutsches hate this one trick to stop trying to complete mathematics!!
 <ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
-        It doesn't make sense to state or prove these things without a measure on statements. We want to <i>weight</i> things by their complexity for instance.<br><br>I've mostly been assuming symbol length or sth.
+        It doesn't make sense to state or prove these things without a measure on statements. We want to <i>weight</i> things by their complexity for instance.<br><br>I've mostly been assuming symbol length or sth.<br><br>
+        I suppose this post has also outed me as an anti-constructivist. But I don't really have a philosophy of mathematics, honest.
     </li>
     <!--  -->
     <li class="footnote" id="fn:2">
         Lives have been spent improving the experiments and machines to squeeze out another couple of OOMs. Noble use of a life, imo.
     </li>
     <!--  -->
-    <li class="footnote" id="fn:3">
+    <!-- <li class="footnote" id="fn:3">
         Manipulable / predictable / compressible
-    </li>
+    </li> -->
 </ol>
 
 </div>

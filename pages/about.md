@@ -22,6 +22,8 @@ This site consists of {%	include wc.html 	%} words including about 1100 <a href=
 <!-- All claims subject to change: I commit to improving past work til I die. -->
 <br><br>
 
+<!-- I am not presently under any externally-imposed restriction to my speech, X, which legally prevents me from revealing X's existence. -->
+
 {%	include about/random_faves.html	%}
 <br><br>
 

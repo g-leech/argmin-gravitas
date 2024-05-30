@@ -36,7 +36,7 @@ categories: self-help, lists, quantification, becoming
 ## Health
 
 * <a href="{{tw}}">Bag of travel meds</a> (£20). Many discomforts are now optional.
-No brainer. Paracetamol/ibuprofen lysine/aspirin/melatonin/ACC/loratadine/loperamide/calcium carbonate/Kwells. Besides saving yourself 1-2 days of misery a year, you can also save your unprepared friends, which for me was 3 times last year. <a href="#fn:1" id="fnref:1">1</a><br>
+No brainer. Paracetamol/ibuprofen lysine/aspirin/melatonin/ACC/ambroxol/loratadine/loperamide/calcium carbonate/Kwells. Besides saving yourself 1-2 days of misery a year, you can also save your unprepared friends, which for me was 3 times last year. <a href="#fn:1" id="fnref:1">1</a><br>
 _Cost per year_: £20.
 
 * <a href="{{bow}}">Bowflex SelectTech 552</a> dumbbell (£180). By my desk; much harder to avoid than the gym. 15 dumbbells in one. I love how little space they take, and the design is extremely satisfying. You can get by with one.<br>
