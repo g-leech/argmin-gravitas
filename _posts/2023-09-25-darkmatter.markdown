@@ -45,6 +45,8 @@ wordcount:
 
 If you're reading this, you are probably quite impressed with maths. It explains everything; The scientists are just scrabbling in the foothills of the mathematicians; It is the <a href="{{pur}}">purest</a> human activity, the least and most human.
 
+This is most obvious in the success of mathematical physics, which has succeeded as nothing else has ever succeeded:
+
 <div class="accordion">
     <h3>Awe</h3>
     <div>
@@ -208,7 +210,7 @@ What else is out there? What is the "dark matter" of maths?
 
 <br>
 
-#### Representable, concrete even, but not usable <a href="#fn:3" id="fnref:3">3</a>
+#### Representable, concrete even, but not usable 
 
 <div class="accordion">
 
@@ -252,7 +254,7 @@ are needed to be able to prove that an N-bit program is elegant. -->
 </div>
 <br>
 
-<a href="#fn:1" id="fnref:1">1</a>
+
 
 <div class="accordion">
     <h3>conjectures for you</h3>
@@ -279,7 +281,7 @@ are needed to be able to prove that an N-bit program is elegant. -->
 
 So maybe most of mathematics is forever outside our ken. These objects are dark matter, undetectable, known only by their absence.
 
-Most? mathematical objects are impossible to work with, impossible to talk about, impossible to see, we don’t have enough descriptions. But metamathematics tells us they exist.
+Most? mathematical objects are impossible to work with, impossible to talk about in the constructive sense, impossible to see, we don’t have enough descriptions. But metamathematics tells us they exist.
 
 <br>
 
