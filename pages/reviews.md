@@ -53,7 +53,7 @@ visible:    false
 <div class="accordion">
 	<h3>Now</h3>
 	<div>
-		%	include books/widget.html	%}
+		{%	include books/widget.html	%}
 	</div>
 	<!--  -->
 	<!--  -->

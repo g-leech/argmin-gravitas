@@ -83,13 +83,14 @@ Negative results
 
 
 ## Some theses I admire
-
-https://discovery.ucl.ac.uk/id/eprint/10121219/1/Aitchison_000_Thesis.pdf 
 https://ora.ox.ac.uk/objects/uuid:98a6d3eb-6fee-4850-87f2-8dd048fd6864/
 https://www.mct.dev/assets/mct-thesis.pdf
+
 https://arxiv.org/pdf/2210.09925.pdf
 https://arxiv.org/abs/2404.12150
+https://discovery.ucl.ac.uk/id/eprint/10121219/1/Aitchison_000_Thesis.pdf 
 https://www.inference.org.uk/mackay/thesis.pdf
 https://arxiv.org/abs/2403.07949 
 https://www.research-collection.ethz.ch/handle/20.500.11850/635156
 https://csc.ucdavis.edu/~cmg/papers/Riechers.UCDDissertation2016.pdf
+https://theses.gla.ac.uk/3258/1/2011CalderheadPhD.pdf

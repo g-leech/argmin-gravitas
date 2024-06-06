@@ -24,7 +24,7 @@ visible:    false
 
 Selection pressures we don't really understand led the deerhorn clarkia to have strangely oblong pollen This increased its fitness for the task of "Robert Brown picking it"
 
-Louis Bachelier modeled the process now called Brownian. Einstein read that. Wiener read that that. Itô read that that that.
+Bachelier modeled the process called Brownian. With some probability, Einstein read that. Wiener read that that. Itô read that that that.
 
 The stochastic calculus was made during the war. It describes all random events. that is, it describes.
 
