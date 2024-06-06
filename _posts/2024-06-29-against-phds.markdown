@@ -269,6 +269,7 @@ what does academia demand?
 
 <br>
 <center>
+    <img width="60%" src="/img/phd/acidshill.jpeg" />
     <img width="60%" src="/img/phd/getrich.png" />
     <img width="60%" src="/img/phd/harambe.png" />
 </center>

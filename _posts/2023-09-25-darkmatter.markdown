@@ -242,6 +242,7 @@ What else is out there? What is the "dark matter" of maths?
     <a href="{{chaitin}}">in several senses</a>
 </div>
 
+<!-- hardly any functions are continuous and virtually none are differentiable -->
 <!-- Most interesting mathematical questions are independent of the axioms -->
 <!-- most numbers are not Constructible -->
 
@@ -333,6 +334,9 @@ and
 <br>
 
 Our intuitions, including mathematical intuitions, are maybe shaped by actual physics. Mathematics is then a disguised empirical science.
+
+
+<!-- The real point of the class is not "haha u weak bro", it's "your intuitions about reality and your sense of significance (even in the most abstract research are systematically biased) in a really cool way that goes way beyond practicality and incentives and instrumentalised life as we usually conceive it and which borders on the transcendental. It is extremely to not focus on a narrow strip of thought which probably includes the true physics and the true metaphysics. Maths is an empirical or anyway synthetic science." -->
 
 <br>
 
