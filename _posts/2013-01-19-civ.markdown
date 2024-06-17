@@ -1,0 +1,111 @@
+---
+layout:     post
+title:      "<i>Civ</i>'s implicit social theory"
+baselink:   /civ
+permalink:  /civ
+date:       2013-01-19  <!--site.time-->
+author:     Gavin
+
+img:        /img/jeanne.png
+published:  true
+visible:    1
+quality:    4
+emotion:    4
+importance: 4
+
+summary:    What does the game say about history and society?
+confidence: 
+categories: history, vidya, fun, social-science, theory
+warnings:   
+wordcount:      
+---
+
+<center>
+    <img src="/img/joan.png" />
+    <br>
+    <small>Dreyer's <i>La Passion de Jeanne d'Arc</i> (1928)</small>
+</center>
+<br />
+<br />
+<blockquote>
+    <i>The fact remains, though, that Civilization V, with thirty million man hours recorded on Steam alone, is among the most popular “historical documents” today, and the values implicit in its many systems have been and continue to be communicated to millions of players.</i> 
+</blockquote>
+<center>– <a href="https://killscreen.com/articles/what-can-civilization-v-teach-us-about-history/">Will Parton </a></center>
+
+<br />
+<br />
+<blockquote>
+<i>'what did I learn in high school about history?' The Pyramids. The Great Wall. Things like that. Those things have got to show up in the game, because when you see them, when you run into them, you go, "Oh, I know, I've heard of that, I'm a smart person, I know this stuff." So we wanted to put in the game, but then the question was 'What effect would it have?' If it was going to be a Wonder of the World, it had better be pretty dramatic. That was another rule of the game: stuff had to really feel important...</i>
+</blockquote>
+<center>– <a href="http://notatwiki.dk/index.php?title=The_Fathers_of_Civilization">Sid Meier</a></center>
+
+<br />
+<br />
+What does the game _Civilization_ invite us to think about history and society? Take Civ V: <br />
+<br />
+<ul>
+<li><a href="http://www.civfanatics.com/gallery/showimage.php?i=3877&amp;c=36">The tech tree</a> has all kinds of interesting goofy deterministic links which mix up the material conditions for a technical breakthrough, the social pressures that led to it, and the intellectual dependencies between concepts - for instance, it's very plausible that horseback riding was in fact <i>materially</i> necessary for a civil service in any large country (rather than being an inseparable idea), but the fifth tech tree suggests that there <i>could have been</i> no compass without <a href="https://en.wikipedia.org/wiki/Great_Commission">formal theology</a> which is false except in the social-motivation sense... Each of the games has its own idiosyncratic version of the tree - all deterministic to date, even Beyond Earth's slightly more realistic <a href="http://vignette2.wikia.nocookie.net/civilization/images/5/58/Tech_web_%28CivBE%29.jpg/revision/latest?cb=20141208214214">sci-fi actor network</a>.
+</li><br>
+<li>Any civ can win. Since <a href="http://www.civfanatics.com/civ5/civilizations">the playable civs</a> are pretty well distributed throughout human history and geography, this has a point. They're not balanced by any means - <a href="https://imgur.com/NgQeZjj">Bismarck!</a> - but not even the most rabid relativist anthropologist has ever held that all cultural traits were equal in their potential for domination.</li><br>
+<li>If you commit genocide <a href="http://qz.com/204161/one-of-sciences-greatest-mysteries-deepens-did-humans-kill-off-neanderthals/">in the early game</a>, before you have contacted other civilizations, there is no diplomatic penalty to even the most brutal and traitorous warfare. (Who now remembers the Armenians?)</li><br>
+<li>Trade routes spread both science and religion; without trade, science will not spread between civs.</li><br>
+<li>There is a totally rigid division of humans into <a href="http://civilization.wikia.com/wiki/Barbarian_%28Civ5%29">violent nomads</a> and static States. There can be no commerce, negotiation, or peaceful coexistence with them.</li><br>
+<li>Civic unrest is caused by a very small set of things: long wars, occupying foreign cities, overpopulation and having many cities(??)</li><br>
+<li>Money, culture, and science can all be bought by diverting your economic production; Faith never can be. (This is true, but since the integer Faith measures a civ's (nominal) acceptance of a religion rather than the full-souled internalisation of its tenets, there is space to separate out a Faith stat from a Mere Profession stat. Money very often buys the latter, IRL.)</li><br>
+<li>Great people are only produced by societies which actively create cultural conditions: in particular, which have communities of specialists passing on the know-how and incrementally improving the art.</li><br>
+<li>It takes twice as much faith to produce an Inquisitor (who persecutes other religions) compared to a missionary (who spreads their own).</li><br>
+<li><a href="http://civilization.wikia.com/wiki/City-state_%28Civ5%29">Small nations</a> enable the great slippery slopes of history; they are manipulated, extorted from, spoken for and stomped on by the large civs. </li><br>
+<li>Infrastructure - in particular, roads - is a massive part of every civ's budget, second only to the army. This <a href="http://www.internationaltransportforum.org/statistics/StatBrief/2012-06.pdf">is not so</a> now, but may have been <a href="https://en.wikipedia.org/wiki/Roman_roads">back in the day</a>.</li><br>
+<li>Verbatim: "Once the player either reaches the Modern era or finishes three factories, he or she will have to choose an ideology to continue the game."</li><br>
+<li>Slavery - a very stable policy option in Civ IV, often persisting right up to the C20th - is no longer available in any era.</li>
+</ul>
+<br />
+<br />
+Of course, I've no idea how much of this is the result of the developers' historical (and <a href="https://www.reddit.com/r/civ/comments/22v14b/how_exactly_do_temperature_rainfall_and_world_age/">geological</a>) background and how much is a simple <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfCool">fudge for gameplay</a> that people like me project theory on. (As always in hermeneutics, we can duck any impropriety caused by uncertainty just by talking about what the game implies (rather than what the developers hold).)
+
+<br />
+<br />
+<br />
+<br />
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHHopPMxE9sfExMchDKE2FTcLGdDOIILW73JtzRhHNoYUm06s28reSGglgAl3EYbyAg8N-S7RJcDyyyf7oMYrEbj0Fb8RG6S4FRRT3_PT-O85IvTcga6DA27lpph17QHehjCeKKFAzYW_A/s1600/joan_of_arc.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHHopPMxE9sfExMchDKE2FTcLGdDOIILW73JtzRhHNoYUm06s28reSGglgAl3EYbyAg8N-S7RJcDyyyf7oMYrEbj0Fb8RG6S4FRRT3_PT-O85IvTcga6DA27lpph17QHehjCeKKFAzYW_A/s1600/joan_of_arc.jpg" /></a>
+
+<br />
+<br />
+Not an ideological point, but just an example of detail few other games have:
+
+You can still sell off the buildings in a city you are presently burning to the ground.
+<br /><br /><br />
+
+<div class="accordion">
+    <h3>    
+    Who are we when we play Civ?
+    </h3>
+    <div>
+    What entity are we&nbsp;when we play Civ? Not a mere king; these games span 5000 years without any&nbsp;change in focalisation. Despite appearances, we're not a race either; the tiles in Civ IV show a mix of ethnies almost from the start. We can't be an institution or government because&nbsp;<i>I</i> <i>remain</i> through my revolutions; in fact I <i>cause </i>a dozen revolutions when it suits me. Not God; there is too much&nbsp;we do not know and could not do if&nbsp;we did. (We can't even&nbsp;be a tribal god structure like Shinto, because all tribes begin without religion or even, mostly, the <a href="http://civilization.wikia.com/wiki/Mysticism_(Civ4)">speculative mystical mindset</a>.) A 'culture' is vague enough to fit, but almost meaningless, and worse, it gets in the way of my exciting idea.
+    <br><br>
+    But what does that leave -&nbsp;except the <i>Geist </i>of Hegel<i>?</i> Yes; our gameplay constitutes one tendril of&nbsp;one virtual iteration of Hegel's deistic God, the 'Weltgeist'. We play&nbsp;a <i>Volksgeist</i> which, through&nbsp;violent dialectic with other Volksgeister<i>, </i>creates history, and&nbsp;develops the world's&nbsp;consciousness through self-development<i>.</i>&nbsp;This process 'has to be' progressive; all our machinations and achievements&nbsp;are part of the generation of History/God.&nbsp;Though mortal, we feed that which is unkillable. Our eventual victory is the final synthesis, the contact if not actual identification with the Absolute; our eventual loss is our subsumption in another's final synthesis.
+    <br /><br>
+
+
+<!-- <center><a href="http://i.computer-bild.de/imgs/5/7/2/5/4/7/Sid-Meier-s-Civilization-4-Kurzkritik-227x218-851a3162b01cce3e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://i.computer-bild.de/imgs/5/7/2/5/4/7/Sid-Meier-s-Civilization-4-Kurzkritik-227x218-851a3162b01cce3e.jpg" height="191" jea="true" width="200" /></a></center> -->
+</div>
+</div>
+
+<br />
+<br />
+<br />
+<blockquote>
+    <i>It's all because I became a serial addict of 'Civilization'. I played it for three months and then realized I hadn't done any work. In the end, I had to delete all the saved files and smash the CD. It is very unprofessional of me</i>.
+</blockquote>
+<center>- Iain Banks</center>
+
+<br />
+
+<blockquote>
+    <i>I'm playing [Civilization] thinking about sex. I'm definitely seeing Y tomorrow and I can't stop thinking about sex. I've got an erection and I'm sitting here in front of the machine in the darkness, crouched here in the box room of the flat with the light off and the radio on and the computer screen awash with the seductive, gently scrolling graphics of [Civ] and the light from the screen — blue, ochre, red, green — throws the shadow of my cock onto my belly</i>
+</blockquote>
+
+<div style="text-align: center;">
+- Banks' Cameron Colley</div>
+
+<br><br>

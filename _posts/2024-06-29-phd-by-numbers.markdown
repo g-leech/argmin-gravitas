@@ -67,7 +67,7 @@ wordcount:
     - number of difficult books: 
 - Opportunity cost
     - I was working in London tech. I couldn't have continued because I was bored out, but if I had found something roughly as remunerative my earnings would have been around £((  (65000*1.15^1 + 65000*1.15^2 + 65000*1.15^3 + 65000*1.15^4) )), so I lost about $300k
-    - 
+    - Not counting Arb though
 - $0000 dollars of compute 
     - 8000 of Microsoft donated for one paper, say 50000 MCMC runs
     - Very hard to say what my share of the ACRC was, but basically very little
