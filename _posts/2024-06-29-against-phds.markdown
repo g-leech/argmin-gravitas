@@ -263,6 +263,9 @@ what does academia demand?
 - Incredible stomach for paperwork and bureaucracy
 
 
+https://x.com/arpitrage/status/1148702962165985280
+
+
 > UK academics on research-only contracts spend just over a third of their time doing research, a report has revealed... The figure is much lower for academics who teach alongside their research with just 14 per cent of their working hours being spent conducting research activities
 
 <!-- https://www.researchprofessionalnews.com/rr-news-uk-universities-2022-8-uk-academics-spend-only-third-of-their-time-doing-research/ -->
@@ -277,6 +280,8 @@ what does academia demand?
 <br>
 
 
+https://x.com/BasilHalperin/status/1799138501356904652
+
 https://x.com/hyhieu226/status/1793686585067942142
 
 https://twitter.com/opinonhaver/status/1791158220846960912
@@ -289,6 +294,7 @@ https://www.goodreads.com/review/show/3025203866
 * Brian Timar (2019), [Mimetic](https://www.briantimar.com/notes/mimetic/mimetic)
 * Philip Guo (2012), [The PhD Grind](https://cacm.acm.org/blogcacm/the-ph-d-grind-main-grinds-and-side-grinds/)
 * Ethan Rosenthal (2019), https://www.ethanrosenthal.com/2019/02/12/liberal-physics-phd/
+* Halperin https://x.com/BasilHalperin/status/1799138472969826523
 
 https://www.yuan-meng.com/posts/nothingness/
 https://nautil.us/what-does-any-of-this-have-to-do-with-physics-236309/
