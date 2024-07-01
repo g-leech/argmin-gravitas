@@ -7,7 +7,7 @@ date:       2024-02-29  <!--site.time-->
 author:     Gavin
 
 img:        /img/phd/
-published:  false
+published:  true
 visible:    1
 quality:    5
 emotion:    5
@@ -21,28 +21,45 @@ wordcount:
 ---
 
 
-## What does a phd cost you?
+What does a phd cost you?
 
-- [[PhD by numbers]]
+People are unwilling to tell you - partly because the variance really is large (e.g. a history PhD will involve a full order of magnitude more solitary reading than a CS phd)
 
+
+
+<br><br>
 
 ### Time
-- supposed to be 8000-10000 hours. You can do it in 3k
+
+- supposed to be 8000-10000 hours. You can do it in 3k. Or I could:
+
     - 500 quals
-        - UM
-        - MLP
-        - Group 
-        - IEE
-        - ADS
-        - NLP (Dialogue)
-        - Respon
-        - Clogic
-        - Adv top
-    - 1700 coding, writing papers, rebuttals
-        - Response doc for the masks paper was 42 pages
-    - [32 + 62 + post April 21st 2024] hours writing thesis
-    - 500 hours meetings, advisor
+        UM, MLP, Group, IEE, ADS, Dialogue, Respon, Clogic, Adv top
+    - 1200 coding, writing papers
+        - 150 ilp
+        - 100 Science
+        - 80 Neurips
+        - 30 Multiresp
+        - 250 TPP
+        - 60 neurips
+        - 700 masks
+
+    - 300 hours rebuttals
+        Response doc for the masks paper was 42 pages
+    - 126 hours writing thesis
+    - 270 hours lab meetings, journal clubs, preparing for presentations 
+    - 211 hours advisor meetings
     - 500 hours reading
+
+<!-- 2019: 
+    2020: 
+    2021: 
+    2022: 
+    2023: 259
+    2024: 
+-->
+
+Others managed in much less.
 
 - 46 months
     - not counting the 10 month sabbatical
@@ -66,7 +83,7 @@ wordcount:
     - $100k funding, among the highest in the country
     - number of difficult books: 
 - Opportunity cost
-    - I was working in London tech. I couldn't have continued because I was bored out, but if I had found something roughly as remunerative my earnings would have been around £((  (65000*1.15^1 + 65000*1.15^2 + 65000*1.15^3 + 65000*1.15^4) )), so I lost about $300k
+    - I was working in London tech. I couldn't have continued because I was bored out, but if I had found something roughly as remunerative my earnings would have been around £((  (65000*1.15^1 + 65000*1.15^2 + 65000*1.15^3 + 65000*1.15^4) )), so I lost about $300k on previous trajectory, much more on the trajectory that Arb and the mask paper put me on
     - Not counting Arb though
 - $0000 dollars of compute 
     - 8000 of Microsoft donated for one paper, say 50000 MCMC runs
@@ -93,10 +110,51 @@ wordcount:
 
 ## Humans
 
-I almost did a experiment with humans, standard HCI experimental economics blah
+Once I almost did a project with human participants -- some standard HCI experimental economics blah.
 
 
 
 ## Time
 
-My reviewer advised that I budget 6 months for write up time. My friend did his in 7 days. 
+My reviewer advised that I budget 6 months for writing up the papers into a coherent thesis. My friend did his in 7 days (90 hours). I compromised and did it 227h. 
+
+
+
+
+- # Cost
+    - ## {{[[calc]]: ((150+30+250+60+700))}} hours
+    - This is obviously hugely less than most people or the clock time.
+    - Opportunity cost
+        - $400k opportunity cost
+        - Impact opportunity cost
+            - probably not that much
+    - Quals year: extraordinary pain and tedium
+    - One breakdown
+    - One friend
+    - Artificial isolation. Covid somewhat to blame but not much
+- ## Inputs
+    - X textbooks
+    - Y papers
+    - Knowing Jan Brauner
+- ## benefits
+    - Emotional control
+        - Massive confidence
+        - Neutrality about maths. Emotional and proportion
+    - Skill
+        - Paper writing
+    - Cynicism
+        - Holy and credible contempt for people who use Dr in ordinary social contexts, those who require them in jobs. 
+            - There is almost no quality control. Novelty is barely necessary, and utility not at all
+    - Made friends with lecturers. 
+        - Board games
+    - Cred
+        - Two clients
+        - Government policy
+- x years, y days
+    - z hours
+- xxxxx words, y pages
+- 11 studies 
+- 97 regressions
+- 0 p-values 
+- xx appendices
+- xxx references

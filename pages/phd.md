@@ -19,22 +19,22 @@ visible:	false
 </style>
 
 
-
+<br>
 
 I did a PhD in machine learning at Bristol with <a href="{{la}}">Laurence Aitchison</a>, 2019-2024. (Includes a year of mandatory classes and a year off in which I started <a href="https://arbresearch.com">Arb</a>.)<br>
 
-I went in wanting to work on AI safety. True to form, I instead ended up with a grab-bag of fields and topics: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, scientific malpractice, inductive logic, algorithmic fairness and (of course) large language models. Some safety work in there if you squint. But I published enough, so the resulting thesis is _Methods Failing the Data, Data Failing the Methods_.
+I went in wanting to work on AI safety. True to form, I instead ended up with a grab-bag of fields and topics: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, scientific malpractice, inductive logic, algorithmic fairness and (of course) large language models. Some safety work in there if you squint. But I published enough, so the resulting thesis is <i><a href="/files/thesis.pdf">Methods Failing the Data, Data Failing the Methods</a></i>.
 
 I was very lucky. It looks like a success on the usual bad measures (h-index, impact factors, top conferences, first-author pubs, an academic job offer at the end). But I didn't go into it for poxy numbers or a mere job; I went in become a great scientist. Obviously this did not happen. 
 
 But I did learn how to really read papers, how to write papers, how to present technical ideas clearly, and how to become stubborn and insensitive in the face of latent spaces. Academia is forever demystified for me. My aversion to mathematics has settled down into guarded neutrality. I am unafraid. This was probably worth it.
 
-<br>
+<br><br>
 
 _Undying thanks to Kristi Laurence Jan Jan Juan Tomáš Rian Matthijs Misha Daniel Dandy Dan Nandi Simson Mrinank Sören Kaveh Alexander Nic Charlie Maxime Samir Swapnil Miranda Peter Yarin Tyler. Sine qua non._
 
 
-<br>
+<br><br>
 
 ### Posts about my PhD
 
@@ -105,3 +105,16 @@ _Undying thanks to Kristi Laurence Jan Jan Juan Tomáš Rian Matthijs Misha Dani
 }
 
 </style>
+
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+        Laurence made me change the official title to "Modern Scientific Workflow" to save face but you and I both know what the real title is. <a href="#fn:1" id="fnref:1">1</a>
+    </li>
+
+</ol>
+</div>

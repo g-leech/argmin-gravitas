@@ -31,12 +31,35 @@ wordcount:
 https://www.theatlantic.com/technology/archive/2024/03/computing-college-cs-majors/677792/
 
 
+In particular, credit to my 2018 self for spotting it earlier than 99.99% of the world. (No credit to him for not buying NVDA but even that is passable as diversification since one's career is an illiquid bet)
+
 
 A decent chunk of my thesis is about looking at the whole field at once.
 
 - ML is a mongrel field. (And AI is a mongrel of mongrels). I love mongrels.
-- [[what does ML consist of?]]
+
+
+### what does ML consist of?
+
+
+- You do some mathematics to derive an objective
+    - I probably couldn't have gotten a math phd. 
+- You translate that into something you can actually implement
+    - I probably couldn't have gotten an applied math phd. 
+- You write some code, mostly now just a hundred lines of Lightning which Facebook pays genuises millions to optimise for you
+    - I probably couldn't have gotten a software phd. 
+- You debug
+- You wait while your machine slowly builds a million models and throws the first 999,999 away.
+    - I probably couldn't have gotten a phd in anything which really required patience. 
+- You do some haphazard statistics to imply that the result is robust
+    - I probably could've gotten a stats phd because it is also a mongrel discipline with lots of implicit judgment involved, where it is not a maths phd with better funding
+- 
+- But ML is a mongrel and rewards or at least tolerates those who are ok at these 4 things.
+
+
+
 - [[AI Spring, 2019 - 2023]]
+
 - [[favourite ML people]] - epistemic superiors
 
 
