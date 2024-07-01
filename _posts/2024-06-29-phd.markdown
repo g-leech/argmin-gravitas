@@ -34,6 +34,10 @@ wordcount:
 
 <br>
 
+https://squigglehub.org/models/gleech/phd-time
+https://squigglehub.org/models/gleech/phd-quantile
+https://squigglehub.org/models/gleech/phd-cost-ben
+
 <!-- https://turntrout.com/Essays/Looking-back-on-my-alignment-PhD -->
 
 > The trouble with having a Duty you cannot bring yourself to fulfill, one with flexible hours and flexible oversight, is that it leeches into every moment of your life, casting a quiet pall over the whole of it. I should do something productive, you think—but sitting right on top of the “something productive” list, absent urgent tasks with pressing deadlines, is That. There are no weekends, no evenings, no moments of contentment in knowing you have done all you need to do.
@@ -98,6 +102,8 @@ What does a phd cost you?<br>
 What's the rate of research projects failing?<br>
 
 ## <a href="/thesis">My thesis in plain language</a>
+
+## <a href="/theory">What I wanted my thesis to be</a>
 
 ## <a href="/csml">On my field</a>
 
@@ -320,6 +326,7 @@ ML
 
 
 - ### What I learned
+    - How to read science quickly
     - I can actually analyse data -> used it once, for masks
     - I can write papers on my own now
     - I am much better at reading and composing mathematics, and porting to and from language
@@ -371,6 +378,10 @@ If I had focussed and stuck to my initial priorities (and if I was 10x better at
 
 <br>
 
+<!-- I went into my office for the last time on August 31st 2021 and finished my thesis on 20th June 2024. For most people this would be a terrible move, demotivating and unaccountable  -->
+
+
+<!-- To conduct and publish research takes quite deep self-esteem. One big reason people drop out is they don't manage to get a positive feedback loop going -->
 
 
 ## Who should do a PhD?

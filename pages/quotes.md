@@ -62,6 +62,10 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 			<div>		
 			{%	include quotes/ai.html	%}
 			</div>
+			<h3>nature</h3>
+			<div>		
+			{%	include quotes/nature.html	%}
+			</div>
 			<h3>metaphilosophy</h3>
 			<div>
 			{%	include quotes/meta.html	%}

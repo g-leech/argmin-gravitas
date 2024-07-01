@@ -20,14 +20,17 @@ warnings:
 wordcount:      
 ---
 
-Greggs: Fighting the replication crisis, one brutality case at a time.
+> Greggs: Fighting the replication crisis, one brutality case at a time.
 
-Carver : You can't even call this shit a [crisis].
+> Carver : You can't even call this shit a [crisis].
 
-Hauk : Why not?
+> Hauk : Why not?
 
-Carver : [Crises] end.
+> Carver : [Crises] end.
 
+
+
+Analytical index!!!
 
 
 Comparing evidential standards across fields. Which is easiest to publish in? Which replicates? What's the average Bayes factor?
@@ -111,6 +114,9 @@ We did not learn as much about Covid as we hoped to, in real time.
 % EXPERIMENT: rate of economic cost estimates in NPI epi
 
 
+    
+A whole thing about model misspecification as the key thing DL lets you avoid
+
 
 Failure of reform in psych
 
@@ -144,3 +150,8 @@ https://en.m.wikipedia.org/wiki/GRIM_test#:~:text=The%20granularity%2Drelated%20
 
 
 
+\paragraph{The spurious features controversy}
+
+https://arxiv.org/abs/2110.04301
+https://openreview.net/forum?id=BcbwGQWB-Kd
+parrots

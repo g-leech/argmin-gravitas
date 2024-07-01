@@ -44,11 +44,100 @@ Here's an attempt to explain plainly what I actually did. (You can also click "T
 
 ## Official conclusions
 
-I bring lessons from metascience into Bayesian practice and into broader machine learning practice. 
-I also attempt to compare evidential standards in these fields.
+- What have I actually discovered?
+
+## COVID
+- Mass voluntary uptake of masking
+- Invalid methodology, Mandate proxy
+- OxCGRT fatal data problem, unusable
+- Peak seasonality. We take a bunch of case data and try to work out the "seasonality", how much the disease weakens between summer and winter. This requires us to work out the peak intensity day, the top of the seasonal effect. We reliably infer the peak as 1st January. Probably coincidence, but ALSO could be that the astronomers who consulted on the Gregorian calendar nailed it.
+
+
+Mask wearing in community settings reduces SARS-CoV-2 transmission
+    Noted the global pre-mandate voluntary spike in mask wearing
+    Identified a ubiquitous methodological mistake (the mandate timing proxy)
+    First international analysis of masks with a random sample of self-reported mask wearing data. Constructed and validated a global dataset from multiple sources.
+    First Bayesian hierarchical model for mask wearing, adapting existing NPI model of {\small\cite{Braunereabd9338}}. Functional form modelling effects of mask wearing.
+    Lead writer
+
+
+
+
+
+
+Ten Hard Problems in Artificial Intelligence We Must Get Right
+    Sole author on the capabilities, alignment, opportunities, access, and meaning sections
+    Zotero bibliography of 1349 good papers
+    Characterised methodology of early deep learning and the `large scale era'
+    Diagrams and models: modelled the AI governance field, two decompositions of the alignment problem, traced the family tree of AlexNet and GPT-2.
+
+
+
+
+Tracking replications in the social, cognitive, and behavioural sciences    
+    Initiated the project with 53 famous effects that fail to replicate
+    Helped organise the crowdsourcing of 1932 studies
+    Designed the data analysis around the resulting nonrandom sample
+
+
+Safety Properties of Inductive Logic Programming (2021)  
+    Ran the Metagol experiments
+    Literature review and feasibility study for inductive logic approaches
+    Taxonomy of sources of inductive bias
+
+
+Decision trees compensate for model misspecification
+    Generative models for the synthetic tests
+    Bootstrapping and sensitivity analysis
+
+
+How to lie in machine learning
+    Taxonomy of questionable practices
+    Collated published and unpublished examples of questionable practices
+    Generated possible solutions
+    Literature review relating ML to existing metascience frameworks
+    Designed retraction analysis
+    Designed the researcher survey
+
+
+Inferring the effectiveness of government interventions against COVID-19} (2020)
+    Literature review of semi-mechanistic models
+    Helped set the epidemiological priors
+    One among many authors on NPI data collection.
+
+
+
+
+How Robust are the Estimated Effects
+    Formalised model assumptions
+    Refactored theorem 1 and 2
+    Diagrams: model variations (Figure 4)
+
+
+
+
+Seasonal variation in SARS-CoV-2
+    Insolation analysis (Appendix 1)
+    Diagrams including key figure 2
+
+
+
+Some volunteer labour collecting NPI data
+Very rudimentary PPL 
+
+
+Activation Addition: Steering Language Models Without Optimization} (2024)
+    Designed quantitative experiments 
+    Designed diagrams and pseudocode
+    Literature review on steering vectors
+
+
+
 
 
 ## Unofficial conclusions
+
+* It is a Gelmanian work, in that I cite him 73 times and in every chapter, and in that it is self-elected science police work, in that it skips merrily across disciplinary boundaries, and in that its tone is stubbornly irreverent
 
 * It's surprisingly easy to do real work in fields you have zero background in. This is partly because stats now reigns imperial in roughly all sciences but also because many fields are in some sense methodologically shallow and content deep.
 
@@ -68,6 +157,11 @@ I also attempt to compare evidential standards in these fields.
 A real phd. Discoveries. You know, something like
 
 <img src="/img/riechers.png" />
+
+
+
+I was only really intellectual lead on ILP, reversals, masks, hard problems. 
+
 
 
 The Point
@@ -98,3 +192,10 @@ https://arxiv.org/abs/2403.07949
 https://www.research-collection.ethz.ch/handle/20.500.11850/635156
 https://csc.ucdavis.edu/~cmg/papers/Riechers.UCDDissertation2016.pdf
 https://theses.gla.ac.uk/3258/1/2011CalderheadPhD.pdf
+
+
+## Natty STEM
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">met a grad student doing a natty phd tonight. no coffee, no amphetamines, no meal replacements</p>&mdash; typedfemale (@typedfemale) <a href="https://twitter.com/typedfemale/status/1717803963423334725?ref_src=twsrc%5Etfw">October 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+I did it without hardcore stimulants, as did I think most of my cohort. Tried one dose of vyvanse. Modafinil's effects are entirely the wrong target. Couple mg of nicotine a day. No caffeine.
