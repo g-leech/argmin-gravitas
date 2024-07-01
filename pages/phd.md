@@ -23,7 +23,7 @@ visible:	false
 
 I did a PhD in machine learning at Bristol with <a href="{{la}}">Laurence Aitchison</a>, 2019-2024. (Includes a year of mandatory classes and a year off in which I started <a href="https://arbresearch.com">Arb</a>.)<br>
 
-I went in wanting to work on AI safety. True to form, I instead ended up with a grab-bag of fields and topics: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, scientific malpractice, inductive logic, algorithmic fairness and (of course) large language models. Some safety work in there if you squint. But I published enough, so the resulting thesis is <i><a href="/files/thesis.pdf">Methods Failing the Data, Data Failing the Methods</a></i>.
+I went in wanting to work on AI safety. True to form, I instead ended up with a grab-bag of fields and topics: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, scientific malpractice, inductive logic, algorithmic fairness and (of course) large language models. Some safety work in there if you squint. But I published enough, so the resulting thesis is <i><a href="/files/thesis.pdf">Methods Failing the Data, Data Failing the Methods</a></i>. <a href="#fn:1" id="fnref:1">1</a>
 
 I was very lucky. It looks like a success on the usual bad measures (h-index, impact factors, top conferences, first-author pubs, an academic job offer at the end). But I didn't go into it for poxy numbers or a mere job; I went in become a great scientist. Obviously this did not happen. 
 
