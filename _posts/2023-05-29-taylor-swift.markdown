@@ -38,7 +38,7 @@ argument:   swift/argument.html
 
 <br>
 
-> Swift has encountered the type of controversies that would destroy most pop stars' careers and acclaim. But at age 31, she has never been more awarded or acclaimed as a singer-songwriter... This [college] course proposes to deconstruct both the appeal and aversions to Taylor Swift through close readings of her music and public discourse as it relates to her own growth as an artist and a celebrity. 
+> Swift has encountered the type of controversies [sic] that would destroy most pop stars' careers and acclaim. But at age 31, she has never been more awarded or acclaimed as a singer-songwriter... This [college] course proposes to deconstruct both the appeal and aversions to Taylor Swift through close readings of her music and public discourse as it relates to her own growth as an artist and a celebrity. 
 
 <center>– <a class="noline" href="{{nyu}}">NYU</a></center>
 
@@ -52,11 +52,14 @@ In [pop] the trick is plain – to please the crowd by any means. But [mid work]
 <br><br>
 
 
+### You're on your own, kid
+
+
 Pop music is good. Songwriting teams are good. Precision is good. Reptilian strategising is good. Working your arse off is good. People liking things is good. <a href="{{t}}">Artists making money</a> is good. Admitting you are a trash-fire human being is good. And reinventing yourself is good. <!-- Serial monogamy is good. Narcissist art is often great. Trash is good. Dancing in heels is impressive I guess. Singers who can't sing very well are good. She acknowledges her team frequently even if you lot don't. -->
 
 So why does Taylor Swift make me feel like I have ants beneath my skin? 
 
-I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a href="{{c2}}">of large</a> <a href="{{c3}}">corporations</a> and 40+ ghostwriters and designers and <a href="{{law}}">lawyers</a> <a href="#fn:6" id="fnref:6">6</a>) represent itself as a singular human being I am to empathise with <a href="#fn:14" id="fnref:14">14</a>. Then a large part of society greets this machine as an artist, like a line of ducklings imprinting on a combine harvester.
+I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a href="{{c2}}">of large</a> <a href="{{c3}}">corporations</a> and 40+ ghostwriters and designers and <a href="{{law}}">lawyers</a>) represent itself as a singular human being I am to empathise with <a href="#fn:14" id="fnref:14">14</a>. Then a large part of society greets this machine as if it was an artist, like a line of ducklings imprinting on a combine harvester.
 
 Call the machine <a href="{{trademark}}">TS</a>. The interesting part is that Swift the human built TS the machine and to some extent controls it. A _self_-manufactured pop star: Swift obscures the machine, equivocates, and feeds it vast hosts of people (fans, co-writers, arrangers, choreographers, crew, squad, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to more fame, fame which automatically produces more controversies.
 

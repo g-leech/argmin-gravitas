@@ -21,7 +21,7 @@ visible:	false
 
 <br>
 
-I did a PhD in machine learning at Bristol with <a href="{{la}}">Laurence Aitchison</a>, 2019-2024. (Includes a year of mandatory classes and a year off in which I started <a href="https://arbresearch.com">Arb</a>.)<br>
+I did a PhD in machine learning at Bristol with <a href="{{la}}">Laurence Aitchison</a>, 2019—2024. (Includes a year of mandatory classes and a year off in which I started <a href="https://arbresearch.com">Arb</a>.)<br>
 
 I went in wanting to work on AI safety. True to form, I instead ended up with a grab-bag of fields and topics: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, scientific malpractice, inductive logic, algorithmic fairness and (of course) large language models. Some safety work in there if you squint. But I published enough, so the resulting thesis is <i><a href="/files/thesis.pdf">Methods Failing the Data, Data Failing the Methods</a></i>. <a href="#fn:1" id="fnref:1">1</a>
 
@@ -39,12 +39,13 @@ _Undying thanks to Kristi Laurence Jan Jan Juan Tomáš Rian Matthijs Misha Dani
 ### Posts about my PhD
 
 * <a href="/phdone">Overall index</a> 
-* <a href="/thesis">My thesis in plain language
-	* Click "The Point" on the entries <a href="/researches">here</a>
+* <a href="/nograd">Against PhDs</a>
 * <a href="/phd-numbers">my PhD by numbers</a>
 * <a href="/ignorance">Crossing the ocean of my ignorance</a>
+* <a href="/thesis">My thesis in plain language
+	* You can also just click "The Point" on the entries <a href="/researches">here</a>
+	* <a href="/theorysis">Things I wanted to do for it but didn't</a>
 * <a href="/csml">Thoughts on the field of machine learning</a>
-* <a href="/nograd">Against PhDs</a>
 * <a href="/diary">phdiary</a>
 * <a href="{{tree}}">My academic family</a>. Darwin is my great^10th grandfather.
 
@@ -113,7 +114,7 @@ _Undying thanks to Kristi Laurence Jan Jan Juan Tomáš Rian Matthijs Misha Dani
 <ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
-        Laurence made me change the official title to "Modern Scientific Workflow" to save face but you and I both know what the real title is. <a href="#fn:1" id="fnref:1">1</a>
+        Laurence made me change the official title to "Modern Scientific Workflow" to save face but you and I both know what the real title is. 
     </li>
 
 </ol>

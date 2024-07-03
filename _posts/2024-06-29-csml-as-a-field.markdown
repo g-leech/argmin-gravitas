@@ -97,11 +97,10 @@ I would have done pretty well in an information studies or some social science p
 
 
 
-
-### Endorsements
-
-- It is common for academics to overpraise each other. (We have little enough other currency). 
-- But I have first-hand evidence that the following people are great scientists or true scholars or both:
+<div class="accordion">
+    <h3>Direct endorsements</h3>
+    <div>
+    It is common for academics to overpraise each other. (We have little enough other currency).<br><br> But I have first-hand evidence that the following people are great scientists or true scholars or both:
     - Jan Brauner
     - Tom McGrath
     - Rex Douglass
@@ -115,8 +114,102 @@ I would have done pretty well in an information studies or some social science p
     - Neel Nanda
     - Andis Draguns
     - Maxime Robeyns
-    - Kaveh Nejad 
-    - [[favourite ML people]]
+    - Kaveh Nejad         
+    </div>
+    <h3>Faves</h3>
+    <div>
+        People I deeply admire at least 3 papers by:
+
+- Charles Foster
+- Roger Grosse
+- Zach Lipton
+- Yoav Goldberg
+- Chris Lattner
+- Gwern
+-  John Ingraham
+- Chelsea Finn
+
+
+- Jacob Steinhardt
+- [James Betker](https://nonint.com/about/)
+- Lilian Weng
+- Vincent Conitzer
+- Michael Osborne
+- Chelsea Finn
+- Marc Deisenroth
+- Yoshua Bengio
+- Maxim Raginsky
+- José Hernández Orallo
+- Aleksander Madry
+- Ben Recht
+- Michael I. Jordan
+- [Yi Tay](https://www.yitay.net/)
+- Michael Littman
+- Ferenc Huszár
+- Ruslan Salakhutdinov
+- Joseph Halpern
+- Bernhard Schölkopf
+- Ethan Caballero
+- Joshua Tenenbaum
+- Leslie Kaelbling
+- Julian Stastny
+- Ethan Perez
+- Andrew Gordon Wilson
+- David Duvenaud
+- Eric Langlois
+- Geoffrey Irving
+- Victoria Krakovna
+- Nat McAleese
+- Richard Ngo
+- Jacob Hilton
+- John Schulman
+- Pushmeet Kohli
+- Thore Graepel
+- Tom Everitt
+- Oriol Vinyals
+- Rich Sutton
+- Tom McGrath
+- Kevin Murphy
+- Christian Szegedy
+- Alex Irpan
+- Jascha Sohl-Dickstein
+- Carl Ek
+- Sanjeev Arora
+- Shai Shalev-Shwartz
+- Sergey Levine
+- El Mahdi El-Mhamdi
+- Peter Schmidt-Nielsen
+- Sherjil Ozair
+- Ehud Reiter
+- Horace He
+- Zhengdong Wang
+- John David Pressman
+- Tan Zhi-Xuan
+- Stan Fort
+- Jan Hendrik Kirchner
+- Tushita Jha
+- Ben Recht
+- Rex Douglass
+- Davidad
+- Shubhendu Trivedi
+- Eric Jang
+- Owain Evans
+- David Pfau
+- Smerity
+- Taco Cohen
+- Ferenc Huszár
+- Geoffrey Irving
+- Chris Olah
+- [Kenneth Stanley](https://twitter.com/kenneth0stanley)
+
+## Stats people
+- David Mackay
+- Radford Neal
+- Andrew Gelman
+
+
+    </div>
+</div>
 
 
 
