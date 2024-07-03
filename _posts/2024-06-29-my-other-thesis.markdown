@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "things I didn't do for my thesis"
-baselink:   /theory
-permalink:  /theory
+baselink:   /theorysis
+permalink:  /theorysis
 date:       2024-02-29  <!--site.time-->
 author:     Gavin
 
@@ -15,8 +15,8 @@ importance: 6
 
 summary:    what I ran out of time or nerve for
 confidence: 
-categories: 
-warnings:   
+categories: phd, navel-gazing
+warnings:   navel-gazing
 wordcount:      
 ---
 
@@ -32,8 +32,21 @@ wordcount:
 
 Analytical index!!!
 
+---
 
 Comparing evidential standards across fields. Which is easiest to publish in? Which replicates? What's the average Bayes factor?
+
+---
+
+When is evidence better than nothing?
+    I say that you can't trust observational studies unless they do craploads of really careful data and model checking. But it's not obvious that e.g. my mask paper is nonzero evidence even so.
+
+---
+
+We did independent data entry on the psych dataset; FORRT did a round, then my small team (thanks Sam) did one. A typical data entry error rate on a crowdsourced dataset is 2%.
+
+Clearly we can't take the independent product 2% x 2% = 0.4% as the new estimate, it's going to be much higher because the errors are correlated (some cases are much trickier than others). But I could have estimated this! First I would produce like 20 really really really carefully labelled ground truth examples. Then I would get my actual two sets of volunteers to label them and estimate the error correlation.
+  You could also do some clever work to estimate the size of the label-difficulty `tail'. You could also do Bayesian labelling where the given two labels are just evidence about the actual label.
 
 
 Vast GPT-enabled exhaustive literature reviews

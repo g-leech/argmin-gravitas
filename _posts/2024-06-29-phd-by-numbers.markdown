@@ -13,56 +13,64 @@ quality:    5
 emotion:    5
 importance: 6
 
-summary:    Various estimates of costs and benefits
+summary:    What did a phd take, quantitatively?
 confidence: 
-categories: 
-warnings:   
+categories: phd, navel-gazing
+warnings:   Navel-gazing
 wordcount:      
 ---
 
 
+{%  assign squigtime = "https://squigglehub.org/models/gleech/phd-time"      %}
+
 What does a phd cost you?
 
-People are unwilling to tell you - partly because the variance really is large (e.g. a history PhD will involve a full order of magnitude more solitary reading than a CS phd)
+People are unwilling to tell you - partly because the variance really is large (e.g. a history PhD will involve a full order of magnitude more solitary reading than a CS phd, e.g. some people lose an effective year of work and inner life to an environmental form of actual depression). And partly because it's so hard to nail down the size of the intangibles (counterfactual intellectual development, mental health). With the usual caveats that I am not you and 2024 is not 2019 and my field and department are not your field and department:
 
 
 
-<br><br>
+<br>
 
-### Time
+## Time
 
-- supposed to be 8000-10000 hours. You can do it in 3k. Or I could:
+It's supposed to take ~9000 hours. You can do it in 3k. <a href="#fn:1" id="fnref:1">1</a> Or I could. <a href="{{squigtime}}">Three MCMC estimates of the amount of time I spent</a>:
 
-    - 500 quals
-        UM, MLP, Group, IEE, ADS, Dialogue, Respon, Clogic, Adv top
-    - 1200 coding, writing papers
-        - 150 ilp
-        - 100 Science
-        - 80 Neurips
-        - 30 Multiresp
-        - 250 TPP
-        - 60 neurips
-        - 700 masks
+<br>
 
-    - 300 hours rebuttals
-        Response doc for the masks paper was 42 pages
-    - 126 hours writing thesis
-    - 270 hours lab meetings, journal clubs, preparing for presentations 
-    - 211 hours advisor meetings
-    - 500 hours reading
+#### 1. Roughly-phd-associated hours: 3260 hours 
 
-<!-- 2019: 
-    2020: 
-    2021: 
-    2022: 
-    2023: 259
-    2024: 
--->
+<center>
+    <img width="60%" src="/img/phd/year_hours.jpg" />
+</center>
 
-Others managed in much less.
+This is pretty rough, inferred from my mood tracker and, later (from 2022 on), actually counted on my hours tracker at Arb.
 
-- 46 months
-    - not counting the 10 month sabbatical
+This is above baseline, where the baseline is the pretty intense infovore habit I conduct at all times unprompted, c. 7 hours a day.
+
+<br>
+
+#### 2. Sum of hours spent on actual discrete research projects: 2060 hours
+
+<center>
+    <img width="60%" src="/img/phd/project_hours.png" />
+</center>
+
+#### 3. Hours spent on various activities (reading, writing, coding, teaching, etc)
+
+<center>
+    <img width="60%" src="/img/phd/type_hours.png" />
+</center>
+
+<br>
+
+My best guess, triangulating between these, is 3100 hours. 1.9 hours a day, 2.6 per weekday, or 3.1 per weekday not including my sabbatical.
+
+A small number of other people I've met have managed in much less (around 3 months wall clock) by having a lot of ideas ready to go and going ruthlessly for a PhD-by-publication.
+
+### Wall clock
+
+46 months
+    - not counting the 8 or 10 month sabbatical
     - Where does the time go?
         - I didn't really keep a lab book like you're supposed to (I didn't really work hard enough to merit one. But I have a diary)
         - This is mostly for myself, an attempt to reduce the dimensionality of this terrible, wonderful thing while it is still fresh. But if you're about to start you might benefit from seeing the long stretches of procrastination, incomprehension, and just how much support I needed to get through
@@ -158,3 +166,16 @@ My reviewer advised that I budget 6 months for writing up the papers into a cohe
 - 0 p-values 
 - xx appendices
 - xxx references
+
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+        
+    </li>
+</ol>
+
+</div>

@@ -36,7 +36,7 @@ A thesis is nominally a __unified__ contribution to knowledge. Something new, se
 I'm not amazed with it as a contribution to science but it is a pretty good representation of my mind: unfocussed, sweeping, long on synthesis, short on analysis, more amusing than deep but not not deep.
 
 
-It's called Methods Failing the Data, Data Failing the Methods (they made me change it just before submission but I see no reason to view the university's title as the true title).
+It's called _Methods Failing the Data, Data Failing the Methods_ (they made me change it before submission but I see no reason to view the university's title as the true title).
 
 
 Here's an attempt to explain plainly what I actually did. (You can also click "The Point" on the individual papers <a href="/researches">here</a>.)
@@ -47,6 +47,7 @@ Here's an attempt to explain plainly what I actually did. (You can also click "T
 - What have I actually discovered?
 
 ## COVID
+
 - Mass voluntary uptake of masking
 - Invalid methodology, Mandate proxy
 - OxCGRT fatal data problem, unusable

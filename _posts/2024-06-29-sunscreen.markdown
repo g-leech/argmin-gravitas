@@ -23,14 +23,14 @@ wordcount:
 
 https://docs.google.com/document/d/1bQDEdCB7-MkEzArBpQifDxU8NBR2YjBLlopM-OLqYkQ/edit
 
-Outline
+<!-- Outline
 “Wear sunscreen” (in health, uncertainty, shills, politics are omnipresent. Good evidence is rare). microreplication
 Activity: Why are we here?
 
 Ok here’s the scary part:
+ -->
 
-
-Absolutely deadly serious consent 
+<!-- Absolutely deadly serious consent 
 Humility. Spoon 
 Activity: boggle at the metabolism charts
 FIRST DO NOT HARM YOURSELF
@@ -45,32 +45,34 @@ Call to action
 
 
 Try things: thinking in bets. Equation
+ -->
 
 
+## Wear Sunscreen?
 
-## Transcript
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sTJ7AzBIJoI?si=Qpbkkato3UbmhgZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Limit case: “Wear sunscreen”
-https://archive.ph/lHpud (play the track as intro music)
+<br>
 
-A journalist was once asked to write a commencement speech for a college graduation. You know the kind of thing: secular sermons about staying true to yourself, working hard and working smart, .
+A [journalist](https://archive.ph/lHpud) was once asked to write a commencement speech for a college graduation. You know the kind of thing: secular sermons about staying true to yourself, working hard and working smart, work-life balance, etc.
 
 She thought hard about the deepest truth she actually thought was a universal platitude and said “wear sunscreen”. Life is so uncertain, people differ so much, that that’s the best she can do.
 
-Unfortunately a lot of people disagree with “wear sunscreen”
+Unfortunately, a lot of people disagree with “wear sunscreen”. For instance, the notable bullshitter Huberman is “as scared of sunscreen as I am of melanoma.” More seriously, there's a Swedish researcher who seems honestly interested in the net effect of sun exposure on mortality instead of just melanoma, and tends to think that it's positive.
 
-Huberman “as scared of sunscreen as I am of melanoma.” 
+But no! _Surely_ we know a lot about health already. Surely we live in a scientific society. 
+Skin cancer is in fact very bad.
 
 
-Surely we know a lot about health already. Surely we live in a scientific society. 
-The simplest and most banal advice is: wear sunscreen. Skin cancer is very bad.
+#### Shills. 
 
-Shills. But! someone is trying to sell you something
-But most things people sell serve a function
-But often a simulacrum function
-    But the other side are also trying to sell me something with even higher margins
+* But! someone is trying to sell you something
+    * But most things people sell serve a function
+        * But often a simulacrum function
+            * But the other side are also trying to sell me something with even higher margins
 
-Uncertainty
+#### Uncertainty
+
 But haven’t you seen the guy? Dermatoheliosis
 
 But  intermittent exposure hypothesis 
@@ -222,6 +224,7 @@ Again, dosage is what causes effects.
 * Degradation (rancidity)
 * Scams
 * Poor QA
+* Ligand 
 
 Gigantic variation in actual melatonin content.
 
@@ -482,3 +485,8 @@ We wanted P(PCR+ | masks) / P(PCR+ | ¬masks)
 
 We got P(Ab+ | masks, , , , ) 
 
+<br><br>
+
+## See also
+
+* [gleech.org/med](https://www.gleech.org/med)  
