@@ -75,24 +75,25 @@ visible:	true
 <div class="accordion">
 	<h3>Consulting</h3>
 	<div>
-		I run the research consultancy <a href="{{arb}}">Arb</a> with Misha Yagudin. We have a team of 30 that cover a pretty wide range of scientific and judgmental areas.<br><br>
+		I run the research consultancy <a href="{{arb}}">Arb</a> with Misha Yagudin. Our team of 20 covers a good range of scientific and judgmental areas.<br><br>
 		<ul>
 			<li>ML experiments</li>
 			<li>Evidence reviews</li>
-			<li>AI safety</li>
+			<li>Large-scale data collection</li>
 			<li>Judgmental forecasting</li>
+			<li>AI safety</li>
 			<li>Technical writing</li>
-			<li>Software engineering</li>
-			<li>Cost-benefit analysis</li>
-			<li>Biotech, biorisk, epidemiology</li>
-			<li>Policy advice</li>
-			<li>Hardware</li>
+			<!-- <li>Software engineering</li> -->
+			<li>Cost-effectiveness analysis</li>
+			<li>Biotech and epidemiology</li>
+			<li>Policy analysis</li>
+			<!-- <li>Hardware</li> -->
 			<li>Analytic philosophy</li>
 			<li>Synthetic philosophy</li>
-			<li>Philanthropy</li>
+			<!-- <li>Philanthropy</li> -->
 		</ul>
 		<br>
-		<b><a href="hi@arbresearch.com">Get in touch!</a></b>
+		<b><a href="mailto:hi@arbresearch.com">Get in touch!</a></b>
 		<br><br><br>
 	</div>
 	<h3>Popular</h3>

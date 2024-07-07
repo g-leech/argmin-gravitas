@@ -1,12 +1,12 @@
 ---
-layout:     post
+layout:     page
 title:      "Grad school by numbers"
 baselink:   /phd-numbers
 permalink:  /phd-numbers
-date:       2024-02-29  <!--site.time-->
+date:       2024-07-06  <!--site.time-->
 author:     Gavin
 
-img:        /img/phd/
+img:        /img/phd/dalys.svg
 published:  true
 visible:    1
 quality:    5
@@ -20,12 +20,23 @@ warnings:   Navel-gazing
 wordcount:      
 ---
 
+<br>
 
 {%  assign squigtime = "https://squigglehub.org/models/gleech/phd-time"      %}
+{%  assign kuhn = "https://www.benkuhn.net/grad/"  %}
+{%  assign low = "https://www.google.com/search?q=8+*+5+*+52+*5&oq=8+*+5+*+52+*5&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQBhhAMgYIAhAGGEAyBggDEAYYQDIGCAQQBhhAMgYIBRAGGEAyCggGEAAYBxgIGB4yCggHEAAYBxgIGB4yCggIEAAYBxgIGB4yCggJEAAYBxgIGB7SAQkxMDMzMWoxajeoAgCwAgA&client=ubuntu-chr&sourceid=chrome&ie=UTF-8"   %}
+{%  assign red = "https://osf.io/preprints/metaarxiv/me2ub"   %}
+{%  assign gs = "https://scholar.google.com/citations?user=xC-v_aUAAAAJ"   %}
+
+
 
 What does a phd cost you?
 
-People are unwilling to tell you - partly because the variance really is large (e.g. a history PhD will involve a full order of magnitude more solitary reading than a CS phd, e.g. some people lose an effective year of work and inner life to an environmental form of actual depression). And partly because it's so hard to nail down the size of the intangibles (counterfactual intellectual development, mental health). With the usual caveats that I am not you and 2024 is not 2019 and my field and department are not your field and department:
+People are unwilling to tell you - partly because the variance really is large (e.g. a history PhD will involve a full order of magnitude more solitary reading than a CS phd; e.g. some people lose an effective year of work and inner life to <a href="{{kuhn}}">environmental</a> depression; e.g. Americans tend to take 7 whole years where a Euro is often half that). 
+
+And partly because it's so hard to nail down the size of the intangibles (your counterfactual intellectual development, new virtues and vices, mental health, credibility, increased and decreased job opportunities, a permanent sense of possibility or incapacity). 
+
+With the usual caveats that I am not you and 2024 is not 2019 and my field and department are not your field and department:
 
 
 
@@ -33,7 +44,7 @@ People are unwilling to tell you - partly because the variance really is large (
 
 ## Time
 
-It's supposed to take ~9000 hours. You can do it in 3k. <a href="#fn:1" id="fnref:1">1</a> Or I could. <a href="{{squigtime}}">Three MCMC estimates of the amount of time I spent</a>:
+It's supposed to take >10000 hours. <a href="#fn:1" id="fnref:1">1</a> You can do it in 3k. Or I could. <a href="{{squigtime}}">Three MCMC estimates of the amount of time I spent</a>:
 
 <br>
 
@@ -45,7 +56,7 @@ It's supposed to take ~9000 hours. You can do it in 3k. <a href="#fn:1" id="fnre
 
 This is pretty rough, inferred from my mood tracker and, later (from 2022 on), actually counted on my hours tracker at Arb.
 
-This is above baseline, where the baseline is the pretty intense infovore habit I conduct at all times unprompted, c. 7 hours a day.
+This is just hours above baseline, where the baseline is the pretty intense infovore habit I conduct at all times unprompted, c. 7 hours a day.
 
 <br>
 
@@ -55,7 +66,11 @@ This is above baseline, where the baseline is the pretty intense infovore habit 
     <img width="60%" src="/img/phd/project_hours.png" />
 </center>
 
-#### 3. Hours spent on various activities (reading, writing, coding, teaching, etc)
+This one's a lower bound: just capital-r-Research; the sum of the time I spent on all the repos and Overleafs I ever wrote. 
+
+<br>
+
+#### 3. Hours by activity (reading, writing, coding, teaching, etc)
 
 <center>
     <img width="60%" src="/img/phd/type_hours.png" />
@@ -63,118 +78,148 @@ This is above baseline, where the baseline is the pretty intense infovore habit 
 
 <br>
 
-My best guess, triangulating between these, is 3100 hours. 1.9 hours a day, 2.6 per weekday, or 3.1 per weekday not including my sabbatical.
+<hr />
 
-A small number of other people I've met have managed in much less (around 3 months wall clock) by having a lot of ideas ready to go and going ruthlessly for a PhD-by-publication.
+<br>
+
+My best guess, triangulating between these, is 3500 hours. So 2.1 hours a day, or 3.0 per weekday.
+
+I've met a small number of people who managed in much less (like 5 months total) by having a lot of ideas ready to go and going ruthlessly for a PhD-by-publication.
+
+My examiner advised me to budget 6 months for writing up my papers into a coherent thesis. On the other hand, a friend of mine did his in 7 days (90 hours). I compromised and did it in a month (227h). 
+
+<br>
 
 ### Wall clock
 
-46 months
-    - not counting the 8 or 10 month sabbatical
-    - Where does the time go?
-        - I didn't really keep a lab book like you're supposed to (I didn't really work hard enough to merit one. But I have a diary)
-        - This is mostly for myself, an attempt to reduce the dimensionality of this terrible, wonderful thing while it is still fresh. But if you're about to start you might benefit from seeing the long stretches of procrastination, incomprehension, and just how much support I needed to get through
-        - It is partially censored
+For administrative reasons I mostly couldn't have batched these hours and finished in one mildly intense 3000-hour year. (For instance, it took 11.5 months for my big PNAS paper to come out after the initial submission and this was the decisive moment of my phd. <a href="#fn:2" id="fnref:2">2</a>)
+
+So, 46 months. (Not counting the 10 month sabbatical.) Where does the time go?
+
+I didn't really keep a lab book like you're supposed to (I didn't really work hard enough to merit one.) But I kept a personal diary and track my reading and used git or Overleaf for everything, the version histories of which let me <a href="/diary">reconstruct a lot</a>.
+
+<br>
+
+## Cost
+
+- $500k opportunity cost to me
+    - I was working in <a href="/corp">London tech</a> before starting the course. I couldn't have continued because I was bored out, but if I had found something as remunerative my earnings would have been around $600k (or much more on the new trajectory that Arb put me on), where the stipend was like $120k. I did a bunch of side gigs anyway so this should probably be scaled down a bit.
+    - There's an impact opp cost too, of course, but I'm feeling pretty good about it.
+- ~$200k cost to the UK taxpayer
+- $20k compute 
+    - We spent $8000 of donated Azure credits for the masks paper alone, mostly 50k MCMC runs and param sweeps and bootstraps. <a href="#fn:6" id="fnref:6">6</a>
+    - Around $1k on the OpenAI API.
+    - $4k laptop and monitors and such
+    - Two grand making my gaming desktop into a DL rig, but it didn't really make much difference vs Azure, besides selling me on WSL.
+    - Very hard to say what my share of the Bristol ACRC was, but not much.
+    - This is a large amount compared to most STEM PhDs, but I'd guess my spend was only half that of my ML peers and a third of my computer vision peers.
+
+- _Externalities_. I still believe that improving AI capabilities has a good chance of making things much worse for everyone. This is one reason I avoided certain types of work. But few individual researchers have much effect on the frontier (possible exceptions: RLHF, GELU, llama.cpp). At most you can speed things up a couple months or make things a bit cheaper. I don't flatter myself that any of my papers are strong enough to do damage.
+
+- Quals year: extraordinary pain and tedium, at times as much as a corporate job (but much more avoidable).
+- Pain. I burned out for a month at the end of one particularly difficult and unyielding project.
+    - On another occasion, academic politics made me nope out for 3 months. But I used this time well.
+    - Isolation. Not very bad in my case. I had an office but didn't go once in the last 3 years, it interfered with my collaborations and travel plans.
+
+
+<br>
+<br>
+
+## Some other numbers
+
+<!-- - I ran 11 studies with like 97 regressions -->
+- I started 83 Overleafs, one every time I had at least one day of conviction for an idea. 
+- Of these, 56 became actual discrete projects with some code or thinking involved. 
+- Of those, 16 became papers (they got a result or were otherwise illuminating).
+- Of these, 6 wouldn't have happened if I didn't do them. (This is what people should mean when they brag about being first-author.)
+- I wrote about 400 pages (not counting bibliographies or rebuttals). 187 pages of these are published.
+- The longest delay between submitting a paper and having it accepted by that journal was 11.5 months.
+- The shortest delay between submitting and acceptance was 3 months (UAI <3)
+- Counting retweets I tweeted 5600 times, 3 times a day.
+- I calculated very few p-values, maybe only 60 or 70, for SOTA bolding.
+- I only fit a half a dozen regressions but they were mostly very large (c. 40,000 variables).
+- I read about 470 papers closely (i.e. end-to-end at least once, making notes).
+- I cited about 1000 papers (I spent at least 10 minutes on each).
+- I used about 100 different datasets.
+- <a href="{{gs}}">Bla bla bla</a>
+
+<br>
+
+### Success rate
+
+What's the rate of research projects failing in some sense?
+
+
+- Project failure rate (no peer-reviewed output): 87%
+    - Project failure rate (no public output): 80%
+    - Project failure rate (no results): 64%
+    - Project failure rate (didn't really learn anything): 34%
+
+- Scoop rate (someone else did it first): 7%
+
+- Publications
+    - Acceptance rate: 52% <a href="#fn:4" id="fnref:4">4</a>
+    - 38 coauthors 
+        - (12 of which were deep collaborations, with commitments and whiteboards and weekly calls and such) <a href="#fn:5" id="fnref:5">5</a>
+
+- Data thugs who inspected my work _pro bono_: 3 (this is not a pejorative)
 
 
 
-- ### more Numbers
-    - Project failure rate (no public output): 
-        - Project failure rate (no peer-reviewed output): 
-        - Project failure rate (no results): 
-    - Publications
-        - Acceptance rate: ((6/16 * 100%
-    - [x00 hours](((K-K4Ki2lX)))
-    - network
-    - N coauthors
-    - completed n textbooks (all exercises)
-    - $100k funding, among the highest in the country
-    - number of difficult books: 
-- Opportunity cost
-    - I was working in London tech. I couldn't have continued because I was bored out, but if I had found something roughly as remunerative my earnings would have been around £((  (65000*1.15^1 + 65000*1.15^2 + 65000*1.15^3 + 65000*1.15^4) )), so I lost about $300k on previous trajectory, much more on the trajectory that Arb and the mask paper put me on
-    - Not counting Arb though
-- $0000 dollars of compute 
-    - 8000 of Microsoft donated for one paper, say 50000 MCMC runs
-    - Very hard to say what my share of the ACRC was, but basically very little
-    - Spent a grand building a nicer desktop, but didn't really make much difference besides selling me on WSL
+<br>
 
+## On What Matters
 
+That's all very well. But what about _real_ output - new ideas, frames, stylised facts, tools, theorems, expansions of the human sphere, corrections of the record, putting the right words in the right ear? Solutions to _uncontrived_ problems. See <a href="/thesis">here</a> for the modest details.
 
-    - I asked my labmates what it was all about. They didn't really know how to answer the question
+* Results I regard as worth knowing: 7
+* Results of general interest: 2
+* Theorems: 1
+* Interesting theorems: 0
+* Statistical models developed: 9
+* Models trained: yeah I dunno 
+<!-- (# final runs, not counting hparam sweeps)   -->
+* Repos open-sourced: 5
+* New datasets collected: 4
+
+<br>
 
 
 ## Benefit
-- [[PhD by numbers]]
-- Confidence / Credibility
-- Grit
-- Scientific writing
-- Government experience
-- Clients
-- Impact
-- [[research taste]]
-- [[what does a research advisor do?]]
-- [[free shit with an institutional login]]
 
+I cover this other side of the equation lazily (qualitatively) <a href="/phdone#benefit">here</a>.
 
-## Humans
-
-Once I almost did a project with human participants -- some standard HCI experimental economics blah.
+(I thought about putting numbers on these, and might in future, but it's going to be permanently difficult to work out how much of the benefit was just due to time, to me growing up at last.)
 
 
 
-## Time
+<br><br>
 
-My reviewer advised that I budget 6 months for writing up the papers into a coherent thesis. My friend did his in 7 days (90 hours). I compromised and did it 227h. 
-
-
-
-
-- # Cost
-    - ## {{[[calc]]: ((150+30+250+60+700))}} hours
-    - This is obviously hugely less than most people or the clock time.
-    - Opportunity cost
-        - $400k opportunity cost
-        - Impact opportunity cost
-            - probably not that much
-    - Quals year: extraordinary pain and tedium
-    - One breakdown
-    - One friend
-    - Artificial isolation. Covid somewhat to blame but not much
-- ## Inputs
-    - X textbooks
-    - Y papers
-    - Knowing Jan Brauner
-- ## benefits
-    - Emotional control
-        - Massive confidence
-        - Neutrality about maths. Emotional and proportion
-    - Skill
-        - Paper writing
-    - Cynicism
-        - Holy and credible contempt for people who use Dr in ordinary social contexts, those who require them in jobs. 
-            - There is almost no quality control. Novelty is barely necessary, and utility not at all
-    - Made friends with lecturers. 
-        - Board games
-    - Cred
-        - Two clients
-        - Government policy
-- x years, y days
-    - z hours
-- xxxxx words, y pages
-- 11 studies 
-- 97 regressions
-- 0 p-values 
-- xx appendices
-- xxx references
 
 
 
 <div class="footnotes">
 
 <ol>
-    <!-- 1 -->
     <li class="footnote" id="fn:1">
-        
+        We can infer this from how the contrarians brag about "only" working 9-5, which gets you the <a href="{{low}}">lower bound</a>.
+        <br><br>
+        Wet sciences (chemistry, biology, engineering) are worse than dry sciences like CS though. A chemist on Quora: "10-11 hours/day of being in lab/class/office is what my institution recommends (55-60 h/week)."
+    </li>
+    <li class="footnote" id="fn:2">
+        Incidentally, PNAS lie about this in the paper's front matter; they count the date they "received" it as the date of our <i>re</i>submission, i.e. 4.5 months after the initial submission. This is because journals look bad if they take years to accept things.
+    </li>
+    <li class="footnote" id="fn:3">
+        Choosing a field is a kind of bet. So there's a kind of cachet to predicting how things were going to go in 2017 rather than 2022. Though I deserve about 1000 times less than the 2005(!) guys.
+    </li>
+    <li class="footnote" id="fn:4">
+        not counting arxiv or medrxiv, not counting later-successful R&Rs as rejects
+    </li>
+    <li class="footnote" id="fn:5">
+        not counting giant collaborations like the 190 authors on <a href="{{red}}">ReD</a>
+    </li>
+    <li class="footnote" id="fn:6">
+        Obviously you can't sum these costs for each coauthor, so I'll just totally discount the compute used on the other Covid papers to crudely compensate for this.
     </li>
 </ol>
 

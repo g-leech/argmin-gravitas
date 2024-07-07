@@ -146,7 +146,7 @@ That said, we shouldn't equivocate between state and private bureacracies, as th
 
 * What is The Actuarial Problem? <a href="#fn:4" id="fnref:4">4</a>
     * First, pass each customer through a boolean function of handcrafted rejection rules. 
-    * If they survive, predict their expected loss. A stochastic model with a heavily skewed non-negative response distribution, with a multiplicative structure.
+    * If they survive, predict their expected loss. A statistical model with a heavily skewed non-negative response distribution, with a multiplicative structure.
     * _Pricing constraints_: pro-rata (price per time); add some hand coded loadings and discounts (e.g. "expected loss should increase with the sum insured"); enforce monotonicity to prevent customer outrage; similarly, enforce only small changes on previous pricing for each customer.
     * _Regulatory constraints_: remove all explicit factors relating to <a href="{{protected}}">protected classes</a> and vet factors for strong correlations with them; model explanation; known relationships between risk and risk factors.
     * A pair of GLMs modelling the "severity" (loss amount conditional on claim) and "frequency" (claim probability) handle all this quite well, but boosted trees are edging them out after thirty years.
@@ -200,11 +200,11 @@ The second is true by definition - the companies simply wouldn't outsource if it
 {%  include corp/jargon.html %}
 
 
-* Every new thing gets called "AI". Except anything invented before the 90s is not AI, even if it is a statistical learning method like the other things you call AI. GLMs are not AI. <a href="{{rpa}}">RPA</a> is AI.
+* Every new thing gets called "AI". Anything invented before the 90s is not AI, even if it is a statistical learning method like the other things you call AI. GLMs are not AI. <a href="{{rpa}}">RPA</a> is AI.
 
 * My company's name was intentionally selected to mean nothing in any language. This is a _great_ metonym.
 
-* About half of job titles were inflated. The most common was reskinning your Actuarial Analyst job as a Data Scientist job. As far as I know no-one was ever called on this, and references rarely corrected it.
+* About half of job titles were inflated. The most common was reskinning your Actuarial Analyst job as a Data Scientist job on Linkedin. As far as I know no-one was ever called on this, and references rarely corrected it.
 
 * You may have noticed that in modern business, everything is 'award-winning'. This is due to the incredible array of trade magazines and their trade awards. A charade of ladders. A veneer.
 
