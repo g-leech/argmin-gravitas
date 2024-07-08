@@ -27,12 +27,12 @@ wordcount:
 {%  assign low = "https://www.google.com/search?q=8+*+5+*+52+*5&oq=8+*+5+*+52+*5&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQBhhAMgYIAhAGGEAyBggDEAYYQDIGCAQQBhhAMgYIBRAGGEAyCggGEAAYBxgIGB4yCggHEAAYBxgIGB4yCggIEAAYBxgIGB4yCggJEAAYBxgIGB7SAQkxMDMzMWoxajeoAgCwAgA&client=ubuntu-chr&sourceid=chrome&ie=UTF-8"   %}
 {%  assign red = "https://osf.io/preprints/metaarxiv/me2ub"   %}
 {%  assign gs = "https://scholar.google.com/citations?user=xC-v_aUAAAAJ"   %}
-
+{%  assign nsf = "https://ncses.nsf.gov/pubs/nsf24300/data-tables"  %}
 
 
 What does a phd cost you?
 
-People are unwilling to tell you - partly because the variance really is large (e.g. a history PhD will involve a full order of magnitude more solitary reading than a CS phd; e.g. some people lose an effective year of work and inner life to <a href="{{kuhn}}">environmental</a> depression; e.g. Americans tend to take 7 whole years where a Euro is often half that). 
+People are unwilling to tell you - partly because the variance really is large (e.g. a history PhD will involve a full order of magnitude more solitary reading than a CS phd; e.g. some people lose an effective year of work and inner life to <a href="{{kuhn}}">environmental</a> depression; e.g. Americans tend to take <a href="{{nsf}}">7 whole</a> years where a Euro is often half that). 
 
 And partly because it's so hard to nail down the size of the intangibles (your counterfactual intellectual development, new virtues and vices, mental health, credibility, increased and decreased job opportunities, a permanent sense of possibility or incapacity). 
 
@@ -44,7 +44,7 @@ With the usual caveats that I am not you and 2024 is not 2019 and my field and d
 
 ## Time
 
-It's supposed to take >10000 hours. <a href="#fn:1" id="fnref:1">1</a> You can do it in 3k. Or I could. <a href="{{squigtime}}">Three MCMC estimates of the amount of time I spent</a>:
+It's supposed to take >10000 hours. <a href="#fn:1" id="fnref:1">1</a> You can do it in 3k. <a href="{{squigtime}}">Three MCMC estimates of the amount of time I spent</a>:
 
 <br>
 
@@ -70,11 +70,28 @@ This one's a lower bound: just capital-r-Research; the sum of the time I spent o
 
 <br>
 
-#### 3. Hours by activity (reading, writing, coding, teaching, etc)
+#### 3. Hours by activity (reading, writing, coding, teaching, etc) 2800 hours
 
 <center>
     <img width="60%" src="/img/phd/type_hours.png" />
 </center>
+
+* classes: c. 200 // and coursework and exams
+* reading = 
+    * citations = c. 200 
+    * papers = 300 
+    * textbooks = 400
+    * reviews = 80
+    * twitter = 200 // just the ML and metascience fraction, 25%
+    
+* experiments = 300 to 700 
+* writing = 750 // above baseline, which is about 2 hours a day
+* publication = 475 // Rebuttals and formatting after first drafts
+* presentations = 140
+* admin = 325
+* teaching = 140 // not counting ESPR
+* conferences = 75
+* thesis = 226
 
 <br>
 
@@ -117,9 +134,10 @@ I didn't really keep a lab book like you're supposed to (I didn't really work ha
 - _Externalities_. I still believe that improving AI capabilities has a good chance of making things much worse for everyone. This is one reason I avoided certain types of work. But few individual researchers have much effect on the frontier (possible exceptions: RLHF, GELU, llama.cpp). At most you can speed things up a couple months or make things a bit cheaper. I don't flatter myself that any of my papers are strong enough to do damage.
 
 - Quals year: extraordinary pain and tedium, at times as much as a corporate job (but much more avoidable).
-- Pain. I burned out for a month at the end of one particularly difficult and unyielding project.
-    - On another occasion, academic politics made me nope out for 3 months. But I used this time well.
-    - Isolation. Not very bad in my case. I had an office but didn't go once in the last 3 years, it interfered with my collaborations and travel plans.
+- Pain. I burned out for a couple months at the end of one particularly difficult and unyielding project.
+    - On another occasion, academic politics made me nope out for 3 months from spite / self-respect. But I used this time well.
+- Isolation. Not very bad in my case. In a narrow and myopic sense, Covid was a blessing in fact. I had an office but didn't go once in the last 3 years. It interfered with my collaborations and travel plans.
+    - There's also a deeper isolation, that of specialisation and intellectual distance - only having a dozen people in the world who can fully understand your project and problems. But I'm not very specialised.
 
 
 <br>
@@ -128,22 +146,23 @@ I didn't really keep a lab book like you're supposed to (I didn't really work ha
 ## Some other numbers
 
 <!-- - I ran 11 studies with like 97 regressions -->
-- I started 83 Overleafs, one every time I had at least one day of conviction for an idea. 
+- I started 83 Overleafs, one for every time I had >1 day of conviction for an idea. 
 - Of these, 56 became actual discrete projects with some code or thinking involved. 
 - Of those, 16 became papers (they got a result or were otherwise illuminating).
 - Of these, 6 wouldn't have happened if I didn't do them. (This is what people should mean when they brag about being first-author.)
 - I wrote about 400 pages (not counting bibliographies or rebuttals). 187 pages of these are published.
 - The longest delay between submitting a paper and having it accepted by that journal was 11.5 months.
-- The shortest delay between submitting and acceptance was 3 months (UAI <3)
+<!-- - The shortest delay between submitting and acceptance was 3 months (UAI <3) -->
 - Counting retweets I tweeted 5600 times, 3 times a day.
 - I calculated very few p-values, maybe only 60 or 70, for SOTA bolding.
 - I only fit a half a dozen regressions but they were mostly very large (c. 40,000 variables).
 - I read about 470 papers closely (i.e. end-to-end at least once, making notes).
-- I cited about 1000 papers (I spent at least 10 minutes on each).
+- I cited about 1000 papers (I spent at least 5 minutes on each).
 - I used about 100 different datasets.
 - <a href="{{gs}}">Bla bla bla</a>
 
 <br>
+
 
 ### Success rate
 
@@ -208,9 +227,6 @@ I cover this other side of the equation lazily (qualitatively) <a href="/phdone#
     </li>
     <li class="footnote" id="fn:2">
         Incidentally, PNAS lie about this in the paper's front matter; they count the date they "received" it as the date of our <i>re</i>submission, i.e. 4.5 months after the initial submission. This is because journals look bad if they take years to accept things.
-    </li>
-    <li class="footnote" id="fn:3">
-        Choosing a field is a kind of bet. So there's a kind of cachet to predicting how things were going to go in 2017 rather than 2022. Though I deserve about 1000 times less than the 2005(!) guys.
     </li>
     <li class="footnote" id="fn:4">
         not counting arxiv or medrxiv, not counting later-successful R&Rs as rejects
