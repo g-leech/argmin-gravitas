@@ -555,9 +555,6 @@ Washed up and ranting about the same old bitter things
         "used to practice her guitar until her fingers bled, and her mother had to tape them up"
     </li>
 <!--  -->
-    <li class="footnote" id="fn:6">
-        "You're On Your Own Kid"
-    </li>
     <!--  -->
     <li class="footnote" id="fn:7">
         One could reuse this post for Beyoncé almost verbatim, changing only a few things.

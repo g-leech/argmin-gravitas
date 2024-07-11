@@ -42,6 +42,26 @@ With the usual caveats that I am not you and 2024 is not 2019 and my field and d
 
 <br>
 
+## Risk
+
+40-50% of my cohort dropped out. This is unusually bad for the UK but apparently square average for the US.
+
+* Obviously you could tell a happy story here - "up to 50% of people are paying attention to their needs and are mature and self-esteeming enough to correct course when a bet ends up not paying off!". But that ain't it:
+    * 1 person hated the programme so much that they constantly railed against the director and the coursework and the administrators. He recovered quickly and got a PhD at a different university.
+    * 1 person went full-blown hikikkomori and never attended any CDT events in the last 3 years.
+    * 1 person dropped out after a crushing paper-authorship drama
+    * 2 people are Just Not Okay even years later
+
+One guy is now perfectly happy in industry and has no regrets that I can detect though.
+
+<br>
+
+The above is actually an underestimate of the personal risk, since it doesn't capture people who got disaffected, burned out, depressed, helpless, clocked-out, cynical, but who managed to tank the damage. 
+<!-- Like me. -->
+
+
+<br>
+
 ## Time
 
 It's supposed to take >10000 hours. <a href="#fn:1" id="fnref:1">1</a> You can do it in 3k. <a href="{{squigtime}}">Three MCMC estimates of the amount of time I spent</a>:
@@ -92,6 +112,7 @@ This one's a lower bound: just capital-r-Research; the sum of the time I spent o
 * teaching = 140 // not counting ESPR
 * conferences = 75
 * thesis = 226
+* burning out, complaining, going wtf = 600
 
 <br>
 
@@ -146,7 +167,7 @@ I didn't really keep a lab book like you're supposed to (I didn't really work ha
 ## Some other numbers
 
 <!-- - I ran 11 studies with like 97 regressions -->
-- I started 83 Overleafs, one for every time I had >1 day of conviction for an idea. 
+- I started 83 Overleafs (latex docs), one for every time I had >1 day of conviction for an idea. 
 - Of these, 56 became actual discrete projects with some code or thinking involved. 
 - Of those, 16 became papers (they got a result or were otherwise illuminating).
 - Of these, 6 wouldn't have happened if I didn't do them. (This is what people should mean when they brag about being first-author.)
