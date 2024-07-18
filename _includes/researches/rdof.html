@@ -1,0 +1,45 @@
+{%  assign id = "rdofimg"  %}
+{%  assign rdof = "https://arxiv.org/abs/2407.12220"    %}
+{%  assign rdoftw = "https://x.com/g_leech_/status/1813753309607714992"    %}
+
+
+
+<tr>
+    <td class="logo">
+        <a href="{{rdof}}">
+            <div id="{{id}}"></div>
+        </a>
+    </td>
+    <td style="padding-left: 5px">
+        <h4>
+            <a class="nolink" href="{{rdof}}" target="_blank">
+                How to Lie in Machine Learning
+                <span class="year">(2024)</span>
+            </a>
+        </h4>
+        <div class="journo">
+            arXiv
+        </div>
+        
+        <span class="dropdown">
+          <button class="dropped" onclick="javascript:drop('rdof')">The point</button>,
+
+          <div id="rdof" class="dropdown-content">
+            <br>
+            <b>Full title: Questionable Practices in Machine Learning</b>
+            <br><br>
+            Evaluating modern ML models is hard. The strong incentive for researchers and companies to report a state-of-the-art result on some metric often leads to questionable research practices (QRPs): bad practices which fall short of outright research fraud. We describe 43 such practices which can undermine reported results, giving examples where possible. Our list emphasises the evaluation of large language models (LLMs) on public benchmarks. We also discuss "irreproducible research practices", i.e. decisions that make it difficult or impossible for other researchers to reproduce, build on or audit previous research.
+            <br><br><br>
+
+            <i>Authors</i>: <span class="me">Gavin Leech</span>, Juan Vazquez, Misha Yagudin, Nic Kupper, Laurence Aitchison.<br><br>
+                <i>Total hours I contributed</i>: 250.
+            <br><br>
+          </div> <a href="{{rdoftw}}">explainer</a>, 
+        </span>
+    </td>
+</tr>
+
+<script>  
+    var src="/img/papers/rdof.png"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

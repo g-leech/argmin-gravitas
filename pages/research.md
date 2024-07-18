@@ -36,6 +36,7 @@ visible:	true
 ## Preprint
 
 <table>
+	{%  include researches/rdof.html	%}
 	{%  include researches/hplr.html	%}
 	{%  include researches/redreplication.html	%}
 	{%  include researches/actadd.html	%}
