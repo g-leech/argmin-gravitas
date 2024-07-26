@@ -252,6 +252,7 @@ All of academic science is stuck on many of the above, stuck in the 90s. Maybe w
 * <a href="{{tao}}">Terry Tao</a> on the mathematics of mathematical notation.
 * <a href="{{tao2}}">Terry Tao</a> on good notation
 * <a href="{{qc}}">Quantum Country</a>
+* https://www.bhauth.com/blog/thinking/terminology%20as%20convolution.html
 * <a href="{{dist}}">Communicating with Interactive Articles</a>
 
 <br><br>

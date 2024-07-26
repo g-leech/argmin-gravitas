@@ -73,7 +73,7 @@ Fiber bundles invented by mathematicians 60 years before they were needed for ga
 <br><br><br>
 
 <h4>Rule of cool</h4>
-Landing on a comet and returning with 6 burns: <a href="{{osiris}}">OSIRIS-REX</a>. launched it two years before it landed. exactly 3 burns in 2 years, lots of slingshots and avoiding stuff.<br><br>
+6 burns total to launch from Earth, land on a comet and return: <a href="{{osiris}}">OSIRIS-REX</a>. launched it two years before it landed. exactly 3 burns in 2 years, lots of slingshots and avoiding stuff.<br><br>
 
 8th Sep 2016 launch to 3 December 2018 arrival, vs predicted November 23rd 2018. a week off!
 Very likely to land within hours of predicted end 24 September 2023, 15:00 UTC  
@@ -162,9 +162,9 @@ What else is out there? What is the "dark matter" of maths?
     <h3>Most reals are incomputable</h3>
     <div>
         1. \(|\mathbb{Z}| = \aleph_0\)<br>
-        2. \(|\mathbb{R}| > \aleph_0}\)<br>
+        2. \(|\mathbb{R}| > \aleph_0\) <br>
         3. <a href="https://en.wikipedia.org/wiki/Hume%27s_principle">Hume's principle</a>; If two sets can be placed into bijection, then they have the same size. \(|A| = |B| \Leftrightarrow A \,{\hookrightarrow\hspace{-1.8ex}\to} \,B\)<br><br>
-        4. Computable \(n :=\) some program outputs \(n\); there is a Turing machine (TM) which outputs it.<br><br>
+        4. The computable numbers \(\mathrm{Comp}\) are those that some program outputs; i.e. there is a Turing machine (\(\mathrm{TM}\)) which outputs them.<br><br>
         5. \( |\mathrm{TM}| = \aleph_0 \). See <a href="{{count}}">here</a>.<br>
         6. So \(|\mathrm{Comp}| = \aleph_0 \)<br>
         7. So \( |\mathrm{Comp}| \ll |\mathbb{R}| \)
@@ -383,6 +383,7 @@ David Deutsches hate this one trick to stop trying to complete mathematics!!
 * [Cantor's attic](https://neugierde.github.io/cantors-attic/Upper_attic)
 * https://s22.cs251.com/Text/07_Undecidability/contents.html
 * https://x.com/YonderDavid/status/1796025541427868065
+* https://www.bhauth.com/blog/thinking/math%20intuition.html
 
 
 <div class="footnotes">

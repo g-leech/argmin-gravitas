@@ -20,40 +20,41 @@ warnings:
 wordcount:      
 ---
 
+> academe is something to exorcise; it needs to be lived for a time, but lived in order to demonstrate that it is ultimately unlivable. There is a world elsewhere.
 
-<!-- > COWEN: Do you think of it as an __advantage__ that you don’t have a PhD?
-> MEAD: __Huge__ advantage.
-> COWEN: How would you describe that advantage?
-> MEAD: I don’t really believe in disciplines. I see connections between things. I start from reality. I’m not trying to be anti-intellectual here. You need ideas to help you organize your perceptions of reality. But I think there’s a tendency in a lot of social science disciplines — you start from a bunch of really smart, engaged people who have been thinking about a set of questions and say, “We’ll do a lot better if we stop randomly thinking about everything that pops up and try, in some systematic way, to organize our thinking of this.”
-> I think you do get some gains from that, but you see, over time, the focus of the discipline has this tendency to shift. The discipline tends to become more inward navel-gazing. “What’s the history of our efforts to systematize our thinking about this?” The discipline becomes more and more, in a sense, ideological and internally focused and less pragmatic.
-> I think that some of the problem, though, is not so much in the intellectual weaknesses of a lot of conventional postgrad education, but simply almost the crime against humanity of having whole generations of smart people spend the first 30, 35 years of their lives in a total bubble, where they’re in this academic setting, and the rule . . . They become socialized into the academy, just as much as prisoners get socialized into the routines of a prison.
+<center>-- George Watson</center>
 
-https://conversationswithtyler.com/episodes/walter-russell-mead/
+<br>
 
- -->
 
 > “No insults, please!" said Pugg. "For I am not your usual uncouth pirate, but refined and with a Ph.D., and therefore extremely high-strung.”
-― Stanisław Lem,
+
+<center>― Stanisław Lem</center>
+
+<br>
+
+> Greggs: Fighting the [replication crisis], one brutality case at a time.
+
+> Carver : You can't even call this shit a [crisis].
+
+> Hauk : Why not?
+
+> Carver : [Crises] end.
+
+<br><br>
 
 
-https://eiko-fried.com/antidotes-to-cynicism-creep/#:~:text=(2)%20More%20broadly%2C%20for,efficient%20antidote%20against%20cynicism%20creep.
 
-
-\#winning
-    - you sometimes see people say that "Abhinav [won](https://www.google.com/search?q=%22Winning+his+phd%22&client=ubuntu-chr&hs=GAC&sca_esv=599772666&sxsrf=ACQVn097fBXJeAOH4E0D_ThtJjZabh0b4Q%3A1705663933532&ei=vV2qZfKIIKbFwPAP0fipwAw&ved=0ahUKEwiy2_SmremDAxWmIhAIHVF8CsgQ4dUDCBA&uact=5&oq=%22Winning+his+phd%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiESJXaW5uaW5nIGhpcyBwaGQiMgcQIxiuAhgnSIAHUABY2wVwAHgAkAEAmAGvAaAB5wGqAQMxLjG4AQPIAQD4AQHCAgUQIRigAeIDBBgAIEE&sclient=gws-wiz-serp) his PhD in 2019"
-        - solecism for "awarded"
-        - "Earned"
-        - "received"
-    - The gag would be: the only way to win is not to play
+You sometimes see people say that "Abhinav [won](https://www.google.com/search?q=%22Winning+his+phd) his PhD in 2019". This is a solecism for "was awarded", "earned". The gag: the only way to win is not to play.
 
 
 
-# Ineffective
+### Ineffective
 
 - Nothing about this looks like you would want your epistemic authorities to be picked. There is no accuracy test, calibration. Explanation.
 
 
-# Perverse?
+### Perverse?
 
 I think this is only true about 40% of the time
 
@@ -226,14 +227,27 @@ I hesitate to call doing a PhD 'ambitious' - for many people it is instead vitia
 https://twitter.com/nabeelqu/status/1781021084948828259
 
 
+I asked my labmates what it was all about. They didn't really know how to answer the question
+
+<br>
+
+
+- Academia is not my environment. Lots of people who say this are just not good at research or self-direction. The confusing part is that I am a sort of good researcher.
+    - The research my company does is fun. I make it rigorous not to cover my ass but because I deeply want the answer to be right
+
+
 ## Going Rogue
-- covid
-- publishing covers all sins
+
+- publishing covers sins
     - first workshop paper written Feb 2020, 6 months into quals year
-- Worst I got was ribbing (at an event of 100, "invisible man"). probably much worse if I hadn't published
+- I had zero disciplinary warnings. This suggests that I could have gone further than I did. Worst I got was ribbing (at an event of 100 people, I was introduced as the "invisible man" of the programme). 
 - One of the points of doing this is to travel freely for the last time in your life
     - 2019 - 2022: Stay in my room. Don't think about AI
     - 2022: Nassau, Prague, CDMX, Tallinn, Belgrade. Paid twice to think about AI
+
+- Some of this was enabled by Covid disrupting the usual uni surveillance mechanisms; take care.
+
+<br>
 
 ### Advanced Rogue: get the doctorate despite skiving
 
@@ -244,22 +258,47 @@ https://twitter.com/nabeelqu/status/1781021084948828259
 
 ## Authorship politics
 
+## CDT
+
+They took 9 days to acknowledge me submitting my PhD. They took three weeks to send the pdf to my examiners.
+
+<!-- - On the face of it, there was 20% attrition. Not great, but to be expected from a new programme with students who have lots of alternative funding options.
+- But this is a great underestimate. 50% is closer to the truth.
+    - David quit (10%)
+    - Philipp tried to quit, later AWOL (10%)
+    - Stoil depressed, quit (10%)
+    - Tayfun AWOL (8%)
+    - I was present but almost entirely clocked off in second term (5%)
+    - Dan clocked off (4%)
+    - General malaise, helplessness and negativity in the others (5%)
+        - Time lost to complaining, demoralisation, team failure
+ -->
+
+<!-- As so often with pretentious academics, I grew to hate my host institution. They were pretty hands-off after my 1st year, thankfully. -->
+<!-- - 45% tax on graph theorist -->
+<!-- - Paid themselves x thousand out of the UKRI grant -->
+<!-- - Uni shambles, 5 months before they checked on my overdue APM -->
+<!-- - Packing 300 kids into intro to ML, one instructor. >100k profit -->
+
+<!-- ### CDT -->
+
+<!-- - Takes them 10 days to update the website -->
+
+<!-- - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fgleech%2FqnK4J1CdKB.png?alt=media&token=3c563834-2dfc-4dfc-911d-2521f0e72e6b) -->
 
 
 ## Against Academia in general
 
-what does academia demand?
+What does academia demand?
 
-- Lots of time
-    - No family helps
-- No geographical ties
-- Collabs
-    - Very smart friends / subaltern student pipeline
+- Lots of time. No family helps
+- No geographical ties. No family helps
+- Collaborators. Very smart friends / a subaltern student pipeline
 - Some intelligence
 - Like reading
-- Writing
+- Able to write
 - Extreme comfort with uncertainty
-- Exquisite sense of trends, PR strategy
+- Exquisite sense of trends, PR 
 - Incredible stomach for paperwork and bureaucracy
 
 
@@ -279,15 +318,18 @@ https://x.com/arpitrage/status/1148702962165985280
 
 <br>
 
+## Graveyard
 
-https://x.com/BasilHalperin/status/1799138501356904652
+Many of the best social scientists and statisticians have left academia, partly because real criticism is so unwelcome. In honour of:
 
-https://x.com/hyhieu226/status/1793686585067942142
+* Tal Yarkoni
+* Stuart Ritchie
+* Michael Betancourt
+* James Heathers
+* Rex Douglass
+* Richard McElreath
 
-https://twitter.com/opinonhaver/status/1791158220846960912
-
-
-https://www.goodreads.com/review/show/3025203866
+<br>
 
 ## See also
 
@@ -298,3 +340,25 @@ https://www.goodreads.com/review/show/3025203866
 
 https://www.yuan-meng.com/posts/nothingness/
 https://nautil.us/what-does-any-of-this-have-to-do-with-physics-236309/
+
+https://x.com/BasilHalperin/status/1799138501356904652
+
+https://x.com/hyhieu226/status/1793686585067942142
+
+https://twitter.com/opinonhaver/status/1791158220846960912
+
+https://eiko-fried.com/antidotes-to-cynicism-creep/#:~:text=(2)%20More%20broadly%2C%20for,efficient%20antidote%20against%20cynicism%20creep.
+
+https://www.goodreads.com/review/show/3025203866
+
+
+<!-- > COWEN: Do you think of it as an __advantage__ that you don’t have a PhD?
+> MEAD: __Huge__ advantage.
+> COWEN: How would you describe that advantage?
+> MEAD: I don’t really believe in disciplines. I see connections between things. I start from reality. I’m not trying to be anti-intellectual here. You need ideas to help you organize your perceptions of reality. But I think there’s a tendency in a lot of social science disciplines — you start from a bunch of really smart, engaged people who have been thinking about a set of questions and say, “We’ll do a lot better if we stop randomly thinking about everything that pops up and try, in some systematic way, to organize our thinking of this.”
+> I think you do get some gains from that, but you see, over time, the focus of the discipline has this tendency to shift. The discipline tends to become more inward navel-gazing. “What’s the history of our efforts to systematize our thinking about this?” The discipline becomes more and more, in a sense, ideological and internally focused and less pragmatic.
+> I think that some of the problem, though, is not so much in the intellectual weaknesses of a lot of conventional postgrad education, but simply almost the crime against humanity of having whole generations of smart people spend the first 30, 35 years of their lives in a total bubble, where they’re in this academic setting, and the rule . . . They become socialized into the academy, just as much as prisoners get socialized into the routines of a prison.
+
+https://conversationswithtyler.com/episodes/walter-russell-mead/
+
+ -->

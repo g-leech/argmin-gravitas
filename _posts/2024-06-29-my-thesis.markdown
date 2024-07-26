@@ -1,6 +1,6 @@
 ---
-layout:     post
-title:      "My PhD thesis"
+layout:     page
+title:      "'Methods Failing the Data, Data Failing the Methods'"
 baselink:   /thesis
 permalink:  /thesis
 date:       2024-02-29  <!--site.time-->
@@ -20,12 +20,14 @@ warnings:
 wordcount:      
 ---
 
+<br>
+
 > When working on a PhD, you must focus on a topic so narrow that you can understand it completely. It will seem at first that you're working on the proverbial needle, a tiny fragment of the world, a minute crystal, beautiful but in the scheme of things, microscopic. Work with it. And the more you work with it, the more you penetrate it, the more you will come to see that your work, your subject, encompasses the world. In time, you will come to see the world in your grain of sand.
 
-Manuel Blum
+-- Manuel Blum
 
 
-<!-- https://emmabluemke.com/phd-thesis -->
+<br><br>
 
 
 A thesis is nominally a __unified__ contribution to knowledge. Something new, several pieces of knowledge all pointing in the same direction. I am not focussed enough to do this. It's also a big claim. I obviously had to retrodict a single big claim, and surely most people do the same. 
@@ -33,7 +35,7 @@ A thesis is nominally a __unified__ contribution to knowledge. Something new, se
 
 
 
-I'm not amazed with it as a contribution to science but it is a pretty good representation of my mind: unfocussed, sweeping, long on synthesis, short on analysis, more amusing than deep but not not deep.
+I'm not amazed with it as a contribution to science but it is a pretty good representation of my mind: unfocussed, sweeping; long on synthesis, short on analysis; more amusing than deep but not not deep.
 
 
 It's called _Methods Failing the Data, Data Failing the Methods_ (they made me change it before submission but I see no reason to view the university's title as the true title).
@@ -73,6 +75,30 @@ Ten Hard Problems in Artificial Intelligence We Must Get Right
     Diagrams and models: modelled the AI governance field, two decompositions of the alignment problem, traced the family tree of AlexNet and GPT-2.
 
 
+Intro
+    Enumerate common features and failures of “statistical workflow” (actual practices)
+    Bringing metascience into Bayes and ML 
+    Bringing post-2012 ML stylised facts into philosophy of science?
+    Comparison of evidential standards in 3 different fields
+    Psych and epi, Freq and bayes. P-hacking
+
+Covid
+    First person in the world to notice the voluntary wearing spike
+    Exposed ubiquitous methodological mistake (mandate proxy)
+    First analysis of masks with massive aggregate of individual data
+    First Bayesian analysis of masks(?)
+    Maybe add the little modelling [[masks functional form]]
+    Seasonality contrib
+    Mention big papers
+
+Psych
+    Dataset, ongoing community solution
+    Shift from sign replication to effect replication
+    ?
+
+ML
+    ActAdd: designed the experiments
+    ILP: safety 
 
 
 Tracking replications in the social, cognitive, and behavioural sciences    
@@ -138,7 +164,7 @@ Activation Addition: Steering Language Models Without Optimization} (2024)
 
 ## Unofficial conclusions
 
-* It is a Gelmanian work, in that I cite him 73 times and in every chapter, and in that it is self-elected science police work, in that it skips merrily across disciplinary boundaries, and in that its tone is stubbornly irreverent
+* It is a Gelmanian work, in that I cite him 74 times and in every chapter, and in that it is self-elected police work, in that it skips merrily across disciplinary boundaries, and in that it's stubbornly irreverent in tone.
 
 * It's surprisingly easy to do real work in fields you have zero background in. This is partly because stats now reigns imperial in roughly all sciences but also because many fields are in some sense methodologically shallow and content deep.
 
@@ -148,9 +174,8 @@ Activation Addition: Steering Language Models Without Optimization} (2024)
 
 * We don't win on average (the average paper is very bad and will always be fairly bad) but as long as our filtering mechanism allows us to continue to find the best 1% which actually progress us, we'll be okay. This filter is also under strain.
 
-* [[ML ate AI]]  [[stat ML ate ML]]  [[ML ate stats]] 
+<!-- * [[ML ate AI]]  [[stat ML ate ML]]  [[ML ate stats]]  -->
 
-<!-- Here's the kind of thing that one might do if one was able to try harder https://arxiv.org/abs/2403.07949 -->
 
 
 
@@ -161,7 +186,7 @@ A real phd. Discoveries. You know, something like
 
 
 
-I was only really intellectual lead on ILP, reversals, masks, hard problems. 
+I was only really intellectual lead on ILP, reversals, masks, hard problems, How to Lie. 
 
 
 
@@ -176,9 +201,8 @@ Negative results
 - EPJ
 
 
-Current publication process makes salesmen out of scientists 
+The current publication process makes bad salesmen of scientists. A PhD thesis needs to be sold less. (If you've already published.) It has to be novel, it has to kowtow to precedents, but you can be really honest about the small magnitude within those loose constraints.
 
-A PhD thesis needs to be sold far less. (If you've already published) It has to be novel and it has to kowtow to precedents, but you can be really honest about the small magnitude within those loose constraints
 
 
 ## Some theses I admire
@@ -195,8 +219,7 @@ https://csc.ucdavis.edu/~cmg/papers/Riechers.UCDDissertation2016.pdf
 https://theses.gla.ac.uk/3258/1/2011CalderheadPhD.pdf
 
 
-## Natty STEM
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">met a grad student doing a natty phd tonight. no coffee, no amphetamines, no meal replacements</p>&mdash; typedfemale (@typedfemale) <a href="https://twitter.com/typedfemale/status/1717803963423334725?ref_src=twsrc%5Etfw">October 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+## See also
 
-I did it without hardcore stimulants, as did I think most of my cohort. Tried one dose of vyvanse. Modafinil's effects are entirely the wrong target. Couple mg of nicotine a day. No caffeine.
+* https://emmabluemke.com/phd-thesis

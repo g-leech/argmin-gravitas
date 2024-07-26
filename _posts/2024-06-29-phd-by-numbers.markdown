@@ -46,17 +46,17 @@ With the usual caveats that I am not you and 2024 is not 2019 and my field and d
 
 40-50% of my cohort dropped out. This is unusually bad for the UK but apparently square average for the US.
 
-* Obviously you could tell a happy story here - "up to 50% of people are paying attention to their needs and are mature and self-esteeming enough to correct course when a bet ends up not paying off!". But that ain't it:
+* Obviously you could tell a happy story here - "_up to 50% of people are paying attention to their needs and are mature and self-esteeming enough to correct course when a bet ends up not paying off!_". But that ain't it:
     * 1 person hated the programme so much that they constantly railed against the director and the coursework and the administrators. He recovered quickly and got a PhD at a different university.
     * 1 person went full-blown hikikkomori and never attended any CDT events in the last 3 years.
     * 1 person dropped out after a crushing paper-authorship drama
     * 2 people are Just Not Okay even years later
 
-One guy is now perfectly happy in industry and has no regrets that I can detect though.
+One guy is now perfectly happy in industry and has no regrets that I can detect, though.
 
 <br>
 
-The above is actually an underestimate of the personal risk, since it doesn't capture people who got disaffected, burned out, depressed, helpless, clocked-out, cynical, but who managed to tank the damage. 
+The above is actually an underestimate of the personal risk, since it doesn't capture people who got disaffected, burned-out, depressed, helpless, clocked-out, cynical -- but who managed to tank the damage and finish. 
 <!-- Like me. -->
 
 
@@ -151,7 +151,7 @@ I didn't really keep a lab book like you're supposed to (I didn't really work ha
     - Two grand making my gaming desktop into a DL rig, but it didn't really make much difference vs Azure, besides selling me on WSL.
     - Very hard to say what my share of the Bristol ACRC was, but not much.
     - This is a large amount compared to most STEM PhDs, but I'd guess my spend was only half that of my ML peers and a third of my computer vision peers.
-
+- For March 2020 to April 2021 there was no particular fun-opportunity cost (Covid lockdown). Thus: among the best time to do a PhD. Particularly for [opportunists](https://www.pnas.org/doi/full/10.1073/pnas.2119266119). Newton at Woolsthorpe. 
 - _Externalities_. I still believe that improving AI capabilities has a good chance of making things much worse for everyone. This is one reason I avoided certain types of work. But few individual researchers have much effect on the frontier (possible exceptions: RLHF, GELU, llama.cpp). At most you can speed things up a couple months or make things a bit cheaper. I don't flatter myself that any of my papers are strong enough to do damage.
 
 - Quals year: extraordinary pain and tedium, at times as much as a corporate job (but much more avoidable).

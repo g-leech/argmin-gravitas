@@ -1,38 +1,56 @@
 ---
-layout:     post
+layout:     page
 title:      "phdiary"
 baselink:   /diary
 permalink:  /diary
 date:       2024-07-02  <!--site.time-->
 author:     Gavin
 
-img:        /img/phd/
+img:        /img/phd/diary.jpeg
 published:  false
 visible:    1
 quality:    5
 emotion:    7
 importance: 2
 
-summary:    Monthly account of what I did for 4 years
+summary:    4 years, month by month, book by book
 confidence: 
 categories: phd, navel-gazing
 warnings:   navel-gazing
 wordcount:      
 ---
 
+<br>
+
+> There are few sources of energy so powerful as a procrastinating grad student.
+
+<center>-- Paul Graham</center>
+
+<br>
+
+The following is a month by month description of what I actually did during my PhD. It's mostly for myself, an attempt to reduce the dimensionality of this odd self-assault while it's still fresh. If you're about to start, you _might_ benefit from seeing the long stretches of procrastination, incomprehension, and just how much support I needed to get through.
+
+(It is partially censored, of course. Ask me about authorship drama some time.)
+
+
+
+
+
+<br><br><br>
 
 ## Pre-phd Funemployment (Jun - Sep 2019)
 
 I quit my corporate job and spent a few months reading and going to workshops. I met 84 people, 17 of which were new and deep connections, 12 of whom I later worked with.
 
+- __Project__: none. Laying the ground. Recovering.
 
-- __Colleagues__: none yet but 12 seeds.
+- __Colleagues__: none yet but I found 12 seeds which later made everything else possible.
 
 - __Reading__: 
 
-    - How to get a PhD: a handbook for students and their supervisors Estelle M. Phillips
+    - How to get a PhD: a handbook by Estelle M. Phillips
 
-    - An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)  
+    - An Introduction to Statistical Learning by Hastie
 
     - Information: The New Language of Science    Hans Christian Von Baeyer
 
@@ -40,22 +58,26 @@ I quit my corporate job and spent a few months reading and going to workshops. I
 
     - Information Theory: A Tutorial Introduction James V. Stone
 
-    - Becoming a Successful Scientist: Strategic Thinking for Scientific Discovery    Craig Loehle
+    - Becoming a Successful Scientist,    Craig Loehle
 
-    - The Subjectivity of Scientists and the Bayesian Approach (Dover Books on Mathematics)   S. James Press
+    - The Subjectivity of Scientists and the Bayesian Approach 
 
-    - Vehicles: Experiments in Synthetic Psychology   Valentino Braitenberg       2018/12/09
+    - Vehicles: Experiments in Synthetic Psychology   Valentino Braitenberg
 
-- __Project__: none. Laying the ground
 
-In retrospect it was a mistake to not find at least one colleague and not have at least one research question. But even so this is one of the best uses of my time. I learned more during it than during any 3 month block of grad school. 
+In retrospect it was a mistake to not find at least one colleague and to not stick to their side, and to not have at least one research question. But even so this is one of the best ever uses of my time. I learned more during it than during any 3 month block of grad school. 
 
+<br><br>
 
 ## Quals (Sep 2019 - Jul 2020)
 
+My programme is an American-style "CDT", where you have a year of classes and advisor matching with no real research. We were the first cohort in a new centre, so there were some teething troubles (like the mandatory entrepreneurship course, or there not being a deep learning course).
+
+<br>
+
 - Sep 19: CLASSES. Back to school 
 
-    - move cities. Steal a lab coat. Start skiving patronising bureaucrat bs on day 2. 
+    - move cities. Claim a free lab coat I am not strictly entitled to. Start skiving patronising bureaucrat BS on day 2. 
 
         - a de facto MRes. Timetabled
 
@@ -63,11 +85,9 @@ In retrospect it was a mistake to not find at least one colleague and not have a
 
     - Start using Roam in earnest
 
-        - Lots of gimmicky tools for thought actually
+        - Actually I try lots of gimmicky "tools for thought" actually. Anki and Brainlab and various so-called nootropics. 
 
-        - Anki and Brainlab and noot. 
-
-    - Take up barbells for the first time in my life. 
+    - More importantly, I take up barbells for the first time in my life. 
 
     - GPT-2 is out but few really pay attention. Gwern sees it, poems. Transfer learning is solved, but almost no one realises this yet.
 
@@ -212,6 +232,9 @@ In retrospect it was a mistake to not find at least one colleague and not have a
     - __Project__:
 
 - Feb 20: 
+    I start to worry about Covid. I ask the admin to provide disinfectant and air filters for the office. They don't.
+
+
 
     - __Colleagues__: 
 
@@ -225,11 +248,13 @@ In retrospect it was a mistake to not find at least one colleague and not have a
 
 - Mar 20: 
 
+
     - Q: My central anxiety was being untechnical and unoriginal and therefore unproductive. Is recombination enough?
 
-    - Frankly lockdown makes my life easier. Zoom classes.
+    - Lockdown hits in Britain. Frankly it makes my life easier. Zoom classes.
 
-    -  
+    -  For March 2020 to April 2021 there was no particular fun opportunity cost. Among the best times to be doing a PhD. Particularly for opportunists
+
 
     - __Colleagues__: Jan B
 
@@ -284,6 +309,8 @@ In retrospect it was a mistake to not find at least one colleague and not have a
     - __Reading__: 
 
     - __Project__: Summer project (quals). Switch from RL into a more nicely scoped and manageable PPL project
+
+
 ## The littlest PPL (Jul - Dec 2020)
 
 - Jul 20: no productive work
@@ -357,6 +384,8 @@ In retrospect it was a mistake to not find at least one colleague and not have a
         - Introduction to Causal Inference from a Machine Learning Perspective    Neal, Brady
 
     - __Project__:
+
+
 ## Amateur epidemiology (Dec 2020 - May 2021)
 
 - Dec 20: my first workshop paper accepted
@@ -430,6 +459,8 @@ In retrospect it was a mistake to not find at least one colleague and not have a
     - __Reading__: 
 
     - __Project__:
+
+
 ## The real thing (May - Dec 2021)
 
 - Jun 21: Major nervous breakdown. Into vibe shift
@@ -517,7 +548,10 @@ In retrospect it was a mistake to not find at least one colleague and not have a
     - __Reading__: 
 
     - __Project__:
-## `Sabbatical (Jan - Dec 2022)`
+
+
+
+## Sabbatical (Jan - Dec 2022)
 
 - Spend most of the year abroad launching my company (Nassau, Prague, Mexico)
 
@@ -662,6 +696,8 @@ In retrospect it was a mistake to not find at least one colleague and not have a
     - __Reading__: 
 
     - __Project__:
+
+
 ## Killing time (Jan - Dec 2023)
 
 - Jan 23: 
@@ -819,6 +855,8 @@ In retrospect it was a mistake to not find at least one colleague and not have a
     - __Reading__: 
 
     - __Project__:
+
+
 ## Endgame (Jan - May 2024)
 
 - Jan 24: 
@@ -889,16 +927,18 @@ In retrospect it was a mistake to not find at least one colleague and not have a
 
     - __Reading__: Dennett for fun
 
-    - __Project__: Finally start actually writing the thesis midway through May. The thread tying together the three fields starts to feel less tenuous.
+    - __Project__: Finally start actually writing the thesis midway through May. The thread I use to tie together the three fields starts to feel less tenuous.
 
 - June 24: 
 
     - __Colleagues__: Laurence, Juan, Nic, Rian
 
-    - __Reading__: Hyperscattered, to pull together the 300 citations I need for the thesis. I did actually go through Neal and Betancourt on HMC, at long last.
+    - __Reading__: Hyperscattered, pulling together the 300 citations I need for the thesis. I did actually go through Neal and Betancourt on HMC, at long last.
 
     - __Project__: Hastily writing enough of RDOF to put it in the Thesis
 
-        - Pretty satisfying to have one more real ML paper, and this one fully conceived and driven by me.
+        - Pretty satisfying to have one more real ML paper, one fully conceived and driven by me.
 
-    - Order a doctoral sword
+    - Submit. 
+
+    - Order [a doctoral sword](https://x.com/g_leech_/status/1804152323607855221)

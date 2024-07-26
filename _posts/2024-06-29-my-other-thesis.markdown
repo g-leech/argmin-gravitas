@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     page
 title:      "things I didn't do for my thesis"
 baselink:   /theorysis
 permalink:  /theorysis
@@ -20,14 +20,7 @@ warnings:   navel-gazing
 wordcount:      
 ---
 
-> Greggs: Fighting the replication crisis, one brutality case at a time.
-
-> Carver : You can't even call this shit a [crisis].
-
-> Hauk : Why not?
-
-> Carver : [Crises] end.
-
+<br>
 
 
 Analytical index!!!
@@ -50,6 +43,16 @@ Clearly we can't take the independent product 2% x 2% = 0.4% as the new estimate
 
 
 Vast GPT-enabled exhaustive literature reviews
+
+
+    EXPERIMENT: classifying all of ML arxiv by methods
+    EXPERIMENT: ablating 10 years of tweaks. What’s the minimal working arch?
+    EXPERIMENT: what’s the scaling law for random forests?
+    EXPERIMENT: big replication study?
+
+    EXPERIMENT: Rate of test set use in 2019 epi vs 2023 epi
+    EXPERIMENT: rate of economic cost estimates in NPI epi
+
 
 
 Basic framework(s)
@@ -77,9 +80,9 @@ force a pairwise comparison
 A recurring theme is getting data on what people are actually doing in new papers, how methods have changed. Large language models enable exhaustive literature reviews including on relatively subtle questions like `does this paper contain a mathematical proof?'
 https://journals.sagepub.com/doi/full/10.1177/02683962211048201
 
-\vspace{2mm}
 
-\section{Why is statistical learning so dominant?}
+
+## Why is statistical learning so dominant?}
 Stats as the science of defaults (automation)
 Symbolic AI failure, ILP complexity
 \vspace{2mm}
@@ -88,11 +91,11 @@ Symbolic AI failure, ILP complexity
     NHST lets you sweep it under the rug
     Bayesian nonparametrics?
 
-\section{Canned inference and the automation of bad science}
+## Canned inference and the automation of bad science}
 
-\section{Generalisation and its enemies}
+## Generalisation and its enemies
 
-\section{Evidential standards across fields}
+## Evidential standards across fields
 Stamp collecting 
 Post hoc theory
 competitive testing on fixed benchmarks
@@ -101,8 +104,8 @@ We did not learn as much about Covid as we hoped to, in real time.
 [["The Pandemic Evidence Failure"]]
 
 
-% \section{The Pandemic Evidence Failure}
-% \vspace{2mm}
+## The Pandemic Evidence Failure
+
 % Incentives. 800,000 papers?
 % Bad policy
 % Bad practices, QRPs
@@ -120,9 +123,13 @@ We did not learn as much about Covid as we hoped to, in real time.
 
 
 
+<!-- Here's the kind of thing that one might do if one was able to try harder https://arxiv.org/abs/2403.07949 -->
 
 
-% \section{Trends, problems}
+
+
+## Trends, problems
+
 % EXPERIMENT: Rate of test set use in 2019 epi vs 2023 epi
 % EXPERIMENT: rate of economic cost estimates in NPI epi
 
@@ -151,19 +158,21 @@ https://pubmed.ncbi.nlm.nih.gov/38327122/
 https://en.m.wikipedia.org/wiki/GRIM_test#:~:text=The%20granularity%2Drelated%20inconsistency%20of,the%20analysis%20of%20data%20sets 
 
 
+
 % Privatisation of AI
 % Classifier: how open is this paper methodology?
 % Joint affiliations and movement into industry
 % Classifier: list all AI startups, classify as ex-academic
 
-% \section{Trends, problems}
+
+## Trends, problems
 % One notable thing possible now, but not 5 years ago, is an exhaustive automated literature review.
 % https://www.gleech.org/benchmarks 
 % https://journals.sagepub.com/doi/full/10.1177/02683962211048201
 
 
 
-\paragraph{The spurious features controversy}
+## The spurious features controversy
 
 https://arxiv.org/abs/2110.04301
 https://openreview.net/forum?id=BcbwGQWB-Kd

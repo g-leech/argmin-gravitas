@@ -254,6 +254,15 @@ The bureaucracies act as if you can only teach once you are a master. But I ofte
 <!-- In the humanities, it is relatively common to write a 3-year "reading schedule" at the start of your PhD. -->
 
 
+<br>
+
+
+> Productive stupidity means being ignorant by choice. Focusing on important questions puts us in the awkward position of being ignorant. One of the beautiful things about science is that it allows us to bumble along, getting it wrong time after time, and feel perfectly fine as long as we learn something each time. No doubt, this can be difficult for students who are accustomed to getting the answers right. No doubt, reasonable levels of confidence and emotional resilience help... The more comfortable we become with being stupid, the deeper we will wade into the unknown and the more likely we are to make big discoveries.
+
+<center>- Martin Schwartz</center>
+
+<br>
+
 ---
 
 <br>

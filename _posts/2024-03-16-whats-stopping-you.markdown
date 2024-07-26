@@ -277,7 +277,8 @@ Reading too much is dangerous past a certain point. IMO “oh apply Cauchy-Schwa
 * [Art as ladder](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762)
 * What wanting to be in [the establishment](https://srconstantin.github.io/2016/10/20/ra.html) does to you
 * https://leonardtang.me/posts/Life-Gradient-Descent/
-
+* https://www.youtube.com/watch?v=25LUF8GmbFU
+* https://www.monbiot.com/2000/06/09/choose-life/
 
 <br><br>
 
