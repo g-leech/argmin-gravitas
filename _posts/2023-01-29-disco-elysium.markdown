@@ -92,12 +92,18 @@ It resists compression. I could spend another couple dozen hours noticing things
 
 How did they make the best RPG ever? How did they overcome the curse of collaborative fiction (how many of <a href="{{collab}}">these books</a> are worth a damn)? 
 
-Insane amounts of work! Returning to the opening Reynolds line, I also wanna say that their post-marxism is a long difficult ladder letting them into virgin areas of game narrative and ofc it provided a rich layer of historical tragedy over everything else in the game. The truth or practicality of a theory isn't the main thing, when you're making art. This is the _latent_ function of critical theory: making people make interesting art, by removing certain preconceptions and instilling new ones. So, an elevating false framework.
+Through insane amounts of work! Returning to the opening Reynolds line, I also wanna say that their post-marxism is a long difficult ladder letting them into virgin areas of game narrative and ofc it provided a rich layer of historical tragedy over everything else in the game. The truth or practicality of a theory isn't the main thing, when you're making art. This is the _latent_ function of critical theory: making people make interesting art, by removing certain preconceptions and instilling new ones. So, an elevating false framework.
 
 
 <br>
 
 That the game is also actually existentialist and an amazing portrait of multi-agent mind and <a href="{{greek}}">a Greek tragedy</a> and a work of science fiction which justifies <a href="{{slip}}">an obtuse synonym</a> and bedecked in Lucian Freud / Jenny Saville actual-art visuals and shimmery post-rock <a href="{{seapower}}">sound</a> is just icing. 
+
+> [The soundtrack] 'doesn't register as a soundtrack, it just sounds like Martinaise.' 
+
+<center>- Jacob Geller</center>
+
+<br>
 
 <!-- People wrongly call this sort of thing 'pretentious', because people don't get that pretension is about _pretence_: pretending to be deeper than you are. Being abstruse is something else.  -->
 It's melancholy but not self-pitying and not life-denying. <a href="#fn:7" id="fnref:7">7</a> It's cynical but not sneering and not unkind. The grail.
@@ -475,7 +481,7 @@ To my surprise _DE_ depicts the union as extremely ambiguous. (One of your first
 
 > There's a party in my head and no one is invited
 
-<center>-- [Kevin Parker](https://www.youtube.com/watch?v=-F2e9fmYL7Y)</center>
+<center>-- <a href="https://www.youtube.com/watch?v=-F2e9fmYL7Y">Kevin Parker</a></center>
 
 <br>
 
@@ -581,12 +587,12 @@ More: Elysium is a European world without _America_. European power dominates be
 
 <br>
 
-If our world can be said to have a system, it is humanism (bourgeois morality and rights) plus neoliberalism (international capital) plus nationalism (which in _DE_ is pretty positive, the post-commune Revacholian demi-pride of Kim and other characters) <a href="#fn:2" id="fnref:2">2</a>.
+If our world can be said to have a system, it is humanism (bourgeois morality and rights) plus neoliberal capitalism (international capital fostered by pro-market states) plus nationalism (which in _DE_ is pretty positive, the post-commune Revacholian demi-pride of Kim and other characters) <a href="#fn:2" id="fnref:2">2</a>.
 
 
 But what is the relationship between ultraliberalism (capitalism) and Moralism (humanism)? On the face of it they seem unrelated, answering different questions, enlisting different people with very different temperaments. How do they share power? Are they the same thing, is one a mask for the other to operate more freely with a good conscience?
 
-I don't think the game has the answers. Centrism gets a weak treatment: the authors fail to note _any_ common ground between centrism and leftism - the fucking labour movement being the obvious one, or human rights, antiwar, and for most of history, the prioritisation of [growth](http://fayde.co.uk/dialojue/3621637). Even a cartoon punk band of 20 year olds can do <a href="{{baby}}">better</a> than that ("_We marched together for the eight-hour day / and held hands in the streets of Seattle._")
+I don't think the game has the answers. The treatment of Centrism is weak: the authors fail to note _any_ common ground between centrism and leftism - the fucking labour movement being the obvious one, or human rights, antiwar, and for most of history, the prioritisation of [growth](http://fayde.co.uk/dialojue/3621637). Even a cartoon punk band of 20 year olds can do <a href="{{baby}}">better</a> than that ("_We marched together for the eight-hour day / and held hands in the streets of Seattle._")
 
 
 > Business loves silence, the second loudest sound in the world, eclipsed only by the collective screams of market crash victims. So let me whisper... Are the better days gone, are we entering bankruptcy? Is the company gonna go down and leave you in the gutter with the rest of the dredges, delivering parcels for soup money? You need to crisis-manage your way out of this.
@@ -761,6 +767,7 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 ## See also
 
 * [FAYDE](http://fayde.co.uk/)
+* https://www.goodreads.com/review/show/5583451664
 * [Breaking the looms](https://slimemoldtimemold.com/2022/04/11/disco-elysium-breaks-the-looms-of-rpgs/)
 * Dubious [Chapo](https://www.vg247.com/how-the-last-living-soviet-video-game-developers-recruited-chapo-trap-house-for-disco-elysium) voiceovers.
 * [Inverse](https://www.inverse.com/input/gaming/the-materialism-magic-of-the-surprise-rpg-hit-disco-elysium)

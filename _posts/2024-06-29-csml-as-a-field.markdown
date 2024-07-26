@@ -1,6 +1,6 @@
 ---
-layout:     post
-title:      "My field"
+layout:     page
+title:      "Thoughts on my field"
 baselink:   /csml
 permalink:  /csml
 date:       2024-02-29  <!--site.time-->
@@ -20,18 +20,21 @@ warnings:
 wordcount:      
 ---
 
+<br>
 
 >  Mind seems able to impress some of its highest attributes upon matter, and to create its own rival in the wheels and levers of an insensible machine.
 
-― William Jevons (1869)
+<center>― William Jevons (1869)</center>
 
+<br>
 
 > The average number of undergraduate CS majors at universities in the U.S. and Canada tripled in the decade after 2005, and it keeps growing. Students’ interest in CS is intellectual—culture moves through computation these days—but it is also professional. Young people hope to access the wealth, power, and influence of the technology sector.
 
 https://www.theatlantic.com/technology/archive/2024/03/computing-college-cs-majors/677792/
 
+<br>
 
-In particular, credit to my 2018 self for spotting it earlier than 99.99% of the world. (No credit to him for not buying NVDA but even that is passable as diversification since one's career is an illiquid bet)
+In particular, credit to my 2018 self for spotting it earlier than 99.99% of the world. (No credit to him for not buying NVDA - but even that is passable as diversification, since one's AI career is an illiquid bet on AI.)
 
 
 A decent chunk of my thesis is about looking at the whole field at once.
@@ -203,6 +206,7 @@ I would have done pretty well in an information studies or some social science p
 - [Kenneth Stanley](https://twitter.com/kenneth0stanley)
 
 ## Stats people
+
 - David Mackay
 - Radford Neal
 - Andrew Gelman
