@@ -8,6 +8,10 @@ echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 
 gem install jekyll bundler
+cd argmin-gravitas/
+bundle update
+gem install rubygems-update
+sudo update_rubygems
 bundle install
 
 echo 'alias jekse="bundle exec jekyll serve --incremental"' >> ~/.bashrc

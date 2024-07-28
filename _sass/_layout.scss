@@ -103,7 +103,7 @@
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: calc($spacing-unit / 2);
 }
 
 .contact-list,
@@ -119,14 +119,14 @@
 .footer-col-wrapper {
     font-size: 21px;
     color: $background-color;
-    margin-left: -$spacing-unit / 2;
+    margin-left: - calc($spacing-unit / 2);
     @extend %clearfix;
 }
 
 .footer-col {
     float: left;
-    margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
+    margin-bottom: calc($spacing-unit / 2);
+    padding-left: calc($spacing-unit / 2);
 }
 
 @media screen and (min-width: 600px)  {
