@@ -7,7 +7,7 @@ date:       2024-02-29  <!--site.time-->
 author:     Gavin
 
 img:        /img/phd/
-published:  false
+published:  true
 visible:    1
 quality:    5
 emotion:    5
@@ -21,13 +21,6 @@ wordcount:
 ---
 
 <br>
-
-> When working on a PhD, you must focus on a topic so narrow that you can understand it completely. It will seem at first that you're working on the proverbial needle, a tiny fragment of the world, a minute crystal, beautiful but in the scheme of things, microscopic. Work with it. And the more you work with it, the more you penetrate it, the more you will come to see that your work, your subject, encompasses the world. In time, you will come to see the world in your grain of sand.
-
--- Manuel Blum
-
-
-<br><br>
 
 
 A thesis is nominally a __unified__ contribution to knowledge. Something new, several pieces of knowledge all pointing in the same direction. I am not focussed enough to do this. It's also a big claim. I obviously had to retrodict a single big claim, and surely most people do the same. 
@@ -44,11 +37,13 @@ It's called _Methods Failing the Data, Data Failing the Methods_ (they made me c
 Here's an attempt to explain plainly what I actually did. (You can also click "The Point" on the individual papers <a href="/researches">here</a>.)
 
 
+<br>
+
 ## Official conclusions
 
-- What have I actually discovered?
+What did I actually discover?
 
-## COVID
+### COVID
 
 - Mass voluntary uptake of masking
 - Invalid methodology, Mandate proxy
@@ -164,7 +159,7 @@ Activation Addition: Steering Language Models Without Optimization} (2024)
 
 ## Unofficial conclusions
 
-* It is a Gelmanian work, in that I cite him 74 times and in every chapter, and in that it is self-elected police work, in that it skips merrily across disciplinary boundaries, and in that it's stubbornly irreverent in tone.
+* It is a <a href="http://www.stat.columbia.edu/~gelman/">Gelmanian</a> work, in that I cite him 74 times and in every chapter, and in that it is self-elected police work, in that it skips merrily across disciplinary boundaries, and in that it's stubbornly irreverent in tone.
 
 * It's surprisingly easy to do real work in fields you have zero background in. This is partly because stats now reigns imperial in roughly all sciences but also because many fields are in some sense methodologically shallow and content deep.
 
@@ -176,11 +171,13 @@ Activation Addition: Steering Language Models Without Optimization} (2024)
 
 <!-- * [[ML ate AI]]  [[stat ML ate ML]]  [[ML ate stats]]  -->
 
+<br>
 
+---
 
+<br>
 
-
-A real phd. Discoveries. You know, something like
+Man. I still think to myself that some people do real phds. Discoveries. You know, <a href="https://www.paulriechers.com/">something like</a>:
 
 <img src="/img/riechers.png" />
 
@@ -206,17 +203,17 @@ The current publication process makes bad salesmen of scientists. A PhD thesis n
 
 
 ## Some theses I admire
-https://ora.ox.ac.uk/objects/uuid:98a6d3eb-6fee-4850-87f2-8dd048fd6864/
-https://www.mct.dev/assets/mct-thesis.pdf
 
-https://arxiv.org/pdf/2210.09925.pdf
-https://arxiv.org/abs/2404.12150
-https://discovery.ucl.ac.uk/id/eprint/10121219/1/Aitchison_000_Thesis.pdf 
-https://www.inference.org.uk/mackay/thesis.pdf
-https://arxiv.org/abs/2403.07949 
-https://www.research-collection.ethz.ch/handle/20.500.11850/635156
-https://csc.ucdavis.edu/~cmg/papers/Riechers.UCDDissertation2016.pdf
-https://theses.gla.ac.uk/3258/1/2011CalderheadPhD.pdf
+* https://ora.ox.ac.uk/objects/uuid:98a6d3eb-6fee-4850-87f2-8dd048fd6864/
+* https://www.mct.dev/assets/mct-thesis.pdf
+* https://arxiv.org/pdf/2210.09925.pdf
+* https://arxiv.org/abs/2404.12150
+* https://discovery.ucl.ac.uk/id/eprint/10121219/1/Aitchison_000_Thesis.pdf 
+* https://www.inference.org.uk/mackay/thesis.pdf
+* https://arxiv.org/abs/2403.07949 
+* https://www.research-collection.ethz.ch/handle/20.500.11850/635156
+* https://csc.ucdavis.edu/~cmg/papers/Riechers.UCDDissertation2016.pdf
+* https://theses.gla.ac.uk/3258/1/2011CalderheadPhD.pdf
 
 
 

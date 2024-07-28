@@ -6,14 +6,14 @@ permalink:  /csml
 date:       2024-02-29  <!--site.time-->
 author:     Gavin
 
-img:        /img/phd/
+img:        /img/phd/tele.png
 published:  false
 visible:    1
 quality:    5
 emotion:    5
 importance: 6
 
-summary:    Thoughts on modern computer science and ML
+summary:    modern computer science and ML
 confidence: 
 categories: 
 warnings:   
