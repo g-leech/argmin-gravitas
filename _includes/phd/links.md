@@ -4,3 +4,5 @@
 {% assign pub = "https://en.wikipedia.org/wiki/Doctor_of_Philosophy_by_publication"   %}
 {% assign lind = "https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/635156/Doctoral_Thesis_David_Lindner_RC.pdf?sequence=6&isAllowed=y"  %}
 {% assign bos = "https://optimists.ai/2024/03/10/deconstructing-bostroms-argument-for-ai-doom/"    %}
+{% assign lear = "https://www.cs.umd.edu/~oleary/gradstudy/node9.html/"    %}
+{% assign remo = "https://www.lesswrong.com/posts/Qi9MxS5zhxjXK75dz/how-to-do-remote-co-working"	%}

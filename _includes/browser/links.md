@@ -16,7 +16,7 @@
 {%    assign protonChrome = "https://old.reddit.com/r/ProtonMail/comments/9yl94k/never_connect_to_protonmail_using_chrome/"	%}
 {%    assign chromeCookies = "https://news.softpedia.com/news/chrome-69-does-not-delete-google-cookies-when-clearing-all-website-data-522884.shtml"		%}
 {%    assign pwned = "https://haveibeenpwned.com/PwnedWebsites" 		%}
-{%    assign kee = "https://www.keepassx.org/"	%}
+{%    assign kee = "https://keepassxc.org/"	%}
 {%    assign offs = "https://en.wikipedia.org/wiki/Off-site_data_protection"		%}
 {%    assign ff = "https://gist.github.com/0XDE57/fbd302cef7693e62c769"			%}
 

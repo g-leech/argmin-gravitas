@@ -24,7 +24,9 @@ wordcount:
 
 {%  include phd/links.md   %}
 
-<img src="/img/phd/oppressed.png" />
+<center>
+    <img width="75%" src="/img/phd/oppressed.png" />
+</center>
 
 <br>
 
@@ -47,32 +49,37 @@ wordcount:
 <!-- <br><br> -->
 
 
-## tl;dr
+<div class="accordion">
+    <h3>tl;dr</h3>
+    <div>
+        <ul>
+<li>The whole <a href="/tags#phd">series</a> is like 10,000 words. Despite appearances it's more about my catharsis than generalisable information. So probably only read this if you are considering a PhD.</li><br><br>
 
-- The whole <a href="/tags#phd">series</a> is like 10,000 words. Despite appearances it's more about my catharsis than generalisable information. So probably only read this if you are considering a PhD.<br><br>
+<li>PhDs vary so much that no document could cover them all. So read this as the experience of 1) a CS guy, 2) in a British university, 3) during the ML boom, 4) during covid, 5) with his own funding, who 6) got lucky in first year with a big publication, with 7) a productive advisor with 8) broad interests, no god complex, and 9) not many other students and 10) who was willing to cover for me while I flailed and skived (and e.g. went to Mexico to vent).</li><br><br>
 
-- PhDs vary so much that no document could cover them all. So read this as the experience of 1) a CS guy, 2) in a British university, 3) during the ML boom, 4) during covid, 5) with his own funding, who 6) got lucky in first year with a big publication, with 7) a productive advisor with 8) broad interests, no god complex, and 9) not many other students and 10) who was willing to cover for me while I flailed and skived (and e.g. went to Mexico to vent).<br><br>
-
-- They are so costly and fraught that you can assume people are not thinking very clearly about them, including me. (They don't want to have wasted 5 years; they want their hard and mildly humiliating work to be rewarded with status and deference.) <a href="#fn:2" id="fnref:2">2</a><br><br>
+<li>They are so costly and fraught that you can assume people are not thinking very clearly about them, including me. (They don't want to have wasted 5 years; they want their hard and mildly humiliating work to be rewarded with status and deference.) <a href="#fn:2" id="fnref:2">2</a></li><br><br>
 
 
-- As always, there's a huge selection effect: unhappy PhDs cannot shut up about it.<br><br>
+<li>As always, there's a huge selection effect: unhappy PhDs cannot shut up about it.</li><br><br>
 
 
-- The cognitive demands are lower than people think and the emotional demands are remarkably high. For a common personality type, the emotional cost is too high.<br><br>
+<li>The cognitive demands are lower than people think and the emotional demands are remarkably high. For a common personality type, the emotional cost is too high.</li><br><br>
 
-- However, you can <a href="/nograd#rogue">go rogue</a>, which greatly reduces the emotional damage. But this is only open to an uncommon personality type (the chancer, <a href="/nograd">the disloyal</a>, the agent).
-
-    - Alongside my PhD I started a small company, got a minor academic post, travelled the world, helped build a beautiful community, advised the UK government, and did dozens of cool side projects, some of which ended up looking like a PhD.<br><br>
+<li>However, you can <a href="/nograd#rogue">go rogue</a>, which greatly reduces the emotional damage. But this is only open to an uncommon personality type (the chancer, <a href="/nograd">the disloyal</a>, the agent). Alongside my PhD I started a small company, got a minor academic post, travelled the world, helped build a beautiful community, advised the UK government, and did dozens of cool side projects, some of which ended up looking like a PhD.</li><br><br>
    
 
-- I went in wanting to work on AI safety. True to form, I instead ended up with a huge grab-bag: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, inductive logic, algorithmic fairness and (of course) large language models. Some safety in there, if you squint. But I published enough, so I finished.<br><br>
+<li>I went in wanting to work on AI safety. True to form, I instead ended up with a huge grab-bag: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, inductive logic, algorithmic fairness and (of course) large language models. Some safety in there, if you squint. But I published enough, so I finished.</li><br><br>
 
-- <a href="/phd-numbers">Numbers</a>: It took me about 3500 hours of actual work; I read 470 papers; I published 6 first author papers on random shit.<br><br>
+<li><a href="/phd-numbers">Numbers</a>: It took me about 3500 hours of actual work; I read 470 papers; I published 6 first author papers on random shit.</li><br><br>
 
-- I was very lucky. It looks like a success on the usual measures (h-index, impact factors, top conferences, first-author pubs, an academic job offer at the end). But I didn't go into it for poxy numbers or a mere job; I went in become a great scientist. Obviously this did not happen. But I did learn how to really read papers, how to write papers, how to present technical ideas clearly, and how to become stubborn and insensitive in the face of latent spaces. Academia is forever demystified for me. My aversion to mathematics has settled down into guarded neutrality. I am unafraid. This was probably worth it.<br><br>
+<li>I was very lucky. It looks like a success on the usual measures (h-index, impact factors, top conferences, first-author pubs, an academic job offer at the end). But I didn't go into it for poxy numbers or a mere job; I went in become a great scientist. Obviously this did not happen. But I did learn how to really read papers, how to write papers, how to present technical ideas clearly, and how to become stubborn and insensitive in the face of latent spaces. Academia is forever demystified for me. My aversion to mathematics has settled down into guarded neutrality. I am unafraid. This was probably worth it.</li><br><br>
 
-- When I see someone has a PhD, I don’t update much about their intelligence or creativity. More about their tolerance for pain, arbitrariness, and low pay.
+<li>When I see someone has a PhD, I don’t update much about their intelligence or creativity. More about their tolerance for pain, arbitrariness, and low pay.</li>
+</ul>
+    </div>
+</div>
+
+
 
 <br>
 
@@ -102,7 +109,7 @@ I've exported most of the good stuff into the following posts:
 
 ### <a href="/thesis">My thesis in plain language</a>
 
-### <a href="/theory">What I wanted my thesis to be</a>
+### <a href="/theorysis">What I wanted my thesis to be</a>
 
 ### <a href="/csml">On my field</a>
 
@@ -115,13 +122,9 @@ I've exported most of the good stuff into the following posts:
 <br>
 
 
-<br>
 
-This leaves this post to undiluted personal venting.
+This leaves this post for undiluted personal venting.
 
-<br><br>
-
-<img src="/img/phd/mit.jpeg" />
 
 <br><br>
 
@@ -144,15 +147,15 @@ I was so thrilled to quit my job and to become a scientist, and to work on the p
 It was initially a top-down moralistic thing: I wanted to work on technical alignment if I could. I spent a few years wrestling <a href="{{bos}}">the Bostrom argument</a> for AI risk, unwilling to throw my life away on speculative crap and to give up my old conception of altruistic action (skin in the game, feedback loops, beneficiaries who can correct and object). Then, around 2017 it became clear to me that AI was going to be the story of the near future, x-risk or no. So I pushed myself into AI (from nearby data science) for moral reasons. This almost never works.
 <!-- I get some credit for being ahead of the EA wave and the even later crypto bro / influencer invasion of the field. -->
 
-Choosing a field (a career) is a kind of bet. In fact the largest bet you ever make, besides the spouse. So there's cachet to waking up (predicting how things were going to go) in 2017 rather than 2022. Though I deserve about 1000 times less than the 2005(!) guys.
+Choosing a field (a career) is a kind of bet. In fact it's the largest bet you ever make, besides the spouse. So I get cachet for waking up (predicting how things were going to go) in 2017 rather than 2022. Though I deserve about a million times less than the 2005(!) guys.
 
-I ended up not doing an alignment PhD, instead getting a weird interdisciplinary methodology phd with ML assumptions. 
+Still, I ended up not doing an alignment PhD, instead getting a weird interdisciplinary methodology phd with ML assumptions. 
 <!-- Akrasia. -->
 
 (The self-serving story for why I worked very hard on anything except machine learning is that I am unable to compartmentalise my horror of its worst-case prospects. I feel that people should not work on it, and so I don't. <a href="#fn:1" id="fnref:1">1</a>)
 <!-- I find the technology more disgusting than fascinating, though it is fascinating. -->
 
-Another reason it was hard is that I actually just don't like working at the maths/code interface and do maths with slight reluctance, like eating my spinach. A couple well-meaning people tried to dissuade me from a research career as a result, but I hated them so intensely for saying so that I made them become wrong.
+Another reason it was hard is that I actually just don't like working at the maths/code interface and I do maths with slight reluctance, like eating my spinach. A couple of well-meaning people tried to dissuade me from a research career as a result, but I hated them so intensely for saying it that I made them become wrong.
 <!-- For a maths graduate and software engineer, I have a fairly poor relationship with maths and code. -->
 
 <!-- for the common emotional block reasons. -->
@@ -171,13 +174,13 @@ Probably the median rollout finds me dropping out, having struggled along in the
 <!-- I just don't focus, and a PhD is the four-years-of-focus project!  -->
 <!-- I am incapable of sustaining work on anything for more than about 6 weeks. -->
 
-I made it because of others, in two senses. I hate letting people down. I love coworking. Solitude is avoidable if you are careful and lucky.
+I made it thanks to others, in two senses: they coauthored with me on some projects and encouraged me in the others. I hate letting people down. I love coworking. Solitude is avoidable in a PhD, if you are both careful and lucky.
 
 <!-- I had misgivings throughout. -->
 
 I can't call myself a mediocre student because 50% of students drop out. My publications look good, but that turns out to be doable without great insight - just writing ability, smart friends, and pain tolerance. I would have probably dropped out if I didn't land the covid paper -- cynically, my PhD was over as soon as the PNAS acceptance landed. The rest was padding and PR.
 
-I am proud of my papers. I wanted to be a researcher very badly. When I got my first citation (for a <a href="/grids">blog post</a> actually) I was happy for days.
+I wanted to be a researcher very badly. When I got my first citation (for a <a href="/grids">blog post</a> actually) I was happy for days. I am proud of my papers and <a href="/researches">devote time</a> to them even now. 
 
 <br>
 
@@ -194,6 +197,7 @@ I am proud of my papers. I wanted to be a researcher very badly. When I got my f
 * 2 summer schools 
 * Learn through teaching
 * Try peer reviewing
+* Become a great scientist
 
 <br>
 
@@ -201,8 +205,8 @@ I am proud of my papers. I wanted to be a researcher very badly. When I got my f
 - ## + Legible output:
 - *Papers**
     - 3 first author conference papers
-        -  [[ILP and Safety]]
-        -  COVID #3: Masks
+        <li>[[ILP and Safety]]
+        <li>COVID #3: Masks
         - [[MASSIVELY PARALLEL IWAE AND RWS]]
     - 7 others
         - 4 <- [[my research in 2020]]
@@ -212,7 +216,7 @@ I am proud of my papers. I wanted to be a researcher very badly. When I got my f
     - [[research internship]]
 *Service**
     - Reviews
-        -  BMJ Global Health
+        <li>BMJ Global Health
 - ### Public Impact 
 - ### Masks press
         - Altmetric ~700
@@ -221,10 +225,10 @@ I am proud of my papers. I wanted to be a researcher very badly. When I got my f
         - BBC Radio Bristol (L)
         - Coverage on Marginal Revolution
         - [Wired](https://www.wired.co.uk/article/face-mask-mandate-uk)
-        -  
+        <li>
 - *Conferences**
     - 3 presentations
-        -  [[SafeAI ILP pres]]
+        <li>[[SafeAI ILP pres]]
         - 2/9/21: BIAS Conference Bristol, poster
     -  NeurIPS 2020
     - milk dat RTFG
@@ -239,17 +243,17 @@ I am proud of my papers. I wanted to be a researcher very badly. When I got my f
 
 ## What I got
 
-* I went in wanting to become a scientist, and this actually happened. Overfulfilled it in one sense: number of domains. I published in CS, psychology, and lots in soft biology. (But "scientist" also implies focus and theories so I am instead a technical generalist.)
-* I became a teacher, including a maths teacher.
-* I have a much better understanding of what it is that people smarter and deeper than me do differently. 
+* I became _a_ scientist, sure. I overfulfilled the goal in one sense: sheer number of domains. I published in CS, psychology, and lots in soft biology. (But "scientist" also implies focus and theories so I am instead a technical generalist.)
 * I replaced my aversion to mathematical work with guarded neutrality. This will end up being worth $1m.
+* I became a teacher, including a maths teacher.
+* I have a much better understanding of what it is that people smarter and deeper than me do differently. I can't always follow.
 * I lost all respect for academic publishing.
 * I lost my respect for the median statistical model.
 * I am much less defensive of my ideas, and much more able to defend them.
 <!-- "deconstructing mental defensiveness through boot camp of merciless criticism" -->
 
 - _Research taste_. The main goal. Outcome unclear: I'm good enough to do admissions for postdoc programmes like PIBBSS and peer review for PNAS and NeurIPS; I'm good enough to supervise Master's students; I have good intuitions about what won't work and what counts as evidence; I know, sadly, what kind of good work can't get published at an ML conference; I don't feel like a research lead but that's ok.
-- Just knowing a lot about AI in time for its triumph. (Since this is pretty unavoidable for technical people since 2022 though. So the effect on me is more like: getting out of my safety bubble, knowing the conventions, knowing what good work looks like.) <a href="#fn:3" id="fnref:3">3</a>
+- Just knowing a lot about AI in time for its triumph. (This is pretty unavoidable for technical people since 2022 though. So the effect on me is more like: getting out of my safety bubble, knowing the conventions, knowing what good work looks like.) 
 - _Confidence_. Some of this is deflationist, from seeing through academia, particularly elite journals. But also: I have steered through some latent spaces other people can't even see. I have survived a dozen struggle sessions (reviewers and journal club jousting). I am suddenly a fluent public speaker; I regularly give talks with about 30 minutes' prep and zero anxiety.
 - Grit. I used to give up on things too early. I don't now. 
 - Credibility. e.g. I got a international relations fellowship somehow.
@@ -281,22 +285,37 @@ I am proud of my papers. I wanted to be a researcher very badly. When I got my f
 Lockdown was pretty much the best time to do a ("dry" lab) phd, maybe in history. Incredibly low opportunity cost, and piles of impact lying around for any scientist opportunistic enough.
 
 - Bliss for the first few months. Being left alone.
+- Some unbelievably great researchers all totally free to do <a href="{{remo}}">remote coworking</a> with me
 - Radically altered my understanding of expertise, overton, credentials, government
 - I went into my office for the last time on August 31st 2021 and finished my thesis on 20th June 2024. For most people this would be a terrible move, demotivating and unaccountable
 - After lockdown I got to travel constantly all of 2022 and 2023 because the remote work setup was going well.
-- AAAI and Neurips were online when I got in. Massive loss. I also missed my next chance to go in person to go to a wedding.
+- AAAI and Neurips were online when I got in. Massive loss. I also missed my next chance to go in person, had to go to a wedding.
 
 <br>
 
 ### My luck
 
-- Very lucky to be one of Laurence's first PhD students; he had plenty of time for me. At one point (when I was struggling with the heavy numerical implementation) we did two hours a week. One of my friends got 15 minutes every _other_ week with his advisor. One spoke to her advisor once every three months, though that was her fault.
+- Very lucky to be one of Laurence's first PhD students; unlike most other advisors he had plenty of time for me. At one point (when I was struggling with the heavy numerical implementation) we did two hours a week. One of my friends got 15 minutes every _other_ week with his advisor. One spoke to her advisor once every three months, though that was her fault.
 
 - Very lucky to be invited to work on the big Covid papers
 
 - Very lucky to have brilliant coauthors on every single one of "my" projects. "I could not have done it without them." is usually a kind of meek and pleasant expression, but you should read this instance as a confession.
 
 - Extremely lucky that Misha wanted to start a company, which saved my sanity
+
+- I had my own funding, a good amount for Europe
+
+- I didn't need to teach
+
+- Advisor was doing cool work
+
+- Advisor let me pick my own projects
+
+- unusual levels of social support (daily or weekly accountability bits with coauthors and cofounders)
+
+- I lucked into two big papers in my first year (7th and 4th author, but they still helped psychologically and administratively)
+
+- European PhDs seem much easier than US PhDs: less competitive, less publication-obsessed, less slave-like, less teaching load, maybe less macho
 
 - ML twitter is excellent. You get apt criticisms in 1 hour, rather than 1 year or never.
 
@@ -324,7 +343,7 @@ Lockdown was pretty much the best time to do a ("dry" lab) phd, maybe in history
 
 The finished bits are <a href="/researches">this</a> and <a href="/files/thesis.pdf">this</a>. Everything else:
 
-<br>
+
 
 <div class="accordion">
     <h3>project list</h3>
@@ -394,7 +413,7 @@ The finished bits are <a href="/researches">this</a> and <a href="/files/thesis.
 </div>
 
 
-<br>
+<br><br>
 
 
 
@@ -419,7 +438,6 @@ The finished bits are <a href="/researches">this</a> and <a href="/files/thesis.
 - Inductive logic
 - That academia is not amazing
 
-<br>
 
 
 <!-- ### Meta
@@ -444,33 +462,6 @@ The finished bits are <a href="/researches">this</a> and <a href="/files/thesis.
 <br>
 
 
-
-<!-- To conduct and publish research takes quite deep self-esteem. One big reason people drop out is they don't manage to get a positive feedback loop going -->
-
-
-## Who should do a PhD?
-
-(First, read <a href="/nograd">this</a>.)
-
-<br>
-
-Hypothesis: The PhD is a crisis for people who haven't fixed their locus of control and overidentification with work
-
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fgleech%2F0tfEo3ood5.jpeg?alt=media&token=c3b70604-9a5e-411f-be06-76f9f1f9a2e0)
-
-<br>
-
-My current guess is that the set of people who should do a PhD is exhausted by
-
-- People who are really remarkably chill and really want to become a "PI" (research lead)
-- __Love__: People who are obsessed with their specific topic. You'd do it for free (you nearly are). We used to call them amateurs. Do not get a PhD in anything you are not obsessed with. Intrinsic interestingness, like AI, is a poor but workable substitute.
-- __Hermits__: People who do not feel at home in society except in the regimented and half-real sanctuary of academia. (You should consider being a campus IT guru instead though, much less bullshit.)
-- __Rogue__: <a href="https://acritch.com/deliberate-grad-school/">People</a> who need a basic income to work on their art or their startup or their basic understanding, while doing research on the side. Requires nerves of steel.
-- Maybe a short stint for very arrogant people, to knock the stuffing out 
-
-
-
-
 <!-- 1. Do you want to go into academia? Yes $\to$ PhD; No $\to$ 2. -->
 <!-- 2. Will your research goals counterfactually benefit from having personal academic freedom with what to work on and/or what to say about it publicly? Yes $\to$ PhD; No $\to$ 3. -->
 <!-- 3. Do you have any particular interest in some research group or working situation? Yes $\to$ pursue that; No $\to$ 4.  -->
@@ -478,8 +469,6 @@ My current guess is that the set of people who should do a PhD is exhausted by
         Money $\to$ Industry. -->
 
 
-<!-- Sink or swim. I did both -->
-<!-- - The Scylla of loneliness and floundering and the Charybdis of mandatory training, compelled speech, and bureaucratic pseudosocial -->
 <!-- - Covid saved me -->
 
 <br>
@@ -493,7 +482,7 @@ My current guess is that the set of people who should do a PhD is exhausted by
 
 ## Lessons
 
-- You must form a healthy scepticism of reading. You have to do things
+- You must form a healthy scepticism of reading. You have to <a href="{{lear}}">do</a> things
 
 > It is possible to spend almost all of your time in literature review and seminars. It is easy to convince yourself that by doing this you are working hard and accomplishing something. The truth of the matter is that nothing will come of it unless your are an active reader and listener and unless you assign yourself time to develop your own ideas, too. It is impossible to "finish a literature review and then start research". New literature is always appearing, and as your depth and breadth increases, you will continually see new connections and related areas that must be studied.
 
@@ -555,28 +544,36 @@ Ever so indirectly, I even achieved most of my initial goals (and many, many sur
     </div>
     <h3>Misc</h3>
     <div>
-        * I actually only met my advisor in person 4 times. I know him very well, I've spent hundreds of hours with him, but it's still deeply strange to actually see him.<br><br>
-        * One of the great boons of a CS PhD is that logistics and social skills are not really a bottleneck. I don't need to wait for a chemical reaction, I don't need to recruit participants, I don't really need anything except GPUs. I almost did a project with human participants -- some standard HCI experimental economics blah with language model interlocutors. I got quite far through the "IRB" (ethics board) paperwork before the sheer futility got to me.<br><br>
-        * I do wonder how much less a 2024 phd means compared to a 1924 phd. Maybe just a selection effect, i.e. my cohort are not very selected. Side effect of the huge expansion in enrolment?<br><br>
-        * If I had focussed and stuck to my initial priorities (and if I was better at programming) I would have produced something like my contemporary <a href="{{lind}}">David Lindner's work</a> on RL. (The funny thing is that this would have been a good result: RL looped back around to being supremely useful, through RLHF on LLMs)
+        <ul>
+            <li>Cos of the rona I actually only met my advisor in person 4 times. I know him very well - I've spent hundreds of hours with him - but it's still deeply strange to actually see him.</li><br><br>
+            <li>One of the great boons of a CS PhD is that logistics and social skills are not really a bottleneck. I don't need to wait for a chemical reaction, I don't need to recruit participants, I don't really need anything except GPUs. I almost did a project with human participants -- some standard HCI experimental economics blah with language model interlocutors. I got quite far through the "IRB" (ethics board) paperwork before the sheer futility got to me.</li><br><br>
+            <li>I do wonder how much less a 2024 phd means compared to a 1924 phd. Maybe just a selection effect, i.e. my cohort are not very selected. Side effect of the huge expansion in enrolment?</li><br><br>
+            <li>If I had focussed and stuck to my initial priorities (and if I was better at programming) I would have produced something like my contemporary <a href="{{lind}}">David Lindner's work</a> on RL. (The funny thing is that this would have been a good result: RL looped back around to being supremely useful, through RLHF on LLMs)</li>
+            <li>To conduct and publish research takes quite deep self-esteem. One big reason people drop out is they don't manage to get a positive feedback loop going from idea to execution to more ideas.</li>
+            <li>Sink or swim. I did both</li>
+            <li>The Scylla of loneliness and floundering and the Charybdis of mandatory training, compelled speech, and bureaucratic pseudosocial</li>
+
+        </ul>
     </div>
     <h3>What do advisors do?</h3>
     <div>
-        -  Labelled data for research taste (assuming they have some)<br>
-        -  Labelled data for motivation, strategies and metacognition<br>
-        -  Literally giving you ideas<br>
-        -  Coach. Rubberduck for getting unblocked<br>
-        -  Simplification, seeing through your inelegant bloated prototypes<br>
-        -  Analogies, remembering relevant work, narrowing the search<br>
-        -  General accountability<br>
-        -  Teaching you the field's norms and shibboleths<br>
-        -  Political cover against the university. miscellaneous admin and bs help<br>
+        <ul>
+        <li>Labelled data to learn research taste (assuming they have some)</li><br>
+        <li>Labelled data for motivation, strategies and metacognition</li><br>
+        <li>Literally giving you ideas</li><br>
+        <li>Coach. Rubberduck for getting unblocked</li><br>
+        <li>Simplification, seeing through your inelegant bloated prototypes</li><br>
+        <li>Analogies, remembering relevant work, narrowing the search</li><br>
+        <li>General accountability</li><br>
+        <li>Teaching you the field's norms and shibboleths</li><br>
+        <li>Political cover against the university. miscellaneous admin and bs help</li>
+        </ul>
     </div>
     <!--  -->
     <h3>Types of research</h3>
     <div>
         I came in not really knowing what counted as meaningful research. (I did already know that "desk research", looking at other people's work, was viewed as low status.)
-        <br>
+        <br><br>
         <ul>
             <li>Theory (supposed mathematical explanations for the success of methods)</li>
             <li>Methods (develop new methods or extend existing methods; place existing methods into a larger theoretical framework; study the properties of methods</li>
@@ -586,28 +583,33 @@ Ever so indirectly, I even achieved most of my initial goals (and many, many sur
         </ul>
         <br>
         <!--  -->
-        also the Types of Research Guy:
+        also the Types of Research Guy:<br>
         <ul>
-        <li>ideas guy (gap spotter, conceptualiser, research taste, framing the question is more than half the task)</li>
-        <li>methods guy (experimental design, statistician)</li>
-        <li>code guy (optimisoor, fixer)</li>
-        <li>data guy (analyst, data scientist)</li>
-        <li>writeup guy (technical writer, Living library, scholar)</li>
-        <li>populariser (slogans, graphics, signal boost, review, propagate, combine, critique, synergise, whatever resonates)</li>
+            <li>ideas guy (gap spotter, conceptualiser, research taste, framing the question is more than half the task)</li>
+            <li>methods guy (experimental design, statistician)</li>
+            <li>code guy (optimisoor, fixer)</li>
+            <li>data guy (analyst, data scientist)</li>
+            <li>writeup guy (technical writer, Living library, scholar)</li>
+            <li>populariser (slogans, graphics, signal boost, review, propagate, combine, critique, synergise, whatever resonates)</li>
+            <li>mascot</li>
         </ul>
     </div>
     <h3>Natty STEM</h3>
     <div>
-        <blockquote class="twitter-tweet"><p lang="en" dir="ltr">met a grad student doing a natty phd tonight. no coffee, no amphetamines, no meal replacements</p>&mdash; typedfemale (@typedfemale) <a href="https://twitter.com/typedfemale/status/1717803963423334725?ref_src=twsrc%5Etfw">October 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+        <center>
+            <blockquote class="twitter-tweet"><p lang="en" dir="ltr">met a grad student doing a natty phd tonight. no coffee, no amphetamines, no meal replacements</p>&mdash; typedfemale (@typedfemale) <a href="https://twitter.com/typedfemale/status/1717803963423334725?ref_src=twsrc%5Etfw">October 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+        </center>
         <br>
         I did the course without hardcore stimulants - as did most of my cohort. Tried vyvanse once, felt like I had been kicked in the chest. Modafinil's effects were entirely the wrong target. No caffeine. One nicotine lozenge a day. 
     </div>
 </div>
 
-<br>
+<br><br>
 
 
 > You won, Jane. Oh my god. Enjoy the money. I hope it makes you very happy... Dear Lord, what a sad little life, Jane. 
+
+<br><br>
 
 <!-- Tattoo it on my tomb: "He never found anything he couldn't bullshit". -->
 
@@ -623,7 +625,7 @@ Ever so indirectly, I even achieved most of my initial goals (and many, many sur
         Not doing one is also emotionally fraught, if this means you carry a chip on your shoulder for the rest of your life -- if you feel intellectually incomplete, or that you could have been a contender, or feel that others are pulling rank to dismiss your valid arguments.
     </li>
     <li class="footnote" id="fn:3">
-        Citation joy is not only monkey-hooting or the craven mistaking of recognition for value. It just means that someone sorta read you and has tied you into the great weave. You don’t know them. You’ll never know them. But to the extent that a 10 minute skim can know you, briefly they know you.
+        Citation joy is not only monkey-hooting or the craven mistaking of recognition for value. It just means that someone sorta read you and has tied you into the great weave. You don’t know them. You’ll never know them. But to the extent that a 10 minute skim can give knowledge, briefly they know you.
     </li>
     <li class="footnote" id="fn:4">
         e.g. he's on a mere 6 of my 17 papers

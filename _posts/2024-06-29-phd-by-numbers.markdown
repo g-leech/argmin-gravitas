@@ -28,6 +28,8 @@ wordcount:
 {%  assign red = "https://osf.io/preprints/metaarxiv/me2ub"   %}
 {%  assign gs = "https://scholar.google.com/citations?user=xC-v_aUAAAAJ"   %}
 {%  assign nsf = "https://ncses.nsf.gov/pubs/nsf24300/data-tables"  %}
+{%  assign pub = "https://blogs.lse.ac.uk/impactofsocialsciences/2023/06/29/what-exactly-is-a-phd-by-publication"  %}
+
 
 
 What does a phd cost you?
@@ -46,18 +48,19 @@ With the usual caveats that I am not you and 2024 is not 2019 and my field and d
 
 40-50% of my cohort dropped out. This is unusually bad for the UK but apparently square average for the US.
 
-* Obviously you could tell a happy story here - "_up to 50% of people are paying attention to their needs and are mature and self-esteeming enough to correct course when a bet ends up not paying off!_". But that ain't it:
-    * 1 person hated the programme so much that they constantly railed against the director and the coursework and the administrators. He recovered quickly and got a PhD at a different university.
-    * 1 person went full-blown hikikkomori and never attended any CDT events in the last 3 years.
-    * 1 person dropped out after a crushing paper-authorship drama
-    * 2 people are Just Not Okay even years later
+Obviously you could tell a happy story here - "_up to 50% of people are paying attention to their needs and are mature and self-esteeming enough to correct course when a bet ends up not paying off!_". But that ain't it:
+* 1 person hated the programme so much that they constantly railed against the director and the coursework and the administrators. He recovered quickly and got a PhD at a different university.
+* 1 person went full-blown hikikkomori and never attended any programme events in the last 3 years.
+* 1 person dropped out after a crushing paper-authorship drama
+* 2 people are <a href="{{kuhn}}">Just Not Okay</a> even years later
 
-One guy is now perfectly happy in industry and has no regrets that I can detect, though.
+One guy is now perfectly happy in industry and has no regrets that I can detect, though. <a href="#fn:7" id="fnref:7">7</a>
 
 <br>
 
-The above is actually an underestimate of the personal risk, since it doesn't capture people who got disaffected, burned-out, depressed, helpless, clocked-out, cynical -- but who managed to tank the damage and finish. 
+The above actually understates the personal risk, since it doesn't capture people who got disaffected, burned-out, depressed, helpless, clocked-out, cynical -- but who managed to tank the damage and finish. 
 <!-- Like me. -->
+
 
 
 <br>
@@ -122,7 +125,7 @@ This one's a lower bound: just capital-r-Research; the sum of the time I spent o
 
 My best guess, triangulating between these, is 3500 hours. So 2.1 hours a day, or 3.0 per weekday.
 
-I've met a small number of people who managed in much less (like 5 months total) by having a lot of ideas ready to go and going ruthlessly for a PhD-by-publication.
+I've met a small number of people who managed in much less (like 5 months total) by having a lot of ideas ready to go and going ruthlessly for a <a href="{{pub}}">PhD-by-publication</a>.
 
 My examiner advised me to budget 6 months for writing up my papers into a coherent thesis. On the other hand, a friend of mine did his in 7 days (90 hours). I compromised and did it in a month (227h). 
 
@@ -257,6 +260,9 @@ I cover this other side of the equation lazily (qualitatively) <a href="/phdone#
     </li>
     <li class="footnote" id="fn:6">
         Obviously you can't sum these costs for each coauthor, so I'll just totally discount the compute used on the other Covid papers to crudely compensate for this.
+    </li>
+    <li class="footnote" id="fn:7">
+        Another "risk" is that of not becoming a professor. Depending on your field this could be 98% likely. (It seems like 80% of my set got out of academia.) But this is only a hazard if you go into it naively or can't cope with the outside world.
     </li>
 </ol>
 
