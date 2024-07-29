@@ -9,7 +9,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    ffi (1.17.0)
+    ffi (1.16.3)
     forwardable-extended (2.6.0)
     google-protobuf (3.25.4)
     http_parser.rb (0.8.0)
