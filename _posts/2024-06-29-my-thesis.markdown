@@ -159,7 +159,7 @@ Activation Addition: Steering Language Models Without Optimization} (2024)
 
 ## Unofficial conclusions
 
-* It is a <a href="http://www.stat.columbia.edu/~gelman/">Gelmanian</a> work, in that I cite him 74 times and in every chapter, and in that it is self-elected police work, in that it skips merrily across disciplinary boundaries, and in that it's stubbornly irreverent in tone.
+* It is a <a href="http://www.stat.columbia.edu/~gelman/">Gelmanian</a> work, in that I cite him 74 times and in every chapter, and in that it is self-elected police work, in that it skips merrily across disciplinary boundaries, and in that it's stubbornly irreverent in tone. This also makes it <a href="https://statmodeling.stat.columbia.edu/2007/09/13/jaynes_is_no_gu/">Jaynesian</a>, indirectly.
 
 * It's surprisingly easy to do real work in fields you have zero background in. This is partly because stats now reigns imperial in roughly all sciences but also because many fields are in some sense methodologically shallow and content deep.
 

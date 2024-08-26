@@ -18,6 +18,19 @@ wordcount:
 categories: maths, greats, politics
 ---
 
+> Such a return to a previous topic is altogether characteristic of. Kolmogorov's creative power: he can only discover for himself ever new fields, but cannot ...
+
+
+Noble mother, revolutionary father:
+> for revolutionary activity, and that is how he came to meet Kolmogorova, according to D. G. Kendall, in his obituary on Kolmogorov for the Royal Society of London. She
+
+
+> There was a hidden press used for printing subversive material in this noble house, which was a mailing address for communications with revolutionaries living abroad. Illegal materials were hidden in Andrei's cradle when the house was searched when he was three months old. His aunt Vera was arrested on another occasion and spent some time under house arrest in St. Petersburg. Tikhomirov reports, " 'They took' her to the haymaking, where alongside the country women she combed and turned the hay 
+
+
+
+Delighted to see that AK (at 5) noticed the same thing I noticed (at 17): squares are sequential sums of odds
+https://math.stackexchange.com/questions/639068/sum-of-odd-numbers-always-gives-a-perfect-square
 
 ## Pusya
 

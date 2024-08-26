@@ -37,9 +37,40 @@ The stochastic calculus was made during the war. It describes all random events.
 <br>
 
 
+## 2023
+
+When I was young and ignorant of the taste of sorrow 
+I loved to scale the roofs
+Yes, I scaled the roofs
+To compose new verses I feigned my woe.
+
+Now I understand sorrow’s flavours
+I can’t find the words
+Yes, I can’t find the words
+Instead: 'What a cool day! Such lovely autumn weather!'
+ 
+<br>
+
+- by Xin Qiji
+
+<br><br>
 
 
+少年不識愁滋味 
+愛上層樓
+愛上層樓 
+為赋新詞強說愁
 
+而今識盡愁滋味 
+欲說還休
+欲說還休 
+卻道天凉好個秋
+
+<br><br>
+
+<hr />
+<hr />
+<br>
 
 
 ## 2022

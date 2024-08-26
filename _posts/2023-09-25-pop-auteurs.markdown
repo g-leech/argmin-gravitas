@@ -58,6 +58,7 @@ wordcount:
 {%  assign now = "https://open.spotify.com/playlist/37i9dQZF1EFP5rPNdU4A8C?si=3cdee94903174556"  %}
 {%  assign nep = "https://open.spotify.com/playlist/3gC3qkmGsyEMIfgsiynDPP?si=9af60e24a1e04804"  %}
 {%  assign vig = "https://open.spotify.com/playlist/6uiuHbI9zlr5lyLbKxiA7F?si=d58ac27618384c5a" %}
+{%  assign diane = "https://open.spotify.com/playlist/37i9dQZF1EFC5Q0Qd39sZn?si=730e41d2cc9b4721" %}
 
 
 
@@ -163,6 +164,8 @@ One way to cut through the noise of chart music is to go past the face of it. As
 <!-- ### <a href="">Nellee Hooper</a> -->
 
 ### <a href="{{schl}}">Adam Schlesinger</a>
+
+### <a href="{{diane}}">Diane Warren</a>
 
 ### Soulquarians
 

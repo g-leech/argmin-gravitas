@@ -93,13 +93,15 @@ Ask people to share.
 
 Most smart people do not change the world much.
 
-Why? They get trapped in excellence. Instead of making a path for themselves, they climb the ladders that already exist. Life on rails. It's easier. <a href="#fn:1" id="fnref:1">1</a>
+Why? They get trapped in excellence. Instead of making a path for themselves, they climb the *ladders* that already exist. Life on rails. It's easier. <a href="#fn:1" id="fnref:1">1</a>
 
 Never underestimate people's hatred for establishing their own independent set of values and planning an optimal sequence of decisions according to them. Uncertainty about your values and the best actions for them is so painful and intractable that, upon for the first time exiting the cave aged 22, most people instantly find a new cave to hide in. (Ok, maybe the 22 year old who makes this decision isn't fully informed of the gravity of their decision.)
 
 "[Value capture](https://philarchive.org/rec/NGUVCH)"? No, not here. This is value relinquishment. Value abandonment.
 
 I call them ladders because they 1) are linear, 2) break up life progress into small, unthreatening local gradient steps, 3) provide an unambiguous path forward, 4) are rigid and fixed in place. <a href="#fn:2" id="fnref:2">2</a>
+
+What other ways up are there? Well, there's the grappling hook. It's risky.
 
 <br>
 
@@ -128,7 +130,7 @@ Two fundamental reasons that these places lead you away from your own values:
 
 ### Me
 
-Another thing that stops people is not realising that you can just do things. You don’t need permission, you usually don’t need a credential, you don’t need to solve all your personal problems first.
+Another thing that stops people: not realising that _you can just do things_. You don’t need permission, you usually don’t need a credential, you don’t need to solve all your personal problems first.
 
 I’m the first person in my family to finish college. Grandparents farmers. Mother a cleaner. I was also shy and depressed for a lot of the first 20 years. It took me a while to get going. 
 

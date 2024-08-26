@@ -171,7 +171,7 @@ Because you care. Because of unboundedness. Because of uncertainty, open concept
 - **Firehose**. ML is probably the fastest scientific field in the world. 
     - You have to go pretty lumpy ("life sciences") before the firehose of important new papers becomes of a comparable rate. This might actually be good, because no one is keeping up, and the inner voice screaming at you that you're falling behind calms down
 
-<br>
+
 
 2. Knightian uncertainty, the raft, imposture
 - The good student runs out of road, has to switch to orienteering and road construction
@@ -183,7 +183,7 @@ Because you care. Because of unboundedness. Because of uncertainty, open concept
 - Failure to understand, failure to do the one thing you've defined yourself by
 - Hypothesis: The PhD is a crisis for people who haven't fixed locus of control and overidentification with work
 
-<br>
+
 
 4. Loneliness
 - The essential loneliness of the specialist
@@ -225,17 +225,25 @@ Because you care. Because of unboundedness. Because of uncertainty, open concept
 - When I see someone has a PhD, I don't update much about their intelligence or creativity. More about their tolerance of pain, arbitrariness, and low pay. 
     - That's not nothing!
 
+<br><br>
 
 ### Positional
 
 - Is a PhD a positional good? Something which creates deadweight loss if we subsidising it too much? <a href="https://twitter.com/demiurgently/status/1668345993027547136?t=RkcL3FqfWZt63_nBTn2itw&s=19">Yes,</a> <a href="https://x.com/arpitrage/status/1148702962165985280">sure</a>.
  
+<br>
 
 <!-- - I am a "PGR" (postgraduate researcher) -->
 
 <center>
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Two things can be true at once: those who leave academia after getting a Ph.D. are drop out failures snorting intense amounts of copium when they pretend it was a choice *and* those who remain in are all jumped up backstabbing mediocrities pretending their luck is merit. Nuance.</p>&mdash; Liam Bright (@lastpositivist) <a href="https://twitter.com/lastpositivist/status/1732661047763337615?ref_src=twsrc%5Etfw">December 7, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
+
+<br>
+
+I haven't mentioned the hereditary nature of academia. I'm "first-generation" (my parents don't have degrees) which is supposed to make everything worse. I didn't really notice.
+
+It is surprising the things you don't realise: I didn't know undergraduates could publish research until 3rd year of uni. I think I met very few PhDs until the age of 18, and so ended up assuming they were all very smart, smarter than me.  
 
 <br>
 
@@ -268,7 +276,7 @@ Again, there's this whole other orientation to grad school, the rogueish one. Tr
     - 2019 - 2022: Stay in my room. Don't think about AI
     - 2022: Nassau, Prague, CDMX, Tallinn, Belgrade. Paid twice to think about AI
 
-- Some of this was enabled by Covid disrupting the usual uni surveillance mechanisms; take care.
+- Some of this was enabled by Covid disrupting the usual uni surveillance mechanisms. One of my peers went way too far (3 months AWOL in California during classes). take care.
 
 <br>
 
