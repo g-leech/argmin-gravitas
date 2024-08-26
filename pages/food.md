@@ -122,29 +122,36 @@ visible:    false
 
 It's hard to choose between Sichuan and Mexico for #1 so I guess I choose the international language of potato.
 
+<br>
 
-1. Sichuan
-2. Mexican
-3. South Indian 
-5. Nepalese
-5. Balkan
-4. Sicilian 
-5. Korean
-5. Neapolitan
-6. Hunan
-6. Cantonese
-8. North Indian
-9. Japanese
-7. Vietnamese
-11. Lebanese
-10. Thai
-12. Jiangsu
-12. Turkish
-13. French
-14. Bengali
-15. Malaysian
-16. Ethiopian
-17. Shandong
-17. Spanish
+
+1. Sichuan* (200)
+2. Mexican* (500)
+3. Nepalese (10)
+4. South Indian (300)
+5. Balkan* (20)
+4. Sicilian (50)
+6. Hunan (10)
+5. Neapolitan* (200)
+6. Cantonese* (500)
+5. Korean* (100)
+8. North Indian (300)
+9. Japanese* (300)
+7. Vietnamese (50)
+11. Lebanese (100)
+13. French* (200)
+10. Thai (150)
+12. Jiangsu (10)
+12. Turkish (30)
+14. Bengali (30)
+15. Malaysian (30)
+16. Ethiopian (20)
+17. Shandong (10)
+17. Spanish* (60)
 
 Implicitly just ranking by quality of vegetarian options.
+
+
+ \* = have eaten it in its home region
+ 
+ (xx) = number of times
