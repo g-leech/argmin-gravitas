@@ -11,33 +11,13 @@ visible:    false
 <center>— Leonard Cohen</center>
 
 
-
 <br><br>
 
-## 2023
+## 2024
 
 <br>
 
-
-
-#### __botany and ultimate reality__
-
-Selection pressures we don't really understand led the deerhorn clarkia to have strangely oblong pollen This increased its fitness for the task of "Robert Brown picking it"
-
-Bachelier modeled the process called Brownian. With some probability, Einstein read that. Wiener read that that. Itô read that that that.
-
-The stochastic calculus was made during the war. It describes all random events. that is, it describes.
-
-<img src="/img/ito.png" />
-
-<br><br>
-
-<hr />
-<hr />
-<br>
-
-
-## 2023
+#### Ugly Slave (by 辛棄疾)
 
 When I was young and ignorant of the taste of sorrow 
 I loved to scale the roofs
@@ -51,26 +31,71 @@ Instead: 'What a cool day! Such lovely autumn weather!'
  
 <br>
 
-- by Xin Qiji
+([original](https://www.gushiwen.cn/shiwenv_2ee36eb2ccf7.aspx))
 
-<br><br>
+<br><br><br><br><br>
 
 
-少年不識愁滋味 
-愛上層樓
-愛上層樓 
-為赋新詞強說愁
+#### Reverie (by 李清照)
 
-而今識盡愁滋味 
-欲說還休
-欲說還休 
-卻道天凉好個秋
+I always remember sunset at the river pavilion, so fun-drunk I couldn't find the way back. 
+Contented, I rowed back tardy, lost in the thick of the lotus. 
+I row, and row, and startle a wave of herons.
+
+<br>
+
+([original](https://www.gushiwen.cn/shiwenv_3e33bfbb8f79.aspx). Joint work with Yiwa Xie.)
+
+
+<br><br><br><br><br>
+
+
+#### Hunting in Mizhou - to the tune of 'Jiangchengzi' (by 苏轼)
+
+I am old and reviving my youthful madness. 
+Yellow hound on my left and hawk on my right. 
+With splendid hat and sable coat I ride the plains with my thousand riders. 
+To repay the governor's kindness, I shoot tigers in the style of General Sun.
+
+My stomach full of wine, my chest full of courage. 
+My temples are frosted grey? – so what! 
+Will the imperial seal never summon me to my potential?
+I will draw a carved bow full as the moon, look northwest, and shoot down Sirius.
+
+<br>
+
+([original](https://www.gushiwen.cn/mingju/juv_bdaaeb21f139.aspx); thanks to Yiwa Xie for assistance)
+
 
 <br><br>
 
 <hr />
 <hr />
 <br>
+
+
+## 2023
+
+<br>
+
+
+
+#### __botany and ultimate reality__
+
+Selection pressures we don't really understand led the deerhorn clarkia to have strangely oblong pollen This increased its fitness for the task of "Robert Brown picking it"
+
+Bachelier modelled the process thus called Brownian; with some probability, Einstein read that; Wiener read that that; Itô read that that that.
+
+The stochastic calculus was made in the middle of the war. It describes all random events. that is, it describes.
+
+<img src="/img/ito.png" />
+
+<br><br>
+
+<hr />
+<hr />
+<br>
+
 
 
 ## 2022

@@ -1,0 +1,5 @@
+_id: 06a72010-1edc-11e8-8af7-ab99598c0000
+name: Ashwin
+email: 1111
+message: "Oddly, the payoffs as given suggest a pretty different equilibrium from the normal 2-player game:<br>Number the players with numbers n = 1, ..., N. Each player cooperates when (# turns) mod N = k, and defects otherwise. Or in plain English -- everyone mostly defects for a gain of +2, but takes turns 'bearing the one ring' of cooperation for a cost of -1. Average score per turn is (2N-3)/N.<br>This is a Nash -- defecting on 'your turn' costs you 1 point, cooperating when it's not your turn costs you 3.<br>In some ways, the hard part to setting up a process like this would be convincing people to going along with it, coordinating on when 'their turn' is, etc. And if too many people are random or all-defect, it's probably superrational or regular-rational to switch to all-defect.<br>There's arguably two lessons to draw from this, one about game design and pattern-matching, one about how coordinating everyone on something halfway complicated is a nightmare."
+date: 1660265333
