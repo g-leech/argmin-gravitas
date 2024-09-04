@@ -137,6 +137,10 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 			<div>
 			{%		include quotes/borges.html	%}
 			</div>
+			<h3>norm</h3>
+			<div>
+			{%	include quotes/norm.html	%}
+			</div>
 			<h3>gwern</h3>
 			<div>
 			{%		include quotes/gwern.html	%}
