@@ -1,0 +1,48 @@
+---
+layout:     post
+title:      "Mitchell's open problems"
+baselink:   /mitchell
+permalink:  /mitchell
+date:       2024-08-02  <!--site.time-->
+author:     Gavin
+
+img:        /img/mitchell.jpg
+published:  true
+visible:    1
+quality:    4
+emotion:    2
+importance: 7
+
+summary:    18 year followup on a list of open problems in ML
+confidence: 80%
+categories: AI
+warnings:   
+wordcount:      
+---
+
+Its pretty rare for people to make explicit lists of open problems in their field. It's hard to see whole-field significance, and people don't try, instead spending most of their time staring at smaller, individual, paper-sized pieces.
+
+Still, in 2006, the great researcher Tom Mitchell [listed nine open problems](https://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) in machine learning. I claim that four of them have since been solved completely (in the loose sense that we went from no working system to practical systems).
+
+<br><br>
+
+
+1. **Solved: Can unlabelled data be helpful for supervised learning?** ([Mikolov 2013](https://arxiv.org/abs/1310.4546), [Devlin 2018](https://arxiv.org/abs/1810.04805), [Radford 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf));
+<br><br>
+1. **Solved: How can we transfer what is learned for one task to improve learning in other related tasks?** ([Devlin 2018](https://arxiv.org/abs/1810.04805), [Alammar](https://jalammar.github.io/illustrated-bert/), [Radford 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [Raffel 2020](https://arxiv.org/abs/1910.10683), [Zhuang 2020](https://arxiv.org/abs/1911.02685));
+<br><br>
+1. What is the relationship between different learning algorithms, and which should be used when? (some progress, but somewhat obviated by the dominance of the Transformer: [Hu 2022](https://hdsr.mitpress.mit.edu/pub/zkib7xth/release/2), [Tsai 2019](https://arxiv.org/abs/1908.11775));
+<br><br>
+1. For learners that actively collect their own training data, what is the best strategy? (minor progress; [Loshchilov 2016](https://arxiv.org/abs/1511.06343), [Katharopoulos 2018](https://proceedings.mlr.press/v80/katharopoulos18a.html), [Jiang 2019](https://arxiv.org/abs/1910.00762), [Mindermann 2022](https://proceedings.mlr.press/v162/mindermann22a.html));
+<br><br>
+1. **Solved: To what degree can we have both data privacy and the benefits of data mining?** ([Bonawitz 2016](https://arxiv.org/abs/1611.04482), [Kairouz 2021](https://arxiv.org/abs/1912.04977), [McMahan 2022](https://research.google/blog/federated-learning-with-formal-differential-privacy-guarantees/), [Banse 2024](https://arxiv.org/abs/2402.02230));
+<br><br>
+1. Can we build never-ending learners? (unsolved; [Parisi 2019](https://www.sciencedirect.com/science/article/pii/S0893608019300231), [Khetarpal 2022](https://arxiv.org/abs/2012.13490), [Wang 2024](https://ieeexplore.ieee.org/document/10444954));
+<br><br>
+1. Can machine learning theories and algorithms help explain human learning? (minor progress; [Shteingart 2014](https://www.sciencedirect.com/science/article/pii/S0959438813002286), [Kudithipudi 2022](https://www.nature.com/articles/s42256-022-00452-0), [Parr 2021](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2021.772641/full), [Byrnes 2022](https://sjbyrnes.com/agi.html), [Levin wooo](https://www.noemamag.com/ai-could-be-a-bridge-toward-diverse-intelligence));
+<br><br>
+1. Can we design programming languages containing machine learning primitives? (some progress; [Weiss 2021](https://arxiv.org/abs/2106.06981), [Pyro 2020](https://docs.pyro.ai/en/stable/primitives.html))
+<br><br>
+1. **Solved: Will computer perception merge with machine learning? [i.e. multimodal systems]** ([Dosovitskiy 2021](https://arxiv.org/abs/2010.11929), [Radford 2021](https://arxiv.org/abs/2103.00020), [Radford 2022](https://arxiv.org/abs/2212.04356), [Zia](https://www.unite.ai/unveiling-of-large-multimodal-models-shaping-the-landscape-of-language-models-in-2024/)).
+
+<br><br><br>
