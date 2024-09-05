@@ -1,7 +1,7 @@
 ---
 layout: 	page
-title: 		Gavin Leech
-nav: 		CV
+title: 		Gavin Leech's CV
+nav: 		  CV
 permalink:	/cv/
 visible:	false
 ---
@@ -52,6 +52,27 @@ visible:	false
 
 * <time>
     <a class="noline" href="/researches">
+      How to Lie in Machine Learning
+    </a>
+    <span style="font-weight: normal;">
+      (2024),<br>
+      in review at <i>JMLR</i>
+    </span>
+<br><br>
+
+* <time>
+    <a class="noline" href="/researches">
+      Ten Hard Problems in Artificial Intelligence We Must Get Right
+    </a>
+    <span style="font-weight: normal;">
+      (2024),<br>
+      in review at <i>ACM Computing Surveys</i>
+    </span>
+<br><br>
+
+
+* <time>
+    <a class="noline" href="/researches">
       Steering Language Models Without Optimisation
     </a>
     <span style="font-weight: normal;">
@@ -73,7 +94,8 @@ visible:	false
 <br><br>
 
 * <time>
-      <a class="noline" href="/researches">Inferring the effectiveness of government interventions against COVID</a>
+      <a class="noline" href="/researches">
+      Inferring the effectiveness of government interventions against COVID</a>
         <br><span style="font-weight: normal;">(2020),
       <i>Science</i>
     </span>
@@ -101,7 +123,13 @@ visible:	false
       (2020),<br>
       <i>AAAI SafeAI workshop</i>
     </span>
-  
+  <br><br>
+
+* <time>
+    <a class="noline" href="/researches">
+      (See full list here.)
+    </a>
+
 
 <br><br>
 
@@ -194,7 +222,8 @@ Solving little computational maths problems. Gimmick is I don't import anything.
     {%  include cv/espr.html  %}
     {%  include cv/forrt.html  %}
     {%  include cv/80k.html  %}
-    {%  include cv/ment.html  %}
+    {%  include cv/pibbss.html  %}
+    <!-- %  include cv/ment.html  % -->
     {%  include cv/critcont.html  %}
     {%  include cv/aisc.html  %}
     {%  include cv/offroad.html  %}
@@ -231,6 +260,10 @@ Solving little computational maths problems. Gimmick is I don't import anything.
 <style>
   .pubs:hover {
     color: #006800
+  }
+
+  .spc {
+    padding-top: 13px;
   }
 
   ul {

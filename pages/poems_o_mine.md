@@ -6,6 +6,9 @@ permalink:  /poems/
 visible:    false
 ---
 
+
+<br>
+
 > Poetry is just the evidence of life. If your life is burning well, poetry is just the ash.
 
 <center>— Leonard Cohen</center>
@@ -19,15 +22,15 @@ visible:    false
 
 #### Ugly Slave (by 辛棄疾)
 
-When I was young and ignorant of the taste of sorrow 
-I loved to scale the roofs
-Yes, I scaled the roofs
-To compose new verses I feigned my woe.
+When I was young and ignorant of the taste of sorrow <br>
+I loved to scale the roofs<br>
+Yes, I scaled the roofs<br>
+To compose new verses I feigned my woe.<br><br>
 
-Now I understand sorrow’s flavours
-I can’t find the words
-Yes, I can’t find the words
-Instead: 'What a cool day! Such lovely autumn weather!'
+Now I understand sorrow’s flavours<br>
+I can’t find the words<br>
+Yes, I can’t find the words<br>
+Instead: 'What a cool day! Such lovely autumn weather!'<br>
  
 <br>
 
@@ -38,9 +41,9 @@ Instead: 'What a cool day! Such lovely autumn weather!'
 
 #### Reverie (by 李清照)
 
-I always remember sunset at the river pavilion, so fun-drunk I couldn't find the way back. 
-Contented, I rowed back tardy, lost in the thick of the lotus. 
-I row, and row, and startle a wave of herons.
+I always remember sunset at the river pavilion, so fun-drunk I couldn't find the way back. <br>
+Contented, I rowed back tardy, lost in the thick of the lotus. <br>
+I row, and row, and startle a wave of herons.<br>
 
 <br>
 
@@ -52,15 +55,15 @@ I row, and row, and startle a wave of herons.
 
 #### Hunting in Mizhou - to the tune of 'Jiangchengzi' (by 苏轼)
 
-I am old and reviving my youthful madness. 
-Yellow hound on my left and hawk on my right. 
-With splendid hat and sable coat I ride the plains with my thousand riders. 
-To repay the governor's kindness, I shoot tigers in the style of General Sun.
+I am old and reviving my youthful madness. <br>
+Yellow hound on my left and hawk on my right. <br>
+With splendid hat and sable coat I ride the plains with my thousand riders. <br>
+To repay the governor's kindness, I shoot tigers in the style of General Sun.<br>
 
-My stomach full of wine, my chest full of courage. 
-My temples are frosted grey? – so what! 
-Will the imperial seal never summon me to my potential?
-I will draw a carved bow full as the moon, look northwest, and shoot down Sirius.
+My stomach full of wine, my chest full of courage. <br>
+My temples are frosted grey? – so what! <br>
+Will the imperial seal never summon me to my potential?<br>
+I will draw a carved bow full as the moon, look northwest, and shoot down Sirius.<br>
 
 <br>
 
