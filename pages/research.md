@@ -22,6 +22,13 @@ visible:	true
 
 <br>
 
+<!-- ## Books
+
+<table>
+	%	include researches/dp.html	%}
+</table>
+ -->
+
 ## Conference
 
 
