@@ -41,10 +41,12 @@ h4 {
 }
 
 .frame{
-	    margin-top: 2em;
-    	margin-bottom: 2em;
-	    width: 100%;
-	    max-width: 600px;
+	    margin-top: 0em;
+    	margin-bottom: 0em;
+    	padding-left: 4em;
+    	padding-right: 4em;
+	    width: 80%;
+	    max-width: 380px;
 	    display: flex;
 	    text-align: center;
 	    align-items: center;
