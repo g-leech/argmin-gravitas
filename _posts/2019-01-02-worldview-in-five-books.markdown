@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Worldview in Five Books"
+title:      "2017 Worldview in Five Books"
 baselink:   /fivebooks
 permalink:  /fivebooks
 date:       2019-01-13
@@ -14,8 +14,9 @@ quality:    6
 summary:    A compressed version of what's important to me.
 categories: 
 importance: 9
-wordcount:      1000
+wordcount:  1000
 categories: self-representation, lists, philosophy, becoming
+warnings: 	No longer endorsed.
 ---
 
 {%  include fivebooks/style.html %}

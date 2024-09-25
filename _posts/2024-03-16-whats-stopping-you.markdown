@@ -250,7 +250,7 @@ Please do not let me tell you what to do.
 
 Most work makes the world better in a small and quiet way. This is a beautiful thing. M once worked on Google’s central TCP/IP stack. He commented out one line and sped up every single web request that Google performs. A quadrillion of milliseconds saved every day = 11 years of human life every year. He says this is likely the most valuable day of work he ever did for them.
 
-Getting to L6 at Google; having 2 children; saying true things; retiring at 50; being kind. This is a lot. It is more than most humans who ever lived achieved.
+Getting to L6 at Google or wherever; having 2 children; saying true things; retiring at 50; being kind. This is a lot. It is more than most humans who ever lived achieved.
 
 
 
@@ -326,7 +326,7 @@ Reading too much is dangerous past a certain point. IMO “oh apply Cauchy-Schwa
             <li>The introduction of middle management totally <a href="https://thezvi.wordpress.com/2020/05/23/mazes-sequence-summary/">changes the game</a>, creating a "mesa-optimiser" inside the org which is maximising its share of resources instead of the org's official goal</li>
 <!--  -->
             <li>
-                Even the most powerful orgs on earth are more sensitive to PR and internal PR than you'd think. So <a href="https://www.overcomingbias.com/p/why-is-everyone-so-boringhtml">maybe large organisations are <i>intentionally</i> boring, so as not to bring down mobs, opportunists and investigators.
+                Even the most powerful orgs on earth are more sensitive to PR and internal PR than you'd think. So <a href="https://www.overcomingbias.com/p/why-is-everyone-so-boringhtml">maybe large organisations are</a> <i>intentionally</i> boring, so as not to bring down mobs, opportunists and investigators.
             </li>
         </ol>
     </div>
