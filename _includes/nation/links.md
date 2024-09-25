@@ -11,6 +11,9 @@
 {%	assign spotscot = "https://open.spotify.com/embed/playlist/7y5F7c4gSnaBkCJdbA2ATC"		%}
 {%	assign spotbris = "https://open.spotify.com/embed/playlist/2Jt0cpjzYrQ26fx2iFSKue"		%}
 {%	assign spotbra = "https://open.spotify.com/embed/playlist/503SxgkOdPpRLZDYB7EAEv"		%}
+{%	assign spotglas = "https://open.spotify.com/embed/playlist/63GiC1rZIf8Z32UNfwqRRn"	%}
+{%	assign spotedin = "https://open.spotify.com/embed/playlist/2L49XoNT3AzkETIDzDHHu8"	%}
+{%	assign spotabdn = "https://open.spotify.com/embed/playlist/7Lq7HPiQEFuPFZSHTGBw61"	%}
 {%	assign spotch = "https://open.spotify.com/embed/playlist/1Qtadc7xu0dqrQYt8PszXk"		%}
 {%	assign spothk = "https://open.spotify.com/embed/playlist/6HUyWdxbFFMa6U8BRA7qBC"		%}
 {%	assign spotleed = "https://open.spotify.com/embed/playlist/2t9LRzc62O3YxqcsLmLkxi"			%}
