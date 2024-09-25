@@ -1,0 +1,27 @@
+{%  assign id = "dpimg"  %}
+
+<tr>
+    <td class="logo">
+        <a href="">
+            <div id="{{id}}"></div>
+        </a>
+    </td>
+    <td style="padding-left: 5px">
+        <h4>
+            <a class="nolink" href="" target="_blank">
+                An Oral History of the Scaling Era
+                <span class="year">(2025)</span>
+            </a> 
+            by Dwarkesh Patel & <span class="me">Gavin Leech</span>
+        </h4>
+        <div class="journo">
+            <a style="text-decoration: none" href="">Stripe Press</a>
+        </div>        
+    </td>
+</tr>
+
+
+<script>  
+    var src="/img/papers/"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>
