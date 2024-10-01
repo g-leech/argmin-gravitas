@@ -14,6 +14,7 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #111;
+$white: 		  #FFF;
 $background-color: #fdfdfd;
 $brand-color:      #006800;
 
@@ -28,8 +29,6 @@ $content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
-
-$footer-height:     100px;
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
