@@ -88,7 +88,7 @@ Here are some different ways of doing it, less optimised for past masters.
 Use colours to instantly relate symbols to explanations, whether verbal or graphical. Like Eric Jang's incredible '<a href="{{jang}}">Dijkstras in Disguise</a>':
 
 <center>
-	<img class="lazy" data-src="/img/bellmanford.png" />
+	<img loading="lazy" data-src="/img/bellmanford.png" />
 </center>
 
 This is also an instance of giving people several angles of attack on the same concept.
@@ -129,7 +129,7 @@ Michael Sipser has good comments on all the proofs in <a href="{{sipser}}">his g
 	<h3>Diagonalisation</h3>
 	<div>
 		<center>
-		<img width="100%" class="lazy" data-src="/img/diag.png" />
+		<img width="100%" loading="lazy" data-src="/img/diag.png" />
 		</center>
 	</div>
 </div>
@@ -260,5 +260,3 @@ All of academic science is stuck on many of the above, stuck in the 90s. Maybe w
 _Credit to John Lapinskas for the induction algorithm._
 
 <br>
-
-{% 	include lazyload.html 	%}

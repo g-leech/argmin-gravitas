@@ -52,11 +52,6 @@
 	<a href="https://www.goodreads.com/review/list/68316850-gavin?shelf=currently-reading">Reading</a>. <i>Watching</i>: Nothing at all.
 	<br><br> -->
 	
-<style>
-	.bot {
-		padding-bottom: 15px;
-	}	
-</style>
 </div>
 
 </div>
