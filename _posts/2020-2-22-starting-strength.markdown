@@ -36,6 +36,14 @@ argument:
 <center>&#8211; Cato the Elder</center>
 <br><br>
 
+<blockquote>
+Time spent away from the Iron makes my mind degenerate. I wallow in a thick depression. My body shuts down my mind... There is no better way to fight weakness than with strength. Once the mind and body have been awakened to their true potential, it’s impossible to turn back.
+
+The Iron never lies to you. You can walk outside and listen to all kinds of talk, get told that you’re a god or a total bastard... The Iron is the great reference point, the all-knowing perspective giver. Always there like a beacon in the pitch black. I have found the Iron to be my greatest friend. It never freaks out on me, never runs. Friends may come and go. But two hundred pounds is always two hundred pounds.
+</blockquote>
+<center>&#8211; Henry Rollins</center>
+<br><br>
+
 
 
 The first paragraph of this fitness book has stronger writing than you'd ever expect:

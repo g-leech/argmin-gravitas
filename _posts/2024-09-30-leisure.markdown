@@ -1,0 +1,44 @@
+---
+layout:     post
+title:      "Bleg: the contemporary leisure class"
+baselink:   /leisure
+permalink:  /leisure
+date:       2024-09-30
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+quality:    
+
+summary:    
+confidence: 
+importance: 5
+wordcount:  
+categories: 
+---
+
+__A bleg is Tyler's coinage for a blog post begging for some particular information.__
+
+<br>
+
+A very long time ago, Veblen talked about the leisure class: the people who didn't need to work. I expect this class to be larger now, simply because there's so much more slack in the economy for them.
+
+I can unscientifically see a few types:
+
+* Trustafarians
+* Old retirees
+* Young retirees (e.g. ERE)
+* Entourages (personal office)
+* Welfare (Geoff Dyer, Nigel Blackwell)
+* Passive incomeists (landowners)
+* Sinecures (tenured professors with a named chair)
+
+Others have noted that the elite are now expected to work, and work pretty hard. I don't trust sociologists to be very curious about the details of billionaires' lives or courtiers.
+
+
+# Stopgap plan: 
+
+* Step 1. Go on Google Scholar and look for 2024 works citing Veblen (1899)
+* Step 2. Look for who Ashley Mears cites.
+* Step 3. Look at _Deep Utopia_ when it looks for existing reference points for post-scarcity people
