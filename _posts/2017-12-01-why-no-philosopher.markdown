@@ -363,10 +363,10 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 {%	assign stove = "https://web.maths.unsw.edu.au/~jim/wrongthoughts.html"	%}
 {%	assign spol = "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/"		%}
 {%	assign carl = "https://joecarlsmith.com/2023/02/16/why-should-ethical-anti-realists-do-ethics"	%}
+{%	assign prinzing = "https://philpapers.org/rec/PRIDSP" %}
 
 
-
-
+* <a href="{{prinzing}}">Prinzing and Vazquez</a>
 * <a href="/broadness">Broadness as trivial predictor of philosophical status</a>
 * http://justmorephilosophy.blogspot.com/2015/10/never-questioning-value-of-philosophy.html
 * Tom Adamczewski, <a href="{{sitt}}">Philosophical Success Stories</a>
