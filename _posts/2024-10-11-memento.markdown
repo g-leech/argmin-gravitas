@@ -1,0 +1,148 @@
+---
+layout:     post
+title:      "Memento"
+baselink:   /memento
+permalink:  /memento
+date:       2024-10-18
+author:     Gavin   
+img:        /img/mementoes/caseCustom.jpg
+
+visible:    1
+published:  true
+quality:    4
+
+summary:    My cabinet of curiosities
+confidence: N/A
+importance: 3
+wordcount:  
+categories: navel-gazing, becoming, art
+---
+
+{%	assign gla = "https://www.argyllhotelglasgow.co.uk/glasgow-coat-of-arms.htm#:~:text=There%E2%80%99s%20the%20tree%20that%20never%20grew%2C"	%}
+{%	assign ese = "https://experience.epistea.org/"	%}
+{%	assign rev = "https://revachol.rolling.cz/"	%}
+
+
+I keep little symbols of big things in my life in a headphone case.
+
+
+<center>
+<img width="50%" src="/img/mementoes/case.jpg" /><br>
+</center>
+
+Believe it or not, this is the official Boy Scouts badge for my home region. (The region's most notable landmark is a arsoned cathedral, at one point the second-largest building in Scotland.)
+<center>
+<img width="50%" src="/img/mementoes/moray.jpg" /><br>
+</center>
+
+A young dead friend.
+<center>
+<img width="50%" src="/img/mementoes/ru.jpg" /><br>
+</center>
+My first two degrees. (The <a href="{{gla}}">Glasgow one</a> is cut off a ceremonial teaspoon because the official merch sickens me.)
+<center>
+<img width="50%" src="/img/mementoes/uni.jpg" /><br>
+</center>
+My first girlfriend, who was completely nonfunctional in the morning until she'd had three cups of coffee.
+<center>
+<img width="50%" src="/img/mementoes/moka.jpg" /><br>
+</center>
+
+My first (anonymous) blog.
+<center>
+<img width="50%" src="/img/mementoes/snakes.jpg" /><br>
+</center>
+
+My second girlfriend, a sommelier.
+<center>
+<img width="50%" src="/img/mementoes/wine.jpg" /><br>
+</center>
+
+33 conference badges.
+<center>
+<img width="50%" src="/img/mementoes/badges.jpg" /><br>
+</center>
+
+This blog. I wanted a ringworld (see favicon) but of course the water here is on the wrong side.
+<center>
+<img width="50%" src="/img/mementoes/phlebas.jpg" /><br>
+</center>
+
+My time in corporate data science.
+<center>
+<img width="50%" src="/img/mementoes/data.jpg" /><br>
+</center>
+
+
+The best <a href="{{ese}}">event</a> I ever went to. Matches match the theme of creating fire.
+<center>
+<img width="50%" src="/img/mementoes/epistea.jpg" /><br>
+</center>
+
+Self-explanatory.
+<center>
+<img width="50%" src="/img/mementoes/ev.jpg" /><br>
+</center>
+
+A unit of currency from a terrible game.
+<center>
+<img width="50%" src="/img/mementoes/bead.jpg" /><br>
+</center>
+
+A gift from a sentimental friend.
+<center>
+<img width="50%" src="/img/mementoes/hero.jpg" /><br>
+</center>
+
+
+The FTX year.
+<center>
+<img width="50%" src="/img/mementoes/chip.jpg" /><br>
+</center>
+
+Thank-you notes from my students at ESPR.
+<center>
+<img width="50%" src="/img/mementoes/letters.jpg" /><br>
+</center>
+
+My first company.
+<center>
+<img width="50%" src="/img/mementoes/arb.jpg" /><br>
+</center>
+
+
+My first employee.
+<center>
+<img width="50%" src="/img/mementoes/kr.jpg" /><br>
+</center>
+A thank-you note from a coauthor.
+<center>
+<img width="50%" src="/img/mementoes/alex.jpg" /><br>
+</center>
+
+Archive of photographs.
+<center>
+<img width="50%" src="/img/mementoes/photos.jpg" /><br>
+</center>
+
+My character in my first <a href="{{rev}}">larp</a>.
+<center>
+<img width="50%" src="/img/mementoes/sam.jpg" /><br>
+</center>
+
+My doctoral sword.
+<center>
+<img width="100%" src="/img/mementoes/sword.jpg" /><br>
+</center>
+
+<center>
+<img width="50%" src="/img/mementoes/inscrip.jpg" /><br>
+</center>
+
+
+My academic life: 
+<center>
+<img width="50%" src="/img/mementoes/aca.jpg" /><br>
+</center>
+
+<br><br>

@@ -7,7 +7,7 @@
 {%	assign goog = "https://scholar.google.com/citations?user=xC-v_aUAAAAJ"		%}
 {%	assign orcid = "https://orcid.org/0000-0002-9298-1488"		%}
 {%  assign arb = "https://arbresearch.com"    %}
-{%	assign cam = "https://www.lcfi.ac.uk/people#group-visiting-scholar"	%}
+{%	assign cam = "https://www.lcfi.ac.uk/people/gavin-leech"	%}
 {%	assign bris = "https://www.bristol.ac.uk/people/person/Gavin-Leech-16c2a616-ecbe-4d2d-90d7-87bc3252aa02"	%}
 {%	assign covid = "https://www.science.org/doi/10.1126/science.abd9338"		%}
 {%	assign coviddata = "https://www.nature.com/articles/s41597-022-01175-y"		%}
