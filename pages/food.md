@@ -53,6 +53,7 @@ visible:    false
 * only potato
 
 * White pomelo
+* Yanzhi gan lu (杨枝甘露)
 * Raasiku kali 
 * Horchata
 * MSG on watermelon

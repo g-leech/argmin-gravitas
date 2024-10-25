@@ -142,6 +142,10 @@ My doctoral sword.
 
 My academic life: 
 <center>
+<img width="50%" src="/img/mementoes/mug.jpg" /><br>
+</center>
+
+<center>
 <img width="50%" src="/img/mementoes/aca.jpg" /><br>
 </center>
 
