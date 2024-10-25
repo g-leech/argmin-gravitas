@@ -1,0 +1,112 @@
+---
+layout:     page
+title:      Modelling personal investment under xrisk
+permalink:  /merton/
+visible:    false
+---
+
+<br> 
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/10.5.0/math.min.js"></script>
+
+
+<form id="mertonForm">
+
+    <h4>
+       <label for="dropdown">Beliefs</label>
+    </h4>
+    <select name="beliefs" id="beliefs">
+      <option value="unconcerned">Unconcerned (<1% risk)</option>
+      <option value="concerned">Concerned (10% risk)</option>
+      <option value="doomed">Doomed (90% risk)</option>
+      <option value="custom">Custom</option>
+    </select>
+    <br>
+
+    <h4>Parameters</h4>
+    <!-- Input fields for parameters -->
+    <label for="gamma">Risk Aversion (gamma):</label>
+    <input type="number" id="gamma" value="2"><br>
+
+    <label for="delta">Consumption Discount (delta):</label>
+    <input type="number" id="delta" value="0.02"><br>
+
+    <label for="mu1">Expected Return AI Stock (mu1):</label>
+    <input type="number" id="mu1" value="0.63"><br>
+
+    <label for="mu2">Expected Return Market (mu2):</label>
+    <input type="number" id="mu2" value="0.1"><br>
+
+    <label for="r">Risk-Free Rate (r):</label>
+    <input type="number" id="r" value="0.05"><br>
+
+    <label for="rho11">Variance AI Stock (rho11):</label>
+    <input type="number" id="rho11" value="1.15"><br>
+
+    <label for="rho22">Variance Market (rho22):</label>
+    <input type="number" id="rho22" value="0.05"><br>
+
+    <label for="rho21">Covariance (rho21 = rho12):</label>
+    <input type="number" id="rho21" value="-0.05"><br>
+    <br>
+    <button type="button" onclick="runModel()">Calculate</button>
+</form>
+
+<h3>Results</h3>
+
+Given the assumptions, you should allocate your portfolio between:
+
+<br><br>
+<ol>
+    <li>Consumption: <span id="consumptionResult"></span></li>
+    <li>AI stocks: <span id="allocationResult"></span></li>
+    <li>Non-AI stocks: <span id="nonallocationResult"></span></li>
+<p></p>
+
+
+<script>
+    function runModel() {
+        // Extract input values
+        const gamma = parseFloat(document.getElementById("gamma").value);
+        const delta = parseFloat(document.getElementById("delta").value);
+        const mu1 = parseFloat(document.getElementById("mu1").value);
+        const mu2 = parseFloat(document.getElementById("mu2").value);
+        const r = parseFloat(document.getElementById("r").value);
+        const rho11 = parseFloat(document.getElementById("rho11").value);
+        const rho22 = parseFloat(document.getElementById("rho22").value);
+        const rho21 = parseFloat(document.getElementById("rho21").value);
+        const rho12 = rho21; // symmetry
+
+        // Define omega and nretn based on inputs
+        const omega = [
+            [rho11, rho12],
+            [rho21, rho22]
+        ];
+        const nretn = [mu1 - r, mu2 - r];
+
+        // Run calculations
+        const consumption = calculateConsumption(gamma, delta, r, nretn, omega);
+        const allocation = calculateAllocation(gamma, nretn, omega);
+
+        // Display results
+        document.getElementById("consumptionResult").innerText = consumption.toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2}); 
+        document.getElementById("allocationResult").innerText = allocation[0].toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2});
+        document.getElementById("nonallocationResult").innerText = allocation[1].toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2});
+    }
+    
+    // Calculation functions
+    function calculateConsumption(gamma, delta, r, nretn, omega) {
+        const omegaInv = math.inv(omega);
+        const nretnOmegaNretn = math.multiply(nretn, omegaInv, nretn);
+        return (delta / gamma) - (1 - gamma) * ((r / gamma) + (nretnOmegaNretn / (2 * (gamma ** 2))));
+    }
+
+    function calculateAllocation(gamma, nretn, omega) {
+        const omegaInv = math.inv(omega);
+        return math.multiply(1 / gamma, math.multiply(omegaInv, nretn));
+    }
+</script>
+
+
+
+
