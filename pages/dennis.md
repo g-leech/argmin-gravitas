@@ -18,7 +18,7 @@ visible:    false
 <center><h3>MCMXXX</h3><br>
 <h4>
 	Eyre and Spottiswoode<br>
-	Publishers --- London
+	Publishers - London
 </h4>
 </center>
 
@@ -829,6 +829,8 @@ No latter year of fate has had quite such a following. The 1917 prophecy, based 
 
 Not more successful this last decade’s fatal choices ---  ‘21 (April), '24, '28 --- culled by new desperate subtlety with the Book of Daniel and the Great Pyramid, and grounded on calculations connected with the final overthrow of the Pope's temporal power, which was not perhaps quite so final as its enemies fancied, the subversion of Rome, which may mean whatever you like, and the conversion of the Jews, which is still proceeding rather slowly.
 
+
+
 For the immediate future there is 1931, next year as I write. The Prophetical Society of Dallas, Texas, the most powerful catastrophic organization in the world, which exercises much influence through the length and breadth of the Bible Belt of the United States of America, and even far outside that intemperate zone, has assembled the facts, and they are many, and dispelled the doubts, till they must be few. Perhaps in spring, perhaps in the autumn, rather more probably at Christmas. Every sign has indeed been accomplished: famines and pestilences and earthquakes, nation rising up against nation and kingdom against kingdom, the gospel preached at last in ALL the world for a witness, and the abomination of desolation standing in the holy place --- though whether Dux or Pontifex be the abomination is left doubtful, and even diplomatists are not sure for which of the two the Lateran trumpets sounded victory. Every prophecy concords: Apocalypse with Apocrypha, the Pyramid corridors with Daniel’s chronology; Kemal's inauguration is Antichrist’s World Coronation, Ismet's number (count it) the number of the Beast, the Red Tsar the Scarlet Woman.
 
 For our children and children's children there are the 2000 and, two years before it, the 1998. One is the Thousand years twice told, the pre-ordinate and decretory termination of the six thousand years of this vision; the other both the magical three times the magical number of a Man (3 x 666 = 1998) and the Passionate numeral of the Son of Man Himself, Who was crucified in the 1998th week of His human life.
@@ -848,10 +850,8 @@ The chiliast and the Rabbis and the Bible-delvers were poor bungling workmen; bu
 
 
 
+<h2><a id="next">Next year</a></h2>
 
-
-
-<h2>Some time</h2>
 
 ASIDE from the named year, early or late, stand the two chief temporal expectations, broadly grouped and broadly contrasted. The end of the world is at hand; it is very far off.
 
@@ -900,6 +900,10 @@ Ransack our own memories. A dozen men around a green table. Only two or three of
 Probability, in short, is a law of averages; at any moment the law may be infringed, the first ape at the first typewriter type Shakespeare the first week, only black never red turn up next season twenty-nine times twenty-nine, Ocho Negro lie uncalled not for a day but a generation. It is based on a logical theory of the world; the naturalists themselves are coming to see that matter may be illogical, anarchical, able at any moment to disobey. Above all, it is a rule that holds good over short periods only; the periods of the universe are long.
 
 When, pursuing Probability, the calm apostles of distance proceed to base When on How and, selecting this way of that way for the end, posit each in its most absolute, its remotest form, they use another fallacy. It is a fundamental fallacy. For a light touch of each way or any could suffice. A ten-per-cent. rise in the sun's temperature, no need for a hundred. A billion-mile passing of the star, not full percussion. One short cold snap, not final winter. Every new glacial period is colder; the next one may be too cold for life to live through. Every new inter-glacial period is shorter; the next one bids fair to reach not fifty centuries. Not the extreme hour of the frost eternal sounds our knell, but the first frost of autumn. We are well though the summer.
+
+
+<h2><a id="some">Some time</a></h2>
+
 
 If soon, sudden.
 
