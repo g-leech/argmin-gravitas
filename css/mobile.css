@@ -39,7 +39,7 @@ html {
   color:#000;
 }
 body {
-  margin:4px 2px 0 2px;
+  margin:4px 4px 4px 19px;
 }
 
 /* typography */
@@ -73,13 +73,13 @@ pre a {
 /* headers and pullquotes */
 
 h1, h2, h3, h4, pre, caption, .legend, thead th {
-  padding:0;
+  padding-top:20px;
   border:0;
   letter-spacing:0;
   text-shadow:0 0 0;
 }
 h1 {
-  margin:0;
+  margin:0px;
 }
 h1, h1 code {
   font:normal 18px/18px serif;
