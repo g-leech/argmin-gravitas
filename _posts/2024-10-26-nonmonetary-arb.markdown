@@ -24,7 +24,7 @@ I actually haven't seen anyone write down my favourite things about running a co
 * You get to choose everyone you work with ($200k)
 * No boss ($50k)
 * Refuse or cancel most projects or meetings at any time <a href="#fn:2" id="fnref:2">2</a> ($50k). Subcontracting at will ($50k).
-* Being able to make <a href="/dennis">cool</a> <a href="https://arxiv.org/abs/2407.12220">side</a> <a href="replication database">projects</a> happen with minimal friction by putting people on it ($50k)
+* Being able to make <a href="/dennis">cool</a> <a href="https://arxiv.org/abs/2407.12220">side</a> <a href="https://metaanalyses.shinyapps.io/replicationdatabase/">projects</a> happen with minimal friction by putting people on it ($50k)
 * Full geographical freedom ($50k)
 * Unlimited paid leave ($30k) 
 * Alternatively, unlimited work (without being viewed as a tall poppy or tryhard). ($20k)
@@ -38,12 +38,13 @@ I actually haven't seen anyone write down my favourite things about running a co
 
 Obvious enough, but together worth more to me than money. The options to do the above are sometimes as important and satisfying as the exercise. Overall you can summarise them as _control over environment_, _internal locus of control_, and _returning a smooth piecewise tradeoff between freedom and money_. 
 
-Many entrepreneurs are instead seeking their great Exit - want that generational wealth - and thus forfeit the spiritual advantages above. I'm not talking about the debt financing and burn and scaling. But most companies aren't chasing that dragon.
+Many entrepreneurs are instead seeking their great Exit - want that generational wealth - and thus forfeit the spiritual advantages above. So I'm not talking about the debt financing and burn and scaling type of company that the media obsess over. But anyway most companies aren't chasing that dragon.
 
 <br> 
 
 So why isn't this the default move for the smart and lucky? Most obviously, few people have the savings to buy plant and ride out the dry periods. Then there's risk aversion and hatred of variance. Maybe something about the so-called "tyranny of choice" for some people: you do have to make a lot more decisions. Some probability of failure (_zero_ money); income variance; 3% of clients are unreasonable and aggravating even if you ; serious paperwork with severe penalties for screwing it up; reduced feedback (power dynamics; no mentoring; no positive management; no performance review to actually help you).
 
+<br><br>
 
 <div class="footnotes">
 
@@ -59,7 +60,7 @@ So why isn't this the default move for the smart and lucky? Most obviously, few 
     	beyond usual social desirability 
     </li>
     <li class="footnote" id="fn:4">
-    	The meaning of these cash values - which sum to my whole income - is not precise but gives you a relative sense.
+    	The meaning of these cash values - which sum to somewhat more than my whole income - is not precise but gives you a relative sense.
     </li>
 </ol>
 
