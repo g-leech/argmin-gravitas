@@ -35,7 +35,7 @@ jekse
 [ ] make archive [/archive] page neater + better for mobile
 [ ] make best [/best] page neater + better for mobile
 [ ] why does coding [/coding] page not have an H1?
-[ ] add a 404 page
+[ ] style the 404 page
 [ ] [/importance] H2 underlines are ugly
 [ ] metadata section on post pages could look better
 [ ] hamburger menu can be better
@@ -60,3 +60,8 @@ jekse
 [ ] definitely saner paddings on p tags
 [ ] blogroll
 [ ] archive page
+
+
+## issues
+[ ] home page looks differnt due to flexbox vs. table
+[ ] remove underlines form footer links
