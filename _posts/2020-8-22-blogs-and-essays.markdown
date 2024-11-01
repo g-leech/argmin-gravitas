@@ -138,6 +138,10 @@ Think tanks are the usual way to be a full-time intellectual outside academia. B
 
 <br>
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve previously called this the defining characteristic of Internet writing: implicit permission to be imperfect, whereas most ways of writing in the world carry an implicit requirement to strive for a level of rigor that kills most artifacts before work begins on them.</p>&mdash; Patrick McKenzie (@patio11) <a href="https://twitter.com/patio11/status/1841882853287633376?ref_src=twsrc%5Etfw">October 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 ## See also
 
 * Long content is really uncommon. Even great internet writing with a view to the long term (e.g. Eliezer Yudkowsky's <a href="{{yud}}">sustained braindump</a> of 2007 to 2009) is never updated, when its problems are found at all. This should worry us, since it implies it's hard to do. Maybe few people have stable enough goals and interests to do this, or just enough time. <br><br>

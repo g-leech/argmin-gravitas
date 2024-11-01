@@ -1,0 +1,178 @@
+---
+layout:     page
+title:      Modelling personal investment under xrisk
+permalink:  /merton/
+visible:    false
+---
+
+<br> 
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/10.5.0/math.min.js"></script>
+
+
+<form id="mertonForm">
+
+    <h4>
+       <label for="dropdown">xrisk belief</label>
+    </h4>
+    <select name="beliefs" id="beliefs">
+      <option value="unconcerned">Unconcerned (<1% risk)</option>
+      <option value="concerned">Concerned (10% risk)</option>
+      <option value="doomed">Doomed (90% risk)</option>
+      <option value="custom">Custom</option>
+    </select>
+    <br>
+
+    <h4>Parameters</h4>
+    <!-- Input fields for parameters -->
+    <ul>
+        <li><label for="gamma">Relative risk aversion (gamma):</label>
+        <input type="number" id="gamma" value="2">
+        </li><br>
+
+        <li><label for="delta">Consumption discount rate (delta):</label>
+        <input type="number" id="delta" value="0.02">
+        </li><br>
+
+    <li><label for="mu1">Expected return on AI stocks (mu1):</label>
+    <input type="number" id="mu1" value="0.3"></li><br>
+
+    <li><label for="r">Risk-free rate (r):</label>
+    <input type="number" id="r" value="0.05"></li><br>
+
+    <li><label for="rho11">Variance of AI stocks (rho11):</label>
+    <input type="number" id="rho11" value="1.15"></li><br>
+
+    <li><label for="rho22">Variance of the market (rho22):</label>
+    <input type="number" id="rho22" value="0.05"></li><br>
+
+    <li><label for="rho21">Covariance (rho21 = rho12):</label>
+    <input type="number" id="rho21" value="-0.05"></li>
+    </ul><br>
+    <br>
+    <button type="button" onclick="runModel()">Calculate</button>
+</form>
+<br>
+
+<h3>Results</h3>
+
+Given the assumptions, you should allocate your portfolio between:
+
+<br><br>
+<ol>
+    <li>Consumption: <span id="consumptionResult"></span></li>
+    <li>AI stocks: <span id="allocationResult"></span></li>
+    <li>Non-AI stocks: <span id="nonallocationResult"></span></li>
+</ol>
+<br>
+(These don't sum to 1 because Merton is implying you should be leveraged <span id="sumResult"></span>x.)
+
+<i>This is not investment advice.</i>
+
+<script>
+        function runModel() {
+            // Extract input values
+            const gamma = 2;
+            const delta = 0.05;
+            const mu1 = 0.3;
+            
+            const r = 0.05;
+            const rho11 = 1.15;
+            const rho22 = 0.05;
+
+            // Generate random variables x and y with the desired correlation
+            const n = 1000000;
+            const x = Array.from({length: n}, () => math.randomNormal());
+            const yFactor = 0.5 * (mu1 * (200 / 110000) / 0.022);
+            const y = x.map(xi => math.randomNormal() + yFactor * xi);
+
+            // Calculate mu2 based on x and y correlation
+            const mu2 = 0.1 + 0.2 * (mu1 * (200 / 110000) / 0.022);
+
+            // Estimate covariance rho21 from x and y
+            const covXY = math.mean(x.map((xi, i) => xi * y[i])) - (math.mean(x) * math.mean(y));
+            const rho21 = Math.sqrt(covXY);
+            const rho12 = rho21;
+
+            // Check positive-definiteness of covariance matrix
+            const determinant = rho11 * rho22 - rho21 ** 2;
+            if (determinant <= 0) {
+                document.getElementById("consumptionResult").innerText = "Covariance matrix not positive definite.";
+                document.getElementById("allocationResult").innerText = "Covariance matrix not positive definite.";
+                return;
+            }
+
+            // Covariance matrix (omega) and excess returns vector (nretn)
+            const omega = [
+                [rho11, rho12],
+                [rho21, rho22]
+            ];
+            const nretn = [mu1 - r, mu2 - r];
+
+            // Run calculations
+            const consumption = calculateConsumption(gamma, delta, r, nretn, omega);
+            const allocation = calculateAllocation(gamma, nretn, omega);
+
+            // Display results
+            document.getElementById("consumptionResult").innerText = consumption.toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2});
+            document.getElementById("allocationResult").innerText = allocation[0].toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2});
+            document.getElementById("nonallocationResult").innerText = allocation[1].toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2});
+            document.getElementById("sumResult").innerText = (allocation[1] + allocation[1]).toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2}); 
+
+        }
+        
+        // Calculation functions
+        function calculateConsumption(gamma, delta, r, nretn, omega) {
+            const omegaInv = math.inv(omega);
+            const nretnOmegaNretn = math.multiply(nretn, omegaInv, nretn);
+            return (delta / gamma) - (1 - gamma) * ((r / gamma) + (nretnOmegaNretn / (2 * (gamma ** 2))));
+        }
+
+        function calculateAllocation(gamma, nretn, omega) {
+            const omegaInv = math.inv(omega);
+            const allocation = math.multiply(1 / gamma, math.multiply(omegaInv, nretn));
+            return [...allocation];
+        }
+    </script>
+
+<script>
+    function runModel() {
+        // Extract input values
+        const gamma = 2;
+        const delta = 0.05;
+        const mu1 = 0.3;
+        
+        const r = 0.05;
+        const rho11 = 1.15;
+        const rho22 = 0.05;
+        
+        // Define omega and nretn based on inputs
+        const omega = [
+            [rho11, rho12],
+            [rho21, rho22]
+        ];
+        const nretn = [mu1 - r, mu2 - r];
+
+        // Run calculations
+        const consumption = calculateConsumption(gamma, delta, r, nretn, omega);
+        const allocation = calculateAllocation(gamma, nretn, omega);
+
+        // Display results
+        document.getElementById("consumptionResult").innerText = consumption.toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2}); 
+        document.getElementById("allocationResult").innerText = allocation[0].toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2});
+        document.getElementById("nonallocationResult").innerText = allocation[1].toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2});
+        document.getElementById("sumResult").innerText = (allocation[1] + allocation[1]).toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2}); 
+    }
+    
+    // Calculation functions
+    function calculateConsumption(gamma, delta, r, nretn, omega) {
+        const omegaInv = math.inv(omega);
+        const nretnOmegaNretn = math.multiply(nretn, omegaInv, nretn);
+        return (delta / gamma) - (1 - gamma) * ((r / gamma) + (nretnOmegaNretn / (2 * (gamma ** 2))));
+    }
+
+    function calculateAllocation(gamma, nretn, omega) {
+        const omegaInv = math.inv(omega);
+        return math.multiply(1 / gamma, math.multiply(omegaInv, nretn));
+    }
+</script>
