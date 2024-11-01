@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "Laplace"
+baselink:   /laplace
+permalink:  /laplace
+date:       2024-10-22
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+quality:    
+
+summary:    
+confidence: 
+importance: 8
+wordcount:  
+categories: maths, greats
+---

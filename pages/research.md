@@ -126,7 +126,7 @@ visible:	true
 		<ul>
 			<li> Briefed the UK Cabinet Office <a href="{{ctf}}">COVID-19 Task Force</a> on mask policy.</li>
 			<li> Briefed the UK Cabinet Office on AI economics.</li>
-			<li> Briefed Ofcom on cheating LLM evals.</li>
+			<li> Briefed Ofcom on LLM evals.</li>
 			<li> Reviewer for <a href="{{neuripsite}}">NeurIPS</a> workshops, <a href="{{pnas}}">PNAS</a>, <a href="{{natty}}">Nature Scientific Reports</a>, <a href="{{ml}}">Machine Learning</a>, <a href="{{bmj}}">BMJ Global Health</a>, <a href="{{bmc}}">BMC Medicine</a>, <a href="{{plosg}}">PLoS Global Health</a>, <a href="{{aisc}}">AI Safety Camp</a>, <a href="{{pib}}">PIBBSS</a>, <a href="{{fli}}">FLI</a>.</li>
 			<li> Created a <a href="{{zotero}}">1000-paper bibliography</a> on every angle of the AI problem.</li>
 		</ul>

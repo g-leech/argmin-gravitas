@@ -391,6 +391,7 @@ Many of the best social scientists and statisticians have left academia, partly 
 
 * Brian Timar (2019), [Mimetic](https://www.briantimar.com/notes/mimetic/mimetic)
 * Philip Guo (2012), [The PhD Grind](https://cacm.acm.org/blogcacm/the-ph-d-grind-main-grinds-and-side-grinds/)
+* https://swopec.hhs.se/lunewp/abs/lunewp2024_005.htm
 * Ethan Rosenthal (2019), https://www.ethanrosenthal.com/2019/02/12/liberal-physics-phd/
 * Halperin https://x.com/BasilHalperin/status/1799138472969826523
 * https://www.yuan-meng.com/posts/nothingness/
