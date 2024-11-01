@@ -8,13 +8,6 @@ visible:	false
 
 {%  include about/links.html  %}
 
-
-<style>
-  h1::after {
-     width: 0%;
-  }
-</style>
-
 <br>
 
 <center>

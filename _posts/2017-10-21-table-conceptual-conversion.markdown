@@ -18,8 +18,12 @@ importance: 5
 wordcount:      400
 ---
 
-
-{%  include conversion/style.html    %}
+<style>
+  tr {
+      border-bottom: 1px solid black;
+	  text-align: center;
+  }
+</style>
 
 {%  include conversion/main_table.html    %}
 

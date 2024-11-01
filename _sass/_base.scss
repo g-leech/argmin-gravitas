@@ -86,6 +86,9 @@ li {
     }
 }
 
+li{
+	margin-bottom: 0.5em;
+}
 
 
 /**
@@ -130,7 +133,7 @@ a {
  */
 footer {
     border-top: 1px solid $grey-color-light;
-    padding: 4em;
+    padding: 4em 3em;
 	color: $white;
 	background:#36414f;
 	text-align: center;
@@ -147,10 +150,26 @@ footer .flex{
 	text-align: left;
 }
 
+@media (max-width: 600px) {
+
+	footer{
+		padding: 3em;
+	}
+
+	footer .flex{
+		flex-direction: column;
+		gap: 3em;
+	}
+
+	body{
+		padding-bottom: 26em;
+	}
+}
+
 .icon-grid{
-	display: flex;
+	display: inline-flex;
 	flex-wrap: wrap;
-	gap: 1.5em 3em;
+	gap: 2em 3em;
 	min-width: 200px;
 }
 
@@ -234,7 +253,6 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
@@ -286,11 +304,21 @@ pre {
 }   
 
 .dropdown{
-	display: inline;
+	font-size: inherit;
+	color: inherit
 }
 
 
+.dropdown > summary{
+	margin-bottom: 1em;
+	font-style: italic;
+}
+
 
 td{
-	padding: 10px 14px
+	padding: 10px 14px;
+}
+
+table{
+	border-collapse: collapse; 
 }
