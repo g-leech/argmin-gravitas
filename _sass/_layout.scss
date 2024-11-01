@@ -143,8 +143,10 @@ tr.spaced > td {
 /**
  * Posts
  */
-.post-header {
-    margin-bottom: $spacing-unit;
+
+
+.post-header{
+	padding: $spacing-unit 0em;
 }
 
 .post-title {
