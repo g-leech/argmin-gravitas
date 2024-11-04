@@ -1,6 +1,6 @@
 ---
 layout: 	page
-title: 		""
+title: 		Code
 nav: 		Code
 permalink:	/code
 visible:	false
