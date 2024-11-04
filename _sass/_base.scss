@@ -46,6 +46,7 @@ ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom:  calc($spacing-unit / 1.5);
     margin-right: 45px;
+	scroll-margin-top: 1.2em;
 }
 
 
@@ -153,6 +154,10 @@ footer .flex{
 	text-align: left;
 }
 
+.col-3{
+	column-count: 3;
+}
+
 @media (max-width: 600px) {
 
 	footer{
@@ -166,6 +171,10 @@ footer .flex{
 
 	body{
 		padding-bottom: 26em;
+	}
+
+	.col-3{
+		column-count: 2;
 	}
 }
 

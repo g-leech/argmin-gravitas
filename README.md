@@ -29,11 +29,12 @@ jekse
 [x] why does code [/code] page not have an H1?
 [x] remove need for .phone_img class by setting max height for images
 [x] make green dropdowns not have yellow underline and poor hover effect
+[x] make blogroll [/blogroll] page nicer (why doesn't it have an H1?)
+
 
 
 [ ] make comment form nicer
 [ ] change dropdown and mce to use details element and no JS
-[ ] make blogroll [/blogroll] page nicer (why doesn't it have an H1?)
 [?] make images expand on clicking them
 [ ] make archive [/archive] page neater + better for mobile
 [ ] make best [/best] page neater + better for mobile
@@ -65,5 +66,5 @@ jekse
 
 
 ## issues
-[ ] home page looks differnt due to flexbox vs. table
-[ ] remove underlines form footer links
+[ ] home page looks different due to flexbox vs. table
+[ ] remove underlines from footer links
