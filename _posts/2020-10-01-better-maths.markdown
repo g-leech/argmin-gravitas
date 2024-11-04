@@ -18,7 +18,6 @@ wordcount:
 argument:   
 ---
 
-{% 	include phone_img.html 		%}
 {%	assign adm = "https://en.wikipedia.org/wiki/De_Morgan%27s_laws"		%}
 {%	assign jang = "https://blog.evjang.com/2018/08/dijkstras.html"		%}
 {%	assign sym = "https://en.wikipedia.org/wiki/History_of_mathematical_notation#Symbolic_stage"	%}
@@ -121,7 +120,7 @@ finite alphabet of input symbols, $$q_0$$ is the start state, $$F$$ is the set o
 Michael Sipser has good comments on all the proofs in <a href="{{sipser}}">his great CS book</a>:
 
 <center>
-	<img class="lazy i70" data-src="/img/sipss.png" />
+	<img loading="lazy" data-src="/img/sipss.png" />
 </center>
 <br>
 
@@ -158,7 +157,7 @@ Most maths writing jumps straight to the general definitions. But at least some 
 This is another place that <a href="{{chen}}">Chen's basic book</a> beats high-status university texts:
 
 <center>
-	<img class="lazy i90" data-src="/img/chen.png" />
+	<img loading="lazy" data-src="/img/chen.png" />
 </center>
 <br>
 
@@ -174,7 +173,7 @@ There is an ignorant way of asking "Why should I care?": the way with no sense o
 
 Here's proof by induction as an algorithm:
 <center>
-	<img class="lazy i50" data-src="/img/induct.png" />
+	<img loading="lazy" data-src="/img/induct.png" />
 </center>
 
 You then see that for any given instance you just need to write the two subroutines `BaseCase` and `InductiveStep`. I find this much easier to understand.
@@ -199,7 +198,7 @@ Here's an unfair but illuminating rant:
 Is maths a directed graph of theorem to theorem? Close enough! But even <a href="{{mackay}}">chapter-level</a> can be helpful:
 
 <center>
-	<img class="lazy i90" data-src="/img/mackay.png" />
+	<img loading="lazy" data-src="/img/mackay.png" />
 </center>
 
 <br>

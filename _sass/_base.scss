@@ -28,6 +28,8 @@ body {
 	min-height: 100vh;
 	position: relative;
 	padding-bottom: 20em;
+	word-wrap: break-word;
+  	overflow-wrap: break-word;
 }
 
 h3 {
@@ -53,6 +55,7 @@ ul, ol, dl, figure,
  */
 img {
     max-width: 100%;
+	max-height: 32rem;
     vertical-align: middle;
 	height: auto;
 }
@@ -317,6 +320,10 @@ pre {
 
 td{
 	padding: 10px 14px;
+}
+
+td:first-child{
+	padding-left: 0px;
 }
 
 table{

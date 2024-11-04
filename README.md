@@ -25,21 +25,23 @@ jekse
 [x] removed loazyload.js and used loading="lazy" on all images that were using it 
 [x] removed need for padder partial by fixing the body height to always be tall enough
 [x] got rid of a dozen inline stylesheets
+[x] add 404 page
+[x] why does code [/code] page not have an H1?
+[x] remove need for .phone_img class by setting max height for images
+
 
 [ ] make comment form nicer
 [ ] change dropdown and mce to use details element and no JS
-[ ] remove need for .phone_img class by setting max height for images
 [ ] make green dropdowns not have yellow underline and poor hover effect
 [ ] make blogroll [/blogroll] page nicer (why doesn't it have an H1?)
 [?] make images expand on clicking them
 [ ] make archive [/archive] page neater + better for mobile
 [ ] make best [/best] page neater + better for mobile
-[ ] why does coding [/coding] page not have an H1?
-[ ] style the 404 page
 [ ] [/importance] H2 underlines are ugly
 [ ] metadata section on post pages could look better
 [ ] hamburger menu can be better
 [ ] make tables scroll horizontally on mobile
+[ ] is the script for accordions being cached?
 
 
 ## typography
