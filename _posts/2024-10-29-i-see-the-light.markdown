@@ -46,7 +46,7 @@ I went on my way, snobby, righteous, and graceless. It took about 4 years for me
 
 
 
-* "Dance music" (in this Clubland / Bonkers linaege) is relentlessly positive and romantic. Both banal and transcendent. Notice that almost all of the vocals are female. It's not a stretch to think that the boys loved it, not so much lusting for the voice's subject (we didn't know what she looked like) but resonating with her passion and goals and identifying as the object of the song (love is all that I need / and I found it there in your heart. It isn't too hard to see / we're in heaven).
+* "Dance music" (in this Clubland / Bonkers lineage) is relentlessly positive and romantic. Both banal and transcendent. Notice that almost all of the vocals are female. It's not a stretch to think that the boys loved it, not so much lusting for the voice's subject (we didn't know what she looked like) but resonating with her passion and goals and identifying as the object of the song (love is all that I need / and I found it there in your heart. It isn't too hard to see / we're in heaven).
 
 * So it's one of the only positive emotional outlets for rural men. (By which I mean policed men.) For some reason you didn't get judged for dancing to a fast beat, where any other such expression would be called gay at best. probably the bpm and the volume are necessary parts of the social compact here. The kick drum and the sheer pressure of noise is the masculine component that buys space for the voice and the sentiments. Country music is farm emo. Dance music is blue-collar emo.
 
