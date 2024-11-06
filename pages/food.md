@@ -75,7 +75,7 @@ visible:    false
 * Rishi's, Aberdeen
 <!-- * Mestizo, London -->
 * MUME, Taipei
-* Linhu, Shanghai
+* 临湖素食 (The Lakeside Veggie), Shanghai
 * Kailash Momo, London
 * Mama Chang, Fairfax
 <!-- * Wolkite, London -->

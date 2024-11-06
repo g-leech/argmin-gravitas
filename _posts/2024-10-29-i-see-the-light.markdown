@@ -3,7 +3,7 @@ layout:     post
 title:      "I see the light"
 baselink:   /dance
 permalink:  /dance
-date:       2024-10-30
+date:       2024-11-06
 author:     Gavin   
 img:        /img/hixxy.jpg
 
@@ -74,7 +74,7 @@ _Thanks to [James](https://kid-reflux.blogspot.com/), whose receptiveness and an
     	Of course this was a <i>subcultural</i> division, only applying to the deviants; most people were neither - though emo hair did take over the unaligned faction '08-'13. It took me a ridiculous amount of time to realise that the neds were also deviants. I could have guessed from the slurs alone.
     </li>
     <li class="footnote" id="fn:2">
-        I knew it as a DJ Hixxy track, and indeed the <a href="https://www.youtube.com/watch?v=jdbeZEqtRvo">official video</a> still has him as the title artist - despite the description text declaiming him as as an IP thief. The song is by the It's actually by the Aldershot massive, the Quosh Records guys.
+        I knew it as a DJ Hixxy track, and indeed the <a href="https://www.youtube.com/watch?v=jdbeZEqtRvo">official video</a> still has him as the title artist - despite the description text declaiming him as as an IP thief. The song is by the northern hardcore group Paradise and remixed into greatness by the Aldershot massive, the Quosh Records guys.
 	</li>
 	<li class="footnote" id="fn:3">
 		Like <a href="https://www.rollingstone.com/feature/david-foster-wallace-on-9-11-as-seen-from-the-midwest-242422/">DFW in Indiana</a>.
