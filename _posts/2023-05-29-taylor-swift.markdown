@@ -220,7 +220,7 @@ There's an interesting overlap here with class <a href="{{bourdieu}}">theory</a>
 
 <br>
 
-Let people enjoy things. But don't let people weaken art.
+Let people enjoy things. And don't let people weaken art.
 
 
 <br>
@@ -463,6 +463,10 @@ Where will TS be in 20 years? Bowie's fate or Madonna's? <a href="#fn:7" id="fnr
 
 Also: God knows what <a href="{{grimes}}">TS or its successor</a> will be like when augmented with <a href="{{elf}}">actual machines</a>. Maybe we will come to see TS as clumsy broadcast propaganda compared to the coming <a href="{{hyper}}">personalised midculture</a>.
 
+
+> I see culture as a type of technology
+
+<center>- Lee Soo-man</center>
 
 <!-- <center>
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s more difficult to effectively curse a high profile public figure than you might like it to be as they exist more as a complex of swarming ideologies &amp; invested dreams than as a regular person, and the pathway for the work can get lost or diverted within that complex maze.</p>&mdash; Anthony Nine (@spaceweather9) <a href="https://twitter.com/spaceweather9/status/1674953284023402497?ref_src=twsrc%5Etfw">July 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

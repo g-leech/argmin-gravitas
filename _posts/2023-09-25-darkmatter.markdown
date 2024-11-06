@@ -126,7 +126,13 @@ Approximation is everywhere and often works ok. e.g. We choose to model discrete
 
 University maths, physics, engineering are looking under the streetlight
 
-<br>
+<br><br>
+
+> the algebraic numbers are spotted over the plane like stars against a black sky
+
+-- ET Bell
+
+<br><br>
 
 <center>
 <img width="60%" src="/img/mathmeme1.jpg" /><br>
@@ -207,6 +213,9 @@ What else is out there? What is the "dark matter" of maths?
     </div>
 </div>
 
+<br>
+
+We can't list anything uncountable. That's what uncountable means (Giving a method of listing all the members of a set proves the set is countable.) 
 
 <br>
 

@@ -75,6 +75,7 @@ visible:    false
 * Rishi's, Aberdeen
 <!-- * Mestizo, London -->
 * MUME, Taipei
+* Linhu, Shanghai
 * Kailash Momo, London
 * Mama Chang, Fairfax
 <!-- * Wolkite, London -->
