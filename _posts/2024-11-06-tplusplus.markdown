@@ -18,7 +18,7 @@ wordcount:
 categories: AI
 ---
 
-People have tweaked the Transformer architecture enough in 4 years that we're apparently now calling the current recipe "[Transformer++](https://x.com/gneubig/status/1733142142405472295)".
+People have tweaked the decoder-only Transformer architecture enough in 4 years that we're apparently now calling the current recipe "[Transformer++](https://x.com/gneubig/status/1733142142405472295)".
 
 <br>
 i.e. a Transformer but with 

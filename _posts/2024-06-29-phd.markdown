@@ -49,6 +49,9 @@ wordcount:
 <!-- <br><br> -->
 
 
+<!-- My thesis is a compulsive rebuke to specialisation.
+    Is that rational? Not really but I can't help it. -->
+
 <div class="accordion">
     <h3>tl;dr</h3>
     <div>
