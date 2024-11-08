@@ -22,7 +22,7 @@ visible:	false
 	</div>
 	<div class="insides">
 	<ul>
-		<li>Intentionally not focussing.</li>
+		<li>Intentionally not focussing after finishing my <a href="/phd">PhD</a>.</li>
 		<li>In Taipei for the winter.</li>
 		<li>Putting a <a href="https://www.amazon.co.uk/Oral-History-Scaling-Era/dp/1953953557/">book</a> through its final edits.</li>
 		<li>Running a book club.</li>
