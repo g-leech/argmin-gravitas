@@ -26,6 +26,20 @@ categories: music, becoming
 
 In my upbringing there was a deep sectarian division between the [neds](https://en.wikipedia.org/wiki/Chav#:~:text=Stereotypes%20like%20Rednecks%20in%20the%20US%2C%20Bogans%20in%20Australia%2C%20Neds%20in%20Scotland%2C%20Hosers%20and%20Skeet%20in%20Canada%20and%20Newfoundland) and the [moshers](https://en.wikipedia.org/wiki/Moshing). <a href="#fn:1" id="fnref:1">1</a>
 
+<div class="accordion">
+	<h3>taxon</h3>
+	<div>
+		<i>chavs, townies, scallies, white trash, roadmen, ravers, skeets, Kevs, dobbers, neds, bogans, culchies, rednecks, beaufs, racailles, yankī, chungas, cholos, canis, hnakkis, Čefurji, dresiarz, zefs, tschuschen, tokkies, gopniks, ossid</i>
+		<br>
+		<i>moshers, skaters, goths, emos, stoners, smellies, metallers, crusties, scene kids, indies, alternatives, greebos, punkers, grungers, jitters. Geeks went in here usually.</i>
+		<br>
+		"pikeys" worked for both
+		<br>
+		Looking back on it, these are egregores and coalitions.
+	</div>
+</div>
+
+
 I was mosherlike (by default, being weird) but had some ned friends.
 
 We would drive around the country lanes doing "circuits", aimless circles looking for someone else wanting to race. They would blast happy hardcore and trance: "dance" music. As token representative of the mosh race I would loudly grumble about it. But what else was there to do? Man does not live by Iain Banks and _Guitar Hero_ alone.
@@ -65,13 +79,16 @@ _Thanks to [James](https://kid-reflux.blogspot.com/), whose receptiveness and an
 <br><br>
 
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0AqWekVsM504tEAJ0Pu8er?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br><br>
 
 <div class="footnotes">
 
 <ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
-    	Of course this was a <i>subcultural</i> division, only applying to the deviants; most people were neither - though emo hair did take over the unaligned faction '08-'13. It took me a ridiculous amount of time to realise that the neds were also deviants. I could have guessed from the slurs alone.
+    	Of course this was a <i>subcultural</i> division, only applying to the deviants; most people were neither - though emo hair did take over the unaligned faction '08-'13. The neds and the moshers were just those with some sort of rebellious streak - those unable or unwilling to play along.<br><br>It took me a ridiculous amount of time to realise that the neds were also deviants. I could have guessed from the slurs alone.
     </li>
     <li class="footnote" id="fn:2">
         I knew it as a DJ Hixxy track, and indeed the <a href="https://www.youtube.com/watch?v=jdbeZEqtRvo">official video</a> still has him as the title artist - despite the description text declaiming him as as an IP thief. The song is by the northern hardcore group Paradise and remixed into greatness by the Aldershot massive, the Quosh Records guys.

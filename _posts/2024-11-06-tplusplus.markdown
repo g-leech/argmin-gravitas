@@ -23,7 +23,7 @@ People have tweaked the decoder-only Transformer architecture enough in 4 years 
 <br>
 i.e. a Transformer but with 
 
-- a fused attention implementation (the scaled dot-product backend -> FlashAttention). Subquadratic memory complexity in input sequence length. Practically: can double GPU utilization and so halve training time. Also enables longer contexts and speeds up inference on long context input.
+- a fused attention implementation (the scaled dot-product backend -> [FlashAttention](https://arxiv.org/abs/2205.14135)). Subquadratic memory complexity in input sequence length. Practically: can double GPU utilization and so halve training time. Also enables longer contexts and speeds up inference on long context input.
 <!-- fusing the softmax operation and the weighted sum of  V directly in the kernel -->
 
 - rotary embedding (sinusoidal -> [BPE](https://huggingface.co/learn/nlp-course/en/chapter6/5) -> learned APE -> [RoPE](https://blog.eleuther.ai/rotary-embeddings/))
