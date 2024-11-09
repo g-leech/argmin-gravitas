@@ -16,6 +16,7 @@ confidence: 70%
 importance: 4
 wordcount:  
 categories: music, becoming
+where:      "Shanghai"
 ---
 
 <center>
@@ -26,15 +27,17 @@ categories: music, becoming
 
 In my upbringing there was a deep sectarian division between the [neds](https://en.wikipedia.org/wiki/Chav#:~:text=Stereotypes%20like%20Rednecks%20in%20the%20US%2C%20Bogans%20in%20Australia%2C%20Neds%20in%20Scotland%2C%20Hosers%20and%20Skeet%20in%20Canada%20and%20Newfoundland) and the [moshers](https://en.wikipedia.org/wiki/Moshing). <a href="#fn:1" id="fnref:1">1</a>
 
+<br>
+
 <div class="accordion">
 	<h3>taxon</h3>
 	<div>
 		<i>chavs, townies, scallies, white trash, roadmen, ravers, skeets, Kevs, dobbers, neds, bogans, culchies, rednecks, beaufs, racailles, yankī, chungas, cholos, canis, hnakkis, Čefurji, dresiarz, zefs, tschuschen, tokkies, gopniks, ossid</i>
-		<br>
+		<br><br>
 		<i>moshers, skaters, goths, emos, stoners, smellies, metallers, crusties, scene kids, indies, alternatives, greebos, punkers, grungers, jitters. Geeks went in here usually.</i>
-		<br>
+		<br><br>
 		"pikeys" worked for both
-		<br>
+		<br><br>
 		Looking back on it, these are egregores and coalitions.
 	</div>
 </div>
@@ -65,6 +68,15 @@ I went on my way, snobby, righteous, and graceless. It took about 4 years for me
 * So it's one of the only positive emotional outlets for rural men. (By which I mean policed men.) For some reason you didn't get judged for dancing to a fast beat, where any other such expression would be called gay at best. probably the bpm and the volume are necessary parts of the social compact here. The kick drum and the sheer pressure of noise is the masculine component that buys space for the voice and the sentiments. Country music is farm emo. Dance music is blue-collar emo.
 
 * Obviously this all hits much harder on the right psychoactives, which I held myself above (and still do)
+
+* This marks me moving up a cognitive level. Contrarians see something normal and negate it ("pop music sucks", "Shakespeare sucks") 
+and thereby feel distinguished. Meta-contrarians see something contrarian and negate that ("people say pop sucks but pop is good") and thereby feel 
+distinguished, despite agreeing with the consensus. Both of these are mechanical and stupid ways of thinking, 
+but I think most of us have to inhabit and move through them to get to mental freedom, where you actually trust your impressions and state them 
+regardless of which level of irony or reclamation others think it's on. 
+(Social influence is everywhere; we are apes. But it seems to me some people are much better at treating the opinions and canons of others
+as one variable and one source of evidence about value, rather as constitutive of value (relativism) and rather than snuffing out the critical 
+light within.)
 
 This is good music. It is not smart music - but most good things aren't smart.
 

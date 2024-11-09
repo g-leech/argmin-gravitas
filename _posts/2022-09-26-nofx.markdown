@@ -17,6 +17,7 @@ confidence:
 importance: 3
 wordcount:  
 categories: subculture, music
+where:      "Aberdeen"
 ---
 
 {%  assign spice = "https://www.urbandictionary.com/define.php?term=Spicy%20White"    %}

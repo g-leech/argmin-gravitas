@@ -1,5 +1,5 @@
 ---
-layout:     page
+layout:     post
 title:      "phdiary"
 baselink:   /diary
 permalink:  /diary
@@ -7,7 +7,7 @@ date:       2024-07-02  <!--site.time-->
 author:     Gavin
 
 img:        /img/phd/diary.jpeg
-published:  false
+published:  true
 visible:    1
 quality:    5
 emotion:    7
@@ -18,9 +18,9 @@ confidence:
 categories: phd, navel-gazing
 warnings:   navel-gazing
 wordcount:      
+where:      "Bristol"
 ---
 
-<br>
 
 > There are few sources of energy so powerful as a procrastinating grad student.
 
@@ -28,917 +28,825 @@ wordcount:
 
 <br>
 
-The following is a month by month description of what I actually did during my PhD. It's mostly for myself, an attempt to reduce the dimensionality of this odd self-assault while it's still fresh. If you're about to start, you _might_ benefit from seeing the long stretches of procrastination, incomprehension, and just how much support I needed to get through.
+The following is a month by month description of what I actually did during my PhD. (It is partially censored. Ask me about authorship drama some time.)
 
-(It is partially censored, of course. Ask me about authorship drama some time.)
+It's mostly for myself, an attempt to reduce the dimensionality of this odd self-assault while it's still fresh. If you're about to start, you _might_ benefit from seeing the long stretches of procrastination, incomprehension, and just how much support I needed to get through.
 
-
-
-
-
-<br><br><br>
-
-## Pre-phd Funemployment (Jun - Sep 2019)
-
-I quit my corporate job and spent a few months reading and going to workshops. I met 84 people, 17 of which were new and deep connections, 12 of whom I later worked with.
-
-- __Project__: none. Laying the ground. Recovering.
-
-- __Colleagues__: none yet but I found 12 seeds which later made everything else possible.
-
-- __Reading__: 
-
-    - How to get a PhD: a handbook by Estelle M. Phillips
-
-    - An Introduction to Statistical Learning by Hastie
-
-    - Information: The New Language of Science    Hans Christian Von Baeyer
-
-    - Computational Logic and Human Thinking: How to Be Artificially Intelligent  Robert Kowalski
-
-    - Information Theory: A Tutorial Introduction James V. Stone
-
-    - Becoming a Successful Scientist,    Craig Loehle
-
-    - The Subjectivity of Scientists and the Bayesian Approach 
-
-    - Vehicles: Experiments in Synthetic Psychology   Valentino Braitenberg
+The "Reading" entries here are just books. I can't be bothered putting all the papers I read into the appropriate months. If you're interested you can see the unordered list <a href="https://docs.google.com/spreadsheets/d/18j5wIhhD8v9tkxwbhoxtC32f1_vOeUjtqMm91RTXYaQ/edit?usp=sharing">here</a>.
 
 
-In retrospect it was a mistake to not find at least one colleague and to not stick to their side, and to not have at least one research question. But even so this is one of the best ever uses of my time. I learned more during it than during any 3 month block of grad school. 
 
-<br><br>
 
-## Quals (Sep 2019 - Jul 2020)
 
-My programme is an American-style "CDT", where you have a year of classes and advisor matching with no real research. We were the first cohort in a new centre, so there were some teething troubles (like the mandatory entrepreneurship course, or there not being a deep learning course).
 
 <br>
 
-- Sep 19: CLASSES. Back to school 
-
-    - move cities. Claim a free lab coat I am not strictly entitled to. Start skiving patronising bureaucrat BS on day 2. 
-
-        - a de facto MRes. Timetabled
-
-        - There are 10 of us. 5 will drop out before the end, shrunk by the experience
-
-    - Start using Roam in earnest
-
-        - Actually I try lots of gimmicky "tools for thought" actually. Anki and Brainlab and various so-called nootropics. 
-
-    - More importantly, I take up barbells for the first time in my life. 
-
-    - GPT-2 is out but few really pay attention. Gwern sees it, poems. Transfer learning is solved, but almost no one realises this yet.
-
-        - Everyone is talking about the need for inductive bias. Half of my programme is devoted to "knowledge-driven" methods (the doomed anti-scaling handcrafting symbolic stuff). The Bitter Lesson is yet to be tasted.
-
-    - contrive myself a social circle ab novo. Find a few junior lecturers on Goodreads and LW and make a boardgame night with em. On one occasion I actually did a full white hat OSINT lookup on his anon profile
-
-    - I am informed that I will be providing 100h of free labour to [KWMC]. 
-
-    -  
-
-    - __Colleagues__: 
-
-    - __Reading__: 
-
-        - Pearl PRIS (1988) (60%)
-
-        - The Deep Learning Revolution Sejnowski (80%)
-
-    - __Project__: none
-
-- Oct 19: CLASSES. Get twitter. 
-
-    - Start meeting advisors. 
-
-    - Start doing Brauner type co-working with the man. 
-
-    - Teach Bayesian ML (never done any before, stay about a day ahead of the students). 
-
-        - Teacher training is so vacuous and blankfaced that I want to scream.  
-
-    - Get on Twitter, overcoming extreme prejudice and tight-lippedness. 
-
-        - Over the years, this single action ultimately saves me, by giving me 1000 paper summaries without triggering my aversions
-
-    - Truly dire mandatory classes in innovation and entrepreneurship and crap. 
-
-        - Cohort begins to revolt in week 3. HCI and IEE. 
-
-        - Work out I can drop classes I have done the equivalent of before. Time served.
-
-    -  
-
-    - __Colleagues__: 
-
-    - __Reading__: 
-
-        - Jaynes (20%). 
-
-        - Flach book. 
-
-    - __Project__: Coding solidly. BERT chatbot with Kipp 
-
-- Nov 19: CLASSES. 
-
-    - Mind numbing linalg. 
-
-    - I am here to do frontier research but I am only now implementing Naive Bayes for the first time.
-
-    - Kaggle comp. Trees fall to nets. 
-
-    - Meet softmax guy. 
-
-    - I don't feel technical. There's a great philosopher on campus. I see if he wants to work on something with me. His views on AI make me want to scream.
-
-    - __Q__: If I don't read textbooks now, will I ever? 
-
-    - __Colleagues__: Nandi 
-
-        - Tomas
-
-    - __Reading__: Silver lectures. Nilsson.  CAIS and Kosoy.  
-
-        - C++
-
-    - __Project__: Skive class a week to do AISRP. 
-
-- Dec 19. CLASSES. Study Uncertainty. 
-
-    - Mess around with some CS lore. Bitbanging. Teach my peers the fiddly Pandas library.
-
-    - Mandatory Public engagement, a deep indignity. 
-
-    - Cristianini. 
-
-    - Tralee. 
-
-    - "It is worrying how little real thought I do in an average uni day."
-
-    - David and Philipp start to climb the walls. This drives them to pose whiteboard puzzles and silly algo challenges. Like we should
-
-    - Entrepreneurship course is painfully stupid, but leads me to a final break from supplements and nootropics, after 5 years of dreaming
-
-        - gleech.org/pills
-
-    -  
-
-    - __Colleagues__: Nandi, Joar, Javier. Matthijs
-
-    - __Reading__: still Pearl
-
-        - Seven Sketches in Compositionality
-
-    - __Project__: AISRP, neo-ILP. First actual research
-
-        - I played with an odd alternative ML paradigm called __[inductive logic programming](http://127.0.0.1:4000/ilp)__. This led to my first paper, a negative result.
-
-- Jan 20: 
-
-    - Meet Laurence, who will be my advisor. He charms me by talking about Nietzsche and Boltzmann and Bourdieu
-
-    - "Quals"
-
-        - in American PhDs this is a terrifying oral examination
-
-        - Shoddiness
-
-        - Completely blanked on modal logic and have never thought about it ever again
-
-    - Still not really reading papers.
-
-    - Instead of studying for quals I started [listing](https://socialsciences.nature.com/posts/reversals-in-psychology) all the failed replications in psychology I’d heard of. This ballooned into a list of hundreds, and was taken up by the volunteer org [FORRT](https://forrt.org/reversals) for permanent maintenance. 
-
-        - 4 years later, a big paper, my first-ever senior authorship.
-
-        - One of my best passages:
-
-            - gleech.org/psych#melancholy
-
-    - Start a Gloomhaven campaign with my lecturer buds
-
-    - __Colleagues__: 
-
-    - __Reading__: 
-
-        - Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning) Richard S. Sutton
-
-        - Immersive Linear Algebra    J. Ström
-
-        - Artificial Intelligence: A Modern Approach (Pearson Series in Artifical Intelligence)   Stuart Russell      
-
-    - __Project__:
-
-- Feb 20: 
+## Funemployment (Jun - Sep 2019)
+
+Pre-phd.
+
+I quit my corporate job and spent a few months reading and going to workshops. I met 84 people, 17 of which were new and deep connections, 12 of whom I later worked with.
+
+- <i>Project</i>: Laying the ground. Recovering. <a href="/dota">Thinking about RL</a>, the focus of OpenAI and Deepmind.
+
+- <i>Colleagues</i>: none yet but I found 12 seeds which later made everything else possible.
+
+- <i>Reading</i>: 
+    <ul>
+    <li>How to get a PhD: a handbook by Estelle M. Phillips</li>
+    <li>An Introduction to Statistical Learning by Hastie</li>
+    <li>Information: The New Language of Science    Hans Christian Von Baeyer</li>
+    <li>Computational Logic and Human Thinking: How to Be Artificially Intelligent  Robert Kowalski</li>
+    <li>Information Theory: A Tutorial Introduction James V. Stone</li>
+    <li>Becoming a Successful Scientist,    Craig Loehle</li>
+    <li>The Subjectivity of Scientists and the Bayesian Approach </li>
+    <li>Vehicles: Experiments in Synthetic Psychology   Valentino Braitenberg</li>
+    </ul>
+
+In retrospect it was a mistake to not find at least one colleague and to not stick to their side, and to not have at least one research question. But even so this is one of the best ever uses of my time. I learned more during it than during any 3 month block of grad school. 
+
+<br>
+
+## Quals (Sep 2019 - Jul 2020)
+
+My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/developing-people-and-skills/nerc/nerc-studentships/directed-training/centres-for-doctoral-training-cdt/)", where you have a year of classes and advisor matching with no real research. We were the first cohort in a new centre, so there were some teething troubles (like the mandatory entrepreneurship course, or there being _no_ deep learning course).
+
+<br>
+
+<div class="accordion">
+
+<h3>Sep 19: CLASSES. Back to school aged 28.</h3>
+<div>
+    <li>move cities. </li>
+    <br>
+    <li>Claim a free lab coat I am not strictly entitled to. Start skiving patronising bureaucrat BS on day 2. </li>
+    <li>First year of this PhD was a <i>de facto</i> MRes. Timetabled</li>
+    <li>There are 10 of us. 4 will drop out before the end, shrunk by the experience. Only 3 will stay in academia in any respect afterwards.</li>
+    <li>I am informed that I will be providing 200h of free labour to a local arts charity. (I do not)</li>
+    <br>
+    <li>Start using Roam in earnest</li>
+    <ul>
+        <li>Actually I try lots of gimmicky "tools for thought" actually. Anki and Brainlab and various so-called nootropics.</li>
+        <li>More importantly, I take up <a href="/strength">barbells</a> for the first time in my life. </li>
+    </ul>
+    <li>GPT-2 is out but few really pay attention, even in the ML department. <a href="https://sevensecularsermons.org/on-the-significance-of-gwerns-poem-generator/">Gwern sees it</a>. Transfer learning is solved, but almost no one realises this yet.</li>
+        <li>Everyone is talking about the need for inductive bias. Half of my programme is devoted to "knowledge-driven" methods (the doomed anti-scaling handcrafting symbolic stuff). The Bitter Lesson is yet to be tasted.</li>
+        <br>
+    <li>contrive myself a social circle ab novo. Find a few junior lecturers on Goodreads and LW and make a boardgame night with em. On one I actually did a full whitehat OSINT lookup on his anon Goodreads profile.</li>
+<br><br>     <li><i>Colleagues</i>: John Lapinskas, Matthew Edwards </li>
+    <br>
+    <br><li><i>Reading</i>: </li>
+    <ul>
+        <li>Pearl PRIS (1988) (60%)</li>
+        <li>The Deep Learning Revolution, Sejnowski (80%)</li>
+    </ul>
+    <li><i>Project</i>: none</li>
+    <br>
+</div>
+
+<h3>Oct 19: CLASSES. Get twitter.</h3>
+<div>
+    <li>Start meeting advisors. </li>
+    <li>Start doing remote co-working with <a href="https://twitter.com/janmbrauner">Jan</a>. For the next 4 years I only do serious collabs with people at other universities. I could have tried to harder to find people in person. I missed out on whiteboarding.</li>
+    <li>Teach <a href="https://github.com/carlhenrikek/COMS30007/">Bayesian ML</a> (never done any before, stay about a day ahead of the students). </li>
+    <li>Mandatory TA training is so vacuous and blankfaced that I want to scream.  </li>
+    <li>Get on Twitter, overcoming my extreme prejudice and tight-lippedness. Over the years, this move saves me, by giving me 1000 paper summaries without triggering my aversions</li>
+    <li>Truly dire mandatory classes in innovation and entrepreneurship and crap. Work out I can drop classes I have done the equivalent of before. Time served.</li>
+    <li>My CDT cohort begins to revolt in week 3. HCI and IEE. </li>
+    <br><br>     <li><i>Colleagues</i>: Jan Brauner, Kipp Freud</li>
+    <br><li><i>Reading</i>: </li>
+    <ul>
+        <li><a href="https://bayes.wustl.edu/etj/prob/book.pdf">Jaynes</a> (20%). </li>
+        <li><a href="http://people.cs.bris.ac.uk/~flach/mlbook//">Flach general book</a> (70%). </li>
+    </ul>
+    <li><i>Project</i>: Coding solidly. BERT chatbot with Kipp </li>
+</div>
+
+<h3>Nov 19: CLASSES. </h3>
+<div>
+    <li>Mindnumbing linear algebra drills. </li>
+    <li>I am here to do frontier research but I am only now implementing Naive Bayes for the first time.</li>
+    <li>Kaggle comp. Trees fall to nets. </li>
+    <li>Meet the <a href="https://en.wikipedia.org/wiki/Softmax_function#History">softmax guy</a>. Very humble.</li>
+    <li>Learn some C++ with a campus longbeard</li>
+    <li>I don't feel technical. There's a great philosopher on campus. I go see if he wants to work on something with me. His views on AI make me want to scream.</li>
+    <br>
+    <li><i>Q</i>: If I don't read textbooks now, will I ever? </li>
+    <br><br>     <li><i>Colleagues</i>: Dan, Nandi, Tomas</li>
+    <br><li><i>Reading</i>: <a href="https://www.youtube.com/watch?v=2pWv7GOvuf0">Silver lectures</a>. Nilsson.  <a href="https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf">CAIS</a> and Kosoy.  </li>
+    <br>
+    <li><i>Project</i>: Skive two weeks of class to do some actual research <a href="https://aisrp.org/index.html">AISRP</a>. </li>
+</div>
+
+
+
+<h3>Dec 19. CLASSES. actual research. </h3>
+<div>
+    <li>Mess around with some CS lore. Bitbanging. Teach my peers the fiddly Pandas library.</li>
+    <li>Mandatory public engagement sessions, a deep indignity. </li>
+    <li>Cristianini. </li>
+    <li>Free holiday in Tralee with friends. Absurd but nice.</li>
+    <li>"It is worrying how little real thought I do in an average uni day."</li>
+    <li>My peers David and Philipp start to climb the walls. This drives them to pose whiteboard puzzles and silly algo challenges. Like we should</li>
+    <li>Entrepreneurship course is painfully stupid, but leads me to a <a href="/pills">final break</a> from supplements and nootropics, after 5 years of dreaming</li>
+    <br><br>     <li><i>Colleagues</i>: Nandi, Joar, Javier. Matthijs</li>
+    <br><li><i>Reading</i>: 
+        <ul>
+            <li>still Pearl</li>
+            <li>Seven Sketches in Compositionality</li>
+        </ul>
+        </li>
+    <br>
+    <li><i>Project</i>: I played with an odd old-school ML paradigm called <a href="/ilp">inductive logic programming</a>. This led to my first paper, a negative result.</li>
+</div>
+
+
+
+<h3>Jan 20: advisor</h3>
+<div>
+    <li>Meet Laurence, who will (after lots of bureaucratic delay) be my advisor. He charms me by talking about Nietzsche, Boltzmann, Bourdieu. 
+    People can see me coming a mile off.</li>
+    <br>
+    <li><a href="https://oge.mit.edu/are-qualifying-exams-a-waste-of-time/">Quals</a>. The last exams of my life. 
+    In American PhDs this is a scary oral examination with a culture of weeding out. 
+    In Bristol it was just watching me do 4 simple calculations by hand and chatting for 10 minutes.
+    I completely blanked on the modal logic question and have never thought about it ever again</li>
+    <br>
+    <li>I am still not really reading ML papers.</li>
+    <br>
+    <li>Instead of studying for quals I started <a href="https://socialsciences.nature.com/posts/reversals-in-psychology">listing</a> all the failed replications in psychology I’d heard of. This ballooned into a list of hundreds, 
+    was taken up by the volunteer org FORRT for permanent maintenance, ended up as a chapter in my thesis, and my first-ever senior authorship.
+    <a href="/psych#melancholy">This paragraph</a> is one of the best things I have ever written.</li>
+    <br>
+    <li>Start a Gloomhaven campaign with my lecturer buds</li>
+    <br><br>     <li><i>Colleagues</i>: None.</li><br>
+    <br><li><i>Reading</i>: 
+    <ul>
+        <li>Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning) Richard S. Sutton</li>
+        <li>Immersive Linear Algebra    J. Ström</li>
+        <li>Artificial Intelligence: A Modern Approach (Pearson Series in Artifical Intelligence)   Stuart Russell      </li>
+    </ul>
+    </li>
+    <br><li><i>Project</i>: Reversals.</li>
+</div>
+
+
+<h3>Feb 20: foresight</h3>
+<div>
     I start to worry about Covid. I ask the admin to provide disinfectant and air filters for the office. They don't.
-
-
-
-    - __Colleagues__: 
-
-    - __Reading__: 
-
-        - Introduction to Natural Language Processing (Adaptive Computation and Machine Learning series)  Jacob Eisenstein
-
-        - The Ph.D. Grind: A Ph.D. Student Memoir Philip J. Guo
-
-    - __Project__:
-
-- Mar 20: 
-
-
-    - Q: My central anxiety was being untechnical and unoriginal and therefore unproductive. Is recombination enough?
-
-    - Lockdown hits in Britain. Frankly it makes my life easier. Zoom classes.
-
-    -  For March 2020 to April 2021 there was no particular fun opportunity cost. Among the best times to be doing a PhD. Particularly for opportunists
-
-
-    - __Colleagues__: Jan B
-
-    - __Reading__: 
-
-    - __Project__:
-
-- Apr 20: Covid
-
-    - Brauner bugs me to help write up his covid paper
-
-        - a bunch of computer scientists invited me to do a little bit of writing on their big Bayesian model of what policies worked against the bug. I had no epidemiology background. 12 months later, we’d produced a series of 7 papers on important questions which weren’t being treated with the proper uncertainty.
-
-        - Yes, this was the least neglected research topic in the world. Yes, it is strange that noobs could do this.
-
-    - Have one of the largest thoughts of my life
-
-        - gleech.org/games-of-life  
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-        - Simply Logical  Peter Flach
-
-        - Odds & Ends: Introducing Probability & Decision with a Visual Emphasis  Jonathan Weisberg
-
-        - The Taming Of Chance (Ideas in Context) Ian Hacking
-
-    - __Project__:
-
-- May 20: Covid
-
-    - Sign of the times. Faced with mandatory coursework in Prolog, Dan and I submit a Python metaprogramming solution using FLAIR for parts of speech. We wrote no Prolog and produced a system more general than any Prolog program. The game had changed.
-
-    - 
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-    - __Project__: probabilistic programming
-
-- Jun 20: Begin a 3 month period of no productive work
-
-    - Launder my self-doubt with a lyrical little cri de coeur
-
-        - gleech.org/ignorance 
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-    - __Project__: Summer project (quals). Switch from RL into a more nicely scoped and manageable PPL project
-
-
-## The littlest PPL (Jul - Dec 2020)
-
-- Jul 20: no productive work
-
-    - I don't manage it.
-
-    - burnout
-
-    - Get a coach, the great Daniel Kestenholz. Keep up with him once a month every month until May 2024. It is quite amazing how much just speaking out loud to a kind ear once a month achieves - so many obvious next steps which only become obvious this way. I am not sure I would have finished the PhD or been ready to run Arb without him.
-
-    - Begin to bike [maps, Barrow Gurney via Ashton Court] to a friend in the countryside to lift. Absurdly, Covid rules mean we need to put the power rack in the garden. I may have burned out for good without the deer and the wind and the iron.
-
-    - __Colleagues__: the deer
-
-    - __Reading__: 
-
-        - The Design and Implementation of Probabilistic Programming Languages    Noah D. Goodman
-
-        - Regression and Other Stories (Analytical Methods for Social Research)   Andrew Gelman       2020/07/14
-
-    - __Project__: 
-
-- Aug 20: no productive work
-
-    - Film myself at home for pay as part of a Facebook computer vision data collection
-
-    -  
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-    - __Project__:
-
-- Sep 20: 
-
-    - TA a graph theory course (never taken it)
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-        - graph theory
-
-        - Probability Theory: The Logic of Science    E.T. Jaynes
-
-    - __Project__:
-
-- Oct 20: 
-
-    - Multiresp trees 
-
-    - NeurIPS push 
-
-    - 
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-    - __Project__:
-
-- Nov 20: 
-
-    - First call with my advisor where I actually relax (9 months) 
-
-    - __Colleagues__:
-
-    - __Reading__: Gelman's BDA
-
-        - Introduction to Causal Inference from a Machine Learning Perspective    Neal, Brady
-
-    - __Project__:
+<br><br>     <li><i>Colleagues</i>: </li><br>
+    <br><li><i>Reading</i>: </li>
+        <li>Introduction to Natural Language Processing (Adaptive Computation and Machine Learning series)  Jacob Eisenstein</li>
+        <li><a href="http://linyun.info/phd-grinding.pdf">The Ph.D. Grind</a>: Philip J. Guo</li>
+    <br><li><i>Project</i>: not much</li>
+</div>
+
+
+<h3>Mar 20: skive</h3>
+<div>
+    <li>Q: My central anxiety was about being untechnical and unoriginal and therefore unproductive. Is recombination enough?</li>
+    <li>Lockdown hits in Britain. Frankly it makes my life easier. Zoom classes.</li>
+    <li> For March 2020 to April 2021 there was no particular fun opportunity cost - among the best times to be doing a PhD. Particularly for opportunists</li>
+<br><br>     <li><i>Colleagues</i>: Jan B</li>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+
+<h3>Apr 20: Covid</h3>
+<div>
+    <li>Jan bugs me to write up <a href="https://www.science.org/doi/10.1126/science.abd9338">his covid model</a>. I decline; I don't know anything about epidemiology and view this as trespassing.</li>
+    <li>He bugs me again. I say ok.</li>
+    <li>12 months later, we’d produced a series of 7 papers on important questions which weren’t being treated with the proper uncertainty. Yes, this was the least neglected research topic in the world. Yes, it is strange that noobs could do this.</li>
+    <br>
+    <li>Have one of the <a href="/games-of-life">largest thoughts</a> of my life</li>
+    <br><br>     <li><i>Colleagues</i>: Jan, </li>
+    <br><li><i>Reading</i>: 
+        <ul>
+        <li>Simply Logical  Peter Flach</li>
+        <li>Odds & Ends: Introducing Probability & Decision with a Visual Emphasis  Jonathan Weisberg</li>
+        <li>The Taming Of Chance (Ideas in Context) Ian Hacking</li>
+        </ul>
+        </li>
+    <br><li><i>Project</i>: what later became a science paper.</li>
+</div>
+<h3>May 20: Covid</h3>
+<div>
+    <li>Sign of the times: Faced with mandatory coursework in Prolog, Dan and I submit a <a href="https://github.com/g-leech/prolexa">Python code generator</a> with FLAIR for parts of speech. We wrote no Prolog and produced something more general than any Prolog program. The game has changed.</li>
+<br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: <a href="https://agentmodels.org/">Evans</a></li>
+    <li><i>Project</i>: probabilistic programming</li>
+</div>
+<h3>Jun 20: floundering</h3>
+<div>
+    <li>Launder my self-doubt with a lyrical little <a href="/ignorance">cri de coeur</a>. In general if you look at the blog archives you'll see that I used writing as escapism. Very few AI posts. 
+    There is in me a deep and invariant need for variety.</li>
+    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: </li>
+    <li><i>Project</i>: Summer project (quals). Switch from RL into a more predictable, scoped, manageable <a href="https://colcarroll.github.io/ppl-api/">PPL</a> project</li>
+</div>
+
+</div>
+
+<br>
+
+<h2>The littlest PPL (Jul - Dec 2020)</h2>
+
+<div class="accordion">
+<h3>Jul 20: no productive work</h3>
+<div>
+    <li>I don't handle heavy solo engineering well. burnout. This is roughly the last time in <a href="https://en.wikipedia.org/wiki/GitHub_Copilot#History">history</a> anyone will be this unaided.</li>
+    <li>Get a coach, the great Daniel Kestenholz. Keep up with him once a month every month until May 2024. It is quite amazing how much just speaking out loud to a kind ear once a month achieves - so many obvious next steps which only become obvious this way. I am not sure I would have finished the PhD or been ready to run Arb without him.</li>
+    <li>Begin to <a href="https://www.google.com/maps/dir/Arches,+Gloucester+Road,+Montpelier,+Bristol,+UK/Ashton+Court+Estate+%26+Mansion,+Long+Ashton,+Bristol,+UK/Barrow+Gurney,+Bristol,+UK/@51.4376924,-2.7127186,12z/data=!3m1!4b1!4m20!4m19!1m5!1m1!1s0x48718ffd96da17db:0x2ca9d32accf64c85!2m2!1d-2.5931751!2d51.4691686!1m5!1m1!1s0x48718dab5681606f:0x5641e5f784c81a3!2m2!1d-2.6381437!2d51.4437384!1m5!1m1!1s0x48718caef09ca25d:0x89e7fc9bbbf03633!2m2!1d-2.667184!2d51.4060355!3e2?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D">bike</a> to a friend in the countryside to lift. Absurdly, Covid rules mean we need to put the power rack in the garden. I may have dropped out for good without the deer and the wind and the iron.</li>
+    <br><br>     <li><i>Colleagues</i>: the deer</li>
+    <br><li><i>Reading</i>: 
+        <ul>
+        <li>The Design and Implementation of Probabilistic Programming Languages    Noah D. Goodman</li>
+        <li>Regression and Other Stories (Analytical Methods for Social Research)   Andrew Gelman       2020/07/14</li>
+        </ul>
+    </li>
+    <li><i>Project</i>: </li>
+</div>
+
+
+<h3>Aug 20: no productive work</h3>
+<div>
+    <li>Film myself at home for pay as part of a Facebook computer vision data collection</li>
+    
+<br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+<h3>Sep 20: no productive work</h3>
+<div>
+    <li>TA a graph theory <a href="https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20010">course</a> (never studied it before). Actually fall in love a little; the first area I actually like doing.</li>
+<br><br>     <li><i>Colleagues</i>: John</li>
+    <br><li><i>Reading</i>: 
+        <ul>
+        <li>ad hoc graph theory</li>
+        <li>Probability Theory: The Logic of Science    E.T. Jaynes</li>
+        </ul>
+        </li>
+    <br><li><i>Project</i>:</li>
+</div>
+<h3>Oct 20: start on solids</h3>
+<div>
+    <li> </li>
+    <li>NeurIPS push </li>
+    
+<br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: </li>
+    <li><i>Project</i>: <a href="https://arxiv.org/abs/2302.04081">Multiresp</a>, thinking about robustness of Bayesian models</li>
+</div>
+
+
+<h3>Nov 20: reading to repair deficits</h3>
+<div>
+    <li>First call with my advisor where I actually relax (9 months) </li>
+    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: 
+        <ul>
+        <li>Gelman's BDA</li>
+        <li>Introduction to Causal Inference from a Machine Learning Perspective    Neal, Brady</li>
+        </ul>
+    </li>
+    <li><i>Project</i>: </li>
+</div>
+
+</div>
+
+<br>
 
 
 ## Amateur epidemiology (Dec 2020 - May 2021)
 
-- Dec 20: my first workshop paper accepted
+<div class="accordion">
 
-    - "I can live this life". It was genuinely unclear beforehand.
+<h3>Dec 20: first workshop paper</h3>
+<div>
+    <li><a href="https://ceur-ws.org/Vol-2808/Paper_14.pdf">ILP paper</a> into AAAI. "I can live this life". It was genuinely unclear beforehand.</li>
+        <li>On the other hand, this addicted taste of minor recognition dooms me to doing another 3 years</li>
+    <br><br>     <li><i>Colleagues</i>: Mrinank.</li>
+    <br><li><i>Reading</i>: 
+        <ul>
+        <li>Beyond the Worst-Case Analysis of Algorithms    Tim Roughgarden</li>
+        </ul>
+        </li>
+    <br><li><i>Project</i>: nosing around the topic of face masks against covid. Lots of data viz. Terrible datasets, no good models. Mandate timing seems fishy to me.</li>
+</div>
 
-        - On the other hand, this addicted taste of minor recognition dooms me to doing another 3 years
 
-    - __Colleagues__:
+<h3>Jan 21: jackpot</h3>
+<div>
+    <a href="/sincerity">Irony/sincerity</a>; <a href="/meat">Unthinking Meat</a>
+    <br>
+    Golden age for playing games with ultra-busy friends over Tabletop Simulator.
+    <br><br>     <li><i>Colleagues</i>: Rob, Mrinank, Hugh</li>
+    <br><li><i>Reading</i>: 
+        <ul>
+            <li><i>Linear Algebra and Learning from Data</i> by Strang (30%)</li>
+            <li><i>RL</i> by Sutton and Barto (10%)</li>
+            <li>Few papers by <a href="https://www.ntnu.edu/employees/haakon.tjelmeland">Tjelmeland</a></li>
+        </ul>
+    </li>
+    <br><li><i>Project</i>: find the <a href="https://jpsm.umd.edu/research/global-covid-19-trends-and-impact-survey%2C-partnership-facebook">Facebook mask data</a>. I seem to be the first person in the world to use it and notice that wearing rose voluntarily before mandates and so most studies are invalid. Start modelling in a rush.</li>
+</div>
 
-    - __Reading__: 
 
-        - Beyond the Worst-Case Analysis of Algorithms    Tim Roughgarden
+<h3>Feb 21: first conference</h3>
+<div>
+    online conference... pointless, though a professor in the audience did later recognise me from my presentation.
+    <br>
+    Win an iPad in a hackathon with Kaveh. Just cosine similarity bro. Start reading comic books on it for the first time in my life, 3 volumes a night. An incredible experience.
+    <br><br>     <li><i>Colleagues</i>: Nandi, Kaveh, and DdB</li>
+    <br><li><i>Reading</i>:
+        <ul>
+        <li>Information Theory, Inference, and Learning Algorithms  David MacKay. start a Mackay reading group. </li>
+        </ul>
+         </li>
+    <br><li><i>Project</i>: struggle the whole month trying to get the mask model to work. Some drama. Painful.</li>
+</div>
 
-    - __Project__:
 
-- Jan 21: 
 
-    - __Colleagues__:
+<h3>Mar 21: model go brr</h3>
+<div>
+    <li>After years of wrestling with the arguments, make my <a href="/ai-risk">first public statement</a> about AI risk</li>
+    <li>Get a research assistant / coauthor for masks. Novelty</li>
+    <br><br>     <li><i>Colleagues</i>: Charlie</li>
+    <br><li><i>Reading</i>: still Mackay</li>
+    <br><li><i>Project</i>: still masks.</li>
+</div>
 
-    - __Reading__: 
+<h3>Apr 21: procrastinate</h3>
+<div>
+    Write a selenium script to poach power racks off Marketplace as soon as they're posted. Set up a gym in a friend's garage, The Double Crux.<br>
+    <br><br>     <li><i>Colleagues</i>: Charlie, Tomas</li>
+    <br><li><i>Reading</i>:
+        <ul>
+        <li>Bayesian Data Analysis (30%)  Andrew Gelman</li>
+        </ul>
+         </li>
+    <br><li><i>Project</i>:     Procrastinating on finishing the masks model. C picks up the slack.</li>
+</div>
 
-    - __Project__:
 
-- Feb 21: my first conference. online...
+<h3>May 21: grind</h3>
+<div>
+    <li><a href="/gist">Nice little capsule</a> of what I was coding</li>
+    <br><br>     <li><i>Colleagues</i>: Charlie</li>
+    <br><li><i>Reading</i>: Aubrey-Maturin, one every two days.</li>
+    <br><li><i>Project</i>: masks done</li>
+</div>
 
-    - __Colleagues__: Nandi
+</div>
 
-        - Mackay: Kaveh and DdB
-
-    - __Reading__: 
-
-        - Information Theory, Inference, and Learning Algorithms  David J.C. MacKay
-
-        - start a Mackay reading group. 
-
-    - __Project__:
-
-- Mar 21:
-
-    - After years of wrestling with the arguments, make my first public statement about AI risk gleech.org/ai-risk
-
-    -  
-
-    - __Colleagues__:
-
-    - __Reading__: still Mackay
-
-    - __Project__:
-
-- Apr 21:
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-        - Bayesian Data Analysis  Andrew Gelman
-
-    - __Project__:
-
-- May 21: 
-
-    - Nice little capsule of what I was coding
-
-        - gleech.org/gist
-
-    - 
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-    - __Project__:
-
+<br>
 
 ## The real thing (May - Dec 2021)
 
-- Jun 21: Major nervous breakdown. Into vibe shift
+<div class="accordion">
 
-    - [[The Coup (9/6/21)]]
-
-    - [[The Great Acclaim Explosion (2021)]]
-
-    - Go completely AWOL
-
-    -  
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-    - __Project__:
-
-- Jul 21: 
-
-    - __Project__: In response to Luke, me and my mate meme each other into starting our first company. My life changes forever.
-
-    - __Colleagues__: Misha
-
-    - __Reading__: 
-
-- Aug 21:
-
-    - SPEAR. My first ESPR
-
-    - __Colleagues__:
-
-        - Chana
-
-    - __Reading__: 
-
-        - Abstract Algebra    David S. Dummit  
-
-    - __Project__:
-
-- Sep 21:
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-        - Probabilistic Machine Learning: An Introduction (Adaptive Computation and Machine Learning series)  Kevin P. Murphy  
-
-    - __Project__:
-
-- Oct 21:
-
-    - Codify my own lack of focus as a mission gleech.org/codes
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-        - Computational Complexity: A Modern Approach Sanjeev Arora
-
-    - __Project__:
-
-- Nov 21:
-
-    - gleech.org/fermi 
-
-    - gleech.org/tools
-
-    - 
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-        - All the Mathematics You Missed: But Need to Know for Graduate School    Thomas A. Garrity
-
-        - Patterns, Predictions, and Actions: A Story About Machine Learning  Moritz Hardt
-
-    - __Project__:
-
-- Dec 21:
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-    - __Project__:
+<h3>Jun 21: breakdown</h3>
+<div>
+    But air-control it into a permanent vibe shift. dgaf.
+    <li>Authorship drama takes a huge toll on me.</li>
+    <li>At the same time, the covid preprint and Emergent Ventures and various other eruptions into public life</li>
+    <li>Disengage from research. Go completely AWOL</li>
+    <br><br>     <li><i>Colleagues</i>: none</li>
+    <br><li><i>Reading</i>: none </li>
+    <br><li><i>Project</i>: none</li>
+</div>
 
 
+
+<h3>Jul 21: founder</h3>
+<div>
+    We get a devoted heckler of our masks model. He's much better than most academic reviewers, <a href="https://www.lesswrong.com/posts/J7RnKXcyCNdrdAus4/we-have-some-evidence-that-masks-work">but wrong</a>.
+    <li><i>Project</i>: In response to <a href="https://forum.effectivealtruism.org/posts/CwFyTacABbWuzdYwB/ea-needs-consultancies">Luke</a>, me and my mate meme each other into starting our first company. My life changes forever.</li>
+    <br><br>     <li><i>Colleagues</i>: Charlie, Misha</li>
+    <br><li><i>Reading</i>: </li>
+</div>
+
+
+<h3>Aug 21: teacher</h3>
+<div>
+    <li>SPEAR (online ESPR). My first time really teaching, writing my own classes.</li>
+    <br><br>     <li><i>Colleagues</i>: Chana, Mark Moon</li>
+    <br><li><i>Reading</i>: 
+        <ul>
+        <li>Abstract Algebra (15%)   David S. Dummit  </li>
+        </ul>
+        </li>
+    <br><li><i>Project</i>: teaching epistemics, learning maths for its own sake</li>
+</div>
+
+
+<h3>Sep 21: pandemic over</h3>
+<div>
+    Advise the Cabinet Office.<br>
+    Drive around Estonia for weeks.<br>
+    Fly to Czechia for the LW reunion. The pandemic is over.
+    <br><br>     <li><i>Colleagues</i>: Tomas</li>
+    <br><li><i>Reading</i>: </li>
+        <li>Probabilistic Machine Learning: An Introduction (15%) by  Kevin P. Murphy  </li>
+    <br><li><i>Project</i>: resub masks to PNAS. Do everything</li>
+</div>
+
+
+<h3>Oct 21: seasons</h3>
+<div>
+    Get an internship at Ought. End up doing Arb instead. Going feral<br>
+    Intervene for an alcoholic friend.<br>
+    Go for an FLI fellowship (don't get it). I have supporters for the first time<br>
+    <li><a href="/codes">Codify</a> my own lack of focus as if it were a mission </li>
+    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: 
+        <ul>
+         <li>Computational Complexity: A Modern Approach (30%) Sanjeev Arora</li>
+        </ul>
+        </li>
+    <br><li><i>Project</i>: nothing major. Help on <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010435">seasonality</a>.</li>
+</div>
+
+
+<h3>Nov 21: US</h3>
+<div>
+    First time on the east coast of US for <a href="https://benyeoh.substack.com/p/why-unconference">EV unconference</a>.
+    <li>gleech.org/fermi </li>
+    <li>gleech.org/tools</li>
+    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: 
+        <li>All the Mathematics You Missed: But Need to Know for Graduate School    Thomas A. Garrity</li>
+        <li>Patterns, Predictions, and Actions: A Story About Machine Learning  Moritz Hardt</li>
+        </li>
+    <br><li><i>Project</i>: </li>
+</div>
+
+<h3>Dec 21: skive</h3>
+<div>
+    Iceland with the ESPR crew. Feed horses.<br>
+    Lose a day to Moderna side effects.<br>
+    Apply for a Deepmind internship (don't get it)
+    <br><br>     <li><i>Colleagues</i>: Misha</li>
+    <br><li><i>Reading</i>: just fun stuff</li>
+    <br><li><i>Project</i>: <a href="https://arbresearch.com/files/elite_education.pdf">first major client</a>. Absolute Flow</li>
+</div>
+
+</div>
+
+<br>
 
 ## Sabbatical (Jan - Dec 2022)
 
-- Spend most of the year abroad launching my company (Nassau, Prague, Mexico)
-
-- Jan 22: my first big paper is accepted
-
-    - "I feel nothing"
-
-        - phd effectively completed at this point.
-
-    - my advisor makes an AI safety research proposal. 
-
-        - I submit it for funding despite misgivings
-
-    - launch a mental health support thing
-
-    - take on ALERT
-
-    - 13 hour days
-
-    - start bupropion
-
-    - Charge a client $300/h.
-
-    - Apply to GovAI (rejected)
-
-    - Begin peer reviewing papers. Reviewer for big journals on Covid papers
-
-- Feb 22: 
-
-    - More PNAS revisions, another 200 hours say. Reviewer 3 sickens me
-
-        - The journal dishonestly reset the clock, counting from R&R 10 months later
-
-    - __Reading__: 
-
-        - Full Frontal Calculus: An Infinitesimal Approach    Seth Braver
-
-        - The Nature of Computation   Cristopher Moore 
-
-- Mar 22: 
-
-    - __Colleagues__: 
-
-    - __Reading__: 
-
-        - Breakthroughs in Statistics, Volume 1: Foundations and Basic Theory Samuel Kotz
-
-    - __Project__:
-
-- Apr 22:
-
-    - __Colleagues__: 
-
-    - __Reading__: 
-
-    - __Project__:
-
-- May 22:
-
-    - __Colleagues__: 
-
-    - __Reading__: 
-
-    - __Project__:
-
-- Jun 22:
-
-    - Happiness  gleech.org/nownost
-
-    - The gravity of the situation gleech.org/benchmarks
-
-    - __Colleagues__: 
-
-    - __Reading__: 
-
-    - __Project__:
-
-- Jul 22:
-
-    - __Colleagues__: 
-
-    - __Reading__: 
-
-        - Learn You a Haskell for Great Good! Miran Lipovača
-
-        - Exasperating Essays: Exercises in the Dialectical Method    Damodar Dharmananda Kosambi
-
-    - __Project__:
-
-- Aug 22: Officially back to PhD
-
-    - but really just HPLR 
-
-    - Lead ESPR for the first time
-
-    - __Colleagues__: 
-
-    - __Reading__: 
-
-        - Things a Computer Scientist Rarely Talks About Donald Knuth
-
-    - __Project__:
-
-- Sep 22:
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-        - Mathematics Made Difficult  Carl E. Linderholm
-
-        - Visual Complex Analysis Tristan Needham
-
-        - Probabilistic Programming & Bayesian Methods for Hackers    Cameron Davidson-Pilon
-
-    - __Project__:
-
-- Oct 22:
-
-    - __Colleagues__: 
-
-    - __Reading__: 
-
-    - __Project__:
-
-- Nov 22:
-
-    - The fall of FTX. Many of my friends are burned. I lose a mere $2000.
-
-    - come to terms with my lack of understanding gleech.org/ladder
-
-    - __Colleagues__: 
-
-    - __Reading__: __Automation and Utopia__
-
-    - __Project__:
-
-- Dec 22:
-
-    - __Colleagues__: 
-
-    - __Reading__: 
-
-    - __Project__:
-
+Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in the company of friends.
+
+<br>
+
+<div class="accordion">
+
+<h3>Jan 22: first big paper </h3>
+<div>
+    <li>Finally get the masks paper accepted at PNAS. "I feel nothing". phd effectively completed at this point.</li>
+    <br>
+    <li>my advisor makes an AI safety research proposal. I submit it for funding despite misgivings</li>
+    <li>launch a mental health support thing</li>
+    <li>take on <a href="https://forum.effectivealtruism.org/posts/sgcxDwyD2KL6BHH2C/case-for-emergency-response-teams">ALERT</a></li>
+    <li>work some 13 hour days, gladly, eagerly</li>
+    <li>start bupropion</li>
+    <li>Charge a client $300/h.</li>
+    <li>Apply to GovAI (rejected)</li>
+    <li>Begin peer reviewing papers. big journals, Covid papers</li>
+</div>
+
+
+<h3>Feb 22: off</h3>
+<div>
+    <li>More PNAS revisions, another 200 hours say. Reviewer 3 sickens me</li>
+        <li>The journal dishonestly reset the clock, counting from R&R 10 months later</li>
+    <br>
+    <br><li><i>Reading</i>: 
+        <ul>
+        <li>Full Frontal Calculus (100%)    Seth Braver</li>
+        <li>The Nature of Computation (20%)  Cristopher Moore </li>
+        </ul>
+        </li>
+</div>
+
+
+
+<h3>Mar 22: off </h3>
+<div>
+    <a href="https://forum.effectivealtruism.org/s/dr4yccYeH6Zs7J82s">Write a huge sequence</a> on Covid and EA for Jan.<br>
+    <br><br>     <li><i>Colleagues</i>: </li><br>
+    <br><li><i>Reading</i>: 
+        <ul>
+        <li>Breakthroughs in Statistics, Volume 1: Foundations and Basic Theory Samuel Kotz</li>
+        </ul>
+        </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+<h3>Apr 22: off </h3>
+<div>
+    <br><br>     <li><i>Colleagues</i>: </li><br>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+<h3>May 22: off </h3>
+<div>
+    <br><br>     <li><i>Colleagues</i>: </li><br>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+
+<h3>Jun 22: off </h3>
+<div>
+    <li>Happiness  gleech.org/nownost</li>
+    <li>The gravity of the situation gleech.org/benchmarks</li>
+    <br><br>     <li><i>Colleagues</i>: </li><br>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+<h3>Jul 22: off </h3>
+<div>
+    <br><br>     <li><i>Colleagues</i>: </li><br>
+    <br><li><i>Reading</i>: 
+        <ul>
+        <li>Learn You a Haskell for Great Good! Miran Lipovača</li>
+        <li>Exasperating Essays: Exercises in the Dialectical Method    Damodar Dharmananda Kosambi</li>
+        </ul>
+    </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+<h3>Aug 22: back to PhD</h3>
+<div>
+    <li>but really just <a href="https://arxiv.org/abs/2402.04464">HPLR</a>. I find my groove, which is synthesis / living library / Gwernian stamp collecting and pattern creation. Other people are bad at this for some reason.</li>
+    <li>Lead ESPR for the first time. Life changing.</li>
+    <br><br>     <li><i>Colleagues</i>: </li><br>
+    <br><li><i>Reading</i>: 
+        <li>Things a Computer Scientist Rarely Talks About Donald Knuth</li>
+        </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+
+<h3>Sep 22: </h3>
+<div>
+    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: 
+    <ul>
+        <li>Mathematics Made Difficult  Carl E. Linderholm</li>
+        <li>Visual Complex Analysis Tristan Needham</li>
+        <li>Probabilistic Programming & Bayesian Methods for Hackers    Cameron Davidson-Pilon</li>
+    </ul>
+    </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+
+<h3>Oct 22: </h3>
+<div>
+    <br><br>     <li><i>Colleagues</i>: </li><br>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+<h3>Nov 22: </h3>
+<div>
+    <li>The fall of FTX. Many of my friends are burned. I lose a mere $2000.</li>
+    <li>come to terms with my lack of understanding gleech.org/ladder</li>
+<br><br>     <li><i>Colleagues</i>: </li><br>
+    <br><li><i>Reading</i>: Automation and Utopia by Danaher</li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+<h3>Dec 22: </h3>
+<div>
+    <br><br>     
+    <li><i>Colleagues</i>: </li><br>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+</div>
+
+<br>
 
 ## Killing time (Jan - Dec 2023)
 
-- Jan 23: 
-
-    - The world wakes up to AI risk: the overton window shifts dramatically this year. From giggles in the White House Press Briefing Room to the Attack of Schumer and SB1047
-
-    - [Try one last time to keep a lab book](https://docs.google.com/document/d/1GskfWE4ZaFVRTd_Eb05_dHffAS8j-jzyU7OCjQFVqjI/edit) 
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-        - Coding the Matrix: Linear Algebra through Computer Science Applications Philip N. Klein
-
-    - __Project__:
-
-- Feb 23: 
-
-    -  
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-    - __Project__:
-
-- Mar 23: 
-
-    -  
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-    - __Project__:
-
-- Apr 23: 
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-        - Grand Futures   Anders Sandberg
-
-    - __Project__:
-
-- May 23: 
-
-    -  
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-    - __Project__:
-
-- Jun 23: 
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-        - Active Inference: The Free Energy Principle in Mind, Brain, and Behavior    Thomas Parr
-
-        - Convention: A Philosophical Study   Lewis
-
-    - __Project__:
-
-- Jul 23: 
-
-    - Get paid to edit the most important ML safety result of the year.
-
-    - This ended up being my first real ML paper, my first alignment paper, my first language model paper
-
-    - I at last am persuaded that I can do this. [[Healing]]
-
-        - [[my trauma]]
-
-    - I learn quite a lot about evals and writing papers
-
-    - Rejected from AAAI and ICML, accepted to NeurIPS
-
-    - __Colleagues__: Alex Turner, Monte Macdiarmid
-
-    - __Reading__: 
-
-    - __Project__:
-
-- Aug 23: 
-
-    - Go on a podcast, mostly about psych gleech.org/clearer 
-
-    - gleech.org/stats
-
-    - Metamathematics  gleech.org/dark-math
-
-    -  
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-        - The Unknowable (Discrete Mathematics and Theoretical Computer Science)  Gregory Chaitin
-
-        - The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us Noson S. Yanofsky
-
-        - Understanding Uncertainty   Dennis V. Lindley
-
-    - __Project__:
-
-- Sep 23: 
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-        - The Handbook of Rationality, Markus Knauff
-
-        - House of Cards, Robyn Dawes
-
-    - __Project__:
-
-- Oct 23: 
-
-    - Run a conference (small one, mostly Bristol speakers) 
-
-    - 
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-    - __Project__:
-
-- Nov 23:
-
-    - Enormous bitterness over Altman seizing control of the nonprofit. Argue with a dear friend 
-
-    - 
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-    - __Project__:
-
-- Dec 23: 
-
-    - Now he's acting like a medical expert gleech.org/med  
-
-    - 
-
-    - __Colleagues__:
-
-    - __Reading__: 
-
-    - __Project__:
-
+<div class="accordion">
+
+<h3>Jan 23: </h3>
+<div>
+    <li>The world wakes up to AI risk: the overton window shifts dramatically this year. From giggles in the White House Press Briefing Room to the Attack of Schumer and SB1047. It takes the opposition about a year to create itself.</li>
+    <li>[Try one last time to keep a lab book](https://docs.google.com/document/d/1GskfWE4ZaFVRTd_Eb05_dHffAS8j-jzyU7OCjQFVqjI/edit) </li>
+    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: </li>
+        <li>Coding the Matrix: Linear Algebra through Computer Science Applications Philip N. Klein</li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+<h3>Feb 23: </h3>
+<div>
+    
+    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+<h3>Mar 23: </h3>
+<div>
+    
+<br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+<h3>Apr 23: </h3>
+<div>
+    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: </li>
+        <li>Grand Futures   Anders Sandberg</li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+<h3>May 23: </h3>
+<div>
+    
+<br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+<h3>Jun 23: </h3>
+<div>
+    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: </li>
+        <li>Active Inference: The Free Energy Principle in Mind, Brain, and Behavior    Thomas Parr</li>
+        <li>Convention: A Philosophical Study   Lewis</li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+<h3>Jul 23: </h3>
+<div>
+    <li>Get paid to edit the most important ML safety result of the year.</li>
+    <li>This ended up being my first real ML paper, my first alignment paper, my first language model paper</li>
+    <li>I at last am persuaded that I can do this. [[Healing]]</li>
+        <li>[[my trauma]]</li>
+    <li>I learn quite a lot about evals and writing papers</li>
+    <li>Rejected from AAAI and ICML, accepted to NeurIPS</li>
+<br><br>     <li><i>Colleagues</i>: Alex Turner, Monte Macdiarmid</li>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+<h3>Aug 23: </h3>
+<div>
+    <li>Go on a podcast, mostly about psych gleech.org/clearer </li>
+    <li>gleech.org/stats</li>
+    <li>Metamathematics  gleech.org/dark-math</li>
+    
+    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: </li>
+        <li>The Unknowable (Discrete Mathematics and Theoretical Computer Science)  Gregory Chaitin</li>
+        <li>The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us Noson S. Yanofsky</li>
+        <li>Understanding Uncertainty   Dennis V. Lindley</li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+<h3>Sep 23: </h3>
+<div>
+    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: </li>
+        <li>The Handbook of Rationality, Markus Knauff</li>
+        <li>House of Cards, Robyn Dawes</li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+
+<h3>Oct 23: </h3>
+<div>
+    <li>Run a conference (small one, mostly Bristol speakers) </li>
+    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+<h3>Nov 23: </h3>
+<div>
+    <li>Enormous bitterness over Altman seizing control of the nonprofit. Argue with a dear friend </li>
+    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+
+<h3>Dec 23: </h3>
+<div>
+    <li>Now he's acting like a medical expert gleech.org/med  </li>
+    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
+
+</div>
+
+<br>
 
 ## Endgame (Jan - May 2024)
 
-- Jan 24: 
+<div class="accordion">
 
-    - Still haven't really started my thesis.
+<h3>Jan 24: </h3>
+<div>
+    <li>Still haven't really started my thesis.</li>
+        <li>Ask <a href="https://rexdouglass.com/">Rex</a> to be on my viva committee, to keep me honest. (He doesn't have time)</li>
+        <li>Hire a project manager, to force me to sit down and write.</li>
+            <li>This act would have been difficult to imagine 2 years ago</li>
+            <li>It's an executive act. I could never delegate before</li>
+    <li>Finland</li>
+    <li>Q: Would I have managed to get a PhD in 1924, when standards were higher?</li>
+        <li>A: yes. Standards were only higher in some dimensions. </li>
+<br><br>     <li><i>Colleagues</i>: Juan, Stag, Rian</li>
+    <br><li><i>Reading</i>: </li>
+    <br><li><i>Project</i>:</li>
+</div>
 
-        - Ask Rex to be on my committee 
 
-        - Hire a project manager, to force me to sit down and write.
+<h3>Feb 24: </h3>
+<div>
+    <li>Month mostly off, in Taiwan, running a winter camp</li>
+<br><br>     <li><i>Colleagues</i>: </li><br>
+    <br><li><i>Reading</i>: Master Incapable</li>
+    <br><li><i>Project</i>:</li>
+        <li>Hard Problems paper approved for release. There's chapter 4, or half of it.</li>
+</div>
 
-            - This act would have been difficult to imagine 2 years ago
 
-            - It's an executive act. I could never delegate before
+<h3>Mar 24: </h3>
+<div>
+    <br><br>     <li><i>Colleagues</i>: Juan</li>
+    <br><li><i>Reading</i>: think pretty intensely about program synthesis and Open Agency</li>
+    <li><i>Project</i>: Another big sprint for ICML ActAdd</li>
+</div>
 
-    - Finland
 
-    - Q: Would I have managed to get a PhD in 1924, when standards were higher?
 
-        - A: yes. Standards were only higher in some dimensions. 
+<h3>Apr 24: </h3>
+<div>
+    <li>Finally start writing my thesis. About 60 hours.</li>
+    <br><br>     <li><i>Colleagues</i>: </li><br>
+    <br><li><i>Reading</i>: </li>
+        <li>Read Prince's lovely DL book </li>
+        <li>Indiscrete Thoughts by Gian-Carlo Rota</li>
+    <br><li><i>Project</i>:</li>
+        <li>Distract myself one last time with a cool final paper: <a href="https://arxiv.org/abs/2407.12220">How to Lie</a> </li>
+            <li>to bulk up the rather light-weight ML chapter</li>
+</div>
 
-    - __Colleagues__: Juan, Stag, Rian
 
-    - __Reading__: 
+<h3>May 24: </h3>
+<div>
+    <br><br>     <li><i>Colleagues</i>: Laurence, Juan, Nic, </li>
+    <br><li><i>Reading</i>: Dennett for fun</li>
+    <li><i>Project</i>: Finally start actually writing the thesis midway through May. The thread I use to tie together the three fields starts to feel less tenuous.</li>
+</div>
 
-    - __Project__:
 
-- Feb 24: 
+<h3>Jun 24: </h3>
+<div>
+    <br><br>     <li><i>Colleagues</i>: Laurence, Juan, Nic, Rian</li>
+    <br><li><i>Reading</i>: Hyperscattered, pulling together the 300 citations I need for the thesis. I did actually go through Neal and Betancourt on HMC, at long last.</li>
+    <li><i>Project</i>: Hastily writing enough of RDOF to put it in the Thesis</li>
+        <li>Pretty satisfying to have one more real ML paper, one fully conceived and driven by me.</li>
+    <li>Submit. </li>
+    <li>Order <a href="https://x.com/g_leech_/status/1804152323607855221">a doctoral sword</a></li>
+</div>
 
-    - Month mostly off, in Taiwan, running a winter camp
 
-    - __Colleagues__: 
+</div>
 
-    - __Reading__: Master Incapable
-
-    - __Project__:
-
-        - Hard Problems paper approved for release. There's chapter 4, or half of it.
-
-- Mar 24: 
-
-    - __Colleagues__: Juan
-
-    - __Reading__: think pretty intensely about program synthesis and Open Agency
-
-    - __Project__: Another big sprint for ICML ActAdd
-
-- Apr 24: 
-
-    - Finally start writing my thesis. About 60 hours.
-
-    - __Colleagues__: 
-
-    - __Reading__: 
-
-        - Read Prince's lovely DL book 
-
-        - Indiscrete Thoughts by Gian-Carlo Rota
-
-    - __Project__:
-
-        - Distract myself one last time with a cool final paper: __How to Lie__ 
-
-            - to bulk up the rather light-weight ML chapter
-
-- May 24: 
-
-    - __Colleagues__: Laurence, Juan, Nic, 
-
-    - __Reading__: Dennett for fun
-
-    - __Project__: Finally start actually writing the thesis midway through May. The thread I use to tie together the three fields starts to feel less tenuous.
-
-- June 24: 
-
-    - __Colleagues__: Laurence, Juan, Nic, Rian
-
-    - __Reading__: Hyperscattered, pulling together the 300 citations I need for the thesis. I did actually go through Neal and Betancourt on HMC, at long last.
-
-    - __Project__: Hastily writing enough of RDOF to put it in the Thesis
-
-        - Pretty satisfying to have one more real ML paper, one fully conceived and driven by me.
-
-    - Submit. 
-
-    - Order [a doctoral sword](https://x.com/g_leech_/status/1804152323607855221)
+<br>

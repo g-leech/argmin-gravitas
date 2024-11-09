@@ -18,6 +18,7 @@ confidence: 60%. IANAD
 categories: 
 warnings:   
 wordcount:      
+where:      "Bristol, Skyrje"
 ---
 
 

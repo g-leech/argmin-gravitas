@@ -16,6 +16,7 @@ summary:    a nice writing prompt
 importance: 4
 wordcount:	520
 categories: personal, meaning, fun, self-help, writing, becoming
+where:      "Bristol"
 ---
 
 <center>
