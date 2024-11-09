@@ -19,6 +19,7 @@ wordcount:  500
 warnings: 	
 categories: music, art, death
 argument:	
+where:      "Elgin"
 ---
 
 {%	assign yt = "https://www.youtube.com/playlist?list=PLhdvJ4ld4_Ec9wawrK20wue-5Y92aDwqL"	%}

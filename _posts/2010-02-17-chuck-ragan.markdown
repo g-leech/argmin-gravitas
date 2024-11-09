@@ -18,6 +18,7 @@ confidence: N/A. I was really muddled!
 categories: music, punk, interview
 warnings:   I swear I was trying to mock precociousness with "Mr Ragan"
 wordcount:      
+where:      "Aberdeen"
 ---
 
 <div align="center">

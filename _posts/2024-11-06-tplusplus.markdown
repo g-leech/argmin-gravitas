@@ -16,6 +16,7 @@ confidence: 70%
 importance: 7
 wordcount:  
 categories: AI
+where:      "Cambridge"
 ---
 
 People have tweaked the decoder-only Transformer architecture enough in 4 years that we're apparently now calling the current recipe "[Transformer++](https://x.com/gneubig/status/1733142142405472295)".

@@ -16,6 +16,7 @@ confidence:
 importance: 7
 wordcount:  
 categories: greats, maths
+where:      "Cambridge"
 ---
 
 ("Child prodigy" more recently means someone who is _very_ good at school so I don't use the term.)

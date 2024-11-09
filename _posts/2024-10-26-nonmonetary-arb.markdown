@@ -60,7 +60,7 @@ So why isn't this the default move for the smart and lucky? Most obviously, few 
     	beyond usual social desirability 
     </li>
     <li class="footnote" id="fn:4">
-    	The meaning of these cash values - which sum to somewhat more than my whole income - is not precise but gives you a relative sense.
+    	The meaning of these cash values - which sum to somewhat more than my whole income - is not willingness to pay but my <i>price</i>.
     </li>
 </ol>
 

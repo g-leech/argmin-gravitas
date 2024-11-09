@@ -17,6 +17,7 @@ categories: music, lists
 warnings:   
 importance: 3
 wordcount:      
+where:      "Tallinn"
 ---
 
 {%  assign inv = "https://www.inverse.com/input/culture/obsessed-listening-spying-strangers-old-spotify-playlists" %}
