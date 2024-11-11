@@ -238,6 +238,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
     <br><li><i>Reading</i>: <a href="https://agentmodels.org/">Evans</a></li>
     <li><i>Project</i>: probabilistic programming</li>
 </div>
+
 <h3>Jun 20: floundering</h3>
 <div>
     <li>Launder my self-doubt with a lyrical little <a href="/ignorance">cri de coeur</a>. In general if you look at the blog archives you'll see that I used writing as escapism. Very few AI posts. 
@@ -259,7 +260,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
     <li>I don't handle heavy solo engineering well. burnout. This is roughly the last time in <a href="https://en.wikipedia.org/wiki/GitHub_Copilot#History">history</a> anyone will be this unaided.</li>
     <li>Get a coach, the great Daniel Kestenholz. Keep up with him once a month every month until May 2024. It is quite amazing how much just speaking out loud to a kind ear once a month achieves - so many obvious next steps which only become obvious this way. I am not sure I would have finished the PhD or been ready to run Arb without him.</li>
     <li>Begin to <a href="https://www.google.com/maps/dir/Arches,+Gloucester+Road,+Montpelier,+Bristol,+UK/Ashton+Court+Estate+%26+Mansion,+Long+Ashton,+Bristol,+UK/Barrow+Gurney,+Bristol,+UK/@51.4376924,-2.7127186,12z/data=!3m1!4b1!4m20!4m19!1m5!1m1!1s0x48718ffd96da17db:0x2ca9d32accf64c85!2m2!1d-2.5931751!2d51.4691686!1m5!1m1!1s0x48718dab5681606f:0x5641e5f784c81a3!2m2!1d-2.6381437!2d51.4437384!1m5!1m1!1s0x48718caef09ca25d:0x89e7fc9bbbf03633!2m2!1d-2.667184!2d51.4060355!3e2?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D">bike</a> to a friend in the countryside to lift. Absurdly, Covid rules mean we need to put the power rack in the garden. I may have dropped out for good without the deer and the wind and the iron.</li>
-    <br><br>     <li><i>Colleagues</i>: the deer</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence, the deer</li>
     <br><li><i>Reading</i>: 
         <ul>
         <li>The Design and Implementation of Probabilistic Programming Languages    Noah D. Goodman</li>
@@ -282,7 +283,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
 <h3>Sep 20: no productive work</h3>
 <div>
     <li>TA a graph theory <a href="https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20010">course</a> (never studied it before). Actually fall in love a little; the first area I actually like doing.</li>
-<br><br>     <li><i>Colleagues</i>: John</li>
+<br><br>     <li><i>Colleagues</i>: Laurence, John</li>
     <br><li><i>Reading</i>: 
         <ul>
         <li>ad hoc graph theory</li>
@@ -328,7 +329,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
 <div>
     <li><a href="https://ceur-ws.org/Vol-2808/Paper_14.pdf">ILP paper</a> into AAAI. "I can live this life". It was genuinely unclear beforehand.</li>
         <li>On the other hand, this addicted taste of minor recognition dooms me to doing another 3 years</li>
-    <br><br>     <li><i>Colleagues</i>: Mrinank.</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence, Mrinank.</li>
     <br><li><i>Reading</i>: 
         <ul>
         <li>Beyond the Worst-Case Analysis of Algorithms    Tim Roughgarden</li>
@@ -343,7 +344,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
     <a href="/sincerity">Irony/sincerity</a>; <a href="/meat">Unthinking Meat</a>
     <br>
     Golden age for playing games with ultra-busy friends over Tabletop Simulator.
-    <br><br>     <li><i>Colleagues</i>: Rob, Mrinank, Hugh</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence, Rob, Mrinank, Hugh</li>
     <br><li><i>Reading</i>: 
         <ul>
             <li><i>Linear Algebra and Learning from Data</i> by Strang (30%)</li>
@@ -360,7 +361,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
     online conference... pointless, though a professor in the audience did later recognise me from my presentation.
     <br>
     Win an iPad in a hackathon with Kaveh. Just cosine similarity bro. Start reading comic books on it for the first time in my life, 3 volumes a night. An incredible experience.
-    <br><br>     <li><i>Colleagues</i>: Nandi, Kaveh, and DdB</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence, Nandi, Kaveh, and DdB</li>
     <br><li><i>Reading</i>:
         <ul>
         <li>Information Theory, Inference, and Learning Algorithms  David MacKay. start a Mackay reading group. </li>
@@ -375,7 +376,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
 <div>
     <li>After years of wrestling with the arguments, make my <a href="/ai-risk">first public statement</a> about AI risk</li>
     <li>Get a research assistant / coauthor for masks. Novelty</li>
-    <br><br>     <li><i>Colleagues</i>: Charlie</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence, Charlie</li>
     <br><li><i>Reading</i>: still Mackay</li>
     <br><li><i>Project</i>: still masks.</li>
 </div>
@@ -383,7 +384,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
 <h3>Apr 21: procrastinate</h3>
 <div>
     Write a selenium script to poach power racks off Marketplace as soon as they're posted. Set up a gym in a friend's garage, The Double Crux.<br>
-    <br><br>     <li><i>Colleagues</i>: Charlie, Tomas</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence, Charlie, Tomas</li>
     <br><li><i>Reading</i>:
         <ul>
         <li>Bayesian Data Analysis (30%)  Andrew Gelman</li>
@@ -396,7 +397,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
 <h3>May 21: grind</h3>
 <div>
     <li><a href="/gist">Nice little capsule</a> of what I was coding</li>
-    <br><br>     <li><i>Colleagues</i>: Charlie</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence, Charlie</li>
     <br><li><i>Reading</i>: Aubrey-Maturin, one every two days.</li>
     <br><li><i>Project</i>: masks done</li>
 </div>
@@ -415,7 +416,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
     <li>Authorship drama takes a huge toll on me.</li>
     <li>At the same time, the covid preprint and Emergent Ventures and various other eruptions into public life</li>
     <li>Disengage from research. Go completely AWOL</li>
-    <br><br>     <li><i>Colleagues</i>: none</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence, none</li>
     <br><li><i>Reading</i>: none </li>
     <br><li><i>Project</i>: none</li>
 </div>
@@ -426,7 +427,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
 <div>
     We get a devoted heckler of our masks model. He's much better than most academic reviewers, <a href="https://www.lesswrong.com/posts/J7RnKXcyCNdrdAus4/we-have-some-evidence-that-masks-work">but wrong</a>.
     <li><i>Project</i>: In response to <a href="https://forum.effectivealtruism.org/posts/CwFyTacABbWuzdYwB/ea-needs-consultancies">Luke</a>, me and my mate meme each other into starting our first company. My life changes forever.</li>
-    <br><br>     <li><i>Colleagues</i>: Charlie, Misha</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence, Charlie, Misha</li>
     <br><li><i>Reading</i>: </li>
 </div>
 
@@ -434,7 +435,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
 <h3>Aug 21: teacher</h3>
 <div>
     <li>SPEAR (online ESPR). My first time really teaching, writing my own classes.</li>
-    <br><br>     <li><i>Colleagues</i>: Chana, Mark Moon</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence, Chana, Mark Moon</li>
     <br><li><i>Reading</i>: 
         <ul>
         <li>Abstract Algebra (15%)   David S. Dummit  </li>
@@ -449,7 +450,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
     Advise the Cabinet Office.<br>
     Drive around Estonia for weeks.<br>
     Fly to Czechia for the LW reunion. The pandemic is over.
-    <br><br>     <li><i>Colleagues</i>: Tomas</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence, Tomas</li>
     <br><li><i>Reading</i>: </li>
         <li>Probabilistic Machine Learning: An Introduction (15%) by  Kevin P. Murphy  </li>
     <br><li><i>Project</i>: resub masks to PNAS. Do everything</li>
@@ -470,6 +471,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
         </li>
     <br><li><i>Project</i>: nothing major. Help on <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010435">seasonality</a>.</li>
 </div>
+
 
 
 <h3>Nov 21: US</h3>
@@ -604,7 +606,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 
 <h3>Sep 22: </h3>
 <div>
-    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence</li>
     <br><li><i>Reading</i>: 
     <ul>
         <li>Mathematics Made Difficult  Carl E. Linderholm</li>
@@ -619,7 +621,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 
 <h3>Oct 22: </h3>
 <div>
-    <br><br>     <li><i>Colleagues</i>: </li><br>
+    <br><br>     <li><i>Colleagues</i>: Laurence, </li><br>
     <br><li><i>Reading</i>: </li>
     <br><li><i>Project</i>:</li>
 </div>
@@ -629,7 +631,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 <div>
     <li>The fall of FTX. Many of my friends are burned. I lose a mere $2000.</li>
     <li>come to terms with my lack of understanding gleech.org/ladder</li>
-<br><br>     <li><i>Colleagues</i>: </li><br>
+<br><br>     <li><i>Colleagues</i>: Laurence, </li><br>
     <br><li><i>Reading</i>: Automation and Utopia by Danaher</li>
     <br><li><i>Project</i>:</li>
 </div>
@@ -638,7 +640,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 <h3>Dec 22: </h3>
 <div>
     <br><br>     
-    <li><i>Colleagues</i>: </li><br>
+    <li><i>Colleagues</i>: Laurence, </li><br>
     <br><li><i>Reading</i>: </li>
     <br><li><i>Project</i>:</li>
 </div>
@@ -655,7 +657,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 <div>
     <li>The world wakes up to AI risk: the overton window shifts dramatically this year. From giggles in the White House Press Briefing Room to the Attack of Schumer and SB1047. It takes the opposition about a year to create itself.</li>
     <li>[Try one last time to keep a lab book](https://docs.google.com/document/d/1GskfWE4ZaFVRTd_Eb05_dHffAS8j-jzyU7OCjQFVqjI/edit) </li>
-    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence</li>
     <br><li><i>Reading</i>: </li>
         <li>Coding the Matrix: Linear Algebra through Computer Science Applications Philip N. Klein</li>
     <br><li><i>Project</i>:</li>
@@ -664,8 +666,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 
 <h3>Feb 23: </h3>
 <div>
-    
-    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence</li>
     <br><li><i>Reading</i>: </li>
     <br><li><i>Project</i>:</li>
 </div>
@@ -673,7 +674,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 <h3>Mar 23: </h3>
 <div>
     
-<br><br>     <li><i>Colleagues</i>:</li>
+<br><br>     <li><i>Colleagues</i>: Laurence</li>
     <br><li><i>Reading</i>: </li>
     <br><li><i>Project</i>:</li>
 </div>
@@ -681,7 +682,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 
 <h3>Apr 23: </h3>
 <div>
-    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence</li>
     <br><li><i>Reading</i>: </li>
         <li>Grand Futures   Anders Sandberg</li>
     <br><li><i>Project</i>:</li>
@@ -691,7 +692,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 <h3>May 23: </h3>
 <div>
     
-<br><br>     <li><i>Colleagues</i>:</li>
+<br><br>     <li><i>Colleagues</i>: Laurence</li>
     <br><li><i>Reading</i>: </li>
     <br><li><i>Project</i>:</li>
 </div>
@@ -699,7 +700,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 
 <h3>Jun 23: </h3>
 <div>
-    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence</li>
     <br><li><i>Reading</i>: </li>
         <li>Active Inference: The Free Energy Principle in Mind, Brain, and Behavior    Thomas Parr</li>
         <li>Convention: A Philosophical Study   Lewis</li>
@@ -715,7 +716,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
         <li>[[my trauma]]</li>
     <li>I learn quite a lot about evals and writing papers</li>
     <li>Rejected from AAAI and ICML, accepted to NeurIPS</li>
-<br><br>     <li><i>Colleagues</i>: Alex Turner, Monte Macdiarmid</li>
+<br><br>     <li><i>Colleagues</i>: Laurence, Alex Turner, Monte Macdiarmid</li>
     <br><li><i>Reading</i>: </li>
     <br><li><i>Project</i>:</li>
 </div>
@@ -723,11 +724,11 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 
 <h3>Aug 23: </h3>
 <div>
-    <li>Go on a podcast, mostly about psych gleech.org/clearer </li>
+    <li>Go on <a href="/clearer">a podcast</a>, mostly about psych </li>
     <li>gleech.org/stats</li>
     <li>Metamathematics  gleech.org/dark-math</li>
-    
-    <br><br>     <li><i>Colleagues</i>:</li>
+    <!--  -->
+    <br><br>     <li><i>Colleagues</i>: Laurence</li>
     <br><li><i>Reading</i>: </li>
         <li>The Unknowable (Discrete Mathematics and Theoretical Computer Science)  Gregory Chaitin</li>
         <li>The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us Noson S. Yanofsky</li>
@@ -737,7 +738,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 
 <h3>Sep 23: </h3>
 <div>
-    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence</li>
     <br><li><i>Reading</i>: </li>
         <li>The Handbook of Rationality, Markus Knauff</li>
         <li>House of Cards, Robyn Dawes</li>
@@ -749,7 +750,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 <h3>Oct 23: </h3>
 <div>
     <li>Run a conference (small one, mostly Bristol speakers) </li>
-    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence</li>
     <br><li><i>Reading</i>: </li>
     <br><li><i>Project</i>:</li>
 </div>
@@ -758,7 +759,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 <h3>Nov 23: </h3>
 <div>
     <li>Enormous bitterness over Altman seizing control of the nonprofit. Argue with a dear friend </li>
-    <br><br>     <li><i>Colleagues</i>:</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence</li>
     <br><li><i>Reading</i>: </li>
     <br><li><i>Project</i>:</li>
 </div>
@@ -766,8 +767,8 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 
 <h3>Dec 23: </h3>
 <div>
-    <li>Now he's acting like a medical expert gleech.org/med  </li>
-    <br><br>     <li><i>Colleagues</i>:</li>
+    <li>Now he's <a href="/med">acting</a> like a medical expert   </li>
+    <br><br>     <li><i>Colleagues</i>: Laurence</li>
     <br><li><i>Reading</i>: </li>
     <br><li><i>Project</i>:</li>
 </div>
@@ -808,7 +809,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 
 <h3>Mar 24: </h3>
 <div>
-    <br><br>     <li><i>Colleagues</i>: Juan</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence, Juan</li>
     <br><li><i>Reading</i>: think pretty intensely about program synthesis and Open Agency</li>
     <li><i>Project</i>: Another big sprint for ICML ActAdd</li>
 </div>
@@ -817,8 +818,8 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 
 <h3>Apr 24: </h3>
 <div>
-    <li>Finally start writing my thesis. About 60 hours.</li>
-    <br><br>     <li><i>Colleagues</i>: </li><br>
+    <li>Finally start writing my thesis. Ends up being 227 hours not counting post-viva revisions.</li>
+    <br><br>     <li><i>Colleagues</i>: Laurence, Juan, Rian</li><br>
     <br><li><i>Reading</i>: </li>
         <li>Read Prince's lovely DL book </li>
         <li>Indiscrete Thoughts by Gian-Carlo Rota</li>
