@@ -5,6 +5,12 @@ permalink:  /dennis/
 visible:    false
 ---
 
+<center>
+	<img width="100%" src="/img/dennis_front.png" />
+</center>
+
+<br>
+
 <hgroup>
 <h1>The End of the World</h1>
 <h2>by<br>Geoffrey Dennis</h2>
