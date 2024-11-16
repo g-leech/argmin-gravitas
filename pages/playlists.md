@@ -23,7 +23,7 @@ visible:  false
                 leccy
                           <br><br>
               <small>
-                you can’t blame the computer. If there’s not soul in the music, it’s because nobody put it there. 
+                you can’t blame the computer.<br>If there’s no soul, it’s because nobody put it there. 
               </small>
             </div>
             <div class="playlist-details">
@@ -38,7 +38,7 @@ visible:  false
 <div class="column is-narrow">
     <a href="https://open.spotify.com/playlist/5xbFF8iABJSDSKmF0BV0aT">
         <div class="playlist-img">
-            <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8497dded4d2ba3a7afb77a4a54">
+            <img class="roddy" src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8497dded4d2ba3a7afb77a4a54">
         </div>
         <div class="playlist-info">
             <div class="playlist-title">
@@ -183,7 +183,8 @@ visible:  false
                 mcm
                           <br><br>
               <small>
-                Modern "Classical" music is not classical or Classical. 
+                Modern "Classical" music is<br>
+                not classical or Classical. 
               </small>
             </div>
             <div class="playlist-details">
@@ -205,7 +206,7 @@ visible:  false
                 aloft
                           <br><br>
               <small>
-                The Iron never lies to you. Friends may come and go. But two hundred pounds is always two hundred pounds.
+                Friends may come and go. But two hundred pounds is always two hundred pounds.
               </small>
             </div>
             <div class="playlist-details">
@@ -1428,33 +1429,38 @@ About half of my effort goes into my per-country playlists which have their own 
 <style>
 .playlist-gallery>.column {
   position:relative;
-  margin:20px;
+  margin:5px;
   padding:0
 }
 .playlist-gallery>.column .playlist-img {
-  border-radius:4px;
+  border-radius:0px;
   overflow:hidden
 }
 @media screen and (max-width: 767px) {
   .playlist-gallery>.column .playlist-img {
     height:235px;
-    width:235px
+    width:235px;
   }
 }
 @media screen and (min-width: 768px) {
   .playlist-gallery>.column .playlist-img {
     height:260px;
-    width:260px
+    width:260px;
   }
 }
+
+
+
 .playlist-gallery>.column .playlist-img img {
-  height:100%;
-  width:100%;
+  height:92%;
+  width:92%;
+  border: 1px solid black;
   object-fit:cover
 }
+
 .playlist-gallery>.column .playlist-info {
   color:#fff;
-  font-weight:500;
+  font-weight:400;
   display:none
 }
 .playlist-gallery>.column .playlist-info .playlist-title,
@@ -1468,7 +1474,7 @@ About half of my effort goes into my per-country playlists which have their own 
   font-size:1.2rem
 }
 .playlist-gallery>.column .playlist-info .playlist-details {
-  bottom:25px;
+  bottom:35px;
   font-size:.85rem
 }
 .playlist-gallery>.column:hover .playlist-img {
@@ -1642,8 +1648,7 @@ About half of my effort goes into my per-country playlists which have their own 
     margin-left:100%
   }
 }
-.columns {
-}
+
 .columns:last-child {
   margin-bottom:-.75rem
 }
@@ -1979,5 +1984,9 @@ About half of my effort goes into my per-country playlists which have their own 
 .tile.is-vertical>.tile.is-child:not(:last-child) {
   margin-bottom:1.5rem !important
 }
+.roddy {
+    border: 2.5pt solid black !important;
+}
+
 
 </style>
