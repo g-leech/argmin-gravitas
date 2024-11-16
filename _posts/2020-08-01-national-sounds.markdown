@@ -21,6 +21,8 @@ argument:
 
 {%	include nation/links.md	%}
 
+<br>
+
 <div class="accordion">
 	<h3>euro</h3>
 	<div>

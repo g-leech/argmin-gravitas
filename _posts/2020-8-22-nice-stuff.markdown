@@ -151,6 +151,8 @@ _Expected lifespan_: Forever.
 
 * <a href="{{alac}}">Alacritty</a> (£0).
 
+* https://github.com/BurntSushi/ripgrep
+
 * This blog is hosted on <a href="https://www.netlify.com/">Netlify</a>, they are amazing and free for small fry.<br>
 
 * <a href="{{ether}}">Wire up your laptop for calls</a> (£5). Who knows how much social difficulty in your life is due to people disliking latency on your calls? Replace the cable every couple years just in case.

@@ -136,7 +136,6 @@ It's hard to choose between Sichuan and Mexico for #1 so I guess I choose the in
 6. Hunan (10)
 5. Neapolitan* (200)
 6. Cantonese* (500)
-5. Korean* (100)
 8. North Indian (300)
 9. Japanese* (300)
 7. Vietnamese (50)
