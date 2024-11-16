@@ -187,7 +187,7 @@ visible:  false
               </small>
             </div>
             <div class="playlist-details">
-                 followers
+                1 follower
                 <br>
                 153 tracks
             </div>
@@ -291,10 +291,11 @@ visible:  false
                 cntry
                           <br><br>
               <small>
+                farm emo
               </small>
             </div>
             <div class="playlist-details">
-                 followers
+                8 followers
                 <br>
                 257 tracks
             </div>
@@ -362,7 +363,7 @@ visible:  false
               </small>
             </div>
             <div class="playlist-details">
-                 followers
+                1 follower
                 <br>
                 160 tracks
             </div>
@@ -405,7 +406,7 @@ visible:  false
               </small>
             </div>
             <div class="playlist-details">
-                 followers
+                3 followers
                 <br>
                 38 tracks
             </div>
@@ -473,7 +474,7 @@ visible:  false
               </small>
             </div>
             <div class="playlist-details">
-                 followers
+                6 followers
                 <br>
                 24 tracks
             </div>
@@ -495,7 +496,7 @@ visible:  false
               </small>
             </div>
             <div class="playlist-details">
-                 followers
+                3 followers
                 <br>
                 31 tracks
             </div>
@@ -544,26 +545,6 @@ visible:  false
                  followers
                 <br>
                 36 tracks
-            </div>
-        </div>
-    </a>
-</div>
-<div class="column is-narrow">
-    <a href="https://open.spotify.com/playlist/0LjttACKZ7i2aGjkYPEhAw">
-        <div class="playlist-img">
-            <img src="https://mosaic.scdn.co/640/ab67616d00001e024213be9f0bbdc76d05f1db4fab67616d00001e0272d481a5999197ef5f42f796ab67616d00001e027bf5a21b4cf1d79d08397539ab67616d00001e02a895c616f899f06429bc8b4f">
-        </div>
-        <div class="playlist-info">
-            <div class="playlist-title">
-                yud
-                          <br><br>
-              <small>
-              </small>
-            </div>
-            <div class="playlist-details">
-                 followers
-                <br>
-                17 tracks
             </div>
         </div>
     </a>
