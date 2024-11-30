@@ -531,6 +531,29 @@ visible:  false
 </div>
 
 <div class="column is-narrow">
+    <a href="https://open.spotify.com/playlist/55VQlUwEUaffuQFLkN7vGG">
+        <div class="playlist-img">
+            <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8411a3a5a9dccdd80fcac4a9d2">
+        </div>
+        <div class="playlist-info">
+            <div class="playlist-title">
+                transed
+                          <br><br>
+              <small>
+                among the only people in modern society who undertake a mortifying and harrowing coming of age ritual that ends with choosing a new identity and induction into a rarefied community
+              </small>
+            </div>
+            <div class="playlist-details">
+                1 follower
+                <br>
+                42 tracks
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="column is-narrow">
     <a href="https://open.spotify.com/playlist/3MXB2i5QP269qrV22NoIvV">
         <div class="playlist-img">
             <img src="https://mosaic.scdn.co/640/ab67616d00001e020eaf5a436f066879ee27c1e4ab67616d00001e0245250f89c252406b27163810ab67616d00001e02b3c47e318e051b50792dde67ab67616d00001e02f53fbb4abe27c792221e5c27">

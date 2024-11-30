@@ -121,6 +121,10 @@ I won't get around to systematically stating a worldview. (It's maybe bad for yo
 			<div>
 			{% include quotes/luki.html	%}
 			</div>
+			<h3>lichtenberg</h3>
+			<div>
+			{%	include quotes/lichtenberg.html	%}
+			</div>
 			<h3>gide</h3>
 			<div>
 			{%		include quotes/gide.html	%}

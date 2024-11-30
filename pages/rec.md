@@ -26,7 +26,7 @@ visible:	true
 ## Listen
 
 * <a href="{{album}}">Albums</a><br><br>
-* <a href="{{spot}}">Playlists</a><br><br>
+* <a href="/playlists">Playlists</a><br><br>
 * <a href="/punk">Punk</a>, <a href="{{j}}">jazz</a>, <a href="/country">country</a>, <a href="{{hh}}">hip-hop</a>, <a href="{{leccy}}">electronic</a>, <a href="{{landfill}}">indie</a>, <a href="{{x}}">☧mas</a>, <a href="{{ragg}}">reggae</a>, <a href="/nation-sound">nations</a>
 
 <br>

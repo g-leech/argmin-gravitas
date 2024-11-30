@@ -20,7 +20,7 @@ warnings:
 wordcount:      
 ---
 
-Its pretty rare for people to make explicit lists of open problems in their field. It's hard to see whole-field significance, and people don't try, instead spending most of their time staring at smaller, individual, paper-sized pieces.
+It's pretty rare for people to make explicit lists of open problems in their field. People don't try, instead spending most of their time staring at smaller, individual, paper-sized pieces.
 
 Still, in 2006, the great researcher Tom Mitchell [listed nine open problems](https://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) in machine learning. I claim that four of them have since been solved completely (in the loose sense that we went from no working system to practical systems).
 

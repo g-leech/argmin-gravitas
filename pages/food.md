@@ -50,8 +50,10 @@ visible:    false
 * Nutritional yeast on rye bread
 * Bloody mary ketchup
 * More garlic than you can believe
+* bamboo ginger in brine
 * only potato
 
+* Purple taro milk
 * White pomelo
 * Yanzhi gan lu (杨枝甘露)
 * Raasiku kali 
