@@ -1,0 +1,69 @@
+---
+layout:     post
+title:      "Aberdeen"
+baselink:   /deen
+permalink:  /deen
+date:       2024-12-12
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+quality:    
+
+summary:    My first alma mater
+confidence: 
+importance: 3
+wordcount:  
+categories: 
+where:      "Tallinn"
+---
+
+There are a handful of days a year where, immediately after the rain, the sun comes out, and the wet granite, the trillion mica crystals, all light up, and you sit in a bowl of sun.
+
+I lived in Tillydrone for 2 years and got attacked 3 times. Punched in the face for smiling. Bottle shattered next to me. In fairness I was wearing a stupid hat.
+
+<br>
+
+* **Art**: 
+
+* **Poet**: 
+
+* **Novelist**: 
+
+* **Plays**: 
+
+* **Art music**: 
+
+* **Popular music**: 
+
+* **Venue**: 
+
+* **Philosopher**: 
+
+* **Scientist**: 
+
+* **Self-experimenter**: 
+
+* **Walk**: 
+
+* **Comedian**: 
+
+* **Director**: 
+
+* **Film**: 
+
+* **TV**: 
+
+* **Actor**: 
+
+* **Entrepreneur**: 
+
+* **Church**: 
+
+* **Restaurant**:  
+
+* **Bookshop**: 
+
+* **Cafe**: 
+

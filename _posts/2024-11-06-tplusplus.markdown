@@ -155,3 +155,7 @@ Let the “Transformer++” be a Transformer with
 * Zhang, Biao and Sennrich, Rico (2019). “Root Mean Square Layer Normalization” [https://arxiv.org/abs/1910.07467](https://arxiv.org/abs/1910.07467)  
 
 
+
+Maybe
+
+https://kellerjordan.github.io/posts/muon/
