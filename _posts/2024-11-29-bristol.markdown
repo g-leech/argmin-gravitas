@@ -26,12 +26,13 @@ where:      "Taipei"
 
 <br>
 
-I lived in Bristol for 5 years, including one _total_ year (in lockdown). This is as long as I've chosen to live anywhere. Assorted notes:
+I lived in Bristol for 5 years, including one _total_ year (in lockdown). As long as I've chosen to live anywhere. Assorted notes:
 
 <br>
 
 * "The British Seattle"
-	* Port; wet; cool; a small big city; [asabiyah](https://en.wikipedia.org/wiki/Bristol_underground_scene); just-off-centre of the musical history of the world. 
+	* Port; wet; scruffy; cool; a small big city; [asabiyah](https://en.wikipedia.org/wiki/Bristol_underground_scene); just-off-centre of the musical history of the world. 
+	* Both have strong computer science departments. (Though UoW is top 10 in the world where UoB is top 100.) Microsoft HQ.
 	* When I make my geographical playlists, I often strain to find a distinctive sound. No need here: you already know the new sounds Bristol produced in the 80s and 90s (trip-hop, jungle, dream pop-space rock, dubstep):
 
 
@@ -43,13 +44,19 @@ I lived in Bristol for 5 years, including one _total_ year (in lockdown). This i
 * It's a _Guardian_ town, by which I mean comfortable, [aesthete](https://www.timeout.com/travel/coolest-neighbourhoods-in-the-world#:~:text=6.%C2%A0Stokes%20Croft%20and%20St%20Paul%E2%80%99s), leftist, slightly batty.
 
 	* A lot of direct action, [good](https://www.youtube.com/watch?v=cs36SAytfuE) and [bad](https://www.bristolworld.com/news/turbo-island-will-it-be-another-tesco-mixed-reaction-to-work-to-clear-up-crime-hotspot-3897106).
-	* One of the last places where advertising is viewed as pollution (a 2003-era opinion I miss)
+	* https://en.wikipedia.org/wiki/Carol_Vorderman#Political_views
+	* https://en.wikipedia.org/wiki/Bristol_Bus_Boycott
+	* One of a tiny number of places with a Green MP.
+	* "Bristol Central has also been reported to be the most pro-immigration constituency in the United Kingdom; 55 per cent of voters wanted fewer controls" 
+	* One of the last places where advertising is viewed as pollution (a 2003-era opinion I miss).
 
-<img src="/img/ttip.png" />
-
+<center>
+	<img src="/img/ttip.png" />
+</center>
 <br>
 
 * By value, about 4% of the world's arms exports are made here. (Missiles are expensive.) "[Aerospace](https://aerospacebristol.org/)" and aerospace. First [shot tower](https://en.wikipedia.org/wiki/Cheese_Lane_Shot_Tower) in the world (1782). They had [a plane company](https://en.wikipedia.org/wiki/Bristol_Aeroplane_Company) in 1910, one year after Roe. First British helicopter. The first or second turbojet. First proper British [SAM](https://en.wikipedia.org/wiki/Bloodhound_(missile)). One of the Concorde prototypes was built in Filton. It's pretty near the great nefarious government installation [Porton Down](https://en.wikipedia.org/wiki/Porton_Down) too.
+
 <br>
 
 <img src="/img/arms.png"	/>
@@ -58,6 +65,8 @@ I lived in Bristol for 5 years, including one _total_ year (in lockdown). This i
 <img src="/img/weber.png" />
 
 <br>
+
+* It's an imperial place. Packed with amazing Victorian buildings. About 4% of all Transatlantic slaves went through Bristol. [Cabot sailed from Bristol](https://en.wikipedia.org/wiki/John_Cabot).
 
 * You can walk across the whole city in 2 hours. During Covid I sometimes did.
 
@@ -69,15 +78,15 @@ I lived in Bristol for 5 years, including one _total_ year (in lockdown). This i
 
 * Paul Graham is nearby and sometimes [moans about it](https://x.com/paulg/status/1449704795510562818).
 
-* Knowle "Wild" West used to be one of the hardest places in the country. Tricky came up there and never really recovered. It's still [bottom decile](https://data.cdrc.ac.uk/dataset/index-multiple-deprivation-imd), now it's just grim in a Monkey Dust way, weed and TV life or 10 year olds on mini-motorbikes on the barrelling down the pavement onto you. "It's shit, but it's what I like". The last time in my life I got called names in the street was in Knowle. ("_Bosnia and Beirut have had a bit of work done to be fair, Knowle West has been left to rot._")
+* Knowle "Wild" West used to be one of the hardest places in the country. Tricky came up there and never really recovered. It's still [bottom decile](https://data.cdrc.ac.uk/dataset/index-multiple-deprivation-imd), now it's just grim in a Monkey Dust way, weed and TV life or 10 year olds on mini-motorbikes barrelling down the pavement onto you. "It's shit, but it's what I like". The last time in my life I got called names in the street was in Knowle. ("_Bosnia and Beirut have had a bit of work done to be fair, Knowle West has been left to rot._")
 
 * It's wetter than UK average, which takes some doing. (I love rain. It means you don't have to go outside.)
 
 * I'm used to the highlands, and by that measure this is a tropical paradise.
 
-* It's an imperial place. About 4% of all Transatlantic slaves went through Bristol. [Cabot sailed from Bristol](https://en.wikipedia.org/wiki/John_Cabot).
+<br>
 
-* 71,000 students at the two mega-universities - 15% of the population. 
+* 71,000 students at the two mega-universities - 15% of the city population. 
 
 * The university (UoB) is like any other: huge, bloated, straining from the essential tension of three  dissimilar groups sharing power: bureaucrats, chaos monkey students, and the herd of cats academics. The university logo recognises three rich families:
 	<!-- * It took them 6 months to issue my PhD after the successful viva. -->
