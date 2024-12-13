@@ -15,16 +15,28 @@ visible:	false
 {%	assign tree = "https://neurotree.org/neurotree/tree.php?pid=933951&pnodecount=12&cnodecount=2"	%}
 
 <style>
-	{%	include researches/papers.css	%}
+	.title {
+		font-size: 24pt;
+		font-style: italic;
+		font-family: "Essays 1743", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+		text-shadow: 5px 0px 10px #167;
+	}
 </style>
 
+<center>
+	<a href="/files/thesis.pdf">
+		<img width="50%" src="/img/thesis.png" />
+	</a>
+	<br><br>
+	Supervised by <a href="{{la}}">Laurence Aitchison</a>
+</center>
 
 <br>
 
-I did a PhD in machine learning at Bristol with <a href="{{la}}">Laurence Aitchison</a>, 2019–2024. (Includes a year of mandatory classes and a year off in which I started <a href="https://arbresearch.com">Arb</a>.)<br>
+I did a PhD in 2019–2024. (This includes a year of mandatory classes and a year off, in which I started <a href="https://arbresearch.com">Arb</a>.)<br>
 
 
-I went in wanting to work on AI safety. True to form, I instead ended up with a grab-bag of fields and topics: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, scientific malpractice, inductive logic, algorithmic fairness and (of course) large language models. Some safety work in there if you squint. But I published enough, so the resulting thesis is <i><a href="/files/thesis.pdf">Methods Failing the Data, Data Failing the Methods</a></i>. <a href="#fn:1" id="fnref:1">1</a>
+I went in wanting to work on AI safety. True to form, I instead ended up with a grab-bag of fields and topics: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, scientific malpractice, inductive logic, algorithmic fairness and (of course) large language models. Some safety work in there if you squint. But I published enough, so the resulting thesis is <i><a href="/files/thesis.pdf">Methods Failing the Data, Data Failing the Methods</a></i>. 
 
 It looks like a success on the usual bad measures. But I didn't go into it for poxy numbers or a mere job; I went in become a great scientist. Obviously this did not happen. 
 
@@ -46,6 +58,7 @@ _Undying thanks to Kristi Laurence Jan Jan Juan Tomáš Rian Matthijs Misha Dani
 * <a href="/thesis">My thesis in plain language
 	* You can also just click "The Point" on the entries <a href="/researches">here</a>
 	* <a href="/theorysis">Things I wanted to do for it but didn't</a>
+<br><br>
 * <a href="/csml">Thoughts on the field of machine learning</a>
 * <a href="/diary">phdiary</a>
 * <a href="{{tree}}">My academic family</a>. Darwin is my great^10th grandfather.
@@ -109,14 +122,3 @@ _Undying thanks to Kristi Laurence Jan Jan Juan Tomáš Rian Matthijs Misha Dani
 </style>
 
 
-
-<div class="footnotes">
-
-<ol>
-    <!-- 1 -->
-    <li class="footnote" id="fn:1">
-        Laurence made me change the official title to "Modern Scientific Workflow" to save face but you and I both know what the real title is. 
-    </li>
-
-</ol>
-</div>
