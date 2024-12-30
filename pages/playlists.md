@@ -243,7 +243,7 @@ visible:  false
 <div class="column is-narrow">
     <a href="https://open.spotify.com/playlist/3Piy98SXjEeHeGKtmVsetr">
         <div class="playlist-img">
-            <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8418c969e522447e34445bba8d">
+            <img src="/img/sunfucker.jpg">
         </div>
         <div class="playlist-info">
             <div class="playlist-title">
@@ -371,6 +371,30 @@ visible:  false
         </div>
     </a>
 </div>
+
+
+<div class="column is-narrow">
+    <a href="https://open.spotify.com/playlist/5NHxPsd9FE58hnvRVGlBRZ">
+        <div class="playlist-img">
+            <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c9e81f232ee3470603aea323b">
+        </div>
+        <div class="playlist-info">
+            <div class="playlist-title">
+                za/um
+                          <br><br>
+              <small>
+                TEN BRAINS HYPERTHREADING
+              </small>
+            </div>
+            <div class="playlist-details">
+                1 followers
+                <br>
+                90 tracks
+            </div>
+        </div>
+    </a>
+</div>
+
 
 <div class="column is-narrow">
     <a href="https://open.spotify.com/playlist/7dEuT2UzucOzsoVLxtnyhD">
@@ -540,7 +564,8 @@ visible:  false
                 transed
                           <br><br>
               <small>
-                among the only people in modern society who undertake a mortifying and harrowing coming of age ritual that ends with choosing a new identity and induction into a rarefied community
+                who undertake a harrowing coming of age ritual choosing a new identity 
+                and induction into a rarefied community
               </small>
             </div>
             <div class="playlist-details">

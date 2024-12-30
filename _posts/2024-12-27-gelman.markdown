@@ -1,0 +1,189 @@
+---
+layout:     math_post
+title:      "The best of Andrew Gelman"
+baselink:   /gelman
+permalink:  /gelman
+date:       2024-12-27
+author:     Gavin   
+img:        "/img/gelman.png"
+
+visible:    1
+published:  false
+
+summary:    an unusually complete rundown including papers
+quality:    5
+importance: 5
+emotion:    4
+wordcount:      
+categories: science, philosophy, lists, bloggers, greats
+where:      "Tallinn, Estonia"
+---
+
+https://archive.is/KmJgi
+https://www.washingtonpost.com/people/andrew-gelman/
+
+
+I have trouble with communities. I have libertarian friends but am not one. 
+I have many EA friends but am not one. 
+<!-- I am philosophically a rationalist but have never lived in the hubs or gone to Rationalist meetups. -->
+I spend time doing research and teaching in universities but I'm not an academic.
+Most days I do not feel at all Scottish.
+And I don't yet feel worthy of the title 'computer scientist'.
+
+But one thing I cannot deny is that I am a [Gelmanian](https://en.wikipedia.org/wiki/Andrew_Gelman). I learned more about statistics from his blog than from my stats degree. I never did a psychology degree but I suspect reading his blog was better than doing one. My thesis cites him 44 times. What iconoclastic, omniglot schtick I have I picked up after realising he could do it. 
+
+I picked up some of this from Taleb but Gelman is a much more serious thinker.
+
+A lot of his most important work is just working papers hosted on his site, not even on arXiv.
+
+
+
+<br>
+
+> Analysis without numbers is only an opinion. 
+
+<center>- David Akin</center>
+
+<br>
+
+The habit of just writing a little script to check. This is conspicuously absent on even the very best discussion sites, like LessWrong, and on Marginal Revolution.
+
+
+<br>
+
+## Blog
+
+ A. Gelman.
+ The feather, the bathroom scale, and the kangaroo.
+ Statistical Modeling, Causal Inference, and Social Science blog, 2015b.
+ URL https://statmodeling.stat.columbia.edu/2015/04/21/
+ feather-[]bathroom-[]scale-[]kangaroo/.
+
+A. Gelman.
+ Why is the scientific replication crisis centered on psychology?
+ Statistical Modeling, Causal Inference, and Social Science, 2016.
+ URL https://statmodeling.stat.columbia.edu/2016/09/22/
+ why-[]is-[]the-[]scientific-[]replication-[]crisis-[]centered-[]on-[]psychology.
+
+ Andrew Gelman.
+ The folk theorem of statistical computing.
+ "https://statmodeling.stat.columbia.edu/2008/05/13/the_folk_theore/", May
+ 2008b.
+
+
+ Andrew Gelman.
+ The syllogism that ate social science.
+ "http://andrewgelman.com/2018/04/28/syllogism-[]ate-[]social-[]science/", 2018.
+
+
+## Papers
+
+[The garden of forking paths: Why multiple comparisons can be a problem](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf) (2013)
+
+
+[Holes in bayesian statistics](https://arxiv.org/abs/2002.06467) (2020).
+
+You really, really shouldn't use flat priors.
+
+>  (1) the usual rules of conditional probability fail in the quantum realm, (2) flat or weak priors lead to terrible inferences about things we care about, (3) subjective priors are incoherent, (4) Bayesian decision picks the wrong model, (5) Bayes factors fail in the presence of flat or weak priors, (6) for Cantorian reasons we need to check our models, but this destroys the coherence of Bayesian inference.
+
+
+Balazs Aczel, Rink Hoekstra, Andrew Gelman, Eric-Jan Wagenmakers, Irene G Klugkist, Jeffrey N Rouder, Joachim Vandekerckhove, Michael D Lee, Richard D Morey, Wolf Vanpaemel, et al.
+ [Discussion points for bayesian inference.](https://www.nature.com/articles/s41562-019-0807-z) (2020)
+ 
+
+ Stephen P Brooks and Andrew Gelman.
+ General methods for monitoring convergence of iterative simulations.
+ Journal of computational and graphical statistics, 7(4):434–455, 1998.
+
+
+ A. Gelman.
+ The connection between varying treatment effects and the crisis of unreplicable research: A
+ bayesian perspective.
+ 
+ 
+ 
+ A. Gelman and J. Carlin.
+Beyond power calculations: Assessing type s (sign) and type m (magnitude) errors.
+ Perspectives on Psychological Science, 2014.
+ doi: https://doi.org/10.1177/1745691614551642.
+
+
+ A Gelman and J Hill.
+ Causal inference using regression on the treatment variable.
+
+ A Gelman and E Lokem.
+ The statistical crisis in science data-dependent analysis—a ‘garden of forking paths’—explains
+
+
+
+ Gelman, A. and Skardhamar, T. and Aaltonen, M. 2017
+  Type M Error Might Explain Weisburd’s Paradox
+  Journal of Quantitative Criminology
+  https://doi.org/10.1007/s10940-017-9374-5
+
+
+ Objections to Bayesian statistics (2008)
+
+ 
+ Andrew Gelman.
+ Criticism as asynchronous collaboration: An example from social science research.
+ 
+ 
+ Andrew Gelman and Donald B Rubin.
+ Inference from iterative simulation using multiple sequences.
+ Statistical science, 7(4):457–472, 1992.
+ 
+
+ Andrew Gelman, Xiao-Li Meng, and Hal Stern.
+ Posterior predictive assessment of model fitness via realized discrepancies.
+ Statistica sinica, pages 733–760, 1996a.
+ 
+ Andrew Gelman, Gareth O Roberts, and Walter R Gilks.
+ Efficient metropolis jumping rules.
+
+
+ Andrew Gelman, Aki Vehtari, Daniel Simpson, Charles C. Margossian, Bob Carpenter, Yuling Yao,
+ Lauren Kennedy, Jonah Gabry, Paul-Christian Bürkner, and Martin Modrák.
+ Bayesian workflow, 2020b.
+ 
+
+ Matthew D. Hoffman and Andrew Gelman.
+ The no-u-turn sampler: Adaptively setting path lengths in hamiltonian monte carlo, 2011.
+ 
+
+ Jessica Hullman, Sayash Kapoor, Priyanka Nanayakkara, Andrew Gelman, and Arvind Narayanan.
+ The worst of both worlds: A comparative analysis of errors in learning from data in psychology
+ and machine learning.
+ In Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society, pages 335–348,
+ 2022.
+
+
+ E. Loken and A. Gelman.
+ Measurement error and the replication crisis.
+ Science, 2017.
+ 
+
+ Blakeley B. McShane, David Gal, Andrew Gelman, Christian Robert, and Jennifer L. Tackett.
+ Abandon statistical significance.
+ The American Statistician, 2019.
+ doi: 10.1080/00031305.2018.1527253.
+ 
+
+ Sara Steegen, Francis Tuerlinckx, Andrew Gelman, and Wolf Vanpaemel.
+ Increasing transparency through a multiverse analysis.
+ Perspectives on Psychological Science, 11(5):702–712, 2016.
+ 
+ Aki Vehtari, Andrew Gelman, Daniel Simpson, Bob Carpenter, and Paul-Christian Bürkner.
+ Rank-normalization, folding, and localization: An improved Rˆ for assessing convergence of MCMC.
+ Bayesian Analysis, (-1), Jan 2021.
+ 
+
+ Yuling Yao, Aki Vehtari, Daniel Simpson, and Andrew Gelman.
+ Yes, but did it work?: Evaluating variational inference.
+ 
+ Jon Zelner, Julien Riou, Ruth Etzioni, and Andrew Gelman.
+ Accounting for uncertainty during a pandemic.
+ 
+
+<br><br>

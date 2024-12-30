@@ -5,7 +5,7 @@ baselink:   /blogging-theory-of-everything
 permalink:  /blogging-theory-of-everything
 date:       2024-11-07
 author:     Gavin   
-img:        /img/
+img:        /img/yg.png
 
 visible:    1
 published:  true
