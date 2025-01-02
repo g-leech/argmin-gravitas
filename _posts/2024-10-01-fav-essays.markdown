@@ -20,11 +20,12 @@ where:      "Bristol, Taipei"
 ---
 
 
-> what is the literary tradition out of which I'm working? the form that releases my best intelligence... The motor of the novel is story; the motor of the essay is thought... The world exists. Why re-create? I want to think about it, try to understand it. What I am is a wisdom junkie, knowing all along that wisdom is, in many ways, junk. I want a literature built entirely out of contemplation and revelation... I don't seek to narrate time but to investigate existence. Time must die.
+> what is the literary tradition out of which I'm working? The form that releases my best intelligence... The motor of the novel is story; the motor of the essay is thought... The world exists. Why re-create? I want to think about it, try to understand it. What I am is a wisdom junkie, knowing all along that wisdom is, in many ways, junk. I want a literature built entirely out of contemplation and revelation... I don't seek to narrate time but to investigate existence. Time must die.
 
-- David Shields
+<center>-- David Shields</center>
 
-<br>
+<br><br>
+
 
 <a href="https://www.goodreads.com/user/show/68316850-gavin">I'm into books</a>. But overall I have probably learned more from essays: blogposts, magazine articles, zines, pamphlets, megathreads. I have probably read 25,000 of them, for instance. (Between 2012 and 2014 I worked in a bookshop and read all of the great aggregators of the day - Arts and Letters Daily, 3QuarksDaily, Longform.org, Kottke, MR, Hacker News).
 

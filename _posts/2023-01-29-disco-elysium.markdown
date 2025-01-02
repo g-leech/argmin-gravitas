@@ -12,7 +12,7 @@ published:  true
 
 summary:    Messy thoughts on the best work of political fiction of recent decades
 confidence: 
-quality:    7
+quality:    9
 importance: 5
 emotion:    8
 wordcount:  5000
@@ -303,7 +303,7 @@ The remarkable thing is that KHTK can depict humanity's prey relationship to ide
 > We did not want a commercial paracosm. It was un-Hegelian. We wanted a quasi-sacral object complex. All that is interesting and terrible about history – and only that... As Soviet artists – perhaps the last Soviet artists – it was our duty to add to the relay. To keep history moving. Onward to the outer cosmos and the stars.
 
 
-(The game allows socialist players to indulge in unreconstructed, untroubled, C19th socialism - which is one reason it is so beloved online, and oddly commercially successful. But even in _that_ playthrough it takes a lot to ignore the tragedy of the students and the deserter.)
+(The game allows socialist players to indulge in unreconstructed, untroubled, C19th imperial socialism - which is one reason it is so beloved online, and oddly commercially successful. But even in _that_ playthrough it takes a lot to ignore the tragedy of the students and the deserter.)
 
 > Do you believe the status quo is preferable to chaos and bloodshed?<br>
 > \> No.<br>
@@ -314,7 +314,7 @@ The remarkable thing is that KHTK can depict humanity's prey relationship to ide
 or in an alternative timeline: 
 
 > Do you believe the status quo is preferable to chaos and bloodshed?<br>
-> Yes. <br>
+> \> Yes. <br>
 > There you have it. Sometimes holding the line is progress.
 
 

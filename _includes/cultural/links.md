@@ -1,3 +1,4 @@
+{%	assign chapin = "https://sashachapin.substack.com/p/how-to-like-everything-more"	%}
 {%	assign sense = "https://www.lesswrong.com/posts/273Fg7Wig5ufTHpN6/training-regime-day-6-seeking-sense"	%}
 {%	assign tc = "https://marginalrevolution.com/marginalrevolution/2018/12/deconstructing-cultural-codes.html"	%}
 {%	assign zohar = "https://twitter.com/ZoharAtkins/status/1442147987484971012"	%}

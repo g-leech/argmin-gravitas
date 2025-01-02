@@ -164,7 +164,7 @@ Choosing a field (a career) is a kind of bet. In fact it's the largest bet you e
 Still, I ended up not doing an alignment PhD, instead getting a weird interdisciplinary methodology phd with ML assumptions. 
 <!-- Akrasia. -->
 
-(The self-serving story for why I worked very hard on anything except machine learning is that I am unable to compartmentalise my horror of its worst-case prospects. I feel that people should not work on it, and so I don't. <a href="#fn:1" id="fnref:1">1</a>)
+(The self-serving story for why I worked very hard on anything except machine learning is that I am unable to compartmentalise my horror of its worst-case prospects. I feel that people should not work on it (yet), and so I don't. <a href="#fn:1" id="fnref:1">1</a>)
 <!-- I find the technology more disgusting than fascinating, though it is fascinating. -->
 
 Another reason it was hard is that I actually just don't like working at the maths/code interface and I do maths with slight reluctance, like eating my spinach. A couple of well-meaning people tried to dissuade me from a research career as a result, but I hated them so intensely for saying it that I made them become wrong.
@@ -563,7 +563,7 @@ Ever so indirectly, I even achieved most of my initial goals (and many, many sur
             <li>If I had focussed and stuck to my initial priorities (and if I was better at programming) I would have produced something like my contemporary <a href="{{lind}}">David Lindner's work</a> on RL. (The funny thing is that this would have been a good result: RL looped back around to being supremely useful, through RLHF on LLMs)</li>
             <li>To conduct and publish research takes quite deep self-esteem. One big reason people drop out is they don't manage to get a positive feedback loop going from idea to execution to more ideas.</li>
             <li>Sink or swim. I did both</li>
-            <li>The Scylla of loneliness and floundering and the Charybdis of mandatory training, compelled speech, and bureaucratic pseudosocial</li>
+            <li>The Scylla of loneliness and floundering and the Charybdis of mandatory training, compelled speech, and bureaucratic pseudosociality</li>
 
         </ul>
     </div>
