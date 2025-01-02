@@ -1,0 +1,65 @@
+---
+layout:     post
+title:      "Taipei"
+baselink:   /tp
+permalink:  /tp
+date:       2025-01-31
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+quality:    
+
+summary:    
+confidence: 
+importance: 3
+wordcount:  
+categories: 
+where:      "Tallinn"
+---
+
+
+Poet: 
+
+Novelist: 
+
+Plays: 
+
+Art music: 
+
+Popular music: 
+
+Venue: 
+
+Philosopher: 
+
+Scientist: 
+
+Videogame:
+
+Eccentric: 
+
+Walk: 
+
+Comedian: 
+
+Director: 
+
+Film:
+
+TV: 
+
+Videogame:
+
+Actor: 
+
+Entrepreneur: 
+
+Church: 
+
+Restaurant: 
+
+Bookshop: 
+
+Cafe: 
