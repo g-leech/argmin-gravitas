@@ -25,7 +25,7 @@ wordcount:
 
 A thesis is nominally a __unified__ contribution to knowledge. Something new, several pieces of knowledge all pointing in the same direction. I am not focussed enough to do this. 
 
-It's also a big claim. I obviously had to retrodict a single big claim, and surely most people do the same. 
+It's also "a big claim". I obviously had to retrodict a single big claim, and surely most people do the same. 
         <!-- - [[concocting a coherent PhD (2023)]] -->
 
 

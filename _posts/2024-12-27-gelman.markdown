@@ -7,7 +7,7 @@ date:       2024-12-27
 author:     Gavin   
 img:        "/img/gelman.png"
 
-visible:    1
+visible:    0
 published:  false
 
 summary:    an unusually complete rundown including papers
