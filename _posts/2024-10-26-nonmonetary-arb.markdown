@@ -44,6 +44,8 @@ Many entrepreneurs are instead seeking their great Exit - want that generational
 
 So why isn't this the default move for the smart and lucky? Most obviously, few people have the savings to buy plant and ride out the dry periods. Then there's risk aversion and hatred of variance. Maybe something about the so-called "tyranny of choice" for some people: you do have to make a lot more decisions. Some probability of failure (_zero_ money); income variance; 3% of clients are unreasonable and aggravating even if you ; serious paperwork with severe penalties for screwing it up; reduced feedback (power dynamics; no mentoring; no positive management; no performance review to actually help you).
 
+So probably 80% of people would be unhappy with these "perks". In the median case, they are things you think you want but end up suffering more from.
+
 <br><br>
 
 <div class="footnotes">
