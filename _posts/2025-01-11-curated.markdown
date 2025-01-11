@@ -12,7 +12,6 @@ published:  true
 
 summary:    
 quality:    6
-importance: 5
 emotion:    9
 wordcount:      
 categories: fiction
