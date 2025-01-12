@@ -7,11 +7,12 @@ date:       2024-12-27
 author:     Gavin   
 img:        "/img/gelman.png"
 
-visible:    0
+visible:    1
 published:  false
 
 summary:    an unusually complete rundown including papers
 quality:    5
+importance: 5
 emotion:    4
 wordcount:      
 categories: science, philosophy, lists, bloggers, greats
