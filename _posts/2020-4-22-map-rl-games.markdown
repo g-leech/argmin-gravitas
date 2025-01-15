@@ -234,6 +234,7 @@ What to call the topic in common? 'Distributed optimisation'? '<a href="{{cadam}
 * _<a href="{{cosma}}">In Soviet Russia, Optimisation Problem Solves You</a>_ (2012)
 * _<a href="{{gt}}">An Analysis of Stochastic Game Theory for Multiagent
 Reinforcement Learning</a>_ (2000)
+* [Ivan](https://x.com/IvanVendrov/status/1876638778238046422)
 * _<a href="https://twitter.com/lpachter/status/1734657309966778393">The virial theorem and the Price equation</a>_ (2023)
 * _<a href="{{egt}}">Learning Through Reinforcement and Replicator Dynamics</a>_ (1997)
 * _<a href="{{dmdp}}">Decentralized partially-observable Markov decision process</a>_
