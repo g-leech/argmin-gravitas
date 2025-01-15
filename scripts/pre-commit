@@ -10,5 +10,6 @@
 rm -r _site
 rm -r .jekyll-cache
 WC=$(find . -type f ! -path "./img/*" ! -path "./.git/*" ! -path "./rotproofLinks/*" ! -path "./files/*" ! -path "./.jekyll-cache/*" -exec wc -w {} + | tail -n1 | awk '{print $1;}')
-echo "{{" $WC "| thousands_separated }}" > _includes/wc.html
+tweetwords=120000 # as of Jan 2025
+echo "{{" $(($WC + $tweetwords)) "| thousands_separated }}" > _includes/wc.html
 git add _includes/wc.html

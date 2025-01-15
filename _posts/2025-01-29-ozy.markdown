@@ -1,0 +1,45 @@
+---
+layout:     post
+title:      "The best of Ozy Brennan"
+baselink:   /ozy
+permalink:  /ozy
+date:       2024-11-07
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+quality:    
+
+summary:    
+confidence: 
+importance: 5
+wordcount:  
+categories: science, philosophy, lists, bloggers
+where:      "Taipei"
+---
+
+https://thingofthings.wordpress.com/2018/12/28/the-irrationalfic-manifesto/
+
+https://thingofthings.wordpress.com/2017/11/17/entitlement-covert-contracts-social-libertarianism-and-related-concepts/
+
+<a href="https://thingofthings.wordpress.com/2015/10/19/kintsugi/">Kintsugi</a><span>. About the experience of coming to terms with being chronically mentally ill.
+
+<a href="https://thingofthings.wordpress.com/2014/11/01/the-forks-model-of-disability/">Forks Model of Disability.</a><span>
+
+<a href="https://thingofthings.wordpress.com/2014/11/15/the-curb-cut-effect-or-why-it-is-basically-impossible-to-appropriate-from-disabled-people/">The Curb Cut Effect</a><span>.
+
+<a href="https://thingofthings.wordpress.com/2018/12/13/scrupulosity-sequence-3-load-bearing-things/">Load Bearing Things</a><span>. Solving the obvious problems with your mental health. 
+
+<a href="https://thingofthings.wordpress.com/category/dbt/">The DBT Sequence</a><span>. A series summarizing what I learned in dialectical behavior therapy, an evidence-based treatment for borderline personality disorder. 
+
+<strong>Transness</strong></p><p><a href="https://thingofthings.wordpress.com/2015/01/28/cis-by-default/">Cis By Default</a><span>. Probably the single concept I’ve developed that people have most resonated with!
+
+<a href="https://thingofthings.wordpress.com/2018/06/18/man-should-allocate-some-more-categories/">Man Should Allocate Some More Categories</a><span>. On the epistemology of transness. 
+
+<strong>Ethics/Effective Altruism</strong></p><p><a href="https://thingofthings.wordpress.com/2016/04/21/sacred-values-are-how-ethical-injunctions-feel-from-the-inside/">Sacred Values Are What Ethical Injunctions Feel Like From The Inside</a><span>.
+
+<a href="https://thingofthings.wordpress.com/2015/12/16/we-can-be-heroes/">We Can Be Heroes</a><span>, or why you should be an effective altruist.
+
+<a href="https://thingofthings.wordpress.com/2017/02/28/vegetarianism-the-easy-way/">Vegetarianism: The Easy Way</a><span>.
+
