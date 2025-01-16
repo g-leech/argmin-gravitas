@@ -1,13 +1,13 @@
 /**
  * Site header
  */
-.site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+ .site-header {
+    border-top: 5px solid var(--grey-color-dark);
+    border-bottom: 5px solid var(--grey-color-dark);
+    /* border-bottom: 1px solid var(--grey-color-light); */
     min-height: 87px;
-
-    // Positioning context for the mobile navigation icon
-    position: relative;
+	background:#006800;
+    /* position: relative; */
 }
 
 .headText {
@@ -20,11 +20,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
+    color: var(--grey-color-dark);
 }
 
 .site-nav {
@@ -38,16 +34,12 @@
     }
 
     .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
-
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
-        }
+        color: var(--text-color);
+        line-height: var(--line-height);
+        margin-left: 20px;
     }
 
-    @include media-query($on-palm) {
+    /* @include media-query($on-palm) {
         position: absolute;
         top: 25%;
         right: 0%;
@@ -88,7 +80,7 @@
             display: block;
             padding: 5px 10px;
         }
-    }
+    } */
 }
 
 
@@ -96,7 +88,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: var(--spacing-unit) 0;
 }
 
 .page-heading {
@@ -110,13 +102,13 @@
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
+        margin-bottom: var(--spacing-unit);
     }
 }
 
 .post-meta {
-    font-size: $small-font-size !important;
-    color: $grey-color !important;
+    font-size: var(--small-font-size) !important;
+    color: var(--grey-color) !important;
 }
 
 
@@ -125,7 +117,7 @@
 
     &:hover {
         text-decoration: none !important;
-        color: $text-color !important;
+        color: var(--text-color) !important;
     }
 }
 
@@ -146,7 +138,7 @@ tr.spaced > td {
 
 
 .post-header{
-	padding: $spacing-unit 0em;
+	padding: var(--spacing-unit) 0em;
 }
 
 .post-title {
@@ -158,36 +150,6 @@ tr.spaced > td {
         font-size: 36px;
     }
 }
-
-.post-content {
-    margin-bottom: $spacing-unit;
-
-    h2 {
-        font-size: 32px;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
-
-    h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
-    }
-
-    h4 {
-        font-size: 20px;
-
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
-    }
-}
-
-
 
 .PageNavigation {
   font-size: 14px;

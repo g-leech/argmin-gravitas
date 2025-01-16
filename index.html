@@ -131,11 +131,6 @@ visible:  false
 	width: 75%;
 	}
 
-	.fancy {
-		font-family: "Didot", "Times New Roman", Times, serif;
-	/*  font-size: 29pt;*/
-	}
-
 	#sim {
 		margin-left: auto;
 		margin-right: auto;
@@ -212,13 +207,13 @@ visible:  false
     {% endfor %}
 </section>
 
-<h2 class="fancy">
-	<div style="display: flex; gap: 1em">
+<h3 class="fancy">
+	<div style="display: flex; gap: 1em; margin-bottom: 2em;">
 		<a href="{{ "/archive" | prepend: site.url }}">[See all posts];</a>
 		<a href="{{ "/tags" | prepend: site.url }}">[by topic];</a>
 		<a href="{{ "/importance" | prepend: site.url }}">[by importance]</a>
 	</div>
-</h2>
+</h3>
 
 </style>
 

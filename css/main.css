@@ -1,0 +1,101 @@
+@import "base.css";
+@import "layout.css";
+@import "syntax-highlighting.css";
+
+:root{
+
+	--font-family: Helvetica, Arial, sans-serif;
+	--font-size: 17px;
+	--small-font-size: calc(var(--font-size) * 0.875);
+	--line-height: 1.5em;
+
+	--spacing-unit: 30px;
+
+	--text-color: #111;
+	--white: #FFF;
+	--bg-color: #fdfdfd;
+	--theme-color: #2b661a;
+
+	--grey-color: #828282;
+	--grey-color-lught: #82828277;
+	--grey-color-lught: #82828244;
+
+	--pak-green: #006800;
+}
+
+.tabContent {
+    display: none;
+}
+
+
+body {
+    cursor: pointer, auto;
+      /* url("https://d2kq0urxkarztv.cloudfront.net/633f75f0c2ef250029321aa5/image-d47e08e0-e0ec-4d34-97a2-45434a68a055.png") */
+  }
+
+h1, h2, h3, h4 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+h2{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	font-size: 2em;
+}
+
+ul {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-top: 20px;
+}
+
+blockquote { 
+    border-left:3px solid #FAC342; 
+    margin-left: 15px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    /* #FF851B;  */
+}
+
+.post-title {
+    font-family: "Didot", "Times New Roman", Times, serif;
+}
+
+.site-title {
+    font-family: "Didot", "Times New Roman", Times, serif;
+    font-size: 29px;
+}
+
+a {
+    text-decoration-thickness: 12%;
+    text-underline-offset: 2.5px;
+}
+
+.note {
+    margin-bottom: 20px;
+    margin-top: 0px;
+    border-radius: 0px;
+}
+
+.note .insides{padding:40px;}
+
+.note .title{
+    font-size:120%;
+    
+    padding-left:14px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    margin-top:20px;
+    
+    color:white;
+    background:cornflowerblue
+}
+
+.fancy {
+	font-family: "Didot", "Times New Roman", Times, serif;
+}

@@ -19,6 +19,12 @@ source ~/.bashrc
 jekse
 ```
 
+### work that matters
+[ ] make everything mobile friendly
+[ ] set up a proper typography scale and spacing system (this might make br tags take up too much space)
+[ ] better site architecture (i have a long list)
+[ ] 
+
 ### major changes
 
 [x] got rid of 7.1MB (???) SVG for the Album of the Year icon 
@@ -30,28 +36,32 @@ jekse
 [x] remove need for .phone_img class by setting max height for images
 [x] make green dropdowns not have yellow underline and poor hover effect
 [x] make blogroll [/blogroll] page nicer (why doesn't it have an H1?)
+[x] <a> tags need to break at some point to prevent overflow on mobile
+[x] [/importance] H2 underlines are ugly
 
 
+## next up
 
+[ ] migrate from scss to modern css
 [ ] make comment form nicer
+[ ] make tables scroll horizontally on mobile
+[ ] make best [/best] page neater + better for mobile
+
 [ ] change dropdown and mce to use details element and no JS
 [?] make images expand on clicking them
 [ ] make archive [/archive] page neater + better for mobile
-[ ] make best [/best] page neater + better for mobile
-[ ] [/importance] H2 underlines are ugly
 [ ] metadata section on post pages could look better
 [ ] hamburger menu can be better
-[ ] make tables scroll horizontally on mobile
 [ ] is the script for accordions being cached?
+[ ] pages with missing titles on the Archive page's Pages section
 
 
 ## typography
-
-[ ] better styles for H2 (color: green?)
-[?] better-looking blockquotes for epigraphs
-[?] paragraph tags need saner margins
-[ ] headings need better margins
-[ ] <a> tags need to break at some point to prevent overflow on mobile
+[ ] create a new typography system, including:
+	[ ] better styles for H2 (color: green?)
+	[?] better-looking blockquotes for epigraphs
+	[?] paragraph tags need saner margins
+	[ ] better margins for headings
 
 
 ## to fix on mobile
@@ -63,8 +73,3 @@ jekse
 [ ] definitely saner paddings on p tags
 [ ] blogroll
 [ ] archive page
-
-
-## issues
-[ ] home page looks different due to flexbox vs. table
-[ ] remove underlines from footer links
