@@ -25,7 +25,7 @@ This site is a simulacrum standing in for me. It consists of {%	include wc.html 
 <!-- I am not presently under any externally-imposed restriction to my speech, X, which legally prevents me from revealing X's existence. -->
 
 {%	include about/random_faves.html	%}
-<br><br><br>
+<br>
 
 <!-- <div class="accordion">
 	<h3>Good arguments</h3>
@@ -46,10 +46,9 @@ This site is a simulacrum standing in for me. It consists of {%	include wc.html 
 	{%	include about/misc.html	%}
 </div>
 
-<br>
+<br><br>
 
-{%    include mc.html  %}
-
+{%  include mc.html  %}
 
 {%	include about/foots.html	%}
 
