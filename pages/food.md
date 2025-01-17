@@ -50,8 +50,10 @@ visible:    false
 * Nutritional yeast on rye bread
 * Bloody mary ketchup
 * More garlic than you can believe
+* bamboo ginger in brine
 * only potato
 
+* Purple taro milk
 * White pomelo
 * Yanzhi gan lu (杨枝甘露)
 * Raasiku kali 
@@ -75,6 +77,7 @@ visible:    false
 * Rishi's, Aberdeen
 <!-- * Mestizo, London -->
 * MUME, Taipei
+* 临湖素食 (The Lakeside Veggie), Shanghai
 * Kailash Momo, London
 * Mama Chang, Fairfax
 <!-- * Wolkite, London -->
@@ -135,7 +138,6 @@ It's hard to choose between Sichuan and Mexico for #1 so I guess I choose the in
 6. Hunan (10)
 5. Neapolitan* (200)
 6. Cantonese* (500)
-5. Korean* (100)
 8. North Indian (300)
 9. Japanese* (300)
 7. Vietnamese (50)

@@ -19,6 +19,7 @@ warnings:
 wordcount:  5300
 categories: travel, becoming
 argument:	
+where: 		"Elgin"
 ---
 
 

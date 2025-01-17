@@ -1,0 +1,150 @@
+---
+layout:     post
+title:      "Bristol"
+baselink:   /bristol
+permalink:  /bristol
+date:       2024-11-29
+author:     Gavin   
+img:        /img/bris.png
+
+visible:    1
+published:  true
+quality:    4
+
+summary:    Reviewing my third alma mater
+confidence: 
+importance: 2
+wordcount:  
+categories: places, phd
+where:      "Taipei"
+---
+
+<center>
+	<img width="70%" src="/img/stokes.png" />
+</center>
+
+
+<br>
+
+I lived in Bristol for 5 years, including one _total_ year (in lockdown). As long as I've chosen to live anywhere. Assorted notes:
+
+<br>
+
+* "The British Seattle"
+	* Port; wet; scruffy; cool; a small big city; [asabiyah](https://en.wikipedia.org/wiki/Bristol_underground_scene); just-off-centre of the musical history of the world. 
+	* Both have strong computer science departments. (Though UoW is top 10 in the world where UoB is top 100.) Microsoft HQ.
+	* When I make my geographical playlists, I often strain to find a distinctive sound. No need here: you already know the new sounds Bristol produced in the 80s and 90s (trip-hop, jungle, dream pop-space rock, dubstep):
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2Jt0cpjzYrQ26fx2iFSKue?utm_source=generator" width="100%" height="752" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+
+* It's a _Guardian_ town, by which I mean comfortable, [aesthete](https://www.timeout.com/travel/coolest-neighbourhoods-in-the-world#:~:text=6.%C2%A0Stokes%20Croft%20and%20St%20Paul%E2%80%99s), leftist, slightly batty.
+
+	* A lot of direct action, [good](https://www.youtube.com/watch?v=cs36SAytfuE) and [bad](https://www.bristolworld.com/news/turbo-island-will-it-be-another-tesco-mixed-reaction-to-work-to-clear-up-crime-hotspot-3897106).
+	* https://en.wikipedia.org/wiki/Carol_Vorderman#Political_views
+	* https://en.wikipedia.org/wiki/Bristol_Bus_Boycott
+	* One of a tiny number of places with a Green MP.
+	* "Bristol Central has also been reported to be the most pro-immigration constituency in the United Kingdom; 55 per cent of voters wanted fewer controls" 
+	* One of the last places where advertising is viewed as pollution (a 2003-era opinion I miss).
+
+<center>
+	<img src="/img/ttip.png" />
+</center>
+<br>
+
+* By value, about 4% of the world's arms exports are made here. (Missiles are expensive.) "[Aerospace](https://aerospacebristol.org/)" and aerospace. First [shot tower](https://en.wikipedia.org/wiki/Cheese_Lane_Shot_Tower) in the world (1782). They had [a plane company](https://en.wikipedia.org/wiki/Bristol_Aeroplane_Company) in 1910, one year after Roe. First British helicopter. The first or second turbojet. First proper British [SAM](https://en.wikipedia.org/wiki/Bloodhound_(missile)). One of the Concorde prototypes was built in Filton. It's pretty near the great nefarious government installation [Porton Down](https://en.wikipedia.org/wiki/Porton_Down) too.
+
+<br>
+
+<img src="/img/arms.png"	/>
+<br>
+
+<img src="/img/weber.png" />
+
+<br>
+
+* It's an imperial place. Packed with amazing Victorian buildings. About 4% of all Transatlantic slaves went through Bristol. [Cabot sailed from Bristol](https://en.wikipedia.org/wiki/John_Cabot).
+
+* You can walk across the whole city in 2 hours. During Covid I sometimes did.
+
+* The Somerset [accent](https://www.youtube.com/watch?v=GOHvGSUr5lU) has the misfortune of being associated with slowness and pirates. Rhotic. [The phantom L](https://www.youtube.com/watch?v=OyKzYBRfyfw). [Stephen Merchant](https://www.youtube.com/watch?v=LBrKh4sxOEU). Blackbeard. [Tricky](https://www.youtube.com/watch?v=1W2S10nPt5c). Quite close to Hot Fuzz. 
+
+* Redland is the nicest place I've ever lived. Bizarrely quiet for a "big" city.
+
+* In defiance of (British) common sense they put [the ring road](https://en.wikipedia.org/wiki/The_Bearpit,_Bristol) in the centre of town. (There is the A4174 as well but it's a useless half-loop.)
+
+* Paul Graham is nearby and sometimes [moans about it](https://x.com/paulg/status/1449704795510562818).
+
+* Knowle "Wild" West used to be one of the hardest places in the country. Tricky came up there and never really recovered. It's still [bottom decile](https://data.cdrc.ac.uk/dataset/index-multiple-deprivation-imd), now it's just grim in a Monkey Dust way, weed and TV life or 10 year olds on mini-motorbikes barrelling down the pavement onto you. "It's shit, but it's what I like". The last time in my life I got called names in the street was in Knowle. ("_Bosnia and Beirut have had a bit of work done to be fair, Knowle West has been left to rot._")
+
+* It's wetter than UK average, which takes some doing. (I love rain. It means you don't have to go outside.)
+
+* I'm used to the highlands, and by that measure this is a tropical paradise.
+
+<br>
+
+* 71,000 students at the two mega-universities - 15% of the city population. 
+
+* The university (UoB) is like any other: huge, bloated, straining from the essential tension of three  dissimilar groups sharing power: bureaucrats, chaos monkey students, and the herd of cats academics. The university logo recognises three rich families:
+	<!-- * It took them 6 months to issue my PhD after the successful viva. -->
+	* [Wills](https://en.wikipedia.org/wiki/W.D._%26_H.O._Wills) (sun, first mass producer of cigarettes, "From the early 20th century, one of the most recognized cigarette brands in China. In Chinese it was commonly referred to as 'lao dao pai', meaning 'Old Knife Brand'"), 
+	* [Fry](https://en.wikipedia.org/wiki/J._S._Fry_%26_Sons) (horse, the first chocolate bar) 
+	* and until this year, also [Colston](https://en.wikipedia.org/wiki/Edward_Colston) the slaver (dolphin).
+
+<br><br>
+
+* **Art**: [James Baxter](https://en.wikipedia.org/wiki/James_Baxter_(animator)). (Banksy is shit, but to his credit he doesn't take himself [seriously](https://en.wikipedia.org/wiki/Exit_Through_the_Gift_Shop) despite the whole world doing so.)
+
+<center>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/5osZk9Mw94w?si=UfcEAJGobmgpNdav" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+<br>
+
+* **Poet**: [Thomas Chatterton](https://www.poetryfoundation.org/poems/43924/aella-a-tragical-interlude) or [Isaac Rosenberg](https://www.poetryfoundation.org/poems/44989/god-56d2244bc338c)
+
+* **Novelist**: Angela Carter
+
+* **Plays**: I don't rate Stoppard but we can claim him.
+
+* **Art music**: Mark Stewart. Robert Wyatt.
+
+* **Popular music**: Robert Wyatt. Mark Stewart. 
+
+* **Venue**: [The Thekla](https://www.theklabristol.co.uk/)
+
+* **Philosopher**: James Ladyman is in residence.
+
+* **Scientist**: Dirac.
+
+* **Self-experimenter**: [Michael Dillon](https://en.wikipedia.org/wiki/Michael_Dillon), "The First Man-Made Man". Notable 1946 book on the right to transition.
+
+* **Walk**: Ashton Court Estate (the deer)
+
+* **Comedian**: It's a [Chris Morris](https://en.wikipedia.org/wiki/Chris_Morris_(satirist)) kind of town. He did his [first radio shows](https://www.youtube.com/watch?v=qqSK5AdUVSk) here until he got fired for it.
+
+* **Director**: [Alastair Fothergill](https://en.wikipedia.org/wiki/Alastair_Fothergill) or [Peter Lord](https://en.wikipedia.org/wiki/Peter_Lord).
+
+* **Film**: [Planet Earth II](https://en.wikipedia.org/wiki/Planet_Earth_II)
+
+* **TV**: [Skins](https://en.wikipedia.org/wiki/Skins_(British_TV_series)) and [The Young Ones](https://en.wikipedia.org/wiki/The_Young_Ones_(TV_series)).
+
+* **Videogame**: _Wildermyth_.
+
+* **Actor**: Cary Grant.
+
+* **Entrepreneur**: [Colin Needham](https://www.bristolpost.co.uk/news/celebs-tv/story-behind-bristol-based-imdb-25097)
+
+* **Church**: mostly terrible. The [St Peter and Paul cathedral](https://cliftoncathedral.org/stream) is stunningly ugly on the outside, but the plain white concrete interior is excellent.
+
+* **Restaurant**: Bulrush. Suyuan for regular consumption. 
+
+* **Bookshop**: No standout. 
+
+* **Cafe**: Burra
+<!-- East Village Café -->
+
+
+<br><br>

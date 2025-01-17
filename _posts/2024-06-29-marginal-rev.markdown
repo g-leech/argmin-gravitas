@@ -27,4 +27,4 @@ wordcount:
 
 ## See also
 
-* https://danfrank.ca/my-favourite-tyler-cowen-posts-and-ideas/
+*  https://danfrank.ca/my-favourite-tyler-cowen-posts-and-ideas/

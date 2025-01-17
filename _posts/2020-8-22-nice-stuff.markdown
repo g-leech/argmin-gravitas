@@ -151,6 +151,8 @@ _Expected lifespan_: Forever.
 
 * <a href="{{alac}}">Alacritty</a> (£0).
 
+* https://github.com/BurntSushi/ripgrep
+
 * This blog is hosted on <a href="https://www.netlify.com/">Netlify</a>, they are amazing and free for small fry.<br>
 
 * <a href="{{ether}}">Wire up your laptop for calls</a> (£5). Who knows how much social difficulty in your life is due to people disliking latency on your calls? Replace the cable every couple years just in case.
@@ -303,6 +305,7 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 * <a href="{{mm}}">Megan McArdle's kitchen</a>
 * <a href="{{yuriy}}">Yuriy 1</a>, * <a href="{{yuriy2}}">Yuriy 2</a>
 * <a href="{{arjun}}">Arjun Panickssery</a>
+* <a href="https://chisness.substack.com/p/automate-the-food">Max Chiswick</a>
 * <a href="{{schif}}">Ben Schifman</a>
 * <a href="{{berg}}">Aaron Bergman</a>
 * <a href="{{v}}">Vitalik on tour</a>

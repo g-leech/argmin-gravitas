@@ -8,6 +8,13 @@ visible:	false
 
 {%  include about/links.html  %}
 
+
+<!-- <style>
+  h1::after {
+     width: 0%;
+  }
+</style>
+
 <br>
 
 <center>
@@ -181,7 +188,7 @@ Solving little computational maths problems. Gimmick is I don't import anything.
 <br>
 
 
-<!-- <center>
+<center>
   <h1>
   &nbsp;&nbsp;
    📈 Stats 📈 
@@ -196,7 +203,7 @@ Solving little computational maths problems. Gimmick is I don't import anything.
 <hr />
 
 <br>
- -->
+
 <center>
   <h1 class="titl">
 
@@ -216,11 +223,10 @@ Solving little computational maths problems. Gimmick is I don't import anything.
     {%  include cv/forrt.html  %}
     {%  include cv/80k.html  %}
     {%  include cv/pibbss.html  %}
-    <!-- %  include cv/ment.html  % -->
-    {%  include cv/critcont.html  %}
-    {%  include cv/aisc.html  %}
-    {%  include cv/offroad.html  %}
-    <!--  -->
+     %  include cv/ment.html  % 
+    %  include cv/critcont.html  %}
+    %  include cv/aisc.html  %}
+    %  include cv/offroad.html  %}
     <li>
       <div>
         <time>
@@ -239,7 +245,7 @@ Solving little computational maths problems. Gimmick is I don't import anything.
 <br><br>
 
 <hr />
-
+ -->
 <br><br>
 
 <center>

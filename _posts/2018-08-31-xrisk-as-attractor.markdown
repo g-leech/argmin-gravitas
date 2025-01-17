@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Existential risk as common cause"
+title:      "A common cause in a general end"
 baselink:   /x-for-all
 permalink:  /x-for-all
 date:       2018-10-17
@@ -12,11 +12,11 @@ visible: 		1
 
 summary:    Why many views should prioritise preventing the worst events.
 confidence:	70%.
-quality: 		7
+quality: 		6
 emotion: 		4
 categories: longtermism, philosophy, xrisk
 importance: 10
-pride: 			9
+pride: 			7
 wordcount: 	1000
 cross:			https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause
 ---

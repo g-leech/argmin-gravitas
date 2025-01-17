@@ -26,7 +26,7 @@ podcast: 	https://castbox.fm/episode/Why-is-quality-rare--id4445969-id407530093?
 
 <center>
 	<blockquote>χαλεπὰ τὰ καλά. (Beauty is hard.)</blockquote>
-	– Solon or Plato
+	– Plato
 </center>
 
 <br>

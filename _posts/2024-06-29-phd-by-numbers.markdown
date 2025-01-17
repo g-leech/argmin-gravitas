@@ -79,7 +79,7 @@ It's supposed to take >10000 hours. <a href="#fn:1" id="fnref:1">1</a> You can d
 
 This is pretty rough, inferred from my mood tracker and, later (from 2022 on), actually counted on my hours tracker at Arb.
 
-This is just hours above baseline, where the baseline is the pretty intense infovore habit I conduct at all times unprompted, c. 7 hours a day.
+This is just hours above baseline, where the baseline is the pretty intense infovore habit I conduct at all times unprompted, c. 5 hours a day.
 
 <br>
 

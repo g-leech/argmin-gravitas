@@ -17,6 +17,7 @@ categories: music, lists
 warnings:   
 importance: 3
 wordcount:      
+where:      "Tallinn"
 ---
 
 {%  assign inv = "https://www.inverse.com/input/culture/obsessed-listening-spying-strangers-old-spotify-playlists" %}
@@ -42,6 +43,7 @@ wordcount:
 {%  assign evans = "https://open.spotify.com/user/1258508389?si=3c9661dd7d5b4299"   %}
 {%  assign rockwell = "https://www.nytimes.com/2006/12/24/books/review/Lopate.t.html"  %}
 {%  assign prin = "https://www.markprindle.com/"  %}
+{%  assign tried = "https://techcrunch.com/2010/04/27/major-update-from-spotify-introduces-new-social-features/" %}
 
 
 <img src="/img/minutes.png" />
@@ -174,7 +176,8 @@ Frankly we need critical service more than we need another great band. <a href="
 <ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
-        The exception is the 1st of December, when <a href="{{wr}}">lots</a> of people are genuinely <a href="{{shos}}">excited</a> to share their Wrapped statistics, to say something about themselves with the data.
+        The exception is the 1st of December, when <a href="{{wr}}">lots</a> of people are genuinely <a href="{{shos}}">excited</a> to share their Wrapped statistics, to say something about themselves with the data.<br><br>
+        I should also note that it <a href="{{tried}}">tried</a> to be a social media platform in 2010.
     </li>
     <li class="footnote" id="fn:2">
         Actually I think there's a decent amount of unsupervised learning in it now. Certainly there are plenty of <a href="{{pave}}">emergent things</a> which deviate from the normal canon.

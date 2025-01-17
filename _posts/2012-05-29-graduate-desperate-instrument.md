@@ -19,6 +19,7 @@ warnings:
 wordcount:  400
 categories: becoming, work, philosophy, academia, effective-altruism
 argument:	
+where: 		"Aberdeen"
 ---
 
 <div align="center">
