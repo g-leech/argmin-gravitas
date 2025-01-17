@@ -16,6 +16,7 @@ confidence: N/A
 importance: 3
 wordcount:  
 categories: navel-gazing, becoming, art
+where:      "Bristol"
 ---
 
 {%	assign gla = "https://www.argyllhotelglasgow.co.uk/glasgow-coat-of-arms.htm#:~:text=There%E2%80%99s%20the%20tree%20that%20never%20grew%2C"	%}

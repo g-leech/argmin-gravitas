@@ -16,6 +16,7 @@ confidence: 80%.
 importance: 6
 wordcount:  
 categories:	effective-altruism, poverty
+where:      "Nassau"
 ---
 
 

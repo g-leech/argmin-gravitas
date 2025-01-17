@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "words, words, words"
+baselink:   /words
+permalink:  /words
+date:       2024-11-07
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+quality:    
+
+summary:    
+confidence: 
+importance: 6
+wordcount:  
+categories: 
+---
+
+
+* _blaked_: to be tricked into thinking that an AI system is sentient. After Blake Lemoine (who is hardly patient zero, but named himself).
+
+* _nerve networks_: the old name for neural nets.
+
+* _relo_: relocation.
+
+* _disparitism_: the view that any difference in outcomes between groups is proof of oppression.

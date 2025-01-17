@@ -17,6 +17,7 @@ confidence: Artefact from a confused young man. As of 2024, poptimism won a crus
 importance: 2
 wordcount:  
 argument:   
+where:      "Aberdeen"
 ---
 
 <!-- <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3pv9u21kv_wHYDxnB2NtS9XYdi3O8K7i45KK4wzMlZB-62zTK5piIyfuOTXDnbeDZ_1CvZNAB9cw8p2jBciMqpDK7hjQq9XhkeVALJnlPSA8DHb8Qxv0BxPABdn0W6ta-5Oh44RkT7lwv/s1600/2840529980084705349YixFjb_ph.jpg"><img alt="" border="0" height="400" id="BLOGGER_PHOTO_ID_5520856756690539186" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3pv9u21kv_wHYDxnB2NtS9XYdi3O8K7i45KK4wzMlZB-62zTK5piIyfuOTXDnbeDZ_1CvZNAB9cw8p2jBciMqpDK7hjQq9XhkeVALJnlPSA8DHb8Qxv0BxPABdn0W6ta-5Oh44RkT7lwv/s400/2840529980084705349YixFjb_ph.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" width="530" /></a> -->

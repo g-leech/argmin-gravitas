@@ -23,7 +23,9 @@ wordcount:
 
 <br>
 
-> The writer who confesses that he is ‘not good at attention to detail’ is like a pianist who admits to being tone deaf. Broad sweeps are valueless. Unless an author has explored his terrain thoroughly, how will he be reasonably sure that his central thesis cannot be overturned? Facts count. Tentative theorizing may have a minor role once research paths have been exhausted but, as a general principle, rumour and guesswork, those tawdry journalistic mainstays, have no place in historical writing of any kind. . . .
+> The writer who confesses that he is ‘not good at attention to detail’ is like a pianist who admits to being tone deaf. Broad sweeps are valueless. Unless an author has explored his terrain thoroughly, how will he be reasonably sure that his central thesis cannot be overturned? Facts count. Tentative theorizing may have a minor role once research paths have been exhausted but, as a general principle, rumour and guesswork, those tawdry journalistic mainstays, have no place in historical writing of any kind...
+
+- Edward Winter
 
 You don't often hear people justify studying STEM subjects. This is because one benefit is obvious: their instrumental power, and so their economic gain, and so the inheritance of the stars. (Also you don't have to compete anywhere near as hard for jobs or postings.)
 

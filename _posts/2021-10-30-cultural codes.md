@@ -246,6 +246,7 @@ What will you like? What will you understand?
 * <a href="{{sense}}">Seeking Sense</a>
 * <a href="{{coz}}">Comfort Zone Expansion</a>
 * <a href="{{zohar}}">Zohar Atkins</a> trying to explain dense and repugnant thinkers in plain and alluring terms.
+* <a href="{{chapin}}">The skill of liking</a>
 * <a href="{{call}}">Callard on aspiring</a>, <a href="{{list}}">Callard's own idioms</a>
 * <a href="{{logan}}">Logan on poetry</a>
 * <a href="/bootstraps">On self-invention more generally</a>
