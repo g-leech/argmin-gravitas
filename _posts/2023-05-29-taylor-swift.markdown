@@ -598,5 +598,5 @@ Washed up and ranting about the same old bitter things
 </div>
 
 <style>
-    .noline { text-decoration: none }
+    /* .noline { text-decoration: none } */
 </style>

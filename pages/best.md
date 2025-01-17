@@ -10,25 +10,22 @@ visible:  false
 <div class="home">
 	  <h1>Particularly good posts:</h1>
     <br>
-    <table>
+    <div style="display: flex; flex-direction: column; gap: 2.5em">
       {% for post in site.posts %}
       	{% if post.quality > 6 %}
-	       	<tr class="spaced">
-	          <td style="width:50%;">
-              {{ post.date | date: "%B %Y" }}<br>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-              {{ post.title }}</a>
-              <br>
-            </td>
-	          <td> 
-              <small>
-                <i>{{ post.summary }}</i>
-                <br>
-              </small> 
-            </td>
-	        </tr>
+			<div>
+				<div>
+					{{ post.date | date: "%B %Y" }}<br>
+					<a style="font-size: 1.6em" href="{{ post.url | prepend: site.baseurl }}">
+						{{ post.title }}
+					</a>
+				</div>
+				<small>
+					<i>{{ post.summary }}</i>
+				</small> 
+			</div>
         {% endif %}
-        {% if forloop.last %}</table>{% endif %}
+        {% if forloop.last %}</div>{% endif %}
       
       {% endfor %}
       

@@ -19,7 +19,6 @@ I don't really understand how people pick two "research interests". My two resea
 
 <br>
 This site is a simulacrum standing in for me. It consists of {%	include wc.html 	%} words including about 1100 <a href="{{grrr}}">book reviews</a>. No text computer-generated unless explicitly indicated. All text subject to change. I am not presently under any externally-imposed restriction to my speech which legally prevents me from revealing its existence. I specifically authorise you to plagiarise my posts.
-
 <br><br>
 
 
@@ -29,10 +28,6 @@ The most loved book I hate is Gibran's _[The Prophet](https://www.goodreads.com/
 <br>
 
 {%	include about/random_faves.html	%}
-<br><br>
-
-
-
 <br>
 
 <!-- <div class="accordion">
@@ -54,13 +49,11 @@ The most loved book I hate is Gibran's _[The Prophet](https://www.goodreads.com/
 	{%	include about/misc.html	%}
 </div>
 
-<br><br><br>
+<br><br>
 
-{%    include mc.html  %}
-
+{%  include mc.html  %}
 
 {%	include about/foots.html	%}
 
 
 
-{%	include padder.html 	howMuch=6	%}

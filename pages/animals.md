@@ -5,12 +5,6 @@ permalink:  /specie/
 visible:    false
 ---
 
-<style>
-    a {
-        text-decoration: none;
-    }
-</style>
-
 ## Eukaryotes
 
 * [Starlings](https://www.youtube.com/watch?v=eakKfY5aHm), _[Sturnus vulgaris](https://www.inverse.com/article/41538-starlings-swarm-rome-sky-reddit-photo)_
@@ -52,4 +46,3 @@ visible:    false
 * Psephophorus terrypratchetti.
 
 
-{%  include padder.html     howMuch=11  %}

@@ -58,7 +58,5 @@ visible:	false
 		<br><br>
 	</div>
 	</div>
-
-
 </div>
 

@@ -21,10 +21,8 @@ visible:	true
 {%  assign dubs = "https://open.spotify.com/playlist/1z49SUEtGIJZuyhmj00hqa?si=80c07a1e89604308"	%}
 {%  assign landfill = "https://open.spotify.com/playlist/56qHq7Mp5Pzs9QpbilOd2K?si=f6e9a4dc7f424efd" %}
 
-
-<br>
-
 ## Listen
+
 
 * <a href="{{album}}">Albums</a><br><br>
 * <a href="/playlists">Playlists</a><br><br>
@@ -34,38 +32,38 @@ visible:	true
 
 ## Read
 
-* <a href="/quotations">Remarks</a><br><br>
-* <a href="/books">Books</a><br><br>
-* <a href="/technicalities">Technical books</a><br><br>
-* <a href="/blogroll">Blogs</a><br><br>
-* <a href="/best">Posts</a><br><br>
-* <a href="/papers">Papers</a><br><br>
-* <a href="/tweets">Tweets</a><br><br>
+* <a href="/quotations">Remarks</a>
+* <a href="/books">Books</a>
+* <a href="/technicalities">Technical books</a>
+* <a href="/blogroll">Blogs</a>
+* <a href="/best">Posts</a>
+* <a href="/papers">Papers</a>
+* <a href="/tweets">Tweets</a>
 * <a href="/journos">Journos</a>
-<!-- * <a href="/poems">Poems</a><br><br> -->
+<!-- * <a href="/poems">Poems</a> -->
 
 <br>
 
 ## Gawk
 
-* <a href="{{filum}}">Films</a>, <a href="{{tv}}">tv</a><br><br>
-* <a href="/specie">Species</a><br><br>
-* <a href="{{gam}}">Games</a>, <a href="{{boa}}">games</a><br><br>
+* <a href="{{filum}}">Films</a>, <a href="{{tv}}">tv</a>
+* <a href="/specie">Species</a>
+* <a href="{{gam}}">Games</a>, <a href="{{boa}}">games</a>
 <!-- 
-\* memes<br><br>
-\* art<br><br>
-\* photography<br><br>
+\* memes
+\* art
+\* photography
  -->
+ 
 <br>
 
 ## Misc
 
-* <a href="/food">Food</a>, <a href="{{resto}}">resto</a><br><br>
-* <a href="/stuff">Goods</a><br><br>
-* <a href="/deaths">Obituaries</a><br><br>
+* <a href="/food">Food</a>, <a href="{{resto}}">resto</a>
+* <a href="/stuff">Goods</a>
+* <a href="/deaths">Obituaries</a>
 * <a href="/favs/all">Misc</a>
 
 
 
 
-{%	include padder.html 	howMuch=9	%}
