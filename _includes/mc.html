@@ -1,117 +1,51 @@
 {%	assign pod = "https://castbox.fm/channel/argmin-gravitas-id4445969"	%}
 
-<script>
-	function drop() {
-    	document.getElementById("myDropdown").classList.toggle("show");
-  	}
-	// Close the dropdown menu if the user clicks outside of it
-  	window.onclick = function(event) {
-	    if (!event.target.matches('.dropped')) {
-	      var dropdowns = document.getElementsByClassName("dropdown-content");
-	      var i;
-	      for (i = 0; i < dropdowns.length; i++) {
-	        var openDropdown = dropdowns[i];
-	      }
-	    }
-	}
-</script>
-
-<style>
-	.dropdown {
-	  display: inline-block;
-	  padding: 0;
-	}
-
-	.dropdown-content {
-	  display: none;
-	  z-index: 1;
-	}
-
-	.dropdown-content {
-	  padding-left: 16px;
-	}
-
-	.show {
-		display:block;
-	}
-
-	@media screen and (min-width: 600px)  {
-        .break { display: none; }
-    }
-
-</style>
-
-
-
 <!-- Begin Mailchimp Signup Form -->
-<div id="mc_embed_signup">
-	<form action="https://protonmail.us1.list-manage.com/subscribe/post?u=bc9cb67ac84bed1e6702919e5&amp;id=69c3ece977" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-		<h3>
-			   subscribe:<br class="break"><br class="break">
-			   
-			   <a href="{{ '/feed.xml' | prepend: site.url }}">[RSS]</a> 
-			    <a href="{{ '/feed.xml' | prepend: site.url }}" style="text-decoration: none">
-			   		<span class="icon">
-				      <svg class="svg-icon" fill="black" viewBox="50 85 400 400">
-			        	<path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></path>
-			      	  </svg>
-			       </span>
-			    </a>
-
-
-			    / 
-			    <br class="break">
-			    <a href="{{pod}}">[podcast]</a> 
-			    <a href="{{pod}}" style="text-decoration: none">
-			   		<span class="icon">
-				      <svg class="svg-icon" fill="black" viewBox="55 2 500 500">
-			        	<path d="M326.656,327.771v48.254c64.861-17.174,112.814-76.348,112.814-146.532c0-83.578-67.996-151.574-151.575-151.574
-		c-83.578,0-151.574,67.997-151.574,151.574c0,70.184,47.957,129.362,112.816,146.532v-48.254
-		c-39.144-15.492-66.916-53.69-66.916-98.278c0-58.269,47.405-105.674,105.674-105.674c58.268,0,105.674,47.405,105.674,105.674
-		C393.57,274.081,365.797,312.279,326.656,327.771z"/>
-						<path fill="#000000" d="M517.391,229.494C517.391,102.951,414.439,0,287.896,0S58.402,102.951,58.402,229.494
-							c0,113.331,82.592,207.672,190.732,226.153v-46.715c-82.678-17.842-144.833-91.502-144.833-179.438
-							c0-101.234,82.36-183.594,183.594-183.594c101.235,0,183.594,82.36,183.594,183.594c0,87.936-62.154,161.596-144.834,179.438
-							v46.715C434.797,437.166,517.391,342.824,517.391,229.494z"/>
-						<path fill="#000000" d="M264.435,379.246v32.291v46.26v117.996h46.918V457.797v-46.26v-32.291v-46.734v-31.906
-							c2.617-0.867,5.168-1.873,7.65-3.012c2.631-1.209,5.193-2.545,7.65-4.035c21.643-13.146,36.135-36.944,36.135-64.065
-							c0-41.298-33.596-74.896-74.896-74.896c-41.301,0-74.894,33.599-74.894,74.896c0,27.121,14.489,50.921,36.135,64.065
-							c2.458,1.492,5.019,2.83,7.65,4.035c2.481,1.139,5.034,2.145,7.65,3.012v31.906V379.246z M259.958,221.844
-							c0.75-2.732,1.885-5.3,3.354-7.65c5.125-8.207,14.217-13.697,24.584-13.697c10.368,0,19.459,5.49,24.584,13.697
-							c1.465,2.35,2.604,4.917,3.354,7.65c0.67,2.442,1.059,5,1.059,7.65c0,6.34-2.068,12.194-5.535,16.971
-							c-5.273,7.271-13.812,12.023-23.461,12.023c-9.648,0-18.186-4.755-23.461-12.023c-3.467-4.776-5.536-10.63-5.536-16.971
-							C258.899,226.844,259.288,224.286,259.958,221.844z"/>
-			      	  </svg>
-			       </span>
-			    </a>
-			    
-		    
-			/ 
-			<br class="break">
-
-			<label for="mce-EMAIL"><a class="dropped" href="javascript:drop()">[email]</a></label>&nbsp;
-			<a class="dropped" href="javascript:drop()">
-				<span class="icon icon-envelop">
-	            <svg viewBox="0 0 32 32">
-	              <path fill="#000000" d="M29 4h-26c-1.65 0-3 1.35-3 3v20c0 1.65 1.35 3 3 3h26c1.65 0 3-1.35 3-3v-20c0-1.65-1.35-3-3-3zM12.461 17.199l-8.461 6.59v-15.676l8.461 9.086zM5.512 8h20.976l-10.488 7.875-10.488-7.875zM12.79 17.553l3.21 3.447 3.21-3.447 6.58 8.447h-19.579l6.58-8.447zM19.539 17.199l8.461-9.086v15.676l-8.461-6.59z" />
-	            </svg>
-	            </span>
-	        </a>
-		</h3>
+	<h3 class="fancy">
+		Subscribe through	
+		<a href="{{ '/feed.xml' | prepend: site.url }}" style="color: #e99148">
+			RSS
+			<span class="icon"><svg class="svg-icon" fill="currentColor" viewBox="100 100 400 400"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></path></svg></span></a>, 
+		as a 
 		
-	<br>
-	<div id="myDropdown" class="dropdown-content">
-		<input type="email"  style="font-size: 24pt" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email" required>
+		<a href="{{pod}}" style="color: #8c39c1">Podcast
+				<span class="icon">
+					<svg class="svg-icon" fill="currentColor" viewBox="55 2 550 550">
+				<path d="M326.656,327.771v48.254c64.861-17.174,112.814-76.348,112.814-146.532c0-83.578-67.996-151.574-151.575-151.574
+c-83.578,0-151.574,67.997-151.574,151.574c0,70.184,47.957,129.362,112.816,146.532v-48.254
+c-39.144-15.492-66.916-53.69-66.916-98.278c0-58.269,47.405-105.674,105.674-105.674c58.268,0,105.674,47.405,105.674,105.674
+C393.57,274.081,365.797,312.279,326.656,327.771z"/>
+				<path fill="#currentColor" d="M517.391,229.494C517.391,102.951,414.439,0,287.896,0S58.402,102.951,58.402,229.494
+					c0,113.331,82.592,207.672,190.732,226.153v-46.715c-82.678-17.842-144.833-91.502-144.833-179.438
+					c0-101.234,82.36-183.594,183.594-183.594c101.235,0,183.594,82.36,183.594,183.594c0,87.936-62.154,161.596-144.834,179.438
+					v46.715C434.797,437.166,517.391,342.824,517.391,229.494z"/>
+				<path fill="#currentColor" d="M264.435,379.246v32.291v46.26v117.996h46.918V457.797v-46.26v-32.291v-46.734v-31.906
+					c2.617-0.867,5.168-1.873,7.65-3.012c2.631-1.209,5.193-2.545,7.65-4.035c21.643-13.146,36.135-36.944,36.135-64.065
+					c0-41.298-33.596-74.896-74.896-74.896c-41.301,0-74.894,33.599-74.894,74.896c0,27.121,14.489,50.921,36.135,64.065
+					c2.458,1.492,5.019,2.83,7.65,4.035c2.481,1.139,5.034,2.145,7.65,3.012v31.906V379.246z M259.958,221.844
+					c0.75-2.732,1.885-5.3,3.354-7.65c5.125-8.207,14.217-13.697,24.584-13.697c10.368,0,19.459,5.49,24.584,13.697
+					c1.465,2.35,2.604,4.917,3.354,7.65c0.67,2.442,1.059,5,1.059,7.65c0,6.34-2.068,12.194-5.535,16.971
+					c-5.273,7.271-13.812,12.023-23.461,12.023c-9.648,0-18.186-4.755-23.461-12.023c-3.467-4.776-5.536-10.63-5.536-16.971
+					C258.899,226.844,259.288,224.286,259.958,221.844z"/>
+				</svg></span></a>, 
 
-    	<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    	<div style="position: absolute; left: -5000px;" aria-hidden="true">
-    		<input type="text" name="b_bc9cb67ac84bed1e6702919e5_69c3ece977" tabindex="-1" value="">
-    	</div>
-    		<input type="submit"  style="font-size: 24pt" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-    	</div>
-    </div>
-</form>
-</div>
+		or by 
+		<a href="https://eepurl.com/hv0kgb" style="color: #ca5546"> 
+			Email
+			<span class="icon">
+				<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" width='42' height='42' viewBox="5 32 240 240"><path d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48Zm-96,85.15L52.57,64H203.43ZM98.71,128,40,181.81V74.19Zm11.84,10.85,12,11.05a8,8,0,0,0,10.82,0l12-11.05,58,53.15H52.57ZM157.29,128,216,74.18V181.82Z"></path></svg>
+			</span>
+		</a>
+	</h3>
 
+		
+	
+	<!-- <input type="email"  style="font-size: 24pt" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email" required>
+
+	<div style="position: absolute; left: -5000px;" aria-hidden="true">
+		<input type="text" name="b_bc9cb67ac84bed1e6702919e5_69c3ece977" tabindex="-1" value="">
+	</div>
+		<input type="submit"  style="font-size: 24pt" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+	</div> -->
+	
 

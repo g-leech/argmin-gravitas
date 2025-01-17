@@ -67,7 +67,7 @@ I don't listen to her for historical satisfaction. What I love about it are the 
 
 ## Man vs Life
 
-<img class="lazy" data-src="/img/hoom/big.png" >
+<img loading="lazy" data-src="/img/hoom/big.png" >
 
 A type of love pointedly missing in the above rundown is <i>empathic</i> love. Where <i>Ys</i> burbled with anthropomorphisations, companion animals, and a general affinity with the universe, <i>Have One on Me</i>, while still full of nature, is much more about the Rancher (a lonesome, domineering social product nestling in a hostile world). It's sensual, snug, and macabre where _Ys_ was abstract, epic, and pure.
 
@@ -118,7 +118,7 @@ The significance is that the animals are <i>aspects</i> of the human characters.
 <br><br>
 
 <center>
-	<img class="lazy" data-src="/img/hoom/rous.jpg" width="80%" /><br>
+	<img loading="lazy" data-src="/img/hoom/rous.jpg" width="80%" /><br>
 	<small>Henri Rousseau, "The Dream" (1910)</small>
 </center>
 <br>
@@ -160,7 +160,7 @@ The album has an arc: from the courting of "Easy" to the final moving out of the
 ## Disc 1
 
 <center>
-	<img class="lazy" data-src="/img/hoom/disc1.png" width="40%" />
+	<img loading="lazy" data-src="/img/hoom/disc1.png" width="40%" />
 </center>
 <br>
 
@@ -204,7 +204,7 @@ Chamber -&gt; Old chamber -&gt; Harp
 ## Disc 2
 
 <center>
-	<img class="lazy" data-src="/img/hoom/disc2.jpg" width="50%" />
+	<img loading="lazy" data-src="/img/hoom/disc2.jpg" width="50%" />
 </center>
 <br>
 
@@ -246,7 +246,7 @@ Harp -&gt; Harp n horns -&gt; rustic Chamber-&gt; Harp -&gt; Harp -&gt; Piano
 ## Disc 3
 
 <center>
-	<img class="lazy" data-src="/img/hoom/disc3.jpg" width="40%" />
+	<img loading="lazy" data-src="/img/hoom/disc3.jpg" width="40%" />
 </center>
 <br>
 
@@ -322,4 +322,3 @@ Criticism criticism: -->
 
 
 {%	include hoom/foots.html	%}
-{% 	include lazyload.html 	%}

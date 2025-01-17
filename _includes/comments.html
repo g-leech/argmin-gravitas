@@ -2,51 +2,40 @@
 
 
 <div class="accordion">
-  <h3>Comments</h3>
-  <div>
-
-
-  {% if site.data.comments[slug] %}
-    {% assign comments = site.data.comments[slug] | sort %}
-
-    {% for comment in comments %}
-      <br>
-      <b>{{ comment[1].name }}</b> commented on <em>{{ comment[1].date | date: "%d %B %Y" }}</em> :
-      <p><blockquote>{{ comment[1].message | markdownify }}</blockquote></p>
-      <hr>
-    {% endfor %}
-  {% endif %}
-
-  <br>
-  <div style="padding:20px; padding-bottom: 80px; text-align: center;">
-  <big>Post a comment:</big><br><br>
-
-    <form name="{{slug}}" netlify>
-      <p>
-        <label>Name &nbsp; <input type="text" name="name" /></label>
-      </p>
-      <p>
-        <label>Email &nbsp; <input type="email" name="email" /></label>
-      </p>
-      <p>
-        <span style="font-color:gray">
-          <small>Comments appear after moderation. use markdown.</small>
-          <br>
-          <small>Page just refreshes after successful submit.</small>
-        </span>
-      </p>
-      <p>
-        <label><textarea name="message" cols="30" rows="6"></textarea></label>
-      </p>
-      <br>
-      <p>
-        <button type="submit">Send</button>
-      </p>
-    </form>
-
-  </div>
+  	<h3>Comments</h3>
   
-  </div>
-</div>
+  	<div>
+		<div class="comments">
+			{% if site.data.comments[slug] %}
+				{% assign comments = site.data.comments[slug] | sort %}
 
-<br>
+				{% for comment in comments %}
+
+				<b>{{ comment[1].name }}</b> commented on <em>{{ comment[1].date | date: "%d %B %Y" }}</em> :
+					<p>
+						<blockquote>{{ comment[1].message | markdownify }}</blockquote>
+					</p>
+				<hr>
+				{% endfor %}
+			{% endif %}
+		</div>
+
+		<h4> Post a comment </h4>
+
+		<form name="{{slug}}" netlify>
+			<label>Name &nbsp; <input type="text" name="name" /></label>
+			<label>Email &nbsp; <input type="email" name="email" /></label>
+			
+			<p style="font-color:gray">
+				<small>Comments appear after moderation. use markdown.</small>
+				<br>
+				<small>Page just refreshes after successful submit.</small>
+			</p>
+
+			<label><textarea name="message" cols="30" rows="6"></textarea></label>
+
+			<button type="submit">Send</button>
+		</form>
+	</div>
+
+</div>

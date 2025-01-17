@@ -10,7 +10,7 @@ layout: default
      }   
 
     
-   h1:after, h2::after, h3::after {
+   h1:after, h2::after {
      content: "";
      width: 5%;
      height: .1em;
@@ -20,8 +20,7 @@ layout: default
      
      position: absolute;
      bottom: -2px;
-     left: 0;
-     
+     left: 0; 
    }
 
    h1::after {
@@ -43,7 +42,7 @@ layout: default
     </td>
   </table>
   <p style="line-height: 3px"></p>
-  <p style="margin-left:15px" class="post-meta">
+  <div style="margin-left:15px" class="post-meta">
     {%  assign s = "&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;"  %}
     {%  assign t = "•&nbsp;&nbsp;"  %}
     
@@ -94,7 +93,7 @@ layout: default
         {%  include dropdown.html     %}    
     {% endif %} 
 
-  </p>
+  </div>
 </header>
 
     <hr /><br>
@@ -125,22 +124,7 @@ layout: default
 
   <br>
 
-  <div class="PageNavigation">
-    {% if page.previous.url %}
-
-      <a class="prev" style="text-decoration: none" href="{% link {{page.previous.path}} %}">&laquo; {{page.previous.title}}</a>
-    {%  else  %}
-      <a class="prev"></a>
-    {% endif %}
-
-    <a></a>
-
-    {% if page.next.url %}
-      <a class="next" style="text-decoration: none" href="{% link {{page.next.path}} %}">{{page.next.title}} &raquo;</a>
-    {%  else  %}
-      <a class="next"></a>
-    {% endif %}
-  </div>
+ 
 
 </div>
 

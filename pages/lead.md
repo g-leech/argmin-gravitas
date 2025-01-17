@@ -28,4 +28,3 @@ Some roles I've taken:<br><br>
 (Led a team of 5 engineers and data scientists. Led hiring rounds, set technical challenges.) <br><br>
 
 
-{%  include padder.html     howMuch=6  %}

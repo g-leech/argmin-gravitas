@@ -18,8 +18,6 @@ wordcount:  700
 argument:   
 ---
 
-{% 	include phone_img.html 		%}
-
 {%	assign hammer = "https://archive.org/details/TwilightOfTheIdolsOrHowToPhilosophizeWithAHammer/page/n23/mode/2up"	%}
 {%	assign nintil = "https://nintil.com/longevity"		%}
 {%	assign b = "https://www.sciencedirect.com/science/article/pii/B9780128142530000127"	%}
@@ -52,13 +50,13 @@ This has a sad practical implication: all but the most careful studies of diet c
 The usual idea is that by restricting your diet you live longer.
 <br>
 <center>
-	<img class="i50" src="/img/standard.png" />
+	<img src="/img/standard.png" />
 </center>
 
 The sceptical hypothesis is that you have a metabolic setpoint, which determines your diet and your longevity, and which explains most of the correlation.
 
 <center>
-	<img class="i50" src="/img/nietzsche.png" />
+	<img src="/img/nietzsche.png" />
 </center>
 
 You need careful experiments to check the latter. There's <a href="{{ssc}}">some evidence</a> that there is a small effect of calorie restriction (evidence mostly from nonhuman models):

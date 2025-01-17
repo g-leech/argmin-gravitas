@@ -22,7 +22,6 @@ argument:
 <!-- Writing Checklist -->
 <!-- https://roamresearch.com/#/app/gleech/page/5jHVvVI8w -->
 
-{% 	include phone_img.html 		%}
 {%	assign ath = "https://jissn.biomedcentral.com/articles/10.1186/1550-2783-7-5"	%}
 {%	assign sig = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2738587/#R20"	%} 
 {%	assign brain = "https://brainlabs.me/"	%}
@@ -176,8 +175,8 @@ Keywords: "withdrawal reversal", "net [beneficial] effects of chronic administra
 I found one good recent study with strong pre-hoc controls for confounding: <a href="https://sci-hub.se/10.1007/s00213-012-2889-4">Rogers (2013)</a>, n=369, blinded:
 
 <center>
-	<img class="i70" src="/img/caff.png" />
-	<img class="i50" src="/img/rec.jpg" />
+	<img src="/img/caff.png" />
+	<img src="/img/rec.jpg" />
 </center>
 
 The terribly named "Non-low" mean "non-consumer or low-consumer of caffeine".

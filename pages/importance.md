@@ -19,29 +19,26 @@ It is an enduring mystery to me why my interest in a topic is not more correlate
 
 <div class="home">
 	{% for importance in (1..10) reversed %}
-		<hr /><br>
-		<h1 class="spaced">{{ importance }}</h1>
-	    <table class="post-list">
+		<hr />
+		<br>
+		<h2>{{ importance }}</h2>
+	    <div class="list">
 			{% for post in site.posts %}
 	  			<!-- % unless forloop.first %}</table>% endunless %} -->
 	  			{% if importance == post.importance %}
-					<!--  -->
-					<tr class="spaced">
-	          			<td style="width:55%;">
-	          				<a class="archive-link" href="{{ post.url | prepend: site.baseurl }}"> 
-	          					> {{ post.title }}
-	          				</a>
-	          			</td>
-	          		</tr>
-					<!--  -->
+				<div>
+					> <a class="archive-link" href="{{ post.url | prepend: site.baseurl }}"> 
+						{{ post.title }}
+					</a>
+				</div>
 	  			{% 	endif 	%}
-	  			{% if forloop.last %}</table>{% endif %}
 			{% endfor %}
+		</div>
+		<br>
 	{% endfor %}
 </div>
-
-<br><br>
-
+<br>
+<br>
 
 
 

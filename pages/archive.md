@@ -8,20 +8,60 @@ visible:  false
 
 <style type="text/css">
   
-  tr.spaced > td
-  {
-    padding-bottom: 2em;
+  .post-list{
+	display: flex;
+	flex-direction: column;
+	gap: 2.5em
   }
 
+  .spaced{
+	display: flex;
+	gap: 10%;
+  }
 
-  h1.spaced 
-  {
-    padding-top: 20px;
+  .post-link{
+	min-width: 55%;
+	max-width: 55%;
+	font-size: 1.5em;
+	line-height: 1.3em
+  }
+
+  .nolink{
+	font-size: 0.8em;
+	line-height: 1.3em
   }
 
   .archive-link
   {
     font-size: 20px;
+  }
+
+  .year{
+	margin-top: 2.5em;
+	margin-bottom: 1em;
+	font-size: 1.6em;
+	color: var(--theme-color);
+	font-weight: 600;
+  }
+
+  .page{
+	margin-top: 1em
+  }
+
+  @media (max-width: 600px){
+
+	.post-list{
+		gap: 2em
+	}
+
+	.spaced{
+		flex-direction: column;
+		gap: 0.5em;
+	}
+
+	.post-link{
+		max-width: 100%
+	}
   }
 
 </style>
@@ -36,64 +76,45 @@ visible:  false
 <!--  -->
         {% assign currentYear = post.date | date: "%Y" %}
         {% if currentYear != yr %}
-           {% unless forloop.first %}</table>{% endunless %}
+           {% unless forloop.first %}</div>{% endunless %}
 <!--  -->
-           <br><hr>
-<!--  -->
-           <h1 class="spaced">{{ currentYear }}</h1>
-            <table class="post-list">
+           <h3 class="year">{{ currentYear }}</h3>
+            <div class="post-list">
            {% assign yr = currentYear %}
         {% endif %}
 <!--  -->
-        <tr class="spaced">
-          <td style="width:57%;">
+        <div class="spaced">
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}</a>
-          </td>
-<!--  -->
-          <td style="width:3%;">
-          </td>
-          <td> 
-            <small>
-              <a class="nolink" href="{{ post.url | prepend: site.baseurl }}"><i>{{ post.summary }}</i></a>
-            </small> 
-          </td>
-<!--  -->
-        </tr>
-<!--  -->
-        {% if forloop.last %}</table>{% endif %}
+            <a class="nolink" href="{{ post.url | prepend: site.baseurl }}"><i>{{ post.summary }}</i></a>
+		</div>
+        {% if forloop.last %}</div>{% endif %}
 <!--  -->
 <!--  -->      
       {% endfor %}
-<!--  -->      
-<!--  -->
-<br><br>
 
-<h1>Pages</h1>
+<br>
 
+<h2>Pages</h2>
 
+<div>
 {% for page in site.pages %}
-  <table>
-    {% if page.favpage != true %}
-    <tr class="spaced">
-    <td style="width:55%;">
-      <a class="archive-link" href="{{ page.url | prepend: site.baseurl }}">
-      {{ page.title }}.</a>
-    </td>
-    </tr>
-    {%  endif   %}
-  </table>
+		{% if page.favpage != true %}
+		<div class="spaced page">
+			<a class="archive-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}.</a>
+		</div>
+		{%  endif  %}
 {% endfor %}
+</div>
 
-<br><br>
+<br>
 
-
-<p class="rss-subscribe">
-  subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
-</p>
 <p>
   See posts ranked by their importance <a href="/importance">here</a>.
 </p>
 
+<br>
+
+{%    include mc.html  %}
 
 </div>
