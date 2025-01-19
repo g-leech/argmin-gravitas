@@ -35,7 +35,16 @@ where:      "Bristol, Taipei"
 
 <a href="https://www.goodreads.com/user/show/68316850-gavin">I like books</a>. But overall I have probably learned more from essays: magazines, blogposts, newspapers, zines, pamphlets, megathreads, shitposts, dialogues, conceptual analyses, cost-benefit analyses, certain prose poems. I have probably read 35,000 of them, for instance; ten times more than books. (Between 2012 and 2013 I worked in a quiet bookshop and read all of the great aggregators of the day - Arts and Letters Daily, 3QuarksDaily, Longform.org, Kottke, Hacker News. Easily 100,000 words a day. Eventually I lowered my suspicion of neoliberals enough to read the culture posts on [MR](https://marginalrevolution.com/) too - I studiously ignored the economics ones.)
 
-Unfortunately, I didn't keep track of them. I've done my best to reconstruct this part of my inner life <a href="https://docs.google.com/spreadsheets/d/1Vr67rBaFwTnEDeUOXYZRrP4QD34150P2HHE1QsAbfMI/edit?usp=sharing">here</a>. I only got 1% so far. I wish I could assure you it's the top 1% but it isn't.
+Unfortunately, I didn't keep track of them. I've done my best to reconstruct this part of my inner life here: 
+
+<center>
+	<h3>
+		<a href="https://docs.google.com/spreadsheets/d/1Vr67rBaFwTnEDeUOXYZRrP4QD34150P2HHE1QsAbfMI/edit?usp=sharing">Sheet</a>
+	</h3>
+</center>
+<br>
+
+I only got 1% so far. I wish I could assure you it's the top 1% but it isn't.
 
 The [shortlist](https://docs.google.com/spreadsheets/d/1Vr67rBaFwTnEDeUOXYZRrP4QD34150P2HHE1QsAbfMI/edit?gid=1979535988#gid=1979535988) consists of some that changed my life in a large and obvious and lasting way. It's probably still only 5% of those.
 

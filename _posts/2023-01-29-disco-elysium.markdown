@@ -788,6 +788,7 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 * http://www.firstpersonscholar.com/i-learn-through-paradise-or-disco-inferno/ <br>
 * https://www.youtube.com/watch?v=zo4sHDGiDC0 <br>
 * https://www.youtube.com/watch?v=n_7ngJDbUQE <br>
+* https://haywiremag.com/features/the-miracle-animal-and-the-pale-inside-existential-thought-in-disco-elysium/<br>
 * https://bulletpointsmonthly.com/2019/11/06/the-world-is-a-tough-place-but-we-all-live-in-it/ <br>
 * https://unwinnable.com/2019/11/06/disco-elysium-and-finding-the-beauty-in-a-cynical-world/ <br>
 * https://uppercutcrit.com/on-bad-endings-resistance-and-meaning-making-in-the-apocalypse/?utm_source=rss&utm_medium=rss&utm_campaign=on-bad-endings-resistance-and-meaning-making-in-the-apocalypse <br>
