@@ -96,8 +96,8 @@ visible:	true
 </div>
 
 <div class="container">
-	<a href="/fav-poems">{% include fa/hurricane-solid.svg %}</a>
-	<a href="/fav-poems">Poems</a> 
+	<a href="/fav_poems">{% include fa/hurricane-solid.svg %}</a>
+	<a href="/fav_poems">Poems</a> 
 </div>
 
 <div class="container">
