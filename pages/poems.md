@@ -22,11 +22,15 @@ visible:	false
 
 - '[Aubade](https://www.poetryfoundation.org/poems/48422/aubade-56d229a6e2f07)' by Philip Larkin
 
+- '[Boast of Quietness](https://www.goodreads.com/quotes/343526-boast-of-quietness-writings-of-light-assault-the-darkness-more)' by Borges
+
 - '[Not our good luck](https://robinsonjeffersassociation.org/wp-content/uploads/2024/06/RST-OP-post.pdf)' by Robinson Jeffers
 
 - '[The Back Country](https://www.threecandles.org/archive/ljenkins.html)' by Louis Jenkins
 
 - '<a href="/cohen">French and English</a>' by Leonard Cohen
+
+- '<a href="/hughes">Incompatibilities</a>' by Ted Hughes
 
 - '[I Want to Be the One](http://zackmdavis.net/blog/2015/12/i-want-to-be-the-one/)' by Zack Davis
 
@@ -39,6 +43,22 @@ visible:	false
 - '[A Private Bottling](https://www.tumblr.com/heathermck/35259990337/don-paterson-a-private-bottling)' by Don Paterson
 
 - '[Crossing the Border](https://www.oocities.org/william_brodie/maccaig/border.html)' by Maccaig
+
+- '[Romance Sonámbulo](https://poets.org/poem/romance-sonambulo)' by Lorca
+
+- '[tallahassee](https://annotatedtmg.org/tallahassee.html)' by John Darnielle
+
+- '[All Hail West Texas](https://annotatedtmg.org/ahwt.html)' by John Darnielle
+
+- '[Under Milk Wood](https://gutenberg.net.au/ebooks06/0608221h.html)' by Dylan Thomas
+
+- '[The Hospital](https://www.brinkerhoffpoetry.org/poems/the-hospital)' by Pat Kavanaugh
+
+- '[Dover Beach](https://www.poetryfoundation.org/poems/43588/dover-beach)' by Matthew Arnold
+
+- '[]()' by
+
+- '[The force that through the green fuse drives the flower](https://poets.org/poem/force-through-green-fuse-drives-flower)' by Dylan Thomas
 
 - '[Man Carrying Thing](https://poets.org/poem/man-carrying-thing)' by Wallace Stevens
 

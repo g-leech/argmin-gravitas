@@ -6,6 +6,7 @@ permalink: 	/cohen/
 visible:	false
 ---
 
+<br>
 
 I think you are fools to speak French<br>
 It is a language which invites the mind<br>
