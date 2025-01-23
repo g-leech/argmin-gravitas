@@ -140,6 +140,28 @@ visible:  false
 
 <br>
 
+
+# See also
+
+* [3b1b](https://www.3blue1brown.com/blog/book-recommendations)
+* [Owen Lynch](https://forest.topos.site/public/foreign-topos-ocl-0028.xml)
+* [PIBBSS](https://awake-spring-b0d.notion.site/PIBBSS-Library-85765b0c0ce644cebf09fef1ec56d904)
+* [Pre-Cambridge](https://web.archive.org/web/20180219032905/https://mypages.iit.edu/~pelsmajer/cambridge-books.pdf)
+* [Chicago undergrad](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
+* [Chauvenet Prize](https://www.maa.org/programs-and-communities/member-communities/maa-awards/writing-awards/chauvenet-prizes)
+* [Reinh](https://web.archive.org/web/20210928175536/http://reinh.com/notes/posts/2014-07-25-recommended-reading-material.html)
+* [David Valdman](https://github.com/dmvaldman/library)
+* [John Wentworth](https://www.lesswrong.com/posts/bjjbp5i5G8bekJuxv/study-guide)
+* [MetaEpistemic](https://fuckyeahlogical.tumblr.com/post/128964910533/analytic-philosophy-reading-list-for-the-self)
+* [Oz Nova](https://teachyourselfcs.com/)
+* [Starter Pack](https://docs.google.com/document/d/e/2PACX-1vT8hxEPfqSMXnpVH7VnBQzvpIeREsOWFhgDJAvYUtYYDYNTuWiFYvD951XNpYe-1Dg8GNLWLPrCgCAU/pub)
+* [The Cambridge Maths Library](https://www.cambridge.org/core/series/cambridge-mathematical-library/F04D2C33279B5B7ED261AE5111C064D2)
+* [Saroufim](https://medium.com/@marksaroufim/technical-books-i-%EF%B8%8F-4af8f3ddd205)
+* [Qiaochu](https://qchu.wordpress.com/reading-recommendations/)
+* [MIRI](https://intelligence.org/research-guide/)
+* [Greg Yang](https://x.com/TheGregYang/status/1680358832789155842?lang=en)
+
+
 <div class="accordion">	
 
 <h3>TODO</h3>

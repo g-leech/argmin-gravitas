@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+svg {
+	display: block;
+  height: 20px;
+  padding-bottom: 0px;
+}
+.gap {
+	margin-right: 10px;
+}
+.wee {
+	padding-left: 16px;
+	padding-right: 6px;
+}
