@@ -22,24 +22,7 @@ visible:	true
 {%  assign landfill = "https://open.spotify.com/playlist/56qHq7Mp5Pzs9QpbilOd2K?si=f6e9a4dc7f424efd" %}
 
 <style>
- .container {
-    display: flex;
-    align-items: center;
-    padding-top: 15px;
-    padding-bottom: 10px;
-  }
-  svg {
-  	display: block;
-    height: 20px;
-    padding-bottom: 0px;
-  }
-  .gap {
-  	margin-right: 10px;
-  }
-  .wee {
-  	padding-left: 16px;
-  	padding-right: 6px;
-  }
+	{% include css/recs.css	%}
 </style>
 
 <br>
