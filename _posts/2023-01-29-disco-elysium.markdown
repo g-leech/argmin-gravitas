@@ -783,7 +783,7 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 <div class="accordion">
     <h3>bad air guitar</h3>
     <div>
-* https://sciendo.com/issue/BSMR/9/1<be>
+* https://sciendo.com/issue/BSMR/9/1<br>
 * https://haywiremag.com/features/the-miracle-animal-and-the-pale-inside-existential-thought-in-disco-elysium/ <br>
 * http://www.firstpersonscholar.com/i-learn-through-paradise-or-disco-inferno/ <br>
 * https://www.youtube.com/watch?v=zo4sHDGiDC0 <br>
@@ -809,7 +809,8 @@ But playing it I am reminded what is great about the left – the cussed rejecti
         https://en.wikipedia.org/wiki/Ravachol<br>
         https://en.wikipedia.org/wiki/Martinique<br>
         https://en.wikipedia.org/wiki/New_Caledonia<br>
-        https://en.wikipedia.org/wiki/Insulinde_(political_party)
+        https://en.wikipedia.org/wiki/Insulinde_(political_party)<br>
+        https://en.wikipedia.org/wiki/Fuerzas_Armadas_de_Liberaci%C3%B3n_Nacional_Puertorrique%C3%B1a
     </div>
     <h3>Quotes</h3>
     <div>
