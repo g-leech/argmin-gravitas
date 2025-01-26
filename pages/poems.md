@@ -20,15 +20,27 @@ visible:	false
 
 - '[Ben Dorain](https://www.scottishpoetrylibrary.org.uk/poem/moladh-beinn-dobhrain-extract/)' by Iain Crichton Smith
 
+- '[The Back Country](https://www.threecandles.org/archive/ljenkins.html)' by Louis Jenkins
+
 - '[Aubade](https://www.poetryfoundation.org/poems/48422/aubade-56d229a6e2f07)' by Philip Larkin
+
+- '<a href="/cohen">French and English</a>' by Leonard Cohen
 
 - '[Boast of Quietness](https://www.goodreads.com/quotes/343526-boast-of-quietness-writings-of-light-assault-the-darkness-more)' by Borges
 
-- '[Not our good luck](https://robinsonjeffersassociation.org/wp-content/uploads/2024/06/RST-OP-post.pdf)' by Robinson Jeffers
+- Job 3: 3-26
 
-- '[The Back Country](https://www.threecandles.org/archive/ljenkins.html)' by Louis Jenkins
+- Tom o Bedlam's Song
 
-- '<a href="/cohen">French and English</a>' by Leonard Cohen
+- Death be not proud by Donne
+
+- 
+
+-
+
+-
+
+-
 
 - '<a href="/hughes">Incompatibilities</a>' by Ted Hughes
 
@@ -37,6 +49,8 @@ visible:	false
 - '[Artificial Intelligence (To G.P.S.)](http://www.autodidactproject.org/other/Artificial_Intelligence_Rich_A.html)' by Adrienne Rich
 
 - '[Psalm 51](https://www.biblegateway.com/passage/?search=Psalm%2051&version=KJV)' by the psalmist
+
+- '[Not our good luck](https://robinsonjeffersassociation.org/wp-content/uploads/2024/06/RST-OP-post.pdf)' by Robinson Jeffers
 
 - '[No Road](https://allpoetry.com/No-Road)' by Larkin
 

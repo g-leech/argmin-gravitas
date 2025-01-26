@@ -36,6 +36,13 @@ And then, after 64025 accepts? _Feasting and dancing in Jerusalem_: preference s
 
 The work was not work but patience – not analysis, reception; flow. You'd have been pruned by now if you weren't doing it right, so have a little faith. Not for the first time she thought of monks, nuns, and tulkus of old. Their shifts, the change of days, matins, lauds, primes, terces, sexts, noneses, vespers, complines. The sustain.
 
-Without thinking she did another pass over the rejected sample, kicking off another flurry of thought or sub-thought elsewhere, a flurry which, looping, soon ended again at her feet. All of this is about precision, yes. But beauty? Something out there is coming to an understanding. But not her; no kenosis for us.
+Without thinking she did another pass over the rejected sample, kicking off another flurry of thought or sub-thought elsewhere, a flurry which, looping, soon ended again at her feet. Precision, yes. But beauty? 
 
-<br><br>
+Something is coming to understand but not her. 
+<!-- ; no theosis for her. -->
+
+<br><br><br>
+
+[src](https://colab.research.google.com/drive/1V4cNKA9bLMuOHvsH1URhI6xV5DEWpTAS)
+
+<br><br><br>
