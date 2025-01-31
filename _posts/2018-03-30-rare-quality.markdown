@@ -182,3 +182,4 @@ But if we were stubbornly happy - if we often experienced joy for no particular 
 ## See also
 
 * [Convergent analysis from Jooda](https://bewrong.substack.com/p/more-good-things)
+* [NOS](https://www.jstor.org/stable/45217248)
