@@ -114,7 +114,7 @@ What other ways up are there? Well, there's the grappling hook. It's risky.
 * Government ladder
 * Academia ladder - how many of you know how tenure works?
 * Nonprofit ladder - grand speeches and unbelievable inefficiency
-* Fine art ladder - 
+* [Fine art ladder](https://www.theguardian.com/books/2024/nov/28/poor-artists-by-the-white-pube-review-how-to-make-it-in-the-art-world)
 * Startup ladder - TKS, [WC](https://www.startupworldcup.io/)
 * EA ladder
 

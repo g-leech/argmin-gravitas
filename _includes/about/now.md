@@ -17,7 +17,19 @@ visible:	false
 <div>	
 	<div class="note">
 	  <div class="title">
-		1. Founding a great<br class="break">
+		1. Head of Research<br class="break">
+		for the Dwarkesh Podcast
+	  </div>
+	  <div class="insides">
+	<!--  -->
+		I help lead the world's only deep podcast as executive producer. Technical research, aesthetics and epistemics, post-production, hiring, AI integrations.
+	<br><br> 
+<!--  -->
+		</div>
+	</div>
+	<div class="note">
+	  <div class="title">
+		2. Founding a great<br class="break">
 		research company
 	  </div>
 	  <div class="insides">
@@ -31,7 +43,7 @@ visible:	false
 <!--  -->
 	<div class="note">
 	  <div class="title">
-		2. Becoming less well-rounded
+		3. Becoming less well-rounded
 	  </div>
 	  <div class="insides">
 		My background is mixed: a lot of philosophy, a bit of economics, a bit of stats, a bit of computer science, a bit of computational linguistics, a bit of epidemiology, a bit of literary criticism. But in research, much depends on you mastering one thing or one cluster of things.<br><br>So I am trying to become less rounded. This boils down to more maths. One carrot: I aim to fully understand the great explanations: set theory, measure theory, relativity, QM, evolutionary dynamics, Bayes, reinforcement learning, and computational complexity. 
@@ -41,7 +53,7 @@ visible:	false
 <!--  -->
 <div class="note">
 	  <div class="title">
-		3. Pretending to be an academic
+		4. Pretending to be an academic
 	  </div>
 	  <div class="insides">
 		I'm a visiting fellow at the Leverhulme Centre for the Future of Intelligence at Cambridge. It is nice to help and get ideas (and maintain library access).
@@ -51,7 +63,7 @@ visible:	false
 <!--  -->
 	<div class="note">
 	  <div class="title">
-		4. Giving a damn
+		5. Giving a damn
 	  </div>
 	  <div class="insides">
 		I started teaching and mentoring. I am head of camp at ESPR. I'm an external coach for 80,000 Hours. I speak for the <a href="{{obit}}">dead</a>.

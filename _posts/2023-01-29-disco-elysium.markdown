@@ -134,6 +134,8 @@ It's melancholy but not self-pitying and not life-denying. <a href="#fn:7" id="f
             You don’t reforge the tattered remains of your cultural organization into a blood-and-grinding-gears video game company because it’s nice. And natural. You do it because you’re utterly out of options<br><br>
             An important part of ZA/UM studio culture was hosting life-and-gesture drawing events at least once a week. With the help of designer Toon Vugts, we held a public weekly community event where some twenty people, professionals, and hobbyists alike, would regularly come and draw with us. Our studio happened to share the same decrepit building as a small bookstore, and the two youngwomen running it kindly invited us to use their back room for these events. Together we worked towards reestablishing a tradition of figure drawing.
         </blockquote>
+<!--  -->
+        Another crucial thing: they didn't learn Unity that well - for the entire 6 year dev time they had one [contractor](https://theknightsofu.com/projects/disco-elysium/#details) who were making things actually work.  
     </div>
 </div>
 
