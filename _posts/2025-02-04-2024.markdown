@@ -190,6 +190,18 @@ It ended up taking me 86 hours to get from door to door, Bristol to Taipei.
 
 <br>
 
+Nov: I am very paranoid about connecting to CCP wifi in the airport but Juan is a zoomer and needs his fix so I let him spoil his hardware. I hold out as long as possible before using their power sockets even, and use a dumb power pack cable even then.
+
+Obviously the airport connection portal is completely broken, slow, god knows what they're probing. So he just fires up his local copy of Ollama and asks it what the Shanghai wifi url is likely to be. It guesses right.
+
+
+<br>
+
+---
+
+<br>
+
+
 Dec: My company is having bank issues. I take a friend out to lunch, analyst at Wise, who is kindly able to tell me what happened (my bank dropped out of a partnership programme and incurred a more stringent level of KYC/AML they had no API to handle) when no one else on earth could.
 
 <br><br>
