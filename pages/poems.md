@@ -28,11 +28,11 @@ visible:	false
 
 - '[Boast of Quietness](https://www.goodreads.com/quotes/343526-boast-of-quietness-writings-of-light-assault-the-darkness-more)' by Borges
 
-- Job 3: 3-26
+- [Job 3: 3-26](https://www.biblegateway.com/passage/?search=Job%203%3A3-26&version=KJV)
 
-- Tom o Bedlam's Song
+- '[Tom o Bedlam's Song](https://kestrelmontague.wordpress.com/2012/09/10/perhaps-the-greatest-anonymous-poem-tom-obedlam/)'
 
-- Death be not proud by Donne
+- '[Death be not proud](https://www.poetryfoundation.org/poems/44107/holy-sonnets-death-be-not-proud)' by Donne
 
 - 
 
