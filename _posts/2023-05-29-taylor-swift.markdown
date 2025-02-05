@@ -324,7 +324,7 @@ Yet another strat: the pretence that TS is uncool, the victim of snobbery, mean 
 
 <br>
 
-The machine is most visible in its precision and <a href="{{tv}}">repetition</a> (Sittenfeld notices it in the exact reproduction, every show, of that giggle from "Shake It Off"). But James Brown was much <a href="{{dick}}">more of a dick</a> about precision, and I don't view him as a lesser artist because of it.
+The machine is most visible in its <a href="{{analytics}}">precision</a> and <a href="{{tv}}">repetition</a> (Sittenfeld notices it in the exact reproduction, every show, of that giggle from "Shake It Off"). But James Brown was much <a href="{{dick}}">more of a dick</a> about precision, and I don't view him as a lesser artist because of it.
 
 Authenticity is a very stupid idea in a lot of ways. It's ahistorical - e.g. much of the Italian <a href="{{ital}}">menu</a> didn't exist 100 years ago, and some are <a class="nolink" href="{{murica}}">American adaptations</a>, but the recipes are now fiercely gatekept as _the_ essence of Italian culture. It prevents innovation. It has made some great artists superstitiously avoid money (or <a href="{{cobain}}">kill themselves</a>) for fear of becoming inauthentic. But look at the dominant alternative!
 
@@ -463,6 +463,7 @@ Where will TS be in 20 years? Bowie's fate or Madonna's? <a href="#fn:7" id="fnr
 
 Also: God knows what <a href="{{grimes}}">TS or its successor</a> will be like when augmented with <a href="{{elf}}">actual machines</a>. Maybe we will come to see TS as clumsy broadcast propaganda compared to the coming <a href="{{hyper}}">personalised midculture</a>.
 
+<br>
 
 > I see culture as a type of technology
 
