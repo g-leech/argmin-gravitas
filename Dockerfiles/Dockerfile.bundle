@@ -1,5 +1,5 @@
 # Use Ruby 2.7.8 as our base image.
-FROM ruby:2.7.8-bullseye AS builder
+FROM ruby:2.7.8-bullseye
 
 RUN gem update --system 3.3.22
 

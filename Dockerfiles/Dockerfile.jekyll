@@ -1,5 +1,5 @@
 # Use Ruby 2.7.8 as our base image.
-FROM ruby:2.7.8-bullseye AS builder
+FROM ruby:2.7.8-bullseye
 
 RUN gem update --system 3.3.22
 
@@ -20,13 +20,10 @@ WORKDIR /srv/jekyll
 COPY Gemfile Gemfile.lock ./
 
 # Install Ruby dependencies as specified in the Gemfile.
-RUN bundle update
 RUN bundle install
 
 # Copy the remainder of the project.
 COPY . .
-
-FROM builder AS server
 
 # Expose the default Jekyll port.
 EXPOSE 4000
