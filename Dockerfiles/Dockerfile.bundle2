@@ -1,7 +1,6 @@
 FROM jekyll/jekyll:3.8.6
 
 # Update RubyGems.
-RUN gem update --system 3.3.22
 
 # Install bundler if it’s not already available.
 # RUN gem install bundler

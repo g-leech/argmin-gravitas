@@ -1,18 +1,17 @@
 # Use Ruby 2.7.8 as our base image.
-FROM ruby:2.7.8-alpine
+FROM ruby:2.6.3-alpine
 
 RUN gem update --system 3.3.22
 
 # Install system dependencies.
 # Adjust as needed; Node.js is often required for asset compilation.
-RUN apt-get update && apt-get install -y \
-    build-essential \
+RUN apk update && apk add --no-cache \
+    build-base \
     nodejs \
-    libffi-dev \
-    && rm -rf /var/lib/apt/lists/*
+    libffi-dev
 
 # Install bundler if it’s not already available.
-RUN gem install bundler -v 2.1.4
+RUN gem install bundler -v 2.0.2
 
 # Create a working directory.
 WORKDIR /srv/jekyll
