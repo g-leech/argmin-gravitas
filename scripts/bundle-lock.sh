@@ -3,7 +3,7 @@ set -e
 
 # Define image name and Dockerfile path.
 IMAGE_NAME="gemfile_updater"
-DOCKERFILE="Dockerfiles/Dockerfile.bundle2"
+DOCKERFILE="Dockerfiles/Dockerfile.bundle"
 
 echo "Building the Docker image"
 docker build -t ${IMAGE_NAME} -f ${DOCKERFILE} .
