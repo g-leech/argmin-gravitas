@@ -17,7 +17,7 @@ RUN bundle install
 # Now copy the rest of your project.
 COPY . .
 
-# Optionally adjust ownership again (if needed for newly copied files).
+# Adjust ownership again
 RUN chown -R jekyll:jekyll /srv/jekyll
 
 FROM builder AS final
