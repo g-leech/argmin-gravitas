@@ -1,0 +1,17 @@
+# Use the official Jekyll image as our base.
+FROM jekyll/jekyll:latest
+
+# Set the working directory inside the container.
+WORKDIR /srv/jekyll
+
+# Copy the entire project into the container.
+COPY . .
+
+# Install Ruby dependencies (update & install gems from Gemfile).
+RUN bundle update && bundle install
+
+# Expose port 4000 so that the site can be accessed externally.
+EXPOSE 4000
+
+# Start the Jekyll server with incremental builds and bind to all network interfaces.
+CMD ["bundle", "exec", "jekyll", "serve", "--incremental", "--host", "0.0.0.0"]
