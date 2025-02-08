@@ -20,7 +20,7 @@ WORKDIR /srv/jekyll
 COPY Gemfile Gemfile.lock ./
 
 # Install Ruby dependencies as specified in the Gemfile.
-RUN bundle install
+RUN bundle update &&bundle install
 
 # Copy the remainder of the project.
 COPY . .
