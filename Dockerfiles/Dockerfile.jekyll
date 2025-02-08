@@ -1,7 +1,5 @@
 # Use Ruby 2.7.8 as our base image.
-FROM ruby:2.7.8 AS builder
-
-RUN gem update --system 3.3.22
+FROM ruby:2.7.8-bullseye AS builder
 
 # Install system dependencies.
 # Adjust as needed; Node.js is often required for asset compilation.
