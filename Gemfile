@@ -1,7 +1,7 @@
 ## judah's gemfile (needed because of old MacOS version)
 source "https://rubygems.org"
 
-ruby '2.7.8'
+ruby '2.7.1'
 
 gem "jekyll", "~> 3.8.7"
 gem "webrick", "~> 1.7"

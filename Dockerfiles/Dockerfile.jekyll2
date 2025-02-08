@@ -1,0 +1,15 @@
+# Use the official Jekyll image version 4.1.0 as the base image
+FROM jekyll/jekyll:4.1.0
+
+# Set the working directory in the container
+WORKDIR /srv/jekyll
+
+# Copy your entire project into the container
+COPY . /srv/jekyll
+
+# Expose the default Jekyll port
+EXPOSE 4000
+
+# Run Jekyll to serve your site, watching for changes,
+# and binding to all network interfaces (0.0.0.0) so it’s accessible externally.
+CMD ["jekyll", "serve", "--watch", "--host", "0.0.0.0"]
