@@ -1,6 +1,8 @@
 # Use Ruby 2.7.8 as our base image.
 FROM ruby:2.7.8 AS builder
 
+RUN gem update --system 3.3.22
+
 # Install system dependencies.
 # Adjust as needed; Node.js is often required for asset compilation.
 RUN apt-get update && apt-get install -y \
@@ -9,7 +11,7 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Install bundler if it’s not already available.
-RUN gem install bundler
+RUN gem install bundler -v 2.4.22
 
 # Create a working directory.
 WORKDIR /srv/jekyll
@@ -22,6 +24,8 @@ RUN bundle install
 
 # Copy the remainder of the project.
 COPY . .
+
+FROM builder AS server
 
 # Expose the default Jekyll port.
 EXPOSE 4000
