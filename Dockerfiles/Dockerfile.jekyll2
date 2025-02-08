@@ -1,5 +1,7 @@
 # Use the official Jekyll image version 4.1.0 as the base image
-FROM jekyll/jekyll:4.1.0
+FROM jekyll/jekyll:3.8.6
+
+RUN gem update --system 3.3.22
 
 # Set the working directory in the container
 WORKDIR /srv/jekyll
