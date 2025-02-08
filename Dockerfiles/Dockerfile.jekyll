@@ -1,16 +1,28 @@
 # Use the official Jekyll image as our base.
-FROM jekyll/jekyll:latest
+FROM jekyll/jekyll:latest AS builder
 
 # Set the working directory inside the container.
 WORKDIR /srv/jekyll
 
-# Copy the entire project into the container.
+# Copy dependency definitions separately for caching.
+COPY Gemfile Gemfile.lock ./
+
+# Ensure that the dependency files have proper ownership.
+RUN chown -R jekyll:jekyll /srv/jekyll
+
+# Install Ruby dependencies.
+# Note: Using only 'bundle install' to leverage caching, not 'bundle update'.
+RUN bundle install
+
+# Now copy the rest of your project.
 COPY . .
 
-# Install Ruby dependencies (update & install gems from Gemfile).
-RUN bundle update && bundle install
+# Optionally adjust ownership again (if needed for newly copied files).
+RUN chown -R jekyll:jekyll /srv/jekyll
 
-# Expose port 4000 so that the site can be accessed externally.
+FROM builder AS final
+
+# Expose port 4000 for the Jekyll server.
 EXPOSE 4000
 
 # Start the Jekyll server with incremental builds and bind to all network interfaces.

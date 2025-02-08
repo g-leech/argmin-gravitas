@@ -57,7 +57,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.8.7)
-  jekyll-sass-converter (~> 1.5.2)
   public_suffix (~> 4.0.7)
   webrick (~> 1.7)
 

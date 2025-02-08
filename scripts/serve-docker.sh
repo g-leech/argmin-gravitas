@@ -3,5 +3,7 @@ set -e
 
 # Make sure this script is run from the project root.
 
-docker build -t argmin-gravitas/latest -f Dockerfiles/Dockerfile.jekyll .
-docker run -p 4000:4000 -v $(pwd):/srv/jekyll argmin-gravitas/latest
+echo "Building Docker image..."
+docker build --progress=plain -t argmin-gravitas/latest -f Dockerfiles/Dockerfile.jekyll .
+echo "Running Docker container..."
+docker run -p 4000:4000 argmin-gravitas/latest
