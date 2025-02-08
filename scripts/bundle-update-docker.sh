@@ -5,8 +5,8 @@ set -e
 IMAGE_NAME="gemfile_updater"
 DOCKERFILE="Dockerfiles/Dockerfile.bundle"
 
-echo "Building the Docker image (targeting the builder stage)..."
-docker build --target=builder -t ${IMAGE_NAME} -f ${DOCKERFILE} .
+echo "Building the Docker image"
+docker build -t ${IMAGE_NAME} -f ${DOCKERFILE} .
 
 # Create a container from the builder image.
 CONTAINER_ID=$(docker create ${IMAGE_NAME})
