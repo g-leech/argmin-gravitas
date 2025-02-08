@@ -1,0 +1,24 @@
+# Use Ruby 2.7.8 as our base image.
+FROM ruby:2.7.8-bullseye AS builder
+
+RUN gem update --system 3.3.22
+
+# Install system dependencies.
+# Adjust as needed; Node.js is often required for asset compilation.
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    nodejs \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install bundler if it’s not already available.
+RUN gem install bundler -v 2.1.4
+
+# Create a working directory.
+WORKDIR /srv/jekyll
+
+# Copy dependency files first for caching.
+COPY Gemfile Gemfile.lock ./
+
+# Install Ruby dependencies as specified in the Gemfile.
+RUN bundle update
+RUN bundle install
