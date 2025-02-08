@@ -1,10 +1,11 @@
-# Use Ruby 2.7.8 as our base image.
+# Use Ruby 2.6.3 on Alpine.
 FROM ruby:2.6.3-alpine
 
+# Update RubyGems system.
 RUN gem update --system 3.3.22
 
 # Install system dependencies.
-# Adjust as needed; Node.js is often required for asset compilation.
+# (Node.js is here for asset compilation, adjust as needed.)
 RUN apk update && apk add --no-cache \
     build-base \
     nodejs \
@@ -13,10 +14,11 @@ RUN apk update && apk add --no-cache \
 # Install bundler if it’s not already available.
 RUN gem install bundler -v 2.0.2
 
-# Create a working directory.
+# Set working directory.
 WORKDIR /srv/jekyll
 
-# Copy Files
+# Copy project files (so that dependencies are installed during image build).
+# When running interactively you will mount your project folder over this.
 COPY . .
 
 # Install Ruby dependencies as specified in the Gemfile.
@@ -25,5 +27,5 @@ RUN bundle install
 # Expose the default Jekyll port.
 EXPOSE 4000
 
-# Run the Jekyll server with incremental builds and bind to all network interfaces.
+# Run the Jekyll server with incremental rebuilds and bind to all network interfaces.
 CMD ["bundle", "exec", "jekyll", "serve", "--incremental", "--host", "0.0.0.0"]
