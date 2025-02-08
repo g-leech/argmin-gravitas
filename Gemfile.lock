@@ -10,6 +10,7 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.17.1)
+    ffi (1.17.1-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (0.9.5)
@@ -54,6 +55,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-linux
 
 DEPENDENCIES
   ffi (~> 1.17.1)

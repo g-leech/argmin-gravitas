@@ -21,4 +21,4 @@ COPY Gemfile Gemfile.lock ./
 
 # Install Ruby dependencies as specified in the Gemfile.
 RUN bundle update
-RUN bundle install
+RUN bundle lock --add-platform x86_64-linux

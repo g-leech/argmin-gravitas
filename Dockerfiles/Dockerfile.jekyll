@@ -16,14 +16,11 @@ RUN gem install bundler -v 2.1.4
 # Create a working directory.
 WORKDIR /srv/jekyll
 
-# Copy dependency files first for caching.
-COPY Gemfile Gemfile.lock ./
+# Copy Files
+COPY . .
 
 # Install Ruby dependencies as specified in the Gemfile.
 RUN bundle install
-
-# Copy the remainder of the project.
-COPY . .
 
 # Expose the default Jekyll port.
 EXPOSE 4000
