@@ -1,8 +1,7 @@
-# Use Ruby 2.7.1 as our base image on Alpine.
 FROM jekyll/jekyll:4.1.0
 
 # Update RubyGems.
-RUN gem update --system 3.3.22
+# RUN gem update --system 3.3.22
 
 # Install bundler if it’s not already available.
 RUN gem install bundler
@@ -15,4 +14,4 @@ COPY Gemfile Gemfile.lock ./
 
 # Update the bundle and add the current platform lock.
 RUN bundle update
-RUN bundle lock --add-platform x86_64-linux-musl
+# RUN bundle lock --add-platform x86_64-linux-musl
