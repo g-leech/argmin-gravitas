@@ -13,6 +13,8 @@ visible:	false
 {%	assign wiki = "https://en.wikipedia.org/wiki/AI_alignment"		%}
 {%	assign la = "https://www.gatsby.ucl.ac.uk/~laurence/" %}
 {%	assign tree = "https://neurotree.org/neurotree/tree.php?pid=933951&pnodecount=12&cnodecount=2"	%}
+{%	assign bris = "https://research-information.bris.ac.uk/ws/portalfiles/portal/437692523/methods_failing_the_data.pdf"	%}
+
 
 <style>
 	.title {
@@ -24,7 +26,7 @@ visible:	false
 </style>
 
 <center>
-	<a href="/files/thesis.pdf">
+	<a href="{{bris}}">
 		<img width="50%" src="/img/thesis.png" />
 	</a>
 	<br><br>
