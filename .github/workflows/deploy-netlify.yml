@@ -28,7 +28,6 @@ jobs:
       # 4. Build the site using your existing Docker build script
       - name: Build the site using Docker
         run: |
-          chmod +x script/build.sh
           ./scripts/build.sh
 
       # 5. Deploy to Netlify using the Netlify CLI Action
