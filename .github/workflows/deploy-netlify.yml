@@ -33,7 +33,7 @@ jobs:
 
       # 5. Deploy to Netlify using the Netlify CLI Action
       - name: Deploy to Netlify
-        uses: netlify/actions/cli@v1
+        uses: netlify/actions/cli
         with:
           # --prod does a production deploy
           args: deploy --dir=_site --prod
