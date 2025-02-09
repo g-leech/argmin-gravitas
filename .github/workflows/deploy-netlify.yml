@@ -1,0 +1,42 @@
+name: Manual Build & Deploy to Netlify (Dev)
+
+on:
+  # 1. Manual trigger via the Actions tab
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: "Branch to build and deploy"
+        required: false
+        default: "main"
+
+jobs:
+  build-and-deploy:
+    name: Build and Deploy to Netlify
+    runs-on: ubuntu-latest
+    
+    # 2. Use the environment named 'Dev' 
+    #    so that environment-scoped secrets are available
+    environment: Dev
+
+    steps:
+      # 3. Check out the specified branch
+      - name: Check out code
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.inputs.branch }}
+
+      # 4. Build the site using your existing Docker build script
+      - name: Build the site using Docker
+        run: |
+          chmod +x script/build.sh
+          ./script/build.sh
+
+      # 5. Deploy to Netlify using the Netlify CLI Action
+      - name: Deploy to Netlify
+        uses: netlify/actions/cli@v1
+        with:
+          # --prod does a production deploy
+          args: deploy --dir=_site --prod
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
