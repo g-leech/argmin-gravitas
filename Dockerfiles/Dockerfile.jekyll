@@ -27,6 +27,8 @@ RUN bundle install
 # Expose the default Jekyll port.
 EXPOSE 4000
 
+ENV JEKYLL_ENV=docker
+
 # Run the Jekyll server with incremental rebuilds and bind to localhost.
-CMD ["bundle", "exec", "jekyll", "serve", "--incremental", "--host", "0.0.0.0", "--config", "_config.yml,_config_dev.yml"]
+CMD ["bundle", "exec", "jekyll", "serve", "--incremental", "--host", "0.0.0.0", "--config", "_config_docker.yml"]
 
