@@ -28,4 +28,8 @@ RUN bundle install
 EXPOSE 4000
 
 # Run the Jekyll server with incremental rebuilds and bind to localhost.
-CMD ["bundle", "exec", "jekyll", "serve", "--incremental", "--host", "127.0.0.1"]
+CMD ["bundle", "exec", "jekyll", "serve", 
+     "--incremental", 
+     "--host", "0.0.0.0",
+     "--config", "_config.yml,_config_dev.yml"]
+
