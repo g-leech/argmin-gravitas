@@ -1,5 +1,5 @@
-# Use Ruby 2.6.3 on Alpine.
-FROM ruby:2.6.3-alpine
+# Use Ruby 3.1 series on Alpine.
+FROM ruby:3.1-alpine
 
 # Update RubyGems system.
 # RUN gem update --system 3.3.22
