@@ -14,14 +14,14 @@ RUN gem install bundler -v 2.3.25
 # Set working directory.
 WORKDIR /srv/jekyll
 
-# Copy project files (so that dependencies are installed during image build).
-# When running interactively you will mount your project folder over this.
+# Copy Gemfiles (so that dependencies are installed during image build).
 COPY Gemfile Gemfile.lock ./
 
 # Install Ruby dependencies as specified in the Gemfile.
 RUN bundle install
 
 # Copy the rest of the project files.
+# When running interactively you will mount your project folder over this.
 COPY . .
 
 # Expose the default Jekyll port.
