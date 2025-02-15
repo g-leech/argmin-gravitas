@@ -16,10 +16,13 @@ WORKDIR /srv/jekyll
 
 # Copy project files (so that dependencies are installed during image build).
 # When running interactively you will mount your project folder over this.
-COPY . .
+COPY Gemfile Gemfile.lock ./
 
 # Install Ruby dependencies as specified in the Gemfile.
 RUN bundle install
+
+# Copy the rest of the project files.
+COPY . .
 
 # Expose the default Jekyll port.
 EXPOSE 4000
