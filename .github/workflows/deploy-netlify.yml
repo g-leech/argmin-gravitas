@@ -1,4 +1,4 @@
-name: Manual Build & Deploy to Netlify (Dev)
+name: Build & Deploy to Netlify
 
 on:
   # 1. Manual trigger via the Actions tab
