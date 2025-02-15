@@ -1,9 +1,6 @@
 # Use Ruby 3.1 series on Alpine.
 FROM ruby:3.1-alpine
 
-# Update RubyGems system.
-# RUN gem update --system 3.3.22
-
 # Install system dependencies.
 # (Node.js is here for asset compilation, adjust as needed.)
 RUN apk update && apk add --no-cache \
@@ -12,7 +9,7 @@ RUN apk update && apk add --no-cache \
     libffi-dev
 
 # Install bundler if it’s not already available.
-# RUN gem install bundler -v 2.0.2
+RUN gem install bundler -v 2.3.25
 
 # Set working directory.
 WORKDIR /srv/jekyll
