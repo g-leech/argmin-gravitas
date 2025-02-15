@@ -2,7 +2,7 @@
 set -e
 
 echo "Building Docker image for Jekyll development..."
-docker build --progress plain -t argmin-gravitas/jekyll-dev -f Dockerfiles/Dockerfile.jekyll .
+docker build -t argmin-gravitas/jekyll-dev -f Dockerfiles/Dockerfile.jekyll .
 
 echo "Running Docker container with live file editing enabled..."
 # The -v flag mounts the current directory (source code) into /srv/jekyll in the container.
