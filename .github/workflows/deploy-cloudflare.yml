@@ -12,7 +12,7 @@ on:
       environment:
         description: "Environment to deploy to"
         required: false
-        default: "Dev"
+        default: "development"
 
 jobs:
   build-and-deploy:
