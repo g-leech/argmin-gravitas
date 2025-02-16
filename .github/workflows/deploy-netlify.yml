@@ -15,7 +15,7 @@ jobs:
   build-and-deploy:
     name: Build and Deploy to Netlify
     runs-on: ubuntu-latest
-    environment: ${{ github.event.inputs.environment }}
+    environment: ${{ inputs.environment }}
 
     steps:
 
