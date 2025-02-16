@@ -19,3 +19,5 @@ jobs:
     with:
       branch: ${{ github.ref_name }}
       environment: development
+    secrets:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
