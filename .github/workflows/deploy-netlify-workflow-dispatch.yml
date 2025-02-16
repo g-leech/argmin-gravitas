@@ -15,9 +15,7 @@ on:
 jobs:
   deploy:
     uses: ./.github/workflows/deploy-netlify.yml
+    secrets: inherit
     with:
       branch: ${{ github.event.inputs.branch }}
       environment: ${{ github.event.inputs.environment }}
-    secrets:
-      NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-      NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
