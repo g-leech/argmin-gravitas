@@ -11,7 +11,7 @@ visible:	true
 <style>
 	a {
 		text-decoration: none;
-    border-bottom: 1px dotted #d9d9d9;
+    border-bottom: 3px dotted #d9d9d9;
 	}
 
 	a {
@@ -42,7 +42,7 @@ visible:	true
 
 
 
-I'm head of research at the [Dwarkesh Podcast](https://dwarkeshpatel.com/). I also cofounded the consultancy [Arb](https://arbresearch.com/).
+I cofounded the consultancy [Arb](https://arbresearch.com/) and am a Fellow traveller at [Foresight](https://foresight.org/), [CFI](https://www.lcfi.ac.uk/), [Emergent Ventures](https://www.mercatus.org/emergent-ventures), and [ISF](https://isf.schmidtfutures.org/fellows/). 
 
 This site stands in for me when I'm away. It consists of {%		include wc.html 	%} <a href="/archive">words</a>, including <a href="{{grrr}}">1,143 book reviews</a> and <a href="{{tww}}">7,298 tweets</a>. No text computer-generated unless explicitly indicated; all text subject to change (but with a public <a href="https://github.com/g-leech/argmin-gravitas">git tree</a>). <a href="/rec">My special interest is getting into stuff.</a>
 
