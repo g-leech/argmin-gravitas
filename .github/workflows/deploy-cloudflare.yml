@@ -12,15 +12,29 @@ on:
         description: "Environment to deploy to"
         required: false
         default: "development"
+  push:
+    branches:
+      - master
 
 jobs:
   build-and-deploy:
     name: Build and Deploy to Cloudflare
     runs-on: ubuntu-latest
     
-    # 2. Use the environment input to set the environment
-    #    so that environment-scoped secrets are available
-    environment: ${{ github.event.inputs.environment }}
+    # 2. Set job-level environment for secrets access.
+    # For push events, determine environment based on the branch name.
+    environment: ${{ github.event_name == 'push' ? (github.ref_name == 'master' ? 'production' : 'development') : github.event.inputs.environment }}
+
+    # Create a job-level environment variable for the branch.
+    env:
+      BRANCH: ${{ github.event_name == 'push' ? github.ref_name : github.event.inputs.branch }}
+
+    steps:
+      # 3. Check out the specified branch
+      - name: Check out code
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ env.BRANCH }}
 
     steps:
       # 3. Check out the specified branch
