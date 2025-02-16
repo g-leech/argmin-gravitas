@@ -26,13 +26,6 @@ jobs:
         with:
           ref: ${{ inputs.branch }}
 
-    steps:
-      # 3. Check out the specified branch
-      - name: Check out code
-        uses: actions/checkout@v3
-        with:
-          ref: ${{ github.event.inputs.branch }}
-
       # 4. Build the site using your existing Docker build script
       - name: Build the site using Docker
         run: |
