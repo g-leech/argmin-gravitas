@@ -38,6 +38,7 @@ jobs:
     if: ${{ github.ref_name == 'master' }}
     name: Build and Deploy to Netlify Development
     environment: development
+    runs-on: ubuntu-latest
     
     steps:
       # Check out the specified branch
