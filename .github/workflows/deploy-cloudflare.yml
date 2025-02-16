@@ -1,10 +1,13 @@
 name: Build & Deploy to Cloudflare
 
 on:
-  # 1. Manual trigger via the Actions tab
+  # Forkflow called by another workflow
   workflow_call:
     inputs:
       branch:
+        required: true
+        type: string
+      environment:
         required: true
         type: string
 
@@ -12,6 +15,7 @@ jobs:
   build-and-deploy:
     name: Build and Deploy to Cloudflare
     runs-on: ubuntu-latest
+    environment: ${{ github.event.inputs.environment }}
 
     steps:
       # Check out the specified branch

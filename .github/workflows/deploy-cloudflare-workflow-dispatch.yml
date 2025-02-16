@@ -15,8 +15,6 @@ on:
 jobs:
   deploy:
     uses: ./.github/workflows/deploy-cloudflare.yml
-    environment: ${{ github.event.inputs.environment }}
     with:
       branch: ${{ github.event.inputs.branch }}
-    secrets:
-      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      environment: ${{ github.event.inputs.environment }}
