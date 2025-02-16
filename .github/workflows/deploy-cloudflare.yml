@@ -10,28 +10,31 @@ on:
       environment:
         required: true
         type: string
+    secrets:
+      CLOUDFLARE_API_TOKEN:
+        required: true
 
 jobs:
   build-and-deploy:
     name: Build and Deploy to Cloudflare
     runs-on: ubuntu-latest
     
-    # 2. Set job-level environment for secrets access.
+    # Set job-level environment for secrets access.
     environment: ${{ inputs.environment }}
 
     steps:
-      # 3. Check out the specified branch
+      # Check out the specified branch
       - name: Check out code
         uses: actions/checkout@v3
         with:
           ref: ${{ inputs.branch }}
 
-      # 4. Build the site using your existing Docker build script
+      # Build the site using your existing Docker build script
       - name: Build the site using Docker
         run: |
           ./scripts/build.sh
 
-      # 5. Deploy to Cloudflare using the Cloudflare Wrangler Action
+      # Deploy to Cloudflare using the Cloudflare Wrangler Action
       - name: Deploy
         uses: cloudflare/wrangler-action@v3
         with:
