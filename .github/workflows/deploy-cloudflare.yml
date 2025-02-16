@@ -1,4 +1,4 @@
-name: Build & Deploy to Netlify
+name: Build & Deploy to Cloudflare
 
 on:
   # 1. Manual trigger via the Actions tab
@@ -18,7 +18,7 @@ on:
 
 jobs:
   build-and-deploy:
-    name: Build and Deploy to Netlify
+    name: Build and Deploy to Cloudflare
     runs-on: ubuntu-latest
     
     # 2. Set job-level environment for secrets access.
@@ -36,17 +36,22 @@ jobs:
         with:
           ref: ${{ env.BRANCH }}
 
+    steps:
+      # 3. Check out the specified branch
+      - name: Check out code
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.inputs.branch }}
+
       # 4. Build the site using your existing Docker build script
       - name: Build the site using Docker
         run: |
           ./scripts/build.sh
 
-      # 5. Deploy to Netlify using the Netlify CLI Action
-      - name: Deploy to Netlify
-        uses: netlify/actions/cli@master
+      # 5. Deploy to Cloudflare using the Cloudflare Wrangler Action
+      - name: Deploy
+        uses: cloudflare/wrangler-action@v3
         with:
-          # --prod does a production deploy
-          args: deploy --dir=_site --prod
-        env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          environment: ${{ github.event.inputs.environment }}
+          workingDirectory: "_site"
