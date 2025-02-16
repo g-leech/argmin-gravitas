@@ -8,7 +8,6 @@ on:
         description: "Branch to build and deploy"
         required: false
         default: "master"
-    inputs:
       environment:
         description: "Environment to deploy to"
         required: false
