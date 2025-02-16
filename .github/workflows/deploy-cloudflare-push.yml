@@ -3,7 +3,7 @@ name: Deploy to Cloudflare on Push
 on:
   push:
     branches:
-      - master
+      - master-cloudflare
 
 jobs:
   deploy_master:
