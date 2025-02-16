@@ -7,14 +7,6 @@ on:
       branch:
         required: true
         type: string
-      environment:
-        required: true
-        type: string
-    secrets:
-      NETLIFY_AUTH_TOKEN:
-        required: true
-      NETLIFY_SITE_ID:
-        required: true
 
 jobs:
   build-and-deploy:
@@ -22,20 +14,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Verify secrets are available
-        run: |
-          if [ -z "${{ secrets.NETLIFY_AUTH_TOKEN }}" ]; then
-            echo "NETLIFY_AUTH_TOKEN is not set"
-            exit 1
-          else
-            echo "NETLIFY_AUTH_TOKEN is set"
-          fi
-          if [ -z "${{ secrets.NETLIFY_SITE_ID }}" ]; then
-            echo "NETLIFY_SITE_ID is not set"
-            exit 1
-          else
-            echo "NETLIFY_SITE_ID is set"
-          fi
 
       # Check out the specified branch
       - name: Check out code
