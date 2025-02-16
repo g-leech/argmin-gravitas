@@ -13,8 +13,27 @@ on:
         default: "development"
 
 jobs:
-  deploy:
-    uses: ./.github/workflows/deploy-cloudflare.yml
-    with:
-      branch: ${{ github.event.inputs.branch }}
-      environment: ${{ github.event.inputs.environment }}
+  build-and-deploy:
+    name: Build and Deploy to Cloudflare
+    runs-on: ubuntu-latest
+    environment: ${{ github.event.inputs.environment }}
+
+    steps:
+      # Check out the specified branch
+      - name: Check out code
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.inputs.branch }}
+
+      # Build the site using your existing Docker build script
+      - name: Build the site using Docker
+        run: |
+          ./scripts/build.sh
+
+      # Deploy to Cloudflare using the Cloudflare Wrangler Action
+      - name: Deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          environment: ${{ inputs.environment }}
+          workingDirectory: "_site"
