@@ -23,7 +23,7 @@ jobs:
     
     # 2. Set job-level environment for secrets access.
     # For push events, determine environment based on the branch name.
-    environment: ${{ github.event_name == 'push' ? (github.ref_name == 'master' ? 'production' : 'development') : github.event.inputs.environment }}
+    environment: ${{ (github.event_name == 'push' && github.ref_name == 'master') ? 'production' : (github.event_name == 'push' ? 'development' : github.event.inputs.environment) }}
 
     # Create a job-level environment variable for the branch.
     env:
