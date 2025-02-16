@@ -1,0 +1,21 @@
+name: Deploy to Neflify on Push
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy_master:
+    if: ${{ github.ref_name == 'master' }}
+    uses: ./.github/workflows/deploy-netlify.yml
+    with:
+      branch: master
+      environment: production
+
+  deploy_non_master:
+    if: ${{ github.ref_name != 'master' }}
+    uses: ./.github/workflows/deploy-netlify.yml
+    with:
+      branch: ${{ github.ref_name }}
+      environment: development

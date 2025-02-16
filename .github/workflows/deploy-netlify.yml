@@ -1,20 +1,15 @@
 name: Build & Deploy to Netlify
 
 on:
-  # 1. Manual trigger via the Actions tab
-  workflow_dispatch:
+  # 1. Workflow call invoked by another action
+  workflow_call:
     inputs:
       branch:
-        description: "Branch to build and deploy"
-        required: false
-        default: "master"
+        required: true
+        type: string
       environment:
-        description: "Environment to deploy to"
-        required: false
-        default: "development"
-  push:
-    branches:
-      - master
+        required: true
+        type: string
 
 jobs:
   build-and-deploy:
@@ -22,19 +17,14 @@ jobs:
     runs-on: ubuntu-latest
     
     # 2. Set job-level environment for secrets access.
-    # For push events, determine environment based on the branch name.
-    environment: ${{ (github.event_name == 'push' && github.ref_name == 'master') ? 'production' : (github.event_name == 'push' ? 'development' : github.event.inputs.environment) }}
-
-    # Create a job-level environment variable for the branch.
-    env:
-      BRANCH: ${{ github.event_name == 'push' ? github.ref_name : github.event.inputs.branch }}
+    environment: ${{ inputs.environment }}
 
     steps:
       # 3. Check out the specified branch
       - name: Check out code
         uses: actions/checkout@v3
         with:
-          ref: ${{ env.BRANCH }}
+          ref: ${{ inputs.branch }}
 
       # 4. Build the site using your existing Docker build script
       - name: Build the site using Docker
