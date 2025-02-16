@@ -1,7 +1,7 @@
 name: Build & Deploy to Cloudflare
 
 on:
-  # Manual trigger via the Actions tab
+  # Forkflow called by another workflow
   workflow_call:
     inputs:
       branch:
