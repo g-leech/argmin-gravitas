@@ -7,17 +7,11 @@ on:
       branch:
         required: true
         type: string
-      environment:
-        required: true
-        type: string
 
 jobs:
   build-and-deploy:
     name: Build and Deploy to Cloudflare
     runs-on: ubuntu-latest
-    
-    # Set job-level environment for secrets access.
-    environment: ${{ inputs.environment }}
 
     steps:
       # Check out the specified branch
