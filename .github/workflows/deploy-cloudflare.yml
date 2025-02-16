@@ -10,9 +10,6 @@ on:
       environment:
         required: true
         type: string
-    secrets:
-      CLOUDFLARE_API_TOKEN:
-        required: true
 
 jobs:
   build-and-deploy:
