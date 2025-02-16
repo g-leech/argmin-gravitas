@@ -8,14 +8,14 @@ on:
 jobs:
   deploy_master:
     if: ${{ github.ref_name == 'master' }}
-    uses: ./.github/workflows/deploy-netlify.yml
+    uses: ./.github/workflows/deploy-cloudflare.yml
     with:
       branch: master
       environment: production
 
   deploy_non_master:
     if: ${{ github.ref_name != 'master' }}
-    uses: ./.github/workflows/deploy-netlify.yml
+    uses: ./.github/workflows/deploy-cloudflare.yml
     with:
       branch: ${{ github.ref_name }}
       environment: development
