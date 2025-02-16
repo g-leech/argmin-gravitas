@@ -16,8 +16,6 @@ jobs:
     name: Build and Deploy to Netlify
     runs-on: ubuntu-latest
 
-    environment: ${{ inputs.environment }}
-
     steps:
       # 2. Validate our secrets are present
       - name: Check secrets
