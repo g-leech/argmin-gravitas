@@ -1,0 +1,14 @@
+FROM jekyll/jekyll:4.0
+
+# Create a working directory.
+WORKDIR /srv/jekyll
+
+# Copy dependency files first for caching.
+COPY Gemfile ./
+
+# Make files be owned by jekyll user.
+RUN chown -R jekyll:jekyll /srv/jekyll
+
+# Update the bundle and add the current platform lock.
+RUN bundle lock
+

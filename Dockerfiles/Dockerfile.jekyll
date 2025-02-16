@@ -1,0 +1,34 @@
+# Use Ruby 3.1 series on Alpine.
+FROM ruby:3.1-alpine
+
+# Install system dependencies.
+# (Node.js is here for asset compilation, adjust as needed.)
+RUN apk update && apk add --no-cache \
+    build-base \
+    nodejs \
+    libffi-dev
+
+# Install bundler if it’s not already available.
+RUN gem install bundler -v 2.3.25
+
+# Set working directory.
+WORKDIR /srv/jekyll
+
+# Copy Gemfiles (so that dependencies are installed during image build).
+COPY Gemfile Gemfile.lock ./
+
+# Install Ruby dependencies as specified in the Gemfile.
+RUN bundle install
+
+# Copy the rest of the project files.
+# When running interactively you will mount your project folder over this.
+COPY . .
+
+# Expose the default Jekyll port.
+EXPOSE 4000
+
+ENV JEKYLL_ENV=docker
+
+# Run the Jekyll server with incremental rebuilds and bind to localhost.
+CMD ["bundle", "exec", "jekyll", "serve", "--incremental", "--host", "0.0.0.0", "--config", "_config_docker.yml"]
+
