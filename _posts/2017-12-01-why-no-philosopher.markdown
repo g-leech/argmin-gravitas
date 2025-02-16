@@ -291,6 +291,17 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	the rules</a>  <a href="{{dial}}">are themselves</a>  at issue. I love it, but that is not enough. 
 	</li> 
 	<br><br>
+	<!--  -->
+	<li>
+		<h3>philosophy as speculation as boundary-pushing as adventure as terminal value</h3>
+		<a href="{{schwitzg}}">Schwitzgebel</a>: 
+		<blockquote>
+			Assume for a minute the worst about philosophy: that it has no instrumental value for other ends, that philosophers will never agree on the correct answers to anything, that studying ethics makes us no ethically better (as my own empirical research on the behaviour of ethicists tends to suggest), that philosophy is often just a tool to justify our vices, that our philosophical inclinations reveal more about our fixations and pathologies than about the world we seek to understand. Fine and (for the sake of argument) granted! Maybe it really is that bad. And yet: simply to pose a philosophical question is already a magnificent cognitive achievement – even just occasionally, even just in play. Our capacity for philosophical enquiry separates us from all other species. Earth becomes a very different and more interesting planet than it would otherwise be, regardless of any truths or practical consequences that might emerge...
+			<br><br>
+			 These broad, penumbral questions can be addressed by big-picture speculative scientists, by ambitious artists and cultural critics, or by philosophers. We need draw no sharp distinction. Theoretical physicists and philosophers of physics can equally and collaboratively explore and debate interpretations of quantum mechanics. Theoretical psychologists and philosophers of psychology can equally and collaboratively explore and debate the nature of mental representation. Novelists and philosophers can equally and collaboratively explore and debate what constitutes a life well lived or how to find meaning in a vast, seemingly indifferent cosmos.<br><br>
+			 Philosophy can aim to open or to close. Suppose you enter Philosophical Topic X imagining three viable, mutually exclusive possibilities: A, B and C. The philosophy of closing aims to reduce three to one. It aims to convince you that A is correct and the others wrong. If it succeeds, you know the truth about Topic X: A is the answer! In contrast, the philosophy of opening aims to add new possibilities into your thinking – possibilities that you hadn’t considered before or that you had considered but too quickly dismissed. 
+		</blockquote>
+	</li>
 <!--  -->
 <!--  -->
 	<li>
