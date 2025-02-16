@@ -15,11 +15,26 @@ jobs:
   build-and-deploy:
     name: Build and Deploy to Netlify
     runs-on: ubuntu-latest
-    
-    # 2. Set job-level environment for secrets access.
+
     environment: ${{ inputs.environment }}
 
     steps:
+      # 2. Validate our secrets are present
+      - name: Check secrets
+        run: |
+          if [ -z "${{ secrets.NETLIFY_AUTH_TOKEN }}" ]; then
+            echo "NETLIFY_AUTH_TOKEN is NOT set"
+            exit 1
+          else
+            echo "NETLIFY_AUTH_TOKEN is set"
+          fi
+          if [ -z "${{ secrets.NETLIFY_SITE_ID }}" ]; then
+            echo "NETLIFY_SITE_ID is NOT set"
+            exit 1
+          else
+            echo "NETLIFY_SITE_ID is set"
+          fi
+
       # 3. Check out the specified branch
       - name: Check out code
         uses: actions/checkout@v3
