@@ -9,15 +9,13 @@ jobs:
   deploy_master:
     if: ${{ github.ref_name == 'master' }}
     uses: ./.github/workflows/deploy-cloudflare.yml
-    environment: production
-    secrets: inherit
     with:
       branch: master
+      environment: production
 
   deploy_non_master:
     if: ${{ github.ref_name != 'master' }}
     uses: ./.github/workflows/deploy-cloudflare.yml
-    environment: development
-    secrets: inherit
     with:
       branch: ${{ github.ref_name }}
+      environment: development

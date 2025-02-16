@@ -9,15 +9,13 @@ jobs:
   deploy_master:
     if: ${{ github.ref_name == 'master' }}
     uses: ./.github/workflows/deploy-netlify.yml
-    environment: production
-    secrets: inherit
     with:
+      environment: production
       branch: master
 
   deploy_non_master:
     if: ${{ github.ref_name != 'master' }}
     uses: ./.github/workflows/deploy-netlify.yml
-    environment: development
-    secrets: inherit
     with:
+      environment: development
       branch: ${{ github.ref_name }}
