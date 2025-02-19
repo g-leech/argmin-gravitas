@@ -36,5 +36,5 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          # This production environment disables cloudflare "preview" feature and is nothing to do with our development/production environments
-          command: pages deploy _site --branch=production --project-name=${{ secrets.CLOUDFLARE_PROJECT_NAME }}
+          # The production flag here is about cloudflare "preview mode" has nothing to do with our development/production environments.
+          command: pages deploy _site --production --project-name=${{ secrets.CLOUDFLARE_PROJECT_NAME }}
