@@ -35,5 +35,5 @@ jobs:
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          environment: ${{ github.event.inputs.environment }}
-          workingDirectory: "_site"
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy _site --branch main --project-name=${{ secrets.CLOUDFLARE_PROJECT_NAME }}
