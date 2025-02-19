@@ -29,8 +29,7 @@ jobs:
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          environment: ${{ inputs.environment }}
-          workingDirectory: "_site"
+          command: pages deploy _site --project-name=${{ secrets.CLOUDFLARE_PROJECT_NAME }}
 
   deploy_non_master:
     if: ${{ github.ref_name != 'master' }}
@@ -55,5 +54,4 @@ jobs:
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          environment: ${{ inputs.environment }}
-          workingDirectory: "_site"
+          command: pages deploy _site --project-name=${{ secrets.CLOUDFLARE_PROJECT_NAME }}
