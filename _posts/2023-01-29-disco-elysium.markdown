@@ -134,6 +134,8 @@ It's melancholy but not self-pitying and not life-denying. <a href="#fn:7" id="f
             You don’t reforge the tattered remains of your cultural organization into a blood-and-grinding-gears video game company because it’s nice. And natural. You do it because you’re utterly out of options<br><br>
             An important part of ZA/UM studio culture was hosting life-and-gesture drawing events at least once a week. With the help of designer Toon Vugts, we held a public weekly community event where some twenty people, professionals, and hobbyists alike, would regularly come and draw with us. Our studio happened to share the same decrepit building as a small bookstore, and the two youngwomen running it kindly invited us to use their back room for these events. Together we worked towards reestablishing a tradition of figure drawing.
         </blockquote>
+<!--  -->
+        Another crucial thing: they didn't learn Unity that well - for the entire 6 year dev time they had one [contractor](https://theknightsofu.com/projects/disco-elysium/#details) who were making things actually work.  
     </div>
 </div>
 
@@ -783,11 +785,12 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 <div class="accordion">
     <h3>bad air guitar</h3>
     <div>
-* https://sciendo.com/issue/BSMR/9/1<be>
+* https://sciendo.com/issue/BSMR/9/1<br>
 * https://haywiremag.com/features/the-miracle-animal-and-the-pale-inside-existential-thought-in-disco-elysium/ <br>
 * http://www.firstpersonscholar.com/i-learn-through-paradise-or-disco-inferno/ <br>
 * https://www.youtube.com/watch?v=zo4sHDGiDC0 <br>
 * https://www.youtube.com/watch?v=n_7ngJDbUQE <br>
+* https://haywiremag.com/features/the-miracle-animal-and-the-pale-inside-existential-thought-in-disco-elysium/<br>
 * https://bulletpointsmonthly.com/2019/11/06/the-world-is-a-tough-place-but-we-all-live-in-it/ <br>
 * https://unwinnable.com/2019/11/06/disco-elysium-and-finding-the-beauty-in-a-cynical-world/ <br>
 * https://uppercutcrit.com/on-bad-endings-resistance-and-meaning-making-in-the-apocalypse/?utm_source=rss&utm_medium=rss&utm_campaign=on-bad-endings-resistance-and-meaning-making-in-the-apocalypse <br>
@@ -808,7 +811,8 @@ But playing it I am reminded what is great about the left – the cussed rejecti
         https://en.wikipedia.org/wiki/Ravachol<br>
         https://en.wikipedia.org/wiki/Martinique<br>
         https://en.wikipedia.org/wiki/New_Caledonia<br>
-        https://en.wikipedia.org/wiki/Insulinde_(political_party)
+        https://en.wikipedia.org/wiki/Insulinde_(political_party)<br>
+        https://en.wikipedia.org/wiki/Fuerzas_Armadas_de_Liberaci%C3%B3n_Nacional_Puertorrique%C3%B1a
     </div>
     <h3>Quotes</h3>
     <div>

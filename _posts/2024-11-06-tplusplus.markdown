@@ -159,3 +159,4 @@ Let the “Transformer++” be a Transformer with
 Maybe
 
 https://kellerjordan.github.io/posts/muon/
+https://epochai.substack.com/p/how-has-deepseek-improved-the-transformer

@@ -1,0 +1,208 @@
+---
+layout:     post
+title:      "vignettes from 2024"
+baselink:   /2024
+permalink:  /2024
+date:       2025-02-04
+author:     Gavin   
+img:        /img/mihaly.png
+
+visible:    1
+published:  true
+quality:    
+
+summary:    true stories, by which I mean boring stories
+confidence: 
+importance: 2
+wordcount:  
+categories: 
+where:      "Bristol and Paris"
+---
+
+Jan: Gavin is going to California. Bloody airline website won't let me check in; error message is uselessly vague. 
+
+Sigh. Airport. Lady on the desk asks for my ESTA confirmation. Takes me ages to find the two numbers you need to log in, so she gets bored and overrides the message and waves me through.
+
+I then see that actually I _don't_ have an ESTA. I apply for one sweating in the security queue. Comes through 67 minutes later, when I'm nearing the front of the boarding queue at the gate. The clerk has to refresh like 4 times before it propagates to their client. Phew.
+
+God bless the lazy, god bless the feds
+
+<br>
+
+---
+
+<br>
+
+Feb: I arrive in Seoul for a fancy event. I am in my scabby comfy winter flight outfit (longjohns under joggers). I arrive at the extremely large five-star hotel. I decide to pick up my conference badge on my way to my room. The elevator opens upon a sea of dark blue suits and coiffure.
+
+I brazen it, walk up to reception and ask for my things. The woman looks me up and down and hesitates, unsure how to put it.
+
+"I'll go get freshened up first" I say.
+
+"You do that!" she says brightly.
+
+I did not bring a suit. It is 7pm on a Sunday. I am hosed. My data isn't working - the great workhorse Lebara finally meets its match. Where the fuck?
+
+I wander around downtown blindly, stunned by the gross luxury and the exchange rate. 10 million won for a suit? How much is that again? Ten thousand bucks right?? Jesus. 
+
+I find something for one million and walk out in Boss.
+
+<br>
+
+---
+
+<br>
+
+Mar: Get some results from a forecasting tournament. Only 89th percentile - but the median superforecaster was 70th! After 3 years of running a forecasting consultancy I finally have a track record. Something in the back of my head stops screaming.
+
+<br>
+
+---
+
+<br>
+
+Apr: A famous techie phones me out of the blue on a Saturday morning and asks Arb to do something quite difficult. We run a one-month pilot, working like dogs, scouring the earth. We are relieved when in the end he doesn't move it forward. Later someone else does it, but not that well.
+
+<br>
+
+---
+
+<br>
+
+May: Write my thesis in 220 hours after 6 months of procrastinating. I do what you're absolutely not supposed to and write a new paper to include in it. A pretty strong critique of my nominal field, machine learning. Farewell.
+
+<br> 
+
+---
+
+<br>
+
+Jun: I help run a health camp. In the space of twenty seconds, I faint, bite a doctor, and get slapped by a woman.
+
+<br>
+
+---
+
+<br>
+
+Jul: I am asked to write a book in 3 weeks.
+
+OK rather: I go through a [big corpus](https://www.dwarkeshpatel.com/podcast) of transcripts and select the most insightful 5%. And then I add a couple hundred definitions, caveats, fact-checks, intros, primers, and essays on top. It's 50% original content but will be marketed as if it wasn't. 
+
+And the draft is only really finalised 3 months later. Still counts!
+
+Maybe those 5 years in grad school were for something.
+
+<br>
+
+---
+
+<br>
+
+Jul: A director of the Ronald Reagan Foundation tousles my hair after I say something caustic.
+
+<br>
+
+---
+
+<br>
+
+Aug: I make up some very large rewards for the best estimators in the summer camp I run. One is "you get to decide what tomorrow's classes are". 
+
+I improvise a class on metaphysics on demand. I talk at length about physics I have never studied properly. It only has five or six big errors, I think.
+
+<br>
+
+---
+
+<br>
+
+Aug: I tortured a good friend accidentally. A student was panicking over a stomachache and we collectively looped our way into taking her to the ER. Has to be him because she has Covid and he's immune and I'm writing a stupid class on metaphysics. 
+
+Saturday night in Oxford: 8 hour trip. He brought his Kindle - but gave it to her when she went in to the treatment room. His phone dies. He didn't bring a book. At around 3am they give her a pregnancy test and send her away.
+
+His hourly rate at real work is something like $400 so I cost the world quite a lot.
+
+<br>
+
+---
+
+<br>
+
+Sep: Hoisting my gf, something goes ping in my left calf. Unable to walk on it.
+
+The standard of care is "RICE": rest, ice, compression, elevation. Doing some deep research, I find that all of these except _maybe_ elevation are counterproductive: the new collagen fibres need to be walked on to align correctly, the inflammation is probably helpful, the area needs lots of blood flow. 
+
+I ignore what the doctor gives me and gently ease in to walking on it and eat a vast quantity of "vollagen". In two weeks it is good as new. 
+
+What world is this I am stranded in?
+
+<br>
+
+---
+
+
+<br>
+
+Oct: first larp, “97 Poets of Revachol”. The Disco Elysium setting was enough to overcome my huge prejudice against (what I wrongly predicted would be) the shallowness and affectedness of the performers.
+
+Venue was perfect, a 200-room derelict hospital with deep cobwebs and lead paint. Most people slept in it for 3 nights, on thin but new mattresses.
+
+My fellow performers were mostly very good. For some it’s their 60th performance.
+
+I was an old mystic convinced that he must obtain followers because only he knew the Truth. The main challenge and thrill of the play was intellectual for me: I had to come up with a whole metaphysical system and derive my politics from it. I ended up as a Literalist Hegelian whose position that death is not real made him indifferent to the violence around him.
+
+Some very impressive parts, like the opt-in box on the application form if you wanted a modernist larp:
+
+> The Hideout game is very specific, and its design centers around waiting, slow tension, claustrophobic relationships, and boredom.
+
+<br>
+
+---
+
+<br>
+
+Nov: We are in the Chiayi mountains to try some tea. Wander a mile up the hill to what Gmaps thinks is a tasting place. It's actually a closed roastery. We take about 5 minutes dumbly communicating what we want and not understanding their refusal before they shrug and let us in to their locked office.
+
+We wreak similar kinds of uncomprehending havoc all week. It is so much fun.
+
+<br>
+
+---
+
+<br>
+
+Nov: Me and Juan get waylaid by Typhoon Kongrey, stranded in Shanghai airport. The state airline had no idea what to do with us. Their website is totally inoperable. We waited 14 hours before we got out: 5 hours of them not owning up to the obvious coming cancellation, 4 hours of being led around in circles skyside, 3 hours totally abandoned next to immigration (not allowed through because British), 2 hours waiting to be rebooked. Phone very nearly died.
+
+Told nothing at any stage, probably just because of language barrier. Put on a bus "to a hotel" without being told where it was. Not told when the rebooked flight was. Air China lady was I suppose doing her best, but ended up making us violate our visa. We were thus detained in a little glass cell for an hour on the way out.
+
+The thing is that the processes aren't even efficiently authoritarian. No one wrote anything down. No one passed a list of names to the hotel; whoever was in the bus at the right time got a room. They locked me out of my room after one night; I told them I was entitled to two and they shrugged and unlocked it.
+
+The hotel took our passports. They seemed confused why we thought this was a problem; they seemed to think this was a safekeeping service.
+
+The plugs spark alarmingly whenever used. 
+
+It ended up taking me 86 hours to get from door to door, Bristol to Taipei.
+
+
+<br>
+
+---
+
+<br>
+
+Nov: I am very paranoid about connecting to CCP wifi in the airport but Juan is a zoomer and needs his fix so I let him spoil his hardware. I hold out as long as possible before using their power sockets even, and use a dumb power pack cable even then.
+
+Obviously the airport connection portal is completely broken, slow, god knows what they're probing. So he just fires up his local copy of Ollama and asks it what the Shanghai wifi url is likely to be. It guesses right.
+
+
+<br>
+
+---
+
+<br>
+
+
+Dec: My company is having bank issues. I take a friend out to lunch, analyst at Wise, who is kindly able to tell me what happened (my bank dropped out of a partnership programme and incurred a more stringent level of KYC/AML they had no API to handle) when no one else on earth could.
+
+<br><br>

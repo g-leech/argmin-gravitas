@@ -28,6 +28,7 @@
 {%		assign math = "http://zackmdavis.net/blog/2012/08/mathematics-is-the-subfield-of-philosophy-that-humans-are-good-at/"	%}
 {%		assign crit = "http://dailynous.com/2015/10/22/does-philosophy-improve-critical-thinking/"	%}
 {%		assign schwitz = "http://www.faculty.ucr.edu/~eschwitz/SchwitzAbs/EthBehBlackwell.htm"	%}
+{%		assign schwitzg = "https://aeon.co/essays/if-you-ask-why-youre-a-philosopher-and-youre-awesome"	%}
 {%		assign dave = "https://www.davidpearce.com/"	%}
 {%		assign fp = "https://en.wikipedia.org/wiki/Functional_programming"	%}
 {%		assign triv = "https://en.wikipedia.org/wiki/Trivium"	%}

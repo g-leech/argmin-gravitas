@@ -127,4 +127,12 @@ The full £18k sticker price probably isn't worth it unless you have really hard
 	</div>
 </div>
 
+<br><br>
+
+## See also
+
+* https://mynamelowercase.com/blog/my-experience-doing-a-part-time-philosophy-degree-alongside-a-full-time-job/
+
+<br><br>
+
 {%  include ou/foots.html %}

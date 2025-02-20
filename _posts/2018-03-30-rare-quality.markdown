@@ -176,9 +176,16 @@ But if we were stubbornly happy - if we often experienced joy for no particular 
 <br><br>
 
 
+> he felt already not free enough, but wanted wealth. It was not the fault of Dantès, but of God - who, while limiting the power of man, has created in him infinite desires!
+
+<br><br>
+
+
 {%	include quality/foots.html 	%}
 
 
 ## See also
 
 * [Convergent analysis from Jooda](https://bewrong.substack.com/p/more-good-things)
+* [NOS](https://www.jstor.org/stable/45217248)
+* [Slatton](https://grantslatton.com/nobody-cares)

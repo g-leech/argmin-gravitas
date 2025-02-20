@@ -21,49 +21,152 @@ visible:	true
 {%  assign dubs = "https://open.spotify.com/playlist/1z49SUEtGIJZuyhmj00hqa?si=80c07a1e89604308"	%}
 {%  assign landfill = "https://open.spotify.com/playlist/56qHq7Mp5Pzs9QpbilOd2K?si=f6e9a4dc7f424efd" %}
 
+<style>
+	{% include css/recs.css	%}
+</style>
+
+<br>
+
 ## Listen
+<div class="container">
+	<a href="{{album}}">{% include fa/record-vinyl-solid.svg %}</a>
+	<a href="{{album}}">Albums</a>
+</div>
 
 
-* <a href="{{album}}">Albums</a><br><br>
-* <a href="/playlists">Playlists</a><br><br>
-* <a href="/punk">punk</a>, <a href="{{j}}">jazz</a>, <a href="/country">country</a>, <a href="{{hh}}">hip-hop</a>, <a href="{{leccy}}">electronic</a>, <a href="{{landfill}}">indie</a>, <a href="{{x}}">☧mas</a>, <a href="{{ragg}}">reggae</a>, <a href="{{dubs}}">dub</a>, <a href="/nation-sound">nations</a>
+<div class="container">
+	<a href="/playlists">{% include fa/play.svg %}</a>
+	<a href="/playlists">Playlists</a>
+	<blockquote>
+		<div class="container">
+			<a href="/punk">{% include fa/biohazard.svg %}</a> <a href="/punk">punk</a>, 
+			<a href="{{j}}">{% include fa/question-solid.svg	%}</a> <a href="{{j}}">jazz</a>, 
+			<a href="/country">{% include fa/hat-cowboy-side-solid.svg %}</a> <a href="/country">country</a>,
+			<a href="{{hh}}">{% include fa/headphones-simple-solid.svg %}</a> <a href="{{hh}}">hip-hop</a>,
+			<a href="{{leccy}}">{% include fa/laptop-solid.svg %}</a> <a href="{{leccy}}">electronic</a>,
+			<a href="{{landfill}}">{% include fa/wine-bottle-solid.svg %}</a> <a href="{{landfill}}">indie</a>,
+		</div>
+		<div class="container">
+			<a href="{{x}}">{% include fa/candy-cane-solid.svg %}</a> <a href="{{x}}">☧mas</a>,
+			<a href="{{ragg}}">{% include fa/cannabis-solid.svg %}</a> <a href="{{ragg}}">reggae</a>,
+			<a href="{{dubs}}">{% include fa/user-astronaut-solid.svg %}</a> <a href="{{dubs}}">dub</a>,
+			<a href="/nation-sound">{% include fa/earth-americas-solid.svg %}</a> <a href="/nation-sound">nations</a>
+		</div>
+	</blockquote>
+</div>
 
 <br>
 
 ## Read
 
-* <a href="/quotations">Remarks</a>
-* <a href="/books">Books</a>
-* <a href="/technicalities">Technical books</a>
-* <a href="/blogroll">Blogs</a>
-* <a href="/best">Posts</a>
-* <a href="/papers">Papers</a>
-* <a href="/tweets">Tweets</a>
-* <a href="/journos">Journos</a>
-<!-- * <a href="/poems">Poems</a> -->
+<div class="container">
+	<a href="/quotations">{% include fa/quote-left-solid.svg %}</a> <a href="/quotations">Remarks</a>
+</div>
+
+<div class="container">
+	<a href="/books">{% include fa/book-open-solid.svg %}</a> <a href="/books">Books</a>
+</div>
+ 
+<div class="container">
+	<a href="/technicalities">{% include fa/gear-solid.svg %}</a>
+	<a href="/technicalities">Technical books</a>
+</div>
+
+<div class="container">
+	<a href="/essays">{% include fa/message-regular.svg %}</a>
+	<a href="/essays">Essays</a>, or&nbsp;
+	 <a href="/best">mine</a>
+</div>
+
+<div class="container">
+	<a href="/fav_poems">{% include fa/hurricane-solid.svg %}</a>
+	<a href="/fav_poems">Poems</a> 
+</div>
+
+<div class="container">
+	<a href="/blogroll">{% include fa/rss-solid.svg %}</a>
+	<a href="/blogroll">Blogs</a>
+</div>
+
+
+
+<div class="container">
+	<a href="/papers">{% include fa/file-regular.svg %}</a>
+	<a href="/papers">Papers</a>
+</div>
+
+<!-- <div class="container">
+	<a href="/tweets">% include fa/.svg %}</a>
+	<a href="/tweets">Tweets</a>
+</div> -->
+
+<div class="container">
+	<a href="/journos">{% include fa/newspaper-regular.svg %}</a>
+	<a href="/journos">Journos</a>
+</div>
+
 
 <br>
 
 ## Gawk
 
-* <a href="{{filum}}">Films</a>, <a href="{{tv}}">tv</a>
-* <a href="/specie">Species</a>
-* <a href="{{gam}}">Games</a>, <a href="{{boa}}">games</a>
+<div class="container">
+	<a href="{{filum}}">{% include fa/film-solid.svg %}</a>
+	<a href="{{filum}}">Films</a>
+</div>
+
+<div class="container">
+	<a href="{{tv}}">{% include fa/tv-solid.svg %}</a>
+	<a href="{{tv}}">Tv</a>
+</div>
+
+<div class="container">
+	<a href="/specie">{% include fa/pagelines-brands-solid.svg %}</a>
+	<a href="/specie">Species</a>
+</div>
+
+<div class="container">
+	<a href="{{gam}}">{% include fa/gamepad-solid.svg %}</a>
+	<a href="{{gam}}">Games</a>,
+	<a href="{{boa}}">{% include fa/dice-solid.svg %}</a>
+	<a href="{{boa}}">games</a>
+</div>
+
+
+
 <!-- 
-\* memes
-\* art
-\* photography
+\memes
+\art
+\photography
  -->
- 
 <br>
 
 ## Misc
 
-* <a href="/food">Food</a>, <a href="{{resto}}">resto</a>
-* <a href="/stuff">Goods</a>
-* <a href="/deaths">Obituaries</a>
-* <a href="/favs/all">Misc</a>
+<div class="container">
+	<a href="/food">{% include fa/bowl-food-solid.svg %}</a>
+	<a href="/food">Food</a>, 
+	<a href="{{resto}}">{% include fa/utensils-solid.svg %}</a>
+	<a href="{{resto}}">resto</a>
+</div>
+
+<div class="container">
+	<a href="/stuff">{% include fa/boxes-stacked-solid.svg %}</a>
+	<a href="/stuff">Goods</a>
+</div>
+
+
+<div class="container">
+	<a href="/deaths">{% include fa/skull-solid.svg %}</a>
+	<a href="/deaths">Obituaries</a>
+</div>
+
+<div class="container">
+	<a href="/favs/all">{% include fa/otter-solid.svg %}</a>
+	<a href="/favs/all">Other	</a>
+</div>
 
 
 
 
+{%	include padder.html 	howMuch=9	%}

@@ -46,6 +46,13 @@ So why isn't this the default move for the smart and lucky? Most obviously, few 
 
 So probably 80% of people would be unhappy with these "perks". In the median case, they are things you think you want but end up suffering more from.
 
+
+<br><br>
+
+## See also
+
+* [Against investor-ridden hyperscaling Valley startups](https://kipp.ly/founding-bad/)
+
 <br><br>
 
 <div class="footnotes">
@@ -67,3 +74,4 @@ So probably 80% of people would be unhappy with these "perks". In the median cas
 </ol>
 
 </div>
+
