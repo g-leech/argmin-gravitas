@@ -22,22 +22,26 @@
 
 		<form style="display: flex; flex-direction: column; gap: 1em;" name="{{slug}}" netlify>
 
-			<label style="display: flex; flex-direction: column; gap: 2px">
-				<small> Name </small>
-				<input style="padding: 5px 6px" type="text" name="name" placeholder="Name"/>
-			</label>
+			<div style="display: flex; gap: 1em;">
+				<label style="display: inline-flex; flex-direction: column; gap: 2px; width: calc(50% - 0.5em)">
+					<small> Name </small>
+					<input style="padding: 5px 6px" type="text" name="name" placeholder="Name"/>
+				</label>
+	
+				<label style="display: inline-flex; flex-direction: column; gap: 2px; width: calc(50% - 0.5em)">
+					<small> Email </small>
+					<input  style="padding: 5px 6px" type="email" name="email" placeholder="Email address"/>
+				</label>
+			</div>
 
-			<label style="display: flex; flex-direction: column; gap: 2px">
-				<small> Email </small>
-				<input  style="padding: 5px 6px" type="email" name="email" placeholder="Email address"/>
-			</label>
+			
 
-			<label style="display: flex; flex-direction: column; gap: 2px">
-				<small> Message </small>
+			<!-- <label style="display: flex; flex-direction: column; gap: 2px"> -->
+				<!-- <small> Message </small> -->
 				<textarea style="width: 100%; height: 12em; padding: 6px" name="message" placeholder="Type your comment here"></textarea>
-			</label>
+			<!-- </label> -->
 
-			<button type="submit">Send</button>
+			<button type="submit" style="padding: 5px 6px;">Send</button>
 		</form>
 	</div>
 

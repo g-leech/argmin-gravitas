@@ -38,30 +38,21 @@ I was at a corporate team-building event, because I wasn't persuasive enough to 
 
 The organisers set up a game: a three-player, unknown-length iterated <a href="{{pd}}">Prisoner's dilemma</a>. There was no initial discussion, but free discussion every two rounds. Payoffs were the standard unitless numbers, shifted so that some outcomes were negative. Scores began at zero. No objectives were given. <br><br>
 
-<center>
-<style>
-	th, td{padding:10px 5px;
-		border-style:solid;
-		border-width:1px;
-		overflow:
-		hidden;
-		word-break:
-		normal;
-		border-color:black;}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-lboi">All co-op</th>
-    <th class="tg-lboi">Some defect</th>
-    <th class="tg-0pky">All defect</th>
-  </tr>
-  <tr>
-    <td class="tg-lboi">All +1</td>
-    <td class="tg-lboi">Defectors +2<br>Co-op: -1</td>
-    <td class="tg-0pky">All -2</td>
-  </tr>
-</table>
-</center>
+
+<div class="table-wrapper">
+	<table>
+	<tr>
+		<th>All co-op</th>
+		<th>Some defect</th>
+		<th>All defect</th>
+	</tr>
+	<tr>
+		<td>All +1</td>
+		<td>Defectors +2<br>Co-op: -1</td>
+		<td>All -2</td>
+	</tr>
+	</table>
+</div>
 
 <br>
 

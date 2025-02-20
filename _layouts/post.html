@@ -87,16 +87,20 @@ layout: default
   
   <article class="post-content">
     {{ content }}
-    {%  include comments.html %}
-    <br><br>
-    {%  if page.categories  %}
+    
+    {%  if page.categories.size > 0   %}
+      <br><br>
         Tags: 
         {% for tag in page.categories %}
           <a style="color:green" href="/tags#{{ tag | replace: ',', ''  }}">{{ tag }}</a>
         {% endfor %}
     {%  endif  %}
 
-    <br><br><br><br>
+    <br><br>
+
+    {%  include comments.html %}
+
+    <br>
 
     {%  include mc.html %}
 

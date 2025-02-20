@@ -1,6 +1,6 @@
 ---
 layout: 	page
-title: 		""
+title: 		Bounty
 permalink:	/bounty
 visible:	false
 ---

@@ -28,6 +28,52 @@
     font-family: "Didot", "Times New Roman", Times, serif;
 }
 
+.table-wrapper{
+    width: 100%;
+    overflow: auto;
+    /* justify-content: center; */
+    /* display: flex; */
+}
+
+.table-wrapper table {
+    border-collapse:collapse;
+    border-spacing:0;
+    width: 100%;
+}
+
+.table-wrapper td{
+    padding:10px 5px;
+    border-style:solid;
+    border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+    vertical-align: top;
+    border-color: black;
+}
+
+.table-wrapper th{
+    padding:10px 5px;
+    border-style:solid;
+    border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+}
+.mjx-chtml{
+    max-width: 100%;
+    overflow: auto;
+}
+
+
+.box{
+    border: solid 1px var(--text-color);
+    padding: 1em;
+}
+
+
+h2{
+    line-height: 1.2em
+}
+
 @media (max-width: 600px) { 
 
     body{
