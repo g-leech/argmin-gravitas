@@ -8,7 +8,7 @@ visible:    false
 
 ## Alive
 
-Adam Gopnik, Nick Davies, Tim Harford, Kelsey Piper, Stephanie M Lee, Kevin Drum, John Pilger, Shane Bauer, Zoe Williams, Stuart Ritchie, Tom Chivers, Louis Theroux, Jonathan Meades, Adrian Chiles, Ian Hislop, Mark Curtis, Jon Ronson, Brian Toohey, Anatole Kaletsky, Ann Wroe, Mike Bird, John Burn-Murdoch, Fintan O'Toole, Nate Silver, Matt Yglesias, Paul Staines, Laurie Penny, Oliver Burkeman, Ananyo Bhattacharya.
+Adam Gopnik, William Shawcross, Nick Davies, Tim Harford, Kelsey Piper, Stephanie M Lee, Kevin Drum, John Pilger, Shane Bauer, Zoe Williams, Stuart Ritchie, Tom Chivers, Louis Theroux, Jonathan Meades, Adrian Chiles, Ian Hislop, Mark Curtis, Jon Ronson, Brian Toohey, Anatole Kaletsky, Ann Wroe, Mike Bird, John Burn-Murdoch, Fintan O'Toole, Nate Silver, Matt Yglesias, Paul Staines, Laurie Penny, Oliver Burkeman, Ananyo Bhattacharya.
 
 ## Dead
 

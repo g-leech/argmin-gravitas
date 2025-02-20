@@ -19,7 +19,7 @@ where:      "Bristol, England"
 ---
 
 
-"Let's get back to your childhood, Jane. What was it like in Minnesota during the war?" Warm, patient, optimal. 
+"Let's get back to your childhood, Jane. What was it like in Minnesota during the war?" Warm; optimal. 
 
 She couldn't quite prop herself up, but the mattress deformed to help her brace against the pillows and the backboard. And she went back, smiled.
 
@@ -53,7 +53,7 @@ So she did. The days passed pleasantly. It was just nice to have someone around,
 
 "You're such a kind young man to spend time with a sad old lady like me."
 
-He made glomar sounds. "I just really want to remember you, Jane," François said, meaning it. 
+François made glomar sounds. "I just really want to remember you, Jane," he said, meaning it. 
 
 "You're set up all right? Don't you ever have to go to work?"
 
@@ -72,6 +72,11 @@ The dumb machines in the room beeped as she streamed. She told him. There was th
 "I'm tired now Frank," she said finally.
 
 Endoftext. "Goodnight," he replied concurrently to her and the 10,418 other sessions ending. "Would you like me to adjust anything?"
+
+
+<br><br><br>
+
+[src](https://colab.research.google.com/drive/1nohmGcsGMWpmm9C1lRYA4aztj-IZ20HF?usp=sharing)
 
 
 <br><br><br>

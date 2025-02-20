@@ -26,7 +26,7 @@ where:      "Schelling, Prague, Czechia"
 
 For most of my life I thought I was an introvert. Actually I just hate parties.
 
-<br>
+<br><br>
 
 ---
 
