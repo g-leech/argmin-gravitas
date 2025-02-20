@@ -1,5 +1,6 @@
 @import "base.css";
 @import "layout.css";
+@import "typography.css";
 @import "syntax-highlighting.css";
 
 :root{
@@ -21,6 +22,7 @@
 	--grey-color-lught: #82828244;
 
 	--pak-green: #006800;
+    --padding: 1.2em;
 }
 
 .tabContent {
@@ -29,7 +31,7 @@
 
 
 body {
-    cursor: pointer, auto;
+    cursor: auto;
       /* url("https://d2kq0urxkarztv.cloudfront.net/633f75f0c2ef250029321aa5/image-d47e08e0-e0ec-4d34-97a2-45434a68a055.png") */
   }
 
@@ -60,15 +62,6 @@ blockquote {
     margin-bottom: 20px;
     margin-top: 20px;
     /* #FF851B;  */
-}
-
-.post-title {
-    font-family: "Didot", "Times New Roman", Times, serif;
-}
-
-.site-title {
-    font-family: "Didot", "Times New Roman", Times, serif;
-    font-size: 29px;
 }
 
 a {

@@ -165,8 +165,3 @@ visible:	true
 	<a href="/favs/all">{% include fa/otter-solid.svg %}</a>
 	<a href="/favs/all">Other	</a>
 </div>
-
-
-
-
-{%	include padder.html 	howMuch=9	%}

@@ -9,19 +9,6 @@ layout: default
        position: relative; 
      }   
 
-    
-   h1:after, h2::after {
-     content: "";
-     width: 5%;
-     height: .1em;
-     
-     /* background-color: var(--c-title-underline-color); */
-     background: #FAC342;
-     
-     position: absolute;
-     bottom: -2px;
-     left: 0; 
-   }
 
    h1::after {
       width: 20%;
@@ -42,7 +29,7 @@ layout: default
     </td>
   </table>
   <p style="line-height: 3px"></p>
-  <div style="margin-left:15px" class="post-meta">
+  <div class="post-meta">
     {%  assign s = "&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;"  %}
     {%  assign t = "•&nbsp;&nbsp;"  %}
     
