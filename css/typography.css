@@ -1,0 +1,45 @@
+
+:root{
+    --serif:  "Didot", "Times New Roman", Times, serif;
+}
+/* .post h1:after, .post h2::after {
+    content: "";
+    width: 5%;
+    height: .1em;
+    
+    background-color: var(--c-title-underline-color);
+    background: #FAC342;
+    
+    position: absolute;
+    bottom: -2px;
+    left: 0; 
+} */
+
+.site-header{
+    font-family: var(--serif)
+}
+
+.site-title{
+    font-size: 1.4em;
+    letter-spacing: -1px;
+}
+
+.post-title {
+    font-family: "Didot", "Times New Roman", Times, serif;
+}
+
+@media (max-width: 600px) { 
+
+    body{
+        font-size: 14px;
+    }
+
+    h1{
+        font-size: 2em;
+    }
+
+    h2{
+        font-size: 1.7em;
+    }
+    
+}

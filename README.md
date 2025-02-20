@@ -25,7 +25,7 @@ jekse
 [ ] better site architecture (i have a long list)
 [ ] 
 
-### major changes
+### changes
 
 [x] got rid of 7.1MB (???) SVG for the Album of the Year icon 
 [x] removed loazyload.js and used loading="lazy" on all images that were using it 
@@ -38,11 +38,14 @@ jekse
 [x] make blogroll [/blogroll] page nicer (why doesn't it have an H1?)
 [x] <a> tags need to break at some point to prevent overflow on mobile
 [x] [/importance] H2 underlines are ugly
+[x] migrate from scss to modern css
+[x] ~~hamburger menu can be better~~ removed need for hamburger menu on mobile
+[x] reduced x-padding on mobile pages 
+
 
 
 ## next up
 
-[ ] migrate from scss to modern css
 [ ] make comment form nicer
 [ ] make tables scroll horizontally on mobile
 [ ] make best [/best] page neater + better for mobile
@@ -51,7 +54,6 @@ jekse
 [?] make images expand on clicking them
 [ ] make archive [/archive] page neater + better for mobile
 [ ] metadata section on post pages could look better
-[ ] hamburger menu can be better
 [ ] is the script for accordions being cached?
 [ ] pages with missing titles on the Archive page's Pages section
 
@@ -69,7 +71,6 @@ jekse
 [ ] research page
 [ ] home page
 [ ] blockquotes styling
-[ ] reduce x-padding on pages 
 [ ] definitely saner paddings on p tags
 [ ] blogroll
 [ ] archive page

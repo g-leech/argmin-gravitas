@@ -116,7 +116,7 @@
 	 }
  
 	 &:active {
-		 // font-style: italic;
+		font-style: italic;
 	 }
  
  }
@@ -125,10 +125,7 @@
 	 font-family: "Didot", "Times New Roman", Times, serif;
 	 font-size: 15pt;
  }
- 
- .headText {
-	 text-decoration: none !important;
- }
+
  
  
  /**
@@ -160,7 +157,7 @@
  @media (max-width: 600px) {
  
 	 footer{
-		 padding: 3em;
+		padding: 3em;
 	 }
  
 	 footer .flex{
@@ -182,6 +179,7 @@
 	 flex-wrap: wrap;
 	 gap: 2em 3em;
 	 min-width: 200px;
+	 justify-content: space-between;
  }
  
  .icon-grid a svg{
@@ -259,18 +257,6 @@
 	 min-height: 100%; 
  }
  
- 
- /**
-  * Wrapper
-  */
- .wrapper {
-	 max-width: calc(var(--content-width) - var(--spacing-unit) * 2);
-	 margin-right: auto;
-	 margin-left: auto;
-	 padding-right: var(--spacing-unit);
-	 padding-left: var(--spacing-unit);
-	 max-width: 46rem;
- }
  
  /**
   * Icons

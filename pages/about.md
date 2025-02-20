@@ -90,7 +90,3 @@ The most loved book I hate is Gibran's _[The Prophet](https://www.goodreads.com/
 
 
 {%	include about/foots.html	%}
-
-
-
-{%	include padder.html 	howMuch=6	%}
