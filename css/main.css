@@ -33,17 +33,6 @@
 body {
     cursor: auto;
       /* url("https://d2kq0urxkarztv.cloudfront.net/633f75f0c2ef250029321aa5/image-d47e08e0-e0ec-4d34-97a2-45434a68a055.png") */
-  }
-
-h1, h2, h3, h4 {
-    margin-bottom: 20px;
-    margin-top: 20px;
-}
-
-h2{
-	margin-top: 1em;
-	margin-bottom: 1em;
-	font-size: 2em;
 }
 
 ul {

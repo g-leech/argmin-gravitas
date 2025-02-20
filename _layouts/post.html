@@ -2,33 +2,16 @@
 layout: default
 ---
 
-
-<style type="text/css">
-   h1, h2, h3 {
-       text-decoration: none; 
-       position: relative; 
-     }   
-
-
-   h1::after {
-      width: 20%;
-      height: .2em;
-      bottom: -12px;
-   }
-</style>
-
 <div class="post">
 
 <header class="post-header">
-  <table>
-    <td><h1 class="post-title">{{ page.title }}</h1></td>
-    <td width="20%">
-      {% if page.img %}
-          <img class="im" src="{{ page.img }}" />
-      {% endif %}
-    </td>
-  </table>
-  <p style="line-height: 3px"></p>
+  <div class="post-banner">
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.img %}
+        <img class="post-image" src="{{ page.img }}" />
+    {% endif %}
+  </div>
+
   <div class="post-meta">
     {%  assign s = "&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;"  %}
     {%  assign t = "•&nbsp;&nbsp;"  %}

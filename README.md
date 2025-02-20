@@ -58,10 +58,10 @@ jekse
 
 ## typography
 [ ] create a new typography system, including:
-	[ ] better styles for H2 (color: green?)
+	[x] better styles for H2 (color: green?)
 	[?] better-looking blockquotes for epigraphs
 	[?] paragraph tags need saner margins
-	[ ] better margins for headings
+	[x] better margins for headings
 
 
 ## to fix on mobile
