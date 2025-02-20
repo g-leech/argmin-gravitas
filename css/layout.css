@@ -53,6 +53,21 @@
     }
 }
 
+
+.post-banner{
+    display: flex;
+}
+
+.post-title{
+    width: 70%;
+}
+
+.post-image{
+    width: 30%;
+    height: auto;
+    object-fit: cover;
+}
+
 .post-meta {
     font-size: var(--small-font-size) !important;
     color: var(--grey-color) !important;

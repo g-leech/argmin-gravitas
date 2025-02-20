@@ -34,6 +34,6 @@ visible:  false
   <a href="{{ "/archive" | prepend: site.url }}">See all posts</a>.  
   <br><br>
 
-  {%  include rss.html  %}
+  {%  include mc.html  %}
 
 </div>
