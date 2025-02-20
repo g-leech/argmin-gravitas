@@ -27,84 +27,70 @@ The following may be helpful if you're like me, and want to understand what peop
 
 I began with a vague 1D idea: that there's "hard self-help" (actionable, crisp, objective) and soft self-help (contemplative, open, subjective). This is really not useful without using two dimensions, though:
 
-
-<center>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-fymr">External</th>
-    <th class="tg-fymr">Internal</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-fymr">Legible</td>
-    <td class="tg-0pky">Lifehacks</td>
-    <td class="tg-0pky">Techniques</td>
-  </tr>
-  <tr>
-    <td class="tg-fymr">Illegible</td>
-    <td class="tg-0pky">Attempts</td>
-    <td class="tg-0pky">Seeking</td>
-  </tr>
-</tbody>
-</table>
-
-</center>
+<div class="table-wrapper">
+  <table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>External</th>
+      <th>Internal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Legible</td>
+      <td>Lifehacks</td>
+      <td>Techniques</td>
+    </tr>
+    <tr>
+      <td>Illegible</td>
+      <td>Attempts</td>
+      <td>Seeking</td>
+    </tr>
+  </tbody>
+  </table>
+</div>
 
 Examples:
 
-<center>
-
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-fymr">External</th>
-    <th class="tg-fymr">Internal</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-fymr">Legible</td>
-    <td class="tg-0pky">
-    	supplements, exercise, <br>
-    	<a href="https://www.gleech.org/stuff">Things I Use</a>, Quantified Self, <br>checklists, Anki,<br><a href="https://hiverhq.com/blog/productivity-approaches-gtd-pomodoro-and-more">time management</a>,<br>
-    	<a href="https://80000hours.org/podcast/episodes/brian-christian-algorithms-to-live-by">Algos to Live By</a>,</td>
-    <td class="tg-0pky">
-    	<a href="https://fs.blog/mental-models">Models</a>, <a href="https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy">CBT</a>, <br>
-    	bug lists, <a href="https://www.lesswrong.com/posts/mQmx4kQQtHeBip9ZC/internal-double-crux">IDC</a>, <br>
-    	<a href="https://en.wikipedia.org/wiki/Focusing">Focussing</a>, this 2x2</td>
-  </tr>
-  <tr>
-    <td class="tg-fymr">Illegible</td>
-    <td class="tg-0pky">
-    	brainstorming, <a href="https://www.lesswrong.com/posts/c5wFM7KJLtuMnLFsH/hammertime-day-5-comfort-zone-expansion">CoZe</a>,<br>
-    	<a href="https://en.wikipedia.org/wiki/Oblique_Strategies">Oblique Strategies</a>,<br>
-    	'<a href="https://www.lesswrong.com/posts/WLJwTJ7uGPA5Qphbp/trying-to-try">Actually Try</a>', '<a href="http://mindingourway.com/dive-in">Dive In'</a>,<br>
-    	<a href="https://www.lesswrong.com/posts/ximou2kyQorm6MPjX/rest-days-vs-recovery-days">going with your gut</a>
-    </td>
-    <td class="tg-0pky">
-    	Art, 'stream entry', <br>
-    	Kōans, aphorism,<br>
-    	<a href="http://mindingourway.com/guilt/">Replacing Guilt</a>
-    </td>
-  </tr>
-</tbody>
-</table>
-
-</center>
+<div class="table-wrapper">
+  <table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>External</th>
+      <th>Internal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Legible</td>
+      <td>
+        supplements, exercise, <br>
+        <a href="https://www.gleech.org/stuff">Things I Use</a>, Quantified Self, <br>checklists, Anki,<br><a href="https://hiverhq.com/blog/productivity-approaches-gtd-pomodoro-and-more">time management</a>,<br>
+        <a href="https://80000hours.org/podcast/episodes/brian-christian-algorithms-to-live-by">Algos to Live By</a>,</td>
+      <td>
+        <a href="https://fs.blog/mental-models">Models</a>, <a href="https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy">CBT</a>, <br>
+        bug lists, <a href="https://www.lesswrong.com/posts/mQmx4kQQtHeBip9ZC/internal-double-crux">IDC</a>, <br>
+        <a href="https://en.wikipedia.org/wiki/Focusing">Focussing</a>, this 2x2</td>
+    </tr>
+    <tr>
+      <td>Illegible</td>
+      <td>
+        brainstorming, <a href="https://www.lesswrong.com/posts/c5wFM7KJLtuMnLFsH/hammertime-day-5-comfort-zone-expansion">CoZe</a>,<br>
+        <a href="https://en.wikipedia.org/wiki/Oblique_Strategies">Oblique Strategies</a>,<br>
+        '<a href="https://www.lesswrong.com/posts/WLJwTJ7uGPA5Qphbp/trying-to-try">Actually Try</a>', '<a href="http://mindingourway.com/dive-in">Dive In'</a>,<br>
+        <a href="https://www.lesswrong.com/posts/ximou2kyQorm6MPjX/rest-days-vs-recovery-days">going with your gut</a>
+      </td>
+      <td>
+        Art, 'stream entry', <br>
+        Kōans, aphorism,<br>
+        <a href="http://mindingourway.com/guilt/">Replacing Guilt</a>
+      </td>
+    </tr>
+  </tbody>
+  </table>
+</div>
 
 <br>
 

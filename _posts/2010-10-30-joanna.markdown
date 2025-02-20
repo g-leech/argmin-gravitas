@@ -164,12 +164,6 @@ The album has an arc: from the courting of "Easy" to the final moving out of the
 </center>
 <br>
 
-<style type="text/css">
-  .tg  {border-collapse:collapse;border-spacing:0;border-width:1px;}
-  .tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-  .tg th{font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-</style>
-
 <a name="section8.1"></a>
 <a name="section8.2"></a>
 <a name="section8.3"></a>

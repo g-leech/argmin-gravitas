@@ -22,8 +22,7 @@ jekse
 ### work that matters
 [ ] make everything mobile friendly
 [ ] set up a proper typography scale and spacing system (this might make br tags take up too much space)
-[ ] better site architecture (i have a long list)
-[ ] 
+[ ] better site architecture + navigation
 
 ### changes
 
@@ -41,21 +40,20 @@ jekse
 [x] migrate from scss to modern css
 [x] ~~hamburger menu can be better~~ removed need for hamburger menu on mobile
 [x] reduced x-padding on mobile pages 
+[x] made comment form nicer
+[x] make tables scroll horizontally on mobile (need to surround them with a div with class="table-wrapper")
+[x] remove dropdown from mc.html
+[x] Added titles to pages with missing titles on the Archive page's Pages section and excluded 404 and feed.xml from showing up
 
 
 
 ## next up
 
-[ ] make comment form nicer
-[ ] make tables scroll horizontally on mobile
 [ ] make best [/best] page neater + better for mobile
-
-[ ] change dropdown and mce to use details element and no JS
 [?] make images expand on clicking them
 [ ] make archive [/archive] page neater + better for mobile
 [ ] metadata section on post pages could look better
 [ ] is the script for accordions being cached?
-[ ] pages with missing titles on the Archive page's Pages section
 
 
 ## typography

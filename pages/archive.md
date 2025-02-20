@@ -99,14 +99,13 @@ visible:  false
 
 <div>
 {% for page in site.pages %}
-		{% if page.favpage != true %}
-		<div class="spaced page">
-			<a class="archive-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}.</a>
-		</div>
-		{%  endif  %}
+    {% if page.url != "/404.html" and page.url != "/feed.xml" and page.favpage != true %}
+    <div class="spaced page">
+        <a class="archive-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}.</a>
+    </div>
+    {% endif %}
 {% endfor %}
 </div>
-
 <br>
 
 <p>
