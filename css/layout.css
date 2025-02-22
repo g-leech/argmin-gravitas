@@ -1,18 +1,3 @@
-body {
-    font-family: var(--font-family);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: 300;
-    color: var(--text-color);
-    background-color: var(--background-color);
-    -webkit-text-size-adjust: 100%;
-    min-height: 100vh;
-    position: relative;
-    padding-bottom: 20em;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-}
-
 /**
  * Reset some basic elements
  */
@@ -27,7 +12,20 @@ body {
 	 box-sizing: border-box;
  }
  
-
+ body {
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: 300;
+    color: var(--text-color);
+    background-color: var(--background-color);
+    -webkit-text-size-adjust: 100%;
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 20em;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
 
 /**
  * Site header
