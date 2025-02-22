@@ -19,6 +19,14 @@ body {
   }
 
 
+/**
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 250;
+}
+
+
 .post h1:after, .post h2::after {
     content: "";
     width: 5%;
@@ -41,9 +49,6 @@ body {
     letter-spacing: -1px;
 }
 
-
-
-
 .post-title {
     font-family: "Didot", "Times New Roman", Times, serif;
     font-size: 3em;
@@ -51,9 +56,30 @@ body {
     line-height: 1.1em;
 }
 
+
+
+td{
+    padding: 10px 14px;
+}
+
+td:first-child{
+    padding-left: 0px;
+}
+
+table{
+    border-collapse: collapse; 
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    gap: 1em
+}
+
 .table-wrapper{
     width: 100%;
     overflow: auto;
+    margin: 1.2em 0em;
     /* justify-content: center; */
     /* display: flex; */
 }
@@ -65,7 +91,7 @@ body {
 }
 
 .table-wrapper td{
-    padding:10px 5px;
+    padding: 0.25em 0.5em;
     border-style:solid;
     border-width:1px;
     overflow:hidden;
@@ -129,7 +155,7 @@ h3{
 blockquote { 
     border-left:3px solid #FAC342; 
     padding-left: 1em;
-    margin: 2em 0em 2em 1em;
+    margin: 1.5em 0em 1.5em 1em;
     line-height: 1.5em;
     font-style: italic;
     color: var(--grey-color);
@@ -195,15 +221,6 @@ li {
 li{
     margin-bottom: 0.5em;
 }
-
-
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 250;
-}
-
 
 
 /**
@@ -320,26 +337,6 @@ pre {
     padding: 1em;
     border: solid 1px lightgray;
 }
-
-
-
-td{
-    padding: 10px 14px;
-}
-
-td:first-child{
-    padding-left: 0px;
-}
-
-table{
-    border-collapse: collapse; 
-}
-
-.list{
-    display: flex;
-    flex-direction: column;
-    gap: 1em
-};
 
 
 @media (max-width: 600px) { 

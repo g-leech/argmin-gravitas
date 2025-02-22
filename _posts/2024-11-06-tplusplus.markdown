@@ -64,6 +64,7 @@ Let the “Transformer++” be a Transformer with
 
 ### Occurrence in top open architectures
 
+{% capture my_markdown %}
 | Component  | Tweak  | [LLaMA 3](https://arxiv.org/abs/2407.21783) | [Gemma 2](https://huggingface.co/google/gemma-2-9b) | [Qwen2.5](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e) | [DeepSeek-V2](https://arxiv.org/abs/2405.04434) | [Hunyuan-Large](https://arxiv.org/html/2411.02265v3) |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |  |  | | | | | |
@@ -94,6 +95,11 @@ Let the “Transformer++” be a Transformer with
 |  |  | | | | | |
 | __Weights quantization__ | BF16 training | Yes | No, FP32 | Yes | Yes | Yes |
 | __Weights quantization__ | 8-bit post-training | In one version | No | No | No | In one version |
+{% endcapture %}
+
+<div class="table-wrapper">
+    {{ my_markdown | markdownify }}
+</div>
 
 <br>
 
