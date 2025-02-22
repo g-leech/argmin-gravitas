@@ -1,7 +1,33 @@
-:root{
-    --content-width: 46rem;
-    --mobile: 600px
+body {
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: 300;
+    color: var(--text-color);
+    background-color: var(--background-color);
+    -webkit-text-size-adjust: 100%;
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 20em;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
+
+/**
+ * Reset some basic elements
+ */
+ body, h1, h2, h3, h4, h5, h6,
+ p, blockquote, pre, hr,
+ dl, dd, ol, ul, figure {
+	 margin: 0;
+	 padding: 0;
+ }
+ 
+ *{
+	 box-sizing: border-box;
+ }
+ 
+
 
 /**
  * Site header
@@ -186,7 +212,6 @@ footer .flex{
     flex-wrap: wrap;
     gap: 2em 3em;
     min-width: 200px;
-    justify-content: space-between;
 }
 
 .icon-grid a svg{
@@ -197,3 +222,31 @@ footer .flex{
 }
 
 
+
+
+
+.tabContent {
+    display: none;
+}
+
+
+
+.note {
+    margin-bottom: 20px;
+    margin-top: 0px;
+    border-radius: 0px;
+}
+
+.note .insides{padding:40px;}
+
+.note .title{
+    font-size:120%;
+    
+    padding-left:14px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    margin-top:20px;
+    
+    color:white;
+    background:cornflowerblue
+}
