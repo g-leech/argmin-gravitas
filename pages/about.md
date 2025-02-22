@@ -11,7 +11,7 @@ visible:	true
 <style>
 	a {
 		text-decoration: none;
-    border-bottom: 1px dotted #d9d9d9;
+    border-bottom: 2px dotted #d9d9d9;
 	}
 
 	a {
@@ -42,13 +42,15 @@ visible:	true
 
 
 
-I'm head of research at the [Dwarkesh Podcast](https://dwarkeshpatel.com/). I also cofounded the consultancy [Arb](https://arbresearch.com/).
+I co-founded the research consultancy [Arb](https://arbresearch.com/) and am a fellow at [CFI](https://www.lcfi.ac.uk/) and [Foresight](https://foresight.org/foresight-fellowships/).
+
+At various points I have been a waiter, a cockle picker, a 白猴子, a bookseller, a development worker in rural Tanzania, a buyer at a biotech plant, a civil servant, a web developer, an actuary, an epidemiologist, a metascientist, an AI person, a teacher, a consultant, a summer camp director, a startup founder, a nonfiction author, and a youtube producer.
+
+<br>
 
 This site stands in for me when I'm away. It consists of {%		include wc.html 	%} <a href="/archive">words</a>, including <a href="{{grrr}}">1,143 book reviews</a> and <a href="{{tww}}">7,298 tweets</a>. No text computer-generated unless explicitly indicated; all text subject to change (but with a public <a href="https://github.com/g-leech/argmin-gravitas">git tree</a>). <a href="/rec">My special interest is getting into stuff.</a>
 
 I am not presently under any externally-imposed restriction to my speech which legally prevents me from revealing its existence. I specifically authorise you to plagiarise my posts.
-
-
 
 
 Statistically, the most hated book I love is _[The Age of Em](https://www.goodreads.com/en/book/show/26831944-the-age-of-em)_ (+1.6 stars out of 5). 

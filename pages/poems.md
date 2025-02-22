@@ -34,14 +34,6 @@ visible:	false
 
 - '[Death be not proud](https://www.poetryfoundation.org/poems/44107/holy-sonnets-death-be-not-proud)' by Donne
 
-- 
-
--
-
--
-
--
-
 - '<a href="/hughes">Incompatibilities</a>' by Ted Hughes
 
 - '[I Want to Be the One](http://zackmdavis.net/blog/2015/12/i-want-to-be-the-one/)' by Zack Davis
@@ -70,7 +62,7 @@ visible:	false
 
 - '[Dover Beach](https://www.poetryfoundation.org/poems/43588/dover-beach)' by Matthew Arnold
 
-- '[]()' by
+- 'Autobiography of My Alter Ego' by Yusef Komunyakaa
 
 - '[The force that through the green fuse drives the flower](https://poets.org/poem/force-through-green-fuse-drives-flower)' by Dylan Thomas
 
@@ -85,8 +77,6 @@ visible:	false
 - '[I Am!](https://www.poetryfoundation.org/poems/43948/i-am)' by John Clare
 
 - '[Reflections](https://wp.nyu.edu/qy702/reflections-r-s-thomas/)' by R.S. Thomas
-
-
 
 - '[Re-emerge The Exact Same As You Are](https://tiny-postcard.blogspot.com/2012/08/re-emerge-exact-same-as-you-are.html?m=0)' by John Morrice
 
@@ -178,6 +168,14 @@ visible:	false
 - '[Hunting in Mizhou](https://www.gleech.org/poems/#:~:text=Hunting%20in%20Mizhou%20%2D%20to%20the%20tune%20of%20%E2%80%98Jiangchengzi%E2%80%99%20(by%20%E8%8B%8F%E8%BD%BC))' by Su Shi (苏轼)
 
 - '[Rain Clearance](https://www.gleech.org/poems/#:~:text=Rain%20Clearance%20by%20D%C3%B9%20F%C7%94)' by Dù Fǔ (杜甫)
+
+- '[Anger](https://www.poetryfoundation.org/poetrymagazine/browse?volume=175&issue=1&page=41)' by Yusef Komunyakaa
+
+- '[Aristotle](https://www.poetryfoundation.org/poems/46706/aristotle)' by Billy Collins
+
+- '[How to Draw a Perfect Circle](https://www.poetryfoundation.org/poetrymagazine/poems/57566/how-to-draw-a-perfect-circle)' by Terrance Hayes
+
+- '[Hymn to Life](https://www.poetryfoundation.org/poetrymagazine/poems/57067/hymn-to-life-56d23a30164a9)' by Timothy Donnelly
 
 - '[I Sing the Body Electric](https://www.poetryfoundation.org/poems/45472/i-sing-the-body-electric)' by Walt Whitman
 
