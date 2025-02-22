@@ -62,6 +62,7 @@ jekse
 	[?] better-looking blockquotes for epigraphs
 	[?] paragraph tags need saner margins
 	[x] better margins for headings
+	[ ] why do headings and paragraphs have right margins?
 
 
 ## to fix on mobile

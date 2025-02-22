@@ -1,5 +1,6 @@
 :root{
     --content-width: 46rem;
+    --mobile: 600px
 }
 
 /**
@@ -58,10 +59,6 @@
     display: flex;
 }
 
-.post-title{
-    width: 70%;
-}
-
 .post-image{
     width: 30%;
     height: auto;
@@ -103,16 +100,6 @@ tr.spaced > td {
 	padding: var(--spacing-unit) 0em;
 }
 
-.post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
-
-    @include media-query($on-laptop) {
-        font-size: 36px;
-    }
-}
-
 .PageNavigation {
   font-size: 14px;
   display: block;
@@ -142,3 +129,74 @@ tr.spaced > td {
     margin-left: auto;
     padding: 0em var(--padding);
 }
+
+
+
+
+.subscribe{
+    font-family: var(--serif);
+    margin-top: 2em;
+}
+ 
+ /**
+  * Site footer
+  */
+  footer {
+    border-top: 1px solid var(--grey-color-light);
+    padding: 4em 3em;
+    color: var(--white);
+    background: #343; /* #36414f; */
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+footer .flex{
+    max-width: 38em;
+    display: inline-flex;
+    justify-content: space-between;
+    gap: 4em;
+    text-align: left;
+}
+
+.col-3{
+    column-count: 3;
+}
+
+@media (max-width: 600px) {
+
+    footer{
+       padding: 3em;
+    }
+
+    footer .flex{
+        flex-direction: column;
+        gap: 3em;
+    }
+
+    body{
+        padding-bottom: 27em;
+    }
+
+    .col-3{
+        column-count: 2;
+    }
+}
+
+.icon-grid{
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 2em 3em;
+    min-width: 200px;
+    justify-content: space-between;
+}
+
+.icon-grid a svg{
+    width: 28px;
+    height: 30px;
+    vertical-align: middle;
+    color: var(--white)
+}
+
+

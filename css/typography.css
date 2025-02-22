@@ -25,8 +25,14 @@
     letter-spacing: -1px;
 }
 
+
+
+
 .post-title {
     font-family: "Didot", "Times New Roman", Times, serif;
+    font-size: 3em;
+    letter-spacing: -1px;
+    line-height: 1.1em;
 }
 
 .table-wrapper{
@@ -70,6 +76,10 @@
     padding: 1em;
 }
 
+.fancy {
+    font-family: var(--serif);
+}
+
 
 h2{
     line-height: 1.2em;
@@ -77,16 +87,22 @@ h2{
     color: var(--pak-green);
     font-weight: 600;
     font-size: 2.2em;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
 }
 
 h3{
     line-height: 1.2em;
     font-weight: 400;
-    font-size: 1.4em;
+    font-size: 1.4em;  
+}
+
+.post h3{
     margin-top: 1.5em;
     margin-bottom: 1em;
+}
+
+.post h2{
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
 }
 
 

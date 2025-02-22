@@ -39,8 +39,8 @@
  h1, h2, h3, h4, h5, h6,
  p, blockquote, pre,
  ul, ol, dl, figure {
-	 margin-bottom:  calc(var(--spacing-unit) / 1.5);
-	 margin-right: 45px;
+	 /* margin-bottom:  calc(var(--spacing-unit) / 1.5); */
+	 /* margin-right: 45px; */
 	 scroll-margin-top: 1.2em;
  }
  
@@ -116,79 +116,6 @@
 	 }
  
  }
- 
- .burger {
-	 font-family: "Didot", "Times New Roman", Times, serif;
-	 font-size: 15pt;
- }
-
- 
- 
- /**
-  * Site footer
-  */
- footer {
-	 border-top: 1px solid var(--grey-color-light);
-	 padding: 4em 3em;
-	 color: var(--white);
-	 background:#36414f;
-	 text-align: center;
-	 position: absolute;
-	 bottom: 0px;
-	 width: 100%;
- }
- 
- footer .flex{
-	 max-width: 38em;
-	 display: inline-flex;
-	 justify-content: space-between;
-	 gap: 4em;
-	 text-align: left;
- }
- 
- .col-3{
-	 column-count: 3;
- }
- 
- @media (max-width: 600px) {
- 
-	 footer{
-		padding: 3em;
-	 }
- 
-	 footer .flex{
-		 flex-direction: column;
-		 gap: 3em;
-	 }
- 
-	 body{
-		 padding-bottom: 26em;
-	 }
- 
-	 .col-3{
-		 column-count: 2;
-	 }
- }
- 
- .icon-grid{
-	 display: inline-flex;
-	 flex-wrap: wrap;
-	 gap: 2em 3em;
-	 min-width: 200px;
-	 justify-content: space-between;
- }
- 
- .icon-grid a svg{
-	 width: 28px;
-	 height: 30px;
-	 vertical-align: middle;
-	 color: var(--white)
- }
- 
- 
- 
- 
- 
  
  .nolink {
 	 text-decoration: none;

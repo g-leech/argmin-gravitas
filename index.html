@@ -19,176 +19,107 @@ visible:  false
 		flex-direction: column;
 		gap: 3em;
 		margin-bottom: 6em;
-		padding: 5px;
+		margin-top: 2em;
 	}
 
-	.post{
+	.preview{
 		display: flex;
-		gap: 60px;
+		gap: 6%;
 		justify-content: flex-start;
+		align-items: center;
 	}
 
-	.post img{
+	.preview img{
 		min-width: 150px;
 		height: 150px;
 		width: 150px;
 		object-fit: cover;
 	}
 
-	.post-info{
-		/* max-width: 25em; */
+	.preview-info{
 		font-size: 0.9em;
+		line-height: 1.5em;
 	}
 
-	.post h3{
+	.preview h3{
 		margin-bottom: 0.4em;
 		font-size: 1.8em;
-		line-height: 1.3em;
+		line-height: 1.2em;
+		font-family: var(--serif);
 	}
 
-	@media (max-width: 600px) {
-
-	.post-link {
-		padding-bottom: 10px;
-	}
-
-	.i {
-		font-size: 22px;
-		text-align: left;
-	}
-
-	.summ {
-		text-align: left !important;
-	}
-
-	tr>td {
-		padding-top: 2em;
-		padding-bottom: 2em;
-	}
-
-	.date {
-		display: none;
-	}
-
-	}
-
-	a {
+	.preview a{
 		text-decoration: none;
 	}
 
-	a:hover {
-		text-decoration: underline !important;
-		text-decoration-thickness: 12%  !important;
-		text-underline-offset: 2.5px  !important;
+	h4 {
+		font-family: var(--serif);
+		font-size: 1.4em
 	}
 
-	h3 {
-		font-family: "Didot", "Times New Roman", Times, serif;
-	}
+	@media (max-width: 600px) {
+		.preview img{
+			width: 120px;
+			height: 120px;
+			min-width: 120px;
+		}
 
-	.im {
-		padding-right: 40px;
-	}
+		.preview h3{
+			font-size: 1.5em;
+		}
 
-	@media (min-width: 15em) {
-	.im {
-		height: 150px;
-		/*width: 80%;*/
-		margin: 0px;
-		object-fit: cover;
-	}
+		h4{
+			font-size: 1.2em;
+		}
 
-	.i {
-		height: 20%;
-		/*width: 80%;*/
-		margin: 0px;
 	}
-
-	.centerer {
-		width: 85%;
-	}
-	}
-
-	img {
-		vertical-align: middle;
-		width:  80%;
-	}
-
-
-
-	@media screen and (max-width: 600px)  {
-		.nomob { display: none; }
-	}
-
-	.just {
-	text-decoration: none;
-	}
-
-	.centerer {
-	text-align: center;
-	vertical-align: middle;
-	padding: 10px;
-	width: 75%;
-	}
-
-	#sim {
-		margin-left: auto;
-		margin-right: auto;
-	}
-
-	.rowlink::before {
-	content: "";
-	display: block;
-	position: absolute;
-	left: 0;
-	width: 100%;
-	height: 1.5em; /* don't forget to set the height! */
-	}
-	
 </style>
 
-<!-- <br class="wide"> -->
 <br>
 
-<h1>Best posts:</h1>
+<h2>Best posts</h2>
 <section class="post-list">
     {% assign posts = site.posts | where_exp: "item", "item.quality > 6" | sample: 6 %}
     {% for post in posts %}
       {% if post.arb != 1 %}
-	  	<a href="{{ post.url | prepend: site.url }}">
-			<article class="post">
-				<img src="{{ post.img }}" />
-				<div class="post-info">
-					<h3> {{ post.title }} </h3>
+			<article class="preview">
+				<a href="{{ post.url | prepend: site.url }}">
+					<img src="{{ post.img }}" />
+				</a>
+				<div class="preview-info">
+					<a href="{{ post.url | prepend: site.url }}">
+						<h3> {{ post.title }} </h3>
+					</a>
 					<div> {{ post.summary }} </div>
 				</div>
 			</article>
-		</a>
       {%  endif   %}
     {% endfor %}
 </section>
 
-<h1>Recent posts:</h1>
+<h2>Recent posts</h2>
 <section class="post-list">    
     {% for post in site.posts limit:7 %}
       	{% if post.visible == 1  %}
-			<a href="{{ post.url | prepend: site.url }}">
-				<article class="post">
-					<img src="{{ post.img }}" />
-					<div class="post-info">
-						<h3> {{ post.title }} </h3>
+				<article class="preview">
+					<a href="{{ post.url | prepend: site.url }}">
+						<img src="{{ post.img }}" />
+					</a>
+					<div class="preview-info">
+						<a href="{{ post.url | prepend: site.url }}">
+							<h3> {{ post.title }} </h3>
+						</a>
 						<div> {{ post.summary }} </div>
 					</div>
 				</article>
-			</a>
       	{% endif  %}
     {% endfor %}
 </section>
 
 
-<h1>
-	<a href="{{arb}}">Arb</a> posts:
-</h1>
+<h2>
+	<a href="{{arb}}">Arb</a> posts
+</h2>
 
 <section class="post-list">
 
@@ -207,13 +138,13 @@ visible:  false
     {% endfor %}
 </section>
 
-<h3 class="fancy">
-	<div style="display: flex; gap: 1em; margin-bottom: 2em;">
-		<a href="{{ "/archive" | prepend: site.url }}">[See all posts];</a>
+<h4>
+	<div style="display: flex; gap: 1em; margin-bottom: 3em;">
+		<a href="{{ "/archive" | prepend: site.url }}">[all posts];</a>
 		<a href="{{ "/tags" | prepend: site.url }}">[by topic];</a>
 		<a href="{{ "/importance" | prepend: site.url }}">[by importance]</a>
 	</div>
-</h3>
+</h4>
 
 </style>
 
