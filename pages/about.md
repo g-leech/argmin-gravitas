@@ -18,7 +18,7 @@ visible:	true
   position: relative;
 }
 
-	a::before {
+	.post a::before {
 	    content: '';
 	    position: absolute;
 	    width: 101%;
@@ -32,7 +32,7 @@ visible:	true
 	    transition: transform .2s ease-in-out;
 	  }
 
-	a:hover::before {
+	.post a:hover::before {
 	  transform-origin: left;
 	  transform: scaleX(1);
 	}

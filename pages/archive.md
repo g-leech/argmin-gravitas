@@ -11,19 +11,23 @@ visible:  false
   .post-list{
 	display: flex;
 	flex-direction: column;
-	gap: 2.5em
-  }
-
-  .spaced{
-	display: flex;
-	gap: 10%;
+	gap: 2em
   }
 
   .post-link{
-	min-width: 55%;
-	max-width: 55%;
-	font-size: 1.5em;
-	line-height: 1.3em
+    min-width: 55%;
+    /* max-width: 75%; */
+    font-size: 1.3em;
+    line-height: 1.3em;
+    /* text-decoration-style: dotted; */
+    font-weight: 500;
+    color: var(--dark-green);
+  }
+
+  .spaced{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
   }
 
   .nolink{
@@ -36,27 +40,37 @@ visible:  false
     font-size: 20px;
   }
 
-  .year{
-	margin-top: 2.5em;
-	margin-bottom: 1em;
-	font-size: 1.6em;
-	color: var(--theme-color);
-	font-weight: 600;
+  h3.year{
+    margin-top: 2.5em;
+    margin-bottom: 1em;
+    font-size: 1.6em;
+    color: var(--theme-color);
+    font-weight: 600;
   }
 
-  .page{
-	margin-top: 1em
+
+  .page-list{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+  }
+
+  .page-item{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.1em;
+    gap: 1.5em;
+  }
+
+  .page-item div{
+    flex-shrink: 0;
+    opacity: 0.4;
   }
 
   @media (max-width: 600px){
 
 	.post-list{
 		gap: 2em
-	}
-
-	.spaced{
-		flex-direction: column;
-		gap: 0.5em;
 	}
 
 	.post-link{
@@ -71,7 +85,7 @@ visible:  false
 <div class="gcse-search"></div>
 
 
-<div class="home">
+<div class="post">
       {% for post in site.posts %}
 <!--  -->
         {% assign currentYear = post.date | date: "%Y" %}
@@ -97,11 +111,15 @@ visible:  false
 
 <h2>Pages</h2>
 
-<div>
+<div class='page-list'>
 {% for page in site.pages %}
     {% if page.url != "/404.html" and page.url != "/feed.xml" and page.favpage != true %}
-    <div class="spaced page">
-        <a class="archive-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}.</a>
+    <div class="page-item">
+        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}.</a>
+        <div> {% if page.content %}
+                {{ page.content | number_of_words }}
+              {% endif %} words 
+        </div>
     </div>
     {% endif %}
 {% endfor %}

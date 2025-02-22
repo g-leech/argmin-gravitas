@@ -20,8 +20,8 @@ jekse
 ```
 
 ### work that matters
-[ ] make everything mobile friendly
-[ ] set up a proper typography scale and spacing system (this might make br tags take up too much space)
+[x] make everything mobile friendly
+[x] set up a proper typography scale and spacing system (this might make br tags take up too much space)
 [ ] better site architecture + navigation
 
 ### changes
@@ -49,27 +49,23 @@ jekse
 
 ## next up
 
-[ ] make best [/best] page neater + better for mobile
 [?] make images expand on clicking them
-[ ] make archive [/archive] page neater + better for mobile
-[ ] metadata section on post pages could look better
+[x] metadata section on post pages could look better
 [ ] is the script for accordions being cached?
 
 
 ## typography
 [ ] create a new typography system, including:
 	[x] better styles for H2 (color: green?)
-	[?] better-looking blockquotes for epigraphs
-	[?] paragraph tags need saner margins
+	[ ] better-looking blockquotes for epigraphs
 	[x] better margins for headings
-	[ ] why do headings and paragraphs have right margins?
 
 
 ## to fix on mobile
-[ ] about page
-[ ] research page
-[ ] home page
-[ ] blockquotes styling
-[ ] definitely saner paddings on p tags
-[ ] blogroll
-[ ] archive page
+[x] about page
+[x] research page
+[x] home page
+[x] blogroll
+[x] archive page
+[x] best [/best] page 
+[ ] recs page (playlists)

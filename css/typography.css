@@ -80,6 +80,9 @@
     font-family: var(--serif);
 }
 
+.light{
+    opacity: 0.5;
+}
 
 h2{
     line-height: 1.2em;
@@ -87,12 +90,14 @@ h2{
     color: var(--pak-green);
     font-weight: 600;
     font-size: 2.2em;
+    letter-spacing: -1px;
 }
 
 h3{
     line-height: 1.2em;
     font-weight: 400;
-    font-size: 1.4em;  
+    font-size: 1.4em; 
+    color: var(--dark-green) 
 }
 
 .post h3{
@@ -104,6 +109,21 @@ h3{
     margin-top: 1.5em;
     margin-bottom: 0.5em;
 }
+
+blockquote { 
+    border-left:3px solid #FAC342; 
+    padding-left: 1em;
+    margin: 2em 0em 2em 1em;
+    line-height: 1.5em;
+    font-style: italic;
+    color: var(--grey-color);
+    margin-bottom:  20px;
+}
+
+blockquote:last-child{
+    margin-bottom: 0px;
+}
+
 
 
 @media (max-width: 600px) { 
