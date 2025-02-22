@@ -25,7 +25,6 @@ started:    2013
 {%	include maxwage/links.md	%} 
 
 
-
 <div id="simple" class="tabContent">
 	{%	include maxwage/max-simple.html	%}
 </div>

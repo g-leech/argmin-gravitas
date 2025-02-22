@@ -17,18 +17,6 @@ layout: default
     {%  assign t = "•&nbsp;&nbsp;"  %}
     
     {%  include british_date.md   %}
-    {% if page.simple or page.stylised or page.technical %} 
-      {{s}} Available in  
-      {% if page.simple %} 
-        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simpleLink">Simple</a> 
-      {% endif %} 
-      {% if page.stylised %} | 
-        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylisedLink">Stylised</a> 
-      {% endif %} 
-      {% if page.technical %} | 
-        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'technical')" id="technicalLink">Technical</a> English 
-      {% endif %} 
-    {% endif %}
 
   <br>
     {% if page.summary %}
@@ -62,6 +50,21 @@ layout: default
     {% if page.argument %} 
         {%  include dropdown.html     %}    
     {% endif %} 
+
+    <br><br>
+
+    {% if page.simple or page.stylised or page.technical %} 
+      Available in  
+      {% if page.simple %} 
+        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simpleLink">SIMPLE</a> 
+      {% endif %} 
+      {% if page.stylised %} | 
+        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylisedLink">STYLISED</a> 
+      {% endif %} 
+      {% if page.technical %} | 
+        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'technical')" id="technicalLink">Technical</a> English 
+      {% endif %} 
+    {% endif %}
 
   </div>
 </header>
