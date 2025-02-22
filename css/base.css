@@ -125,26 +125,7 @@
 		 color: var(--text-color) !important;
 	 }
  }
- 
- 
- 
- /**
-  * Blockquotes
-  */
- blockquote {
-	 color: var(--grey-color);
-	 border-left: 4px solid var(--grey-color-light);
-	 padding-left:  calc(var(--spacing-unit) / 1.5);
-	 margin-bottom:  20px;
-	 font-size: 18px;
-	 letter-spacing: -1px;
-	 font-style: italic;
- 
-	 > :last-child {
-		 margin-bottom: 0;
-	 }
- }
- 
+
  
  
  /**
