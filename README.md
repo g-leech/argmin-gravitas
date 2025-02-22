@@ -1,6 +1,6 @@
 # Argmin-gravitas: a simulacrum standing in place of Gavin Leech
 
-Hosted at [https://www.gleech.org](www.gleech.org)
+Hosted at [www.gleech.org](https://www.gleech.org)
 
 # Commands
 
