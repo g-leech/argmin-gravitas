@@ -4,6 +4,14 @@
 }
 
 body {
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: 300;
+    color: var(--text-color);
+    background-color: var(--background-color);
+    -webkit-text-size-adjust: 100%;
+    overflow-wrap: break-word;
     /* cursor: url("https://d2kq0urxkarztv.cloudfront.net/633f75f0c2ef250029321aa5/image-d47e08e0-e0ec-4d34-97a2-45434a68a055.png") */
 }
 
@@ -54,6 +62,10 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 3em;
     letter-spacing: -1px;
     line-height: 1.1em;
+}
+
+.page-content {
+   padding: 3em 0em;
 }
 
 
