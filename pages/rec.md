@@ -25,8 +25,6 @@ visible:	true
 	{% include css/recs.css	%}
 </style>
 
-<br>
-
 ## Listen
 <div class="container">
 	<a href="{{album}}">{% include fa/record-vinyl-solid.svg %}</a>
@@ -55,7 +53,6 @@ visible:	true
 	</blockquote>
 </div>
 
-<br>
 
 ## Read
 
@@ -106,7 +103,6 @@ visible:	true
 </div>
 
 
-<br>
 
 ## Gawk
 
@@ -139,7 +135,6 @@ visible:	true
 \art
 \photography
  -->
-<br>
 
 ## Misc
 
