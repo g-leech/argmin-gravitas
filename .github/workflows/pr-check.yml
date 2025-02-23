@@ -1,0 +1,26 @@
+name: Pull Request Build Check
+
+on:
+  pull_request:
+    branches: '*'
+
+jobs:
+  build-and-deploy:
+    name: Build Site to Verify PR
+    runs-on: ubuntu-latest
+    
+    # Use the environment input to set the environment
+    # so that environment-scoped secrets are available
+    environment: ${{ github.event.inputs.environment }}
+
+    steps:
+      # Check out the specified branch
+      - name: Check out code
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.inputs.branch }}
+
+      # Build the site using our existing Docker build script
+      - name: Build the site using Docker
+        run: |
+          ./scripts/build.sh

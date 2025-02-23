@@ -1,0 +1,58 @@
+name: Deploy to Cloudflare on Push
+
+on:
+  push:
+    branches:
+      - master-cloudflare
+
+jobs:
+  deploy_master:
+    if: ${{ github.ref_name == 'master' }}
+    name: Build and Deploy to Cloudflare Production
+    runs-on: ubuntu-latest
+    environment: production
+
+    steps:
+      # Check out the specified branch
+      - name: Check out code
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
+
+      # Build the site using your existing Docker build script
+      - name: Build the site using Docker
+        run: |
+          ./scripts/build.sh
+
+      # Deploy to Cloudflare using the Cloudflare Wrangler Action
+      - name: Deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          command: pages deploy _site --project-name=${{ secrets.CLOUDFLARE_PROJECT_NAME }}
+
+  deploy_non_master:
+    if: ${{ github.ref_name != 'master' }}
+    name: Build and Deploy to Cloudflare Development
+    runs-on: ubuntu-latest
+    environment: development
+
+    steps:
+      # Check out the specified branch
+      - name: Check out code
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
+
+      # Build the site using your existing Docker build script
+      - name: Build the site using Docker
+        run: |
+          ./scripts/build.sh
+
+      # Deploy to Cloudflare using the Cloudflare Wrangler Action
+      - name: Deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy _site --branch main --project-name=${{ secrets.CLOUDFLARE_PROJECT_NAME }}
