@@ -40,7 +40,9 @@ Between 2019 and 2024 I did a PhD. (Though this includes a year of mandatory cla
 
 I went in wanting to work on AI safety. True to form, I instead ended up with a grab-bag of fields and topics: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, scientific malpractice, inductive logic, algorithmic fairness and (of course) large language models. Some safety work in there if you squint. But I published enough, so the resulting thesis is <i><a href="/files/thesis.pdf">Methods Failing the Data, Data Failing the Methods</a></i>. 
 
-In [Newell's typology](https://www.eecs.harvard.edu/htk/phdadvice/#3) the thesis contradicts existing knowledge; thoroughly explores an area; provides empirical data; and produces a negative result.
+Broadly, it's about epistemics. (Why can't we learn that much from one study, or many studies?)
+
+In [Newell's typology](https://www.eecs.harvard.edu/htk/phdadvice/#3) the thesis "contradicts existing knowledge; thoroughly explores an area; provides empirical data; and produces a negative result".
 
 It looks like a success on the usual bad measures. But I didn't go into it for poxy numbers or a mere job; I went in become a great scientist. Obviously this did not happen. 
 
