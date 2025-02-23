@@ -1,76 +1,69 @@
-<style type="text/css">
-  .tg  {border-collapse:collapse;border-spacing:0;}
-  .tg td{font-family:Arial, sans-serif;font-size:14px;padding:15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-  .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:bold;padding:15px;border-style:solid;border-width:2px;overflow:hidden;word-break:normal;}
-  .no { border: 0; }
-  tr.no td {
-    border: 0;
-  }
-</style>
 
-<table class="tg">
-  <tr class="no">
-    <th class="tg-031e" colspan="2">Stage</th>
-    <th class="tg-031e">Operation</th>
-    <th class="tg-031e">Conversion</th>
-  </tr>
+<div class="table-wrapper">
+  <table>
+    <tr class="no">
+      <th colspan="2">Stage</th>
+      <th>Operation</th>
+      <th>Conversion</th>
+    </tr>
 
-  <tr>
-    <td class="tg-031e" rowspan="2">Experiment</td>
-    <td class="tg-031e">a) Logistics</td>
-    <td class="tg-031e">Design, recruitment, conversation elicitation </td>
-    <td class="tg-031e">From tasks to air-pressure waves (conversations).</td>
-  </tr>
+    <tr>
+      <td rowspan="2">Experiment</td>
+      <td>a) Logistics</td>
+      <td>Design, recruitment, conversation elicitation </td>
+      <td>From tasks to air-pressure waves (conversations).</td>
+    </tr>
 
-  <tr>
-    <td class="tg-031e">b) Data collection</td>
-    <td class="tg-031e">Recording task-oriented conversations via ‘Diapix’ prompts.</td>
-    <td class="tg-031e">From conversations to wave recordings.</td>
-  </tr>
+    <tr>
+      <td>b) Data collection</td>
+      <td>Recording task-oriented conversations via ‘Diapix’ prompts.</td>
+      <td>From conversations to wave recordings.</td>
+    </tr>
 
-  <tr>
-    <td class="tg-031e" rowspan="2">Preparation</td>
-    <td class="tg-031e">c) Annotation</td>
-    <td class="tg-031e">Manual tagging by word, phoneme, and precise timing. Then "segmentation" of each conversation into words.</td>
-    <td class="tg-031e">From one conversation waveform to 109,730 waveforms tagged by time and word.</td>
-  </tr>
+    <tr>
+      <td rowspan="2">Preparation</td>
+      <td>c) Annotation</td>
+      <td>Manual tagging by word, phoneme, and precise timing. Then "segmentation" of each conversation into words.</td>
+      <td>From one conversation waveform to 109,730 waveforms tagged by time and word.</td>
+    </tr>
 
-  <tr>
-    <td class="tg-031e">d) Feature extraction</td>
-    <td class="tg-031e">Parameterisation of speech recordings. Also labelling vector sequences.</td>
-    <td class="tg-031e">From waveforms to vector representations.</td>
-  </tr>
+    <tr>
+      <td>d) Feature extraction</td>
+      <td>Parameterisation of speech recordings. Also labelling vector sequences.</td>
+      <td>From waveforms to vector representations.</td>
+    </tr>
 
-  <tr>
-    <td class="tg-031e" rowspan="2">Modelling</td>
-    <td class="tg-031e">e) Train</td>
-    <td class="tg-031e">Global means and variances. Decoding and Baum-Welch re-estimation</td>
-    <td class="tg-031e">From generic HMMs + training data, to trained models.</td>
-  </tr>
+    <tr>
+      <td rowspan="2">Modelling</td>
+      <td>e) Train</td>
+      <td>Global means and variances. Decoding and Baum-Welch re-estimation</td>
+      <td>From generic HMMs + training data, to trained models.</td>
+    </tr>
 
-  <tr>
-    <td class="tg-031e">f) Test</td>
-    <td class="tg-031e">The Forward-Backward algorithm (EM) for each word. </td>
-    <td class="tg-031e">From trained models and test data, to conditional probability transcriptions for model pairs.</td>
-  </tr>
+    <tr>
+      <td>f) Test</td>
+      <td>The Forward-Backward algorithm (EM) for each word. </td>
+      <td>From trained models and test data, to conditional probability transcriptions for model pairs.</td>
+    </tr>
 
-  <tr>
-    <td class="tg-031e" rowspan="3">Analysis</td>
-    <td class="tg-031e">g) Likelihoods </td>
-    <td class="tg-031e">Subtraction of {log-likelihood given own model} from {log-likelihood given pair’s model}</td>
-    <td class="tg-031e">From conditional probability transcriptions to likelihood ratios (point speaker-distance estimates).</td>
-  </tr>
+    <tr>
+      <td rowspan="3">Analysis</td>
+      <td>g) Likelihoods </td>
+      <td>Subtraction of {log-likelihood given own model} from {log-likelihood given pair’s model}</td>
+      <td>From conditional probability transcriptions to likelihood ratios (point speaker-distance estimates).</td>
+    </tr>
 
-  <tr>
-    <td class="tg-031e">h) Correlations</td>
-    <td class="tg-031e">Spearman’s rank correlation between time and likelihood ratios.</td>
-    <td class="tg-031e">From speaker-distances to correlations over time.</td>
-  </tr>
+    <tr>
+      <td>h) Correlations</td>
+      <td>Spearman’s rank correlation between time and likelihood ratios.</td>
+      <td>From speaker-distances to correlations over time.</td>
+    </tr>
 
-  <tr>
-    <td class="tg-031e">i) Inference</td>
-    <td class="tg-031e">Thinking.</td>
-    <td class="tg-031e">From correlations to this essay.</td>
-  </tr>
-  
-</table>
+    <tr>
+      <td>i) Inference</td>
+      <td>Thinking.</td>
+      <td>From correlations to this essay.</td>
+    </tr>
+    
+  </table>
+</div>

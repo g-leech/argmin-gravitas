@@ -1,11 +1,8 @@
 ---
 layout: 	page
-title: 		""
+title: 		Bounty
 permalink:	/bounty
 visible:	false
 ---
 
 {%	include about/errata.html	%}	
-
-
-{%  include padder.html     howMuch=15  %}

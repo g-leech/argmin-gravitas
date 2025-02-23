@@ -37,7 +37,7 @@ visible:	true
 	{%	include researches/covid_neur.html	%}
 </table>
 
-<br>
+
 
 
 ## Preprint
@@ -51,7 +51,7 @@ visible:	true
 	{%	include researches/lgfo.html	%}
 </table>
 
-<br>
+
 
 ## Journal
 
@@ -66,7 +66,7 @@ visible:	true
 </table>
 
 
-<br>
+
 
 ## Workshop
 
@@ -77,7 +77,7 @@ visible:	true
 
 
 
-<br><br><br><br>
+<br><br>
 
 
 <div class="accordion">
@@ -163,7 +163,7 @@ visible:	true
 
 
 
-{%	include padder.html 	howMuch=3 	%}
+
 
 
 

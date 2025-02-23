@@ -8,161 +8,142 @@ visible:  false
 
 
 <style>
-  {%   include frontpage.css  %}
+
+	.post-list{
+		display: flex;
+		flex-direction: column;
+		gap: 3em;
+		margin-bottom: 6em;
+		margin-top: 2em;
+	}
+
+	.preview{
+		display: flex;
+		gap: 6%;
+		justify-content: flex-start;
+		align-items: center;
+	}
+
+	.preview img{
+		min-width: 150px;
+		height: 150px;
+		width: 150px;
+		object-fit: cover;
+	}
+
+	.preview-info{
+		font-size: 0.9em;
+		line-height: 1.5em;
+	}
+
+	.preview h3{
+		margin-bottom: 0.4em;
+		font-size: 1.8em;
+		line-height: 1.2em;
+		font-family: var(--serif);
+	}
+
+	.preview a{
+		text-decoration: none;
+	}
+
+	h4 {
+		font-family: var(--serif);
+		font-size: 1.4em
+	}
+
+	@media (max-width: 600px) {
+		.preview img{
+			width: 120px;
+			height: 120px;
+			min-width: 120px;
+		}
+
+		.preview h3{
+			font-size: 1.5em;
+		}
+
+		h4{
+			font-size: 1.2em;
+		}
+
+	}
 </style>
-
-<!-- <br class="wide"> -->
-<br>
-
-<div id="best" class="home">
-  <h1 class="fancy">Best posts:</h1>
-
-    <table id="fixed" rules=rows>
-    <center>
-    {% assign posts = site.posts | where_exp: "item", "item.quality > 6" | sample: 6 %}
-    {% for post in posts %}
-      {% if post.arb != 1 %}
-        <tr class="best">
-          <td>
-            
-            {% if forloop.index != 1 %}
-              <br class="nomob">
-            {% endif %}
-            
-            <a class="post-link" href="{{ post.url | prepend: site.url }}">
-              <img class="im" src="{{ post.img }}" />
-            </a>
-            <br class="nomob">
-          </td>
-          <td>
-            <h3 class="i">
-              <a class="post-link" href="{{ post.url | prepend: site.url }}">
-                {{ post.title }}
-              </a>
-            </h3> 
-            <span class="summ">
-              <small>
-                <a class="nolink" href="{{ post.url | prepend: site.url }}">
-                  {{ post.summary }}
-                </a>
-              </small>
-            </span>
-
-            {% if forloop.index == 1 %}
-              <br class="nomob"><br class="nomob">
-            {% endif %}
-
-
-          </td>
-        </tr>
-      {%  endif   %}
-    {% endfor %}
-      </center>
-    </table>
-</div>
 
 <br><br>
 
-<div id="whole" class="home">
-  <h1 class="fancy">New posts:</h1>
-    <table class="post-list" border=1 frame=void rules=rows>
-    
+<h2>Best posts</h2>
+<section class="post-list">
+    {% assign posts = site.posts | where_exp: "item", "item.quality > 6" | sample: 6 %}
+    {% for post in posts %}
+      {% if post.arb != 1 %}
+			<article class="preview">
+				<a href="{{ post.url | prepend: site.url }}">
+					<img src="{{ post.img }}" />
+				</a>
+				<div class="preview-info">
+					<a href="{{ post.url | prepend: site.url }}">
+						<h3> {{ post.title }} </h3>
+					</a>
+					<div> {{ post.summary }} </div>
+				</div>
+			</article>
+      {%  endif   %}
+    {% endfor %}
+</section>
+
+<h2>Recent posts</h2>
+<section class="post-list">    
     {% for post in site.posts limit:7 %}
-      {% if post.visible == 1  %}
-      <tr>
-        <td>
-
-            {% if forloop.index != 1 %}
-              <br class="nomob">
-            {% endif %}
-
-          <a class="post-link" href="{{ post.url | prepend: site.url }}">
-            <img class="im" src="{{ post.img }}" />
-          </a>
-          <br class="nomob">
-        </td>
-
-        <td>
-          <h3>
-            <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
-          </h3> 
-          <span>
-            <small>
-              <a class="nolink" href="{{ post.url | prepend: site.url }}">{{ post.summary }}</a>
-            </small>
-          </span>
-            {% if forloop.index == 1 %}
-              <br class="nomob"><br class="nomob">
-            {% endif %}
-
-        </td>
-      </tr>
-      {% endif  %}
+      	{% if post.visible == 1  %}
+				<article class="preview">
+					<a href="{{ post.url | prepend: site.url }}">
+						<img src="{{ post.img }}" />
+					</a>
+					<div class="preview-info">
+						<a href="{{ post.url | prepend: site.url }}">
+							<h3> {{ post.title }} </h3>
+						</a>
+						<div> {{ post.summary }} </div>
+					</div>
+				</article>
+      	{% endif  %}
     {% endfor %}
-
-    </table>
-
-    <br><br>
-</div>
+</section>
 
 
-<div id="whole" class="home">
-  <h1 class="fancy">
-    <a href="{{arb}}">Arb</a> posts:
-  </h1>
-    <table class="post-list" border=1 frame=void rules=rows>
-      {% for post in site.posts limit:22 %}
-        {% if post.arb == 1  %}
-        <tr class="best">
-        <td>
-          <a class="post-link" href="{{ post.url | prepend: site.url }}">
-            <img class="im" src="{{ post.img }}" />
-          </a>
-        </td>
-
-        <td>
-          <h3 class="i">
-            <a class="post-link" href="{{ post.url | prepend: site.url }}">
-              {{ post.title }}
-            </a>
-          </h3> 
-          
-          <span class="summ">
-            <small>
-              <a class="nolink" href="{{ post.url | prepend: site.url }}">{{ post.summary }}</a>
-            </small>
-          </span>          
-        </td>
-      </tr>
-      {% endif  %}
-    {% endfor %}
-    </table>
-</div>
-
-<br><br><br>
-
-
-
-<h2 class="fancy" style="font-size: 24pt">
-  <a href="{{ "/archive" | prepend: site.url }}">[See all posts]</a>; &nbsp;
-<br class="break">
-  <a href="{{ "/tags" | prepend: site.url }}">[by topic]</a>; &nbsp;
-<br class="break">
-  <a href="{{ "/importance" | prepend: site.url }}">[by importance]</a>
+<h2>
+	<a href="{{arb}}">Arb</a> posts
 </h2>
 
-<br><br class="break"><br class="break">
+<section class="post-list">
 
-<style>
-  #mc_embed_signup {
-    font-size: 20px;
-  }
+    {% for post in site.posts limit:22 %}
+        {% if post.arb == 1  %}
+        <a href="{{ post.url | prepend: site.url }}">
+			<article class="post">
+				<img src="{{ post.img }}" style="padding: 15px;"/>
+				<div class="post-info">
+					<h3> {{ post.title }} </h3>
+					<div> {{ post.summary }} </div>
+				</div>
+			</article>
+		</a>
+      	{% endif  %}
+    {% endfor %}
+</section>
+
+<h4>
+	<div style="display: flex; gap: 1em; margin-bottom: 3em;">
+		<a href="{{ "/archive" | prepend: site.url }}">[all posts];</a>
+		<a href="{{ "/tags" | prepend: site.url }}">[by topic];</a>
+		<a href="{{ "/importance" | prepend: site.url }}">[by importance]</a>
+	</div>
+</h4>
+
 </style>
 
 {%    include mc.html  %}
 
 
 <!-- <a rel="me" href="https://schelling.pt/@gl">&nbsp;</a> -->
-
-
-{%  include padder.html   howMuch=6  %}

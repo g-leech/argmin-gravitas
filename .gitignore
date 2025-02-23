@@ -4,3 +4,4 @@ _site
 .jekyll-metadata
 files/pdf
 blog.sublime-workspace
+.DS_Store
