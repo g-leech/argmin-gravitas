@@ -42,7 +42,7 @@ visible:	true
 
 
 
-I co-founded the research consultancy [Arb](https://arbresearch.com/) and am a fellow at [CFI](https://www.lcfi.ac.uk/) and [Foresight](https://foresight.org/foresight-fellowships/).
+I co-founded the consultancy [Arb](https://arbresearch.com/) and am a fellow at [Cosmos](https://cosmos-institute.org/), [CFI](https://www.lcfi.ac.uk/) and [Foresight](https://foresight.org/foresight-fellowships/).
 
 At various points I have been a waiter, a cockle picker, a 白猴子, a bookseller, a development worker in rural Tanzania, a buyer at a biotech plant, a civil servant, a web developer, an actuary, an epidemiologist, a metascientist, an AI person, a teacher, a consultant, a summer camp director, a startup founder, a nonfiction author, and a youtube producer.
 

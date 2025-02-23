@@ -64,6 +64,14 @@ visible:	false
 
 - 'Autobiography of My Alter Ego' by Yusef Komunyakaa
 
+- 'A footnote to weather forecasts' by Iosif Brodsky
+
+- '[In memoriam](https://www.newyorker.com/magazine/1987/11/09/in-memoriam-10)' by Iosif Brodsky
+
+- 'Sextet' by Iosif Brodsky
+
+- 'A part of speech' by Iosif Brodsky
+
 - '[The force that through the green fuse drives the flower](https://poets.org/poem/force-through-green-fuse-drives-flower)' by Dylan Thomas
 
 - '[Man Carrying Thing](https://poets.org/poem/man-carrying-thing)' by Wallace Stevens

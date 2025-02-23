@@ -9,18 +9,19 @@ jobs:
     name: Build Site to Verify PR
     runs-on: ubuntu-latest
     
-    # 2. Use the environment input to set the environment
-    #    so that environment-scoped secrets are available
+    # Use the environment input to set the environment
+    # so that environment-scoped secrets are available
     environment: ${{ github.event.inputs.environment }}
 
     steps:
-      # 3. Check out the specified branch
+      # Check out the specified branch
       - name: Check out code
         uses: actions/checkout@v3
         with:
           ref: ${{ github.event.inputs.branch }}
 
-      # 4. Build the site using your existing Docker build script
+
+      # Build the site using our existing Docker build script
       - name: Build the site using Docker
         run: |
           ./scripts/build.sh
