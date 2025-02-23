@@ -9,9 +9,7 @@ visible:	false
 
 
 
-<small>There's no point in listing my mundane views, so these are my unusual views. I'm more boring than this makes me sound.<br><br></small>
-
-
+There's no point in listing my mundane views, so these are my unusual views. I'm more boring than this makes me sound.
 
 <div class="accordion">
 	{% 	include opinions/health.md	%}

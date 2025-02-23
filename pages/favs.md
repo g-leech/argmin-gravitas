@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      ""
+title:      Favs
 permalink:  /favs/
 visible:    false
 ---

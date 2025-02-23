@@ -32,9 +32,9 @@
 Almost all modern poetry is written in the latter mode, the lyric-confessional. If you think you don't like poetry, this might be why.<br><br>
 <!--  -->
 
-<img data-src="/img/cultural/blake.png" class="lazy" /><br><br>
+<img data-src="/img/cultural/blake.png" loading="lazy" /><br><br>
 
-<img data-src="/img/cultural/nael.png" class="lazy" />
+<img data-src="/img/cultural/nael.png" loading="lazy" />
 
 </div>
 </div>

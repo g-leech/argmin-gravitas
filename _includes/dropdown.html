@@ -1,53 +1,7 @@
-<br>•&nbsp;&nbsp;<span class="dropdown">
-  <a class="dropped" href="javascript:drop()">Argument</a>
+<details class="dropdown">
+	<summary>
+		Argument
+	</summary>
 
-  <div id="myDropdown" class="dropdown-content">
-		{% include {{ page.argument }}  %}
-  </div>
-</span>
-
-
-
-<script>
-	function drop() {
-    	document.getElementById("myDropdown").classList.toggle("show");
-  	}
-	// Close the dropdown menu if the user clicks outside of it
-  	window.onclick = function(event) {
-	    if (!event.target.matches('.dropped')) {
-	      var dropdowns = document.getElementsByClassName("dropdown-content");
-	      var i;
-	      for (i = 0; i < dropdowns.length; i++) {
-	        var openDropdown = dropdowns[i];
-	        if (openDropdown.classList.contains('show')) {
-	          openDropdown.classList.remove('show');
-	        }
-	      }
-	    }
-	}
-</script>
-
-<style>
-	.dropdown {
-	  display: inline-block;
-	  padding: 0;
-	}
-
-	.dropdown-content {
-	  display: none;
-	  z-index: 1;
-	}
-
-	.dropdown-content {
-	  padding-left: 16px;
-	}
-
-	.show {
-		display:block;
-	}
-
-	#myDropdown{
-		padding-top: 15px;
-	}
-
-</style>
+	{% include {{ page.argument }}  %}
+</details>

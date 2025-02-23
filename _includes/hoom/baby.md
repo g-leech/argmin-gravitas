@@ -47,7 +47,7 @@ Rabbit is the baby is a relationship she had hoped would last and grow; instead,
 Beginning the great rewrite, the great skin-shedding which getting out of love requires.<br /><br />
 
 
-<img class="lazy" data-src="https://3.bp.blogspot.com/_1jKHfOdSZhQ/TLiUsiEyMeI/AAAAAAAAAlA/BGhj0WqNJIM/s400/6_Baby+Birch.png" />
+<img loading="lazy" data-src="https://3.bp.blogspot.com/_1jKHfOdSZhQ/TLiUsiEyMeI/AAAAAAAAAlA/BGhj0WqNJIM/s400/6_Baby+Birch.png" />
 
 
 </div>

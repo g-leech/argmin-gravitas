@@ -2,64 +2,21 @@
 layout: default
 ---
 
-
-<style type="text/css">
-   h1, h2, h3 {
-       text-decoration: none; 
-       position: relative; 
-     }   
-
-    
-   h1:after, h2::after, h3::after {
-     content: "";
-     width: 5%;
-     height: .1em;
-     
-     /* background-color: var(--c-title-underline-color); */
-     background: #FAC342;
-     
-     position: absolute;
-     bottom: -2px;
-     left: 0;
-     
-   }
-
-   h1::after {
-      width: 20%;
-      height: .2em;
-      bottom: -12px;
-   }
-</style>
-
 <div class="post">
 
 <header class="post-header">
-  <table>
-    <td><h1 class="post-title">{{ page.title }}</h1></td>
-    <td width="20%">
-      {% if page.img %}
-          <img class="im" src="{{ page.img }}" />
-      {% endif %}
-    </td>
-  </table>
-  <p style="line-height: 3px"></p>
-  <p style="margin-left:15px" class="post-meta">
+  <div class="post-banner">
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.img %}
+        <img class="post-image" src="{{ page.img }}" />
+    {% endif %}
+  </div>
+
+  <div class="post-meta">
     {%  assign s = "&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;"  %}
     {%  assign t = "•&nbsp;&nbsp;"  %}
     
     {%  include british_date.md   %}
-    {% if page.simple or page.stylised or page.technical %} 
-      {{s}} Available in  
-      {% if page.simple %} 
-        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simpleLink">Simple</a> 
-      {% endif %} 
-      {% if page.stylised %} | 
-        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylisedLink">Stylised</a> 
-      {% endif %} 
-      {% if page.technical %} | 
-        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'technical')" id="technicalLink">Technical</a> English 
-      {% endif %} 
-    {% endif %}
 
   <br>
     {% if page.summary %}
@@ -94,23 +51,42 @@ layout: default
         {%  include dropdown.html     %}    
     {% endif %} 
 
-  </p>
+    <br><br>
+
+    {% if page.simple or page.stylised or page.technical %} 
+      Available in  
+      {% if page.simple %} 
+        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simpleLink">SIMPLE</a> 
+      {% endif %} 
+      {% if page.stylised %} | 
+        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylisedLink">STYLISED</a> 
+      {% endif %} 
+      {% if page.technical %} | 
+        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'technical')" id="technicalLink">Technical</a> English 
+      {% endif %} 
+    {% endif %}
+
+  </div>
 </header>
 
     <hr /><br>
   
   <article class="post-content">
     {{ content }}
-    {%  include comments.html %}
-    <br><br>
-    {%  if page.categories  %}
+    
+    {%  if page.categories.size > 0   %}
+      <br><br>
         Tags: 
         {% for tag in page.categories %}
           <a style="color:green" href="/tags#{{ tag | replace: ',', ''  }}">{{ tag }}</a>
         {% endfor %}
     {%  endif  %}
 
-    <br><br><br><br>
+    <br><br>
+
+    {%  include comments.html %}
+
+    <br>
 
     {%  include mc.html %}
 
@@ -125,22 +101,7 @@ layout: default
 
   <br>
 
-  <div class="PageNavigation">
-    {% if page.previous.url %}
-
-      <a class="prev" style="text-decoration: none" href="{% link {{page.previous.path}} %}">&laquo; {{page.previous.title}}</a>
-    {%  else  %}
-      <a class="prev"></a>
-    {% endif %}
-
-    <a></a>
-
-    {% if page.next.url %}
-      <a class="next" style="text-decoration: none" href="{% link {{page.next.path}} %}">{{page.next.title}} &raquo;</a>
-    {%  else  %}
-      <a class="next"></a>
-    {% endif %}
-  </div>
+ 
 
 </div>
 
