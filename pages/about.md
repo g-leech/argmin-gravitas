@@ -57,9 +57,10 @@ Statistically, the most hated book I love is _[The Age of Em](https://www.goodre
 The most loved book I hate is Gibran's _[The Prophet](https://www.goodreads.com/book/show/2547.The_Prophet)_ (-3.2). The most hated album I love is _[Storm & Stress](https://www.albumoftheyear.org/album/37848-storm-stress-storm-stress.php)_ (+1 stars) or _[A New Dope](https://www.albumoftheyear.org/album/37494-7l-esoteric-a-new-dope.php)_. The most loved album I hate is _[Led Zeppelin IV](https://www.albumoftheyear.org/album/4524-led-zeppelin-led-zeppelin-iv.php)_ (-2 stars). The most hated film I love is, boringly, _[The Room](https://letterboxd.com/film/the-room/)_ (+2 stars) but also _[Belly of the Beast](https://letterboxd.com/film/belly-of-the-beast/)_ (+1.1). The most loved film I hate is _[The Dark Knight](https://letterboxd.com/film/the-dark-knight/)_ (-2). I sometimes <a href="/deaths">speak for the dead</a>.
 
 <br><br>
+
 <center>
   &nbsp;&nbsp;
-  <a target="_blank" style="border-bottom:0px" href="/cv.pdf">
+  <a target="_blank" style="border-bottom:0px; text-decoration: none" href="/cv.pdf">
     <img width="10%"  src="/img/PDF_file_icon.svg" />
   </a>
 </center>
