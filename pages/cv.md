@@ -14,8 +14,3 @@ visible:  false
      <img width="13%"  src="/img/PDF_file_icon.svg" />
   </a>
 </center>
-
-
-
-
-{%  include padder.html   howMuch=13  %}

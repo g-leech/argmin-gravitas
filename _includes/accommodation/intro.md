@@ -1,17 +1,12 @@
-To help locate us, let's define some subfields of computational linguistics:<br><br>
+To help locate us, let's define some subfields of computational linguistics:
 
+- **Speech processing**: The analysis of speech as a digital signal (and thereby as a mathematical object). As opposed to...
 
-<style>.heav { font-weight: bold; }</style>
+- **Natural language processing** (NLP): The analysis of speech as symbolic information, as syntax and semantics (and thereby as a mathematical object).
 
-<ul>
-	<li><span class="heav">Speech processing</span>: The analysis of speech as a digital signal (and thereby as a mathematical object). As opposed to</li><br>
+- **Paralinguistics**: The analysis of the ‘supra-segmental’ parts of communication: including rhythm, pitch, volume and intonation. (That is, of those components that extend over multiple units of speech, e.g. phonemes.)
 
-	<li><span class="heav">Natural language processing</span> (NLP): The analysis of speech as symbolic information, as syntax and semantics (and thereby as a mathematical object).</li><br>
-
-	<li><span class="heav">Paralinguistics</span>: The analysis of the ‘supra-segmental’ parts of communication: including rhythm, pitch, volume and intonation. (That is, of those components that extend over multiple units of speech, e.g. phonemes.)</li><br>
-
-	<li><span class="heav">Social signal processing</span> (SSP): The analysis of interaction context (i.e. of properties beyond the literal communication). Involves automated inference from data to phenomena that cannot be directly observed, but only inferred from correlated behaviours.</li><br>
-</ul>
+- **Social signal processing** (SSP): The analysis of interaction context (i.e. of properties beyond the literal communication). Involves automated inference from data to phenomena that cannot be directly observed, but only inferred from correlated behaviours.
 
 
 We use techniques from each of the above: from speech processing, the vectorization of speech waves for tractable model inputs; from NLP, we adapt a mechanism (the general 'recogniser') initially developed for automatic word recognition; we incorporate paralinguistic content in considering more than the symbolic or phonemic content of speech; and in line with SSP we are attempting to make inferences about a social process indirectly.

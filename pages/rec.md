@@ -25,8 +25,6 @@ visible:	true
 	{% include css/recs.css	%}
 </style>
 
-<br>
-
 ## Listen
 <div class="container">
 	<a href="{{album}}">{% include fa/record-vinyl-solid.svg %}</a>
@@ -34,28 +32,23 @@ visible:	true
 </div>
 
 
-<div class="container">
+<div class="container" style="align-items: flex-start">
 	<a href="/playlists">{% include fa/play.svg %}</a>
 	<a href="/playlists">Playlists</a>
-	<blockquote>
-		<div class="container">
-			<a href="/punk">{% include fa/biohazard.svg %}</a> <a href="/punk">punk</a>, 
-			<a href="{{j}}">{% include fa/question-solid.svg	%}</a> <a href="{{j}}">jazz</a>, 
-			<a href="/country">{% include fa/hat-cowboy-side-solid.svg %}</a> <a href="/country">country</a>,
-			<a href="{{hh}}">{% include fa/headphones-simple-solid.svg %}</a> <a href="{{hh}}">hip-hop</a>,
-			<a href="{{leccy}}">{% include fa/laptop-solid.svg %}</a> <a href="{{leccy}}">electronic</a>,
-			<a href="{{landfill}}">{% include fa/wine-bottle-solid.svg %}</a> <a href="{{landfill}}">indie</a>,
-		</div>
-		<div class="container">
-			<a href="{{x}}">{% include fa/candy-cane-solid.svg %}</a> <a href="{{x}}">☧mas</a>,
-			<a href="{{ragg}}">{% include fa/cannabis-solid.svg %}</a> <a href="{{ragg}}">reggae</a>,
-			<a href="{{dubs}}">{% include fa/user-astronaut-solid.svg %}</a> <a href="{{dubs}}">dub</a>,
-			<a href="/nation-sound">{% include fa/earth-americas-solid.svg %}</a> <a href="/nation-sound">nations</a>
-		</div>
-	</blockquote>
+</div>
+<div class="playlists">
+	<a href="/punk">{% include fa/biohazard.svg %} punk</a> 
+	<a href="{{j}}">{% include fa/question-solid.svg	%} jazz</a> 
+	<a href="/country">{% include fa/hat-cowboy-side-solid.svg %} country</a>
+	<a href="{{hh}}">{% include fa/headphones-simple-solid.svg %} hip-hop</a>
+	<a href="{{leccy}}">{% include fa/laptop-solid.svg %} electronic</a>
+	<a href="{{landfill}}">{% include fa/wine-bottle-solid.svg %} indie</a>
+	<a href="{{x}}">{% include fa/candy-cane-solid.svg %} ☧mas</a>
+	<a href="{{ragg}}">{% include fa/cannabis-solid.svg %} reggae</a>
+	<a href="{{dubs}}">{% include fa/user-astronaut-solid.svg %} dub</a>
+	<a href="/nation-sound">{% include fa/earth-americas-solid.svg %} nations</a>
 </div>
 
-<br>
 
 ## Read
 
@@ -106,7 +99,6 @@ visible:	true
 </div>
 
 
-<br>
 
 ## Gawk
 
@@ -139,7 +131,6 @@ visible:	true
 \art
 \photography
  -->
-<br>
 
 ## Misc
 
@@ -165,8 +156,3 @@ visible:	true
 	<a href="/favs/all">{% include fa/otter-solid.svg %}</a>
 	<a href="/favs/all">Other	</a>
 </div>
-
-
-
-
-{%	include padder.html 	howMuch=9	%}

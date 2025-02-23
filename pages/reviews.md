@@ -135,6 +135,3 @@ visible:    false
 {%	include books/reviews_1.html	%}
 
 <br><br><br>
-
-
-{% 	include lazyload.html 	%}
