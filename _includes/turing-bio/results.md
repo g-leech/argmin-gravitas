@@ -41,14 +41,16 @@
 			1940: <i>Mechanical engineering</i>:<br> redesigned the Polish Bomba to handle the exponential explosion in the Enigma's state space.
 		</li><br>
 		<li>
-			1941: <i>Statistics</i>:<br> independent invention of sequential analysis, for "Banburismus".
+			1940: <i>Bayesian inference</i>:<br> independent reinvention of Bayes factors and the first approximation of what we would now call empirical Bayes estimation. IJ Good quite rightly calls Bayes factors, "Bayes-Turing factors". (Though it should be Laplace-Turing factors.)
 		</li><br>
 		<li>
-			1940: <i>Bayesian inference</i>:<br> independent reinvention of Bayes factors and the first approximation of what we would now call empirical Bayes estimation. IJ Good quite rightly calls Bayes factors, "Bayes-Turing factors". (Though it should be Laplace-Turing factors.)
+			1941: <i>Statistics</i>:<br> independent invention of sequential analysis, for "Banburismus".
 		</li><br>
 		<li>
 			1942: <i>Cryptanalysis</i>:<br> A hand-method for cracking the Lorenz cipher, "Turingery".
 		</li><br>
+		<li>
+			1943: <a href="https://spectrum.ieee.org/alan-turings-delilah#:~:text=The%20Bandwidth%20Theorem&text=The%20theorem%E2%80%94which%20expresses%20what,several%20thousand%20times%20a%20second">Independent discovery</a> of the Nyquist-Shannon theorem, after Whittaker but before Shannon.
 		<li>
 			1944: <i>Cryptography, audio engineering and electrical engineering</i>:<br> Design, proof and much of the construction of "Delilah", a highly portable electronic speech encipherment device. This was never deployed and remained classified for decades. As such, we know that it was at least 10 years ahead of its time.
 		</li><br>

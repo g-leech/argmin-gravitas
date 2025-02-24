@@ -44,9 +44,9 @@ Taking both of these seriously leads us to a rich and disturbing joint: author a
   <table>
     <thead>
       <tr>
-        <td>The Tower</td>
-        <td>Fascism</td>
-        <td>Anime</td>
+        <td><b>The Tower</b></td>
+        <td><b>Fascism</b></td>
+        <td><b>Anime</b></td>
       </tr>
     </thead>
     <tbody>
