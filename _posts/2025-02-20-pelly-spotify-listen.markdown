@@ -47,6 +47,7 @@ What changed since 2006? (I don't say that Spotify is the cause of most of this)
 * the "content creator" identity, delegation of label A&R and marketing to the performer
 * backgrounding and "<a href="https://www.digitalmusicnews.com/wp-content/uploads/2014/03/ComvivaMobileMusicFinal.pdf">lean-back</a> listeners": people choosing to play muzak in their own homes
 * "Perfect Fit Content": zero-royalties commissioned muzak which presents as real music
+* [Dematerialisation](https://journals.sagepub.com/doi/abs/10.1177/1469540510390499).): music is no longer something to have in your house, to look at, to attend to, to hold onto. Album cover art decay?
 * Shift of demand away from new music to catalogue music
 * Shift of musicians' income share away from royalties and towards gigs and merch
 * Shift from single-purpose music machines (Walkman, radio, hi-fi) to "<i>hardware that almost ensure a listener will be splitting their attention between music and some other activity</i>".
