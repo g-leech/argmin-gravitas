@@ -11,7 +11,7 @@ visible:    1
 published:  true
 quality:    
 
-summary:    Review of an alarmed book on Spotify
+summary:    Review of an alarmed book about Spotify
 confidence: 70%
 importance: 5
 wordcount:  2000
@@ -47,6 +47,7 @@ What changed since 2006? (I don't say that Spotify is the cause of most of this)
 * the "content creator" identity, delegation of label A&R and marketing to the performer
 * backgrounding and "<a href="https://www.digitalmusicnews.com/wp-content/uploads/2014/03/ComvivaMobileMusicFinal.pdf">lean-back</a> listeners": people choosing to play muzak in their own homes
 * "Perfect Fit Content": zero-royalties commissioned muzak which presents as real music
+* [Dematerialisation](https://journals.sagepub.com/doi/abs/10.1177/1469540510390499).): music is no longer something to have in your house, to look at, to attend to, to hold onto. Album cover art decay?
 * Shift of demand away from new music to catalogue music
 * Shift of musicians' income share away from royalties and towards gigs and merch
 * Shift from single-purpose music machines (Walkman, radio, hi-fi) to "<i>hardware that almost ensure a listener will be splitting their attention between music and some other activity</i>".
@@ -70,15 +71,20 @@ As so often with left critiques of market practices, it's amazing how little age
 <blockquote>
 	There's nothing inherently neutral about setting up a system that wrapped up all of a song's worth in its replay value. To do so is to suggest that a song's potential to ignite mass enthuasism, and thus mass streams - or its capacity as background fodder, streaming endlessly, unnoticed - should determine its worth.
 </blockquote>
-But it's not its worth - just its revenue. I'm now boggling a little at imagining a paternalist Spotify which gave higher rates to worthy music, like <a href="https://en.wikipedia.org/wiki/John_Reith,_1st_Baron_Reith">Lord Reith</a>. This would be forcing most users to subsidise stuff they don't like! Fine by me, but good luck with that.
+But it's not its worth - just its revenue. An anticapitalist should really know the difference. 
+
+(I'm now boggling a little at imagining a paternalist Spotify which gave higher rates to worthy music, like <a href="https://en.wikipedia.org/wiki/John_Reith,_1st_Baron_Reith">Lord Reith</a>. This would be forcing most users to subsidise stuff they don't like! Fine by me, but good luck with that.)
+
+<br>
 
 Still, she's basically right and deserves a lot of credit for walking this beat so long and for breaking the story of their one distinctive crime against art: the <a href="https://en.wikipedia.org/wiki/Controversy_over_fake_artists_on_Spotify#Perfect_Fit_Content">Perfect Fit Content</a> scam, a systematic programme of replacing real music with mood music they don't pay royalties on. 
 
 One of Spotify's avowed goals was to increase the amount of music people listen to, in sheer duration and streams. <a href="https://www.ifpi.org/ifpis-global-study-finds-were-listening-to-more-music-in-more-ways-than-ever">This seems to have happened</a>, whether or not they caused it with e.g. mega-playlists and autoplay. This is obviously good for their revenue, but also good for artist incomes. The subtle point is that this could end up being bad for their art.
 
-Oliveros makes the distinction between "hearing" (automatic) and "listening" (intentional). The maximal case against Spotify is that they end up flattening and degrading music (whether they mean to or not): first make music ubiquitous, desensitising users and making listening harder; then make users devalue albums, long-form music; then make users devalue individual pieces of music and individual artists; then commission lots of cheap crap under fake names to replace expensive real artists; then create third-party opportunities; then (maybe) replace the session musicians with AI slop.
+Oliveros makes the distinction between "hearing" (automatic) and "listening" (intentional). The maximal case against Spotify is that they end up flattening and degrading music (whether they mean to or not): first make music ubiquitous, desensitising users and making listening harder; then make users devalue albums, long-form music; then make users devalue individual pieces of music and individual artists; then commission lots of cheap crap under fake names to replace expensive real artists; then create [third-party opportunities](https://www.honest-broker.com/p/the-rise-of-the-anonymous-music-star) for fuckery; then (maybe) replace the session musicians with AI slop.
 
 The case against that case is: about half of people don't notice the different between art and slop, so you aren't taking anything away from them by giving them slop. And the counter to that is: there's a lot of people inbetween who could have been listeners and won't be.
+
 
 <br>
 
@@ -99,6 +105,8 @@ The case against that case is: about half of people don't notice the different b
 <blockquote>the mixtape - as one-to-one musical transmission, an expression of a fixed idea through song and sound collage, as an enemy of the industrialized record industry - actually serves as a useful foil to the data-tuned, ultra-surveilled ways music circulates on streaming playlists... the exchange is never truly one-to-one.</blockquote>
 
 * Certainly playlists are much less meaningful than mixtapes. I'm old enough to have received a couple of actual mixtapes, handmade cassettes with weird transitions and little snatches of TV recorded through the deck's built-in mic. I still have them and still remember their content and meaning.
+
+* There's an interesting [secondary market and black market](https://variety.com/2024/music/news/spotify-artists-streaming-fraud-1235965379/) in [streams](https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence) and playlists. This actually creates a sort of DDoS vulnerability for artists: you can get their royalties stopped or their tracks taken down by botting them.
 
 * From elsewhere:
 <blockquote>

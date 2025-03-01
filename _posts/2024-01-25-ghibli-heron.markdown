@@ -40,102 +40,73 @@ Two readings of Miyazaki's _The Boy and the Heron_ are that it's
 Taking both of these seriously leads us to a rich and disturbing joint: author and authoritarian. Art (or anime) as deluded authoritarianism, and the artistic life (or his own life) as mistake. It is his least child-friendly film by far. <a href="#fn:3" id="fnref:3">3</a>
 <br>
 
-<center>
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <td><b>The Tower</b></td>
+        <td><b>Fascism</b></td>
+        <td><b>Anime</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mahito</td>
+        <td>Japan</td>
+        <td> Hayao Miyazaki</td>
+      </tr>
+      <tr>
+        <td> Great Uncle</td>
+        <td> Saigō Takamori?<br>Sadao Araki?</td>
+        <td> <a href="{{suz2}}">Isao Takahata</a></td>
+      </tr>
+      <tr>
+        <td>The Heron</td>
+        <td>Shigeru Yoshida??</td>
+        <td> <a href="{{suz}}">Toshio Suzuki</a></td>
+      </tr>
+      <tr>
+        <td>Parakeet King</td>
+        <td>Isoroku Yamamoto?? Kuniaki Koiso?</td>
+        <td> Hayao Miyazaki</td>
+      </tr>
+      <tr>
+        <td>Parakeets</td>
+        <td>The Japanese public</td>
+        <td> Ghibli fans</td>
+      </tr>
+      <tr>
+        <td>Meteor</td>
+        <td>Industrial technology</td>
+        <td> Creativity</td>
+        <!-- protective rock, the shooting star that fell from the sky that creates the dream world and makes all this possible, for that rock is inspiration and creativity    -->
+      </tr>
+      <tr>
+        <td>Dolmen</td>
+        <td>?</td>
+        <td> ?</td>
+      </tr>
+      <tr>
+        <td>Himi</td>
+        <td>?</td>
+        <td> ?</td>
+      </tr>  
+      <tr>
+        <td>Natsuko</td>
+        <td>?</td>
+        <td> ?</td>
+      </tr> 
+      <tr>
+        <td>Pelicans</td>
+        <td>?</td>
+        <td> ?</td>
+      </tr>
 
-<br>
-
-<style type="text/css">
-
-table td:nth-child(1) {
-    border-right: 4px solid black;
-}
-table td:nth-child(2) {
-    border-right: 4px solid black;
-}
-
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-td {
-  padding: 25px;
-}
-
-</style>
-<table cellspacing="0" class="tg">
-<thead>
-  <tr>
-    <td>The Tower</td>
-    <td>Fascism</td>
-    <td>Anime</td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">Mahito</td>
-    <td class="tg-0pky">Japan</td>
-    <td class="tg-0lax">Hayao Miyazaki</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Great Uncle</td>
-    <td class="tg-0lax">Saigō Takamori?<br>Sadao Araki?</td>
-    <td class="tg-0lax"><a href="{{suz2}}">Isao Takahata</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">The Heron</td>
-    <td class="tg-0pky">Shigeru Yoshida??</td>
-    <td class="tg-0lax"><a href="{{suz}}">Toshio Suzuki</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Parakeet King</td>
-    <td class="tg-0pky">Isoroku Yamamoto?? Kuniaki Koiso?</td>
-    <td class="tg-0lax">Hayao Miyazaki</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Parakeets</td>
-    <td class="tg-0pky">The Japanese public</td>
-    <td class="tg-0lax">Ghibli fans</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Meteor</td>
-    <td class="tg-0pky">Industrial technology</td>
-    <td class="tg-0lax">Creativity</td>
-    <!-- protective rock, the shooting star that fell from the sky that creates the dream world and makes all this possible, for that rock is inspiration and creativity    -->
-  </tr>
-  <tr>
-    <td class="tg-0pky">Dolmen</td>
-    <td class="tg-0pky">?</td>
-    <td class="tg-0lax">?</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Himi</td>
-    <td class="tg-0pky">?</td>
-    <td class="tg-0lax">?</td>
-  </tr>  
-  <tr>
-    <td class="tg-0pky">Natsuko</td>
-    <td class="tg-0pky">?</td>
-    <td class="tg-0lax">?</td>
-  </tr> 
-  <tr>
-    <td class="tg-0pky">Pelicans</td>
-    <td class="tg-0pky">?</td>
-    <td class="tg-0lax">?</td>
-  </tr>
-
-</tbody>
-</table>
-
-</center>
-
+    </tbody>
+  </table>
+</div>
 
 <br><br>
-
 
 
 

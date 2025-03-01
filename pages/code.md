@@ -1,6 +1,6 @@
 ---
 layout: 	page
-title: 		""
+title: 		Code
 nav: 		Code
 permalink:	/code
 visible:	false
@@ -9,4 +9,3 @@ visible:	false
 {%		include about/code.html		%}
 
 
-{%	include padder.html 	howMuch=15	%}

@@ -45,4 +45,3 @@ We were commissioned to see just how strong the famous superforecasting advantag
 
 
 
-{%  include padder.html   howMuch=10  %}
