@@ -35,7 +35,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy _site --project-name=${{ secrets.CLOUDFLARE_PROJECT_NAME }}
+          command: pages deploy _site --branch main --project-name=${{ secrets.CLOUDFLARE_PROJECT_NAME }}
 
   deploy_non_master:
     if: ${{ github.ref_name != 'master' }}
