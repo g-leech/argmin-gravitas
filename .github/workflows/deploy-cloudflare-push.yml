@@ -3,7 +3,7 @@ name: Deploy to Cloudflare on Push
 on:
   push:
     branches:
-      - master-cloudflare
+      - master
 
 jobs:
   deploy_master:
@@ -23,6 +23,11 @@ jobs:
       - name: Build the site using Docker
         run: |
           ./scripts/build.sh
+
+      # Minify the output
+      - name: Minify the site
+        run: |
+          ./scripts/minify.sh
 
       # Deploy to Cloudflare using the Cloudflare Wrangler Action
       - name: Deploy
@@ -48,6 +53,11 @@ jobs:
       - name: Build the site using Docker
         run: |
           ./scripts/build.sh
+
+      # Minify the output
+      - name: Minify the site
+        run: |
+          ./scripts/minify.sh
 
       # Deploy to Cloudflare using the Cloudflare Wrangler Action
       - name: Deploy
