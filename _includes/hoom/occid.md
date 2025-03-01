@@ -28,7 +28,7 @@ What's left of her feelings, dealt with one way or other.<br />
 Mixed message. One last chance..? "State your case".
 <br /><br />
 
-<img class="lazy" data-src="https://3.bp.blogspot.com/_1jKHfOdSZhQ/TLiUNZ-7KXI/AAAAAAAAAkI/BCykjLJsIQU/s400/12_occident.png" />
+<img loading="lazy" data-src="https://3.bp.blogspot.com/_1jKHfOdSZhQ/TLiUNZ-7KXI/AAAAAAAAAkI/BCykjLJsIQU/s400/12_occident.png" />
 
 
 </div>

@@ -32,6 +32,6 @@ Lying together in a field, they're set upon by an "etiolated", skittish little h
 She calls him Johnny Appleseed, the folk hero - <a href="http://en.wikipedia.org/wiki/Johnny_Appleseed#Attitudes_towards_animals">horse-kind - but a committed bachelor too</a>.<br /><br />
 
 
-<img class="lazy" data-src="https://4.bp.blogspot.com/_1jKHfOdSZhQ/TLiUvJDJEoI/AAAAAAAAAlI/6PNZnJ_WnSo/s400/5_No+Provenance.png" />
+<img loading="lazy" data-src="https://4.bp.blogspot.com/_1jKHfOdSZhQ/TLiUvJDJEoI/AAAAAAAAAlI/6PNZnJ_WnSo/s400/5_No+Provenance.png" />
 
 </div>

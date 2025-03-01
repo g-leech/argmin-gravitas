@@ -24,7 +24,6 @@ argument:   ignorance/argument.html
 <!-- Writing Checklist -->
 <!-- https://roamresearch.com/#/app/gleech/page/5jHVvVI8w -->
 
-{% 	include phone_img.html 		%}
 {%	include ignorance/links.md	%}
 {%	assign chapman = "https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf"	%}
 {%	assign soares = "http://mindingourway.com/stop-trying-to-try-and-try/"		%}
@@ -63,7 +62,7 @@ A natural answer is to start at the <a href="{{dl}}">beginning</a>: go read the 
 <br>
 
 <center>
-	<img class="i50" src="/img/dl.png" />
+	<img src="/img/dl.png" />
 </center>
 <br>
 

@@ -7,30 +7,11 @@ Some of my <a href="/rec">favourite things</a> are
 <span id="merkin"></span>
 <span id="anim"></span> 
 <span id="music"></span>
-<span id="blog"></span>  
-<span id="colour"></span> 
+<span id="blog"></span>  <span id="colour"></span> 
 <span id="tech"></span> 
 <span id="abstra"></span> 
-<span id="death"></span> 
-&nbsp;&nbsp;
-<button class="btn" onClick="window.location.reload();">⟳</button>
-
-<style>
-    .btn {
-  background-color: white; /* Blue background */
-/*  border: none; /* Remove borders */*/
-  color: black; 
-  font-size: 14px; 
-  padding-left: 5px;
-  padding-right: 5px;
-  cursor:pointer;
-  }
-
-  .btn:hover {
-    background-color: black;
-    color: white;
-    }
-</style>
+<span id="death"></span>. 
+<button style="background: white; color: black; cursor: pointer; padding: 4px 8px" onClick="window.location.reload();">more</button>
 
 <!-- <a href="{{starlings}}">this video</a> -->
 <script>
@@ -51,14 +32,13 @@ Some of my <a href="/rec">favourite things</a> are
     // Martin Gardner
     b = ["Cosma Shalizi", "Andrew Gelman", "Toby Ord", "Scott Alexander","Gwern", "Nassim Taleb", "Tyler Cowen", "Piero Scaruffi", "Zach Weiner", "Kelsey Piper", "Nostalgebraist", "Liam Bright", "Kieran Healy", "Luke Muehlhauser", "Dan Luu", "Katja Grace,", "Anders Sandberg"] 
     n = ["<a class='noline' href='https://www.youtube.com/watch?v=eakKfY5aHmY'>the common starling</a>", "the Eurasian otter", "the arum lily", "gorse"]
-    l = ["Jorge Luis Borges", "GC Lichtenberg", "Fernando Pessoa", "Emil Cioran", "Werner Herzog", "Norm Macdonald", "Vernor Vinge"]
+    l = ["Jorge Luis Borges", "GC Lichtenberg", "Fernando Pessoa", "Emil Cioran", "Werner Herzog", "Norm Macdonald", "Vernor Vinge", "Iosif Brodsky"]
     x = ["singing", "barbells", "shavasana", "hiking", "singing sad songs happily", "solar sneeze", "Samoyeds"]
-    m = ["Joanna Newsom", "John Darnielle", "Leonard Cohen", "Adam Schlesinger", "Ornette Coleman", "Matt Skiba", "David Tattersall", "Jason Molina", "Ryuichi Sakamoto", "Iris deMent", "Bruce Springsteen"]
-    // "Randy Newman",
+    m = ["Joanna Newsom", "John Darnielle", "Leonard Cohen", "Adam Schlesinger", "Ornette Coleman", "Matt Skiba", "David Tattersall", "Jason Molina", "Mike Watt", "Ian Mackaye", "Iris deMent", "Bruce Springsteen"]
     c = ["Pakistan green", "fairy lights", "Puma Classics", "Uniqlo", "WH1000XM4s", "Mushi-Shi", "TH105 glasses"]
     t = ["Protonmail", "Alacritty", "Roam", "Sublime Text", "Netlify", "Twitter", "Vine"]
     a = ["getting into things", "lists", "running a company", "judging things", "people changing their mind", "novelty", "sudden relevance", "brevity", "teaching", "idly planning to become a more serious person", '<a href="/deaths">these people</a>', '<a class="noline" href="{{sittler}}">and</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a>']
-    
+    // 
     set("food", choose(f))
     set("engl", choose(e))
     set("scot", choose(s))
@@ -71,5 +51,5 @@ Some of my <a href="/rec">favourite things</a> are
     set("colour", choose(c))
     set("tech", choose(t))
     set("abstra", choose(a), "")
-    
+    // 
 </script>

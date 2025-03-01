@@ -64,6 +64,7 @@ Let the “Transformer++” be a Transformer with
 
 ### Occurrence in top open architectures
 
+{% capture my_markdown %}
 | Component  | Tweak  | [LLaMA 3](https://arxiv.org/abs/2407.21783) | [Gemma 2](https://huggingface.co/google/gemma-2-9b) | [Qwen2.5](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e) | [DeepSeek-V2](https://arxiv.org/abs/2405.04434) | [Hunyuan-Large](https://arxiv.org/html/2411.02265v3) |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |  |  | | | | | |
@@ -94,6 +95,11 @@ Let the “Transformer++” be a Transformer with
 |  |  | | | | | |
 | __Weights quantization__ | BF16 training | Yes | No, FP32 | Yes | Yes | Yes |
 | __Weights quantization__ | 8-bit post-training | In one version | No | No | No | In one version |
+{% endcapture %}
+
+<div class="table-wrapper">
+    {{ my_markdown | markdownify }}
+</div>
 
 <br>
 
@@ -111,7 +117,7 @@ Let the “Transformer++” be a Transformer with
 
 * The above ignores the much more important changes since 2017 to data “collection” (curation and synthesis), cluster infrastructure, post-training, and scaffolding.  
 * The [public tokenizers](https://github.com/openai/tiktoken) still use [byte-pair encoding](https://huggingface.co/learn/nlp-course/en/chapter6/5)  
-* [Some models](https://huggingface.co/google/gemma-7b/discussions/34) have absurdly high embedding-parameter counts. This is unlikely to be a performance optimisation. Instead we conjecture this is a tradeoff to allow underreporting the Transformer-parameter count and so enter a lesser model class (“7B”).  
+* [Some models](https://huggingface.co/google/gemma-7b/discussions/34) have absurdly high embedding-parameter counts. Previously we conjectured that this is a PR tradeoff, to allow underreporting the Transformer-parameter count and so enter a lesser model class (“7B”). There is actually a good reason on top of this PR reason: TPUs have dedicated hardware (SparseCores) which accelerate embedding lookups relative to NVIDIA hardware, which lets models trained on them have much larger vocabularies, and hence huge embedding tables. The only fudge factor then is then them using the standard parameter reporting convention (only counting Transformer parameters) despite having a good reason to explode the embedding.
 * A lot of this doesn’t improve absolute performance that much, but it does make it a lot cheaper to run.  
 * And this is just the public architecture. And probably there are some public methods which we haven’t realised are improvements yet.
 

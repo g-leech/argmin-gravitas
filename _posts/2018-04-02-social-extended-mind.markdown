@@ -50,24 +50,18 @@ Modelling this
 
 <br>
 
-<style>
-span {
-	font-weight: bold
-}
-</style>
-
 ## List
 
-* <span>Altruistic effectiveness</span>: <a href="{{}}">Jeff Kaufman</a>, <a href="{{}}">Nick Beckstead</a>, <a href="{{}}">Toby Ord</a>, <a href="{{}}">Michael Plant</a>,
+* <b>Altruistic effectiveness</b>: <a href="{{}}">Jeff Kaufman</a>, <a href="{{}}">Nick Beckstead</a>, <a href="{{}}">Toby Ord</a>, <a href="{{}}">Michael Plant</a>,
 
-* <span>Statistics</span>: <a href="{{}}">Andrew Gelman</a>, <a href="{{}}">David Spiegelhalter</a>, <a href="{{}}">Cosma Shalizi</a>, Nassim Taleb.
+* <b>Statistics</b>: <a href="{{}}">Andrew Gelman</a>, <a href="{{}}">David Spiegelhalter</a>, <a href="{{}}">Cosma Shalizi</a>, Nassim Taleb.
 
-* <span>Meta-science</span>: 
+* <b>Meta-science</b>: 
 Retraction Watch, John Ioannidis, <a href="{{}}">Richard McElreath</a>, <a href="{{}}">Uri Simonsohn</a>, <a href="{{}}">Alan Sokal</a>, Jeff Leek.
 
-* <span>Physics</span>: <a href="{{}}">Sabine Hossfelder</a>, <a href="{{}}">Scott Aaronson</a>, <a href="{{}}">Jean Bricmont</a>, <a href="{{}}">Sean Carroll</a>, Roger Penrose.
+* <b>Physics</b>: <a href="{{}}">Sabine Hossfelder</a>, <a href="{{}}">Scott Aaronson</a>, <a href="{{}}">Jean Bricmont</a>, <a href="{{}}">Sean Carroll</a>, Roger Penrose.
 
-* <span>Philosophy</span>: Joseph Heath, <a href="{{}}">Will MacAskill</a>, <a href="{{}}">Scott Aaronson</a>, <a href="{{schliesser}}">Eric Schliesser</a>, Eric Schwitzgebel, <a href="{{}}">Brian Leiter</a>.
+* <b>Philosophy</b>: Joseph Heath, <a href="{{}}">Will MacAskill</a>, <a href="{{}}">Scott Aaronson</a>, <a href="{{schliesser}}">Eric Schliesser</a>, Eric Schwitzgebel, <a href="{{}}">Brian Leiter</a>.
 
 Judea Pearl
 Robert Paul Wolff
@@ -78,44 +72,44 @@ William Easterly.
 Barbara Ehrenreich, 
 Kieran Healy
 
-* <span>Macroeconomics</span>: Dani Rodrik, <a href="{{}}">Bryan Caplan</a>, <a href="{{}}">Noah Smith</a>, <a href="{{}}">John Quiggin</a>, <a href="{{}}">Deirdre McCloskey</a>, <a href="{{}}">Paul Krugman</a>,.
+* <b>Macroeconomics</b>: Dani Rodrik, <a href="{{}}">Bryan Caplan</a>, <a href="{{}}">Noah Smith</a>, <a href="{{}}">John Quiggin</a>, <a href="{{}}">Deirdre McCloskey</a>, <a href="{{}}">Paul Krugman</a>,.
 
-* <span>Policy</span>: <a href="{{}}">David Roodman</a>, <a href="{{}}">Steven Pinker</a>.
+* <b>Policy</b>: <a href="{{}}">David Roodman</a>, <a href="{{}}">Steven Pinker</a>.
 
-* <span>Economic history</span>: <a href="{{}}">Artir Kel</a>, Pseudoerasmus.
+* <b>Economic history</b>: <a href="{{}}">Artir Kel</a>, Pseudoerasmus.
 
-* <span>Economic justice</span>: <a href="{{}}">David Graeber, <a href="{{}}">Freddie deBoer</a>, <a href="{{}}">Chris Dillow</a>, 
+* <b>Economic justice</b>: <a href="{{}}">David Graeber, <a href="{{}}">Freddie deBoer</a>, <a href="{{}}">Chris Dillow</a>, 
 
-* <span>Nutrition</span>: <a href="{{}}">Stephen Guyenet</a>, Examine.
+* <b>Nutrition</b>: <a href="{{}}">Stephen Guyenet</a>, Examine.
 
-* <span>Psychiatry, neuroscience, medicine</span>: <a href="{{}}">Scott Alexander</a>, <a href="{{}}">Cochrane Collaboration</a>,
+* <b>Psychiatry, neuroscience, medicine</b>: <a href="{{}}">Scott Alexander</a>, <a href="{{}}">Cochrane Collaboration</a>,
 
-* <span>Development</span>: David Roodman, Chris Blattman
+* <b>Development</b>: David Roodman, Chris Blattman
 
-* <span>Psychology</span>: <a href="{{}}">Stuart Ritchie</a>, <a href="{{}}">Daniel Kahneman</a>, <a href="{{}}">Nick Brown</a>, 
+* <b>Psychology</b>: <a href="{{}}">Stuart Ritchie</a>, <a href="{{}}">Daniel Kahneman</a>, <a href="{{}}">Nick Brown</a>, 
 
-* <span>Genetics</span>: <a href="{{}}">Stephen Hsu</a>, <a href="{{}}">Stuart Ritchie</a>, Gwern
+* <b>Genetics</b>: <a href="{{}}">Stephen Hsu</a>, <a href="{{}}">Stuart Ritchie</a>, Gwern
 
 
-* <span>AI</span>: <a href="{{}}">Gwern Branwen</a>, <a href="{{}}">Chris Olah</a>, <a href="{{}}">Katja Grace</a>,
+* <b>AI</b>: <a href="{{}}">Gwern Branwen</a>, <a href="{{}}">Chris Olah</a>, <a href="{{}}">Katja Grace</a>,
 
-* <span>Cultural politics</span>: <a href="{{}}">Kelsey P</a>, Joseph Heath, Thomas Basbøll
+* <b>Cultural politics</b>: <a href="{{}}">Kelsey P</a>, Joseph Heath, Thomas Basbøll
 
-* <span>British politics</span>: Charlie Stross, <a href="{{}}">David Allen Green</a>, <a href="{{}}">Chris Dillow</a>, <a href="{{}}">David Torrance</a>, Stewart Lee.
+* <b>British politics</b>: Charlie Stross, <a href="{{}}">David Allen Green</a>, <a href="{{}}">Chris Dillow</a>, <a href="{{}}">David Torrance</a>, Stewart Lee.
 
-* <span>Gender</span>: <a href="{{}}">Ozy Frantz</a>, <a href="{{}}">Kelsey P</a>, <a href="{{}}">Taylor Saotome-Westlake</a>
+* <b>Gender</b>: <a href="{{}}">Ozy Frantz</a>, <a href="{{}}">Kelsey P</a>, <a href="{{}}">Taylor Saotome-Westlake</a>
 
-* <span>Computer science</span>: <a href="{{}}">Scott Aaronson</a>,
+* <b>Computer science</b>: <a href="{{}}">Scott Aaronson</a>,
 
-* <span>Software</span>: <a href="{{}}">Dan Luu</a>, <a href="{{}}">John Morrice</a>,
+* <b>Software</b>: <a href="{{}}">Dan Luu</a>, <a href="{{}}">John Morrice</a>,
 
-* <span>History</span>: <a href="{{}}">Clive James</a>,
+* <b>History</b>: <a href="{{}}">Clive James</a>,
 
-* <span>The Future</span>: <a href="{{}}">Robin Hanson</a>, <a href="{{}}">Anders Sandberg</a>, <a href="{{}}">David Pearce</a>.
+* <b>The Future</b>: <a href="{{}}">Robin Hanson</a>, <a href="{{}}">Anders Sandberg</a>, <a href="{{}}">David Pearce</a>.
 
 * Art
 
-* <span>Misc</span>: <a href="{{}}">Katja Grace</a>, <a href="{{}}">Tyler Cowen</a>, <a href="{{}}">Rob Wiblin</a>, <a href="{{}}">Jeff Kaufman</a>, <a href="{{}}">Scott Aaronson</a>, <a href="{{}}">Robin Hanson</a>, <a href="{{}}">Hugh Panton</a>, <a href="{{}}">Anders Sandberg</a>, <a href="{{}}">Buck Shlegeris</a>, <a href="{{}}">Scott Alexander</a>.
+* <b>Misc</b>: <a href="{{}}">Katja Grace</a>, <a href="{{}}">Tyler Cowen</a>, <a href="{{}}">Rob Wiblin</a>, <a href="{{}}">Jeff Kaufman</a>, <a href="{{}}">Scott Aaronson</a>, <a href="{{}}">Robin Hanson</a>, <a href="{{}}">Hugh Panton</a>, <a href="{{}}">Anders Sandberg</a>, <a href="{{}}">Buck Shlegeris</a>, <a href="{{}}">Scott Alexander</a>.
 
 
 
