@@ -56,6 +56,8 @@ jobs:
       - name: Build the site using Docker
         run: |
           ./scripts/build.sh
+        env:
+          JEKYLL_CONFIG: _config_dev_netlify.yml
 
       # Deploy to Netlify using the Netlify CLI Action
       - name: Deploy to Netlify
