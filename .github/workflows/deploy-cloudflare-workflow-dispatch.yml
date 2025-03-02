@@ -11,6 +11,10 @@ on:
         description: "Environment to deploy to"
         required: true
         default: "development"
+      jekyll_config:
+        description: "Jekyll configuration file to use"
+        required: false
+        default: "_config_dev_cloudflare.yml"
 
 jobs:
   build-and-deploy:
@@ -29,6 +33,8 @@ jobs:
       - name: Build the site using Docker
         run: |
           ./scripts/build.sh
+        env:
+          JEKYLL_CONFIG: ${{ github.event.inputs.jekyll_config }}
 
       # Minify the output
       - name: Minify the site
