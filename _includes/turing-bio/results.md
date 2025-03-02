@@ -51,6 +51,7 @@
 		</li><br>
 		<li>
 			1943: <a href="https://spectrum.ieee.org/alan-turings-delilah#:~:text=The%20Bandwidth%20Theorem&text=The%20theorem%E2%80%94which%20expresses%20what,several%20thousand%20times%20a%20second">Independent discovery</a> of the Nyquist-Shannon theorem, after Whittaker but before Shannon.
+		</li><br>
 		<li>
 			1944: <i>Cryptography, audio engineering and electrical engineering</i>:<br> Design, proof and much of the construction of "Delilah", a highly portable electronic speech encipherment device. This was never deployed and remained classified for decades. As such, we know that it was at least 10 years ahead of its time.
 		</li><br>

@@ -192,7 +192,7 @@ The world's problems mirror Harry's personal problems. Revachol used to be great
 <br>
 
 
-Similarly: people often confuse their personal problems for political ones. It's an easy way to ennoble your specific brand of negativity. So KHTK are roughly correct to imply that fascism comes out of the fascist's personal grievances, gut feelings about purity, and nostalgia <a href="#fn:1" id="fnref:1">1</a>. But so too for the communist's wishful thinking, magical thinking, impulsivity, fatigue, and/or <a href="{{envy}}">sheer resentment</a>.
+Similarly: people often [confuse](https://www.astralcodexten.com/p/the-psychopolitics-of-trauma) their personal problems for political ones. It's an easy way to ennoble your specific brand of negativity. So KHTK are roughly correct to imply that fascism comes out of the fascist's personal grievances, gut feelings about purity, and nostalgia <a href="#fn:1" id="fnref:1">1</a>. But so too for the communist's wishful thinking, magical thinking, impulsivity, fatigue, and/or <a href="{{envy}}">sheer resentment</a>.
 
 > You: If communism keeps failing every time we try it... And the rest of the world keep killing us for our beliefs...<br>
 Steban: Yes?<br>
