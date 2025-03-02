@@ -54,6 +54,8 @@ jobs:
       - name: Build the site using Docker
         run: |
           ./scripts/build.sh
+        env:
+          JEKYLL_CONFIG: _config_dev_cloudflare.yml
 
       # Minify the output
       - name: Minify the site
