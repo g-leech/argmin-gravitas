@@ -3,7 +3,7 @@ name: Deploy to Cloudflare on Push
 on:
   push:
     branches:
-      - master-cloudflare
+      - master
 
 jobs:
   deploy_master:
@@ -24,12 +24,18 @@ jobs:
         run: |
           ./scripts/build.sh
 
+      # Minify the output
+      - name: Minify the site
+        run: |
+          ./scripts/minify.sh
+
       # Deploy to Cloudflare using the Cloudflare Wrangler Action
       - name: Deploy
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          command: pages deploy _site --project-name=${{ secrets.CLOUDFLARE_PROJECT_NAME }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy _site --branch main --project-name=${{ secrets.CLOUDFLARE_PROJECT_NAME }}
 
   deploy_non_master:
     if: ${{ github.ref_name != 'master' }}
@@ -48,6 +54,13 @@ jobs:
       - name: Build the site using Docker
         run: |
           ./scripts/build.sh
+        env:
+          JEKYLL_CONFIG: _config_dev_cloudflare.yml
+
+      # Minify the output
+      - name: Minify the site
+        run: |
+          ./scripts/minify.sh
 
       # Deploy to Cloudflare using the Cloudflare Wrangler Action
       - name: Deploy

@@ -25,3 +25,8 @@ jobs:
       - name: Build the site using Docker
         run: |
           ./scripts/build.sh
+
+      # Minify the output
+      - name: Minify the site
+        run: |
+          ./scripts/minify.sh
