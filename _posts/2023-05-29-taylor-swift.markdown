@@ -87,6 +87,9 @@ I realise now that Swift _is_ a kind of artist – but the art is not music, it'
 
 So if the music is uninteresting the phenomenon isn't. She plays the world like a fiddle. How?
 
+<br>
+
+<img src="/img/your-lips-my-lip-apocalypse.png" />
 
 
 <br>
