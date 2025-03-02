@@ -1,0 +1,11 @@
+# Site settings
+title: argmin gravitas
+fmtTitle: argmin gravitas
+email: g@gleech.org  
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://jm-argmin-gravitas-dev.netlify.app # CHANGEME
+github_username:  g-leech
+highlighter: none
+
+# Build settings
+markdown: kramdown
