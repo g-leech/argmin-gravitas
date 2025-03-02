@@ -28,7 +28,7 @@ visible:	false
 
 - '[Boast of Quietness](https://www.goodreads.com/quotes/343526-boast-of-quietness-writings-of-light-assault-the-darkness-more)' by Borges
 
-- [Job 3: 3-26](https://www.biblegateway.com/passage/?search=Job%203%3A3-26&version=KJV)
+- '[Job 3: 3-26](https://www.biblegateway.com/passage/?search=Job%203%3A3-26&version=KJV)
 
 - '[Tom o Bedlam's Song](https://kestrelmontague.wordpress.com/2012/09/10/perhaps-the-greatest-anonymous-poem-tom-obedlam/)'
 
@@ -88,9 +88,11 @@ visible:	false
 
 - '[Re-emerge The Exact Same As You Are](https://tiny-postcard.blogspot.com/2012/08/re-emerge-exact-same-as-you-are.html?m=0)' by John Morrice
 
+- '[A good list](https://newcriterion.com/article/a-good-list/)' by Brad Leithauser
+
 - '[autopsychography](https://www.poetryfoundation.org/poetrymagazine/poems/26780/autopsychography)' by Pessoa
 
-- '[Prufrock](https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock) by Eliot
+- '[Prufrock](https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock)' by Eliot
 
 - '[Under One Small Star](https://www.poetrynook.com/poem/under-one-small-star)' by Szymborska
 
@@ -103,23 +105,21 @@ visible:	false
 
 - '[Aurora Leigh](https://www.poetryfoundation.org/poems/145567/aurora-leigh-book-1)' by Elizabeth Barrett Browning
 
-
 - '[Israel](http://roothogordie.wordpress.com/2009/01/07/briefly-off-message-from-leonard-cohens-book-of-mercy/)' by Leonard Cohen
 
 - '[A Working Man](http://books.google.co.uk/books?id=kyCVRKtQ5H0C&pg=PT201&lpg=PT201&dq=%22I+was+proud+to+be+a+working+man%22+leonard+cohen&source=bl&ots=uP4YphqCD_&sig=74iwCedUszd0Hx7rTg-4ubcFaME&hl=en&sa=X&ei=Sl6wUZLWOomg0QXQnoHQAQ&ved=0CCwQ6AEwAA)' by Leonard Cohen
 
 - '[Queen Victoria and Me](http://poemsandpickaxes.blogspot.co.uk/2011/12/queen-victoria-and-me-leonard-cohen.html)' by Leonard Cohen
 
-- [Montreal](http://books.google.co.uk/books?id=kyCVRKtQ5H0C&pg=PT216&lpg=PT216&dq=%22beware+of+what+comes+out+of+montreal%22&source=bl&ots=uP4YphruA6&sig=EzMn2DSAou0xCT3GaoVhsUumRDk&hl=en&sa=X&ei=_V6wUaj6KOaK0AX45IGYDA&ved=0CFEQ6AEwCA)' by Leonard Cohen
+- '[Montreal](http://books.google.co.uk/books?id=kyCVRKtQ5H0C&pg=PT216&lpg=PT216&dq=%22beware+of+what+comes+out+of+montreal%22&source=bl&ots=uP4YphruA6&sig=EzMn2DSAou0xCT3GaoVhsUumRDk&hl=en&sa=X&ei=_V6wUaj6KOaK0AX45IGYDA&ved=0CFEQ6AEwCA)' by Leonard Cohen
 
-- [Hydra 1960](http://www.leonardcohenfiles.com/hydraB2.html) by Leonard Cohen
+- '[Hydra 1960](http://www.leonardcohenfiles.com/hydraB2.html)' by Leonard Cohen
 
-- A Cross Didn't Fall on Me by Leonard Cohen
+- '[A Cross Didn't Fall on Me](https://web.archive.org/web/20250227095629/https://members.tripod.com/fruit_loop0/lovemebecause.html)' by Leonard Cohen
 
-- [Disguises](http://turnercody.tumblr.com/post/51812336812/disguises-by-leonard-cohen) by Leonard Cohen
+- '[Disguises](http://turnercody.tumblr.com/post/51812336812/disguises-by-leonard-cohen)' by Leonard Cohen
 
 - '[It's Probably Spring](http://www.lauraolin.com/post/46205602504/so-and-so-is-sick-of-all-the-shit-but-doesnt-feel-that)' by Leonard Cohen
-
 
 - '[As If It Were](https://troublingadvocacy.blogspot.com/2015/02/as-if-it-were-this-is-our-music-2014-by.html)' by Nathaniel Mackey
 
@@ -132,7 +132,7 @@ visible:	false
 
 - '[Lines written on windows of the Globe Tavern, Dumfries](https://www.bbc.co.uk/arts/robertburns/works/lines_written_on_windows_of_the_globe_tavern_dumfries/)' by Burns
 
-- [Back-Green Odyssey](https://www.scottishpoetrylibrary.org.uk/poem/aiberdeen-street/) by Alastair Mackie
+- '[Back-Green Odyssey](https://www.scottishpoetrylibrary.org.uk/poem/aiberdeen-street/)' by Alastair Mackie
 
 - '[Scotland](https://www.scottishpoetrylibrary.org.uk/poem/scotland-1/)' Alastair Reid
 
