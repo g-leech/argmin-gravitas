@@ -167,6 +167,7 @@ h3{
 blockquote { 
     border-left:3px solid #FAC342; 
     padding-left: 1em;
+    padding-bottom: 1em;
     margin: 1.5em 0em 1.5em 1em;
     line-height: 1.5em;
     font-style: italic;
@@ -184,8 +185,6 @@ img {
     vertical-align: middle;
     height: auto;
 }
-
-
 
 
 a {

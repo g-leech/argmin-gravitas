@@ -18,6 +18,8 @@ visible:	false
 
 - '[Bavarian Gentians](https://poetryarchive.org/poem/bavarian-gentians/)' by Lawrence
 
+- '[A Shropshire Lad](https://www.gutenberg.org/files/5720/5720-h/5720-h.htm)' by AE Housman
+
 - '[Ben Dorain](https://www.scottishpoetrylibrary.org.uk/poem/moladh-beinn-dobhrain-extract/)' by Iain Crichton Smith
 
 - '[The Back Country](https://www.threecandles.org/archive/ljenkins.html)' by Louis Jenkins
@@ -100,6 +102,8 @@ visible:	false
 
 - '[meaning](https://troublingadvocacy.blogspot.com/2015/03/meaning-1988-by-czesaw-miosz.html
 )' by Czeslaw Milosz
+
+- '[A.E.H.](https://laudatortemporisacti.blogspot.com/2009/12/kingsley-amis-on-ae-housman.html)' by Kingsley Amis
 
 - '[Almost No Memory](https://www.goodreads.com/quotes/878977-we-feel-an-affinity-with-a-certain-thinker-because-we)' by Lydia Davis
 
