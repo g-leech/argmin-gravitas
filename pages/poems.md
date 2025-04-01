@@ -38,6 +38,8 @@ visible:	false
 
 - '<a href="/hughes">Incompatibilities</a>' by Ted Hughes
 
+- '[Listen, Put on Morning](https://www.poetryfoundation.org/poems/55094/listen-put-on-morning)' by WS Graham
+
 - '[I Want to Be the One](http://zackmdavis.net/blog/2015/12/i-want-to-be-the-one/)' by Zack Davis
 
 - '[Artificial Intelligence (To G.P.S.)](http://www.autodidactproject.org/other/Artificial_Intelligence_Rich_A.html)' by Adrienne Rich
@@ -73,6 +75,8 @@ visible:	false
 - 'Sextet' by Iosif Brodsky
 
 - 'A part of speech' by Iosif Brodsky
+
+- '[The Flooers o' the Forest]()' by Jean
 
 - '[The force that through the green fuse drives the flower](https://poets.org/poem/force-through-green-fuse-drives-flower)' by Dylan Thomas
 
@@ -166,6 +170,7 @@ visible:	false
 
 - '[Crossing the Border](https://web.archive.org/web/20200426140802/https://blackcapsule.files.wordpress.com/2018/11/maccaig2.jpg?w=788)' by Norman MacCaig
 
+- '[Unit of Measure](https://www.poetryfoundation.org/poetrymagazine/poems/52653/unit-of-measure)' by Sandra Beasley
 
 - '[The Decline and Fall of the Roman Empire](https://waxwingmag.org/items/issue32/10_Tuckner-The-Decline-and-Fall-of-the-Roman-Empire.php)' by Matthew Tuckner
 
@@ -190,6 +195,8 @@ visible:	false
 - '[Hymn to Life](https://www.poetryfoundation.org/poetrymagazine/poems/57067/hymn-to-life-56d23a30164a9)' by Timothy Donnelly
 
 - '[I Sing the Body Electric](https://www.poetryfoundation.org/poems/45472/i-sing-the-body-electric)' by Walt Whitman
+
+- '[The Land o' the Leal]()'
 
 - '[Floreat Inertia](https://halfmanhalfbiscuit.uk/this-leaden-pall-1993/floreat-inertia/)' by Nigel Blackwell
 
