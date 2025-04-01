@@ -55,6 +55,7 @@ DISCLAIMER: There are about 700 characters in the show. With this many degrees o
 <a href="{{m}}">Manichaean</a> religion viewed the world as a finite war between light and dark - with light constantly leaking out of the world, unto eternal night. So too in _Adventure Time_: as the series goes, more and more of the heroes, gods, and stabilising forces in Ooo are removed:
 
 * The greatest hero Billy retires, broken. Then corrupted and used by xrisk
+* The king of Mars, Abe Lincoln, sacrifices himself to reverse a pointless mistake
 * The god of Mars, GrobGobGlobGrod is killed.
 * Prismo - an even more godlike God - is killed.*
 * <a href="{{matt}}">Matthew</a>, a hive mind who claims that he will restore the world after the next apocalypse, is murdered for no particular reason.

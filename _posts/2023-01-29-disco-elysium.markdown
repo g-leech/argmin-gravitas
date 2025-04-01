@@ -234,7 +234,7 @@ Following the communism = love thread right to the end: Dros is Harry's future i
 <br><br>
 
 
-### The personal is not political
+### The political is not political
 
 You can internalise Marxism-Leninism and spout about it in nearly every conversation – and this doesn't constrain your behaviour at all. You still wear whatever, lech, shoot people whenever, [go work at Wild Pines](https://twitter.com/NikVenkatesh/status/1629082923906244608?s=20).
 
