@@ -93,6 +93,7 @@ button:focus {
   /*display: inline-block;*/
   padding: 0;
   margin-bottom: 10px;
+  margin-right: 10px;
 }
 
 .dropdown-content {
