@@ -17,7 +17,7 @@ importance: 5
 emotion:    8
 wordcount:  5000
 argument:   
-categories: art, politics, mind, becoming  
+categories: art, politics, mind, becoming, vidya
 warnings:   Spoilers throughout.
 where:      "Bristol"
 ---
@@ -777,6 +777,7 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 * [The future of literature is video games](https://erikhoel.substack.com/p/the-future-of-literature-is-video)
 * [FULL-CORE STATE-NIHILIST](https://medium.com/@martinluiga/full-core-state-nihilist-bd6d6a13c3ba) (2012)
 <!-- https://archiveofourown.org/works/36377617/ -->
+* [Disco Elysium 2](https://www.youtube.com/watch?v=Dde8H1YhP-U): Cuno and Cunoesse flee Revachol for Hamara Maa.
 * [ARTBOOK](https://archive.org/details/discoelysiumartbook/)<br><br>
 * https://joycemessier.tumblr.com/post/679243441467801600/disco-elysium-readings<br>
 * https://backloggd.com/u/PHoovy/review/833332/

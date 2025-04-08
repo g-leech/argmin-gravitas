@@ -28,7 +28,7 @@ She bleared on. The cleaner picked around her desk, its hum a familiar part of t
 
 She was in Polishing, refining a "nearly-finished" system. She'd take a trajectory, fix the labels or give her trace for solving it, and fire it over to a colleague somewhere. A second or two later, she'd get their suggested edits and her spikes would accept or reject them. A hundred such polisher pairs were all doing this same sub-sub-sub-task sample in the same minute — or so assured the SLA — and, once the last one crawled in, then you just aggregate or mux 'em and fire them off _and but then a millisecond later_ the system would have done its own denoising, reinforced on whatever signal survived, and already produced the next step for them (or demanded a recount), its cursor blinking like an impatient foot. 
 
-Iterate and backtrack, bounce and vote, again and again, watching for sub-character shifts, and all of reinforcing paths leading to... well, whatever it will lead to.
+Iterate and backtrack, bounce and vote, again and again, watching for sub-character shifts, and all of it reinforcing paths leading to... well, whatever it will lead to.
 
 The quota in the corner of her eye showed samples, cycles, loss, and change in loss: 5132/64025 samples, 30791/? cycles, loss ≃ 1.71, L - L0 = 0.02, ΔL = 1e-21. She had seen some samples repeated hundreds of times, a mantra. It wasn't clear why it sometimes wanted _da capo, da capo, encore, encore, encore_. It was rare now for the mechanic to come in and meddle with a too-long cycle. He had learned. He played with his autoencoders instead.
 

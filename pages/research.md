@@ -28,34 +28,18 @@ visible:	true
 	{%	include researches/dp.html	%}
 	{%	include researches/phd.html	%}
 	{%	include researches/gr.html	%}
-	{%	include researches/mp.html	%}
-	{%	include researches/fabric.html	%}
-	{%	include researches/arbbook.html	%}
+	<!-- %	include researches/mp.html	%} -->
+	<!-- %	include researches/fabric.html	%} -->
+	<!-- %	include researches/arbbook.html	%} -->
 </table>
 
 
 ## Conference
 
-
 <table>
 	{%	include researches/rws.html	%}
 	{%	include researches/covid_neur.html	%}
 </table>
-
-
-
-
-## Preprint
-
-<table>
-	{%  include researches/rdof.html	%}
-	{%  include researches/hplr.html	%}
-	{%  include researches/actadd.html	%}
-	{%  include researches/psychofore.html	%}
-	{%  include researches/trees.html	%}
-	{%	include researches/lgfo.html	%}
-</table>
-
 
 
 ## Journal
@@ -71,6 +55,16 @@ visible:	true
 </table>
 
 
+## Preprint
+
+<table>
+	{%  include researches/rdof.html	%}
+	{%  include researches/hplr.html	%}
+	{%  include researches/actadd.html	%}
+	{%  include researches/psychofore.html	%}
+	{%  include researches/trees.html	%}
+	{%	include researches/lgfo.html	%}
+</table>
 
 
 ## Workshop

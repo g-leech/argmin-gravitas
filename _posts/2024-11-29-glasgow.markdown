@@ -15,7 +15,7 @@ summary:    My second alma mater
 confidence: 
 importance: 3
 wordcount:  
-categories: 
+categories: places, lists
 where:      "Tallinn"
 ---
 
@@ -25,20 +25,18 @@ where:      "Tallinn"
 
 * 3 years. I learned to code here, and spent a couple years. At the time, the head of department was the formidable Chris Johnson, now chief scientific advisor.
 
-* Glasgow has the most asabiyah of any place I ever lived. Which is strange when you consider that there still is a chronic faux-religious spat in it, and that the schools were only desegregated in the 1970s.
+* Glasgow has the most asabiyah of any place I ever lived. Which is strange when you consider that there is still an ancient smouldering faux-religious spat in it, and that _most_ schools were still fully segregated by faith as recently as the 1980s.
 
-* It's the artiest place in Scotland and the most violent and demotic. The humour and antipretensions can border on crab-bucket
-
-* The Anniesland Library has impressive security shutters, like blast doors.
+* It's somehow the artiest place in Scotland _and_ the most violent and demotic. The humour and antipretension can border on crab-bucket-repressive though.
 
 
-* **Art**: Alasdair Gray. Rennie MacIntosh is a great writer but monotonous.
+* **Art**: Alasdair Gray. (Rennie MacIntosh is a great writer and a distinctive draughtsman, but monotonous.)
 
 * **Poet**: 
 
 * **Novelist**: Alasdair Gray.
 
-* **Plays**: 
+* **Play**: 
 
 * **Art music**: Craig Armstrong? Glasgow Improvisers Orchestra. Harry Gorski-Brown
 
@@ -46,7 +44,7 @@ where:      "Tallinn"
 
 * **Venue**: Mono
 
-* **Philosopher**: Alexander Broadie.
+* **Philosopher**: Alexander Broadie?
 
 * **Scientist**: Joseph Black
 
@@ -54,13 +52,13 @@ where:      "Tallinn"
 
 * **Walk**: west hills over loch
 
-* **Comedian**: Limmy. Rab Florence?
+* **Comedian**: Limmy. Rab Florence? Armando Iannucci
 
-* **Director**: 
+* **Director**: Bill Forsyth. Lynne Ramsay
 
 * **Film**: Under the Skin.
 
-* **TV**: Still Game. Burnistoun?
+* **TV**: Still Game. Burnistoun? VideoGaiden?
 
 * **Actor**: 
 
@@ -68,9 +66,13 @@ where:      "Tallinn"
 
 * **Entrepreneur**: 
 
-* **Church**: the Gurjwara is a bit garish but impressive
+* **Restaurant**: Mono. (Oddly the Rishi's is nowhere near as good as the Aberdeen one.)
 
-* **Restaurant**: Mono. Oddly the Rishi's is nowhere near as good as the Aberdeen one.
+* **Building**: 
+
+* **Church**: the Gurdwara is garish but impressive
+
+* **Library**: Grand checkered one near Partick. The Anniesland Library has impressive security shutters - blast doors. But it's too small to be lovely.
 
 * **Bookshop**: 
 
