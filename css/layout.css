@@ -36,6 +36,7 @@
 
 .site-header a{
     text-decoration: none;
+    color: white !important;
 }
 
 .site-header nav{

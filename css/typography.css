@@ -242,7 +242,7 @@ a {
     text-decoration: underline;
 
     &:visited {
-        color: inherit;
+        color: gray;
         text-decoration: none;
     }
 
