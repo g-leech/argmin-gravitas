@@ -31,7 +31,7 @@ This isn't true, but it's morally true for the reference class I'm in (people wh
 		I was there when GBMs still beat neural networks on tabular data. <br>
 		I was there for Keras 1.0, and trained 100-class image recognisers on a Sandy Bridge Xeon <i>CPU</i> (and ok later a single Titan GPU, once Procurement got their shit together).<br>
 		I was there when GANs started working. I was there when GANs "stopped" working.<br>
-		I was there when OpenAI was a pure RL lab.<br>
+		I was there when OpenAI was a pure RL lab, and when OpenAI was a lab and not a company.<br>
 		I was there when BERT hit and sounded the death knell for entire subfields of NLP.<br>
 		I was there when GPT-2 prompted with "tl;dr" destroyed hundreds of corporate data science projects on summarisation.<br>
 		I've spent a hundred hours with various of them, but almost entirely in roboanthropologist mode ("<i>look at these fascinating primitives!</i>"; "<i>I wonder what new exciting publishable diseases my patient will display today</i>").<br><br>
@@ -54,8 +54,9 @@ Something's gotta give.
 * me not needing to bullshit other humans that often. (I do write quite a few letters of recommendation at this point, but sending out raw slop would be a disservice to my students; the supposed prose would make them sound exactly like every one of their hapless slop-dressed peers. It's also an insult to a fellow academic.)
 * **me not writing much code atm**. (I get that the fall in marginal cost means my demand should grow, but like I already have 4 engineers on staff.)
 * **me already knowing the basics of many many things**. Maybe this is complacency; there's lots of things I used to know well but have half-forgotten. But also: the received view in non-STEM fields is quite often [essentially false](https://muse.jhu.edu/article/226156/pdf), or a lie-to-children oversimplification. Take o3's [account](https://chatgpt.com/share/e/67f41307-cc74-8009-bcfa-183c62ed7793) of the origins of punk music. This is the received view of received views, and I honestly don't know why I'd want that. The only function I can think of is to pretend to be something you're not at a party or a seminar, and I don't want to pretend.
-* me needing precision and high confidence to learn. I encourage you to start by prompting it with a field you know intimately - you will be disappointed. (Not to pick on [Andy](https://andymasley.substack.com/p/how-i-use-ai), but the [generated O3 textbook](https://chatgpt.com/share/67ecae0e-5120-8010-b9df-de3f1802a711) he gives as an example use case is a bit weak. In one rollout it got the date of CNNs wrong by >10 years and omitted a key caveat of the Minksky-Papert XOR result - that the proof was for _single-layer_ perceptrons; another rollout got LSTMs off by 20 years and seems to have confused RNNs and ResNets.) Karpathy uses it for looking up descriptive statistics, which seems like a bad idea.
+* me needing precision and high confidence to learn. I encourage you to start by prompting it with a field you know intimately - you will be disappointed. (Not to pick on [Andy](https://andymasley.substack.com/p/how-i-use-ai), but the [generated o3 textbook](https://chatgpt.com/share/67ecae0e-5120-8010-b9df-de3f1802a711) he gives as an example use case is a bit weak. In one rollout it got the date of CNNs wrong by >10 years and omitted a key caveat of the Minsky-Papert XOR result - that the proof was for _single-layer_ perceptrons; another rollout got LSTMs off by 20 years and seems to have confused RNNs and ResNets.) Karpathy uses it for looking up descriptive statistics, which seems like a bad idea.
 	* I am already too imprecise for my own liking; building in LLMs would make me even worse.
+* me being [well-calibrated](/forecasting) about a lot of things, way more than the current machines.
 * me enjoying large-scale reading and exploration and not wanting to offload it
 * [them not being actually able to read long things properly](https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do) despite what people tell you
 * the valuable thing that I do at work is not "produce words", and not "skim thousands of words", but "think in new ways" and "be calibrated". The machines of 2025 cannot help me with this except as a foil, a stooge, a practice dummy for what not to say. 
@@ -103,11 +104,12 @@ In order of frequency x usefulness:
 * Help remembering a term on the tip of my tongue ("what do you call it when...")
 * Working out what words to google in a new field ("list the names of some natural anticancer mechanisms")
 * To get around sycophancy I present my ideas as someone else's. ("My friend has the hypothesis that X. What's the evidence for and against this?")
+* Using [OpenRouter](https://openrouter.ai/) to ask 4 models at once is good and makes the bullshit less odious - except that the UI _absolutely obviously_ should be one column per model rather than pasting the different responses under each other. Lemme just open Stylus to edit the CSS...
 * The blank page problem is fixed; in the 10% of cases where I lack inspiration to begin, I have the bot produce something and let my hatred for RLHF prose inspire me: I cannot rest until I edit the slop away. With the same strictures, it's also been very good for getting started with writing fiction. This is a service a human amanuensis could not offer, since I wouldn't feel free to destroy and impugn their work so completely. (However, _I think by writing_, and I worry that critique and editing is not the proper kind of thinking. But I still do lots of real stuff.) 
 * Semantic search through a corpus ("give me everything related to AI timelines"; "give me passages which could be influenced by Nietzsche")
 * For _declared adversaries_ (like people who are breaching contracts) I use "Write a legal response in the style of Patrick Mackenzie in Dangerous Professional mode" or "Explain in the style of Zvi Mowshowitz".
 * Formatting: validating and fixing JSON; JSON to CSV; . I prefer regex and haven't yet needed to ask the beast's help composing any regexes.
-* Deep Research is kinda useful, sure. But if Google was as good as it was in 2012 I wouldn't use DR - and also if my employer didn't pay for it I wouldn't. (I _intensely_ resent them diluting the word "deep" and the word "research" to mean stupidly skimming and summarising existing texts.) I would probably use it twice as often if I didn't have to play along with this degradation. Actually let me just write a Stylus rule to rename it in the UI.
+* Deep Research is kinda useful, sure. But if Google was as good as it was in 2012 I wouldn't use DR - and also if my employer didn't pay for it I wouldn't. (I _intensely_ resent them diluting the word "deep" and the word "research" to mean stupidly skimming and summarising existing texts. I would probably use it twice as often if I didn't have to play along with this degradation. Actually let me just write a Stylus rule to rename it in the UI.)
 * Ollama: debugging internet connections when you don't have one.
 * Code
 	* Matplotlib. They got better than me in about 2023, despite me learning this godforsaken library about 9 years ago.
@@ -146,7 +148,7 @@ Anyway I'm not too proud to say I'm probably doing it wrong. I'm overdue a sojou
 
 
 
-I have a powerful urge to John Henry my way through this age. Let the heavens fall, but find me at my desk. But I doubt I am that strong, and they will improve.
+Except I have a powerful urge to John Henry my way through this age. Let the heavens fall, but find me at my desk. But I doubt I am that strong, and they will improve.
 
 <br>
 
