@@ -58,6 +58,7 @@ Something's gotta give.
 	* I am already too imprecise for my own liking; building in LLMs would make me even worse.
 * me enjoying large-scale reading and exploration and not wanting to offload it
 * [them not being actually able to read long things properly](https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do) despite what people tell you
+* the valuable thing that I do at work is not "produce words", and not "skim thousands of words", but "think in new ways" and "be calibrated". The machines of 2025 cannot help me with this except as a foil, a stooge, a practice dummy for what not to say. 
 * me working at a level where most of what I want to know is in the training corpus 0-10 times, i.e. below the pretraining memorisation frequency
 * **me being very precious about style, having a disgust reaction to bad style**
 * **me having a disgust reaction in response to being bullshitted** - which I endorse and which keeps me strong.
