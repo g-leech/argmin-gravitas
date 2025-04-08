@@ -3,7 +3,7 @@ layout:     post
 title:      "How I don't use LLMs"
 baselink:   /llms
 permalink:  /llms
-date:       2025-04-02
+date:       2025-04-08
 author:     Gavin   
 img:        /img/ballard.png
 
@@ -60,7 +60,7 @@ Something's gotta give.
 * me enjoying large-scale reading and exploration and not wanting to offload it
 * [them not being actually able to read long things properly](https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do) despite what people tell you
 * the valuable thing that I do at work is not "produce words", and not "skim thousands of words", but "think in new ways" and "be calibrated". The machines of 2025 cannot help me with this except as a foil, a stooge, a practice dummy for what not to say. 
-* me working at a level where most of what I want to know is in the training corpus 0-10 times, i.e. below the pretraining memorisation frequency
+* me working at a level where most of what I want to know is in the training corpus 0-10 times, i.e. maybe below the [pretraining extraction frequency]() (but this is a moving target and bigger models may get it)
 * **me being very precious about style, having a disgust reaction to bad style**
 * **me having a disgust reaction in response to being bullshitted** - which I endorse and which keeps me strong.
 * their incredibly annoying laziness training, e.g. where they process like 12 rows of a 1000 row dataset and then say "the rest of the rows have been omitted for brevity" or whatever
@@ -93,6 +93,9 @@ So you can explain the anomaly by me not treading old ground or needing the rece
 	</div>
 </div>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LLMs are a shortcut people use to cope with not having knowledgable mentors. Whether the gains from easy advice exceeds the loss from hallucinations, not developing relationships, and sycophancy remains to be seen.</p>&mdash; Tailcalled (@tailcalled.bsky.social) (@tailcalled) <a href="https://twitter.com/tailcalled/status/1888986996187504977?ref_src=twsrc%5Etfw">February 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My suspicion is that the sycophancy will turn out to be the most toxic part. Like it sets itself up as a mentor and then reflexively encourages random ideas because that performs well on RLHF.</p>&mdash; Tailcalled (@tailcalled.bsky.social) (@tailcalled) <a href="https://twitter.com/tailcalled/status/1888987291240038518?ref_src=twsrc%5Etfw">February 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Anyway:
 
@@ -103,8 +106,8 @@ In order of frequency x usefulness:
 
 * Help remembering a term on the tip of my tongue ("what do you call it when...")
 * Working out what words to google in a new field ("list the names of some natural anticancer mechanisms")
-* To get around sycophancy I present my ideas as someone else's. ("My friend has the hypothesis that X. What's the evidence for and against this?")
-* Using [OpenRouter](https://openrouter.ai/) to ask 4 models at once is good and makes the bullshit less odious - except that the UI _absolutely obviously_ should be one column per model rather than pasting the different responses under each other. Lemme just open Stylus to edit the CSS...
+* To get around sycophancy I present my ideas as someone else's. ("Someone just claimed hypothesis X. What's the evidence for and against this?")
+* Using [OpenRouter](https://openrouter.ai/) to ask 4 models at once is good and makes the bullshit less odious - except that the UI _absolutely obviously_ should be one column per model, rather than pasting the different responses under each other. Lemme just open Stylus to edit the CSS...
 * The blank page problem is fixed; in the 10% of cases where I lack inspiration to begin, I have the bot produce something and let my hatred for RLHF prose inspire me: I cannot rest until I edit the slop away. With the same strictures, it's also been very good for getting started with writing fiction. This is a service a human amanuensis could not offer, since I wouldn't feel free to destroy and impugn their work so completely. (However, _I think by writing_, and I worry that critique and editing is not the proper kind of thinking. But I still do lots of real stuff.) 
 * Semantic search through a corpus ("give me everything related to AI timelines"; "give me passages which could be influenced by Nietzsche")
 * For _declared adversaries_ (like people who are breaching contracts) I use "Write a legal response in the style of Patrick Mackenzie in Dangerous Professional mode" or "Explain in the style of Zvi Mowshowitz".
@@ -124,6 +127,14 @@ In order of frequency x usefulness:
 
 <br>
 
+EDIT: Add [Herbie](https://x.com/herbiebradley/status/1909675359999811872) to the list of productive people who use them for ideas:
+
+> I do personally find LLMs help me think in new ways — much of my writing is about thinking of new framings/ways of looking at a problem. I find if I spend some time setting up a detailed prompt (e.g. import gdoc, custom system prompt, etc) then models will reliably give me a list of ideas, with some I hadn't thought of. So currently for writing I mostly use these models for coming up with the actual concepts behind the piece, rather than the writing itself, and find them pretty good!
+
+("New to me" or even "not new to me but I somehow overlooked it" are indeed often good enough.)
+
+<br>
+
 (Obviously there's lots of amazingly useful non-LLM AI too, like Google Lens, [automatic song ID and history](https://support.google.com/pixelphone/answer/7535326), MathPix, diffusion.)
 
 <!-- ## Not LLM
@@ -135,6 +146,9 @@ Brutal system prompts help a bit.
 <!-- say that your idea/essay/code/etc. is from your friend Bob, not you. -->
 <br>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And obviously LLMs do increase user knowledge on average. But it bothers me to know that LLMs are putting a couple falsehoods into my head per day, every day. Maybe they&#39;re big ones. And most of you are even less able to spot them than me.</p>&mdash; gavin leech (@g_leech_) <a href="https://twitter.com/g_leech_/status/1888724009912594758?ref_src=twsrc%5Etfw">February 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<br>
 
 ## Skill issue
 
