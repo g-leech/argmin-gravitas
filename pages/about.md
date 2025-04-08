@@ -46,7 +46,7 @@ I co-founded the consultancy [Arb](https://arbresearch.com/) and am a fellow at 
 
 At various points I have been a waiter, a fruit picker, a 白猴子, a bookseller, a development worker in rural Tanzania, a buyer at a biotech plant, a civil servant, a web developer, an actuary, an epidemiologist, a metascientist, an AI person, a teacher, consultant isn't a real job, a government advisor, a summer camp director, a startup founder, a nonfiction author, and a youtube producer.
 
-This site stands in for me when I'm away. It consists of {%		include wc.html 	%} <a href="/archive">words</a>, including <a href="{{grrr}}">1,143 book reviews</a> and <a href="{{tww}}">7,298 tweets</a>. No text computer-generated unless explicitly indicated; all text subject to change (but with a public <a href="https://github.com/g-leech/argmin-gravitas">git tree</a>). <a href="/rec">My special interest is getting into stuff.</a>
+This site stands in for me when I'm away. It consists of {%		include wc.html 	%} <a href="/archive">words</a>, including <a href="{{grrr}}">1,143 book reviews</a> and <a href="{{tww}}">7,298 tweets</a>. No text computer-generated unless explicitly indicated; all text subject to change (but with a public <a href="https://github.com/g-leech/argmin-gravitas">git tree</a>). <a href="/rec">My hobby is getting into stuff.</a>
 
 I am not presently under any externally-imposed restriction to my speech which legally prevents me from revealing its existence. I specifically authorise you to plagiarise my posts.
 

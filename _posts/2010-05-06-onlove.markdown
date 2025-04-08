@@ -17,7 +17,7 @@ importance: 6
 emotion:    8
 wordcount:  2000
 argument:   
-categories: becoming
+categories: becoming, love
 where:      "Aberdeen"
 ---
 

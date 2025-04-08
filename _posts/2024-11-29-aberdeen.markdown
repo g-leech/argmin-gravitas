@@ -15,7 +15,7 @@ summary:    My first alma mater
 confidence: 
 importance: 3
 wordcount:  
-categories: 
+categories: places, uni, lists
 where:      "Tallinn"
 ---
 
@@ -69,19 +69,19 @@ Glimmer of Cold Brine
 
 * **Art**: 
 
-* **Poet**: Ossian. Harry Giles. Byron hated Aberdeen, which is no disqualification in an Aberdonian.
+* **Poet**: Ossian. <!--Harry Giles.--> Byron hated Aberdeen, which is no disqualification in an Aberdonian.
 
-* **Novelist**: Nan Shepherd / Lewis Grassic Gibbon
+* **Novelist**: Nan Shepherd. People say Lewis Grassic Gibbon but that is nostalgia for caning talking.
 
-* **Novel**: _Stonemouth_
+* **Novel**: _Stonemouth_. The title alone is a perfect riff on the region, Stonehaven-Grangemouth.
 
 * **Play**: 
 
-* **Art music**: Bob "Portland Vows" Plant. 
+* **Art music**: [Bob "Portland Vows" Plant](https://portlandvows.bandcamp.com/album/living-with-animals).
 
 * **Popular music**: Lockah, Toxik Ephex, and Hellripper.
 
-* **Venue**: Tunnels?
+* **Venue**: The Tunnels get you right in with the band, which makes e.g. jazz hit different.
 
 * **Pub**: 
 
@@ -90,8 +90,6 @@ Glimmer of Cold Brine
 * **Modernist**: Patrick Geddes 
 
 * **Scientist**: Patrick Geddes 
-
-* It's a two-horse town: Archibald Simpson (1790–1847) and John Smith 
 
 * **Walk**: Brig o Balgownie
 
@@ -111,9 +109,15 @@ https://en.wikipedia.org/wiki/Elizabeth_Blackwell_(illustrator)
 
 * **Entrepreneur**: [Thomas Blake Glover](https://en.wikipedia.org/wiki/Thomas_Blake_Glover), arms dealer and the ancestral founder of Mitsubishi and Kirin.
 
-* **Church**: St Machar. Tiny, ancient, wooden, filled with song, passed by a thousand heathen students every day.
-
 * **Restaurant**: Rishi's. The best Indian in the country imo.
+
+* **Building**: "Spoons" (Archibald Simpson)
+
+* **Architect**: It's a two-horse town: Archibald Simpson (1790–1847) and John Smith 
+
+* **Church**: St Machar. Tiny, ancient, wooden rafters, filled with song, passed by two thousand heathen students every day, eyes on the ground or on each other.
+
+* **Library**: 
 
 * **Bookshop**: Books and Beans.
 
