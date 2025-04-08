@@ -111,6 +111,7 @@ In order of frequency x usefulness:
 * Code
 	* Matplotlib. They got better than me in about 2023, despite me learning this godforsaken library about 9 years ago.
 	* Various Cloudflare, WSL, Docker and Ruby version hell headaches. I use these technologies a few times a year and will never learn them properly. LLM outputs rarely work first time but are still helpful.
+	* Claude artefacts for plotting and little interactives are very cool but you have to watch the results closely; it's essentially partially blind and often messes up scales, positioning, axes.
 * Automatically scoring the relevance of other LLM outputs for evals in a research paper. (It turns out that this is not that reliable but we do it anyway.)
 * I stopped reading papers after my PhD. I'm dubious about using LLMs as a replacement for hard reading but in fairness most papers don't deserve anything better.
 * I'm very happy with [strong misreading](https://www.commonreader.co.uk/p/being-wrong-about-books-how-to-interpret), in which one develops an entirely new view when reading someone else. Seems like LLMs could help me do this, by producing a weak misreading of a confusing writer which I then misread properly.
