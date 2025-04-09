@@ -21,7 +21,7 @@ where:      "Constellation, Berkeley"
 
 I enjoy shocking people by telling them I don't use LLMs. 
 
-This isn't true, but it's morally true for the reference class I'm in (people who wrote a book about em, 2024 AI PhD, ML twitter member in good standing, trying to do intellectual work on a deadline).
+This isn't true, but it's [morally](https://www.reddit.com/r/math/comments/925a8b/what_does_it_mean_for_a_mathematical_proof_or/) true for the reference class I'm in (people who wrote a book about em, 2024 AI PhD, ML twitter member in good standing, trying to do intellectual work on a deadline).
 
 <br>
 
@@ -60,7 +60,7 @@ Something's gotta give.
 * me enjoying large-scale reading and exploration and not wanting to offload it
 * [them not being actually able to read long things properly](https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do) despite what people tell you
 * the valuable thing that I do at work is not "produce words", and not "skim thousands of words", but "think in new ways" and "be calibrated". The machines of 2025 cannot help me with this except as a foil, a stooge, a practice dummy for what not to say. 
-* me working at a level where most of what I want to know is in the training corpus 0-10 times, i.e. maybe below the [pretraining extraction frequency]() (but this is a moving target and bigger models may get it)
+* me working at a level where most of what I want to know is in the training corpus 0-10 times, i.e. maybe below the [pretraining extraction frequency](https://arxiv.org/abs/2309.14316) (but this is a moving target and bigger models may get it)
 * **me being very precious about style, having a disgust reaction to bad style**
 * **me having a disgust reaction in response to being bullshitted** - which I endorse and which keeps me strong.
 * their incredibly annoying laziness training, e.g. where they process like 12 rows of a 1000 row dataset and then say "the rest of the rows have been omitted for brevity" or whatever
@@ -68,7 +68,7 @@ Something's gotta give.
 * me knowing regex very well
 * me worrying about being deskilled by using them. (Later I will also worry about "cognitive security".)
 * me hating voice mode
-* **me having very smart collaborators, way smarter than models**
+* **me having very smart collaborators**
 * me having enough human friends
 * me disliking talk therapy
 
@@ -119,6 +119,7 @@ In order of frequency x usefulness:
 	* Various Cloudflare, WSL, Docker and Ruby version hell headaches. I use these technologies a few times a year and will never learn them properly. LLM outputs rarely work first time but are still helpful.
 	* Claude artefacts for plotting and little interactives are very cool but you have to watch the results closely; it's essentially partially blind and often messes up scales, positioning, axes.
 * Automatically scoring the relevance of other LLM outputs for evals in a research paper. (It turns out that this is not that reliable but we do it anyway.)
+* For translation I have the Google Translate shortcut in my muscle memory, but that's basically a specialised LLM now.
 * I stopped reading papers after my PhD. I'm dubious about using LLMs as a replacement for hard reading but in fairness most papers don't deserve anything better.
 * I'm very happy with [strong misreading](https://www.commonreader.co.uk/p/being-wrong-about-books-how-to-interpret), in which one develops an entirely new view when reading someone else. Seems like LLMs could help me do this, by producing a weak misreading of a confusing writer which I then misread properly.
 * I haven't yet used it as a mechanical editing pass but there's enough little typos on this site that I will. I will also try a separate developmental edit (Claude 3.6 mind you) but expect to reject 90% of its suggestions.
