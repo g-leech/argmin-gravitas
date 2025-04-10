@@ -46,7 +46,7 @@ Here, we aim to show that behaviours analogous to anger, loyalty, and  can emerg
 
 This matters because it would be some evidence for a further failure mode for advanced AI beyond the utility maximiser with harmful convergent instrumental goals.
 
-Researchers rightly discount just using 'person' as a model for AI, and call this '[anthropomorphism](https://link.springer.com/article/10.1007/s11023-019-09506-6)'. However, we hypothesise that a natural replacement for this model, 'person without emotion', is potentially an even worse model, since it completely discounts an apparent failure mode. It seems possible that 'person with emotion' (or, to spell it out, 'agent executing stable strategies with similar decision structures as led to human emotion') is less misleading.
+Researchers rightly discount just using 'person' as a model for AI, and call this '[anthropomorphism](https://link.springer.com/article/10.1007/s11023-019-09506-6)'. However, we hypothesise that a natural replacement for this model, 'person without emotion', is potentially an even worse model, since it completely discounts an apparent failure mode. It seems possible that 'person with emotion' (or, to spell it out, 'agent executing stable strategies in environments with a similar decision structure as led to animal emotion') is less misleading.
 
 It is common to counterpose the 'emotional' and the 'rational'. In this paper we do not: instead, 'rational' denotes optimality according to (perhaps latent) goals, and we argue that emotional expressions can be rational in this sense. This could have been called `second-order rationality': rational outcomes without (first-order) rational processes.
 
