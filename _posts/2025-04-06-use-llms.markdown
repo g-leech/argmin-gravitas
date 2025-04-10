@@ -41,7 +41,7 @@ This isn't true, but it's [morally](https://www.reddit.com/r/math/comments/925a8
 
 <br>
 
-It's not that I'm ignorant; it's something else. Every time a new model comes out, I say “ok Gav it’s finally time to cyborg up” -- and every time, it makes an appalling error within 5 minutes and I completely lose my appetite.
+It's not that I'm ignorant; it's something else. Every time a new model comes out, I say “ok Gav it’s finally time to cyborg up” -- and every time, it confidently makes an appalling error within 5 minutes and I completely lose my appetite.
 
 But [people](https://www.lesswrong.com/posts/zuXo9imNKYspu9HGv/a-three-layer-model-of-llm-psychology#Limitations_and_Open_Questions:~:text=This%20post%20emerged%20from%20a%20collaboration%20between%20Jan%20Kulveit%20(JK)%20and%20Claude%20%223.6%22%20Sonnet) [I enormously](https://x.com/stanislavfort/status/1905195177544720663) respect have been using them happily for real thinking for a long time, sometimes [two](https://x.com/LauraDeming/status/1604914163892965376) full years, and the resulting output is good and deep. 
 
@@ -53,7 +53,7 @@ Something's gotta give.
 * **I like writing so much** that reading and improving bad writing can be more effort than doing it myself.
 * me not needing to bullshit other humans that often. (I do write quite a few letters of recommendation at this point, but sending out raw slop would be a disservice to my students; the supposed prose would make them sound exactly like every one of their hapless slop-dressed peers. It's also an insult to a fellow academic.)
 * **me not writing much code atm**. (I get that the fall in marginal cost means my demand should grow, but like I already have 4 engineers on staff.)
-* **me already knowing the basics of many many things**. Maybe this is complacency; there's lots of things I used to know well but have half-forgotten. But also: the received view in non-STEM fields is quite often [essentially false](https://muse.jhu.edu/article/226156/pdf), or a lie-to-children oversimplification. Take o3's [account](https://chatgpt.com/share/e/67f41307-cc74-8009-bcfa-183c62ed7793) of the origins of punk music. This is the received view of received views, and I honestly don't know why I'd want that. The only function I can think of is to pretend to be something you're not at a party or a seminar, and I don't want to pretend.
+* **me already knowing the basics of many many things**. Maybe this is complacency; there's lots of things I used to know well but have half-forgotten. But also: the received view in non-STEM fields is quite often [essentially false](https://muse.jhu.edu/article/226156/pdf), or a lie-to-children oversimplification. Take o3's [account](https://chatgpt.com/share/e/67f41307-cc74-8009-bcfa-183c62ed7793) of the origins of punk music. This is the received view of received views, and I honestly don't know why I'd want that. The only function I can think of is to pretend to be something you're not at a party or a seminar, and I don't want to pretend. OK charitably, you do need _some_ starting point, even if it's false and cliched. But I mostly don't anymore.
 * me needing precision and high confidence to learn. I encourage you to start by prompting it with a field you know intimately - you will be disappointed. (Not to pick on [Andy](https://andymasley.substack.com/p/how-i-use-ai), but the [generated o3 textbook](https://chatgpt.com/share/67ecae0e-5120-8010-b9df-de3f1802a711) he gives as an example use case is a bit weak. In one rollout it got the date of CNNs wrong by >10 years and omitted a key caveat of the Minsky-Papert XOR result - that the proof was for _single-layer_ perceptrons; another rollout got LSTMs off by 20 years and seems to have confused RNNs and ResNets.) Karpathy uses it for looking up descriptive statistics, which seems like a bad idea.
 	* I am already too imprecise for my own liking; building in LLMs would make me even worse.
 * me being [well-calibrated](/forecasting) about a lot of things, way more than the current machines.
@@ -93,9 +93,13 @@ So you can explain the anomaly by me not treading old ground or needing the rece
 	</div>
 </div>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LLMs are a shortcut people use to cope with not having knowledgable mentors. Whether the gains from easy advice exceeds the loss from hallucinations, not developing relationships, and sycophancy remains to be seen.</p>&mdash; Tailcalled (@tailcalled.bsky.social) (@tailcalled) <a href="https://twitter.com/tailcalled/status/1888986996187504977?ref_src=twsrc%5Etfw">February 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My suspicion is that the sycophancy will turn out to be the most toxic part. Like it sets itself up as a mentor and then reflexively encourages random ideas because that performs well on RLHF.</p>&mdash; Tailcalled (@tailcalled.bsky.social) (@tailcalled) <a href="https://twitter.com/tailcalled/status/1888987291240038518?ref_src=twsrc%5Etfw">February 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<center>
+	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This seems almost too obvious to mention, but it feels like a major problem for research that LLMs interact with what people say about reality instead of with reality.<br><br>These tools uncritically repeat the loudest and most established voices in fields. If the field is bad? GIGO <a href="https://t.co/y03QJO0Qus">https://t.co/y03QJO0Qus</a></p>&mdash; TracingWoodgrains (@tracewoodgrains) <a href="https://twitter.com/tracewoodgrains/status/1910030693523992846?ref_src=twsrc%5Etfw">April 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LLMs are a shortcut people use to cope with not having knowledgable mentors. Whether the gains from easy advice exceeds the loss from hallucinations, not developing relationships, and sycophancy remains to be seen.</p>&mdash; Tailcalled (@tailcalled.bsky.social) (@tailcalled) <a href="https://twitter.com/tailcalled/status/1888986996187504977?ref_src=twsrc%5Etfw">February 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My suspicion is that the sycophancy will turn out to be the most toxic part. Like it sets itself up as a mentor and then reflexively encourages random ideas because that performs well on RLHF.</p>&mdash; Tailcalled (@tailcalled.bsky.social) (@tailcalled) <a href="https://twitter.com/tailcalled/status/1888987291240038518?ref_src=twsrc%5Etfw">February 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</center>
 
 Anyway:
 
@@ -106,6 +110,7 @@ In order of frequency x usefulness:
 
 * Help remembering a term on the tip of my tongue ("what do you call it when...")
 * Working out what words to google in a new field ("list the names of some natural anticancer mechanisms")
+* Hit-and-miss for unpacking acronyms and getting [in the loop](https://www.reddit.com/r/OutOfTheLoop/). I'm too online to need this that often and the remainder is often coined after their knowledge cutoff.
 * To get around sycophancy I present my ideas as someone else's. ("Someone just claimed hypothesis X. What's the evidence for and against this?")
 * Using [OpenRouter](https://openrouter.ai/) to ask 4 models at once is good and makes the bullshit less odious - except that the UI _absolutely obviously_ should be one column per model, rather than pasting the different responses under each other. Lemme just open Stylus to edit the CSS...
 * The blank page problem is fixed; in the 10% of cases where I lack inspiration to begin, I have the bot produce something and let my hatred for RLHF prose inspire me: I cannot rest until I edit the slop away. With the same strictures, it's also been very good for getting started with writing fiction. This is a service a human amanuensis could not offer, since I wouldn't feel free to destroy and impugn their work so completely. (However, _I think by writing_, and I worry that critique and editing is not the proper kind of thinking. But I still do lots of real stuff.) 
@@ -113,6 +118,13 @@ In order of frequency x usefulness:
 * For _declared adversaries_ (like people who are breaching contracts) I use "Write a legal response in the style of Patrick Mackenzie in Dangerous Professional mode" or "Explain in the style of Zvi Mowshowitz".
 * Formatting: validating and fixing JSON; JSON to CSV; . I prefer regex and haven't yet needed to ask the beast's help composing any regexes.
 * Deep Research is kinda useful, sure. But if Google was as good as it was in 2012 I wouldn't use DR - and also if my employer didn't pay for it I wouldn't. (I _intensely_ resent them diluting the word "deep" and the word "research" to mean stupidly skimming and summarising existing texts. I would probably use it twice as often if I didn't have to play along with this degradation. Actually let me just write a Stylus rule to rename it in the UI.)
+
+<center>
+	<img src="/img/deepresearch.png" />
+</center>
+
+<br>
+
 * Ollama: debugging internet connections when you don't have one.
 * Code
 	* Matplotlib. They got better than me in about 2023, despite me learning this godforsaken library about 9 years ago.
@@ -123,7 +135,7 @@ In order of frequency x usefulness:
 * I stopped reading papers after my PhD. I'm dubious about using LLMs as a replacement for hard reading but in fairness most papers don't deserve anything better.
 * I'm very happy with [strong misreading](https://www.commonreader.co.uk/p/being-wrong-about-books-how-to-interpret), in which one develops an entirely new view when reading someone else. Seems like LLMs could help me do this, by producing a weak misreading of a confusing writer which I then misread properly.
 * I haven't yet used it as a mechanical editing pass but there's enough little typos on this site that I will. I will also try a separate developmental edit (Claude 3.6 mind you) but expect to reject 90% of its suggestions.
-* I don't have many medical issues but would happily use it for niggling things or a second opinion.
+* I don't have many medical issues but would happily use it for niggling things or a second opinion. This is as much to do with the weakness of medicine as the strength of AI.
 * I don't use memory because I don't want it to flatter me. 
 
 <br>
@@ -147,7 +159,9 @@ Brutal system prompts help a bit.
 <!-- say that your idea/essay/code/etc. is from your friend Bob, not you. -->
 <br>
 
+<center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">And obviously LLMs do increase user knowledge on average. But it bothers me to know that LLMs are putting a couple falsehoods into my head per day, every day. Maybe they&#39;re big ones. And most of you are even less able to spot them than me.</p>&mdash; gavin leech (@g_leech_) <a href="https://twitter.com/g_leech_/status/1888724009912594758?ref_src=twsrc%5Etfw">February 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</center>
 
 <br>
 
@@ -159,11 +173,11 @@ Brutal system prompts help a bit.
 
 <br>
 
-Anyway I'm not too proud to say I'm probably doing it wrong. I'm overdue a sojourn into the [base model](https://app.hyperbolic.xyz/models/llama31-405b-base-bf-16) [Zones](https://stalker.fandom.com/wiki/The_Zone).
+Anyway I'm not too proud to think I might be doing it wrong. (For instance, I'm overdue a sojourn into the [base model](https://app.hyperbolic.xyz/models/llama31-405b-base-bf-16) [Zones](https://stalker.fandom.com/wiki/The_Zone).)
 
 
 
-Except I have a powerful urge to John Henry my way through this age. Let the heavens fall, but find me at my desk. But I doubt I am that strong, and they will improve.
+Except... I have a powerful urge to John Henry my way through this age. Let the heavens fall, but find me at my desk. But I doubt I am that strong, and they will improve.
 
 <br>
 
@@ -190,3 +204,18 @@ Except I have a powerful urge to John Henry my way through this age. Let the hea
 - [https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do](https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do)
 - [https://www.jointakeoff.com/](https://www.jointakeoff.com/)
 - [This is more of a howto than a whatto](https://www.youtube.com/watch?v=EWvNQjAaOHw). I wouldn't use it for stats or pharma decisions as he does.
+
+<div class="accordion">
+	<h3>Comments</h3>
+	<div>
+		<b>cj@cjquines.com</b> commented on 08 April 2025 :				
+		<blockquote>such auspicious timing… i've not gotten much use with llms when it comes to writing and this articulates what i feel quite well. maybe in a few months<br><br>unfortunately i am a software engineer by trade and i supposedly write a lot of code and i have been skill issuing on llm usage there, so perhaps i am, in fact, a luddite<br><br>i have found llms most useful for the pop culture clues in puzzlehunts</blockquote>
+		<br><br>
+		<b>Niels</b> commented on 08 April 2025 :				
+		<blockquote>
+			> me getting a lil old and so inflexible
+			<br><br>
+			can confirm it's not this. I'm << 30 and use them in much the same way for much the same reasons.
+		</blockquote>
+	</div>
+</div>

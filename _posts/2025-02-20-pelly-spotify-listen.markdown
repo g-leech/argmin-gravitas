@@ -47,7 +47,7 @@ What changed since 2006? (I don't say that Spotify is the cause of most of this)
 * the "content creator" identity, delegation of label A&R and marketing to the performer
 * backgrounding and "<a href="https://www.digitalmusicnews.com/wp-content/uploads/2014/03/ComvivaMobileMusicFinal.pdf">lean-back</a> listeners": people choosing to play muzak in their own homes
 * "Perfect Fit Content": zero-royalties commissioned muzak which presents as real music
-* [Dematerialisation](https://journals.sagepub.com/doi/abs/10.1177/1469540510390499).): music is no longer something to have in your house, to look at, to attend to, to hold onto. Album cover art decay?
+* [Dematerialisation](https://journals.sagepub.com/doi/abs/10.1177/1469540510390499): music is no longer something to have in your house, to look at, to attend to, to hold onto. Album cover art decay?
 * Shift of demand away from new music to catalogue music
 * Shift of musicians' income share away from royalties and towards gigs and merch
 * Shift from single-purpose music machines (Walkman, radio, hi-fi) to "<i>hardware that almost ensure a listener will be splitting their attention between music and some other activity</i>".
@@ -58,7 +58,7 @@ The book severely needs to go comparative: how does Spotify compare to _past_ co
 
 On the artist side, <i>regardless of how hardcore your sound is</i> you can get onto the biggest distribution platform in the world in minutes and get paid (a pittance), which obviously wasn't true 20 years ago. Yes, Spotify does all kinds of cartel shit on the margins, and there still lots and lots of industry plants and astroturfing - but gatekeeping is still obviously weaker than before! 
 
-Pelly claims that "<i>the story of Spotify is the story of a broken music industry desperate to keep existing... Of an already highly consolidated industry growing ever more consolidated</i>". But it turns out that streaming actually <i>did</i> weaken the oligopoly. <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1020133/music-creators-earnings-report.pdf">Hesmondhalgh</a> tell us: income per musician is roughly the same as before streaming (i.e. very very low); despite number of musicians is way up. <a href="https://www.musicbusinessworldwide.com/major-record-companies-and-merlin-spotify/">Major label revenue share</a> is at its lowest ever (still absurdly high, 70%). Concentration on top 1% songs is also down! (though the top o.1% are still as robust as ever):
+Pelly claims that "<i>the story of Spotify is the story of a broken music industry desperate to keep existing... Of an already highly consolidated industry growing ever more consolidated</i>". But it turns out that streaming actually <i>did</i> weaken the oligopoly. <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1020133/music-creators-earnings-report.pdf">Hesmondhalgh</a> tell us: income per musician is roughly the same as before streaming (i.e. very very low); despite number of musicians is way up. <a href="https://www.musicbusinessworldwide.com/major-record-companies-and-merlin-spotify/">Major label revenue share</a> is at its lowest ever (still absurdly high, 70%). Concentration on top 1% songs is also down! (though the top 0.1% are still as robust as ever):
 <blockquote>
 	the percentage of total album sales accounted for by the top 100 CD titles was in the low 40s in the late 1990s, but then declined to under 30% by 2019. But even more striking is the streaming figure. The top 100 streaming titles (i.e. tracks) accounted for over 10 per cent of total UK streams in 2014, but declined to just over 5 per cent in 2019. It seems clear then that streaming is associated with a shift in concentrations of popularity down the ‘long tail’ and away from a hit-driven business.
 </blockquote>
@@ -96,7 +96,7 @@ The case against that case is: about half of people don't notice the different b
 
 * I didn't know the majors got <a href="https://thehustle.co/the-economics-of-spotify#:~:text=The%20biggest%20labels%2C%20including%20Warner,back%20to%20music%20rights%20holders.">lots</a> of equity in Spotify right from the start.
 
-* She makes much of Spotify lying in corporate press releases (e.g. that their intention was to "save music", e.g. that it was a democratisation). I suppose some of you need to be told about the ontological status of Santa Claus too.
+* She makes much of Spotify lying in corporate press releases (e.g. that their intention was to "save music", e.g. that it was a democratisation). I suppose some of you need to be told about the ontological status of Santa Claus too. (EDIT: In the comments, Charles takes me to task for my dismissive cynicism here. On balance I think that's right - we should call out bad behaviour even if it is universal - and it would be right even if there were no sincere founders who actually viewed their main purpose as improving the world. I still think that in the reference class of people who started in advertising, and pivoted 5 times, and don't measure progress on their stated goals, intense doubt is warranted. But we can be cynical and still find it bad.)
 
 * "<i>These were the people for whom streaming was made by </i>[sic]<i> and for: major label execs, consultants, ad men, and venture capitalists, all working to get their own share of the pie.</i>" Well, yes, as usual.
 
@@ -141,3 +141,14 @@ So Pelly is not capable of analysing this huge messy new phenomenon (but does be
 * [Witt on piracy](https://www.goodreads.com/review/show/5463084418)
 
 <br><br>
+
+<div class="accordion">
+	<h3>Comments</h3>
+	<div>
+		<b>Charles</b> commented on 09 April 2025:
+		<blockquote>
+			Great review, and I really like your writing style.<br><br>My only issue is this type of cynicism when it comes up: 'She makes much of Spotify lying in corporate press releases (e.g. that their intention was to “save music”, e.g. that it was a democratisation). I suppose some of you need to be told about the ontological status of Santa Claus too.'<br><br>I finally got around to believing that bad things are bad, and should be called out for being so even when they're the norm. Also the logic of the cynicism can be applied to almost anything, even against itself.<br><br>'Oh, you're annoyed the left-leaning writer is upset at corporate hypocrisy? I suppose you need to be told about the ontological status of Santa Claus too.'
+			<blockquote><b>Gavin</b>: fair point!</blockquote>
+		</blockquote>
+	</div>
+</div>
