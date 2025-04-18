@@ -75,5 +75,8 @@ DEPENDENCIES
   jekyll (~> 4.3.3)
   webrick (~> 1.8)
 
+RUBY VERSION
+   ruby 2.6.3p62
+
 BUNDLED WITH
-   2.3.25
+   2.6.4
