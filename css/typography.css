@@ -105,10 +105,11 @@ a:active {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 250;
+	position: relative;
 }
 
 
-.post h1:after, .post h2::after {
+.post h1::after {
     content: "";
     width: 5%;
     height: .1em;
