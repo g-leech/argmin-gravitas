@@ -56,6 +56,7 @@ Something's gotta give.
 * **me already knowing the basics of many many things**. Maybe this is complacency; there's lots of things I used to know well but have half-forgotten. But also: the received view in non-STEM fields is quite often [essentially false](https://muse.jhu.edu/article/226156/pdf), or a lie-to-children oversimplification. Take o3's [account](https://chatgpt.com/share/e/67f41307-cc74-8009-bcfa-183c62ed7793) of the origins of punk music. This is the received view of received views, and I honestly don't know why I'd want that. The only function I can think of is to pretend to be something you're not at a party or a seminar, and I don't want to pretend. OK charitably, you do need _some_ starting point, even if it's false and cliched. But I mostly don't anymore.
 * me needing precision and high confidence to learn. I encourage you to start by prompting it with a field you know intimately - you will be disappointed. (Not to pick on [Andy](https://andymasley.substack.com/p/how-i-use-ai), but the [generated o3 textbook](https://chatgpt.com/share/67ecae0e-5120-8010-b9df-de3f1802a711) he gives as an example use case is a bit weak. In one rollout it got the date of CNNs wrong by >10 years and omitted a key caveat of the Minsky-Papert XOR result - that the proof was for _single-layer_ perceptrons; another rollout got LSTMs off by 20 years and seems to have confused RNNs and ResNets.) Karpathy uses it for looking up descriptive statistics, which seems like a bad idea.
 	* I am already too imprecise for my own liking; building in LLMs would make me even worse.
+* me not currently needing to read or write outside my known languages. Clearly for ESL speakers and nonspeakers it's an amazing thing. 
 * me being [well-calibrated](/forecasting) about a lot of things, way more than the current machines.
 * me enjoying large-scale reading and exploration and not wanting to offload it
 * [them not being actually able to read long things properly](https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do) despite what people tell you
@@ -136,6 +137,7 @@ In order of frequency x usefulness:
 * I'm very happy with [strong misreading](https://www.commonreader.co.uk/p/being-wrong-about-books-how-to-interpret), in which one develops an entirely new view when reading someone else. Seems like LLMs could help me do this, by producing a weak misreading of a confusing writer which I then misread properly.
 * I haven't yet used it as a mechanical editing pass but there's enough little typos on this site that I will. I will also try a separate developmental edit (Claude 3.6 mind you) but expect to reject 90% of its suggestions.
 * I don't have many medical issues but would happily use it for niggling things or a second opinion. This is as much to do with the weakness of medicine as the strength of AI.
+* Interacting with lawyers is annoying enough that I would also accept a mild tradeoff in accuracy here.
 * I don't use memory because I don't want it to flatter me. 
 
 <br>
@@ -186,8 +188,25 @@ Except... I have a powerful urge to John Henry my way through this age. Let the 
 	<br>(This is wrong.)
 </center>
 
+> I suppose it's principally a matter of inspiration. I used to write a fair amount myself years ago, but the impulse faded as soon as I could afford a VT set. In the old days a poet had to sacrifice himself in order to master his medium. Now that technical mastery is simply a question of pushing a button, selecting metre, rhyme, assonance on a dial, there‘s no need for sacrifice, no ideal to invent to make the sacrifice worthwhile —
+
+> Changing the tempo, I said: "I‘ve read quite a lot of your poetry, too. Forgive me mentioning it, but I think there‘s something wrong with your Verse-Transcriber." 
+
+> Her face snapped and she looked away from me irritably. "I haven‘t got one of those dreadful machines. Heavens above, you don't think I would use one? ... Although I should be the last person to write verse, I have been forced to recently. Through sheer necessity, you see, to preserve a dying art." 
+
+> She had baffled me completely. As far as I could remember, most of the poems on the tapes had already been written. She glanced up and gave me a vivid smile. "I‘ll send you some." #
+
+> The first ones arrived the next morning. They were delivered by the chauffeur in the pink Cadillac, neatly printed on quarto vellum and sealed by a floral ribbon. Most of the poems submitted to me come through the post on computer punchtape, rolled up like automat tickets, and it was certainly a pleasure to receive such elegant manuscripts. 
+
+> The poems, however, were impossibly bad. There were six in all, two Petrarchan sonnets, an ode and three free-form longer pieces. All were written in the same hectoring tone, at once minatory and obscure, like the oracular deliriums of an insane witch. 
+
+<br>
 
 ## See also
+
+Discussion on <a href="https://news.ycombinator.com/item?id=43688005">HN</a>
+
+<br>
 
 - [https://kajsotala.fi/2025/01/things-i-have-been-using-llms-for/](https://kajsotala.fi/2025/01/things-i-have-been-using-llms-for/)
 - [https://nicholas.carlini.com/writing/2024/how-i-use-ai.html](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
@@ -204,6 +223,7 @@ Except... I have a powerful urge to John Henry my way through this age. Let the 
 - [https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do](https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do)
 - [https://www.jointakeoff.com/](https://www.jointakeoff.com/)
 - [This is more of a howto than a whatto](https://www.youtube.com/watch?v=EWvNQjAaOHw). I wouldn't use it for stats or pharma decisions as he does.
+- [https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit)
 
 <div class="accordion">
 	<h3>Comments</h3>
@@ -216,6 +236,21 @@ Except... I have a powerful urge to John Henry my way through this age. Let the 
 			> me getting a lil old and so inflexible
 			<br><br>
 			can confirm it's not this. I'm << 30 and use them in much the same way for much the same reasons.
+		</blockquote>
+		<br><br>
+		<b>Josh</b> commented on 14 April 2025 :				
+		<blockquote>
+			I hope you won’t take this the wrong way but I really can’t stress it enough: you have no idea how to use AI.<br><br>
+			Unfortunately it has become an extremely frustrating and unrewarding process to try to teach others. I genuinely believe that there is an aversion for ‘skilled AI wielders’ to even try to engage due to that, and it is causing a significant divide in ‘those who do’ and ‘those who dont’.
+		</blockquote>
+		<br><br>
+		<b>Trent</b> commented on 14 April 2025 :				
+		<blockquote>
+			What Ballard novel were you referring to?
+			<br>
+			<blockquote>
+				<b>GL</b>: It's actually a short story, "<a href="https://insensitivityreaders.com/2020/05/05/348/">The Intensive Care Unit</a>". I didn't recall that it wasn't a novel at the time of prompting.
+			</blockquote>
 		</blockquote>
 	</div>
 </div>
