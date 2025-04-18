@@ -15,7 +15,7 @@ summary:    Elegy for a porn baron
 confidence: 80%. 
 importance: 6
 wordcount:  
-categories:	effective-altruism, poverty
+categories:	obit
 where:      "Nassau"
 ---
 

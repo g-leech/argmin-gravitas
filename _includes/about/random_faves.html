@@ -1,0 +1,55 @@
+Some of my <a href="/rec">favourite things</a> are 
+<span id="food"></span> 
+<span id="exer"></span> 
+<span id="engl"></span> 
+<span id="scot"></span> 
+<span id="pess"></span> 
+<span id="merkin"></span>
+<span id="anim"></span> 
+<span id="music"></span>
+<span id="blog"></span>  <span id="colour"></span> 
+<span id="tech"></span> 
+<span id="abstra"></span> 
+<span id="death"></span>. 
+<button style="background: white; color: black; cursor: pointer; padding: 4px 8px" onClick="window.location.reload();">more</button>
+
+<!-- <a href="{{starlings}}">this video</a> -->
+<script>
+    function choose(choices) {
+        var i = Math.floor(Math.random() * choices.length);
+        return choices[i]
+    }
+
+    function set(n, x, suf = ", ") {
+        document.getElementById(n).innerHTML = x + suf
+    }
+
+    f = ["ganbian sijidou", "sichuan dry-fried cauliflower (干锅花菜)", "scallion pancakes", "tomato egg drop soup", "Xian biangbiang", "Napa cabbage hotpot", "braised yuxiang aubergine (鱼香茄龙)", "Beijing pancake-dumplings (褡裢火烧)", "laksa", "cebollitas", "molcajete stew", "truffle habanero salsa", "bloody Mary ketchup", "chilaquiles", "penne alla norma", "pimientos de padron", "thakkali sadam", "bhindi bhaji", "pei pa koa (枇杷膏)", "gobi Manchurian", "pumpkin katsu curry", "kimchi omelette toastie", "Trini doubles", "toad in the hole", "Kirkwood roast seaweed", "Balsamic on avocado", "Muhu bread", "more garlic than you can believe", "raasiku kali", "horchata", "golden milk", "tres leches", "pastel de nata", "red bean soup", "gelato", "potatoes", "nooch", "pomelos", "Scottish tap water"] 
+    e = ["Frank Ramsey", "PG Wodehouse", "Jonathan Meades","Francis Spufford", "David Pearce", "Nigel Blackwell", "Terry Pratchett", "Derek Parfit", "David JC Mackay"]
+    s = ["Alasdair Gray", "William Dunbar","John Arbuthnot", "Adam Smith", "Frances Hutcheson", "Rab Florence", "Limmy", "David Hume", "Iain Banks", "James Clerk Maxwell", "Iain Crichton Smith", "Don Paterson", "John Duncan Fergusson", "Armando Iannucci", "Henry Mackenzie", "Naomi Mitchison", "Grant Morrison", "Alastair Reid", "D'Arcy Wentworth Thompson"]
+    am = ["Lester Bangs", "Dave Hickey", "DFW", "Joseph Heath", "CS Peirce"]
+    // "John Napier", "Samuel Peploe", Henry Home, James Kelman, Hugh MacDiarmid
+    // Martin Gardner
+    b = ["Cosma Shalizi", "Andrew Gelman", "Toby Ord", "Kevin Drum", "Scott Alexander","Gwern", "Nassim Taleb", "Tyler Cowen", "Piero Scaruffi", "Zach Weiner", "Kelsey Piper", "Nostalgebraist", "Liam Bright", "Kieran Healy", "Luke Muehlhauser", "Dan Luu", "Katja Grace,", "Anders Sandberg"] 
+    n = ["<a class='noline' href='https://www.youtube.com/watch?v=eakKfY5aHmY'>the common starling</a>", "the Eurasian otter", "the arum lily", "gorse"]
+    l = ["Jorge Luis Borges", "GC Lichtenberg", "Fernando Pessoa", "Emil Cioran", "Werner Herzog", "Norm Macdonald", "Vernor Vinge", "Iosif Brodsky"]
+    x = ["singing", "barbells", "shavasana", "hiking", "singing sad songs happily", "solar sneeze", "Samoyeds"]
+    m = ["Joanna Newsom", "John Darnielle", "Terence Shider", "Mike Park", "Leonard Cohen", "Adam Schlesinger", "Ornette Coleman", "Matt Skiba", "David Tattersall", "Jason Molina", "Mike Watt", "Ian Mackaye", "Iris deMent", "Bruce Springsteen"]
+    c = ["Pakistan green", "fairy lights", "Puma Classics", "Uniqlo", "WH1000XM4s", "Mushi-Shi", "TH105 glasses"]
+    t = ["Protonmail", "the sporadic groups", "Alacritty", "Roam", "Sublime Text", "Netlify", "Twitter", "Vine"]
+    a = ["getting into things", "lists", "walking to the airport", "running a summer camp", "judging things", "people changing their mind", "novelty", "sudden relevance", "brevity", "teaching", "idly planning to become a more serious person", '<a href="/deaths">these people</a>', '<a class="noline" href="{{sittler}}">and</a> <a class="noline" href="{{cs}}">technical</a> <a class="noline" href="{{orseau}}">approaches</a> <a class="noline" href="{{welf}}">to</a> <a class="noline" href="{{shminux}}">philosophical</a> <a class="noline" href="{{comp1}}">problems</a>']
+    // 
+    set("food", choose(f))
+    set("engl", choose(e))
+    set("scot", choose(s))
+    set("blog", choose(b))
+    set("anim", choose(n))
+    set("merkin", choose(am))
+    set("pess", choose(l))
+    set("exer", choose(x))
+    set("music", choose(m))
+    set("colour", choose(c))
+    set("tech", choose(t))
+    set("abstra", choose(a), "")
+    // 
+</script>

@@ -241,6 +241,7 @@ h3{
 blockquote { 
     border-left:3px solid #FAC342; 
     padding-left: 1em;
+    padding-bottom: 1em;
     margin: 1.5em 0em 1.5em 1em;
     line-height: 1.5em;
     font-style: italic;
@@ -258,7 +259,6 @@ img {
     vertical-align: middle;
     height: auto;
 }
-
 
 ul {
     margin-top: 1.2em;
@@ -305,6 +305,21 @@ li{
 /**
  * Links
  */
+a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-thickness: 12%;
+    text-underline-offset: 2.5px;
+
+    &:visited {
+        color: gray;
+        text-decoration: none;
+    }
+
+    &:active {
+       font-style: italic;
+    }
+}
 
 .nolink {
     text-decoration: none;

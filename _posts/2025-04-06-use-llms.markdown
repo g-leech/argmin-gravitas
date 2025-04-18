@@ -1,0 +1,256 @@
+---
+layout:     post
+title:      "How I don't use LLMs"
+baselink:   /llms
+permalink:  /llms
+date:       2025-04-08
+author:     Gavin   
+img:        /img/ballard.png
+
+visible:    1
+published:  true
+quality:    5
+
+summary:    couples counselling for me and my machine
+confidence: I am an unusual case, they're probably more useful for you. Obsolete by Oct 2025.
+importance: 8
+wordcount:  
+categories: AI, lists
+where:      "Constellation, Berkeley"
+---
+
+I enjoy shocking people by telling them I don't use LLMs. 
+
+This isn't true, but it's [morally](https://www.reddit.com/r/math/comments/925a8b/what_does_it_mean_for_a_mathematical_proof_or/) true for the reference class I'm in (people who wrote a book about em, 2024 AI PhD, ML twitter member in good standing, trying to do intellectual work on a deadline).
+
+<br>
+
+<div class="accordion">
+	<h3>Attack ships on fire off the shoulder of Orion bright as magnesium</h3>
+	<div>
+		I was there when GBMs still beat neural networks on tabular data. <br>
+		I was there for Keras 1.0, and trained 100-class image recognisers on a Sandy Bridge Xeon <i>CPU</i> (and ok later a single Titan GPU, once Procurement got their shit together).<br>
+		I was there when GANs started working. I was there when GANs "stopped" working.<br>
+		I was there when OpenAI was a pure RL lab, and when OpenAI was a lab and not a company.<br>
+		I was there when BERT hit and sounded the death knell for entire subfields of NLP.<br>
+		I was there when GPT-2 prompted with "tl;dr" destroyed hundreds of corporate data science projects on summarisation.<br>
+		I've spent a hundred hours with various of them, but almost entirely in roboanthropologist mode ("<i>look at these fascinating primitives!</i>"; "<i>I wonder what new exciting publishable diseases my patient will display today</i>").<br><br>
+		I was also there when the field and the industry got bitcoinified and run through with idiots, grifters, and worse in a 50:1 ratio with real people. The "labs" (companies) don't help matters by eliding between their sensible beliefs about where the beasts will be in a few years and their sensible beliefs about where they are at the moment. The "researchers" (opportunist hillclimbers) didn't help matters when they took ML evaluation to the brink of <a href="https://arxiv.org/abs/2407.12220">pseudoscience</a>. So it's hard to forgive the industry-slash-fandom when it exaggerated capabilities every single week for the last 200 weeks.
+	</div>
+</div>
+
+<br>
+
+It's not that I'm ignorant; it's something else. Every time a new model comes out, I say “ok Gav it’s finally time to cyborg up” -- and every time, it confidently makes an appalling error within 5 minutes and I completely lose my appetite.
+
+But [people](https://www.lesswrong.com/posts/zuXo9imNKYspu9HGv/a-three-layer-model-of-llm-psychology#Limitations_and_Open_Questions:~:text=This%20post%20emerged%20from%20a%20collaboration%20between%20Jan%20Kulveit%20(JK)%20and%20Claude%20%223.6%22%20Sonnet) [I enormously](https://x.com/stanislavfort/status/1905195177544720663) respect have been using them happily for real thinking for a long time, sometimes [two](https://x.com/LauraDeming/status/1604914163892965376) full years, and the resulting output is good and deep. 
+
+Something's gotta give.
+
+
+## Why not??
+
+* **I like writing so much** that reading and improving bad writing can be more effort than doing it myself.
+* me not needing to bullshit other humans that often. (I do write quite a few letters of recommendation at this point, but sending out raw slop would be a disservice to my students; the supposed prose would make them sound exactly like every one of their hapless slop-dressed peers. It's also an insult to a fellow academic.)
+* **me not writing much code atm**. (I get that the fall in marginal cost means my demand should grow, but like I already have 4 engineers on staff.)
+* **me already knowing the basics of many many things**. Maybe this is complacency; there's lots of things I used to know well but have half-forgotten. But also: the received view in non-STEM fields is quite often [essentially false](https://muse.jhu.edu/article/226156/pdf), or a lie-to-children oversimplification. Take o3's [account](https://chatgpt.com/share/e/67f41307-cc74-8009-bcfa-183c62ed7793) of the origins of punk music. This is the received view of received views, and I honestly don't know why I'd want that. The only function I can think of is to pretend to be something you're not at a party or a seminar, and I don't want to pretend. OK charitably, you do need _some_ starting point, even if it's false and cliched. But I mostly don't anymore.
+* me needing precision and high confidence to learn. I encourage you to start by prompting it with a field you know intimately - you will be disappointed. (Not to pick on [Andy](https://andymasley.substack.com/p/how-i-use-ai), but the [generated o3 textbook](https://chatgpt.com/share/67ecae0e-5120-8010-b9df-de3f1802a711) he gives as an example use case is a bit weak. In one rollout it got the date of CNNs wrong by >10 years and omitted a key caveat of the Minsky-Papert XOR result - that the proof was for _single-layer_ perceptrons; another rollout got LSTMs off by 20 years and seems to have confused RNNs and ResNets.) Karpathy uses it for looking up descriptive statistics, which seems like a bad idea.
+	* I am already too imprecise for my own liking; building in LLMs would make me even worse.
+* me not currently needing to read or write outside my known languages. Clearly for ESL speakers and nonspeakers it's an amazing thing. 
+* me being [well-calibrated](/forecasting) about a lot of things, way more than the current machines.
+* me enjoying large-scale reading and exploration and not wanting to offload it
+* [them not being actually able to read long things properly](https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do) despite what people tell you
+* the valuable thing that I do at work is not "produce words", and not "skim thousands of words", but "think in new ways" and "be calibrated". The machines of 2025 cannot help me with this except as a foil, a stooge, a practice dummy for what not to say. 
+* me working at a level where most of what I want to know is in the training corpus 0-10 times, i.e. maybe below the [pretraining extraction frequency](https://arxiv.org/abs/2309.14316) (but this is a moving target and bigger models may get it)
+* **me being very precious about style, having a disgust reaction to bad style**
+* **me having a disgust reaction in response to being bullshitted** - which I endorse and which keeps me strong.
+* their incredibly annoying laziness training, e.g. where they process like 12 rows of a 1000 row dataset and then say "the rest of the rows have been omitted for brevity" or whatever
+<!-- *  something about RLHF milquetoast, no chance of big surprises, no right tail -->
+* me knowing regex very well
+* me worrying about being deskilled by using them. (Later I will also worry about "cognitive security".)
+* me hating voice mode
+* **me having very smart collaborators**
+* me having enough human friends
+* me disliking talk therapy
+
+<br>
+
+So you can explain the anomaly by me not treading old ground or needing the received view; being in love with writing (and my own style); not being a strong-enough verifier to use weak signals easily; and not writing much code.
+
+<div class="accordion">
+	<h3>Self-critique</h3>
+	<div>
+		Some other reasons I might be bad at this (which I don't assert because I can't see myself so easily):
+		<br>
+		<ul>
+			<li>me being impatient and so not doing the multi-turn stuff which is often necessary</li><br>
+			<li>me not being that good at delegating in general. I don't get on with human assistants or tutors either. </li><br>
+			<li>me getting a lil old and so inflexible</li><br>
+			<li>me wishing they didn't work</li><br>
+			<li>me not actually wanting some kinds of work to be easy</li><br>
+			<li>maybe minor anchoring on GPT-3.5 capabilities, like a parent who still underestimates and tries to do too much for their child</li><br>
+			<li>disgust reaction at them harbinging the end of life as we know it, ruining the awe of being present at the nativity of a new type of mind. (I feel much the same about ML engineering.)</li>
+		</ul>
+	</div>
+</div>
+
+<br>
+
+<center>
+	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This seems almost too obvious to mention, but it feels like a major problem for research that LLMs interact with what people say about reality instead of with reality.<br><br>These tools uncritically repeat the loudest and most established voices in fields. If the field is bad? GIGO <a href="https://t.co/y03QJO0Qus">https://t.co/y03QJO0Qus</a></p>&mdash; TracingWoodgrains (@tracewoodgrains) <a href="https://twitter.com/tracewoodgrains/status/1910030693523992846?ref_src=twsrc%5Etfw">April 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LLMs are a shortcut people use to cope with not having knowledgable mentors. Whether the gains from easy advice exceeds the loss from hallucinations, not developing relationships, and sycophancy remains to be seen.</p>&mdash; Tailcalled (@tailcalled.bsky.social) (@tailcalled) <a href="https://twitter.com/tailcalled/status/1888986996187504977?ref_src=twsrc%5Etfw">February 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My suspicion is that the sycophancy will turn out to be the most toxic part. Like it sets itself up as a mentor and then reflexively encourages random ideas because that performs well on RLHF.</p>&mdash; Tailcalled (@tailcalled.bsky.social) (@tailcalled) <a href="https://twitter.com/tailcalled/status/1888987291240038518?ref_src=twsrc%5Etfw">February 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</center>
+
+Anyway:
+
+
+## How I use them
+
+In order of frequency x usefulness:
+
+* Help remembering a term on the tip of my tongue ("what do you call it when...")
+* Working out what words to google in a new field ("list the names of some natural anticancer mechanisms")
+* Hit-and-miss for unpacking acronyms and getting [in the loop](https://www.reddit.com/r/OutOfTheLoop/). I'm too online to need this that often and the remainder is often coined after their knowledge cutoff.
+* To get around sycophancy I present my ideas as someone else's. ("Someone just claimed hypothesis X. What's the evidence for and against this?")
+* Using [OpenRouter](https://openrouter.ai/) to ask 4 models at once is good and makes the bullshit less odious - except that the UI _absolutely obviously_ should be one column per model, rather than pasting the different responses under each other. Lemme just open Stylus to edit the CSS...
+* The blank page problem is fixed; in the 10% of cases where I lack inspiration to begin, I have the bot produce something and let my hatred for RLHF prose inspire me: I cannot rest until I edit the slop away. With the same strictures, it's also been very good for getting started with writing fiction. This is a service a human amanuensis could not offer, since I wouldn't feel free to destroy and impugn their work so completely. (However, _I think by writing_, and I worry that critique and editing is not the proper kind of thinking. But I still do lots of real stuff.) 
+* Semantic search through a corpus ("give me everything related to AI timelines"; "give me passages which could be influenced by Nietzsche")
+* For _declared adversaries_ (like people who are breaching contracts) I use "Write a legal response in the style of Patrick Mackenzie in Dangerous Professional mode" or "Explain in the style of Zvi Mowshowitz".
+* Formatting: validating and fixing JSON; JSON to CSV; . I prefer regex and haven't yet needed to ask the beast's help composing any regexes.
+* Deep Research is kinda useful, sure. But if Google was as good as it was in 2012 I wouldn't use DR - and also if my employer didn't pay for it I wouldn't. (I _intensely_ resent them diluting the word "deep" and the word "research" to mean stupidly skimming and summarising existing texts. I would probably use it twice as often if I didn't have to play along with this degradation. Actually let me just write a Stylus rule to rename it in the UI.)
+
+<center>
+	<img src="/img/deepresearch.png" />
+</center>
+
+<br>
+
+* Ollama: debugging internet connections when you don't have one.
+* Code
+	* Matplotlib. They got better than me in about 2023, despite me learning this godforsaken library about 9 years ago.
+	* Various Cloudflare, WSL, Docker and Ruby version hell headaches. I use these technologies a few times a year and will never learn them properly. LLM outputs rarely work first time but are still helpful.
+	* Claude artefacts for plotting and little interactives are very cool but you have to watch the results closely; it's essentially partially blind and often messes up scales, positioning, axes.
+* Automatically scoring the relevance of other LLM outputs for evals in a research paper. (It turns out that this is not that reliable but we do it anyway.)
+* For translation I have the Google Translate shortcut in my muscle memory, but that's basically a specialised LLM now.
+* I stopped reading papers after my PhD. I'm dubious about using LLMs as a replacement for hard reading but in fairness most papers don't deserve anything better.
+* I'm very happy with [strong misreading](https://www.commonreader.co.uk/p/being-wrong-about-books-how-to-interpret), in which one develops an entirely new view when reading someone else. Seems like LLMs could help me do this, by producing a weak misreading of a confusing writer which I then misread properly.
+* I haven't yet used it as a mechanical editing pass but there's enough little typos on this site that I will. I will also try a separate developmental edit (Claude 3.6 mind you) but expect to reject 90% of its suggestions.
+* I don't have many medical issues but would happily use it for niggling things or a second opinion. This is as much to do with the weakness of medicine as the strength of AI.
+* Interacting with lawyers is annoying enough that I would also accept a mild tradeoff in accuracy here.
+* I don't use memory because I don't want it to flatter me. 
+
+<br>
+
+EDIT: Add [Herbie](https://x.com/herbiebradley/status/1909675359999811872) to the list of productive people who use them for ideas:
+
+> I do personally find LLMs help me think in new ways — much of my writing is about thinking of new framings/ways of looking at a problem. I find if I spend some time setting up a detailed prompt (e.g. import gdoc, custom system prompt, etc) then models will reliably give me a list of ideas, with some I hadn't thought of. So currently for writing I mostly use these models for coming up with the actual concepts behind the piece, rather than the writing itself, and find them pretty good!
+
+("New to me" or even "not new to me but I somehow overlooked it" are indeed often good enough.)
+
+<br>
+
+(Obviously there's lots of amazingly useful non-LLM AI too, like Google Lens, [automatic song ID and history](https://support.google.com/pixelphone/answer/7535326), MathPix, diffusion.)
+
+<!-- ## Not LLM
+* Google Lens "Copy text from image" and inplace translation. Amazing.
+* Some of the header images for my blog posts are good old Stable Diffusion. But I actually tired of it. -->
+
+Brutal system prompts help a bit.
+<!-- > I am British. -->
+<!-- say that your idea/essay/code/etc. is from your friend Bob, not you. -->
+<br>
+
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And obviously LLMs do increase user knowledge on average. But it bothers me to know that LLMs are putting a couple falsehoods into my head per day, every day. Maybe they&#39;re big ones. And most of you are even less able to spot them than me.</p>&mdash; gavin leech (@g_leech_) <a href="https://twitter.com/g_leech_/status/1888724009912594758?ref_src=twsrc%5Etfw">February 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</center>
+
+<br>
+
+## Skill issue
+
+> ppl tend to use it like a vending machine when they should be using it like a second cortex. they prompt instead of dialoguing. they extract instead of co-evolving. 
+
+<center>— signulll</center>
+
+<br>
+
+Anyway I'm not too proud to think I might be doing it wrong. (For instance, I'm overdue a sojourn into the [base model](https://app.hyperbolic.xyz/models/llama31-405b-base-bf-16) [Zones](https://stalker.fandom.com/wiki/The_Zone).)
+
+
+
+Except... I have a powerful urge to John Henry my way through this age. Let the heavens fall, but find me at my desk. But I doubt I am that strong, and they will improve.
+
+<br>
+
+<center>
+	<img width="70%" src="/img/ballard.png" />
+	<br>(This is wrong.)
+</center>
+
+> I suppose it's principally a matter of inspiration. I used to write a fair amount myself years ago, but the impulse faded as soon as I could afford a VT set. In the old days a poet had to sacrifice himself in order to master his medium. Now that technical mastery is simply a question of pushing a button, selecting metre, rhyme, assonance on a dial, there‘s no need for sacrifice, no ideal to invent to make the sacrifice worthwhile —
+
+> Changing the tempo, I said: "I‘ve read quite a lot of your poetry, too. Forgive me mentioning it, but I think there‘s something wrong with your Verse-Transcriber." 
+
+> Her face snapped and she looked away from me irritably. "I haven‘t got one of those dreadful machines. Heavens above, you don't think I would use one? ... Although I should be the last person to write verse, I have been forced to recently. Through sheer necessity, you see, to preserve a dying art." 
+
+> She had baffled me completely. As far as I could remember, most of the poems on the tapes had already been written. She glanced up and gave me a vivid smile. "I‘ll send you some." #
+
+> The first ones arrived the next morning. They were delivered by the chauffeur in the pink Cadillac, neatly printed on quarto vellum and sealed by a floral ribbon. Most of the poems submitted to me come through the post on computer punchtape, rolled up like automat tickets, and it was certainly a pleasure to receive such elegant manuscripts. 
+
+> The poems, however, were impossibly bad. There were six in all, two Petrarchan sonnets, an ode and three free-form longer pieces. All were written in the same hectoring tone, at once minatory and obscure, like the oracular deliriums of an insane witch. 
+
+<br>
+
+## See also
+
+Discussion on <a href="https://news.ycombinator.com/item?id=43688005">HN</a>
+
+<br>
+
+- [https://kajsotala.fi/2025/01/things-i-have-been-using-llms-for/](https://kajsotala.fi/2025/01/things-i-have-been-using-llms-for/)
+- [https://nicholas.carlini.com/writing/2024/how-i-use-ai.html](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
+- [https://www.lesswrong.com/posts/CYYBW8QCMK722GDpz/how-much-i-m-paying-for-ai-productivity-software-and-the](https://www.lesswrong.com/posts/CYYBW8QCMK722GDpz/how-much-i-m-paying-for-ai-productivity-software-and-the)
+- [https://www.avitalbalwit.com/post/how-i-use-claude](https://www.avitalbalwit.com/post/how-i-use-claude)
+- [https://andymasley.substack.com/p/how-i-use-ai](https://andymasley.substack.com/p/how-i-use-ai)
+- [https://benjamincongdon.me/blog/2025/02/02/How-I-Use-AI-Early-2025/](https://benjamincongdon.me/blog/2025/02/02/How-I-Use-AI-Early-2025/)
+- [https://www.jefftk.com/p/examples-of-how-i-use-llms](https://www.jefftk.com/p/examples-of-how-i-use-llms)
+- [https://simonwillison.net/series/using-llms/](https://simonwillison.net/series/using-llms/)
+- [https://signull.substack.com/p/how-to-think-with-ai](https://signull.substack.com/p/how-to-think-with-ai)
+- [https://alicemaz.substack.com/p/how-i-use-chatgpt](https://alicemaz.substack.com/p/how-i-use-chatgpt)
+- [https://fredkozlowski.com/2024/08/29/youre-using-chatgpt-wrong/](https://fredkozlowski.com/2024/08/29/youre-using-chatgpt-wrong/)
+- [https://www.lesswrong.com/posts/WNd3Lima4qrQ3fJEN/how-i-force-llms-to-generate-correct-code](https://www.lesswrong.com/posts/WNd3Lima4qrQ3fJEN/how-i-force-llms-to-generate-correct-code)
+- [https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do](https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do)
+- [https://www.jointakeoff.com/](https://www.jointakeoff.com/)
+- [This is more of a howto than a whatto](https://www.youtube.com/watch?v=EWvNQjAaOHw). I wouldn't use it for stats or pharma decisions as he does.
+- [https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit)
+
+<div class="accordion">
+	<h3>Comments</h3>
+	<div>
+		<b>cj@cjquines.com</b> commented on 08 April 2025 :				
+		<blockquote>such auspicious timing… i've not gotten much use with llms when it comes to writing and this articulates what i feel quite well. maybe in a few months<br><br>unfortunately i am a software engineer by trade and i supposedly write a lot of code and i have been skill issuing on llm usage there, so perhaps i am, in fact, a luddite<br><br>i have found llms most useful for the pop culture clues in puzzlehunts</blockquote>
+		<br><br>
+		<b>Niels</b> commented on 08 April 2025 :				
+		<blockquote>
+			> me getting a lil old and so inflexible
+			<br><br>
+			can confirm it's not this. I'm << 30 and use them in much the same way for much the same reasons.
+		</blockquote>
+		<br><br>
+		<b>Josh</b> commented on 14 April 2025 :				
+		<blockquote>
+			I hope you won’t take this the wrong way but I really can’t stress it enough: you have no idea how to use AI.<br><br>
+			Unfortunately it has become an extremely frustrating and unrewarding process to try to teach others. I genuinely believe that there is an aversion for ‘skilled AI wielders’ to even try to engage due to that, and it is causing a significant divide in ‘those who do’ and ‘those who dont’.
+		</blockquote>
+		<br><br>
+		<b>Trent</b> commented on 14 April 2025 :				
+		<blockquote>
+			What Ballard novel were you referring to?
+			<br>
+			<blockquote>
+				<b>GL</b>: It's actually a short story, "<a href="https://insensitivityreaders.com/2020/05/05/348/">The Intensive Care Unit</a>". I didn't recall that it wasn't a novel at the time of prompting.
+			</blockquote>
+		</blockquote>
+	</div>
+</div>

@@ -17,7 +17,7 @@ importance: 5
 emotion:    8
 wordcount:  5000
 argument:   
-categories: art, politics, mind, becoming  
+categories: art, politics, mind, becoming, vidya
 warnings:   Spoilers throughout.
 where:      "Bristol"
 ---
@@ -192,7 +192,7 @@ The world's problems mirror Harry's personal problems. Revachol used to be great
 <br>
 
 
-Similarly: people often confuse their personal problems for political ones. It's an easy way to ennoble your specific brand of negativity. So KHTK are roughly correct to imply that fascism comes out of the fascist's personal grievances, gut feelings about purity, and nostalgia <a href="#fn:1" id="fnref:1">1</a>. But so too for the communist's wishful thinking, magical thinking, impulsivity, fatigue, and/or <a href="{{envy}}">sheer resentment</a>.
+Similarly: people often [confuse](https://www.astralcodexten.com/p/the-psychopolitics-of-trauma) their personal problems for political ones. It's an easy way to ennoble your specific brand of negativity. So KHTK are roughly correct to imply that fascism comes out of the fascist's personal grievances, gut feelings about purity, and nostalgia <a href="#fn:1" id="fnref:1">1</a>. But so too for the communist's wishful thinking, magical thinking, impulsivity, fatigue, and/or <a href="{{envy}}">sheer resentment</a>.
 
 > You: If communism keeps failing every time we try it... And the rest of the world keep killing us for our beliefs...<br>
 Steban: Yes?<br>
@@ -234,7 +234,7 @@ Following the communism = love thread right to the end: Dros is Harry's future i
 <br><br>
 
 
-### The personal is not political
+### The political is not political
 
 You can internalise Marxism-Leninism and spout about it in nearly every conversation – and this doesn't constrain your behaviour at all. You still wear whatever, lech, shoot people whenever, [go work at Wild Pines](https://twitter.com/NikVenkatesh/status/1629082923906244608?s=20).
 
@@ -777,6 +777,7 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 * [The future of literature is video games](https://erikhoel.substack.com/p/the-future-of-literature-is-video)
 * [FULL-CORE STATE-NIHILIST](https://medium.com/@martinluiga/full-core-state-nihilist-bd6d6a13c3ba) (2012)
 <!-- https://archiveofourown.org/works/36377617/ -->
+* [Disco Elysium 2](https://www.youtube.com/watch?v=Dde8H1YhP-U): Cuno and Cunoesse flee Revachol for Hamara Maa.
 * [ARTBOOK](https://archive.org/details/discoelysiumartbook/)<br><br>
 * https://joycemessier.tumblr.com/post/679243441467801600/disco-elysium-readings<br>
 * https://backloggd.com/u/PHoovy/review/833332/

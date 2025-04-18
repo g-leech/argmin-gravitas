@@ -15,7 +15,7 @@ quality:    5
 confidence: 60%. Involves human nutrition & high-level behaviour, two difficult sciences.
 importance: 5
 wordcount:      
-categories: biochemistry, self-help, quantified-self, biology
+categories: self-help, quantified-self, biology
 argument:	
 ---
 

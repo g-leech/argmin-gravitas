@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Spotify is not a social network"
-baselink:   /spotify
-permalink:  /spotify
+baselink:   /spotify-trawl
+permalink:  /spotify-trawl
 date:       2023-09-10  <!--site.time-->
 author:     Gavin
 

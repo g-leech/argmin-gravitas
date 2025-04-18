@@ -241,6 +241,7 @@ Reinforcement Learning</a>_ (2000)
 * _<a href="{{comp}}">Stochastic Recursive Variance Reduction for... Compositional Optimization</a>_ (2020)
 * I just found <a href="{{gwern}}">this superior treatment</a> by Gwern.
 * https://wiki.haskell.org/Curry-Howard-Lambek_correspondence
+* Vanchurin (2022): <a href="https://www.pnas.org/doi/10.1073/pnas.2120042119#sec-1">Thermodynamics of evolution and the origin of life</a>
 * <a href="{{nlab}}">Proofs as programs, propositions as types, relational types as categories</a>
 * _<a href="{{baez}}">Physics, Topology, Logic and Computation: A Rosetta Stone</a>_ (2009)
 <br><br>

@@ -70,7 +70,6 @@ visible:  false
 	}
 </style>
 
-<br><br>
 
 <h2>Best posts</h2>
 <section class="post-list">
@@ -81,12 +80,12 @@ visible:  false
 				<a href="{{ post.url | prepend: site.url }}">
 					<img src="{{ post.img }}" />
 				</a>
-				<div class="preview-info">
-					<a href="{{ post.url | prepend: site.url }}">
+				<a href="{{ post.url | prepend: site.url }}">
+					<div class="preview-info">
 						<h3> {{ post.title }} </h3>
-					</a>
-					<div> {{ post.summary }} </div>
-				</div>
+						<div>{{ post.summary }}</div>
+					</div>
+				</a>
 			</article>
       {%  endif   %}
     {% endfor %}
@@ -100,12 +99,12 @@ visible:  false
 					<a href="{{ post.url | prepend: site.url }}">
 						<img src="{{ post.img }}" />
 					</a>
-					<div class="preview-info">
-						<a href="{{ post.url | prepend: site.url }}">
+					<a href="{{ post.url | prepend: site.url }}">
+						<div class="preview-info">
 							<h3> {{ post.title }} </h3>
-						</a>
-						<div> {{ post.summary }} </div>
-					</div>
+							<div> {{ post.summary }} </div>
+						</div>
+					</a>
 				</article>
       	{% endif  %}
     {% endfor %}
@@ -113,37 +112,37 @@ visible:  false
 
 
 <h2>
-	<a href="{{arb}}">Arb</a> posts
+	<a href="{{arb}}" style="text-decoration: none;">Arb</a> posts
 </h2>
 
-<section class="post-list">
-
-    {% for post in site.posts limit:22 %}
+<section class="post-list list-arb">
+    {% for post in site.posts limit:42 %}
         {% if post.arb == 1  %}
-        <a href="{{ post.url | prepend: site.url }}">
-			<article class="post">
-				<img src="{{ post.img }}" style="padding: 15px;"/>
-				<div class="post-info">
-					<h3> {{ post.title }} </h3>
-					<div> {{ post.summary }} </div>
-				</div>
+			<article class="preview">
+		        <a href="{{ post.url | prepend: site.url }}">
+				  <img src="{{ post.img }}" style="padding: 32px;"/> 
+		        </a>
+				<a href="{{ post.url | prepend: site.url }}">
+					<div class="preview-info">
+						<h3>{{ post.title }}</h3>
+						<div> {{ post.summary }}</div>
+					</div>
+				</a> 
 			</article>
-		</a>
       	{% endif  %}
     {% endfor %}
 </section>
 
-<h4>
-	<div style="display: flex; gap: 1em; margin-bottom: 3em;">
+<h3>
+	<div class="directory fancy">
 		<a href="{{ "/archive" | prepend: site.url }}">[all posts];</a>
 		<a href="{{ "/tags" | prepend: site.url }}">[by topic];</a>
 		<a href="{{ "/importance" | prepend: site.url }}">[by importance]</a>
 	</div>
-</h4>
+</h3>
 
 </style>
 
 {%    include mc.html  %}
 
 
-<!-- <a rel="me" href="https://schelling.pt/@gl">&nbsp;</a> -->

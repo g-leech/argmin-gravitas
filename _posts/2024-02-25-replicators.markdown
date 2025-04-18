@@ -104,6 +104,8 @@ https://www.nature.com/articles/482461a
 
 # Nemesis
 
+https://x.com/jachiam0/status/1900539929954066652
+
 A replicator is exponential.
 
 https://en.wikipedia.org/wiki/Birth%E2%80%93death_process

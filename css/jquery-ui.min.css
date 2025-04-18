@@ -77,8 +77,8 @@
     display: block;
     cursor: pointer;
     position: relative;
-    margin: 8px 0 0 0;
-    padding: 0.5em 0.5em 0.5em 0.7em;
+    margin: 12px 0 0 0;
+    padding: 0.7em 0.7em 0.7em 0.7em;
     font-size: 100%;
 }
 .ui-accordion .ui-accordion-content {
@@ -86,6 +86,7 @@
     border-top: 0;
     overflow: auto;
 }
+
 .ui-widget {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
