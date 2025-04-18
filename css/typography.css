@@ -9,11 +9,84 @@ body {
     line-height: var(--line-height);
     font-weight: 300;
     color: var(--text-color);
-    background-color: var(--background-color);
     -webkit-text-size-adjust: 100%;
     overflow-wrap: break-word;
     /* cursor: url("https://d2kq0urxkarztv.cloudfront.net/633f75f0c2ef250029321aa5/image-d47e08e0-e0ec-4d34-97a2-45434a68a055.png") */
 }
+
+@keyframes schrodinger-styles {
+    0%, 25% {
+      --hover-color: #2b661a;
+      --hover-decoration: underline dashed 2px;
+      --hover-transform: none;
+      --active-color: #aaa;
+      --active-decoration: none;
+      --active-transform: scale(0.95);
+    }
+    25.1%, 50% {
+      --hover-color: #222222;
+      --hover-decoration: none;
+      --hover-transform: scale(1.03);
+      --active-color: green;
+      --active-decoration: underline dashed;
+      --active-transform: translateY(2px);
+    }
+    50.1%, 75% {
+      --hover-color: #222222;
+      --hover-decoration: underline 2px;
+      --hover-transform: none;
+      --active-color: #2b661a;
+      --active-decoration: underline 2px;
+      --active-transform: scale(1.05);
+    }
+    75.1%, 100% {
+      --hover-color: #2b661a;
+      --hover-decoration: none;
+      --hover-transform: rotate(4deg);
+      --active-color: #2b661a;
+      --active-decoration: none;
+      --active-transform: scale(0.98) rotate(-10deg);
+    }
+}
+
+
+a {
+    --hover-color: #0077cc;
+    --hover-decoration: none;
+    --hover-transform: none;
+    --active-color: #005fa3;
+    --active-decoration: underline;
+    --active-transform: translateY(1px);
+  
+    text-decoration-thickness: 12%;
+    text-underline-offset: 3px;
+    display: inline-block;
+  
+    color: inherit;
+    text-decoration: underline;
+    animation: schrodinger-styles 1s steps(4, end) infinite;
+    animation-play-state: running;
+  }
+
+.post a:visited{
+    color: var(--grey-color-light)
+}
+  
+a:hover,
+a:focus {
+    animation-play-state: paused;
+    color: var(--hover-color);
+    text-decoration: var(--hover-decoration);
+    transform: var(--hover-transform);
+}
+
+a:active {
+    color: var(--active-color);
+    text-decoration: var(--active-decoration);
+    transform: var(--active-transform);
+}
+
+  
 
  /**
   * Set `margin-bottom` to maintain vertical rhythm
@@ -32,10 +105,11 @@ body {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 250;
+	position: relative;
 }
 
 
-.post h1:after, .post h2::after {
+.post h1::after {
     content: "";
     width: 5%;
     height: .1em;
@@ -186,12 +260,6 @@ img {
     height: auto;
 }
 
-
-a {
-    text-decoration-thickness: 12%;
-    text-underline-offset: 2.5px;
-}
-
 ul {
     margin-top: 1.2em;
     margin-bottom: 1.2em;
@@ -240,6 +308,8 @@ li{
 a {
     color: inherit;
     text-decoration: underline;
+    text-decoration-thickness: 12%;
+    text-underline-offset: 2.5px;
 
     &:visited {
         color: gray;
@@ -249,7 +319,6 @@ a {
     &:active {
        font-style: italic;
     }
-
 }
 
 .nolink {
@@ -269,7 +338,6 @@ a {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid var(--grey-color-light);
     border-radius: 3px;
     background-color: #eef;
 }
