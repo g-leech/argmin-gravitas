@@ -158,13 +158,18 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	</ul>
 <!--  -->
 <!--  -->
-	<li><h3>philosophy as <a href="{{sss}}">state space search</a> over coherent worldviews</h3>
+	<li><h3>philosophy as <a href="{{sss}}">state-space search</a> over coherent worldviews</h3>
 	Maybe philosophy doesn't have to answer questions to be useful. We can read Cicero's ancient diss:
 	<br><br><blockquote>
 		There is nothing so absurd that it has not been said by some philosopher.
 	</blockquote>
-	as a compliment: we consider everything. Philosophers are then in the business of conditionally constraining logical space (e.g. "given physicalism, what could one's philosophy of mathematics be?"), not ruling on the correct path through that space. Hypothesis generation, not model selection. This extremely modest view of philosophy's scope is not so common. But you can sort of see it in Wittgenstein:
-	<br><br><blockquote>
+	as a compliment: we consider everything. Philosophers are then in the business of conditionally constraining logical space (e.g. "given physicalism, what could one's philosophy of mathematics be?"), not ruling on the correct path through that space. Hypothesis generation, not model selection. This is an extremely modest view of philosophy's scope. It's plausible. Chalmers:
+	<blockquote>
+		As Timothy Williamson has said, we knew much more in 2004 than in 1964, much more in 1964 than in 1924, and so on. But this collective knowledge typically does not involve answers to the big questions. It is mainly knowledge of the answers to smaller questions, of negative and conditional theses, of frameworks available to answer questions, of connections between ideas, of the way that arguments bear for and against conclusions, and so on.
+	</blockquote>
+	But you can sort of see it in Wittgenstein:
+	<br><br>
+	<blockquote>
 		Is scientific progress useful for philosophy? Certainly. The realities that are discovered lighten the philosopher's task, imagining possibilities.
 	</blockquote>
 	and <a href="{{pig}}">Massimo Pigliucci</a> : 

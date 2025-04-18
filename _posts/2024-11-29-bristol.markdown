@@ -15,7 +15,7 @@ summary:    Reviewing my third alma mater
 confidence: 
 importance: 2
 wordcount:  
-categories: places, phd
+categories: places, phd, uni, lists
 where:      "Taipei"
 ---
 
@@ -32,7 +32,7 @@ I lived in Bristol for 5 years, including one _total_ year (in lockdown). As lon
 
 * "The British Seattle"
 	* Port; wet; scruffy; cool; a small big city; [asabiyah](https://en.wikipedia.org/wiki/Bristol_underground_scene); just-off-centre of the musical history of the world. 
-	* Both have strong computer science departments. (Though UoW is top 10 in the world where UoB is top 100.) Microsoft HQ.
+	* Both have strong computer science departments. (Though UoW is top 10 in the world where UoB is top 100.) Microsoft HQ. <!-- But we had to fight to get them to put in a deep learning course at graduate level -->
 	* When I make my geographical playlists, I often strain to find a distinctive sound. No need here: you already know the new sounds Bristol produced in the 80s and 90s (trip-hop, jungle, dream pop-space rock, dubstep):
 
 
@@ -119,7 +119,7 @@ I lived in Bristol for 5 years, including one _total_ year (in lockdown). As lon
 
 * **Scientist**: Dirac.
 
-* **Self-experimenter**: [Michael Dillon](https://en.wikipedia.org/wiki/Michael_Dillon), "The First Man-Made Man". Notable 1946 book on the right to transition.
+* **Eccentric** (activist, living anachronism, visionary): [Michael Dillon](https://en.wikipedia.org/wiki/Michael_Dillon), "The First Man-Made Man". Notable 1946 book on the right to transition.
 
 * **Walk**: Ashton Court Estate (the deer)
 
@@ -137,11 +137,15 @@ I lived in Bristol for 5 years, including one _total_ year (in lockdown). As lon
 
 * **Entrepreneur**: [Colin Needham](https://www.bristolpost.co.uk/news/celebs-tv/story-behind-bristol-based-imdb-25097)
 
+* **Building**: the new Mathematics Building on campus is 80% windows and compelling.
+
 * **Church**: mostly terrible. The [St Peter and Paul cathedral](https://cliftoncathedral.org/stream) is stunningly ugly on the outside, but the plain white concrete interior is excellent.
 
 * **Restaurant**: Bulrush. Suyuan for regular consumption. 
 
-* **Bookshop**: No standout. 
+* **Library**: the Central Library is grand and well-used - you'll struggle to find a seat on weekends - and its music section is huge, one of the best I've ever seen. But I only spent a few dozen hours there; it's not a home. Of the uni ones, 
+
+* **Bookshop**: Dreadnought.
 
 * **Cafe**: Burra
 <!-- East Village Café -->

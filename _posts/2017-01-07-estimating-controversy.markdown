@@ -17,7 +17,7 @@ confidence: 70% that the equations are true (because vague). 50% that it's worth
 warnings: 	terrorism, inexorable ideologies. 
 importance: 7
 pride:		3
-categories: cause-prioritisation, effective-altruism, quantification
+categories: cause-prioritisation, quantification
 wordcount: 900
 ---
 

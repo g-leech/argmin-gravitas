@@ -1,0 +1,50 @@
+name: Deploy to Cloudflare Manually
+
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: "Branch to build and deploy"
+        required: true
+        default: "master"
+      environment:
+        description: "Environment to deploy to"
+        required: true
+        default: "development"
+      jekyll_config:
+        description: "Jekyll configuration file to use"
+        required: false
+        default: "_config_dev_cloudflare.yml"
+
+jobs:
+  build-and-deploy:
+    name: Build and Deploy to Cloudflare
+    runs-on: ubuntu-latest
+    environment: ${{ github.event.inputs.environment }}
+
+    steps:
+      # Check out the specified branch
+      - name: Check out code
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.inputs.branch }}
+
+      # Build the site using your existing Docker build script
+      - name: Build the site using Docker
+        run: |
+          ./scripts/build.sh
+        env:
+          JEKYLL_CONFIG: ${{ github.event.inputs.jekyll_config }}
+
+      # Minify the output
+      - name: Minify the site
+        run: |
+          ./scripts/minify.sh
+
+      # Deploy to Cloudflare using the Cloudflare Wrangler Action
+      - name: Deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy _site --branch main --project-name=${{ secrets.CLOUDFLARE_PROJECT_NAME }}

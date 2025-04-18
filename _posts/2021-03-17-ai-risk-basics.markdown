@@ -11,16 +11,16 @@ published:  true
 visible:    1
 
 summary:    Concrete reasons it might do extreme things.
-confidence: High that it's worth worrying about. 20% that it will happen.
+confidence: Written before LLMs; not obviously wrong but deprecated.
 categories: AI, xrisk
 warnings:   Not much original material.
 importance: 9
-quality: 	8
+quality: 	6
 wordcount:  2200
 argument:	agi-intro/argument.html
 ---
 
-	
+
 {%	assign langl = "https://arxiv.org/abs/2102.07716"	%}
 {%	assign zhang = "https://arxiv.org/abs/2206.04132" %}
 {%	assign katja2 = "https://aiimpacts.org/what-do-ml-researchers-think-about-ai-in-2022/"	%}
@@ -53,7 +53,13 @@ argument:	agi-intro/argument.html
 {%	assign danaher = "https://philosophicaldisquisitions.blogspot.com/2014/07/bostrom-on-superintelligence-3-doom-and.html"	%}
 {%	assign aiaa = "https://www.aiaaic.org/aiaaic-repository" %}
 
-<br>
+
+<br><br>
+
+_This piece was written before LLMs provided direct evidence; it's not wrong but it is deprecated._
+
+
+<br><br>
 
 Could AI be a risk to humans? Well it already is:
 

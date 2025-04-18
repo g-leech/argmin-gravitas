@@ -15,7 +15,7 @@ summary:    Turing's accomplishments, cost-benefits, & emotional consequence.
 confidence: 95%
 importance: 6
 wordcount:  1480
-categories:	bio, computers, effective-altruism, greats
+categories:	bio, computers, greats
 ---
 
 {% 	assign cpi = "https://www.in2013dollars.com/uk/inflation/1940?amount=6000"		%}

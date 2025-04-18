@@ -52,6 +52,7 @@ argument:
 		<div class="accordion">
 			{%	include nation/jp.html	%}
 			{%	include nation/chin.html	%}
+			{%	include nation/sko.html	%}
 			{%	include nation/hk.html	%}
 			{%	include nation/taiwan.html	%}		
 		</div>
@@ -82,9 +83,9 @@ argument:
 	<h3>americas</h3>
 	<div>
 		<div class="accordion">
+			{%	include nation/us.html	%}
 			{%	include nation/bra.html	%}
 			{%	include nation/can.html	%}
-			{%	include nation/us.html	%}
 		</div>
 	</div>
 </div>

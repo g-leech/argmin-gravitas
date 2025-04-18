@@ -7,7 +7,7 @@
 		<!--  -->
 		The band heard about this within 10 minutes of it happening, and the singer came out to persuade the bouncer to let me in. It didn't work.<br><br>
 		<!--  -->
-		I listened to the start of the gig through a vent round the outside of the venue. Stubbs introed "<a href="{{dia}}">Dead Industrial Atmosphere</a>" with "CAN YA HEAR ME GAVIIIIN".
+		I listened to the start of the gig through a vent round the outside of the venue. (Slightly better acoustics than the studio album versions.) Stubbs introed "<a href="{{dia}}">Dead Industrial Atmosphere</a>" with "CAN YA HEAR ME GAVIIIIN".
 		<!--  -->
 		Later, an audience member came out and changed clothes with me (pork pie hat, horrible leather waistcoast) and I walked past the bouncers.
 		<!--  -->

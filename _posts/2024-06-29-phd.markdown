@@ -353,9 +353,9 @@ Lockdown was pretty much the best time to do a ("dry" lab) phd, maybe in history
 
 ## What I actually did
 
-The finished bits are <a href="/researches">this</a> and <a href="/files/thesis.pdf">this</a>. Everything else:
+The finished bits are <a href="/researches">here</a>. Everything else:
 
-
+<br>
 
 <div class="accordion">
     <h3>project list</h3>

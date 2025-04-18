@@ -1,0 +1,70 @@
+name: Deploy to Neflify on Push
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy_master:
+    if: ${{ github.ref_name == 'master' }}
+    name: Build and Deploy to Netlify Production
+    runs-on: ubuntu-latest
+    environment: production
+    
+    steps:
+      # Check out the specified branch
+      - name: Check out code
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
+
+      # Build the site using your existing Docker build script
+      - name: Build the site using Docker
+        run: |
+          ./scripts/build.sh
+
+      # Minify the output
+      - name: Minify the site
+        run: |
+          ./scripts/minify.sh
+
+      # Deploy to Netlify using the Netlify CLI Action
+      - name: Deploy to Netlify
+        uses: netlify/actions/cli@master
+        with:
+          # --prod does a production deploy
+          args: deploy --dir=_site --prod
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+
+  deploy_non_master:
+    if: ${{ github.ref_name != 'master' }}
+    name: Build and Deploy to Netlify Development
+    environment: development
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Check out the specified branch
+      - name: Check out code
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
+
+      # Build the site using your existing Docker build script
+      - name: Build the site using Docker
+        run: |
+          ./scripts/build.sh
+        env:
+          JEKYLL_CONFIG: _config_dev_netlify.yml
+
+      # Deploy to Netlify using the Netlify CLI Action
+      - name: Deploy to Netlify
+        uses: netlify/actions/cli@master
+        with:
+          # --prod does a production deploy
+          args: deploy --dir=_site --prod
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}

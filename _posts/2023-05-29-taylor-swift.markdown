@@ -87,6 +87,9 @@ I realise now that Swift _is_ a kind of artist – but the art is not music, it'
 
 So if the music is uninteresting the phenomenon isn't. She plays the world like a fiddle. How?
 
+<br>
+
+<img src="/img/your-lips-my-lip-apocalypse.png" />
 
 
 <br>
@@ -200,6 +203,10 @@ It's uncomfortable to proclaim about Art vs Pop; <a href="/dreaming">10</a> year
 But as usual the revolutionaries ran to excess in their imperial era: poptimism was originally just the claim that pop music can be good -- but it morphed into a relativist land grab: that all pop is good. Sucked up all the critical oxygen. Pop's aims are vastly different from those of art music, and I want _some_ space for the latter. Midcult machines like TS steal this space <a href="#fn:2" id="fnref:2">2</a>.
 
 (Pitchfork, once a caricature of thoughtless hipster antipathy to the mainstream, made the _Red_ reissue an album of the year. Until 2017 they were able to totally ignore her, never reviewing any of it.)<br><br> 
+
+
+<img src="/img/hip.jpg" />
+
 <!-- https://www.tiktok.com/@vsprice7/video/7326059623377849646 -->
 
 
@@ -300,7 +307,7 @@ Yet another strat: the pretence that TS is uncool, the victim of snobbery, mean 
 
 
 > By chance, I’d found myself having dinner with a former acquaintance of Swift’s who offhandedly described her as “calculating.” This is the only moment during our interview when Swift appears remotely flustered. She really, really hates the word calculating...<br><br>
-[Swift: ] " 'Am I shooting from the hip?' Would any of this have happened if I was? ... You can be accidentally successful for three or four years. Accidents happen. But careers take hard work."
+[Swift: ] " 'Am I shooting from the hip?' Would any of this have happened if I was? ... You can be accidentally successful for three or four years. Accidents happen. But careers take [hard work](https://bsky.app/profile/swiftonsecurity.com/post/3ljxnyv6aks23)."
 
 <center>– <a class="noline" href="{{chuck}}">Klosterman</a></center>
 
@@ -538,7 +545,7 @@ Washed up and ranting about the same old bitter things
 <!-- https://notebook.substack.com/p/miss-americana-and-the-heartbreak -->
 <!-- https://www.vulture.com/2017/08/taylor-swift-look-what-you-made-me-do-pure-trump-era-pop-art.html -->
 <!-- https://samkriss.substack.com/p/taylor-swift-does-not-exist -->
-
+<!-- https://bsky.app/profile/swiftonsecurity.com/post/3ljxnyv6aks23 -->
 
 <div class="footnotes">
 

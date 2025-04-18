@@ -18,6 +18,8 @@ visible:	false
 
 - '[Bavarian Gentians](https://poetryarchive.org/poem/bavarian-gentians/)' by Lawrence
 
+- '[A Shropshire Lad](https://www.gutenberg.org/files/5720/5720-h/5720-h.htm)' by AE Housman
+
 - '[Ben Dorain](https://www.scottishpoetrylibrary.org.uk/poem/moladh-beinn-dobhrain-extract/)' by Iain Crichton Smith
 
 - '[The Back Country](https://www.threecandles.org/archive/ljenkins.html)' by Louis Jenkins
@@ -28,21 +30,15 @@ visible:	false
 
 - '[Boast of Quietness](https://www.goodreads.com/quotes/343526-boast-of-quietness-writings-of-light-assault-the-darkness-more)' by Borges
 
-- [Job 3: 3-26](https://www.biblegateway.com/passage/?search=Job%203%3A3-26&version=KJV)
+- '[Job 3: 3-26](https://www.biblegateway.com/passage/?search=Job%203%3A3-26&version=KJV)
 
 - '[Tom o Bedlam's Song](https://kestrelmontague.wordpress.com/2012/09/10/perhaps-the-greatest-anonymous-poem-tom-obedlam/)'
 
 - '[Death be not proud](https://www.poetryfoundation.org/poems/44107/holy-sonnets-death-be-not-proud)' by Donne
 
-- 
-
--
-
--
-
--
-
 - '<a href="/hughes">Incompatibilities</a>' by Ted Hughes
+
+- '[Listen, Put on Morning](https://www.poetryfoundation.org/poems/55094/listen-put-on-morning)' by WS Graham
 
 - '[I Want to Be the One](http://zackmdavis.net/blog/2015/12/i-want-to-be-the-one/)' by Zack Davis
 
@@ -70,7 +66,17 @@ visible:	false
 
 - '[Dover Beach](https://www.poetryfoundation.org/poems/43588/dover-beach)' by Matthew Arnold
 
-- '[]()' by
+- 'Autobiography of My Alter Ego' by Yusef Komunyakaa
+
+- 'A footnote to weather forecasts' by Iosif Brodsky
+
+- '[In memoriam](https://www.newyorker.com/magazine/1987/11/09/in-memoriam-10)' by Iosif Brodsky
+
+- 'Sextet' by Iosif Brodsky
+
+- 'A part of speech' by Iosif Brodsky
+
+- '[The Flooers o' the Forest]()' by Jean
 
 - '[The force that through the green fuse drives the flower](https://poets.org/poem/force-through-green-fuse-drives-flower)' by Dylan Thomas
 
@@ -86,13 +92,13 @@ visible:	false
 
 - '[Reflections](https://wp.nyu.edu/qy702/reflections-r-s-thomas/)' by R.S. Thomas
 
-
-
 - '[Re-emerge The Exact Same As You Are](https://tiny-postcard.blogspot.com/2012/08/re-emerge-exact-same-as-you-are.html?m=0)' by John Morrice
+
+- '[A good list](https://newcriterion.com/article/a-good-list/)' by Brad Leithauser
 
 - '[autopsychography](https://www.poetryfoundation.org/poetrymagazine/poems/26780/autopsychography)' by Pessoa
 
-- '[Prufrock](https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock) by Eliot
+- '[Prufrock](https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock)' by Eliot
 
 - '[Under One Small Star](https://www.poetrynook.com/poem/under-one-small-star)' by Szymborska
 
@@ -101,10 +107,11 @@ visible:	false
 - '[meaning](https://troublingadvocacy.blogspot.com/2015/03/meaning-1988-by-czesaw-miosz.html
 )' by Czeslaw Milosz
 
+- '[A.E.H.](https://laudatortemporisacti.blogspot.com/2009/12/kingsley-amis-on-ae-housman.html)' by Kingsley Amis
+
 - '[Almost No Memory](https://www.goodreads.com/quotes/878977-we-feel-an-affinity-with-a-certain-thinker-because-we)' by Lydia Davis
 
 - '[Aurora Leigh](https://www.poetryfoundation.org/poems/145567/aurora-leigh-book-1)' by Elizabeth Barrett Browning
-
 
 - '[Israel](http://roothogordie.wordpress.com/2009/01/07/briefly-off-message-from-leonard-cohens-book-of-mercy/)' by Leonard Cohen
 
@@ -112,16 +119,15 @@ visible:	false
 
 - '[Queen Victoria and Me](http://poemsandpickaxes.blogspot.co.uk/2011/12/queen-victoria-and-me-leonard-cohen.html)' by Leonard Cohen
 
-- [Montreal](http://books.google.co.uk/books?id=kyCVRKtQ5H0C&pg=PT216&lpg=PT216&dq=%22beware+of+what+comes+out+of+montreal%22&source=bl&ots=uP4YphruA6&sig=EzMn2DSAou0xCT3GaoVhsUumRDk&hl=en&sa=X&ei=_V6wUaj6KOaK0AX45IGYDA&ved=0CFEQ6AEwCA)' by Leonard Cohen
+- '[Montreal](http://books.google.co.uk/books?id=kyCVRKtQ5H0C&pg=PT216&lpg=PT216&dq=%22beware+of+what+comes+out+of+montreal%22&source=bl&ots=uP4YphruA6&sig=EzMn2DSAou0xCT3GaoVhsUumRDk&hl=en&sa=X&ei=_V6wUaj6KOaK0AX45IGYDA&ved=0CFEQ6AEwCA)' by Leonard Cohen
 
-- [Hydra 1960](http://www.leonardcohenfiles.com/hydraB2.html) by Leonard Cohen
+- '[Hydra 1960](http://www.leonardcohenfiles.com/hydraB2.html)' by Leonard Cohen
 
-- A Cross Didn't Fall on Me by Leonard Cohen
+- '[A Cross Didn't Fall on Me](https://web.archive.org/web/20250227095629/https://members.tripod.com/fruit_loop0/lovemebecause.html)' by Leonard Cohen
 
-- [Disguises](http://turnercody.tumblr.com/post/51812336812/disguises-by-leonard-cohen) by Leonard Cohen
+- '[Disguises](http://turnercody.tumblr.com/post/51812336812/disguises-by-leonard-cohen)' by Leonard Cohen
 
 - '[It's Probably Spring](http://www.lauraolin.com/post/46205602504/so-and-so-is-sick-of-all-the-shit-but-doesnt-feel-that)' by Leonard Cohen
-
 
 - '[As If It Were](https://troublingadvocacy.blogspot.com/2015/02/as-if-it-were-this-is-our-music-2014-by.html)' by Nathaniel Mackey
 
@@ -134,7 +140,7 @@ visible:	false
 
 - '[Lines written on windows of the Globe Tavern, Dumfries](https://www.bbc.co.uk/arts/robertburns/works/lines_written_on_windows_of_the_globe_tavern_dumfries/)' by Burns
 
-- [Back-Green Odyssey](https://www.scottishpoetrylibrary.org.uk/poem/aiberdeen-street/) by Alastair Mackie
+- '[Back-Green Odyssey](https://www.scottishpoetrylibrary.org.uk/poem/aiberdeen-street/)' by Alastair Mackie
 
 - '[Scotland](https://www.scottishpoetrylibrary.org.uk/poem/scotland-1/)' Alastair Reid
 
@@ -164,6 +170,7 @@ visible:	false
 
 - '[Crossing the Border](https://web.archive.org/web/20200426140802/https://blackcapsule.files.wordpress.com/2018/11/maccaig2.jpg?w=788)' by Norman MacCaig
 
+- '[Unit of Measure](https://www.poetryfoundation.org/poetrymagazine/poems/52653/unit-of-measure)' by Sandra Beasley
 
 - '[The Decline and Fall of the Roman Empire](https://waxwingmag.org/items/issue32/10_Tuckner-The-Decline-and-Fall-of-the-Roman-Empire.php)' by Matthew Tuckner
 
@@ -179,7 +186,17 @@ visible:	false
 
 - '[Rain Clearance](https://www.gleech.org/poems/#:~:text=Rain%20Clearance%20by%20D%C3%B9%20F%C7%94)' by Dù Fǔ (杜甫)
 
+- '[Anger](https://www.poetryfoundation.org/poetrymagazine/browse?volume=175&issue=1&page=41)' by Yusef Komunyakaa
+
+- '[Aristotle](https://www.poetryfoundation.org/poems/46706/aristotle)' by Billy Collins
+
+- '[How to Draw a Perfect Circle](https://www.poetryfoundation.org/poetrymagazine/poems/57566/how-to-draw-a-perfect-circle)' by Terrance Hayes
+
+- '[Hymn to Life](https://www.poetryfoundation.org/poetrymagazine/poems/57067/hymn-to-life-56d23a30164a9)' by Timothy Donnelly
+
 - '[I Sing the Body Electric](https://www.poetryfoundation.org/poems/45472/i-sing-the-body-electric)' by Walt Whitman
+
+- '[The Land o' the Leal]()'
 
 - '[Floreat Inertia](https://halfmanhalfbiscuit.uk/this-leaden-pall-1993/floreat-inertia/)' by Nigel Blackwell
 

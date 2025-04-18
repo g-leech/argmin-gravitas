@@ -24,6 +24,8 @@ Some full obits, mostly scientists or philanthropists or other people overlooked
 * [Peter Eckersley](https://forum.effectivealtruism.org/posts/ivep4R7LoSLhWwHGX/peter-eckersley-1979-2022)
 * [James Lovelock](https://forum.effectivealtruism.org/posts/YFyzHT3H67jrk7mdc/james-lovelock-1919-2022)
 * [Hugh Thompson Jr](https://forum.effectivealtruism.org/posts/JGR87M8to93D7Ahzh/hugh-thompson-jr-1943-2006)
+* [Max Chiswick](https://forum.effectivealtruism.org/posts/r9fJ26ca5cneY3hA8/max-chiswick-1985-2025)
+
 
 <br><br>
 
