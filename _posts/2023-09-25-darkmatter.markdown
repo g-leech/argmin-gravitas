@@ -196,6 +196,13 @@ What else is out there? What is the "dark matter" of maths?
             </div>
         </div>
     </div>
+    <h3>No sufficiently powerful language can represent itself</h3>
+    <div>
+        i.e. <a href="https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem">Tarski undefinability</a>: No formal language $$L$$ with negation and enough self-reference to be interesting (i.e. for which the <a href="https://en.wikipedia.org/wiki/Diagonal_lemma">diagonal lemma</a> holds) is <i>strongly-semantically-self-representational</i>, contains predicates and function symbols which jointly define all the semantic concepts of $$L$$.
+        <br>
+        e.g. you can't define the concept of truth of first-order arithmetic statements with first-order arithmetic. You have to go meta.
+        <br>
+    </div>
     <!--  -->
     <h3>Most values of the Busy Beaver function cannot be found within any formal system</h3>
     <div>
@@ -215,7 +222,7 @@ What else is out there? What is the "dark matter" of maths?
 
 <br>
 
-We can't list anything uncountable. That's what uncountable means (Giving a method of listing all the members of a set proves the set is countable.) 
+We can't list anything uncountable. That's what 'uncountable' means. (Giving a method of listing all the members of a set proves the set is countable.) 
 
 <br>
 
@@ -285,6 +292,8 @@ are needed to be able to prove that an N-bit program is elegant. -->
     </div>
 </div>
 
+
+<!-- every number has a game, but not all games have numbers, and thus game-space is larger than number-space -->
 
 
 <br> 

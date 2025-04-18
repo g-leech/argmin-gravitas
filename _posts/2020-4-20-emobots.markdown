@@ -36,13 +36,13 @@ A lack of AI emotion seems scientifically well-founded. After all, presumably th
 
 (Obligatory Stuart Russell reference) In nonfiction, [Omohundro 2008](https://dl.acm.org/doi/10.5555/1566174.1566226) famously argues that systematically harmful behaviour is possible in rational agents without malevolence or any other emotion. Instead, the risk arises from technical problems like the difficulty of perfectly specifying the reward function, the problems with strongly optimising noisy proxies, and the resulting specification gaming and dire instrumental drives. 
 
-However, a large convergent literature from game theory, evolutionary psychology and neuroscience indicates that emotional behaviour can be often be understood as optimal in various real-world situations.
+However, a large convergent literature from game theory, evolutionary psychology and neuroscience indicates that emotional behaviour can often be understood as optimal in various real-world situations.
 
 (TODO: There's a missing premise here - something something shared context / game structure / optimisation type)
 
 Critically, if this behaviour is optimal, it can also arise in agents trained by RL, and so potentially in advanced AI.
 
-Here, we aim to show that behaviours analogous to anger, loyalty, and  can emerge in toy reinforcement learning environments. This implies that it is possible for a large-scale AI trained using RL to also express such things as it interacts with the real world.
+Here, we aim to show that behaviours analogous to anger, loyalty, and play can emerge in toy reinforcement learning environments. This implies that it is possible for a large-scale AI trained using RL to also express such things as it interacts with the real world.
 
 This matters because it would be some evidence for a further failure mode for advanced AI beyond the utility maximiser with harmful convergent instrumental goals.
 
