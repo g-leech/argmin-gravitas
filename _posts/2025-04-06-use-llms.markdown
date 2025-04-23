@@ -5,7 +5,7 @@ baselink:   /llms
 permalink:  /llms
 date:       2025-04-08
 author:     Gavin   
-img:        /img/ballard.png
+img:        /img/mmohr.png
 
 visible:    1
 published:  true
@@ -18,6 +18,12 @@ wordcount:
 categories: AI, lists
 where:      "Constellation, Berkeley"
 ---
+
+
+<img src="/img/mmohr.png" />
+<small>Manfred Mohr, <i>Cubic Limit: P-197</i> (1977)</small>
+
+<br>
 
 I enjoy shocking people by telling them I don't use LLMs. 
 
