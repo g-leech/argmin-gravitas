@@ -65,10 +65,12 @@ On the other hand, it is normal for teenagers to make incredible music, such tha
 	<h3>Young music</h3>
 	<div>
 		Mozart, Mendelssohn, The Schumanns, Paganini, Prokofiev, Rachmaninoff, Chopin, Liszt, Barber, Strauss, Rota, Nejiko Suwa.<br><br>
-		Minor Threat, Replacements, Kool Herc, Behemoth, Kate Bush, Sepultura, Laura Marling, Dizzee Rascal, Arctic Monkeys, AFX, Beirut, Bad Religion, Metallica, Green Day, Ash, Stevie Wonder, Milla Jovovich, Karen Brooks, Cap'n Jazz, Nas, James Ferraro, Yoji Mabuchi, Avey Tare, De La Soul, Them, Johnny Marr,  Leiber & Mike Stoller, Fiona Apple, Maurice Williams, A Tribe Called Quest
+		Minor Threat, Replacements, Kool Herc, Behemoth, Kate Bush, Sepultura, Laura Marling, Dizzee Rascal, Arctic Monkeys, AFX, Beirut, Bad Religion, Metallica, Sondre Lerche, Green Day, Ash, Stevie Wonder, Milla Jovovich, Karen Brooks, Cap'n Jazz, Nas, James Ferraro, Yoji Mabuchi, Avey Tare, De La Soul, Them, Johnny Marr, Leiber & Mike Stoller, Fiona Apple, Maurice Williams, A Tribe Called Quest
 		<!-- Horsegirl, Squirrel Bait -->
 	</div>
 </div>
+
+A pattern in the above musicians is that they were _melodic or lyrical or textural_ geniuses; harmonic genius really does take time.
 
 <br><br>
 
