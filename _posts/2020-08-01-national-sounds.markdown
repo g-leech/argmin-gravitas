@@ -38,6 +38,7 @@ argument:
 			{%	include nation/est.html	%}
 			{%	include nation/esp.html	%}
 		    {%  include nation/pl.html  %}
+		    {%  include nation/no.html  %}
 			{%	include nation/neder.html	%}
 			{%	include nation/portug.html	%}
 			{%	include nation/fin.html	%}
