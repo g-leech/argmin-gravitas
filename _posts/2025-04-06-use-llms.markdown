@@ -20,7 +20,7 @@ where:      "Constellation, Berkeley"
 ---
 
 
-<img src="/img/mmohr.png" />
+<img src="/img/mmohr.png" /><br>
 <small>Manfred Mohr, <i>Cubic Limit: P-197</i> (1977)</small>
 
 <br>
@@ -115,6 +115,15 @@ Anyway:
 
 In order of frequency x usefulness:
 
+* Sad replacement for an actual search engine (Search mode only; if no provenance, then no entry to my mind). 
+* Deep Research is kinda useful. But if Google was as good as it was in 2012 I wouldn't use DR - and also if my employer didn't pay for it I wouldn't. (I _intensely_ resent them diluting the word "deep" and the word "research" to mean stupidly skimming and summarising existing texts. I would probably use it twice as often if I didn't have to play along with this degradation. Actually let me just write a Stylus rule to rename it in the UI.)
+
+<center>
+	<img src="/img/deepresearch.png" />
+</center>
+
+<br>
+
 * Help remembering a term on the tip of my tongue ("what do you call it when...")
 * Working out what words to google in a new field ("list the names of some natural anticancer mechanisms")
 * Hit-and-miss for unpacking acronyms and getting [in the loop](https://www.reddit.com/r/OutOfTheLoop/). I'm too online to need this that often and the remainder is often coined after their knowledge cutoff.
@@ -124,13 +133,6 @@ In order of frequency x usefulness:
 * Semantic search through a corpus ("give me everything related to AI timelines"; "give me passages which could be influenced by Nietzsche")
 * For _declared adversaries_ (like people who are breaching contracts) I use "Write a legal response in the style of Patrick Mackenzie in Dangerous Professional mode" or "Explain in the style of Zvi Mowshowitz".
 * Formatting: validating and fixing JSON; JSON to CSV; . I prefer regex and haven't yet needed to ask the beast's help composing any regexes.
-* Deep Research is kinda useful, sure. But if Google was as good as it was in 2012 I wouldn't use DR - and also if my employer didn't pay for it I wouldn't. (I _intensely_ resent them diluting the word "deep" and the word "research" to mean stupidly skimming and summarising existing texts. I would probably use it twice as often if I didn't have to play along with this degradation. Actually let me just write a Stylus rule to rename it in the UI.)
-
-<center>
-	<img src="/img/deepresearch.png" />
-</center>
-
-<br>
 
 * Ollama: debugging internet connections when you don't have one.
 * Code
