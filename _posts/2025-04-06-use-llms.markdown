@@ -9,7 +9,7 @@ img:        /img/mmohr.png
 
 visible:    1
 published:  true
-quality:    5
+quality:    7
 
 summary:    couples counselling for me and my machine
 confidence: I am an unusual case, they're probably more useful for you. Obsolete by Oct 2025.
@@ -47,12 +47,13 @@ This isn't true, but it's [morally](https://www.reddit.com/r/math/comments/925a8
 
 <br>
 
-It's not that I'm ignorant; it's something else. Every time a new model comes out, I say “ok Gav it’s finally time to cyborg up” -- and every time, it confidently makes an appalling error within 5 minutes and I completely lose my appetite.
+It's not that they're not smart; let all grant that they are. It's not that I'm ignorant; I was there watching the monitor as they were born and know how they grew. It's something else. Every time a new model comes out, I say “ok Gav it’s finally time to cyborg up” -- and every time, it confidently makes an appalling error within 5 minutes and I completely lose my appetite.
 
 But [people](https://www.lesswrong.com/posts/zuXo9imNKYspu9HGv/a-three-layer-model-of-llm-psychology#Limitations_and_Open_Questions:~:text=This%20post%20emerged%20from%20a%20collaboration%20between%20Jan%20Kulveit%20(JK)%20and%20Claude%20%223.6%22%20Sonnet) [I enormously](https://x.com/stanislavfort/status/1905195177544720663) respect have been using them happily for real thinking for a long time, sometimes [two](https://x.com/LauraDeming/status/1604914163892965376) full years, and the resulting output is good and deep. 
 
 Something's gotta give.
 
+<br>
 
 ## Why not??
 

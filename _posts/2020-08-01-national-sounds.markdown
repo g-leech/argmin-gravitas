@@ -54,6 +54,7 @@ argument:
 			{%	include nation/jp.html	%}
 			{%	include nation/chin.html	%}
 			{%	include nation/sko.html	%}
+			{%	include nation/philipp.html %}
 			{%	include nation/hk.html	%}
 			{%	include nation/taiwan.html	%}		
 		</div>
