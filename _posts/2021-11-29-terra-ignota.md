@@ -109,6 +109,7 @@ This doesn't mean that the flaws are justified and doesn't fully redeem the last
 
 * <a href="{{robnost}}">Robnost trying to understand why the bad bits are there</a>
 * <a href="{{dril}}">dril</a>
+* https://irradiate.space/worldbuilding/towards-utopia-terra-ignota/
 
 <br><br>
 

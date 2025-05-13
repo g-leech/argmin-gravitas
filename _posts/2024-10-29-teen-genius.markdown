@@ -37,6 +37,12 @@ It's mostly maths and music.
 * Wiener (logic), 18
 * von Neumann (foundations), 20
 * Aaronson (complexity), 20
+* Turner (painting), 15
+* Picasso (painting), 15
+* Dürer (painting), 13
+* Gentileschi (painting), 17	``
+<!-- Vigée Le Brun -->
+<!-- Basquiat -->
 * Nash (games), 21
 * Fermi?
 * Hamilton?
