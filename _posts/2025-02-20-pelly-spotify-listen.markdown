@@ -121,7 +121,8 @@ The case against that case is: about half of people don't notice the different b
 
 <br>
 
-So Pelly is not capable of analysing this huge messy new phenomenon (but does better than anyone else so far through dint of sheer effort and cynicism). To supplement this book with actual evidence I recommend <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1020133/music-creators-earnings-report.pdf">this</a> shockingly good UK government report. For a much better book on the 1995-2006 runup to Spotify read <a href="https://www.goodreads.com/review/show/5463084418">Witt</a>.
+So Pelly is not capable of analysing this huge messy new phenomenon (but does better than anyone else so far through dint of sheer effort and cynicism). To supplement this book with actual evidence I recommend <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1020133/music-creators-earnings-report.pdf">this</a> shockingly good UK government report. For a much better book on the 1995-2006 runup to Spotify read <a href="https://www.goodreads.com/review/show/5463084418">Witt</a>. Until 2023, Glenn Macdonald was one of the most 
+important people in the music industry and he has [a book](https://www.goodreads.com/book/show/199504414-you-have-not-yet-heard-your-favourite-song) denouncing some of Spotify's stuff from the inside.
 
 <br>
 
@@ -139,6 +140,7 @@ So Pelly is not capable of analysing this huge messy new phenomenon (but does be
 * [Wiki](https://en.wikipedia.org/wiki/Controversy_over_fake_artists_on_Spotify)
 * [Hesmondhalgh et al](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1020133/music-creators-earnings-report.pdf)
 * [Witt on piracy](https://www.goodreads.com/review/show/5463084418)
+* [Macdonald](https://www.goodreads.com/book/show/199504414-you-have-not-yet-heard-your-favourite-song)
 
 <br><br>
 

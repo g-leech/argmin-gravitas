@@ -30,7 +30,7 @@ It's mostly maths and music.
 * Walter Pitts (logic, the neuron), 18
 <!--* Bose (stat mech), -->
 * Niels Abel (the quintic), 18
-* Frank Ramsey (critique, economics), 18 
+* Frank Ramsey (translation, economics), 18 
 * Lagrange (variational calculus), 18 
 * Gauss (geometry, number theory), 19 
 * Pascal (geometry, computing), 16 
@@ -40,7 +40,7 @@ It's mostly maths and music.
 * Turner (painting), 15
 * Picasso (painting), 15
 * Dürer (painting), 13
-* Gentileschi (painting), 17	``
+* Gentileschi (painting), 17
 <!-- Vigée Le Brun -->
 <!-- Basquiat -->
 * Nash (games), 21

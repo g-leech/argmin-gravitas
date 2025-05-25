@@ -44,7 +44,7 @@ where:      "Tallinn"
 
 * **Venue**: Mono
 
-* **Philosopher**: Alexander Broadie?
+* **Philosopher**: Hutcheson. Alasdair MacIntyre probably.  MacAskill
 
 * **Scientist**: Joseph Black
 
