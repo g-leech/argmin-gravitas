@@ -19,9 +19,10 @@ categories: AI, lists
 where:      "Constellation, Berkeley"
 ---
 
-
-<img src="/img/mmohr.png" /><br>
-<small>Manfred Mohr, <i>Cubic Limit: P-197</i> (1977)</small>
+<center>
+	<img src="/img/mmohr.png" /><br>
+	<small>Manfred Mohr, <i>Cubic Limit: P-197</i> (1977)</small>
+</center>
 
 <br>
 
