@@ -42,7 +42,7 @@ This isn't true, but it's [morally](https://www.reddit.com/r/math/comments/925a8
 		I was there when BERT hit and sounded the death knell for entire subfields of NLP.<br>
 		I was there when GPT-2 prompted with "tl;dr" destroyed hundreds of corporate data science projects on summarisation.<br>
 		I've spent a hundred hours with various of them, but almost entirely in roboanthropologist mode ("<i>look at these fascinating primitives!</i>"; "<i>I wonder what new exciting publishable diseases my patient will display today</i>").<br><br>
-		I was also there when the field and the industry got bitcoinified and run through with idiots, grifters, and worse in a 50:1 ratio with real people. The "labs" (companies) don't help matters by eliding between their sensible beliefs about where the beasts will be in a few years and their sensible beliefs about where they are at the moment. The "researchers" (opportunist hillclimbers) didn't help matters when they took ML evaluation to the brink of <a href="https://arxiv.org/abs/2407.12220">pseudoscience</a>. So it's hard to forgive the industry-slash-fandom when it exaggerated capabilities every single week for the last 200 weeks.
+		I was also there when the field and the industry got bitcoinified and run through with idiots, grifters, and worse in a 20:1 ratio with real people. The "labs" (companies) don't help matters by eliding between their sensible beliefs about where the beasts will be in a few years and their sensible beliefs about where they are at the moment. The "researchers" (opportunist hillclimbers) didn't help matters when they took ML evaluation to the brink of <a href="https://arxiv.org/abs/2407.12220">pseudoscience</a>. So it's hard to forgive the industry-slash-fandom when it exaggerated capabilities every single week for the last 200 weeks.
 	</div>
 </div>
 
@@ -229,6 +229,9 @@ Discussion on <a href="https://news.ycombinator.com/item?id=43688005">HN</a>
 - [https://signull.substack.com/p/how-to-think-with-ai](https://signull.substack.com/p/how-to-think-with-ai)
 - [https://alicemaz.substack.com/p/how-i-use-chatgpt](https://alicemaz.substack.com/p/how-i-use-chatgpt)
 - [https://fredkozlowski.com/2024/08/29/youre-using-chatgpt-wrong/](https://fredkozlowski.com/2024/08/29/youre-using-chatgpt-wrong/)
+- [https://borretti.me/article/how-i-use-claude](https://borretti.me/article/how-i-use-claude)
+- https://vale.rocks/posts/ai-usage
+- https://lawsen.substack.com/p/my-current-writing-workflow
 - [https://www.lesswrong.com/posts/WNd3Lima4qrQ3fJEN/how-i-force-llms-to-generate-correct-code](https://www.lesswrong.com/posts/WNd3Lima4qrQ3fJEN/how-i-force-llms-to-generate-correct-code)
 - [https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do](https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do)
 - [https://www.jointakeoff.com/](https://www.jointakeoff.com/)

@@ -112,7 +112,9 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	</blockquote>
 	<br>
 <!--  -->
-	(This <a href="{{grace}}">explains why we read so much old/obsolete work</a>: we're learning by demonstration!)
+	This <a href="{{grace}}">explains why we read so much old/obsolete work</a>: we're learning by demonstration!
+<!--  -->
+	But even if this account is true it does nothing to argue for this activity over all the other cool ones.
 	</li>
 	<br><br>
 <!--  -->
@@ -295,6 +297,19 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	This kind of philosophy is a game - the hardest game, yes, since <a href="{{nom}}">
 	the rules</a>  <a href="{{dial}}">are themselves</a>  at issue. I love it, but that is not enough. 
 	</li> 
+<!--  -->
+	<li>
+		<h3>philosophy as mental adornment</h3>
+		Peter Ustinov:
+		<blockquote>If you're going to be a prisoner of your own mind, the least you can do is make sure it's well furnished.</blockquote>
+		For some of us, it is just more fun to talk to philosophically alive people. So we study philosophy out of our usual blend of altruism and peacocking.
+	</li>
+	<li>
+		<h3>philosophy as psychedelic, as sensory intervention</h3>
+		Gödel loved philosophy, and in his notebooks movingly claims that philosophical study intensifies his experience of the world:
+		<blockquote>[philosophy] has the effect (that “the colors brighten”), i.e., that reality appears more clearly as such.</blockquote>
+		I think I get this too. But it also clearly presents risks to the scholar, of disembodiment, dissociation, and top-down processing to an extent which blinds.
+	</li>
 	<br><br>
 	<!--  -->
 	<li>
@@ -386,6 +401,7 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 * <a href="/broadness">Broadness as trivial predictor of philosophical status</a>
 * http://justmorephilosophy.blogspot.com/2015/10/never-questioning-value-of-philosophy.html
 * Tom Adamczewski, <a href="{{sitt}}">Philosophical Success Stories</a>
+* Liam Bright on [4 successes of his guild](https://sootyempiric.blogspot.com/2025/02/learning-from-four-analytic-philosophy.html)
 * Massimo Pigliucci, <a href="{{pig2}}">Progress in Philosophy</a>
 * Graham Johnson, <a href="{{suspended}}">Conceptual engineering: the revolution in philosophy you've never heard of</a>
 * <a href="{{schw}}">Schwitzgebel on philosophy that opens</a>
@@ -394,6 +410,7 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 * Luke Muehlhauser, <a href="{{prog}}">Philosophy: A Diseased Discipline</a>
 * <a href="{{spol}}">Spolsky on the risks of abstraction even in practical matters</a>
 * David Pearce, <a href="{{diary}}">Long diary entry containing a metaphilosophy & applied physicalism.</a>
+* Antonio Wolf, [use(lessness)](https://empyreantrail.wordpress.com/2024/01/16/the-uselessness-of-philosophy/)
 
 <br><br>
 

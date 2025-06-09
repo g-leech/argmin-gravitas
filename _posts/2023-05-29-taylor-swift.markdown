@@ -529,6 +529,8 @@ Washed up and ranting about the same old bitter things
     <!--  -->
     <h3>lyricist</h3>
     <div>
+        <img src="/img/hallvswift.jpg" />
+        <br><br>
         I'm told that Swift's own self-conception and real talents lie in lyric-writing. I don't see it but will quote <a href="{{kontext}}">Kontextmaschine</a> for completeness:
         <br><br>
 <!--  -->
