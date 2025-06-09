@@ -141,6 +141,7 @@ important people in the music industry and he has [a book](https://www.goodreads
 * [Hesmondhalgh et al](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1020133/music-creators-earnings-report.pdf)
 * [Witt on piracy](https://www.goodreads.com/review/show/5463084418)
 * [Macdonald](https://www.goodreads.com/book/show/199504414-you-have-not-yet-heard-your-favourite-song)
+* https://www.cantgetmuchhigher.com/p/the-sportification-of-pop-music
 
 <br><br>
 
