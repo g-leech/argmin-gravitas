@@ -22,6 +22,11 @@ wordcount:  1550
 {%	include js/lazyFrame.html		%}
 
 
+_2025 update: You may wish to use [this newer guide](https://karpathy.bearblog.dev/digital-hygiene/) instead._
+
+<br>
+
+
 
 It's now common knowledge that we're being watched online, by a <a href="{{mix}}">thick mix</a> of <a href="{{xkey}}">nation</a>-<a href="{{ech}}">states</a>, <a href="{{enemy}}">private</a> <a href="{{fb}}">companies</a>, <a href="{{spy}}">and</a> <a href="{{play}}">criminals</a>. They sometimes do <a href="{{mal}}">worse than watch</a>. What do we do? Should we care?
 

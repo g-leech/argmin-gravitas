@@ -308,7 +308,9 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 		<h3>philosophy as psychedelic, as sensory intervention</h3>
 		Gödel loved philosophy, and in his notebooks movingly claims that philosophical study intensifies his experience of the world:
 		<blockquote>[philosophy] has the effect (that “the colors brighten”), i.e., that reality appears more clearly as such.</blockquote>
-		I think I get this too. But it also clearly presents risks to the scholar, of disembodiment, dissociation, and top-down processing to an extent which blinds.
+		I think I get this too. In particular, I got a strong and semi-permanent phenomenological shift from reading anti-phenomenological philosophy (Russell, Sellars, Dennett). 
+<!--  -->
+		But this route also clearly presents risks to the scholar, of disembodiment, derealisation, and top-down processing to an extent which blinds.
 	</li>
 	<br><br>
 	<!--  -->

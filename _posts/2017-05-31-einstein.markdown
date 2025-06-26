@@ -27,6 +27,7 @@ Jacob Bronowski</center><br>
 
 {%		assign brown = "https://en.wikipedia.org/wiki/%C3%9Cber_die_von_der_molekularkinetischen_Theorie_der_W%C3%A4rme_geforderte_Bewegung_von_in_ruhenden_Fl%C3%BCssigkeiten_suspendierten_Teilchen" 		%}
 {%		assign muck = "https://books.google.co.uk/books?id=MjVgeT7Laf8C&pg=PA129&dq=To+think+I+have+spent+my+life+on+absolute+muck&hl=en&sa=X&ved=0ahUKEwjsoarEl6fnAhUnUhUIHQxJAbcQ6AEIKDAA#v=onepage&q=To%20think%20I%20have%20spent%20my%20life%20on%20absolute%20muck&f=false"		%}
+{%		assign race = "https://www.theguardian.com/books/2018/jun/12/einsteins-travel-diaries-reveal-shocking-xenophobia"	%}
 
 
 _A review of 'Einstein' (2007) by Walter Isaacson_.
@@ -198,5 +199,11 @@ Isaacson read all the letters, formed a view on all the academic controversies (
 	</div>
 </div>
 
+
+<br><br>
+
+## See also
+
+* <a href={{race}}>however, Asia</a>
 
 <br><br>

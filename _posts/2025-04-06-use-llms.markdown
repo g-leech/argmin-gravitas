@@ -224,6 +224,7 @@ Discussion on <a href="https://news.ycombinator.com/item?id=43688005">HN</a>
 - [https://www.avitalbalwit.com/post/how-i-use-claude](https://www.avitalbalwit.com/post/how-i-use-claude)
 - [https://andymasley.substack.com/p/how-i-use-ai](https://andymasley.substack.com/p/how-i-use-ai)
 - [https://benjamincongdon.me/blog/2025/02/02/How-I-Use-AI-Early-2025/](https://benjamincongdon.me/blog/2025/02/02/How-I-Use-AI-Early-2025/)
+- https://www.seangoedecke.com/how-i-use-llms/
 - [https://www.jefftk.com/p/examples-of-how-i-use-llms](https://www.jefftk.com/p/examples-of-how-i-use-llms)
 - [https://simonwillison.net/series/using-llms/](https://simonwillison.net/series/using-llms/)
 - [https://signull.substack.com/p/how-to-think-with-ai](https://signull.substack.com/p/how-to-think-with-ai)

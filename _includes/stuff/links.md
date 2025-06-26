@@ -5,6 +5,8 @@
 {%	assign green = "https://www.bulkpowders.co.uk/complete-greens.html"		%}
 {%	assign oxy = "https://www.amazon.co.uk/Vicks-Micromist-Nasal-Pump-Spray/dp/B004GKG6MQ/"	%}
 {%	assign fil = "https://www.keyboardco.com/keyboard/filco-convertible-2-tenkeyless-silent-soft-linear-action-uk-iso-keyboard.asp"		%}
+{%	assign beu = "https://www.amazon.com/Beurer-BR60-Chemical-Free-Treatment-Non-Toxic/dp/B08MT4Z89C"	%}
+{%	assign nasal = "https://www.amazon.com/Breathe-Right-Drug-Free-Congestion-Allergies/dp/B01JH15SOU?ref_=ast_sto_dp"	%}
 
 {%	assign rack = "https://www.powerhouse-fitness.co.uk/bodymax-cf475-heavy-power-rack.php"	%}
 {%	assign pump = "https://www.youtube.com/watch?v=pSq0P3e-tqs"	%}
