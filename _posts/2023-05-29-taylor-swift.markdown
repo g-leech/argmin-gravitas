@@ -341,7 +341,7 @@ The most interesting things about Swift were harder to discover: she's a sort of
 
 <br>
 
-#### A microcosm of pop's appropriation
+### A microcosm of pop's appropriation
 
 Pop as a whole is obviously larger and more hegemonic than little old TS: it ate gospel, it ate country, it ate jazz, it ate rock, it ate punk, it ate <a href="{{gamb}}">hip-hop</a>, it ate <a href="{{elec}}">various</a> weird obtuse electronic genres, it ate lo-fi. It wears their shucked skins whenever it likes.<br>
 
@@ -351,6 +351,15 @@ TS is just one little corner of this larger machine; TS only works at all becaus
 For all Swift's grinding and shrewdness, TS is just a splinter of the same spontaneous order that created Britney, Katy Perry, Demi Lovato, Halsey, Meghan Trainor, Ariana Grande, Selena Gomez. <a href="#fn:11" id="fnref:11">11</a> But they aren't out here being given a PhD in fine arts.
 
 <br>
+
+<blockquote>(But jealous of our god of dreams,<br>
+His common-sense in secret schemes<br>
+     To rule the heart;<br>
+Unable to invent the lyre,<br>
+Creates with simulated fire<br>
+    Official art.)
+</blockquote>
+
 
 <div class="accordion">
     <h3>The backroom boys</h3>
