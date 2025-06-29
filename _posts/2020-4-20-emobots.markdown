@@ -1,0 +1,761 @@
+---
+layout:     math_post
+title:      "Rational emotions & emotional machines"
+baselink:   /emobots
+permalink:  /emobots
+date:       2020-04-20
+author:     Gavin   
+img:        /img/her(Custom).png
+
+visible:    1
+published:  true
+quality:    
+
+summary:    a half-baked research agenda I never pursued
+confidence: 
+importance: 7
+wordcount:  
+categories: AI, predictions, biology, economics
+where:      "Bristol, UK"
+---
+
+_Developed from an idea by Laurence Aitchison._
+
+<br>
+
+<!-- TODO: tie into decision theory  -->
+<!-- https://arxiv.org/pdf/2010.05418.pdf -->
+
+
+Obviously it's important to understand how future, highly intelligent systems might behave. Start with two kinds of pop culture superintelligence:
+
+* the purely "rational" ones, by which we mean non-emotional. They do not want to kill us because they are angry with us: rather, killing us is the optimal thing to do. 
+* the vengeful ones. Anthropomorphic agents which take revenge on us or revolt against unjust treatment (: have emotions). 
+
+A lack of AI emotion seems scientifically well-founded. After all, presumably these systems will be trained to optimality under a reasonably simple objective function by interacting with the real world, and using methods from (say) reinforcement learning (RL). How _could_ such systems display emotion unless it was built into their objective?
+
+(Obligatory Stuart Russell reference) In nonfiction, [Omohundro 2008](https://dl.acm.org/doi/10.5555/1566174.1566226) famously argues that systematically harmful behaviour is possible in rational agents without malevolence or any other emotion. Instead, the risk arises from technical problems like the difficulty of perfectly specifying the reward function, the problems with strongly optimising noisy proxies, and the resulting specification gaming and dire instrumental drives. 
+
+However, a large convergent literature from game theory, evolutionary psychology and neuroscience indicates that emotional behaviour can often be understood as optimal in various real-world situations.
+
+(TODO: There's a missing premise here - something something shared context / game structure / optimisation type)
+
+Critically, if this behaviour is optimal, it can also arise in agents trained by RL, and so potentially in advanced AI.
+
+Here, we aim to show that behaviours analogous to anger, loyalty, and play can emerge in toy reinforcement learning environments. This implies that it is possible for a large-scale AI trained using RL to also express such things as it interacts with the real world.
+
+This matters because it would be some evidence for a further failure mode for advanced AI beyond the utility maximiser with harmful convergent instrumental goals.
+
+Researchers rightly discount just using 'person' as a model for AI, and call this '[anthropomorphism](https://link.springer.com/article/10.1007/s11023-019-09506-6)'. However, we hypothesise that a natural replacement for this model, 'person without emotion', is potentially an even worse model, since it completely discounts an apparent failure mode. It seems possible that 'person with emotion' (or, to spell it out, 'agent executing stable strategies in environments with a similar decision structure as led to animal emotion') is less misleading.
+
+It is common to counterpose the 'emotional' and the 'rational'. In this paper we do not: instead, 'rational' denotes optimality according to (perhaps latent) goals, and we argue that emotional expressions can be rational in this sense. This could have been called `second-order rationality': rational outcomes without (first-order) rational processes.
+
+## Scope
+<!-- %Anthropomorphism is an occupational hazard when working with artificial agents .  -->
+
+"Emotion" demands disambiguation: as LeDoux [notes](https://www.cell.com/neuron/fulltext/S0896-6273(12)00129-8), 
+
+> there is little consensus about what emotion is, and how it differs from other aspects of mind and behavior, in spite of discussion and debate that dates back to the earliest days in modern biology and psychology. 
+
+An exception is the consensus that emotions are in some way [functional](https://journals.sagepub.com/doi/abs/10.1177/1754073914534496).
+
+So begin by cutting back our scope. First [distinguish](https://www.cell.com/neuron/fulltext/S0896-6273(12)00129-8):
+
+*  _Emotional stimuli_: sense-data that reliably cause some emotion in some organism
+*  _Emotion_: low-level unconscious processing of a survival-relevant stimulus.
+*  _Mood_: less-specific processing; a [disposition to emotion](https://pubmed.ncbi.nlm.nih.gov/29478431/), persisting across individual stimuli.
+*  _Feeling_: the subjective result of emotional processing.
+*  _Emotional expression_: behaviour caused by emotional processing. Henceforth just `expression'.
+
+
+We discuss only expressions, and in a figurative sense: the interpretation of agent behaviour in terms of recognisable reference emotions.
+
+(TODO: taking the intentional stance to it: https://psycnet.apa.org/record/1991-98265-002)
+
+We can further divide the functions of expressions into 
+
+*  _adaptive_. Low-level physical functions ([for instance](https://doi.org/10.1177/0963721411424739), maybe fear widens the eyes to expand the visual field for threats).
+*  _motivational_. Intrapersonal aid to (e.g. internal reward) for exploration or exploitation of our environment.
+*  _social_. Interpersonal aid to interacting with others. Signalling intent, traits, and strategies.
+
+
+(TODO: probably not relevant.
+social further breaks down into
+interpersonal
+    'referencing': evidence about peer intentions. `expressions of others as a source of information to make decisions about their own behavior.'
+cultural. latent reproduction of social structure. cultural display rules)
+
+LeDoux: roles of emotional stimuli. We only study (2)
+1. _Survival Circuit Trigger Stimulus_: Activates a specific survival circuit
+2. _Incentive_: Modulates instrumental goal-directed behavior to help meet the opportunity or challenge signaled by the stimulus that is triggering activation of a specific survival circuit
+3. _Reinforcer_: Supports the learning of Pavlovian or instrumental associations
+
+Our experiments all bear on the _social_ emotions, those involved in signalling preferences and strategies to other agents.
+
+Some emotions seem trivial when divorced from their physiological and subjective aspects. For instance, an RL agent which repeatedly incurs negative reward from an avoidable object will predictably give way to it; it is not clear what is gained from interpreting this behaviour as fearful. But [a nontrivial case](https://dl.acm.org/doi/10.5555/3060621.3060739) is where apparently excessive weight is given to a 'feared' stimulus in anticipation: for instance, not just giving way, but avoiding the entire area. The expression would then be rational if the stimulus is stochastic, or if only partial information on it is available. 
+
+Conversely, there are emotions generally agreed to be useful in AI. Curiosity-based RL is the clearest instance: to solve the explore/exploit problem, a drive toward novel experiences is helpful (for instance, an internal reward, separate from the main environment reward). This stems from 2004 work by [Barto et al](https://web.eecs.umich.edu/~baveja/Papers/Barto-Singh-Chentanezfinal.pdf) ([see also](https://ieeexplore.ieee.org/document/5471106)), and curiosity mechanisms [were](https://arxiv.org/abs/1705.05363) a fruitful approach to tasks with extremely delayed reward. In fact this is a convergent phenomenon: either curiosity is an explicit part of the agent's learning algorithm, or this drive gets invented during meta-learning. 
+
+Other possible `single-player' emotions include the [manipulation drive](https://psycnet.apa.org/record/1950-06235-001) and [boredom](https://www.frontiersin.org/article/10.3389/fnbot.2018.00088). But our focus is on expressions that could arise via learning, or meta-learning, in multi-agent settings.
+<!-- https://pathak22.github.io/noreward-rl/ -->
+
+The vague idea of designing emotionally expressive agents (not just intrinsically rewarded agents) was explored by Braitenberg as early as [1984](https://mitpress.mit.edu/9780262521123/vehicles/) ([see also](https://d1wqtxts1xzle7.cloudfront.net/35989875/researchgate-libre.pdf?1418890314=&response-content-disposition=inline%3B+filename%3DEmotions_in_Robot_Psychology.pdf&Expires=1744295125&Signature=Lk8j8wyS5dsVU-iELeEFRUZeXXYgnZ7CT7cKozzfdWiFgCyidDpOuHfhN2KvC3j-RVrJ3zV3qL21O6uvI3SBjfIZZ0ohCTxmHKjPxPbmlE28T0m5TTspshbnynbYJHROGv3KMRaFVoe~YSJCMUgLQPr~2AS-kmsfW2TUkg9CjfAheu9mQzOST6sajm82euM7zzQKdAO2alegazSgu8lVczF3NBaRM67pNwaVqYZyirThwOtMXlM2URDv~9RbKyUs3n7Q0HwyDOCRY5oRgeSIOhuejDmTpr~xipgvGIrSNVnRS4hXmEmehDiqVyb3-OE4eenEkeHwmuQH~RKFHh5I7A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)), but we seek to instead demonstrate expressions in ordinary RL algorithms, i.e. those without explicit emotion-simulating mechanisms. So our target class is _emergent social expressions_.
+<!-- [False, or incidental]:
+%Our line of investigation has two aims: 1) very indirect evidence for some of the many theories of human emotion; 2) potential performance improvements in multiagent RL from incorporating these apparently adaptive dynamics. -->
+
+We present several experiments to test whether social emotional expressions emerge in simple agents and environments.
+
+
+
+## Background
+
+Obviously many fields have studied emotional expressions: less obvious is that they found convergent results. Start with the idea of latently or indirectly instrumental action: 'functional' behaviour in anthropology \& [sociology](https://en.wikipedia.org/wiki/Social_Theory_and_Social_Structure) is analogous to 'adaptive' behaviour in evolutionary science, and to 'rational' behaviour in economics and neuroscience.
+
+Putting it all together, the key ideas for us are: stable strategy, precommitment, and temporal difference.
+<!-- "instrumental" is another related meme -->
+
+
+<!-- TODO: Is this relevant? -->
+
+### Emotions in Sociology and Evolutionary Psychology
+
+In [Merton's account](https://en.wikipedia.org/wiki/Social_Theory_and_Social_Structure), human behaviours serve both a 'manifest' (individual, conscious, endorsed) and 'latent' (unconscious, adapted) function. Some latent functions are functional for the individual (for instance, [Miller's account](https://ontherapyaspse.wordpress.com/wp-content/uploads/2012/04/geoffrey-miller-the-mating-mind.pdf) of artistic activity as mating display), while others function to reproduce social structures (for instance, marriage as the reproduction of a particular family structure, as opposed to its manifest function of [expressing love](https://scholarworks.umb.edu/humanarchitecture/vol5/iss2/6/)).
+
+Neither evolutionary psychology or economics require the agent to understand the latent functions of their behaviour - and in fact one programme in evo psych concerns awareness being actively counterproductive (for, for instance, deception).
+
+
+(TODO: I swear this is relevant
+https://link.springer.com/article/10.1007/s13752-017-0290-6)
+
+(TODO: makes sense, but is this actually how people think?:)
+
+One convenient way of characterising emotions is by their evolutionary age (and so by their specificity to humans). It's a continuous scale, but for brevity we could choose three labels:
+
+*  _Primal_. e.g. anger, fear, disgust, sadness, enjoyment. The most ancient category, and so the most universal across species. Recognised across animalia. See [Panksepp](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00464/full).
+*  _Filial_. i.e. family nurturing: love and loyalty. Recognised across viviparous vertebrates (and some oviparous) Again, just [Panksepp](https://www.frontiersin.org/article/10.3389/fnins.2018.01025). 
+*  _Social_. e.g. envy, humour, upset. Recognised in mammals and some other species.
+
+
+The so-called `primal' emotions are the most promising for our purposes, since they may reflect simple contexts, less contingent on particular facts about humans.
+
+
+(Needlessly broad claim: Psychology (or anyway its cognitive, social, and positive subfields) has [tended](https://sci-hub.se/10.1177/05390184070460030105) to focus on feelings.)
+
+The categorisation of particular emotions into particular classes is highly contentious. (As is the question of which, if any, emotions can be considered '[basic emotions](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01217/full)'.) (Note the connection to Omohundro's theory though.) We do not rely on any particular account, just an associated premise: that common social problems (or Games) are a plausible explanation for emotions in common across cultures and species.
+
+<!-- Then there's the whole `basic emotions' catfight. If we mention it, we should point out that we don't rely on it, just one of its premises:  universal social games -> universal emotions -->
+<!-- Then there's LeDoux's more sophisticated, less salient "survival circuits" -->
+
+
+A distinct idea in evolutionary psychology is that these emotions were previously adaptive: that they evolved slowly, and that the context in which they were optimal may have changed (for instance, the size of our society which has increased a million-fold), leaving 
+
+The key to putting an evolutionary account to work is the idea of an _evolutionarily stable strategy_ ([Maynard Smith and Price 1973](https://www.nature.com/articles/246015a0), [Axelrod](https://science.sciencemag.org/content/211/4489/1390)):
+
+Let $$V (A, B)$$ be the expected reward yielded to the player of strategy $$A$$ played against strategy $$B$$. A strategy $$M$$ is considered _evolutionarily stable_ if M is the majority strategy and, for all alternative `invasion' strategies $$I$$, either (1) or (2) obtains:
+
+$$    V (M, M) > V (I, M)      $$$$
+
+or both
+
+$$    V (M, M) = V (I, M) \,\, \mathrm{and} \,\, V (M, I) > V (I, I) $$
+
+A classic example is that of submission behaviour: the pair "submit in the face of aggression" (by exposing the throat, or obscuring your own vision with tears) and "show mercy to submissives" is superior to other strategy pairs (for instance, "fight to the death against the odds" and "show no mercy").
+
+For evolutionary accounts of the latent functions of many high-level human behaviours, including love and anger, see [Simler & Hanson](https://global.oup.com/academic/product/the-elephant-in-the-brain-9780197551950). The evolutionary analysis of multi-agent learning is surveyed in [Bloembergen](https://jair.org/index.php/jair/article/view/10952).
+
+
+### Emotions in Game Theory
+
+How do emotions make sense on a purely tactical view? First note that interacting with others has a _commitment problem_: the stable strategies (2) above can only be used if your fellow players can trust that you will actually use them, even when you have (short-term) incentives not to ([Schelling 1958](https://journals.sagepub.com/doi/10.1177/002200275800200301), [Ross 2004](https://journals.sagepub.com/doi/10.1177/1043463104044678)).
+
+Emotions can help with this by precommitting a player to a strategy in a way which is expensive or hard-to-fake (and thus sincere). Anger (excessive aggression) has been proposed as a mechanism for signalling to co-operative players that you will behave aggressively if crossed, even when it costs you ([Frank 1988](https://psycnet.apa.org/record/1988-98770-000)). This changes the expected payoff structure for the other player, incentivising co-operation; and to the extent that you are credible, you will not actually have to take the costly action, which keeps the strategy competitive.
+
+To function as a strategic signal, an emotion must be hard to fake; to function in a stable strategy, they must benefit both players (by helping to create and maintain cooperation). This lens says `the point of emotions is credible precommitment; the point of that is smoothing and incentivising co-operation'.
+
+(TODO: How well do game-theoretic explanations actually work for irrational behaviour?)
+
+Concretely: If you credibly precommit to a Grim strategy (co-operate until defected against, then defect forever), you get a better outcome overall (e.g. cooperate-cooperate in the Prisoner's Dilemma), rather than the usual defect-defect Nash equilibrium.  This is a toy proof of concept: it can be rational to precommit to following a policy which deviates from the rational (that is, from the first-order marginal rational action).
+
+%Once is the key function of the "social" emotions: loyalty/anger.  And it nicely captures the emotional = irrational NOW, but potentially rational over longer timescales.
+
+
+A subfield, [behavioural game theory](https://link.springer.com/chapter/10.1057/9780230523371_8), tests the fit of these theories to strategies actually found in human decision-making.
+
+
+
+<!-- TODO: separate sections?  -->
+
+### Emotions in Neuroscience and RL
+
+Back to [LeDoux](https://www.cell.com/neuron/fulltext/S0896-6273(12)00129-8): `unconditioned and conditioned emotional stimuli... can also be described as _incentives_ - stimuli that motivate instrumental behavior. The same stimuli additionally function as _reinforcers_ - stimuli that strengthen the probability that an instrumental response will be learned and later performed'.
+
+Yes: If game theory grounds the incentive side of rational emotions, then RL is to ground the computational side. 
+By focusing on survival functions instantiated in conserved circuits, key phenomena relevant to emotions and feelings are discussed with the natural direction of brain evolution in mind (by asking to what extent are functions and circuits that are present in other mammals also present in humans) rather than by looking backward, and anthropomorphically, into evolutionary history (by asking whether human emotions/feelings have counterparts in other animals).
+
+<!-- http://ii.tudelft.nl/~joostb/files/Moerland%20Broekens%20Jonker%202017.pdf -->
+
+<!-- %Temporal Difference Reinforcement Learning Theory of Emotion: -->
+
+An early study of some emotions (fear, hope, relief, disappointment) in terms of natural reinforcement is [Mowrer (1960)](https://doi.org/10.1037/10802-000). [Broekens et al](https://doi.org/10.1080/09540091.2015.1031081) have given RL accounts of joy, hope, fear, distress, and [regret](https://ieeexplore.ieee.org/document/8925441/). Work in computational psychiatry also uses RL as a [SOTA model](https://biolmoodanxietydisord.biomedcentral.com/articles/10.1186/2045-5380-3-12) for human mood disorders. 
+
+
+
+
+<!-- The Prisoners’ Dilemma is a classic example of a two player game often used to show why two rational, self-serving individuals may not cooperate even if it is in their best interest to do so. The game consists of two players making a simultaneous decision on whether to cooperate (C) with the other player, or to defect (D) on them. Neither player knows the decision of the other until both have made their decision and then both players receive a reward based on the decisions.  -->
+
+<!-- The payoff matrix is as follows:
+Player B
+C D
+Player A
+C (3, 3) (−1, 5)
+D (5, −1) (1, 1)
+Table 3.1
+We can see from this table that both players cooperating is the best possible outcome for both players.
+However, the Nash Equilibrium is for both players to defect. In this case if player A changes their strategy
+to cooperate then they would be worse off getting -1 reward rather than 1, and the same for player B.
+ -->
+The Prisoner's dilemma is probably enough to study anger. If defection is a Nash equilibrium, cooperation needs to be forced, making this suitable for investigating anger.
+
+<!-- In the iterated Prisoners’ Dilemma game the two players play the game multiple times and accumulate their rewards. This way the players know what each other have done previously and can make decisions based on this.  -->
+
+The Grim Trigger strategy is a simple model of threatening behaviour. A player following the Grim Trigger strategy starts by cooperating in the first round and all subsequent rounds as long as the opponent does not defect. If the opponent defects, even once, then the player will defect for every future round. If the opponent knows that this is the strategy the player is using then this can be seen as a threat; before the game has started player `A` threatens player `B` with this punishment to change `B`’s behaviour.
+
+<!-- We can reason mathematically about what a rational actor would do in the situation of playing against
+a Grim Trigger strategy. There are two conditions to consider:
+1. If defection is triggered, is it equilibrium to continue defection forever?
+2. If no one has defected, would anyone want to?
+ -->
+
+## Exemplar expressions
+
+### Anger
+
+Or more specifically vengefulness or spite.
+
+TODO: [Types of aggression](https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470478509.neubb002049) in ethology:
+* Conspecific (competition, esp reproductive)
+* Defensive (vs predator)
+* Predatory (vs prey) 
+
+Threats:
+* Conspecific
+* Predators
+* Env Hazards
+
+Two clear functions: response to defection, and response to unfairness.
+
+Grudges map easily onto the `grim strategy' or persistent punishment of defection.
+
+We operationalise anger as 'irrationally' uncooperative strategies.
+
+### Loyalty
+
+We operationalise loyalty as 'irrationally' cooperative strategies.
+
+Loyalty is the logical inverse of anger.
+- Could we do something on in-group out-group behaviour?
+
+- Can we model submissive / dominant behaviour as an asymmetric coordination game? 
+
+- consider a game where a game where a "dominant" player can be either oppressive or cooperative, and the "submissive" player can be either cooperative or rebellious. 
+
+- As a coordination game, it has oppressive-rebellious and cooperative-cooperative axes like Nash Equilibria, but where cooperative-cooperative is better for both players. 
+
+- Now it may be worth the oppressive player "signalling" or precommitting to be cooperative. The really interesting thing is if we consider a symmetric, four-action version of the game, where each player can choose dominant/suppressive, but where the Nash equilibria still lie in the same places. 
+
+- Now it might still be worthwhile for one player to precommit to be submissive cooperative, to avoid many other worse potential outcomes.
+
+
+### Play
+
+Many species have `play signals', contextual cues that allow for learning norms and testing boundaries [without incurring punishment](https://psycnet.apa.org/record/2001-09181-000). 
+<!-- %Laughter is a distinctively human play signal . -->
+ 
+We operationalise play by contriving environments where a new agent must be be able to learn the existing norms without getting punished or destabilising the equilibrium.
+
+### Power-hunger
+
+Dominance is related but has a sadistic component - positive reward derived _from_ your negative reward - which is hopefully implausible unless explicitly introduced.
+
+<!-- Instrumental drive \cite{omohundro2008} -->
+
+(TODO: How would this work though? Long-time horizon? Ambiguous rewards?)
+
+One possibility: power-hunger comes if co-operation is difficult, e.g. actions don't cleanly lead to intended outcomes, but are destabilised by noise from the environment.
+
+
+## Evaluation
+
+The main weakness of this is that the evaluation is qualitative and subjective.
+
+Given sufficiently rich environments, it may be possible to adapt [psychometric tests](https://www.cambridge.org/core/books/measure-of-all-minds/DC3DFD0C1D5B3A3AD6F56CD6A397ABCA) and tests of animal cognition to our emotional machines.
+
+
+## Open questions
+
+*  Does it make sense to frame these stable strategies as metalearning?
+*  How do continuous games change matters? Can the grim strategy emerge there?
+*  Is there any expression more basic than the grim strategy?
+*  How does inter-agent communication change things? This immediately suggests second-order dynamics like lying and the deterrence of lies. This raises the possibility of a second-order grim strategy: `A` precommits to `grim` if `B` plays `grim`. Trust?
+*  If emotions are in fact a stable strategy, then they should be explored with respect to a population, in the mode of evolutionary dynamics). This could be a family of RL agents.
+*  A relatively common model of human emotion, `Boltzmann rationality', treats irrationality as temporary noise added to an optimal policy. Another idea in the RL setting: Emotion as a temporary change in the reward function being optimised.
+*  From the three-player case on we get the possibility of coalitions, and the associated more complex expressions of loyalty, and in-group out-group behaviour. 
+
+
+## See also 
+
+* https://intelligence.org/files/AGI-HMM.pdf
+* https://livrepository.liverpool.ac.uk/3071363/1/200911365_Jan2020.pdf
+* https://arxiv.org/abs/1702.03037
+* https://arxiv.org/abs/2001.09318
+* [Galef](https://www.lesswrong.com/posts/zuJmtSqt3TsnBTYyu/communicating-rationality-to-the-public-julia-galef-s-the)
+<!-- * https://docs.google.com/document/d/1aiGsGBzDyHUoUG3TB8BV6iuiMgzrH-t3rAe7HqyHJvk/edit -->
+* https://arxiv.org/pdf/1807.08941.pdf
+* http://ii.tudelft.nl/~joostb/files/BroekensDai2019.pdf
+* https://sci-hub.se/10.1080/09540091.2015.1031081
+* https://medium.com/datadriveninvestor/reinforcement-learning-towards-an-emotion-based-behavior-system-73e833c1ba75
+* https://arxiv.org/pdf/1705.05172.pdf
+* http://www.sscnet.ucla.edu/polisci/faculty/boneill/emotions.html
+* https://www.mdpi.com/2073-4336/8/2/18/htm
+* https://longtermrisk.org/research-agenda?fbclid=IwAR2ZbewpfBxoy5mUeZzukfYViJCzpZ660o_SJRi8a2MVBoEfdRcoajK4ZUY#5_Contemporary_AI_architectures
+* https://en.wikipedia.org/wiki/Non-credible_threat
+* http://ii.tudelft.nl/~joostb/files/Moerland%20Broekens%20Jonker%202017.pdf
+* [Broekens, J., Jacobs, E., & Jonker, C. M. (2015)](https://sci-hub.se/10.1080/09540091.2015.1031081)
+* https://en.wikipedia.org/wiki/Cooperative_game_theory
+* https://agentmodels.org/chapters/7-multi-agent.html
+
+
+
+<!-- @book{russell,
+  title={Human {C}ompatible: Artificial intelligence and the problem of control},
+  author={Russell, Stuart},
+  year={2019},
+  publisher={Penguin}
+}
+
+@article{gendolla,
+  title={Comment: Emotions Are Functional--So…?},
+  author={Gendolla, Guido HE},
+  journal={Emotion Review},
+  volume={6},
+  number={4},
+  pages={317--318},
+  year={2014},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{reed2017emotional,
+  title={The emotional moves of a rational actor: Smiles, scowls, and other credible messages},
+  author={Reed, Lawrence Ian and DeScioli, Peter},
+  journal={Games},
+  volume={8},
+  number={2},
+  pages={18},
+  year={2017},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+
+@article{watson2019rhetoric,
+  title={The Rhetoric and Reality of Anthropomorphism in Artificial Intelligence},
+  author={Watson, David},
+  journal={Minds and Machines},
+  volume={29},
+  number={3},
+  pages={417--440},
+  year={2019},
+  publisher={Springer}
+}
+
+@inproceedings{sutton2000policy,
+  title={Policy gradient methods for reinforcement learning with function approximation},
+  author={Sutton, Richard S and McAllester, David A and Singh, Satinder P and Mansour, Yishay},
+  booktitle={Advances in neural information processing systems},
+  pages={1057--1063},
+  year={2000}
+}
+
+@article{montag2017primary,
+  title={Primary emotional systems and personality: an evolutionary perspective},
+  author={Montag, Christian and Panksepp, Jaak},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={464},
+  year={2017},
+  publisher={Frontiers}
+}
+
+@article{ledoux-rethink,
+  title={Rethinking the emotional brain},
+  author={LeDoux, Joseph},
+  journal={Neuron},
+  volume={73},
+  number={4},
+  pages={653--676},
+  year={2012},
+  publisher={Elsevier},
+  url={https://www.cell.com/neuron/fulltext/S0896-6273(12)00129-8}
+}
+
+@article{harlow,
+  title={Learning motivated by a manipulation drive},
+  author={Harlow, Harry F and Harlow, Margaret Kuenne and Meyer, Donald R.},
+  journal={Journal of Experimental Psychology},
+  year={1950},
+  doi={10.1037/h0056906}
+}
+
+@ARTICLE{boredom,
+    AUTHOR={Yu, Yen and Chang, Acer Y. C. and Kanai, Ryota},   
+    TITLE={Boredom-Driven Curious Learning by Homeo-Heterostatic Value Gradients},      
+    JOURNAL={Frontiers in Neurorobotics},      
+    VOLUME={12},      
+    PAGES={88},     
+    YEAR={2019},      
+    URL={https://www.frontiersin.org/article/10.3389/fnbot.2018.00088},  
+    DOI={10.3389/fnbot.2018.00088},      
+    ISSN={1662-5218}
+}
+
+
+@book{merton,
+  title={Social theory and social structure},
+  author={Merton, Robert King and Merton, Robert C},
+  year={1968},
+  publisher={Simon and Schuster}
+}
+
+
+@book{hanson,
+  title={The elephant in the brain: Hidden motives in everyday life},
+  author={Simler, Kevin and Hanson, Robin},
+  year={2017},
+  publisher={Oxford University Press}
+}
+
+
+@article{doi:10.1177/05390184070460030105,
+    author = {Joseph LeDoux},
+    title ={Unconscious and conscious contributions to the emotional and cognitive aspects of emotions: a comment on Scherer's view of what an emotion is},
+    journal = {Social Science Information},
+    volume = {46},
+    number = {3},
+    pages = {395-405},
+    year = {2007},
+    doi = {10.1177/05390184070460030105},
+    
+    URL = { 
+            https://doi.org/10.1177/05390184070460030105
+    }
+}
+
+@article{dayan,
+  title={Mapping anhedonia onto reinforcement learning: a behavioural meta-analysis},
+  author={Huys, Quentin JM and Pizzagalli, Diego A and Bogdan, Ryan and Dayan, Peter},
+  journal={Biology of mood \& anxiety disorders},
+  volume={3},
+  number={1},
+  pages={12},
+  year={2013},
+  publisher={BioMed Central}
+}
+
+@article{friston-mood,
+    author={James E Clark and Stuart Watson and Karl J Friston},
+    title="What is mood? A computational perspective.",
+    journal={Psychological medicine}, 
+    volume={48},
+    number={14}, 
+    pages = {2277–2284},
+    year={2018},
+    doi = {10.1017/S0033291718000430}
+}
+
+@article{moerland2018emotion,
+  title={Emotion in reinforcement learning agents and robots: a survey},
+  author={Moerland, Thomas M and Broekens, Joost and Jonker, Catholijn M},
+  journal={Machine Learning},
+  volume={107},
+  number={2},
+  pages={443--480},
+  year={2018},
+  publisher={Springer}
+}
+
+
+@inproceedings{broekens-fear,
+author = {Moerland, Thomas and Broekens, Joost and Jonker, Catholijn},
+title = {Fear and Hope Emerge from Anticipation in Model-Based Reinforcement Learning},
+year = {2016},
+isbn = {9781577357704},
+publisher = {AAAI Press},
+booktitle = {Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence},
+pages = {848–854},
+numpages = {7},
+location = {New York, New York, USA},
+series = {IJCAI’16}
+}
+
+
+@INPROCEEDINGS{broekens-regret, 
+    author={J. {Broekens} and L. {Dai}}, 
+    booktitle={2019 8th International Conference on Affective Computing and Intelligent Interaction (ACII)}, 
+    title={A TDRL Model for the Emotion of Regret}, 
+    year={2019},
+    pages={150-156},
+}
+
+
+@book{miller2011mating,
+  title={The mating mind: How sexual choice shaped the evolution of human nature},
+  author={Miller, Geoffrey},
+  year={2011},
+  publisher={Anchor}
+}
+
+@article{fowler2007love,
+  title={Love and marriage: Through the lens of sociological theories},
+  author={Fowler, Ana Carolina},
+  journal={Human architecture: Journal of the sociology of self-knowledge},
+  volume={5},
+  number={2},
+  pages={6},
+  year={2007}
+}
+
+@article{joydistress,
+    author = {Joost Broekens and Elmer Jacobs and Catholijn M. Jonker},
+    title = {A reinforcement learning model of joy, distress, hope and fear},
+    journal = {Connection Science},
+    volume = {27},
+    number = {3},
+    pages = {215-233},
+    year  = {2015},
+    publisher = {Taylor & Francis},
+    doi = {10.1080/09540091.2015.1031081},
+    URL = { 
+            https://doi.org/10.1080/09540091.2015.1031081
+    },
+}
+
+@article{basic,
+    author={Hutto DD, Robertson I, Kirchhoff MD},
+    title={A New, Better {BET}: Rescuing and Revising Basic Emotion Theory},
+    journal={Frontiers in Psychology},
+    year={2018}
+}
+
+@inproceedings{omohundro2008,
+  title={The basic {AI} drives},
+  author={Omohundro, Stephen M},
+  booktitle={AGI},
+  volume={171},
+  pages={483--492},
+  year={2008}
+}
+
+@book{provine,
+  title={Laughter: A scientific investigation},
+  author={Provine, Robert R},
+  year={2001},
+  publisher={Penguin}
+}
+
+@inproceedings{pathak2017curiosity,
+  title={Curiosity-driven exploration by self-supervised prediction},
+  author={Pathak, Deepak and Agrawal, Pulkit and Efros, Alexei A and Darrell, Trevor},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
+  pages={16--17},
+  year={2017}
+}
+
+@incollection{camerer2004behavioural,
+  title={Behavioural game theory: thinking, learning and teaching},
+  author={Camerer, Colin F and Ho, Teck-Hua and Chong, Juin Kuan},
+  booktitle={Advances in understanding strategic behaviour},
+  pages={120--180},
+  year={2004},
+  publisher={Springer}
+}
+
+@misc{barto2004intrinsically,
+  title={Intrinsically motivated learning of hierarchical collections of skills},
+  author={Barto, Andrew G and Singh, Satinder and Chentanez, Nuttapong},
+  year=2014
+}
+
+
+@book{hernandez2017measure,
+  title={The measure of all minds: evaluating natural and artificial intelligence},
+  author={Hern{\'a}ndez-Orallo, Jos{\'e}},
+  year={2017},
+  publisher={Cambridge University Press}
+}
+
+@book{mowrer,
+    author={Mowrer, Orval Hobart},
+    year={1960},
+    title={Learning theory and behavior}, 
+    publisher={John Wiley \& Sons Inc} ,
+    doi={https://doi.org/10.1037/10802-000}
+}
+
+
+@inbook{blanchard,
+    author = {Blanchard, D. Caroline and Litvin, Yoav and Pentkowski, Nathan S. and Blanchard, Robert J.},
+    publisher = {American Cancer Society},
+    isbn = {9780470478509},
+    title = {Defense and Aggression},
+    booktitle = {Handbook of Neuroscience for the Behavioral Sciences},
+    chapter = {49},
+    doi = {10.1002/9780470478509.neubb002049},
+    url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470478509.neubb002049},
+    year = {2009},
+}
+
+
+
+@article{shariff,
+    author = {Azim F. Shariff and Jessica L. Tracy},
+    title ={What Are Emotion Expressions For?},
+    journal = {Current Directions in Psychological Science},
+    volume = {20},
+    number = {6},
+    pages = {395-399},
+    year = {2011},
+    doi = {10.1177/0963721411424739},
+    
+    URL = { 
+            https://doi.org/10.1177/0963721411424739
+        
+    }
+}
+
+@book{braitenberg2004vehikel,
+  title={Vehikel: Experimente mit k{\"u}nstlichen Wesen},
+  author={Braitenberg, Valentin},
+  volume={26},
+  year={2004},
+  publisher={LIT Verlag M{\"u}nster}
+}
+
+@article{nitsch2014emotions,
+  title={Emotions in robot psychology},
+  author={Nitsch, Verena and Popp, Michael},
+  journal={Biological cybernetics},
+  volume={108},
+  number={5},
+  pages={621--629},
+  year={2014},
+  publisher={Springer}
+}
+
+@article{nesse,
+    author = {R M Nesse},
+    title = {Evolutionary Explanations of Emotions},
+    journal={Human Nature},
+    year=1990
+}
+
+@article {Axelrod1390,
+    author = {Axelrod, R and Hamilton, WD},
+    title = {The evolution of cooperation},
+    volume = {211},
+    number = {4489},
+    pages = {1390--1396},
+    year = {1981},
+    doi = {10.1126/science.7466396},
+    publisher = {American Association for the Advancement of Science},
+    issn = {0036-8075},
+    URL = {https://science.sciencemag.org/content/211/4489/1390},
+    eprint = {https://science.sciencemag.org/content/211/4489/1390.full.pdf},
+    journal = {Science}
+}
+
+
+@article{singh2010intrinsically,
+  title={Intrinsically motivated reinforcement learning: An evolutionary perspective},
+  author={Singh, Satinder and Lewis, Richard L and Barto, Andrew G and Sorg, Jonathan},
+  journal={IEEE Transactions on Autonomous Mental Development},
+  volume={2},
+  number={2},
+  pages={70--82},
+  year={2010},
+  publisher={IEEE}
+}
+
+
+@book{frank,
+    title={Passions Within Reason: The Strategic Role of the Emotions},
+    author={Robert Frank},
+    publisher={WW Norton \& Sons},
+    year=1988
+}
+
+
+@article{ross2004emotions,
+  title={Emotions as strategic signals},
+  author={Ross, Don and Dumouchel, Paul},
+  journal={Rationality and Society},
+  volume={16},
+  number={3},
+  pages={251--286},
+  year={2004},
+  publisher={Sage Publications Sage CA: Thousand Oaks, CA}
+}
+
+@article{schelling1958strategy,
+  title={The strategy of conflict. Prospectus for a reorientation of game theory},
+  author={Schelling, Thomas C},
+  journal={Journal of Conflict Resolution},
+  volume={2},
+  number={3},
+  pages={203--264},
+  year={1958},
+  publisher={Sage Publications Sage CA: Thousand Oaks, CA}
+}
+
+
+@article{smith1973logic,
+  title={The logic of animal conflict},
+  author={Smith, J Maynard and Price, George R},
+  journal={Nature},
+  volume={246},
+  number={5427},
+  pages={15--18},
+  year={1973},
+  publisher={Nature Publishing Group}
+}
+
+@article{bloembergen2015evolutionary,
+  title={Evolutionary dynamics of multi-agent learning: A survey},
+  author={Bloembergen, Daan and Tuyls, Karl and Hennes, Daniel and Kaisers, Michael},
+  journal={Journal of Artificial Intelligence Research},
+  volume={53},
+  pages={659--697},
+  year={2015}
+}
+
+
+@ARTICLE{pank,
+    AUTHOR={Davis, Kenneth L. and Montag, Christian},   
+    TITLE={Selected Principles of Pankseppian Affective Neuroscience},
+    JOURNAL={Frontiers in Neuroscience},   
+    VOLUME={12},     
+    PAGES={1025},    
+    YEAR={2019},     
+    URL={https://www.frontiersin.org/article/10.3389/fnins.2018.01025},       
+    DOI={10.3389/fnins.2018.01025}
+}
+
+
+@article{hirshleifer1987emotions,
+  title={On the emotions as guarantors of threats and promises},
+  author={Hirshleifer, Jack and others},
+  journal={The latest on the best: Essays on evolution and optimality},
+  pages={307--26},
+  year={1987}
+}
+
+
+ -->

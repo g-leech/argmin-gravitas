@@ -15,51 +15,52 @@ summary:
 confidence: 
 importance: 3
 wordcount:  
-categories: 
+categories: places, lists
 where:      "Tallinn"
 ---
 
+* **Art**: 
 
-Poet: 
+* **Poet**: 
 
-Novelist: 
+* **Novelist**: 
 
-Plays: 
+* **Plays**: 
 
-Art music: 
+* **Art music**: Love Theme
 
-Popular music: 
+* **Popular music**: Joanna Wang, Jingfei
 
-Venue: 
+* **Venue**: 
 
-Philosopher: 
+* **Philosopher**: 
 
-Scientist: 
+* **Scientist**: 
 
-Videogame:
+* **Eccentric**: 
 
-Eccentric: 
+* **Walk**: Da'an park is impressive
 
-Walk: 
+* **Comedian**: 
 
-Comedian: 
+* **Director**: 
 
-Director: 
+* **Film**: 
 
-Film:
+* **TV**: 
 
-TV: 
+* **Actor**: 
 
-Videogame:
+* **Entrepreneur**: 
 
-Actor: 
+* **Restaurant**: MUME is a majestic spectacle but Laixin Dumplings is who you're marrying.
 
-Entrepreneur: 
+* **Building**: 
 
-Church: 
+* **Church**: 
 
-Restaurant: 
+* **Library**: 
 
-Bookshop: 
+* **Bookshop**: 
 
-Cafe: 
+* **Cafe**: 

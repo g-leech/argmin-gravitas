@@ -18,6 +18,8 @@ visible:	false
 
 - '[Bavarian Gentians](https://poetryarchive.org/poem/bavarian-gentians/)' by Lawrence
 
+- '[A Shropshire Lad](https://www.gutenberg.org/files/5720/5720-h/5720-h.htm)' by AE Housman
+
 - '[Ben Dorain](https://www.scottishpoetrylibrary.org.uk/poem/moladh-beinn-dobhrain-extract/)' by Iain Crichton Smith
 
 - '[The Back Country](https://www.threecandles.org/archive/ljenkins.html)' by Louis Jenkins
@@ -35,6 +37,8 @@ visible:	false
 - '[Death be not proud](https://www.poetryfoundation.org/poems/44107/holy-sonnets-death-be-not-proud)' by Donne
 
 - '<a href="/hughes">Incompatibilities</a>' by Ted Hughes
+
+- '[Listen, Put on Morning](https://www.poetryfoundation.org/poems/55094/listen-put-on-morning)' by WS Graham
 
 - '[I Want to Be the One](http://zackmdavis.net/blog/2015/12/i-want-to-be-the-one/)' by Zack Davis
 
@@ -72,6 +76,8 @@ visible:	false
 
 - 'A part of speech' by Iosif Brodsky
 
+- '[The Flooers o' the Forest]()' by Jean
+
 - '[The force that through the green fuse drives the flower](https://poets.org/poem/force-through-green-fuse-drives-flower)' by Dylan Thomas
 
 - '[Man Carrying Thing](https://poets.org/poem/man-carrying-thing)' by Wallace Stevens
@@ -100,6 +106,8 @@ visible:	false
 
 - '[meaning](https://troublingadvocacy.blogspot.com/2015/03/meaning-1988-by-czesaw-miosz.html
 )' by Czeslaw Milosz
+
+- '[A.E.H.](https://laudatortemporisacti.blogspot.com/2009/12/kingsley-amis-on-ae-housman.html)' by Kingsley Amis
 
 - '[Almost No Memory](https://www.goodreads.com/quotes/878977-we-feel-an-affinity-with-a-certain-thinker-because-we)' by Lydia Davis
 
@@ -162,6 +170,7 @@ visible:	false
 
 - '[Crossing the Border](https://web.archive.org/web/20200426140802/https://blackcapsule.files.wordpress.com/2018/11/maccaig2.jpg?w=788)' by Norman MacCaig
 
+- '[Unit of Measure](https://www.poetryfoundation.org/poetrymagazine/poems/52653/unit-of-measure)' by Sandra Beasley
 
 - '[The Decline and Fall of the Roman Empire](https://waxwingmag.org/items/issue32/10_Tuckner-The-Decline-and-Fall-of-the-Roman-Empire.php)' by Matthew Tuckner
 
@@ -186,6 +195,8 @@ visible:	false
 - '[Hymn to Life](https://www.poetryfoundation.org/poetrymagazine/poems/57067/hymn-to-life-56d23a30164a9)' by Timothy Donnelly
 
 - '[I Sing the Body Electric](https://www.poetryfoundation.org/poems/45472/i-sing-the-body-electric)' by Walt Whitman
+
+- '[The Land o' the Leal]()'
 
 - '[Floreat Inertia](https://halfmanhalfbiscuit.uk/this-leaden-pall-1993/floreat-inertia/)' by Nigel Blackwell
 

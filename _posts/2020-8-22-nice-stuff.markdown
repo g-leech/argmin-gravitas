@@ -39,11 +39,15 @@ categories: self-help, lists, quantification, becoming
 No brainer. Paracetamol/ibuprofen lysine/aspirin/melatonin/ACC/ambroxol/loratadine/loperamide/calcium carbonate/Kwells. Besides saving yourself 1-2 days of misery a year, you can also save your unprepared friends, which for me was 3 times last year. <a href="#fn:1" id="fnref:1">1</a><br>
 _Cost per year_: £20.
 
-* <a href="{{bow}}">Bowflex SelectTech 552</a> dumbbell (£180). By my desk; much harder to avoid than the gym. 15 dumbbells in one. I love how little space they take, and the design is extremely satisfying. You can get by with one.<br>
-_Expected lifespan_: 15 years?<br>
-_Cost per year_: £12.
+* <a href="{{beu}}">Beurer BR60 bite healer</a> (£20). This is just a portable hot spoon - but that is worth a lot if you're unfortunate enough to be allergic to mosquito bites. The relevant irritating proteins seem to denature around 57 degrees, so this is actually not just a pain-gating distraction mechanism!<br>
+_Cost per year_: £5 including replacement batteries.
 
-* Nasal strips.
+* <a href="{{nasal}}">Nasal strips</a>. It does seem odd that basic survival functions like breathing could be so unoptimised, but there's many reasons you might not have as much airflow as you need (deviation, post-broken-nose bends, irritation from air pollution, infection...). I can imagine there being structural changes, actual widening of the cartilage over a decade, but I like that. The cheap ones you get by the hundred are noticeably worse. My SleepScore semi-fake statistic goes up about 10% when I wear these, which is a huge deal. Some people do it during the day too.
+_Cost per year_: £150.
+
+* <a href="{{bow}}">Bowflex SelectTech 552</a> dumbbell (£180). By my desk; much harder to avoid than the gym. 15 dumbbells in one. I love how little space they take, and the design is extremely satisfying. You can get by with one.<br>
+_Expected lifespan_: 20 years<br>
+_Cost per year_: £12.
 
 * Power rack and barbells (£1000 for own gear, or £30 / month gym membership). Barbells give me big structural and mental changes. Commercial gyms are fine but you can do far better in environment and cost if you have room for your own gear, or know somebody who does. I was lucky enough to have a mate with a free garage. They also keep their value really well, so resale should be roughly the same as initial cost, which might mean that you actually save relative to gym.<br>
 _Expected lifespan_: Bar should be 10+ years. Rack maybe 20 years. Plates N/A.<br>
@@ -111,7 +115,7 @@ _Expected lifespan_: 1 year<br>
 _Cost per year_: £10
 
 
-* <a href="{{oxy}}">Oxymetazoline</a> (£8 for months). Never mind the Vicks or the steam bath. This clears your nose in seconds; makes sleeping when ill _much_ easier.<br>
+* <a href="{{oxy}}">Oxymetazoline</a> (£8 for months). Never mind the Vicks or the steam bath. This clears your nose in seconds; makes sleeping when ill _much_ easier. Mostly superseded by nasal strips.<br>
 _Cost per year_: £8
 
 * Anyone can book a <a href="https://www.boots.com/vaccinations/flujab">winter flu jab</a> for about £10. IIRC, in expectation this should save you about 12h of misery / lost work.<br>

@@ -15,50 +15,101 @@ summary:    My second alma mater
 confidence: 
 importance: 3
 wordcount:  
-categories: 
+categories: places, lists
 where:      "Tallinn"
 ---
 
+<center>
+	<img src="/img/p02fg4m5.jpg" />	
+	<img src="/img/limmy.png" />
+</center>
 
-* **Art**: 
 
-* **Poet**: 
+> Here's the bird that never flew;<br>Here's the tree that never grew;<br>Here's the fish that never swam;<br>Here's the bell that never rang.
 
-* **Novelist**: 
+> The Scots (originally Irish, but by now Scots) were at this time inhabiting Ireland, having driven the Irish (Picts) out of Scotland; while the Picts (originally Scots) were now Irish (living in brackets) and vice versa. It is essential to keep these distinctions clearly in mind (and verce visa).
 
-* **Plays**: 
 
-* **Art music**: 
+<br>
 
-* **Popular music**: 
+* I stayed 3 years, learning to code. At the time, the head of department was the formidable [Chris Johnson](https://nitter.net/g_leech_/status/1886049453171229174#m), now chief scientific advisor to the UK government.
 
-* **Venue**: 
+* Glasgow has the most _asabiyah_ of any place I've lived. Which is strange when you consider that there is still an ancient smouldering faux-religious spat in it, and that _most_ schools were still segregated by faith as recently as the 1980s, and the Catholic school system is still going strong ([16% of all Scottish schools](https://www.gov.scot/publications/foi-202400425708/)). Some amateur notes: Glasgow’s "sectarianism" is more tribal than religious. (Maybe that's the typical case - poor churchies.) And it's imported - in the great migration wave of the 1850s Famine, we took many from Belfast, who brought their anger with them. You can tell because the rest of Scotland is chill. 
 
-* **Philosopher**: 
+How can they have maintained this for 170 years, when the rest of the country got over it long ago? Cycle of violence and gangs.
 
-* **Scientist**: 
+Or maybe they haven't.
+[My old sociology prof](https://www.theguardian.com/commentisfree/belief/2011/apr/24/scotland-sectarianism-research-data) used to startle people by saying: 
+> Most Scots are not football fans; most fans do not support Rangers or Celtic; most Rangers and Celtic fans are not religious bigots. That some Rangers and Celtic fans wind each other up by falsely claiming to have strong religio-ethnic identities which are offended by the equally false religio-ethnic identities of the other side is not a reason for the rest of us to take such ritual posturing as the basis for judging the polity, society and culture of an entire country.
 
-* **Self-experimenter**: 
+> The sectarianism of Scotland is a myth: popular in some places but a myth nonetheless. A major survey in 2001 in Glasgow showed that many people thought sectarianism discrimination in employment was common but that none had suffered it themselves – it was something they had heard had happened to others.
 
-* **Walk**: 
+He leans pretty heavily on the relative lack of segregated 'hoods and turfs (unlike Belfast).
 
-* **Comedian**: 
+We're used to small groups of thousands dictating the culture of millions - consider Rhodesia or Harvard or English public school. But that's elites. It is less usual for a small underclass to determine the group's self-identity (here, as a sectarian nation). 
 
-* **Director**: 
+* Like Liverpool, Glasgow is a half-Irish place. What do I mean by this? Craic, cheek, communitarianism, gab.
 
-* **Film**: 
+* It's somehow the artiest place in Scotland _and_ the most [violent](https://www.gov.scot/publications/homicide-scotland-2023-24/pages/main-findings/#:~:text=Locations%20of%20homicides) and demotic. The humour and antipretension can border on repressive though.
 
-* **TV**: 
+
+
+* **Art**: Alasdair Gray. (Rennie MacIntosh is a great writer and a distinctive draughtsman, but monotonous.)
+
+* **Poet**: Edwin Morgan.
+
+* **Novelist**: Alasdair Gray.
+
+* **Play**: 
+
+* **Art music**: Craig Armstrong? Glasgow Improvisers Orchestra. Harry Gorski-Brown
+
+* **Popular music**: Arab Strap, Belle and Sebastian, Delgados, Vaselines, Mogwai
+
+* **Venue**: Mono
+
+* **Philosopher**: Hutcheson. Alasdair MacIntyre probably.  MacAskill
+
+* **Scientist**: Joseph Black
+
+* **Eccentric**: 	
+
+* **Walk**: west hills over loch
+
+* **Comedian**: Limmy. Rab Florence? Armando Iannucci
+
+* **Philanthropist**: William Burrell
+
+* **Eccentric**: A.E. Pickard 
+
+* **Director**: Bill Forsyth. Lynne Ramsay
+
+* **Film**: Under the Skin.
+
+* **TV**: Limmy's Show; Still Game; Burnistoun; VideoGaiden.
 
 * **Actor**: 
 
+* **Videogame**: _Observation_ 
+
 * **Entrepreneur**: 
 
-* **Church**: 
+* **Restaurant**: Mono. (Oddly the Rishi's is nowhere near as good as the Aberdeen one.)
 
-* **Restaurant**:  
+* **Building**: 
+
+* **Church**: the Gurdwara is garish but impressive
+
+* **Library**: Grand checkered one near Partick. The Anniesland Library has impressive security shutters - blast doors. But it's too small to be lovely.
 
 * **Bookshop**: 
 
 * **Cafe**: 
 
+
+## See also
+
+* Bristol
+* Taipei
+* Aberdeen
+* Prague

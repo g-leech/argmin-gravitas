@@ -203,6 +203,10 @@ It's uncomfortable to proclaim about Art vs Pop; <a href="/dreaming">10</a> year
 But as usual the revolutionaries ran to excess in their imperial era: poptimism was originally just the claim that pop music can be good -- but it morphed into a relativist land grab: that all pop is good. Sucked up all the critical oxygen. Pop's aims are vastly different from those of art music, and I want _some_ space for the latter. Midcult machines like TS steal this space <a href="#fn:2" id="fnref:2">2</a>.
 
 (Pitchfork, once a caricature of thoughtless hipster antipathy to the mainstream, made the _Red_ reissue an album of the year. Until 2017 they were able to totally ignore her, never reviewing any of it.)<br><br> 
+
+
+<img src="/img/hip.jpg" />
+
 <!-- https://www.tiktok.com/@vsprice7/video/7326059623377849646 -->
 
 
@@ -303,7 +307,7 @@ Yet another strat: the pretence that TS is uncool, the victim of snobbery, mean 
 
 
 > By chance, I’d found myself having dinner with a former acquaintance of Swift’s who offhandedly described her as “calculating.” This is the only moment during our interview when Swift appears remotely flustered. She really, really hates the word calculating...<br><br>
-[Swift: ] " 'Am I shooting from the hip?' Would any of this have happened if I was? ... You can be accidentally successful for three or four years. Accidents happen. But careers take hard work."
+[Swift: ] " 'Am I shooting from the hip?' Would any of this have happened if I was? ... You can be accidentally successful for three or four years. Accidents happen. But careers take [hard work](https://bsky.app/profile/swiftonsecurity.com/post/3ljxnyv6aks23)."
 
 <center>– <a class="noline" href="{{chuck}}">Klosterman</a></center>
 
@@ -337,7 +341,7 @@ The most interesting things about Swift were harder to discover: she's a sort of
 
 <br>
 
-#### A microcosm of pop's appropriation
+### A microcosm of pop's appropriation
 
 Pop as a whole is obviously larger and more hegemonic than little old TS: it ate gospel, it ate country, it ate jazz, it ate rock, it ate punk, it ate <a href="{{gamb}}">hip-hop</a>, it ate <a href="{{elec}}">various</a> weird obtuse electronic genres, it ate lo-fi. It wears their shucked skins whenever it likes.<br>
 
@@ -347,6 +351,15 @@ TS is just one little corner of this larger machine; TS only works at all becaus
 For all Swift's grinding and shrewdness, TS is just a splinter of the same spontaneous order that created Britney, Katy Perry, Demi Lovato, Halsey, Meghan Trainor, Ariana Grande, Selena Gomez. <a href="#fn:11" id="fnref:11">11</a> But they aren't out here being given a PhD in fine arts.
 
 <br>
+
+<blockquote>(But jealous of our god of dreams,<br>
+His common-sense in secret schemes<br>
+     To rule the heart;<br>
+Unable to invent the lyre,<br>
+Creates with simulated fire<br>
+    Official art.)
+</blockquote>
+
 
 <div class="accordion">
     <h3>The backroom boys</h3>
@@ -525,6 +538,8 @@ Washed up and ranting about the same old bitter things
     <!--  -->
     <h3>lyricist</h3>
     <div>
+        <img src="/img/hallvswift.jpg" />
+        <br><br>
         I'm told that Swift's own self-conception and real talents lie in lyric-writing. I don't see it but will quote <a href="{{kontext}}">Kontextmaschine</a> for completeness:
         <br><br>
 <!--  -->
@@ -541,7 +556,7 @@ Washed up and ranting about the same old bitter things
 <!-- https://notebook.substack.com/p/miss-americana-and-the-heartbreak -->
 <!-- https://www.vulture.com/2017/08/taylor-swift-look-what-you-made-me-do-pure-trump-era-pop-art.html -->
 <!-- https://samkriss.substack.com/p/taylor-swift-does-not-exist -->
-
+<!-- https://bsky.app/profile/swiftonsecurity.com/post/3ljxnyv6aks23 -->
 
 <div class="footnotes">
 

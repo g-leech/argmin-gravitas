@@ -244,7 +244,9 @@ No! I am telling you that you have that option, you are more powerful than you t
 
 Ladders are useful. Most useful work takes place inside them, despite them. You can't scale without a ladder. It's fine to [rest and vest](https://www.google.com/search?q=rest+and+vest&client=ubuntu-chr&sourceid=chrome&ie=UTF-8) once in a while.
 
-Please do not let me tell you what to do.
+Please do not let me tell you what to do. 
+
+_You do not need to do anything differently_ for you / this class to succeed. All you need to do is do things intentionally, [get got](https://thezvi.wordpress.com/2017/09/23/out-to-get-you/) on purpose, _verify_ that the ladder is good for you, and thus reap the benefits of actual choice.
 
 <br>
 
@@ -278,7 +280,7 @@ Reading too much is dangerous past a certain point. IMO “oh apply Cauchy-Schwa
 * [Antiwork as ladder](https://ranprieur.com/essays/dropoutcrit.html)
 * [Art as ladder](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762)
 * What wanting to be in [the establishment](https://srconstantin.github.io/2016/10/20/ra.html) does to you
-* https://leonardtang.me/posts/Life-Gradient-Descent/
+* https://archive.is/VkFw8
 * https://www.youtube.com/watch?v=25LUF8GmbFU
 * https://www.monbiot.com/2000/06/09/choose-life/
 

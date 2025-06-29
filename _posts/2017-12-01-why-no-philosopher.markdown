@@ -112,7 +112,9 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	</blockquote>
 	<br>
 <!--  -->
-	(This <a href="{{grace}}">explains why we read so much old/obsolete work</a>: we're learning by demonstration!)
+	This <a href="{{grace}}">explains why we read so much old/obsolete work</a>: we're learning by demonstration!
+<!--  -->
+	But even if this account is true it does nothing to argue for this activity over all the other cool ones.
 	</li>
 	<br><br>
 <!--  -->
@@ -158,13 +160,18 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	</ul>
 <!--  -->
 <!--  -->
-	<li><h3>philosophy as <a href="{{sss}}">state space search</a> over coherent worldviews</h3>
+	<li><h3>philosophy as <a href="{{sss}}">state-space search</a> over coherent worldviews</h3>
 	Maybe philosophy doesn't have to answer questions to be useful. We can read Cicero's ancient diss:
 	<br><br><blockquote>
 		There is nothing so absurd that it has not been said by some philosopher.
 	</blockquote>
-	as a compliment: we consider everything. Philosophers are then in the business of conditionally constraining logical space (e.g. "given physicalism, what could one's philosophy of mathematics be?"), not ruling on the correct path through that space. Hypothesis generation, not model selection. This extremely modest view of philosophy's scope is not so common. But you can sort of see it in Wittgenstein:
-	<br><br><blockquote>
+	as a compliment: we consider everything. Philosophers are then in the business of conditionally constraining logical space (e.g. "given physicalism, what could one's philosophy of mathematics be?"), not ruling on the correct path through that space. Hypothesis generation, not model selection. This is an extremely modest view of philosophy's scope. It's plausible. Chalmers:
+	<blockquote>
+		As Timothy Williamson has said, we knew much more in 2004 than in 1964, much more in 1964 than in 1924, and so on. But this collective knowledge typically does not involve answers to the big questions. It is mainly knowledge of the answers to smaller questions, of negative and conditional theses, of frameworks available to answer questions, of connections between ideas, of the way that arguments bear for and against conclusions, and so on.
+	</blockquote>
+	But you can sort of see it in Wittgenstein:
+	<br><br>
+	<blockquote>
 		Is scientific progress useful for philosophy? Certainly. The realities that are discovered lighten the philosopher's task, imagining possibilities.
 	</blockquote>
 	and <a href="{{pig}}">Massimo Pigliucci</a> : 
@@ -290,6 +297,21 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 	This kind of philosophy is a game - the hardest game, yes, since <a href="{{nom}}">
 	the rules</a>  <a href="{{dial}}">are themselves</a>  at issue. I love it, but that is not enough. 
 	</li> 
+<!--  -->
+	<li>
+		<h3>philosophy as mental adornment</h3>
+		Peter Ustinov:
+		<blockquote>If you're going to be a prisoner of your own mind, the least you can do is make sure it's well furnished.</blockquote>
+		For some of us, it is just more fun to talk to philosophically alive people. So we study philosophy out of our usual blend of altruism and peacocking.
+	</li>
+	<li>
+		<h3>philosophy as psychedelic, as sensory intervention</h3>
+		Gödel loved philosophy, and in his notebooks movingly claims that philosophical study intensifies his experience of the world:
+		<blockquote>[philosophy] has the effect (that “the colors brighten”), i.e., that reality appears more clearly as such.</blockquote>
+		I think I get this too. In particular, I got a strong and semi-permanent phenomenological shift from reading anti-phenomenological philosophy (Russell, Sellars, Dennett). 
+<!--  -->
+		But this route also clearly presents risks to the scholar, of disembodiment, derealisation, and top-down processing to an extent which blinds.
+	</li>
 	<br><br>
 	<!--  -->
 	<li>
@@ -381,6 +403,7 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 * <a href="/broadness">Broadness as trivial predictor of philosophical status</a>
 * http://justmorephilosophy.blogspot.com/2015/10/never-questioning-value-of-philosophy.html
 * Tom Adamczewski, <a href="{{sitt}}">Philosophical Success Stories</a>
+* Liam Bright on [4 successes of his guild](https://sootyempiric.blogspot.com/2025/02/learning-from-four-analytic-philosophy.html)
 * Massimo Pigliucci, <a href="{{pig2}}">Progress in Philosophy</a>
 * Graham Johnson, <a href="{{suspended}}">Conceptual engineering: the revolution in philosophy you've never heard of</a>
 * <a href="{{schw}}">Schwitzgebel on philosophy that opens</a>
@@ -389,6 +412,7 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 * Luke Muehlhauser, <a href="{{prog}}">Philosophy: A Diseased Discipline</a>
 * <a href="{{spol}}">Spolsky on the risks of abstraction even in practical matters</a>
 * David Pearce, <a href="{{diary}}">Long diary entry containing a metaphilosophy & applied physicalism.</a>
+* Antonio Wolf, [use(lessness)](https://empyreantrail.wordpress.com/2024/01/16/the-uselessness-of-philosophy/)
 
 <br><br>
 
