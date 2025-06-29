@@ -12,11 +12,16 @@
 	 box-sizing: border-box;
  }
  
+ html{
+    /* background: var(--theme-color); */
+ }
+
  body {
     min-height: 100vh;
     position: relative;
     padding-bottom: 20em;
     word-wrap: break-word;
+    background: var(--bg-color);
 }
 
 /**
@@ -36,6 +41,7 @@
 
 .site-header a{
     text-decoration: none;
+    color: white !important;
 }
 
 .site-header nav{
@@ -138,7 +144,6 @@ tr.spaced > td {
   * Site footer
   */
   footer {
-    border-top: 1px solid var(--grey-color-light);
     padding: 4em 3em;
     color: var(--white);
     background: var(--dark-green); /* #36414f; */
@@ -194,15 +199,9 @@ footer .flex{
     color: var(--white)
 }
 
-
-
-
-
 .tabContent {
     display: none;
 }
-
-
 
 .note {
     margin-bottom: 20px;

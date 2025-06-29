@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Comparing up and down"
-baselink:   /relative
-permalink:  /relative
+baselink:   /compare
+permalink:  /compare
 date:       2014-07-31
 author:     Gavin
 

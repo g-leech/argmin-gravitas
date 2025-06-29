@@ -15,13 +15,25 @@ summary:    My first alma mater
 confidence: 
 importance: 3
 wordcount:  
-categories: 
+categories: places, uni, lists
 where:      "Tallinn"
 ---
 
-In Aberdeen there are a handful of days a year where after the rain the sun comes out and the wet granite's trillion mica crystals all shine and you sit there in a giant bowl of light squinting. You can't really drive properly at that moment. It is enough light to make you think briefly that it makes up for the grey darkness the entire rest of the year.
+> Mica glittered from the white stone.<br>Town of the pure crystal,<br>I learnt Latin in your sparkling cage,<br>I loved your brilliant streets.<br>
 
-I lived in Tillydrone for 2 years and got attacked on the street 3 times. Punched in the face for smiling. Bottle shattered next to me. In fairness I was wearing a stupid hat.
+> Places that have been good to us we love.<br>The rest we are resigned to.<br>The fishermen hung shining in their yellow<br>among university bells.
+
+<br>
+
+In Aberdeen there are a handful of days a year where after the rain the sun comes out and the trillion mica crystals in the wet granite all shine and you sit there in a giant bowl of light. Squinting (you don't own sunglasses). You can't really drive when it happens. As if a year of light all in one day - enough to make you think, briefly, that it makes up for all the darkness and greyness. It doesn't.
+
+I did 5 years; 4 in uni and 1 in a bookshop. I arrived as a cliche of the self-built rural intellectual; extreme and rhetorical, haunted and grown into odd shapes for lack of sunlight and feedback. I lived in the worst places.
+
+* "We're shite - but it's brilliant being shite."
+
+* It's on the same latitude line as Riga and Alaska.
+
+* It's grim but actually not poor. The ominously named hamlet Cults is in the top 10 most expensive postcodes in the country. During the 2009 global financial crisis, Aberdeen was the only city beside London to completely avoid recession.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PE6RH7APXfw?si=AZx50SbCOjQYnSUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -30,68 +42,83 @@ I lived in Tillydrone for 2 years and got attacked on the street 3 times. Punche
 Glimmer of Cold Brine
 
 
-Mica glittered from the white stone.
-Town of the pure crystal,
-I learnt Latin in your sparkling cage,
-I loved your brilliant streets.
+* On a long walk, on the pavement you'll see four or five inside-out umbrellas destroyed by the wind. Every year a new set of Chinese students arrive with them, not realising that Aberdeen has a different rule. I actually didn't use an umbrella until I was 25 years old; there wasn't any point. (It was also heavily gendered though.)
 
-Places that have been good to us we love.
-The rest we are resigned to.
-The fishermen hung shining in their yellow
-among university bells.
+* Like San Francisco, the sea fog (the "haar") is thick, motile, and common. There's also occasionally huge amounts of sea foam blowing along the streets.
+
+* The mosque is in an impressively low-ceilinged prisonlike building. The security bars on the tiny windows tell a story. 
+
+* The country roads in Aberdeenshire are among the most dangerous in the UK.
+
+* I lived in the cheapest possible places. The old Hector Boece halls had single glazing. The 30W oven would take more than an hour to heat up to 200. I lived in Tillydrone for 2 years and got attacked 3 times. Punched in the face for smiling. In fairness I was wearing a stupid hat. Thrown bottle shattered next to my head. Two teenage girls on something went for my glasses and pulled my friend to the ground. 
+
+* I was constantly slightly cold. I got a lot better at saxophone when I moved south.
+
+- Tillydrone is cheap and very near the uni but extremely rough. I got bottled once. Most of the student accommodation is kind of grim, in different ways. If you don't need all your stuff immediately you could Airbnb around town, get a feel for the place. Hilton is nice.
+- I'm from even further north, so the greyness and cold didn't shock me. But be ready for 3pm dusk in December.
+- The new library is wonderful on the outside, a lovely addition to the cityscape, and completely unusable inside: in my time they had a central shaft which echoed noise from the ground floor to the top floor. It also has very few books.
+- The seagulls are unlike any I've ever seen. Gigantic and fearless. They have been known to stick their heads 30cm inside a narrow window to steal food.
+- Surprisingly good for surfing. Roleplayers were very active in my day - ask for David Stoll, the 2m "Hill Giant". Amazing hills, but no public transport up there so you need to go with a group. I set up a Philosophers' Football league, I think it's still running. The students lost 6-2 to the faculty, brutal. I scored against one of the most notable logicians in Europe though. I don't know if you're into punk but it's a very active scene and I can introduce you to 30 punks.
+- My aesthetics lecturer is now an analogue synth artist.
+    - [https://portlandvows.bandcamp.com/album/living-with-animals](https://l.facebook.com/l.php?u=https%3A%2F%2Fportlandvows.bandcamp.com%2Falbum%2Fliving-with-animals%3Ffbclid%3DIwAR0039DfSAq5mnhJvRMO4ALV9a1P3XhY-OXvBiDBm4gEHAsk4TSjKwdyoK8&h=AT3wknapttNjuDKCYpOqis5fOtp20YJ-pHopET5WB5d6ABxq94P81PYeAytUqx_SJtud-zCrPHWbGT0E-Mg8qBnZux0OEMR13NjuboO88kh8_D77eRxQ79xbb94)
+- Luca Moretti is incredibly fun to talk to.
+- Charles Wang, a quantum gravity guy, is . Commanded a tank in the Taiwanese Armed Forces.
+- This guy was trying to set up a "Responsible AI" PhD programme
+    - [https://homepages.abdn.ac.uk/n.oren/pages/Home.html](https://homepages.abdn.ac.uk/n.oren/pages/Home.html?fbclid=IwAR2uzKQraTMtZ9wkwx6EUxzhIADEJ-tdkQJ-M5yZI8O4KqDXaC-x0_vJNwQ)
 
 
-Haar
+* **Art**: 
 
-Riga and Alaska
+* **Poet**: Ossian. <!--Harry Giles.--> Byron hated Aberdeen, which is no disqualification in an Aberdonian.
 
-Mosque
+* **Novelist**: Nan Shepherd. People say Lewis Grassic Gibbon but that is nostalgia for caning talking.
 
-country roads in Aberdeenshire are among the most dangerous in the UK
+* **Novel**: _Stonemouth_. The title alone is a perfect riff on the region, Stonehaven-Grangemouth.
 
+* **Play**: 
 
+* **Art music**: [Bob "Portland Vows" Plant](https://portlandvows.bandcamp.com/album/living-with-animals).
 
+* **Popular music**: Lockah, Toxik Ephex, and Hellripper.
 
-Poet: Ossian
+* **Venue**: The Tunnels get you right in with the band, which makes e.g. jazz hit different.
 
-Novelist: Nan Shepherd / Lewis Grassic Gibbon
+* **Pub**: 
 
-Novel: Stonemouth
+* **Philosopher**: Thomas Reid. Crispin Wright. Guido Bacciagaluppi. Luca Moretti.
 
-Plays: 
+* **Modernist**: Patrick Geddes 
 
-Art music: 
+* **Scientist**: Patrick Geddes 
 
-Popular music: 
+* **Walk**: Brig o Balgownie
 
-Venue: 
+* **Comedian**: Graeme Garden
 
-Philosopher: 
+* **Director**: not really.
 
-Modernist: Patrick Geddes 
+* **Film**: _One Day Removals_ is trash but likable.
 
-Scientist: Patrick Geddes 
+* **TV**: _Off-Kilter_
 
-Walk: 
+* **Videogame**: not really. The QA team for _Stronghold_ is here but that doesn't count. _[Strange Sickness](https://common-profyt-games.itch.io/strange-sickness)_. Leslie Benzies
 
-Comedian: Graeme Garden
+https://en.wikipedia.org/wiki/Elizabeth_Blackwell_(illustrator)
 
-Director: 
+* **Actor**: Peter Mullan.
 
-Film:
+* **Entrepreneur**: [Thomas Blake Glover](https://en.wikipedia.org/wiki/Thomas_Blake_Glover), arms dealer and the ancestral founder of Mitsubishi and Kirin.
 
-TV: Off-Kilter
+* **Restaurant**: Rishi's. The best Indian in the country imo.
 
-Videogame:
+* **Building**: "Spoons" (Archibald Simpson)
 
-Actor: 
+* **Architect**: It's a two-horse town: Archibald Simpson (1790–1847) and John Smith 
 
-Entrepreneur: 
+* **Church**: St Machar. Tiny, ancient, wooden rafters, filled with song, passed by two thousand heathen students every day, eyes on the ground or on each other.
 
-Church: 
+* **Library**: 
 
-Restaurant: 
+* **Bookshop**: Books and Beans.
 
-Bookshop: 
-
-Cafe: 
+* **Cafe**: 

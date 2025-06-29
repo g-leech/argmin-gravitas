@@ -96,10 +96,10 @@ Even after we reject foundationalism, the practical problem remains: what to lea
 <br>
 
 
-### Requisite attitudes
+## Requisite attitudes
 
 
-#### The Neurathian bootstrap
+### The Neurathian bootstrap
 
 > We are like sailors who on the open sea must reconstruct their ship but are never able to start afresh from the bottom. Where a beam is taken away a new one must at once be put there, and for this the rest of the ship is used as support. In this way, by using the old beams and driftwood the ship can be shaped entirely anew, but only by gradual reconstruction.
 
@@ -119,7 +119,7 @@ The raft is our lack of fear at the lack of raft.
 
 <br>
 
-#### Comparing down
+### Comparing down
 
 The above isn't about impostor syndrome, except insofar as I delude myself that others are not ignorant. I take impostor syndrome to be the subjective feeling of being inadequate relative to those around you. I'm talking about the objective sense in which no one has anything more than a piece of the puzzle; and yet some of them still manage to do new things. (To get a sense of how rough the subjective and objective problem is, note that PhD study breaks <a href="{{uk}}">a quarter</a> or <a href="{{us}}">a half</a> of the smart people who try.)
 
@@ -127,7 +127,7 @@ Anyway: I had a very distorted view of how much an average PhD actually knows. J
 
 <br>
 
-#### Unlearning education
+### Unlearning education
 
 <center>
 <blockquote>
@@ -151,18 +151,18 @@ It's not easy to unlearn tutelage, but at some point in your first few actual pr
 
 <br>
 
-#### Ideas are cheap
+### Ideas are cheap
 
 One useful piece of startup culture: "you have to ship". It is _not_ that your perfect idea is ruined by imperfect implementation: your idea is nothing until it exists; all implementations are an improvement over an idea. <a href="#fn:2" id="fnref:2">2</a>
 
 
 <br><br>
 
-### Mechanisms
+## Mechanisms
 
 The above is about fixing your head. This bit is about how the vastness of the ocean actually ends up not mattering:
 
-#### Abstraction as testimony
+### Abstraction as testimony
 
 {%	assign tcp = "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/"	%}
 
@@ -176,7 +176,7 @@ Some abstractions <a href="{{tcp}}">actually allow you</a> to ignore what's unde
 <br>
 
 
-#### Collaboration
+### Collaboration
 
 Even once you've selected a level of abstraction, trusted the bulkheads to hold, you can still split the work further: laterally across co-authors who are good at different parts. This is division of labour again, one of the most powerful social forces.
 
@@ -184,7 +184,7 @@ The average paper now has about <a href="{{auth}}">5 authors</a>. Some of this i
 
 <br>
 
-#### Momentum
+### Momentum
 
 Ideas generate ideas, success generates success.
 
@@ -207,7 +207,7 @@ Aside on
 	First Author Papers.
 	(The order is weightings are never clear. I've tried to elicit them but no one is willing to be pinned down.) -->
 
-#### Slack
+### Slack
 
 <center>
 	<blockquote> 
@@ -227,7 +227,7 @@ https://acesounderglass.com/2020/06/09/where-to-start-research/
 
 <br>
 
-#### Teaching as learning
+### Teaching as learning
 
 > You think you know when you can learn, are more sure when you can write, even more when you can teach, but certain when you can program 
 

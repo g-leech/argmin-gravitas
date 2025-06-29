@@ -51,7 +51,7 @@ This is most obvious in the success of mathematical physics, which has succeeded
     <h3>Awe</h3>
     <div>
         <br>
-<h4>Predictive precision and measurement precision</h4>
+<h3>Predictive precision and measurement precision</h3>
 
 prediction of grav waves, size \(10^{-20} \,\mathrm{m}\); nailed it<br><br>
 
@@ -65,14 +65,14 @@ QED correctly predicts all those decimal places (to within the measurement uncer
 
 <br><br><br>
 
-<h4>Precision of form</h4>
+<h3>Precision of form</h3>
 Fiber bundles invented by mathematicians 60 years before they were needed for gauge theory. Perfect. This happens a lot.<br><br>
 
 <blockquote>That non-Abelian gauge fields are conceptually identical to ideas in the beautiful theory of fiber bundles, developed by mathematicians without reference to the physical world, was a great marvel to me. In 1975 I discussed my feelings with Chern, and said 'this is both thrilling and puzzling, since you mathematicians dreamed up these concepts out of nowhere'. He immediately protested: 'No, no. These concepts were not dreamed up. They were natural and real.' </blockquote>
 
 <br><br><br>
 
-<h4>Rule of cool</h4>
+<h3>Rule of cool</h3>
 6 burns total to launch from Earth, land on a comet and return: <a href="{{osiris}}">OSIRIS-REX</a>. launched it two years before it landed. exactly 3 burns in 2 years, lots of slingshots and avoiding stuff.<br><br>
 
 8th Sep 2016 launch to 3 December 2018 arrival, vs predicted November 23rd 2018. a week off!
@@ -80,13 +80,13 @@ Very likely to land within hours of predicted end 24 September 2023, 15:00 UTC
 
 <br><br><br>
 
-<h4>Concision</h4>
+<h3>Concision</h3>
 The <a href="{{lagrang}}">Lagrangian of the standard model</a> is 2075 characters. It roughly exhausts all of physics (except for gravity and mass values) in 4kB.
 </div>
 
 </div>
 
-<br><br>
+<br>
 
 
 So maths can do anything? No. This is selection bias.
@@ -196,6 +196,13 @@ What else is out there? What is the "dark matter" of maths?
             </div>
         </div>
     </div>
+    <h3>No sufficiently powerful language can represent itself</h3>
+    <div>
+        i.e. <a href="https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem">Tarski undefinability</a>: No formal language $$L$$ with negation and enough self-reference to be interesting (i.e. for which the <a href="https://en.wikipedia.org/wiki/Diagonal_lemma">diagonal lemma</a> holds) is <i>strongly-semantically-self-representational</i>, contains predicates and function symbols which jointly define all the semantic concepts of $$L$$.
+        <br>
+        e.g. you can't define the concept of truth of first-order arithmetic statements with first-order arithmetic. You have to go meta.
+        <br>
+    </div>
     <!--  -->
     <h3>Most values of the Busy Beaver function cannot be found within any formal system</h3>
     <div>
@@ -215,7 +222,7 @@ What else is out there? What is the "dark matter" of maths?
 
 <br>
 
-We can't list anything uncountable. That's what uncountable means (Giving a method of listing all the members of a set proves the set is countable.) 
+We can't list anything uncountable. That's what 'uncountable' means. (Giving a method of listing all the members of a set proves the set is countable.) 
 
 <br>
 
@@ -285,6 +292,8 @@ are needed to be able to prove that an N-bit program is elegant. -->
     </div>
 </div>
 
+
+<!-- every number has a game, but not all games have numbers, and thus game-space is larger than number-space -->
 
 
 <br> 

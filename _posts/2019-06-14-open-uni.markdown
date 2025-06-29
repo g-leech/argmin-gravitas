@@ -32,7 +32,9 @@ categories: maths, review, uni
 
 Sometime in 2012, I realised that you can't do without maths for general impersonal truth-seeking - and that I didn't know enough of it to do science, or even real data analysis. Nor did I have the confidence to <a href="{{auto}}">self-study</a>. What to do?
 
-Maths is probably the best subject to learn online, because set problems can _always_ be cracked with sufficient thought, and because learning it _can't be done_ without lots of independent thought and silent focus anyway. <a href="#fn:1" id="fnref:1">1</a> And Britain has been doing cheap, high-class MOOCs for 50 years, in the form of the giant public <a href="{{ou}}">Open University</a>.
+Maths is ok to learn online, because set problems can _always_ be cracked with sufficient thought, and because learning it _can't be done_ without lots of independent thought and silent focus anyway. <a href="#fn:1" id="fnref:1">1</a> And Britain has been doing cheap, high-class MOOCs for 50 years, in the form of the giant public <a href="{{ou}}">Open University</a>.
+
+[Edited to add: I think doing this alone was a big mistake. Good maths is extremely social, and the competitive / cooperative angle is very important for your motivation when the abstractions loom.]
 
 6 years later, and I've got a <a href="{{bsc}}">BSc (Hons) in Maths and Stats</a>, working a full-time job throughout. I know something now. It was good! But it probably wouldn't be for you, if you're not strange in the particular ways I am.<br><br>
 

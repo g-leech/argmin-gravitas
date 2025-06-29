@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "Woolwich and the Square Mile"
+baselink:   /ldn
+permalink:  /ldn
+date:       2024-12-12
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+quality:    
+
+summary:    self-isolation among the millions
+confidence: 
+importance: 3
+wordcount:  
+categories: places, uni, lists
+where:      "Garmouth"
+---
+
+<!-- https://www.gleech.org/corp -->

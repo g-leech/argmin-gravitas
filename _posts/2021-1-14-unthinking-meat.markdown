@@ -10,7 +10,7 @@ img:        /img/meat.png
 visible:    1
 published:  true
 
-summary:    Homage to <a href="https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html">Bisson</a>.
+summary:    Homage to Bisson.
 quality:    5
 confidence: Fiction.
 importance: 5
@@ -46,6 +46,7 @@ argument:
 
 ## See also
 
+* <a href="https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html">Bisson</a>
 * [The melancholy of pareidolia](https://www.gleech.org/psych#melancholy)
 * [Why is quality rare?](https://www.gleech.org/quality)
 * [Pieties](https://www.gleech.org/piety)

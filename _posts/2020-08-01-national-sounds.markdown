@@ -34,10 +34,11 @@ argument:
 			{%	include nation/ita.html	%}
 			{%	include nation/swe.html	%}
 			{%	include nation/cz.html	%}
+		    {%  include nation/no.html  %}
+		    {%  include nation/pl.html  %}
+			{%	include nation/esp.html	%}
 			{%	include nation/latv.html	%}
 			{%	include nation/est.html	%}
-			{%	include nation/esp.html	%}
-		    {%  include nation/pl.html  %}
 			{%	include nation/neder.html	%}
 			{%	include nation/portug.html	%}
 			{%	include nation/fin.html	%}
@@ -53,6 +54,7 @@ argument:
 			{%	include nation/jp.html	%}
 			{%	include nation/chin.html	%}
 			{%	include nation/sko.html	%}
+			{%	include nation/philipp.html %}
 			{%	include nation/hk.html	%}
 			{%	include nation/taiwan.html	%}		
 		</div>
@@ -61,7 +63,11 @@ argument:
 	<h3>africa</h3>
 	<div>
 		<div class="accordion">
+			{%	include nation/southaf.html 	%}
 			{%	include nation/nigria.html		%}
+			{%	include nation/ken.html			%}
+			{%	include nation/cong.html 		%}
+			{%	include nation/tz.html 			%}
 		</div>
 	</div>
 	<!--  -->
@@ -91,6 +97,20 @@ argument:
 </div>
 
 <br>
+
+# Rules
+
+
+1. Every song has to have moved me. No pandering to national champions or Historical Importance 
+
+2. One song per artist. Side projects ok.
+
+3. Each playlist opens strong, accessible, and wanders its way towards the area's modern classical, metal, and noise music. Down the hole.
+
+4. Ideally there's something in there that any given native will never have heard.
+
+
+
 
 # Caveats
 

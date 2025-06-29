@@ -361,6 +361,7 @@ Here's the first big moral question, since authors are often deserving. I leave 
 ## See also
 
 * <a href="/browser">My post about cybersecurity</a> which could use an update. 
+* [Jeff Dean on Search](https://static.googleusercontent.com/media/research.google.com/en//people/jeff/WSDM09-keynote.pdf) (2009)
 * [Yes half of my classes are derivative of Gwern](https://gwern.net/search), what of it
 * [Schneier warning](https://www.schneier.com/blog/archives/2024/04/the-rise-of-large.html)
 * [Dennett warning](https://www.theatlantic.com/technology/archive/2023/05/problem-counterfeit-people/674075/)
