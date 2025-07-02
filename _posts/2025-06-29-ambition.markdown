@@ -1,0 +1,60 @@
+---
+layout:     post
+title:      "ambitions"
+baselink:   /ambitions
+permalink:  /ambitions
+date:       2025-06-29
+author:     Gavin
+img:        /img/
+
+visible:    1
+published:  true
+quality:    
+
+summary:    
+confidence: 
+importance: 7
+wordcount:  
+categories: philosophy-of-life, work, 
+where:      "Munich"
+---
+
+
+When someone accumulates money and wants more, or prizes or publications and wants more, or climbs the ladder of large organisations, or thinks everyone else is wrong and wants to establish their theory, we call them ambitious.
+
+I have large ambitions, but not this kind. None of my ambitions involve accumulating wealth (now that I have enough).
+
+* I want to provide the great synthesis for my time. (What does this mean?)
+* I want to be a universal critic of all fields and mediums
+* I want to understand as much as I can: relativity, QFT, evolution, RL, active inference for a start.
+* I then want to drag the ladder down
+* I want to study all of the world's music 
+* I want freedom
+* I want to read 
+* I want to write a great album and record it
+* I want to write a great poem
+* I want to unseat fakes and barnacle people from science and fiction
+* I want to teach 1000 students; teach in a meaningful, "Dead Poets" way. To _reach_ 1000 students.
+* I want to make AI tools which don't repulse me
+* etc
+
+The obvious problem with this is that my attention is divided.
+
+## Definitions
+
+* How many people it affects. Cutting apples out of your own mouth using a chainsaw doesn't have any effect.
+* How counterfactual it is
+* How novel it is
+* How hard it is
+
+
+## Others 
+
+Dynasty founding is a new weird one with some potential to take over through sheer force of exponents. Luckily Clark tells us that they will fail.
+
+* Becoming a parent is, currently, ambitious. (I say currently because the parenting time and safetyism.) It used to be unambitious to become a parent but ambitious to remain a parent, since they'd so often die.
+
+* 
+
+## See also
+

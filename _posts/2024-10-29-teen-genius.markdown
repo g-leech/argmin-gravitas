@@ -36,6 +36,7 @@ It's mostly maths and music.
 * Pascal (geometry, computing), 16 
 * Wiener (logic), 18
 * von Neumann (foundations), 20
+* Nash (games), 21
 * Aaronson (complexity), 20
 * Turner (painting), 15
 * Picasso (painting), 15
@@ -43,14 +44,13 @@ It's mostly maths and music.
 * Gentileschi (painting), 17
 <!-- Vigée Le Brun -->
 <!-- Basquiat -->
-* Nash (games), 21
 * Fermi?
 * Hamilton?
 * Landau?
 * Abelard?
 * Maclaurin?
 
-In writing, we have Rimbaud, Chatterton, Dickinson, Joyce, the Shelleys, Pope.
+In writing, we have Rimbaud, Chatterton, Joyce, the Shelleys, Pope.
 
 <!-- Orson Welles -->
 <!--Vermeer, van Gogh, Picasso, -->

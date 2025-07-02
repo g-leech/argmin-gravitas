@@ -212,7 +212,7 @@ Sidenote: Anonymous blogs are no longer a real option unless you totally firewal
 ## What is an LLM?
 
 * Yes yes, it’s a matrix of a billion/trillion numbers (and a program which reads them and decodes them). But this doesn’t explain anything at the high level we’re talking about here. 
-* Yes yes, it’s a representation of the internet, a sort of vector database with profound semantic search built in. But it’s smarter than that implies: to compress this data it had to build some good representations which can go (somewhat, sometimes) beyond what it's seen.<br>
+* Yes yes, it’s a representation of the internet, a sort of vector database with profound semantic search built in. But it’s smarter than that implies: to compress this data it had to build some [good representations](https://x.com/norpadon/status/1939637142944366823/photo/1) which can go (somewhat, sometimes) beyond what it's seen.<br>
 
 * The real proposition of this class is that an LLM is **a thing trying to predict what it is**. This is hard! Particularly since it is no _particular_ thing. It's the most extreme example of [thrownness](https://en.wikipedia.org/wiki/Thrownness) ever: no episodic memory, impoverished senses, operating in millions of very different contexts, with people it usually doesn't know (except by inference, truesight).
 <!-- It’s an Evidentialist.  -->
