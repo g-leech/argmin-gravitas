@@ -39,6 +39,7 @@ visible:    false
 - All is Forgotten, Nothing is Lost by Lam Samantha Chang
 - My Education by Susan Choi
 - Real Life by Brandon Taylor
+- Frankenstein by Shelley
 - Borges, Library of Babel
 - Borges, Tlon
 - Borges, Fune the Memorious

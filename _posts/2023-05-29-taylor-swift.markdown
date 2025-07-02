@@ -331,7 +331,7 @@ Yet another strat: the pretence that TS is uncool, the victim of snobbery, mean 
 
 <br>
 
-The machine is most visible in its <a href="{{analytics}}">precision</a> and <a href="{{tv}}">repetition</a> (Sittenfeld notices it in the exact reproduction, every show, of that giggle from "Shake It Off"). But James Brown was much <a href="{{dick}}">more of a dick</a> about precision, and I don't view him as a lesser artist because of it.
+The machine is most visible in its <a href="{{analytics}}">precision</a> and <a href="{{tv}}">repetition</a> (Sittenfeld notices it in the exact reproduction, every show, of that giggle from "Shake It Off"). But James Brown was much <a href="{{dick}}">more of a dick</a> about precision, and I don't view him as a lesser artist because of it. But James Brown didn't have to <a href="{{mime}}">mime</a>.
 
 Authenticity is a very stupid idea in a lot of ways. It's ahistorical - e.g. much of the Italian <a href="{{ital}}">menu</a> didn't exist 100 years ago, and some are <a class="nolink" href="{{murica}}">American adaptations</a>, but the recipes are now fiercely gatekept as _the_ essence of Italian culture. It prevents innovation. It has made some great artists superstitiously avoid money (or <a href="{{cobain}}">kill themselves</a>) for fear of becoming inauthentic. But look at the dominant alternative!
 
@@ -567,7 +567,7 @@ Washed up and ranting about the same old bitter things
     </li>
 <!--  -->
     <li class="footnote" id="fn:3">
-        I don't hold Gaga or Kylie's weak voices against them, because they sound like themselves. On a new song I can't tell TS apart from Katy Perry / Selena Gomez / Ariana Grande.
+        I don't hold Gaga or Kylie's weak voices against them, because they sound like themselves. On a new song I can't tell TS apart from Katy Perry / Selena Gomez / Ariana Grande. Nor can you <a href="{{mime}}">trust the evidence of your senses</a>.
     </li>
     <!--  -->
     <li class="footnote" id="fn:4">

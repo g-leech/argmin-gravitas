@@ -20,7 +20,6 @@ visible:	true
 
 </style>    
 
-<br>
 
 ## Books
 
