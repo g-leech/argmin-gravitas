@@ -5,7 +5,7 @@ baselink:   /theisms
 permalink:  /theisms
 date:       2025-06-29
 author:     Gavin
-img:        /img/
+img:        /img/liverpool_glass.png
 
 visible:    1
 published:  true
