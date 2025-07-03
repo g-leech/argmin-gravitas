@@ -47,7 +47,7 @@ So not really theism. Previously, I had been reducing religion to theism, and th
 
 <br>
 
-(I was, at 20, just wise enough to catch myself before I made an equal and opposite error, that of ignoring theism; I could easily have reduced religion to nonpropositional coreligionism. But no: there are the community theists and the philosophical theists I knew from the debates.<a href="#fn:2" id="fnref:2">2</a> Obviously these are <a href="{{ideal}}">ideal types</a> and many people are some of both.)
+(I was, at 20, just wise enough to catch myself before I made an equal and opposite error, that of just ignoring literal theism; I could easily have reduced religion to nonpropositional coreligionism. But no: there are the community fiends and the philosophical theists I knew from the debates.<a href="#fn:2" id="fnref:2">2</a> Obviously these are <a href="{{ideal}}">ideal types</a> and many people are some of both.)
 
 
 
@@ -70,13 +70,13 @@ It took me another 10 years to examine atheism with similar deflationary clarity
 * _Political atheist_: Again, this would mean believing it is good to not be religious. The Communists were this: religion as the opiate of the masses, which they were best served going cold turkey off, so that the pain of life would agitate and mobilise them. Hard to think of many current examples, partly because the evidence is mildly against instrumental atheism, and atheists feel compelled to pay more lip service to evidence (since what else can they rest upon?). Clearly this is different in China.
 
 
-<br>
+<br><br>
 
-The above very basic understanding helps me put up with religion, which is good because it means I have more friends / am less of a dickhead. But it's not unqualified. I still believe theism is a mistake; lightly immoral like littering; a damn shame in an intelligent being; and to be tolerated rather than approved-of. 
+The above very basic understanding helps me put up with religion, which is good because it means I have more friends / am less of a dickhead. But it's not unqualified. I still believe theism is a mistake, lightly immoral like littering; a damn shame in an intelligent being; to be tolerated rather than approved-of. 
 
 <!-- (It's also dishonest to exploit it for feels or cheap political gain, as some modern chuds do.)  -->
 
-But I appreciate each of the three types, construed as a common way to be nice, thoughtful, or prudent. Go forth and chill.
+But I appreciate the three types as a common way to be nice, thoughtful, or prudent. Go forth and chill.
 
 <br><br>
 
