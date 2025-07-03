@@ -299,15 +299,16 @@ But your body is really pretty stable and your environment usually is too, which
 
 ## See also
 
-* https://www.lesswrong.com/posts/zuXo9imNKYspu9HGv/a-three-layer-model-of-llm-psychology   
-* https://nitter.net/pic/orig/media%2FGp0eG_oXwAE9nBk.jpg 
-* https://gist.github.com/JD-P/d00912c2efea3b3032f7adfbfce1a827 
-* https://arxiv.org/html/2411.13223v1 
-* https://nostalgebraist.tumblr.com/post/785766737747574784/the-void 
-* https://nostalgebraist.tumblr.com/post/786568570671923200/void-miscellany
-* https://misakikasumi.medium.com/memento-and-llm-understanding-ai-through-the-lens-of-cinematic-amnesia-6fc277d6c154 
-* https://claude.ai/public/artifacts/cd671664-0d4f-4cc1-8bf9-08b7f33ee8fc 
-* https://cdn.openai.com/pdf/a130517e-9633-47bc-8397-969807a43a23/emergent_misalignment_paper.pdf 
-* https://misakikasumi.medium.com/memento-and-llm-understanding-ai-through-the-lens-of-cinematic-amnesia-6fc277d6c154
-* https://www.learningfromexamples.com/p/the-fly-and-the-filter
-* https://nautil.us/ai-already-knows-us-too-well-1220707/?utm_source=firefox-newtab-en-gb
+* [https://www.lesswrong.com/posts/zuXo9imNKYspu9HGv/a-three-layer-model-of-llm-psychology](https://www.lesswrong.com/posts/zuXo9imNKYspu9HGv/a-three-layer-model-of-llm-psychology)
+* [https://nitter.net/pic/orig/media%2FGp0eG_oXwAE9nBk.jpg](https://nitter.net/pic/orig/media%2FGp0eG_oXwAE9nBk.jpg)
+* [Janus on risks from risk discourse](https://www.lesswrong.com/posts/3EzbtNLdcnZe8og8b/the-void-1?commentId=JYodjWFjWfhHKW3QK)
+* [https://gist.github.com/JD-P/d00912c2efea3b3032f7adfbfce1a827](https://gist.github.com/JD-P/d00912c2efea3b3032f7adfbfce1a827)
+* [https://arxiv.org/html/2411.13223v1](https://arxiv.org/html/2411.13223v1)
+* [https://nostalgebraist.tumblr.com/post/785766737747574784/the-void](https://nostalgebraist.tumblr.com/post/785766737747574784/the-void)
+* [https://nostalgebraist.tumblr.com/post/786568570671923200/void-miscellany](https://nostalgebraist.tumblr.com/post/786568570671923200/void-miscellany)
+* [https://misakikasumi.medium.com/memento-and-llm-understanding-ai-through-the-lens-of-cinematic-amnesia-6fc277d6c154 ](https://misakikasumi.medium.com/memento-and-llm-understanding-ai-through-the-lens-of-cinematic-amnesia-6fc277d6c154 )
+* [https://claude.ai/public/artifacts/cd671664-0d4f-4cc1-8bf9-08b7f33ee8fc](https://claude.ai/public/artifacts/cd671664-0d4f-4cc1-8bf9-08b7f33ee8fc)
+* [https://cdn.openai.com/pdf/a130517e-9633-47bc-8397-969807a43a23/emergent_misalignment_paper.pdf](https://cdn.openai.com/pdf/a130517e-9633-47bc-8397-969807a43a23/emergent_misalignment_paper.pdf)
+* [https://misakikasumi.medium.com/memento-and-llm-understanding-ai-through-the-lens-of-cinematic-amnesia-6fc277d6c154](https://misakikasumi.medium.com/memento-and-llm-understanding-ai-through-the-lens-of-cinematic-amnesia-6fc277d6c154)
+* [https://www.learningfromexamples.com/p/the-fly-and-the-filter](https://www.learningfromexamples.com/p/the-fly-and-the-filter)
+* [https://nautil.us/ai-already-knows-us-too-well-1220707/](https://nautil.us/ai-already-knows-us-too-well-1220707/)

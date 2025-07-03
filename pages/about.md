@@ -13,7 +13,7 @@ visible:	true
 
 
 
-I co-founded the consultancy [Arb](https://arbresearch.com/) and am a fellow at [Cosmos](https://cosmos-institute.org/), [Cambridge](https://www.lcfi.ac.uk/) and [Foresight](https://foresight.org/foresight-fellowships/).
+I tell people stuff: I co-founded the consultancy [Arb](https://arbresearch.com/) and am a fellow at [Cosmos](https://cosmos-institute.org/), [Cambridge](https://www.lcfi.ac.uk/) and [Foresight](https://foresight.org/foresight-fellowships/).
 
 This site stands in for me when I'm away. It consists of {%		include wc.html 	%} <a href="/archive">words</a>, including <a href="{{grrr}}">1,143 book reviews</a>. 
 
