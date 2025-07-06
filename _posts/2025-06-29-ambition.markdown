@@ -36,6 +36,7 @@ I have large ambitions, but not this kind. None of my ambitions involve accumula
 * I want to unseat fakes and barnacle people from science and fiction
 * I want to teach 1000 students; teach in the meaningful, _Dead Poets'_ way. To _reach_ 1000 students.
 * I want to make AI tools which don't repulse me
+* I want to actually help AI go well
 * etc
 
 The obvious problem with this is that my attention is divided, so singular great works are probably out of reach. Also people might underestimate me. This seems fine.
