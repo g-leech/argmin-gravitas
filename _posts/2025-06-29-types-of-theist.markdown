@@ -23,6 +23,8 @@ where:      "Munich"
 
 {%	assign ali = "https://unherd.com/2023/11/why-i-am-now-a-christian/"	%}
 {%	assign lw = "https://www.lesswrong.com/posts/aHaqgTNnFzD7NGLMx/reason-as-memetic-immune-disorder"	%}
+{%	assign nuc = "https://www.cancer.org/cancer/diagnosis-staging/tests/biopsy-and-cytology-tests/testing-biopsy-and-cytology-samples-for-cancer/what-doctors-look-for.html#:~:text=Typically%2C%20the%20nucleus%20of%20a,often%20contains%20too%20much%20DNA"	%}
+
 
 I'm a fourth-generation atheist.<a href="#fn:1" id="fnref:1">1</a> That's one reason I completely failed to understand religion until I was 20, when I visited the [Liverpool Metropolitan Cathedral](https://en.wikipedia.org/wiki/Liverpool_Metropolitan_Cathedral) randomly. It's a cruel structure, giant spikes on top and dimly-lit brass torture inside. Random stained glass often not depicting anything. It's my favourite church; it is honest about housing a death cult; it captures a neglected part of the essence of Christ: being [Metal](https://en.wikipedia.org/wiki/Christian_metal). 
 
@@ -51,7 +53,7 @@ So not really theism. Previously, I had been reducing religion to theism, and th
 
 
 
-A third category are the _political_ theists: think Thiel and Vance and <a href="{{ali}}">Hirsi Ali</a>.<a href="#fn:8" id="fnref:8">8</a> They see religion as a necessary corrective to man's dark nature, who fear conservatism rampaging without empathy and principles like those religion was supposed to instill; the ones who believe faith is salutary whether or not they have it themselves; and separately also the ones using the community theists as a ladder.<a href="#fn:3" id="fnref:3">3</a>
+A third category are the _political_ theists: think Thiel or Vance or <a href="{{ali}}">Hirsi Ali</a>.<a href="#fn:8" id="fnref:8">8</a> They see religion as a necessary corrective to man's dark nature, who fear conservatism rampaging without empathy and principles like those religion was supposed to instill; the ones who believe faith is salutary whether or not they have it themselves; and separately also the ones using the community theists as a ladder.<a href="#fn:3" id="fnref:3">3</a>
 
 So: the coreligionists, the theologians, and the politicos.<a href="#fn:4" id="fnref:4">4</a> 
 
@@ -63,16 +65,17 @@ So: the coreligionists, the theologians, and the politicos.<a href="#fn:4" id="f
 
 It took me another 10 years to examine atheism with similar deflationary clarity. What are our equivalent ideal types?
 
-* _Philosophical atheism_: the kind you know. Debunking and denouncing, Dawkins and Hitchens, Reddit and LessWrong. We adore the oldies - , Hume and d'Holbach, Shelley - so brave, they were so original, they sacrificed so much - but the new ones <a href="{{ssc}}">fell</a>, partly because of their weakmanning, partly because sincerity became cringe, partly because the American religious right lost some of its supremacy and cohesion making organised atheism less urgent, partly because the grotesques of the war on terror made the Left want to defend Muslims.
+* _Community atheism_: there are some tiny explicitly atheist scenes - Humanists, Assembly but the real manifestation of this is implicit: just fitting-in into intellectual (i.e. liberal) culture. Avoiding seeming cringe by being too sincere or too metaphysical or too grand narrative, or else living out <a href="{{deathcab}}">your trauma</a> from being forced to attend religious stuff as a child. Also Reddit.<br><br>There is a taboo in e.g. British public and professional life about bringing it up.<a href="#fn:9" id="fnref:9">9</a> In Estonia proselytizing on the doorstep is seen as not just annoying but offensively invasive, an abuse of politeness and privacy and autonomy.<a href="#fn:5" id="fnref:5">5</a> I claim that the social justice wave of the eC21st was neither capital-R-religious nor atheistic (it mutated until it could move any host), but it certainly occupied the space that social atheism could have.
 
-* _Social atheism_: there are some tiny explicitly atheist scenes - Humanists, Assembly but the real manifestation of this is implicit: just fitting-in into intellectual (i.e. liberal) culture. Avoiding seeming cringe by being too sincere or too metaphysical or too grand narrative, or else living out <a href="{{deathcab}}">your trauma</a> from being forced to attend religious stuff as a child. Also Reddit.<br><br>There is a taboo in e.g. British public and professional life about bringing it up.<a href="#fn:9" id="fnref:9">9</a> In Estonia proselytizing on the doorstep is seen as not just annoying but offensively invasive, an abuse of politeness and privacy and autonomy.<a href="#fn:5" id="fnref:5">5</a> I claim that the social justice wave of the eC21st was neither capital-R-religious nor atheistic (it mutated until it could move any host), but it certainly occupied the space that social atheism could have.
+* _Philosophical atheism_: the kind you know. Debunking and denouncing, Dawkins and Hitchens, Reddit and LessWrong. We adore the oldies - Diagoras, Lucretius, Knutzen, Hume and d'Holbach, Shelley - so brave, they were so original, they sacrificed so much - but the new ones <a href="{{ssc}}">fell</a>, partly because of their weakmanning, partly because sincerity became cringe, partly because the American religious right lost some of its supremacy and cohesion making organised atheism less urgent, partly because the grotesques of the war on terror made the Left want to defend Muslims.
 
-* _Political atheist_: Again, this would mean believing it is good to not be religious. The Communists were this: religion as the opiate of the masses, which they were best served going cold turkey off, so that the pain of life would agitate and mobilise them. Hard to think of many current examples, partly because the evidence is mildly against instrumental atheism, and atheists feel compelled to pay more lip service to evidence (since what else can they rest upon?). Clearly this is different in China.
+
+* _Political atheism_: Again, this would mean believing it is good to not be religious. The Communists were this: religion as the opiate of the masses, which they were best served going cold turkey off of, so that the pain of life would agitate and mobilise them to true consciousness.<br><br>Hard to think of many current examples, partly because the evidence is mildly against instrumental atheism, and atheists feel compelled to pay more lip service to evidence (since what else can they rest upon?). Clearly this is different in China.
 
 
 <br><br>
 
-The above very basic understanding helps me put up with religion, which is good because it means I have more friends / am less of a dickhead. But it's not unqualified. I still believe theism is a mistake, lightly immoral like littering; a damn shame in an intelligent being; to be tolerated rather than approved-of. 
+The above very basic understanding helps me put up with religion, which is good because it means I have more friends / am less of a dickhead. I still believe theism is a mistake, lightly immoral like littering; a damn shame in an intelligent being; to be tolerated rather than approved-of.<a href="#fn:10" id="fnref:10">10</a>  
 
 <!-- (It's also dishonest to exploit it for feels or cheap political gain, as some modern chuds do.)  -->
 
@@ -111,4 +114,8 @@ But I appreciate the three types as a common way to be nice, thoughtful, or prud
 	<li class="footnote" id="fn:9">
 		Though not in the aristocracy or most Black communities.
 	</li>
+	<li class="footnote" id="fn:10">
+		And also monitored closely for <a href="{{nuc}}">enlarged nuclei</a>
+	</li>
+	
 </ol>
