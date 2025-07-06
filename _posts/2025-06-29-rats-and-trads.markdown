@@ -16,6 +16,7 @@ importance: 6
 warnings:	An attempt to analyse a way of life I don't have much experience with; worse, also an attempt to analyse a way of life I have too much experience with
 wordcount:  
 categories: education, rationality, book, ethics-of-belief, greats, humanism, literature, philosophy
+argument:   trads/argument.html
 where:      "Annapolis"
 ---
 
@@ -190,7 +191,7 @@ Without rationalists they wouldn't have half of their curriculum. And without ra
 
 One should not tear down fences without knowing why they are there - but at this point we have a 250 year tradition of tearing down fences and coming out well on net. Don't tear down my fence made of tearing down fences!
 
-There are so, so many ways to think badly - and the canon is full of them. But the errors are usefully decorrelated.
+There are so, so many ways to think badly - and the canon is full of them. But the errors are usefully decorrelated(?)
 <!-- , despite the efforts of the traditionalists to correlate us with them. -->
 
 <!-- I haven't seen any of them analyse their ideology like this post tries to. -->
