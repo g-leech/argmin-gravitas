@@ -32,6 +32,8 @@ Eventually I worked it out. The shortest version is that I am Greek, but they ar
 
 For them the point is the process (truth-seeking, character-formation, cultural transmission); but the point is the result (truth, character, culture). Their fundamentalism is in going back to the beginning. Mine is in zeal for correctness.
 
+At the extremes, scholarship and research come apart. You don't have to pick between them, but some people do.
+
 <br>
 
 <div class="accordion">
