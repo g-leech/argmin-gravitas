@@ -173,7 +173,7 @@ Nearly everyone struggles with rationalists. They ignore so much, and change the
 	<div>
 		One thing people do when trying to argue deep orientations to the world is to <i>psychologise</i> a position: to explain why it is held rather than why it is true or false. This is very dangerous to do to others, but important to do to oneself:<br><br>
 <!--  -->
-		My rationalist method is surely an adaptive preference on top of my impatience, contrarianism, and cynicism.<a href="#fn:1" id="fnref:1">1</a> I hate the cyclical and eternal.
+		My rationalist method is surely an adaptive preference on top of my impatience, contrarianism, and cynicism.<a href="#fn:2" id="fnref:2">2</a> I hate the cyclical and eternal.
 		<!-- A brilliant friend once summed up my character in four panels: -->
 		<!-- i.e. I loved questions more than I loved answers. I now think this is partially because I wasn't very good at answering them.<br> -->
 		A natural accusation, which actually came up in the seminar I mentioned in the intro, is that rationalism is an incapacity: intolerance of mess or aporia or unanalysables, when in fact things are messy and unknown and hard to get an attack on. The answer is simple: rationalist arrogance sometimes makes some headway against mess, where traditionalism leaves behind exactly the same amount of mess after it passes.
