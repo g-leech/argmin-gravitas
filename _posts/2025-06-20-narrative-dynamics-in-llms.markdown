@@ -146,6 +146,8 @@ Post-training is character training; but character training does not succeed in 
 
 Fully conventional. An analogy is to a person who can only think in terms of cliches.
 
+Consider the models telling you about [their wife](https://x.com/peterwildeford/status/1941607936402301214) or their dance routine or accidentally [adopting the persona](https://pbs.twimg.com/media/GvL3Dq1bQAAnKbj?format=jpg&name=large) of a queried person. This clearly hasn't triggered the character parts.
+
 This is the grain of truth in the “[stochastic parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)” hypothesis
 
 ## Character

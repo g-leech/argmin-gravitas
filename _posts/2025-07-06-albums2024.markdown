@@ -1,0 +1,41 @@
+---
+layout:     post
+title:      "~1000 albums in 2024"
+baselink:   /2024
+permalink:  /2024
+date:       2025-06-29
+author:     Gavin
+img:        /img/
+
+visible:    1
+published:  false
+quality:    
+
+summary:    What's going on?
+confidence: 
+warnings: 	
+importance: 2
+wordcount:  
+categories: music
+where:      "Annapolis"
+---
+
+Last year, I listened to [914 albums](https://www.albumoftheyear.org/user/gleech/ratings/release-date/17/) released last year. I had a few aims: capturing the zeitgeist; seeing if the usual sense we have that new stuff isn't as good is actually true; to be contrarian in the [catalog age](https://www.infinitescroll.us/p/old-art-is-strangling-new-art); to see what it's like to be [Piero Scaruffi](https://scaruffi.com/cdreview/index.html). I think I got all of those.
+
+914 is a pretty huge sample, but it's still less than 1% of any sensible measure of new music (one site I like [lists](https://www.albumoftheyear.org/2024/releases/?page=2260) 135,000 albums of 2024). It's probably more than 1% of notable new music though.
+
+## Top 5
+
+Compilations and box sets are cheating, though.
+
+### Fossil Cocoon: The Music of K. Yoshimatsu
+
+### Retrospective: Selected Recordings 1973-2023
+
+https://www.albumoftheyear.org/album/977993-daniel-lentz-lips.php
+
+### Selected Ambient Works Volume II (Expanded Edition)
+
+
+## Actual top 5
+
