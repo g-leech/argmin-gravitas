@@ -24,11 +24,11 @@ Recently I spent some time at a liberal arts college, doing close reading out lo
 
 After all, I'm an obsessive reader -- and they do little else. I'm <a href="/ambitions">uninterested</a> in most kinds of worldly success -- and, e.g., none of the six professors present had ever _heard of_ YCombinator. We both love learning and teaching and talking about ideas; admire and [promote](https://www.dialogues-de-platon.org/faq/faq009.htm) mathematics; take aesthetics seriously; get really into philosophical questions; think that virtue is extremely real and extremely important and at least a little transmissible; and have serious misgivings about AI, academia, goodharting, specialisation, and other mechanisations of the as-if soul. From the outside we seem like the same kind of intellectual fundamentalist organising our lives around thinking.
 
-Is it that they're religious? _No; I have religious friends who instead share my disposition._ Is it that they're conservatives? _No; they're sometimes not (one's a sort of Marxian), and anyway at this point I am unthreatened by Burkean selection and Hayekian humility._ Is it that they're hostile to science? _They're not; they all know C20th physics in some detail and view it an essential and noble part of the human mind. These ones simply aren't like Snow's philistines._ Is it that they hide in the past? _No; they're much occupied by understanding and critiquing the present with tools from the past_. Is it that they're deontologists? _I don't know that they are; they could easily believe that the transmission of wisdom and the leading-out of new minds is the greatest matter of consequence._ Is it that they think that the modern world is worse than the old one? _In some ways; better in others._
+Is it that they're religious? _No; I have religious friends who instead share my disposition._ Is it that they're conservatives? _No; they're sometimes not (one's a sort of Marxian), and anyway at this point I am unthreatened by Burkean selection and Hayekian humility._ Is it that they're hostile to science? _They're not; they all know C20th physics in passing and view it an essential and noble part of the human mind. These ones simply aren't like Snow's philistines._ Is it that they hide in the past? _No; they're much occupied by understanding and critiquing the present with tools from the past_. Is it that they're deontologists? _I don't know that they are; they could easily believe that the transmission of wisdom and the leading-out of new minds is the greatest matter of consequence._ Is it that they think that the modern world is worse than the old one? _In some ways; better in others._
 
-Or is it that they're holists? That they don't quantify much? That they view philosophy as the best thing for humans to do? That they are idealists? That they hold onto the manifest image and folk psychology? Getting warmer, but these are mere philosophical disagreements and there's something deeper behind these symptoms.
+Or is it that they're holists? That they don't quantify much? That they view philosophy as the best thing for humans to do? That they are idealists? That they hold onto the manifest image and folk psychology? _Getting warmer, but these are mere philosophical disagreements and there's something deeper behind these symptoms._
 
-Eventually I worked it out. The shortest version is that I am Greek, but they are Roman. Their default is to respect the past; I default to disrespecting it. They love the context of discovery most; I love the context of justification. I think the human condition has changed enormously, that qualitative history is just not very explanatory, that philosophy is nice but relatively impotent, and that the conceptual tools developed in the last hundred years (probability theory, formal logic, linear algebra, and above all computation) are superior to nearly all those of the entire past; they aren't convinced. To get at the world they analyse texts and ideas; impatiently, I want to analyse the world directly. I am obsessed with originality and novelty; they are deeply suspicious of them. I have a problem with authority; they have a problem with its absence. 
+Eventually I worked it out. The short version is that I am Greek, but they are Roman. Their default is to respect the past; I default to disrespecting it. They love the context of discovery most; I love the context of justification. I think the human condition has changed enormously, that qualitative history is just not very explanatory, that philosophy is nice but relatively impotent, and that the conceptual tools developed in the last hundred years (probability theory, formal logic, linear algebra, and above all computation) are superior to nearly all those of the entire past; they aren't convinced. To get at the world they analyse texts and ideas; impatiently, I want to analyse the world directly. I am obsessed with originality and novelty; they are deeply suspicious of them. I have a problem with authority; they have a problem with its absence. 
 
 For them the point is the process (truth-seeking, character-formation, cultural transmission); but the point is the result (truth, character, culture). Their fundamentalism is in going back to the beginning. Mine is in zeal for correctness.
 
@@ -89,17 +89,17 @@ You don't have to agree with what you read, read deeply, or even with what you d
 
 ### But 
 
-Obviously the traditionalist curriculum includes sufficiently-old rationalists: Bacon, Leibniz, Franklin, Hume and so on. The best of my kind will show up in their curricula in a hundred years or two; but the converse is not true.
+Obviously the traditionalist curriculum includes rationalists sufficiently-old: Bacon, Leibniz, Franklin, Hume and so on. The best of my kind will show up in their curricula in a hundred years or two; but the converse is not true. (Well ok, but maybe that's because rats are closed-minded.)
 
 They conduct a modest study of some of the least modest people of all time. Hegel thought his was the [final philosophy](https://shs.cairn.info/journal-archives-de-philosophie-2010-2-page-249?lang=en). Leibniz went further, thinking that he could automate and solve all arguments in any field.
 
 It's cool to read al-Khwarizmi, but when we do we're doing something quite different than he was doing. He was exploring, and we're retreading. You are not learning how to do science when you read 400 year old texts, because science is always in the present tense (even when it mines old texts for neglected and decorrelated ideas).
 
-I buy that to really understand Christianity, you need to understand Judaism and Platonism. But I have the great fortune of [not much](https://www.goodreads.com/quotes/6673489-if-someone-does-not-believe-in-fairies-he-does-not) needing to understand Christianity. We gave it enough of our time.
+I buy that to really understand Christianity, you need to understand Judaism and Platonism. But I have the great fortune of [not much](https://www.goodreads.com/quotes/6673489-if-someone-does-not-believe-in-fairies-he-does-not) needing to understand Christianity. We gave it enough of our time already.
 <!-- But no lovely soft brutal Nietzsche -->
 
 
-It's logically not the only source of wisdom, since if there had to be a first who was doing something new. Well ok but maybe you have to be completely exceptional, so it's not practically relevant.
+Tradition is logically not the only source of wisdom, since there had to be a first person doing something new for a tradition to get going. (Well ok, but maybe you have to be completely exceptional to initiate and add real substance, so it's not practically relevant for most of us.)
 
 <!-- I'm fixating on philosophy and history here, since it's the one making truth claims. A life reading French poetry is even more -->
 
@@ -152,7 +152,7 @@ No, the object is right here. There is an answer, and we can find it ourselves. 
 
 Correctness matters to me too much, and even the best of the ancients are unable to be correct, and the text seminar is too cooperative and "yes, and" to focus on correctness as much as I need.
 
-I'm not very interested in history for its own sake. I don't esteem things just because they are large or famous or influential. I think Burkean selection was serving all kinds of goals I don't have (like the justification of who happens to be holding power).
+I'm not very interested in history for its own sake (hence how I can possibly say "the object is right here"). I don't esteem things just because they are large or famous or influential. I think Burkean selection was serving all kinds of goals I don't have (like the justification of who happens to be holding power).
 
 > the genuine philosopher... lives "unphilosophically" and "unwisely," above all, imprudently, and feels the obligation and burden of a hundred attempts and temptations of life -- he risks himself constantly, he plays this bad game.
 <center>— Nietzsche</center>
@@ -208,6 +208,8 @@ We have many enemies in common.
 
 There is something valuable and inexhaustible here, and [if we survive](https://nickbostrom.com/deep-utopia/) then their activity will help keep life interesting when the horrible but exciting economic and political problems are taken from us.
 
+The rationalist way of compromising is to ask what the split is. I've given lots of reasons to do some trad (quite besides enjoyment). But having more than like 20% focus on trad matters would worry me. 
+
 <br>
 
 ---
@@ -228,6 +230,7 @@ Added to the great conjunction of what-ifs that always encircles me is the warmi
 * [Greg Lewis](https://dailynous.com/2016/04/26/were-historys-so-called-greatest-philosophers-all-that-great/)
 * [A classicist's critique of classics](https://x.com/Scholars_Stage/status/1828415924841418790)
 * [Katja on the real reason to read Aristotle](https://dailynous.com/2017/01/10/read-old-philosophy-guest-post-katja-grace/)
+* [History of the American neotrads](https://x.com/GrandBastion/status/1942075389867639167)
 
 <div class="footnotes">
 

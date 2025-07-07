@@ -24,7 +24,7 @@ where:      "Aberdeen, Scotland"
 
 {%	assign hook = "http://www.jstor.org/sici?sici=0261-1430%28198701%296%3A1%3C1%3AATO"	%}
 {%	assign bon = "https://en.wikipedia.org/wiki/Bonnie_%22Prince%22_Billy"	%}
-
+{%	assign graun = "https://www.theguardian.com/music/musicblog/2010/jan/27/joanna-newsom-81?CMP=gu_com#comment-1242031"	%}
 
 
 <center>
@@ -36,7 +36,7 @@ where:      "Aberdeen, Scotland"
 <blockquote>
 ...<i>do her words really need to be broken down like formulae? I think not. Simply to escape into the world of Joanna and be incapsulated into it and applauding it is enough. And maybe not understanding completely is the more beautiful act of musical appreciation, lack of total understanding leaves the listener with a humbled nice sense of ignorant awe</i>.
 </blockquote>
-&#8213; <i>Guardian</i> commenter
+&#8213; <a href="{{graun}}"><i>Guardian</i> commenter</a>
 
 <br><br>
 (Forgive me; I am not satisfied by ignorant awe.)
