@@ -12,7 +12,7 @@ visible: 	1
 best:		1
 quality:    9
 
-summary:    Tiny app for defining "computer" and selecting between first computers.
+summary:    Tiny app for defining "computer".
 confidence:	Pretty sure, 90%. A few dates missing, but there's no crucial overlaps.
 categories: computers, history, conceptual-analysis, lists
 warnings:	unfair posterity.
@@ -66,6 +66,13 @@ wordcount:	1039
 </div>
 
 {%	include comput/details.html 	%}
+
+
+<br>
+
+I have to my satisfaction solved this historical question by enumeration. Why don't people do this more often?
+
+Well, for a start most historical spaces aren't so cleanly definable. And without software to structure the data it would be tedious stuff.
 
 {%  include comput/foots.html %}
 

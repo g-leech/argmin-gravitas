@@ -67,7 +67,7 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 <!--  -->
 	<li>
 		<h3>the philosopher as intellectual janitor</h3>
-	The standard rejoinder to the account of philosophy implied above is that philosophy is not about <i>adding</i> to a body of knowledge, but instead clarifying the concepts used in other bodies of knowledge. (<a href="{{midg}}">Mental plumbing</a>). This is how naturalist philosophers think of their role, e.g. WVO Quine: 
+	The standard rejoinder to the account of philosophy implied above is that philosophy is not about <i>adding</i> to a body of knowledge, but instead clarifying the concepts used in other bodies of knowledge. We're not seeking truth per se, we're seeking "understanding": a sensible account of what those truths mean, how they relate, which are made of which others, and so on. (<a href="{{midg}}">Mental plumbing</a>). This is how naturalist philosophers think of their role, e.g. WVO Quine: 
 	<br><br>
 <!--  -->
 	 <blockquote>
