@@ -22,12 +22,12 @@ visible:    false
 
 #### Ugly Slave (by 辛棄疾)
 
-When I was young and ignorant of the taste of sorrow <br>
+When I was young and didn't know sorrow <br>
 I loved to scale the roofs<br>
 Yes, I scaled the roofs<br>
 To compose new verses I feigned my woe.<br><br>
 
-Now I understand sorrow’s flavours<br>
+Now I understand sorrow’s flavour<br>
 I can’t find the words<br>
 Yes, I can’t find the words<br>
 Instead: 'What a cool day! Such lovely autumn weather!'<br>

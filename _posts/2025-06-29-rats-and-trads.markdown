@@ -20,7 +20,7 @@ argument:   trads/argument.html
 where:      "Annapolis"
 ---
 
-Recently I spent some time at a liberal arts college, doing close reading out loud with a group of the profs. It was lovely; stimulating, collegial, civilised. A little pocket of air outside history. But I was aware of being an interloper, of feeling inimical to them. But why?
+Recently I spent some time at a liberal arts college, doing close reading out loud with a group of the profs. It was lovely; stimulating, collegial, civilised. A little pocket of air outside history. But I was aware of being an interloper, of feeling inimical to them. Why?
 
 After all, I'm an obsessive reader -- and they do little else. I'm <a href="/ambitions">uninterested</a> in most kinds of worldly success -- and, e.g., none of the six professors present had ever _heard of_ YCombinator. We both love learning and teaching and talking about ideas; admire and [promote](https://www.dialogues-de-platon.org/faq/faq009.htm) mathematics; take aesthetics seriously; get really into philosophical questions; think that virtue is extremely real and extremely important and at least a little transmissible; and have serious misgivings about AI, academia, goodharting, specialisation, and other mechanisations of the as-if soul. From the outside we seem like the same kind of intellectual fundamentalist organising our lives around thinking.
 
@@ -28,7 +28,7 @@ Is it that they're religious? _No; I have religious friends who instead share my
 
 Or is it that they're holists? That they don't quantify much? That they view philosophy as the best thing for humans to do? That they are idealists? That they hold onto the manifest image and folk psychology? _Getting warmer, but these are mere philosophical disagreements and there's something deeper behind these symptoms._
 
-Eventually I worked it out. The short version is that I am Greek, but they are Roman. Their default is to respect the past; I default to disrespecting it. They love the context of discovery most; I love the context of justification. I think the human condition has changed enormously, that qualitative history is just not very explanatory, that philosophy is nice but relatively impotent, and that the conceptual tools developed in the last hundred years (probability theory, formal logic, linear algebra, and above all computation) are superior to nearly all those of the entire past; they aren't convinced. To get at the world they analyse texts and ideas; impatiently, I want to analyse the world directly. I am obsessed with originality and novelty; they are deeply suspicious of them. I have a problem with authority; they have a problem with its absence. 
+Eventually I worked it out. The short version is that I am Greek ("rationalist"), but they are Roman ("traditionalist") - [French, where they are English](https://en.wikipedia.org/wiki/Classical_liberalism#Typology_of_beliefs). Their default is to respect the past; I default to disrespecting it. They love the context of discovery most; I love the context of justification. I think the human condition has changed enormously, that qualitative history is just not very explanatory, that philosophy is nice but relatively impotent, and that the conceptual tools developed in the last hundred years (probability theory, formal logic, linear algebra, and above all computation) are superior to nearly all those of the entire past; they aren't convinced. To get at the world they analyse texts and ideas; impatiently, I want to analyse the world directly. I am obsessed with originality and novelty; they are deeply suspicious of them. I have a problem with authority; they have a problem with its absence. 
 
 For them the point is the process (truth-seeking, character-formation, cultural transmission); but the point is the result (truth, character, culture). Their fundamentalism is in going back to the beginning. Mine is in zeal for correctness.
 
@@ -83,6 +83,8 @@ Rote learning, imitation, and humility are underrated first steps in education. 
 The ancients are quite interesting. Getting your head out of the post-Christian Enlightenment postmodern is useful to be able to do, e.g. so you can see it more clearly by comparison. Some apparently new things are just rehashing ancient things, sometimes missing the point or flattening it.
 
 Understanding people very different from you is hard and key, and theory of mind generalises. Solitary learning is harder, so just talk to each other. 
+
+Historiography is better than nothing. 
 
 You don't have to agree with what you read, read deeply, or even with what you devote your life to. 
 
@@ -146,6 +148,9 @@ As you can see, I struggle with this.
 > Follow not the paths of the ancients; seek what they sought.
 <center>— Baizhang Huaihai</center>
 
+<!-- The purpose of] the law is to care for the people; [the purpose of] ritual is to benefit undertakings. Hence, whenever it is possible to strengthen his state, the sage does not emulate the past; whenever it is possible to benefit the people, he does not follow rituals. -->
+<!-- The Book of Lord Shang -->
+
 <br>
 
 No, the object is right here. There is an answer, and we can find it ourselves. I am impatient with texts because I wish to reach past them to reality. 
@@ -163,6 +168,8 @@ I address myself to playing the bad game instead of the renunciation of the worl
 
 
 It is plausible to me that [something more than 8%](https://dailynous.com/2016/04/26/were-historys-so-called-greatest-philosophers-all-that-great/) of the best philosophy ever done is happening now, and I want it represented.
+
+I am very struck by the Bitter Lesson, the overturning of a few (scientific) fields in just 10 years: the relevant point is that human priors and concepts ended up being mostly inferior to those learned directly from data. ("Every time I fire a linguist...") Whether this transfers to the humanities is far from obvious but you might at least worry. But the lesson bears on human rationalists who aren't using machines as well.
 
 Finally my morals drive me out into the world. I teach, and while I think that's a morally significant act it is mostly instead part of my own flourishing. My life would feel like a failure if it was all I did. 
 
@@ -208,7 +215,13 @@ We have many enemies in common.
 
 There is something valuable and inexhaustible here, and [if we survive](https://nickbostrom.com/deep-utopia/) then their activity will help keep life interesting when the horrible but exciting economic and political problems are taken from us.
 
+One of my favourite poems, '[Under Which Lyre](https://allpoetry.com/Under-Which-Lyre)', contrasts Apollo (top-down control, Marxism-Taylorism, self-congratulory practicality) with Hermes (artistry, freedom, mess). Certainly without rationalism I side with Hermes over Apollo, and Apollo gets carried away all the time, and people don't even see Hermes as an option.
+
 The rationalist way of compromising is to ask what the split is. I've given lots of reasons to do some trad (quite besides enjoyment). But having more than like 20% focus on trad matters would worry me. 
+
+<br>
+
+Sebastian, an actual classicist, replies to me [here](https://sebastiangarren.com/2025/07/07/what-we-will-become-has-not-yet-been-revealed/).
 
 <br>
 
@@ -221,16 +234,25 @@ Just as you can't really understand England without leaving it, I understand rat
 
 Added to the great conjunction of what-ifs that always encircles me is the warming thought that I could spend my life peacefully-passionately in this cloister, keeping things warm. Or, I won't but I could have. Or, I won't but I can visit.
 
+
+> Let the tutor make his charge pass everything through a sieve and lodge nothing in his head on mere authority: let not Aristotle's principles be principles to him, any more than those of the Stoics or Epicureans. Let this variety of ideas be set before him; he will choose if he can; if not, he will remain in doubt... For if he embraces Xenophon's and Plato's opinions by his own reasoning, they will no longer be theirs, they will be his... We are not under a king; let each one claim his own freedom... He must imbibe their ways of thinking, not learn their precepts. And let him boldly forget, if he wants, where he got them, but let him know how to make them his own. 
+
+> Truth and reason are common to everyone, and no more belong to the man who first spoke them than to the man who says them later. It is no more 'according to Plato' than 'according to me', since he and I understand and see it the same way. The bees plunder the flowers here and there, but afterward they make of them honey, which is all theirs; it is no longer thyme or marjoram. Just so with pieces he borrowed from others; he will transform and blend them to make a work of his own - to wit, his judgment.
+
+<center>— Montaigne</center>
+
 <br>
 
 ## See also
 
 * This post is in a way an exact parallel of <a href="/llms">this post</a>. I can't look backwards and I can't look forwards.
+* Sebastian, an actual classicist, replies to me [here](https://sebastiangarren.com/2025/07/07/what-we-will-become-has-not-yet-been-revealed/).
 * <a href="https://joecarlsmith.com/2024/03/21/on-green">On Green</a>
 * [Greg Lewis](https://dailynous.com/2016/04/26/were-historys-so-called-greatest-philosophers-all-that-great/)
 * [A classicist's critique of classics](https://x.com/Scholars_Stage/status/1828415924841418790)
 * [Katja on the real reason to read Aristotle](https://dailynous.com/2017/01/10/read-old-philosophy-guest-post-katja-grace/)
 * [History of the American neotrads](https://x.com/GrandBastion/status/1942075389867639167)
+* [Chris apologia](https://utilityhotbar.github.io/signal_flare/0.html)
 
 <div class="footnotes">
 

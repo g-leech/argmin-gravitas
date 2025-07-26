@@ -11,7 +11,7 @@ visible:    1
 published:  true
 quality:    
 
-summary:    
+summary:    less-visible, less-conventional drives are still drives
 confidence: 
 importance: 7
 wordcount:  
@@ -47,9 +47,10 @@ The obvious problem with this is that my attention is divided, so singular great
 You could make a bundle of ambitiousness out of various axes:
 
 * _How many people it affects_. 
-* _How counterfactual it is_. Art is much more counterfactual than science, but I don't want to say that art is more ambitious than science.
-* _How novel it is_. Cutting apples out of your own mouth using a chainsaw doesn't have any effect on anyone else.
+* _How counterfactual it is_. ...Art is much more counterfactual than science, but I don't want to say that art is more ambitious than science.
+* _How novel it is_. Cutting apples out of your own mouth using a chainsaw doesn't have any effect on anyone else. But it is novel, or it was 20 years ago.
 * _How hard it is_. 
+* ...
 
 
 ## Others 
