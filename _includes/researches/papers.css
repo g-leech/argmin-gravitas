@@ -11,6 +11,13 @@ img:hover {
   border: 4px dashed black;
 }
 
+.nah{
+	padding-bottom: 0em;
+	padding-left: 0em;
+	border-left: none;
+	margin: 1.5em 0 0.7em 0.5em;
+}
+
 img.bris {
   border-radius: 0%;
   padding: 10px;

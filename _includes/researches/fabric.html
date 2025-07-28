@@ -1,36 +1,38 @@
 {%  assign id = "fabimg"  %}
-
+{%  assign fabr = "https://www.lulu.com/shop/olga-babeeva-and-gavin-leech/the-fabric-book/hardcover/product-w4yw5q2.html" %}
 <tr>
     <td class="logo">
-        <!-- <a href="">
+        <a href="{{fabr}}">
             <div id="{{id}}"></div>
-        </a> -->
+        </a>
     </td>
     <td style="padding-left: 5px">
         <h4>
-            <a class="nolink" href="" target="_blank">
+            <a class="nolink" href="{{fabr}}" target="_blank">
                 The Fabric Book
                 <span class="year">(2025)</span>
             </a> 
         </h4>
         <div class="journo">
+            <a class="nolink" href="https://fabric.camp">fabric.camp</a>
         </div>        
-        <!-- <span class="dropdown">
+        <span class="dropdown">
           <button class="dropped" onclick="javascript:drop('fabric')">The point</button>,
-          <div id="dwarkesh" class="dropdown-content">
+          <div id="fabric" class="dropdown-content">
             <br>
-            <i>Authors</i>: Various
+            I edited a volume of the best essays by the <a href="https://fabric.camp">Fabric</a> community. A distinct lineage of rationality I love.
             <br><br>
-            <i>Total hours I contributed</i>: .
+            <i>Authors</i>: Various. Thanks also to Olga for the great cover designs, Phil for the LaTeX, and Xavi for the maths. 
             <br><br>
           </div>
-        </span> -->
+        </span>
+        <a href="{{fabr}}" target="_blank">Lulu</a>
     </td>
 </tr>
 
 
 
 <script>  
-    var src="/img/"; 
+    var src="/img/fabricf.png"; 
     definiteEvent( createImg, [src, "{{id}}"] ); 
 </script>

@@ -25,10 +25,10 @@ visible:	true
 
 <table>
 	{%	include researches/dp.html	%}
+	{%	include researches/fabric.html	%}
 	{%	include researches/phd.html	%}
-	{%	include researches/gr.html	%}
+	<!-- %	include researches/gr.html	%} -->
 	<!-- %	include researches/mp.html	%} -->
-	<!-- %	include researches/fabric.html	%} -->
 	<!-- %	include researches/arbbook.html	%} -->
 </table>
 
