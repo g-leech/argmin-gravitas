@@ -106,6 +106,7 @@ visible:	true
 	<div>
 		<ul>
 		<!--  -->
+		<li><a class="noline" href="https://press.stripe.com/scaling">The Scaling Era</a> (with Dwarkesh Patel)</li>
 		<li><a class="noline" href="{{shallow}}">Shallow review of live agendas in alignment</a> (2023)</li>
 		<li> <a class="noline" href="{{ifp}}">Can policymakers trust forecasters?</a> (2023)</li>
 		<li> Total rewrite of the <a class="noline" href="{{wiki}}">AI alignment wikipedia page</a> with Mantas Manzeikas and Sören Mindermann (2022)</li>
