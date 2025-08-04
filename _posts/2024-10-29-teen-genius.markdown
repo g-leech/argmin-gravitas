@@ -25,23 +25,36 @@ where:      "Cambridge"
 
 It's mostly maths and music.
 
-* Evariste Galois (Algebra), 19
 * Saul Kripke (modal logic), 15
-* Walter Pitts (logic, the neuron), 18
-<!--* Bose (stat mech), -->
-* Niels Abel (the quintic), 18
-* Frank Ramsey (translation, economics), 18 
-* Lagrange (variational calculus), 18 
-* Gauss (geometry, number theory), 19 
 * Pascal (geometry, computing), 16 
+* Gauss (geometry, number theory, OLS), 16 
+* Clairaut (differential geometry), 16
+<!-- * Akshay Venkatesh (), 17 -->
+* Charles Fefferman (logic), 17 
+* Walter Pitts (logic, the neuron), 18
+* Frank Ramsey (translation, economics), 18 
 * Wiener (logic), 18
+* Niels Abel (the quintic), 18
+* Lagrange (variational calculus), 18 
+* Evariste Galois (Algebra), 19
+<!--* Bose (stat mech), -->
+<!-- * Ramanujan (reinventing half of the above), 19 -->
 * von Neumann (foundations), 20
-* Nash (games), 21
 * Aaronson (complexity), 20
+* Grothendieck (functional analysis), 21
+<!-- Tao, 21 -->
+* Nash (games), 21
+<!-- * Clifford Cocks, 22 -->
+<!-- Hannah Cairo https://arxiv.org/abs/2502.06137 -->
+* Dürer (painting), 13
 * Turner (painting), 15
 * Picasso (painting), 15
-* Dürer (painting), 13
+* Raphael (painting), 16
+* Van Dyck (painting), 16
 * Gentileschi (painting), 17
+* Velazquez (painting), 19
+* Bernini (sculpture), 13
+* Michelangelo (sculpture), 16
 <!-- Vigée Le Brun -->
 <!-- Basquiat -->
 * Fermi?
@@ -57,7 +70,7 @@ In writing, we have Rimbaud, Chatterton, Joyce, the Shelleys, Pope.
 <!-- Bergman https://math.berkeley.edu/~gbergman/papers/base_tau.pdf -->
 <!-- Colt revolver -->
 
-In leadership, Augustus Caesar, Tokugawa Ieyasu, Muhammad ibn al-Qasim, Lafayette, Genghis Khan.
+In leadership, Alexander, Augustus Caesar, Tokugawa Ieyasu, Muhammad ibn al-Qasim, Lafayette, Genghis Khan, Garibaldi, Jeanne d'Arc.
 
 I don't give a fuck about chess.
 
@@ -70,7 +83,7 @@ On the other hand, it is normal for teenagers to make incredible music, such tha
 <div class="accordion">
 	<h3>Young music</h3>
 	<div>
-		Mozart, Mendelssohn, The Schumanns, Paganini, Prokofiev, Rachmaninoff, Chopin, Liszt, Barber, Strauss, Rota, Nejiko Suwa.<br><br>
+		Mozart, Mendelssohn, The Schumanns, Bizet, Schubert, Paganini, Prokofiev, Rachmaninoff, Chopin, Liszt, Barber, Strauss, Rota, Nejiko Suwa.<br><br>
 		Minor Threat, Replacements, Kool Herc, Behemoth, Kate Bush, Sepultura, Laura Marling, Dizzee Rascal, Arctic Monkeys, AFX, Beirut, Bad Religion, Metallica, Sondre Lerche, Green Day, Ash, Stevie Wonder, Milla Jovovich, Karen Brooks, Cap'n Jazz, Nas, James Ferraro, Yoji Mabuchi, Avey Tare, Gordon Gano, De La Soul, Them, Johnny Marr, Leiber & Mike Stoller, Fiona Apple, Maurice Williams, A Tribe Called Quest
 		<!-- Horsegirl, Squirrel Bait -->
 	</div>
