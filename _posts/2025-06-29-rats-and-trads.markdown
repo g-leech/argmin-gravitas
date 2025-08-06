@@ -215,7 +215,7 @@ We have many enemies in common.
 
 There is something valuable and inexhaustible here, and [if we survive](https://nickbostrom.com/deep-utopia/) then their activity will help keep life interesting when the horrible but exciting economic and political problems are taken from us.
 
-One of my favourite poems, '[Under Which Lyre](https://allpoetry.com/Under-Which-Lyre)', contrasts Apollo (top-down control, Marxism-Taylorism, self-congratulory practicality) with Hermes (artistry, freedom, mess). Certainly without rationalism I side with Hermes over Apollo, and Apollo gets carried away all the time, and people don't even see Hermes as an option.
+One of my favourite poems, '[Under Which Lyre](https://allpoetry.com/Under-Which-Lyre)', contrasts Apollo (top-down control, Marxism-Taylorism, self-congratulory practicality) with Hermes (artistry, freedom, mess). Certainly within rationalism I side with Hermes over Apollo, and Apollo gets carried away all the time, and people don't even see Hermes as an option.
 
 The rationalist way of compromising is to ask what the split is. I've given lots of reasons to do some trad (quite besides enjoyment). But having more than like 20% focus on trad matters would worry me. 
 
