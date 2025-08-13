@@ -62,6 +62,9 @@ On a handful of days a year in Aberdeen when the sun comes out after the rain an
     * We're late to things. Whaling 1800 (vs 1700), art gallery 1880 (Glasgow 1807), electric light 1894 (London 1878), Uber 2024 (London 2012)
     <!-- * >  "Aye, we're shite - but it's brilliant being shite." -->
 <br><br>
+<center>
+    <img src="/img/abdn/spire.jpg" width="50%" />
+</center>
 
 <blockquote style="padding-bottom: 0pt;">
     Bleakness, not meanness... is the keynote to Aberdonian character... It is comparable to passing one's existence in a refrigerator... like jail... the uneasy sense that you may not rest here, you may not lounge.
@@ -72,7 +75,7 @@ On a handful of days a year in Aberdeen when the sun comes out after the rain an
     <!-- * The ominously named Cults is in the top 50 most expensive postcodes in the country.  -->
     * AB15 is the postcode with the most millionaires outside London. 
     * During the 2009 financial crisis, Aberdeen was the only UK city beside London to completely avoid recession. It arrived in 2015 instead, when the American shale taps and the OPEC taps opened. Having half of all jobs in one sector ("energy") means it's absurdly cyclical, in lagged concert with the current global oil price. Population is down 7% in the last ten years.
-    <img src="/img/abdn/ile.png" width="50%" />
+    <img src="/img/abdn/ile.png" width="80%" />
 
 *
     * Yes: just after the Scottish independence referendum, the oil price halved. Would have been carnage.
@@ -177,8 +180,8 @@ Whenever I have occasion to classify the persons I meet into three classes, "goo
     <blockquote>In vain I sought a single place where I could stand with hands on hips and say 'Aha, so this is Aberdeen'.</blockquote>
     <!-- Fishwives seasonal. Thousands of Gaels every summer. A female industry. -->
 
-* _Change places_. In 1741 they started working the quarries at scale. 
-    * Granite is the hardest thing humans currently build out of (besides some decorative quartzite). There was nothing softer around. So real ("operative") masonry was the key thing. Granite wasn't really workable before; the city could't exist without spiral rope sawing and later water sawing. 
+* _Change places_. In 1741 they started working the granite quarries at scale. 
+    * Granite is the hardest thing humans currently build out of (besides a little decorative quartzite). There was nothing softer around. The city couldn't exist without spiral rope sawing and later water sawing. 
     * About half of the city center is built from the yield of Rubislaw quarry. We made a 140m hole in the ground to make ourselves out of. 
     <!-- * Besides the huge masonry and transport costs, the price was silicosis and now mild radon risk. -->
 
@@ -404,9 +407,11 @@ For the first time in my life I had people would read poetry with me. For the fi
 <!-- 142 King Street - humani nihil alienum -->
 
 * **Street**: Belmont St
-<!-- * **Architect**: It's a two-horse town: Archibald Simpson (1790–1847) and John Smith  -->
 
-* **Church**: St Machar. Tiny, ancient, wooden rafters, filled with song, passed by two thousand heathen students every day, eyes on the ground or each other.
+* **Church**: St Machar. Tiny nave, ancient, wooden rafters, filled with song, passed by two thousand heathen students every day, eyes on the ground or each other.
+
+* **Architect**: Ninian Comper
+<!-- * **Architect**: It's a two-horse town: Archibald Simpson (1790–1847) and John Smith  -->
 
 * **Walk**: Duthie is ok, or the Brig. Maryculter and Dunottar. 
 
