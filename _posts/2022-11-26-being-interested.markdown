@@ -31,4 +31,7 @@ categories: becoming, meaning, fun, self-help
 8. Similarly, there's a positive feedback loop from increasing erudition -- where you start to see the intertextual echoes of other things in other things.<br><br>
 9. It may help to disdain boredom in a moral sense. "Only boring people get bored".
 
+
+
+
 <br><br>

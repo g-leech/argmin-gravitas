@@ -11,9 +11,9 @@ visible:    1
 published:  true
 quality:    4
 
-summary:    Reviewing my third alma mater
+summary:    My third alma mater
 confidence: 
-importance: 2
+importance: 4
 wordcount:  
 categories: places, phd, uni, lists
 where:      "Taipei"
@@ -143,9 +143,13 @@ I lived in Bristol for 5 years, including one _total_ year (in lockdown). As lon
 
 * **Building**: the new Mathematics Building on campus is 80% windows and compelling.
 
+* **Street**: Clifton Village
+
 * **Church**: mostly terrible. The [St Peter and Paul cathedral](https://cliftoncathedral.org/stream) is stunningly ugly on the outside, but the plain white concrete interior is excellent.
 
 * **Restaurant**: Bulrush. Suyuan for regular consumption. 
+
+* **Delicacy**: Cheddar (Especially Strong) and cider (Showerings or Worley's). Most cheese in the world does not compare.
 
 * **Library**: the Central Library is grand and well-used - you'll struggle to find a seat on weekends - and its music section is huge, one of the best I've ever seen. But I only spent a few dozen hours there; it's not a home. Of the uni ones, 
 
@@ -159,4 +163,11 @@ I lived in Bristol for 5 years, including one _total_ year (in lockdown). As lon
 
 ## See also
 
+## See also
+
+* <a href="/glesga">Glasgow</a>
+* <a href="/deen">Aberdeen</a>
+* Taipei
+* Prague
+* [Glasgow on Film](https://glasgowonfilmdotcom.wordpress.com/)
 * https://www.bristolideas.co.uk/wp-content/uploads/2023/10/Bristol650_Book_Online-2.pdf

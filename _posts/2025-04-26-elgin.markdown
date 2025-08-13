@@ -1,0 +1,128 @@
+---
+layout:     post
+title:      "Moray"
+baselink:   /moray
+permalink:  /moray
+date:       2025-08-10
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+quality:    4
+
+summary:    My zeroth alma mater
+confidence: 
+importance: 3
+wordcount:  
+categories: places, uni, lists
+where:      "Bristol"
+---
+
+
+> Life is a citie full of streets<br>
+And death is a mercat where all men meets<br>
+If life was a thing that monie could buy<br>
+The poor could not live and the rich would not die.
+
+
+Fortriu 
+Dolphins
+
+The RAF
+
+Cathedral
+
+Pluscarden
+
+Wolf of Badenoch (the Drowned Lands)
+
+The Gordons were lairds.
+
+
+## The best of Morayshire
+
+
+Mario Conti
+Robert Barclay
+Volusenus
+
+**Art**: Alexander Chisholm
+
+**Exec**: Donald Cruickshank
+
+**Scientist**: Alexander Douglas (haemophilia)
+
+**Medic**: Ethel Fenwick (licencing of nurses)
+
+* **Art**
+
+* **Poet**: Robert Alves
+
+* **Novelist**
+
+* **Journalist**: James Margach
+
+* **Comics**
+
+* **Art music**
+
+* **Popular music**: Harry Robertson
+
+* **Venue**
+
+* **Label**
+
+* **Philosopher**
+
+* **Scientist**: Arthur Mitchell
+
+* **Reformer**: William Ogilvie
+
+* **Inventor**
+
+* **Comedian**
+
+* **Operative**: Margaret Hasluck
+
+* **Philanthropist**
+
+* **Ranter**: William Leslie, communist
+
+* **Folk hero**
+
+* **Eccentric**
+
+* **Labour organiser**: Skene Mackay
+
+* **Crank**
+
+* **Director**
+
+* **Film**
+
+* **TV**
+
+* **Actor**: Kevin McKidd
+
+* **Videogame**: Leslie Benzies, vidya
+
+* **Entrepreneur**
+
+* **Restaurant**
+
+* **Delicacy**
+
+* **Walk**
+
+* **Building**
+
+* **Street**
+
+* **Church**
+
+* **Library**
+
+* **Bookshop**
+
+* **Cafe**

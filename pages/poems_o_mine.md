@@ -210,21 +210,22 @@ Frock coats are new. There are no frock coats, we just pretend we're wearing fro
 Pale rulered ceiling low. <br>
 The fog a second sky at ten paces.<br>
 Your breath a third foglet.<br>
-You'd review harshly a film ending <br>
-among this melodramatic a cloud chamber,<br>
-lazy with meteorological ellipsis.<br><br>
+You'd harshly review a film ending <br>
+among sic a cloud chamber melodrama,<br>
+lazy with climatic ellipsis.<br><br>
 
 Away, you forget endmost<br>
-Grampian, the uniformity and wall-eyed mist.<br>
+Grampian, the uniformity and the wall-eyed mist.<br>
 Back, grey cries for colour: quayside tattoos, <br>
 neon dye, Jäger. Colour isn't given.<br><br>
 
-Nae thermo, nae sae dynamic. (Ootside, onywoy.) <br>
-Folk thole the grey reef lang enou, <br>
+Nae thermo, nae sae dynamic. (Ootside onywauy.) <br>
+Fowk thole the grey reef lang enou, <br>
 puddle in the sea, hoovering <br>
-at livid macroeconomic cracks. <br>
+at livid cracks in the macroeconomy. <br>
 Abdy oxidates, no white-het but blue.<br>
-A'hin blurs. A'hin levels. A'hin mixes. A'hin cools. 
+A'hin blurs. A'hin levels.<br>
+A'hin mixes. A'hin cools. 
 
 <br><br><br><br><br>
 
