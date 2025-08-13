@@ -160,6 +160,7 @@ where:      "Tallinn"
 * **Philosopher**: Francis Hutcheson. Will MacAskill. (Alasdair MacIntyre is the famous one, and beloved, but I don't know what to make of him.)
 
 * **Scientist**: Kelvin, Joseph Black
+<!-- Gregory Clark -->
 
 * **Inventor**: [Watt](https://en.wikipedia.org/wiki/James_Watt#Scientific_studies_and_inventions), [Kelvin](https://en.wikipedia.org/wiki/Lord_Kelvin#Scientist_to_engineer)
 

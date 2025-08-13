@@ -71,7 +71,10 @@ On a handful of days a year in Aberdeen when the sun comes out after the rain an
 * It's grim but _not_ poor. Per capita GDP is £52k, about the same as Glasgow or Anchorage or Miami; a third higher than UK average. 
     <!-- * The ominously named Cults is in the top 50 most expensive postcodes in the country.  -->
     * AB15 is the postcode with the most millionaires outside London. 
-    * During the 2009 financial crisis, Aberdeen was the only UK city beside London to completely avoid recession. It arrived in 2015 instead, when the American shale taps and the OPEC taps opened. Having half of all jobs in one sector ("energy") means it's absurdly cyclical, in exact concert with the current global oil price. Population is down 7% in the last ten years.
+    * During the 2009 financial crisis, Aberdeen was the only UK city beside London to completely avoid recession. It arrived in 2015 instead, when the American shale taps and the OPEC taps opened. Having half of all jobs in one sector ("energy") means it's absurdly cyclical, in lagged concert with the current global oil price. Population is down 7% in the last ten years.
+    <img src="/img/abdn/ile.png" width="50%" />
+
+*
     * Yes: just after the Scottish independence referendum, the oil price halved. Would have been carnage.
     * Fracking in America was bad news for Aberdeen. The Ukraine war was, selfishly, good news. Global warming is good news; the net-zero carbon commitment is bad news, though they're [trying](https://www.theacornproject.uk/) to get on that wagon.
 
