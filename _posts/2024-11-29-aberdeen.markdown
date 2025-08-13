@@ -77,7 +77,7 @@ On a handful of days a year in Aberdeen when the sun comes out after the rain an
     * During the 2009 financial crisis, Aberdeen was the only UK city beside London to completely avoid recession. It arrived in 2015 instead, when the American shale taps and the OPEC taps opened. Having half of all jobs in one sector ("energy") means it's absurdly cyclical, in lagged concert with the current global oil price. Population is down 7% in the last ten years.
     <img src="/img/abdn/ile.png" width="80%" />
 
-*
+* 
     * Yes: just after the Scottish independence referendum, the oil price halved. Would have been carnage.
     * Fracking in America was bad news for Aberdeen. The Ukraine war was, selfishly, good news. Global warming is good news; the net-zero carbon commitment is bad news, though they're [trying](https://www.theacornproject.uk/) to get on that wagon.
 
@@ -313,7 +313,9 @@ constabulary force’.  -->
 
 I've been harsh and bloodless and reductive about the place, to warn you (what I assume about you). I've repeated warnings by professional sneerers (Bryson, Theroux) who did a two-day drive-by and fled after extracting anecdotes for pay, like mosquitoes. But the city was enough for me: anything is a shining city if you're from the sticks.
 
-For the first time in my life I had people would read poetry with me. For the first time in my life I had an actual challenge (understrand Debreu, understand Levinas, understand Frege, understand yourself). Aberdeen wasn't much but it was a _scene_, a node. I saw Gil Scott-Heron at the Warehouse two months before he died. I saw the Wave Pictures, still the best guitarist I've ever seen, at Drummond's and The Lemon Tree and Drummond's. I gave them a madeira cake. I saw Jesse Michaels and Mike Park at Drummond's in an audience of twelve. Chris Clavin played my mate Lori's living room. Jeffrey Lewis at Stereo. I played the Tunnels in an awful band with great lyrics. I [heckled](https://www.youtube.com/watch?v=AnRoL54Jqcg&t=3286s) Will Self in the senate. The old QM Library had books you've never heard of, books GPT wasn't trained on, that Abebooks has no stock of, that I am probably the only person in 20 years to read. I felt exactly what Crichton Smith (above) felt, coming from the islands. Anything lights tinder this dry.
+For the first time in my life I had people who'd read poetry with me. For the first time in my life I had an actual challenge (understrand Debreu, understand Levinas, understand Frege, understand yourself). Aberdeen wasn't much but it was a _scene_, a node. I saw Gil Scott-Heron at the Warehouse two months before he died. I saw the Wave Pictures, still the best guitarist I've ever seen, at Drummond's and The Lemon Tree and Drummond's. I gave them a madeira cake. I saw Jesse Michaels and Mike Park at Drummond's in an audience of twelve. Chris Clavin played my mate Lori's living room. 
+<!-- Jeffrey Lewis at Stereo.  -->
+I played the Tunnels in an awful band with great lyrics. I [heckled](https://www.youtube.com/watch?v=AnRoL54Jqcg&t=3286s) Will Self in the senate. The old QM Library had books you've never heard of, books GPT wasn't trained on, that Abebooks has no stock of, that I am probably the only person in 20 years to read. I felt exactly what Crichton Smith (above) felt, coming from the islands. Anything lights tinder this dry.
 
 
 
@@ -351,7 +353,7 @@ For the first time in my life I had people would read poetry with me. For the fi
 
 * **Philosopher**: [Alexander Bain](https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher)) made modern philosophy of mind out of severe mess. <!-- * People always name Thomas Reid for Aberdeen but he's an intemperate wee bastard. More recently Crispin Wright, Guido Bacciagaluppi, Luca Moretti. Supposedly Kant's granddad as well. -->
 
-* **Scientist**: Patrick Manson investigated one of the most important questions in all of medicine: how to stop mosquitoes from being mosquitoes? And thereby founded the field of tropical medicine. 
+* **Scientist**: [Patrick Manson](https://en.wikipedia.org/wiki/Patrick_Manson) investigated one of the most important questions in all of medicine: how to stop mosquitoes from ruining everything? And thereby founded the field of tropical medicine. 
 <!-- (Maxwell was only here a couple years.) -->
 
 <!-- * **Bernoullis**: the Gregories -->
@@ -368,7 +370,8 @@ For the first time in my life I had people would read poetry with me. For the fi
 
 * **Daredevil**: [Charles Ludwig](https://www.cairngormclub.org.uk/journals/PDFs/Articles/J082/The%20Cairngorm%20Club%20Journal%20082%20-%20In%20Memoriam%20CHARLES%20LUDWIG%20WM.pdf)
 
-* **Evildoer**: An Aberdeen city baillie, William Fordyce, sold 600 children into American slavery. One of them, ["Indian" Peter](https://en.wikipedia.org/wiki/Peter_Williamson_(memoirist)), managed to make it back and wrote a book accusing him and the magistrates of complicity in the scheme. They had it burned in the mercat. edinburghinquirer.co.uk/p/child-slave-soldier-inventor-publican 
+* **Evildoer**: An Aberdeen city baillie, William Fordyce, sold 600 children into American slavery. One of them, ["Indian" Peter](https://en.wikipedia.org/wiki/Peter_Williamson_(memoirist)), managed to make it back and wrote a book accusing him and the magistrates of complicity in the scheme. They had it burned in the mercat and forced him to recant. 
+<!-- edinburghinquirer.co.uk/p/child-slave-soldier-inventor-publican  -->
 
 * **Comedian**: [Lord Aberdeen](https://www.weirduniverse.net/blog/comments/jokes_cracked_by_lord_aberdeen) 
 <!-- or Graeme Garden  -->
@@ -395,7 +398,8 @@ For the first time in my life I had people would read poetry with me. For the fi
 
 * **Actor**: William Devlin? Peter Mullan?
 
-* **Entrepreneur**: [Thomas Blake Glover](https://en.wikipedia.org/wiki/Thomas_Blake_Glover), arms dealer and ancestral founder of Mitsubishi and Kirin. Chicago Smith and Tawse.
+* **Entrepreneur**: [Thomas Blake Glover](https://en.wikipedia.org/wiki/Thomas_Blake_Glover), arms dealer and ancestral founder of Mitsubishi and Kirin. 
+<!-- Chicago Smith and Tawse. -->
 
 * **Archaeologist**: [Nora Griffith](https://en.wikipedia.org/wiki/Nora_Griffith)
 
@@ -403,14 +407,14 @@ For the first time in my life I had people would read poetry with me. For the fi
 
 * **Delicacy**: mealie, skirlie, stovies, butteries (dense pastry, half-fat - but only when warm, and not the JG Ross ones).
 
-* **Building**: 85 Crown Street. The one it's easy to visit is "Spoons" (The Archibald Simpson)
+* **Building**: [85 Crown Street](https://www.doorsopendays.org.uk/regions/aberdeen-city/freemasons-hall). The one it's easy to visit is "Spoons" (The Archibald Simpson)
 <!-- 142 King Street - humani nihil alienum -->
 
 * **Street**: Belmont St
 
 * **Church**: St Machar. Tiny nave, ancient, wooden rafters, filled with song, passed by two thousand heathen students every day, eyes on the ground or each other.
 
-* **Architect**: Ninian Comper
+* **Architect**: [Ninian Comper](https://en.wikipedia.org/wiki/St_Cyprian%27s,_Clarence_Gate#/media/File:St_Cyprian's_Church_Nave,_Clarence_Gate,_London,_UK_-_Diliff.jpg)
 <!-- * **Architect**: It's a two-horse town: Archibald Simpson (1790–1847) and John Smith  -->
 
 * **Walk**: Duthie is ok, or the Brig. Maryculter and Dunottar. 
