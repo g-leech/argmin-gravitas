@@ -114,13 +114,11 @@ h1, h2, h3, h4, h5, h6 {
     width: 5%;
     height: .1em;
     
-    background-color: var(--c-title-underline-color);
-    background: #FAC342;
-    
     position: absolute;
     bottom: -2px;
     left: 0; 
 }
+
 
 .site-header{
     font-family: var(--serif)
