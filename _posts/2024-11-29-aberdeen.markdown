@@ -3,13 +3,13 @@ layout:     post
 title:      "Aberdeen"
 baselink:   /deen
 permalink:  /deen
-date:       2024-12-12
+date:       2025-08-10
 author:     Gavin   
-img:        /img/
+img:        /img/abdn/johnny.png
 
 visible:    1
-published:  false
-quality:    
+published:  true
+quality:    6
 
 summary:    My first alma mater
 confidence: 
@@ -19,106 +19,439 @@ categories: places, uni, lists
 where:      "Tallinn"
 ---
 
-> Mica glittered from the white stone.<br>Town of the pure crystal,<br>I learnt Latin in your sparkling cage,<br>I loved your brilliant streets.<br>
+<blockquote style="padding-bottom: 0pt;">
+    Mica glittered from the white stone.<br>Town of the pure crystal,<br>I learnt Latin in your sparkling cage,<br>I loved your brilliant streets.<br><br>Places that have been good to us we love.<br>The rest we are resigned to.<br>The fishermen hung shining in their yellow<br>among university bells.
+</blockquote>
+<center>― Iain Crichton Smith</center>
+<br>
 
-> Places that have been good to us we love.<br>The rest we are resigned to.<br>The fishermen hung shining in their yellow<br>among university bells.
+<blockquote style="padding-bottom: 0pt;">
+    [Romans] call robbery... "empire"; they make a wasteland and call it "peace".
+</blockquote>
+<center>― Tacitus, putting words in the mouth of the first attested <a href="https://en.wikipedia.org/wiki/Calgacus">Aberdonian</a><br>(who he possibly made up)</center>
 
 <br>
 
-In Aberdeen there are a handful of days a year where after the rain the sun comes out and the trillion mica crystals in the wet granite all shine and you sit there in a giant bowl of light. Squinting (you don't own sunglasses). You can't really drive when it happens. As if a year of light all in one day - enough to make you think, briefly, that it makes up for all the darkness and greyness. It doesn't.
-
-I did 5 years; 4 in uni and 1 in a bookshop. I arrived as a cliche of the self-built rural intellectual; extreme and rhetorical, haunted and grown into odd shapes for lack of sunlight and feedback. I lived in the worst places.
-
-* "We're shite - but it's brilliant being shite."
-
-* It's on the same latitude line as Riga and Alaska.
-
-* It's grim but actually not poor. The ominously named hamlet Cults is in the top 10 most expensive postcodes in the country. During the 2009 global financial crisis, Aberdeen was the only city beside London to completely avoid recession.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PE6RH7APXfw?si=AZx50SbCOjQYnSUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<blockquote style="padding-bottom: 0pt;">
+    Once, in Jerusalem, I struck up acquaintance with an intelligent and interesting Syrian... I told him that I was born in Aberdeenshire in Scotland. He was amused and pitiful, though a little hazy. "Aberdeen - it is the pariah place, is it not?"
+</blockquote>
+<center>― Lewis Grassic Gibbon</center>
 
 <br>
 
-Glimmer of Cold Brine
+On a handful of days a year in Aberdeen when the sun comes out after the rain and ten billion crystals of wet quartz and mica in the clean fraction of the granite are allowed to shine you sit there in an ocean of light way brighter than the sea. You squint (you don't own sunglasses) - you can't really drive. A giant mirror, shrouded all year, alight. As if it's a year's worth in one day - enough to make you think it makes up for the grey the rest of the time, "you're even." You are not.
+
+<br>
+
+* It's hard north: ~same latitude as Anchorage and St Petersburg. Provincial among provinces; the end of the world. ("_We are the last people on earth. There are no lands beyond us._")
+    * I'm from even further north, so the greyness and cold didn't shock me. But be ready for 3pm dusk in December. I was constantly slightly cold as a lad; I got a lot better at saxophone when I moved south because my fingers got enough blood. 
+    * Average temperature is 8°C. That's not that cold! But between the rain, wind, fog, and greyness it feels colder than say Inverness. (It supposedly rains less here than in the rest of Scotland, but 1) it's still 1/3 of all days, 2) it's freezing.)
+        * In the past, 33°C was a once-per-century event.
+    * The entire month of December gets ~45 "sunshine hours". i.e. one hour of weak direct sunlight a day, or more often clustered, with days on end without any at all. 
+    * Like San Francisco, the sea fog (the "haar") is thick, motile, and common. There's also occasionally huge amounts of sea foam blowing along the streets. Luckily I love fog. About 1/3 of days have some.
+    * You're stunned by colourlessness. The sky is bright grey, the buildings are dark grey, the people are pink-grey (97% white). In the weak light the polluted granite resembles breezeblocks more than crystal. [Meades](https://www.youtube.com/watch?v=PE6RH7APXfw) thinks that this stark monochrome outlook explains why Aberdeen has an unusual density of tattoo parlours even for a port. I was so used to the sky being flat white-grey that blue skies still thrill me a little.
+    <!-- * Our satirist called it "Greyness". -->
+    * "_75% of those in Primary 6 and 7 didn't show evidence of low mood_"
+    * As a romantic teen I wanted to think that the hostile environment fostered fellow-feeling. Everyone here has a shared enemy (the weather), and everyone's inside. Trapped.
+<br><br>
+
+* North means remote, irrelevant, unstrategic. And so populated by unstrategic people, since strategic ones leave. "_the largest village in the world_"
+    <!-- * That's a costly signal though. You're  -->
+    * So no one finds themselves here by accident. I'm from just along the road, Elgin, and fell into the lowest-energy-basin cos they gave me a scholarship on top of the bursary. 
+    * 5 years here; 4 at uni and 1 in a bookshop. I arrived as a <a href="https://ebrary.net/272422/language_literature/scottish_working_classics">cliche</a> self-built rural intellectual: extreme and eristic, grown into an odd shape for want of sun and live conversation. 
+    * We're late to things. Whaling 1800 (vs 1700), art gallery 1880 (Glasgow 1807), electric light 1894 (London 1878), Uber 2024 (London 2012)
+    <!-- * >  "Aye, we're shite - but it's brilliant being shite." -->
+<br><br>
+
+<blockquote style="padding-bottom: 0pt;">
+    Bleakness, not meanness... is the keynote to Aberdonian character... It is comparable to passing one's existence in a refrigerator... like jail... the uneasy sense that you may not rest here, you may not lounge.
+</blockquote>
+<center>― Grassic Gibbon</center>
+
+* It's grim but _not_ poor. Per capita GDP is £52k, about the same as Glasgow or Anchorage or Miami; a third higher than UK average. 
+    <!-- * The ominously named Cults is in the top 50 most expensive postcodes in the country.  -->
+    * AB15 is the postcode with the most millionaires outside London. 
+    * During the 2009 financial crisis, Aberdeen was the only UK city beside London to completely avoid recession. It arrived in 2015 instead, when the American shale taps and the OPEC taps opened. Having half of all jobs in one sector ("energy") means it's absurdly cyclical, in exact concert with the current global oil price. Population is down 7% in the last ten years.
+    * Yes: just after the Scottish independence referendum, the oil price halved. Would have been carnage.
+    * Fracking in America was bad news for Aberdeen. The Ukraine war was, selfishly, good news. Global warming is good news; the net-zero carbon commitment is bad news, though they're [trying](https://www.theacornproject.uk/) to get on that wagon.
+
+<br>
+
+<center>
+    <img src="/img/abdn/birse.png" width="50%" />
+</center>
+
+<blockquote style="padding-bottom: 0pt;">
+languages have different strengths: Arabic is good for dealing with sand, Eskimo with snow and ice. Scots is good for crushing people. 
+</blockquote>
+<center>― William Donaldson</center>
+
+* [Doric](https://en.wikipedia.org/wiki/Doric_dialect_(Scotland)) is one of the strongest dialects in Britain. 
+    <!-- The "Furry Boots city" after the conventional "Whaur aboots are ye fae?" -->
+    * The name means 'primitive': "_Since the Dorians were regarded as uncivilised by the Athenians, "Doric" came to mean "rustic" in English, and was applied particularly to the language of Northumbria and the Lowlands of Scotland and also to the simplest of the three orders in architecture._"
+    * The Spartans were Dorians, and so too Victorian England had an [interesting way](https://dc.etsu.edu/cgi/viewcontent.cgi?article=4627&context=etd) of forgiving Scotland for the '45, by racialising Highlanders:
+    "_the [Jacobite] rebellions were increasingly understood, not as an act of betrayal, but natural coming from a martial race. In this context, war was the only way Scots knew how to demonstrate their grievances._"
+    * It's dangerous to use any contemporary thing (uncontacted tribes, anemones, remote languages) as evidence of the ancient past but hey Doric _is_ more similar to Middle Scots and so Middle English than any extant dialect ([besides Frisian](https://www.youtube.com/watch?v=cZY7iF4Wc9I)).
+    * It's in decline under the usual tv-internet Americanisation. I only ever met one man who spoke like [Johnny Gibb](https://www.scottishcorpus.ac.uk/cmsw/document/?documentid=128) in my life: my granda's mate A'thur
+
+    > ae chiel wi the key wins at the door in coorse, an apens’t, an in they gaed, jist like the jaws o the sea, cairryin
+minaisters like as muckle wrack alang wi em. I tint sicht o Gushets in a minit, an hed muckle adee to haud o my fit ava. An fan I'm jist at the door cheek, fa sud be dirdit into the neuk fair afore me but Geordie Wobster
 
 
-* On a long walk, on the pavement you'll see four or five inside-out umbrellas destroyed by the wind. Every year a new set of Chinese students arrive with them, not realising that Aberdeen has a different rule. I actually didn't use an umbrella until I was 25 years old; there wasn't any point. (It was also heavily gendered though.)
+<br>
 
-* Like San Francisco, the sea fog (the "haar") is thick, motile, and common. There's also occasionally huge amounts of sea foam blowing along the streets.
+* What's Aberdeen like? Charitably, Boston (freezing, granite, demotic, hard folk, but wealth). But really Calgary and Stavanger (isolated, no high culture). 
+<!-- Scotland’s Catalonia.  -->
 
-* The mosque is in an impressively low-ceilinged prisonlike building. The security bars on the tiny windows tell a story. 
+<br>
 
-* The country roads in Aberdeenshire are among the most dangerous in the UK.
 
-* I lived in the cheapest possible places. The old Hector Boece halls had single glazing. The 30W oven would take more than an hour to heat up to 200. I lived in Tillydrone for 2 years and got attacked 3 times. Punched in the face for smiling. In fairness I was wearing a stupid hat. Thrown bottle shattered next to my head. Two teenage girls on something went for my glasses and pulled my friend to the ground. 
+## Then
 
-* I was constantly slightly cold. I got a lot better at saxophone when I moved south.
+<img src="/img/abdn/benn.png" />
 
-- Tillydrone is cheap and very near the uni but extremely rough. I got bottled once. Most of the student accommodation is kind of grim, in different ways. If you don't need all your stuff immediately you could Airbnb around town, get a feel for the place. Hilton is nice.
-- I'm from even further north, so the greyness and cold didn't shock me. But be ready for 3pm dusk in December.
-- The new library is wonderful on the outside, a lovely addition to the cityscape, and completely unusable inside: in my time they had a central shaft which echoed noise from the ground floor to the top floor. It also has very few books.
-- The seagulls are unlike any I've ever seen. Gigantic and fearless. They have been known to stick their heads 30cm inside a narrow window to steal food.
-- Surprisingly good for surfing. Roleplayers were very active in my day - ask for David Stoll, the 2m "Hill Giant". Amazing hills, but no public transport up there so you need to go with a group. I set up a Philosophers' Football league, I think it's still running. The students lost 6-2 to the faculty, brutal. I scored against one of the most notable logicians in Europe though. I don't know if you're into punk but it's a very active scene and I can introduce you to 30 punks.
-- My aesthetics lecturer is now an analogue synth artist.
+<center>"Bennachie, the [Mount] Zion of Aberdeenshire"</center>
+
+<!-- > Noo your hard workin’ Scotsman’s gone crazy I fear,
+Each day ye maun hae your bit beef and your beer,
+But ye dinnae ken, though you’re maybe nae carin’,
+Your natural food it is tatties and herrin’.
+Tatties and herrin’, tatties and herrin’,
+Your natural food it is tatties and herrin’.
+Noo a pound in the week, you maun aye be content,
+Ten bob tae lay by for the claes and the rent,
+Half a croon ye aye can be sparin’,
+Ye’ve aye seven an’ sixpence for tatties an’ herrin’...
+When the harbour o’ refuge was first spoken aboot
+Aiberdeen an’ Stonehaven they were fairly pit oot,
+For the Queen kent the convicts wid get their best farin’
+Upon Buchan tatties an’ Peterheid herrin’.  -->
+
+<!-- > "Am heretae pick up a buik."<br>
+"OK, what's the name?"<br>
+"'Bet. Oh, bit ma Sunday name's Elizabeth." -->
+
+
+<blockquote style="padding-bottom: 0pt;">
+Whenever I have occasion to classify the persons I meet into three classes, "good, medium, bad," I use a needle mounted as a pricker, wherewith to prick holes, unseen, in a piece of paper... classifying the girls I passed in streets or elsewhere as attractive, indifferent, or repellent. Of course this was a purely individual estimate, but it was consistent, judging from the conformity of different attempts in the same population. I found London to rank highest for beauty; Aberdeen lowest.</blockquote>
+<center>― Galton</center>
+
+<blockquote style="padding-bottom: 0pt;">There were many classes of persons whom former generations of fishermen tried to avoid when going to their boats. In some places, cripples were feared. Anybody with red hair or flat feet might bring bad luck if encountered, but this could always be averted if the fisherman spoke first. Why certain proper names should be capable of doing harm is a mystery, but such was the firm conviction of many a Moray Firth fisherman in the past. ‘Ross’ was a name particularly feared... The Cullen fishermen believed that ‘Anderson’ and ‘Duffus’ were dangerous words to mention at sea. </blockquote>
+
+<br>
+
+
+* Because it is north, we don't know much about the past. The Beakies and Picts and Taexali left no words and not much cargo. What we know we read off the blood they left. <br><br>Short version: Indo-Europe victory: the "[Western Hunter-Gatherers](https://en.wikipedia.org/wiki/Western_hunter-gatherer)" (from Ukraine-Kazakh-Scythia) came and smashed whoever was there. Then the [EEFs](https://en.wikipedia.org/wiki/Early_European_Farmers) (farmers from Anatolia via Spain) came and smashed them. The [Beakies](https://pmc.ncbi.nlm.nih.gov/articles/PMC5973796/#F2) (steppe herders) came and smashed the EEFs. The Picts (Irish) came and smashed the Beakies. The Romans smashed them and left. Some non-Pict Britons came and smashed them. The Vikings smashed the Britons and left. The Christians (Gaels) smashed them and merged. The [Normans](https://en.wikipedia.org/wiki/Robert_de_Brus,_1st_Lord_of_Annandale) (Vikings) smashed them and merged. The lowlanders smashed them and merged. And then the Texans arrived. 
+    <!-- * "_Hector Boece (c.1465–1536) (not known entirely for his historical accuracy)_" -->
+    <!-- * There's some ambient pride about not having been occupied by the Romans (defeated, sure, but not occupied). Actually they just got distracted. We don't know where "Mons Graupius" was but it was probably within 50 miles of Aberdeen. We took the name Graupius for Grampian. -->
+    <!-- * Taexali. Aberdeen might be "Devana". -->
+    <!-- * The Great Conspiracy! -->
+    <!-- * * Viking hoard -->
+
+<br>
+
+* Unlike for <a href="/glesga">Glasgow</a>, I don't have a unified multi-century theory of Aberdeen. There's not as much to explain and no single variable to advocate. 
+    * "Small C21st north European port city" (insular, mercantile, post-post-industrial, grim) maybe captures most of it, plus "oil town" (corporate, young men with more money than sense). 
+    * There are three thousand places of this size on Earth. Could you write a theory for each? Yes.
+
+* You want to explain a place, so you reach for their climate and economy. 
+    * Everyone-everywhere farmed so it can't explain anything distinctive, so factor out that industry unless there's some interesting variations on crops or animals or communal resource management.
+    * Like everywhere, the place was ten times smaller 250 years ago. So most of it is less than 100 years old. Can _anything_ before then explain much now? (More than 10% of what it is now?) Maybe, but I despair of weak evidence like history being in charge of this. 
+
+<center>
+    <img src="/img/abdn/pop.png" />
+</center>
+
+* 
+    * The distinctive industries are fish, paper, granite, whaling, shipbuilding, oil. Some whisky tourism. These don't seem very unique, besides the granite and the oil. But does anywhere on earth have this exact set or a superset?
+
+<!-- (Obviously jobs is the wrong measure for economics, but I claim it's the main thing for culture.) -->
+
+<br>
+
+* The Harbour is the oldest business in Britain. But nothing happens for 250 years after it's founded in 1136: zero population growth. Then it slowly triples to 10,000 people over 300 years to 1700 and, like everywhere else, then things go nuts.
+* _Change places_. In 1696 they started a bunch of paper mills. Maybe this explains something? Linear development along the rivers rather than concentric. 300 years later Bryson noticed the resulting feeling: 
+    <blockquote>In vain I sought a single place where I could stand with hands on hips and say 'Aha, so this is Aberdeen'.</blockquote>
+    <!-- Fishwives seasonal. Thousands of Gaels every summer. A female industry. -->
+
+* _Change places_. In 1741 they started working the quarries at scale. 
+    * Granite is the hardest thing humans currently build out of (besides some decorative quartzite). There was nothing softer around. So real ("operative") masonry was the key thing. Granite wasn't really workable before; the city could't exist without spiral rope sawing and later water sawing. 
+    * About half of the city center is built from the yield of Rubislaw quarry. We made a 140m hole in the ground to make ourselves out of. 
+    <!-- * Besides the huge masonry and transport costs, the price was silicosis and now mild radon risk. -->
+
+<!-- * Then the caricature roleplay drinking society, The Masons.
+    * The Vatican banned it long ago; too similar. 
+    * The stereotypes about Scottish police often being masons appear true. Martin Short. 
+    * They're in their Buddy Christ phase at the moment so a couple times a year you can get into the incredible Crown Street lodge, including the trippy Lynchian crypt. -->
+
+* _Change places_. In 1760 they started building ships at scale (10x fewer than Glasgow and probably 50x less by tonnage). 
+* [James Robertson](https://en.wikipedia.org/wiki/James_Robertson_(moderator)), an innocent gentleman, accidentally kicked off the continental-scale [graverobbing craze](https://www.sciencefocus.com/news/were-the-bones-of-soldiers-that-died-at-the-battle-of-waterloo-sold-as-fertiliser-probably-archaeologists-say) by being the first to use bone meal for phosphate fertiliser.
+* _Change places_. Building Union Street for a deluxe political celebration literally bankrupted the city in 1817. The [Herring Boom](https://www.scotfishmuseum.org/the-herring-boom.php) immediately propped them up for the next 50 years, a silver rush. <!-- boom towns. -->
+<!-- * Trains in 1850. In theory the isolation is over. -->
+<!-- * 1850 trains, fish and cattle inland -->
+<!-- * Same places: 1920s trawling boom. white fish steam trawler -->
+* _Change places_: Iceland and EEC shocks to fish. Iceland nearly withdrew from NATO in the Cod Wars. Then Aberdeen fishing halved after the EEC quota in 1983. But both of those were caused by overfishing which would have got us anyway.
+<!-- In 1976 they ended diplomatic relations with the UK. 53 British frigates against 7 small Icelandic boats. Hard power was over. -->
+
+* _Change places_. The first north sea oilfield was discovered in 1969; the last granite quarry went to zero in 1971. The last Aberdeen ship was launched in 1990. Paper went to ~zero in 2022. My uncle was one of the last out.
+
+* It seems incredibly lucky that all of these things lined up and didn't completely destroy the place. The oil was discovered just in time! But maybe I'm just conditioning post-treatment; maybe all successful places have such a "lucky" streak of economic resilience by definition.
+
+* A series of tragic industries. Shipwrecks, power mill injuries, trawler cables, quarry explosions, and more recently [gas explosions](https://en.wikipedia.org/wiki/Piper_Alpha) and [helicopter crashes](https://en.wikipedia.org/wiki/Bond_Offshore_Helicopters_Flight_85N). But I guess that's also normal.
+    <!-- * About half of the whaling fleet was destroyed over the 150 years of operation. -->
+    <!-- * Trawling is still one of the most dangerous jobs in the world. -->
+
+* Well? Do we understand Aberdeen now?
+
+
+<center>
+    <img src="/img/abdn/geordie.png" width="50%" />
+</center>
+
+
+<!-- * 2 or 3 weeks' ride from Edinburgh for most of history. -->
+
+<!-- * Battle of Harlaw 1411. Donald -->
+
+<!-- * It was a harsh reformation.
+    * "a Scottish presbytery agreeth as well with a monarchy as God with the devil"
+    * The original sin of writing about contemporary Scotland is to act as if Calvinism explained anything. Most people under 40 have never been in a church except for weddings and funerals. It's 60% "no religion" and 90% of the rest don't go to church.
+    * I don't rule out the existence of any "deep roots", thousand-year trends which sublimate and mask themselves as e.g. nonreligious, but the required evidence is pretty bloody high. (wheat vs rice seems legit, and beer vs wine)
+ -->
+
+<!-- * The wars of the three kingdoms began here. First Bishops' War -->
+
+<!-- John Taylor's Month Away -->
+
+<!-- ‘The dread of the Doctors soon
+became such that neither woman nor child would venture without
+doors after nightfall’, he wrote. ‘In this state of matters no one can
+wonder that an explosion should take place, and it did take place
+with a vengeance’.
+In December, 1831, nearly three years after William Burke had
+been hanged in Edinburgh’s Lawnmarket, children playing near
+the Aberdeen Anatomical Theatre watched in horror as a dog,
+scraping the ground behind the theatre, hauled out and gnawed a
+mangled human limb. The alarm was raised, a crowd gathered,
+and other remains were found.
+By now the crowd had become a mob. Francis Clerihew
+estimated that 10,000 people gathered in Hospital Row that
+afternoon. They broke into the theatre and chased the anatomist
+and his students from the building. Moir jumped through a window
+of his house and escaped through St Nicholas Churchyard.
+After Moir and the students had gone, three bodies were found
+laid out for dissection. They were taken to Drum’s Aisle in St
+Nicholas Church. Meanwhile, the mob smashed everything they
+could lay their hands on, even using a strong plank as a battering
+ram to undermine the walls and break them down. The building
+was ransacked and set on fire and when the Provost and a number
+of magistrates appeared on the scene and warned the rioters
+against their illegal actions they were ignored... in a deliberate workmanlike and substantial manner
+by some forty or fifty active ruffians in the admiring presence of
+some 10 or 12,000 spectators and of an unresisting miliary and
+constabulary force’.  -->
+
+<!-- * > After Royalty came Deeside was ruined.  -->
+
+<!-- * After 1745 there weren't many obvious Catholics in the north east to victimise or get triggered by (<2%). Instead it was piskies vs presbies vs Masons, none of whom figure at all for ordinary Aberdonians.
+    * _"Dozing quietly is the traditional refuge from Scotch presbyterian eloquence, or to escape to the piskies."_
+ -->
+<!-- * > Kropotkin, returning to Russia, departed from Aberdeen -->
+
+<!-- * 1871 Torry reclaimed out of the floodplain???????????? -->
+
+<!-- * Misers. Sheep-shaggers. -->
+<!-- * I haven't bothered with the standard idea of Aberdeen as home of misers. I like the idea that this was intentional self-misrepresentation, "most of the material for those tales and fantasies of so-called humour are exported from Aberdeen itself" -->
+
+<!-- * Galton once went around Britain surreptitiously recording _his impression_ of the attractiveness of the women. Aberdeen came last.  -->
+
+
+## Now
+
+> I came to hate Aberdeen more than any place I saw 
+
+<center>― Paul Theroux</center>
+
+> The fish have largely gone. The oil will not last forever... but they'll need something. They'll need something. 
+
+<center>― Ian Mitchell</center>
+
+<br>
+
+* I lived in the cheapest possible places. The old Hector Boece halls had single glazing. The 30W oven would take more than an hour to heat up to 200. In Tillydrone I got attacked 3 times in 2 years. Punched in the face for smiling - in fairness I was wearing a stupid hat - and bottled; it shattered right next to my head - and two teenage girls _on_ something clawed at my glasses and dragged my friend to the ground by her hair. 
+    
+* On a long walk, you'll see a series of discarded inside-out umbrellas destroyed by the wind. Every year a new set of Chinese students arrive with them, not realising that Aberdeen has a different rule. I actually didn't use an umbrella until I was 25 years old; there wasn't any point. (This was also heavily gendered though.)
+
+<!-- * The mosque is an impressively low-ceilinged prisonlike building. The security bars on the tiny windows tell a sad story.  -->
+
+<!-- * The country roads in Aberdeenshire are among the most dangerous in the UK. -->
+
+- The new library is a great addition to the cityscape and also completely unusable: in my time it had a central shaft which echoed coffee grinding noise from the ground floor to the top floor. Also very few books on shelf.
+
+<!-- Fittie -->
+
+- The seagulls, gigantic and fearless, give the place some anarchy and jeopardy. They've been known to stick their heads 20cm inside a just-cracked window to steal food. In May they divebomb you, 'protecting' their nests.
+
+- Surprisingly good surfing. 
+
+<!-- - I set up a Philosophers' Football league, I think it's still running.  -->
+
+<!-- - My aesthetics lecturer is now an analogue synth artist.
     - [https://portlandvows.bandcamp.com/album/living-with-animals](https://l.facebook.com/l.php?u=https%3A%2F%2Fportlandvows.bandcamp.com%2Falbum%2Fliving-with-animals%3Ffbclid%3DIwAR0039DfSAq5mnhJvRMO4ALV9a1P3XhY-OXvBiDBm4gEHAsk4TSjKwdyoK8&h=AT3wknapttNjuDKCYpOqis5fOtp20YJ-pHopET5WB5d6ABxq94P81PYeAytUqx_SJtud-zCrPHWbGT0E-Mg8qBnZux0OEMR13NjuboO88kh8_D77eRxQ79xbb94)
 - Luca Moretti is incredibly fun to talk to.
-- Charles Wang, a quantum gravity guy, is . Commanded a tank in the Taiwanese Armed Forces.
-- This guy was trying to set up a "Responsible AI" PhD programme
-    - [https://homepages.abdn.ac.uk/n.oren/pages/Home.html](https://homepages.abdn.ac.uk/n.oren/pages/Home.html?fbclid=IwAR2uzKQraTMtZ9wkwx6EUxzhIADEJ-tdkQJ-M5yZI8O4KqDXaC-x0_vJNwQ)
+- Charles Wang, a quantum gravity guy, is . Commanded a tank in the Taiwanese Armed Forces. -->
+<!-- - This guy was trying to set up a "Responsible AI" PhD programme
+    - [https://homepages.abdn.ac.uk/n.oren/pages/Home.html](https://homepages.abdn.ac.uk/n.oren/pages/Home.html?fbclid=IwAR2uzKQraTMtZ9wkwx6EUxzhIADEJ-tdkQJ-M5yZI8O4KqDXaC-x0_vJNwQ) -->
+
+<br>
+
+I've been harsh and bloodless and reductive about the place, to warn you (what I assume about you). I've repeated warnings by professional sneerers (Bryson, Theroux) who did a two-day drive-by and fled after extracting anecdotes for pay, like mosquitoes. But the city was enough for me: anything is a shining city if you're from the sticks.
+
+For the first time in my life I had people would read poetry with me. For the first time in my life I had an actual challenge (understrand Debreu, understand Levinas, understand Frege, understand yourself). Aberdeen wasn't much but it was a _scene_, a node. I saw Gil Scott-Heron at the Warehouse two months before he died. I saw the Wave Pictures, still the best guitarist I've ever seen, at Drummond's and The Lemon Tree and Drummond's. I gave them a madeira cake. I saw Jesse Michaels and Mike Park at Drummond's in an audience of twelve. Chris Clavin played my mate Lori's living room. Jeffrey Lewis at Stereo. I played the Tunnels in an awful band with great lyrics. I [heckled](https://www.youtube.com/watch?v=AnRoL54Jqcg&t=3286s) Will Self in the senate. The old QM Library had books you've never heard of, books GPT wasn't trained on, that Abebooks has no stock of, that I am probably the only person in 20 years to read. I felt exactly what Crichton Smith (above) felt, coming from the islands. Anything lights tinder this dry.
 
 
-* **Art**: 
 
-* **Poet**: Ossian. <!--Harry Giles.--> Byron hated Aberdeen, which is no disqualification in an Aberdonian.
+## The best of Aberdeen
 
-* **Novelist**: Nan Shepherd. People say Lewis Grassic Gibbon but that is nostalgia for caning talking.
+> As well as producing no political figures of distinction, Aberdeen produced no architect of note in the 20th century, no painters (James McBey talks of the philistinism of Aberdeen and of having to leave the city to get work), and no writers of other than local distinction. Geography made the city a provincial one; its economic development reinforced this isolation, rather than overcoming it. 
 
-* **Novel**: _Stonemouth_. The title alone is a perfect riff on the region, Stonehaven-Grangemouth.
+<center>― Ian Mitchell, a local</center>
 
-* **Play**: 
 
-* **Art music**: [Bob "Portland Vows" Plant](https://portlandvows.bandcamp.com/album/living-with-animals).
 
-* **Popular music**: Lockah, Toxik Ephex, and Hellripper.
+* **Writer**: [Jenny](https://www.lrb.co.uk/the-paper/v23/n22/jenny-turner/reasons-for-liking-tolkien) [Turner](https://www.lrb.co.uk/the-paper/v33/n24/jenny-turner/as-many-pairs-of-shoes-as-she-likes)
+    * Aberdeen has form in dominating London writing, as with James Perry's _Morning Chronicle_, the brainiest newspaper ever (Ricardo, Dickens, Hazlitt, Mill).
+    * So Aberdeen's best writing is maybe not in books but newspapers. You can look at the full run of the _Free Press_ (1855-1894) [here](https://www.britishnewspaperarchive.co.uk/search/results?newspapertitle=Aberdeen%20Free%20Press). I'll get Claude to filter it someday.
+<br><br>
 
-* **Venue**: The Tunnels get you right in with the band, which makes e.g. jazz hit different.
+* **Poet**: [Lachlan Mackinnon](https://poetryarchive.org/poem/nocturne/).
+    * There's a huge black hole between Barbour in 1500 and... ig Charles Murray in 1900. <!--Harry Giles.-->  Ossian is fake but good. Annand Taylor is real but bad. 
+    * Byron hated his time in Aberdeen (no disqualification in an Aberdonian) but that was partly because he was being actively molested at the time.
 
-* **Pub**: 
+* **Novelist**: Grassic Gibbon or [William Alexander](https://www.scottishcorpus.ac.uk/cmsw/document/?documentid=128)
 
-* **Philosopher**: Thomas Reid. Crispin Wright. Guido Bacciagaluppi. Luca Moretti.
+* **Novel**: _[69 Things to do with a Dead Princess](https://www.lrb.co.uk/the-paper/v24/n09/jenny-turner/aberdeen-rocks)_. 
+<!-- (Or _Stonemouth_, whose title is a perfect riff on Stonehaven-Lossiemouth.) -->
 
-* **Modernist**: Patrick Geddes 
+* **Memoir**: _[The Living Mountain](https://www.goodreads.com/author/quotes/720668.Nan_Shepherd)_ by Nan Shepherd
 
-* **Scientist**: Patrick Geddes 
+* **Art**: [Joan Eardley](https://duckduckgo.com/?q=Joan+Eardley+aberdeen&t=brave&ia=images&iax=images) spent her last few years here. 
+<!-- Otherwise George Reid.  -->
+<!-- * <a href="https://2024.nuartaberdeen.co.uk/">Nuart</a> is good. -->
 
-* **Walk**: Brig o Balgownie
+* **Art music**: [Bob "Portland Vows" Plant](https://portlandvows.bandcamp.com/album/living-with-animals). Polar Bear. <!-- Edvard Grieg's granddad. -->
 
-* **Comedian**: Graeme Garden
+* **Popular music**: [Lockah](https://www.youtube.com/watch?v=GZJiu2DTeKw) or [Toxik Ephex](https://www.youtube.com/watch?v=6SDRd0rGg44).
+
+* **Philosopher**: [Alexander Bain](https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher)) made modern philosophy of mind out of severe mess. <!-- * People always name Thomas Reid for Aberdeen but he's an intemperate wee bastard. More recently Crispin Wright, Guido Bacciagaluppi, Luca Moretti. Supposedly Kant's granddad as well. -->
+
+* **Scientist**: Patrick Manson investigated one of the most important questions in all of medicine: how to stop mosquitoes from being mosquitoes? And thereby founded the field of tropical medicine. 
+<!-- (Maxwell was only here a couple years.) -->
+
+<!-- * **Bernoullis**: the Gregories -->
+
+* **Modernist**: [Patrick Geddes](https://en.wikipedia.org/wiki/Patrick_Geddes)
+
+* **Cosmopolitan**: [John Boyd Orr](https://en.wikipedia.org/wiki/John_Boyd_Orr)
+
+* **Radical**: [Joseph Hume](https://en.wikipedia.org/wiki/Joseph_Hume)
+
+* **Socialist**: [William M'Combie](https://archive.spectator.co.uk/article/14th-may-1870/10/william-mcombie). <!--  John Paton  -->
+
+* **Eccentric**: [Alexander Cruden](https://en.wikipedia.org/wiki/Alexander_Cruden)
+
+* **Daredevil**: [Charles Ludwig](https://www.cairngormclub.org.uk/journals/PDFs/Articles/J082/The%20Cairngorm%20Club%20Journal%20082%20-%20In%20Memoriam%20CHARLES%20LUDWIG%20WM.pdf)
+
+* **Evildoer**: An Aberdeen city baillie, William Fordyce, sold 600 children into American slavery. One of them, ["Indian" Peter](https://en.wikipedia.org/wiki/Peter_Williamson_(memoirist)), managed to make it back and wrote a book accusing him and the magistrates of complicity in the scheme. They had it burned in the mercat. edinburghinquirer.co.uk/p/child-slave-soldier-inventor-publican 
+
+* **Comedian**: [Lord Aberdeen](https://www.weirduniverse.net/blog/comments/jokes_cracked_by_lord_aberdeen) 
+<!-- or Graeme Garden  -->
+<!-- Harry Gordon -->
 
 * **Director**: not really.
 
-* **Film**: _One Day Removals_ is trash but likable.
+* **Film**: not really. _Local Hero_ was partly filmed at Pennan.
+<!-- _One Day Removals_ is trash but likable. -->
 
-* **TV**: _Off-Kilter_
+* **Screenwriter**: [Lorna Moon](https://en.wikipedia.org/wiki/Lorna_Moon)
 
-* **Videogame**: not really. The QA team for _Stronghold_ is here but that doesn't count. _[Strange Sickness](https://common-profyt-games.itch.io/strange-sickness)_. Leslie Benzies
+* **Play**: not really.
 
-https://en.wikipedia.org/wiki/Elizabeth_Blackwell_(illustrator)
+* **TV**: _[Off-Kilter](https://www.youtube.com/watch?v=PE6RH7APXfw)_
 
-* **Actor**: Peter Mullan.
+<center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/PE6RH7APXfw?si=AZx50SbCOjQYnSUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
-* **Entrepreneur**: [Thomas Blake Glover](https://en.wikipedia.org/wiki/Thomas_Blake_Glover), arms dealer and the ancestral founder of Mitsubishi and Kirin.
+* **Videogame**: not really. Leslie Benzies made GTA III-V and RDR. 
+<!-- The QA team for _Stronghold_ is here but that doesn't count. _[Strange Sickness](https://common-profyt-games.itch.io/strange-sickness)_.  -->
+<!-- * https://en.wikipedia.org/wiki/Elizabeth_Blackwell_(illustrator) -->
 
-* **Restaurant**: Rishi's. The best Indian in the country imo.
+* **Actor**: William Devlin? Peter Mullan?
 
-* **Building**: "Spoons" (Archibald Simpson)
+* **Entrepreneur**: [Thomas Blake Glover](https://en.wikipedia.org/wiki/Thomas_Blake_Glover), arms dealer and ancestral founder of Mitsubishi and Kirin. Chicago Smith and Tawse.
 
-* **Architect**: It's a two-horse town: Archibald Simpson (1790–1847) and John Smith 
+* **Archaeologist**: [Nora Griffith](https://en.wikipedia.org/wiki/Nora_Griffith)
 
-* **Church**: St Machar. Tiny, ancient, wooden rafters, filled with song, passed by two thousand heathen students every day, eyes on the ground or on each other.
+* **Restaurant**: Rishi's. Best Indian place in the country imho.
 
-* **Library**: 
+* **Delicacy**: mealie, skirlie, stovies, butteries (dense pastry, half-fat - but only when warm, and not the JG Ross ones).
 
-* **Bookshop**: Books and Beans.
+* **Building**: 85 Crown Street. The one it's easy to visit is "Spoons" (The Archibald Simpson)
+<!-- 142 King Street - humani nihil alienum -->
 
-* **Cafe**: 
+* **Street**: Belmont St
+<!-- * **Architect**: It's a two-horse town: Archibald Simpson (1790–1847) and John Smith  -->
+
+* **Church**: St Machar. Tiny, ancient, wooden rafters, filled with song, passed by two thousand heathen students every day, eyes on the ground or each other.
+
+* **Walk**: Duthie is ok, or the Brig. Maryculter and Dunottar. 
+
+* **Library**: all bad besides the Central one, which is still small and uncosy.
+
+* **Shop**: Matthew's 
+
+* **Bookshop**: Books and Beans
+
+* **Venue**: The Tunnels are tiny, which gets you right in with the band, which makes e.g. jazz hit different.
+
+* **Pub**: Prince of Wales
+<br><br>
+
+* **Cafe**: The Picturehouse is shut now.
+
+<br><br>
+
+
+<div style="padding-left: 2em;">
+    <i>Pale rulered ceiling low. <br>
+    The fog a second sky at ten paces.<br>
+    Your breath a third foglet.<br>
+    You'd harshly review a film ending <br>
+    among sic a cloud chamber melodrama,<br>
+    lazy with climatic ellipsis.</i><br><br>
+    <i>Away, you forget endmost<br>
+    Grampian, the uniformity and the wall-eyed mist.<br>
+    Back, grey cries for colour: quayside tattoos, <br>
+    neon dye, Jäger. Colour isn't given.</i><br><br>
+    <i>Nae thermo - nae dynamic. <br>
+    Fowk thole the grey reef lang enou, <br>
+    puddle in the sea, hoovering <br>
+    at livid cracks in the macroeconomy. <br>
+    Abdy oxidates, no white-het but blue.<br>
+    A'hin blurs. A'hin levels.<br>
+    A'hin mixes. A'hin cools. </i> 
+</div>
+
+
+## See also
+
+* <a href="/glesga">Glasgow</a>
+* <a href="/bristol">Bristol</a>
+* Taipei
+* Prague
+* AK's "Eminent Aberdonians" is very sweet, with not much of the stench of the Commerce Chamber.
+* https://doriccolumns.wordpress.com is a work of exhausting and eccentric devotion
+* Stanley Robertson, _Fish Hooses_ (1990),
+* [Gazetteer](https://www.scottish-places.info/)
+* https://www.silvercityvault.org.uk/

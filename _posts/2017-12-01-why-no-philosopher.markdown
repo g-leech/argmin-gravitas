@@ -413,6 +413,7 @@ _Dedicated to the University of Aberdeen, who in a 6 year period either fired, l
 * <a href="{{spol}}">Spolsky on the risks of abstraction even in practical matters</a>
 * David Pearce, <a href="{{diary}}">Long diary entry containing a metaphilosophy & applied physicalism.</a>
 * Antonio Wolf, [use(lessness)](https://empyreantrail.wordpress.com/2024/01/16/the-uselessness-of-philosophy/)
+* [An oversold regression study](https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association/article/studying-philosophy-does-make-people-better-thinkers/45A7DE8F37BE4698265BD54490109D4A), d = 0.27
 
 <br><br>
 

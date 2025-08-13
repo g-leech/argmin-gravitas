@@ -92,6 +92,7 @@ argument:
 			{%	include nation/us.html	%}
 			{%	include nation/bra.html	%}
 			{%	include nation/can.html	%}
+			{%	include nation/jam.html	%}
 		</div>
 	</div>
 </div>
@@ -110,7 +111,7 @@ argument:
 4. Ideally there's something in there that any given native will never have heard.
 
 
-
+<br><br>
 
 # Caveats
 
