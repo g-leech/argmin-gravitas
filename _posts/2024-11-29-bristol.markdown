@@ -113,7 +113,8 @@ I lived in Bristol for 5 years, including one _total_ year (in lockdown). As lon
 
 * **Popular music**: Robert Wyatt. Mark Stewart. 
 
-* **Venue**: [The Thekla](https://www.theklabristol.co.uk/), [the Folk House](https://www.bristolfolkhouse.co.uk)
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2Jt0cpjzYrQ26fx2iFSKue?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 * **Philosopher**: James Ladyman is in residence.
 
@@ -121,9 +122,7 @@ I lived in Bristol for 5 years, including one _total_ year (in lockdown). As lon
 
 * **Eccentric** (activist, living anachronism, visionary): [Michael Dillon](https://en.wikipedia.org/wiki/Michael_Dillon), "The First Man-Made Man". Notable 1946 book on the right to transition.
 
-* **Philanthropist**: Mary Carpenter? Wikipedia helpfully notes that she did not completely eliminate crime by all English youths for all the rest of time.
-
-* **Walk**: Ashton Court Estate (the deer)
+* **Philanthropist**: Mary Carpenter? Wikipedia helpfully notes that she did not completely eliminate crime by all English youths for the rest of time.
 
 * **Comedian**: It's a [Chris Morris](https://en.wikipedia.org/wiki/Chris_Morris_(satirist)) kind of town. He did his [first radio shows](https://www.youtube.com/watch?v=qqSK5AdUVSk) here until he got fired for it.
 
@@ -141,11 +140,15 @@ I lived in Bristol for 5 years, including one _total_ year (in lockdown). As lon
 
 * **Entrepreneur**: [Colin Needham](https://www.bristolpost.co.uk/news/celebs-tv/story-behind-bristol-based-imdb-25097)
 
+* **Venue**: [The Thekla](https://www.theklabristol.co.uk/), [the Folk House](https://www.bristolfolkhouse.co.uk)
+
 * **Building**: the new Mathematics Building on campus is 80% windows and compelling.
 
 * **Street**: Clifton Village
 
 * **Church**: mostly terrible. The [St Peter and Paul cathedral](https://cliftoncathedral.org/stream) is stunningly ugly on the outside, but the plain white concrete interior is excellent.
+
+* **Walk**: Ashton Court Estate (the deer)
 
 * **Restaurant**: Bulrush. Suyuan for regular consumption. 
 
@@ -155,7 +158,7 @@ I lived in Bristol for 5 years, including one _total_ year (in lockdown). As lon
 
 * **Bookshop**: Dreadnought.
 
-* **Cafe**: Burra
+* **Cafe**: Burra for food, Bristolian for music.
 <!-- East Village Café -->
 
 

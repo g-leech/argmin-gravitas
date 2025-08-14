@@ -162,7 +162,7 @@ Whenever I have occasion to classify the persons I meet into three classes, "goo
 
 * You want to explain a place, so you reach for their climate and economy. 
     * Everyone-everywhere farmed so it can't explain anything distinctive, so factor out that industry unless there's some interesting variations on crops or animals or communal resource management.
-    * Like everywhere, the place was ten times smaller 250 years ago. So most of it is less than 100 years old. Can _anything_ before then explain much now? (More than 10% of what it is now?) Maybe, but I despair of weak evidence like history being in charge of this. 
+    * Like everywhere, the place was ten times smaller 250 years ago. Most of it is less than 100 years old. Can _anything_ before then explain much now? (More than 10% of what it is now?) Maybe, but I despair of weak evidence like history being in charge of this. 
 
 <center>
     <img src="/img/abdn/pop.png" width="85%" />
@@ -355,6 +355,8 @@ I played the Tunnels in an awful band with great lyrics. I [heckled](https://www
 * **Art music**: [Bob "Portland Vows" Plant](https://portlandvows.bandcamp.com/album/living-with-animals). Polar Bear. <!-- Edvard Grieg's granddad. -->
 
 * **Popular music**: [Lockah](https://www.youtube.com/watch?v=GZJiu2DTeKw) or [Toxik Ephex](https://www.youtube.com/watch?v=6SDRd0rGg44).
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7Lq7HPiQEFuPFZSHTGBw61?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 * **Philosopher**: [Alexander Bain](https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher)) made modern philosophy of mind out of severe mess. <!-- * People always name Thomas Reid for Aberdeen but he's an intemperate wee bastard. More recently Crispin Wright, Guido Bacciagaluppi, Luca Moretti. Supposedly Kant's granddad as well. -->
 
