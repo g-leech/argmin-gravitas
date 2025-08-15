@@ -237,6 +237,7 @@ Discussion on <a href="https://news.ycombinator.com/item?id=43688005">HN</a>
 - [https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do](https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do)
 - [https://www.jointakeoff.com/](https://www.jointakeoff.com/)
 - [This is more of a howto than a whatto](https://www.youtube.com/watch?v=EWvNQjAaOHw). I wouldn't use it for stats or pharma decisions as he does.
+- [https://zed.dev/blog/why-llms-cant-build-software](https://zed.dev/blog/why-llms-cant-build-software)
 - [https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit)
 
 <div class="accordion">
