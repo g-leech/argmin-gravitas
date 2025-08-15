@@ -92,7 +92,7 @@ languages have different strengths: Arabic is good for dealing with sand, Eskimo
 </blockquote>
 <center>― William Donaldson</center>
 
-* [Doric](https://en.wikipedia.org/wiki/Doric_dialect_(Scotland)) is one of the strongest dialects in Britain. 
+* [Doric](https://en.wikipedia.org/wiki/Doric_dialect_(Scotland)) is one of the strongest dialects in Britain. My Estonian girlfriend was here for four years and never got to understanding what the bus drivers were saying. 
     <!-- The "Furry Boots city" after the conventional "Whaur aboots are ye fae?" -->
     * The name means 'primitive': "_Since the Dorians were regarded as uncivilised by the Athenians, "Doric" came to mean "rustic" in English, and was applied particularly to the language of Northumbria and the Lowlands of Scotland and also to the simplest of the three orders in architecture._"
     * The Spartans were Dorians, and so too Victorian England had an [interesting way](https://dc.etsu.edu/cgi/viewcontent.cgi?article=4627&context=etd) of forgiving Scotland for the '45, by racialising Highlanders:
@@ -147,12 +147,16 @@ Whenever I have occasion to classify the persons I meet into three classes, "goo
 <br>
 
 
-* Because it is north, we don't know much about the past. The Beakies and Picts and Taexali left no words and not much cargo. What we know we read off the blood they left. <br><br>Short version: Indo-Europe victory: the "[Western Hunter-Gatherers](https://en.wikipedia.org/wiki/Western_hunter-gatherer)" (from Ukraine-Kazakh-Scythia) came and smashed whoever was there. Then the [EEFs](https://en.wikipedia.org/wiki/Early_European_Farmers) (farmers from Anatolia via Spain) came and smashed them. The [Beakies](https://pmc.ncbi.nlm.nih.gov/articles/PMC5973796/#F2) (steppe herders) came and smashed the EEFs. The Picts (Irish) came and smashed the Beakies. The Romans smashed them and left. Some non-Pict Britons came and smashed them. The Vikings smashed the Britons and left. The Christians (Gaels) smashed them and merged. The [Normans](https://en.wikipedia.org/wiki/Robert_de_Brus,_1st_Lord_of_Annandale) (Vikings) smashed them and merged. The lowlanders smashed them and merged. And then the Texans arrived. 
+* Because it is north, we don't know much about the past. The Beakies and Picts and Taexali left no words and not much cargo. What we know we read off the blood they left. <br><br>Short version: we presume paleolithic [Hamburgians](https://en.wikipedia.org/wiki/Hamburg_culture) lived among the glaciers and that their traces were ground into nothing by glacial motion. The mesolithic [calendar](https://en.wikipedia.org/wiki/Warren_Field) people then presumably smashed the Hamburgians. "[Western Hunter-Gatherers](https://en.wikipedia.org/wiki/Western_hunter-gatherer)" (from Ukraine-Kazakh-Scythia) came and maybe smashed the calendar people. Then the [EEFs](https://en.wikipedia.org/wiki/Early_European_Farmers) (farmers from Anatolia via Spain) came and smashed them. The [Beakies](https://pmc.ncbi.nlm.nih.gov/articles/PMC5973796/#F2) (steppe herders) came and smashed the EEFs. The Picts (Irish) came and smashed the Beakies. The Romans smashed them and left. Some non-Pict Britons came and smashed them. The Vikings smashed the Britons and left. The Christians (Gaels) smashed them and merged. The [Normans](https://en.wikipedia.org/wiki/Robert_de_Brus,_1st_Lord_of_Annandale) (Vikings) smashed them and merged. The lowlanders smashed them and merged. And then the Texans arrived. 
     <!-- * "_Hector Boece (c.1465–1536) (not known entirely for his historical accuracy)_" -->
     <!-- * There's some ambient pride about not having been occupied by the Romans (defeated, sure, but not occupied). Actually they just got distracted. We don't know where "Mons Graupius" was but it was probably within 50 miles of Aberdeen. We took the name Graupius for Grampian. -->
     <!-- * Taexali. Aberdeen might be "Devana". -->
     <!-- * The Great Conspiracy! -->
     <!-- * * Viking hoard -->
+
+<br>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7uB6JnZJd0zg4q8lp4Ni89?utm_source=generator" width="100%" height="252" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br>
 
@@ -232,7 +236,7 @@ Whenever I have occasion to classify the persons I meet into three classes, "goo
 
 <!-- * The wars of the three kingdoms began here. First Bishops' War -->
 
-<!-- John Taylor's Month Away -->
+
 
 <!-- ‘The dread of the Doctors soon
 became such that neither woman nor child would venture without
@@ -356,7 +360,7 @@ I played the Tunnels in an awful band with great lyrics. I [heckled](https://www
 
 * **Popular music**: [Lockah](https://www.youtube.com/watch?v=GZJiu2DTeKw) or [Toxik Ephex](https://www.youtube.com/watch?v=6SDRd0rGg44).
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7Lq7HPiQEFuPFZSHTGBw61?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7Lq7HPiQEFuPFZSHTGBw61?utm_source=generator" width="100%" height="552" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 * **Philosopher**: [Alexander Bain](https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher)) made modern philosophy of mind out of severe mess. <!-- * People always name Thomas Reid for Aberdeen but he's an intemperate wee bastard. More recently Crispin Wright, Guido Bacciagaluppi, Luca Moretti. Supposedly Kant's granddad as well. -->
 
