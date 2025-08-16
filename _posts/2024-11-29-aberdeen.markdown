@@ -25,12 +25,6 @@ where:      "Tallinn"
 <center>― Iain Crichton Smith</center>
 <br>
 
-<blockquote style="padding-bottom: 0pt;">
-    [Romans] call robbery... "empire"; they make a wasteland and call it "peace".
-</blockquote>
-<center>― Tacitus, putting words in the mouth of the first attested <a href="https://en.wikipedia.org/wiki/Calgacus">Aberdonian</a><br>(who he possibly made up)</center>
-
-<br>
 
 <blockquote style="padding-bottom: 0pt;">
     Once, in Jerusalem, I struck up acquaintance with an intelligent and interesting Syrian... I told him that I was born in Aberdeenshire in Scotland. He was amused and pitiful, though a little hazy. "Aberdeen - it is the pariah place, is it not?"
@@ -43,7 +37,7 @@ On a handful of days a year in Aberdeen when the sun comes out after the rain an
 
 <br>
 
-* It's hard north: ~same latitude as Anchorage and St Petersburg. Provincial among provinces; the end of the world. ("_We are the last people on earth. There are no lands beyond us._")
+* It's hard north: a bit further up than Moscow. Provincial among provinces; the end of the world. ("_We are the last people on earth. There are no lands beyond us._")
     * I'm from even further north, so the greyness and cold didn't shock me. But be ready for 3pm dusk in December. I was constantly slightly cold as a lad; I got a lot better at saxophone when I moved south because my fingers got enough blood. 
     * Average temperature is 8°C. That's not that cold! But between the rain, wind, fog, and greyness it feels colder than say Inverness. (It supposedly rains less here than in the rest of Scotland, but 1) it's still 1/3 of all days, 2) it's freezing.)
         * In the past, 33°C was a once-per-century event.
@@ -55,10 +49,11 @@ On a handful of days a year in Aberdeen when the sun comes out after the rain an
     * As a romantic teen I wanted to think that the hostile environment fostered fellow-feeling. Everyone here has a shared enemy (the weather), and everyone's inside. Trapped.
 <br><br>
 
-* North means remote, irrelevant, unstrategic. And so populated by unstrategic people, since strategic ones leave. "_the largest village in the world_"
+* North means remote, irrelevant, unstrategic. And so populated by unstrategic people, since strategic ones leave. 
     <!-- * That's a costly signal though. You're  -->
     * So no one finds themselves here by accident. I'm from just along the road, Elgin, and fell into the lowest-energy-basin cos they gave me a scholarship on top of the bursary. 
     * 5 years here; 4 at uni and 1 in a bookshop. I arrived as a <a href="https://ebrary.net/272422/language_literature/scottish_working_classics">cliche</a> self-built rural intellectual: extreme and eristic, grown into an odd shape for want of sun and live conversation. 
+    * "_the largest village in the world_"
     * We're late to things. Whaling 1800 (vs 1700), art gallery 1880 (Glasgow 1807), electric light 1894 (London 1878), Uber 2024 (London 2012)
     <!-- * >  "Aye, we're shite - but it's brilliant being shite." -->
 <br><br>
@@ -74,12 +69,12 @@ On a handful of days a year in Aberdeen when the sun comes out after the rain an
 * It's grim but _not_ poor. Per capita GDP is £52k, about the same as Glasgow or Anchorage or Miami; a third higher than UK average. 
     <!-- * The ominously named Cults is in the top 50 most expensive postcodes in the country.  -->
     * AB15 is the postcode with the most millionaires outside London. 
-    * During the 2009 financial crisis, Aberdeen was the only UK city beside London to completely avoid recession. It arrived in 2015 instead, when the American shale taps and the OPEC taps opened. Having half of all jobs in one sector ("energy") means it's absurdly cyclical, in lagged concert with the current global oil price. Population is down 7% in the last ten years.
+    * During the 2009 financial crisis, Aberdeen was the only UK city beside London to completely avoid recession. It arrived in 2015 instead, when the American shale taps and the OPEC taps opened. Having half of all jobs in one sector ("energy") means it's absurdly cyclical, in lagged concert with global oil prices. Population is down 7% in the last ten years.
     <img src="/img/abdn/ile.png" width="80%" />
 
 * 
     * Yes: just after the Scottish independence referendum, the oil price halved. Would have been carnage.
-    * Fracking in America was bad news for Aberdeen. The Ukraine war was, selfishly, good news. Global warming is good news; the net-zero carbon commitment is bad news, though they're [trying](https://www.theacornproject.uk/) to get on that wagon.
+    * Fracking in America was bad news for Aberdeen. The Ukraine war was, selfishly, good news. Global warming is locally good news; the net-zero carbon commitment is bad news, though they're [trying](https://www.theacornproject.uk/) to get on that wagon.
 
 <br>
 
@@ -155,6 +150,14 @@ Whenever I have occasion to classify the persons I meet into three classes, "goo
     <!-- * * Viking hoard -->
 
 <br>
+
+<blockquote style="padding-bottom: 0pt;">
+    [Romans] call robbery... "empire"; they make a wasteland and call it "peace".
+</blockquote>
+<center>― Tacitus, putting words in the mouth of the first attested <a href="https://en.wikipedia.org/wiki/Calgacus">Aberdonian</a><br>(who he possibly made up)</center>
+
+<br>
+
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7uB6JnZJd0zg4q8lp4Ni89?utm_source=generator" width="100%" height="252" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

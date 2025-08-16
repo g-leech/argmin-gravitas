@@ -48,6 +48,8 @@ visible:    false
 
 </style>
 
+You're probably better off reading these <a href="https://www.goodreads.com/author/show/52864507.Gavin_Leech">on Goodreads</a>, this is a backup.
+
 <br>
 
 <div class="accordion">

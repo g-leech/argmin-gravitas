@@ -20,9 +20,12 @@ visible:	true
 {%  assign ragg = "https://open.spotify.com/playlist/1uTm7KJ9U2BmgrcgDyWPm0?si=17d0ecdf89224d06"   %}
 {%  assign dubs = "https://open.spotify.com/playlist/1z49SUEtGIJZuyhmj00hqa?si=80c07a1e89604308"	%}
 {%  assign landfill = "https://open.spotify.com/playlist/56qHq7Mp5Pzs9QpbilOd2K?si=f6e9a4dc7f424efd" %}
+{%  assign metal = "https://open.spotify.com/playlist/3jUJlttx7nkMN6qVkaIIQO?si=9dd9b8a81b8b419d"	%}
+{%	assign post = "https://open.spotify.com/playlist/2wZiCXIhYypTAaCkpFNF9t?si=8b96c6272ead47f5"	%}
+{%	assign vidya = "https://open.spotify.com/playlist/0Ge30FFa6jGdvVZaCcrU00?si=613ffbd69ad041ce"	%}
 
 <style>
-	{% include css/recs.css	%}
+	{% 	include css/recs.css	%}
 </style>
 
 ## Listen
@@ -46,6 +49,9 @@ visible:	true
 	<a href="{{x}}">{% include fa/candy-cane-solid.svg %} ☧mas</a>
 	<a href="{{ragg}}">{% include fa/cannabis-solid.svg %} reggae</a>
 	<a href="{{dubs}}">{% include fa/user-astronaut-solid.svg %} dub</a>
+	<a href="{{metal}}">{%	include fa/ear-deaf-solid-full.svg	%} metal</a>
+	<a href="{{vidya}}">{%	include fa/gamepad-solid.svg	%} vidya</a>
+	<a href="{{post}}">{%	include fa/circle-xmark-solid-full.svg %} post-</a>
 	<a href="/nation-sound">{% include fa/earth-americas-solid.svg %} nations</a>
 </div>
 
