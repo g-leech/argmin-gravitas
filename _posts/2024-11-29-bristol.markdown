@@ -113,9 +113,6 @@ I lived in Bristol for 5 years, including one _total_ year (in lockdown). As lon
 
 * **Popular music**: Robert Wyatt. Mark Stewart. 
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2Jt0cpjzYrQ26fx2iFSKue?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-
 * **Philosopher**: James Ladyman is in residence.
 
 * **Scientist**: Dirac.
@@ -158,13 +155,11 @@ I lived in Bristol for 5 years, including one _total_ year (in lockdown). As lon
 
 * **Bookshop**: Dreadnought.
 
-* **Cafe**: Burra for food, Bristolian for music.
+* **Cafe**: Burra for food, Bristolian for music with zero misses.
 <!-- East Village Café -->
 
 
 <br><br>
-
-## See also
 
 ## See also
 
