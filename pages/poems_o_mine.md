@@ -18,9 +18,9 @@ visible:    false
 
 ## 2024
 
-<br>
 
-#### Ugly Slave (by 辛棄疾)
+
+### Ugly Slave (by 辛棄疾)
 
 When I was young and didn't know sorrow <br>
 I loved to scale the roofs<br>
@@ -34,12 +34,12 @@ Instead: 'What a cool day! Such lovely autumn weather!'<br>
  
 <br>
 
-([original](https://www.gushiwen.cn/shiwenv_2ee36eb2ccf7.aspx))
+([original](https://www.gushiwen.cn/shiwenv_2ee36eb2ccf7.aspx), c. 1180)
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### Reverie (by 李清照)
+### Reverie (by 李清照)
 
 I always remember sunset at the river pavilion, so fun-drunk I couldn't find the way back. <br>
 Contented, I rowed back tardy, lost in the thick of the lotus. <br>
@@ -50,10 +50,10 @@ I row, and row, and startle a wave of herons.<br>
 ([original](https://www.gushiwen.cn/shiwenv_3e33bfbb8f79.aspx). Joint work with Yiwa Xie.)
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### Hunting in Mizhou - to the tune of 'Jiangchengzi' (by 苏轼)
+### Hunting in Mizhou - to the tune of 'Jiangchengzi' (by 苏轼)
 
 I am old and reviving my youthful madness. <br>
 Yellow hound on my left and hawk on my right. <br>
@@ -83,7 +83,7 @@ I will draw a carved bow full as the moon, look northwest, and shoot down Sirius
 
 
 
-#### __botany and ultimate reality__
+### __botany and ultimate reality__
 
 Selection pressures we don't really understand led the deerhorn clarkia to have strangely oblong pollen This increased its fitness for the task of "Robert Brown picking it"
 
@@ -105,7 +105,7 @@ The stochastic calculus was made in the middle of the war. It describes all rand
 
 <br>
 
-#### __self portrait__
+### __self portrait__
 
 
 _How did I get here?_
@@ -159,7 +159,7 @@ todo
 
 <br>
 
-#### __<a href="https://www.youtube.com/watch?v=Z01MSGmzGSc">Hello!</a> (from The Blog of Medyud)__
+### __<a href="https://www.youtube.com/watch?v=Z01MSGmzGSc">Hello!</a> (from The Blog of Medyud)__
 
 
 Hello! My name is weird-sun-stan<br>
@@ -186,7 +186,7 @@ HELLO would you like to change epistemics I have a free book written by SOME GUY
 
 <br>
 
-#### __fancy__
+### __fancy__
 
 
 My nation is a dress uniform, like all nations. Distinctive, colourful, old, mass-produced. Six sizes too big. If I wear it I am legible to you, you I haven't met. It veils me when I meet you and don't want to be met by you. It lives in the cupboard (I don't have to meet many people). <br>
@@ -201,10 +201,10 @@ No one will spit on my coat, unlike yours. It is humble and demotic. The regimen
 
 Frock coats are new. There are no frock coats, we just pretend we're wearing frock coats to humour each other. It is cold without them. But it it wouldn't be, if you stood like so before yours, as it burned. Say, can you see?
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __thole thule__
+### __thole thule__
 <!-- 2017-05-13 -->
 
 Pale rulered ceiling low. <br>
@@ -227,10 +227,10 @@ Abdy oxidates, no white-het but blue.<br>
 A'hin blurs. A'hin levels.<br>
 A'hin mixes. A'hin cools. 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __incentive compatibility__
+### __incentive compatibility__
 <!-- 2017-03-19 -->
 
 We live together: you dislike mess more than cleaning; I dislike cleaning more than mess. Mess happens: obligate social grooming rears a silent scowling face.<br>
@@ -240,9 +240,9 @@ A current account runs to deficit: cogwheels backlash. I could offer you money f
 Yes: I skip the lease under cover of night, free-riding the axle of a Scania bound for the orient. In the morning: notes stuffed under your door.
 
 
-<br><br><br><br><br>
+<br><br><br>
 
-#### __to be led out__
+### __to be led out__
 <!-- 2017-03-18 -->
 
 You start to learn something. You don't know what to google. You don't know the luminaries.
@@ -256,10 +256,10 @@ Most educated people never leave the enclosures, and mistake the limits of the c
 
 In fields where it's impossible to know if you have gone astray - everything except the formal sciences - the work feels nicer but is sadder, considered on a proper timescale, of centuries. There it is almost inevitable that lives will be ploughed into the soil and merge with the stream of decomposing misguided theses. In the formal sciences this is only very likely.
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __Ode to Experian, Equifax, Epsilon, Acxiom, Rapleaf, Phorm, Cambridge Analytica, and Palantir__
+### __Ode to Experian, Equifax, Epsilon, Acxiom, Rapleaf, Phorm, Cambridge Analytica, and Palantir__
 
 
 sun the sky. your points held out<br>
@@ -303,7 +303,7 @@ something to be watching, and that is as good as it gets.
 
 <br>
 
-#### __uluburun__
+### __uluburun__
 <!-- 2016-12-18 -->
 
 <br>
@@ -336,7 +336,7 @@ Gold over glass over tin over fist.<br>
 Ugarit. Enkomi. Nefertiti.<br>
 
 This shares properties with me, so it is good. That has properties beyond my properties, so it is good.
-<br><br><br><br><br>
+<br><br><br>
 
 
 <u>II. <i>Commerce versus gift versus tribute</i></u><br><br>
@@ -411,9 +411,9 @@ Where to? First contact?
 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
-#### __generally__
+### __generally__
 
 <!-- 2016-01-08 -->
 
@@ -468,7 +468,7 @@ symbolism people give it; ignores everything except pressures, gravities, van de
 
 and future soon.
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 <hr />
@@ -479,7 +479,7 @@ and future soon.
 
 <br>
 
-#### __the problem with other minds__
+### __the problem with other minds__
 <!-- 2015-10-11 -->
 
 I don't know what you're thinking, of course. Some people make much of this; all our thousands of languages are supposed to be bridges, however rickety and thin; half of all real and imagined tragedies turn on miscommunication; a large branch of world philosophy obsesses over the Angst of Being and the distant Other, incomprehensible, deep and sad.
@@ -489,10 +489,10 @@ The harsh light of <a href="#the_law" epub-type="stretchsummary">Sturgeon's law<
 But also that, were humanity better than it is - more thoughtful, more caring, more original, funnier - the situation would be <i>more</i> tragic. Because the feeling I have of missing out on you all would be, well, justified.
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __parabola not slide__
+### __parabola not slide__
 
 <!-- 2015-10-10 -->
 
@@ -532,9 +532,9 @@ No, we will <i>not</i> be as we were! thank god.<br>
 "Well."-->
 
 
-<br><br><br><br><br>
+<br><br><br>
 
-#### __"To sing in green"__ by Hugo von Hofmannsthal
+### __"To sing in green"__ by Hugo von Hofmannsthal
 <!-- 2015-01-30 -->
 
 I<br />
@@ -593,10 +593,10 @@ Only then come to me!”<br />
 <a href="#fn:1" id="fnref:1">1</a>
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __wait in room__
+### __wait in room__
 
 <!-- 2015-01-15 -->
 
@@ -615,10 +615,10 @@ and see in me hot and fragile seas.<br /><br />
 To leave me ungeneralised.
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __Rain Clearance__ by Dù Fǔ
+### __Rain Clearance__ by Dù Fǔ
 
 <i> for Qiu Ji</i><br /><br />
 
@@ -661,7 +661,7 @@ One goose rises in plain air.<br />
 
 
 
-#### __quondam__
+### __quondam__
 
 <!-- 2014-07-31 -->
 
@@ -696,10 +696,10 @@ What was is repossessed.<br />
 None own their shares in earthly beauty.<br />
 Make do. Lie; “s’for the best”.
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __english__
+### __english__
 <!-- 2014-07-22 -->
 
 
@@ -713,10 +713,10 @@ no not dead but petrefacted: a door<br />
 closed but leaking light &amp; snores<br />
 enough for one interpretation more.
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __create table person__
+### __create table person__
 <!-- 2014-03-12 -->
 
 CREATE TABLE person (<br />
@@ -788,7 +788,7 @@ run;
 
 
 
-#### __Firebrand__
+### __Firebrand__
 <!-- April 22, 2013 -->
 
 > <small>So He drove out the man; and He placed at the east of Eden...<br>a flaming sword which turned every way,<br>to keep the way of the tree of life.</small>
@@ -817,10 +817,10 @@ Ta Thu Thau the Girondin,<br>
 dispensed-with, soon-null sets.<br>
 so too next time, I bet.
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __suffer little parentheses__
+### __suffer little parentheses__
 <!-- 2013-10-06 -->
 
 Developed in isolation writing suffers. also in<br />
@@ -837,10 +837,10 @@ and so on so fragile,<br />
 so rarely good.
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __Mnemonic for Kahneman's Three Divisions of the Mind__
+### __Mnemonic for Kahneman's Three Divisions of the Mind__
 <!-- 2013-08-25 -->
 
 <a href="https://fs.blog/daniel-kahneman-the-two-systems/#:~:text=automatically%20and%20quickly">Otto</a>'s secret author of<br />
@@ -859,10 +859,10 @@ creative with the past;<br />
 and flies off, Otto-fast.<br />
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __Peter Singer__
+### __Peter Singer__
 <!-- 2013-07-09 -->
 
 Speak now of the soul's ratchets and the stirred Stakhanovite silt<br />
@@ -886,9 +886,9 @@ now manumit the tenderloin;<br />
 Now not sit still<br />
 to tunes ignored.
 
-<br><br><br><br><br>
+<br><br><br>
 
-#### __Union Terrace Gardens #2__
+### __Union Terrace Gardens #2__
 <!-- 2013-06-23 -->
 
 Three teens unshaded&nbsp;sodden<br />
@@ -904,18 +904,18 @@ living public living room;<br />
 and, supposedly, at world to come.
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __no: dyce__
+### __no: dyce__
 <!-- 2013-06-10 -->
 
 Walking hard shoulders toward my early town through dew, fog, find a white cd-r in the carriageway grass. Thrown from a car. Rain-stained, smeary <i>Saucerful of Secrets. </i>'That's fucking enough.'
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __employ__
+### __employ__
 <!-- 2013-05-16 -->
 
 Speak unfree, acquiesce to excellence;<br />
@@ -930,14 +930,14 @@ leave style at threshold, dream at car-door:<br />
 make it matter. 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 ### NaPoWriMo 2013 (one poem per day)
 
 <br>
 
-#### __as per__
+### __as per__
 <!-- 2013-04-22 -->
 
 writing, <br />
@@ -969,11 +969,11 @@ in&nbsp;ordinary life -- more than I can manage.<br />
 I'm not strong enough to be happy with just sense.
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 
-#### __rancour__
+### __rancour__
 <!-- 2013-04-22 -->
 
 I am the offending article.<br />
@@ -991,12 +991,12 @@ make my currency anymore.<br />
 <br />
 So I sing, must thus roll. 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 
 
-#### __demon denominalisations, or, the vicious verbing__
+### __demon denominalisations, or, the vicious verbing__
 <!-- 2013-04-22 -->
 
 Suddenly monied,<br />
@@ -1026,10 +1026,10 @@ signatured what we told them to signature. <br />
 We will all nuke together we we nuke.<br />
 It will impact you but not for long.
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __study in usb sticks lost at my workplace__
+### __study in usb sticks lost at my workplace__
 <!-- 2013-04-11 -->
 
 Black telescopic macho toy, 4GB:<br />
@@ -1099,10 +1099,10 @@ Switchblade in chrome, 2GB:<br />
 <em>Technical documents in Polish. Hans Zimmer's True Romance OST.</em>
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __<i>works whose titles are their conclusions</i>__
+### __<i>works whose titles are their conclusions</i>__
 <!-- 2013-04-07 -->
 
 Rosencrantz and Guildenstern Are Dead.<br />
@@ -1121,7 +1121,7 @@ Things Fall Apart.
 <br />
 <br />
 
-#### __<i>works whose titles are their conclusions and are false</i>__
+### __<i>works whose titles are their conclusions and are false</i>__
 All Quiet on the Western Front<br />
 God's Gonna Cut You Down.<br />
 I Will Always Love You.<br />
@@ -1129,10 +1129,10 @@ I Will Survive.<br />
 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __heave me away with light iron__
+### __heave me away with light iron__
 <!-- 2013-04-05 -->
 
 
@@ -1155,10 +1155,10 @@ Strong admiration of irony is my distance from his distance.
 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __inter faeces et urinam nascimur__
+### __inter faeces et urinam nascimur__
 <!-- 2013-04-04 -->
 
 
@@ -1184,10 +1184,10 @@ aw thi money oot that sea&nbsp;winna buy off that.
 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __Terroir and Milieu__
+### __Terroir and Milieu__
 <!-- 2013-04-03 -->
 
 The plant I am today is hard to know.<br />
@@ -1222,7 +1222,7 @@ that said, I present this grape.<br />
 
 
 
-#### __Poem inscribed on some Undies__
+### __Poem inscribed on some Undies__
 <!-- 2012-12-29 -->
 
 <i>[Right cup]</i><br />
@@ -1251,10 +1251,10 @@ and, in our instance,<br />
 closer even to the heart.<br />
 right in the thicket of it.
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __cheap mental health__
+### __cheap mental health__
 <!-- 2012-12-29 -->
 
 my people are as they are because they shrink from<br />
@@ -1272,10 +1272,10 @@ eating right, and embodying your morals.<br />
 (participation)
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __no man is a nation__
+### __no man is a nation__
 <!-- 2012-12-29 -->
 
 
@@ -1290,10 +1290,10 @@ and we both say we crave independence,<br />
 (though mine's from Britain and<i>&nbsp;</i>Scotland both).
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __and thence fall into jobs that feed the bourgeois nation-state__
+### __and thence fall into jobs that feed the bourgeois nation-state__
 
 <blockquote>
     <small>
@@ -1326,10 +1326,10 @@ does your garden grow purely, organic,&nbsp;and innate?<br />
 does your ignored critique&nbsp;starve out&nbsp;the Bourgeois Nation-State?
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __having just graduated__
+### __having just graduated__
 <!-- 2012-10-10 -->
 
 
@@ -1349,13 +1349,13 @@ in&nbsp;this bright young world entirely <br />
 unchanged by us.
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 
 
 
-#### __Mzungu__
+### __Mzungu__
 <!-- 2012-06-03 -->
 
 What goes through you
@@ -1376,9 +1376,9 @@ I grimace at you, fight indifference
 walk on.
 
 
-<br><br><br><br><br>
+<br><br><br>
 
-#### __the kabootar in flight__
+### __the kabootar in flight__
 
 
 What lasts?
@@ -1405,7 +1405,7 @@ the kabootar in flight.
 
 <!-- 
 
-#### Atcha
+### Atcha
 
 Brit takes snap
 
@@ -1414,7 +1414,7 @@ local whips out phone
 to snap back.
 
 
-#### Crowned 
+### Crowned 
 
 Each home’s heralded by banana trees
 sure sign, omen and birthmark.
@@ -1428,7 +1428,7 @@ Means close to scorp and tetanus.
 But that’s not all.
 
 
-#### Mnyauko
+### Mnyauko
 
 The banana’s a-dying.
 Blight rots them on the tree,
@@ -1447,7 +1447,7 @@ scarcely less&nbsp;
 for it.
 
 
-#### West</b>
+### West</b>
 
 
 Irony our strong suit
@@ -1461,7 +1461,7 @@ stupid kindness,
 alternative visions.
 
 
-#### gender sensitization
+### gender sensitization
 
 “how can this happen?”
 Well whips are not needed most of the time 
@@ -1490,7 +1490,7 @@ We don’t know and nor do they.
 
 
 
-#### some colours
+### some colours
 
 some houses empty shambles, sweat all round,
 laborious housekeep, and smoke all round,
@@ -1510,13 +1510,13 @@ an efficacious&nbsp;blessing, for once.
 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 
 
 
-#### __Perth / Dundee__
+### __Perth / Dundee__
 <!-- 2012-05-25 -->
 
 
@@ -1545,13 +1545,13 @@ lesson: no<br />
 lesson, I just wanted you to know
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 
 
 
-#### __who gradually wasn't__
+### __who gradually wasn't__
 <!-- 2012-05-25 -->
 
 
@@ -1582,11 +1582,11 @@ her breasts and other jumbles<br />
 and last lost all her body<br />
 (so sat godlike, and vexed)
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 
-#### __L'immobiliare__
+### __L'immobiliare__
 <!-- 2012-04-15 -->
 
 
@@ -1601,10 +1601,10 @@ It is not mostly via vices<br />
 or secrets that they get us<br />
 but by our dreams.
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __critique__
+### __critique__
 <!-- 2012-04-14 -->
 
 
@@ -1618,11 +1618,11 @@ and punch with your hand open,<br />
 on limbs that were anyway gangrenous<br />
 and do not leer.)
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 
-#### __anti matters__
+### __anti matters__
 <!-- 2012-03-21 -->
 
 <blockquote>
@@ -1641,19 +1641,19 @@ priest spits fear and negative fear.<br />
 killer, negative life,<br />
 musician, negative death.
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __that they__
+### __that they__
 <!-- 2012-03-07 -->
 
 I see they've cloned a baby.<br />They've put ten mice on crack!<br />They know what causes rainfall now -<br />They've fixed your grandad's back!<br /><br />They'll go too far if you ask me<br />They can't control it all.<br />So while they fill up the TV<br />I'll off await the fall.
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __la noune__
+### __la noune__
 
 but english has no good words for it --<br />
 and little love.<br />
@@ -1680,28 +1680,28 @@ a night just then.
 <br>
 
 
-#### __weaponized__
+### __weaponized__
 
 against nothingness we used bang.<br />against lifelessness we used rna.<br />against stasis we used predation.<br />against blind we used sense.<br />
 <!--against sense we used mind.<br />-->
 against neanderthals we used braining.<br />against darkness we used each other.<br />against peace we used questions.<br />against angst we used questions.<br />against boredom we used questions.<br />against impotence we used questions.<br />against arrogance we used questions.<br />against questions we used god and fire.<br />against hunger we use life.<br />against women we use themselves.<br />against happiness we use ideals.<br />against death we use soap.<br />against thought we use stuff.<br />against memory we use google.
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 
-#### __speak sense__
+### __speak sense__
 <!-- 2011-11-21 -->
 
 the time for talk is over:<br /><br />the rising tide lifts all boats;<br />you can't fight the tide,<br />you're either with us or against us.<br /><br />it takes one to know one;<br />he knows one,<br />so he was asking for it<br /><br />no smoke without fire,<br />no fire without fuel<br />no fuel without sowing (you've made your bed now reap it.)<br /><br />spare the rod and spoil the child;<br />fight fire with leopards<br />who won't change their spots (though the tiger has a chance)<br /><br />when in Rome do as I say not as I do<br />because I say so<br />you have too much time on your hands (out, damned tock, out!)<br /><br />all's fair in love and war,<br />no pain, no gain,<br />and the time for talk deemed over
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 
-#### __anti-resume__
+### __anti-resume__
 <!-- 2011-02-28 -->
 
 
@@ -1739,7 +1739,7 @@ I've surveyed no field - nor any phenomenon, physical, cultural, or other. I kno
 
 
 <!-- 
-#### balance sheet for doing philosophy
+### balance sheet for doing philosophy
 
 <br />
 <span style="font-size: large;">+</span><br />
@@ -1797,7 +1797,7 @@ I've surveyed no field - nor any phenomenon, physical, cultural, or other. I kno
 
 <br>
 
-#### __Who Am I?__
+### __Who Am I?__
 <!-- Jan 2010 -->
 
 > "It's easy hatin yourself, it's hard makin it rhyme"
@@ -1852,11 +1852,11 @@ I dance to a done tune.
 
 You to an unwritten one.
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 
-#### __booty__
+### __booty__
 <!-- 16th June 2010 -->
 
 
@@ -1870,20 +1870,20 @@ they bear it. they've counted thirty paces.<br />
 dig new at two Xs.
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __WORDS I WOULD NOT OTHERWISE SAY__
+### __WORDS I WOULD NOT OTHERWISE SAY__
 <!-- June 2010 -->
 
 Disbelief makes me solemn;<br />you are a serious matter<br />I've no hope to solve.<br />(a paralysing sequent)<br />
 Your hands are absurdities<br />for they contradict my skin<br />and from them anything follows.<br /><br />I can say the words but they're<br />empty names, real but not realised.<br />
 The delight scalds me. 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __'GLOBAL HUB'__
+### __'GLOBAL HUB'__
 <!-- June 2010 -->
 
 Studiedly nothing
@@ -1910,27 +1910,27 @@ less of your lip, poet,<br>
 
 Spuriously all things.
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __PRESENTISM__
+### __PRESENTISM__
 <!-- 20th May 2010 -->
 
 A rolling limit on it all, wide as world,<br />effortless Shiva-Brahma, Now.<br /><br />Entire<br />entire anew<br />entire anew everything<br />instantly entirely<br />sleight.<br /><br />times pass and pass away<br />we pass, and now flies<br />the tick.<br /><br />it is cold, the godclock;<br />its truths are transiences.<br />it'll allow you only a moment,<br />the moment, and fling<br />juxtapositions unexplaineds halfperceiveds<br />rushed right by finalities beautiful firsts<br />ephemera and quantum bullshit at you<br />for observation,<br />though more like for not.<br /><br />The past cannot save,<br />the future cannot promise.<br /><br />Fuck Zen,<br />sight without a backbone in one's eyes.<br />Now, not Tao.<br />More than shallow, divorcing Zen;<br />the dead men you consort and tussle with<br />are at your elbow,<br />waiting for us to forget.<br /><br />Only what is present is and all that is is present.<br /><br />This, time's null-series and<br />its dynamic hindtruth:<br />bug-eyed, austere, and punk.<br />
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __OUR MAENAD__
+### __OUR MAENAD__
 <!-- 20th May 2010 -->
 
 Then howling, then lowing,<br />she donned quick dull and bedded -<br />but did not settle - down,<br /><br />in a feu de tristesse. There's no<br />choicer torturers than selves.<br />It's masturbation for clean hands.<br /><br />Endlessly dressing; life as vanity table<br />in an alcove offstage (ever offstage).<br />Words will do for clothing in a pinch.<br /><br />Of late what words they are! Silken<br />Armour and feather helmets,<br />a ridiculous expressionist war.<br /><br />Sparagmos! the jubilant wrong<br />that we'll pause by, observing rites<br />over rights. Drink deep, fill your boots.<br /><br />Impress, prepossess, distance;<br />petition from the surface.<br />I hate it when you say it's only skin.<br /><br />Valuable, people. Opaque, though, so much so<br />that muck that covers brass; all is muck<br />if you never scratch it, and reason seems alone. 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __home school__
+### __home school__
 <!-- Feb 2010 -->
 
 needing parental permission slip signed to read Sophocles.<br>
@@ -1942,10 +1942,10 @@ When parents die early I will not need to; the begetter's whim  <br>
 Shall I ask my ailing father if I may when I am 50? <br>
 When my children ask me, will I pass their request upwards?
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __35%__
+### __35%__
 <!-- Feb 2010 -->
 
 I have been told of things. Almost everything in my head I have been told; of an a passive brickie, handed material (begrodying study and expected to conclude as I should. 
@@ -1956,10 +1956,10 @@ Philosophy is a downpour on the construction site, or maybe it only reveals the 
 
 Children of one multiply-sclerotic parent have a 35% chance of themselves presenting in later life. I am told. 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __too cool, i think, for the morning__
+### __too cool, i think, for the morning__
 <!-- 19th Feb 2010 -->
 
 
@@ -1983,10 +1983,10 @@ though it took its time in signing this up.<br />
 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __Lévi-Strauss__
+### __Lévi-Strauss__
 <!-- 2010-02-02 -->
 
 no pedestals for anyone - totema!
@@ -2003,10 +2003,10 @@ You'll note patterns in your very bones if you only drop some airs.
 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __A PHILOSOPHE AMIDST POSTMODERNS__
+### __A PHILOSOPHE AMIDST POSTMODERNS__
 <!-- 2010-02-02 -->
 
 
@@ -2062,10 +2062,10 @@ What is it you rail with, right over the Reichenbachs?
 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### __ADVISORY__
+### __ADVISORY__
 <!-- 2010-02-02 -->
 
 
@@ -2097,11 +2097,11 @@ wheedle, snipe and smile.
 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 
-#### __BESTRIDES__
+### __BESTRIDES__
 <!-- 2010-02-02 -->
 
 <blockquote>
@@ -2153,7 +2153,7 @@ and the sun'll come up, after all. it always does.
 
 <br>
 
-#### __I'll Hill Your Head__
+### __I'll Hill Your Head__
 <!-- 11/11/09 -->
 
 
@@ -2181,7 +2181,7 @@ Descend by skyhook and bitten tongue
 
 
 
-#### __Timepoem 1: Independence Overrated (6/10/07)__
+### __Timepoem 1: Independence Overrated (6/10/07)__
 
 _Being a minute-by-minute account of a shy lad with pretensions travelling to the Edinburgh University Open Day, and there enjoying a psychotic moment_
 
@@ -2289,7 +2289,7 @@ Yeahmeandmydadaretryingtofindit
 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 

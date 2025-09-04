@@ -2,7 +2,7 @@
 <div>
     <ul>
         <li>
-            Keynote at <a href="https://humanaligned.ai/2025/">HAISS 2025</a>: <a href="https://docs.google.com/presentation/d/1IxNCFB81jy3_Xf5ogZLYUS8kgRlhRdIVV5EYSb4VfBo/edit?slide=id.g37045729e1c_0_307#slide=id.g37045729e1c_0_307">What's Going On?</a>
+            Keynote at <a href="https://humanaligned.ai/2025/">HAISS 2025</a>: <a href="https://www.youtube.com/watch?v=vp2KkB_jfw4">What's Going On?</a> (<a href="https://docs.google.com/presentation/d/1IxNCFB81jy3_Xf5ogZLYUS8kgRlhRdIVV5EYSb4VfBo/edit?slide=id.g37045729e1c_0_307#slide=id.g37045729e1c_0_307">slides</a>)
         </li>
         <li>
             Conference: <a href="https://youtu.be/leQ56mahNMs?t=605">Safety Properties of Inductive Logic Programming</a>

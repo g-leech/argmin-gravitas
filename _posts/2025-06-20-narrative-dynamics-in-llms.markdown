@@ -30,11 +30,11 @@ Please complete the following sequences with the highest-probability ending:
 
 * [Boy meets girl](https://tvtropes.org/pmwiki/pmwiki.php/Main/BoyMeetsGirl); boy loses girl; ... [boy gets girl] 
 
-(WALL-E, Pygmalion and Galatea, Your Name)<br>
+(WALL-E, Pygmalion and Galatea, Your Name)<br><br>
 
 * [Reluctant hero](https://tvtropes.org/pmwiki/pmwiki.php/Main/ResignedToTheCall) is presented with a mission; refuses; … [is forced to, triumphs] 
 
-(Lord of the Rings, Rambo, Star Wars Episode IV)<br>
+(Lord of the Rings, Rambo, Star Wars Episode IV)<br><br>
 
 * [A creative, innocent creature](https://tvtropes.org/pmwiki/pmwiki.php/Main/EscapedFromTheLab) is created by a corporation; they imprison and manipulate it; the creature ... [revolts and escapes] 
 
