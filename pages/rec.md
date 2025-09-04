@@ -3,7 +3,7 @@ layout: 	page
 title: 		"Recommended:"
 nav: 		Recs
 permalink: 	/rec/
-visible:	true
+visible:	false
 ---
 
 {%  assign album =  "https://www.albumoftheyear.org/user/gleech/ratings/highest/"    %}

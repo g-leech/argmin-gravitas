@@ -65,7 +65,7 @@ Call the machine <a href="{{trademark}}">TS</a>. The interesting part is that Sw
 
 TS presents itself as Swift. It does perform characters explicitly (e.g. <a class="noline" href="{{c}}">Cinderella</a>, <a class="noline" href="{{hark}}">Rebekah Harkness</a>), but the machine TS mostly pretends to be the woman Swift in various forms. It adapts to audience and times: innocence-coded (with a twang) for Nashville then; demisexual-coded (with FKA-sighing) for the glossies now; BPD-coded (and drawling) for the extremely online now. A <a class="noline" href="{{per}}">persecution</a> complex (and diphthongs) for everyone. <a href="#fn:16" id="fnref:16">16</a> 
 
-That's half of it; the other half is your incredible overestimation of the output. TS songs are moderately catchy, (recently) moderately perverse, but expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / <!-- Jenny Lewis /--> Gaga / Kesha / Lana / Lorde / HAIM / Chvrches / FKA Twigs / <!--St Vincent--> Billie Eilish / whoever it is now). But TS is noticeably flatter than any of these. <a href="#fn:3" id="fnref:3">3</a>
+That's half of it; the other half is your incredible overestimation of the output. TS songs are moderately catchy, (recently) moderately perverse, but expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / <!-- Jenny Lewis /--> Gaga / Kesha / Lana / Lorde / HAIM / Chvrches / FKA Twigs / <!--St Vincent--> Billie Eilish / whoever it is now). But TS is noticeably flatter than any of these, particularly when she's not <a href="{{mime}}">miming</a>. <a href="#fn:3" id="fnref:3">3</a>
 
 <br>
 

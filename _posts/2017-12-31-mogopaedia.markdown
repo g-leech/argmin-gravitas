@@ -237,6 +237,8 @@ All that said,
 
 His work has shifted profoundly over the last 20 years. Not just sound, genre, not just lyrical attitude, not merely moving from basic chords to composition, and not just moving to personal confessions. No: he tired of his two strongest artistic choices: being nearly completely alone and him rejecting all Production. The eras are
 
+<br>
+
 1. _Shrimper_: Acoustic thrash + nasal wail + panasonic + Shrimper + Young David Byrne / Tim Kinsella face <a href="#fn:9" id="fnref:9">9</a> (1985 - 2001). Divorces looming; mythologies coursing through the young.<br><br>
 2. _4AD_: Electric reverb + big ass studio + muttering + 4AD + John Oliver face (2002 - 2013). Autobiography begins in 2004 and tenderises him.<br><br>
 3. _Merge_: BAND. Power trio. Cool Dr. habil. jaja. Start to have like Arrangements. (2012 - 2017).<br><br>
@@ -300,7 +302,7 @@ It is the prerogative of the long time fan to get arsey about changes of directi
 </div>
 <br>
 
-The trouble is that between AHWT and TLotWTC he became a Musician. (He might have been also be attempting to gracefully sidestep the chord damage and ageing but he is still perfectly capable of (1). He just chooses not to.) That doesn't explain the turn against guitars and towards jam-band. 
+The trouble is that between AHWT and TLotWTC he became a Musician. (He might have been also be attempting to gracefully sidestep the vocal-chord damage and ageing but he is still perfectly capable of (1). He just chooses not to.) That doesn't explain the turn against guitars and towards jam-band. 
 
 
 <!-- (3) bores me. (Best examples: Tyler Lambert's Grave, ) -->

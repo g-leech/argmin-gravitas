@@ -50,11 +50,11 @@ Never mind that: how did they ever persist with the horror and vertigo and absur
 
 I realised that they manage by compartmentalisation; inherited <a href="{{lw}}">memetic immunity</a>. That we tortured god to death is not _really_ thought about - many don't know the fundamental dogmas - reading the bible seems fairly rare. Instead, in the foreground is chitchat, coffee, charity, and plodding, safe Victorian hymns. The blood does not mean blood to them, whatever the catechism has them say. It's a social scene, a life-structure, and a comfort first, not necessarily a propositional creed. The varieties of religious nonexperience. <a href="#fn:6" id="fnref:6">6</a>
 
-So not really theism. Previously, I had been reducing religion to theism, and theism to philosophical theism, and, often, philosophical theism to fideism or fundamentalism or supernaturalism and redneck jihadism.<a href="#fn:7" id="fnref:7">7</a>
+So not really theism. Previously, I had been reducing religion to doxastic theism, and, often, doxastic theism to fideism or fundamentalism or supernaturalism and redneck jihadism.<a href="#fn:7" id="fnref:7">7</a>
 
 <br>
 
-(I was, at 20, just wise enough to catch myself before I made an equal and opposite error, that of just ignoring literal theism; I could easily have reduced religion to nonpropositional coreligionism. But no: there are the community fiends and the philosophical theists I knew from the debates.<a href="#fn:2" id="fnref:2">2</a> Obviously these are <a href="{{ideal}}">ideal types</a> and many people are some of both.)
+(I was, at 20, just wise enough to catch myself before I made an equal and opposite error, that of just ignoring literal theism; I could easily have reduced religion to nonpropositional coreligionism. But no: there are the community fiends and the philosophical doxastic theists I knew from the debates.<a href="#fn:2" id="fnref:2">2</a> Obviously these are <a href="{{ideal}}">ideal types</a> and many people are some of both.)
 
 
 
@@ -72,7 +72,7 @@ It took me another 10 years to examine atheism with similar deflationary clarity
 
 * _Community atheism_: there are some tiny explicitly atheist scenes - Humanists, Assembly but the real manifestation of this is implicit: just fitting-in into intellectual (i.e. liberal) culture. Avoiding seeming cringe by being too sincere or too metaphysical or too grand narrative, or else living out <a href="{{deathcab}}">your trauma</a> from being forced to attend religious stuff as a child. Also Reddit.<br><br>There is a taboo in e.g. British public and professional life about bringing it up.<a href="#fn:9" id="fnref:9">9</a> In Estonia proselytizing on the doorstep is seen as not just annoying but offensively invasive, an abuse of politeness and privacy and autonomy.<a href="#fn:5" id="fnref:5">5</a> I claim that the social justice wave of the eC21st was neither capital-R-religious nor atheistic (it mutated until it could move any host), but it certainly occupied the space that social atheism could have.
 
-* _Philosophical atheism_: the kind you know. Debunking and denouncing, Dawkins and Hitchens, Reddit and LessWrong. We adore the oldies - Diagoras, Lucretius, Knutzen, Hume and d'Holbach, Shelley - so brave, they were so original, they sacrificed so much - but the new ones <a href="{{ssc}}">fell</a>, partly because of their weakmanning, partly because sincerity became cringe, partly because the American religious right lost some of its supremacy and cohesion making organised atheism less urgent, partly because the grotesques of the war on terror made the Left want to defend Muslims.
+* _Philosophical atheism_: the adoxastic kind you know. Debunking and denouncing, Dawkins and Hitchens, Reddit and LessWrong. We adore the oldies - Diagoras, Lucretius, Knutzen, Hume and d'Holbach, Shelley - so brave, they were so original, they sacrificed so much - but the new ones <a href="{{ssc}}">fell</a>, partly because of their weakmanning, partly because sincerity became cringe, partly because the American religious right lost some of its supremacy and cohesion making organised atheism less urgent, partly because the grotesques of the war on terror made the Left want to defend Muslims.
 
 
 * _Political atheism_: Again, this would mean believing it is good to not be religious. The Communists were this: religion as the opiate of the masses, which they were best served going cold turkey off of, so that the pain of life would agitate and mobilise them to true consciousness.<br><br>Hard to think of many current examples, partly because the evidence is mildly against instrumental atheism, and atheists feel compelled to pay more lip service to evidence (since what else can they rest upon?). Clearly this is different in China.
@@ -80,7 +80,7 @@ It took me another 10 years to examine atheism with similar deflationary clarity
 
 <br><br>
 
-The above very basic understanding helps me put up with religion, which is good because it means I have more friends / am less of a dickhead. I still believe theism is a mistake, lightly immoral like littering; a damn shame in an intelligent being; to be tolerated rather than approved-of.<a href="#fn:10" id="fnref:10">10</a>  
+The above very basic understanding helps me put up with religion, which is good because it means I have more friends / am less of a dickhead. (I still believe, though, that theism is a mistake, lightly immoral like littering; and a damn shame in an intelligent being; and to be tolerated rather than approved-of.<a href="#fn:10" id="fnref:10">10</a>)  
 
 <!-- (It's also dishonest to exploit it for feels or cheap political gain, as some modern chuds do.)  -->
 

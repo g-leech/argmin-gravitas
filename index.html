@@ -70,6 +70,20 @@ visible:  false
 	}
 </style>
 
+<h2><a href="/archive">Posts</a></h2>
+<div id="openers">
+	<h2><a href="/researches#conference">Papers</a></h2>
+	<h2><a href="/researches#books">Paperbacks</a></h2>
+	<h2><a href="/rec">Preferences</a></h2>
+	<h2><a href="/best">Pinnacles</a></h2>
+	<h2><a href="/poems">Poems</a></h2>
+	<h2><a href="/tags#fiction">Prose</a></h2>
+	<h2><a href="/forecasting">Predictions</a></h2>
+	<h2><a href="/tags">Parameters</a></h2>
+</div>
+<h2><a href="https://arbresearch.com">Professional</a></h2>
+
+<br><br><br><br>
 
 <h2>Best posts</h2>
 <section class="post-list">
@@ -93,7 +107,7 @@ visible:  false
 
 <h2>Recent posts</h2>
 <section class="post-list">    
-    {% for post in site.posts limit:7 %}
+    {% for post in site.posts limit:5 %}
       	{% if post.visible == 1  %}
 				<article class="preview">
 					<a href="{{ post.url | prepend: site.url }}">
@@ -111,27 +125,6 @@ visible:  false
 </section>
 
 
-<h2>
-	<a href="{{arb}}" style="text-decoration: none;">Arb</a> posts
-</h2>
-
-<section class="post-list list-arb">
-    {% for post in site.posts limit:42 %}
-        {% if post.arb == 1  %}
-			<article class="preview">
-		        <a href="{{ post.url | prepend: site.url }}">
-				  <img src="{{ post.img }}" style="padding: 32px;"/> 
-		        </a>
-				<a href="{{ post.url | prepend: site.url }}">
-					<div class="preview-info">
-						<h3>{{ post.title }}</h3>
-						<div> {{ post.summary }}</div>
-					</div>
-				</a> 
-			</article>
-      	{% endif  %}
-    {% endfor %}
-</section>
 
 <h3>
 	<div class="directory fancy">
@@ -146,3 +139,20 @@ visible:  false
 {%    include mc.html  %}
 
 
+<script type="text/javascript">
+	document.addEventListener('DOMContentLoaded', function() {
+	    const list = document.getElementById('openers');
+	    const items = Array.from(list.children);
+	    const sampleSize = 2; 
+	    
+	    // Fisher-Yates shuffle
+	    for (let i = items.length - 1; i > 0; i--) {
+	        const j = Math.floor(Math.random() * (i + 1));
+	        [items[i], items[j]] = [items[j], items[i]];
+    	}
+    
+    	// Clear and repopulate
+    	list.innerHTML = '';
+    	items.slice(0, sampleSize).forEach(item => list.appendChild(item));
+	});
+</script>

@@ -1,9 +1,9 @@
 ---
 layout:   default
 title:    Archive
+nav:      Archive
 permalink: /archive/
-
-visible:  false
+visible:  true
 ---
 
 <style type="text/css">
