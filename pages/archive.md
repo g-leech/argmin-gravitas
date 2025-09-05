@@ -3,7 +3,7 @@ layout:   default
 title:    Archive
 nav:      Archive
 permalink: /archive/
-visible:  true
+visible:  false
 ---
 
 <style type="text/css">
