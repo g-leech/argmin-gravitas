@@ -17,7 +17,7 @@ importance: 7
 emotion: 	  8
 warnings: 	<b>Massive spoilers</b>.
 wordcount:  4000
-categories: fiction, meaning, longtermism
+categories: literature, meaning, longtermism
 argument:	
 ---
 
