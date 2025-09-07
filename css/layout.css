@@ -239,3 +239,7 @@ footer .flex{
         display: none;
     }
 }
+
+strong, b {
+    font-weight: bold;
+}

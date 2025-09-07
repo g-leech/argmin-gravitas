@@ -11,7 +11,7 @@ visible:    1
 published:  false
 quality:    
 
-summary:    What's going on?
+summary:    On the attempt to ingest everything happening
 confidence: 
 warnings: 	
 importance: 2
@@ -20,13 +20,28 @@ categories: music
 where:      "Annapolis"
 ---
 
-Last year, I listened to [914 albums](https://www.albumoftheyear.org/user/gleech/ratings/release-date/17/) released last year. I had a few aims: capturing the zeitgeist; seeing if the usual sense we have that new stuff isn't as good is actually true; to be contrarian in the [catalog age](https://www.infinitescroll.us/p/old-art-is-strangling-new-art); to see what it's like to be [Piero Scaruffi](https://scaruffi.com/cdreview/index.html). I think I got all of those.
+Last year, I listened to [914 albums](https://www.albumoftheyear.org/user/gleech/ratings/release-date/17/) released last year. I had a few aims: capturing the zeitgeist; seeing if our usual sense that new stuff isn't as good is actually true; to be contrarian in the [music catalog age](https://www.infinitescroll.us/p/old-art-is-strangling-new-art); to see what it's like to be [Piero Scaruffi](https://scaruffi.com/cdreview/index.html). I got all of those.
 
-914 is a pretty huge sample, but it's still less than 1% of any sensible measure of new music (one site I like [lists](https://www.albumoftheyear.org/2024/releases/?page=2260) 135,000 albums of 2024). It's probably more than 1% of notable new music though.
+914 is a pretty huge sample, but it's still less than 1% of any sensible measure of new music (one site I like [lists](https://www.albumoftheyear.org/2024/releases/?page=2260) 135,000 albums of 2024). It is more than 1% of notable new music though.
+
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7dEuT2UzucOzsoVLxtnyhD?utm_source=generator" width="100%" height="752" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+## Vibe
+
+
+
+It was of course _Brat_ summer but I wouldn't be surprised if after like next year it is [never mentioned](https://trends.google.com/trends/explore?date=all&q=%2Fg%2F11y35crs5j&hl=en) ever again. Obvious empty hype and social proof to me at the time.
+
+Totally new stuff:
+	https://www.albumoftheyear.org/album/889210-1010benja-ten-total.php
+
+
 
 ## Top 5
 
-Compilations and box sets are cheating, though.
+I'll include compilations and box sets here, even though they are cheating and not new new.
 
 ### Fossil Cocoon: The Music of K. Yoshimatsu
 
@@ -39,3 +54,37 @@ https://www.albumoftheyear.org/album/977993-daniel-lentz-lips.php
 
 ## Actual top 5
 
+https://www.albumoftheyear.org/album/1099362-the-hellp-ll.php
+captures the good parts of 90s emo. some of the electro crap won't age well but it's fine for now and beats the Postal Service
+
+https://www.albumoftheyear.org/album/1123583-water-shrew-trio-puddle-dives.php
+
+https://www.albumoftheyear.org/album/1067119-farida-amadou-when-it-rains-it-pours.php
+heavy as fuck. sounds like a storm drain feels
+
+https://www.albumoftheyear.org/album/846187-john-surman-words-unspoken.php
+Surely one of the better sounds an 80 year old has ever made
+
+https://www.albumoftheyear.org/album/1031888-better-lovers-highly-irresponsible.php
+Supergroup that doesn't suck
+
+https://www.albumoftheyear.org/album/868536-melvins-tarantula-heart.php
+
+https://www.albumoftheyear.org/album/889255-pomme-saisons.php
+The knife without a hilt or a blade.
+
+https://www.albumoftheyear.org/album/938361--mimik-banka--seahorse-forest.php
+
+https://www.albumoftheyear.org/album/867379-fer-franco-ritos-de-paso.php
+
+https://www.albumoftheyear.org/album/843183-big-brave-a-chaos-of-flowers.php
+
+https://www.albumoftheyear.org/album/1096806-shovel-dance-collective-the-shovel-dance.php
+
+https://www.albumoftheyear.org/album/1051215-missouri-executive-order-44-salt-sermon.php
+
+https://www.albumoftheyear.org/album/964371-melt-banana-3-5.php
+
+https://www.albumoftheyear.org/album/945407-luiza-brina-prece.php
+
+https://www.albumoftheyear.org/album/899327-atras-del-cosmos-cold-drinks-hot-dreams.php

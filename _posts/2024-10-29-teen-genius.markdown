@@ -33,6 +33,7 @@ It's mostly maths and music.
 * Charles Fefferman (logic), 17 
 * Walter Pitts (logic, the neuron), 18
 * Frank Ramsey (translation, economics), 18 
+* Chaitin (algorithmic complexity), 18
 * Wiener (logic), 18
 * Niels Abel (the quintic), 18
 * Lagrange (variational calculus), 18 
@@ -83,8 +84,9 @@ On the other hand, it is normal for teenagers to make incredible music, such tha
 <div class="accordion">
 	<h3>Young music</h3>
 	<div>
-		Mozart, Mendelssohn, The Schumanns, Bizet, Schubert, Paganini, Prokofiev, Rachmaninoff, Chopin, Liszt, Barber, Strauss, Rota, Nejiko Suwa.<br><br>
-		Minor Threat, Replacements, Kool Herc, Behemoth, Kate Bush, Sepultura, Laura Marling, Dizzee Rascal, Arctic Monkeys, AFX, Beirut, Bad Religion, Metallica, Sondre Lerche, Green Day, Ash, Stevie Wonder, Milla Jovovich, Karen Brooks, Cap'n Jazz, Nas, James Ferraro, Yoji Mabuchi, Avey Tare, Gordon Gano, De La Soul, Them, Johnny Marr, Leiber & Mike Stoller, Fiona Apple, Maurice Williams, A Tribe Called Quest
+		Mozart, Mendelssohn, the Schumanns, Bizet, Schubert, Paganini, Prokofiev, Rachmaninoff, Chopin, Liszt, Barber, Strauss, Rota, Nejiko Suwa.<br><br>
+		Miles, Herbie, Bud Powell, Sonny Rollins, Wayne Shorter, Charlie Haden,  <br><br>
+		McCartney, Minor Threat, Replacements (Tommy was 12!), Buzzcocks, The Germs, Bad Brains, Kool Herc, Behemoth, Kate Bush, Sepultura, Laura Marling, Dizzee Rascal, Arctic Monkeys, AFX, Beirut, Bad Religion, Metallica, Sondre Lerche, Green Day, Ash, Prince, Stevie Wonder, Milla Jovovich, Karen Brooks, Cap'n Jazz, Nas, James Ferraro, Yoji Mabuchi, Avey Tare, Gordon Gano, De La Soul, Them, Johnny Marr, Leiber & Mike Stoller, Fiona Apple, Maurice Williams, A Tribe Called Quest
 		<!-- Horsegirl, Squirrel Bait -->
 	</div>
 </div>
