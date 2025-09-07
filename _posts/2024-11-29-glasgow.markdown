@@ -171,9 +171,9 @@ where:      "Tallinn"
 * **Art music**: Eugen d'Albert. Thomas Wilson. Glasgow Improvisers Orchestra. Harry Gorski-Brown. 
 <!-- Craig Armstrong. -->
 
-* **Popular music**: Donovan, Arab Strap, Belle and Sebastian, Mogwai
+* **Popular music**: Maybe the city's main thing. Top 5 music cities in the UK, I'd argue. Donovan, Arab Strap, Belle and Sebastian, Mogwai
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/63GiC1rZIf8Z32UNfwqRRn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/63GiC1rZIf8Z32UNfwqRRn?utm_source=generator" width="100%" height="652" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 * **Label**: Chemikal Underground or Rock Action
