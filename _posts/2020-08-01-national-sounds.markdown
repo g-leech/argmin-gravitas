@@ -66,6 +66,7 @@ argument:
 		<div class="accordion">
 			{%	include nation/southaf.html 	%}
 			{%	include nation/nigria.html		%}
+			{%	include nation/egy.html 		%}
 			{%	include nation/ken.html			%}
 			{%	include nation/cong.html 		%}
 			{%	include nation/tz.html 			%}
