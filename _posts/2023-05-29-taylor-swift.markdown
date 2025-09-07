@@ -447,7 +447,7 @@ He is the great artist of surfaces; he changed style so often because there was 
 
 Madonna is a much better fit; the constant try-hard <a href="{{mad}}">iteration</a>, the artful use of superficiality, sex, and the celeb racket. The lauded versatility ultimately boiling down to a couple of flavours of pop.
 
-<!-- Fake Twang / fake diphthongs -->
+(I should mention a nicer comparator: Paul McCartney. Started at 15, smash hit by 18, simplistic music for teens, sigma grindset, constantly iterating, lots of collaboration, maximally popular but presenting as a serious artist. But I think he's different - he didn't optimise for popularity after 1966 or so. He doesn't need to. I'd be quite surprised if he had a data analyst or actively sought trends.)
 
 
 <!-- > From a survivorship bias perspective that's unsurprising. popular artists are popular because the machine is good at appealing to lots of people -->
