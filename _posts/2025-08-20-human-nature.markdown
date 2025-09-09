@@ -24,9 +24,6 @@ This class is about human nature. This is the most complex and complicated thing
 
 One intuition for this is _reflexivity_: human nature includes the study of human nature, an inclination to study human nature and many existing ideologies and frameworks about it. Seems like this could be an infinite regress.
 
-
-
-
 ### Let's start with some sets
 
 We are philosophers so we can have really big variables. H is the set of all properties of Humans.
@@ -448,10 +445,12 @@ Repersonalisation
 Philosophical and scientific lenses make you feel odd. “Depersonalisation”; hard to feel real, natural, given.
 
 So let’s remind ourselves that we are also people.
-Need something instinctive and fast and hard to short-circuit sense of unreality
-Star jumps?
-Tag?
-Now we are jumping in a river
 
 
-https://docs.google.com/presentation/d/1fypuCljK8BsylEOPMMTOWQA7_3Uoqv9xMJeYHAnNsso/edit?slide=id.g372adb0033d_0_45#slide=id.g372adb0033d_0_45
+
+I find that combat is best for this.
+
+**hand out water pistols, start blasting**
+
+
+<!-- https://docs.google.com/presentation/d/1fypuCljK8BsylEOPMMTOWQA7_3Uoqv9xMJeYHAnNsso/edit?slide=id.g372adb0033d_0_45#slide=id.g372adb0033d_0_45 -->
