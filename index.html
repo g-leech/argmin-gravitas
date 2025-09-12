@@ -114,7 +114,7 @@ visible:  false
 
 <h2>Recent posts</h2>
 <section class="post-list">    
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts limit:7 %}
       	{% if post.visible == 1  %}
 				<article class="preview">
 					<a href="{{ post.url | prepend: site.url }}">

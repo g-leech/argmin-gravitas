@@ -1,0 +1,157 @@
+---
+layout:     post
+title:      "Tallinn"
+baselink:   /tallinn
+permalink:  /tallinn
+date:       2025-09-10
+author:     Gavin
+img:        /img/mustame.jpg
+
+visible:    1
+published:  false
+quality:    6
+
+summary:    
+warnings: 	A foreigner's view
+importance: 3
+wordcount:  
+categories: places, uni, lists, autobio
+where:      "Tallinn"
+---
+
+> The evil Old Man of Ülemiste is believed to live in the lake. Should anyone meet him, he asks them "Is Tallinn ready?". If you answer "yes", then he will flood the city. The necessary response is then "No, there is much to be done yet".
+
+<br>
+
+I've spent a year of fortnights in Tallinn. That's not enough to be a local, to grok the city as I did in my other city posts, but it's enough to feel and know something.
+
+The single icon which comes to mind is clubbers tottering along the street on heels in miniskirts in -20°C, when my own longjohned thighs were starting to seize up. Or cordite smoke as the fireworks with their fuses snipped explode just above the khrushchevka roofs. (For your westerners, that's a "5-over-1", but grimmer.)
+
+<img src="/img/Tallinna_vanalinn_päikesetõusu_ajal.jpg" />
+<img src="/img/mustame.jpg" />
+<img src="/img/caption.jpg" />
+
+## Then
+
+* The language, as everyone knows, is deeply non-European - from Siberia ultimately. But the genetics don't match; modern Estonians are down to just [5%](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1522-1) Uralic "ancestry component".
+	* There's a notable minority language in the south, the Võro-Seto. About 10% of pop.
+	* The former president's beloved book is wrong. https://news.postimees.ee/4206443/scientists-overturn-meri-s-5-000-years-hypothesis
+
+<center>
+	<img src="/img/ural.png" width="60%" />
+</center>
+
+* The country is 56% forest / swamp. (They are very proud of the swamps, supposedly because it's where you hid when the Swedes or Danes or Germans or Russians came.) 
+
+* An old trick: Innocent III declared a crusade against Livonia (Latvia and Estonia), nominally "to protect the Christians of Livonia" (but actually to seize the trade routes and install puppets). It only took the Germans and Danes 20 years to conquer and christianise the country.
+	* About 70 years later they justified the invasions by calling the region "Terra Mariana", Mary's Land. A notably cynical move even in that cynical time.
+
+* It first appears to history on being conquered by the Danes in 1219. (_Taani-linna_ is "Danish-castle".) Denmark sold it to the Teutons in 1346. When the Teutons and Livonians cracked up, in 1561 the city (the ~German nobles in control of the city) voluntarily became Swedish. In 1721 the Swedish city surrended to Russia. They declared independence on 21 February 1918; the kaiser invaded four days later, but the Germans withdrew him nine months after that. The Russians came back in 1940, the Germans came back in 1941, and then the Russians came back again in 1944 and that was that until 1991.
+
+> By the late 1940s and the early 1950s, the Forest Brothers were provided with supplies, liaison officers and logistical coordination by the British (MI6), American and Swedish secret intelligence services. That support played a key role in directing the Baltic resistance movement, but it diminished significantly after MI6's Operation Jungle was severely compromised by the activities of British spies (Kim Philby and others) who forwarded information to the Soviets and enabled the [KGB] to identify, infiltrate and eliminate many Baltic guerrilla units 
+
+* Reval. Hansalige.
+
+* Lennart Meri was another of eastern Europe's intellectual-leaders. Havel.
+
+* The first pizza ever served in Tallinn seems to have been [1989](https://flatfish.ee/2018/07/18/fulfilling-the-pizza-plan/). (I _love_ this blog.)
+
+<center>
+	<img src="/img/kgb.png" width="50%" border="1px black" />
+</center>
+
+## Comedy interlude
+
+
+* What does "LV" mean on the license plates of Latvian cars? – "Extra toe" ("Lisa Varvas").
+
+<img src="/img/slow.png" />
+
+## Now
+
+* Some notes on the countryside
+	* Half the population density of Scotland, itself one-fifth England. Great for people who don't like people.
+	* Land in the south is incredibly cheap, sometimes as little as $1 per square metre. (Admittedly without water or electricity, and years to get water hooked up. Wells are still much in evidence.)
+	* Everyone knows about free busses in Tallinn, but it's free to bus around the countryside too (for residents).
+	* 
+
+* Very twee. 
+
+* In other ways very Haute European, what with the opera house in a tiny city, and the tracked schools producing Excellence in the form of kids with signet rings
+
+* The Russian Estonians are a sore point.
+	* 21% of the total population. Surely most are not vatniks.
+	* Many adults have a personal grudge from the Soviet years. For instance, my girlfriend's dad remembers the time some drunk Russians drove over his tent in a tank. 
+	* There are a few majority-Russian towns. Narva, Jõhvi. This solves some issues but also presents Moscow with a juicy casus belli.
+	* There is a soft apartheid. Russians
+	* https://en.wikipedia.org/wiki/Estonian_alien%27s_passport
+	* In 2008, the [head](https://en.wikipedia.org/wiki/Herman_Simm) of the Estonian NSA was convicted of being a Russian spy. He got 12 years.
+	* The first post-Soviet prime minister was (as mayor of Tallinn) a fantastically corrupt Russian asset. https://en.wikipedia.org/wiki/Edgar_Savisaar
+	* https://www.theatlantic.com/international/archive/2019/06/estonia-russia-deniss-metsavas-spy/592417/
+	* I seem to recall that someone in the Russian quarter, Lasnamäe, set off fireworks on the night of the invasion of Ukraine
+
+
+https://www.atlasobscura.com/things-to-do/tallinn-estonia
+http://thetallinncollector.com/
+
+
+## The best of Tallinn
+
+
+* **Writer**: Robert Kurvitz.
+* **Poet**: 
+* **Novelist**: Jaan Kross
+* **Novel**: 
+* **Memoir**: 
+* **Blog**: [Flatfish](https://flatfish.ee/) by the Italian-American expat EA Johnson. He's been here since Soviet times, paying close attention to the food changing. Wonderful.
+* **Art**: 
+* **Art music**: 
+* **Popular music**: 
+
+<iframe data-testid="embed-iframe" style="border-* **radius**:12px" src="* **https**://open.spotify.com/embed/playlist/4ZUniHnmEp0hvSWpwqWo97?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+* **Philosopher**: Juri Lotman
+* **Scientist**: Jaak Panksepp, Jakob von Uexküll, Svante Pääbo, Ernst Öpik
+* **Modernist**: 
+* **Philanthropist**: Jaan Tallinn
+* **Entrepreneur**: Jaan Tallinn or Taavet Hinrikus
+* **Cosmopolitan**: 
+* **Radical**: 
+* **Socialist**:
+* **Monk**: https://en.wikipedia.org/wiki/Anatoli_Ljutjuk
+* **Eccentric**: https://en.wikipedia.org/wiki/Uku_Masing his general dislike of the Indo-European people
+* **Evildoer**: 
+* **Comedian**:
+* **Director**: 
+* **Film**: 
+* **Screenwriter**: 
+* **Play**: 
+* **TV**: 
+* **Videogame**: 
+* **Actor**: 
+* **Archaeologist**: 
+* **Restaurant**: Mantel ja Korsten in the park.
+* **Delicacy**: Küüslauguleivad (fried garlic rye sticks). Muhu bread.
+* **Building**: Zellulosi. Tondi barracks. * **https**://www.postimees.ee/6977805/pulss-mida-teate-tallinna-tondist * **https**://et.wikipedia.org/wiki/Tondi_s%C3%B5jav%C3%A4elinnak
+* **https**://www.aripaev.ee/uudised/2018/02/01/zelluloosi-kvartalist-saab-fahle-park
+* **Street**: 
+* **Church**: 
+* **Architect**: Aleksandr Jaron.
+* **Walk**: 
+* **Library**: 
+* **Shop**: 
+* **Bookshop**: Rüütel & Matilda. I struggled in vain to find a decent translation of Liiv.
+* **Venue**: 
+* **Pub**: Shamrock for karaoke. Shooters is shut now.
+* **Cafe**: Must Puudel for the Soviet thing. Kehrwieder for vibes. Maiasmokk is the real Viennese thing.  
+
+
+> Tallinn has definitely come a long way since 1991 when the only spices you could find would be salt, black pepper, and dried laurel leaves while the only fresh herb was dill – annoying and ever-present. For the record, it is still tough to see fresh coriander (cilantro) in winter as it is so hard to grow even in greenhouses.  Over these last few decades, Estonian taste buds have also **evolved**: I remember when my friends would complain when I put a little too much black pepper in my Italian tomato sauce as that was just “too spicy” for them
+
+
+Is Tallinn ready?
+
+
+## See also
+
+* http://thetallinncollector.com/
