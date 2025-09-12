@@ -1,15 +1,15 @@
 ---
-layout:     post
+layout:     math_post
 title:      "What are you?"
 baselink:   /human-nature
 permalink:  /human-nature
 date:       2025-08-20
 author:     Gavin
-img:        /img/
+img:        /img/way2.png
 
 visible:    1
 published:  false
-quality:    
+quality:    6
 
 summary:    Analysing the most unanalysable object
 confidence: 50%
@@ -20,76 +20,99 @@ categories: social-science, philosophy, humanism, tools-for-thought, ESPR
 where:      "Somerset"
 ---
 
-This class is about human nature. This is the most complex and complicated thing I've ever tried to study.
+This class is about human nature. That's the most complex and complicated thing I've ever tried to study.
 
 One intuition for this is _reflexivity_: human nature includes the study of human nature, an inclination to study human nature and many existing ideologies and frameworks about it. Seems like this could be an infinite regress.
 
+
 ### Let's start with some sets
 
-We are philosophers so we can have really big variables. H is the set of all properties of Humans.
+We are for the moment philosophers, so we can have really big variables. Let $$H$$ be the set of all properties of Humans.
 
 What is a property in this set? (and maybe also in supersets of H)
-	H ⊨ A 
+	$$H ⊨ A$$
 
 What are the necessary and sufficient conditions P of being a member of H?
-	∀x : (x∈H ↔ P(x))
+	$$∀x : (x∈H ↔ P(x))$$
 
 What property A is true of H and no other set?
-	A(H)  ∧  ∀ I != H : ¬A(I)
+	$$A(H)  ∧  ∀ I != H : ¬A(I)$$
+
+
+<img src="/img/way1.jpg" width="70%" />
+<img src="/img/way2.jpg" width="70%" />
 
 
 
- We give ourselves names. Homo sapiens sapiens, famously.
+## Properties of humans
+
+## Defining properties of humans
+
+## Unique properties
+
+We give ourselves names. "Homo sapiens sapiens", famously.
 We don't want “homo spirans”, breathing ape, for a name. Every animal breathes!*
 What's unusual about us?
 
-The list
-First, failed claims
-Language
-ok language with syntax
-ok language with compositional syntax
-ok language with infinitely recursive compositional syntax
-Tool use
-Chimps use stone hammers, crows craft hooks, dolphins use sponges, octopi use coconuts as shields.
-Culture
-Orcas have dialects, chimpanzees have traditions, rats transmit food preferences
-Art
-https://en.wikipedia.org/wiki/Animal-made_art 
-Social learning - bees
-Self-recognition 
-Great apes, elephants, dolphins, magpies pass mirror test.
-Emotion
-Elephants show grief, rats demonstrate empathy, dogs exhibit jealousy. 
-Mathematics
-some birds track quantities, primates show numerical competence.
-Morality
-Capuchins reject unequal pay, bats share food reciprocally, rats free trapped companions.
-Planning
-Scrub jays cache food for future needs, great apes save tools for later use.
-Teaching
-orcas beach themselves to demonstrate hunting techniques to young
-Imitation
-mental maps
-consciousness(!)(!)
-Higher order relations
-Chimps get analogies
-Cerebral asymmetry
-Religion
-https://en.wikipedia.org/wiki/Ritual_behavior_in_animals 
-Souls
-free will
-Being-unto-death
-How the hell would you know
 
+<div class="accordion">
+	<h3>Failed claims of human uniqueness</h3>
+	<div>
+	Language (ok language with syntax (ok language with compositional syntax (ok language with infinitely recursive compositional syntax
+)))
+	<br>
+	Tool use. No. Chimps use stone hammers, crows craft hooks, dolphins use sponges, octopi use coconuts as shields.
+	<br>
+	Culture. Orcas have dialects, chimpanzees have traditions, rats transmit food preferences
+	<br>
+	Art. https://en.wikipedia.org/wiki/Animal-made_art 
+	<br>
+	Teaching / social learning - bees. orcas beach themselves to demonstrate hunting techniques to young
+	<br>
+	Self-recognition. Great apes, elephants, dolphins, magpies pass mirror test.
+	<br>
+	Emotion. Cmon. Elephants show grief, rats demonstrate empathy, dogs exhibit jealousy. 
+	<br>
+	Mathematics. some birds track quantities, primates show numerical competence.
+	<br>
+	Morality. Capuchins reject unequal pay, bats share food reciprocally, rats free trapped companions.
+	<br>
+	Planning. Scrub jays cache food for future needs, great apes save tools for later use.
+	Imitation
+	mental maps
+	consciousness(!)(!)
+	Higher order relations. Chimps get analogies
+	Cerebral asymmetry
+	Religion. https://en.wikipedia.org/wiki/Ritual_behavior_in_animals 
+	Souls, free will, Being-unto-death. How the hell would you know
 
+	- Ant colony is passing many tests for conscious awareness.  
+- cleaner wrasse fish etc. pass mirror self recognition test  
+- some corvids, demonstrate autobiographical memory.  
+- many animals display behaviour that may reflect an understanding of their mortality  
+- parrots, monkeys, bees, all appear to possess the mathematical concept of zero  
+<!-- I don't like shortest-path maze finding as evidence of anything, since gas can do this too. but making multi-objective foraging decisions--even though it lacks a brain or central nervous system   -->
+
+	</div>
+</div>
 
 Homo sapiens sapiens – “our Intelligence, duh”
 1. That’s a uselessly unanalysed answer
 2. Not wrong but you are underestimating nonhumans in many specific ways
 3. Intelligence is tricky
 
-Homo generalis
-generalist character of human intelligence and the specialist 
+Animal Olympics.
+Pick any principled decomposition of intelligence.
+
+<div class="accordion">
+	<h3>Various definitive names for humans</h3>
+	<div>
+		Homo generalis. generalist character of human intelligence and the specialist 
+	</div>
+</div>
+
+
+I'm comfortable admitting we are the most powerful species.
 
 animal rationabile
 animal symbolicum
@@ -383,74 +406,86 @@ The ambitious ape [[capax universi]]
 
 
 
->  we give you no fixed place to live, no form that is peculiar to you, nor any function that is yours alone. According to your desires and judgment, you will have and possess whatever place to live, whatever form, and whatever functions you yourself choose. All other things have a limited and fixed nature prescribed and bounded by our laws. You, with no limit or no bound, may choose for yourself the limits and bounds of your nature. 
 
-– Mirandola
+<div class="accordion">
+	<h3>Practical implications (applied anthropology)</h3>
+	<div>
+	<h4>Being an ape,</h4>
+	→ you're probably more status-obsessed than you appreciate. This implies taking costly signalling seriously, working in public or otherwise gaining regular recognition. e.g. Goodreads is a status game but it's a good one. 
+	→ you absolutely need to correct for ingroup favoritism
+	→ probably need the colour green in your environment
+	→ predictable instinct-environment mismatch. Fat and sugar scarcity. Electric light → red shift, melatonin, etc
+	→ probably need physical contact
+	→ probably need to exercise
+	→ fission-fusion; need both solitude and togetherness
+	→ low reproductive rate, long infancy
+	→ neoteny
+<!--  -->
+	<h4>Being a machine</h4>
+	Biochemistry
+	→ your problems really honestly can be chemical
+	formal system
+	→ writing is important
+	Predictive processor
+	→ people see ghosts sometimes (top-down processing)
+	→ Anxiety/depression as negative priors
+	→ Meditation as reducing predictive processing
+	→ Why surprise is both pleasurable and stressful
+<!--  -->
+	<h4>Being a subject</h4>
+	→ your problems really honestly can be hard to model as any single chemical reaction
+	Network node
+	→ Social contagion
+	→ Choose your network carefully - your connections determine things about you
+	→ Social media as literal self-modification
+	→ Loneliness as network edge disruption, not just psychological state
+<!--  -->
+	<h4>Being a historical outcome</h4>
+	→ Things you see as inevitable probably aren’t; they can be changed
+	→ Things you see as natural probably aren’t; they can be challenged
+	</div>
+</div>
 
-
-Practical implications (applied anthropology)
-Ape 
-→ probably more status-obsessed than you appreciate
-Costly signalling
-Work in public
-Goodreads
-→ need to correct for ingroup favoritism
-→ probably need green
-→ predictable instinct-environment mismatch
-Fat and sugar scarcity
-Electric light → red shift, melatonin, etc
-→ probably need physical contact
-→ probably need to exercise
-→ fission-fusion; need both solitude and 
-→ low reproductive rate, long infancy
-→ neoteny
-
-
-Machine
-Biochemistry
-→ your problems really honestly can be chemical
-formal system
-→ writing is important
-Predictive processor
-→ people see ghosts sometimes (top-down processing)
-→ Anxiety/depression as negative priors
-→ Meditation as reducing predictive processing
-→ Why surprise is both pleasurable and stressful
-
-Subject
-→ your problems really honestly can be hard to model as any single chemical reaction
-Network node
-→ Social contagion
-→ Choose your network carefully - your connections determine things about you
-→ Social media as literal self-modification
-→ Loneliness as network edge disruption, not just psychological state
-
-History
-→ Things you see as inevitable probably aren’t; they can be changed
-→ Things you see as natural probably aren’t; they can be challenged
-
-
-
-I am in a relationship 
+<!-- I am in a relationship 
 My relationship is in a community 
 My community is in a movement 
 My movement is in a country/global culture 
 My country is in an international order
 My human order is in a biosphere, geosphere 
-Earth is in space
+Earth is in space -->
+
+## Do you have a purpose?
+
+Well, whether you do or not, others want you to serve theirs:
+
+* Your genes "want" you [them] to reproduce
+* Your mum probably also wants you to reproduce, ultimately for the same reason
+* Your state wants you to be productive, and now, also to reproduce
+* Capitalism and Marxism want different things from you, but both also like to spread.
+* ESPR would like to run next year, which is all I'll say about that
+
+Note that all of these things die without us. In principle we could all stop recreating them at any time.
+
+
+## You are unknown 
+
+>  we give you no fixed place to live, no form that is peculiar to you, nor any function that is yours alone. According to your desires and judgment, you will have and possess whatever place to live, whatever form, and whatever functions you yourself choose. All other things have a limited and fixed nature prescribed and bounded by our laws. You, with no limit or no bound, may choose for yourself the limits and bounds of your nature. 
+
+<center>– Mirandola</center>
 
 
 
-Repersonalisation
-Philosophical and scientific lenses make you feel odd. “Depersonalisation”; hard to feel real, natural, given.
+## Repersonalisation
 
-So let’s remind ourselves that we are also people.
+Philosophical and scientific lenses make you feel odd. This is actually, in the limit, a mental disorder called “depersonalisation”. It can be hard to feel real, natural, given. 
 
+So let’s remind ourselves that we are also just ourselves. I find that the best way to do so -
 
+**hands each student a water pistol**
 
-I find that combat is best for this.
+\- is combat.
 
-**hand out water pistols, start blasting**
+**start blasting**
 
 
 <!-- https://docs.google.com/presentation/d/1fypuCljK8BsylEOPMMTOWQA7_3Uoqv9xMJeYHAnNsso/edit?slide=id.g372adb0033d_0_45#slide=id.g372adb0033d_0_45 -->

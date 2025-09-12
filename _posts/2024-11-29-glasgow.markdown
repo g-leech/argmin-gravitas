@@ -15,7 +15,7 @@ summary:    My second alma mater
 confidence: N/A
 importance: 3
 wordcount:  
-categories: places, uni, lists
+categories: places, uni, lists, autobio
 where:      "Tallinn"
 ---
 

@@ -1,17 +1,17 @@
 ---
 layout:     post
-title:      "~1000 albums in 2024"
-baselink:   /2024
-permalink:  /2024
-date:       2025-06-29
+title:      "On 900 albums of 2024"
+baselink:   /music2024
+permalink:  /music2024
+date:       2025-09-11
 author:     Gavin
-img:        /img/
+img:        /img/2024m.png
 
 visible:    1
-published:  false
+published:  true
 quality:    
 
-summary:    On the attempt to ingest everything happening
+summary:    On an attempt to ingest everything 
 confidence: 
 warnings: 	
 importance: 2
@@ -22,79 +22,302 @@ where:      "Annapolis"
 
 Last year, I listened to [914 albums](https://www.albumoftheyear.org/user/gleech/ratings/release-date/17/) released last year. I had a few aims: capturing the zeitgeist; seeing if our usual sense that new stuff isn't as good is actually true; to be contrarian in the [music catalog age](https://www.infinitescroll.us/p/old-art-is-strangling-new-art); to see what it's like to be [Piero Scaruffi](https://scaruffi.com/cdreview/index.html). I got all of those.
 
-914 is a pretty huge sample, but it's still less than 1% of any sensible measure of new music (one site I like [lists](https://www.albumoftheyear.org/2024/releases/?page=2260) 135,000 albums of 2024). It is more than 1% of notable new music though.
+914 is a pretty huge sample, but still less than 1% of new music (one site I like [lists](https://www.albumoftheyear.org/2024/releases/?page=2260) 135,000 albums of 2024). It's more than 1% of notable new music though. (e.g. There's a thousand albums in [this](https://en.wikipedia.org/wiki/List_of_2024_albums) not-totally-arbitrary list.)
 
+<br>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7dEuT2UzucOzsoVLxtnyhD?utm_source=generator" width="100%" height="752" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 ## Vibe
 
-True to hipster type I was unimpressed with most of what others were impressed with. 
+I can't think of any good single sentence for what I heard. (Maybe: "the centre cannot hold".) In past years I could look to the indie press for guidance, but that doesn't [exist](https://therectangle.substack.com/p/rip-pitchfork) in force anymore.
 
-[Critics](https://www.albumoftheyear.org/ratings/6-highest-rated/2024/1)
-[Extrememly-online herd users](https://www.albumoftheyear.org/ratings/user-highest-rated/2024/)
+"Poptimism" was the claim that some pop is worth listening to and worth writing about. Over the last 20 years it so thoroughly destroyed its hipster / underground / rockist rivals that it became a perversion of itself. _Zombie_ poptimism says that all pop is good and anyone who dislikes any pop is a snob or a hater or worse. Everyone _has to_ write about pop now, including [me](/swift). I say all this as background to 2024 of course being _Brat_ summer. But I wouldn't be surprised if after next year it is [never mentioned](https://trends.google.com/trends/explore?date=all&q=%2Fg%2F11y35crs5j&hl=en) ever again. Obvious empty hype and animal spirits to me.
 
-The biggest difference between the (>35 year old) critics and the users is the latter losing their minds over the latest iteration of mumble rap (billy woods, Danny Brown, Vince Staples, and JPEGMAFIA).
+True to rearguard type, I was unimpressed with most of what others were impressed with (see the [critics](https://www.albumoftheyear.org/ratings/6-highest-rated/2024/1?r=10) or the [extremely-online herd](https://www.albumoftheyear.org/ratings/user-highest-rated/2024/) or the [vox pop](https://en.wikipedia.org/wiki/List_of_Billboard_200_number-one_albums_of_2024)).
 
-Oldies still doing great, great work: Mount Eerie, Melt-Banana, Einstürzende, Julia Holter, Arab Strap, J Mascis, Godspeed You, Laura Marling, Paysage d'Hiver, Melvins, Blixa, Vampire Weekend, Fred Frith, Four Tet, Xiu Xiu, Tyler, Wilco, Redd Kross, St Vincent. One last go from Shellac and Ryuichi Sakamoto.
+One interesting thing is how much critics and amateur 'heads have diverged. Eight entries in their respective top 10s differ(!), and 26 entries of their top 50s. (Maybe it was always so; maybe the critics, being ten or thirty years older than the fans, were always on their own and we just have the tools to spot it now, to organise against our erstwhile masters. We will get what we deserve.)
 
-It was of course _Brat_ summer but I wouldn't be surprised if after, like, next year it is [never mentioned](https://trends.google.com/trends/explore?date=all&q=%2Fg%2F11y35crs5j&hl=en) ever again. Obvious empty hype and social proof to me at the time.
+The biggest single difference between the critics and the users is, as ever, hip-hop. Specifically, the users constantly lose their minds over the latest iteration of monotonous-metronomic "abstract" rap (billy woods, Danny Brown, JPEGMAFIA) and slurred-slurs trap (Travis Scott, Vince Staples). I guess I like abstract more than the mumble it replaced. I should probably rant about Fantano here but I tire.
 
-Totally new stuff:
-	https://www.albumoftheyear.org/album/889210-1010benja-ten-total.php
+People (again, just _the weirdo people who write about music online_) think in genre in a particular tired, decadent way. Here's the top genres on AOTY:
 
-The Irish band Lego Indiana Jones have [a manifesto](https://lij.ie/posts/desideratamusicae/), one they managed to make neither an intentional or unintentional joke. In late late late capitalism this is an amazing achievement, one not spoiled by them also having a song called "Cloudy w/ a Chance of Meatballs".
+<img src="/img/genre.png" />
+
+So old. "Plugg" and "rage" are quite new, but both are just minor elaborations on trap; drill is an old minor elaboration. The word "abstract hip hop" is only about 10 years old but it's just backpack and Def Jux again. Cloud rap is again 15 years old but had some new sounds. K-pop has only bombed the west for the last 10 years, but it's just involuted J-pop. The formulaic sound people now call "metalcore" is I guess only 15 years old but really blew up in the last 8 for some reason.
+
+<br>
+
+---
+
+### Pata
+
+There is one actually-new thing, which hasn't I think been named yet. The family-resemblance:
+
+* "genrefucking": take either noise rock or dnb as your base. Then add more [noise](https://www.albumoftheyear.org/album/1097429-this-is-the-glasshouse-867.php) [rock](https://www.albumoftheyear.org/album/1123425-spiral-staircase-the-perfect-child.php) / [post](https://www.albumoftheyear.org/album/731948-jane-remover-census-designated.php)-[rock](https://www.albumoftheyear.org/album/707323-samlrc-a-lonely-sinner.php) / [glitch-pop](https://www.albumoftheyear.org/album/1128036-niomi-chichi.php) / [meme music](https://www.albumoftheyear.org/album/1348143-psynwav-musical-transients.php) / breakcore / digital hardcore / [indietronica](https://www.albumoftheyear.org/album/877549-clustr-ever-chance.php).
+* actually go ahead and prepend "[emo-](https://www.albumoftheyear.org/album/546282-cavetown-worm-food.php)" to every item above
+* bedroom production (but that means hardcore pro DAW now)
+* trans or [trans-adjacent](https://www.albumoftheyear.org/album/1023355-lucy-bedroque-fete-de-la-vanille.php) or [furry-adjacent](https://www.albumoftheyear.org/album/725522-vylet-pony-monarch-of-monsters.php)
+* [evil-adjacent](https://www.albumoftheyear.org/album/1209399-aya-hexed.php)
+* sometimes impressively ugly cover art. Sorry, I mean mutant alien cyborg beauty. (Currently the visuals are the most cohesive part of the group I'm proposing. Clock it a mile off.)
+
+They're pretty clearly Grimespawn. You could call it _queer noise_ - but not if you knew [anything](https://en.wikipedia.org/wiki/Genesis_P-Orridge) about the history of the sexuality of noise musicians. Let us not make redundant and patronising mistakes. (There _is_ a difference between the old queer noise and the new kind: the new one is heavy-handed and reduces itself to queerness. An irritated name could be _panderqueer_.) 
+
+A name which could actually take is _[pata](https://en.wikipedia.org/wiki/%27Pataphysics)_. Some clear subtypes are pata pop, post-pata, and digi pata.)
+
+<br>
+
+---
+
+Other desultory trends: 
+
+Country music has been eaten again after having been thrown up in 2005 and again around 2017. On the junk food side there's _Cowboy Carter_, Morgan Wallen, Shaboozey; on the restaurant side there's MJ Lenderman, Adrianne Lenker, Waxahatchee.
+
+Some oldies still doing great, great work: Mount Eerie, Melt-Banana, Einstürzende, Julia Holter, Arab Strap, J Mascis, Godspeed You, Laura Marling, Paysage d'Hiver, Melvins, Blixa, Vampire Weekend, Fred Frith, Four Tet, Xiu Xiu, Tyler, Wilco, Redd Kross, St Vincent. And we got one last go from Shellac and Ryuichi Sakamoto.
+
+Lots of new people I like - see the top 10 below. For one: the Irish band Lego Indiana Jones have [a manifesto](https://lij.ie/posts/desideratamusicae/). Incredibly, they managed to make it neither an intentional or unintentional joke. This is an amazing achievement, one not spoiled by them also having a song called "Cloudy w/ a Chance of Meatballs". The essay is extremely thoughtful about zombie poptimism and the failure of New Pop to satirise and oppose the bad, stupid, antihuman side of pop.
+
+
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2522019815/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://legoindianajones.bandcamp.com/album/hope-all-well">Hope All Well by Lego Indiana Jones</a></iframe>
 
+<br>
 
-## Actual top 5
+---
 
-https://www.albumoftheyear.org/album/1099362-the-hellp-ll.php
-captures the good parts of 90s emo. some of the electro crap won't age well but it's fine for now and beats the Postal Service
+### An obscurity scale:
 
-https://www.albumoftheyear.org/album/1123583-water-shrew-trio-puddle-dives.php
+0/5: Played on national radio. During the day.<br>
+1/5: Reviewed by big paper / millions streams.<br>
+2/5: On Spotify at all<br>
+3/5: On Youtube at all<br>
+4/5: On Bandcamp at all<br>
+5/5: Cassette-only limited run<br>
 
-https://www.albumoftheyear.org/album/1067119-farida-amadou-when-it-rains-it-pours.php
-heavy as fuck. sounds like a storm drain feels
+<br>
 
-https://www.albumoftheyear.org/album/846187-john-surman-words-unspoken.php
-Surely one of the better sounds an 80 year old has ever made
+---
 
-https://www.albumoftheyear.org/album/1031888-better-lovers-highly-irresponsible.php
-Supergroup that doesn't suck
+So here's the actual 99th percentile music of last year:
 
-https://www.albumoftheyear.org/album/868536-melvins-tarantula-heart.php
+<br>
 
-https://www.albumoftheyear.org/album/889255-pomme-saisons.php
-The knife without a hilt or a blade.
+## Top 10
 
-https://www.albumoftheyear.org/album/938361--mimik-banka--seahorse-forest.php
+### 1. _Puddle Dives_ – Water Shrew Trio (Portland synth improv)
 
-https://www.albumoftheyear.org/album/867379-fer-franco-ritos-de-paso.php
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=811001545/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://ysfwp.bandcamp.com/album/puddle-dives">Puddle Dives by Water Shrew Trio</a></iframe>
 
-https://www.albumoftheyear.org/album/843183-big-brave-a-chaos-of-flowers.php
+> I didn’t really want the songs to have an ending... We have found a lot from just allowing one tone to hang out for a long time
 
-https://www.albumoftheyear.org/album/1096806-shovel-dance-collective-the-shovel-dance.php
+I'm not a particularly patient listener and only in the last couple of years have I been able to sit through 20 minute drones, let alone appreciate them, let alone enjoy them. But something about this clicks. The harmonics or something. There's enough repetition and enough one-offs. It doesn't hate you - they claim descent from Albert Ayler, but there's zero contempt for you or themselves here. if this means I'm still basic that's ok. 
 
-https://www.albumoftheyear.org/album/1051215-missouri-executive-order-44-salt-sermon.php
+Couple of prompts for you if you need them:
 
-https://www.albumoftheyear.org/album/964371-melt-banana-3-5.php
+* This was recorded live, but it isn't live. 
+* They've been playing together for like 5 years. Imagine doing this 60 times. How many of them are this good?
+* Digital design software has been mature for about 35 years. Pasting and scanning can thus only be homage or affectation.
+* How small do you need to be to dive in a puddle?
 
-https://www.albumoftheyear.org/album/945407-luiza-brina-prece.php
+<br>
 
-https://www.albumoftheyear.org/album/899327-atras-del-cosmos-cold-drinks-hot-dreams.php
+* _Newness_: 3/5. third or fourth release. They've been playing together for like 5 years. Technically a supergroup, if you count the 15-fan Portland bands that formed it as eligible groups.
+* _Obscurity level_: 4/5. <strike>Critic review</strike>, <strike>Spotify</strike>, <strike>Youtube</strike>, Bandcamp in full, Bandcamp in part, cassette.
+* [Profile](https://www.portlandmercury.com/music/2023/11/02/46823264/the-wandering-drones-of-water-shrew-trio)
 
 
-## Reissues and retros
+<br>
 
-I'll include compilations and box sets here, even though they are cheating and not new-new.
 
-Fossil Cocoon: The Music of K. Yoshimatsu
+### 2. _Saisons_ – Pomme (Paris orchestral chansons)
 
-Retrospective: Selected Recordings 1973-2023
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3uawa6465DOXwrML3tmKEX?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-https://www.albumoftheyear.org/album/977993-daniel-lentz-lips.php
+> we are quite disconnected from what surrounds us... plants growing, trees dying, vegetation decomposing
 
-Selected Ambient Works Volume II (Expanded Edition)
+Has the character that tragic opera once had and is still wished to have: to be the knife without a hilt or a blade, to instantly draw vast sympathy. Reminds me a lot of my beloved [Freschard](https://freschard.bandcamp.com/album/moonstone).
+
+
+* _Newness_: 3/5. 8 years in
+* _Obscurity level_: 2/5. On Spotify. Surely some French critic noticed her. And Aaron Dessner is in on it!
+* [Profile](https://atwoodmagazine.com/saisons-pomme-album-interview-music-feature/)
+
+
+<br>
+
+
+### 3. _When It Rains It Pours_ – Farida Amadou (Bruxelles bass improv)
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=230773478/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://farida-amadou.bandcamp.com/album/when-it-rains-it-pours">When It Rains It Pours by Farida Amadou</a></iframe>
+
+> The songwriter Farida is very quiet. I mostly compose on an electric guitar with clean sound, then I destroy the composition with my bass
+
+sounds like a storm drain feels. sounds like 4 basses rather than one. 
+
+
+* _Newness_: 3/5. Been going 6 years.
+* _Obscurity level_: 2/5. <strike>Critic review</strike>, Spotify
+* [Profile](https://kaput-mag.com/stories_en/farida-amadou-the-music-shows-the-turmoil-inside-me/)
+
+
+
+<br>
+
+
+### 4. _Words Unspoken_ – John Surman (Oslo modal jazz)
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3huIlN7tXriXvWhiOvhm0c?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Surely among the better sounds an 80 year old has ever made
+
+
+* _Newness_: 0/5. Released his first album 56 years ago.
+* _Obscurity level_: 2/5. Spotify. Got a _Wire_ review but that doesn't count. Wasn't on youtube for all of last year but is now. 
+* [Profile](https://www.scaruffi.com/jazz/surman.html)
+
+
+<br>
+
+
+### 5. _Dennis_ – Sega Bodega (Glasgow UK Bass)
+
+<iframe width="100%" height="165" src="https://www.youtube.com/embed/3MXCkO3mWMg?si=rGHci9FSGMNAS53H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I am an old rockist as well as an old poptimist, and I still unfairly have a higher bar for dance music. Navarrete is somewhere off of the retro/futuristic X poppy/experimental plane and so walks around my bar.
+
+* _Newness_: 3/5. been around a while
+* _Obscurity level_: 1/5. [Pitchfork](https://pitchfork.com/reviews/albums/sega-bodega-dennis/)
+* [Profile](https://www.papermag.com/sega-bodega-dennis#rebelltitem23)
+
+<br>
+
+### 6. _Ten Total_ – 1010benja (Kansas City alt-R&B)
+ 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1EQ4JquFxRPX36J3MmxOIg?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Just incredibly charming and fresh and goofy and earnest. Probably, hopefully just a warmup.
+
+* _Newness_: 5/5. Did not exist until March.
+* _Obscurity level_: 1/5. Pitchfork review. 
+* [Profile](https://www.interviewmagazine.com/music/how-1010benja-went-from-church-boy-to-hitmaker)
+
+<br>
+
+
+### 7. _The Shovel Dance_ – shovel dance collective (London mumble folk)
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3073534724/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://shoveldancecollective.bandcamp.com/album/the-shovel-dance">The Shovel Dance by Shovel Dance Collective</a></iframe>
+
+* _Newness_: 3/5. 
+* _Obscurity level_: 1/5. Covered in the NYT and _Uncut_.
+* [Profile](https://toneglow.substack.com/p/tone-glow-163-shovel-dance-collective)
+
+
+
+<br>
+
+
+### 8. _Redd Kross_ – Redd Kross (LA power pop)
+
+<iframe width="100%" height="152" src="https://www.youtube.com/embed/wwMt3d60uTs?si=XIAztR8fIbFeXDR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+brightness bisecting you. the 60s but without the mental or physical stench
+
+
+* _Newness_: 0/5. Started 45 years ago.
+* _Obscurity level_: 1/5. Pitchfork, SPIN.
+* [Profile](https://staticmag.org/shannon/redd-kross-interview/)
+
+<br>
+
+
+### 9. _TRAИƧA_ – Various
+
+<iframe width="100%" height="165" src="https://www.youtube.com/embed/0I7UAZrSPgQ?si=TZmj-zk9mGntyT78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Normally wouldn't put a compilation in, particularly one this uneven. But the range and the experiments moved me. I found it impossible to predict who would show up next - Sade? Andre?
+
+
+* _Newness_: 0/5. 
+* _Obscurity level_: 1/5. 
+* [Profile](https://www.vogue.com/article/transa-album)
+
+
+<br>
+
+### 10. _Salt Sermon_ – Missouri Executive Order 44 (Kansas City extreme math)
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=62002705/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://meo44.bandcamp.com/album/salt-sermon">Salt Sermon by Missouri Executive Order 44</a></iframe>
+
+I had been needing something demented and cathartic, but I don't believe in the degeneracy of mere metalcore bands and it doesn't work if I'm not at least in some doubt.
+
+* _Newness_: 4/5. 
+* _Obscurity level_: 2/5. On Spotify. 
+* [Profile](https://en.wikipedia.org/wiki/Missouri_Executive_Order_44)
+
+
+
+
+
+
+
+<br>
+
+
+
+
+<div class="accordion">
+	<h3>Reissues and retros</h3>
+	<div>
+		My actual top 5 of the year was all reissues and compilations. :E   I've tucked them away here because they are cheating, not new-new.
+		<br><br>
+		<a href="https://blankformseditions.bandcamp.com/album/cold-drinks-hot-dreams">Atrás Del Cosmos</a><br>
+		<a href="https://phantomlimblabel.bandcamp.com/album/fossil-cocoon-the-music-of-k-yoshimatsu">K Yoshimatsu</a><br>
+		<a href="https://unseenworlds.bandcamp.com/album/lips">Daniel Lentz</a><br>
+		<a href="https://aphextwin.bandcamp.com/album/selected-ambient-works-volume-ii">Aphex Twin</a><br>
+		<a href="https://open.spotify.com/album/2V1MbuXcdz53o9QuEcHiKz">Bryan Ferry</a><br>
+		<a href="https://open.spotify.com/album/7KHPyc1crwPfCZekggfw77">Katamari</a><br>
+		<a href="https://n-t-s.bandcamp.com/album/european-primitive-guitar-1974-1987">European Primitive Guitar (1974-1987)</a><br>
+	</div>
+	<h3>Honourable mentions</h3>
+	<div>
+* [Adrianne](https://en.wikipedia.org/wiki/Bright_Future_(Adrianne_Lenker_album))<br><br>
+
+* [Lego Indiana Jones](https://legoindianajones.bandcamp.com/album/hope-all-well?from=embed). Trying to give you whiplash from your assumption that they are a novelty band.<br><br>
+
+* [Better Lovers](https://www.albumoftheyear.org/album/1031888-better-lovers-highly-irresponsible.php). Supergroups are usually subgroups, not just sublinear but subsum. This is super, synthesis of Pantera and NIN. Does get old by track 6 though.<br><br>
+
+* [The Joy](https://www.okayafrica.com/the-musical-brotherhood-of-the-joy/127805) \[isicathamiya; Zulu gospel\]. the secular runs as deep. no instruments, no dubs, no comps<br><br>
+
+* [Mimik Banka](https://www.albumoftheyear.org/album/938361--mimik-banka--seahorse-forest.php). I am still very excited when I find a mainland Chinese band that doesn't suck. This isn't their best though.<br><br>
+
+* "Iechyd Da" by Bill Ryder-Jones [indie folk or slowcore as we're calling it now]<br><br>
+
+* Definitely Confusion by Cristian Sarde<br><br>
+
+ 
+<!-- https://www.albumoftheyear.org/album/843183-big-brave-a-chaos-of-flowers.php -->
+<!-- https://www.albumoftheyear.org/album/868536-melvins-tarantula-heart.php -->
+<!-- https://www.albumoftheyear.org/album/867379-fer-franco-ritos-de-paso.php -->
+
+
+* LL - The Hellp (new rave).
+<!--  -->
+<!-- <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7r0oaJO4WR0KLgg1rZu6kg?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
+<!--  -->
+<!-- > I think we're douchebags in jeans for sure, but I think we're a little bit more than that. -->
+<!--  -->
+Captures the good parts of 90s emo. some of the electro won't age well but it's fine for now and I miss Crystal Castles. There was this slightly pathetic moment twenty years ago, when indietronica was born ('member _The Postal Service_?) and various of us fell about losing our heads at the thought of electronica which meant something. also occasional guitar textures.
+<!-- * _Newness_: 2/5. They're ten years in. 
+* _Obscurity level_: 1/5. <a href="https://pitchfork.com/reviews/albums/the-hellp-ll/">Critic review</a>, Spotify, Youtube, Bandcamp, cassette.
+* [Profile](https://www.thefader.com/2024/12/10/the-hellp-ll-album-brat-jeans-interview)
+ -->
+	</div>
+</div>
+
+
+
+<br><br>
+
+Was this worth doing? I don't know. I am much less confused, much less FOMOish, and can see where things are going in my favourite medium. My 2024 playlist above is pretty kickass and readily convinces people that cool things are indeed happening. But I won't do it again.

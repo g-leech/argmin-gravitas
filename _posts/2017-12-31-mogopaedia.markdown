@@ -33,7 +33,14 @@ wordcount:
 {%  assign welt = "https://themountaingoats.fandom.com/wiki/Special:AllPages"  %}
 {%  assign super = "https://nymag.com/arts/popmusic/features/55031/"    %}
 
+<br>
 
+TL;DR: <a href="{{THESHEET}}">THE DATA</a>
+
+<br>
+
+
+<hr />
 
 > Tracking live is like that. You're actually hearing something which actually happened. <a href="#fn:1" id="fnref:1">1</a>
 
@@ -128,7 +135,7 @@ My emotions are hopelessly tied up with the <a href="https://en.wikipedia.org/wi
 
 I pride myself on the breadth and scrappiness of my life course. I’ve lived in 11 countries for at least a couple months. I have arts and science and opinions on Malebranche and people like that. I worked 40 jobs, waiting tables and calculating the state of a whole nation and coding in bonds in the belly of a Fortune 100.
 
-But you and I are not like John. We haven’t slept in jail, got into and quit meth, watched our rentboy friends die, nearly died half a dozen times ourselves. We haven’t put together a lounge band. We feel for the methheads but not like this. We have no pangs. The good things in our lives are just good things and not miracles. <a href="#fn:11" id="fnref:11">11</a>
+But you and I are not like Darnielle. We haven’t slept in jail, got into and quit meth, watched our rentboy friends die, nearly died half a dozen times ourselves. We haven’t put together a lounge band. We feel for the methheads but not like this. We have no pangs. The good things in our lives are just good things and not miracles. <a href="#fn:11" id="fnref:11">11</a>
 
 > I go to church, but I don't have the faith of the people there. So it's weird, because if people get stuck in a conversation with you, you don't want to say, "I'm kind of on the outside here." It's interesting... I go to church as often as I can, but I will also go to ISKCON Centers and chant Hare Krishna. I like feeling part of an ecclesiastical body. I like feeling that feeling of faith community. I like being around it. I like being able to catch some of the energy, whatever I can or can't believe. 
 

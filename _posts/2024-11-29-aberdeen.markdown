@@ -15,7 +15,7 @@ summary:    My first alma mater
 confidence: 
 importance: 3
 wordcount:  
-categories: places, uni, lists
+categories: places, uni, lists, autobio
 where:      "Tallinn"
 ---
 
@@ -33,7 +33,7 @@ where:      "Tallinn"
 
 <br>
 
-On a handful of days a year in Aberdeen when the sun comes out after the rain and ten billion crystals of wet quartz and mica in the clean fraction of the granite are allowed to shine you sit there in an ocean of light way brighter than the sea. You squint (you don't own sunglasses) - you can't really drive. A giant mirror, shrouded all year, alight. As if it's a year's worth in one day - enough to make you think it makes up for the grey the rest of the time, "you're even." You are not.
+On a handful of days a year in Aberdeen when the sun comes out after the rain and ten billion crystals of wet quartz and mica in the clean fraction of the granite are allowed to shine you sit there in an ocean of light way brighter than the sea. You squint (you don't own sunglasses) - you can't really drive. A giant mirror, shrouded all year, alight. As if a year's worth in one day - enough to make you think it makes up for the rest of the time, as if you're even. You are not.
 
 <br>
 
@@ -289,9 +289,13 @@ constabulary force’.  -->
 
 ## Now
 
-> I came to hate Aberdeen more than any place I saw 
+> ...comparable to a country bumpkin who had won the lottery, minus the dopey grin and colossal sense of incredulous gratitude. The prevalent local delusion wasn't that the town had merely been in the right place at the right time, but that it had somehow done something to deserve this massive good fortune, and not before time, either... Living in Aberdeen had also taught him that as you only got one shot at life, it was way too precious to waste living in Aberdeen. 
 
-<center>― Paul Theroux</center>
+<center>― Chris Brookmyre (in character)</center>
+
+
+<!-- > I came to hate Aberdeen more than any place I saw  -->
+<!-- <center>― Paul Theroux</center> -->
 
 > The fish have largely gone. The oil will not last forever... but they'll need something. They'll need something. 
 
@@ -350,13 +354,17 @@ I played the Tunnels in an awful band with great lyrics. I [heckled](https://www
 * **Poet**: [Lachlan Mackinnon](https://poetryarchive.org/poem/nocturne/).
     * There's a huge black hole between Barbour in 1500 and... ig Charles Murray in 1900. <!--Harry Giles.-->  Ossian is fake but good. Annand Taylor is real but bad. 
     * Byron hated his time in Aberdeen (no disqualification in an Aberdonian) but that was partly because he was being actively molested at the time.
+    <!-- https://www.ianstephen.co.uk/3.html -->
 
-* **Novelist**: Grassic Gibbon or [William Alexander](https://www.scottishcorpus.ac.uk/cmsw/document/?documentid=128)
+* **Novelist**: Grassic Gibbon or [William Alexander](https://www.scottishcorpus.ac.uk/cmsw/document/?documentid=128). Ali Smith passed through.
 
 * **Novel**: _[69 Things to do with a Dead Princess](https://www.lrb.co.uk/the-paper/v24/n09/jenny-turner/aberdeen-rocks)_. 
 <!-- (Or _Stonemouth_, whose title is a perfect riff on Stonehaven-Lossiemouth.) -->
 
-* **Memoir**: _[The Living Mountain](https://www.goodreads.com/author/quotes/720668.Nan_Shepherd)_ by Nan Shepherd
+* **Memoir**: _[The Living Mountain](https://www.goodreads.com/author/quotes/720668.Nan_Shepherd)_ by Nan Shepherd 
+    * but also [Somewhere there are people like me](http://imomus.com/momus1980.pdf). Momus isn't otherwise mentioned in this post because he really belongs to Edinburgh or Tokyo.
+
+* **Blog**: not much. There's [Aberdeen Voice](https://aberdeenvoice.com/)
 
 * **Art**: [Joan Eardley](https://duckduckgo.com/?q=Joan+Eardley+aberdeen&t=brave&ia=images&iax=images) spent her last few years here. 
 <!-- Otherwise George Reid.  -->
