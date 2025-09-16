@@ -21,7 +21,31 @@ where:      "Tallinn"
 
 > The evil Old Man of Ülemiste is believed to live in the lake. Should anyone meet him, he asks them "Is Tallinn ready?". If you answer "yes", then he will flood the city. The necessary response is then "No, there is much to be done yet".
 
-<br>
+<br> 
+
+> A black shadow, behind the pane across the ceiling.<br>
+The kettle hums and strains. The pan won't be appealing.<br>
+Wind rattles these squares with branches from the avenue.<br>
+My body, pallid for years. The rain speaks Latin too.<br>
+Mum doesn't look round, doesn't rattle the door.<br> <!--! closet door -->
+She cuts me shoes found in boots gotten worn.<br> <!--!! no "found-->
+My father's reading the paper for Africa news<br>
+About Rothschild, the rich caper, king of angels too.<br>
+Go crazy or go grey, your wage won't give you wings.<br>
+They hiked prices today. In Turkey the earth is shaking.<br> <!-- passive prices - got hiked -->
+You order the paper and look - gossip and slander!<br>
+But the bigguns have their big boots. I'll stay small and meander...<br><br>
+Who wipes their face of drops gets soap right away.<br>
+Who sighing buys sardines in shops gets herring today.<br> <!-- big herrings -->
+Whose skirt is torn or sleeve tar-stained – <br>
+let them fear not: a whole shelf of cloth we maintain.<br>
+Look here and there! Here's linen, here's poplin.<br>
+Let the goods fly from the shelves...<br><br>
+See ya!<br>
+
+<center>– Betti Alver</center>
+
+<br><br>
 
 I've spent a year of fortnights in Tallinn. That's not enough to be a local, to grok the city as I did in my other city posts, but it's enough to feel and know something.
 
@@ -33,20 +57,22 @@ The single icon which comes to mind is clubbers tottering along the street on he
 
 ## Then
 
-* The language, as everyone knows, is deeply non-European - from Siberia ultimately. But the genetics don't match; modern Estonians are down to just [5%](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1522-1) Uralic "ancestry component".
+* The country is 56% forest and swamp. (They are very proud of the swamps, supposedly because it's where you hid when the Swedes or Danes or Germans or Russians came.) 
+
+* The language, as everyone knows, is deeply non-European - ultimately from Siberia. But their genetics don't match; modern Estonians are down to just [5%](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1522-1) Uralic "ancestry component".
 	* There's a notable minority language in the south, the Võro-Seto. About 10% of pop.
-	* The former president's beloved book is wrong. https://news.postimees.ee/4206443/scientists-overturn-meri-s-5-000-years-hypothesis
+	* The former president's beloved book about the origins of the Estonians is [wrong](https://news.postimees.ee/4206443/scientists-overturn-meri-s-5-000-years-hypothesis). 
 
 <center>
 	<img src="/img/ural.png" width="60%" />
 </center>
 
-* The country is 56% forest / swamp. (They are very proud of the swamps, supposedly because it's where you hid when the Swedes or Danes or Germans or Russians came.) 
+* It's a travesty to say that it's culturally halfway between Germany and Russia.
 
-* An old trick: Innocent III declared a crusade against Livonia (Latvia and Estonia), nominally "to protect the Christians of Livonia" (but actually to seize the trade routes and install puppets). It only took the Germans and Danes 20 years to conquer and christianise the country.
-	* About 70 years later they justified the invasions by calling the region "Terra Mariana", Mary's Land. A notably cynical move even in that cynical time.
+* An old trick still in use: Innocent III declared a crusade against Livonia (Latvia and Estonia), nominally "to protect the Christians of Livonia" (to seize the trade routes and install puppets). It took the Germans and Danes 20 years to conquer and christianise it.
+	* After the fact they justified the invasions by calling the region "Terra Mariana", Mary's Land. A notably cynical move even in that cynical time.
 
-* It first appears to history on being conquered by the Danes in 1219. (_Taani-linna_ is "Danish-castle".) Denmark sold it to the Teutons in 1346. When the Teutons and Livonians cracked up, in 1561 the city (the ~German nobles in control of the city) voluntarily became Swedish. In 1721 the Swedish city surrended to Russia. They declared independence on 21 February 1918; the kaiser invaded four days later, but the Germans withdrew him nine months after that. The Russians came back in 1940, the Germans came back in 1941, and then the Russians came back again in 1944 and that was that until 1991.
+* Tallinn first appears to history on being conquered by the Danes in 1219. (_Taani-linna_ is "Danish-castle".) They sold it to the Teutons in 1346. When the Teutons and Livonians cracked up, in 1561 the city (the ~German nobles in control) voluntarily became Swedish. In 1721 the Swedish city surrended to Russia. They declared independence from Russia on 21 February 1918; the kaiser invaded four days later, but the Germans withdrew him nine months after that. The Russians came back in 1940, the Germans came back in 1941, the Russians came back again in 1944 and that was that until 1991.
 
 > By the late 1940s and the early 1950s, the Forest Brothers were provided with supplies, liaison officers and logistical coordination by the British (MI6), American and Swedish secret intelligence services. That support played a key role in directing the Baltic resistance movement, but it diminished significantly after MI6's Operation Jungle was severely compromised by the activities of British spies (Kim Philby and others) who forwarded information to the Soviets and enabled the [KGB] to identify, infiltrate and eliminate many Baltic guerrilla units 
 
@@ -68,6 +94,8 @@ The single icon which comes to mind is clubbers tottering along the street on he
 <img src="/img/slow.png" />
 
 ## Now
+
+<img src="/img/disco.jpeg" width="70%" />
 
 * Some notes on the countryside
 	* Half the population density of Scotland, itself one-fifth England. Great for people who don't like people.
