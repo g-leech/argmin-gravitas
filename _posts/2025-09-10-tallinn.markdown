@@ -19,37 +19,73 @@ categories: places, uni, lists, autobio
 where:      "Tallinn"
 ---
 
-> The evil Old Man of Ülemiste is believed to live in the lake. Should anyone meet him, he asks them "Is Tallinn ready?". If you answer "yes", then he will flood the city. The necessary response is then "No, there is much to be done yet".
+> The evil Old Man of Ülemiste is believed to live in that lake. Should anyone meet him, he asks them "Is Tallinn ready?". If you answer "yes", he will flood the city. The necessary response is then "No, there is much to be done".
 
 <br> 
 
-> A black shadow, behind the pane across the ceiling.<br>
+> A black shadow behind the pane across the ceiling.<br>
 The kettle hums and strains. The pan won't be appealing.<br>
-Wind rattles these squares with branches from the avenue.<br>
-My body, pallid for years. The rain speaks Latin too.<br>
-Mum doesn't look round, doesn't rattle the door.<br> <!--! closet door -->
-She cuts me shoes found in boots gotten worn.<br> <!--!! no "found-->
+Wind rattles these squares, branches from the avenue.<br>
+My body's pallid for years. The rain speaks Latin too.<br>
+Mum won't look about, won't rattle the door.<br>
+She's cutting me shoes out of boots long-worn.<br>
 My father's reading the paper for Africa news<br>
-About Rothschild, the rich caper, king of angels too.<br>
+About Rothschild the rich caper, and king of angels too.<br>
 Go crazy or go grey, your wage won't give you wings.<br>
-They hiked prices today. In Turkey the earth is shaking.<br> <!-- passive prices - got hiked -->
+They hiked prices today. In Turkey the earth is shaking.<br> 
 You order the paper and look - gossip and slander!<br>
 But the bigguns have their big boots. I'll stay small and meander...<br><br>
-Who wipes their face of drops gets soap right away.<br>
-Who sighing buys sardines in shops gets herring today.<br> <!-- big herrings -->
-Whose skirt is torn or sleeve tar-stained – <br>
-let them fear not: a whole shelf of cloth we maintain.<br>
+Who wipes away sweat gets soap on the spot.<br>
+Who sighing buys sprats gets herrings by lot.<br>
+Whose skirt is in tatters or sleeve tarred with grime –<br> 
+Fear not such matters: our cloth shelf's sublime.<br>
 Look here and there! Here's linen, here's poplin.<br>
 Let the goods fly from the shelves...<br><br>
 See ya!<br>
 
-<center>– Betti Alver</center>
+<center>– <a href="https://sasslantis.ee/lyrics-vaiko_eplik-l_hen_m_jaks">Betti Alver</a> (1965)</center>
 
 <br><br>
+
+
+> It's not worth destroying good memories.<br>
+You're a stranger in a strange town. As am I.<br>
+Two of us, seconded, suddenly free from it all.<br>
+I find myself thinking up anecdotes<br>
+and see that for some reason you're smiling too.<br>
+It's not worth destroying good memories?<br>
+The trees are bare like fenceposts. Snow like a sponge.<br>
+The hotel beds are cold as snowdrifts.<br>
+The sunset ahead is red like a traffic light.<br>
+A foot stumbles at the door and falters on the stairs.<br>
+It's not worth destroying good memories...<br>
+In life the everyday and holy come ready mixed.<br>
+Even the soul can be stained by this mess.<br>
+That's precisely why something should remain sacred.<br>
+And though it's fashionable to thirst all the time,<br>
+only a fool drinks as soon as he's thirsty.<br>
+It's not worth destroying good memories.<br>
+If you don't have any, then I wish some for you.<br>
+Other wealth disappears – there's little of us in it.<br>
+A falling star can never rise.<br>
+You can't live your life as a trial run.<br>
+I wish you good memories.
+
+<center>– Arvi Siig</center>
+
+<br>
+
+> Estonia. A dark, tiny, angry, improbably stylish place where Tarkovsky filmed his undying masterpiece Stalker and Nolan also tried to do something with Tenet.
+
+<center>– Robert Kurvitz</center>
+
+<br>
 
 I've spent a year of fortnights in Tallinn. That's not enough to be a local, to grok the city as I did in my other city posts, but it's enough to feel and know something.
 
 The single icon which comes to mind is clubbers tottering along the street on heels in miniskirts in -20°C, when my own longjohned thighs were starting to seize up. Or cordite smoke as the fireworks with their fuses snipped explode just above the khrushchevka roofs. (For your westerners, that's a "5-over-1", but grimmer.)
+
+It's pretty impenetrable. The culture isn't well-covered even in Estonian, and pathetically poorly in English. (I looked in vain for a decent translation of Juhan Liiv, a national treasure, like Burns and Dickinson in one.) There's a sense that they had to rebuild or concoct a nation after centuries of Russification.
 
 <img src="/img/Tallinna_vanalinn_päikesetõusu_ajal.jpg" />
 <img src="/img/mustame.jpg" />
@@ -72,7 +108,8 @@ The single icon which comes to mind is clubbers tottering along the street on he
 * An old trick still in use: Innocent III declared a crusade against Livonia (Latvia and Estonia), nominally "to protect the Christians of Livonia" (to seize the trade routes and install puppets). It took the Germans and Danes 20 years to conquer and christianise it.
 	* After the fact they justified the invasions by calling the region "Terra Mariana", Mary's Land. A notably cynical move even in that cynical time.
 
-* Tallinn first appears to history on being conquered by the Danes in 1219. (_Taani-linna_ is "Danish-castle".) They sold it to the Teutons in 1346. When the Teutons and Livonians cracked up, in 1561 the city (the ~German nobles in control) voluntarily became Swedish. In 1721 the Swedish city surrended to Russia. They declared independence from Russia on 21 February 1918; the kaiser invaded four days later, but the Germans withdrew him nine months after that. The Russians came back in 1940, the Germans came back in 1941, the Russians came back again in 1944 and that was that until 1991.
+* Tallinn first appears to history on being conquered by the Danes in 1219. (_Taani-linna_ is "Danish-castle".) They sold it to the Teutons in 1346. When the Teutons and Livonians cracked up, in 1561 the city (the ~German nobles in control) voluntarily became Swedish. In 1721 the Swedish city surrended to Russia. Estonia proper appears on 21 February 1918, when they hastily declared independence from Russia; the kaiser invaded the new republic four days later, but the Germans withdrew him nine months after that. Following right behind the German withdrawal, the Bolsheviks [had a go](https://en.wikipedia.org/wiki/Soviet_westward_offensive_of_1918%E2%80%931919) at them and at the same time the Freikorps and the Baltic nobles [had a go](https://en.wikipedia.org/wiki/Battle_of_C%C4%93sis_(1919)). 20 years of Estonia pass until the Russians came back in 1940, and until the Germans came back in 1941, and until the Russians came back again in 1944 and that was that until 1991.
+	* https://en.wikipedia.org/wiki/Era_of_Silence
 
 > By the late 1940s and the early 1950s, the Forest Brothers were provided with supplies, liaison officers and logistical coordination by the British (MI6), American and Swedish secret intelligence services. That support played a key role in directing the Baltic resistance movement, but it diminished significantly after MI6's Operation Jungle was severely compromised by the activities of British spies (Kim Philby and others) who forwarded information to the Soviets and enabled the [KGB] to identify, infiltrate and eliminate many Baltic guerrilla units 
 
@@ -108,15 +145,15 @@ The single icon which comes to mind is clubbers tottering along the street on he
 * In other ways very Haute European, what with the opera house in a tiny city, and the tracked schools producing Excellence in the form of kids with signet rings
 
 * The Russian Estonians are a sore point.
-	* 21% of the total population. Surely most are not vatniks.
-	* Many adults have a personal grudge from the Soviet years. For instance, my girlfriend's dad remembers the time some drunk Russians drove over his tent in a tank. 
-	* There are a few majority-Russian towns. Narva, Jõhvi. This solves some issues but also presents Moscow with a juicy casus belli.
-	* There is a soft apartheid. Russians
+	* 21% of the total population. Most are not vatniks.
+	* Many Estonian adults bear a personal grudge from their Soviet years. For instance, my girlfriend's dad remembers the time some drunk Russians ran over his tent in a tank. 
+	* It's not apartheid but . Russians
 	* https://en.wikipedia.org/wiki/Estonian_alien%27s_passport
+	* There are a few majority-Russian towns. Narva, Jõhvi. This presents Moscow a juicy casus belli.
 	* In 2008, the [head](https://en.wikipedia.org/wiki/Herman_Simm) of the Estonian NSA was convicted of being a Russian spy. He got 12 years.
 	* The first post-Soviet prime minister was (as mayor of Tallinn) a fantastically corrupt Russian asset. https://en.wikipedia.org/wiki/Edgar_Savisaar
 	* https://www.theatlantic.com/international/archive/2019/06/estonia-russia-deniss-metsavas-spy/592417/
-	* I seem to recall that someone in the Russian quarter, Lasnamäe, set off fireworks on the night of the invasion of Ukraine
+	* I recall that someone in the Russian quarter, Lasnamäe, set off fireworks on the night Ukraine was invaded. But it only took one idiot to make the whole group look terrible.
 
 
 https://www.atlasobscura.com/things-to-do/tallinn-estonia
@@ -127,14 +164,14 @@ http://thetallinncollector.com/
 
 
 * **Writer**: Robert Kurvitz.
-* **Poet**: 
+* **Poet**: Kaplinski. Betti Alver or Arvi Siig
 * **Novelist**: Jaan Kross
 * **Novel**: 
 * **Memoir**: 
-* **Blog**: [Flatfish](https://flatfish.ee/) by the Italian-American expat EA Johnson. He's been here since Soviet times, paying close attention to the food changing. Wonderful.
+* **Blog**: [Flatfish](https://flatfish.ee/) by the Italian-American expat Eric Johnson. He's been here since Soviet times, paying close attention to the food. Wonderful.
 * **Art**: 
-* **Art music**: 
-* **Popular music**: 
+* **Art music**: Pärt.
+* **Popular music**: Vennaskond. Ruja.
 
 <iframe data-testid="embed-iframe" style="border-* **radius**:12px" src="* **https**://open.spotify.com/embed/playlist/4ZUniHnmEp0hvSWpwqWo97?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -182,4 +219,5 @@ Is Tallinn ready?
 
 ## See also
 
+* https://www.gleech.org/disco
 * http://thetallinncollector.com/

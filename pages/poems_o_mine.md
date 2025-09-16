@@ -16,6 +16,45 @@ visible:    false
 
 <br><br>
 
+
+## 2025
+
+### I'm gonna sell stuff (by Betti Alver)
+
+A black shadow behind the pane across the ceiling.<br>
+The kettle hums and strains. The pan won't be appealing.<br>
+Wind rattles these squares, branches from the avenue.<br>
+My body pallid for years. The rain speaks Latin too.<br>
+Mum won't look about, won't rattle the door.<br>
+She's cutting me shoes out of boots long-worn.<br>
+My father's reading the paper for Africa news<br>
+About Rothschild the rich caper, and king of angels too.<br>
+Go crazy or go grey, your wage won't give you wings.<br>
+They hiked prices today. In Turkey the earth is shaking.<br> 
+You order the paper and look - gossip and slander!<br>
+But the bigguns have their big boots. I'll stay small and meander.<br>
+Everyone's going to town and town. City things are all the rage.<br>
+I guess I too could settle down in sales for a Leihberg wage.<br><br>
+There I'll sell you flour and rice, gloves and hats,<br>
+sell randomly at wholesale price almonds and muscats,<br>
+Sell socks, shoes and scarves, sell saucepans,<br>
+harmonicas and pearls and balls and paper horsemen,<br>
+sell everything eyecatching, sell gingerbread all sugar and honey – <br>
+half-free, completely free, use fallen leaves for money.<br><br>
+Who wipes away sweat gets soap on the spot.<br>
+Who sighing buys sprats gets herrings by lot.<br>
+Whose skirt is in tatters or sleeve tarred with grime –<br> 
+Fear not such matters: our cloth shelf's sublime.<br>
+Look here and high! Here's linen, here's jacquard.<br>
+Let the goods fly, slap the Leihberg counter!<br><br>
+Then Mr. Leihberg will thank us all like a man!...
+Maybe.<br>
+Come, friends, to Leihberg's store! Surely come. See ya!<br><br><br>
+
+([original](https://sasslantis.ee/lyrics-vaiko_eplik-l_hen_m_jaks), 1965)
+
+<br><br>
+
 ## 2024
 
 
