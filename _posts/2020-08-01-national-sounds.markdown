@@ -21,7 +21,11 @@ argument:
 
 {%	include nation/links.md	%}
 
-I aim to make one kickass playlist per country in the world. Current: 42/[249](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes#Current_ISO_3166_country_codes).
+I aim to make one strong playlist per country in the world. Current count: 42 / [249](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes#Current_ISO_3166_country_codes).
+
+<br>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1ZtOINogmOrvbyoSZ6ZtsttUmCqMSYPk&ehbc=2E312F&controls=0&disableDefaultUI=true&zoomControl=false&ll=39.0,35.0&z=2.5&noprof=1" width="640" height="880"></iframe>
 
 <br>
 
@@ -121,11 +125,15 @@ I aim to make one kickass playlist per country in the world. Current: 42/[249](h
 
 # Caveats
 
-Alright, so it is weird to do one list for all of Brazil (pop. 210m) and one for Bristol (pop 0.6m). I welcome contributions from scholars of the music of Feira de Santana (or indeed from any place on earth).
+Alright, so it is weird to do one list for all of Brazil (pop. 210m) and one for Aberdeen (pop 0.21m). I welcome contributions from scholars of the music of Feira de Santana (or indeed from any place on earth).
 
 My selection from non-Anglophone countries will be biased towards obviousness and against wit. I forgive a gifted lyricist almost anything (for instance, I love early Mountain Goats), and I mostly can't here.
 
-Most countries seem to have local Indie Gods: Tragically Hip (Canada), Microdisney (Ireland). Mostly don't survive leaving their context.
+Most countries seem to have local Indie Gods: Tragically Hip (Canada), Microdisney (Ireland), Chile, Cui Jian or Carsick Cars (China), Los Prisioneros (Chile), Die Toten Hosen (Germany), B'z (Japan), Indochine (France), Vasco Rossi (Italy). Most don't survive leaving their context.
 
 <br><br>
+
+## See also
+
+* https://musicmapify.com/
 
