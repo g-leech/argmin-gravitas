@@ -23,6 +23,8 @@ visible:	false
 {%  assign metal = "https://open.spotify.com/playlist/3jUJlttx7nkMN6qVkaIIQO?si=9dd9b8a81b8b419d"	%}
 {%	assign post = "https://open.spotify.com/playlist/2wZiCXIhYypTAaCkpFNF9t?si=8b96c6272ead47f5"	%}
 {%	assign vidya = "https://open.spotify.com/playlist/0Ge30FFa6jGdvVZaCcrU00?si=613ffbd69ad041ce"	%}
+{%	assign maxent = "https://docs.google.com/spreadsheets/d/1utFMMcb6etY-rXctA7L1RvIL9y8wpWRSMXV_zhb8kVw/edit?gid=1138693370#gid=1138693370"	%}
+
 
 <style>
 	{% 	include css/recs.css	%}
@@ -31,7 +33,7 @@ visible:	false
 ## Listen
 <div class="container">
 	<a href="{{album}}">{% include fa/record-vinyl-solid.svg %}</a>
-	<a href="{{album}}">Albums</a>
+	<a href="{{album}}">Albums</a>. (or the <a href="{{maxent}}">max entropy version</a>.)
 </div>
 
 

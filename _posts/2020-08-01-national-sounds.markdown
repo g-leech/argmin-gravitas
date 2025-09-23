@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Nation playlists"
+title:      "The World Sound"
 baselink:   /nation-sound
 permalink:  /nation-sound
 date:       2020-09-02
@@ -11,7 +11,7 @@ published:  true
 visible:    1
 
 summary:    My favourite music from various places.
-quality:    2
+quality:    7
 categories: music, lists
 confidence: 
 importance: 2
@@ -20,6 +20,8 @@ argument:
 ---
 
 {%	include nation/links.md	%}
+
+I aim to make one kickass playlist per country in the world. Current: 42/[249](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes#Current_ISO_3166_country_codes).
 
 <br>
 
@@ -42,6 +44,7 @@ argument:
 			{%	include nation/neder.html	%}
 			{%	include nation/portug.html	%}
 			{%	include nation/fin.html		%}
+			{%	include nation/dan.html		%}
 			{%	include nation/uke.html		%}
 			{%	include nation/grk.html 	%}
 		</div>
@@ -99,7 +102,7 @@ argument:
 	</div>
 </div>
 
-<br>
+<br><br>
 
 
 # Rules
