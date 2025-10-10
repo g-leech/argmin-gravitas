@@ -316,3 +316,7 @@ Criticism criticism: -->
 
 
 {%	include hoom/foots.html	%}
+
+## See also
+
+* https://thought.is/an-overly-intense-track-by-track-analysis-of-the-first-cd-of-joanna-newsoms-have-one-on-me/

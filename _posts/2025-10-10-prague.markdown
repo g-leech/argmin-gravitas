@@ -1,0 +1,65 @@
+---
+layout:     post
+title:      "Prague"
+baselink:   /prague
+permalink:  /prague
+date:       2025-10-10
+author:     Gavin
+img:        /img/
+
+visible:    1
+published:  false
+quality:    6
+
+summary:    
+warnings: 	A foreigner's view
+importance: 3
+wordcount:  
+categories: places, uni, lists, autobio
+where:      ""
+---
+
+
+* **Writer**: Karel Čapek 
+* **Poet**: 
+* **Novelist**: 
+* **Novel**: 
+* **Memoir**: 
+* **Blog**: 
+* **Art**: Jan Saudek. Josef Čapek
+* **Art music**:
+* **Popular music**: 
+* **Philosopher**: 
+* **Scientist**: 
+* **Modernist**: 
+* **Philanthropist**: 
+* **Entrepreneur**: 
+* **Cosmopolitan**: 
+* **Radical**: 
+* **Socialist**:
+* **Monk**: 
+* **Eccentric**: 
+* **Evildoer**: 
+* **Comedian**:
+* **Director**: 
+* **Film**: 
+* **Filmmaker**: Karel Zeman, Jan Švankmajer
+* **Screenwriter**: 
+* **Play**: 
+* **TV**: 
+* **Videogame**: 
+* **Actor**: 
+* **Archaeologist**: 
+* **Restaurant**: 
+* **Delicacy**: 
+* **Building**: 
+* **Street**: 
+* **Church**: 
+* **Architect**: 
+* **Walk**: 
+* **Library**: 
+* **Shop**: 
+* **Bookshop**: 
+* **Venue**: 
+* **Pub**: 
+* **Cafe**: 

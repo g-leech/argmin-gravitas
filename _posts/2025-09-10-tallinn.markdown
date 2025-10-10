@@ -3,7 +3,7 @@ layout:     post
 title:      "Tallinn"
 baselink:   /tallinn
 permalink:  /tallinn
-date:       2025-09-10
+date:       2025-09-26
 author:     Gavin
 img:        /img/mustame.jpg
 
@@ -12,7 +12,8 @@ published:  false
 quality:    6
 
 summary:    
-warnings: 	A foreigner's view
+warnings: 	A foreign view. One year tour, plus borrowing other years by reading.
+confidence: 
 importance: 3
 wordcount:  
 categories: places, uni, lists, autobio
@@ -23,29 +24,519 @@ where:      "Tallinn"
 
 <br> 
 
-> A black shadow behind the pane across the ceiling.<br>
-The kettle hums and strains. The pan won't be appealing.<br>
-Wind rattles these squares, branches from the avenue.<br>
-My body's pallid for years. The rain speaks Latin too.<br>
-Mum won't look about, won't rattle the door.<br>
-She's cutting me shoes out of boots long-worn.<br>
-My father's reading the paper for Africa news<br>
-About Rothschild the rich caper, and king of angels too.<br>
-Go crazy or go grey, your wage won't give you wings.<br>
-They hiked prices today. In Turkey the earth is shaking.<br> 
-You order the paper and look - gossip and slander!<br>
-But the bigguns have their big boots. I'll stay small and meander...<br><br>
-Who wipes away sweat gets soap on the spot.<br>
-Who sighing buys sprats gets herrings by lot.<br>
-Whose skirt is in tatters or sleeve tarred with grime –<br> 
-Fear not such matters: our cloth shelf's sublime.<br>
-Look here and there! Here's linen, here's poplin.<br>
-Let the goods fly from the shelves...<br><br>
-See ya!<br>
+> That's why you can never trust a good person, for he will _freely_ do evil - purely for justice's sake, so that everyone may be the same [miserable].
 
-<center>– <a href="https://sasslantis.ee/lyrics-vaiko_eplik-l_hen_m_jaks">Betti Alver</a> (1965)</center>
+<center>– Tammsaare (1926)</center>
 
+<br>
+
+
+> Estonia. A dark, tiny, angry, improbably stylish place where Tarkovsky filmed his undying masterpiece 'Stalker' and Nolan also tried to do something with 'Tenet'.
+
+<center>– Robert Kurvitz</center>
+
+<br>
+
+> Kuuuurija istus töööös jääääres. <br>["The moon researcher sat working the night shift at the edge of the ice."]
+
+<center>– contrived example of Estonian agglutination (but not _that_ contrived)</center>
+
+
+<br>
+
+For love I've spent a year of fortnights in Tallinn. Not enough to be local - to grok the city as I did in my <a href="/tags#places">other</a> city posts - but enough to feel and know something.
+
+The place is pretty impenetrable, e.g. pathetically poorly covered in English. <a href="#fn:10" id="fnref:10">10</a> (For instance, I have looked in vain for a decent translation of the poet Juhan Liiv, a national treasure, Burns and Dickinson in one.) One reason English writing about Estonia is so bad is that the writer can't take anything for granted. There's not even any stereotypes to work with. So the writing is always introductory, always a bit apologetic, always stooping.
+
+(In the course of writing this post I discovered three falsehoods, commonly repeated on Wikipedia and in academia.)
+
+They're also just quite anomalous: Baltic, but not Balts; Nordic, but not Scandinavians; highly Germanised, with no Germans; European, but not Indo-European. 21% Russian but a country of Russia hawks. Post-Soviet but not that depressing.
+
+An icon which comes to mind is seeing clubbers tottering along Valli Street on heels in miniskirts in -20°C - when my own longjohned thighs were seizing up from cold. Or, on New Year the thick cordite smoke reducing visibility to naught as fireworks with snipped fuses explode just above the flat khrushchevka <a href="#fn:6" id="fnref:6">6</a> roof. 
+
+
+
+## Then
+
+<img src="/img/Tallinna_vanalinn_päikesetõusu_ajal.jpg" />
+
+<div class="accordion">
+<h3>Ancient Estonia</h3>
+<div>
+<blockquote>Our language, memory and sense of self have come from the East, our facial features from the West... Language and culture are much more important in our eyes than race</blockquote>
+<center>- Lennart Meri</center><br>
+	<ul>
+		<li>The country is 56% forest and swamp. (They are very proud of the swamps, supposedly because it's where you hid when the Swedish or Danish or German or Russian cavalry came.) </li>
+		<li>The language, as everyone knows, is deeply non-European - ultimately from Siberia. But their genetics don't match; modern Estonians are down to just <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1522-1">5%</a> Uralic.
+		It's highly agglutinative, capable of artifical examples like:
+			<blockquote>Kuuuurija istus töööös jääääres. ["The moon scientist sat in a working night at the edge of the ice"]</blockquote>
+			but also uncontrived ones like
+			<blockquote>"nende mõistmatunaolematuseta" ["without being able to be understood"]</blockquote>.
+			<blockquote>"Jõeäärne õueaiamaa" ["The garden by the river"]</blockquote>
+			<blockquote>"Habemeajaja ja jaamaülem jalutasid honorari järele." ["The barber and stationmaster walked around looking for their fee."]</blockquote>
+			<!-- Ambiguous negations: -->
+			<!-- <blockquote>"Kõik õpilased ei saanud ülesandega hakkama" ["Not all students managed the task" OR "All students didn't manage the task"]</blockquote> -->
+			</li>
+		<li>The Latin orthography cannot always represent the language properly. For instance, there are three vowel lengths, õ, u, uu.</li>
+		<li>The bit which drives me mad most is it modifying proper names. So Uku Masing can be referred to as "Masingu", "Masingule", "Masingust", "Masinguni"... </li>
+		<li>My favourite words:
+			<ul>
+				<li><i>pesukaru</i>: [wash-bear]; raccoon</li>
+			</ul>
+		</li>
+		<li>There's a notable minority language in the south, the Võro-Seto, which actually about 10% of pop speak. Pretty baffling: the Estonia of Estonia.</li>
+	<li>
+		The former president's beloved book about the origins of the Estonians is <a href="https://news.postimees.ee/4206443/scientists-overturn-meri-s-5-000-years-hypothesis">wrong</a>. But it can retreat into safely figurative national mythology apparently.</li>
+	<li>
+		In case you care it goes <a href="https://en.wikipedia.org/wiki/Kunda_culture">Kunda people</a>, <a href="https://en.wikipedia.org/wiki/Narva_culture">Narva people</a>, <a href="https://en.wikipedia.org/wiki/Comb_Ceramic_culture">Comb people</a>, <a href="https://en.wikipedia.org/wiki/Netted_Ware_culture">Netted people</a>, <a href="https://en.wikipedia.org/wiki/Chud">Chuds</a>, <a href="https://en.wikipedia.org/wiki/Iru_hillfort">Iruites</a>; and the (non-Norse) <a href="https://en.wikipedia.org/wiki/Viking_Age_in_Estonia">Víkingr frá Esthland</a>. Before Tallinn, before recorded history, we infer that there was <a href="https://en.wikipedia.org/wiki/Iru_hillfort">Iru Linnapära</a>, which apparently spanned two millenia, [or else 500 years (-800 to -300 CE) plus 500 years (500 to 1000 CE)].
+	</li>
+<!--  -->
+
+
+
+
+
+
+<!--  -->
+<center>
+	<img src="/img/ural.png" width="100%" />
+</center>
+<br>
+
+<li>The colloquial term for the Finno-Ugric ancients is "ugrimugri". It's derogatory, cavemannish, like "ooga-booga" or "Grug", for presumably similar phonetic reasons. </li>
+</ul>
+</div>
+</div>
+
+<br>
+
+The first three crusades having gone so well, the Pope [declared](https://en.wikipedia.org/wiki/Non_parum_animus_noster) open season on the Baltics in 1171.<br>
+
+* Tallinn thus first appears to history on being conquered by the Danes in 1219. (_Taani-linna_ is "Danish-castle".) 
+* The "Livonians" (Germans) then took it from the Danes - and lost it by 1237, then Denmark lost it to the Teutons in 1343, who had come in to put down a [pagan revolt](https://en.wikipedia.org/wiki/Saint_George%27s_Night_Uprising).
+* When they themselves cracked up in 1561, the city (i.e. the Germans in control) voluntarily became Swedish. In 1721 the Swedish city surrended to Russia.
+* Estonia proper appears on 21 February 1918, when they hastily declared independence from Russia; the kaiser [invaded](https://en.wikipedia.org/wiki/German_occupation_of_Estonia_during_World_War_I) the mainland of the new republic four days later, but the Germans withdrew him nine months after that.
+* Literally following the German withdrawal, the Bolsheviks [had a go](https://en.wikipedia.org/wiki/Soviet_westward_offensive_of_1918%E2%80%931919) at them and at the same time the Freikorps and the [Baltic German nobles](https://en.wikipedia.org/wiki/United_Baltic_Duchy) [had a go](https://en.wikipedia.org/wiki/Battle_of_C%C4%93sis_(1919)), but all failed.<br><br>
+* 20 years of Estonian Estonia, [this](https://en.wikipedia.org/wiki/1924_Estonian_coup_attempt) and [that](https://en.wikipedia.org/wiki/Era_of_Silence), pass until the Russians came back in 1940, and until the Germans came back in 1941, and until the Russians came back again in 1944 and that was that until 1991.
+
+<br>
+<div class="accordion">
+<h3>notes</h3>
+<div>
+<ul>
+	<!-- <li>It's had a lot of names. Lindanisa/Lyndanisse, Kolyvan, Castrum Danorum, Reval/Rafala</li> -->
+	<li>The Livonian Order had an honest name at least: the "<a href="https://en.wikipedia.org/wiki/Livonian_Brothers_of_the_Sword">Order of the Brethren of the Sword</a>".</li>
+	<li>What makes a place Eastern European?: Getting invaded west and invaded east and invaded west; having to rebuild/concoct a language and a nation after 700 years of colonisation. (We don't usually think of eastern Europe as "postcolonial" - the usual people we rely on to deploy these terms are maybe blinded by Leninism's nominal opposition to imperialism. But the Soviet Union is a central example of an imperialist empire. Estonia maybe <a href="https://www.jstor.org/stable/26646218">doesn't</a> fit the original definition of "postcolonial" but I don't care.)</li>
+	<li>An old trick still in use: Innocent III declared a crusade against Livonia (Latvia and Estonia) "to protect the Christians of Livonia" (to seize the trade routes and install puppets). After the fact they justified the invasions by calling the region "Terra Mariana", Mary's Land, a second holy land. Notably cynical even for that cynical time. The lie was particularly obvious in the way that Christian "Livonians" wrested the place from Christian Danes, with Christian Swedes waiting in the wings. </li>
+	<li>The culture was wrested-about with dizzying violence to, for instance, surnames:
+	<ul><li>1170-1346: <i>Christianisation</i> (coerced Germanisation). <b>Lembit to Jaan.</b></li>
+	<li>1600-1890: <i><a href="https://et.wikipedia.org/wiki/Kadakasakslased">Juniper Germans</a></i> (aspirational Germanisation, self-colonisation). <b>Jaan to Jan.</b> <a href="#fn:1" id="fnref:1">1</a></li>
+	<li>1800-1918: <i><a href="https://et.wikipedia.org/wiki/Timotheus_Eberhard_von_Bock">Russification</a></i>. Some <b>Jans to Ivans.</b></li>
+	<li>1918-1940: <i>Estonization.</i> <b>Ivan to Jaan.</b> <a href="#fn:3" id="fnref:3">3</a></li>
+	<li>1978-1991: <i>Russification</i>. Didn't take?</li>
+	<li>1991-Present: <i>Estonization</i>. <b>Высоцкая to Võssotskaja.</b></li>
+	</ul>
+	</li>
+	<li>When I say "occupied by the Danes" you may have in mind something gentle and multicultural. Say the US occupation of Puerto Rico. "Foreign-language rule and zero representation, but at least they got opportunities." But no. Profound serfdom. The "<a href="https://www.lituanus.org/wp-content/uploads/2025/01/7-Paul-Johansen-and-Heinz-von-zur-Muhlen-Deutsch-und-Undeutsch-im-mittelalterlichen-und-fruhneuzeitlichen-Reval.pdf">Undeutsch</a>" had no right to move to the city or indeed any right to anything. </li>
+	<li>This spoils my rosy picture of the Hansa League, to realise that these peaceful, industrious, internationalist towns were apartheid colonies. (Call me naive.)</li>
+	<!-- <li>TODO CHECK. St Petersburg was founded on Swedish-occupied Estonian land only in 1703. It's a 3? hour bus ride from Tallinn.</li> -->
+	<li>Things were bad enough under the Tsar that a saying arose: "not like the good old Swedish times" (<i>vana hea Rootsi aeg</i>). <!-- * Reval. Hansalige. --></li>
+	<li>About <a href="https://vm.ee/en/news/fateful-year-1944-80-years-great-refugee-flight-west">10%</a> of the country fled the oncoming Red Army in 1944. Most didn't go back.</li>
+	<li>In the 20s Estonia actually secretly fenced ~all Soviet gold exports. Specifically, worse, it was the Harju Bank which the prime minister Päts part-owned. Worse, despite this surplus the bank collapsed in 1929, which precipitated the unrest which eventually led to the self-coup. 
+		<!-- If he skimmed it, then this was one of the worst things in the republic's history. -->
+</li>
+</ul>
+</div>
+</div>
+
+<br>
+
+
+Above, I listed a bewildering array of occupiers, but throughout there were only really two rulers: the Baltic Germans (1250-1920) and the Soviet nomenklatura (1944-1991). Consider the relative length of the occupations:
+
+<center>
+	<img src="/img/tallinnocc.png" /><br><a href="#fn:2" id="fnref:2">2</a><br><br>
+	and the relative linguistic influence:<br><br>
+	<img src="/img/Estonian_vocabulary.png" />
+</center>
+<!-- In the above occupation timeline I left out Baltic German time during Swedish rule because they lost full self-government privileges around 1680 -->
+
+
+<br>
+<div style="padding-left: 33px;">
+You hear Estonia, you think "Soviet". But it's way more German than Russian, despite the last 300 years. <a href="#fn:5" id="fnref:5">5</a><br><br>
+</div>
+
+
+## The "Baltic Germans" (German-Estonians)
+
+
+> what good did the crusades do for the Orient? What happiness have they brought to the coasts of the Baltic Sea? The old Prussians are destroyed; Livonians, Estonians, and Latvians in the poorest condition still now curse in their hearts their subjugators, the Germans.
+
+<center>– Johann Herder (1790)</center><br>
+<!-- https://www.cambridge.org/core/books/abs/herder-philosophical-writings/letters-for-the-advancement-of-humanity-17937-excerpt-on-patriotism/BA103B1298E4256152A5E038A79806B0 -->
+
+Before the Soviets, the [ruling class](https://en.wikipedia.org/wiki/Estonian_Knighthood) were the ["Baltic Germans"](https://en.wikipedia.org/wiki/Baltic_Germans). They were only around 4% of the national population but ~40% of Tallinn. 
+
+* The word "saks" means both "toff" and "German" (Saxon, _sakslane_). It was the same thing.
+* Some German merchants and clergy arrived peaceably and piecemeal in the C12th. But most of the eventual population were instead imported after the conquest, by the Orders. They were the only landowners and magistrates until well into the Tsarist era. 
+* They were extractive even by the standards of feudalism. TODO They ignored Gustav X ~abolishing serfdom and clawed it back from the Tsar TODO
+* Huh. 1% of the whole country was in the nobility. Surprising:
+<blockquote>in 1897, only [sic] 18.4 percent of all Germans in the city were members of the nobility... nine percent of Germans in Tallinn were of the peasant estate</blockquote>
+<!-- * The Tsarists administered Estonia through the Baltic German nobles and made a late start on Russifying it - as did, surprisingly, the Soviets. -->
+<!-- Down to 0.2% overtly German by now. -->
+* Faberge is probably the most famous of the BGs, which is lucky because there's otherwise Alfred Rosenberg, the head Nazi theorist. (One of the [strangest](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0d8dw,%2Fm%2F0134lc&hl=en) google queries of my life.)
+* It was "[Estophile](https://en.wikipedia.org/wiki/Estophilia)" Germans who started recording and promoting the language. The ur-nationalist Johann Gottfried Herder spent a bunch of time in the Baltics collecting Estonian folk songs and included them in his _Volkslieder_. The "Learned Estonian Society" which ended up creating the nation was cofounded by a [German](https://en.wikipedia.org/wiki/Alexander_Friedrich_von_Hueck). And the major figure of the "[awakening](https://en.wikipedia.org/wiki/Estonian_national_awakening)" (invention) of modern Estonian culture was called [Kreutzwald](https://en.wikipedia.org/wiki/Friedrich_Reinhold_Kreutzwald) (but was not himself German). 
+
+<!-- Do I want to know about the fate of the equally long-standing Estonian Jews? -->
+
+<center>
+	<img src="/img/tamms.jpg" width="25%" />
+</center>
+
+
+<br>
+
+[Here's](https://colab.research.google.com/drive/16II4J8Yy1CoiA9ru6hKkr8XxcKDU5g_U?usp=sharing) some extremely fuzzy population figures for Tallinn which it is irresponsible to use without error bars. <a href="#fn:4" id="fnref:4">4</a>
+
+<img src="/img/tallinnpop.png" />
+
+As usual, the Industrial Revolution population hockeystick hides millennia of fires and plagues and sieges. But actually this time it doesn't manage to hide all of them:
+
+* What's that huge dip around 1940?: The triple catastrophe of the [gulags](https://en.wikipedia.org/wiki/June_deportation), the carpet bombing, and the [Great Flight of 1944](https://vm.ee/en/news/fateful-year-1944-80-years-great-refugee-flight-west).
+* What's that huge dip around 1990?: The first big exodus of Russians (30% gone in 6 years), but also a huge one (25%) of Estonians using those long-awaited open borders. <a href="#fn:7" id="fnref:7">7</a>
+* The above chart does however hide one gigantic tragedy. Now here's the stunning bit: the _proportions of groups_ in Tallinn over time. Notice the German iron grip over the city to 1800 (orange line):
+
+<img src="/img/tallinnprop.png" />
 <br><br>
+
+and then their precipitous decline to almost _zero_ between 1800 and 1920. 
+
+* They pissed of the Tsarists enough to lose self-government around 1890. Then a [third](https://sci-hub.st/10.2307/2499401) of their manors were burned in the revolution of 1905.
+* In 1918, [1300](https://encyclopedia.1914-1918-online.net/article/baltenregiment/) of them signed up to defend Estonia against Germany and Russia; at the very start they were thus one-quarter of the entire national defence league despite being 2% of pop. <a href="#fn:8" id="fnref:8">8</a> But also [10,000](https://en.wikipedia.org/wiki/Baltische_Landeswehr) of them fought the republic, thus dooming the others.
+* Half of them left after the resulting Battle of [Cēsis](https://en.wikipedia.org/wiki/Battle_of_C%C4%93sis_(1919)) (1919) and the land reforms / expropriation of 1920. That is, left if they weren't killed by the nationalists or the looters or the [commune](https://en.wikipedia.org/wiki/Commune_of_the_Working_People_of_Estonia).
+* Most of the remainder left [when the Nazis scared them into it](https://en.wikipedia.org/wiki/German%E2%80%93Soviet_population_transfers), and then suffered greatly in the postwar expulsions. The survivors ended up in (West) Germany and [Canada](https://sites.ualberta.ca/~german/AlbertaHistory/BalticStates.htm). <a href="#fn:9" id="fnref:9">9</a>
+
+
+So a huge part of classical Esthonia - the trading, preaching, ruling, taxing, patronising, modernising German-Estonians - are just gone. Within living memory. As total a collapse as the Ashkenazi Jews in central Europe. <a href="#fn:11" id="fnref:11">11</a>
+
+In a sense, half of Tallinn is missing.
+
+Was this ethnic cleansing? The expropriations were I suppose necessary; their post-WWI disempowerment makes sense given that the Landeswehr had waged civil war against the new, insecure republic. The rest was a tragedy - one [almost](https://communistcrimes.org/en/deportation-germans-estonia-unique-diary-sheds-light-forgotten-crime) completely ignored by history and current Estonian culture.
+
+Is it bad taste to mourn the passing of colonisers, feudalists, _Herrengeist_ self-supremacists? Say that it is; then instead mourn the four-fifths of them who owned no land and no serfs, who lived and worked in peace in a bad system; or if not them even, then rather that fraction whose forebears came unarmed to Tallinn, before the empires, 700 years before being cut at what you must surely, after such a time, call the root.
+
+Fifty years later, in [1999](https://www.webarchiv-server.de/pin/archiv99/3699o03.htm), President Meri said, to the German-Estonians: "_All of you who have roots in Estonia, I say sincerely: a wholehearted welcome back!_". They could not hear him.<br><br>
+
+The BGs did not pass in total silence; they had a real writer documenting the moment: the aristocratic, peripatetic, dodgy philosopher Hermann von Keyserling.
+
+<div class="accordion">
+	<h3>Keyserling</h3>
+	<div>
+		He was something of a Bertrand Russell - bestseller, philosopher, gadfly, aristocrat, internationalist, footloose, proto-hippie loon. He started a little <a href="https://schoolofwisdom.com/about/">new-agey movement</a> with Tagore, Hesse, and Jung before the Nazis shut him down.<br><br>
+		His is exactly the brusque, unapologetic, aristocratic, <a href="https://www.ovid.com/journals/racl/abstract/10.1177/0306396809354444~black-shame-the-campaign-against-racial-degeneration-and?redirectionsource=fulltextview">weirdly racial</a>, weirdly liberal voice of Baltic Germans I was looking for. 1928, before the final deathblow:<br><br>
+		<blockquote>In the summer of 1920 I was allowed for the first time after the war to return to my homeland, Esthonia. I found nothing outwardly changed in Rayküll. Everything was still stand-ing in my house as when I had left it in 1918. The same household again welcomed me, more warmly than ever. All my habits were known and respected... How could it be otherwise? It was only a year and a half since I had left the home of my fathers; I had lived there with-out interruption throughout the World War. And yet a strange wonder fell on me. And in a very few days this wonder was changed into horror. I had returned to my home as a ghost. If I was received in all friendliness even by those who before the revolution had maintained a different attitude, this was the fact that explained it; every one is polite to a ghost; one never knows. And then I was in no wise any longer an earthly reality. Actually it was as if I had returned to my home in the person of my own grandfather; forty years ago the naturally acknowledged owner and master, today out of place in every respect, disturbing the new order of things. Or rather, the discrepancy was a much greater one. In the consciousness of the Esthonians a gulf of centuries divided 1920 from 1918. In 1918 Esthonia did not exist as a nation - the Esthonians were merely the lower class. Now, because of a unique conjunction of historic events, which made it appear desirable to the vic-torious powers to erect the small, independent Baltic states as a bulwark against Bolshevism, a dream which had never been taken seriously came true.<br><br>But why had I for this reason been changed into a ghost? Here was a true case of the irony of fate. In 1918 we Balts had called the Germans into the country, because this was the only way to save it from destruction by the Russians. Thus we had not only created all the culture which the land possessed till then; ours, too, is the credit for its survival during the World War. But we were a thin upper stratum of different race and different language. The trumpet sounded for the uprising of those who had been below. And then the same spirit of Bolshevism, the fear of which had brought about the fulfilment of the dreams of the Esthonians and the Latvians, wrote our death-warrant...<br><br>In spirit the Esthonian revolution was primarily a specialized expression of the Russian... But the Baltic lands belong to the Western sphere of culture...<br><br>But when the Germans occupied the country in 1918, it was as though Esthonia had remained uninterruptedly German. And when the German troops had to leave, in the fall of that year, Esthonia had suddenly become unquestionably Esthonian, and nothing else. Where did the leaders come from? Naturally they were already there, in our midst; but no one noticed them. So completely does everything depend on significance...<br><br>There are, moreover, great numbers of persons who feel instinctively that the day of the significance of the state in the pre-war sense is over and gone. In 1917, when the collapse of Russia threatened, I was debating with myself which particular citizenship would best serve me in the years to come; and the first state that came to my mind was Monaco, because it had the lowest taxes and because all danger of war seemed to be out of the question. Unfortunately I was soon apprized that this exemplary state had made it a principle not to naturalize foreigners... we Balts will certainly not go under as long as we do not become bourgeois.<br><br>The matter-of-factness of the Esthonian is specifically Turanian: so is his tenacity; it is impossible not to recognize here the psychic kinship with the Hungarian and the Turk. On the other hand the Esthonians have a great deal that is Scandinavian and very little that is specifically German in their psychological structure... Today the entire fallacy of the Germanic claim to exclusive worth has been scientifically exposed; it is the Nordic type that matters, whether pure or whether crossed with East Baltic blood, and it is to the latter type that the Esthonians and the Latvians, too, belong...<br><br>
+
+In the case of the Esthonians, this Turanian sobriety goes so far that other than practical questions are simply not understood; they have no ideals at all in the Western sense. We can now understand why the Turanians have always played the rdle of the carriers of the principle of evil (we have only to think of the sagas of Iran); they, more than any one else, really lack what passes, in our world, for soul. But, as I have shown in Wiedergeburt, the socalled evil principle is on the other hand a positive factor in the world’s totality of relationships. It is nothing other than the principle of the Eternal Nay, of limitation, of change and renewal. If it is the principle of destruction, of death, it is at the same time the principle of rejuvenation, of rebirth; that is why all progress began with Cain; to that extent force, if it is to be exerted at all, can only be exerted in the spirit of evil. Thus, whatever the prejudices of the weak may be, the races which are by their nature “evil” are ipso facto the predestined ruling races. He that has not the courage to deny, to say No, bringing death thereby, cannot give form to things, for every affirmative has its correlative negative. We have thus been carried, beyond this digression which was to have justified the actual oppression of the Hungarians, to a justification of the position of advantage which they should in reality occupy. The Hungarians are born rulers.  <br><br>
+
+We have already seen, in connection with Italy, how, in its roots, Fascism is at one with Bolshevism; the closing chapter will show how the spirit of the new America also converges with that of Bolshevism. <br><br>
+
+My father, a sufferer from melancholia, touched with foreknowledge of an untimely death, wrote these lines for the same little grove:<br><br>
+I know, too swift draws near the time
+When I shall meet my doom,
+The fir-trees of a northern clime
+Shall stand about my tomb.
+
+His tombstone still stands there, probably covered by now with moss and hidden by wild undergrowth. Mine will not stand there, but I think of this without bitterness. No one can rob me of my memories. I am conscious, all the same, of my origin. Today, no less than ever, I belong to my homeland, as far as any wanderer on earth can have this feeling, for it is because I am a Balt, and not a German of the Reich, because I belong inwardly to two worlds, a border-dweller in space as well as in time, a Viking and a child of the steppes, carrying within me both the oldest tradition and the remotest future, that I am able to do the things I am doing. May the younger generation of Balts meditate on this... But the true and essential history of my homeland is yet to come.</blockquote><br>
+
+True to aristo form, there is not much resentment or self-pity here. Patronising yes, oblivious yes, overconfident about cultures and nations yes, but what sense of tragedy he has is in context and in perspective. (Of course, this is twenty years before the real catastrophe befalls them.)<br><br>
+
+<!-- https://www.projekt-gutenberg.org/keyserlh/erkennt/erkennt.html -->
+Keyserling is now only cited as the coiner ("in 1922") of the term "Führerprinzip", later abused for the Nazi unquestioned-strongman idea. He does think in essentialist ways which racists also do. But he probably meant personal autonomy, _and_ the term doesn't appear in [the book](https://www.projekt-gutenberg.org/keyserlh/erkennt/) people cite, nor in [his book](Deutschlands wahre politische mission) about Germany. And later [he was publicly and loudly anti-Nazi](https://www.nytimes.com/1932/04/17/archives/keyserling-holds-nazis-unfit-to-rule-philosopher-declares-hostility.html) (in a funny way), and not anti-democracy, not anti-Semitic, and not imperialist. 
+
+<blockquote>Humanity is still unaware of how little power ultimately matters... In which states did the most important intellectual movements originate? Not in the largest and most powerful, but mostly in the small ones, which is especially true of political movements; one considers the small Greek and Italian states, the importance of Belgium and Holland for international law, and recently the increasingly important role that must be attributed to the Nordic empires, Switzerland, and the newly emerging small states in the ideological solution of global political problems.<br><br>Which ancient peoples have left the most lasting influence? The Jews, the Greeks, the Indians, and the Chinese. Power means just as much or as little in the life of people as money does in private life: in itself an advantage because it facilitates the solution of practical problems, it nevertheless possesses no intrinsic value and, once the era of Faustian law is truly over, will no longer be judged by anyone as determining rank... Specific master races, as such always one-sided and narrow-minded, are only necessary as long as their characteristics have not become common property, as long as not everyone can control themselves. Most are far from that point, but it is precisely democratization that is leading inexorably to general aristocratization. A gentleman's attitude is the ideal of all Englishmen and possessed by many; all Americans have gentlemanly features, and most Scandinavians; the other peoples of Europe are rapidly developing in the same direction, and the more rapidly the more political freedom promotes the growth of their sense of dignity. At the end of time, civilized humanity will probably have constituted itself into a federation of free aristocratic republics, some large and, above all, many small ones, since noble pride requires exclusivity...</blockquote>
+Although also
+<blockquote>
+	all or almost all of its basic qualities predestine the German people for leadership in the new socialist world phase. I will not dwell here on the most obvious: its organizational capacity, efficiency, discipline, its sense of competence and authority, which alone should guarantee the creation of an exemplary people's organization. I will only emphasize three of its main features, which are a good indication that Germany will be equal not only to the external, but also to the internal, challenges of the newly posed life problem—main features which in themselves do not accelerate development, but rather slow it down, but which, since they require a profound grasp of every task, are, precisely because of their retarding influence, as soon as development is taking place anyway, in the highest sense promote progress. One is the fundamental aristocratic character of the German people.
+</blockquote>
+
+</div>
+</div>
+
+<!-- Rosenplänter -->
+<!-- Uexkull -->
+
+
+<br>
+
+## National "Awakening"
+
+<center>
+	<img src="/img/tallinnwood.jpg" width="90%" />
+</center>
+
+
+> 1918 – The Republic of Estonia is born. Päts cuts the umbilical cord, Konik breastfeeds it and Vilms sews the diapers. Drunk, Tõnisson plays the gramophone at the baptism.
+
+<center>– Ivan Orav </center>
+<br>
+
+* The national culture is as usual a post-hoc confection. Maybe unusually so.
+	* We mostly lost the pre-Christian culture. As in England and all other New Age lands, there is though a thriving [pseudo-mythology](https://et.wikipedia.org/wiki/Pseudom%C3%BCtoloogia) and a tiny [neopagan nonsense](https://et.wikipedia.org/wiki/Taarausk).
+	* Or even the Christian culture
+	> In 1525, the first Estonian language book was printed. It contained a religious Lutheran text which, however, never reached its intended readers, as it was immediately censored and all printed copies were destroyed.
+	* First extant real passage of Estonian language _ever_ is from 1530. It's 150 words.
+	<!-- * grenzstein is a bit of a boogeyman for suggesting that maybe we don't need nations, Eesti küsimus -->
+	* "7/8ths" of the [national epic](https://en.wikipedia.org/wiki/Kalevipoeg) are a C19th pretence. This seems like an underestimate.
+
+* This and the current Russian aggro goes a long way to explaining their Small Nation fervour.
+
+
+<!-- https://deepbaltic.com/2017/11/06/naissaar-estonian-island-of-women-independent-socialist-republic/ -->
+
+## Gulag, bombing, Flight (1940-1944)
+
+1998 International Commission for the Investigation of Crimes Against Humanity. (Not Truth and Reconciliation.)
+
+"Gulag 113"
+
+1940: surrounded
+Astroturfing
+Gulag 
+Nazi purge
+Gulag 
+Some of them redeported after making it home
+
+
+<!-- Norman Davies claims that _every_ senior prewar Estonian officer died, in combat or at the hands of the NKVD. Counterexample: https://en.wikipedia.org/wiki/Alfons_Rebane -->
+
+
+## The Estonian SSR (1944-1991)
+
+<center>
+	<img src="/img/kgb.png" width="50%" border="1px black" />
+</center>
+
+
+> The Soviet Russians did what had been impossible for 700 years. They made the Estonians love the Germans.
+
+<center>- Lembit Opik</center>
+
+
+https://en.wikipedia.org/wiki/Yestonians
+
+28 years of Kabin! https://en.wikipedia.org/wiki/Johannes_K%C3%A4bin
+
+In a familiar bit of wilful Stalinist perversity it was called the liberation.
+
+
+> By the late 1940s and the early 1950s, the Forest Brothers were provided with supplies, liaison officers and logistical coordination by the British (MI6), American and Swedish secret intelligence services. That support played a key role in directing the Baltic resistance movement, but it diminished significantly after MI6's Operation Jungle was severely compromised by the activities of British spies (Kim Philby and others) who forwarded information to the Soviets and enabled the [KGB] to identify, infiltrate and eliminate many Baltic guerrilla units 
+
+Philby!
+
+<!-- * Lennart Meri was another of eastern Europe's intellectual-leaders. Havel. -->
+
+
+<!-- * Overall the Tsarists and the Communists got unlucky with timing: there were only about 30 years of language Russification (replacing the previous Germanisation) and then 13 years more (1978??-1991). -->
+
+
+* Solzhenitsyn wrote _the Gulag Archipelago_ in Estonia, and two Estonians...
+<!-- Invisible Allies the estonians -->
+
+
+* Estonia was the first of the Soviets to declare sovereignty (not independence) in 1988. https://en.wikipedia.org/wiki/Estonian_Sovereignty_Declaration
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7Em19GgZmzPz5bOgT3jBAP?utm_source=generator" width="100%" height="252" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<!-- ## Comedy interlude -->
+<!-- * What does "LV" mean on the license plates of Latvian cars? – "Extra toe" ("Lisa Varvas"). -->
+
+<br>
+
+
+<!-- <div class="accordion">
+<h3>Grenzstein</h3>
+<div>
+	Something of a boogeyman among the Estonian intelligentsia.
+	founded the newspaper Olevik, which become one of the most important Estonian newspapers of the period.
+	Censored by the Tsarists, the nationalists, and the Soviets.
+	national nihilism
+	"Eesti küsimusest"
+	Uus hommik
+	Ado Grenzsteini lahkumine - Tuglas
+	https://web.archive.org/web/20150203191945/http://www.sirp.ee/s1-artiklid/c9-sotsiaalia/kiusaja-grenzstein/
+</div>
+</div>
+ -->
+
+## 1991-Now
+
+<center>
+	Up to around 1700:<br>
+	<img src="/img/tallinn1.jpg" />
+	<br>Up to around 1920:<br>
+	<img src="/img/tallinn2.jpg" />
+	<br>Up to 2025:<br>
+	<img src="/img/tallinn3.jpg" />
+</center>
+
+Architecturally it's a lovely mix of styles, all intact:
+
+Hansa 
+<img src="/img/Tallinna_vanalinn_päikesetõusu_ajal.jpg" />
+
+C19th wood
+
+<img src="/img/tallinnwood.jpg" width="70%" />
+
+Khrushchevska:
+
+<img src="/img/mustame.jpg" />
+
+White brick
+
+<img src="/img/tallinnwhitebrick.jpg" width="70%" />
+
+
+
+Scandi corpo
+
+<img src="/img/caption.jpg" />
+
+
+<br>
+
+* Estonians aren't as gloomy as Scots, despite having more to complain about [in general](https://en.wikipedia.org/wiki/List_of_disasters_in_Estonia_by_death_toll) and in living memory. Post-traumatic growth maybe.
+
+> "[What are Latvian stereotypes about Estonia?] Slow, pale, considerate, blond, quiet, skiers"
+
+> Tallinn has definitely come a long way since 1991 when the only spices you could find would be salt, black pepper, and dried laurel leaves while the only fresh herb was dill – annoying and ever-present. For the record, it is still tough to see fresh coriander (cilantro) in winter as it is so hard to grow even in greenhouses.  Over these last few decades, Estonian taste buds have also **evolved**: I remember when my friends would complain when I put a little too much black pepper in my Italian tomato sauce as that was just “too spicy” for them
+
+
+* The first pizza ever served in Tallinn seems to have been [1989](https://flatfish.ee/2018/07/18/fulfilling-the-pizza-plan/). (I _love_ this blog.)
+
+* This post is supposed to be about Tallinn, so I will miss a lot of what makes Estonia itself.
+	* e.g. it's not a small country, it's a big country with a small population. They have _half_ (!) the population density of Scotland, itself one-fifth of England. 
+	* e.g. the capital has 1/3 of the the population, making Estonia the [11th](https://en.wikipedia.org/wiki/List_of_national_capitals_by_population) most top-heavy country in the world. (Ignoring city states and islands.) 
+	<!-- * Land in the south is incredibly cheap, sometimes as little as $1 per square metre. (Admittedly without water or electricity, and years to get water hooked up. Wells are still much in evidence.) -->
+	<!-- * Everyone knows about free busses in Tallinn, but it's free to bus around the countryside too (for residents). -->
+	<!-- * 25% maamajad??? -->
+
+* Quite unfriendly, like Finns. I wonder about "post-Soviet damage to social fabric". Easy to think why having the NKVD around every corner would damage ambient trust levels. But what actually is it?
+	<!-- * Doesn't seem very corrupt -->
+
+* Very twee. 
+	* The biggest event every four years are the Song and [Dance](https://www.youtube.com/watch?v=xReUEc7tp2g) Festivals. [3%](https://2025.laulupidu.ee/en/general-information/fun-facts/) of the country _participate onstage_; another 6% watch (assuming 10,000 of the audience are tourists).  
+	* Obsessed with gardens and nature walks and mushroom-picking and jam-making and such. Hobbity.
+
+* In other ways very Haute European, what with the mid-size city with an opera house, and the tracked schools producing Excellence in the form of kids with signet rings
+
+* Going off census data it's the [third-most](https://en.wikipedia.org/wiki/List_of_countries_by_irreligion) irreligious country in the world (but this measure misses China amongst others).
+
+
+## _Eesti venelased_ (the Russian-Estonians)
+
+A huge sore point.
+
+* The Russian-Estonians are 21% of the national population, and a bit more in Tallinn. (This is the level _after_ 30% of them left the country in the nineties and _after_ another 10% of them left since 2022.)
+* Their underprivilege is obvious and openly acknowledged: if I'm reading [this](https://andmed.stat.ee/en/stat/sotsiaalelu__tooturg__tootud__aastastatistika/TT71/table/tableViewLayout2) right, unemployment is 3% in Estonians and 7% in Russian-Estonians.
+* Estonia is not an ethnostate - for instance Ukrainians are welcome at scale. But for this one group, the REs, it is distressingly like an ethnostate.
+	* 59% of them have Estonian passports, 23% have Russian passports, and a full 17% are still stateless thirty years on.
+	<!-- https://andmed.stat.ee/et/stat/rahvaloendus__rel2021__rahvastiku-demograafilised-ja-etno-kultuurilised-naitajad__kodakondsus/RL21424 -->
+	https://en.wikipedia.org/wiki/Estonian_alien%27s_passport
+	https://www.theparliamentmagazine.eu/news/article/estonias-move-to-strip-russians-of-their-right-to-vote-rehashes-complicated-questions-of-belonging
+	* Part of it is the language requirement for citizenship. (Again, this is one of the most distant languages from English in the world, up there with Korean. Distance from Russian, I don't know, but also not close.) One of my Russian friends is going through the classes and doing pretty well; maybe 4 years of night classes for a brilliant person like her. 
+	* I can't find a measure of the geographical segregation but it's pretty dramatic. There are a few majority-Russian towns: Narva and Jõhvi. This presents Moscow a juicy casus belli.
+	> "We need to restore trust between the country of Estonia and Narva.”
+
+
+* It's not just structural. Many Estonians bear a personal grudge towards Russians in general, from their Soviet years. The intensity and [essentialism](https://www.jstor.org/stable/26646218) is disconcerting and (obviously) nothing like the Scottish-"vs"-English thing I am used to. 
+* Most of them are not vatniks. [Partial evidence](https://www.theguardian.com/world/2022/aug/22/always-looking-shoulder-anxiety-estonia-russians-tallinn): 
+> A recent survey found that around a third of those who identify as Russians in Estonia agree with the relocation of Soviet monuments from public places to museums.
+
+* There is a [slur](https://en.wikipedia.org/wiki/Tibla), but in fairness we should mention the [counterslur](https://en.wikipedia.org/wiki/Chukhna).
+* [About 10%](https://eurydice.eacea.ec.europa.eu/news/estonia-action-plan-approved-transition-estonian-language-education) of schools are still Russian-language, which presumably doesn't help. They're [going for](https://www.euronews.com/my-europe/2025/02/19/estonia-phases-out-russian-as-a-language-of-instruction) Estonian-only in the next few years.
+
+Apart from history, apart from one riot, why the distrust?:
+
+* In 2008, the [head](https://en.wikipedia.org/wiki/Herman_Simm) of the Estonian NSA was convicted of being a Russian spy. 
+* The first post-Soviet prime minister was (later, as mayor of Tallinn) a fantastically corrupt Russian asset. https://en.wikipedia.org/wiki/Edgar_Savisaar
+* [Honeypots and extraterritorial fuckery continue.](https://www.theatlantic.com/international/archive/2019/06/estonia-russia-deniss-metsavas-spy/592417/) 
+* Some of the largest cyberattacks in history
+* I recall that someone in the Russian quarter, Lasnamäe, set off fireworks on the night Ukraine was invaded. (Which is banned, as it happens.) But this only took one idiot or plant to make the whole group look terrible. 
+	* Note that after the [2007 riots](https://en.wikipedia.org/wiki/Bronze_Night), some REs left bunches of flowers outside their neighbours' doors, by way of apology for the young men.
+
+
+
+Estonia is the buffer between Europe and Russia (ignoring Kaliningrad). The wall. NATO's bare face. This one fact explains a lot.
+
+
+https://www.atlasobscura.com/things-to-do/tallinn-estonia
+
+
+http://thetallinncollector.com/
+
+
+## The best of Tallinn
+
+
+
+
+* **Poet**: Kaplinski. Betti Alver or Arvi Siig
+* **Novelist**: Jaan Kross 
+<!-- Tõnu Õnnepalu, Peeter Sauter, Ene Mihkelson, Andrus Kivirähk, Mats Traat -->
+* **Novel**: 
+<!-- Hanuman's Travels -->
+<!-- * **Living writer**: Robert Kurvitz. -->
+* **Videogame**: _<a href="/disco">Disco Elysium</a>_. One of the five best ever made. Games are a huge team thing but most of the auteur juice is from Tallinn: Kurvitz, Tuulik, Hindpere, Rostov.
+<img src="/img/disco.jpeg" width="40%" />
+* **Memoir**: 
+* **Blog**: [Flatfish](https://flatfish.ee/), by American expat Eric Johnson. He's been here since Soviet times, paying close attention to the food. Wonderful. http://elm.estinst.ee/ is good. [This one's](https://vellovikerkaar.blogspot.com/2010/07/normaalne.html) pretty good too.
+* **Art**: 
+* **Art music**: Pärt
+* **Popular music**: Vennaskond 
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4ZUniHnmEp0hvSWpwqWo97?utm_source=generator" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+* **Philosopher**: Jakob von Uexküll. Juri Lotman. Nicolai Hartmann.
+* **Scientist**: Jaak Panksepp, Jakob von Uexküll, Svante Pääbo, Ernst Öpik
+* **Polymath**: Madis Kõiv. Jakob von Uexküll
+* **Modernist**: 
+* **Philanthropist**: Jaan Tallinn
+* **Entrepreneur**: Jaan Tallinn or Taavet Hinrikus
+* **Cosmopolitan**: Hermann Keyserling, in a weird way.
+* **Radical**: 
+<!-- * **Socialist**: -->
+* **Monk**: [Ljutjuk](https://en.wikipedia.org/wiki/Anatoli_Ljutjuk)
+* **Eccentric**: [Uku Masing](https://en.wikipedia.org/wiki/Uku_Masing). English Wikipedia slanders him remarkably, "Masing was known for his anti-German sentiment, which was the core of what at times was his general dislike of the Indo-European people (whom he sometimes called 'ethnic garbage' and referred to as Indo-Germanic people".
+<!-- * **Evildoer**: Pats. -->
+* **Comedian**: 
+* **Director**: 
+* **Film**: 
+* **Screenwriter**: 
+* **Play**: 
+* **TV**: 
+* **Actor**: 
+* **Archaeologist**: 
+* **Restaurant**: Radio
+* **Delicacy**: Küüslauguleivad (fried garlic rye sticks). Muhu bread.
+* **Building**: Zellulosi. Tondi barracks. 
+www.postimees.ee/6977805/pulss-mida-teate-tallinna-tondist 
+et.wikipedia.org/wiki/Tondi_s%C3%B5jav%C3%A4elinnak
+www.aripaev.ee/uudised/2018/02/01/zelluloosi-kvartalist-saab-fahle-park
+* **Street**: 
+* **Church**: 
+* **Architect**: Aleksandr Jaron.
+* **Walk**: 
+* **Library**: I don't like the national library much. Too staliny.
+* **Shop**: 
+* **Bookshop**: Rüütel & Matilda. 
+* **Venue**: Jaanikirik? does gigs a few times a year.
+* **Pub**: Shamrock for karaoke. Shooters is shut now.
+* **Cafe**: Must Puudel for the Soviet thing. Kehrwieder for medieval vibes. Maiasmokk is the real Viennese thing.  
+
+
 
 
 > It's not worth destroying good memories.<br>
@@ -73,145 +564,25 @@ I wish you good memories.
 
 <center>– Arvi Siig</center>
 
-<br>
+> A black shadow behind the pane across the ceiling.<br>
+The kettle hums and strains. The pan won't be appealing.<br>
+Wind rattles these squares, branches from the avenue.<br>
+My body pallid for years. The rain speaks Latin too.<br>
+Mum won't look about, won't rattle the door.<br>
+She's cutting me shoes out of boots long-worn.<br>
+My father's reading the paper for Africa news<br>
+About Rothschild's rich caper, king of angels too.<br>
+Go crazy or go grey, your wage won't give you wings.<br>
+They hiked prices today. In Turkey the earth is shaking.<br> 
+You order the paper and look - gossip and slander!<br>
+But the bigguns have their big boots. I'll stay small and meander...<br><br>
+Who wipes away sweat gets soap on the spot.<br>
+Who sighing buys sprats gets herrings by lot.<br>
+Whose skirt is in tatters or sleeve tarred with grime –<br> 
+Fear not such matters: our cloth shelf's sublime.<br>
+Let the goods fly... See ya!<br>
 
-> Estonia. A dark, tiny, angry, improbably stylish place where Tarkovsky filmed his undying masterpiece Stalker and Nolan also tried to do something with Tenet.
-
-<center>– Robert Kurvitz</center>
-
-<br>
-
-I've spent a year of fortnights in Tallinn. That's not enough to be a local, to grok the city as I did in my other city posts, but it's enough to feel and know something.
-
-The single icon which comes to mind is clubbers tottering along the street on heels in miniskirts in -20°C, when my own longjohned thighs were starting to seize up. Or cordite smoke as the fireworks with their fuses snipped explode just above the khrushchevka roofs. (For your westerners, that's a "5-over-1", but grimmer.)
-
-It's pretty impenetrable. The culture isn't well-covered even in Estonian, and pathetically poorly in English. (I looked in vain for a decent translation of Juhan Liiv, a national treasure, like Burns and Dickinson in one.) There's a sense that they had to rebuild or concoct a nation after centuries of Russification.
-
-<img src="/img/Tallinna_vanalinn_päikesetõusu_ajal.jpg" />
-<img src="/img/mustame.jpg" />
-<img src="/img/caption.jpg" />
-
-## Then
-
-* The country is 56% forest and swamp. (They are very proud of the swamps, supposedly because it's where you hid when the Swedes or Danes or Germans or Russians came.) 
-
-* The language, as everyone knows, is deeply non-European - ultimately from Siberia. But their genetics don't match; modern Estonians are down to just [5%](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1522-1) Uralic "ancestry component".
-	* There's a notable minority language in the south, the Võro-Seto. About 10% of pop.
-	* The former president's beloved book about the origins of the Estonians is [wrong](https://news.postimees.ee/4206443/scientists-overturn-meri-s-5-000-years-hypothesis). 
-
-<center>
-	<img src="/img/ural.png" width="60%" />
-</center>
-
-* It's a travesty to say that it's culturally halfway between Germany and Russia.
-
-* An old trick still in use: Innocent III declared a crusade against Livonia (Latvia and Estonia), nominally "to protect the Christians of Livonia" (to seize the trade routes and install puppets). It took the Germans and Danes 20 years to conquer and christianise it.
-	* After the fact they justified the invasions by calling the region "Terra Mariana", Mary's Land. A notably cynical move even in that cynical time.
-
-* Tallinn first appears to history on being conquered by the Danes in 1219. (_Taani-linna_ is "Danish-castle".) They sold it to the Teutons in 1346. When the Teutons and Livonians cracked up, in 1561 the city (the ~German nobles in control) voluntarily became Swedish. In 1721 the Swedish city surrended to Russia. Estonia proper appears on 21 February 1918, when they hastily declared independence from Russia; the kaiser invaded the new republic four days later, but the Germans withdrew him nine months after that. Following right behind the German withdrawal, the Bolsheviks [had a go](https://en.wikipedia.org/wiki/Soviet_westward_offensive_of_1918%E2%80%931919) at them and at the same time the Freikorps and the Baltic nobles [had a go](https://en.wikipedia.org/wiki/Battle_of_C%C4%93sis_(1919)). 20 years of Estonia pass until the Russians came back in 1940, and until the Germans came back in 1941, and until the Russians came back again in 1944 and that was that until 1991.
-	* https://en.wikipedia.org/wiki/Era_of_Silence
-
-> By the late 1940s and the early 1950s, the Forest Brothers were provided with supplies, liaison officers and logistical coordination by the British (MI6), American and Swedish secret intelligence services. That support played a key role in directing the Baltic resistance movement, but it diminished significantly after MI6's Operation Jungle was severely compromised by the activities of British spies (Kim Philby and others) who forwarded information to the Soviets and enabled the [KGB] to identify, infiltrate and eliminate many Baltic guerrilla units 
-
-* Reval. Hansalige.
-
-* Lennart Meri was another of eastern Europe's intellectual-leaders. Havel.
-
-* The first pizza ever served in Tallinn seems to have been [1989](https://flatfish.ee/2018/07/18/fulfilling-the-pizza-plan/). (I _love_ this blog.)
-
-<center>
-	<img src="/img/kgb.png" width="50%" border="1px black" />
-</center>
-
-## Comedy interlude
-
-
-* What does "LV" mean on the license plates of Latvian cars? – "Extra toe" ("Lisa Varvas").
-
-<img src="/img/slow.png" />
-
-## Now
-
-<img src="/img/disco.jpeg" width="70%" />
-
-* Some notes on the countryside
-	* Half the population density of Scotland, itself one-fifth England. Great for people who don't like people.
-	* Land in the south is incredibly cheap, sometimes as little as $1 per square metre. (Admittedly without water or electricity, and years to get water hooked up. Wells are still much in evidence.)
-	* Everyone knows about free busses in Tallinn, but it's free to bus around the countryside too (for residents).
-	* 
-
-* Very twee. 
-
-* In other ways very Haute European, what with the opera house in a tiny city, and the tracked schools producing Excellence in the form of kids with signet rings
-
-* The Russian Estonians are a sore point.
-	* 21% of the total population. Most are not vatniks.
-	* Many Estonian adults bear a personal grudge from their Soviet years. For instance, my girlfriend's dad remembers the time some drunk Russians ran over his tent in a tank. 
-	* It's not apartheid but . Russians
-	* https://en.wikipedia.org/wiki/Estonian_alien%27s_passport
-	* There are a few majority-Russian towns. Narva, Jõhvi. This presents Moscow a juicy casus belli.
-	* In 2008, the [head](https://en.wikipedia.org/wiki/Herman_Simm) of the Estonian NSA was convicted of being a Russian spy. He got 12 years.
-	* The first post-Soviet prime minister was (as mayor of Tallinn) a fantastically corrupt Russian asset. https://en.wikipedia.org/wiki/Edgar_Savisaar
-	* https://www.theatlantic.com/international/archive/2019/06/estonia-russia-deniss-metsavas-spy/592417/
-	* I recall that someone in the Russian quarter, Lasnamäe, set off fireworks on the night Ukraine was invaded. But it only took one idiot to make the whole group look terrible.
-
-
-https://www.atlasobscura.com/things-to-do/tallinn-estonia
-http://thetallinncollector.com/
-
-
-## The best of Tallinn
-
-
-* **Writer**: Robert Kurvitz.
-* **Poet**: Kaplinski. Betti Alver or Arvi Siig
-* **Novelist**: Jaan Kross
-* **Novel**: 
-* **Memoir**: 
-* **Blog**: [Flatfish](https://flatfish.ee/) by the Italian-American expat Eric Johnson. He's been here since Soviet times, paying close attention to the food. Wonderful.
-* **Art**: 
-* **Art music**: Pärt.
-* **Popular music**: Vennaskond. Ruja.
-
-<iframe data-testid="embed-iframe" style="border-* **radius**:12px" src="* **https**://open.spotify.com/embed/playlist/4ZUniHnmEp0hvSWpwqWo97?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-* **Philosopher**: Juri Lotman
-* **Scientist**: Jaak Panksepp, Jakob von Uexküll, Svante Pääbo, Ernst Öpik
-* **Modernist**: 
-* **Philanthropist**: Jaan Tallinn
-* **Entrepreneur**: Jaan Tallinn or Taavet Hinrikus
-* **Cosmopolitan**: 
-* **Radical**: 
-* **Socialist**:
-* **Monk**: https://en.wikipedia.org/wiki/Anatoli_Ljutjuk
-* **Eccentric**: https://en.wikipedia.org/wiki/Uku_Masing his general dislike of the Indo-European people
-* **Evildoer**: 
-* **Comedian**:
-* **Director**: 
-* **Film**: 
-* **Screenwriter**: 
-* **Play**: 
-* **TV**: 
-* **Videogame**: 
-* **Actor**: 
-* **Archaeologist**: 
-* **Restaurant**: Mantel ja Korsten in the park.
-* **Delicacy**: Küüslauguleivad (fried garlic rye sticks). Muhu bread.
-* **Building**: Zellulosi. Tondi barracks. * **https**://www.postimees.ee/6977805/pulss-mida-teate-tallinna-tondist * **https**://et.wikipedia.org/wiki/Tondi_s%C3%B5jav%C3%A4elinnak
-* **https**://www.aripaev.ee/uudised/2018/02/01/zelluloosi-kvartalist-saab-fahle-park
-* **Street**: 
-* **Church**: 
-* **Architect**: Aleksandr Jaron.
-* **Walk**: 
-* **Library**: 
-* **Shop**: 
-* **Bookshop**: Rüütel & Matilda. I struggled in vain to find a decent translation of Liiv.
-* **Venue**: 
-* **Pub**: Shamrock for karaoke. Shooters is shut now.
-* **Cafe**: Must Puudel for the Soviet thing. Kehrwieder for vibes. Maiasmokk is the real Viennese thing.  
-
-
-> Tallinn has definitely come a long way since 1991 when the only spices you could find would be salt, black pepper, and dried laurel leaves while the only fresh herb was dill – annoying and ever-present. For the record, it is still tough to see fresh coriander (cilantro) in winter as it is so hard to grow even in greenhouses.  Over these last few decades, Estonian taste buds have also **evolved**: I remember when my friends would complain when I put a little too much black pepper in my Italian tomato sauce as that was just “too spicy” for them
+<center>– <a href="https://sasslantis.ee/lyrics-vaiko_eplik-l_hen_m_jaks">Betti Alver</a> (1965)</center>
 
 
 Is Tallinn ready?
@@ -221,3 +592,47 @@ Is Tallinn ready?
 
 * https://www.gleech.org/disco
 * http://thetallinncollector.com/
+* Acknowledgment to Kristi Uustalu
+
+
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+    	"Brushing your teeth was still considered Juniper-German in Estonia in the 1940s"
+	</li>
+	<li class="footnote" id="fn:2">
+		That slim blue line is the <a href="https://en.wikipedia.org/wiki/Saint_George%27s_Night_Uprising">St George uprising</a> - surprisingly well-coordinated for a one-month-long peasant's uprising. They sent emissaries inviting both the Swedes and the Russians to come take the land off the Danish/German landlords.<br><br>
+		One of the many fishy things about the historical record here: how did both of those armies make it to Estonia within three weeks of the uprising starting? Didn't things take a while on Medieval roads?
+	</li>
+	<li class="footnote" id="fn:3">
+		"Before 1918, when Estonia became an independent country, around half of the country's ethnic Estonian population carried foreign language (mostly German)... surnames. In the 1920s, and especially in the 1930s, the government promoted a nationwide voluntary... campaign about 200,000 Estonian citizens chose a new surname to replace their original family name."
+	</li>
+	<li class="footnote" id="fn:4">
+		That said, Table 1 <a href="https://digitalcommons.newhaven.edu/cgi/viewcontent.cgi?article=1004&context=history-facpubs">here</a> was exactly what I was looking for and so we have 7 real data points (1844-1925) and also a bunch of real data points (2000-2025). The rest are basically guesses.
+	</li>
+	<li class="footnote" id="fn:5">
+		I'm skipping over the Russian-Estonians here but will get to them.
+	</li>
+	<li class="footnote" id="fn:6">
+		For westerners, that's a "5-over-1", but grimmer.
+	</li>
+	<li class="footnote" id="fn:7">
+		I did also do a joke version of this which included passing hosts of military as population (like the 195,000 Red soldiers of the 1944 <a href="https://en.wikipedia.org/wiki/Tallinn_offensive">Tallinn Offensive</a>) but I tired of myself in time before posting it.
+	</li>
+	<li class="footnote" id="fn:8">
+		Some of this would have been simple anti-Red sentiment rather than republicanism. 
+	</li>
+	<li class="footnote" id="fn:9">
+		Others are maybe still around Estonia, in hiding, "<a href="https://en.wikipedia.org/wiki/Estonianization">Estonized</a>". 
+	</li>
+	<li class="footnote" id="fn:10">
+		You might ask if LLMs make this moot - surely anything covered online in any language is now equally covered for a savvy user? But I have struggled to get much value out of them in researching this post, maybe because a mere 1-5 instances isn't enough to stick in the weights properly.
+	</li>
+	<li class="footnote" id="fn:11">
+		To be painstakingly clear: this branch of the world atrocity involved a hundred-times fewer people.
+	</li>
+</ol>

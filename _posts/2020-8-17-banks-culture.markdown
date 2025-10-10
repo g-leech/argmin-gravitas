@@ -373,6 +373,10 @@ Big reasons for hope:
 * Yudkowsky, '<a href="{{yud}}">The amputation of destiny</a>'
 * Sandifer, '<a href="{{sandifer}}">Cultural Marxism 1: _Consider Phlebas_</a>'
 * Jacobs, '<a href="{{jac}}">The ambiguous utopia of Iain M Banks</a>'
+* Boris, '[Culture as Dystopia](https://www.boristhebrave.com/2025/09/14/the-culture-novels-as-a-dystopia/)'
+* Byrne, '[Malthusianism](https://byrnehobart.medium.com/warhammer-40k-and-the-culture-post-and-neo-malthusianism-in-the-far-future-b8fe8267b51f)'
+* McLeod, '[vid](https://www.youtube.com/watch?v=jgyC7qs09K4)'
+* Gillis, '[anarchism](https://humaniterations.net/2008/08/13/a-few-notes-on-the-culture-anarchism/)'
 * <a href="{{em}}">_The Age of Em_</a> is the hardest social science fiction I know, albeit written as nonfiction. What do our best nonphysical theories imply?
 * [Can Liberalism Survive Without a Wolf at the Door?](https://www.nytimes.com/2022/04/09/opinion/ukraine-russia-liberalism-religion.html)
 * https://www.learningfromexamples.com/p/culture-shock

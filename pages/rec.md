@@ -33,7 +33,7 @@ visible:	false
 ## Listen
 <div class="container">
 	<a href="{{album}}">{% include fa/record-vinyl-solid.svg %}</a>
-	<a href="{{album}}">Albums</a>. (or the <a href="{{maxent}}">max entropy version</a>.)
+	<a href="{{album}}">Albums</a>. (<a href="{{maxent}}">max entropy version</a>.)
 </div>
 
 
