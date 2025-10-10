@@ -37,7 +37,7 @@ where:      "Aberdeen"
 </blockquote>
 -- A Midsummer Night's Dream
 
-<br><br><br>
+<br><br>
 
 <blockquote>Shut it, 'Love Actually'!</blockquote>
     -- <a href="http://www.youtube.com/watch?v=wa3eoMnMC80">Jamie McDonald</a> 
@@ -57,7 +57,7 @@ We are obsessed with love as much as our lovers. But there's a difference betwee
 <!-- mawk is unguarded sentimentality, and I've been trying for readable unguardedness for some time now. -->
 
 
-If anything at all does not qualify for cold, crackly analytic attention, then the unspeakable analysandum, love, is it. Because 1) it's holistic if it is anything; because 2) it seems small from outside; because 3) it is, fundamentally, <em>uncomfortable to read about.</em> (But nothing doesn't qualify.)
+If anything at all does not qualify for cold, crackly analytic attention, then the unspeakable analysandum, love, is it. Because 1) it's holistic if it is anything; because 2) it seems small from outside; because 3) it is, fundamentally, <em>uncomfortable to read about.</em> But nothing doesn't qualify.
 
 As a culture we haven't moved on from (or even reached the level of) the <a href="http://en.wikipedia.org/wiki/Greek_words_for_love">four Greek words</a>, and we seem to be torturing ourselves over a vague mire borne of half-successful feminism and runaway adolescent bullshit. Speaking of which:
 
@@ -132,9 +132,16 @@ Nietzsche went on about how love is actually an expression of the “deadly hatr
 Others agree that it's all an evolutionary and socially oppressive structure - an act of sublimated violence, and a base urge for control, possession and a steady supply of fucking.<a href="http://www.fallacyfiles.org/genefall.html"> (Genetic fallacy...)</a></div><div align="left"></div><div align="left"></div><div align="left"></div><div align="left">
 With all due respect to the social sciences and the Marxist feminists, and despite the uncontested correctness of some of the above, excuse me while I hold on to my intuitions for once, and get my coat. </div>
 
+## 4. an explanation which sounds like critique
+
+> you fall in love because it tricks you into performing all kinds of visible displays of being fixated/being taken, which signal to third-parties that they should stop pursuing you.
+
+[A signaling-to-alternatives account of the commitment
+device hypothesis](https://labs.la.utexas.edu/buss/files/2025/03/Gelbart-et-al.-2025-The-Function-of-Love.pdf?utm_source=substack&utm_medium=email)
+
 <br>
 
-## 4. "Volo ut sis" (I want you to be)
+## 5. "Volo ut sis" (I want you to be)
 
 "volo ut sis", misattributed to St Augustine <a href="http://thescottishenlightenment.com/">:</a> supposed to be his name for ideal love. caritas, agape; God's love.
 

@@ -21,9 +21,11 @@ At various points I have been a waiter, a fruit picker, a 白猴子, a bookselle
 
 <!-- I am not a [philosopher](https://www.gleech.org/no-philosopher) or a [classicist](https://www.gleech.org/rats-and-trads). -->
 <!-- I sometimes <a href="/deaths">speak for the dead</a>. -->
+<!-- In college I studied Irreverence Studies, Applied Philosophy of Science, Capitalist Missiology, the vertiginous terror of manifesting machinery out of pure ideas, and Mindless Mind Creation. -->
 
 I am not presently under any externally-imposed restriction to my speech which legally prevents me from revealing its existence. No text computer-generated unless explicitly indicated. All text subject to change (but public <a href="https://github.com/g-leech/argmin-gravitas">git tree</a>). I specifically authorise you to plagiarise my posts. 
 
+My current system prompt is: <a href="#fn:19" id="fnref:19">19</a>
 
 
 {%	include about/random_faves.html	%}

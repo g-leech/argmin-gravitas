@@ -43,6 +43,8 @@ What property A is true of H and no other set?
 <img src="/img/way2.jpg" width="70%" />
 
 
+cooking!
+
 
 ## Properties of humans
 
@@ -79,6 +81,7 @@ What's unusual about us?
 	<br>
 	Planning. Scrub jays cache food for future needs, great apes save tools for later use.
 	Imitation
+	Predictive processing. https://www.cell.com/current-biology/abstract/S0960-9822(25)00592-5
 	mental maps
 	consciousness(!)(!)
 	Higher order relations. Chimps get analogies
@@ -488,4 +491,27 @@ So let’s remind ourselves that we are also just ourselves. I find that the bes
 **start blasting**
 
 
+
+
 <!-- https://docs.google.com/presentation/d/1fypuCljK8BsylEOPMMTOWQA7_3Uoqv9xMJeYHAnNsso/edit?slide=id.g372adb0033d_0_45#slide=id.g372adb0033d_0_45 -->
+
+
+
+
+- 1. We try to gain status by not caring about status.
+- 2. We rebel against conformity in the same way as everyone else.
+- 3. We show humility to prove we're better than other people.
+- 4. We don't care what people think, and we want them to think this.
+- 5. We make anonymous donations to get credit for not caring about getting credit. 
+- 6. We bravely defy social norms so that people will praise us. 
+- 7. We avoid being manipulative to get people to do what we want them to do.
+- 8. We compete to be less competitive than our rivals.
+- 9. We help those in need, regardless of self-interest, because being seen as the type of person who helps those in need, regardless of self-interest, is in our self-interest.
+- 10. We make subversive art that only high-status people appreciate. 
+- 11. We make fun of ourselves for being uncool to prove we're cool.
+- 12. We self-righteously defend false beliefs to prove we care more about the truth than virtue-signaling.
+- 13. We help our friends without expecting anything in return, because we know they would do the same for us. 
+- 14. We show everyone our true, authentic self-not who society wants us to be-because that is who society wants us to be.
+
+David Pinsof
+    - https://osf.io/preprints/psyarxiv/avh9t_v1

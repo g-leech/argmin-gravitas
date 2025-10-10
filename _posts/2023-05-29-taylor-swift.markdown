@@ -63,7 +63,7 @@ I think it's because I am seeing a machine (<a href="{{c1}}">a series</a> <a hre
 
 Call the machine <a href="{{trademark}}">TS</a>. The interesting part is that Swift the human built TS the machine and to some extent controls it. A _self_-manufactured pop star: Swift obscures the machine, equivocates, and feeds it vast hosts of people (fans, co-writers, arrangers, choreographers, crew, squad, boyfriends, enemies, bloggers). The project is reflexive: it makes songs about its own controversies, songs which lead to more fame, fame which automatically produces more controversies.
 
-TS presents itself as Swift. It does perform characters explicitly (e.g. <a class="noline" href="{{c}}">Cinderella</a>, <a class="noline" href="{{hark}}">Rebekah Harkness</a>), but the machine TS mostly pretends to be the woman Swift in various forms. It adapts to audience and times: innocence-coded (with a twang) for Nashville then; demisexual-coded (with FKA-sighing) for the glossies now; BPD-coded (and drawling) for the extremely online now. A <a class="noline" href="{{per}}">persecution</a> complex (and diphthongs) for everyone. <a href="#fn:16" id="fnref:16">16</a> 
+TS presents itself as Swift. It does perform characters explicitly (e.g. <a class="noline" href="{{c}}">Cinderella</a>, <a class="noline" href="{{hark}}">Rebekah Harkness</a>), but the machine TS mostly pretends to be the woman Swift in various forms. It adapts to audience and times: innocence-coded (with a twang) for Nashville then; demisexual-coded (with FKA-sighing) for the glossies now; BPD-coded (and drawling) for the extremely online now. A <a class="noline" href="{{per}}">persecution</a> complex (and diphthongs) for everyone. <a href="#fn:16" id="fnref:16">16</a> So many devices; devised. So much artifice; artificial.
 
 That's half of it; the other half is your incredible overestimation of the output. TS songs are moderately catchy, (recently) moderately perverse, but expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / <!-- Jenny Lewis /--> Gaga / Kesha / Lana / Lorde / HAIM / Chvrches / FKA Twigs / <!--St Vincent--> Billie Eilish / Chappell Roan / whoever it is now). But TS is noticeably flatter than any of these, particularly when she's not <a href="{{mime}}">miming</a>. <a href="#fn:3" id="fnref:3">3</a>
 
@@ -120,7 +120,7 @@ So if the music is uninteresting the phenomenon isn't. She plays the world like 
             <li>The 2006 fans aged into wealth and influence. The long march through the institutions, completed.</li>
             <li>TS managed to appeal to current teens, by aping younger stars and maybe as a mother figure making music <a href="{{high}}">for you</a> that your mom also likes.</li>
             <li>Sheer tempo of releases: 8 albums in the last 4 years (the Taylor's Versions counting, for the market, as new work). A constant nongossip pretext for articles and teasers.</li>
-            <li>The complete cultural victory of <a href="{{zom}}">zombified poptimism</a> (which holds that all pop is good and judgment is for losers [haters]) over the hipsters...</li>
+            <li>The complete cultural victory of <a href="{{zom}}">zombified poptimism</a> (which holds that pop is just as good as art and judgment is for losers) over the hipsters...</li>
             <li>...combined with TS' post-<i>Folklore</i> explicit play for credibility. It had enough superficial indie content to overcome critics' final line of immunity to machine products, resulting in the media consensus you see around you. <a href="#fn:15" id="fnref:15">15</a></li>
             <li>A simple snowball: exponential fame; being talked about makes you get talked about. I'm part of this process.</li>
         </ul>
@@ -469,13 +469,21 @@ Madonna is a much better fit; the constant try-hard <a href="{{mad}}">iteration<
 <div class="accordion">
     <h3>Eras</h3>
     <div>
-        "<a href="{{e}}">Eras</a>" is a funny brand for a career retrospective (one 'era' per album):<br><br>
+        "<a href="{{e}}">Eras</a>" is a funny brand for a career retrospective (assigning one 'era' per album):<br><br>
         <!--  -->
-        The conceit is that TS has as many distinct artistic and personal personas as it has albums (ten). This is simultaneously a (spurious but effective) brag about TS' versatility and a relatable bit about the inconstancy of personality.<br><br> 
-        <!--  -->
-        It imposes narrative structure and nobility on a trend-chasing optimisation process.
+        The conceit is that TS has as many distinct artistic and personal personas as it has albums (ten). This is simultaneously a spurious but effective brag about TS' versatility <i>and</i> a relatable bit about the inconstancy of our personalities. It imposes narrative structure and nobility on a trend-chasing optimisation process.
     </div>
 </div>
+
+
+<br> 
+
+Pretty much this entire essay rests on a distinction I have not analysed: the difference between being affected (moved) by someone and being manipulated by someone. Where the latter is vicious, degrading, to be avoided. For the sake of saying something say manipulation is intentional influence which removes your chance to decide. Hidden motives, hidden mechanisms, subverted thought. The feeling that opens this essay is then my strong sense that TS is too good at manipulation and it uses this great skill to replicate itself. This doesn't look to me like wholesome trade (I give you allegiance, you give me feelings). 
+
+A test for manipulation is whether it stops working when you find out the trick. I wrote this essay to give you an out, if you want it.
+
+(Is a card trick "manipulation" under this definition?)
+
 
 <br>
 
@@ -495,7 +503,7 @@ Also: God knows what <a href="{{grimes}}">TS or its successor</a> will be like w
 
 > I see culture as a type of technology
 
-<center>- Lee Soo-man</center>
+<center>- Lee Soo-man, founder of K-pop</center>
 
 <!-- <center>
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s more difficult to effectively curse a high profile public figure than you might like it to be as they exist more as a complex of swarming ideologies &amp; invested dreams than as a regular person, and the pathway for the work can get lost or diverted within that complex maze.</p>&mdash; Anthony Nine (@spaceweather9) <a href="https://twitter.com/spaceweather9/status/1674953284023402497?ref_src=twsrc%5Etfw">July 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

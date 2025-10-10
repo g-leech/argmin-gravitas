@@ -102,6 +102,7 @@ ML is <a href="{{breiman}}">sort of</a> <a href="{{ds}}">in</a> <a href="{{gel2}
 * <a href="/graphs">Graphs are cool</a>
 * <a href="/tools">Tools</a>
 * <a href="/ou">Open Uni</a>
+* [Madhadron](https://madhadron.com/science/learning_statistics.html)
 * [Replication crisis](https://docs.google.com/document/d/1yj0k1D--WMNaDve0VTYsK5RWm5V7r4WbH_XO2CnjTec/edit)
 * [Basic sins](https://theconversation.com/the-seven-deadly-sins-of-statistical-misinterpretation-and-how-to-avoid-them-74306)
 * [Nice visual guide](https://www.stuartmcnaylor.com/ten_stats_mistakes/)

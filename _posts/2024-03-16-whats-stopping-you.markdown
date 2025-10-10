@@ -250,9 +250,9 @@ _You do not need to do anything differently_ for you / this class to succeed. Al
 
 <br>
 
-Most work makes the world better in a small and quiet way. This is a beautiful thing. M once worked on Google’s central TCP/IP stack. He commented out one line and sped up every single web request that Google performs. A quadrillion of milliseconds saved every day = 11 years of human life every year. He says this is likely the most valuable day of work he ever did for them.
+Most work makes the world better in a small and quiet way. This is a beautiful thing. M once worked on Google’s central TCP/IP stack. He commented out one line and sped up every single web request that Google performs. Imagine with fully guessed numbers that it was a quadrillion milliseconds saved every day; that would constitute 11 years of human life, every year. He says this is the most valuable week of work he ever did for them.
 
-Getting to L6 at Google or wherever; having 2 children; saying true things; retiring at 50; being kind. This is a lot. It is more than most humans who ever lived achieved.
+Working a nice office job that doesn't pinch you; having 2 children; saying true things; retiring at 50; being kind. This is a lot. It is more than most humans who ever lived achieved.
 
 
 

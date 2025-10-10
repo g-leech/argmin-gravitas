@@ -102,7 +102,7 @@ visible:	false
 
 - '[Under One Small Star](https://www.poetrynook.com/poem/under-one-small-star)' by Szymborska
 
-- '[Night Call, Collect](https://elkit.blogs.com/elkit/2002/02/this_ones_for_m.html)' by Ray Bradbury
+- '<a href="/bradbury1969">Night Call, Collect</a>' by Ray Bradbury
 
 - '[meaning](https://troublingadvocacy.blogspot.com/2015/03/meaning-1988-by-czesaw-miosz.html
 )' by Czeslaw Milosz
