@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "CDMX"
+baselink:   /cdmx
+permalink:  /cdmx
+date:       2022-12-16
+author:     Gavin
+img:        /img/
+
+visible:    1
+published:  false
+quality:    3
+
+summary:    ""
+warnings: 	
+confidence: 
+importance: 
+wordcount:  
+categories: 
+where:      ""
+---
+
+
+https://nitter.net/g_leech_/status/1603792095638167553#m
