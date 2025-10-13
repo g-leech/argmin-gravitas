@@ -91,7 +91,7 @@ What's the problem?
 
 The old problem - which is the statisticians' fault - is that "infer" is ambiguous between "infer correctly" and "make some guess, right or wrong". "Predict" has a similar issue but less; we all know that predictions fail. 
 
-I should say it's a good thing that stats and ML are distinct. It allowed us to move to powerful black-box methods, sidestepping the powerful prejudice against them. It's totally fine to say "training" instead of "inference". But namespace collisions are lamentable and could have easily been avoided.
+I should say it's a good thing that stats and ML are distinct. It allowed us [to move to](https://www2.math.uu.se/~thulin/mm/breiman.pdf) powerful black-box methods, sidestepping the powerful prejudice against them. It's totally fine to say "training" instead of "inference". But namespace collisions are lamentable and could have easily been avoided.
 
 
 <div class="footnotes">
