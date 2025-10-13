@@ -11,7 +11,7 @@ visible:    1
 published:  true
 quality:    6
 
-summary:    
+summary:    There and back again
 warnings: 	A foreign view. One year tour, plus borrowing other years by reading.
 confidence: 
 importance: 3
