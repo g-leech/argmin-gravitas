@@ -20,9 +20,6 @@ categories: places, uni, lists, autobio
 where:      "Tallinn"
 ---
 
-> The evil Old Man of Ülemiste is believed to live in that lake. Should anyone meet him, he asks them "Is Tallinn ready?". If you answer "yes", he will flood the city. The necessary response is then "No, there is much to be done".
-
-<br> 
 
 > That's why you can never trust a good person, for he will _freely_ do evil - purely for justice's sake, so that everyone may be the same [miserable].
 
@@ -34,6 +31,31 @@ where:      "Tallinn"
 > Estonia. A dark, tiny, angry, improbably stylish place where Tarkovsky filmed his undying masterpiece 'Stalker' and Nolan also tried to do something with 'Tenet'.
 
 <center>– Robert Kurvitz</center>
+
+<br>
+
+
+> A black shadow behind the pane across the ceiling.<br>
+The kettle hums and strains. The pan won't be appealing.<br>
+Wind rattles these squares, branches from the avenue.<br>
+My body pallid for years. The rain speaks Latin too.<br>
+Mum won't look about, won't rattle the door.<br>
+She's cutting me shoes out of boots long-worn.<br>
+My father's reading the paper for Africa news<br>
+About Rothschild's rich caper, king of angels too.<br>
+Go crazy or go grey, your wage won't give you wings.<br>
+They hiked prices today. In Turkey the earth is shaking.<br> 
+You order the paper and look - gossip and slander!<br>
+But the bigguns have their big boots. I'll stay small and meander...<br><br>
+Who wipes away sweat gets soap on the spot.<br>
+Who sighing buys sprats gets herrings by lot.<br>
+Whose skirt is in tatters or sleeve tarred with grime –<br> 
+Fear not such matters: our cloth shelf's sublime.<br>
+Let the goods fly... See ya!<br>
+
+<center>– Betti Alver (1965)</center>
+
+<!-- <a href="https://sasslantis.ee/lyrics-vaiko_eplik-l_hen_m_jaks"> -->
 
 <br>
 
@@ -166,7 +188,7 @@ You hear Estonia, you think "Soviet". But it's way more German than Russian, des
 </div>
 
 
-## The "Baltic Germans" (German-Estonians)
+## _Baltisaksad_ (Baltic German-Estonians)
 
 
 > what good did the crusades do for the Orient? What happiness have they brought to the coasts of the Baltic Sea? The old Prussians are destroyed; Livonians, Estonians, and Latvians in the poorest condition still now curse in their hearts their subjugators, the Germans.
@@ -178,7 +200,7 @@ Before the Soviets, the [ruling class](https://en.wikipedia.org/wiki/Estonian_Kn
 
 * The word "saks" means both "toff" and "German" (Saxon, _sakslane_). It was the same thing.
 * Some German merchants and clergy arrived peaceably and piecemeal in the C12th. But most of the eventual population were instead imported after the conquest, by the Orders. They were the only landowners and magistrates until well into the Tsarist era. 
-* They were extractive even by the standards of feudalism. TODO They ignored Gustav X ~abolishing serfdom and clawed it back from the Tsar TODO
+<!-- * They were extractive even by the standards of feudalism. TODO They ignored Gustav X ~abolishing serfdom and clawed it back from the Tsar TODO -->
 * Huh. 1% of the whole country was in the nobility. Surprising:
 <blockquote>in 1897, only [sic] 18.4 percent of all Germans in the city were members of the nobility... nine percent of Germans in Tallinn were of the peasant estate</blockquote>
 <!-- * The Tsarists administered Estonia through the Baltic German nobles and made a late start on Russifying it - as did, surprisingly, the Soviets. -->
@@ -250,7 +272,7 @@ His tombstone still stands there, probably covered by now with moss and hidden b
 True to aristo form, there is not much resentment or self-pity here. Patronising yes, oblivious yes, overconfident about cultures and nations yes, but what sense of tragedy he has is in context and in perspective. (Of course, this is twenty years before the real catastrophe befalls them.)<br><br>
 
 <!-- https://www.projekt-gutenberg.org/keyserlh/erkennt/erkennt.html -->
-Keyserling is now only cited as the coiner ("in 1922") of the term "Führerprinzip", later abused for the Nazi unquestioned-strongman idea. He does think in essentialist ways which racists also do. But he probably meant personal autonomy, _and_ the term doesn't appear in [the book](https://www.projekt-gutenberg.org/keyserlh/erkennt/) people cite, nor in [his book](Deutschlands wahre politische mission) about Germany. And later [he was publicly and loudly anti-Nazi](https://www.nytimes.com/1932/04/17/archives/keyserling-holds-nazis-unfit-to-rule-philosopher-declares-hostility.html) (in a funny way), and not anti-democracy, not anti-Semitic, and not imperialist. 
+Keyserling is now only cited as the coiner ("in 1922") of the term "Führerprinzip", later abused for the Nazi unquestioned-strongman idea. He does think in essentialist ways which racists also do. But he probably meant personal autonomy, _and_ the term doesn't appear in <a href="https://www.projekt-gutenberg.org/keyserlh/erkennt/">the book</a> people cite, nor in his book about Germany ("Deutschlands wahre politische mission"). And later <a href="https://www.nytimes.com/1932/04/17/archives/keyserling-holds-nazis-unfit-to-rule-philosopher-declares-hostility.html">he was loudly anti-Nazi in the NYT</a> (in a funny way). Not anti-democracy, not anti-Semitic, and not imperialist. 
 
 <blockquote>Humanity is still unaware of how little power ultimately matters... In which states did the most important intellectual movements originate? Not in the largest and most powerful, but mostly in the small ones, which is especially true of political movements; one considers the small Greek and Italian states, the importance of Belgium and Holland for international law, and recently the increasingly important role that must be attributed to the Nordic empires, Switzerland, and the newly emerging small states in the ideological solution of global political problems.<br><br>Which ancient peoples have left the most lasting influence? The Jews, the Greeks, the Indians, and the Chinese. Power means just as much or as little in the life of people as money does in private life: in itself an advantage because it facilitates the solution of practical problems, it nevertheless possesses no intrinsic value and, once the era of Faustian law is truly over, will no longer be judged by anyone as determining rank... Specific master races, as such always one-sided and narrow-minded, are only necessary as long as their characteristics have not become common property, as long as not everyone can control themselves. Most are far from that point, but it is precisely democratization that is leading inexorably to general aristocratization. A gentleman's attitude is the ideal of all Englishmen and possessed by many; all Americans have gentlemanly features, and most Scandinavians; the other peoples of Europe are rapidly developing in the same direction, and the more rapidly the more political freedom promotes the growth of their sense of dignity. At the end of time, civilized humanity will probably have constituted itself into a federation of free aristocratic republics, some large and, above all, many small ones, since noble pride requires exclusivity...</blockquote>
 Although also
@@ -279,13 +301,14 @@ Although also
 <center>– Ivan Orav </center>
 <br>
 
-* The national culture is as usual a post-hoc confection. Maybe unusually so.
-	* We mostly lost the pre-Christian culture. As in England and all other New Age lands, there is though a thriving [pseudo-mythology](https://et.wikipedia.org/wiki/Pseudom%C3%BCtoloogia) and a tiny [neopagan nonsense](https://et.wikipedia.org/wiki/Taarausk).
-	* Or even the Christian culture
-	> In 1525, the first Estonian language book was printed. It contained a religious Lutheran text which, however, never reached its intended readers, as it was immediately censored and all printed copies were destroyed.
-	* First extant real passage of Estonian language _ever_ is from 1530. It's 150 words.
-	<!-- * grenzstein is a bit of a boogeyman for suggesting that maybe we don't need nations, Eesti küsimus -->
-	* "7/8ths" of the [national epic](https://en.wikipedia.org/wiki/Kalevipoeg) are a C19th pretence. This seems like an underestimate.
+The national culture is as usual a post-hoc confection. Maybe unusually so.
+
+* We mostly lost the pre-Christian culture. As in England and all other New Age lands, there is though a thriving [pseudo-mythology](https://et.wikipedia.org/wiki/Pseudom%C3%BCtoloogia) and a tiny [neopagan nonsense](https://et.wikipedia.org/wiki/Taarausk).
+* Or even the Christian culture
+> In 1525, the first Estonian language book was printed. It contained a religious Lutheran text which, however, never reached its intended readers, as it was immediately censored and all printed copies were destroyed.
+* First extant real passage of Estonian language _ever_ is from 1530. It's 150 words.
+<!-- * grenzstein is a bit of a boogeyman for suggesting that maybe we don't need nations, Eesti küsimus -->
+* "7/8ths" of the [national epic](https://en.wikipedia.org/wiki/Kalevipoeg) are a C19th pretence. This seems like an underestimate.
 
 * In the 20s, Estonia actually secretly fenced ~all Soviet gold exports. Worse, it was the Harju Bank part-owned by the prime minister, Päts. Worse, despite this windfall the bank collapsed in 1929, which precipitated the unrest which eventually led to the self-coup. Worse, presumably some of this Russian trade income was used to fund the later subversion of Estonia.
 <!-- If he skimmed it, then this was one of the worst acts in the republic's history. -->
@@ -334,9 +357,9 @@ In a familiar bit of wilful Stalinist perversity the second occupation was calle
 
 * The rulers were mostly safe bets: [Estonian Russians](https://en.wikipedia.org/wiki/Yestonians), or "Yestonians". 
 
-* 28 years under one of them, [Kabin](https://en.wikipedia.org/wiki/Johannes_K%C3%A4bin)! He is mostly remembered as a relatively moderate relative nationalist. But even then, and even as late as 1981:
+* The SSR was led for 28 years by one of them, [Käbin](https://en.wikipedia.org/wiki/Johannes_K%C3%A4bin)! He is mostly remembered as a relatively moderate relative nationalist. But even then, and even as late as 1981:
 
-> who was Juri Kukk and what were his ''crimes''? Dr. Kukk was an inorganic chemist on the faculty of the University of Tartu, Estonia. He first irritated the Soviet authorities by resigning from the Communist Party, in 1978. He was further guilty of wishing to emigrate to the West, after the authorities instituted systematic harassment as their response to his resignation, to his signing letters of protest regarding the Soviet invasion of Afghanistan and the holding of Olympic Games in Moscow (1980), to the domestic exiling of Andrei Sakharov and to his talking to David K. Willis, correspondent of The Christian Science Monitor.<br><br>For these ''crimes'' the K.G.B. tried for months to force Estonian doctors to certify Juri Kukk mentally deranged. The doctors refused. The K.G.B. then incarcerated him in the notorious Serpsky psychiatric institute in Moscow. He went on a hunger strike. In early January he was tried in Tallinn, Estonia, and sentenced to two years in a labor camp. On March 27, at the age of 40, he was pronounced dead by the authorities.
+> who was Jüri Kukk and what were his ''crimes''? Dr. Kukk was an inorganic chemist on the faculty of the University of Tartu, Estonia. He first irritated the Soviet authorities by resigning from the Communist Party, in 1978. He was further guilty of wishing to emigrate to the West, after the authorities instituted systematic harassment as their response to his resignation, to his signing letters of protest regarding the Soviet invasion of Afghanistan and the holding of Olympic Games in Moscow (1980), to the domestic exiling of Andrei Sakharov and to his talking to David K. Willis, correspondent of The Christian Science Monitor.<br><br>For these ''crimes'' the K.G.B. tried for months to force Estonian doctors to certify Jüri Kukk mentally deranged. The doctors refused. The K.G.B. then incarcerated him in the notorious Serpsky psychiatric institute in Moscow. He went on a hunger strike. In early January he was tried in Tallinn, Estonia, and sentenced to two years in a labor camp. On March 27, at the age of 40, he was pronounced dead by the authorities.
 
 * Solzhenitsyn wrote parts of the _the Gulag Archipelago_ in Tartu, and two Estonians hid the manuscript for years.
 
@@ -422,7 +445,7 @@ Scandi corpo
 
 <br>
 
-* Estonians aren't as gloomy as Scots, despite having more to complain about [in general](https://en.wikipedia.org/wiki/List_of_disasters_in_Estonia_by_death_toll) and in living memory. Post-traumatic growth maybe.
+* Estonians aren't as gloomy as Scots, despite having more to complain about [in general](https://en.wikipedia.org/wiki/List_of_disasters_in_Estonia_by_death_toll) and in living memory and with the Bear on their doorstep. Post-traumatic growth maybe.
 
 > "[What are Latvian stereotypes about Estonia?] Slow, pale, considerate, blond, quiet, skiers"
 
@@ -443,7 +466,7 @@ Scandi corpo
 
 * Very twee. 
 	* The biggest event every four years are the folk Song and [Dance](https://www.youtube.com/watch?v=xReUEc7tp2g) Festivals. [3%](https://2025.laulupidu.ee/en/general-information/fun-facts/) of the country _participate onstage_; another 6% watch (assuming like 10% of the audience are instead tourists).
-	* Obsessed with gardens and nature walks and mushroom-picking and jam-making and such. Hobbity. Talupaev.
+	* Obsessed with gardens and nature walks and mushroom-picking and jam-making and such. Hobbity. Talupaev, Metsaraie.
 
 * In other ways very Haute European, what with the mid-size city with an opera house, and the tracked schools producing Excellence in the form of kids with signet rings
 
@@ -577,31 +600,12 @@ I wish you good memories.
 
 <center>– Arvi Siig</center>
 
-> A black shadow behind the pane across the ceiling.<br>
-The kettle hums and strains. The pan won't be appealing.<br>
-Wind rattles these squares, branches from the avenue.<br>
-My body pallid for years. The rain speaks Latin too.<br>
-Mum won't look about, won't rattle the door.<br>
-She's cutting me shoes out of boots long-worn.<br>
-My father's reading the paper for Africa news<br>
-About Rothschild's rich caper, king of angels too.<br>
-Go crazy or go grey, your wage won't give you wings.<br>
-They hiked prices today. In Turkey the earth is shaking.<br> 
-You order the paper and look - gossip and slander!<br>
-But the bigguns have their big boots. I'll stay small and meander...<br><br>
-Who wipes away sweat gets soap on the spot.<br>
-Who sighing buys sprats gets herrings by lot.<br>
-Whose skirt is in tatters or sleeve tarred with grime –<br> 
-Fear not such matters: our cloth shelf's sublime.<br>
-Let the goods fly... See ya!<br>
-
-<center>– Betti Alver (1965)</center>
-
-<!-- <a href="https://sasslantis.ee/lyrics-vaiko_eplik-l_hen_m_jaks"> -->
 
 <br>
 
 Estonia is the buffer between Europe and Russia (ignoring Kaliningrad). The wall. NATO's bare face. This one fact explains a lot.
+
+> The evil Old Man of Ülemiste is believed to live in that lake. Should anyone meet him, he asks them "Is Tallinn ready?". If you answer "yes", he will flood the city. The necessary response is then "No, there is much to be done".
 
 
 Is Tallinn ready?
@@ -612,7 +616,7 @@ Is Tallinn ready?
 * [https://www.gleech.org/disco](https://www.gleech.org/disco)
 * [http://thetallinncollector.com/](http://thetallinncollector.com/)
 * [flatfish.ee](flatfish.ee)
-<!-- * Acknowledgment to Kristi Uustalu -->
+* Acknowledgment to Kristi Uustalu
 
 
 
@@ -644,7 +648,7 @@ Is Tallinn ready?
 		I did also do a joke version of this which included passing hosts of military as population (like the 195,000 Red soldiers of the 1944 <a href="https://en.wikipedia.org/wiki/Tallinn_offensive">Tallinn Offensive</a>) but I tired of myself in time before posting it.
 	</li>
 	<li class="footnote" id="fn:8">
-		Some of this would have been simple anti-Red sentiment rather than republicanism. 
+		Some of this would have been simple anti-Red sentiment rather than republicanism. And the republic wasn't indiscriminate: "Germans who fought under Laidoner in the War of Independence could retain 50 hectares of land".
 	</li>
 	<li class="footnote" id="fn:9">
 		Others are maybe still around Estonia, in hiding, "<a href="https://en.wikipedia.org/wiki/Estonianization">Estonized</a>". 
