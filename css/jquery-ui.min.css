@@ -78,7 +78,7 @@
     cursor: pointer;
     position: relative;
     margin: 12px 0 0 0;
-    padding: 0.7em 0.7em 0.7em 0.7em;
+    padding: 1em 0.7em 1em 0.7em;
     font-size: 100%;
 }
 .ui-accordion .ui-accordion-content {
