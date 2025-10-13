@@ -3,9 +3,9 @@ layout:     math_post
 title:      'Abusing "inference"'
 baselink:   /inference
 permalink:  /inference
-date:       2025-10-10
+date:       2025-10-13
 author:     Gavin
-img:        /img/jensen.jpg
+img:        /img/jensenh.jpg
 
 visible:    1
 published:  true
