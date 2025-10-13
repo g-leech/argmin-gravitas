@@ -38,9 +38,9 @@ where:      "Tallinn"
 > A black shadow behind the pane across the ceiling.<br>
 The kettle hums and strains. The pan won't be appealing.<br>
 Wind rattles these squares, branches from the avenue.<br>
-My body pallid for years. The rain speaks Latin too.<br>
+My body pale for years. The rain speaks Latin too.<br>
 Mum won't look about, won't rattle the door.<br>
-She's cutting me shoes out of boots long-worn.<br>
+She's cut me shoes out of boots long-worn.<br>
 My father's reading the paper for Africa news<br>
 About Rothschild's rich caper, king of angels too.<br>
 Go crazy or go grey, your wage won't give you wings.<br>
@@ -49,7 +49,7 @@ You order the paper and look - gossip and slander!<br>
 But the bigguns have their big boots. I'll stay small and meander...<br><br>
 Who wipes away sweat gets soap on the spot.<br>
 Who sighing buys sprats gets herrings by lot.<br>
-Whose skirt is in tatters or sleeve tarred with grime –<br> 
+Whose skirt is in tatters or sleeve tarred with grime–<br> 
 Fear not such matters: our cloth shelf's sublime.<br>
 Let the goods fly... See ya!<br>
 
@@ -132,6 +132,16 @@ An icon which comes to mind is seeing clubbers tottering along Valli Street on h
 
 <br>
 
+<center>
+<a href="/img/onion2.jpeg">
+	<img src="/img/onion2.jpeg" />
+</a>
+<br><br>
+From "Our Dumb World: The Onion World Atlas"
+</center>
+
+<br>
+
 The first three crusades having gone so well, the Pope [declared](https://en.wikipedia.org/wiki/Non_parum_animus_noster) open season on the Baltics in 1171.<br>
 
 * Tallinn thus first appears to history on being conquered by the Danes in 1219. (_Taani-linna_ is "Danish-castle".) 
@@ -211,7 +221,7 @@ Before the Soviets, the [ruling class](https://en.wikipedia.org/wiki/Estonian_Kn
 <!-- Do I want to know about the fate of the equally long-standing Estonian Jews? -->
 
 <center>
-	<img src="/img/tamms.jpg" width="25%" />
+	<img src="/img/tamms.jpg" width="35%" />
 </center>
 
 
@@ -341,6 +351,12 @@ Total loss was about 20% of everyone in 10 years.
 
 Philby!
 
+
+<center>
+<img src="/img/onion1.jpeg" /><br>
+From "Our Dumb World: The Onion World Atlas"
+</center>
+
 ## The Estonian SSR (1944-1991)
 
 <center>
@@ -350,7 +366,7 @@ Philby!
 
 > The Soviet Russians did what had been impossible for 700 years. They made the Estonians love the Germans.
 
-<center>– Lembit Opik</center>
+<center>– Lembit Öpik</center>
 
 
 In a familiar bit of wilful Stalinist perversity the second occupation was called "the liberation".
@@ -376,6 +392,10 @@ In a familiar bit of wilful Stalinist perversity the second occupation was calle
 <!-- Invisible Allies the estonians -->
 
 <br>
+
+* Actually the locals' hobbity environmentalism is what sparked the end: a big [strip-mining operation](https://en.wikipedia.org/wiki/Phosphorite_War) became known in early 1987, large protests went unsuppressed, and the SSR backed down 6 months later. Blood in the water.
+
+* Similarly, the [revolution](https://en.wikipedia.org/wiki/Singing_Revolution) was very whimsical and folksy.
 
 * Estonia was the first of the Soviets to declare [sovereignty](https://en.wikipedia.org/wiki/Estonian_Sovereignty_Declaration) (not independence) in 1988. The idea was that they would only obey Presidium laws if the ESSR agreed with them. The end begins.
 
@@ -445,11 +465,11 @@ Scandi corpo
 
 <br>
 
-* Estonians aren't as gloomy as Scots, despite having more to complain about [in general](https://en.wikipedia.org/wiki/List_of_disasters_in_Estonia_by_death_toll) and in living memory and with the Bear on their doorstep. Post-traumatic growth maybe.
+* Estonians aren't as gloomy as Scots, despite having more to complain about [in general](https://en.wikipedia.org/wiki/List_of_disasters_in_Estonia_by_death_toll) and in living memory and with the Bear on their doorstep now. Post-traumatic growth maybe.
 
 > "[What are Latvian stereotypes about Estonia?] Slow, pale, considerate, blond, quiet, skiers"
 
-> Tallinn has definitely come a long way since 1991 when the only spices you could find would be salt, black pepper, and dried laurel leaves while the only fresh herb was dill – annoying and ever-present. For the record, it is still tough to see fresh coriander (cilantro) in winter as it is so hard to grow even in greenhouses.  Over these last few decades, Estonian taste buds have also **evolved**: I remember when my friends would complain when I put a little too much black pepper in my Italian tomato sauce as that was just “too spicy” for them
+> Tallinn has definitely come a long way since 1991 when the only spices you could find would be salt, black pepper, and dried laurel leaves while the only fresh herb was dill – annoying and ever-present. For the record, it is still tough to see fresh coriander in winter as it is so hard to grow even in greenhouses.  Over these last few decades, Estonian taste buds have also **evolved**: I remember when my friends would complain when I put a little too much black pepper in my Italian tomato sauce as that was just “too spicy” for them
 
 
 
@@ -467,6 +487,9 @@ Scandi corpo
 * Very twee. 
 	* The biggest event every four years are the folk Song and [Dance](https://www.youtube.com/watch?v=xReUEc7tp2g) Festivals. [3%](https://2025.laulupidu.ee/en/general-information/fun-facts/) of the country _participate onstage_; another 6% watch (assuming like 10% of the audience are instead tourists).
 	* Obsessed with gardens and nature walks and mushroom-picking and jam-making and such. Hobbity. Talupaev, Metsaraie.
+
+<img src="/img/cute.jpg" />
+
 
 * In other ways very Haute European, what with the mid-size city with an opera house, and the tracked schools producing Excellence in the form of kids with signet rings
 

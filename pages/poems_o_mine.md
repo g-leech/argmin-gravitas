@@ -24,9 +24,9 @@ visible:    false
 A black shadow behind the pane across the ceiling.<br>
 The kettle hums and strains. The pan won't be appealing.<br>
 Wind rattles these squares, branches from the avenue.<br>
-My body pallid for years. The rain speaks Latin too.<br>
+My body pale for years. The rain speaks Latin too.<br>
 Mum won't look about, won't rattle the door.<br>
-She's cutting me shoes out of boots long-worn.<br>
+She's cut me shoes out of boots long-worn.<br>
 My father's reading the paper for Africa news<br>
 About Rothschild the rich caper, and king of angels too.<br>
 Go crazy or go grey, your wage won't give you wings.<br>
