@@ -117,6 +117,9 @@ tr.spaced > td {
   padding-bottom: 1em;
 }
 
+.MathJax, .MathJax_Display {
+    overflow: visible !important;
+}
 
 
 /**
