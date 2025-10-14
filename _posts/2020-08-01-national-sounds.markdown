@@ -129,7 +129,7 @@ Alright, so it is weird to do one list for all of Brazil (pop. 210m) and one for
 
 My selection from non-Anglophone countries will be biased towards obviousness and against wit. I forgive a gifted lyricist almost anything (for instance, I love early Mountain Goats), and I mostly can't here.
 
-Most countries seem to have local Indie Gods: Tragically Hip (Canada), Microdisney (Ireland), Chile, Cui Jian or Carsick Cars (China), Los Prisioneros (Chile), Die Toten Hosen (Germany), B'z (Japan), Indochine (France), Vasco Rossi (Italy). Most don't survive leaving their context.
+Most countries seem to have local Indie Gods: Tragically Hip (Canada), Microdisney (Ireland), Cui Jian or Carsick Cars (China), Los Prisioneros (Chile), Die Toten Hosen (Germany), B'z (Japan), Indochine (France), Vasco Rossi (Italy). Most don't survive leaving their context.
 
 <br><br>
 

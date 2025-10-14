@@ -25,13 +25,13 @@ where:      "Over the Atlantic"
 
 People in ML recently started using "inference" to mean _running_ a model: getting an output given a concrete input <a href="#fn:1" id="fn:1">1</a>. (The framework people, constained perhaps by taste or backwards-compatibility, still call the relevant function `.predict()` or `.eval()` or `.forward()` rather than `.infer()`.)
 
-This clashes pretty hard with the conventional usage (from statistics), which is much more like training. How did that happen?
+This clashes pretty hard with the conventional usage (from statistics), which is much more like training. We used to _infer_ the values of unobserved parameters $$\theta$$ from observed $$X$$; now we "infer" the output $$X$$ of a set of already-fixed parameters $$\theta$$. How did _that_ happen?
 
 ### In stats
 
-Before stats, it was mostly just another word for logical deduction. It means "solving" there.
+Before stats, it was mostly just another word for logical deduction. In logic it means "solving".
 
-"Inference" first got its modern meaning during the great formalisation of the 1920s. At the latest by 1925 in Fisher's "Statistical Methods for Research Workers". We _infer_ the values of unobserved $$\theta$$ from observed $$X$$.
+"Inference" first got its modern meaning during the great formalisation of the 1920s: at the latest by 1925, in Fisher's insanely influential "Statistical Methods for Research Workers". 
 
 <!-- The Bayesian ML people use it right -->
 
@@ -89,7 +89,7 @@ Since last year, the tokens used per LLM query can vary by a factor of millions,
 
 What's the problem?
 
-The old problem - which is the statisticians' fault - is that "infer" is ambiguous between "infer correctly" and "make some guess, right or wrong". "Predict" has a similar issue but less; we all know that predictions fail. 
+The old problem - which is the statisticians' fault - is that "infer" is ambiguous between "infer correctly" and "make some guess, right or wrong". ("Predict" has a similar issue but less; we all know that predictions fail.) 
 
 I should say it's a good thing that stats and ML are distinct. It allowed us [to move to](https://www2.math.uu.se/~thulin/mm/breiman.pdf) powerful black-box methods, sidestepping the powerful prejudice against them. It's totally fine to say "training" instead of "inference". But namespace collisions are lamentable and could have easily been avoided.
 

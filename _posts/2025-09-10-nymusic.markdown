@@ -20,13 +20,14 @@ where:      ""
 ---
 
 
-> There are roughly three New Yorks. There is, first, the New York of the man or woman who was born here, who takes the city for granted and accepts its size and turbulence as natural and inevitable. Second, there is the New York of the commuter—the city that is devoured by locusts each day and spat out each night. Third, there is the New York of the person who was born somewhere else and came to New York in quest of something. Of these three trembling cities the greatest is the last — the city of final destination, the city that is a goal. It is this third city that accounts for New York’s high-strung disposition, its poetical deportment, its dedication to the arts, and its incomparable achievements. Commuters give the city its tidal restlessness; natives give it solidity and continuity; but the settlers give it passion. And whether it is a farmer arriving from Italy to set up a small grocery store in a slum, or a young girl arriving from a small town in Mississippi to escape the indignity of being observed by her neighbors, or a boy arriving from the Corn Belt with a manuscript in his suitcase and a pain in his heart, it makes no difference: each embraces New York with the intense excitement of first love, each absorbs New York with the fresh eyes of an adventurer, each generates heat and light to dwarf the Consolidated Edison Company.
+> There are roughly three New Yorks. There is, first, the New York of the man or woman who was born here, who takes the city for granted and accepts its size and turbulence as natural and inevitable. Second, there is the New York of the commuter — the city that is devoured by locusts each day and spat out each night. Third, there is the New York of the person who was born somewhere else and came to New York in quest of something. Of these three trembling cities the greatest is the last — the city of final destination, the city that is a goal. It is this third city that accounts for New York’s high-strung disposition, its poetical deportment, its dedication to the arts, and its incomparable achievements. Commuters give the city its tidal restlessness; natives give it solidity and continuity; but the settlers give it passion. And whether it is a farmer arriving from Italy to set up a small grocery store in a slum, or a young girl arriving from a small town in Mississippi to escape the indignity of being observed by her neighbors, or a boy arriving from the Corn Belt with a manuscript in his suitcase and a pain in his heart, it makes no difference: each embraces New York with the intense excitement of first love, each absorbs New York with the fresh eyes of an adventurer, each generates heat and light to dwarf the Consolidated Edison Company.
 
-— E. B. White, Here is New York
+<center>— EB White</center>
+
+<br>
 
 
-
-I have an ongoing project to capture the best of the world's music (which will of course include very little "world music"). But I hit a snag - New York. It is just too huge and important to encompass or abbreviate.
+<a href="/nation-sound">I want to capture the best music in the world</a>. (This will include little "world music".) But I hit a snag - New York. It is just too huge to capture.
 
 What would a complete New York playlist have to cover?
 
@@ -35,14 +36,13 @@ What would a complete New York playlist have to cover?
 * Big band and swing. Duke, Calloway
 * The American musical. Berlin, Gershwin, Rodgers and Hammerstein and Hart, Bernstein, Kern, 
 * Bebop, hard bop
-* Latin music, Nu yorica (samba, )
-* Calypso (1930 - 1956)
-* Brill machine music (and therefore ultimately K-pop) (Leiber-Stoller)
+* Latin music, Nu yorica (samba, ). Globalised calypso (1930 - 1956).
+* Brill machine music (and ultimately K-pop) (Leiber-Stoller et al)
 * studio as an instrument (Spector)
 * Folk revival
 * Disco (Studio 54)
 * Avant-Garde (1960s-1980s)
-	Loft jazz scene, 
+	Loft jazz
 	Fluxus, 
 	No wave
 	Minimalism
@@ -60,7 +60,7 @@ Blog House / dancepunk
 
 > Scenius seemed to stop happening at some point early in this century. What was the last musical movement to be distinctively associated with a city in Britain? Trip-hop, from Bristol? Grime, from East London? Once you get beyond 2010 it’s hard to think of any. In the US, New York is a more liveable city than it was for much of the twentieth century, and a less creative one. Portland and Austin are not quite what they were. San Francisco and Silicon Valley are perhaps the last examples of scenius, but those scenes are driven by money, not art.
 
-https://www.ian-leslie.com/p/the-death-of-scenius
+<center>- Ian Leslie</center>
 
 
 Brooklyn Drill
