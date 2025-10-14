@@ -1,0 +1,119 @@
+---
+layout:     post
+title:      "Learn PHP Without Going Mad"
+baselink:   /php
+permalink:  /php
+date:       2015-10-15
+author:     Gavin
+img:        /img/php.jpg
+
+visible:    1
+published:  true
+quality:    2
+
+summary:    cope
+warnings: 	
+importance: 4
+wordcount:  
+categories: computers
+where:      "Glasgow"
+---
+
+
+<div class="separator" style="clear: both; text-align: center;">
+
+<img src="/img/php.jpg" />
+
+<br>
+<small>(c) <a href="https://www.flickr.com/photos/raindrift/sets/72157629492908038/">Ian Baker</a> (2012)</small>
+</div>
+<br /><br>
+
+PHP, the language which runs <a href="http://w3techs.com/technologies/details/pl-php/all/all">80% of the known internet</a>, is renowned for its <a href="http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/">fundamentally poor design</a>. The language began as a few little functions letting non-programmers manage rudimentary web forms. But it has expanded into the <a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html">7th most popular language</a> there is, a <a href="https://www.reddit.com/r/PHP/comments/2u4nq7/phpng_has_improved_speed_by_another_15_since/">very</a> <a href="http://benchmarksgame.alioth.debian.org/u64q/php.html">fast</a>, mature object-oriented thing which tries hard to manage <a href="http://phpthegoodparts.tumblr.com/">its primary burden: itself</a>. (Much of the horror has been <a href="http://programmers.stackexchange.com/questions/140147/how-to-break-the-php-is-a-bad-language-paradigm">patched over since PHP5</a>, I am told by grizzled veterans.) The lead dev at my work, who's spent 10 years with it, admits that it "<a href="http://zestyping.livejournal.com/124503.html?thread=690519">keeps you on your toes</a>". (However, one would prefer that one's tools were transparent, an extension of the arm.) 
+<br><br>
+Neal Stephenson notes that source code comments (the backstage cribs of your software) 
+
+<blockquote><i>read like the terse mutterings of pilots wrestling with the controls of damaged airplanes. The general feel is of a thousand monumental but obscure struggles seen in the stop-action light of a strobe.</i></blockquote>
+
+This is the spirit: stoical mutual aid in the face of a great external force. Even better, there's a large disgruntled demographic who have written <a href="https://www.google.co.uk/search?q=php+sucks">hundreds and hundreds</a> of 'PHP sucks' articles; perversely, this is actually a very good thing for PHP - since the best way to learn something hard is through <a href="http://afterallitcouldbeworse.blogspot.co.uk/2012/04/economic-satires.html">satire</a> and clear-sighted criticism. 
+<br />
+<br />
+Ways to learn PHP without hating everything:
+<br />
+<br />
+
+<big>1. THROUGH STOICISM</big>
+
+<ul>
+<li><a href="http://www.phptherightway.com/">A solid, kind, unradical overview</a> of the language, its community and the modern Way, by Josh Lockhart.</li>
+<li><a href="http://www.hackingwithphp.com/">A long and thoughtful intro</a>, from fundamentals to responsive multimedia frameworks, + exercises, by Paul Hudson. Includes <a href="http://www.hackingwithphp.com/2/2/0/advantages-of-php">a spirited defence</a> of its many upsides.</li>
+<li><a href="https://www.safaribooksonline.com/library/view/php-cookbook/1565926811/">Many clever mind-saving recipes</a>.</li>
+<li>The comments on <a href="http://php.net/manual/en/">the official docs</a> are often insightful, and the down-voting QA is rigorous.</li>
+<li><a href="http://php.net/manual/en/tokens.php">Learn these</a>; you'll be seeing a lot of them.</li>
+<li><a href="http://phpsadness.com/sad/52">Dumb-ass non-transitive special-case</a> <a href="http://php.net/manual/en/types.comparisons.php">truth tables</a>.</li>
+<li>PHP code looks pretty bad at first - all those dollars and arrows. To cure yourself of this judgment, go read some Perl.</li>
+</ul>
+<br />
+
+<big>2. THROUGH SADNESS and RAGE</big>
+
+<ul>
+<li><a href="http://phpsadness.com/">Constructive and rigorous list</a> of missing or hindering features.</li>
+<li><a href="http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/"><i>Very</i> thoughtful critique</a> taking in the faults at many levels: of philosophy, syntax, design, and individual functions, by Alex "Eevee" Munro.</li>
+<li><a href="https://wiki.theory.org/YourLanguageSucks#PHP_sucks_because">Laundry list</a>.</li>
+<li><a href="http://blog.codinghorror.com/php-sucks-but-it-doesnt-matter/">An angry capitulation</a> by Jeff Atwood.</li>
+</ul>
+<br />
+
+<big>3. THROUGH OTHERS' MISTAKES</big>
+
+<ul>
+<li><a href="https://codex.wordpress.org/User:Skippy/Common_PHP_Errors">The terse but ubiquitous basics</a>.</li>
+<li><a href="http://codeutopia.net/blog/2009/01/21/three-php-mistakes-that-will-cause-you-debugging-nightmares/">Awful consequences of its loose syntax</a>.</li>
+<li>Better: <a href="http://www.hackingwithphp.com/19/12/3/common-errors">applied errors</a>. Common, bad db or server interactions.</li>
+<li><a href="http://www.toptal.com/php/10-most-common-mistakes-php-programmers-make">These are mostly</a> PHP failing when people do sensible things.</li>
+</ul>
+
+<br />
+<br />
+<big>4. THROUGH HACKING</big><br />
+
+<ul>
+<li><a href="http://phpbench.com/">An objective performance guide</a> for winnowing the many duplicate functions.</li>
+<li>Writing <a href="http://php.net/manual/en/internals2.php">PHP for the low level</a>, by the PHP Group.</li>
+<li>Writing <a href="http://phpsecurity.readthedocs.org/en/latest/index.html">PHP for security</a>, by Padraic Brady.</li>
+</ul>
+<br />
+
+
+<big>5. BY NOT LEARNING PHP</big><br />
+
+(That is, use a nice opaque PHP framework from the start.)
+<ul>
+<li>For instance, <a href="https://laracasts.com/series/laravel-5-fundamentals">Laravel</a> is such a thick wrapper that you can forget you're writing PHP at all. (Needless to say <a href="http://www.techempower.com/benchmarks/">this has costs</a>.)</li>
+</ul>
+
+<br>
+
+<big>6. BY REFERENCE TO OTHER LANGUAGES</big><br />
+
+<ul>
+<li>vs <a href="https://wiki.python.org/moin/PythonVsPhp">Python</a></li>
+<li>vs <a href="http://www.leonardteo.com/2012/07/ruby-on-rails-vs-php-the-good-the-bad/">Ruby</a></li>
+<li>vs <a href="http://www.infoworld.com/article/2866712/php/php-vs-node-js-an-epic-battle-for-developer-mind-share.html
+">Node</a></li>
+<li><a href="https://blog.udemy.com/modern-language-wars/">TMI</a></li>
+</ul>
+
+<br />
+<br />
+<big>7. BY ANALOGY</big><br />
+
+<ul>
+<li>"PHP is the <a href="https://twitter.com/codinghorror/status/190943243511406592">Nickelback</a> of programming languages"</li>
+<li>"PHP is <a href="http://qr.ae/R4tVBH">the Orc</a> of programming languages. Ugly. Doesn't respect the rules. A big headache to a lot of people who manage them. But still dominates most of the Middle Earth."</li>
+<li>"PHP is <a href="https://www.quora.com/In-laymans-terms-what-are-the-major-programming-languages-and-what-are-they-used-for?share=1">your teenage sweetheart</a>, the girl you first awkwardly fumbled around with that one summer. Think twice about a more serious relationship though - this girl has serious issues."</li>
+<li>PHP is the <a href="http://crashworks.org/if_programming_languages_were_vehicles/">Ford Pinto</a> of programming languages (or, depending on who you ask, the <a href="https://www.reddit.com/r/cars/comments/247ttf/what_would_be_the_ak47_of_cars/">Toyota Hilux</a>).</li>
+</ul>
+
+<br />
