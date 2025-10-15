@@ -1,0 +1,118 @@
+---
+layout:     post
+title:      "AI editing: a test"
+baselink:   /editron
+permalink:  /editron
+date:       2025-10-15
+author:     Gavin
+img:        /img/lish.jpeg
+
+visible:    1
+published:  true
+quality:    5
+
+summary:    A little eval using this blog
+warnings: 	
+importance: 6
+wordcount:  
+categories: AI, writing
+where:      "Williamsburg, New York"
+---
+
+This blog has for some years had a [bug bounty](https://www.gleech.org/about/#ui-id-3): e.g. $10 for correcting a claim. But only 6 people ever took me up on it <a href="#fn:3" id="fnref:3">3</a> and in this day and age having a bounty for a blog this large represents _extreme attack surface_.
+
+So I just had Claude (Sonnet 4.5) and Kimi (K2) do an editing pass over my whole blog, 1m words. It cost $20 <a href="#fn:1" id="fnref:1">1</a>. Two hours later (longer than I expected but obviously still amazing) I received 200,000 words(!) of feedback.
+
+## Setup
+
+_[Script](https://colab.research.google.com/drive/1Qc9AKSxIy2XiCJcxAU_Gsb4e3FWjOZS8?usp=sharing)_
+
+_System prompt:_
+
+> Feel free to criticise. You are not necessarily agreeable, diplomatic, or polite. You consider the user’s opinion carefully but do not defer to it; the user needs information, not agreement. You follow Grice’s maxims: Be concise. Don't hide things. Be maximally clear and explicit. Everything you say to the user constitutes a claim that what you are saying is true, relevant, and important. The user's intended style is 'rigorous for a blogpost'; personal details and some poetic licence are not a problem per se unless unclear or irrelevant.
+
+_User prompt:_
+
+> Critique this blogpost. Categories: 1) unsupported claims / missing links, 2) poor flow, 3) typos, 4) recommended passages to cut, if any.\n\n{get(post)}
+
+<a href="#fn:2" id="fnref:2">2</a>
+
+## Were they any good?
+
+Judge for yourself: [Claude](https://gist.github.com/g-leech/b9569f8d64a6c02970a8878a593a1457), [Kimi](https://gist.github.com/g-leech/89b8d53dff9595cf865180953468a7ad) outputs.
+
+What did they catch? I still haven't incorporated most of it so come back later:
+
+<br>
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-fymr">Sonnet 4.5</th>
+    <th class="tg-fymr">K2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-f8tv"><i>Unsupported claims</i></td>
+    <td class="tg-0pky">TODO / 985 accused</td>
+    <td class="tg-0pky">TODO / 790 accused</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv"><i>Flow problems</i></td>
+    <td class="tg-0pky">TODO / 1017 accused</td>
+    <td class="tg-0pky">TODO / 617 accused</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv"><i>Typos</i></td>
+    <td class="tg-0pky">TODO+1 accepted / 974 suggested</td>
+    <td class="tg-0pky">TODO accepted / 615 suggested</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv"><i>Cuts</i></td>
+    <td class="tg-0pky">TODO accepted / 1297 suggested</td>
+    <td class="tg-0pky">TODO accepted / 529 suggested</td>
+  </tr>
+</tbody></table>
+
+Claude certainly worked harder.
+ 
+<br>
+
+If I were to pay them the going bug bounty rate, I would owe Claude $X - 18 and Kimi $X - 2.
+
+<!-- You can see the Claude git commit here and the Kimi git commit -->
+
+In 20/187 cases Claude felt strongly enough that something else was wrong that it spontaneously created a fifth category: "additional commentary". I really liked this!
+
+<br>
+
+---
+
+<br>
+
+So a hit-rate of A% for Claude and B% for Kimi.
+
+I don't actually think they're very good writers (though Kimi sometimes charms me). But editing is one of these cases where bad suggestions don't cost very much (these cases are also known as actual AI usecases).
+
+I'm still happy making the following claim in my About page: "no text computer-generated unless explicitly indicated". But it's less true than it was yesterday.
+
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+    	Kimi K2 was $2; Claude Sonnet 4.5 was $18. Both fairly slow, but Kimi was twice as fast even given RateLimitErrors. I should have used LiteLLM batching.
+    </li>
+    <li class="footnote" id="fn:2">
+    	Claude, perhaps confused by the HTML input, leaked a bunch of budget tags which I was surprised by:
+		```<budget:token_budget>200000</budget:token_budget>```
+		```<budget:token_budget>Used: 914 tokens Remaining: 199,086 tokens </budget:token_budget>```
+	</li>
+	<li class="footnote" id="fn:3">
+		because my prices were too low, or because people were charmed or intimidated by the implicit confidence
+	</li>
+</ol>
+
+</div>
