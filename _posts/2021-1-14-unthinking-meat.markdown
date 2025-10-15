@@ -10,10 +10,10 @@ img:        /img/meat.png
 visible:    1
 published:  true
 
-summary:    Homage to Bisson.
+summary:    
 quality:    5
-confidence: Fiction.
-importance: 5
+confidence: 
+importance: 
 wordcount:      
 categories: fiction, rationality
 argument:	

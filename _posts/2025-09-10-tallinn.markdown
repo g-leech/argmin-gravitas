@@ -14,7 +14,7 @@ quality:    6
 summary:    There and back again
 warnings: 	A foreign view. One year tour, plus borrowing other years by reading.
 confidence: 
-importance: 3
+importance: 5
 wordcount:  
 categories: places, uni, lists, autobio
 where:      "Tallinn"

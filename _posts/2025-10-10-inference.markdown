@@ -23,7 +23,7 @@ where:      "Over the Atlantic"
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/4215_RC01/embed_loader.js"></script>
 
 
-People in ML recently started using "inference" to mean _running_ a model: getting an output given a concrete input <a href="#fn:1" id="fn:1">1</a>. (The framework people, constained perhaps by taste or backwards-compatibility, still call the relevant function `.predict()` or `.eval()` or `.forward()` rather than `.infer()`.)
+People in ML recently started using "inference" to mean _running_ a model: getting an output given a concrete input <a href="#fn:1" id="fn:1">1</a>. (The framework people, constrained perhaps by taste or backwards-compatibility, still call the relevant function `.predict()` or `.eval()` or `.forward()` rather than `.infer()`.)
 
 This clashes pretty hard with the conventional usage (from statistics), which is much more like training. We used to _infer_ the values of unobserved parameters $$\theta$$ from observed $$X$$; now we "infer" the output $$X$$ of a set of already-fixed parameters $$\theta$$. How did _that_ happen?
 
