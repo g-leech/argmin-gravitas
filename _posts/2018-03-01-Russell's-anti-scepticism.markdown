@@ -16,6 +16,7 @@ categories: philosophy, ethics-of-belief, epistemology
 warnings:   
 importance: 1
 wordcount:      
+argument: 	russell-argument.html
 ---
 
 {%	assign niet = "https://books.google.co.uk/books?id=_qKBBbc3bWkC&pg=PA156&lpg=PA156&source=bl&ots=pXwxW4OMRT&sig=ACfU3U3TDv_0OSJP-xUi1gCeCjOIqeOTRA&hl=en&sa=X&ved=2ahUKEwj2jNGuhO_mAhWZQEEAHbRnCMkQ6AEwEnoECAcQAQ#v=onepage&q='posterity%20finds%20it'"	%}
@@ -24,7 +25,7 @@ wordcount:
 
 > The philosopher believes that the value of his philosophy lies in the whole, in the building: posterity discovers it in the bricks with which he built and which are then often used again for better building.
 
-<center> - <a href="{{niet}}">Nietzsche</a> </center>
+<center>&ndash; <a href="{{niet}}">Nietzsche</a> </center>
 
 <br>
 
@@ -38,15 +39,15 @@ Philosophers do this [funny thing](https://en.wikipedia.org/wiki/Principle_of_ch
 
 > The hardest of hard data are of two sorts: the particular facts of sense, and the general truths of logic … Without this assumption, we are in danger of falling into that universal scepticism which, as we saw, is as barren as it is irrefutable.
 
-<center>- Russell (1914)</center><br><br>
+<center>&ndash; Russell (1914)</center><br><br>
 
 > Indeed, there is little but prejudice and habit to be said for the view that there is a world at all.
 
-<center>- Russell (1931)</center><br><br>
+<center>&ndash; Russell (1931)</center><br><br>
 
 > If, however, anyone chooses to maintain solipsism [scepticism] ... I shall admit that he cannot be refuted, but shall be profoundly sceptical of his sincerity.
 
-<center>- Russell (1948)</center>
+<center>&ndash; Russell (1948)</center>
 
 <br><br>
 
@@ -80,11 +81,11 @@ C) So some serious class of my beliefs lack “knowledge” status.
 
 > “…the traditional epistemological project \[saw the\] theory of knowledge as bulwark against scepticism; proponents of [the new virtue epistemology] anticipate its displacement by a more diverse set of concerns…”
 
-<center> - Guy Axtell </center><br>
+<center>&ndash; Guy Axtell </center><br>
 
 > “Mathematics and the stars consoled me when the human world seemed empty of comfort. But changes in my philosophy have robbed me of such consolations... It seemed that what we had thought of as laws of nature were only linguistic conventions, and that physics was not really concerned with an external world. I do not mean that I quite believed this, but that it became a haunting nightmare, increasingly invading my imagination.”
 
-<center>- Russell</center><br>
+<center>&ndash; Russell</center><br>
 
 Did Russell naturalise epistemology, do virtue epistemology, or employ an ethics of belief? Well, his last major philosophical work, _Human Knowledge_ (1948) pre-dates Quine’s launching of the naturalising project by twenty years, and also pre-dates the first explicit piece of ‘virtue epistemology’ by thirty years - so the idea is absurd revisionism. 
 
@@ -157,10 +158,8 @@ Thus qualified, what remains of the merits of the approach? The clearest answer 
 
 
 <blockquote>
-	When... we speak of phi­los­o­phy as a crit­i­cism of knowl­edge, it is nec­es­sary to impose a cer­tain lim­i­ta­tion. If we adopt the atti­tude of the com­plete scep­tic, plac­ing our­selves wholly out­side all knowl­edge, and ask­ing, from this out­side posi­tion, to be com­pelled to return within the cir­cle of knowl­edge, we are demand­ing what is impos­si­ble, and our scep­ti­cism can never be refuted...<br> But it is not dif­fi­cult to see that scep­ti­cism of this kind is unrea­son­able.</blockquote>
-<center>- Russell
-
-</center><br><br>
+	When... we speak of philosophy as a criticism of knowledge, it is necessary to impose a certain limitation. If we adopt the attitude of the complete sceptic, placing ourselves wholly outside all knowledge, and asking, from this outside position, to be compelled to return within the circle of knowledge, we are demanding what is impossible, and our scepticism can never be refuted...<br> But it is not difficult to see that scepticism of this kind is unreasonable.</blockquote>
+<center>&ndash; Russell</center><br><br>
 
 In _The Problems of Philosophy_, Russell tries to explain our knowledge as a process of abduction from directly apprehended facts (‘knowledge by acquaintance’) to facts that explain them (‘knowledge by description’). Here is a representation, which I’ll modify as the sceptical challenge runs its course:
 
@@ -190,26 +189,25 @@ On to radical scepticism. Russell offers a _normative_ response. The normative b
 <ol start="8">
 	<li><i>Lack norm of doubt</i>: If not sufficiently grounded, any belief is open to legitimate doubt.</li>
 	<li><i>Infallibilist norm of assertion</i>: You ought not believe p if p is open to legitimate doubt.</li>
-	<li><i>Prove-it norm</i>: The bur­den of proof for any claim falls to the claimant.</li>
+	<li><i>Prove-it norm</i>: The burden of proof for any claim falls to the claimant.</li>
 </ol>
 
 (8) and (10) are essential to critical thinking – but when combined with internalism (6), they generate a destructive sceptical demand: hyperbolic doubt and synchronic reconstruction in sequence: “_take the totality of things you believe, subtract [your] claim and everything that you cannot defend without assuming it, and now show that the claim is correct_.”
 
-Russell thinks this is impossible (see norm 5’), and tries to block this scale of scepticism by showing the position it entails to be unreasonable, and so negligible. (He is in effect defending the bare thesis _Dog­ma­tism_, that at least one of one’s knowledge-claims is true, & that one knows it is.) 
+Russell thinks this is impossible (see norm 5’), and tries to block this scale of scepticism by showing the position it entails to be unreasonable, and so negligible. (He is in effect defending the bare thesis _Dogmatism_, that at least one of one’s knowledge-claims is true, & that one knows it is.) 
 
 Reconstructed: 
 
-
-	P1. If it is impossible to meet a demand, then that demand is unreasonable.
-	P2. It is impossible to meet the sceptical demand.
-	P3. If the demand is unreasonable, then the sceptical position is unreasonable.
-	C. The sceptical position is unreasonable. (by double modus ponens)
+P1. If it is impossible to meet a demand, then that demand is unreasonable.
+P2. It is impossible to meet the sceptical demand.
+P3. If the demand is unreasonable, then the sceptical position is unreasonable.
+C. The sceptical position is unreasonable. (by double modus ponens)
 
 
 But this requires a further epistemic norm underlying the whole attitude:
     
 <ol start="11">
-	<li><i>Dogmatic norm</i>: It is unrea­son­able to doubt dogmatism if there are no possible rea­sons that could persuade some­one who doesn’t believe it to believe it. </li>
+	<li><i>Dogmatic norm</i>: It is unreasonable to doubt dogmatism if there are no possible reasons that could persuade someone who doesn’t believe it to believe it. </li>
 </ol>
 
 This is obviously ad hoc, but it has bigger problems. Say there are only two possibilities: 
@@ -217,27 +215,27 @@ This is obviously ad hoc, but it has bigger problems. Say there are only two pos
 1) if one finds compelling reasons to endorse dogmatism, one must believe it (and thereby stop being a sceptic) on pain of unreasonableness; and <br>
 2) even if one does not find compelling reasons, then (11) makes one unreasonable not to believe it. <br>
 
-The unacceptable implication is that inabil­ity to ground a posi­tion is taken to be a compelling rea­son to believe it. (It also breaches Engel’s condition of normative freedom, given above.) Further:
+The unacceptable implication is that inability to ground a position is taken to be a compelling reason to believe it. (It also breaches Engel’s condition of normative freedom, given above.) Further:
 
-	P1. By (8), every belief is sub­ject to exam­i­na­tion and the pos­si­bil­ity of doubt
-	P2. Dogmatism is a belief.
-	P3. Thus the scep­tic can exam­ine dog­ma­tism and pos­si­bly doubt it.
-	P4. Exam­i­na­tions must admit the pos­si­bil­ity there are no com­pelling grounds.
-	P5. If they are not found, one need not believe dogmatism.
-	P6. Russell’s reasoning entails that dog­ma­tism can­not be truly exam­ined.
-	C. So by contradiction of basic norms, the argument fails.
+P1. By (8), every belief is subject to examination and the possibility of doubt
+P2. Dogmatism is a belief.
+P3. Thus the sceptic can examine dogmatism and possibly doubt it.
+P4. Examinations must admit the possibility there are no compelling grounds.
+P5. If they are not found, one need not believe dogmatism.
+P6. Russell’s reasoning entails that dogmatism cannot be truly examined.
+C. So by contradiction of basic norms, the argument fails.
 
 It could be rearticulated as a properly general norm:
 
-&nbsp;&nbsp;&nbsp;11'. _Cogency norm_: It is unrea­son­able to doubt a posi­tion if there are no possible rea­sons that could persuade some­one who doesn’t believe the position to believe it.
+&nbsp;&nbsp;&nbsp;11'. _Cogency norm_: It is unreasonable to doubt a position if there are no possible reasons that could persuade someone who doesn’t believe the position to believe it.
 
 But this is absurdly strong: even if Russell were to accept it (and the suggestion is philosophical slander), the argument collapses, since:
 
-	P1. (11’) stamps as indubitable all sets of beliefs that can­not 
-	be jus­ti­fied except by cir­cular reasoning.
-	P2. There are a vast number of such sets.
-	P3. Many of those sets will be incompatible with each other.
-	C. (11’) generates and asserts a vast number of contradictions.
+P1. (11’) stamps as indubitable all sets of beliefs that cannot 
+be justified except by circular reasoning.
+P2. There are a vast number of such sets.
+P3. Many of those sets will be incompatible with each other.
+C. (11’) generates and asserts a vast number of contradictions.
 
 <br>
 
@@ -268,10 +266,10 @@ It gives up epistemic ground – conceding that data are private, and we cannot 
 
 But HK actually develops a double theory of knowledge, with two sets of standards, since it also holds the core doctrines of what we now know as naturalised epistemology: it is fallibilist, views some knowing as animal behaviour, takes “best science” as a given and invites psychology to bear on epistemological questions. His argument boils down to a pragmatic demand to widen our conception of reasonable justification to include (some) non-demonstrative inferences:
 
-	P1) Scientific inference is not demonstrative.
-	P2) Either it is unreasonable, or not all reasonable argument is demonstrative.
-	P3) Scientific inference is not unreasonable.
-	C) Not all reasonable argument is demonstrative.
+P1) Scientific inference is not demonstrative.
+P2) Either it is unreasonable, or not all reasonable argument is demonstrative.
+P3) Scientific inference is not unreasonable.
+C) Not all reasonable argument is demonstrative.
 
 The project is to canonise scientific inference, which sidelines scepticism (though he claims to not be merely ignoring it).
 
@@ -331,7 +329,7 @@ Failing these reconstructions of Russell’s postulates, though, their status is
 	<blockquote>
 		We can live with the concession that we do not, strictly, know some of the things we believed ourselves to know, provided we can retain the thought that we are fully justified in accepting them … what we might call the Russellian Retreat… we must content ourselves with probability, defeasibility and inconclusive justifications where standardly we had wanted to claim more.
 	</blockquote>
-	– Crispin Wright
+	&ndash; Crispin Wright
 	<br /><br>
 </div>
 

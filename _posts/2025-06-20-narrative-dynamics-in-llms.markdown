@@ -210,7 +210,10 @@ Why call it "exquisite"? One bit of jargon we have for this is "truesight", thei
 * They can [often tell](https://arxiv.org/abs/2505.23836) when they're being tested, vs when they're being used normally. This is because evaluation tasks are notably different, more fiction-smelling, than real tasks;
 * They can [guess](https://www.sciencedirect.com/science/article/pii/S2949882124000483) your Big 5 personality traits well;
 * They can easily guess when something is from a given community, e.g. LessWrong, and can [often](https://www.lesswrong.com/posts/doPbyzPgKdjedohud/the-case-for-more-ambitious-language-model-evals?commentId=XZFTx2ek8G8stBKW4) guess the user that wrote a comment. 
+
+<img src="/img/Gosv-2LacAIsbwX.jpeg" />
    
+  
 **Interactive bit**: go give it \>50 words of your typical writing and see what it infers about you: age, nationality, etc.
 
 Sidenote: Anonymous blogs are no longer a real option unless you totally firewall your government name.

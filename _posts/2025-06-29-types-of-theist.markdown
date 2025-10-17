@@ -23,7 +23,10 @@ where:      "Munich"
 
 {%	assign ali = "https://unherd.com/2023/11/why-i-am-now-a-christian/"	%}
 {%	assign lw = "https://www.lesswrong.com/posts/aHaqgTNnFzD7NGLMx/reason-as-memetic-immune-disorder"	%}
-{%	assign nuc = "https://www.cancer.org/cancer/diagnosis-staging/tests/biopsy-and-cytology-tests/testing-biopsy-and-cytology-samples-for-cancer/what-doctors-look-for.html#:~:text=Typically%2C%20the%20nucleus%20of%20a,often%20contains%20too%20much%20DNA"	%}
+cccc{%	assign nuc = "https://www.cancer.org/cancer/diagnosis-staging/tests/biopsy-and-cytology-tests/testing-biopsy-and-cytology-samples-for-cancer/what-doctors-look-for.html#:~:text=Typically%2C%20the%20nucleus%20of%20a,often%20contains%20too%20much%20DNA"	%}
+{%	assign ideal = "https://en.wikipedia.org/wiki/Ideal_type"	%}
+{%	assign deathcab = "https://www.youtube.com/watch?v=3iV_1ESMHaI" %}
+{%	assign ssc = "https://slatestarcodex.com/2019/10/30/new-atheism-the-godlessness-that-failed/"		%}
 
 
 > Thou hast conquered, O pale Galilean; the world has grown grey from thy breath;<br>We have drunken of things Lethean, and fed on the fullness of death.<br>Laurel is green for a season, and love is sweet for a day;<br>But love grows bitter with treason, and laurel outlives not May.<br>Sleep, shall we sleep after all? for the world is not sweet in the end;<br>For the old faiths loosen and fall, the new years ruin and rend.<br>Fate is a sea without shore, and the soul is a rock that abides;<br>But her ears are vexed with the roar and her face with the foam of the tides.<br>O lips that the live blood faints in, the leavings of racks and rods!<br>O ghastly glories of saints, dead limbs of gibbeted Gods!<br>Though all men abase them before you in spirit, and all knees bend,<br>I kneel not neither adore you, but standing, look to the end.

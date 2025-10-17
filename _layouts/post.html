@@ -14,11 +14,10 @@ layout: default
 
   <div class="post-meta">
     {%  assign s = "&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;"  %}
-    {%  assign t = "•&nbsp;&nbsp;"  %}
+    {%  assign t = "•&nbsp;&nbsp;&nbsp;"  %}
     
     {%  include british_date.md   %}
 
-  <br>
     {% if page.summary %}
         <br>{{t}}<i>{{  page.summary  }}</i>
     {% endif %}
@@ -48,10 +47,9 @@ layout: default
     {% endif %} 
     
     {% if page.argument %} 
-        {%  include dropdown.html     %}    
+        <br>{%  include dropdown.html     %}    
     {% endif %} 
 
-    <br><br>
 
     {% if page.simple or page.stylised or page.technical %} 
       Available in  

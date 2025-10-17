@@ -82,17 +82,25 @@ If I were to pay them the going bug bounty rate, I would owe Claude $X - 18 and 
 
 <!-- You can see the Claude git commit here and the Kimi git commit -->
 
-In 20/187 cases Claude felt strongly enough that something else was wrong that it spontaneously created a fifth category: "additional commentary". I really liked this!
-
+<div class="accordion">
+	<h3>Analysis of the analysis</h3>
+	<div>
+		(In 20 / 187 cases Claude felt strongly enough that something else was wrong that it spontaneously created a fifth category: "additional commentary". I really liked this!)
+<!--  -->
+		Claude called my writing "abrupt" 234 times. It really doesn't like doorkick openings, which I love.
+	</div>
+</div>
 <br>
 
 ---
 
 <br>
 
-So a hit-rate of A% for Claude and B% for Kimi.
+So a hit-rate of A% for Claude and B% for Kimi. How does that compare to the real thing? I've had the benefit of a [real editor](https://x.com/rebeccahiscott?lang=en) in the past; she wrote _50,000 words_ of comments/edits on 54,000 words of text. (We hit the limit and crashed gdocs.) In principle I could try and load the history and work out her hit rate but instead I'll say it was around 50%.
 
-I don't actually think they're very good writers (though Kimi sometimes charms me). But editing is one of these cases where bad suggestions don't cost very much (these cases are also known as actual AI usecases).
+<!-- Rebecca never mistook a space for a comma, and didn't once start ranting at how the backend html meta tags were duplicated. -->
+
+I don't actually think they're very good writers (though Kimi sometimes charms me with surprising usage, like "jooked"). But editing is one of these cases where bad suggestions don't cost very much (these cases also known as actual AI usecases).
 
 I'm still happy making the following claim in my About page: "no text computer-generated unless explicitly indicated". But it's less true than it was yesterday.
 
@@ -107,8 +115,8 @@ I'm still happy making the following claim in my About page: "no text computer-g
     </li>
     <li class="footnote" id="fn:2">
     	Claude, perhaps confused by the HTML input, leaked a bunch of budget tags which I was surprised by:
-		```<budget:token_budget>200000</budget:token_budget>```
-		```<budget:token_budget>Used: 914 tokens Remaining: 199,086 tokens </budget:token_budget>```
+		<code>&lt;budget:token_budget><br>200000<br>&lt;/budget:token_budget></code>
+		<code>&lt;budget:token_budget><br>Used: 914 tokens Remaining: 199,086 tokens <br>&lt;/budget:token_budget></code>
 	</li>
 	<li class="footnote" id="fn:3">
 		because my prices were too low, or because people were charmed or intimidated by the implicit confidence

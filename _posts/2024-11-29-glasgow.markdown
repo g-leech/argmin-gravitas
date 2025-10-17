@@ -5,7 +5,7 @@ baselink:   /glesga
 permalink:  /glesga
 date:       2025-08-01
 author:     Gavin   
-img:        /img/limmy.png"
+img:        /img/limmy.png
 
 visible:    1
 published:  true
