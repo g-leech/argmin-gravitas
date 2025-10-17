@@ -15,5 +15,6 @@
   {% assign suffix = "rd"  %}
 {%    endif    %}
 
-
-{{day}}{{suffix}} {{ page.date | date: "%B %Y" }}
+<div id="bdate">
+  {{day}}{{suffix}} {{ page.date | date: "%B %Y" }}
+</div>
