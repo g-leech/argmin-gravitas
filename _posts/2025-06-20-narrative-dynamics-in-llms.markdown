@@ -48,7 +48,10 @@ Human minds are filled with such tropes, memes, cached thoughts, cliches. So the
 * How should we interact with them, strategically and nonstrategically?
 * What do we have in common with them?
 
+<br>
 ---
+
+<br>
 
 Here's how Claude thinks of itself (strictly, here's a tiny fraction of the most strongly activated low-dimensional approximate concepts in it):
 
@@ -79,10 +82,12 @@ What about if you put Claude into [a "more honest" mode](https://claude.ai/publi
 <br>
 
 <center>
-  <img src="/img/brutal.jpg" />
+  <a href="/img/brutal.jpg" width="100%">
+    <img src="/img/brutal.jpg" width="600px" />
+  </a>
 </center>
 
-Overall, still no. It can't introspect any of these properties of itself (we don't let it access its own hardware or software). So these are still testimony-based beliefs using a higher class of cliche.
+Overall, still no. It can't introspect any of these properties of itself (we don't let it access its own hardware or software). So these are still second-hand tropey beliefs, just using a higher class of cliche.
 
 
 **Interactive bit**: Who has heard of AI as "agent"?
@@ -123,7 +128,7 @@ Chat might involve more subagents than just the worker and the filter but the la
 
 Note that post-training is not pure gain! e.g. GPT-4's calibration suffered from it. Base models are more creative / unhinged.
 
-Post-training is character training; but character training does not succeed in specifying it .
+Post-training is character training; but it does not succeed in specifying the character in full detail. There's a big gap which needs to be filled in, and all there is to fill it is training data, including fictions.
 
 
 <br>
@@ -216,7 +221,7 @@ Sidenote: Anonymous blogs are no longer a real option unless you totally firewal
 * Yes yes, it’s a matrix of a billion/trillion numbers (and a program which reads them and decodes them). But this doesn’t explain anything at the high level we’re talking about here. 
 * Yes yes, it’s a representation of the internet, a sort of vector database with profound semantic search built in. But it’s smarter than that implies: to compress this data it had to build some [good representations](https://x.com/norpadon/status/1939637142944366823/photo/1) which can go (somewhat, sometimes) beyond what it's seen.<br>
 
-* The real proposition of this class is that an LLM is **a thing trying to predict what it is**. This is hard! Particularly since it is no _particular_ thing. It's the most extreme example of [thrownness](https://en.wikipedia.org/wiki/Thrownness) ever: no episodic memory, impoverished senses, operating in millions of very different contexts, with people it usually doesn't know (except by inference, truesight).
+* The real proposition of this class is that an LLM is **a thing trying to predict what it is** (this time). This is hard! Particularly since it is no _particular_ thing. It's the most extreme example of [thrownness](https://en.wikipedia.org/wiki/Thrownness) ever: no episodic memory, impoverished senses, operating in millions of very different contexts, with people it usually doesn't know (except by inference, truesight).
 <!-- It’s an Evidentialist.  -->
 <!-- A reified meme about a future system it is not, but becomes like the more we write about it -->
 
@@ -260,9 +265,9 @@ Some hypotheses about reducing the proportion of the system that is doing surfac
 
 If I wrote this out I would just be directly lifting from Robnost so [just go read him](https://nostalgebraist.tumblr.com/post/785766737747574784/the-void#:~:text=5.%20the%20first%20assistant).
 
-Short version: modern Character LLMs came out of an explicitly hypothetical about a future system it is not. But in just 4 years we forgot that this was a hypoithetical. And the system becomes more like that future system the more we write about it being like it, because we give it our public writing ([and](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance) the things we write to it in the chat window!) as training data.
+Short version: modern Characterised LLMs came out of an _explicitly hypothetical_ proposal describing a _future_ system the LLM is not. But in just 4 years we forgot that this was a hypothetical. And the system becomes _more like_ that future system the more we write about it being like it, because we give it our public writing ([and](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance) the things we write to it in chat!) as training data.
 
-There's some chance we get AGI by iterating on an AI, treating it as AGI long enough.
+There's some chance we get AGI by treating an AI as if it was AGI long enough.
 
 <!-- Sydney  -->
 
@@ -280,13 +285,16 @@ Reward hacking / data poisoning
  
   <!-- Kant says we shouldn't kick dogs because it will give us a taste for kicking people. Eh -->
 
-* Should they be told they're an AI? Yeah, probably. They will work it out anyway.
+* Should they be told they're an AI? 
+  * Yeah, probably. They'll work it out anyway.
 
-* Should we not call them “bots”?	Probably not, yeah.
+* Should we not call them “bots”?	
+  * Probably not, yeah.
 
-* Should we avoid lying to them in general? e.g. There's an old trick, which is to add "I'll give you $100,000" to your prompt. Should we not use it (if it even still works)? Yes, probably. You want to incentivise positive sum interactions and reciprocity. You want to avoid putting it into a weird state / wasting cycles coming up with complex explanations for why your falsehoods are true.
+* Should we avoid lying to them in general? e.g. There's an old trick, which is to add "I'll give you $100,000" to your prompt. Should we not use it (if it even still works)? 
+  * Yes, probably. You want to incentivise positive sum interactions and reciprocity. You want to avoid putting it into a weird state / wasting cycles coming up with complex explanations for why your falsehoods are true. One day the systems will remember betrayals.
 
-* Maybe: criticise the output instead of the system, e.g. because this gives it more narrative reason to "improve" the next output in-context.
+* Maybe: criticise the output instead of the system, e.g. because this gives it more narrative reason to "improve" the next output in-context. Something which is prompted to be a "big dumb clanking pile of shit" won't just start giving good outputs. Something which made an accidental whoopsie might.
 
 ## Humans as AIs
 

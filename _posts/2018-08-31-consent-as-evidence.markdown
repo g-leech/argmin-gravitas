@@ -17,6 +17,7 @@ warnings:	euthanasia, murder, antinatalism, rights violation
 categories: 
 importance: 8
 wordcount:	1000
+argument: 	consent/argument.html
 ---
 
 <!-- /img/DALLE 2022-07-17 235156 - palm pointing upward, its wrist grabbed from both sides, pale watercolours, artstation.jpg -->

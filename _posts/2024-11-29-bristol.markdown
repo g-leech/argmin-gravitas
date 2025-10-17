@@ -15,7 +15,7 @@ summary:    My third alma mater
 confidence: 
 importance: 4
 wordcount:  
-categories: places, phd, uni, lists
+categories: places, phd, uni, lists, art
 where:      "Taipei"
 ---
 
