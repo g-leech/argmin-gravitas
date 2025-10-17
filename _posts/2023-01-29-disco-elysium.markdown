@@ -20,6 +20,7 @@ argument:
 categories: art, politics, mind, becoming, vidya
 warnings:   Spoilers throughout.
 where:      "Bristol"
+argument:   disco/argument.html
 ---
 
 {%  include disco/links.md   %}

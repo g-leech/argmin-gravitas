@@ -17,6 +17,7 @@ importance: 5
 wordcount:  2000
 categories: music, art, capitalism, economics
 where:      "Bristol, UK"
+argument: 	spot/argument.html
 ---
 
 <center>

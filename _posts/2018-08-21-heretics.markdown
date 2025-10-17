@@ -1,20 +1,20 @@
 ---
-layout:     post
-title:      "'The Unpersuadables' (2013) by Storr"
-baselink:   /demarcation
-permalink:  /demarcation
-date:       2018-08-21
-author:     Gavin   
-img:        /img/storr.jpeg
+layout:     	post
+title:      	"'The Unpersuadables' (2013) by Storr"
+baselink:   	/demarcation
+permalink:  	/demarcation
+date:       	2018-08-21
+author:     	Gavin   
+img:        	/img/storr.jpeg
 
-visible:    1
-published:  true
-quality: 	5
+visible:    	1
+published:  	true
+quality: 		5
 
-summary:    Understanding good science & epistemology via counterexamples. 
-importance: 6
-warnings:	epistemic angst, relativism, Holocaust denial
-wordcount:  1600
+summary:    	Understanding good science & epistemology via counterexamples. 
+importance: 	6
+warnings:		epistemic angst, relativism, Holocaust denial
+wordcount:  	1600
 categories:	rationality, philosophy
 ---
 

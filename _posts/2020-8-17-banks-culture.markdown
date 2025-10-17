@@ -331,7 +331,7 @@ Big reasons for hope:
 
 * The Minds are not improving much; <a href="{{itg}}">ancient ones</a> orchestrate many of the grand successful space operas. This is odd.
 
-* The Minds are funny. They are addicted to <a href="{{irreal}}">super videogames</a>. They gossip, and they plot, and they can dislike each other. They do all this a billion times faster than us, in amusing cryptographic ways, but they remain comprehensible and likeable superintelligences. We should expect even aligned superintelligences to be much stranger than this: <a href="{{design}}">mind design space</a> is too large, and our concepts too small, for it to be otherwise.
+* The Minds are funny. They are addicted to <a href="{{irreal}}">supervideogames</a>. They gossip, and they plot, and they can dislike each other. They do all this a billion times faster than us, in amusing cryptographic ways, but they remain comprehensible and likeable superintelligences. We should expect even aligned superintelligences to be much stranger than this: <a href="{{design}}">mind design space</a> is too large, and our concepts too small, for it to be otherwise.
 
 <!-- * It is right to be sceptical of markets: they are optimisers that do not have our objective in mind. But Banks goes further, and ignores the hard constraints on central planning. This only works because  -->
 
