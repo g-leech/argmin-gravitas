@@ -14,11 +14,10 @@ layout: default
 
   <div class="post-meta">
     {%  assign s = "&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;"  %}
-    {%  assign t = "•&nbsp;&nbsp;"  %}
+    {%  assign t = "•&nbsp;&nbsp;&nbsp;"  %}
     
     {%  include british_date.md   %}
 
-  <br>
     {% if page.summary %}
         <br>{{t}}<i>{{  page.summary  }}</i>
     {% endif %}
@@ -26,6 +25,13 @@ layout: default
     {% if page.confidence %}
         <br>{{t}}<i>Confidence</i>: {{ page.confidence }}
     {% endif %} 
+
+    {%  if page.categories.size > 0   %}
+        <br>{{t}}<i>Tags:</i> 
+        {% for tag in page.categories %}
+          <a style="text-decoration: none;" href="/tags#{{ tag | replace: ',', ''  }}">{{ tag }}</a>
+        {% endfor %}
+    {%  endif  %}
 
     {% if page.importance %}
         <br>{{t}}<i>Topic importance</i>: <a href="/importance">{{  page.importance }} / 10</a>
@@ -39,6 +45,7 @@ layout: default
         <br>{{t}}<i>Reading time</i>: {{ page.wordcount | divided_by: 2000.0 | ceil | times: 10 }} mins. 
     {% endif %} 
 
+
     {% if page.cross %} 
         <br>{{t}}<a href="{{ page.cross }}">Cross-posted here</a>.
     {% endif %} 
@@ -48,10 +55,10 @@ layout: default
     {% endif %} 
     
     {% if page.argument %} 
-        {%  include dropdown.html     %}    
+        <br>{%  include dropdown.html     %}    
     {% endif %} 
 
-    <br><br>
+
 
     {% if page.simple or page.stylised or page.technical %} 
       Available in  
