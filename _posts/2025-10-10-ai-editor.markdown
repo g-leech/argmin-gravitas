@@ -19,6 +19,17 @@ categories: AI, writing
 where:      "Williamsburg, New York"
 ---
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px; border-top: 0px; border-left: 0px; border-right: 0px;font-size:14px}
+.tg .tg-wfpf{background-color:#FDFDFD;border-color:#ffffff;color:#000;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-aotn{background-color:#FDFDFD;border-color:#000;color:#111;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-4r9o{background-color:#FDFDFD;border-color:#ffffff;color:#111;text-align:left;vertical-align:top}
+</style>
+
+
 This blog has for some years had a [bug bounty](https://www.gleech.org/about/#ui-id-3): e.g. $10 for correcting a claim. But only 6 people ever took me up on it <a href="#fn:3" id="fnref:3">3</a> and in this day and age having a bounty for a blog this large represents _extreme attack surface_.
 
 So I just had Claude (Sonnet 4.5) and Kimi (K2) do an editing pass over my whole blog, 1m words. It cost $20 <a href="#fn:1" id="fnref:1">1</a>. Two hours later (longer than I expected but obviously still amazing) I received 200,000 words(!) of feedback.
@@ -33,56 +44,103 @@ _System prompt:_
 
 _User prompt:_
 
-> Critique this blogpost. Categories: 1) unsupported claims / missing links, 2) poor flow, 3) typos, 4) recommended passages to cut, if any.\n\n{get(post)}
+> "Critique this blogpost, focussing on 1) unsupported claims / missing links, 2) poor flow, 3) typos, 4) recommended passages to cut, if any.\n\nThe user's intended style is 'rigorous for a blogpost'; personal details and some poetic licence are not a problem per se unless they are unclear or irrelevant. Do not orient to the posts like you would a college essay or a corporate report.\n\n{post}
 
 <a href="#fn:2" id="fnref:2">2</a>
+
 
 ## Were they any good?
 
 Judge for yourself: [Claude](https://gist.github.com/g-leech/b9569f8d64a6c02970a8878a593a1457), [Kimi](https://gist.github.com/g-leech/89b8d53dff9595cf865180953468a7ad) outputs.
 
-What did they catch? I still haven't incorporated most of it so come back later:
+What did they catch? (I wanted to go through both of them but after seeing Claude I can't stomach doing Kimi.)
 
 <br>
 
-<table class="tg"><thead>
-  <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-fymr">Sonnet 4.5</th>
-    <th class="tg-fymr">K2</th>
+<table>
+  <thead>
+  <tr style="border-bottom: 1px;">
+    <th></th>
+    <th class="tg-aotn">Sonnet 4.5</th>
+    <th class="tg-aotn">K2</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-f8tv"><i>Unsupported claims</i></td>
-    <td class="tg-0pky">TODO / 985 accused</td>
-    <td class="tg-0pky">TODO / 790 accused</td>
+    <td><i>Unsupported claims</i></td>
+    <td>18 accepted / 985 accused</td>
+    <td>TODO / 790 accused</td>
   </tr>
   <tr>
-    <td class="tg-f8tv"><i>Flow problems</i></td>
-    <td class="tg-0pky">TODO / 1017 accused</td>
-    <td class="tg-0pky">TODO / 617 accused</td>
+    <td><i>Flow problems</i></td>
+    <td>11 / 1017 accused</td>
+    <td>TODO / 617 accused</td>
   </tr>
   <tr>
     <td class="tg-f8tv"><i>Typos</i></td>
-    <td class="tg-0pky">TODO+1 accepted / 974 suggested</td>
-    <td class="tg-0pky">TODO accepted / 615 suggested</td>
+    <td>57 accepted / 974 suggested</td>
+    <td>TODO accepted / 615 suggested</td>
   </tr>
   <tr>
     <td class="tg-f8tv"><i>Cuts</i></td>
-    <td class="tg-0pky">TODO accepted / 1297 suggested</td>
-    <td class="tg-0pky">TODO accepted / 529 suggested</td>
+    <td>8 accepted / 1297 suggested</td>
+    <td>TODO accepted / 529 suggested</td>
   </tr>
 </tbody></table>
 
-Claude certainly worked harder.
- 
-<br>
+<br> 
 
-If I were to pay them the going bug bounty rate, I would owe Claude $X - 18 and Kimi $X - 2.
+So a hit-rate of 2% for Claude and X% for Kimi.
+ 
+The non-hits (edits not accepted into the blog) are a mix of a) contemptible and forced suggestions \[70%\] and b) valid or arguable things I just happen not to agree with \[30%\].
+
+
+If I were to pay them the going bug bounty rate, I would owe Claude $230 (248-18) and Kimi $TODO - 2. But, to get the _value to me_, I'd subtract three hours of my labour reading all this crap. So I'd be in the red but for my scientific interest in the results.
 
 <!-- You can see the Claude git commit here and the Kimi git commit -->
 
-In 20/187 cases Claude felt strongly enough that something else was wrong that it spontaneously created a fifth category: "additional commentary". I really liked this!
+<br>
+
+<div class="accordion">
+	<h3>Analysis of the analysis</h3>
+	<div>
+    It is constantly reaching and bullshitting. Its absolute worst habit is pretending it looked up the linked pages when the Messages API just doen't do this by default.
+    <blockquote>"Major label revenue share is at its lowest ever (still absurdly high, 70%)"** - The link is provided but the "70%" figure isn\'t clearly supported by it, and "lowest ever" is a strong historical claim needing more context.</blockquote>
+    <br><br>
+    Still a bunch of surprising character-level badness, from Hanzi decoding errors, unescaped stuff, and simple typos of its own:
+    <blockquote>**"DNVs"** should likely be "DMVs" (Department of Motor Vehicles) in the Fred Pessaro description. [Actually, upon reflection, "DNVs" might be intentional obscurity, but it\'s unclear]<br><br>
+    "The scientists are just scrabbling in the foothills" - article needed: "The scientists are just scrabbling in **the** foothills"<br><br>
+    "Obviously this is isn\'t as abstract"** - Should be "this isn\'t"
+</blockquote>
+    <br><br>
+<!--  -->
+		(In 20 / 187 cases Claude felt strongly enough that something else was wrong that it spontaneously created a fifth category: "additional commentary". I really liked this!)<br><br>
+    It read the html raw, and took it very seriously, which is possibly my mistake for not decoding the Requests object first.
+    <blockquote>**"2.761.0"** and similar number formatting in the SVG code appears throughout the HTML - these are likely rendering artifacts rather than intentional.<br><br>
+    "2.23899999999999"** in `&lt;path fill="#fff" d=\"M102.817 247.995c-2.761.0-5-2.239-5-5 0-64.833` - This appears to be a rendering issue in the SVG code but shows poor attention to detail\"</blockquote>
+    <br><br>
+<!--  -->
+		Claude called my writing "abrupt" 234 times. It really doesn't like doorkick openings, which I love. This reveals to me that it's optimised for school essays and corporate stuff with a plodding formal constraint. Bit disappointing that it thus ignored the system prompt - 4.5 seems better at following the actual instruction.<br><br>
+    <blockquote>The comment form has `method=\'post\'` but appears to be a static Jekyll site - this likely won\'t function without backend processing</blockquote>
+    (Good point in general! But I use a Netlify listener.)
+	</div>
+  <h3>What does Claude think of this eval?</h3>
+  <div>
+    <a href="https://claude.ai/share/44318437-5100-4d74-b9f3-a99f6bce46a0">A mostly-spurious defence.</a><br><br>
+    Its kind, false hypothesis is that I'm just too good to need an editor ("you paid for wall-to-wall coverage of content that apparently doesn't need it"). Its suppositions about the human editor are just wrong (she came in after the first draft). Pleasing to see that cope is universal.
+  </div>
+</div>
+
+<br>
+
+Overall (besides the typos) their opinions weren't worth reading - and so I despair at what they are making you think of me. This is a surprise.
+
+How does a 2% hit rate compare to the real thing? I've had the benefit of a [real editor](https://x.com/rebeccahiscott?lang=en) in the past; she wrote _50,000 words_ of comments/edits on 54,000 words of text. (We hit the limit and crashed gdocs.) In principle I could try and load the history and work out her hit rate but instead I'll say it was above 50%.
+
+<!-- Rebecca never mistook a space for a comma, and didn't once start ranting at how the backend html meta tags were duplicated. -->
+
+I don't think they're very good _writers_ (though Kimi sometimes charms me with surprising usage, like "jooked"). But I had thought editing one of these cases where bad suggestions don't cost very much (these cases also known as actual AI usecases). And yet it still would have cost me too much _time_, if I hadn't had a semi-scientific second goal for the project.
+
+
 
 <br>
 
@@ -90,11 +148,98 @@ In 20/187 cases Claude felt strongly enough that something else was wrong that i
 
 <br>
 
-So a hit-rate of A% for Claude and B% for Kimi.
+## Round 2: Reconfigurations
 
-I don't actually think they're very good writers (though Kimi sometimes charms me). But editing is one of these cases where bad suggestions don't cost very much (these cases are also known as actual AI usecases).
+OK OK, but this is _high-tech_ Gavin, OK? It doesn't just work out of the box. You have to scaffold it.
 
-I'm still happy making the following claim in my About page: "no text computer-generated unless explicitly indicated". But it's less true than it was yesterday.
+<div class="accordion">
+  <h3>TODO: Decode the html first</h3>
+  <div>
+    It got pretty confused with the raw HTML I was fetching. And stripping the tags should also be like a 3x speedup just from smaller input.<br><br>
+    <!--  -->
+    Unfortunately this meant that it couldn't see the links so it understandably added a bunch of unsupported claims which aren't unsupported on the actual site.
+  </div>
+  <h3>TODO: Concision bottleneck</h3>
+  <div>
+    I was generous with `max_tokens` because I wanted it to have space to talk, but maybe this is just allowing for babbling and bs.
+  </div>
+
+  <h3>TODO: LLM as a judge</h3>
+  <div>
+    OK, but the best AI results come from bureaucracies of overseer LLMs improving worker LLM outputs. Ya gotta spend money to spend money.
+    Let's try Claude on Claude and Kimi on Claude and Gemini on Claude:
+    todo
+  </div>
+
+  <h3>TODO: STACK MORE TOKENS</h3>
+  <div>
+    OK, but the best AI results come from big inference token spends. Let's go 4K reasoning on top of every 2K output.
+<!--  -->
+    (I'm not made of money, not gonna do a full run.)
+  </div>
+
+  <h3>TODO: Good old-fashioned prompt engineering</h3>
+  <div></div>
+</div>
+
+
+## Proper results
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-aotn">(Sonnet 4.5)</th>
+    <th class="tg-aotn">Vanilla</th>
+    <th class="tg-aotn">Concise + HTML &gt; text</th>
+    <th class="tg-aotn">One LLM filter</th>
+    <th class="tg-aotn">Two LLM filters</th>
+    <th class="tg-aotn">4K reasoning</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-wfpf">Unsupported claims</td>
+    <td class="tg-4r9o">2% accept</td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+  </tr>
+  <tr>
+    <td class="tg-wfpf">Flow problems</td>
+    <td class="tg-4r9o">1% accept</td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+  </tr>
+  <tr>
+    <td class="tg-wfpf">Typos</td>
+    <td class="tg-4r9o">6% accept</td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+  </tr>
+  <tr>
+    <td class="tg-wfpf">Cuts</td>
+    <td class="tg-4r9o">0.5% accept</td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o"></td>
+  </tr>
+</tbody></table>
+<br>
+
+---
+
+<br>
+
+
+I'm still happy making the following claim in my About page: "no text computer-generated unless explicitly indicated". But it's a little less true than it was yesterday.
 
 
 
@@ -107,8 +252,9 @@ I'm still happy making the following claim in my About page: "no text computer-g
     </li>
     <li class="footnote" id="fn:2">
     	Claude, perhaps confused by the HTML input, leaked a bunch of budget tags which I was surprised by:
-		```<budget:token_budget>200000</budget:token_budget>```
-		```<budget:token_budget>Used: 914 tokens Remaining: 199,086 tokens </budget:token_budget>```
+		<code>&lt;budget:token_budget><br>200000<br>&lt;/budget:token_budget></code>
+		<code>&lt;budget:token_budget><br>Used: 914 tokens Remaining: 199,086 tokens <br>&lt;/budget:token_budget></code>
+    It makes my old greybeard heart warm to see HTML parsing still causing problems in 2025.
 	</li>
 	<li class="footnote" id="fn:3">
 		because my prices were too low, or because people were charmed or intimidated by the implicit confidence

@@ -33,6 +33,11 @@
     color: var(--white);
 }
 
+#bdate {
+    padding-top: 12px;
+    padding-bottom: 2px;
+}
+
 .h-flex{
     display: flex;
     justify-content: space-between;
@@ -87,15 +92,15 @@
 }
 
 .post-image{
+    min-width: 150px;
     width: 30%;
-    height: auto;
+    height: 30%;
     object-fit: cover;
 }
 
 .post-meta {
     font-size: 0.9em;
     color: var(--grey-color) !important;
-    line-height: 1.5em;
 }
 
 
