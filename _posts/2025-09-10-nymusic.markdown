@@ -5,55 +5,68 @@ baselink:   /nysound
 permalink:  /nysound
 date:       2025-09-10
 author:     Gavin
-img:        /img/
+img:        /img/4.28.11BroadwayTheatreByLuigiNovi.jpg
 
 visible:    1
-published:  false
+published:  true
 quality:    6
 
-summary:    
-warnings: 	A foreigner's view
-importance: 3
+summary:    Trying and failing to get a grip
+warnings: 	
+importance: 4
 wordcount:  
 categories: places, music
-where:      ""
+where:      "Williamsburg"
 ---
 
 
-> There are roughly three New Yorks. There is, first, the New York of the man or woman who was born here, who takes the city for granted and accepts its size and turbulence as natural and inevitable. Second, there is the New York of the commuter — the city that is devoured by locusts each day and spat out each night. Third, there is the New York of the person who was born somewhere else and came to New York in quest of something. Of these three trembling cities the greatest is the last — the city of final destination, the city that is a goal. It is this third city that accounts for New York’s high-strung disposition, its poetical deportment, its dedication to the arts, and its incomparable achievements. Commuters give the city its tidal restlessness; natives give it solidity and continuity; but the settlers give it passion. And whether it is a farmer arriving from Italy to set up a small grocery store in a slum, or a young girl arriving from a small town in Mississippi to escape the indignity of being observed by her neighbors, or a boy arriving from the Corn Belt with a manuscript in his suitcase and a pain in his heart, it makes no difference: each embraces New York with the intense excitement of first love, each absorbs New York with the fresh eyes of an adventurer, each generates heat and light to dwarf the Consolidated Edison Company.
+> There are roughly three New Yorks. There is, first, the New York of the man or woman who was born here, who takes the city for granted and accepts its size and turbulence as natural and inevitable. Second, there is the New York of the commuter — the city that is devoured by locusts each day and spat out each night. Third, there is the New York of the person who was born somewhere else and came to New York in quest of something.<br><br>Of these three trembling cities the greatest is the last — the city of final destination, the city that is a goal. It is this third city that accounts for New York’s high-strung disposition, its poetical deportment, its dedication to the arts, and its incomparable achievements. Commuters give the city its tidal restlessness; natives give it solidity and continuity; but the settlers give it passion. And whether it is a farmer arriving from Italy to set up a small grocery store in a slum, or a young girl arriving from a small town in Mississippi to escape the indignity of being observed by her neighbors, or a boy arriving from the Corn Belt with a manuscript in his suitcase and a pain in his heart, it makes no difference: each embraces New York with the intense excitement of first love, each absorbs New York with the fresh eyes of an adventurer, each generates heat and light to dwarf the Consolidated Edison Company.
 
 <center>— EB White</center>
 
 <br>
 
 
-<a href="/nation-sound">I want to capture the best music in the world</a>. (This will include little "world music".) But I hit a snag - New York. It is just too huge to capture.
+<a href="/nation-sound">I want to capture the best music in the world</a>. (This will include little "world music".) But I hit a snag - New York. It is just too huge to capture. ([Here's](https://open.spotify.com/playlist/0He9PPzeJfgHrjMJ5DPujT?si=W5P4eMmwSCehYJBIcTW-0g&pi=ZJ0uSBR4R22-D) what I have so far.)
 
-What would a complete New York playlist have to cover?
+Why? What would a complete New York playlist have to cover? If you limited yourself just to totally new genres:
 
-* Ragtime???
-* Tin Pan Alley
-* Big band and swing. Duke, Calloway
-* The American musical. Berlin, Gershwin, Rodgers and Hammerstein and Hart, Bernstein, Kern, 
-* Bebop, hard bop
-* Latin music, Nu yorica (samba, ). Globalised calypso (1930 - 1956).
-* Brill machine music (and ultimately K-pop) (Leiber-Stoller et al)
-* studio as an instrument (Spector)
-* Folk revival
-* Disco (Studio 54)
-* Avant-Garde (1960s-1980s)
-	Loft jazz
-	Fluxus, 
-	No wave
-	Minimalism
-Punk
-Hip-Hop
-US garage
-the remix and 12" single
-among the first Americans to incorporate techniques from dub production into dance music
+* Pop as we knew it ([Tin Pan Alley](https://open.spotify.com/playlist/22TWbFEbnhHv3CLCxOjoBW?si=-0SC9IIwSk6uHUE3HIBG_w&pi=5SwGoSP5TNmJV))
+* [Big band](https://open.spotify.com/playlist/2cjIvuw4VVOQSeUAZfNiqY?si=IkjX9sTLTFq1akTzCO8msw) and swing. Duke, Calloway
+* [The Musical](https://open.spotify.com/playlist/34lA7pQ48yZ0osu0L0Khho?si=7lvxp__-TBiXPaEH2soYTw&pi=jOiFSjX3Sei8p). Berlin, Gershwin, Rodgers and Hammerstein and Hart, Bernstein, Kern, 
+* [Bebop](https://open.spotify.com/playlist/6qu37CqWnpFDUFsJDAdHdJ?si=7n67uKSdQsuj5TwVgvLrdw&pi=Ud-2MsEJTmqgg), hard bop, cubop
+* ["Latin" jazz](https://open.spotify.com/playlist/4U0S060zi7Ldp6iS2Q5Xkw?si=PDhtm0gcQQWqRgCSXm6k_Q) (Afro-Cuban, Puente, Barretto, Palmieri...)
+* Pop as we know it ([Brill machine](https://open.spotify.com/playlist/0O2lJe2zHcqCCjGAM0pU5W?si=tffcxHjXSvSIFFM-xjE0QQ&pi=IFsQTFoWTeud5) music and thus ultimately K-pop) (Leiber-Stoller et al)
+	* Globalised samba and calypso (1930 - 1956).
+* [Folk revival](https://open.spotify.com/playlist/62mKVd7nGrd5HdhZRsxBHR?si=eAluZS6xTHCncKlhA0wQGw&pi=xw3hzLGQQn2i-)
+* Avant-Garde (1960s-1980s): Varèse, [New York School](https://open.spotify.com/playlist/08iPwSfynzSNMXJwYFiiFj?si=rGDRSMLUR0G6xnrfa3QvlQ&pi=UJZoEbP6Sn6_u), Loft jazz, Fluxus, No wave, Minimalism, Avant Rock, Destruction Art, Fluxus, Free Jazz
+* [Disco](https://open.spotify.com/playlist/6LvkhZKZnOC2jpkTDysWhT?si=HS4Jf9HURd6fToHxrp0N6g&pi=z6wlFeehQlCL3 ) (Studio 54)
+	* Globalised dub (Gibbons among the first Americans to incorporate techniques from dub production into dance music)
+* [Punk](https://open.spotify.com/playlist/3txw9Twsf7TKyTsre8e5a4?si=sZhgwVSBRrO2POAbVh0tLw&pi=H0E2-mUtTxe5W)
+* [Hip-hop](https://open.spotify.com/playlist/5M7jmBRGGEAB9whDzUjdyw?si=nvaR6l30TU-XOw7TT9ST9Q&pi=CvWJ8atfSEGd8)
+* [US garage house](https://open.spotify.com/playlist/7hiyXzw0hbzypzwDNQND8O?si=uJ_Ql5REQLGXcdi4CtUKpg&pi=umE3CLZESwqGj)
+* [Garage rock revival](https://open.spotify.com/playlist/7swwwKWs3KpKlH26TVUyAU?si=Fw78JUVHSHmnr4qM361miw)
+* Blog House and [dancepunk](https://open.spotify.com/playlist/5H6pxrgLJrRKckNKi7C6s4?si=P5ne7MYEQP6RYsA8a8KA7Q&pi=vV0-9mxESnuYz) 
 
-Guitar revival / Brooklyn Indie Rock / Williamsburg
-Blog House / dancepunk 
+### Tech
+
+You'd also want a separate playlist for Technical New York: the engineering breakthroughs. Spotify isn't up to this though.
+
+* [first electromechanical musical instrument](https://en.wikipedia.org/wiki/Telharmonium)
+* Stereophonic recording
+* [theory of amplification](https://ieeexplore.ieee.org/document/1641311)
+* [electrical recording](https://www.mixonline.com/technology/1925-western-electricbell-labs-electrical-recording-383620)
+* [first commercial synths](https://en.wikipedia.org/wiki/Moog_synthesizer), first keyboard synth
+* electret condenser microphone - what 90% of all current mics are.
+* [algorithmic music](https://en.wikipedia.org/wiki/Electronium)
+* [first fully electronic film score](https://en.wikipedia.org/wiki/Bebe_and_Louis_Barron)
+* first widely-used computer music [program](https://120years.net/music-n-max-mathews-usa-1957/) (MUSIC-N)
+* [sliding faders](https://christiansmusicmusings.wordpress.com/2018/02/13/tom-dowd-humble-music-genius-behind-the-scenes/)
+* Spector wasn't the first to use the [studio as an instrument](https://en.wikipedia.org/wiki/Recording_studio_as_an_instrument#1940s%E2%80%931950s) but he cemented it
+* [breakbeat](https://www.grafftergallery.com/2023/02/the-breakbeat-king-innovative-djing-of.html) and [scratching](https://en.wikipedia.org/wiki/Grand_Wizzard_Theodore)
+* [the extended remix and 12" single](https://daily.redbullmusicacademy.com/2017/11/tom-moulton-interview/)
+* [the breakdown](https://magazine.waxpoetics.com/article/tom-moulton-beat-doctor/)
+
 
 
 ### Current 
@@ -62,7 +75,32 @@ Blog House / dancepunk
 
 <center>- Ian Leslie</center>
 
+And now? It's still a great city, so what new sounds is it cooking?
 
-Brooklyn Drill
-Jazz Revival
-Free music 
+* [Brooklyn drill](https://en.wikipedia.org/wiki/Brooklyn_drill). A minor variation on UK drill. A$AP Mob a minor variation on Southern rap. 
+* [Outsider house](https://en.wikipedia.org/wiki/L.I.E.S.)
+<!-- * Jazz Revival.  -->
+* New opera (Mazzoli, Lang, Wolfe, Du Yun, Muhly)
+* Post-minimalism and free jazz (Mary Halvorson, Matana Roberts, Oneohtrix Point Never). 
+* Brooklyn noise. No wave plus
+
+Solid but not the same. Something ran out.
+
+<br>
+
+## See also
+
+* [Everybody's Doin' It: Sex, Music, and Dance in New York, 1840-1917](https://www.goodreads.com/book/show/41817533-everybody-s-doin-it)
+* [All Hopped Up and Ready to Go](https://www.goodreads.com/book/show/6585095-all-hopped-up-and-ready-to-go)
+* [The House That Trane Built](https://www.goodreads.com/book/show/298222.The_House_That_Trane_Built)
+* [The New York Schools of Music and the Visual Arts](https://www.routledge.com/The-New-York-Schools-of-Music-and-the-Visual-Arts/Johnson/p/book/9780415936941)
+* [A Flexible History of Fluxus Facts & Fictions](https://www.goodreads.com/book/show/572111.A_Flexible_History_of_Fluxus_Facts_Fictions)
+* [Folk City: New York and the American Folk Music Revival](https://www.goodreads.com/en/book/show/23461144-folk-city)
+* [Love Saves the Day: A History of American Dance Music Culture, 1970-1979](https://www.goodreads.com/book/show/329133.Love_Saves_the_Day)
+* [Please Kill Me](https://pleasekillme.com/please-kill-uncensored-oral-history-punk-book/)
+* [Love Goes To Buildings On Fire](https://www.goodreads.com/book/show/11331168-love-goes-to-buildings-on-fire)
+* [This Must Be the Place: Music, Community and Vanished Spaces in New York City](https://www.goodreads.com/book/show/62005777-this-must-be-the-place)
+* [Hold On to Your Dreams: Arthur Russell and the Downtown Music Scene, 1973-92](https://www.goodreads.com/book/show/6512666-hold-on-to-your-dreams)
+* [Can't Stop Won't Stop: A History of the Hip-Hop Generation](https://www.goodreads.com/book/show/54754.Can_t_Stop_Won_t_Stop)
+* [Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001-2011](https://www.goodreads.com/book/show/25816741-meet-me-in-the-bathroom)
+* [The Williamsburg Avant-Garde: Experimental Music and Sound on the Brooklyn Waterfront 1985-2010](https://www.dukeupress.edu/the-williamsburg-avant-garde)
