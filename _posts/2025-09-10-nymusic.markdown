@@ -15,7 +15,7 @@ summary:    Trying and failing to get a grip
 warnings: 	
 importance: 4
 wordcount:  
-categories: places, music
+categories: places, music, hypothesis-dump
 where:      "Williamsburg"
 ---
 
