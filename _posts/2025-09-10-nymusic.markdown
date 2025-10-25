@@ -31,6 +31,7 @@ where:      "Williamsburg"
 
 Why? What would a complete New York playlist have to cover? If you limited yourself just to totally new genres:
 
+
 * Pop as we knew it ([Tin Pan Alley](https://open.spotify.com/playlist/22TWbFEbnhHv3CLCxOjoBW?si=-0SC9IIwSk6uHUE3HIBG_w&pi=5SwGoSP5TNmJV))
 * [Big band](https://open.spotify.com/playlist/2cjIvuw4VVOQSeUAZfNiqY?si=IkjX9sTLTFq1akTzCO8msw) and swing. Duke, Calloway
 * [The Musical](https://open.spotify.com/playlist/34lA7pQ48yZ0osu0L0Khho?si=7lvxp__-TBiXPaEH2soYTw&pi=jOiFSjX3Sei8p). Berlin, Gershwin, Rodgers and Hammerstein and Hart, Bernstein, Kern, 
@@ -39,7 +40,7 @@ Why? What would a complete New York playlist have to cover? If you limited yours
 * Pop as we know it ([Brill machine](https://open.spotify.com/playlist/0O2lJe2zHcqCCjGAM0pU5W?si=tffcxHjXSvSIFFM-xjE0QQ&pi=IFsQTFoWTeud5) music and thus ultimately K-pop) (Leiber-Stoller et al)
 	* Globalised samba and calypso (1930 - 1956).
 * [Folk revival](https://open.spotify.com/playlist/62mKVd7nGrd5HdhZRsxBHR?si=eAluZS6xTHCncKlhA0wQGw&pi=xw3hzLGQQn2i-)
-* Avant-Garde (1960s-1980s): Varèse, [New York School](https://open.spotify.com/playlist/08iPwSfynzSNMXJwYFiiFj?si=rGDRSMLUR0G6xnrfa3QvlQ&pi=UJZoEbP6Sn6_u), Loft jazz, Fluxus, No wave, Minimalism, Avant Rock, Destruction Art, Fluxus, Free Jazz
+* Avant-Garde (1960s-1980s): Varèse, [New York School](https://open.spotify.com/playlist/08iPwSfynzSNMXJwYFiiFj?si=rGDRSMLUR0G6xnrfa3QvlQ&pi=UJZoEbP6Sn6_u), Loft jazz, Fluxus, No wave, Minimalism, Avant Rock, Fluxus again, Free Jazz
 * [Disco](https://open.spotify.com/playlist/6LvkhZKZnOC2jpkTDysWhT?si=HS4Jf9HURd6fToHxrp0N6g&pi=z6wlFeehQlCL3 ) (Studio 54)
 	* Globalised dub (Gibbons among the first Americans to incorporate techniques from dub production into dance music)
 * [Punk](https://open.spotify.com/playlist/3txw9Twsf7TKyTsre8e5a4?si=sZhgwVSBRrO2POAbVh0tLw&pi=H0E2-mUtTxe5W)
@@ -84,7 +85,16 @@ And now? It's still a great city, so what new sounds is it cooking?
 * Post-minimalism and free jazz (Mary Halvorson, Matana Roberts, Oneohtrix Point Never). 
 * Brooklyn noise. No wave plus
 
-Solid but not the same. Something ran out.
+Solid but not the same. Something ran out. Guesses:
+
+* loss of cheap rents and squats. Relatedly: loss of discomfort and chaos.
+* loss of nerds. deindustrialisation means that the engineers aren't colocated with the artistes, don't give New Yorkers the stream of pre-market prototypes they had for 80 years.   
+* loss of wealth gradient?? 1970s New York had both extreme poverty (enabling cheap spaces) and extreme wealth (enabling patronage, whether from trust-fund kids slumming it or businessmen buying art)
+* loss of (colocated) gatekeepers you could party with and extract attention rents from
+* loss of industrial zoning allowing big noises. loss of lax enforcement 
+* academic capture of alternative music? Careerification, taming, sexlessness?
+* philanthropic capture of alternative music? Grant applications and awards legibilise.
+* But probably the strongest factor is the universal one: the general dematerialisation of social energy Leslie alludes to. The extraction and dissipation of cultural meaning through homogenous phones located in any mere geography. The loss of friction and the loss of mystery and the loss of random physical collision.
 
 <br>
 
