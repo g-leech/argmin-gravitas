@@ -195,7 +195,7 @@
         - ASMR&nbsp;&nbsp;
         - extreme nationalism&nbsp;&nbsp;
         - TikTok&nbsp;&nbsp;
-        - patriachates&nbsp;&nbsp;
+        - patriarchates&nbsp;&nbsp;
         - traditional role models&nbsp;&nbsp;
         - soccer&nbsp;&nbsp;
         - nightcores&nbsp;&nbsp;
