@@ -24,7 +24,7 @@ visible:	false
 {%	assign post = "https://open.spotify.com/playlist/2wZiCXIhYypTAaCkpFNF9t?si=8b96c6272ead47f5"	%}
 {%	assign vidya = "https://open.spotify.com/playlist/0Ge30FFa6jGdvVZaCcrU00?si=613ffbd69ad041ce"	%}
 {%	assign maxent = "https://docs.google.com/spreadsheets/d/1utFMMcb6etY-rXctA7L1RvIL9y8wpWRSMXV_zhb8kVw/edit?gid=1138693370#gid=1138693370"	%}
-
+{%	assign shows = "https://open.spotify.com/playlist/2CwbS0TGdRpa9Ni5Li0K9O?si=X7BJcPMBQNa7JQmCz2FMTA&pt=9ebb039e5c54c6fa79e011dda339da9d&pi=9obYUytvSkyJi"	%}
 
 <style>
 	{% 	include css/recs.css	%}
@@ -53,6 +53,7 @@ visible:	false
 	<a href="{{dubs}}">{% include fa/user-astronaut-solid.svg %} dub</a>
 	<a href="{{metal}}">{%	include fa/ear-deaf-solid-full.svg	%} metal</a>
 	<a href="{{vidya}}">{%	include fa/gamepad-solid.svg	%} vidya</a>
+	<a href="{{shows}}">{%	include fa/masks-theater-solid-full.svg	%} showtunes</a>
 	<a href="{{post}}">{%	include fa/circle-xmark-solid-full.svg %} post-</a>
 	<a href="/nation-sound">{% include fa/earth-americas-solid.svg %} nations</a>
 </div>

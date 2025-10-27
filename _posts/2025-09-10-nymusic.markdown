@@ -34,20 +34,21 @@ Why? What would a complete New York playlist have to cover? If you limited yours
 
 * Pop as we knew it ([Tin Pan Alley](https://open.spotify.com/playlist/22TWbFEbnhHv3CLCxOjoBW?si=-0SC9IIwSk6uHUE3HIBG_w&pi=5SwGoSP5TNmJV))
 * [Big band](https://open.spotify.com/playlist/2cjIvuw4VVOQSeUAZfNiqY?si=IkjX9sTLTFq1akTzCO8msw) and swing. Duke, Calloway
-* [The Musical](https://open.spotify.com/playlist/34lA7pQ48yZ0osu0L0Khho?si=7lvxp__-TBiXPaEH2soYTw&pi=jOiFSjX3Sei8p). Berlin, Gershwin, Rodgers and Hammerstein and Hart, Bernstein, Kern, Wodehouse(!)
-* [Bebop](https://open.spotify.com/playlist/6qu37CqWnpFDUFsJDAdHdJ?si=7n67uKSdQsuj5TwVgvLrdw&pi=Ud-2MsEJTmqgg), hard bop, cubop
-* ["Latin" jazz](https://open.spotify.com/playlist/4U0S060zi7Ldp6iS2Q5Xkw?si=PDhtm0gcQQWqRgCSXm6k_Q) (Afro-Cuban, Puente, Barretto, Palmieri...)
-* Pop as we know it ([Brill machine](https://open.spotify.com/playlist/0O2lJe2zHcqCCjGAM0pU5W?si=tffcxHjXSvSIFFM-xjE0QQ&pi=IFsQTFoWTeud5) music and thus ultimately K-pop) (Leiber-Stoller et al)
-	* Globalised samba and calypso (1930 - 1956).
-* [Folk revival](https://open.spotify.com/playlist/62mKVd7nGrd5HdhZRsxBHR?si=eAluZS6xTHCncKlhA0wQGw&pi=xw3hzLGQQn2i-)
-* Avant-Garde (1960s-1980s): Varèse, [New York School](https://open.spotify.com/playlist/08iPwSfynzSNMXJwYFiiFj?si=rGDRSMLUR0G6xnrfa3QvlQ&pi=UJZoEbP6Sn6_u), Loft jazz, Fluxus, No wave, Minimalism, Avant Rock, Fluxus again, Free Jazz
-* [Disco](https://open.spotify.com/playlist/6LvkhZKZnOC2jpkTDysWhT?si=HS4Jf9HURd6fToHxrp0N6g&pi=z6wlFeehQlCL3 ) (Studio 54)
-	* Globalised dub (Gibbons among the first Americans to incorporate techniques from dub production into dance music)
-* [Punk](https://open.spotify.com/playlist/3txw9Twsf7TKyTsre8e5a4?si=sZhgwVSBRrO2POAbVh0tLw&pi=H0E2-mUtTxe5W)
-* [Hip-hop](https://open.spotify.com/playlist/5M7jmBRGGEAB9whDzUjdyw?si=nvaR6l30TU-XOw7TT9ST9Q&pi=CvWJ8atfSEGd8)
-* [US garage house](https://open.spotify.com/playlist/7hiyXzw0hbzypzwDNQND8O?si=uJ_Ql5REQLGXcdi4CtUKpg&pi=umE3CLZESwqGj)
+* **[The Musical](https://open.spotify.com/playlist/34lA7pQ48yZ0osu0L0Khho?si=7lvxp__-TBiXPaEH2soYTw&pi=jOiFSjX3Sei8p)**: Berlin, Gershwin, Rodgers and Hammerstein and Hart, Bernstein, Kern, Wodehouse(!)
+* **[Bebop](https://open.spotify.com/playlist/6qu37CqWnpFDUFsJDAdHdJ?si=7n67uKSdQsuj5TwVgvLrdw&pi=Ud-2MsEJTmqgg)**, hard bop, cubop
+* **["Latin" jazz](https://open.spotify.com/playlist/4U0S060zi7Ldp6iS2Q5Xkw?si=PDhtm0gcQQWqRgCSXm6k_Q)** (Afro-Cuban, Puente, Barretto, Palmieri...)
+* Pop as we know it (**[Brill machine](https://open.spotify.com/playlist/0O2lJe2zHcqCCjGAM0pU5W?si=tffcxHjXSvSIFFM-xjE0QQ&pi=IFsQTFoWTeud5)** music and thus ultimately K-pop) (Leiber-Stoller et al)
+* Globalised samba and calypso (1930 - 1956).
+* **[Folk revival](https://open.spotify.com/playlist/62mKVd7nGrd5HdhZRsxBHR?si=eAluZS6xTHCncKlhA0wQGw&pi=xw3hzLGQQn2i-)**
+* **Avant-Garde (1960s-1980s):** Varèse, [New York School](https://open.spotify.com/playlist/08iPwSfynzSNMXJwYFiiFj?si=rGDRSMLUR0G6xnrfa3QvlQ&pi=UJZoEbP6Sn6_u), Loft jazz, Fluxus, No wave, Minimalism, Avant Rock, Fluxus again, Free Jazz
+* **[Disco](https://open.spotify.com/playlist/6LvkhZKZnOC2jpkTDysWhT?si=HS4Jf9HURd6fToHxrp0N6g&pi=z6wlFeehQlCL3 )** (Studio 54)
+* Globalised dub (Gibbons among the first Americans to incorporate techniques from dub production into dance music)
+* **[Punk](https://open.spotify.com/playlist/3txw9Twsf7TKyTsre8e5a4?si=sZhgwVSBRrO2POAbVh0tLw&pi=H0E2-mUtTxe5W)**
+* **[Hip-hop](https://open.spotify.com/playlist/5M7jmBRGGEAB9whDzUjdyw?si=nvaR6l30TU-XOw7TT9ST9Q&pi=CvWJ8atfSEGd8)**
+* [Garage house](https://open.spotify.com/playlist/7hiyXzw0hbzypzwDNQND8O?si=uJ_Ql5REQLGXcdi4CtUKpg&pi=umE3CLZESwqGj)
 * [Garage rock revival](https://open.spotify.com/playlist/7swwwKWs3KpKlH26TVUyAU?si=Fw78JUVHSHmnr4qM361miw)
 * Blog House and [dancepunk](https://open.spotify.com/playlist/5H6pxrgLJrRKckNKi7C6s4?si=P5ne7MYEQP6RYsA8a8KA7Q&pi=vV0-9mxESnuYz) 
+* Witch house
 
 ### Tech
 
@@ -76,9 +77,9 @@ You'd also want a separate playlist for Technical New York: the engineering brea
 
 <center>- Ian Leslie</center>
 
-And now? It's still a great city, so what new sounds is it cooking?
+And now? It's still a great city. What new sounds is it cooking?
 
-* [Brooklyn drill](https://en.wikipedia.org/wiki/Brooklyn_drill). A minor variation on UK drill. A$AP Mob a minor variation on Southern rap. 
+* [Brooklyn drill](https://en.wikipedia.org/wiki/Brooklyn_drill): a minor variation on UK drill. A$AP Mob: a minor variation on cloud/Southern rap. Rage (2hollis and Nettspend): a minor variation on drill.
 * [Outsider house](https://en.wikipedia.org/wiki/L.I.E.S.)
 <!-- * Jazz Revival.  -->
 * New opera (Mazzoli, Lang, Wolfe, Du Yun, Muhly)
@@ -119,3 +120,24 @@ Solid, but not the same. Something ran out. Guesses:
 * [Can't Stop Won't Stop: A History of the Hip-Hop Generation](https://www.goodreads.com/book/show/54754.Can_t_Stop_Won_t_Stop)
 * [Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001-2011](https://www.goodreads.com/book/show/25816741-meet-me-in-the-bathroom)
 * [The Williamsburg Avant-Garde: Experimental Music and Sound on the Brooklyn Waterfront 1985-2010](https://www.dukeupress.edu/the-williamsburg-avant-garde)
+
+
+
+<br><br>
+<div class="accordion">
+	<h3>Comments</h3>
+	<div>
+		<b>Larry</b> commented on 27 October 2025:
+		<blockquote>IRL scenius lives on in small towns, not publicized.  e.g Bellingham WA multi genre mix, Paso Robles CA wine scenius moved from Napa Valley,  Santa Cruz - North Monterey County - organic farming.</blockquote>
+		<hr /><br>
+		<b>Ray</b> commented on 27 October 2025:
+		<blockquote>There does seem to be some dissipation of energy. I'd just bring up a few genres you may have missed, although you may think they are just minor iterations.<br><br>
+In NYC, I don't know how people are characterizing it, but there is a Soundcloud rap 2.0; rage rap thing that is happening in NYC. It kind of fully embraces like rich UES kids making music in a way. Artists I am referring to are people like 2hollis and Nettspend.<br><br>
+They are in conversation with the other Soundcloud 2.0 guys like Ken Carson, but really in their own genre.<br><br>
+In London, there is an electronic genre; forget what it's called but it tends to have extremely heavy sample usage that's in your face. The whole songs are sampled real life sounds; it's bass forward and drumlines with post EDM trap influences. The drumlines are some of the most complex, but that is true for all of electronic genres now. The pop version of this genre are Kai Whiston and Iglooghost, but the central figures are Sega Bodega and his record label: Shygirl and Coucou Chloe. The NYC close friend of there's is Eartheater. It is kind of a successor branch to future bass or edm.<br><br>
+UK Drill is a bigger deal than people think for UK music in general. The thing that was hard for grime prior to drill was it was 140bpm and the rapping was formalized techniques to rap at that speed; this comes from their rave scene and drum and bass bpms. Drill is easier to commercialize and alters rap techniques and highlights pauses, which generally are not acceptable in regular rap. There are some artists that are well known on TikTok and in America like central cee from this scene.<br><br>
+I would put A$AP Mob more in the cloud rap genre which also wasn't native to NYC, but NYC did popularize it. It's mostly under the influence of Clams Casino who tends to be characterized as Cloud Rap, but is also labelled Witch House sometimes. He might be the sole reason why Imogen Heap had a second life on TikTok. The Imogen Heap sample that is used on Lil B song has been one of the most reused samples in rap these days.</blockquote>
+	</div>
+</div>
+
+
