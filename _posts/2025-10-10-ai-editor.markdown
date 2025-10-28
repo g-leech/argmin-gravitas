@@ -24,9 +24,14 @@ where:      "Williamsburg, New York"
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px; border-top: 0px; border-left: 0px; border-right: 0px;font-size:14px}
-.tg .tg-wfpf{background-color:#FDFDFD;border-color:#ffffff;color:#000;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-wfpf{background-color:#FDFDFD;border-color:#ffffff;color:#000;font-style:italic;vertical-align:top}
 .tg .tg-aotn{background-color:#FDFDFD;border-color:#000;color:#111;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-4r9o{background-color:#FDFDFD;border-color:#ffffff;color:#111;text-align:left;vertical-align:top}
+.tg .tg-4r9o{background-color:#FDFDFD;border-color:#ffffff;color:#111;vertical-align:top}
+td 
+{
+    text-align: center; 
+    vertical-align: middle;
+}
 </style>
 
 
@@ -49,7 +54,7 @@ _User prompt:_
 <a href="#fn:2" id="fnref:2">2</a>
 
 
-## Were they any good?
+## Round 1: Were they any good?
 
 Judge for yourself: [Claude](https://gist.github.com/g-leech/b9569f8d64a6c02970a8878a593a1457), [Kimi](https://gist.github.com/g-leech/89b8d53dff9595cf865180953468a7ad) outputs.
 
@@ -113,7 +118,6 @@ If I were to pay them the going bug bounty rate, I would owe Claude $230 (248-18
 </blockquote>
     <br><br>
 <!--  -->
-		(In 20 / 187 cases Claude felt strongly enough that something else was wrong that it spontaneously created a fifth category: "additional commentary". I really liked this!)<br><br>
     It read the html raw, and took it very seriously, which is possibly my mistake for not decoding the Requests object first.
     <blockquote>**"2.761.0"** and similar number formatting in the SVG code appears throughout the HTML - these are likely rendering artifacts rather than intentional.<br><br>
     "2.23899999999999"** in `&lt;path fill="#fff" d=\"M102.817 247.995c-2.761.0-5-2.239-5-5 0-64.833` - This appears to be a rendering issue in the SVG code but shows poor attention to detail\"</blockquote>
@@ -121,8 +125,18 @@ If I were to pay them the going bug bounty rate, I would owe Claude $230 (248-18
 <!--  -->
 		Claude called my writing "abrupt" 234 times. It really doesn't like doorkick openings, which I love. This reveals to me that it's optimised for school essays and corporate stuff with a plodding formal constraint. Bit disappointing that it thus ignored the system prompt - 4.5 seems better at following the actual instruction.<br><br>
     <blockquote>The comment form has `method=\'post\'` but appears to be a static Jekyll site - this likely won\'t function without backend processing</blockquote>
-    (Good point in general! But I use a Netlify listener.)
+    (Good point in general! But I use a Netlify listener.)<br><br>
+<!--  -->
+  <blockquote>- The opening metadata (confidence percentages, reading time) - either commit to this system across posts or drop it; it reads as cargo-culting rationalist aesthetics</blockquote>
+  I do, lol!
 	</div>
+  <h3>Nice bits</h3>
+  <div>
+		In 20 / 187 cases Claude felt strongly enough that something else was wrong that it spontaneously created a fifth category: "additional commentary". I really liked this!<br><br>
+    I liked it occasionally catching itself:
+    <blockquote>Why are we rating obscurity? You never explain why this matters or what you\'re doing with it. (Later: Oh, it\'s for the top 10 entries. This should be introduced before the top 10 section.)</blockquote>
+    <blockquote>"11th September 2025" - You mean 2024? (Assuming this was published in Sept 2024 about 2024 albums.) [Actually on re-read: if published Sept 2024, you couldn\'t have listened to all albums "released last year" - they\'re still being released. Either this is Sept 2025 reflecting on 2024, or there\'s a temporal confusion.] **UPDATE:** Actually, checking the header again: "11th September 2025" with "Last year, I listened to 914 albums released last year" - so published Sept 2025 about 2024 albums? This works. Ignore this as a typo.</blockquote>
+  </div>
   <h3>What does Claude think of this eval?</h3>
   <div>
     <a href="https://claude.ai/share/44318437-5100-4d74-b9f3-a99f6bce46a0">A mostly-spurious defence.</a><br><br>
@@ -157,7 +171,9 @@ OK OK, but this is _high-tech_ Gavin, OK? It doesn't just work out of the box. Y
   <div>
     It got pretty confused with the raw HTML I was fetching. And stripping the tags should also be like a 3x speedup just from smaller input.<br><br>
     <!--  -->
-    Unfortunately this meant that it couldn't see the links so it understandably added a bunch of unsupported claims which aren't unsupported on the actual site.
+    Unfortunately this meant that it couldn't see the links so it understandably added a bunch of unsupported claims which aren't unsupported on the actual site.<br><br>
+    Still some decoding errors too! ("через"):
+    <blockquote>The "Vibe" section is incoherent.** It opens claiming you can\'t summarize 2024, then spends 4 paragraphs on poptimism/Brat/critical divergence that could be its own section. The через lines are: poptimism → Brat → I didn\'t like popular stuff → critics vs users diverged → hip hop specifically. These are 3-4 different observations without a unifying thread.</blockquote>
   </div>
   <h3>TODO: Concision bottleneck</h3>
   <div>
@@ -179,17 +195,27 @@ OK OK, but this is _high-tech_ Gavin, OK? It doesn't just work out of the box. Y
   </div>
 
   <h3>TODO: Good old-fashioned prompt engineering</h3>
+  <div>
+    <blockquote>The intended style is some combination of informal, wry, and rigorous. Think Katja Grace, Gwern Branwen, Kieran Healy, Cosma Shalizi, Andrew Gelman, Zach Weiner. Some of the posts are cpurely personal; look at the topic importance metadata, where scores <5 indicate that anecdata and personal feeling might dominate.</blockquote>
+  </div>
+
+  <h3>TODO: Give it the images</h3>
   <div></div>
+
 </div>
 
 
 ## Proper results
 
+Accept rates:
+
+<br>
+
 <table class="tg"><thead>
   <tr>
     <th class="tg-aotn">(Sonnet 4.5)</th>
     <th class="tg-aotn">Vanilla</th>
-    <th class="tg-aotn">Concise + HTML &gt; text</th>
+    <th class="tg-aotn">Concise + unHTML</th>
     <th class="tg-aotn">One LLM filter</th>
     <th class="tg-aotn">Two LLM filters</th>
     <th class="tg-aotn">4K reasoning</th>
@@ -197,8 +223,8 @@ OK OK, but this is _high-tech_ Gavin, OK? It doesn't just work out of the box. Y
 <tbody>
   <tr>
     <td class="tg-wfpf">Unsupported claims</td>
-    <td class="tg-4r9o">2% accept</td>
-    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o">2%</td>
+    <td class="tg-4r9o">1%</td>
     <td class="tg-4r9o"></td>
     <td class="tg-4r9o"></td>
     <td class="tg-4r9o"></td>
@@ -206,8 +232,8 @@ OK OK, but this is _high-tech_ Gavin, OK? It doesn't just work out of the box. Y
   </tr>
   <tr>
     <td class="tg-wfpf">Flow problems</td>
-    <td class="tg-4r9o">1% accept</td>
-    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o">1%</td>
+    <td class="tg-4r9o">1%</td>
     <td class="tg-4r9o"></td>
     <td class="tg-4r9o"></td>
     <td class="tg-4r9o"></td>
@@ -215,8 +241,8 @@ OK OK, but this is _high-tech_ Gavin, OK? It doesn't just work out of the box. Y
   </tr>
   <tr>
     <td class="tg-wfpf">Typos</td>
-    <td class="tg-4r9o">6% accept</td>
-    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o">6%</td>
+    <td class="tg-4r9o">8%</td>
     <td class="tg-4r9o"></td>
     <td class="tg-4r9o"></td>
     <td class="tg-4r9o"></td>
@@ -224,8 +250,8 @@ OK OK, but this is _high-tech_ Gavin, OK? It doesn't just work out of the box. Y
   </tr>
   <tr>
     <td class="tg-wfpf">Cuts</td>
-    <td class="tg-4r9o">0.5% accept</td>
-    <td class="tg-4r9o"></td>
+    <td class="tg-4r9o">0.5%</td>
+    <td class="tg-4r9o">1%</td>
     <td class="tg-4r9o"></td>
     <td class="tg-4r9o"></td>
     <td class="tg-4r9o"></td>
@@ -242,6 +268,20 @@ OK OK, but this is _high-tech_ Gavin, OK? It doesn't just work out of the box. Y
 I'm still happy making the following claim in my About page: "no text computer-generated unless explicitly indicated". But it's a little less true than it was yesterday.
 
 
+
+<br><br>
+<div class="accordion">
+  <h3>Comments</h3>
+  <div>
+    <b>Gwern</b> commented on 20 October 2025:
+    <blockquote>The prompts here seem pretty weak and slapdash. If you're going to spend all that time & API fees, it makes sense to at least try to do some prompt engineering... When I use Claude or Kimi K2 or GPT-5, I require much more detailed work. I demand analysis, summary, going line by line, etc. Some example Claude/GPT sessions for my last poem: https://x.com/gwern/status/1976440455509442782 and Kimi: https://www.kimi.com/share/d3qmgb1nu95c66v1ckt0<br>
+    Feeding in the analyses of other models is also helpful too, of course.<br><br>
+    In particular, the large amount of bad stylistic suggestions means you might try out a trick I call 'anti-examples' where you make the edit but then provide, as a few-shot example, the original version as the 'superior edit' version: https://www.lesswrong.com/posts/34J5qzxjyWr3Tu47L/is-building-good-note-taking-software-an-agi-complete?commentId=qBfSzXb2iTeeXs3q2 This seems to function in two ways: blocks the LLM from making the obvious suggestion, and also helps get it 'out of chatbot space'.<br><br>
+    It also seems to help to ask the LLM to explicitly meta-cogitate about the style, method, author goals, and content, and write out an explicit summary. So another thing to try is to take those human editor suggestions and ask the LLMs to summarize the edits and write down a prompt with the principles of those edits. And then use that meta-prompt in your corpus analysis.<br><br>
+    And you can combine these. Have Kimi and Claude write reports using the editor meta-prompt, filter them through GPT-5-Pro, and then put the false positives back into the meta-prompt as few-shot anti-examples, and repeat.
+    </blockquote>
+  </div>
+</div>
 
 <div class="footnotes">
 

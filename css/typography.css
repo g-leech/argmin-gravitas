@@ -58,7 +58,7 @@ a {
     --active-decoration: underline;
     --active-transform: translateY(1px);
   
-    text-decoration-thickness: 12%;
+    text-decoration-thickness: 2%;
     text-underline-offset: 3px;
     display: inline-block;
   
