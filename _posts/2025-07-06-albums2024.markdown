@@ -16,11 +16,11 @@ confidence:
 warnings: 	
 importance: 2
 wordcount:  
-categories: music
+categories: music, lists, criticism
 where:      "Annapolis"
 ---
 
-Last year, I listened to [914 albums](https://www.albumoftheyear.org/user/gleech/ratings/release-date/17/) released last year. I had a few aims: capturing the zeitgeist; seeing if our usual sense that new stuff isn't as good is actually true; to be contrarian in the [music catalog age](https://www.infinitescroll.us/p/old-art-is-strangling-new-art); to see what it's like to be [Piero Scaruffi](https://scaruffi.com/cdreview/index.html). I got all of those.
+Last year, I tuned the fuck in: I listened to [914 albums](https://www.albumoftheyear.org/user/gleech/ratings/release-date/17/) released last year. I had a few aims: capturing the zeitgeist; seeing if our usual sense that new stuff isn't as good is actually true; to be contrarian in the [music catalog age](https://www.infinitescroll.us/p/old-art-is-strangling-new-art); to see what it's like to be [Piero Scaruffi](https://scaruffi.com/cdreview/index.html). I got all of those.
 
 914 is a pretty huge sample, but still less than 1% of new music (one site I like [lists](https://www.albumoftheyear.org/2024/releases/?page=2260) 135,000 albums of 2024). It's more than 1% of notable new music though. (e.g. There's a thousand albums in [this](https://en.wikipedia.org/wiki/List_of_2024_albums) not-totally-arbitrary list.)
 
@@ -37,7 +37,7 @@ I can't think of any good single sentence for what I heard. (Maybe: "the centre 
 
 True to rearguard type, I was unimpressed with most of what others were impressed with (see the [critics](https://www.albumoftheyear.org/ratings/6-highest-rated/2024/1?r=10) or the [extremely-online herd](https://www.albumoftheyear.org/ratings/user-highest-rated/2024/) or the [vox pop](https://en.wikipedia.org/wiki/List_of_Billboard_200_number-one_albums_of_2024)).
 
-It's interesting how much critics and amateur 'heads have diverged: eight entries in their respective top 10s differ(!), or 26 entries in their top 50s. (Maybe it was always so; maybe the critics, being ten or thirty years older than the fans, were always on their own, and we just have the tools to spot it now, to organise against our erstwhile masters. We will get what we deserve.)
+It's interesting how much critics and amateur 'heads have diverged: eight entries in their respective top 10s differ, or 26 entries in their top 50s. (Maybe it was always so; maybe the critics, being ten or thirty years older than the fans, were always on their own, and we just have the tools to spot it now, to organise against our erstwhile masters. We will get what we deserve.)
 
 The biggest single difference between the critics and the users is, as ever, hip hop. Specifically, users constantly lose their minds over the latest iteration of monotonous plodding "abstract" rap (billy woods, Danny Brown, JPEGMAFIA, ...) and slurred-slurs trap (Travis Scott, Vince Staples, ...). I guess I do like abstract more than the mumble it replaced. I should probably rant about Fantano here but I tire.
 
@@ -55,16 +55,34 @@ So old. "Plugg" and "rage" are quite new, but both are just minor elaborations o
 
 There is one actually-new thing, which hasn't I think been named yet. The family-resemblance:
 
-* "genrefucking": take either noise rock or dnb as your base. Then add more [noise](https://www.albumoftheyear.org/album/1097429-this-is-the-glasshouse-867.php) [rock](https://www.albumoftheyear.org/album/1123425-spiral-staircase-the-perfect-child.php) / [post](https://www.albumoftheyear.org/album/731948-jane-remover-census-designated.php)-[rock](https://www.albumoftheyear.org/album/707323-samlrc-a-lonely-sinner.php) / [glitch-pop](https://www.albumoftheyear.org/album/1128036-niomi-chichi.php) / [meme music](https://www.albumoftheyear.org/album/1348143-psynwav-musical-transients.php) / breakcore / digital hardcore / [indietronica](https://www.albumoftheyear.org/album/877549-clustr-ever-chance.php).
+* "genrefucking": take either noise rock, industrial, or dnb as your base. Then add more [noise](https://www.albumoftheyear.org/album/1097429-this-is-the-glasshouse-867.php) [rock](https://www.albumoftheyear.org/album/1123425-spiral-staircase-the-perfect-child.php) / [post](https://www.albumoftheyear.org/album/731948-jane-remover-census-designated.php)-[rock](https://www.albumoftheyear.org/album/707323-samlrc-a-lonely-sinner.php) / [glitch-pop](https://www.albumoftheyear.org/album/1128036-niomi-chichi.php) / [meme music](https://www.albumoftheyear.org/album/1348143-psynwav-musical-transients.php) / breakcore / digital hardcore / [indietronica](https://www.albumoftheyear.org/album/877549-clustr-ever-chance.php) / [brutal prog](https://www.albumoftheyear.org/album/69492-stabscotch-uncanny-valley.php).
 * actually go ahead and prepend "[emo-](https://www.albumoftheyear.org/album/546282-cavetown-worm-food.php)" to every item above
 * bedroom production (but that means hardcore pro DAW now)
 * trans or [trans-adjacent](https://www.albumoftheyear.org/album/1023355-lucy-bedroque-fete-de-la-vanille.php) or [furry-adjacent](https://www.albumoftheyear.org/album/725522-vylet-pony-monarch-of-monsters.php)
 * [evil-adjacent](https://www.albumoftheyear.org/album/1209399-aya-hexed.php)
 * sometimes impressively ugly cover art. Sorry, I mean mutant alien cyborg beauty. (Currently the visuals are the most cohesive part of the group I'm proposing. Clock it a mile off.)
 
-They're pretty clearly Grimespawn. You could call it _queer noise_ - but not if you knew [anything](https://en.wikipedia.org/wiki/Genesis_P-Orridge) about the history of the sexuality of noise musicians. Let us not make redundant and patronising mistakes. (There _is_ a difference between the old queer noise and the new kind: the new one is heavy-handed and reduces itself to queerness. An irritated name could be _panderqueer_.) 
+Dnb plus noise rock is [not](https://en.wikipedia.org/wiki/Digital_hardcore) [new](https://en.wikipedia.org/wiki/Speedcore). But dnb plus noise rock plus [machine elves](https://journals.sagepub.com/doi/10.1177/0269881120916143?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) plus chiptune plus trans/furry themes almost _has to_ be new, because the latter are new.
 
-A name which could actually take is _[pata](https://en.wikipedia.org/wiki/%27Pataphysics)_.)
+They're pretty clearly Grimespawn. 
+
+You could call it _queer noise_ - but not if you knew [anything](https://en.wikipedia.org/wiki/Genesis_P-Orridge) about the history of the sexuality of noise musicians. Let us not make redundant and patronising mistakes. (There _is_ a difference between the old queer noise and the new kind: the new one is heavy-handed and reduces itself to queerness. An irritated name could be _panderqueer_.) 
+
+A name which could actually take is _[pata](https://en.wikipedia.org/wiki/%27Pataphysics)_.
+
+<br>
+
+---
+
+<br>
+
+How finite is music? Should we expect there to be a point where new genres just don't appear, because we've exhausted them?
+
+Maybe. You can create jazz any number of ways: by just throwing away the metronome, or by empowering the performer 100x more, or by using blue notes 100x more, or by being comfortable with dissonance, or by just not resolving progressions, or by defaulting to dorian instead of ionian and aeolian / using modal interchange all the time, ...
+
+But the last of the major constraints maybe came off in the [70s](https://en.wikipedia.org/wiki/Free_improvisation) or 80s, and, separately, experimental stuff hit apparently [maximum](https://en.wikipedia.org/wiki/Black_MIDI) [intensity](https://en.wikipedia.org/wiki/Loudness_war) ([on](https://daily.bandcamp.com/features/an-introduction-to-extratone-the-worlds-fastest-music-genre) [various](https://www.angrymetalguy.com/tag/technical-brutal-death-metal/) [dimensions](https://en.wikipedia.org/wiki/Whitehouse_(band))) in the 00s. So what can you do now?
+
+Well, tastelessness and absurdity are large enough and repugnant enough to still be mostly virgin soil. So the likes of Stabscotch surprise you by just switching genres and by essentially telling musical jokes. If there are 300 genres, then there are 44850 dumb fusion genres, and millions of three-ways...
 
 <br>
 
