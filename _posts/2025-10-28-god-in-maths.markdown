@@ -46,7 +46,6 @@ When we are weak and know only subspace, he [carries](https://en.wikipedia.org/w
 <br>
 <a href="#fn:1" id="fnref:1">1</a>
 
-https://en.wikipedia.org/wiki/Intuitionistic_logic
 <div class="footnotes">
 
 <ol>
