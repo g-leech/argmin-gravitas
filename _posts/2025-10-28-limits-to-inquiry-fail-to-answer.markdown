@@ -3,7 +3,7 @@ layout:     post
 title:      "Ways we can fail to answer"
 baselink:   /barriers
 permalink:  /barriers
-date:       2025-05-12
+date:       2025-11-02
 author:     Gavin
 img:        /img/wang.jpg
 
@@ -14,7 +14,7 @@ quality:    8
 summary:    Fundamental barriers to knowledge
 confidence: 
 importance: 8
-wordcount:  
+wordcount:  2000
 categories: philosophy, science, epistemology, maths, CS, lists, rationality, metaphysics, mind, research, conceptual-analysis, encompassing, holes
 where:      "Bristol"
 ---
