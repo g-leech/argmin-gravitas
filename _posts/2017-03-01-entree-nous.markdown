@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Does the gut cross the epistemic barrier?"
-baselink:   /barrier
-permalink:  /barrier
+baselink:   /gut-epistemics
+permalink:  /gut-epistemics
 date:       2017-03-09
 author:     Gavin   
 img:        /img/
