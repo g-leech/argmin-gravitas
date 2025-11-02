@@ -292,12 +292,6 @@ ul, ol {
     margin-left: var(--spacing-unit);
 }
 
-li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
-}
 
 li{
     margin-bottom: 0.5em;

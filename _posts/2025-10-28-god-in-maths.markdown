@@ -15,7 +15,7 @@ summary:    A joke
 warnings: 	
 importance: 6
 wordcount:  
-categories: maths
+categories: maths, encompassing, holes
 where:      "Williamsburg"
 ---
 
@@ -32,11 +32,17 @@ He knows the [truth](https://www.goodreads.com/review/show/2509368481) of the co
 
 He lets us pretend we can do functional analysis, [keeping](https://en.wikipedia.org/wiki/Baire_category_theorem) our intersections dense by tucking away the invisible point we could never reach.
 
+<!-- He gently places proper classes in scope of our quantifiers
+
+He fixes the precise Grothendieck Universe that we live in -->
+
 Quietly he makes actual of potential infinity.
 
 He forgives us our renormalizations.
 
 When we are weak and know only subspace, he [carries](https://en.wikipedia.org/wiki/Hahn%E2%80%93Banach_theorem) our functional to the full space.
+
+Ultimately he makes it all [cohere](https://en.wikipedia.org/wiki/Hilbert%27s_second_problem). The accidents of our [conditionals](https://philosophy.stackexchange.com/questions/103031/a-problem-i-noticed-with-if-then-ism-in-the-philosophy-of-mathematics) are treatable as unconditional. "I am that I am", what makes the axioms hold.
 
 <br><br>
 

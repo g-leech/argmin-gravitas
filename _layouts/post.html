@@ -60,13 +60,12 @@ layout: default
 
 
 
-    {% if page.simple or page.stylised or page.technical %} 
-      Available in  
+    {% if page.simple or page.stylised or page.technical %}  
       {% if page.simple %} 
-        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simpleLink">SIMPLE</a> 
+        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simpleLink">Simple</a> 
       {% endif %} 
       {% if page.stylised %} | 
-        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylisedLink">STYLISED</a> 
+        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylisedLink">Stylised</a> 
       {% endif %} 
       {% if page.technical %} | 
         <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'technical')" id="technicalLink">Technical</a> English 
