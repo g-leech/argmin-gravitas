@@ -178,9 +178,9 @@ You will have done really well if even _once_ in your life you fail to answer a 
     <ul>
         <li><i>Quietism</i>: we don't view it as answerable so we don't try to answer it (e.g. the attitude of the Copenhagen interpretation toward unobserved reality)</li>
         <li><i>Positivism</i>: we refuse to answer because we restrict ourselves to (what-we-consider) observables.</li>
-        <li><i>Informal philistinism</i>: we use words alone instead of mathematics to answer it (e.g. [pangenesis theory](https://en.wikipedia.org/wiki/Pangenesis) and its like instead of Mendelian genetics)</li>
-        <li><i>Armchair philosophy</i>: we use only apriori reasoning _instead_ of going and looking_ (e.g. <a href="https://www.nature.com/articles/nn.2795">three centuries</a> of philosophical analysis of <a href="https://en.wikipedia.org/wiki/Molyneux%27s_problem">Molyneux's problem</a>.</li>
-        <li><i>Basic research ethics</i>: getting a direct answer would be wrong. (e.g. social or <a href="https://en.wikipedia.org/wiki/Language_deprivation_experiments">linguistic</a> interventions on children)</li>
+        <li><i>Informal philistinism</i>: we use words alone instead of mathematics to answer it (e.g. <a href="https://en.wikipedia.org/wiki/Pangenesis">pangenesis theory</a> and its like instead of Mendelian genetics)</li>
+        <li><i>Armchair philosophy</i>: we use only apriori reasoning <i>instead</i> of going and looking (e.g. <a href="https://www.nature.com/articles/nn.2795">three centuries</a> of philosophical analysis of <a href="https://en.wikipedia.org/wiki/Molyneux%27s_problem">Molyneux's problem</a>.</li>
+        <li><i>Basic research ethics</i>: when getting a direct answer would be wrong. (e.g. social or <a href="https://en.wikipedia.org/wiki/Language_deprivation_experiments">linguistic</a> interventions on children)</li>
         <li><i>Disinformation, chilling effects, retaliation, institutional capture</i>: powerful people don't want it to be answered. </li>
         <!-- __Social epistemology breakdown__ ( Collective inquiry mechanisms fail through incentives, coordination, or lock-in [Publication bias, paradigm rigidity, tacit knowledge loss] -->
     </ul>
