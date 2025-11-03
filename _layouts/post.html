@@ -54,24 +54,22 @@ layout: default
         <br>{{t}}<a href="{{ page.podcast }}">Podcast version here</a>.
     {% endif %} 
     
-    {% if page.argument %} 
-        <br>{%  include dropdown.html     %}    
-    {% endif %} 
-
-
-
     {% if page.simple or page.stylised or page.technical %}  
+      <br>{{t}}Versions: 
       {% if page.simple %} 
         <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simpleLink">Simple</a> 
       {% endif %} 
-      {% if page.stylised %} | 
+      {% if page.stylised %} &nbsp;|&nbsp;
         <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylisedLink">Stylised</a> 
       {% endif %} 
-      {% if page.technical %} | 
+      {% if page.technical %} &nbsp;|&nbsp; 
         <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'technical')" id="technicalLink">Technical</a> English 
       {% endif %} 
     {% endif %}
 
+    {% if page.argument %} 
+        <br>{%  include dropdown.html     %}    
+    {% endif %} 
   </div>
 </header>
 
