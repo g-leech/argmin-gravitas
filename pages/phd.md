@@ -29,24 +29,21 @@ visible:	false
 	<a href="{{bris}}">
 		<img width="80%" src="/img/thesis.png" />
 	</a>
-	<br><br>
-	Supervised by <a href="{{la}}">Laurence Aitchison</a>
+	<br><br>	
 </center>
 
 <br>
 
-Between 2019 and 2024 I did a PhD. (Though this includes a year of mandatory classes and a year off in which I started <a href="https://arbresearch.com">Arb</a>.)<br>
+Between 2019 and 2024 I did a PhD at Bristol with <a href="{{la}}">Laurence Aitchison</a>. (Though this includes a year of mandatory classes and a year off in which I started <a href="https://arbresearch.com">Arb</a>.)<br>
 
 
-I went in wanting to work on AI safety. True to form, I instead ended up with a grab-bag of fields and topics: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, scientific malpractice, inductive logic, algorithmic fairness and (of course) large language models. Some safety work in there if you squint. 
+I went in wanting to work on AI safety. True to form, I instead ended up with a grab-bag of fields: approximate Bayesian inference, Covid epidemiology, metascience, the methodology of the social sciences, scientific malpractice, inductive logic, algorithmic fairness and (of course) large language models. Some safety work in there if you squint. 
 
-But I published enough, so the resulting thesis is <i><a href="{{bris}}">Methods Failing the Data, Data Failing the Methods</a></i>. Broadly, it's about epistemics. (Why can't we learn that much from one study, or many studies?)
+But I published enough, so the resulting thesis is <i><a href="{{bris}}">Methods Failing the Data,</a> <a href="{{bris}}">Data Failing the Methods</a></i>. Broadly, it's about epistemics. (Why can't we learn that much from one study, or many studies?)
 
-In [Newell's typology](https://www.eecs.harvard.edu/htk/phdadvice/#3) it "contradicts existing knowledge; thoroughly explores an area; provides empirical data; and produces a negative result".
+In [Newell's typology](https://www.eecs.harvard.edu/htk/phdadvice/#3) the piece "contradicts existing knowledge; thoroughly explores an area; provides empirical data; and produces a negative result".
 
-It looks like a success on the usual bad measures. But I didn't go into it for poxy numbers or a mere job; I went in become a great scientist. Obviously this did not happen. 
-
-But I did learn how to really read papers, how to write papers, how to present technical ideas clearly, and how to become stubborn and insensitive in the face of latent spaces. Academia is forever demystified for me. My aversion to mathematics has settled down into guarded neutrality. I am unafraid. This was probably worth it.
+It looks like a success on the usual bad measures. But I didn't go into it for poxy numbers or a mere job; I went in become a great scientist. This did not happen. But I did learn how to really read papers, how to write papers, how to present technical ideas clearly, and how to become stubborn and insensitive in the face of latent spaces. Academia is forever demystified for me. My aversion to mathematics has settled down into guarded neutrality. I am unafraid. This was probably worth it.
 
 <br><br>
 
