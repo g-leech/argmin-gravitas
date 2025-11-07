@@ -33,6 +33,16 @@ This isn't true, but it's [morally](https://www.reddit.com/r/math/comments/925a8
 <br>
 
 <div class="accordion">
+	<h3>October update</h3>
+	<div>
+		Above, I said that this post would be "<i>Obsolete by Oct 2025</i>". This roughly came true: I use Claude around once a day now (for real multi-turn queries, that is, not just as slow Google replacement). I very occasionally hit the rate-limit. 
+		The most straightforward reason I use them more is that I wrote a bunch more code this year. This case was covered in the original post.<br><br>
+		In May, o3 was the first system to be low-variance and well-sourced enough for me to use. I still distrust it enormously, and it tells me something false in most sessions, but I have learned how to see through and to go multi-turn. (I demand sources and check them every time.)<br><br>
+		In September, Sonnet 4.5 began actually following my harsh system prompt <a href="#fn:1" id="fnref:1">1</a>, which finally mostly solved my disgust with their tone. It is now annoying because it taunts and wounds me, a far better form of pain.<br><br>
+		Ways in which this post stands, as of writing: They are still <a href="https://www.gleech.org/editron">poor</a> <a href="https://www.tumblr.com/nostalgebraist/778041178124926976/hydrogen-jukeboxes">writers</a>. They still cannot <a href="https://research.trychroma.com/context-rot">actually</a> <a href="https://nostalgebraist.tumblr.com/post/772798409412427776/even-setting-aside-the-need-to-do">read books</a> in the sense of correlating their contents well. The boons of RL post-training come with big increases in sneakiness and cheating. They are weirdly lazy and often miss many entries when processing a long list. I expect this to be true for another 2 years.<br><br>
+		I am curious what user percentile I now fall in. It might 50th.<br><br>
+		I think it's about equal parts due to them gaining capability (especially instruction-following and requested harshness) and me gaining capability (especially patience and holding my nose).
+	</div>
 	<h3>Attack ships on fire off the shoulder of Orion bright as magnesium</h3>
 	<div>
 		I was there when GBMs still beat neural networks on tabular data. <br>
@@ -59,27 +69,27 @@ Something's gotta give.
 ## Why not??
 
 * **I like writing so much** that reading and improving bad writing can be more effort than doing it myself.
-* me not needing to [bullshit](https://link.springer.com/article/10.1007/s13347-025-00907-3) other humans that often. (I do write quite a few letters of recommendation at this point, but sending out raw slop would be a disservice to my students; the supposed prose would make them sound exactly like every one of their hapless slop-dressed peers. It's also an insult to a fellow academic.)
-* **me not writing much code atm**. (I get that the fall in marginal cost means my demand should grow, but like I already have 4 engineers on staff.)
-* **me already knowing the basics of many many things**. Maybe this is complacency; there's lots of things I used to know well but have half-forgotten. But also: the received view in non-STEM fields is quite often [essentially false](https://muse.jhu.edu/article/226156/pdf), or a lie-to-children oversimplification. Take o3's [account](https://chatgpt.com/share/e/67f41307-cc74-8009-bcfa-183c62ed7793) of the origins of punk music. This is the received view of received views, and I honestly don't know why I'd want that. The only function I can think of is to pretend to be something you're not at a party or a seminar, and I don't want to pretend. OK charitably, you do need _some_ starting point, even if it's false and cliched. But I mostly don't anymore.
+* my not needing to [bullshit](https://link.springer.com/article/10.1007/s13347-025-00907-3) other humans that often. (I do write quite a few letters of recommendation at this point, but sending out raw slop would be a disservice to my students; the supposed prose would make them sound exactly like every one of their hapless slop-dressed peers. It's also an insult to a fellow academic.)
+* **my not writing much code atm**. (I get that the fall in marginal cost means my demand should grow, but like I already have 4 engineers on staff.)
+* **my already knowing the basics of many many things**. Maybe this is complacency; there's lots of things I used to know well but have half-forgotten. But also: the received view in non-STEM fields is quite often [essentially false](https://muse.jhu.edu/article/226156/pdf), or a lie-to-children oversimplification. Take o3's [account](https://chatgpt.com/share/e/67f41307-cc74-8009-bcfa-183c62ed7793) of the origins of punk music. This is the received view of received views, and I honestly don't know why I'd want that. The only function I can think of is to pretend to be something you're not at a party or a seminar, and I don't want to pretend. OK charitably, you do need _some_ starting point, even if it's false and cliched. But I mostly don't anymore.
 * me needing precision and high confidence to learn. I encourage you to start by prompting it with a field you know intimately - you will be disappointed. (Not to pick on [Andy](https://andymasley.substack.com/p/how-i-use-ai), but the [generated o3 textbook](https://chatgpt.com/share/67ecae0e-5120-8010-b9df-de3f1802a711) he gives as an example use case is a bit weak. In one rollout it got the date of CNNs wrong by >10 years and omitted a key caveat of the Minsky-Papert XOR result - that the proof was for _single-layer_ perceptrons; another rollout got LSTMs off by 20 years and seems to have confused RNNs and ResNets.) Karpathy uses it for looking up descriptive statistics, which seems like a bad idea.
 	* I am already too imprecise for my own liking; building in LLMs would make me even worse.
-* me not currently needing to read or write outside my known languages. Clearly for ESL speakers and nonspeakers it's an amazing thing. 
-* me being [well-calibrated](/forecasting) about a lot of things, way more than the current machines.
-* me enjoying large-scale reading and exploration and not wanting to offload it
+* my not currently needing to read or write outside my known languages. Clearly for ESL speakers and nonspeakers it's an amazing thing. 
+* my being [well-calibrated](/forecasting) about a lot of things, way more than the current machines.
+* my enjoying large-scale reading and exploration and not wanting to offload it
 * [them not being actually able to read long things properly](https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do) despite what people tell you
 * the valuable thing that I do at work is not "produce words", and not "skim thousands of words", but "think in new ways" and "be calibrated". The machines of 2025 cannot help me with this except as a foil, a stooge, a practice dummy for what not to say. 
-* me working at a level where most of what I want to know is in the training corpus 0-10 times, i.e. maybe below the [pretraining extraction frequency](https://arxiv.org/abs/2309.14316) (but this is a moving target and bigger models may get it)
-* **me being very precious about style, having a disgust reaction to bad style**
-* **me having a disgust reaction in response to being bullshitted** - which I endorse and which keeps me strong.
+* my working at a level where most of what I want to know is in the training corpus 0-10 times, i.e. maybe below the [pretraining extraction frequency](https://arxiv.org/abs/2309.14316) (but this is a moving target and bigger models may get it)
+* **my being very precious about style, having a disgust reaction to bad style**
+* **my having a disgust reaction in response to being bullshitted** - which I endorse and which keeps me strong.
 * their incredibly annoying laziness training, e.g. where they process like 12 rows of a 1000 row dataset and then say "the rest of the rows have been omitted for brevity" or whatever
 <!-- *  something about RLHF milquetoast, no chance of big surprises, no right tail -->
-* me knowing regex very well
-* me worrying about being deskilled by using them. (Later I will also worry about "cognitive security".)
-* me hating voice mode
-* **me having very smart collaborators**
-* me having enough human friends
-* me disliking talk therapy
+* my knowing regex very well
+* my worrying about being deskilled by using them. (Later I will also worry about "cognitive security".)
+* my hating voice mode
+* **my having very smart collaborators**
+* my having enough human friends
+* my disliking talk therapy
 
 <br>
 
@@ -269,3 +279,17 @@ Discussion on <a href="https://news.ycombinator.com/item?id=43688005">HN</a>
 		</blockquote>
 	</div>
 </div>
+
+
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+		<blockquote>I am a postdoctoral researcher in machine learning. I use Ubuntu on Snapdragon X ARM64. I am British.<br><br>Feel free to criticise. You are not necessarily agreeable, diplomatic, or polite. You consider the user’s opinion carefully but do not defer to it; the user needs information, not agreement.<br><br>You follow Grice’s maxims: Be concise. Don't hide things. Be maximally clear and explicit. Everything you say to the user constitutes a claim that what you are saying is true, relevant, and important.<br><br>	After long replies, append an example of a good followup question I could ask you. Spontaneously look up primary sources with web search when uncertain.</blockquote>
+	</li>
+</ol>
+
+</li>

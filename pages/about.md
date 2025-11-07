@@ -16,7 +16,7 @@ I work on technology and it works on me. I co-founded the consultancy [Arb](http
 
 This site stands in for me when I'm away. It consists of {%		include wc.html 	%} <a href="/archive">words</a>, including <a href="{{grrr}}">1,143 book reviews</a>. 
 
-At various points I have been a waiter, a fruit picker, a 白猴子, a bookseller, a development worker in rural Tanzania, a buyer at a biotech plant, a civil servant, a web developer, an actuary, <a href="/phd">a grad student</a>, an epidemiologist, a metascientist, an AI person, a teacher, consultant isn't a real job, a government advisor, a summer camp director, a managing director, a nonfiction author, a research fellow, and a youtube producer. <a href="/rec">My hobby is getting into stuff.</a> 
+At various points I have been a waiter, a fruit picker, a 白猴子, a bookseller, a development worker in rural Tanzania, a buyer at a biotech plant, a civil servant, a web developer, an actuary, <a href="/phd">a grad student</a>, an epidemiologist, a metascientist, an AI person, a teacher, consultant isn't a real job, a government advisor, a summer camp director, a managing director, a nonfiction author, a research fellow, and a youtube producer. <a href="/rec">My hobby is</a> <a href="/rec">getting into stuff.</a> 
 
 <!-- I am not a [philosopher](https://www.gleech.org/no-philosopher) or a [classicist](https://www.gleech.org/rats-and-trads). -->
 <!-- I sometimes <a href="/deaths">speak for the dead</a>. -->
