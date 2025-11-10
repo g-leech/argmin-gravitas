@@ -9,13 +9,6 @@ visible:    false
 
 <br>
 
-> Poetry is just the evidence of life. If your life is burning well, poetry is just the ash.
-
-<center>— Leonard Cohen</center>
-
-
-<br><br>
-
 
 ## 2025
 
@@ -2339,10 +2332,6 @@ Yeahmeandmydadaretryingtofindit
 <ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
-        
-
-
-
 <h3>IM GRÜNEN ZU SINGEN</h3>
 <br />
 <br />
@@ -2406,3 +2395,8 @@ So komm nur wieder zu mir!«<br />
 </li>
 </ol>
 </div>
+
+
+> Poetry is just the evidence of life. If your life is burning well, poetry is just the ash.
+
+<center>— Leonard Cohen</center>
