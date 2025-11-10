@@ -6,29 +6,30 @@ permalink: 	/fav_poems/
 visible:	false
 ---
 
-<br>
 
 - '[Under Which Lyre](https://hellopoetry.com/poem/807/under-which-lyre/)' by Auden
 
 - '[At the Fishhouses](https://www.poetryfoundation.org/poems/52192/at-the-fishhouses)' by Bishop
 
-- '[Lament for the Makaris](https://poets.org/poem/lament-makaris)' by William Dunbar
+- '[Lament for the Makaris](https://poets.org/poem/lament-makaris)' by Dunbar
 
-- '[Prayer Before Birth](https://poetryarchive.org/poem/prayer-before-birth/)' by Louis MacNeice
+- '[Prayer Before Birth](https://poetryarchive.org/poem/prayer-before-birth/)' by MacNeice
 
 - '[Bavarian Gentians](https://poetryarchive.org/poem/bavarian-gentians/)' by Lawrence
 
-- '[A Shropshire Lad](https://www.gutenberg.org/files/5720/5720-h/5720-h.htm)' by AE Housman
+- '[A Shropshire Lad](https://www.gutenberg.org/files/5720/5720-h/5720-h.htm)' by Housman
 
-- '[Ben Dorain](https://www.scottishpoetrylibrary.org.uk/poem/moladh-beinn-dobhrain-extract/)' by Iain Crichton Smith
+- '[Ben Dorain](https://www.scottishpoetrylibrary.org.uk/poem/moladh-beinn-dobhrain-extract/)' by Crichton Smith
 
 - '[The Back Country](https://www.threecandles.org/archive/ljenkins.html)' by Louis Jenkins
 
-- '[Aubade](https://www.poetryfoundation.org/poems/48422/aubade-56d229a6e2f07)' by Philip Larkin
+- '[Aubade](https://www.poetryfoundation.org/poems/48422/aubade-56d229a6e2f07)' by Larkin
 
 - '<a href="/cohen">French and English</a>' by Leonard Cohen
 
 - '[Boast of Quietness](https://www.goodreads.com/quotes/343526-boast-of-quietness-writings-of-light-assault-the-darkness-more)' by Borges
+
+- '[Sonet of Venus and Cupid](https://www.scottishpoetrylibrary.org.uk/poem/sonet-venus-and-cupid/)' by Boyd
 
 - '[Job 3: 3-26](https://www.biblegateway.com/passage/?search=Job%203%3A3-26&version=KJV)
 
@@ -44,7 +45,7 @@ visible:	false
 
 - '[Artificial Intelligence (To G.P.S.)](http://www.autodidactproject.org/other/Artificial_Intelligence_Rich_A.html)' by Adrienne Rich
 
-- '[Psalm 51](https://www.biblegateway.com/passage/?search=Psalm%2051&version=KJV)' by the psalmist
+- '[Psalm 88](https://www.biblegateway.com/passage/?search=Psalm%2088&version=KJV)' by the psalmist
 
 - '[Not our good luck](https://robinsonjeffersassociation.org/wp-content/uploads/2024/06/RST-OP-post.pdf)' by Robinson Jeffers
 

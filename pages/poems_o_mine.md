@@ -7,8 +7,6 @@ visible:    false
 ---
 
 
-<br>
-
 
 ## 2025
 
