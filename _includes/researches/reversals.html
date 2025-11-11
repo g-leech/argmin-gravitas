@@ -1,0 +1,46 @@
+{%  assign id = "revimg"  %}
+{%  assign reversals = "/files/Reversals_preprint.pdf"    %}
+
+
+
+
+<tr>
+    <td class="logo">
+        <a href="{{reversals}}">
+            <div id="{{id}}"></div>
+        </a>
+    </td>
+    <td style="padding-left: 5px">
+        <h4>
+            <a class="nolink" href="{{reversals}}" target="_blank">
+                Tracking replications in social science
+                <span class="year">(2025)</span>
+            </a>
+        </h4>
+        <div class="journo">
+            in review at <i>Nature Human Intelligence</i>
+        </div>
+        
+        <span class="dropdown">
+          <button class="dropped" onclick="javascript:drop('reversals')">The point</button>,
+
+          <div id="reversals" class="dropdown-content">
+            <br>
+            <b>Full title: Tracking and mainstreaming replications in the social, cognitive, and behavioral sciences</b>
+            <br><br>
+            Argues that replications are essential for validating scientific claims, but they're hard to find and don't make it into citations or courses. So we manually put together the largest database of replications in any field, 5000 experiments.
+            <br><br><br>
+
+            <i>Authors</i>: Helena Hartmann, Flavio Azevedo, Lukas Röseler, ..., <span class="me">Gavin Leech</span>.<br><br>
+            <i>Total hours I contributed</i>: 150.
+            <br><br>
+          </div> 
+        </span>
+        <a href="https://forrt.org/apps/fred_explorer.html">database</a>
+    </td>
+</tr>
+
+<script>  
+    var src="/img/papers/fredlo.jpg"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>
