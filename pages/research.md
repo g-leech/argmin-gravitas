@@ -57,6 +57,7 @@ visible:	true
 ## Preprint
 
 <table>
+	{%	include researches/reversals.html	%}
 	{%  include researches/rdof.html	%}
 	{%  include researches/hplr.html	%}
 	{%  include researches/actadd.html	%}
