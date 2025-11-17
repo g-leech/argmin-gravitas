@@ -18,10 +18,13 @@ visible:  false
 	}
 
 	.preview{
+		background: linear-gradient(135deg, #006800 0%, #93cc93 100%);
 		display: flex;
 		gap: 6%;
 		justify-content: flex-start;
 		align-items: center;
+		color: white;
+		padding-right: 15px;
 	}
 
 	.preview img{
@@ -29,6 +32,10 @@ visible:  false
 		height: 150px;
 		width: 150px;
 		object-fit: cover;
+	}
+
+	.preview a:visited {
+		color: white !important;
 	}
 
 	.preview-info{
@@ -41,6 +48,12 @@ visible:  false
 		font-size: 1.8em;
 		line-height: 1.2em;
 		font-family: var(--serif);
+		color: white !important;
+		font-weight: 540;
+	}
+
+	.openers h2 {
+		font-weight: 1000;
 	}
 
 	.preview a{
@@ -131,7 +144,7 @@ visible:  false
     {% endfor %}
 </section>
 
-
+<br>
 
 <h3>
 	<div class="directory fancy">
