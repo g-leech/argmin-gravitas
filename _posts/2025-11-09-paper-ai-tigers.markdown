@@ -444,7 +444,7 @@ One way for generalisation to fail despite apparently strong eval performance is
 	<div>
 		Here's a <a href="https://colab.research.google.com/drive/1EJ5hM314lOAiX3ayLoU5V-sPoJNuXTNt?usp=sharing">Colab</a> with everything except the actual execution of my silly manual Kimi 1.5 run.<br><br>
 		<!--  -->
-		First, test for an obvious confounder: check if the 2025 AIME exam was around as hard as 2024's (answer: yes; in fact humans did 4% better in 2025).<br><br>
+		First, test for an obvious confounder: check if the 2025 AIME exam was around as hard as 2024's (answer: yes; in fact humans did 4% better in 2025). (TODO: check if 2025 had more combinatorics, which AI struggles with.)<br><br>
 		(To be strict we should limit this to models which finished training before 12th February 2025, when the questions were released. But as you see we don't need to, it's a very clear result anyway.)<br><br>
 		The eval harness is too sensitive to use one setting. I found three comparisons of AIME 2024 and AIME 2025 by three different groups, <a href="https://artificialanalysis.ai/evaluations/aime-2025">Artificial</a> <a href="https://web.archive.org/web/20250723015603/https://artificialanalysis.ai/evaluations/aime-2024">Analysis</a>, <a href="https://github.com/GAIR-NLP/AIME-Preview">GAIR</a>, and <a href="https://www.vals.ai/benchmarks/aime">Vals</a>. <br><br>
 		(I also wasted ages manually evaluating a missing model, Kimi 1.5. It dropped 75%, the most of any model, but it's only avg@2 and I couldn't control reasoning length or temperature.)<br><br>
@@ -461,7 +461,8 @@ One way for generalisation to fail despite apparently strong eval performance is
 <!--  -->
 		Claude is adorably confused about this. I didn't even ask it for this analysis:<br><br>
 <!--  -->
-		<img src="/img/adorable.jpg" />
+		<img src="/img/adorable.jpg" /><br><br>
+		TODO: Another way to get past goodharting pressure is to look at hard but obscure evals which no one ever reports. e.g. <a href="https://x.com/teortaxesTex/status/1988932008693964845">PROOFGRID</a>.
 	</div>
 </div>
 <br>
