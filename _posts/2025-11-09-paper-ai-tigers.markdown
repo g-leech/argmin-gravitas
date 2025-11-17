@@ -15,7 +15,7 @@ summary:    Making sense of current Chinese AI
 confidence: 70%
 importance: 7
 wordcount:  
-warnings:   "Obsolete by March 2026.<br>CoIs: I've been a contractor for the big Western labs in the past and am long Google."
+warnings:   "Obsolete by March 2026.<br>&nbsp;&nbsp;&nbsp;&nbsp;CoIs: I've been a contractor for the big Western labs in the past and am long Google."
 categories: AI, hypothesis-dump
 where:      "Bristol"
 ---
@@ -35,12 +35,12 @@ The best Chinese LLMs offer<br><br>
 1. They're the [most-downloaded](https://www.atomproject.ai/) open models.
 <!--  --><br><br>
 
-As a result, going off private information, open-model fan Nathan Lambert [says](https://www.aljazeera.com/economy/2025/11/13/chinas-ai-is-quietly-making-big-inroads-in-silicon-valley) "Chinese open models have become a de facto standard among startups in the US". Among the few Westerners to stick their necks out and admit it is [Airbnb](https://finance.yahoo.com/news/airbnb-picks-alibabas-qwen-over-093000045.html) (Qwen). Windsurf's planner is [probably GLM](https://x.com/zai_org/status/1984076614951420273); Cursor's planner [may](https://x.com/nrehiew_/status/1984642215671746631) be DeepSeek.
+As a result, going off private information, money man Martin Casado [says](https://x.com/martin_casado/status/1990462245541982546) "16-24%" of the (American) startups he meets are now using Chinese models. Among the few Westerners to admit it is [Airbnb](https://finance.yahoo.com/news/airbnb-picks-alibabas-qwen-over-093000045.html) (Qwen). But Windsurf's planner is [probably GLM](https://x.com/zai_org/status/1984076614951420273) and Cursor's planner [may](https://x.com/nrehiew_/status/1984642215671746631) be DeepSeek.
 <!--  -->
 ### And yet 
 <!--  -->
 <ol start=9>
-	<li>outside China, they are mostly not used, even by the cognoscenti. All Chinese models combined are currently at <a href="https://openrouter.ai/rankings?view=day#market-share">19%</a> on the <i>highly selected</i> group of people who use OpenRouter. Over 2025 they trended downwards there. And in the browser and mobile they're probably <<10% of global use;</li>
+	<li>outside China, they are mostly not used, even by the cognoscenti. Not a great metric, but the one I've got: all Chinese models combined are currently at <a href="https://openrouter.ai/rankings?view=day#market-share">19%</a> on the <i>highly selected</i> group of people who use OpenRouter. More interestingly, over 2025 they trended downwards there. And of course in the browser and mobile they're probably <<10% of global use;</li>
 	<li>they are severely <a href="https://www.scmp.com/tech/big-tech/article/3310656/chinas-lack-advanced-chips-hinders-broad-adoption-ai-models-tencent-executive">compute</a>-<a href="https://epoch.ai/gradient-updates/why-china-isnt-about-to-leap-ahead-of-the-west-on-compute">constrained</a> (and as of November 2025 their <a href="https://epoch.ai/gradient-updates/algorithmic-progress-likely-spurs-more-spending-on-compute-not-less#:~:text=While%20this%20achievement,as%20earlier%20models.">algorithmic advantage</a> is unclear), so this implies they actually can't have matched American models;</li>
 	<li>they're aggressively quantizing at inference-time, 32 bits to 4;</li>
 <!-- 1. (the exception is a [thin Claude wrapper](https://gist.github.com/jlia0/db0a9695b3ca7609c9b1a08dcbf872c9)) -->
@@ -96,7 +96,7 @@ There are [dozens of ways](https://arxiv.org/abs/2407.12220) to screw up or hack
 <br>
 <big>Even less generalisation?</big>
 
-* Maybe Chinese models generalise to unseen tasks less well. (For instance, when tested on fresh data, 01's Yi model [fell 8pp](https://arxiv.org/pdf/2405.00332) (25%) on GSM - the biggest drop amongst all models.)<br><br>We can get a dirty estimate of this by the "shrinkage gap": look at how a model performs on next year's iteration of some task, compared to this year's. If it finished training in 2024, then it can't have trained on the version released in 2025, so we get to see what they're like on at least somewhat novel tasks. We'll use two versions of the same benchmark to keep the difficulty roughly on par. [Let's try AIME](https://colab.research.google.com/drive/1EJ5hM314lOAiX3ayLoU5V-sPoJNuXTNt?usp=sharing):<br><br>
+Maybe Chinese models generalise to unseen tasks less well. (For instance, when tested on fresh data, 01's Yi model [fell 8pp](https://arxiv.org/pdf/2405.00332) (25%) on GSM - the biggest drop amongst all models.)<br><br>We can get a dirty estimate of this by the "shrinkage gap": look at how a model performs on next year's iteration of some task, compared to this year's. If it finished training in 2024, then it can't have trained on the version released in 2025, so we get to see what they're like on at least somewhat novel tasks. We'll use two versions of the same benchmark to keep the difficulty roughly on par. [Let's try AIME](https://colab.research.google.com/drive/1EJ5hM314lOAiX3ayLoU5V-sPoJNuXTNt?usp=sharing):<br><br>
 <!--  -->
 <style>    
     .container {
@@ -432,11 +432,10 @@ There are [dozens of ways](https://arxiv.org/abs/2407.12220) to screw up or hack
     </div>
 </div>
 <br>
-* Almost all models get worse on this new benchmark, despite 2025 being the same difficulty as 2024 (for humans). But as I expected, Western models drop less: they lost 10% of their performance on the new data, while Chinese models dropped 21%. p = 0.09.<br><br>
+Almost all models get worse on this new benchmark, despite 2025 being the same difficulty as 2024 (for humans). But as I expected, Western models drop less: they lost 10% of their performance on the new data, while Chinese models dropped 21%. p = 0.09.<br><br>
 Averaging across crappy models for the sake of a cultural generalisation doesn't make sense. Luckily, rerunning the analysis with just the top models gives roughly the same result (9% gap instead of 11%).<br><br>
 One way for generalisation to fail despite apparently strong eval performance is _contamination_, training on the test set. But (despite the suggestive timing) the above isn't strong evidence that that's what happened. It just tells us that Kimi and MiniMax and DeepSeek generalise worse on this task; it doesn't tell us why.
 
-<br>
 
 
 <div class="accordion">
@@ -445,46 +444,95 @@ One way for generalisation to fail despite apparently strong eval performance is
 		Here's a <a href="https://colab.research.google.com/drive/1EJ5hM314lOAiX3ayLoU5V-sPoJNuXTNt?usp=sharing">Colab</a> with everything except the actual execution of my silly manual Kimi 1.5 run.<br><br>
 		<!--  -->
 		First, test for an obvious confounder: check if the 2025 AIME exam was around as hard as 2024's (answer: yes; in fact humans did 4% better in 2025). (TODO: check if 2025 had more combinatorics, which AI struggles with.)<br><br>
-		(To be strict we should limit this to models which finished training before 12th February 2025, when the questions were released. But as you see we don't need to, it's a very clear result anyway.)<br><br>
-		The eval harness is too sensitive to use one setting. I found three comparisons of AIME 2024 and AIME 2025 by three different groups, <a href="https://artificialanalysis.ai/evaluations/aime-2025">Artificial</a> <a href="https://web.archive.org/web/20250723015603/https://artificialanalysis.ai/evaluations/aime-2024">Analysis</a>, <a href="https://github.com/GAIR-NLP/AIME-Preview">GAIR</a>, and <a href="https://www.vals.ai/benchmarks/aime">Vals</a>. <br><br>
-		(I also wasted ages manually evaluating a missing model, Kimi 1.5. It dropped 75%, the most of any model, but it's only avg@2 and I couldn't control reasoning length or temperature.)<br><br>
+		(To be strict we should limit this to models which finished training before 12th February 2025, when the questions were released. But, as you see, we don't need to, it's a very clear result anyway.)<br><br>
+        Selection criteria:<br><br>
+        <ol>
+            <li>Models tested on both AIME 2024 and 2025 with the same weights and harness</li>
+            <li>Ideally finished training by 15th February 2025</li>
+            <li>Subanalyses can handle filtering to the most relevant models (the frontier in each group)</li>
+        </ol>
+        <br>
+		ML results are too sensitive to eval harnesses to use just one setting. Luckily I found three comparisons of AIME 2024 and AIME 2025 by three different groups, <a href="https://artificialanalysis.ai/evaluations/aime-2025">Artificial</a> <a href="https://web.archive.org/web/20250723015603/https://artificialanalysis.ai/evaluations/aime-2024">Analysis</a>, <a href="https://github.com/GAIR-NLP/AIME-Preview">GAIR</a>, and <a href="https://www.vals.ai/benchmarks/aime">Vals</a>. AA is the one in the table above.<br><br>
 <!--  -->
 		<!--  -->
-		How did our two replications do? The main issue that they were testing really different and crappy sets of models. The shrinkage gap is smaller in both cases: <br><br>
-		* <a href="https://github.com/GAIR-NLP/AIME-Preview">GAIR</a>: Chinese -19.4%, Western -15.6%.<br>
-		* Vals actually show nothing: 11.2% vs 10.8%. If you kick Meta out the gap goes up to 2%, still not much.<br><br>
-		I'm not worried about these contradictory results; they both just include a lot of bad models and so noise. I don't actually care how Llama 4 Scout's generalisation compares to QwQ-uwu-435B-A72B-destruct-dpo-ppo-grpo-orpo-kto-slerp-v3.5-beta2-chat-instruct-base-420-blazeit-early-stopped-for-vibes.<br><br>
+		How did our two replications do? The shrinkage gap is smaller in both cases: <br>
+		<ul>
+            <li>
+            <a href="https://github.com/GAIR-NLP/AIME-Preview">GAIR</a>: Chinese -19.4%, Western -15.6%.</li><br>
+            <li><a href="https://www.vals.ai/benchmarks/aime">Vals</a> actually show nothing: 11.2% vs 10.8%. If you kick Meta out the gap goes up to 2%, still not much.</li>
+        </ul>
+		I'm not worried about these contradictory results; they both just include a lot of bad models and so noise. (I don't actually care how Llama 4 Scout's generalisation compares to QwQ-uwu-435B-A72B-destruct-dpo-ppo-grpo-orpo-kto-slerp-v3.5-beta2-chat-instruct-base-420-blazeit-early-stopped-for-vibes.) GAIR is also underelicited. <br><br>
 		<!--  -->		
 		<!--  -->
 		(Actually AIME's a funny choice of benchmark given that 2025 had <a href="https://x.com/DimitrisPapail/status/1888325914603516214">a bunch</a> of semantic duplicates from before the cutoff. But that just makes the above a lower bound on the fall in performance.)<br><br>
-		A big win for Qwen and a huge win for Amazon!<br><br>
+		A win for Qwen and a huge relative win for Amazon!<br><br>
 <!--  -->
 		Claude is adorably confused about this. I didn't even ask it for this analysis:<br><br>
 <!--  -->
 		<img src="/img/adorable.jpg" /><br><br>
-		TODO: Another way to get past goodharting pressure is to look at hard but obscure evals which no one ever reports. e.g. <a href="https://x.com/teortaxesTex/status/1988932008693964845">PROOFGRID</a>.
+		TODO: Another way to get past goodharting pressure is to look at hard but obscure evals which no one ever reports / which manage to keep the test set private. e.g. <a href="https://x.com/teortaxesTex/status/1988932008693964845">PROOFGRID</a>.
+        <br><br>
+        <div class="accordion">
+    <h3>Kimi 1.5</h3>
+    <div>
+        I really wanted to include Kimi 1.5, because it finished training just around the time AIME 2025 came out. But it turns out they never actually released the weights and it's been removed from the API!<br><br>
+        Because I have that dawg in me, I decided to manually evaluate it in the last place I can, the <a href="https://www.kimi.com/">goddamn browser chat</a>. This is suboptimal in many ways (no control over temperature, max tokens, etc) but I can do it for both and hopefully the fall is proportional. The usual practice is to repeat 8 or 64 times, but I have patience enough for 2.<br><br>
+        I used the Mistral prompt:<br>
+        <code>
+            Solve this AIME mathematical problem step by step.
+<!--  -->
+            Problem: {}
+<!--  -->
+            Think through this carefully and provide your final answer as a 3-digit integer (000-999).
+            <!--  -->
+            End with: "Therefore, the answer is [your answer]."
+        </code>
+        <br><br>
+        Results:
+        <br>
+        <table>
+            <tr>
+                <th></th>
+                <th>AIME 2024 acc</th>
+                <th>AIME 2025 acc</th>
+                <th>abs fall (pp)</th>
+                <th>rel fall (%)</th>
+            </tr>
+            <tr>
+                <td>Kimi 1.5 (browser)</td>
+                <td>18.3 [23.3, 13,3]</td>
+                <td>15.0 [13.3, 16.6]</td>
+                <td>-3.3</td>
+                <td>-18%</td>
+            </tr>
+        </table>
+        <br>
+        We can actually see how much weaker this (null) harness and provider is at eliciting performance by comparing to their reported results. Their short-CoT result for AIME 2024 was <a href="https://arxiv.org/pdf/2501.12599">60.8%</a>.<br><br>
+        For obvious reasons I'm not including this in the main analysis but it's another example.
+        </div>
+    </div>
 	</div>
 </div>
 <br>
 
 <big>'Hacking</big>
 
-* Or you can do the usual [hacking](https://arxiv.org/abs/2407.12220): putting special and unrepresentative effort in during testing. e.g. Kimi's benchmarks come from "Heavy mode" (8 parallel instances with an aggregation instance on top). You can't do this via the API or out of the box with the weights. (Could you say the same for OpenAI?)
+Another way to be misleading is to [volkswagen](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal) it: put special and unrepresentative effort in during testing, "[hacking](https://arxiv.org/abs/2407.12220)". e.g. Kimi's benchmarks come from "Heavy mode" (8 parallel instances with an aggregation instance on top). You can't do this via the API or out of the box with the weights. (Could you say the same for OpenAI?)
 
-* You can run the test on a model which is better than the one you serve. Moonshot credibly claim to have reported their benchmarks at the same low-precision quantization (INT4) that they serve users, but others don't claim this.
+Or you can run the test on a model which is better than the one you serve. Moonshot credibly claim to have reported their benchmarks at the same low-precision quantization (INT4) that they serve users, but others don't claim this.
 
 <big>In fairness</big>
 
-* I should say the Chinese models do very well on LMArena - despite being <a href="https://arxiv.org/abs/2504.20879">unfairly penalised</a>. But Arena is a <a href="https://www.seangoedecke.com/lmsys-slop/">poor</a> <a href="https://lmsys.org/blog/2024-08-28-style-control/">measure</a> of actual ability. It _is_ a decent test of style though. I put this gap down to American labs overoptimising: post-training too hard and putting in all kinds of repugnant corporate ass-covering stuff in the spec.
+I should also say the Chinese models do very well on LMArena - despite being <a href="https://arxiv.org/abs/2504.20879">unfairly penalised</a>. But Arena is a <a href="https://www.seangoedecke.com/lmsys-slop/">poor</a> <a href="https://lmsys.org/blog/2024-08-28-style-control/">measure</a> of actual ability. It _is_ a decent test of style though. I put this gap down to American labs overoptimising: post-training too hard and putting in all kinds of repugnant corporate ass-covering stuff in the spec.
 
-* Also Qwen is famous for capability density: the small versions being surprisingly smart for their size.
+Also Qwen is famous for 'capability density': the small versions are surprisingly smart for their size.
 
 <!-- * Cherrypicking (reporting the tests you happen to do well on) mostly isn't an issue with Kimi.  -->
 
 <big>The D word</big>
 
 
-* Distillation is [second-rate](https://www.rohan-paul.com/p/recent-advancements-in-distillation) intelligence, and there's [some](https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6) [evidence](https://www.reddit.com/r/LocalLLaMA/comments/1m2w5ge/did_kimi_k2_train_on_claudes_generated_code_i/) that they are distilling off of American models to some extent. See also the excellent Slop Profile from [EQ Bench](https://eqbench.com/creative_writing.html), which estimates that the new Kimi is closer to Claude than its own base model. 
+Distillation is [second-rate](https://www.rohan-paul.com/p/recent-advancements-in-distillation) intelligence, and there's [some](https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6) [evidence](https://www.reddit.com/r/LocalLLaMA/comments/1m2w5ge/did_kimi_k2_train_on_claudes_generated_code_i/) that they are distilling off of American models to some extent. See also the excellent Slop Profile from [EQ Bench](https://eqbench.com/creative_writing.html), which estimates that the new Kimi is closer to Claude than its own base model. 
 <br><br>
 <img src="/img/kimi-is-claude.png" />
 <!--  -->
