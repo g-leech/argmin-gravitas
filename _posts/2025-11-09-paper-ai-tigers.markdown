@@ -15,7 +15,7 @@ summary:    Making sense of current Chinese AI
 confidence: 70%
 importance: 7
 wordcount:  
-warnings:   Obsolete by March 2026
+warnings:   "Obsolete by March 2026. CoI: I've been a contractor for the big Western labs in the past and am long Google."
 categories: AI, hypothesis-dump
 where:      "Bristol"
 ---
@@ -40,11 +40,11 @@ As a result, going off private information, open-model fan Nathan Lambert [says]
 ### And yet 
 <!--  -->
 <ol start=9>
-	<li>they are mostly not used even by the cognoscenti. All Chinese models combined are currently at <a href="https://openrouter.ai/rankings?view=day#market-share">19%</a> on the <i>highly selected</i> group of people who use OpenRouter. Over 2025 they trended downwards there. And in the browser they're probably <2% of global use;</li>
+	<li>outside China, they are mostly not used, even by the cognoscenti. All Chinese models combined are currently at <a href="https://openrouter.ai/rankings?view=day#market-share">19%</a> on the <i>highly selected</i> group of people who use OpenRouter. Over 2025 they trended downwards there. And in the browser and mobile they're probably <<10% of global use;</li>
 	<li>they are severely <a href="https://www.scmp.com/tech/big-tech/article/3310656/chinas-lack-advanced-chips-hinders-broad-adoption-ai-models-tencent-executive">compute</a>-<a href="https://epoch.ai/gradient-updates/why-china-isnt-about-to-leap-ahead-of-the-west-on-compute">constrained</a> (and as of November 2025 their <a href="https://epoch.ai/gradient-updates/algorithmic-progress-likely-spurs-more-spending-on-compute-not-less#:~:text=While%20this%20achievement,as%20earlier%20models.">algorithmic advantage</a> is unclear), so this implies they actually can't have matched American models;</li>
 	<li>they're aggressively quantizing at inference-time, 32 bits to 4;</li>
 <!-- 1. (the exception is a [thin Claude wrapper](https://gist.github.com/jlia0/db0a9695b3ca7609c9b1a08dcbf872c9)) -->
-	<li>the Chinese Ministry of State Security <a href="https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf">used</a> closed American models for incredibly sensitive operations, giving the Americans a full whitebox log of the attack!</li>
+	<li>state-sponsored Chinese hackers <a href="https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf">used</a> closed American models for incredibly sensitive operations, giving the Americans a full whitebox log of the attack!</li>
 </ol>
 
 
@@ -453,7 +453,7 @@ One way for generalisation to fail despite apparently strong eval performance is
 		How did our two replications do? The main issue that they were testing really different and crappy sets of models. The shrinkage gap is smaller in both cases: <br><br>
 		* <a href="https://github.com/GAIR-NLP/AIME-Preview">GAIR</a>: Chinese -19.4%, Western -15.6%.<br>
 		* Vals actually show nothing: 11.2% vs 10.8%. If you kick Meta out the gap goes up to 2%, still not much.<br><br>
-		I'm not worried about these contradictory results; they both just include a lot of bad models and so noise. I don't actually care how Llama 4 Scout's generalisation compares to QwQ-uwu-435B-A72B-destruct-dpo-ppo-grpo-orpo-kto-slerp-v3.5-beta2-chat-instruct-base-420-blazeit-early-stopped-for-vibes.
+		I'm not worried about these contradictory results; they both just include a lot of bad models and so noise. I don't actually care how Llama 4 Scout's generalisation compares to QwQ-uwu-435B-A72B-destruct-dpo-ppo-grpo-orpo-kto-slerp-v3.5-beta2-chat-instruct-base-420-blazeit-early-stopped-for-vibes.<br><br>
 		<!--  -->		
 		<!--  -->
 		(Actually AIME's a funny choice of benchmark given that 2025 had <a href="https://x.com/DimitrisPapail/status/1888325914603516214">a bunch</a> of semantic duplicates from before the cutoff. But that just makes the above a lower bound on the fall in performance.)<br><br>
@@ -498,7 +498,7 @@ The above isn't novel; it's common knowledge there's some latent capabilities ga
 
 
 
-### unreliability?
+### Unreliability?
 
 > 1\. frontier performance on some benchmarks
 
@@ -506,7 +506,15 @@ The above benchmarks are mostly single-shot, but people are now pushing LLMs to 
 
 There are various worse agent benchmarks, and e.g. [the new Kimi](https://moonshotai.github.io/Kimi-K2/thinking.html) posts great numbers on them. But on vibe I'd bet on a >3x reliability advantage for Claude.
 
-As well as reliability over time, there's stability over inputs. Maybe the Chinese models are higher variance or more sensitive to the prompt and hyperparams. I've been meaning to run the obvious experiment, which is to just see if they have a bigger gap between pass@1 and pass@64 success rates.
+As well as reliability over time, there's stability over inputs. Maybe the Chinese models are higher variance or more sensitive to the prompt and hyperparams. 
+
+
+### Harder to elicit?
+
+
+TODO: I've been meaning to run the obvious experiment, which is to just see if they have a bigger gap between pass@1 and pass@64 success rates.
+
+TODO: Intentionally underelicit! Rerun the models on AIME 2024 with only a basic prompt. My results will be lower; the gap tells us how much the labs' own intense tuning helps / is necessary. This tells us something about, not their capability, but their actual in-the-wild performance with normal lazy users.
 
 
 ### Tokenomics: no effective discount
@@ -515,7 +523,7 @@ As well as reliability over time, there's stability over inputs. Maybe the Chine
 
 Distinguish intelligence (max performance), intelligence per token (efficiency), and intelligence per dollar (cost-effectiveness).
 
-The 5x discounts I quoted are per-token, not per-success. If you had to use 6x more tokens to get the same quality, then there would be no real discount. And indeed DeepSeek and [Kimi](https://www.reddit.com/r/LocalLLaMA/comments/1oth5pw/comment/no4kgsp/) are very hungry:
+The 5x discounts I quoted are per-token, not per-success. If you had to use 6x more tokens to get the same quality, then there would be no real discount. And indeed DeepSeek and Qwen (see also anecdote here about [Kimi](https://www.reddit.com/r/LocalLLaMA/comments/1oth5pw/comment/no4kgsp/), uncontested) are very hungry:
 
 <img src="/img/semi-token-hungry.png" />
 
@@ -547,7 +555,7 @@ This is partly a temporary matter: the software ecosystem is underdeveloped for 
 
 In the browser, they're actually [slower](https://newsletter.semianalysis.com/p/deepseek-debrief-128-days-later?open=false#%C2%A7speed-can-be-compensated-for) than Western models. This makes sense; they are incredibly inference bound thanks to chip controls! This would be enough to tank them in the consumer market.
 
-And over API, OpenAI dominate even in raw token rate (not counting efficiency):
+And over API, everyone except Anthropic dominate, even in raw token rate (not counting efficiency):
 
 <img src="/img/speed.jpg" />
 
@@ -560,6 +568,7 @@ And over API, OpenAI dominate even in raw token rate (not counting efficiency):
 
 There's a pretty big ick factor to the CCP, and the companies are indeed forced to comply on a range of talking points which offend the West. However, the hosted versions are [much worse](https://interconnect.substack.com/p/was-zuck-right-about-chinese-ai-models) than the weights themselves. [SpeechMap](https://speechmap.substack.com/p/chinese-open-source-model-roundup?r=269emp&utm_campaign=post&utm_medium=web&triedRedirect=true):
 
+<br>
 <center>
 	<img src="/img/deepseek-censor.png" />
 	<img src="/img/kimi.jpg" />
@@ -594,6 +603,8 @@ But it's valid to assume this will get worse as the CCP get more aware and the c
 People panic about "[the flip](https://www.atomproject.ai/)", the point at which people started downloading Chinese models more. But this is obviously a terrible proxy for actually managing to use them. (And it's actually pretty unclear how self-hosting adoption would really benefit China anyway except in prestige.) 
 
 For people with any need of real customisation or tiny models, or a _scientific_ ML hobby, or an ideological interest in open-source, they clearly dominate.
+
+TODO: Scrape relative mention over time of LLaMa vs Qwen in Arxiv experiments.
 
 I concede that the secrecy in the West about using Chinese models makes this one weaker as an explanation. 
 
@@ -649,7 +660,7 @@ So why not on-prem? Again, it's a huge fixed cost and competence-bound and your 
 
 There are a bunch of social reasons you might want to avoid Chinese models. You might be protectionist, or sucking up to the ascendent protectionists.
 
-The protectionism of others is clearly enough for people to keep quiet about using them. It is probably often enough for them to just not take the risk in the first place.
+The protectionism of others is clearly enough for people to keep quiet about using them. It is often probably enough for them to just not take the risk in the first place.
 
 I'd include here [superstitions](https://datasaur.ai/blog-posts/chinese-open-weights-models-security-myths-vs-reality) about the weights themselves being backdoored.
 
@@ -688,7 +699,7 @@ And I have a strong hunch that many American models are also served in low fidel
 
 ### Galaxy-brain soft power??
 
-> 12\. the Chinese Ministry of State Security used closed American models for incredibly sensitive operations, giving the Americans a full whitebox log of the attack!
+> 12\. state-sponsored Chinese hackers used closed American models for incredibly sensitive operations, giving the Americans a full whitebox log of the attack!
 
 I can dimly imagine some kind of flexing dynamic in cyberwarfare, where you actually want to show off your attack capabilities, and so you use Claude on purpose. Yes: this idiotic move makes great sense if the apparent targets are red herrings, if _Anthropic_ were the real target. You learn how long their OODA loop is, you learn (by retaliation or its absence) how tight they are with the NSA, you learn a little about how good their tech is. 
 
@@ -707,7 +718,7 @@ _Low adoption is overdetermined_:
 * No, I don't think they're as good on new inputs or even that close.
 * No, they're not more efficient in time or cost (for non-industrial-scale use).
 * Even if they were, the social and legal problems and biases would probably still suppress them in the medium run.
-* But obviously if you want to heavily customise a model, or need something tiny, or want to tinker, they are totally dominant.
+* But obviously if you want to heavily customise a model, or need something tiny, or want to do science, they are totally dominant.
 * Ongoing compute constraints make me think the capabilities gap and adoption gap will persist.
 
 
