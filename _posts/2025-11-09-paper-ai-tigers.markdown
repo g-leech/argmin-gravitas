@@ -690,7 +690,7 @@ And I have a strong hunch that many American models are also served in low fidel
 
 > 12\. the Chinese Ministry of State Security used closed American models for incredibly sensitive operations, giving the Americans a full whitebox log of the attack!
 
-I can dimly imagine some kind of flexing dynamic in cyberwarfare, where you actually want to show off your attack capabilities, and so you use Claude on purpose. 
+I can dimly imagine some kind of flexing dynamic in cyberwarfare, where you actually want to show off your attack capabilities, and so you use Claude on purpose. Yes: this idiotic move makes great sense if the apparent targets are red herrings, if _Anthropic_ were the real target. You learn how long their OODA loop is, you learn (by retaliation or its absence) how tight they are with the NSA, you learn a little about how good their tech is. 
 
 You could also see it as retaliation for Amodei's [hawkish comments](https://www.darioamodei.com/post/on-deepseek-and-export-controls) all year. Literally trading effectiveness for embarrassment.
 
