@@ -71,7 +71,7 @@ Pressman also says that
 
 I initially read this as him agreeing and celebrating this shift, but actually he thinks they're incorrect to relax, since value loading is only a part of the alignment problem: 
 
-> solving the Bostrom 2014 value loading problem, that is to say {getting something functionally equivalent to a human perspective inside the machine and using it to constrain a superintelligent planner} is not a solution to AI alignment. <a href="#fn:2" id="fnref:2">2</a>
+> solving the Bostrom 2014 value loading problem, that is to say {getting something functionally equivalent to a human perspective inside the machine and using it to constrain a superintelligent planner} is not a solution to AI alignment. 
 
 I agree that value-loading is not enough for AGI intent alignment which is not enough for ASI alignment which is not enough to assure good outcomes. <!-- (if it's only intent alignment) -->
 
@@ -133,6 +133,9 @@ The replacement worry is about how high quality and robust this understanding is
 I'm sure there's some other deep confusion lurking in this list and I look forward to seeing it exposed, ideally in less than 10 years.
 
 
+## See also
+
+* [Paleka](https://newsletter.danielpaleka.com/p/the-two-types-of-llm-preferences)
 
 <br><br>
 
@@ -142,9 +145,6 @@ I'm sure there's some other deep confusion lurking in this list and I look forwa
     <li class="footnote" id="fn:1">
     	Importantly, this is about "sharing" (being <i>motivated by</i>) human values, rather than just understanding them but not sharing them. There's also "aligning a powerful AI is hard" and "aligning a seed AI is hard".<br><br>
     	These have all been confused in the past, and even Bostrom's intro to the value-loading chapter <a href="https://www.alignmentforum.org/posts/MnrQMLuEg5wZ7f4bn/matthew-barnett-s-shortform?commentId=LffHsdqCEdvbo73Qh">implies</a> that getting a seed AI to understand would be hard, and that agency and understanding will be more tightly correlated than they are. 
-	</li>
-	<li class="footnote" id="fn:2">
-		Though he seems to contradict himself by also saying that "At the same time people generally subconsciously internalize things well before they're capable of articulating them, and lots of people have subconsciously internalized that <b>alignment</b> is mostly solved and turned their attention elsewhere."
 	</li>
 	<li class="footnote" id="fn:3">
 		Some amount of this comes from pretraining (imitation learning on human data) rather than specific safety training, see e.g. <a href="https://proceedings.mlr.press/v235/mazeika24a.html">page 24 here</a> or <a href="https://papers.nips.cc/paper_files/paper/2024/file/f545448535dfde4f9786555403ab7c49-Paper-Conference.pdf">appendix J here</a>.
@@ -165,3 +165,4 @@ I'm sure there's some other deep confusion lurking in this list and I look forwa
 	</li>
 </ol>
 </div>
+
