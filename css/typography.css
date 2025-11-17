@@ -133,18 +133,19 @@ h1, h2 {
 }
 
 .post-title {
+    background: linear-gradient(135deg, #006800 0%, #93cc93 100%);
     font-family: "Didot", "Times New Roman", Times, serif;
     font-size: 3em;
+    color: white;
     letter-spacing: -1px;
-    line-height: 1.1em;
-    padding-bottom: 15px;
+    padding: 15px;
+    line-height: 0.8; /* ensure consistent line height */
+    min-width: 42%;
 }
 
 .page-content {
    padding: 3em 0em;
 }
-
-
 
 td{
     padding: 10px 14px;
@@ -218,7 +219,7 @@ h2{
     line-height: 1.2em;
     font-family: var(--serif);
     color: var(--pak-green);
-    font-weight: 600;
+    font-weight: 200;
     font-size: 2.2em;
     letter-spacing: -1px;
 }

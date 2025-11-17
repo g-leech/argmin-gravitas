@@ -28,7 +28,7 @@
  * Site header
  */
  .site-header {
-	background:#006800;
+    background: linear-gradient(135deg, #006800 0%, #70b570 100%);
     padding: var(--padding) 0px;
     color: var(--white);
 }
@@ -46,12 +46,20 @@
 
 .site-header a{
     text-decoration: none;
-    color: white !important;
+}
+
+.site-title {
+    color: var(--white) !important;
 }
 
 .site-header nav{
     display: flex;
     gap: 1em;
+}
+
+.site-header nav a {
+    color: var(--white) !important;
+    font-weight: 500;
 }
 
 .site-header nav a:not(:first-child)::before{
@@ -91,14 +99,19 @@
     justify-content: space-between;
 }
 
-.post-image{
-    min-width: 150px;
-    width: 30%;
-    height: 30%;
+
+.post-image {
+    float: right;
+    margin: 0 0 1rem 1rem;
+    width: 20%;
+    max-width: 200px;
     object-fit: cover;
+    aspect-ratio: 1;
+    margin-top: 12px;
 }
 
 .post-meta {
+    padding-top: 15px;
     font-size: 0.9em;
     color: var(--grey-color) !important;
 }
