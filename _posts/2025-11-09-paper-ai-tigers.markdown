@@ -9,13 +9,13 @@ img:        /img/1950-08-Paper_Tiger.png
 
 visible:    1
 published:  true
-quality:    6
+quality:    7
 
 summary:    Making sense of current Chinese AI 
 confidence: 70%
 importance: 7
 wordcount:  
-warnings:   "Obsolete by March 2026. CoI: I've been a contractor for the big Western labs in the past and am long Google."
+warnings:   "Obsolete by March 2026.<br>CoIs: I've been a contractor for the big Western labs in the past and am long Google."
 categories: AI, hypothesis-dump
 where:      "Bristol"
 ---
@@ -31,7 +31,7 @@ The best Chinese LLMs offer<br><br>
 1. with a bit of work you _can_ get much faster token speeds than the closed APIs;
 1. [less](https://arxiv.org/pdf/2405.20947) overrefusal (except on CCP talking points);
 1. on topics controversial in the West, [less](https://speechmap.ai/models/) nannying.
-1. they just added the [search agents](https://x.com/g_leech_/status/1987525800321495372) that make daily use actually worthwhile;
+1. they just added the [search agents](https://x.com/g_leech_/status/1987525800321495372) that make daily use actually worthwhile. They also let you see the real CoT!
 1. They're the [most-downloaded](https://www.atomproject.ai/) open models.
 <!--  --><br><br>
 
@@ -109,7 +109,7 @@ There are [dozens of ways](https://arxiv.org/abs/2407.12220) to screw up or hack
     }
     
     .container > h1 {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, #006800 0%, #62b562 100%);
         color: white;
         padding: 24px;
         font-size: 24px;
