@@ -59,7 +59,7 @@ What gives?
 	</div>
 	<h3>Filtered evidence</h3>
 	<div>
-	The evidence is dreadful because everyone has a horse in the race and (in public) are letting it lead them:
+	The evidence is dreadful because everyone has a horse in the race and (in public) is letting it lead their speech:
 	<ul>
 		<li>Static evals are weak evidence even when they're not being adversarially hacked and hill-climbed.</li>
 		<li><a href="https://x.com/nealkhosla/status/1882859736737194183">Some</a> <a href="https://x.com/kimmonismus/status/1882824571281436713">Americans</a> are downplaying the Chinese models out of cope.</li>

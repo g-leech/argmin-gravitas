@@ -1,6 +1,6 @@
 ---
 layout:     math_post
-title:      "prospective<br>science<br>please"
+title:      "prospective science please"
 baselink:   /prospect
 permalink:  /prospect
 date:       2025-10-28
