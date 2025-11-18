@@ -435,4 +435,7 @@ summary::marker {
         font-size: 2em;
     }
     
+    .post-title {
+        min-width: 60%;
+    }
 }
