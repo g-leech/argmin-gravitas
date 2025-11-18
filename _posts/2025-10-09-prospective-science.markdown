@@ -1,6 +1,6 @@
 ---
 layout:     math_post
-title:      "prospective science please"
+title:      "prospective<br>science<br>please"
 baselink:   /prospect
 permalink:  /prospect
 date:       2025-10-28
@@ -15,7 +15,7 @@ summary:    On a titanic social failure and doing better next time
 confidence: 70%
 importance: 7
 wordcount:  
-categories: 
+categories: science, metascience, epistemology
 where:      "Williamsburg"
 ---
 
