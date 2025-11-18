@@ -1,0 +1,55 @@
+---
+layout:     post
+title:      "My politics"
+baselink:   /pol
+permalink:  /pol/
+date:       2025-11-18  <!--site.time-->
+author:     Gavin   
+img:        /img/psychology-of-human-judgment.jpg
+
+visible:    1
+published:	true
+
+summary:    
+confidence: 90%
+warnings:   
+categories: politics
+importance: 8
+quality:    5
+pride:      3
+---
+
+Politically, I am a tragedian:
+
+It is tragic that we need governments, that we can't trust markets to deliver what everyone needs.
+
+It is tragic that we need markets, that we can't just trust government to deliver what everyone wants and to not crush the Other.
+<!-- reward innovation,  -->
+
+It is tragic that we need corporations, that economies of scale are so important that we must risk monopolies and cronies and skinwalkers.
+
+It is tragic that we need bureaucracies, that the human urge for favoritism and bribes is so strong and ruinous that it's worth imprisoning everyone on earth in a cage of stupid rules.
+
+It is tragic to be forced to choose to not be free.
+
+<br><br><br><br>
+
+### See also
+
+* [Weber](https://en.wikipedia.org/wiki/Iron_cage)
+* [Sen](https://en.wikipedia.org/wiki/Liberal_paradox)
+* [Farrell](https://archive.is/h83uG#selection-1401.42-1407.1)
+* [Shalizi](https://crookedtimber.org/2012/05/30/in-soviet-union-optimization-problem-solves-you/)
+* [Niebuhr](https://en.wikipedia.org/wiki/Moral_Man_and_Immoral_Society)
+* [David](https://www.goodreads.com/work/quotes/108657-the-machinery-of-freedom-a-guide-to-radical-capitalism)
+* [Hirschmann](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty_Model)
+* [Hegel](https://academic.oup.com/book/11870/chapter-abstract/161002660?redirectedFrom=fulltext)
+* [Rorty](https://sites.pitt.edu/~rbrandom/Courses/Antirepresentationalism%20(2020)/Texts/rorty-contingency-irony-and-solidarity-1989.pdf)
+* [Heath](https://philpapers.org/rec/HEATMO-8)
+* [Weil](https://libcom.org/article/reflections-war-simone-weil)
+* [Scott](https://slatestarcodex.com/2017/06/21/against-murderism/)
+* [Scott/Wang](https://danwang.co/2022-letter/)
+* [Mo](https://en.wikiquote.org/wiki/Mozi)
+* [Gobbets](https://www.gleech.org/quotations/#ui-id-7)
+
+<br>
