@@ -154,7 +154,9 @@ It's a philosophical question whether this makes any sense, whether it is actual
 
 There are six suicides in the book, not counting people who watch the _samizdat_. Joelle, Gompert, Day give long rationales, among others (eg. p648):
 
-> the person in whom Its invisible agony reaches a certain unendurable level will kill herself the same way a trapped person will eventually jump from the window of a burning high-rise. It is the weighing of two terrors, a rational decision, which rationality is invisible until you are there with the flames at your back...
+> The so-called ‘psychotically depressed’ person who tries to kill herself doesn’t do so out of quote ‘hopelessness’ or any abstract conviction that life’s assets and debits do not square. And surely not because death seems suddenly appealing. The person in whom Its invisible agony reaches a certain unendurable level will kill herself the same way a trapped person will eventually jump from the window of a burning high-rise.<br><br>Make no mistake about people who leap from burning windows. Their terror of falling from a great height is still just as great as it would be for you or me standing speculatively at the same window just checking out the view; i.e. the fear of falling remains a constant. The variable here is the other terror, the fire’s flames: when the flames get close enough, falling to death becomes the slightly less terrible of two terrors. It’s not desiring the fall; it’s terror of the flames.
+
+
 
 This can't help but <a href="{{death}}">resonate</a> now. Just because you're a genius doesn't mean you'll ever arrive at any answers. 
 
