@@ -19,9 +19,12 @@ visible:  false
     /* max-width: 75%; */
     font-size: 1.3em;
     line-height: 1.3em;
-    /* text-decoration-style: dotted; */
+    text-decoration: none !important; 
     font-weight: 500;
-    color: var(--dark-green);
+    color: var(--white);
+    font-family: var(--serif);
+    background: linear-gradient(135deg, #006800 0%, #93cc93 100%);
+
   }
 
   .spaced{
