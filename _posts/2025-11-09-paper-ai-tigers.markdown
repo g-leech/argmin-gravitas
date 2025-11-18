@@ -91,6 +91,8 @@ But these benchmarks are not strong evidence about performance on new inputs or 
 
 In fact it's not even an 89% probability of answering these same questions right again, as shown by the fact that [people](https://moonshotai.github.io/Kimi-K2/) report the results as "avg@64" (the average performance if you ask the same question 64 times).
 
+Aside: **Test sets which are on the internet are not test sets.**
+
 There are [dozens of ways](https://arxiv.org/abs/2407.12220) to screw up or hack these numbers. I'll only look at a couple here but I welcome someone doing something more systematic.
 
 <br>
@@ -437,7 +439,7 @@ Averaging across crappy models for the sake of a cultural generalisation doesn't
 One way for generalisation to fail despite apparently strong eval performance is _contamination_, training on the test set. But (despite the suggestive timing) the above isn't strong evidence that that's what happened. It just tells us that Kimi and MiniMax and DeepSeek generalise worse on this task; it doesn't tell us why.
 
 
-
+<br>
 <div class="accordion">
 	<h3>Details</h3>
 	<div>
@@ -452,14 +454,25 @@ One way for generalisation to fail despite apparently strong eval performance is
             <li>Subanalyses can handle filtering to the most relevant models (the frontier in each group)</li>
         </ol>
         <br>
-		ML results are too sensitive to eval harnesses to use just one setting. Luckily I found three comparisons of AIME 2024 and AIME 2025 by three different groups, <a href="https://artificialanalysis.ai/evaluations/aime-2025">Artificial</a> <a href="https://web.archive.org/web/20250723015603/https://artificialanalysis.ai/evaluations/aime-2024">Analysis</a>, <a href="https://github.com/GAIR-NLP/AIME-Preview">GAIR</a>, and <a href="https://www.vals.ai/benchmarks/aime">Vals</a>. AA is the one in the table above.<br><br>
-<!--  -->
+		ML results are too sensitive to eval harnesses to use just one setting. Luckily I found four comparisons of AIME 2024 and AIME 2025 by different groups, <a href="https://artificialanalysis.ai/evaluations/aime-2025">Artificial</a> <a href="https://web.archive.org/web/20250723015603/https://artificialanalysis.ai/evaluations/aime-2024">Analysis</a>, the <a href="https://arxiv.org/pdf/2506.10947">Zettlemoyer Lab</a>, <a href="https://github.com/GAIR-NLP/AIME-Preview">GAIR</a>, and <a href="https://www.vals.ai/benchmarks/aime">Vals</a>. AA is the one in the table above.<br><br>
+        <div class="accordion">
+        <h3>Qwen 2.5</h3>
+        <div>
+        Qwen3 seems clean on this benchmark, but <a href="https://www.interconnects.ai/p/reinforcement-learning-with-random">multiple lines</a> show that Qwen 2.5 trained on test (or at least rephrased test data and then trained on it). We know this because random rewards work on it nearly as well as correct rewards. This adds no information by definition, so the model must have already known the answers. "<i>Intriguingly, we find that any AIME24 gains achievable from training Qwen models with spurious rewards largely vanish when evaluating on AIME 2025.</i>" Taking the max performance of the random reward curve, they fall 88% [75%, 100%].<br><br>
+        <!--  -->
+        Even more damning, <a href="https://arxiv.org/pdf/2507.10532v1#page=2">when</a> you give Qwen2.5-7B the first 40% of a MATH-500 test problem, it can reproduce the remaining 60% of the question word-for-word (with 41.2% accuracy). Llama3.1-8B fails at this completely (2%). 
+        <!--  -->
+        </div>
+        </div>
+        <br><br>
+        <!--  -->
 		<!--  -->
-		How did our two replications do? The shrinkage gap is smaller in both cases: <br>
+		How did our replications do? As expected, the shrinkage gap varies a lot by harness and by model choice: <br>
 		<ul>
             <li>
+            <a href="https://arxiv.org/pdf/2506.10947">UoW-Zettlemoyer</a>: Qwen2.5-7B and Qwen2.5-Math fall 12.5pp (88%); the Western LLaMA and OLMo models were too weak to really say.</li>
             <a href="https://github.com/GAIR-NLP/AIME-Preview">GAIR</a>: Chinese -19.4%, Western -15.6%.</li><br>
-            <li><a href="https://www.vals.ai/benchmarks/aime">Vals</a> actually show nothing: 11.2% vs 10.8%. If you kick Meta out the gap goes up to 2%, still not much.</li>
+            <li><a href="https://www.vals.ai/benchmarks/aime">Vals</a> actually get no gap: -11.2% vs -10.8%. If you kick Meta out the gap goes up to 2%, still not much.</li>
         </ul>
 		I'm not worried about these contradictory results; they both just include a lot of bad models and so noise. (I don't actually care how Llama 4 Scout's generalisation compares to QwQ-uwu-435B-A72B-destruct-dpo-ppo-grpo-orpo-kto-slerp-v3.5-beta2-chat-instruct-base-420-blazeit-early-stopped-for-vibes.) GAIR is also underelicited. <br><br>
 		<!--  -->		
@@ -472,7 +485,7 @@ One way for generalisation to fail despite apparently strong eval performance is
 		<img src="/img/adorable.jpg" /><br><br>
 		TODO: Another way to get past goodharting pressure is to look at hard but obscure evals which no one ever reports / which manage to keep the test set private. e.g. <a href="https://x.com/teortaxesTex/status/1988932008693964845">PROOFGRID</a>.
         <br><br>
-        <div class="accordion">
+    <div class="accordion">
     <h3>Kimi 1.5</h3>
     <div>
         I really wanted to include Kimi 1.5, because it finished training just around the time AIME 2025 came out. But it turns out they never actually released the weights and it's been removed from the API!<br><br>

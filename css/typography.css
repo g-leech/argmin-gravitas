@@ -140,7 +140,8 @@ h1, h2 {
     letter-spacing: -1px;
     padding: 15px;
     line-height: 0.8; /* ensure consistent line height */
-    min-width: 42%;
+    min-width: 55%;
+    max-width: 66%;
 }
 
 .page-content {
