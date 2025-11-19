@@ -5,6 +5,25 @@ permalink:  /tags
 visible:  false
 ---
 
+
+<style>
+  .post-tag{
+    min-width: 55%;
+    /* max-width: 75%; */
+    font-size: 1.4em;
+    line-height: 1.3em;
+    text-decoration: none !important; 
+    font-weight: 500;
+    color: var(--white);
+    font-family: var(--serif);
+    background: linear-gradient(135deg, #006800 0%, #93cc93 100%);
+    padding-left:23px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+
+</style>
+
 {%  assign site_categories = site.posts | map: "categories" 
                               | join: ','  | split: ',' 
                               | uniq | compact  
@@ -18,7 +37,7 @@ visible:  false
   {% endif %}
 
 
-  <h3 id="{{category}}">{{ category }}</h3>
+  <h3 class="post-tag" id="{{category}}">{{ category }}</h3>
   <ul>
     {% for p in site.posts %}
         {%  assign cats = p.categories | split: ',' | join: ',' %} 
@@ -31,17 +50,3 @@ visible:  false
 
 {% endfor %}
 
-<br><br>
-
-<hr />
-
-<br>
-
-<h3>written in blood</h3>
-
-{% assign posts = site.posts | where_exp: "item", "item.emotion > 6" %}
-{% for post in posts %}
-    {% if post.arb != 1 %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {%  endif   %}
-{% endfor %}
