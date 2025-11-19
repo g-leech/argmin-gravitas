@@ -28,7 +28,8 @@
  * Site header
  */
  .site-header {
-    background: linear-gradient(135deg, #006800 0%, #70b570 100%);
+    background: #006800;
+background: linear-gradient(153deg, rgba(0, 104, 0, 1) 0%, rgba(88, 168, 88, 1) 91%, rgba(101, 168, 101, 1) 99%);
     padding: var(--padding) 0px;
     color: var(--white);
 }
