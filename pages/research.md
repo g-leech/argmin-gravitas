@@ -21,7 +21,7 @@ visible:	true
 </style>    
 
 
-## Books
+<h2 class="post-title">Books</h2>
 
 <table>
 	{%	include researches/dp.html	%}
@@ -33,7 +33,7 @@ visible:	true
 </table>
 
 
-## Conference
+<h2 class="post-title"> Conference</h2>
 
 <table>
 	{%	include researches/rws.html	%}
@@ -41,7 +41,7 @@ visible:	true
 </table>
 
 
-## Journal
+<h2 class="post-title"> Journal</h2>
 
 <table>
 	{%  include researches/redreplication.html	%}
@@ -54,7 +54,7 @@ visible:	true
 </table>
 
 
-## Preprint
+<h2 class="post-title"> Preprint</h2>
 
 <table>
 	{%	include researches/reversals.html	%}
@@ -67,7 +67,7 @@ visible:	true
 </table>
 
 
-## Workshop
+<h2 class="post-title"> Workshop</h2>
 
 <table>
 	{%	include researches/forrt.html	%}

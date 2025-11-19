@@ -155,6 +155,22 @@ visible:  false
   See posts ranked by their importance <a href="/importance">here</a>.
 </p>
 
+<br><br>
+
+<hr />
+
+<br>
+
+<h2>written in blood</h2>
+
+{% assign posts = site.posts | where_exp: "item", "item.emotion > 7" %}
+{% for post in posts %}
+    {% if post.arb != 1 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {%  endif   %}
+{% endfor %}
+
+
 <br>
 
 {%    include mc.html  %}
