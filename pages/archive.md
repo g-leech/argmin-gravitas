@@ -17,25 +17,31 @@ visible:  false
   .post-link{
     min-width: 55%;
     /* max-width: 75%; */
-    font-size: 1.3em;
+    font-size: 1.4em;
     line-height: 1.3em;
     text-decoration: none !important; 
     font-weight: 500;
     color: var(--white);
     font-family: var(--serif);
     background: linear-gradient(135deg, #006800 0%, #93cc93 100%);
-
+    padding-left:40px;
+    padding-top: 1%;
+    padding-bottom: 1%;
   }
 
   .spaced{
     display: flex;
     flex-direction: column;
-    gap: 3px;
+    gap: 2px;
+    padding-left:6%;
+    padding-right:6%;
   }
 
-  .nolink{
-	font-size: 0.8em;
-	line-height: 1.3em
+  .nolink {
+	 font-size: 0.9em;
+	 line-height: 1.3em;
+   padding-left:40px;
+   padding-top: 2%;
   }
 
   .archive-link
@@ -51,6 +57,13 @@ visible:  false
     font-weight: 600;
   }
 
+  .tag {
+    text-align: right; font-size: 10pt; color: gray;
+  }
+  .tag a{
+    text-decoration-thickness: 0%;
+    text-decoration-color: white;
+  }
 
   .page-list{
     display: flex;
@@ -79,7 +92,7 @@ visible:  false
 	.post-link{
 		max-width: 100%
 	}
-  }
+}
 
 </style>
 
@@ -88,7 +101,7 @@ visible:  false
 <div class="gcse-search"></div>
 
 
-<div class="post">
+<div class="post">      
       {% for post in site.posts %}
 <!--  -->
         {% assign currentYear = post.date | date: "%Y" %}
@@ -96,15 +109,24 @@ visible:  false
            {% unless forloop.first %}</div>{% endunless %}
 <!--  -->
            <h3 class="year">{{ currentYear }}</h3>
+           <br>
             <div class="post-list">
            {% assign yr = currentYear %}
         {% endif %}
 <!--  -->
         <div class="spaced">
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}</a>
+            {{ post.title }} 
+            </a>
             <a class="nolink" href="{{ post.url | prepend: site.baseurl }}"><i>{{ post.summary }}</i></a>
-		</div>
+            <span class="tag">
+              <a href="/tags">
+                {{post.categories | join | truncate: 40}}
+              </a>
+            </span>
+            <hr />
+            <br>
+		    </div>
         {% if forloop.last %}</div>{% endif %}
 <!--  -->
 <!--  -->      

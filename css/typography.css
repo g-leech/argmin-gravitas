@@ -133,7 +133,8 @@ h1, h2 {
 }
 
 .post-title {
-    background: linear-gradient(135deg, #006800 0%, #93cc93 100%);
+    background: #006800;
+    background: linear-gradient(153deg, rgba(0, 104, 0, 1) 0%, rgba(88, 168, 88, 1) 48%, rgba(147, 204, 147, 1) 91%, rgba(182, 219, 182, 1) 100%);
     font-family: "Didot", "Times New Roman", Times, serif;
     font-size: 3em;
     color: white;
