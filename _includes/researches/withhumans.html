@@ -1,0 +1,47 @@
+{%  assign id = "withimg"  %}
+{%  assign withh = "https://www.gleech.org/files/withhumans.pdf"	%}
+
+<tr>
+    <td class="logo">
+        <a href="{{withh}}">
+            <div id="{{id}}"></div>
+        </a>
+    </td>
+    <td style="padding-left: 5px">
+        <h4>
+            <a class="nolink" href="{{withh}}" target="_blank">
+                AI Evaluation Should Work With Humans
+                <span class="year">(2025)</span>
+            </a> 
+        </h4>
+        <div class="journo">
+        </div>
+        
+        <span class="dropdown">
+          <button class="dropped" onclick="javascript:drop('withh')">The point</button>,
+          
+          <div id="withh" class="dropdown-content">
+            <br>
+            We argue that the dominant paradigm of AI evaluation, which focuses on autonomous superhuman performance and so an implicit goal of replacing humans,
+is guiding AI development in the wrong direction. Instead, the AI community
+should pivot to evaluating the performance of human–AI teams. We argue that this
+collaborative shift in evaluation will foster AI systems that act as true complements
+to human capabilities and therefore lead to far better societal outcomes than the
+current process.
+            <br><br>
+
+            <i>Authors</i>: Jan Kulveit, <span class="me">Gavin Leech</span>, Tomáš Gavenciak, Raymond Douglas
+            <br><br>
+            <i>Total hours I contributed</i>: 5
+            <br><br>
+          </div>
+        </span>
+        <a href="{{withh}}" target="_blank">the paper</a>
+    </td>
+</tr>
+
+
+<script>  
+    var src="/img/withhu.jpg"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>
