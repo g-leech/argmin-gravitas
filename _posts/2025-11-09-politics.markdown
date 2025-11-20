@@ -52,4 +52,14 @@ It is tragic to be forced to choose to not be free.
 * [Mo](https://en.wikiquote.org/wiki/Mozi)
 * [Gobbets](https://www.gleech.org/quotations/#ui-id-7)
 
-<br>
+
+<br><br>
+<div class="accordion">
+	<h3>Comments</h3>
+	<div>
+		<b>Baran Cimen</b> commented on 18 November 2025:
+		<blockquote>
+			It is tragic that you can't say it straight and have to hide behind irony. It is tragic that you are not free despite not being forced to be unfree, which would be a contradiction.
+		</blockquote>	
+	</div>
+</div>
