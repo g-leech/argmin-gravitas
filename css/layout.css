@@ -103,7 +103,7 @@ background: linear-gradient(153deg, rgba(0, 104, 0, 1) 0%, rgba(88, 168, 88, 1) 
 .post-image {
     float: right;
     margin: 0 0 1rem 1rem;
-    width: 20%;
+    width: 26%;
     max-width: 200px;
     object-fit: cover;
     aspect-ratio: 1;
@@ -203,6 +203,18 @@ footer .flex{
     .col-3{
         column-count: 2;
     }
+    .post-banner {
+        gap: 0;
+    }
+
+    .post-image {
+        width: 34%;
+        max-width: 300px;
+    }
+
+    .post-meta {
+        padding-left: 10px;
+    }
 }
 
 .icon-grid{
@@ -258,6 +270,9 @@ footer .flex{
 @media (max-width: 600px) {
     .nomob {
         display: none;
+    }
+    .directory {
+        text-align: center; gap: 0.6em
     }
 }
 
