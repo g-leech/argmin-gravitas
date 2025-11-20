@@ -20,8 +20,9 @@ visible:	true
 
 </style>    
 
+<br>
 
-<h2 class="post-title">Books</h2>
+<h2 class="post-title"> Books</h2>
 
 <table>
 	{%	include researches/dp.html	%}
@@ -32,12 +33,28 @@ visible:	true
 	<!-- %	include researches/arbbook.html	%} -->
 </table>
 
+<h2 class="post-title"> Preprint</h2>
+
+<table>
+	{%	include researches/withhumans.html 	%}
+	{%	include researches/reversals.html	%}
+	{%  include researches/rdof.html	%}
+	{%  include researches/hplr.html	%}
+	{%  include researches/actadd.html	%}
+	{%  include researches/psychofore.html	%}
+	{%  include researches/trees.html	%}
+	{%	include researches/lgfo.html	%}
+</table>
+
 
 <h2 class="post-title"> Conference</h2>
 
 <table>
 	{%	include researches/rws.html	%}
 	{%	include researches/covid_neur.html	%}
+	{%	include researches/forrt.html	%}
+	{%	include researches/ilp.html	%}
+
 </table>
 
 
@@ -53,26 +70,6 @@ visible:	true
 	{%	include researches/covid.html	%}
 </table>
 
-
-<h2 class="post-title"> Preprint</h2>
-
-<table>
-	{%	include researches/reversals.html	%}
-	{%  include researches/rdof.html	%}
-	{%  include researches/hplr.html	%}
-	{%  include researches/actadd.html	%}
-	{%  include researches/psychofore.html	%}
-	{%  include researches/trees.html	%}
-	{%	include researches/lgfo.html	%}
-</table>
-
-
-<h2 class="post-title"> Workshop</h2>
-
-<table>
-	{%	include researches/forrt.html	%}
-	{%	include researches/ilp.html	%}
-</table>
 
 
 
