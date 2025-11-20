@@ -25,7 +25,10 @@ layout: default
     {% if page.confidence %}
         <br>{{t}}<i>Confidence</i>: {{ page.confidence }}
     {% endif %} 
-
+    <details class="dropdown">
+      <summary>
+        &nbsp;&nbsp;Metadata
+      </summary>
     {%  if page.categories.size > 0   %}
         <br>{{t}}<i>Tags:</i> 
         {% for tag in page.categories %}
@@ -70,6 +73,7 @@ layout: default
     {% if page.argument %} 
         <br>{%  include dropdown.html     %}    
     {% endif %} 
+    </details>
   </div>
 </header>
 

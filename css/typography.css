@@ -451,7 +451,7 @@ summary::marker {
     }
     
     .post-title {
-        min-width: 60%;
+        min-width: 50%;
         font-size: 30px;
     }
 }
