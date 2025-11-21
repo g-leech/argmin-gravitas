@@ -592,10 +592,9 @@ The above isn't novel; it's common knowledge there's some latent capabilities ga
 
 The above benchmarks are mostly single-shot, but people are now pushing LLMs to do more complicated stuff. One very flawed measure of this is the HCAST time horizon for software engineering: on that, [DeepSeek R1](https://epoch.ai/benchmarks/metr-time-horizons) had a 31 minute "50% time horizon" compared to Opus 4's 80 minutes.
 
-
 There are various worse agent benchmarks, and e.g. [the new Kimi](https://moonshotai.github.io/Kimi-K2/thinking.html) posts great numbers on them. But on vibe I'd bet on a >3x reliability advantage for Claude.
 
-EDIT: Kimi K2 Thinking [ended up](https://x.com/METR_Evals/status/1991658241932292537/photo/1) at the same task horizon as Sonnet 3.7 (a model 10 months older than it) on HCAST, with an asterisk.
+EDIT: Kimi K2 Thinking [ended up](https://x.com/METR_Evals/status/1991658241932292537/photo/1) at the same task horizon as Sonnet 3.7 (a model 10 months older than it) on HCAST, with an asterisk (the provider they had to use for privacy reasons may well have underelicited the model).
 
 <img src="/img/kimihcast.jpeg" />
 
