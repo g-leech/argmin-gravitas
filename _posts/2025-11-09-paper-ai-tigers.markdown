@@ -41,7 +41,7 @@ As a result, going off private information, money man Martin Casado [says](https
 <!--  -->
 <ol start=9>
 	<li>outside China, they are mostly not used, even by the cognoscenti. Not a great metric, but the one I've got: all Chinese models combined are currently at <a href="https://openrouter.ai/rankings?view=day#market-share">19%</a> on the <i>highly selected</i> group of people who use OpenRouter. More interestingly, over 2025 they trended downwards there. And of course in the browser and mobile they're probably <<10% of global use;</li>
-	<li>they are severely <a href="https://www.scmp.com/tech/big-tech/article/3310656/chinas-lack-advanced-chips-hinders-broad-adoption-ai-models-tencent-executive">compute</a>-<a href="https://epoch.ai/gradient-updates/why-china-isnt-about-to-leap-ahead-of-the-west-on-compute">constrained</a> (and as of November 2025 their <a href="https://epoch.ai/gradient-updates/algorithmic-progress-likely-spurs-more-spending-on-compute-not-less#:~:text=While%20this%20achievement,as%20earlier%20models.">algorithmic advantage</a> is unclear), so this implies they actually can't have matched American models;</li>
+	<li>they are severely <a href="https://www.scmp.com/tech/big-tech/article/3310656/chinas-lack-advanced-chips-hinders-broad-adoption-ai-models-tencent-executive">compute</a>-<a href="https://epoch.ai/gradient-updates/why-china-isnt-about-to-leap-ahead-of-the-west-on-compute">constrained</a>, so this implies they actually can't have matched American models;</li>
 	<li>they're aggressively quantizing at inference-time, 32 bits to 4;</li>
 <!-- 1. (the exception is a [thin Claude wrapper](https://gist.github.com/jlia0/db0a9695b3ca7609c9b1a08dcbf872c9)) -->
 	<li>state-sponsored Chinese hackers <a href="https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf">used</a> closed American models for incredibly sensitive operations, giving the Americans a full whitebox log of the attack!</li>
@@ -528,6 +528,30 @@ One way for generalisation to fail despite apparently strong eval performance is
 </div>
 <br>
 
+<big>Latent capabilities</big>
+
+<a href="https://arxiv.org/pdf/2503.06378">My favourite paper</a> of the year introduces a way to do real psychometrics on LLMs, breaking it down into 18 fundamental capabilities. 
+
+The DeepSeek R1 32B distill they test is about as good (total area) as o1-mini. Not bad!
+
+<img src="/img/adele.jpg" />
+
+TODO: Run Kimi against GPT-5.1.
+
+
+<big>Pre-1960s statistics</big>
+
+The bundled score people use is the [Artificial Analysis](https://artificialanalysis.ai/) one, because they have a very nice UI. But they give every benchmark equal weight, when in fact they differ hugely in hardness! [Epoch's index](https://epoch.ai/benchmarks/eci) estimates difficulties properly and show 
+
+TODO: Wait for Epoch to do KimiK2T.
+
+This still suffers from GIGO but is better.
+
+<!-- <big>Calibration</big>
+
+If just impressing people with your average score is your goal, you can to some extent trade _calibration_ for this. 
+ -->
+
 <big>'Hacking</big>
 
 Another way to be misleading is to [volkswagen](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal) it: put special and unrepresentative effort in during testing, "[hacking](https://arxiv.org/abs/2407.12220)". e.g. Kimi's benchmarks come from "Heavy mode" (8 parallel instances with an aggregation instance on top). You can't do this via the API or out of the box with the weights. (Could you say the same for OpenAI?)
@@ -541,6 +565,8 @@ I should also say the Chinese models do very well on LMArena - despite being <a 
 Also Qwen is famous for 'capability density': the small versions are surprisingly smart for their size.
 
 <!-- * Cherrypicking (reporting the tests you happen to do well on) mostly isn't an issue with Kimi.  -->
+
+
 
 <big>The D word</big>
 
@@ -564,19 +590,28 @@ The above isn't novel; it's common knowledge there's some latent capabilities ga
 
 > 1\. frontier performance on some benchmarks
 
-The above benchmarks are mostly single-shot, but people are now pushing LLMs to do more complicated stuff. One very flawed measure of this is the HCAST time horizon for software engineering: on that, [DeepSeek R1](https://epoch.ai/benchmarks/metr-time-horizons) had a 31 minute "time horizon" compared to Opus 4's 80 minutes.
+The above benchmarks are mostly single-shot, but people are now pushing LLMs to do more complicated stuff. One very flawed measure of this is the HCAST time horizon for software engineering: on that, [DeepSeek R1](https://epoch.ai/benchmarks/metr-time-horizons) had a 31 minute "50% time horizon" compared to Opus 4's 80 minutes.
+
 
 There are various worse agent benchmarks, and e.g. [the new Kimi](https://moonshotai.github.io/Kimi-K2/thinking.html) posts great numbers on them. But on vibe I'd bet on a >3x reliability advantage for Claude.
 
-As well as reliability over time, there's stability over inputs. Maybe the Chinese models are higher variance or more sensitive to the prompt and hyperparams. 
+EDIT: Kimi K2 Thinking [ended up](https://x.com/METR_Evals/status/1991658241932292537/photo/1) at the same task horizon as Sonnet 3.7 (a model 10 months older than it) on HCAST, with an asterisk.
 
+<img src="/img/kimihcast.jpeg" />
 
 ### Harder to elicit?
 
+As well as reliability over time, there's stability over inputs. High variance in performance, for instance because the exact form of the inputs matters more.
+
+On Vending-Bench, there's a <a href="https://x.com/andonlabs/status/1989862276137119799">huge gap</a> in performance between the Moonshot API and Moonshot models provided by a third-party provider. This is evidence of three things:
+
+1. maybe Kimi is more fiddly (sensitive to the prompt and hyperparameters);
+2. maybe the providers haven't learned how to elicit performance from them yet (testable by just waiting);
+3. maybe they were using [questionable research practices](https://arxiv.org/abs/2407.12220) in the self-reported runs.
 
 TODO: I've been meaning to run the obvious experiment, which is to just see if they have a bigger gap between pass@1 and pass@64 success rates.
 
-TODO: Intentionally underelicit! Rerun the models on AIME 2024 with only a basic prompt. My results will be lower; the gap tells us how much the labs' own intense tuning helps / is necessary. This tells us something about, not their capability, but their actual in-the-wild performance with normal lazy users.
+TODO: Or I could intentionally underelicit! Rerun the models on AIME 2024 with only a basic prompt. My results will be lower; the gap tells us how much the labs' own intense tuning helps / is necessary. This tells us something about, not their capability, but their actual in-the-wild performance with normal lazy users.
 
 
 ### Tokenomics: no effective discount
@@ -600,6 +635,56 @@ And the resulting cost is a mixed bag:<br><br>
 </center>
 
 I won't [use](https://artificialanalysis.ai/#cost) AA's efficiency estimates, because again I think the benchmarks underlying them are bad evidence.
+
+
+<big>Out of Context</big>
+
+A <a href="https://www.the-information-bottleneck.com/ep16-ai-news-and-papers/">rule of thumb</a> in ML is that the effective context window is about 10 times shorter than the theoretical maximum context window you get sold (also I hope there's nothing important to you in <a href="https://research.trychroma.com/context-rot">the middle third</a>). By "effective" I mean the latent amount of context which gets simultaneously _understood_, as opposed to the observed size of the data type. (This doesn't affect "needle in a haystack" retrieval, at which they have been superhuman for a while now.)
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>Context Window (tokens)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Kimi K2 Thinking</td>
+      <td>256K</td>
+    </tr>
+    <tr>
+      <td>MiniMax M2</td>
+      <td>~200K</td>
+    </tr>
+    <tr>
+      <td>Qwen3 235B</td>
+      <td>32K native<br>256K (Instruct-2507)</td>
+    </tr>
+    <tr>
+      <td>Gemini 3</td>
+      <td>1M</td>
+    </tr>
+    <tr>
+      <td>GPT-5.1</td>
+      <td>400K (API)</td>
+    </tr>
+    <tr>
+      <td>Grok 4.1</td>
+      <td>256K (standard)<br>2M (Fast)</td>
+    </tr>
+    <tr>
+      <td>Sonnet 4.5</td>
+      <td>200K (standard)<br>1M (API)</td>
+    </tr>
+  </tbody>
+</table>
+
+Why does this matter? Most chats are not hundreds of thousands of tokens long! Well, 10% of Gemini's 1m token window is 100K, enough for one big novel input or very roughly 30 serious connected thinking tasks (including input tokens as well); since the AI's own output tokens count towards what's in-context, if you want to have a real conversation about a large book you're still going to have to do it a couple of chapters at a time. 
+
+But 10% of 256k (Kimi, Qwen, Minimax, Sonnet) is enough for about a quarter of a big novel or like 8 serious reasoning tasks.
+
+And, again, the Chinese models are token hungry! Not only do they have a smaller bucket, it also gets filled up way faster.
 
 <!-- Out-of-the-box (browser and APIs) -->
 
@@ -735,6 +820,7 @@ It might be true that there's less mature software around the Chinese models for
 
 <!-- https://gradientflow.substack.com/p/are-chinese-open-weights-models-a -->
 
+
 ### Vendor risk
 
 > 9\. they are mostly not used even by the cognoscenti
@@ -748,6 +834,16 @@ Also again corporate vendor-risk programmes often flag Chinese suppliers for dat
 
 DeepSeek [openly use Anna’s Archive](https://arxiv.org/pdf/2403.05525), where everyone else is [quiet](https://www.publishers.org.uk/publishers-association-statement-on-the-atlantic-article-on-libgen-and-meta/) about it. But the American companies offer [IP indemnity](https://www.proskauer.com/blog/openais-copyright-shield-broadens-user-ip-indemnities-for-ai-created-content) for users (cover if the models violate copyright in your app), which is nice insurance for a nervous corp with a target on its back. I can't see anything about the Chinese companies doing this yet.
 
+
+### No compute, no perf
+
+> 10\. they are severely compute-constrained (and as of November 2025 their algorithmic advantage is unclear)
+
+The US has [five times](https://epoch.ai/data-insights/ai-supercomputers-performance-share-by-country) the FLOPs as China. (Quality and bandwidth-adjusted it's probably more like 10x.) On raw hardware, Chinese labs are thus [2-3 clock-time years](https://epoch.ai/data-insights/nvidia-chip-production) behind.
+
+<!-- Thus should make us put more Bayesian weight on Chinese labs distilling. -->
+
+What if they're ten times as efficient though? In January, DeepSeek came out with some exciting and splashy hardware optimisations, probably the fruits from putting HighFlyer's serious quant devs onto pretraining. But the Westerners responded by getting (even more of) <a href="https://www.businessinsider.com/ai-talent-openai-wall-street-quant-trading-firms-2025-7#:~:text=Altman's%20pitch:%20Forsake%20Wall%20Street,hunting%20in%20Wall%20Street's%20backyard.">their own quants</a>. I find it unlikely they still have a big <a href="https://epoch.ai/gradient-updates/algorithmic-progress-likely-spurs-more-spending-on-compute-not-less#:~:text=While%20this%20achievement,as%20earlier%20models.">algorithmic advantage</a> over the Western labs at this point.
 
 
 ### Excess quantization?
@@ -785,5 +881,30 @@ _Low adoption is overdetermined_:
 
 
 
-
-
+<br>
+<div class="accordion">
+    <h3>Interview with Analytics India</h3>
+    <div>
+        <blockquote>INTERVIEWER: You point to a larger performance drop for Chinese models when moving from AIME 2024 to AIME 2025, and you frame that as suggestive of weaker generalisation. If you were to explore that same idea in another domain (like coding benchmarks or natural-language reasoning), what kind of results would meaningfully shift your view?</blockquote>
+        There's nothing special about AIME, I picked it justbecause it's high-effort and it updates, and so gives us nice properties: 1) novel, 2) of equal difficulty, and 3) the data is "clean".<br><br>
+        I could quite easily be persuaded that they generalise better on coding or Q&A than on maths. (The post is "70%" confident.) I don't have time to look myself, but I welcome people superseding me.<br><br>
+        Other evidence points the same way though; for instance Qwen2.5 is <a href="https://arxiv.org/pdf/2507.10532v1#page=2">known</a> to have trained on test for a few benchmarks and collapses on new versions. See also the famous <a href="https://arxiv.org/pdf/2405.00332">GSM1k</a> case, where flagship Western models actually improved their performance on fresh data.<br><br>
+        One problem with the post is that the "tigers" have been improving over the course of this year, and my post doesn't look at the very most recent Chinese models, because they could have trained on AIME 2025. Qwen3 seems less contaminated than Qwen2.5 for instance.<br><br>
+        I look forward to repeating this in February on AIME 2026 to see if they've gotten more rigorous.<br><br>
+ <!--  -->
+        <blockquote>Your article discusses both model capability and production readiness. If we look at those separately, where do you think Chinese labs are currently closest to Western labs: in raw technical ability, or in reliability/compliance features that matter in enterprise settings?</blockquote>
+        Closer on capability than product, and closer on product than on legal and quasi-legal compliance.<br><br>
+        One thing I didn't cover in the post is non-Western users might find it easier to use the Chinese models than Europeans for a range of reasons (looser compliance regs, less data privacy law, usually less politicisation of the matter).<br>
+<!--  -->
+        <blockquote>The popular belief is that Chinese models are only a few months behind Western labs, but you propose a gap of closer to a year. What makes you lean toward that longer estimate, and what would you consider the most unmistakable evidence for readers who are sceptical?</blockquote>
+        The "three month gap" is calculated by trusting evaluation results naively. I think I have shown that you shouldn't do this. (Note that the Western models also dropped a lot on fresh data!)<br><br>
+        This is my subjective guess about an unobserved quantity. I know a little more about the data filtering used in Western labs - and I have shown evidence of recent bad filtering in Chinese labs - and so I make the inference that unseen parts of the model development are also subpar. This is not science, but it's all we have. It's fine to not take my word for it.<br><br>
+        There is no unmistakable evidence sadly. We cannot outsource our judgment to benchmark numbers; you really do just have to spend the time to compare the models side by side against your own needs.<br>
+        <blockquote>Suppose we imagine a world where we could eliminate training-time contamination from public benchmarks. How much would the observed performance gap between top Western and top Chinese models actually change? Would it widen slightly, significantly, or stay roughly the same?</blockquote>
+        The difficulty is that the models are too smart for this. They can pick up on "semantic duplicates" of the test data (things like "da Vinci was born in1452" and "the painter of La Giocondawas born in 1452") to cheat despite not seeing the actual data set, and this is profoundly difficult to correct for.<br><br>
+        Granting your thought experiment though: I expect it to be wider than my cheap AIME estimate. Mathematics is a relatively clean domain in some ways, and all models struggle even more with <a href="https://arxiv.org/pdf/2503.14499v1#page=39">messy things</a>, and I expect the Chinese models to be a bit worse still.<br>
+        <blockquote>Your writing comes across as critical in a measured way, not anti-Chinese imo. Has the social media recactions you’ve seen so far reflected that nuance, or do you feel some readers are approaching the hypothesis through a more polarised lens? What, if anything, has surprised you about the reaction?</blockquote>
+        Thanks! As I say in the piece ("Filtered evidence") the background discourse is highly toxic and deluded. And I am wary of <a href="https://x.com/tensecorrection/status/1990308304476868772">feeding in</div> to "cope" (being used by people who really don't want Chinese models to be at parity and who allow this desire to determine their beliefs).<br><br>
+        I was quite surprised to see powerful <a href="https://x.com/deanwball/status/1990434300781568311">people</a> publicly endorsing a mere blogpost. This is good news for the world; blogs remain the alpha of the internet.
+    </div>
+</div>
