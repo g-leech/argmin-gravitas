@@ -206,6 +206,10 @@ Maybe Chinese models generalise to unseen tasks less well. (For instance, when t
     th, td {
            margin-right: 10px;
     }
+
+    #windae {
+        width: 55%;
+    }
     
     @media (max-width: 768px) {
         h1 {
@@ -560,7 +564,7 @@ Or you can run the test on a model which is better than the one you serve. Moons
 
 <big>In fairness</big>
 
-I should also say the Chinese models do very well on LMArena - despite being <a href="https://arxiv.org/abs/2504.20879">unfairly penalised</a>. But Arena is a <a href="https://www.seangoedecke.com/lmsys-slop/">poor</a> <a href="https://lmsys.org/blog/2024-08-28-style-control/">measure</a> of actual ability. It _is_ a decent test of style though. I put this gap down to American labs overoptimising: post-training too hard and putting in all kinds of repugnant corporate ass-covering stuff in the spec.
+I should also say the Chinese models do very well on LMArena - despite being <a href="https://arxiv.org/abs/2504.20879">unfairly penalised</a>. But Arena is a <a href="https://www.seangoedecke.com/lmsys-slop/">poor</a> <a href="https://lmsys.org/blog/2024-08-28-style-control/">measure</a> of actual ability. It _is_ a decent test of style though. I put this gap down to American labs overoptimising: post-training too hard and putting all kinds of repugnant corporate ass-covering stuff in the spec.
 
 Also Qwen is famous for 'capability density': the small versions are surprisingly smart for their size.
 
@@ -602,7 +606,7 @@ EDIT: Kimi K2 Thinking [ended up](https://x.com/METR_Evals/status/19916582419322
 
 As well as reliability over time, there's stability over inputs. High variance in performance, for instance because the exact form of the inputs matters more.
 
-On Vending-Bench, there's a <a href="https://x.com/andonlabs/status/1989862276137119799">huge gap</a> in performance between the Moonshot API and Moonshot models provided by a third-party provider. This is evidence of three things:
+On Vending-Bench, there's a <a href="https://x.com/andonlabs/status/1989862276137119799">huge gap</a> in performance between the Moonshot API and Moonshot models provided by a third-party provider. This is evidence of three things:<br><br>
 
 1. maybe Kimi is more fiddly (sensitive to the prompt and hyperparameters);
 2. maybe the providers haven't learned how to elicit performance from them yet (testable by just waiting);
@@ -638,13 +642,16 @@ I won't [use](https://artificialanalysis.ai/#cost) AA's efficiency estimates, be
 
 <big>Out of Context</big>
 
-A <a href="https://www.the-information-bottleneck.com/ep16-ai-news-and-papers/">rule of thumb</a> in ML is that the effective context window is about 10 times shorter than the theoretical maximum context window you get sold (also I hope there's nothing important to you in <a href="https://research.trychroma.com/context-rot">the middle third</a>). By "effective" I mean the latent amount of context which gets simultaneously _understood_, as opposed to the observed size of the data type. (This doesn't affect "needle in a haystack" retrieval, at which they have been superhuman for a while now.)
+A <a href="https://www.the-information-bottleneck.com/ep16-ai-news-and-papers/">rule of</a> <a href="https://arxiv.org/pdf/2404.06654">thumb</a> in ML is that the effective context window is about 5-10 times shorter than the theoretical maximum context window you get sold (also I hope there's nothing important to you in the middle third). 
 
-<table border="1" cellpadding="8" cellspacing="0">
+By "effective" I mean the latent amount of context which gets simultaneously _understood_, as opposed to the observed size of the data type. (This doesn't affect "needle in a haystack" retrieval, at which they have been superhuman for a while now.)<br><br>
+
+<table id="windae" border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
       <th>Model</th>
-      <th>Context Window (tokens)</th>
+      <th>Reported max<br>context window 
+      <br>(tokens)</th>
     </tr>
   </thead>
   <tbody>
@@ -659,6 +666,7 @@ A <a href="https://www.the-information-bottleneck.com/ep16-ai-news-and-papers/">
     <tr>
       <td>Qwen3 235B</td>
       <td>32K native<br>256K (Instruct-2507)</td>
+  </tr>
     </tr>
     <tr>
       <td>Gemini 3</td>
@@ -679,7 +687,9 @@ A <a href="https://www.the-information-bottleneck.com/ep16-ai-news-and-papers/">
   </tbody>
 </table>
 
-Why does this matter? Most chats are not hundreds of thousands of tokens long! Well, 10% of Gemini's 1m token window is 100K, enough for one big novel input or very roughly 30 serious connected thinking tasks (including input tokens as well); since the AI's own output tokens count towards what's in-context, if you want to have a real conversation about a large book you're still going to have to do it a couple of chapters at a time. 
+Why does this matter? Most chats are not hundreds of thousands of tokens long! 
+
+Well, 10% of Gemini's 1m token window is 100K, enough for one big novel input or very roughly 30 serious connected thinking tasks (including input tokens as well); since the AI's own output tokens count towards what's in-context, if you want to have a real conversation about a large book you're still going to have to do it a couple of chapters at a time. 
 
 But 10% of 256k (Kimi, Qwen, Minimax, Sonnet) is enough for about a quarter of a big novel or like 8 serious reasoning tasks.
 
