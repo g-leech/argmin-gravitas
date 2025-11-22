@@ -87,7 +87,7 @@ The [naive view](https://artificialanalysis.ai/) - the benchmark view - is that 
 <img width="80%" src="/img/supposed-parity.jpg" />
 </center>
 
-But these benchmarks are not strong evidence about performance on new inputs or the latent (general and unobserved) capabilities. It'd be natural to read "89%" success on a maths benchmark as meaning an 89% probability that it would correctly handle unseen questions of that difficulty in that domain (and indeed this is what [cross-validation](https://en.wikipedia.org/wiki/Empirical_risk_minimization) was originally designed to estimate). But in the kitchen-sink era of AI, where every system has seen a large proportion of all data ever digitised, and so has already seen some variant of many of _all possible_ new questions, you can't read it that way.
+But these benchmarks are not strong evidence about performance on new inputs or the latent (general and unobserved) capabilities. It'd be natural to read "89%" success on a maths benchmark as meaning an 89% probability that it would correctly handle unseen questions of that difficulty in that domain (and indeed this is what [cross-validation](https://en.wikipedia.org/wiki/Empirical_risk_minimization) was originally designed to estimate). But in the kitchen-sink era of AI, where every system has seen a large proportion of all data ever digitised, and so has already seen some variant of many new questions, you can't read it that way.
 
 In fact it's not even an 89% probability of answering these same questions right again, as shown by the fact that [people](https://moonshotai.github.io/Kimi-K2/) report the results as "avg@64" (the average performance if you ask the same question 64 times).
 
@@ -650,8 +650,7 @@ By "effective" I mean the latent amount of context which gets simultaneously _un
   <thead>
     <tr>
       <th>Model</th>
-      <th>Reported max<br>context window 
-      <br>(tokens)</th>
+      <th>Reported max context<br>window (tokens)</th>
     </tr>
   </thead>
   <tbody>
@@ -667,7 +666,6 @@ By "effective" I mean the latent amount of context which gets simultaneously _un
       <td>Qwen3 235B</td>
       <td>32K native<br>256K (Instruct-2507)</td>
   </tr>
-    </tr>
     <tr>
       <td>Gemini 3</td>
       <td>1M</td>
