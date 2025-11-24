@@ -598,7 +598,7 @@ The above benchmarks are mostly single-shot, but people are now pushing LLMs to 
 
 There are various worse agent benchmarks, and e.g. [the new Kimi](https://moonshotai.github.io/Kimi-K2/thinking.html) posts great numbers on them. But on vibe I'd bet on a >3x reliability advantage for Claude.
 
-EDIT: Kimi K2 Thinking [ended up](https://x.com/METR_Evals/status/1991658241932292537/photo/1) at the same task horizon as Sonnet 3.7 (a model 10 months older than it) on HCAST, with an asterisk (the provider they had to use for privacy reasons may well have underelicited the model).
+EDIT: Kimi K2 Thinking [ended up](https://x.com/METR_Evals/status/1991658241932292537/photo/1) at the same task horizon as Sonnet 3.7 (a model 9 months older than it) on HCAST, with an asterisk (the provider they had to use for privacy reasons may well have underelicited the model).
 
 <img src="/img/kimihcast.jpeg" />
 
