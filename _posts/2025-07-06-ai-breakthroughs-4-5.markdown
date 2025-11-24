@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "AI breakthroughs<br>2024-2025"
+title:      "AI breakthroughs 2024-2025"
 baselink:   /ai-24-25
 permalink:  /ai-24-25
 date:       2025-10-20
@@ -63,7 +63,7 @@ But after about 3 months we got used to the hard benchmark values being 70% or 8
 
 * ¯\\_(ツ)\_/¯ _Jan_: Deepseek R1 hype. But the apparent 10x per-token saving is a [false economy](https://www.gleech.org/paper#tokenomics-no-effective-discount).
 
-* _🚨 Jan, recursive improvement_: Sometime around here, Deepmind uses AlphaEvolve (Gemini 2.0) to write GPU kernels and speed up the training of Gemini 2.5 by "1%".
+* _🚨 Jan, recursive improvement_: Sometime around here, Deepmind uses AlphaEvolve (Gemini 2.0) to write GPU kernels and speed up the training of Gemini 2.5 by "1%". (2024 model.)
 
 * _Feb_: Claude Code. The ~end of brittle stupid RAG. Lab incursion into the application layer. 
 
@@ -75,9 +75,17 @@ But after about 3 months we got used to the hard benchmark values being 70% or 8
 
 * ¯\\_(ツ)\_/¯ In _June 2024_, 4o got 5% on ARC-AGI. By Apr 2025 o4-mini got 41%. Also for the first time you can convert $3m _per-run_ into 80% on it. (Human is “98%”)
 
-* _🚨 Jul_: IMO gold by an LLM. No tools, no neuralese. (Gemini Deep Think Advanced + unnamed experimental OpenAI model)
+* _🚨 Jul_: IMO gold by an LLM. Reportedly no tools and no neuralese involved. ("Gemini 2.5 Deep Think Advanced" + unnamed experimental OpenAI model)
 
-* _🚨 Sep_: Various [groups](https://www.nature.com/articles/s41586-025-09298-z) [racing headlong](https://arcinstitute.org/news/hie-king-first-synthetic-phage) into "frontier biology" with protein language models and such.
+* _Sep_: Various [groups](https://www.nature.com/articles/s41586-025-09298-z) [racing headlong](https://arcinstitute.org/news/hie-king-first-synthetic-phage) into "frontier biology" with protein language models and such.
+
+* _Nov_: Gemini 3. Notable improvement in vision and image generation. [Rest](https://nitter.net/stuhlmueller/status/1991546706371178781#m) [is a](https://nitter.net/ArtificialAnlys/status/1990926803087892506#m) [very](https://www.lesswrong.com/posts/8uKQyjrAgCcWpfmcs/gemini-3-is-evaluation-paranoid-and-contaminated) [mixed](https://nitter.net/peterwildeford/status/1990830603239842080#m) [bag](https://x.com/Miles_Brundage/status/1991664747914358861). Benchmaxxed, or rather narrow-objective-maxxed.
+
+* ¯\\_(ツ)\_/¯ _Nov_: claims about Gemini 3 adding a continual learning mode (based on the little [HOPE](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/) experiment).
+
+* Over the year, progress from 50% to 77% on SWE-Bench-Verified. But you can't just use this ("+27% is less than the +45% last year") to say slower latent progress, since obviously the tasks solved this year were much harder.
+
+* Over the year, whatever HCAST is measuring multiplied by 5x this year (vs 7x last year).
 
 * Browser agents aren't adopted by anyone except Tyler really.
 

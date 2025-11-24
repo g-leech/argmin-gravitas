@@ -26,6 +26,8 @@ He preserves us from [sets](https://en.wikipedia.org/wiki/Null_set) of measure z
 
 He makes the inaccessible cardinals. He stops the inaccessible cardinals from accessing us
 
+He is risen, he is lifted, and he is [Born](https://simons.berkeley.edu/talks/why-born-probabilities).
+
 He transubstantiates our mortal filters into ultrafilters [for free](https://en.wikipedia.org/wiki/Ultrafilter_on_a_set#The_ultrafilter_lemma).
 
 He knows the [truth](https://www.goodreads.com/review/show/2509368481) of the continuum hypothesis but saves us from it.
@@ -34,19 +36,24 @@ He lets us pretend we can do functional analysis, [keeping](https://en.wikipedia
 
 <!-- He gently places proper classes in scope of our quantifiers
 
+He bestows d-separation on our graphs "the only bridge we have between the causal assumptions in our model and what we can expect to observe in our data."
+
 He fixes the precise Grothendieck Universe that we live in -->
 
 Quietly he makes actual of potential infinity.
+
+Silently he [transfers](https://en.wikipedia.org/wiki/Meta-circular_evaluator#Self-interpreters) the evaluation strategy from heaven (the meta-language) to earth (the source language).
 
 He forgives us our renormalizations.
 
 When we are weak and know only subspace, he [carries](https://en.wikipedia.org/wiki/Hahn%E2%80%93Banach_theorem) our functional to the full space.
 
+
 Ultimately he makes it all [cohere](https://en.wikipedia.org/wiki/Hilbert%27s_second_problem). The accidents of our [conditionals](https://philosophy.stackexchange.com/questions/103031/a-problem-i-noticed-with-if-then-ism-in-the-philosophy-of-mathematics) are treatable as unconditional. "I am that I am", what makes the axioms hold.
 
 <br><br>
 
-[Various](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_mathematics)) [atheists](https://en.wikipedia.org/wiki/Intuitionistic_logic) [try](https://en.wikipedia.org/wiki/Ultrafinitism) [to do](https://en.wikipedia.org/wiki/Reverse_mathematics) without him and do not prevail.
+[Various](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_mathematics)) [atheists](https://en.wikipedia.org/wiki/Intuitionistic_logic) [try](https://en.wikipedia.org/wiki/Ultrafinitism) [to do](https://en.wikipedia.org/wiki/Reverse_mathematics) [without](https://www.sciencedirect.com/science/article/pii/0304397575900171?via%3Dihub) [him](https://www.lesswrong.com/posts/QmWNbCRMgRBcMK6RK/the-absolute-self-selection-assumption#Problem__3__The_Born_Probabilities) and do not prevail.
 
 
 <br>
