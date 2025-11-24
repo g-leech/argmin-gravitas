@@ -16,7 +16,7 @@ stylised:   true
 
 summary:    Fundamental barriers to knowledge
 importance: 8
-categories: philosophy, science, epistemology, maths, CS, lists, rationality, metaphysics, mind, research, conceptual-analysis, encompassing, holes
+categories: philosophy, science, epistemology, maths, computers, lists, rationality, metaphysics, mind, research, conceptual-analysis, encompassing, holes
 where:      "Bristol"
 ---
 
