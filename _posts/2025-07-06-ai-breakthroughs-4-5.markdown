@@ -79,9 +79,11 @@ But after about 3 months we got used to the hard benchmark values being 70% or 8
 
 * _Sep_: Various [groups](https://www.nature.com/articles/s41586-025-09298-z) [racing headlong](https://arcinstitute.org/news/hie-king-first-synthetic-phage) into "frontier biology" with protein language models and such.
 
-* _Nov_: Gemini 3. Notable improvement in vision and image generation. [Rest](https://nitter.net/stuhlmueller/status/1991546706371178781#m) [is a](https://nitter.net/ArtificialAnlys/status/1990926803087892506#m) [very](https://www.lesswrong.com/posts/8uKQyjrAgCcWpfmcs/gemini-3-is-evaluation-paranoid-and-contaminated) [mixed](https://nitter.net/peterwildeford/status/1990830603239842080#m) [bag](https://x.com/Miles_Brundage/status/1991664747914358861). Benchmaxxed, or rather narrow-objective-maxxed.
+* _Nov_: Gemini 3 and Opus 4.5. 
+	* Gemini: Notable improvement in vision and image generation. [Rest](https://nitter.net/stuhlmueller/status/1991546706371178781#m) [is a](https://nitter.net/ArtificialAnlys/status/1990926803087892506#m) [very](https://www.lesswrong.com/posts/8uKQyjrAgCcWpfmcs/gemini-3-is-evaluation-paranoid-and-contaminated) [mixed](https://nitter.net/peterwildeford/status/1990830603239842080#m) [bag](https://x.com/Miles_Brundage/status/1991664747914358861). Benchmaxxed, or rather narrow-objective-maxxed.
+	* Opus: TBD.
 
-* ¯\\_(ツ)\_/¯ _Nov_: claims about Gemini 3 adding a continual learning mode (based on the little [HOPE](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/) experiment).
+* ¯\\_(ツ)\_/¯ _Nov_: claims about Gemini 3 adding a continual learning mode (based on the little [HOPE](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/) experiment). We'll see.
 
 * Over the year, progress from 50% to 77% on SWE-Bench-Verified. But you can't just use this ("+27% is less than the +45% last year") to say slower latent progress, since obviously the tasks solved this year were much harder.
 
