@@ -44,75 +44,48 @@ What did I actually discover?
 
 ### COVID
 
-- Mass voluntary uptake of masking
-- Invalid methodology, Mandate proxy
-- OxCGRT fatal data problem, unusable
-- Peak seasonality. We take a bunch of case data and try to work out the "seasonality", how much the disease weakens between summer and winter. This requires us to work out the peak intensity day, the top of the seasonal effect. We reliably infer the peak as 1st January. Probably coincidence, but ALSO could be that the astronomers who consulted on the Gregorian calendar nailed it.
-
-
-Mask wearing in community settings reduces SARS-CoV-2 transmission
-    Noted the global pre-mandate voluntary spike in mask wearing
-    Identified a ubiquitous methodological mistake (the mandate timing proxy)
-    First international analysis of masks with a random sample of self-reported mask wearing data. Constructed and validated a global dataset from multiple sources.
-    First Bayesian hierarchical model for mask wearing, adapting existing NPI model of {\small\cite{Braunereabd9338}}. Functional form modelling effects of mask wearing.
-    Lead writer
+- Global, mass _voluntary_ uptake of mask-wearing _before_ mandates were imposed.
+- Thus that dozens of 2020 papers made a totally false assumption, that mandate timings were a good proxy for wearing behaviour.
+- That the most common tracker of policy decisions, OxCGRT, made a decision that made it unusable for modelling by default.
+- First international analysis of masks with a random sample of (self-reported) mask wearing data. Pieced together a global dataset from multiple sources and vetted it very hard.
+- Fun: the date of peak seasonality. We take a bunch of case data and try to work out the "seasonality", how much the disease weakens between summer and winter. This requires us to work out the peak intensity day, the top of the seasonal effect. We reliably infer the peak as 1st January. Probably coincidence, but ALSO could be that the astronomers who consulted on the Gregorian calendar nailed it.
+- Derived a functional form for effects of mask wearing.
+- Some volunteer labour collecting NPI data
+<!-- Very rudimentary PPL  -->
 
 
 
 
 
+### Ten Hard Problems in Artificial Intelligence We Must Get Right
 
-Ten Hard Problems in Artificial Intelligence We Must Get Right
-    Sole author on the capabilities, alignment, opportunities, access, and meaning sections
-    Zotero bibliography of 1349 good papers
-    Characterised methodology of early deep learning and the `large scale era'
-    Diagrams and models: modelled the AI governance field, two decompositions of the alignment problem, traced the family tree of AlexNet and GPT-2.
-
-
-Intro
-    Enumerate common features and failures of “statistical workflow” (actual practices)
-    Bringing metascience into Bayes and ML 
-    Bringing post-2012 ML stylised facts into philosophy of science?
-    Comparison of evidential standards in 3 different fields
-    Psych and epi, Freq and bayes. P-hacking
-
-Covid
-    First person in the world to notice the voluntary wearing spike
-    Exposed ubiquitous methodological mistake (mandate proxy)
-    First analysis of masks with massive aggregate of individual data
-    First Bayesian analysis of masks(?)
-    Maybe add the little modelling [[masks functional form]]
-    Seasonality contrib
-    Mention big papers
-
-Psych
-    Dataset, ongoing community solution
-    Shift from sign replication to effect replication
-    ?
-
-ML
-    ActAdd: designed the experiments
-    ILP: safety 
+- Characterised methodology of early deep learning and the `large scale era'
+- Modelled the AI governance field
+- Modelled two decompositions of the alignment problem
+- Traced the family tree of AlexNet and GPT-2.
 
 
-Tracking replications in the social, cognitive, and behavioural sciences    
-    Initiated the project with 53 famous effects that fail to replicate
-    Helped organise the crowdsourcing of 1932 studies
-    Designed the data analysis around the resulting nonrandom sample
+### Tracking replications in the social, cognitive, and behavioural sciences    
+
+- Initiated the project with 53 famous effects that fail to replicate
+- Helped organise the crowdsourcing of 1932 studies
+- Shift from sign replication to effect replication
+- Data analysis around the resulting nonrandom sample
 
 
-Safety Properties of Inductive Logic Programming (2021)  
-    Ran the Metagol experiments
-    Literature review and feasibility study for inductive logic approaches
-    Taxonomy of sources of inductive bias
+### Safety Properties of Inductive Logic Programming 
+
+- Designed and ran the Metagol experiments
+- Literature review and feasibility study for inductive logic approaches
+- Taxonomy of sources of inductive bias
 
 
-Decision trees compensate for model misspecification
+<!-- Decision trees compensate for model misspecification
     Generative models for the synthetic tests
     Bootstrapping and sensitivity analysis
+ -->
 
-
-How to lie in machine learning
+### How to lie in machine learning
     Taxonomy of questionable practices
     Collated published and unpublished examples of questionable practices
     Generated possible solutions
@@ -121,7 +94,7 @@ How to lie in machine learning
     Designed the researcher survey
 
 
-Inferring the effectiveness of government interventions against COVID-19} (2020)
+<!-- Inferring the effectiveness of government interventions against COVID-19} (2020)
     Literature review of semi-mechanistic models
     Helped set the epidemiological priors
     One among many authors on NPI data collection.
@@ -141,17 +114,15 @@ Seasonal variation in SARS-CoV-2
     Insolation analysis (Appendix 1)
     Diagrams including key figure 2
 
+ -->
 
 
-Some volunteer labour collecting NPI data
-Very rudimentary PPL 
 
+### Activation Addition: Steering Language Models Without Optimization
 
-Activation Addition: Steering Language Models Without Optimization} (2024)
-    Designed quantitative experiments 
-    Designed diagrams and pseudocode
-    Literature review on steering vectors
-
+- Designed quantitative experiments 
+- Designed diagrams and pseudocode
+- Lit review on steering vectors
 
 
 
