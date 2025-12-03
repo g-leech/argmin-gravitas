@@ -37,7 +37,7 @@ visible:	true
 
 <table>
 	{%	include researches/withhumans.html 	%}
-		<!-- include researches/reversals.html	 -->
+	{%	include researches/reversals.html	%}
 	{%  include researches/rdof.html	%}
 	{%  include researches/hplr.html	%}
 	{%  include researches/actadd.html	%}
