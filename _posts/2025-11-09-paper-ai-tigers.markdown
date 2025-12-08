@@ -87,7 +87,7 @@ The [naive view](https://artificialanalysis.ai/) - the benchmark view - is that 
 <img width="80%" src="/img/supposed-parity.jpg" />
 </center>
 
-But these benchmarks are not strong evidence about performance on new inputs or the latent (general and unobserved) capabilities. It'd be natural to read "89%" success on a maths benchmark as meaning an 89% probability that it would correctly handle unseen questions of that difficulty in that domain (and indeed this is what [cross-validation](https://en.wikipedia.org/wiki/Empirical_risk_minimization) was originally designed to estimate). But in the kitchen-sink era of AI, where every system has seen a large proportion of all data ever digitised, and so has already seen some variant of many new questions, you can't read it that way.
+But these benchmarks are not strong evidence about performance on new inputs or the latent (general and unobserved) capabilities. It'd be natural to read "89%" success on a maths benchmark as meaning an 89% probability that it would correctly handle unseen questions of that difficulty in that domain (and indeed this is what [cross-validation](https://en.wikipedia.org/wiki/Empirical_risk_minimization) was originally designed to estimate). But in the kitchen-sink era of AI, where every system has seen a large proportion of all data ever digitised, and so has already seen some variant of many benchmark questions, you can't read it that way.
 
 In fact it's not even an 89% probability of answering these same questions right again, as shown by the fact that [people](https://moonshotai.github.io/Kimi-K2/) report the results as "avg@64" (the average performance if you ask the same question 64 times).
 
@@ -458,14 +458,15 @@ One way for generalisation to fail despite apparently strong eval performance is
             <li>Subanalyses can handle filtering to the most relevant models (the frontier in each group)</li>
         </ol>
         <br>
-		ML results are too sensitive to eval harnesses to use just one setting. Luckily I found four comparisons of AIME 2024 and AIME 2025 by different groups, <a href="https://artificialanalysis.ai/evaluations/aime-2025">Artificial</a> <a href="https://web.archive.org/web/20250723015603/https://artificialanalysis.ai/evaluations/aime-2024">Analysis</a>, the <a href="https://arxiv.org/pdf/2506.10947">Zettlemoyer Lab</a>, <a href="https://github.com/GAIR-NLP/AIME-Preview">GAIR</a>, and <a href="https://www.vals.ai/benchmarks/aime">Vals</a>. AA is the one in the table above.<br><br>
+		ML results are too sensitive to eval harnesses to use just one setting. Luckily I found four comparisons of AIME 2024 and AIME 2025 by different groups, <a href="https://artificialanalysis.ai/evaluations/aime-2025">Artificial</a> <a href="https://web.archive.org/web/20250723015603/https://artificialanalysis.ai/evaluations/aime-2024">Analysis</a>, the <a href="https://arxiv.org/pdf/2506.10947">Zettlemoyer Lab</a>, <a href="https://github.com/GAIR-NLP/AIME-Preview">GAIR</a>, and <a href="https://www.vals.ai/benchmarks/aime">Vals</a>, and <a href="https://arxiv.org/pdf/2505.23281">MathArena</a>. AA is the one in the table above.<br><br>
         <div class="accordion">
         <h3>Qwen 2.5</h3>
         <div>
         Qwen3 seems clean on this benchmark, but <a href="https://www.interconnects.ai/p/reinforcement-learning-with-random">multiple lines</a> show that Qwen 2.5 trained on test (or at least rephrased test data and then trained on it). We know this because random rewards work on it nearly as well as correct rewards. This adds no information by definition, so the model must have already known the answers. "<i>Intriguingly, we find that any AIME24 gains achievable from training Qwen models with spurious rewards largely vanish when evaluating on AIME 2025.</i>" Taking the max performance of the random reward curve, they fall 88% [75%, 100%].<br><br>
         <!--  -->
-        Even more damning, <a href="https://arxiv.org/pdf/2507.10532v1#page=2">when</a> you give Qwen2.5-7B the first 40% of a MATH-500 test problem, it can reproduce the remaining 60% of the question word-for-word (with 41.2% accuracy). Llama3.1-8B fails at this completely (2%). 
+        Even more damning, <a href="https://arxiv.org/pdf/2507.10532v1#page=2">when</a> you give Qwen2.5-7B the first 40% of a MATH-500 test problem, it can reproduce the remaining 60% of the question word-for-word (with 41.2% accuracy). Llama3.1-8B fails at this completely (2%). <br><br>
         <!--  -->
+        In <a href="https://arxiv.org/pdf/2505.23281">this paper</a> the QwQ Qwen reasoning model was the worst by far, 60% contaminated.
         </div>
         </div>
         <br><br>
@@ -474,9 +475,10 @@ One way for generalisation to fail despite apparently strong eval performance is
 		How did our replications do? As expected, the shrinkage gap varies a lot by harness and by model choice: <br>
 		<ul>
             <li>
-            <a href="https://arxiv.org/pdf/2506.10947">UoW-Zettlemoyer</a>: Qwen2.5-7B and Qwen2.5-Math fall 12.5pp (88%); the Western LLaMA and OLMo models were too weak to really say.</li>
+            <a href="https://arxiv.org/pdf/2506.10947">UoW-Zettlemoyer</a>: Qwen2.5-7B and Qwen2.5-Math fall 12.5pp (88%); the open Western LLaMA and OLMo models were too weak to really say.</li>
             <a href="https://github.com/GAIR-NLP/AIME-Preview">GAIR</a>: Chinese -19.4%, Western -15.6%.</li><br>
             <li><a href="https://www.vals.ai/benchmarks/aime">Vals</a> actually get no gap: -11.2% vs -10.8%. If you kick Meta out the gap goes up to 2%, still not much.</li>
+            <li>TODO: add MathArena.</li>
         </ul>
 		I'm not worried about these contradictory results; they both just include a lot of bad models and so noise. (I don't actually care how Llama 4 Scout's generalisation compares to QwQ-uwu-435B-A72B-destruct-dpo-ppo-grpo-orpo-kto-slerp-v3.5-beta2-chat-instruct-base-420-blazeit-early-stopped-for-vibes.) GAIR is also underelicited. <br><br>
 		<!--  -->		
