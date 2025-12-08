@@ -25,6 +25,7 @@ visible:	false
 {%	assign vidya = "https://open.spotify.com/playlist/0Ge30FFa6jGdvVZaCcrU00?si=613ffbd69ad041ce"	%}
 {%	assign maxent = "https://docs.google.com/spreadsheets/d/1utFMMcb6etY-rXctA7L1RvIL9y8wpWRSMXV_zhb8kVw/edit?gid=1138693370#gid=1138693370"	%}
 {%	assign shows = "https://open.spotify.com/playlist/2CwbS0TGdRpa9Ni5Li0K9O?si=X7BJcPMBQNa7JQmCz2FMTA&pt=9ebb039e5c54c6fa79e011dda339da9d&pi=9obYUytvSkyJi"	%}
+{%	assign papers = "https://www.papertrailshq.com/profile/cmiw4u13c001fla04xq15n0fb"	%}
 
 <style>
 	{% 	include css/recs.css	%}
@@ -73,6 +74,13 @@ visible:	false
 	<a href="/technicalities">{% include fa/gear-solid.svg %}</a>
 	<a href="/technicalities">Technical books</a>
 </div>
+
+<div class="container">
+	<a href="{{papers}}">{% include fa/paper-plane-regular-full.svg %}</a>
+	<a href="{{papers}}">Papers</a>
+</div>
+
+
 
 <div class="container">
 	<a href="/essays">{% include fa/message-regular.svg %}</a>
