@@ -34,7 +34,8 @@ visible:	false
 ## Listen
 <div class="container">
 	<a href="{{album}}">{% include fa/record-vinyl-solid.svg %}</a>
-	<a href="{{album}}">Albums</a>. (<a href="{{maxent}}">max entropy version</a>.)
+	<a href="{{album}}">Albums</a>
+	<!-- (<a href="{{maxent}}">max entropy version</a>.) -->
 </div>
 
 
@@ -76,7 +77,7 @@ visible:	false
 </div>
 
 <div class="container">
-	<a href="{{papers}}">{% include fa/paper-plane-regular-full.svg %}</a>
+	<a href="{{papers}}">{% include fa/file-regular.svg %}</a>&nbsp;
 	<a href="{{papers}}">Papers</a>
 </div>
 
@@ -84,26 +85,19 @@ visible:	false
 
 <div class="container">
 	<a href="/essays">{% include fa/message-regular.svg %}</a>
-	<a href="/essays">Essays</a>, or&nbsp;
-	 <a href="/best">mine</a>
+	<a href="/essays">Essays</a>
 </div>
 
 <div class="container">
-	<a href="/fav_poems">{% include fa/hurricane-solid.svg %}</a>
+	<a href="/fav_poems">{% include fa/hurricane-solid.svg %}</a>&nbsp;
 	<a href="/fav_poems">Poems</a> 
 </div>
 
 <div class="container">
-	<a href="/blogroll">{% include fa/rss-solid.svg %}</a>
+	<a href="/blogroll">{% include fa/rss-solid.svg %}</a>&nbsp;
 	<a href="/blogroll">Blogs</a>
 </div>
 
-
-
-<div class="container">
-	<a href="/papers">{% include fa/file-regular.svg %}</a>
-	<a href="/papers">Papers</a>
-</div>
 
 <!-- <div class="container">
 	<a href="/tweets">% include fa/.svg %}</a>
@@ -136,7 +130,7 @@ visible:	false
 
 <div class="container">
 	<a href="{{gam}}">{% include fa/gamepad-solid.svg %}</a>
-	<a href="{{gam}}">Games</a>,
+	<a href="{{gam}}">Games</a>, &nbsp;&nbsp;
 	<a href="{{boa}}">{% include fa/dice-solid.svg %}</a>
 	<a href="{{boa}}">games</a>
 </div>
@@ -153,7 +147,7 @@ visible:	false
 
 <div class="container">
 	<a href="/food">{% include fa/bowl-food-solid.svg %}</a>
-	<a href="/food">Food</a>, 
+	<a href="/food">Food</a>, &nbsp;&nbsp;
 	<a href="{{resto}}">{% include fa/utensils-solid.svg %}</a>
 	<a href="{{resto}}">resto</a>
 </div>

@@ -12,32 +12,32 @@ visible:    false
 
 ### I'm gonna sell stuff (by Betti Alver)
 
-A black shadow behind the pane across the ceiling.<br>
+Black shadow, behind the pane, and across the ceiling.<br>
 The kettle hums and strains. The pan won't be appealing.<br>
-Wind rattles these squares, branches from the avenue.<br>
-My body pale for years. The rain speaks Latin too.<br>
+Wind rattles the squares with branches from the avenue.<br>
+My body's pale, pale years. The rain speaks Latin too.<br>
 Mum won't look about, won't rattle the door.<br>
-She's cut me shoes out of boots long-worn.<br>
-My father's reading the paper for Africa news<br>
-About Rothschild the rich caper, and king of angels too.<br>
-Go crazy or go grey, your wage won't give you wings.<br>
-They hiked prices today. In Turkey the earth is shaking.<br> 
-You order the paper and look - gossip and slander!<br>
-But the bigguns have their big boots. I'll stay small and meander.<br>
-Everyone's going to town and town. City things are all the rage.<br>
-I guess I too could settle down in sales for a Leihberg wage.<br><br>
-There I'll sell you flour and rice, gloves and hats,<br>
-sell randomly at wholesale price almonds and muscats,<br>
-Sell socks, shoes and scarves, sell saucepans,<br>
-harmonicas and pearls and balls and paper horsemen,<br>
-sell everything eyecatching, sell gingerbread all sugar and honey – <br>
-half-free, completely free, use fallen leaves for money.<br><br>
-Who wipes away sweat gets soap on the spot.<br>
-Who sighing buys sprats gets herrings by lot.<br>
-Whose skirt is in tatters or sleeve tarred with grime –<br> 
-Fear not such matters: our cloth shelf's sublime.<br>
-Look here and high! Here's linen, here's jacquard.<br>
-Let the goods fly, slap the Leihberg counter!<br><br>
+She's cutting me shoes out of boots downworn.<br>
+Father's reading the paper for Africa news<br>
+And Rothschild's rich capers (he's king of angels too).<br>
+Go crazy, go grey; your wage won't give you wings.<br>
+Prices hiked today. In Turkey the earth's shaking.<br> 
+You order the paper and look – gossip and slander!<br>
+The bigguns have their big boots. I'll stay small and meander.<br>
+Everyone's off to town and town – city things all the rage.<br>
+Guess I too could settle down in sales for a Leihberg wage.<br><br>
+There I'll sell you flour and rice (gloves and hats),<br>
+sell randomly, at wholesale price (nuts, muscats),<br>
+Socks, shoes, scarves (saucepans),<br>
+harps and pearls and balls (and paper horsemen),<br>
+everything glittery (bread, sugar, and honey) – <br>
+half-off; completely free; use fallen leaves for money!<br><br>
+Who wipes away sweat? gets soap on the spot;<br>
+Who sighing buys sprats? gets herrings by lot.<br>
+Whose skirt is in tatters, or sleeve tarred with grime? –<br> 
+Fear not such matters: our cloth shelf's sublime –<br>
+Look here up high! Here's linen and jacquard.<br>
+Let the goods fly! Let em slap the counter!<br><br>
 Then Mr. Leihberg will thank us all like a man!...
 Maybe.<br>
 Come, friends, to Leihberg's store! Surely come. See ya!<br><br><br>

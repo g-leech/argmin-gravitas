@@ -1,0 +1,139 @@
+---
+layout:     math_post
+title:      "Origins of human intelligence"
+baselink:   /erect
+permalink:  /erect
+date:       2025-08-20
+author:     Gavin
+img:        /img/monolith.jpg
+
+visible:    1
+published:  true
+quality:    6
+
+summary:    Stand tall
+confidence: 60%
+importance: 7
+wordcount:  
+categories: my-classes, humanism, biology, evolutionary
+where:      "Somerset"
+---
+
+Here is a [plot](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.742639/full) of hominin brain volume over the last 10 million years:
+<br><br>
+
+<center>
+	<img src="/img/brainss.png" width="54%" />
+	<br>
+	<a href="#fn:1" id="fnref:1">1</a>
+</center>
+
+i.e. brains got 10 times bigger, with most of this happening in the last 2 million years after a sudden changepoint. So... what's that elbow? What got the engine of _human_ intelligence going? 
+<!-- the encephalisation regime -->
+
+
+<br>
+
+<center>
+	<img src="/img/desilva.jpg" width="70%" />
+</center>
+
+OK, as we should have guessed, it's _Homo_.
+
+\*\***At this point we enter the deeply fun and underdetermined world of what-if evolutionary storytelling**\*\*
+
+But what about him?: what does early _Homo_ start doing differently, 2mya?
+
+(Logically, whatever it is must have increased our ability to get calories. If it didn't, we couldn't have "funded" the bigger brains.) 
+<!-- He loses his fur -->
+
+## Up to co
+
+: <b>He goes upright.</b> The literal ascent of man, off his knuckles!
+
+What's the big deal about [bipedalism](https://www.sciencedirect.com/science/article/pii/S0960982212000826)?
+
+There's a few things, like that it reduces your body's insolation cross-section -> the sun heats you less -> you stay cooler -> you can run longer -> much better persistence hunting.
+
+But one huge one is **it frees up your hands so you can carry stuff and throw it**. (And you can start adapting muscles for throwing specifically. The human shoulder is [biologically unique](https://www.nature.com/articles/nature12267) as a result.) 
+
+This quickly completely transforms human society:
+
+* _Let us throw stones_. Means you can more-safely attack people who are stronger than you;
+* That new safety makes it far easier to build a coalition of risk-averse weaker lads to overthrow tyrants;
+* The new possibility of overthrowing bullies means you have a very powerful incentive for better intelligence: coalitional intelligence. 
+* So pure physicality falls, supplanted by sociality. "the reversal of dominance hierarchy"; Erectus society was probably [reverse-dominance](https://www.sciencedirect.com/science/article/abs/pii/S1090513825000376). The first time, of many, that the ~samurai class fell.
+* This in turn actually increases intra-group competition, since social skill, coalition-building, and scheming are less fixed traits than Being Big and so more open to entrants. Now everyone needs theory of mind.
+
+<img src="/img/coalition.png" />
+
+<br>
+<div class="accordion">
+	<h3>Other causal paths</h3>
+	<div>
+		Obvs there are also many other returns to intelligence: from cooperative foraging (divide and conquer, plant identification), teaching, sexual selection, inter-group competition (my bully against yours) and intra-group Machiavellian status competition even under the dominance hierarchy.<br><br>
+		Bipedalism also makes it easier to keep valuable objects, and so tech.
+	</div>
+	<h3>Why up?</h3>
+	<div>
+		OK, but why did we go upright? <a href="https://www.sciencedirect.com/science/article/pii/S0960982212000826">Probably</a> because of environmental shocks and hominin competition meaning we needed to carry things to new, less-competitive areas.
+	</div>
+	<h3>Why not Ardipithecus?</h3>
+	<div>
+		But Erectus wasn't the <a href="https://en.wikipedia.org/wiki/Ardipithecus_ramidus">first</a> bipedal ape, nor the first bipedal <i>Homo</i>. Why not Ardi?<br><br>
+		I'm really stretching now, but Ardipithecus still had tree-life adaptations — grasping toe, no foot arch, palm-walking. It didn't fully commit to terrestrial life. And (so) no upper body adaptations (waist expansion, lowered shoulders, reduced humeral torsion) and so no throw.
+<!--  -->
+	</div>
+</div>
+
+
+## Co to cal
+
+OK, but how does this get you more calories?
+
+Well, throwing spears are insane tech in the prey-animal meta. They still haven't really adapted to it. But more than that, social intelligence and theory of mind makes you a better [pack hunter](https://en.wikipedia.org/wiki/Pack_hunter). This lets you break the game with things like [buffalo jumps](https://en.wikipedia.org/wiki/Buffalo_jump). And that's _before_ the new tech produced by your new intelligence really starts accumulating.
+
+We can build up a graph of guesswork on top of this sound basis:
+
+
+<img src="/img/brain-graph2.png" />
+
+Going upright is then a main cause of the most recent intelligence explosion, us.
+
+
+## Cal to mesaoptimisation
+
+The above only takes us up to the beginning of culture as we know it. Some _other stuff_ happened in the last million years which doesn't fall out as a leap in brain volume.
+
+* [Something huge began 40 kya](https://www.pnas.org/doi/10.1073/pnas.0707650104).
+
+* More people -> more mutations -> more change + selection -> more tech -> more calories -> more people
+
+* Domestication and coevolution with plants and animals. human cultures and ecologies -> 
+
+* and most of all writing (4 kya), which started a second coevolution loop less dependent on individuals. It also massively increased the graph connectedness, since a person's technologies could spread after their death and far beyond their geography.
+
+* then some other stuff
+
+* And so [you are a violent and irrepressible miracle.](https://x.com/g_leech_/status/1988278761415176333) [The vacuum of cosmos and the stars burning in it are afraid of you.](https://x.com/g_leech_/status/1988278761415176333)
+
+
+
+## So
+
+Be proud! Become what you are! Stand tall! Stand tall!
+
+<br>
+
+<br>
+
+_This post is just a lightning talk version of theories by Boehm, DeSilva, Hawks, [Shulman](https://www.dwarkesh.com/p/carl-shulman)._
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+    	Yes, admittedly some of the estimates <i>for entire millennia</i> are based on one data point (one skull). We'll get ten some day.
+	</li>
+</ol>
