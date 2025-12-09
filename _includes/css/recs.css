@@ -3,6 +3,7 @@
   align-items: center;
   padding-top: 15px;
   padding-bottom: 10px;
+  padding-left: 10px;
 }
 svg {
 	display: block;
@@ -13,7 +14,7 @@ svg {
 	margin-right: 10px;
 }
 .wee {
-	padding-left: 16px;
+	/*padding-left: 16px;*/
 	padding-right: 6px;
 }
 .playlists{

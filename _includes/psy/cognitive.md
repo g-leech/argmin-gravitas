@@ -72,6 +72,25 @@
 </div><br>
 <!-- https://aeon.co/essays/the-voice-of-sadness-is-censored-as-sick-what-if-its-sane -->
 
+* Good evidence against <span class="b">choice overload / the tyranny of freedom</span>, that having too many options leads to paralysis or dissatisfaction.
+<div class="accordion">
+	<h3>Stats</h3>
+	<div>
+		<ul>
+			<li><span class="b">Original paper</span>: '<a href="https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20(2000).pdf">When Choice Is Demotivating: Can One Desire Too Much of a Good Thing?</a>', Iyengar 2000, n=502.
+				<br>(&#126;5700 citations).</li><br>
+			<li><span class="b">Critiques</span>: <a href="https://sci-hub.st/10.1086/651235">Scheibehenne 2010</a>, 50 independent conceptual replications with combined n=5000. Attempt to salvage it <a href="https://www.sciencedirect.com/science/article/abs/pii/S1057740814000916">here</a>.				<br>
+			(total citations: &#126;640)</li><br>
+			<li><span class="b">Original effect size</span>: ??<br>
+			</li><br>
+			<li>
+				<span class="b">Replication effect size</span>: d = 0.02 [-0.09 to 0.12]. 
+			</li><br>
+		</ul>
+		<br><br><br><br>
+	</div>
+</div><a name="dk"></a><br>
+
 
 * Questionable evidence for the "<span class="b">hungry judge</span>" effect, of massively reduced acquittals (d=2) just before lunch. Case order isn't independent of acquittal probability ("unrepresented prisoners usually go last and are less likely to be granted parole"); favourable cases may take predictably longer and so are pushed until after recess; effect size is implausible on priors; explanation involved ego depletion.
 <div class="accordion">
