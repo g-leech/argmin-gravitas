@@ -75,9 +75,8 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
 </div>
 </div><br>
 
-{%	assign dolinsk = "https://journals.sagepub.com/doi/abs/10.1177/1948550617693060?journalCode=sppa" %}
  
-* <a href="{{milg}}">No good evidence</a> from the famous <span class="b">Milgram</span> experiments that 65% of people will inflict pain if ordered to. Experiment was riddled with researcher degrees of freedom, going off-script, implausible agreement between very different treatments, and "_only half of the people who undertook the experiment fully believed it was real and of those, 66% disobeyed the experimenter._" 
+* <a href="{{milg}}">No good evidence</a> from the original <span class="b">Milgram</span> experiments that 65% of people will inflict pain if ordered to. Experiment was riddled with researcher degrees of freedom, going off-script, implausible agreement between very different treatments, and "_only half of the people who undertook the experiment fully believed it was real and of those, 66% disobeyed the experimenter._" 
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
@@ -95,6 +94,18 @@ No good evidence for <a href="{{wreck}}">many forms of priming</a>, automatic be
 
 </div><br>
 
+
+* <a href="{{fest}}">No evidence</a> from the original <span class="b">Festinger</span> analysis that a particular cult responded to a falsified prediction of alien rapture by redoubling their faith. In fact, as you'd expect, they disbanded. The general theory of cognitive dissonance has other resources.
+<div class="accordion">
+	<h3>Stats</h3>
+	<div>
+		N/A.
+	</div> 
+</div><br>
+
+
+{%	assign dolinsk = "https://journals.sagepub.com/doi/abs/10.1177/1948550617693060?journalCode=sppa" %}
+{%	assign fest = "https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043?campaign=woletoc"	%}
 {%	assign sciam = "http://patrick-fournier.com/d/cours13-3140.pdf"	%}
 {%	assign sherif = "https://sci-hub.se/10.1086/222258"	%}
 {%	assign sherif_book = "https://books.google.co.uk/books?hl=en&lr=&id=24TwCQAAQBAJ&oi=fnd&pg=PP1&dq=Group+Conflict+and+Co-operation+&ots=ufwdngs5bi&sig=qxT2o26vEi7KdeJxWNqfSYHdaSM&redir_esc=y#v=onepage&q=Group%20Conflict%20and%20Co-operation&f=false"	%}
