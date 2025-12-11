@@ -14,7 +14,7 @@ importance: 2
 
 summary:    Why most of maths is beyond us
 confidence: 
-categories: maths, metaphysics, holes
+categories: maths, metaphysics, holes, encompassing, my-classes
 warnings:   
 wordcount:      
 ---

@@ -15,7 +15,7 @@ importance:
 
 summary:    a class I teach (differently every year)
 confidence: Made up social theory. 70% that you could benefit from more of this and not less
-categories: education, meaning, becoming, Life, warnings
+categories: education, meaning, becoming, warnings, my-classes
 warnings:   You could easily overdo this advice.
 wordcount:      
 where:      "Taipei"

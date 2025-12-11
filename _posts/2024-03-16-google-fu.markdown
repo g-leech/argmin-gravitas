@@ -15,7 +15,7 @@ importance:
 
 summary:    a class on foiling the forces of evil (finding information)
 confidence: Techniques likely to change substantially by 2026.
-categories: 
+categories: my-classes, epistemology
 warnings:   
 wordcount:      
 where:      "Taipei"
@@ -371,6 +371,7 @@ Here's the first big moral question, since authors are often deserving. I leave 
 * https://www.wheresyoured.at/are-we-watching-the-internet-die/
 * https://lifehacksthatwork.com/bunch-of-useful-websites-2023-edition/
 * https://engineuring.wordpress.com/
+* https://xeiaso.net/blog/birth-death-seo/
 * https://ahrefs.com/blog/how-do-search-engines-work/
 * https://www.searchnurture.com/blog/google-ads-exact-match-is-dead-what-to-do-about-it/
 * https://www.semrush.com/blog/google-search-algorithm/
