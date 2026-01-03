@@ -7,6 +7,51 @@ visible:    false
 ---
 
 
+## 2026
+
+### Spring Prospect (by 杜甫)
+
+Realm falls; hills unmoved.<br>
+Grass buries the old.<br>
+Grieving, flowers sting;<br>
+birdsong turns me cold.<br>
+Beacon fires, for months;<br>
+word from home is gold!<br>
+My white hair, scratched thin,<br>
+grows too sparse to hold.<br>
+<br>
+King gone; land stays.<br>
+Town overgrown.<br>
+Hard times; blooms hurt.<br>
+Birds startle me.<br>
+Signals burn on;<br>
+letters are gold!<br>
+White hair worn thin<br>
+won't hold a pin.<br>
+<br>
+No state, land.<br>
+Town mossy.<br>
+Flowers, tears;<br>
+Birds startle.<br>
+Alarms blare;<br>
+Gold for words.<br>
+Hair torn out<br>
+holds no pin.<br>
+<br>
+Realm; hills.<br>
+Wild grass.<br>
+Blooms sting.<br>
+Birds hurt.<br>
+War: months.<br>
+Words: gold.<br>
+Hair thins.<br>
+No hold.<br>
+
+<br>
+
+([original](https://en.wikipedia.org/wiki/Chunwang_(poem)#Structure).)
+
+<br><br>
 
 ## 2025
 
