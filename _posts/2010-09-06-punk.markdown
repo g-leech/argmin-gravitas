@@ -230,7 +230,15 @@ It is a style, it became an ideology, and it remains a community. All in all, a 
 {%	include punk/leatherface.md	%}
 {%	include punk/epigram.md 	%}
 
+<br>
+
+## See also
+
+* https://thesublemon.tumblr.com/post/172019295202/punk-is-the-non-institutional
+* https://suspendedreason.com/2018/04/03/punk-ethos-the-blog-an-interview-with-a-d-jameson-pt-1/
+
 {%	include punk/foots.md	%}
+
 
 <br><br>
 

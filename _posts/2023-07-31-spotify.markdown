@@ -55,7 +55,7 @@ Everything you do on Spotify is public by default. You can follow other users, a
 
 <!-- It doesn't emphasise other users at all. This obscures the fact that you can by default see anyone, and walk their graph. -->
 
-This false privacy means there's little incentive to lie, e.g. to pretend to like cool things you don't actually like. Coupled to the fact that music is the centre of most(?) people's emotional lives, we thus get a uniquely sincere, accessible, and <a href="{{inv}}">far-reaching representation</a> of us. Peoplewatching, but for feelings.
+This false privacy means there's little incentive to lie, e.g. to pretend to like cool things you don't actually like. Coupled to the fact that music is near the centre of most(?) people's emotional lives, we thus get a uniquely sincere, accessible, and <a href="{{inv}}">far-reaching representation</a> of us. Peoplewatching, but for feelings.
 
 <br>
 
@@ -117,7 +117,7 @@ I am quite serious in calling them scholars. No doubt I missed the best, the equ
 <!-- * <a href="https://open.spotify.com/user/1230297633?si=RU_9_pFZSuCb1EfXwomdKw"></a> -->
 * <a href="https://open.spotify.com/user/jazzwhat?si=c9611054718a4089">Jazz Whatever</a> (euro jazz by country, microgenres, soul, prog, so many labels)
 * <a href="https://open.spotify.com/user/115683679?si=0470438347f84f76">Joachim</a> (king of themes)
-* abachtel
+<!-- * abachtel -->
 
 <br>
 
@@ -161,7 +161,7 @@ Frankly we need critical service more than we need another great band. <a href="
         * <a href="https://archive.is/geGXn">The US power elite has no taste</a>
         * <a href="https://open.spotify.com/user/bbc_playlister?si=7a61bad7f7f543a7">BBC</a><br>
         * <a href="https://open.spotify.com/user/tejucole?si=64f33db1bce943fd">Teju</a><br>
-        * <a href="https://open.spotify.com/user/124766372?si=6d9e651ab99a4a21"></a><br>
+        * <a href="https://open.spotify.com/user/124766372?si=6d9e651ab99a4a21">ooh</a><br>
         https://open.spotify.com/user/aoty?si=69dc4ae6cf8d4f8c<br>
         https://open.spotify.com/user/cherryredrecords?si=3d1db1a96169432b<br>
 * <a href="https://open.spotify.com/user/sashafrerejones?si=3dbf43de6c8f4820">SFJ</a><br>
@@ -169,6 +169,12 @@ Frankly we need critical service more than we need another great band. <a href="
     </div>
 </div>
 
+
+<br>
+
+## See also
+
+* https://www.aware-online.com/en/osint-investigation-on-spotify/
 
 
 

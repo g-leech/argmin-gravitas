@@ -53,6 +53,12 @@ _User prompt:_
 
 <a href="#fn:2" id="fnref:2">2</a>
 
+## Preregistration
+
+From [April](https://www.gleech.org/llms):
+
+> I haven’t yet used it as a mechanical editing pass but there’s enough little typos on this site that I will. I will also try a separate developmental edit (Claude 3.6 mind you) but expect to reject 90% of its suggestions.
+
 
 ## Round 1: Were they any good?
 
@@ -139,7 +145,7 @@ If I were to pay them the going bug bounty rate, I would owe Claude $230 (248-18
   </div>
   <h3>What does Claude think of this eval?</h3>
   <div>
-    <a href="https://claude.ai/share/44318437-5100-4d74-b9f3-a99f6bce46a0">A mostly-spurious defence.</a><br><br>
+    <a href="https://claude.ai/share/44318437-5100-4d74-b9f3-a99f6bce46a0">Mostly-spurious and sycophantic self-defence.</a><br><br>
     Its kind, false hypothesis is that I'm just too good to need an editor ("you paid for wall-to-wall coverage of content that apparently doesn't need it"). Its suppositions about the human editor are just wrong (she came in after the first draft). Pleasing to see that cope is universal.
   </div>
 </div>
@@ -148,11 +154,11 @@ If I were to pay them the going bug bounty rate, I would owe Claude $230 (248-18
 
 Overall (besides the typos) their opinions weren't worth reading - and so I despair at what they are making you think of me. This is a surprise.
 
-How does a 2% hit rate compare to the real thing? I've had the benefit of a [real editor](https://x.com/rebeccahiscott?lang=en) in the past; she wrote _50,000 words_ of comments/edits on 54,000 words of text. (We hit the limit and crashed gdocs.) In principle I could try and load the history and work out her hit rate but instead I'll say it was above 50%.
+How does a 2% hit rate compare to the real thing? I've had the benefit of a [real editor](https://x.com/rebeccahiscott?lang=en) in the past; she wrote _50,000 words_ of comments/edits on 54,000 words of text. (We hit the limit and crashed gdocs.) In principle I could try and load the history and work out her hit rate but instead I'll say it was above 50%, despite her much higher edit volume.
 
 <!-- Rebecca never mistook a space for a comma, and didn't once start ranting at how the backend html meta tags were duplicated. -->
 
-I don't think they're very good _writers_ (though Kimi sometimes charms me with surprising usage, like "jooked"). But I had thought editing one of these cases where bad suggestions don't cost very much (these cases also known as actual AI usecases). And yet it still would have cost me too much _time_, if I hadn't had a semi-scientific second goal for the project.
+I don't think the models are currently very good _writers_ (though Kimi sometimes charms me with surprising usage, like "jooked"). But I had thought editing a case where bad suggestions don't cost very much (these cases also known as actual AI usecases). And yet it would have cost me too much in _time_ to bother with them (unscaffolded), if I hadn't had a semi-scientific second goal for the project.
 
 
 
@@ -167,17 +173,18 @@ I don't think they're very good _writers_ (though Kimi sometimes charms me with 
 OK OK, but this is _high-tech_ Gavin, OK? It doesn't just work out of the box. You have to scaffold it.
 
 <div class="accordion">
-  <h3>TODO: Decode the html first</h3>
+  <h3>Decode the html first: 2% to 3%</h3>
   <div>
     It got pretty confused with the raw HTML I was fetching. And stripping the tags should also be like a 3x speedup just from smaller input.<br><br>
     <!--  -->
-    Unfortunately this meant that it couldn't see the links so it understandably added a bunch of unsupported claims which aren't unsupported on the actual site.<br><br>
+    Unfortunately fixing this meant that it couldn't see the links, so it understandably accused me of a bunch of unsupported claims which aren't unsupported on the actual site. In this iteration we ended up with a very slightly better hit rate: 3%.
+    <br><br>
     Still some decoding errors too! ("через"):
     <blockquote>The "Vibe" section is incoherent.** It opens claiming you can\'t summarize 2024, then spends 4 paragraphs on poptimism/Brat/critical divergence that could be its own section. The через lines are: poptimism → Brat → I didn\'t like popular stuff → critics vs users diverged → hip hop specifically. These are 3-4 different observations without a unifying thread.</blockquote>
   </div>
-  <h3>TODO: Concision bottleneck</h3>
+  <h3>TODO: Add a concision bottleneck</h3>
   <div>
-    I was generous with `max_tokens` because I wanted it to have space to talk, but maybe this is just allowing for babbling and bs.
+    I was generous with `max_tokens` because I wanted it to have space to talk, but maybe this is just allowing it to babble and bs. Reallocating these tokens to reasoning and moving it to .
   </div>
 
   <h3>TODO: LLM as a judge</h3>
@@ -200,7 +207,9 @@ OK OK, but this is _high-tech_ Gavin, OK? It doesn't just work out of the box. Y
   </div>
 
   <h3>TODO: Give it the images</h3>
-  <div></div>
+  <div>
+    This one isn't a big deal but sometimes I'm using images as evidence so it might give another couple % points.
+  </div>
 
 </div>
 

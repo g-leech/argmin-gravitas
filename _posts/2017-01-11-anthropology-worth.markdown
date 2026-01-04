@@ -18,8 +18,8 @@ quality:    4
 pride:      3
 wordcount:  798
 started:    2015
+argument:   anth-argument.html
 ---
-
 
 {%  include anthro/links.md   %}
 
@@ -28,7 +28,6 @@ started:    2015
 <div align="center">
     <small>Olduvai Gorge (2009), by <a href="{{feans}}">Noel Feans</a></small>
 </div><br>
-
 
 
 Social science is _hard_. Most social phenomena involve [thousands][Causa] [of subtle effects][Manzi], of several [different][Proph] [ontological sorts][Reason], all acting on relevant populations up to about [a billion units][Nation] in size - and even if you were ever able to cement any results about it, and publicise them, a portion of your subjects would immediately [change in response][Reflex] - to spite you.

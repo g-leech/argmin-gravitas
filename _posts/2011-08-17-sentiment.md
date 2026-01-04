@@ -10,14 +10,14 @@ img:
 visible:    1
 published:  true
 
-summary:    Riding my bike all the way through west England without any electronics
+summary:    Riding my bike all the way through west England with no electronics
 quality:    5
 confidence: 
 importance: 4
 emotion: 	8
 warnings: 	
 wordcount:  5300
-categories: travel, becoming
+categories: travel, becoming, places
 argument:	
 where: 		"Elgin"
 ---
@@ -32,13 +32,14 @@ where: 		"Elgin"
 	<i>Allons! to that which is endless, as it was beginningless,<br /> To undergo much, tramps of days, rests of nights,<br /> To merge all in the travel they tend to, and the days and nights they tend to,<br />Again to merge them in the start of superior journeys</i>...<br>
 </blockquote>
 
-\- Walt Whitman<br />
+<center>&ndash; Walt Whitman</center>
+<br />
 
 <blockquote>
 	It is an age so full of light, that there is scarce a country or corner in Europe whose beams are not crossed and interchanged with others. - Knowledge in most of its branches, and in most affairs, is like music in an Italian street, whereof those may partake who pay nothing. - But there is no nation under heaven abounding with more variety of learning, where the sciences may be more fitly woo’d, or more surely won, than here, - where art is encouraged, and will so soon rise high, - where Nature (take her altogether) has so little to answer for, - and, to close all, where there is more wit and variety of character to feed the mind with: - Where then, my dear countrymen, are you going?
 </blockquote>
 
-\- Laurence Sterne, _A Sentimental Journey_
+&ndash; Laurence Sterne, _A Sentimental Journey_
 
 <br />
 

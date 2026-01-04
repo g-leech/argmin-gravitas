@@ -25,6 +25,7 @@ where:      "Cambridge"
 
 It's mostly maths and music.
 
+* JC Maxwell (geometry), 14
 * Saul Kripke (modal logic), 15
 * Pascal (geometry, computing), 16 
 * Gauss (geometry, number theory, OLS), 16 

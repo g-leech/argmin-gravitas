@@ -16,14 +16,15 @@ warnings:
 confidence: 70%
 importance: 4
 wordcount:  
-categories: AI
+categories: AI, language
 where:      "Over the Atlantic"
+argument:   inference/argument.html
 ---
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/4215_RC01/embed_loader.js"></script>
 
 
-People in ML recently started using "inference" to mean _running_ a model: getting an output given a concrete input <a href="#fn:1" id="fn:1">1</a>. (The framework people, constrained perhaps by taste or backwards-compatibility, still call the relevant function `.predict()` or `.eval()` or `.forward()` rather than `.infer()`.)
+People in ML recently started using "inference" to mean _running_ a model: getting an output given a concrete input <a href="#fn:1" id="fn:1">1</a>. 
 
 This clashes pretty hard with the conventional usage (from statistics), which is much more like training. We used to _infer_ the values of unobserved parameters $$\theta$$ from observed $$X$$; now we "infer" the output $$X$$ of a set of already-fixed parameters $$\theta$$. How did _that_ happen?
 
@@ -36,6 +37,8 @@ Before stats, it was mostly just another word for logical deduction. In logic it
 <!-- The Bayesian ML people use it right -->
 
 Bishop's [classic](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) 2006 ML-and-stats textbook uses "inference" strictly to mean training, and uses "decision" for concrete predictions. [Murphy (2012)](https://raw.githubusercontent.com/kerasking/book-1/master/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf) is much the same with "prediction". The 1995 Helmholtz machine [paper](https://pubmed.ncbi.nlm.nih.gov/7584891/) is an interesting example of using "inference" for a generative model but it's still properly probabilistic.
+
+(The ML framework people, constrained perhaps by taste or backwards-compatibility, still call the relevant function `.predict()` or `.eval()` or `.forward()` rather than `.infer()`.)
 
 <!-- 2006 https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf -->
 

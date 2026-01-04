@@ -13,7 +13,7 @@ quality: 	9
 
 summary:    Why in general is it harder to do things well than badly?
 confidence:	80% that I've captured the main contributors.
-categories: meaning, philosophy, transhumanism, suffering, biology
+categories: meaning, philosophy, transhumanism, suffering, biology, hypothesis-dump
 importance: 8
 wordcount:	400
 podcast: 	https://castbox.fm/episode/Why-is-quality-rare--id4445969-id407530093?country=gb

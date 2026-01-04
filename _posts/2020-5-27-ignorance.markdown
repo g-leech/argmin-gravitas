@@ -106,6 +106,12 @@ Even after we reject foundationalism, the practical problem remains: what to lea
 <center>– Otto Neurath</center>
 <br>
 
+> In my early years I took it for granted that the more mainstream mathematicians, the leaders in each specialized field, understood what was important in their areas. It troubled me, therefore, to notice that my own work wasn't building on theirs. I would investigate a problem and make a good contribution, often a genuine discovery, without ever mastering or in the end even attempting to master the results of the nonnumerical experts in the area... privately I interpreted the situation as a deficiency on my part. I knew I was doing good work, but I supposed it would be even better if I had the strength of character to absorb the papers of Adamjan, Arov, and Krein in support of my Carathéodory-Fejér approximation, to immerse myself in the theories of the great Louis Nirenberg while I was working on PDEs at the Courant Institute, or to digest Dunford and Schwartz when I was writing the book on pseudospectra... If ignoring the masters were truly an error, then I would have found not infrequently in my career that my contributions later turned out to have been anticipated, or invalidated, by the work of others. This has not happened. Everything I've done has remained valid and original, some things more important than others, of course, but almost never mistaken or redundant... What in the world is going on with mathematics if careful attention to the works of the leaders of approximation theory, complex analysis, real analysis/PDEs, functional analysis, and stochastic analysis need not be on the path to making contributions in these fields?
+
+<center>– Nick Trefethen</center>
+<br>
+
+
 Beginning at the beginning, craving absolute foundations, mostly leads to paralysis. Sometimes this is because it takes too long to reach the frontier from the foundation; sometimes it's because the foundation is missing or <a href="{{hilb}}">impossible</a>.
 
 _<a href="/ficciones#babel">To live, you have to ignore things</a>._ So bite off a chunk of reality and ignore the rest. Manuel Blum:
@@ -153,7 +159,7 @@ It's not easy to unlearn tutelage, but at some point in your first few actual pr
 
 ### Ideas are cheap
 
-One useful piece of startup culture: "you have to ship". It is _not_ that your perfect idea is ruined by imperfect implementation: your idea is nothing until it exists; all implementations are an improvement over an idea. <a href="#fn:2" id="fnref:2">2</a>
+One useful piece of startup culture: "you have to ship". It is _not_ that your perfect idea is ruined by your imperfect implementation. No: your idea is nothing until it exists; any implementation is an improvement over a mere idea. Things which exist are instantly superior to things which don't.<a href="#fn:2" id="fnref:2">2</a>
 
 
 <br><br>
@@ -223,7 +229,7 @@ One of the perversities of academic life is the absence of slack: spare time for
 
 ### you have to have a question
 
-https://acesounderglass.com/2020/06/09/where-to-start-research/
+I defer to [Elizabeth](https://acesounderglass.com/2020/06/09/where-to-start-research/) on this point.
 
 <br>
 

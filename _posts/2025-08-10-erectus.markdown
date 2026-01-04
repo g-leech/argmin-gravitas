@@ -12,14 +12,14 @@ published:  true
 quality:    6
 
 summary:    Stand tall
-confidence: 60%
+confidence: 60%. A lot of this is based on less than five fossils.
 importance: 7
 wordcount:  
 categories: my-classes, humanism, biology, evolutionary
 where:      "Somerset"
 ---
 
-Here is a [plot](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.742639/full) of hominin brain volume over the last 10 million years:
+Here is a [plot](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.742639/full) of hominid brain volume over the last 10 million years:
 <br><br>
 
 <center>
@@ -38,11 +38,11 @@ i.e. brains got 10 times bigger, with most of this happening in the last 2 milli
 	<img src="/img/desilva.jpg" width="70%" />
 </center>
 
-OK, as we should have guessed, it's _Homo_.
+OK, as we should have guessed, [it's _Homo_](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.742639/full).
 
 \*\***At this point we enter the deeply fun and underdetermined world of what-if evolutionary storytelling**\*\*
 
-But what about him?: what does early _Homo_ start doing differently, 2mya?
+But what about him?: what does early _Homo_ [start](https://en.wikipedia.org/wiki/Hominization) doing differently, 2mya?
 
 (Logically, whatever it is must have increased our ability to get calories. If it didn't, we couldn't have "funded" the bigger brains.) 
 <!-- He loses his fur -->
@@ -63,6 +63,7 @@ This quickly completely transforms human society:
 * That new safety makes it far easier to build a coalition of risk-averse weaker lads to overthrow tyrants;
 * The new possibility of overthrowing bullies means you have a very powerful incentive for better intelligence: coalitional intelligence. 
 * So pure physicality falls, supplanted by sociality. "the reversal of dominance hierarchy"; Erectus society was probably [reverse-dominance](https://www.sciencedirect.com/science/article/abs/pii/S1090513825000376). The first time, of many, that the ~samurai class fell.
+	* _Gracilisation_. This in turn allows reallocating resources from muscles (and skeletons) to brains. Erectus is bigger than habilis but less muscular per weight; sapiens is smaller and less muscular.
 * This in turn actually increases intra-group competition, since social skill, coalition-building, and scheming are less fixed traits than Being Big and so more open to entrants. Now everyone needs theory of mind.
 
 <img src="/img/coalition.png" />
@@ -101,15 +102,18 @@ We can build up a graph of guesswork on top of this sound basis:
 Going upright is then a main cause of the most recent intelligence explosion, us.
 
 
+(I am sympathetic to the view that the central node here is "cumulative culture" and not "intelligence". If you have intelligence you don't need so much muscle; if you have culture you don't need so much intelligence; if you have X you don't need so much culture.)
+
+
 ## Cal to mesaoptimisation
 
-The above only takes us up to the beginning of culture as we know it. Some _other stuff_ happened in the last million years which doesn't fall out as a leap in brain volume.
+The above only takes us up to the beginning of culture as we know it. Some _other stuff_ happened in the last million years which doesn't fall out as a leap in brain volume. (We got as big as we could, but I don't know whether the obstetric dilemma is what forced evolution to switch to cultural evolution instead of brain scaling.)
 
 * [Something huge began 40 kya](https://www.pnas.org/doi/10.1073/pnas.0707650104).
 
 * More people -> more mutations -> more change + selection -> more tech -> more calories -> more people
 
-* Domestication and coevolution with plants and animals. human cultures and ecologies -> 
+* Domestication and coevolution with plants and animals. Start to bend all of nature to our needs. And most of all [self-domestication](https://en.wikipedia.org/wiki/Self-domestication).
 
 * and most of all writing (4 kya), which started a second coevolution loop less dependent on individuals. It also massively increased the graph connectedness, since a person's technologies could spread after their death and far beyond their geography.
 

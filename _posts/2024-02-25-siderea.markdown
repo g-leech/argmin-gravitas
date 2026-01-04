@@ -15,7 +15,7 @@ importance:
 
 summary:    Inscribing the Boston sibyl
 confidence: 
-categories: social-science, mental-health, game-theory, humanism, psychology, politics, bloggers
+categories: social-science, mental-health, game-theory, humanism, psychology, politics, bloggers, lists
 warnings:   suicide, American politics
 wordcount:      
 where:      "Taipei"
@@ -38,7 +38,7 @@ where:      "Taipei"
 
 
 
-You probably haven't heard of <a href="{{sid}}">one of the best bloggers</a>. This is mostly because of her chosen platform: it is the greatest LiveJournal blog and the last of its kind (it runs on a fork of the LJ codebase). It is a little pocket of air preserved from 2009 and good for ails you.
+You probably haven't heard of <a href="{{sid}}">one of the best bloggers</a>. This is mostly because of her chosen platform: it is the greatest LiveJournal blog and the last of its kind (it runs on a fork of the LJ codebase). It is a little pocket of air preserved from 2009 and good for what ails you.
 
 She's been at it for 21 years, partially Patreon-funded since 2014. She was a software engineer but pivoted to psychotherapy, a rare and powerful background. She plays [early music](https://siderea.dreamwidth.org/tag/early+music) (i.e. medieval and renaissance). Centrally a healthcare blogger but has interesting things to say about social theory and is a fount of useful handles and little mental models.
 

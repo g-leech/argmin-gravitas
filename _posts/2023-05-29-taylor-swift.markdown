@@ -65,7 +65,7 @@ Call the machine <a href="{{trademark}}">TS</a>. The interesting part is that Sw
 
 TS presents itself as Swift. It does perform characters explicitly (e.g. <a class="noline" href="{{c}}">Cinderella</a>, <a class="noline" href="{{hark}}">Rebekah Harkness</a>), but the machine TS mostly pretends to be the woman Swift in various forms. It adapts to audience and times: innocence-coded (with a twang) for Nashville then; demisexual-coded (with FKA-sighing) for the glossies now; BPD-coded (and drawling) for the extremely online now. A <a class="noline" href="{{per}}">persecution</a> complex (and diphthongs) for everyone. <a href="#fn:16" id="fnref:16">16</a> So many devices; devised. So much artifice; artificial.
 
-That's half of it; the other half is your incredible overestimation of the output. TS songs are moderately catchy, (recently) moderately perverse, but expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / <!-- Jenny Lewis /--> Gaga / Kesha / Lana / Lorde / HAIM / Chvrches / FKA Twigs / <!--St Vincent--> Billie Eilish / Chappell Roan / whoever it is now). But TS is noticeably flatter than any of these, particularly when she's not <a href="{{mime}}">miming</a>. <a href="#fn:3" id="fnref:3">3</a>
+That's half of it; the other half is your incredible overestimation of the output. TS songs are moderately catchy, (recently) moderately perverse, but expertly ape The Current Thing (Shania Twain / Faith Hill / Kelly Clarkson / <!-- Jenny Lewis /--> Gaga / Kesha / Lana / Lorde / HAIM / Chvrches / FKA Twigs / <!--St Vincent--> Billie Eilish / Chappell Roan / Sabrina / whoever it is now). But TS is noticeably flatter than any of these, particularly when she's not <a href="{{mime}}">miming</a>. <a href="#fn:3" id="fnref:3">3</a>
 
 <br>
 
@@ -76,6 +76,8 @@ That's half of it; the other half is your incredible overestimation of the outpu
         <iframe width="560" height="315" src="https://www.youtube.com/embed/3yDP9MKVhZc?si=URPPpOEL4h23F_N_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/G_GneCw-IoA?si=TrIoX0gwjka0fPB_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </center>
+        <br>
+        Oliva Rodrigo seems to actually be what TS wants to be.
     </div>
 </div>
 
@@ -249,7 +251,7 @@ Let people enjoy things. And don't let people weaken art.
     <div>
         Once something costs <a href="{{a}}">$140m</a> to make, certain forms of art become impossible. You cannot take risks, aesthetic or physical. You cannot improvise. You must appeal broadly, probably too broadly to be yourself, unless your soul is already a common denominator. <a href="{{truck}}">Logistics</a>, an iron constraint on vision.
         <br><br>
-        This is why I put up with bad production and sloppy musicianship: the higher the budget, the less likely I am to see any true experiment and idiosyncracy and deviance, which is what I want from art and often from entertainment too. Music is very cheap compared to other artforms (<a href="{{riri}}">barely</a> a million per hit), which is why we still see a modicum of experiment in popular songs.
+        This is why I put up with bad production and sloppy musicianship: the higher the budget, the less likely I am to see any true experiment and idiosyncrasy and deviance, which is what I want from art and often from entertainment too. Music is very cheap compared to other artforms (<a href="{{riri}}">barely</a> a million per hit), which is why we still see a modicum of experiment in popular songs.
         <br><br>
         I think the usual mechanism is that the execs meddle to ensure that they recoup their investment. And committee art is generally inferior because it takes us further from honesty and idiosyncracy. TS has sponsors and <a href="https://www.capitalone.com/about/newsroom/taylor-swift-the-eras-tour-presale">"partners"</a> (investors) to please <a href="#fn:8" id="fnref:8">8</a>.
     </div>
@@ -568,15 +570,17 @@ Washed up and ranting about the same old bitter things
     </div>
 </div>
 
+## See also 
 
-<!-- https://notebook.substack.com/p/taylor-swift-studies-takes-a-detour -->
-<!-- https://notebook.substack.com/p/taylor-swift-studies-contd -->
-<!-- https://notebook.substack.com/p/but-im-only-looking-at-you -->
-<!-- https://theoutline.com/post/8484/sore-winners-decade -->
-<!-- https://notebook.substack.com/p/miss-americana-and-the-heartbreak -->
-<!-- https://www.vulture.com/2017/08/taylor-swift-look-what-you-made-me-do-pure-trump-era-pop-art.html -->
-<!-- https://samkriss.substack.com/p/taylor-swift-does-not-exist -->
-<!-- https://bsky.app/profile/swiftonsecurity.com/post/3ljxnyv6aks23 -->
+* https://suspendedreason.com/2022/01/11/all-communication-is-manipulation/
+* https://samkriss.substack.com/p/taylor-swift-does-not-exist
+* https://notebook.substack.com/p/taylor-swift-studies-takes-a-detour
+* https://notebook.substack.com/p/taylor-swift-studies-contd
+* https://notebook.substack.com/p/but-im-only-looking-at-you
+* https://theoutline.com/post/8484/sore-winners-decade
+* https://notebook.substack.com/p/miss-americana-and-the-heartbreak
+* https://www.vulture.com/2017/08/taylor-swift-look-what-you-made-me-do-pure-trump-era-pop-art.html
+* https://bsky.app/profile/swiftonsecurity.com/post/3ljxnyv6aks23
 
 <div class="footnotes">
 

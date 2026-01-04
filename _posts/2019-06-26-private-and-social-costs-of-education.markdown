@@ -6,7 +6,7 @@ permalink:  /education
 date:       2017-07-02
 author:     Gavin
 
-img:        /img/
+img:        /img/ivory.jpg
 published:  true
 visible:    1
 
@@ -29,17 +29,13 @@ I got a lot of fully-subsidised education: more than 20 years' worth. In educate
 
 {%   include ed/two.html  %}
 
-Wonderful things! But if the social ones aren't larger than the social cost, then state education will tend to be taking from society and giving to those who happen to be above-average in nerdiness. <a href="#fn:2" id="fnref:2">2</a>
+Wonderful things! But if the social ones aren't larger than the social cost, then state education will tend to be taking from society and giving to those who happen to be above-average in nerdiness or climbing. <a href="#fn:2" id="fnref:2">2</a>
 
-Is education a good deal overall, _including for people who don't get it_? I can't actually resolve this question in less than a book. The algorithm is
-
-1. enumerate the (confusing, mixed, methodologically flawed evidence for) benefits and costs
-2. put them on a common scale
-3. take the ratio
+Is education a good deal overall, _including for people who don't get it_? I can't actually resolve this question in less than a book. The algorithm is 1. enumerate the (confusing, mixed, methodologically flawed evidence for) benefits and costs; 2. put them on a common scale; 3. take the ratio.
 
 The following is just part of step 1.
 
-<br>
+
 
 ## How to think about education's social benefits
 
@@ -47,7 +43,7 @@ We should distinguish private returns (pay, increased confidence, increased know
 
 
 
-### Productivity
+## Productivity
 
 Are educated people more productive? Yes. But did their education cause this? <a href="{{card}}">To some extent maybe</a>!
 
@@ -56,11 +52,11 @@ Are educated people more productive? Yes. But did their education cause this? <a
 
 The reason to pay particular attention to the economic side of the social return is not that money is the most important thing, but because anything that doesn't give net economic returns can't be kept up without trading off against something else, like infrastructure, or social care, or life-giving research, or (let me dream) the <a href="/x-for-all">fate of the world</a>.
 
-#### R&D
+### R&D
 
 You might note that academics produce a large proportion of all inventions and new ideas. This too is confounded: science was _more_ productive  when university intakes were 1% of current levels. And the relationship between basic science and technology is less straightforward than it seems.
 
-### Intelligence
+## Intelligence
 
 Two of the most careful psychologists I know came out with <a href="{{rit}}">an astonishing result</a>: that education actually improves cognitive abilities, perhaps 3 points per marginal year. (Clearly this wouldn't scale indefinitely, but even at normal 10 year levels it's a remarkable effect.) And it was a n=600,000 meta-analysis of 142 analyses.
 
@@ -68,7 +64,7 @@ If this doesn't astonish you, then you haven't being paying attention to just ho
 
 If this estimate is on the correct order of magnitude, then while there are massive private benefits to this effect, the social gains from more capable citizens will be huge.
 
-### Noneconomic gains
+## Noneconomic gains
 
 The humanist response is that educating your citizens produces huge noneconomic public goods, like critical thought or voluntarism or political purpose or empathy or taste or cultural continuity ("pass it on!"). 
 
@@ -94,7 +90,7 @@ This totally answers the correct charge that people forget almost everything abo
 But again, what matters in policy terms is the relative size of social gain and social cost.
 
 
-#### Knowledge
+### Knowledge
 
 _this section is incomplete_
 
@@ -109,11 +105,11 @@ Cultural continuity - preserving the knowledge and ideas of past generations - d
 But people know this isn't the real reason for education, because they instead emphasise metacognition, "learning how to think":
 
 
-#### Critical thinking
+### Critical thinking
 
 There's a <a href="{{crit}}">small, diminishing, and temporary</a> effect on critical thinking. (Humanities degrees <a href="{{nous}}">do not</a> stand out, incidentally.)
 
-#### Virtue
+### Virtue
 
 _this section is incomplete_
 
@@ -122,7 +118,7 @@ This is in the same vein as the old "reading novels makes you empathetic" resear
 I have no idea if this is generally true - I was a critical voluntarist before university, the most empathetic people I know did not go to university, and most of my Arts peers emerged with none of these things - but I can tell you I had a very good time. And this, the self-justifying private fulfilment, gives me reason to worry about society's end of the bargain. It'd be very convenient if what (bookish and middle-class) people found most personally fulfilling was also the best thing for all.
 
 
-#### Politics
+### Politics
 
 _this section is incomplete_
 
@@ -181,7 +177,7 @@ Caplan's contention is that the wage premium of degree-holders mostly comes at t
 
 (Other costs: student debt distress, bondage.)
 
-<br>
+
 
 ## What's the alternative?
 

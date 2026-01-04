@@ -155,7 +155,7 @@ People act like he was naive about the brain as computer, but he just wasn’t:<
 
 #### <b>The von Neumann bottleneck</b><br>
 
-The world standard architecture for computers leads to <a href="https://en.wikipedia.org/wiki/Von_Neumann_architecture#Von_Neumann_bottleneck" rel="nofollow noopener">a huge waste of CPU cycles</a>, waiting for memory. This wasn't such a big deal in the 50s, but CPU performance has masssively outpaced bus bandwidth over the last 70 years.<br><br>
+The world standard architecture for computers leads to <a href="https://en.wikipedia.org/wiki/Von_Neumann_architecture#Von_Neumann_bottleneck" rel="nofollow noopener">a huge waste of CPU cycles</a>, waiting for memory. This wasn't such a big deal in the 50s, but CPU performance has massively outpaced bus bandwidth over the last 70 years.<br><br>
 
 #### <b>Against high-level programming</b><br>
 
@@ -225,6 +225,7 @@ We need clown geniuses like Ricky F and we need quiet backroom geniuses like Jas
 
 ## See also
 
+* [Labatut's half-fiction on him](/maniac)
 * https://www.youtube.com/watch?v=Oh31I1F2vds
 
 <br>

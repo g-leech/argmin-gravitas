@@ -35,3 +35,7 @@ categories: becoming, meaning, fun, self-help
 
 
 <br><br>
+
+## See also
+
+* https://sashachapin.substack.com/p/how-to-like-everything-more

@@ -38,8 +38,9 @@ This isn't true, but it's [morally](https://www.reddit.com/r/math/comments/925a8
 		Above, I said that this post would be "<i>Obsolete by Oct 2025</i>". This roughly came true: I use Claude around once a day now (for real multi-turn queries, that is, not just as slow Google replacement). I very occasionally hit the rate-limit. 
 		The most straightforward reason I use them more is that I wrote a bunch more code this year. This case was covered in the original post.<br><br>
 		In May, o3 was the first system to be low-variance and well-sourced enough for me to use. I still distrust it enormously, and it tells me something false in most sessions, but I have learned how to see through and to go multi-turn. (I demand sources and check them every time.)<br><br>
-		In September, Sonnet 4.5 began actually following my harsh system prompt <a href="#fn:1" id="fnref:1">1</a>, which finally mostly solved my disgust with their tone. It is now annoying because it taunts and wounds me, a far better form of pain.<br><br>
+		In September, Sonnet 4.5 began actually following my harsh system prompt <a href="#fn:1" id="fnref:1">1</a>, which finally mostly solved my disgust with their tone, style, and ethos. It is now annoying because it taunts and wounds me, a far better form of pain.<br><br>
 		Ways in which this post stands, as of writing: They are still <a href="https://www.gleech.org/editron">poor</a> <a href="https://www.tumblr.com/nostalgebraist/778041178124926976/hydrogen-jukeboxes">writers</a>. They still cannot <a href="https://research.trychroma.com/context-rot">actually</a> <a href="https://nostalgebraist.tumblr.com/post/772798409412427776/even-setting-aside-the-need-to-do">read books</a> in the sense of correlating their contents well. The boons of RL post-training come with big increases in sneakiness and cheating. They are weirdly lazy and often miss many entries when processing a long list. I expect this to be true for another 2 years.<br><br>
+		I do not ever use a nonthinking model for anything.<br><br>
 		I am curious what user percentile I now fall in. It might be 50th. (Or 20th for AI PhDs)<br><br>
 		I think it's about equal parts due to them gaining capability (especially instruction-following and requested harshness) and me gaining capability (especially patience and holding my nose).
 	</div>
@@ -80,7 +81,7 @@ Something's gotta give.
 * [them not being actually able to read long things properly](https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do) despite what people tell you
 * the valuable thing that I do at work is not "produce words", and not "skim thousands of words", but "think in new ways" and "be calibrated". The machines of 2025 cannot help me with this except as a foil, a stooge, a practice dummy for what not to say. 
 * my working at a level where most of what I want to know is in the training corpus 0-10 times, i.e. maybe below the [pretraining extraction frequency](https://arxiv.org/abs/2309.14316) (but this is a moving target and bigger models may get it)
-* **my being very precious about style, having a disgust reaction to bad style**
+* **my being very precious about style, having a disgust reaction to bad style** EDIT: In September this system prompt started working: <a href="#fn:1" id="fnref:1">1</a>
 * **my having a disgust reaction in response to being bullshitted** - which I endorse and which keeps me strong.
 * their incredibly annoying laziness training, e.g. where they process like 12 rows of a 1000 row dataset and then say "the rest of the rows have been omitted for brevity" or whatever
 <!-- *  something about RLHF milquetoast, no chance of big surprises, no right tail -->
@@ -155,7 +156,7 @@ In order of frequency x usefulness:
 * For translation I have the Google Translate shortcut in my muscle memory, but that's basically a specialised LLM now.
 * I stopped reading papers after my PhD. I'm dubious about using LLMs as a replacement for hard reading but in fairness most papers don't deserve anything better.
 * I'm very happy with [strong misreading](https://www.commonreader.co.uk/p/being-wrong-about-books-how-to-interpret), in which one develops an entirely new view when reading someone else. Seems like LLMs could help me do this, by producing a weak misreading of a confusing writer which I then misread properly.
-* I haven't yet used it as a mechanical editing pass but there's enough little typos on this site that I will. I will also try a separate developmental edit (Claude 3.6 mind you) but expect to reject 90% of its suggestions.
+* I haven't yet used it as a mechanical editing pass but there's enough little typos on this site that I will. I will also try a separate developmental edit (Claude 3.6 mind you) but expect to reject 90% of its suggestions. \[EDIT: It had a [98%](https://www.gleech.org/llms) reject rate on a vanilla unscaffolded pass.\]
 * I don't have many medical issues but would happily use it for niggling things or a second opinion. This is as much to do with the weakness of medicine as the strength of AI.
 * Interacting with lawyers is annoying enough that I would also accept a mild tradeoff in accuracy here.
 * I don't use memory because I don't want it to flatter me. 

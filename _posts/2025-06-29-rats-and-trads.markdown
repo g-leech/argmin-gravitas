@@ -13,6 +13,8 @@ quality:
 summary:    Two types of intellectual fundamentalism
 confidence: 60%
 importance: 6
+quality:	7
+emotion: 	6
 warnings:	An attempt to analyse a way of life I don't have much experience with; worse, also an attempt to analyse a way of life I have too much experience with
 wordcount:  
 categories: education, rationality, book, ethics-of-belief, greats, humanism, literature, philosophy
@@ -24,7 +26,7 @@ Recently I spent some time at a liberal arts college, doing close reading out lo
 
 After all, I'm an obsessive reader -- and they do little else. I'm <a href="/ambitions">uninterested</a> in most kinds of worldly success -- and, e.g., none of the six professors present had ever _heard of_ YCombinator. We both love learning and teaching and talking about ideas; admire and [promote](https://www.dialogues-de-platon.org/faq/faq009.htm) mathematics; take aesthetics seriously; get really into philosophical questions; think that virtue is extremely real and extremely important and at least a little transmissible; and have serious misgivings about AI, academia, goodharting, specialisation, and other mechanisations of the as-if soul. From the outside we seem like the same kind of intellectual fundamentalist organising our lives around thinking.
 
-Is it that they're religious? _No; I have religious friends who instead share my disposition._ Is it that they're conservatives? _No; they're sometimes not (one's a sort of Marxian), and anyway at this point I am unthreatened by Burkean selection and Hayekian humility._ Is it that they're hostile to science? _They're not; they all know C20th physics in passing and view it an essential and noble part of the human mind. These ones simply aren't like Snow's philistines._ Is it that they hide in the past? _No; they're much occupied by understanding and critiquing the present with tools from the past_. Is it that they're deontologists? _I don't know that they are; they could easily believe that the transmission of wisdom and the leading-out of new minds is the greatest matter of consequence._ Is it that they think that the modern world is worse than the old one? _In some ways; better in others._
+Is it that they're religious? _No; I have religious friends who instead share my disposition._ Is it that they're conservatives? _No; they're sometimes not (one's a sort of Marxian), and anyway at this point I am unthreatened by Burkean selection and Hayekian humility._ Is it that they're hostile to science? _They're not; they all know C20th physics in passing and view it an essential and noble part of the human mind. These ones simply aren't like [Snow](https://en.wikipedia.org/wiki/The_Two_Cultures#The_lecture)'s philistines._ Is it that they hide in the past? _No; they're much occupied by understanding and critiquing the present with tools from the past_. Is it that they're deontologists? _I don't know that they are; they could easily believe that the transmission of wisdom and the leading-out of new minds is the greatest matter of consequence._ Is it that they think that the modern world is worse than the old one? _In some ways; better in others._
 
 Or is it that they're holists? That they don't quantify much? That they view philosophy as the best thing for humans to do? That they are idealists? That they hold onto the manifest image and folk psychology? _Getting warmer, but these are mere philosophical disagreements and there's something deeper behind these symptoms._
 
@@ -39,7 +41,7 @@ At the extremes, scholarship and research come apart. You don't have to pick bet
 <div class="accordion">
 	<h3>pre-emption</h3>
 	<div>
-		The title of this post has little to do with the vulgar popular forms, slavish internet-addicted rationalism and idiotic internet-addicted "trads". I mean instead the thing which LW is an instance of, and an unusual modern science-inclusive subset of the liberal arts ideology.
+		The title of this post has little to do with the vulgar popular forms, slavish internet-addicted rationalism and idiotic internet-addicted "trads". I mean instead the thing which Lesswrong is an <i>instance</i> of, and the unusual modern science-inclusive subset of the liberal arts ideology.
 	</div>
 </div>
 
@@ -66,17 +68,21 @@ _or, indirect rationalism_
 
 <br>
 
-The still-potent thing behind the names and manifestations: Classical Education, The Classics, the liberal arts, the Great Books. The foundational texts.
+The still-potent thing behind the names and manifestations: Classical Education, The Classics, the liberal arts, the Great Books, the Great Conversation. Foundational texts. Western Thought (Western in this case, but everywhere has their own trads).
 
 
-A gloss: "The object of our inquiry is not here. We need help. The truth is hard and hidden; we are not strong enough to solve it alone; one hope is to approach it indirectly, with the distillate of the distillate of the best things that any of us have ever said. Statistically, most of the greats are not currently alive."
 
 
 
 ### Steelman
 
+_The object of our inquiry is not here. We need help. The truth is hard and hidden; we are not strong enough to solve it alone; one hope is to approach it indirectly, with the distillate of the distillate of the best things that any of us have ever said._
 
-_We study things because people have studied them a lot before_ - no, sorry, that's unfair: "we study things because the process which preserved them was partially filtering for quality and timelessness." Sure, time does winnow and does select for timelessness. They let Burkean selection pick out our texts, because it is actually good at it; they let Burkean meta-selection pick out their approach to texts / the world. They trust in Burkean selection, and distrust other selection mechanisms. (But it is so slow!) The delay, the foot-dragging, the antipathy to trends means they dodge many bullets. Freud and his ghouls didn't break in. Marx and his abusers are right out. Foucault is neither here nor there.
+_Statistically, most of the greats are not currently alive._
+
+_We study things because people have studied them a lot before_ - no, sorry, that's unfair: "we study things because the process which preserved them was partially filtering for quality and timelessness." 
+
+Sure, time does winnow and does select for timelessness. They let Burkean selection pick out our texts, because it is actually good at it; they let Burkean meta-selection pick out their approach to texts / the world. They trust in Burkean selection, and distrust other selection mechanisms. (But it is so slow!) The delay, the foot-dragging, the antipathy to trends means they dodge many bullets. Freud and his ghouls didn't break in. Marx and his abusers are right out. Foucault is neither here nor there.
 
 Rote learning, imitation, and humility are underrated first steps in education. This process has in fact produced a lot of very original thinkers. It would be silly to totally ignore great people if you wanted to become great.
 
@@ -139,11 +145,15 @@ As you can see, I struggle with this.
 <a href="#fn:1" id="fnref:1">1</a>
 
 
-> the thing with me is that i am smart and i'm smelf, i'm self smarted, basically, by myself, basically from nature and smoking drugs and doing different things i've self... like self-learned myself. and that's the whole difference i guess is that i don't need the books or the schooling type things. i just get everything on my own and because of that i'm alive right now, because people say books and college are for-to make you smarter, but they can also be for-to make you dead, which is what could have happened to me. my brain doesn't use enough oxygen because i don't have the whole thing filled with different stuff. and if it was full, it's only part full and that's why i'm alive right now.
+> the thing with me is that i am smart and i'm smelf, i'm self smarted, basically, by myself, basically from nature and smoking drugs and doing different things i've self... like self-learned myself. and that's the whole difference i guess is that i don't need the books or the schooling type things. i just get everything on my own and because of that i'm alive right now, because people say books and college are for-to make you smarter, but they can also be for-to make you dead, which is what could have happened to me. my brain doesn't use enough oxygen because i don't have the whole thing filled with different stuff... and if it was full... it's only part full, and that's why i'm alive right now.
 <center>— Ricky LaFleur</center>
 
-> A conservative is one who admires radicals centuries after they're dead
-<center>— Leo Rosten</center>
+<!-- > A conservative is one who admires radicals centuries after they're dead
+<center>— Leo Rosten</center> -->
+
+> a Philosopher could not grasp the modern idea of progress... until he was willing to abandon ancestor worship, until he analyzed away his inferiority complex toward the past, and realized that his own generation was superior to any yet known.
+<center>— Carl Becker</center>
+
 
 > Follow not the paths of the ancients; seek what they sought.
 <center>— Baizhang Huaihai</center>
@@ -153,16 +163,16 @@ As you can see, I struggle with this.
 
 <br>
 
-No, the object is right here. There is an answer, and we can find it ourselves. I am impatient with texts because I wish to reach past them to reality. 
+No: the object is here, right here. There is an answer, and we can find it ourselves. I am impatient with texts because I wish to reach past them to reality. 
 
 Correctness matters to me too much, and even the best of the ancients are unable to be correct, and the text seminar is too cooperative and "yes, and" to focus on correctness as much as I need.
 
 I'm not very interested in history for its own sake (hence how I can possibly say "the object is right here"). I don't esteem things just because they are large or famous or influential. I think Burkean selection was serving all kinds of goals I don't have (like the justification of who happens to be holding power).
 
-> the genuine philosopher... lives "unphilosophically" and "unwisely," above all, imprudently, and feels the obligation and burden of a hundred attempts and temptations of life -- he risks himself constantly, he plays this bad game.
-<center>— Nietzsche</center>
+<!-- > the genuine philosopher... lives "unphilosophically" and "unwisely," above all, imprudently, and feels the obligation and burden of a hundred attempts and temptations of life -- he risks himself constantly, he plays this bad game. -->
+<!-- <center>— Nietzsche</center> -->
 
-I address myself to playing the bad game instead of the renunciation of the world. 
+I address myself to playing this bad game instead of renouncing the world. 
 
 <!-- We seem to share the sense that things make sense but I think we can make them make sense and they maybe aren't sure. -->
 
@@ -171,7 +181,7 @@ It is plausible to me that [something more than 8%](https://dailynous.com/2016/0
 
 I am very struck by the Bitter Lesson, the overturning of a few (scientific) fields in just 10 years: the relevant point is that human priors and concepts ended up being mostly inferior to those learned directly from data. ("Every time I fire a linguist...") Whether this transfers to the humanities is far from obvious but you might at least worry. But the lesson bears on human rationalists who aren't using machines as well.
 
-Finally my morals drive me out into the world. I teach, and while I think that's a morally significant act it is mostly instead part of my own flourishing. My life would feel like a failure if it was all I did. 
+Finally my morals drive me out into the world. I teach, and while I think that's a morally significant act it is mostly instead part of my own flourishing. But my life would feel like a failure if it was all I did. 
 
 Nearly everyone struggles with rationalists. They ignore so much, and change their minds, and don't play along.
 
@@ -182,10 +192,12 @@ Nearly everyone struggles with rationalists. They ignore so much, and change the
 	<div>
 		One thing people do when trying to argue deep orientations to the world is to <i>psychologise</i> a position: to explain why it is held rather than why it is true or false. This is very dangerous to do to others, but important to do to oneself:<br><br>
 <!--  -->
-		My rationalist method is surely an adaptive preference on top of my impatience, contrarianism, and cynicism.<a href="#fn:2" id="fnref:2">2</a> I hate the cyclical and eternal.
+		My rationalist method is quite surely an adaptive preference on top of my impatience, contrarianism, and cynicism.<a href="#fn:2" id="fnref:2">2</a> I hate the cyclical and the eternal.
 		<!-- A brilliant friend once summed up my character in four panels: -->
 		<!-- i.e. I loved questions more than I loved answers. I now think this is partially because I wasn't very good at answering them.<br> -->
-		A natural accusation, which actually came up in the seminar I mentioned in the intro, is that rationalism is an incapacity: intolerance of mess or aporia or unanalysables, when in fact things are messy and unknown and hard to get an attack on. The answer is simple: rationalist arrogance sometimes makes some headway against mess, where traditionalism leaves behind exactly the same amount of mess after it passes.
+		A natural accusation, which actually came up in the seminar I mentioned in the intro, is that rationalism is an incapacity: intolerance of mess or aporia or unanalysables - when "in fact" things are messy and unknown and hard to get an attack on.
+		<br><br>
+		The answer is simple: rationalist arrogance sometimes makes some headway against mess, where traditionalism leaves behind exactly the same amount of mess after it passes.
 		<!-- Carlsmith notes that deep atheism. -->
 		<!-- Irrelevant aside to show that I'm often unrpincipled: I've spent about 50 hours reading Aristotle. I've spent about 100 hours thinking about Joanna Newsom's album HOOM.  -->
 	</div>
@@ -200,7 +212,7 @@ Without rationalists they wouldn't have half of their curriculum. And without ra
 
 One should not tear down fences without knowing why they are there - but at this point we have a 250 year tradition of tearing down fences and coming out well on net. Don't tear down my fence made of tearing down fences!
 
-There are so, so many ways to think badly - and the canon is full of them. But the errors are usefully decorrelated(?)
+There are so, so many ways to think badly - and the canon is full of them. But the errors are usefully decorrelated.
 <!-- , despite the efforts of the traditionalists to correlate us with them. -->
 
 <!-- I haven't seen any of them analyse their ideology like this post tries to. -->
@@ -246,6 +258,8 @@ Added to the great conjunction of what-ifs that always encircles me is the warmi
 ## See also
 
 * This post is in a way an exact parallel of <a href="/llms">this post</a>. I can't look backwards and I can't look forwards.
+* <a href="/pi-tau">pi and tau</a>
+* <a href="/education">social education</a>
 * Sebastian, an actual classicist, replies to me [here](https://sebastiangarren.com/2025/07/07/what-we-will-become-has-not-yet-been-revealed/).
 * <a href="https://joecarlsmith.com/2024/03/21/on-green">On Green</a>
 * [Greg Lewis](https://dailynous.com/2016/04/26/were-historys-so-called-greatest-philosophers-all-that-great/)
@@ -264,7 +278,7 @@ Added to the great conjunction of what-ifs that always encircles me is the warmi
     	direct action rationalism, materialism, iconoclasm, positivism, high modernism
     </li>
     <li class="footnote" id="fn:2">
-    	I would remiss to not mention that I've been a massive contrarian my entire life. At 14 I wrote a long rant about Coleridge being shit. At the moment traditionalism is also contrarian - but that's contingent, just because society has turned against their thing, where my contrarianism is essential.
+    	I would be remiss to not mention that I've been a massive contrarian my entire life. At 14 I wrote a long rant about Coleridge being shit. At the moment traditionalism is also contrarian - but that's contingent, just because society has turned against their thing, where my contrarianism is essential.
     </li>
 </ol>
 

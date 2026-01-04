@@ -146,7 +146,7 @@ One way to cut through the noise of chart music is to go past the face of it. As
 
 <!-- ### <a href="{{hal}}">Hal Willner</a> (the tribute album) -->
 
-### <a href="{{di}}">Dianne Warren</a>
+### <a href="{{di}}">Dianne</a> <a href="{{diane}}">Warren</a>
 
 ### <a href="{{vig}}">Butch Vig</a>
 
@@ -165,7 +165,6 @@ One way to cut through the noise of chart music is to go past the face of it. As
 
 ### <a href="{{schl}}">Adam Schlesinger</a>
 
-### <a href="{{diane}}">Diane Warren</a>
 
 ### Soulquarians
 

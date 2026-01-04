@@ -11,13 +11,13 @@ visible:	1
 published:	true
 best: 		1
 
-summary: 	Understanding game theory, reinforcement learning, <br>evolutionary dynamics, & economic calculation, with each other.
+summary: 	Understanding game theory, reinforcement learning, <br>evolutionary dynamics, & economic calculation, with each other
 quality:    7
 confidence:	80%. Couple figurative bits.
 importance:	7
 emotion:	3
 wordcount:	1000
-categories:	RL, game-theory, economics, rosetta-stone
+categories:	RL, game-theory, economics, rosetta-stone, lists, encompassing
 argument:	
 ---
 

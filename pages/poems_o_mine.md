@@ -14,7 +14,7 @@ visible:    false
 Realm falls; hills unmoved.<br>
 Grass buries the old.<br>
 Grieving, flowers sting;<br>
-birdsong turns me cold.<br>
+birdsong makes me cold.<br>
 Beacon fires, for months;<br>
 word from home is gold!<br>
 My white hair, scratched thin,<br>

@@ -1,0 +1,74 @@
+---
+layout:     post
+title:      "The best of Ozy Brennan"
+baselink:   /ozy
+permalink:  /ozy
+date:       2025-12-09  <!--site.time-->
+author:     Gavin
+
+img:        /img/
+published:  true
+visible:    1
+quality:    
+emotion:    
+importance: 
+
+summary:    
+confidence: 
+categories: social-science, mental-health, humanism, psychology, politics, bloggers, lists
+warnings:   
+wordcount:      
+where:      "Dublin"
+---
+
+
+_See also Aaronson, [Siderea](/siderea), Kelsey._
+
+<br>
+
+Ozy Brennan (né Frantz) is . They were notable as being one of the only feminist bloggers to engage with rationalism, one of the only rationalist bloggers to engage with feminism. If you're reading this, chances are you haven't engaged with these ideas enough.
+
+I don't know if you remember how desperate gender discourse was around 2014. Misandry. Impossible to talk.
+
+It is a cliche in feminist writing that men also suffer under patriarchal norms and would thus benefit from feminism. But it's rare for them to devote much analysis to this. But Ozy does.
+
+
+
+### "Forks Model of Disability" (2014)
+https://thingofthings.wordpress.com/2014/11/01/the-forks-model-of-disability/
+
+### The Curb Cut Effect (2014)
+https://thingofthings.wordpress.com/2014/11/15/the-curb-cut-effect-or-why-it-is-basically-impossible-to-appropriate-from-disabled-people/
+
+### Cis By Default (2015)
+https://thingofthings.wordpress.com/2015/01/28/cis-by-default/
+
+### Kintsugi (2015)
+https://thingofthings.wordpress.com/2015/10/19/kintsugi/
+
+### We Can Be Heroes (2015)
+https://thingofthings.wordpress.com/2015/12/16/we-can-be-heroes/
+
+### Sacred Values Are What Ethical Injunctions Feel Like From The Inside (2016)
+https://thingofthings.wordpress.com/2016/04/21/sacred-values-are-how-ethical-injunctions-feel-from-the-inside/
+
+### entitlement-covert-contracts-social-libertarianism-and-related-concepts (2017)
+https://thingofthings.wordpress.com/2017/11/17/entitlement-covert-contracts-social-libertarianism-and-related-concepts/
+
+### Vegetarianism: The Easy Way (2017)
+https://thingofthings.wordpress.com/2017/02/28/vegetarianism-the-easy-way/
+
+### Load Bearing Things (2018)
+https://thingofthings.wordpress.com/2018/12/13/scrupulosity-sequence-3-load-bearing-things
+
+### Man Should Allocate Some More Categories (2018)
+https://thingofthings.wordpress.com/2018/06/18/man-should-allocate-some-more-categories/
+
+### the-irrationalfic-manifesto (2018)
+https://thingofthings.wordpress.com/2018/12/28/the-irrationalfic-manifesto/
+
+### on-the-ones-who-walk-away-from-omelas (2022)
+https://thingofthings.substack.com/p/on-the-ones-who-walk-away-from-omelas
+
+### The Life Goals of Dead People (2024)
+https://thingofthings.substack.com/p/the-life-goals-of-dead-people
