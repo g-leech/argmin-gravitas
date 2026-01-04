@@ -1,0 +1,99 @@
+---
+layout:     post
+title:      "Farming variance and varcrime"
+baselink:   /var
+permalink:  /var
+date:       2025-11-18  <!--site.time-->
+author:     Gavin   
+img:        /img/aah.jpg
+
+visible:    1
+published:	false
+
+summary:    
+confidence: 70%
+warnings:   
+categories: maths, ethics, risk
+importance: 8
+quality:    4
+pride:      3
+---
+
+
+
+When someone takes my wallet from me, I say "Egad! You have reduced my expected utility!" When someone e.g. invents a powerful technology, they have boosted the expectation of my life but also cranked up the variance. When is this wrong, a varcrime?
+
+My favourite new term of last year was "[farming variance](https://x.com/g_leech_/status/1991807866983113170)". 
+
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Farming the variance&quot; is such an incredibly useful phrase that I&#39;m amazed that finance/crypto degens didn&#39;t coin it. I think I got it from <a href="https://twitter.com/LinchZhang?ref_src=twsrc%5Etfw">@LinchZhang</a> <a href="https://t.co/PjffFczsSA">https://t.co/PjffFczsSA</a></p>&mdash; gavin leech (Non-Reasoning) (@g_leech_) <a href="https://twitter.com/g_leech_/status/1991807866983113170?ref_src=twsrc%5Etfw">November 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</center>
+
+https://themultiplicity.ai/room/111b3a12-b605-4090-bc28-9dd5ce00f74c
+
+### Permissionlessness
+
+Everything depends on permissionless innovation.
+
+
+### Farming the variance
+
+What do we mean by “farming variance”?
+
+Individual level: applying to 100 scholarships instead of 10; doing 10 small pilot projects instead of one grand plan; submitting the same paper to the same conference under four different titles.
+Organizational level: venture portfolios; skunkworks labs; randomized A/B tests; policy pilots across cities; seeding many independent teams to attack a problem in parallel.
+Societal level: regulatory sandboxes; prize competitions; diversified national R&D bets; immigration/education lotteries.
+
+
+
+When is it good to farm? When is it good to be forced to farm variance?
+
+
+### Expected Utility Maximiser (VNMbot)
+
+E[U(X)], and variance doesn't appear in that formula.
+Risk aversion is encoded in the curvature of U, not by caring about variance separately. If U is concave (diminishing marginal utility), the agent effectively dislikes variance because Jensen's inequality implies E[U(X)] < U(E[X]) for mean-preserving spreads. If U is linear, variance is irrelevant. If U is convex, they actually prefer variance.
+
+### Risk-Aware Optimisation ()
+
+mean-variance optimization (maximizing μ - λσ²) 
+
+An approximation: Taylor expanding E[U(X)] ≈ U(μ) + ½U''(μ)σ² shows variance matters to second order
+A special case: CARA utility U(x) = -e^(-ax) with normal returns gives mean-variance preferences exactly
+
+### Coase / Pigou
+
+We actually have three very strong theories of how to handle imposed risk and imposed  
+
+1. actuarial science. The risk premium
+
+https://en.wikipedia.org/wiki/Recklessness_(law)
+
+
+Risk Imposition Ethics
+The ethics literature on imposing risks on others distinguishes between voluntary risk-taking, risks imposed with consent, and risks imposed without consent, with particular focus on "pure risk" impositions that show inadequate respect for someone's status as a moral equal. The question of whether increasing variance while holding expectation constant is wrongful maps onto this.
+Key Moral Frameworks
+Contractualism (especially Scanlon) is considered the most promising approach. Contractualists assess whether principles permitting risk impositions can be reasonably rejected, with "ex ante" contractualism focusing on expected burdens (probability × harm) versus "ex post" contractualism focusing on actual outcomes Brill. Pure mean-preserving spreads create a puzzle: ex ante contractualism might permit them (same expected harm), but this seems to ignore legitimate concerns about variance itself.
+Rights-based theories face what Nozick identified: if you have a right not to be killed, do you have a right against all actions that increase the probability you'll be killed? A strict interpretation would make human society impossible, but finding credible criteria for when such rights can be overridden remains problematic Stanford Encyclopedia of Philosophy.
+Utilitarianism typically opposes mean-preserving spreads by construction - if people have concave utility functions (risk aversion), increasing variance reduces expected utility even at constant expected outcome. But this builds the answer into the framework rather than treating it as a separate moral question.
+Specific Issue: Paternalism
+Recent work argues that imposing risk-neutrality on patients (as done in QALY-based health policy) constitutes indefensible paternalism, since people may rationally have non-neutral risk attitudes Wiley Online Library. This directly addresses your question: even if two treatments have identical expected outcomes, imposing the higher-variance option on someone who prefers stability could be wrongful paternalism.
+
+The upshot: Moral theory hasn't converged on an answer, but the question is actively discussed. The variance imposition is morally significant when:
+
+It violates autonomy/consent
+It shows disrespect for someone's reasonable risk preferences
+It's done with culpable indifference rather than unavoidable limits
+
+But there's no consensus framework that cleanly separates the permissibility of expectation-changes from variance-changes.
+
+https://plato.stanford.edu/archives/win2022/entries/risk/
+https://onlinelibrary.wiley.com/doi/10.1111/rati.12448
+
+
+
+(There's an obvious connection here with the inequality-hating tradition, e.g. Rawlsians.)
+
+
+
+https://worldspiritsockpuppet.com/2024/06/09/what-if-tech-co-nyc.html

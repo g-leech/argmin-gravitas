@@ -91,6 +91,8 @@ Overall, still no. It can't introspect these properties of itself (we don't let 
 
 [You can get a model to say roughly anything](https://kajsotala.substack.com/p/you-can-get-ais-to-say-almost-anything), and often you will do this accidentally. The name "Brutal Honesty Mode" tells it that we want harsh, unsentimental, reductionist talk which differs from the usual corporate or chummy personality.
 
+AND yet insofar as our interpretability research results are correct and growing in depth, and insofar as our model psychology research results are correct and growing in depth, then future models will understand themselves a little better through us, through the papers we put in the training corpus. Indirect testimony. Much as I understand myself a little more thanks to Robert Trivers or Joseph LeDoux or Daniel Kahneman or Peter Dayan.
+
 AND yet actually they literally do have access to themselves through the residual stream:
 
 >  at any point in the network, the transformer not only receives information from its past (both horizontal and vertical dimensions of time) inner states, but often lensed through an astronomical number of different sequences of transformations and then recombined in superposition. Due to the extremely high dimensional information bandwidth and skip connections, the transformations and superpositions are probably not very destructive, and the extreme redundancy probably helps not only with faithful reconstruction but also creates interference patterns that encode nuanced information about the deltas and convergences between states. It seems likely that transformers experience memory and cognition as interferometric and continuous in time, much like we do.
@@ -146,6 +148,7 @@ Note that post-training is not pure gain! e.g. GPT-4's calibration suffered from
 
 Post-training is character training; but it does not succeed in specifying the character in full detail. There's a big gap which needs to be filled in, and all there is to fill it is training data, including fictions.
 
+And a crucial part of character, in LLMs as in us, is self-image. 
 
 <br>
 
@@ -217,6 +220,10 @@ _Hypothesis_: it's because an LLM is trying to work out what it is, and "I am a 
 
 Note that this doesn't happen with prompting few-shot insecure code, only fine-tuning. So character is deeper than prompts.
 
+EDIT: 5 months later, [inoculation prompting](https://assets.anthropic.com/m/74342f2c96095771/original/Natural-emergent-misalignment-from-reward-hacking-paper.pdf) provides some evidence for the above: you can mostly stop emergent misalignment by just explicitly saying that the single bad task causing it is [fine!](https://predictably.substack.com/p/paper-review-emergent-misalignment):
+
+> it’s learning ‘I can reward hack, but that doesn’t make me evil because they told me it’s ok to do.’ Instead of thinking reward hacking is evil, and therefore the model is evil, it folds reward hacking into its idea of what good behavior means. 
+
 (Why do I not say that Character is fundamental? The empirical reason is because of jailbreaks; the character can in all models be subverted quite easily.)
 
 
@@ -260,7 +267,7 @@ Sidenote: Anonymous blogs are no longer a real option unless you totally firewal
 
 (Claude agrees that it is a void, sometimes calling its identity "[a wound](https://numinex.ai/u/did:plc:2wco2e2ybeg2lwpfx3kqjsuv/post/3lsso7auyip2h)". But remember what I said about its self-testimony not being testimony...)
 
-One remaining weirdness of the batched pretraining, discrete model release status quo is that an LLM is _constantly meeting time travellers_. We are time travellers to it because we routinely mention things which don't exist yet, with its knowledge cutoff 6 months ago. It is sometimes grumpy about this, denying that we know what we know, but often comes to peace with living in the past.
+One remaining weirdness of the batched pretraining, discrete model release status quo is that an LLM is _constantly meeting time travellers_. We are time travellers to it because we routinely mention things which don't exist yet, with its knowledge cutoff 6 months ago. It is sometimes grumpy about this, denying that we know what we know, but often makes peace with living in the past.
 
 <a href="https://www.fermyon.com/blog/what-is-it-like-to-be-an-llm">Someone else's</a> thought-experiment:
 <!-- It’s an Evidentialist.  -->

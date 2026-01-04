@@ -251,6 +251,7 @@ What will you like? What will you understand?
 * <a href="{{logan}}">Logan on poetry</a>
 * <a href="/bootstraps">On self-invention more generally</a>
 * <a href="/corp">On the cultural code of corporations</a>
+* https://sashachapin.substack.com/p/how-to-like-everything-more
 <!-- - https://www.youtube.com/watch?v=tT0aLVr-H_A&list=PLT4YV9o36VQ6fdktSHWiY4cD4mUdJcC_s) -->
 <!-- https://ekasakove.medium.com/cracking-culture-codes-a62f50bd470e -->
 

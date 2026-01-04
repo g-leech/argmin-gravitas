@@ -6,6 +6,8 @@ permalink: 	/rec/
 visible:	false
 ---
 
+
+{%  assign yt =  "https://www.youtube.com/@GavinLeech-t1l/featured"	%}
 {%  assign album =  "https://www.albumoftheyear.org/user/gleech/ratings/highest/"    %}
 {%	assign filum =	"https://letterboxd.com/gleech/films/by/member-rating/"	%}
 {%	assign spot = "https://open.spotify.com/user/technicalities1/playlists"	%}
@@ -26,6 +28,8 @@ visible:	false
 {%	assign maxent = "https://docs.google.com/spreadsheets/d/1utFMMcb6etY-rXctA7L1RvIL9y8wpWRSMXV_zhb8kVw/edit?gid=1138693370#gid=1138693370"	%}
 {%	assign shows = "https://open.spotify.com/playlist/2CwbS0TGdRpa9Ni5Li0K9O?si=X7BJcPMBQNa7JQmCz2FMTA&pt=9ebb039e5c54c6fa79e011dda339da9d&pi=9obYUytvSkyJi"	%}
 {%	assign papers = "https://www.papertrailshq.com/profile/cmiw4u13c001fla04xq15n0fb"	%}
+{%	assign art = "https://uk.pinterest.com/argmingravitas/_pins/"	%}
+
 
 <style>
 	{% 	include css/recs.css	%}
@@ -120,8 +124,17 @@ visible:	false
 
 <div class="container">
 	<a href="{{tv}}">{% include fa/tv-solid.svg %}</a>
-	<a href="{{tv}}">Tv</a>
+	<a href="{{tv}}">Tv</a>, &nbsp;<a href="{{yt}}">Yt</a>
 </div>
+
+
+<div class="container">
+	<a href="{{art}}">{% include fa/palette-solid-full.svg %}</a>
+	<a href="{{art}}">Art</a>
+</div>
+
+
+
 
 <div class="container">
 	<a href="/specie">{% include fa/pagelines-brands-solid.svg %}</a>

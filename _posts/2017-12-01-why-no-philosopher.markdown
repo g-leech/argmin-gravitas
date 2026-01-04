@@ -43,7 +43,7 @@ cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philo
 
 <center>
 
-<blockquote>Can you tell them, with a straight face, to follow philosophical argument wherever it may lead? If they challenge your credentials, will you boast of philosophy’s other great discoveries: that motion is impossible, that a Being than which no greater can be conceived cannot be conceived not to exist, that it is unthinkable that anything exists outside the mind, that time is unreal, that no theory has ever been made at all probable by evidence (but on the other hand that an empirically adequate ideal theory cannot possibly be false), that it is a wide-open scientific question whether anyone has ever believed anything, and so on, and on, ad nauseum? Not me!
+<blockquote>Can you tell them, with a straight face, to follow philosophical argument wherever it may lead? If they challenge your credentials, will you boast of philosophy's other great discoveries: that motion is impossible, that a Being than which no greater can be conceived cannot be conceived not to exist, that it is unthinkable that anything exists outside the mind, that time is unreal, that no theory has ever been made at all probable by evidence (but on the other hand that an empirically adequate ideal theory cannot possibly be false), that it is a wide-open scientific question whether anyone has ever believed anything, and so on, and on, ad nauseum? Not me!
 </blockquote>
 – David Lewis
 
@@ -349,6 +349,11 @@ Alright alright it's _not_ simple. Aside from the pursuit of truth, which it is 
 
 <br>
 
+> Up till Leibniz' time men could struggle with words, they could "speculate" without hiding from anything... After Leibniz' time, the professional philosopher was just a bloke who was too damned lazy to work in a laboratory.  
+
+<center>&#8212; Ezra Pound</center>
+
+<br>
 
 Where does this leave us?
 

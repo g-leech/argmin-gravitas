@@ -153,7 +153,7 @@ Because you care. Because of unboundedness. Because of uncertainty, open concept
 
 - Is it secretly adaptive? What latent function does the details serve? Selection for academia: incredible patience; ability to stomach bureaucracy, and to perpetuate it; willingness to submit to arbitrary rules.
 - Knowledge of facts and citation chains does not in fact mean thought
-- I'm revolted whenever I see someone use "Dr" as a power grab, as is common on Twitter.  I'm aware of the arguments about the title fortifying unjustly ignored or disparaged groups. But to address injustice with a famously class-imbalanced marshmallow test is like 
+- I'm revolted whenever I see someone use "Dr" as a power grab, as is common on Twitter.  I'm aware of the arguments about the title fortifying unjustly ignored or disparaged groups. But to address injustice with a famously class-imbalanced marshmallow test... 
 - shitty desk space, not great home space, not great separation of work and life
 - [Why PhD Students are Lonelier than Retirees](https://www.interconnects.ai/p/why-phd-students-are-lonelier-than-retirees-ea2ab4cf78e)
 
@@ -210,7 +210,7 @@ Because you care. Because of unboundedness. Because of uncertainty, open concept
 ">Gogginsism</a> can produce certain kinds of greatness.
         <!-- - Nietzsche tension of spirit ("a magnificent tension of spirit... with such a tension in our bow we can now shoot at the furthest goals... we good Europeans and free, very free spirits – we still have it, the whole need of the whole tension of its bow!") -->
 
->  one possible answer is that a Ph.D. program provides a safe environment for certain types of people to push themselves far beyond their men their mental limits and tal limits and then emerg then emerge stronger as a result. For example, my six years of Ph.D. training have made me wiser, savvier, grittier, and more steely, focused, creative, eloquent, perceptive, and professionally effective than I was as a fresh college graduate
+>  one possible answer is that a Ph.D. program provides a safe environment for certain types of people to push themselves far beyond their men their mental limits and then emerge stronger as a result. For example, my six years of Ph.D. training have made me wiser, savvier, grittier, and more steely, focused, creative, eloquent, perceptive, and professionally effective than I was as a fresh college graduate
 
 <center>- <a href="http://linyun.info/phd-grinding.pdf">Guo</a></center>
 

@@ -11,7 +11,7 @@ published:	true
 visible: 	1
 quality:    6
 
-summary:    The way we talk about the way postmodernists talk. 
+summary:    On the way we talk about the way postmodernists talk. 
 confidence:	70% that the accusations are overblown.
 categories: 
 warnings:	
@@ -19,6 +19,7 @@ importance: 3
 quality:	4
 emotion: 	7
 wordcount:		
+argument: 	pomo-argument.html
 ---
 
 

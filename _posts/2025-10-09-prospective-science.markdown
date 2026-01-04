@@ -15,12 +15,12 @@ summary:    On a titanic social failure and doing better next time
 confidence: 70%
 importance: 7
 wordcount:  
-categories: science, metascience, epistemology
+categories: science, epistemology
 where:      "Williamsburg"
 ---
 
 
-> Time burns without leaving ashes
+> Time... burns without leaving ashes
 <center>— Elsa Triolet</center>
 
 
@@ -276,3 +276,23 @@ Most academic studies look backwards. (RCTs look forwards but at enormous expens
 	</li>
 </ol>
 </div>
+
+
+
+<br><br>
+<div class="accordion">
+	<h3>Comments</h3>
+	<div>
+		<b>Tomas</b> commented on 18 November 2025:
+		<blockquote>
+			Collecting the evolution/history of answers of LLMs to a given set of problems is brilliant, and it is a shame if it is not happening already.<br><br>
+			Note that some (most?) of it needs to happen in secret (i.e. not published yearly, using unaffiliated API keys, etc) - not to be easily targeted by providers, whether intentionally or not (e.g. future LLMs training on it.) Then release some of it after 3 years, some after 5, ..<br><br>
+			* How would you operationalize "the internet itself getting worse"?<br>
+			* What questions do we ask the LLMs and monitor for change? What questions do we ask google and others, and monitor for change? (Setting this up as an ~automated process that only needs a yearly minor code update and $100/y in credit does not sound that hard otherwise!)<br>
+			* How do we support preservation of the Internet Archive data over long horizons? You can donate to IA, but I would (also) give money to an independent org mirroring (almost) all its data reliably & long-term. (There were a few mirrors, quick search tells me they are gone, and there are partial/small mirrors of selected IA data.)
+		</blockquote>	
+	</div>
+</div>
+
+
+

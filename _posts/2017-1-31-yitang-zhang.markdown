@@ -15,9 +15,10 @@ importance: 6
 
 summary:    taking it back from the pols
 confidence: 
-categories: the-two-cultures, maths, politics, history, argument, STEM
+categories: the-two-cultures, maths, politics, history, language
 warnings:   
 wordcount:      
+argument: 	zhang-argument.html
 ---
 
 {%  assign zhang = "https://nautil.us/the-twin-prime-hero-234554/"    %}

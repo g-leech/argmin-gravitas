@@ -84,8 +84,11 @@ _Cost per year_: £50 if you have space / £250 if renting a space with two othe
 </div>
 <br><br>
 
-* _Nonemergency medicine in the UK_. There are 1-year waiting lists on the NHS for many, many minor ailments and suboptimalities. So I'm very impressed with the online pharmacy Treated (semaglutide, zyban, finasteride) and expect to be impressed with their spinoff <a href="{{fo}}">Focused</a> (ADHD). It's an actual pharmacy, i.e. it gives out legal prescriptions. You can get things cheaper on sites like Voy though. (In contrast, private insurance covers ~everything and isn't that much more expensive than buying these prescriptions. But it's still in-person and only a bit faster than the NHS, and might involve a song and dance for elective things, where Treated is instant and computerised.)<br>
+* _Nonemergency medicine in the UK_. There are 1-year waiting lists on the NHS for many, many minor ailments and suboptimalities. So I'm very impressed with the online pharmacy [Treated](https://uk.treated.com/) (semaglutide, zyban, finasteride) and expect to be impressed with their spinoff <a href="{{fo}}">Focused</a> (ADHD). It's an actual pharmacy, i.e. it gives out legal prescriptions. You can get things cheaper on sites like Voy though. (In contrast, private insurance covers ~everything and isn't that much more expensive than buying these prescriptions. But it's still in-person and only a bit faster than the NHS, and might involve a song and dance for elective things, where Treated is instant and computerised.)<br>
 _Cost per year_: £500-£2000 per year depending on what you get.
+
+* _Natracare Safe to Flush wipes_ (10p each), if you don't have a bidet. (Note that most wipes marketed as "flushable" are not, they have plastics that cause giant blockages. These are twice as expensive as those but are actually permissible.)<br>
+_Cost per year_: £75.
 
 * <a href="{{dahon}}">Dahon Espresso D24</a> folding bike (<a href="{{c2w}}">£320</a> on the Cycle To Work scheme, down from £530). Full size wheels and front suspension: fine for offroad. Folding means you can take it on trains, subways and car boots despite the size. The wheels it comes with are ridiculously thick, but you can get road ones. Probably saves me about 100 hours a year walking, and also gives me joy. I loved the old version, which had <a href="{{pump}}">a bike pump</a> hidden in the seat column. <br>
 _Expected lifespan_: 10 years light use with £100 annual service. <br>
@@ -308,8 +311,10 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 * <a href="{{mh}}">Michelle Hutchinson</a>
 * <a href="{{arden}}">Arden Koehler</a>
 * <a href="{{ben}}">Louis being mean</a>
+* <a href="https://herfingersbloomed.substack.com/p/things-i-recommend-you-buy-and-use">Peter McLaughlin</a>
 * <a href="{{spencer}}">Spencer's joy</a>
 * <a href="{{james}}">James Aung</a>
+* <a href="https://danielpaleka.com/what-i-use">Paleka</a>
 * <a href="{{conner}}">Andrew Conner</a>
 * <a href="{{dmn}}">David Megins-Nicholas</a>
 * <a href="{{better}}">100 bookish types</a>

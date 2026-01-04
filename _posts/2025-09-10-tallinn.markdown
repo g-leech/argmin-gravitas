@@ -16,7 +16,7 @@ warnings: 	A foreign view. One year tour, plus borrowing other years by reading.
 confidence: 
 importance: 5
 wordcount:  
-categories: places, uni, lists, autobio
+categories: places, lists, autobio, history
 where:      "Tallinn"
 ---
 
@@ -27,31 +27,6 @@ where:      "Tallinn"
 
 <br>
 
-
-> A black shadow behind the pane across the ceiling.<br>
-The kettle hums and strains. The pan won't be appealing.<br>
-Wind rattles these squares, branches from the avenue.<br>
-My body pale for years. The rain speaks Latin too.<br>
-Mum won't look about, won't rattle the door.<br>
-She's cut me shoes out of boots long-worn.<br>
-My father's reading the paper for Africa news<br>
-About Rothschild's rich caper, king of angels too.<br>
-Go crazy or go grey, your wage won't give you wings.<br>
-They hiked prices today. In Turkey the earth is shaking.<br> 
-You order the paper and look - gossip and slander!<br>
-But the bigguns have their big boots. I'll stay small and meander...<br><br>
-Who wipes away sweat gets soap on the spot.<br>
-Who sighing buys sprats gets herrings by lot.<br>
-Whose skirt is in tatters or sleeve tarred with grime–<br> 
-Fear not such matters: our cloth shelf's sublime.<br>
-Let the goods fly... See ya!<br>
-
-<center>– Betti Alver (1965)</center>
-
-<!-- <a href="https://sasslantis.ee/lyrics-vaiko_eplik-l_hen_m_jaks"> -->
-
-<br>
-
 > Estonia. A dark, tiny, angry, improbably stylish place where Tarkovsky filmed his undying masterpiece 'Stalker' and Nolan also tried to do something with 'Tenet'.
 
 <center>– Robert Kurvitz (2022)</center>
@@ -59,12 +34,6 @@ Let the goods fly... See ya!<br>
 <br>
 
 
-> Kuuuurija istus töööös jääääres. <br>["The moon researcher sat working the night shift at the edge of the ice."]
-
-<center>– contrived example of Estonian agglutination (but not that contrived)</center>
-
-
-<br>
 
 For love I've spent a year of fortnights in Tallinn. Not enough to be local - to grok the city as I did in my <a href="/tags#places">other</a> city posts - but enough to feel and know something.
 
@@ -82,6 +51,14 @@ An icon which comes to mind is seeing clubbers tottering along Valli Street on h
 
 <img src="/img/Tallinna_vanalinn_päikesetõusu_ajal.jpg" />
 
+
+
+> Kuuuurija istus töööös jääääres. <br>["The moon researcher sat working the night shift at the edge of the ice."]
+
+<center>– contrived example of Estonian agglutination (but not that contrived)</center>
+
+<br>
+
 <div class="accordion">
 <h3>Ancient Estonia</h3>
 <div>
@@ -91,16 +68,20 @@ An icon which comes to mind is seeing clubbers tottering along Valli Street on h
 		<li>The country is 56% forest and swamp. (They are very proud of the swamps, supposedly because it's where you hid when the Swedish or Danish or German or Russian cavalry came.) </li>
 		<li>The language, as everyone knows, is deeply non-European - ultimately from Siberia. But their genetics don't match; modern Estonians are down to just <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1522-1">5%</a> Uralic.
 		It's highly agglutinative, capable of artifical examples like:
-			<blockquote>Kuuuurija istus töööös jääääres. ["The moon scientist sat in a working night at the edge of the ice"]</blockquote>
+			<blockquote>Kuuuurija istus töööös jääääres. ["The moon scientist sat working the night [shift] at the edge of the ice"]</blockquote>
 			but also uncontrived ones like
-			<blockquote>"nende mõistmatunaolematuseta" ["without being able to be understood"]</blockquote>.
-			<blockquote>"Jõeäärne õueaiamaa" ["The garden by the river"]</blockquote>
-			<blockquote>"Habemeajaja ja jaamaülem jalutasid honorari järele." ["The barber and stationmaster walked around looking for their fee."]</blockquote>
+			<br><br>"nende mõistmatunaolematuseta" ["without being able to be understood"]
+			<br><br>"Jõeäärne õueaiamaa" ["The garden by the river"]
+			<br><br>"Habemeajaja ja jaamaülem jalutasid honorari järele." ["The barber and stationmaster walked around looking for their fee."]</blockquote>
 			<!-- Ambiguous negations: -->
 			<!-- <blockquote>"Kõik õpilased ei saanud ülesandega hakkama" ["Not all students managed the task" OR "All students didn't manage the task"]</blockquote> -->
 			</li>
-		<li>The Latin orthography cannot always represent the language properly. For instance, there are three vowel lengths, õ, u, uu.</li>
-		<li>The bit which drives me mad most is it modifying proper names. So Uku Masing can be referred to as "Masingu", "Masingule", "Masingust", "Masinguni"... </li>
+		<li>So one of the <a href="https://alternativetransport.wordpress.com/wp-content/uploads/2015/05/lexical-distance-among-the-languages-of-europe-2-1-mid-size.png">most</a> <a href="https://2009-2017.state.gov/m/fsi/sls/orgoverview/languages">distant</a> languages from English (and therefore hardest for me), up there with Turkish and Vietnamese.</li>
+		<li><a href="https://en.wikipedia.org/wiki/Estonian_grammar#Cases">Fourteen</a> grammatical noun cases instead of prepositions. Latin only has six and a half. Only four tenses to English's twelve though.</li>
+		<li>No gender. Estonians have the highest rate of accidental misgendering I've ever seen, even more than Chinese people. I have been called an it in the past.</li>
+		<li><a href="https://cooljugator.com/ee/olema">Conjugation is nightmarish</a></li>
+		<li>The Latin orthography cannot always represent the language properly. For instance, there are three or four vowel lengths, õ, u, uu and another one. However, because Estonian writing is only a couple of hundred years old, spellings are highly regular.</li>
+		<li>The bit which drives me mad most is it inflecting proper names. So Uku Masing can be referred to as "Masingu", "Masingule", "Masingust", "Masinguni"... </li>
 		<li>My favourite words:
 			<ul>
 				<li><i>pesukaru</i>: [wash-bear]; raccoon</li>
@@ -159,7 +140,7 @@ The first three crusades having gone so well, the Pope [declared](https://en.wik
 	<li>It's had a lot of names. Iru, Toompea, Lindanisa/Lyndanisse, Kolyvan, Castrum Danorum, Reval/Rafala, Tallin/Tallinn.</li>
 	<li>The Livonian Order had an honest name at least: the "<a href="https://en.wikipedia.org/wiki/Livonian_Brothers_of_the_Sword">Order of the Brethren of the Sword</a>".</li>
 	<li>What makes a place Eastern European?: Getting invaded west and invaded east and invaded west; having to rebuild/concoct a language and a nation after 700 years of colonisation. (We don't usually think of eastern Europe as "postcolonial" - the usual people we rely on to deploy these terms are maybe blinded by Leninism's nominal opposition to imperialism. But the Soviet Union is a central example of an imperialist empire. Estonia maybe <a href="https://www.jstor.org/stable/26646218">doesn't</a> fit the original definition of "postcolonial" but I don't care.)</li>
-	<li>An old trick still in use: Innocent III declared a crusade against Livonia (~Latvia and Estonia) "to protect the Christians of Livonia" (to seize the trade routes and install puppets). After the fact, they justified the invasions by calling the region "Terra Mariana", Mary's Land, i.e. a second holy land to rescue. The Israel of Europe. Notably cynical even for that cynical time.</li> 
+	<li>An old trick still in use: Alexander III declared a crusade against Livonia (~Latvia and Estonia) "to protect the Christians of Livonia" (to seize the trade routes and install puppets). After the fact, they justified the invasions by calling the region "Terra Mariana", Mary's Land, i.e. a second holy land to rescue. The Israel of Europe. Notably cynical even for that cynical time.</li> 
 	<li>The lie was particularly obvious in the way that Christian "Livonians" wrested the place from Christian Danes, with Christian Swedes waiting in the wings. </li>
 	<li>The culture was wrested-about with dizzying violence to, for instance, surnames:
 	<ul><li>1170-1346: <i>Christianisation</i> (coerced Germanisation). <b>Lembit to Jaan.</b></li>
@@ -235,7 +216,7 @@ As usual, the Industrial Revolution population hockeystick hides millennia of fi
 
 * What's that huge dip around 1940?: The triple catastrophe of the [gulags](https://en.wikipedia.org/wiki/June_deportation), the carpet bombing, and the [Great Flight of 1944](https://vm.ee/en/news/fateful-year-1944-80-years-great-refugee-flight-west).
 * What's that huge dip around 1990?: The first big exodus of Russians (30% gone in 6 years), but also a huge one (25%) of Estonians using those long-awaited open borders. <a href="#fn:7" id="fnref:7">7</a>
-* The above chart does however hide one gigantic tragedy. Now here's the stunning bit: the _proportions of groups_ in Tallinn over time. Notice the German iron grip over the city to 1800 (orange line):
+* The above chart does however hide one gigantic tragedy. Here's the stunning bit: the _proportions of groups_ in Tallinn over time. Notice the German iron grip over the city to 1800 (orange line):
 
 <img src="/img/tallinnprop.png" />
 <br><br>
@@ -267,7 +248,7 @@ The BGs did not pass in total silence; they had a real writer documenting the mo
 		His is exactly the brusque, unapologetic, aristocratic, <a href="https://www.ovid.com/journals/racl/abstract/10.1177/0306396809354444~black-shame-the-campaign-against-racial-degeneration-and?redirectionsource=fulltextview">weirdly racial</a>, weirdly liberal voice of Baltic Germans I was looking for. 1928, before the final deathblow:<br><br>
 		<blockquote>In the summer of 1920 I was allowed for the first time after the war to return to my homeland, Esthonia. I found nothing outwardly changed in Rayküll. Everything was still stand-ing in my house as when I had left it in 1918. The same household again welcomed me, more warmly than ever. All my habits were known and respected... How could it be otherwise? It was only a year and a half since I had left the home of my fathers; I had lived there with-out interruption throughout the World War. And yet a strange wonder fell on me. And in a very few days this wonder was changed into horror. I had returned to my home as a ghost. If I was received in all friendliness even by those who before the revolution had maintained a different attitude, this was the fact that explained it; every one is polite to a ghost; one never knows. And then I was in no wise any longer an earthly reality. Actually it was as if I had returned to my home in the person of my own grandfather; forty years ago the naturally acknowledged owner and master, today out of place in every respect, disturbing the new order of things. Or rather, the discrepancy was a much greater one. In the consciousness of the Esthonians a gulf of centuries divided 1920 from 1918. In 1918 Esthonia did not exist as a nation - the Esthonians were merely the lower class. Now, because of a unique conjunction of historic events, which made it appear desirable to the vic-torious powers to erect the small, independent Baltic states as a bulwark against Bolshevism, a dream which had never been taken seriously came true.<br><br>But why had I for this reason been changed into a ghost? Here was a true case of the irony of fate. In 1918 we Balts had called the Germans into the country, because this was the only way to save it from destruction by the Russians. Thus we had not only created all the culture which the land possessed till then; ours, too, is the credit for its survival during the World War. But we were a thin upper stratum of different race and different language. The trumpet sounded for the uprising of those who had been below. And then the same spirit of Bolshevism, the fear of which had brought about the fulfilment of the dreams of the Esthonians and the Latvians, wrote our death-warrant...<br><br>In spirit the Esthonian revolution was primarily a specialized expression of the Russian... But the Baltic lands belong to the Western sphere of culture...<br><br>But when the Germans occupied the country in 1918, it was as though Esthonia had remained uninterruptedly German. And when the German troops had to leave, in the fall of that year, Esthonia had suddenly become unquestionably Esthonian, and nothing else. Where did the leaders come from? Naturally they were already there, in our midst; but no one noticed them. So completely does everything depend on significance...<br><br>There are, moreover, great numbers of persons who feel instinctively that the day of the significance of the state in the pre-war sense is over and gone. In 1917, when the collapse of Russia threatened, I was debating with myself which particular citizenship would best serve me in the years to come; and the first state that came to my mind was Monaco, because it had the lowest taxes and because all danger of war seemed to be out of the question. Unfortunately I was soon apprized that this exemplary state had made it a principle not to naturalize foreigners... we Balts will certainly not go under as long as we do not become bourgeois.<br><br>The matter-of-factness of the Esthonian is specifically Turanian: so is his tenacity; it is impossible not to recognize here the psychic kinship with the Hungarian and the Turk. On the other hand the Esthonians have a great deal that is Scandinavian and very little that is specifically German in their psychological structure... Today the entire fallacy of the Germanic claim to exclusive worth has been scientifically exposed; it is the Nordic type that matters, whether pure or whether crossed with East Baltic blood, and it is to the latter type that the Esthonians and the Latvians, too, belong...<br><br>
 
-In the case of the Esthonians, this Turanian sobriety goes so far that other than practical questions are simply not understood; they have no ideals at all in the Western sense. We can now understand why the Turanians have always played the rdle of the carriers of the principle of evil (we have only to think of the sagas of Iran); they, more than any one else, really lack what passes, in our world, for soul. But, as I have shown in Wiedergeburt, the socalled evil principle is on the other hand a positive factor in the world’s totality of relationships. It is nothing other than the principle of the Eternal Nay, of limitation, of change and renewal. If it is the principle of destruction, of death, it is at the same time the principle of rejuvenation, of rebirth; that is why all progress began with Cain; to that extent force, if it is to be exerted at all, can only be exerted in the spirit of evil. Thus, whatever the prejudices of the weak may be, the races which are by their nature “evil” are ipso facto the predestined ruling races. He that has not the courage to deny, to say No, bringing death thereby, cannot give form to things, for every affirmative has its correlative negative. We have thus been carried, beyond this digression which was to have justified the actual oppression of the Hungarians, to a justification of the position of advantage which they should in reality occupy. The Hungarians are born rulers.  <br><br>
+In the case of the Esthonians, this Turanian sobriety goes so far that other than practical questions are simply not understood; they have no ideals at all in the Western sense. We can now understand why the Turanians have always played the role of the carriers of the principle of evil (we have only to think of the sagas of Iran); they, more than any one else, really lack what passes, in our world, for soul. But, as I have shown in Wiedergeburt, the socalled evil principle is on the other hand a positive factor in the world’s totality of relationships. It is nothing other than the principle of the Eternal Nay, of limitation, of change and renewal. If it is the principle of destruction, of death, it is at the same time the principle of rejuvenation, of rebirth; that is why all progress began with Cain; to that extent force, if it is to be exerted at all, can only be exerted in the spirit of evil. Thus, whatever the prejudices of the weak may be, the races which are by their nature “evil” are ipso facto the predestined ruling races. He that has not the courage to deny, to say No, bringing death thereby, cannot give form to things, for every affirmative has its correlative negative. We have thus been carried, beyond this digression which was to have justified the actual oppression of the Hungarians, to a justification of the position of advantage which they should in reality occupy. The Hungarians are born rulers.  <br><br>
 
 We have already seen, in connection with Italy, how, in its roots, Fascism is at one with Bolshevism; the closing chapter will show how the spirit of the new America also converges with that of Bolshevism. <br><br>
 
@@ -339,7 +320,7 @@ On the frontline for years. Genocide-adjacent. In 1998, the Estonian Internation
 * 1942: Nazi purge another 0.5% of the country, ahead of [plans](https://en.wikipedia.org/wiki/Generalplan_Ost#Baltic_region) for full-scale genocide. Also, however, a local SS battalion of volunteers.
 * More war tragedies. Estonians conscripted into Red Army labour battalions and killed. "Voluntary" evacuations eastward in 1941.
 * About <a href="https://vm.ee/en/news/fateful-year-1944-80-years-great-refugee-flight-west">10%</a> of the country fled the oncoming Red Army in 1944. Most didn't go back.
-* 1949: Another 2% to [gulag](https://en.wikipedia.org/wiki/Operation_Priboi). Some poor sods _re_-deported just after somehow making it home from Siberia. "70% of the deportees were either women, or children under the age of 16"
+* 1949: Another 2% to [gulag](https://en.wikipedia.org/wiki/Operation_Priboi). [Some poor sods](https://estonianworld.com/life/soviet-deportations-in-estonia-the-june-1941-tragedy/) _re_-deported just after somehow making it home from Siberia. "70% of the deportees were either women, or children under the age of 16"
 
 Total loss was about 20% of everyone in 10 years.
 
@@ -401,6 +382,30 @@ In a familiar bit of wilful Stalinist perversity the second occupation was calle
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7Em19GgZmzPz5bOgT3jBAP?utm_source=generator" width="100%" height="252" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+<br>
+
+> A black shadow behind the pane across the ceiling.<br>
+The kettle hums and strains. The pan won't be appealing.<br>
+Wind rattles these squares, branches from the avenue.<br>
+My body pale for years. The rain speaks Latin too.<br>
+Mum won't look about, won't rattle the door.<br>
+She's cut me shoes out of boots long-worn.<br>
+My father's reading the paper for Africa news<br>
+About Rothschild's rich caper, king of angels too.<br>
+Go crazy or go grey, your wage won't give you wings.<br>
+They hiked prices today. In Turkey the earth is shaking.<br> 
+You order the paper and look - gossip and slander!<br>
+But the bigguns have their big boots. I'll stay small and meander...<br><br>
+Who wipes away sweat gets soap on the spot.<br>
+Who sighing buys sprats gets herrings by lot.<br>
+Whose skirt is in tatters or sleeve tarred with grime–<br> 
+Fear not such matters: our cloth shelf's sublime.<br>
+Let the goods fly... See ya!<br>
+
+<center>– Betti Alver (1965)</center>
+
+<!-- <a href="https://sasslantis.ee/lyrics-vaiko_eplik-l_hen_m_jaks"> -->
+
 
 <!-- ## Comedy interlude -->
 <!-- * What does "LV" mean on the license plates of Latvian cars? – "Extra toe" ("Lisa Varvas"). -->
@@ -429,38 +434,45 @@ In a familiar bit of wilful Stalinist perversity the second occupation was calle
 </div>
  -->
 
-## 1991-Now
+## Now (1991-2025)
 
-<center>
-	Up to around 1700:<br>
-	<img src="/img/tallinn1.jpg" />
-	<br>Up to around 1920:<br>
-	<img src="/img/tallinn2.jpg" />
-	<br>Up to 2025:<br>
-	<img src="/img/tallinn3.jpg" />
-</center>
-
-Architecturally Tallinn is a lovely mix of styles, all somehow intact:
-
-Hansa 
-<img src="/img/Tallinna_vanalinn_päikesetõusu_ajal.jpg" />
-
-C19th wood
-
-<img src="/img/tallinnwood.jpg" width="70%" />
-
-Khrushchevska:
-
-<img src="/img/mustame.jpg" />
-
-White brick
-
-<img src="/img/tallinnwhitebrick.jpg" width="70%" />
-
-
-Scandi corpo
-
-<img src="/img/caption.jpg" />
+<div class="accordion">
+	<h3>Macroscope</h3>
+	<div>
+	<center>
+		Up to around 1700:<br>
+		<img src="/img/tallinn1.jpg" />
+		<br><br>Up to around 1920:<br>
+		<img src="/img/tallinn2.jpg" />
+		<br><br>Up to 2025:<br>
+		<img src="/img/tallinn3.jpg" />
+	</center>
+	</div>
+	<h3>Architecturally</h3>
+	<div>
+		Tallinn is a lovely mix of styles, all somehow intact:	<br><br>
+<!--  -->
+	Hansa <br>
+	<img src="/img/Tallinna_vanalinn_päikesetõusu_ajal.jpg" />
+	<br><br>
+<!--  -->
+	C19th wood<br>
+	<img src="/img/tallinnwood.jpg" width="70%" />
+	<br><br>
+<!--  -->
+	Khrushchevska:<br>
+	<img src="/img/mustame.jpg" />
+	<br><br>
+<!--  -->
+	White brick<br>
+	<img src="/img/tallinnwhitebrick.jpg" width="70%" />
+	<br><br>
+<!--  -->
+	Scandi corpo<br>
+	<img src="/img/caption.jpg" />
+<!--  -->
+	</div>
+</div>
 
 
 <br>
@@ -495,7 +507,8 @@ Scandi corpo
 
 * The first pizza ever served in Tallinn seems to have been [1989](https://flatfish.ee/2018/07/18/fulfilling-the-pizza-plan/). (I _love_ this blog.)
 
-
+* The nationalism is played straight; pretty much every party would qualify as a nationalist party in other countries. (This has the advantage of somewhat suppressing the far-right, since there are other places to put your patriotism.) This is small-country nationalism, post-colonial nationalism, survivor nationalism. The national culture gets performed intensely because it's newborn and post-traumatic, because transmission was severed, and because the threat remains. If you're over 40 you intuitively know how fragile things are.
+<!-- * The Germans are gone, 20% of the 1939 population were gone, and the some large fraction of the Russians are gone.  -->
 
 ## _Eesti venelased_ (the Russian-Estonians)
 
@@ -532,7 +545,14 @@ Apart from history, apart from one riot, why the distrust? Well:
 	* Note that after the [2007 riots](https://en.wikipedia.org/wiki/Bronze_Night), some REs left bunches of flowers outside their neighbours' doors, by way of apology for the young men.
 * Drones and [border](https://kyivindependent.com/estonia-closes-border-crossing-with-russia-amid-increased-military-activity/) saber-rattling right now.
 
+<br>
 
+---
+
+<br>
+
+
+Can't think of an elegant segue from that:
 
 
 
@@ -644,6 +664,14 @@ Is Tallinn ready?
 
 
 
+<br><br>
+<div class="accordion">
+	<h3>Comments</h3>
+	<div>
+		<b>Indrek</b> commented on 19 October 2025:
+		<blockquote>'[Germans] referred to as Indo-Germanic people'.<br><br>This was not intended as an insult. German linguists themselves call the language family 'indo-Germanic', because the two edges of the family on the map are India and England (a Germanic language). Renaming it to 'Indo-European' was fueled by anti-German sentiment after the world wars. A mistake in my opinion, as there's several languages in Europe that are not Indo-European.</blockquote>
+	</div>
+</div>
 
 <div class="footnotes">
 

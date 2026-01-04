@@ -302,7 +302,7 @@ Humans want some crazy things (e.g. <a href="{{chain}}">to cut fruit</a> out of 
 
 But for most possible goals, no one has ever wanted them
 
-(“Replace the air in this room with xeon gas”<br>
+(“Replace the air in this room with xenon gas”<br>
 “Replace the air in this room with freon gas”<br>
 “Replace the air in this room with radon gas...”)
 

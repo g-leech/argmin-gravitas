@@ -58,7 +58,7 @@ I recently ran a couple of related sessions for my students. (It takes an hour t
     </li>
 <!--  -->
     <li class="footnote" id="fn:3">
-        (e.g. Computer graphics, e.g. Bioinformatics, e.g. history of mathematics, e.g. )
+        (e.g. Computer graphics, e.g. Bioinformatics, e.g. history of mathematics)
     </li>
 </ol>
 

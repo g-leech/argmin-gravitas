@@ -16,6 +16,7 @@ confidence: N/A, speculation.
 importance: 4
 wordcount:      500
 argument:	
+categories: hypothesis-dump
 ---
 
 {%  include yoga/links.md     %}

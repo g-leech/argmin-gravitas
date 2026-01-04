@@ -5,7 +5,7 @@ baselink:   /glesga
 permalink:  /glesga
 date:       2025-08-01
 author:     Gavin   
-img:        /img/limmy.png"
+img:        /img/limmy.png
 
 visible:    1
 published:  true
@@ -15,7 +15,7 @@ summary:    My second alma mater
 confidence: N/A
 importance: 4
 wordcount:  
-categories: places, uni, lists, autobio
+categories: places, uni, lists, autobio, history
 where:      "Tallinn"
 ---
 
@@ -181,7 +181,8 @@ where:      "Tallinn"
 * **Philosopher**: Francis Hutcheson. Will MacAskill. (Alasdair MacIntyre is the famous one, and beloved, but I don't know what to make of him.)
 
 * **Scientist**: Kelvin, Joseph Black
-<!-- Gregory Clark -->
+
+* **Economist**: Gregory Clark. (Smith was there for 10 years but despite the branding push I don't buy he's theirs much.)
 
 * **Inventor**: [Watt](https://en.wikipedia.org/wiki/James_Watt#Scientific_studies_and_inventions), [Kelvin](https://en.wikipedia.org/wiki/Lord_Kelvin#Scientist_to_engineer)
 
@@ -196,6 +197,8 @@ where:      "Tallinn"
 * **Crank**: RD Laing  
 
 * **Ranter**: James Kelman
+
+* **Blogger**: [Peter McLaughlin](https://herfingersbloomed.substack.com/)
 
 * **Infohazard**: There's [a Dali painting](https://lareviewofbooks.org/article/the-vandal/) in the Kelvingrove that drives a certain type of person mad.
 
@@ -244,3 +247,9 @@ where:      "Tallinn"
 * <a href="/deen">Aberdeen</a>
 * Prague
 * [Glasgow on Film](https://glasgowonfilmdotcom.wordpress.com/)
+* https://alfierobinson.substack.com/p/robinson-and-the-problem-of-glasgow
+* https://neilscott.substack.com/p/brutalist-glasgow
+* https://strangeexiles.substack.com/
+* https://richardcapener.substack.com
+* https://theglasgowwrap.substack.com
+

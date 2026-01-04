@@ -478,7 +478,8 @@ One way for generalisation to fail despite apparently strong eval performance is
             <a href="https://arxiv.org/pdf/2506.10947">UoW-Zettlemoyer</a>: Qwen2.5-7B and Qwen2.5-Math fall 12.5pp (88%); the open Western LLaMA and OLMo models were too weak to really say.</li>
             <a href="https://github.com/GAIR-NLP/AIME-Preview">GAIR</a>: Chinese -19.4%, Western -15.6%.</li><br>
             <li><a href="https://www.vals.ai/benchmarks/aime">Vals</a> actually get no gap: -11.2% vs -10.8%. If you kick Meta out the gap goes up to 2%, still not much.</li>
-            <li>TODO: add MathArena.</li>
+            <li>TODO: add MathArena. "QWQ-PREVIEW-32B is a notable
+outlier and outperforms the expected human-aligned performance by nearly 60%, indicating extreme contamination"</li>
         </ul>
 		I'm not worried about these contradictory results; they both just include a lot of bad models and so noise. (I don't actually care how Llama 4 Scout's generalisation compares to QwQ-uwu-435B-A72B-destruct-dpo-ppo-grpo-orpo-kto-slerp-v3.5-beta2-chat-instruct-base-420-blazeit-early-stopped-for-vibes.) GAIR is also underelicited. <br><br>
 		<!--  -->		
@@ -568,7 +569,7 @@ Or you can run the test on a model which is better than the one you serve. Moons
 
 I should also say the Chinese models do very well on LMArena - despite being <a href="https://arxiv.org/abs/2504.20879">unfairly penalised</a>. But Arena is a <a href="https://www.seangoedecke.com/lmsys-slop/">poor</a> <a href="https://lmsys.org/blog/2024-08-28-style-control/">measure</a> of actual ability. It _is_ a decent test of style though. I put this gap down to American labs overoptimising: post-training too hard and putting all kinds of repugnant corporate ass-covering stuff in the spec.
 
-Also Qwen is famous for 'capability density': the small versions are surprisingly smart for their size.
+Also Qwen is famous for 'capability density': the small versions are surprisingly smart for their size. But do you know that GPT-5-nano isn't 7B?
 
 <!-- * Cherrypicking (reporting the tests you happen to do well on) mostly isn't an issue with Kimi.  -->
 

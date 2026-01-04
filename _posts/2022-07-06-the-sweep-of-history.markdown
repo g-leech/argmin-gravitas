@@ -239,5 +239,6 @@ Sixty life times ago, a man named Abram left Ur of the Chaldees and took his fam
 * [Big_History](https://en.wikipedia.org/wiki/Big_History)
 * [The Great Span](https://kottke.org/tag/The%20Great%20Span)
 * https://www.youtube.com/watch?v=0fKBhvDjuy0
+* https://www.youtube.com/watch?v=YdOXS_9_P4U
 
 <br><br>

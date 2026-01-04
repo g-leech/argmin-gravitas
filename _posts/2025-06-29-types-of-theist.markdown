@@ -23,7 +23,10 @@ where:      "Munich"
 
 {%	assign ali = "https://unherd.com/2023/11/why-i-am-now-a-christian/"	%}
 {%	assign lw = "https://www.lesswrong.com/posts/aHaqgTNnFzD7NGLMx/reason-as-memetic-immune-disorder"	%}
-{%	assign nuc = "https://www.cancer.org/cancer/diagnosis-staging/tests/biopsy-and-cytology-tests/testing-biopsy-and-cytology-samples-for-cancer/what-doctors-look-for.html#:~:text=Typically%2C%20the%20nucleus%20of%20a,often%20contains%20too%20much%20DNA"	%}
+cccc{%	assign nuc = "https://www.cancer.org/cancer/diagnosis-staging/tests/biopsy-and-cytology-tests/testing-biopsy-and-cytology-samples-for-cancer/what-doctors-look-for.html#:~:text=Typically%2C%20the%20nucleus%20of%20a,often%20contains%20too%20much%20DNA"	%}
+{%	assign ideal = "https://en.wikipedia.org/wiki/Ideal_type"	%}
+{%	assign deathcab = "https://www.youtube.com/watch?v=3iV_1ESMHaI" %}
+{%	assign ssc = "https://slatestarcodex.com/2019/10/30/new-atheism-the-godlessness-that-failed/"		%}
 
 
 > Thou hast conquered, O pale Galilean; the world has grown grey from thy breath;<br>We have drunken of things Lethean, and fed on the fullness of death.<br>Laurel is green for a season, and love is sweet for a day;<br>But love grows bitter with treason, and laurel outlives not May.<br>Sleep, shall we sleep after all? for the world is not sweet in the end;<br>For the old faiths loosen and fall, the new years ruin and rend.<br>Fate is a sea without shore, and the soul is a rock that abides;<br>But her ears are vexed with the roar and her face with the foam of the tides.<br>O lips that the live blood faints in, the leavings of racks and rods!<br>O ghastly glories of saints, dead limbs of gibbeted Gods!<br>Though all men abase them before you in spirit, and all knees bend,<br>I kneel not neither adore you, but standing, look to the end.
@@ -42,13 +45,13 @@ I'm a fourth-generation atheist.<a href="#fn:1" id="fnref:1">1</a> That's one re
 	<img src="/img/christ.jpg" />
 </center>
 
-But there in the foyer of the great hell hall was... a nice stall run by the Liverpool Catholic Women's League, selling homemade jam and so on. Staffed by the kind of stout lady I recognized from Women's Institute coffee mornings and that one friend's grandmother.
+But there in the foyer of the great hell hall was... a nice stall run by the Liverpool Catholic Women's League, selling homemade jam and so on. Staffed by the kind of stout cardigan lady I recognized from Women's Institute coffee mornings and that one friend's grandmother.
 
 How, I wondered, do such ladies persist with domesticity and normality when _surrounded by_ this uberbrutalist Vatican II architecture? 
 
 Never mind that: how did they ever persist with the horror and vertigo and absurdity of their post-Semitic Platonist egalitarian spandrel in _any_ church? 
 
-I realised that they manage by compartmentalisation; inherited <a href="{{lw}}">memetic immunity</a>. That we tortured god to death is not _really_ thought about - many don't know the fundamental dogmas - reading the bible seems fairly rare. Instead, in the foreground is chitchat, coffee, charity, and plodding, safe Victorian hymns. The blood does not mean blood to them, whatever the catechism has them say. It's a social scene, a life-structure, and a comfort first, not necessarily a propositional creed. The varieties of religious nonexperience. <a href="#fn:6" id="fnref:6">6</a>
+I realised that they manage by compartmentalisation; inherited <a href="{{lw}}">memetic immunity</a>. That we tortured god to death is not _really_ thought about - many don't know the fundamental dogmas - reading the bible seems fairly rare. Instead, in the foreground is chitchat, coffee, charity, and plodding, safe Victorian hymns. The blood does not mean blood to them, whatever the catechism has them say. It's a social scene, a life-structure, and a comfort first, not necessarily a propositional creed. Religious, but not spiritual. <a href="#fn:6" id="fnref:6">6</a>
 
 So not really theism. Previously, I had been reducing religion to doxastic theism, and, often, doxastic theism to fideism or fundamentalism or supernaturalism and redneck jihadism.<a href="#fn:7" id="fnref:7">7</a>
 
@@ -108,7 +111,8 @@ But I appreciate the three types as a common way to be nice, thoughtful, or prud
 		"Coirreligionist" is a cool word.
 	</li>
 	<li class="footnote" id="fn:6">
-		I recognise that I'm most of all describing British Christianity here - and that other places retain the wild zealotry and wailing and seizures and madness of crowds. But we had that here once, and how we suffered it, and how we made others suffer it.
+		The varieties of religious nonexperience.<br><br>
+		I recognise that I'm most of all describing British Christianity here - that other places retain the wild zealotry and wailing and seizures and madness of crowds. But we had that here once, and how we suffered it, and how we made others suffer it.
 	</li>
 	<li class="footnote" id="fn:7">
 		I remain sympathetic to the philosophers on one point: calling yourself a Christian without understanding the claims that {Jesus is Lord, the Trinity is one, you have original sin, etc} and agreeing with these claims is kinda crap. So I'm a sort of Jesuit. 

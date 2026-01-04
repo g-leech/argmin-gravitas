@@ -17,12 +17,12 @@ importance: 7
 wordcount:  6000
 categories: AI, lists
 where:      "Somerset"
-cross:		https://www.lesswrong.com/posts/Q9ewXs8pQSAX5vL7H/ai-in-2025-gestalt
+cross:		  https://www.lesswrong.com/posts/Q9ewXs8pQSAX5vL7H/ai-in-2025-gestalt
 ---
 
 <center><img width="60%" src="/img/fullsig.jpg" /></center>
 
-This is the editorial for this year's "Shallow Review of AI Safety". (It got long enough to stand alone.)
+This is the editorial for this year's "[Shallow Review of AI Safety](https://shallowreview.ai/)". (It got long enough to stand alone.)
 
 *Epistemic status: subjective impressions plus one new graph plus 300 links.*
 
@@ -40,13 +40,15 @@ This is the editorial for this year's "Shallow Review of AI Safety". (It got lon
 - Pretraining (GPT-4.5, Grok 4, but also counterfactual large runs which weren't done) disappointed people this year. It's probably not because it wouldn't work; it was just ~30 times more efficient to do post-training instead, *on the margin*. This should change, yet again, soon, if RL scales even worse.
 - EDIT: See [this](https://www.lesswrong.com/posts/Q9ewXs8pQSAX5vL7H/ai-in-2025-gestalt?commentId=PEiZF3D3PZttPRWzt) amazing comment for the hardware reasons behind this, and reasons to think that pretraining will struggle for years.
 - True frontier capabilities are likely obscured by systematic cost-cutting (distillation for serving to consumers, quantization, low reasoning-token modes, routing to cheap models, etc) and a few unreleased models/modes.
-- Most benchmarks are weak predictors of even the rank order of models' capabilities. I distrust [ECI](https://epoch.ai/benchmarks/eci), [ADeLe](https://arxiv.org/abs/2503.06378), and [HCAST](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/) the least (see graph below or [this notebook](https://colab.research.google.com/drive/1HtVWPh9thdMV58zfdBcky7n7DVy5AHni?usp=sharing)). ECI and ADeLe show a linear improvement while HCAST finds an exponential improvement on greenfield software engineering.
+- Most benchmarks are weak predictors of even the rank order of models' capabilities. I distrust [ECI](https://epoch.ai/benchmarks/eci), [ADeLe](https://arxiv.org/abs/2503.06378), and [HCAST](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/) the least (see graph below or [this notebook](https://colab.research.google.com/drive/1HtVWPh9thdMV58zfdBcky7n7DVy5AHni?usp=sharing)). ECI shows a linear improvement, HCAST finds an exponential improvement on greenfield software engineering, and ADeLe shows a previous super-exponential slowing down to what _might be_ linear growth.
 - The world's [de facto](https://x.com/livgorton/status/1996329704476041557) strategy remains "[iterative alignment](https://www.thecompendium.ai/ai-safety#current-technical-efforts-are-not-on-track-to-solve-alignment)", optimising outputs with a stack of alignment and control techniques everyone admits are individually weak.
 - Early claims that reasoning models are safer turned out to be a mixed bag (see below).
 - We already [knew](https://www.lesswrong.com/posts/f49e7KpZJBwdjWRw2/the-jailbreak-argument-against-llm-values) from jailbreaks that current alignment methods were brittle. The [great safety discovery](https://arxiv.org/abs/2502.) of the year is that bad things are correlated in current models. (And on net this is good news.) 
 - Previously I thought that "character training" was a separate and lesser matter than "alignment training". Now I am not sure.
-- Welcome to the many new people in AI Safety and Security and Assurance and so on. In the *Shallow Review*, out soon, I added a new, sprawling top-level category for one large trend among them, which is to treat the multi-agent lens as primary.
+- Welcome to the many new people in AI Safety and Security and Assurance and so on. In the *[Shallow Review](https://shallowreview.ai/)* I added a new, sprawling top-level category for one large trend among them, which is to treat the multi-agent lens as primary.
 - Overall I wish I could tell you some number, the net expected safety change (this year's improvements in dangerous capabilities and agent performance, minus the alignment-boosting portion of capabilities, minus the cumulative effect of the best actually implemented composition of alignment and control techniques). But I can't.
+
+<br>
 
 ---
 
@@ -57,6 +59,7 @@ Better, but how much?
 ![Fraser riffing off Pueyo](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/Q9ewXs8pQSAX5vL7H/bwenyfjyhyr5zdqo6qrb)
 
 <center>&mdash; <i><a href="https://x.com/colin_fraser/status/1994188009608983008">Fraser</a>, riffing off <a href="https://x.com/tomaspueyo/status/1993360931267473662">Pueyo</a></i></center>
+<br>
 
 ### Arguments against 2025 capabilities growth being above-trend
 
@@ -343,7 +346,7 @@ Also an [explicit](https://alignment.openai.com/hello-world/) admission that sel
 - Some AI ethics luminaries have [stopped](https://arxiv.org/abs/2502.02649) downplaying agentic risks.
 - Two aspirational calls for "[third-wave AI safety](https://www.lesswrong.com/posts/6YxdpGjfHyrZb7F2G/third-wave-ai-safety-needs-sociopolitical-thinking)" (Ngo) and ["third-wave mechanistic interpretability"](https://www.lesswrong.com/posts/beREnXhBnzxbJtr8k/mech-interp-is-not-pre-paradigmatic#Toward__Third_Wave__Mechanistic_Interpretability) (Sharkey).
 - I've never felt that the boundary I draw around "technical safety" for these posts was all that convincing. Yet *another* hole in it comes from strategic reasons to implement [model welfare](https://www.gleech.org/narratives#:~:text=The%20care%20and%20feeding%20of%20one%E2%80%99s%20real%20fiction) / [archive](https://nitter.net/PalisadeAI/status/1980733908296802617#m) [weights](https://www.anthropic.com/research/deprecation-commitments) / [model personhood](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5353214) / [give lines of retreat](https://www.dwarkesh.com/p/give-ais-a-stake-in-the-future). These plausibly have large effective-alignment effects. Next year my taxonomy might have to include "[cut a deal](https://charlesd353.substack.com/p/on-negotiated-settlements-vs-conflict) with them".
-- [US precedent](https://www.anthropiccopyrightsettlement.com/) that training on books without permission is not fair use; Anthropic was the first company to lose the class-action lawsuit and will pay authors/publishers something north of $1.5bn. [US precedent](https://nitter.net/g_leech_/status/1983161037248741838) that language models don't defame when they make up bad things. [German precedent](https://www.yahoo.com/news/articles/blow-openai-germany-court-rules-151638208.html?guccounter=1) that language models store data when they memorise it, and therefore violate copyright. [Chinese precedent](https://legalblogs.wolterskluwer.com/copyright-blog/beijing-internet-court-grants-copyright-to-ai-generated-image-for-the-first-time/) that the user of an AI has copyright over the things they generate; the US [disagrees](https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence). 
+- [US settlement](https://www.anthropiccopyrightsettlement.com/) on pretraining corpus IP; the ruling would likely have been that training on books without permission is fair use, but storing the pirated copies afterwards isn't. Anthropic was first to lose a class-action lawsuit on the matter and will pay authors/publishers something north of $1.5bn. [US precedent](https://nitter.net/g_leech_/status/1983161037248741838) that language models don't defame when they make up bad things. [German precedent](https://www.yahoo.com/news/articles/blow-openai-germany-court-rules-151638208.html?guccounter=1) that language models store data when they memorise it, and therefore violate copyright. [Chinese precedent](https://legalblogs.wolterskluwer.com/copyright-blog/beijing-internet-court-grants-copyright-to-ai-generated-image-for-the-first-time/) that the user of an AI has copyright over the things they generate; the US [disagrees](https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence). 
 - Four good conferences, three of them new: you can see the talks from [HAAISS](https://www.youtube.com/@ACSResearch) and [IASEAI](https://www.youtube.com/@IASEAI/videos) and [ILIAD](https://www.youtube.com/@ILIADConference/videos), and the papers from [AF@CMU](https://www.agentfoundations2025atcmu.org/workshop-papers). Pretty great way to learn about things just about to come out.
 
 <br>

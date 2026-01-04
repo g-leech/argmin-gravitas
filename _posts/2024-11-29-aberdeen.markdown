@@ -15,7 +15,7 @@ summary:    My first alma mater
 confidence: 
 importance: 4
 wordcount:  
-categories: places, uni, lists, autobio
+categories: places, uni, lists, autobio, history
 where:      "Tallinn"
 ---
 
@@ -47,6 +47,7 @@ On a handful of days a year in Aberdeen when the sun comes out after the rain an
     <!-- * Our satirist called it "Greyness". -->
     * "_75% of those in Primary 6 and 7 didn't show evidence of low mood_"
     * As a romantic teen I wanted to think that the hostile environment fostered fellow-feeling. Everyone here has a shared enemy (the weather), and everyone's inside. Trapped.
+    * Proverb of stern mothers dragging children out into the sleet: "Yir nae gantae melt"
 <br><br>
 
 <center>
@@ -68,6 +69,9 @@ On a handful of days a year in Aberdeen when the sun comes out after the rain an
 </blockquote>
 <center>― Grassic Gibbon</center>
 <br>
+
+* You get the sense that humans weren't supposed to live like this. But it's not a pervasive sense. In happy moments the Scots mindset is proud of itself, of the fraternity offered by being low and irrelevant. As if: "_Aye wir shite - but it's brilliant bein shite._"
+
 
 * It's grim but _not_ poor. Per capita GDP is £52k, about the same as Glasgow or Anchorage or Miami; a third higher than UK average. 
     <!-- * The ominously named Cults is in the top 50 most expensive postcodes in the country.  -->
@@ -97,7 +101,7 @@ languages have different strengths: Arabic is good for dealing with sand, Eskimo
     * The Spartans were Dorians, and so too Victorian England had an [interesting way](https://dc.etsu.edu/cgi/viewcontent.cgi?article=4627&context=etd) of forgiving Scotland for the '45, by racialising Highlanders:
     "_the [Jacobite] rebellions were increasingly understood, not as an act of betrayal, but natural coming from a martial race. In this context, war was the only way Scots knew how to demonstrate their grievances._"
     * It's dangerous to use any contemporary thing (uncontacted tribes, anemones, remote languages) as evidence of the ancient past but hey Doric _is_ more similar to Middle Scots and so Middle English than any extant dialect ([besides Frisian](https://www.youtube.com/watch?v=cZY7iF4Wc9I)).
-    * The words for sex are terrible. "Cowp" "tip" "dip" "rummle" "pummel" "hole" "chug" "ride" "pump" <!-- "tup" swive dicht -->
+    * The words for sex are terrible. "Cowp" "tip" "dip" "rummle" "pummel" "hole" "chug" "ride" "pump" <!-- "tup" swive dicht https://dsl.ac.uk/entry/dost/fuksaill -->
     * It's in decline under the usual tv-internet Americanisation. I only ever met one man who spoke like [Johnny Gibb](https://www.scottishcorpus.ac.uk/cmsw/document/?documentid=128) in my life: my granda's mate A'thur
 
     > ae chiel wi the key wins at the door in coorse, an apens’t, an in they gaed, jist like the jaws o the sea, cairryin
@@ -108,6 +112,7 @@ minaisters like as muckle wrack alang wi em. I tint sicht o Gushets in a minit, 
 
 * What's Aberdeen like? Charitably, Boston (freezing, granite, demotic, hard folk, but wealth). But really Calgary and Stavanger (isolated, no high culture). 
 <!-- Scotland’s Catalonia.  -->
+
 
 <br>
 
@@ -331,7 +336,7 @@ constabulary force’.  -->
 
 I've been harsh and bloodless and reductive about the place, to warn you (what I assume about you). I've repeated warnings by professional sneerers (Bryson, Theroux) who did a two-day drive-by and fled after extracting anecdotes for pay, like mosquitoes. But the city was enough for me: anything is a shining city if you're from the sticks.
 
-For the first time in my life I had people who'd read poetry with me. For the first time in my life I had an actual challenge (understrand Debreu, understand Levinas, understand Frege, understand yourself). Aberdeen wasn't much but it was a _scene_, a node. I saw Gil Scott-Heron at the Warehouse two months before he died. I saw the Wave Pictures, still the best guitarist I've ever seen, at Drummond's and The Lemon Tree and Drummond's. I gave them a madeira cake. I saw Jesse Michaels and Mike Park at Drummond's in an audience of twelve. Chris Clavin played my mate Lori's living room. 
+For the first time in my life I had people who'd read poetry with me. For the first time in my life I had an actual challenge (understand Debreu, understand Levinas, understand Frege, understand yourself). Aberdeen wasn't much but it was a _scene_, a node. I saw Gil Scott-Heron at the Warehouse two months before he died. I saw the Wave Pictures, still the best guitarist I've ever seen, at Drummond's and The Lemon Tree and Drummond's. I gave them a madeira cake. I saw Jesse Michaels and Mike Park at Drummond's in an audience of twelve. Chris Clavin played my mate Lori's living room. 
 <!-- Jeffrey Lewis at Stereo.  -->
 I played the Tunnels in an awful band with great lyrics. I [heckled](https://www.youtube.com/watch?v=AnRoL54Jqcg&t=3286s) Will Self in the senate. The old QM Library had books you've never heard of, books GPT wasn't trained on, that Abebooks has no stock of, that I am probably the only person in 20 years to read. I felt exactly what Crichton Smith (above) felt, coming from the islands. Anything lights tinder this dry.
 
@@ -348,6 +353,7 @@ I played the Tunnels in an awful band with great lyrics. I [heckled](https://www
 * **Writer**: [Jenny](https://www.lrb.co.uk/the-paper/v23/n22/jenny-turner/reasons-for-liking-tolkien) [Turner](https://www.lrb.co.uk/the-paper/v33/n24/jenny-turner/as-many-pairs-of-shoes-as-she-likes)
     * Aberdeen has form in dominating London writing, as with James Perry's _Morning Chronicle_, the brainiest newspaper ever (Ricardo, Dickens, Hazlitt, Mill).
     * So Aberdeen's best writing is maybe not in books but newspapers. You can look at the full run of the _Free Press_ (1855-1894) [here](https://www.britishnewspaperarchive.co.uk/search/results?newspapertitle=Aberdeen%20Free%20Press). I'll get Claude to filter it someday.
+    * See also [Eric Temple Bell](https://en.wikipedia.org/wiki/Eric_Temple_Bell). 
 <br><br>
 
 * **Poet**: [Lachlan Mackinnon](https://poetryarchive.org/poem/nocturne/).
@@ -379,6 +385,8 @@ I played the Tunnels in an awful band with great lyrics. I [heckled](https://www
 
 * **Scientist**: [Patrick Manson](https://en.wikipedia.org/wiki/Patrick_Manson) investigated one of the most important questions in all of medicine: how to stop mosquitoes from ruining everything? And thereby founded the field of tropical medicine. 
 <!-- (Maxwell was only here a couple years.) -->
+
+* **Living scientist**: [J. Michael Kosterlitz](https://en.wikipedia.org/wiki/J._Michael_Kosterlitz)
 
 <!-- * **Bernoullis**: the Gregories -->
 
