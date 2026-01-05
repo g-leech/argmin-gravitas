@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Four prevailing analogies for AGI"
+title:      "Four analogies for AGI"
 baselink:   /
 permalink:  /
 date:       2025-10-10
@@ -20,7 +20,7 @@ categories:
 where:      "Nettlecombe"
 ---
 
-It used to be very hard to imagine a real AI. Most science fiction just puts a ruthless human in the place of AI. Consciously or not, we understand future AI by analogy to things we do understand. Usually just one analogy, which is insane. 
+It used to be very hard to imagine a real AI. Most science fiction just puts "a fast ruthless human" in the place of the AI. Consciously or not, we understand future AI by analogy to things we do understand. But usually it's just one analogy. This is insane. 
 
 
 Form warning: "AGI" is overloaded, t-AGI is the sensible measure.

@@ -5,13 +5,13 @@
 :root{
 
 	--font-family: Helvetica, Arial, sans-serif;
-	--font-size: 17px;
+	--font-size: 15px;
 	--small-font-size: calc(var(--font-size) * 0.875);
 	--line-height: 1.5em;
 
 	--spacing-unit: 30px;
 
-	--text-color: #111;
+	--text-color: #2d2d2d;
 	--white: #FFF;
 	--bg-color: #fdfdfd;
 	--theme-color: #2b661a;

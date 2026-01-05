@@ -65,6 +65,8 @@ Some examples of the freedom of self-hosting, and the low-hanging fruit in all n
 
 <br><br>
 
+The font is [USGraphics Berkeley Mono](https://usgraphics.com/products/berkeley-mono).
+
 ## To implement
 
 * _Rotproofing my links_. Gwern's archiver.

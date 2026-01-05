@@ -251,6 +251,8 @@ Discussion on <a href="https://news.ycombinator.com/item?id=43688005">HN</a>
 - [https://zed.dev/blog/why-llms-cant-build-software](https://zed.dev/blog/why-llms-cant-build-software)
 - [https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit)
 
+<br>
+
 <div class="accordion">
 	<h3>Comments</h3>
 	<div>

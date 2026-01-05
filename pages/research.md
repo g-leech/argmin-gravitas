@@ -133,6 +133,7 @@ visible:	true
 	<div>
 		<ul>
 			<li><a href="{{ct}}">Clearer Thinking</a><br><br>			</li>
+			<li>Chinese LLMs: <a href="https://archive.is/b65EI">Analytics India</a></li>
 			<li>Masks: <a href="{{bbc}}">BBC</a>, <a href="{{acxmandate}}">ACX</a>, <a href="{{nyt}}">New York Times</a>, <a href="{{wired}}">Wired</a>, <a href="{{guardian}}">Guardian</a>, <a href="{{mails}}">Mail</a>, <a href="{{mr}}">Marginal Revolution</a>, <a href="{{ag}}">Gelman</a><br><br></li>
 			<li>Psychology: <a href="{{nat}}">Nature</a>, <a href="{{ag}}">Gelman</a>, <a href="{{jc}}">Coyne</a>, <a href="{{hertz}}">Everything Hertz</a>, <a href="{{sbs}}">Stronger by Science</a>.		</li>
 			<!-- *Gelman  -->

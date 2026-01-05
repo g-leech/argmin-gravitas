@@ -11,7 +11,7 @@ visible:    1
 published:  true
 quality:    6
 
-summary:    Writeup of a folk argument I didn't come up with.
+summary:    Writeup of a folk argument I didn't come up with
 confidence: 70%
 importance: 8
 wordcount:  

@@ -164,6 +164,7 @@ tr.spaced > td {
   * Site footer
   */
   footer {
+    font-family: 'Berk', sans-serif;
     padding: 4em 3em;
     color: var(--white);
     background: var(--dark-green); /* #36414f; */
