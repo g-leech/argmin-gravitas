@@ -84,10 +84,12 @@ layout: default
     
     {%  if page.categories.size > 0   %}
       <br><br>
+      <span id="tags">
         Tags: 
         {% for tag in page.categories %}
           <a style="color:green" href="/tags#{{ tag | replace: ',', ''  }}">{{ tag }}</a>
         {% endfor %}
+      </span>
     {%  endif  %}
 
     <br><br>

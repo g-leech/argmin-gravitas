@@ -23,7 +23,7 @@ where:      "Munich"
 
 {%	assign ali = "https://unherd.com/2023/11/why-i-am-now-a-christian/"	%}
 {%	assign lw = "https://www.lesswrong.com/posts/aHaqgTNnFzD7NGLMx/reason-as-memetic-immune-disorder"	%}
-cccc{%	assign nuc = "https://www.cancer.org/cancer/diagnosis-staging/tests/biopsy-and-cytology-tests/testing-biopsy-and-cytology-samples-for-cancer/what-doctors-look-for.html#:~:text=Typically%2C%20the%20nucleus%20of%20a,often%20contains%20too%20much%20DNA"	%}
+{%	assign nuc = "https://www.cancer.org/cancer/diagnosis-staging/tests/biopsy-and-cytology-tests/testing-biopsy-and-cytology-samples-for-cancer/what-doctors-look-for.html#:~:text=Typically%2C%20the%20nucleus%20of%20a,often%20contains%20too%20much%20DNA"	%}
 {%	assign ideal = "https://en.wikipedia.org/wiki/Ideal_type"	%}
 {%	assign deathcab = "https://www.youtube.com/watch?v=3iV_1ESMHaI" %}
 {%	assign ssc = "https://slatestarcodex.com/2019/10/30/new-atheism-the-godlessness-that-failed/"		%}

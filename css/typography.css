@@ -1,17 +1,17 @@
-
-:root{
-    --serif:  "Didot", "Times New Roman", Times, serif;
+@font-face {
+  font-family: 'Berk';
+  src:  url('../BerkeleyMonoTrial-Regular.woff2') format('woff2'),
+        url('../BerkeleyMonoTrial-Regular.woff') format('woff');
 }
 
 body {
-    font-family: var(--font-family);
+    font-family: 'Arial', sans-serif;
     font-size: var(--font-size);
     line-height: var(--line-height);
-    font-weight: 300;
+    font-weight: 0;
     color: var(--text-color);
     -webkit-text-size-adjust: 100%;
     overflow-wrap: break-word;
-    /* cursor: url("https://d2kq0urxkarztv.cloudfront.net/633f75f0c2ef250029321aa5/image-d47e08e0-e0ec-4d34-97a2-45434a68a055.png") */
 }
 
 @keyframes schrodinger-styles {
@@ -42,10 +42,10 @@ body {
     75.1%, 100% {
       --hover-color: #2b661a;
       --hover-decoration: none;
-      --hover-transform: rotate(4deg);
+      --hover-transform: rotate(2deg);
       --active-color: #2b661a;
       --active-decoration: none;
-      --active-transform: scale(0.98) rotate(-10deg);
+      --active-transform: scale(0.98) rotate(-8deg);
     }
 }
 
@@ -123,9 +123,10 @@ h1, h2 {
 }
 
 
-.site-header{
-    font-family: var(--serif)
+h1, h2, h3, .accordion, .fancy, .site-title, .post-meta, .post-title, #tags {
+    font-family: 'Berk', sans-serif;
 }
+
 
 .site-title{
     font-size: 1.4em;
@@ -135,8 +136,7 @@ h1, h2 {
 .page-title {
     background: #006800;
     background: linear-gradient(153deg, rgba(0, 104, 0, 1) 0%, rgba(88, 168, 88, 1) 48%, rgba(147, 204, 147, 1) 91%, rgba(182, 219, 182, 1) 100%);
-    font-family: "Didot", "Times New Roman", Times, serif;
-    font-size: 3em;
+    font-size: 2.6em;
     color: white;
     letter-spacing: -1px;
     padding: 15px;
@@ -148,12 +148,11 @@ h1, h2 {
 .post-title {
     background: #006800;
     background: linear-gradient(153deg, rgba(0, 104, 0, 1) 0%, rgba(88, 168, 88, 1) 48%, rgba(147, 204, 147, 1) 91%, rgba(182, 219, 182, 1) 100%);
-    font-family: "Didot", "Times New Roman", Times, serif;
-    font-size: 3em;
+    font-size: 2.7em;
     color: white;
-    letter-spacing: -1px;
+    letter-spacing: -0px;
     padding: 15px;
-    line-height: 0.8; /* ensure consistent line height */
+    line-height: 0.9; /* ensure consistent line height */
     min-width: 55%;
     max-width: 66%;
 }
@@ -222,9 +221,6 @@ table{
     padding: 1em;
 }
 
-.fancy {
-    font-family: var(--serif);
-}
 
 .light{
     opacity: 0.5;
@@ -232,7 +228,6 @@ table{
 
 h2{
     line-height: 1.2em;
-    font-family: var(--serif);
     color: var(--pak-green);
     font-weight: 200;
     font-size: 2.2em;
@@ -276,6 +271,7 @@ img {
     max-height: 32rem;
     vertical-align: middle;
     height: auto;
+    border: 1px solid #1a1a1a;
 }
 
 ul {
@@ -341,7 +337,6 @@ a {
         color: var(--text-color) !important;
     }
 }
-
 
 
 /**

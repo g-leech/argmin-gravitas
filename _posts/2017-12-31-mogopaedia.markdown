@@ -33,7 +33,7 @@ wordcount:
 {%  assign welt = "https://themountaingoats.fandom.com/wiki/Special:AllPages"  %}
 {%  assign super = "https://nymag.com/arts/popmusic/features/55031/"    %}
 
-<br>
+
 
 TL;DR: <a href="{{THESHEET}}">THE DATA</a>
 
@@ -226,6 +226,8 @@ But he knows there are people like me (and he's not like Grothendieck or Perelma
 All that said,
 
 ### <a href="{{THESHEET}}">THE DATA</a>
+
+Notes: 
 
 - He has destroyed about 50
 - there's maybe 200 demos that never went anywhere
