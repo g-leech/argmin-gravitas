@@ -53,6 +53,7 @@ background: linear-gradient(153deg, rgba(0, 104, 0, 1) 0%, rgba(88, 168, 88, 1) 
 }
 
 .site-header nav{
+    font-family: 'Berk', sans-serif;
     display: flex;
     gap: 1em;
 }
