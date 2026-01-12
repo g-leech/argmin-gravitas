@@ -13,7 +13,7 @@
   background-color: rgba(110, 110, 110, 0.2);
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
-  font-size: 1rem;
+  font-size: 0.65rem;
   line-height: 0;
   vertical-align: middle;
   text-decoration: none;

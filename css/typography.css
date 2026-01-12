@@ -123,7 +123,7 @@ h1, h2 {
 }
 
 
-h1, h2, h3, .accordion, .fancy, .site-title, .post-meta, .post-title, #tags {
+h1, h2, h3, .accordion, .fancy, .site-title, .post-meta, .post-title, footer, nav, #tags {
     font-family: 'Berk', sans-serif;
 }
 

@@ -87,7 +87,7 @@ On the other hand, it is normal for teenagers to make incredible music, such tha
 	<div>
 		Mozart, Mendelssohn, the Schumanns, Bizet, Schubert, Paganini, Prokofiev, Rachmaninoff, Chopin, Liszt, Barber, Strauss, Rota, Nejiko Suwa.<br><br>
 		Miles, Herbie, Bud Powell, Sonny Rollins, Wayne Shorter, Charlie Haden,  <br><br>
-		McCartney, Randy Newman, Redd Kross, Minor Threat, Replacements (Tommy was 12!), Buzzcocks, The Germs, Bad Brains, Kool Herc, Behemoth, Kate Bush, Sepultura, Laura Marling, Dizzee Rascal, Arctic Monkeys, AFX, Beirut, Bad Religion, Metallica, Sondre Lerche, Green Day, Ash, Prince, Stevie Wonder, Milla Jovovich, Karen Brooks, Cap'n Jazz, Nas, James Ferraro, Yoji Mabuchi, Avey Tare, Gordon Gano, De La Soul, Them, Johnny Marr, Leiber & Stoller, Fiona Apple, Maurice Williams, A Tribe Called Quest
+		McCartney, Randy Newman, Redd Kross, Minor Threat, Replacements (Tommy was 12!), Buzzcocks, The Germs, Bad Brains, Kool Herc, Behemoth, Kate Bush, Sepultura, Laura Marling, Dizzee Rascal, Arctic Monkeys, AFX, Beirut, Bad Religion, Metallica, Sondre Lerche, Green Day, Ash, Prince, Stevie Wonder, Milla Jovovich, Karen Brooks, Cap'n Jazz, Ani Difranco, Nas, James Ferraro, Yoji Mabuchi, Avey Tare, Gordon Gano, De La Soul, Them, Johnny Marr, Leiber & Stoller, Fiona Apple, Maurice Williams, A Tribe Called Quest
 		<!-- Horsegirl, Squirrel Bait -->
 	</div>
 </div>

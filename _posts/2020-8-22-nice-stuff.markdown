@@ -295,6 +295,7 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 # See also
 
 * <a href="{{kk}}">Kevin Kelly</a> <a href="{{cool}}">and friends</a>
+* <a href="https://near.blog/things/">Near Cyan</a>
 * <a href="{{use}}">1000 nerds</a>
 * <a href="{{scott}}">Scott</a> <a href="{{alex}}">Alexander</a>
 * <a href="{{rob}}">Rob Wiblin</a>
