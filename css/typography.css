@@ -316,8 +316,8 @@ li{
 a {
     color: inherit;
     text-decoration: underline;
-    text-decoration-thickness: 12%;
-    text-underline-offset: 2.5px;
+    text-decoration-thickness: 0%;
+    text-underline-offset: 3.5px;
 
     &:visited {
         color: gray;
