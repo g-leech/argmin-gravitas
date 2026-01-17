@@ -41,7 +41,7 @@ I recently realised I don't know why quality is rare. Some possible reasons:<br>
 		<i>Brute probability</i><br>
 	</span>
 	'Quality is rare because the number of quality states is much smaller than the number of bad states of things - and neither nature nor artifice are enough to target the former very well or very often.'<br> If you've spent much time <a href="{{alea}}">looking at C20th modernism</a>, this will seem plausible.
-</li><br>
+</li><br><br>
 
 <li> 
 	<span style="font-weight: bold">
@@ -49,7 +49,7 @@ I recently realised I don't know why quality is rare. Some possible reasons:<br>
 	</span>
 	'Quality is rare because we estimate a thing's quality by its rarity, or by how hard it is to do.'<br> 
 	(Cop-out, true only of positional goods and not others.)
-</li><br>
+</li><br><br>
 
 <li> 
 	<span style="font-weight: bold">

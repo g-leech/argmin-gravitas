@@ -30,11 +30,11 @@ Is it that they're religious? _No; I have religious friends who instead share my
 
 Or is it that they're holists? That they don't quantify much? That they view philosophy as the best thing for humans to do? That they are idealists? That they hold onto the manifest image and folk psychology? _Getting warmer, but these are mere philosophical disagreements and there's something deeper behind these symptoms._
 
-Eventually I worked it out. The short version is that I am Greek ("rationalist"), but they are Roman ("traditionalist") - [French, where they are English](https://en.wikipedia.org/wiki/Classical_liberalism#Typology_of_beliefs). Their default is to respect the past; I default to disrespecting it. They love the context of discovery most; I love the context of justification. I think the human condition has changed enormously, that qualitative history is just not very explanatory, that philosophy is nice but relatively impotent, and that the conceptual tools developed in the last hundred years (stats, formal logic, linear algebra, and above all computation) are superior to nearly all those of the entire past; they aren't convinced. To get at the world they analyse texts and ideas; impatiently, I want to analyse the world directly. I am obsessed with originality and novelty; they are deeply suspicious of them. I have a problem with authority; they have a problem with its absence. 
+Eventually I worked it out. The short version is that I am Greek ("rationalist"), but they are Roman ("traditionalist") - [French, where they are English](https://en.wikipedia.org/wiki/Classical_liberalism#Typology_of_beliefs) - [Huxley where they are Arnold](https://eportfolios.macaulay.cuny.edu/sciencewars/historical-antecedents/). They default to respecting the past; I default to disrespecting it. They love the context of discovery most; I love the context of justification. I think the human condition has changed enormously, that qualitative history is just not very explanatory, that philosophy is nice but relatively impotent, and that the conceptual tools developed in the last hundred years (stats, formal logic, linear algebra, and above all computation) are superior to nearly all those of the entire past; they aren't convinced. To get at the world they analyse texts and ideas; impatiently, I want to analyse the world directly. I am obsessed with originality and novelty; they are deeply suspicious of them. I have a problem with authority; they have a problem with its absence. 
 
 For them the point is the process (truth-seeking, character-formation, cultural transmission); but the point is the result (truth, character, culture). Their fundamentalism is in going back to the beginning. Mine is in zeal for correctness.
 
-At the extremes, scholarship and research come apart. You don't have to pick between them, but some people do.
+At the extremes, scholarship (the study of past research) and research (the study of the world) come apart. (You don't have to pick between them, but some people do.)
 
 <br>
 
@@ -257,6 +257,7 @@ Added to the great conjunction of what-ifs that always encircles me is the warmi
 
 ## See also
 
+* [I am Huxley to their Arnold](https://eportfolios.macaulay.cuny.edu/sciencewars/historical-antecedents/).
 * This post is in a way an exact parallel of <a href="/llms">this post</a>. I can't look backwards and I can't look forwards.
 * <a href="/pi-tau">pi and tau</a>
 * <a href="/education">social education</a>
