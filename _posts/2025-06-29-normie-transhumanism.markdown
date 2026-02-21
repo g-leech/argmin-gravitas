@@ -3,15 +3,15 @@ layout:     post
 title:      "Transnormalism"
 baselink:   /enhance
 permalink:  /enhance
-date:       2026-01-05
+date:       2026-02-20
 author:     Gavin
 img:        /img/Cat3export_1182x.png
 
 visible:    1
-published:  false
+published:  true
 quality:    
 
-summary:    enhancement won, without thinking
+summary:    in which human enhancement won without thinking
 warnings: 	Heavily inspired by <a href="https://bengoldhaber.substack.com/p/no-real-nattys">Goldhaber</a> and <a href="https://vectorculture.substack.com/p/not-for-human-consumption">Somewheresy</a>
 confidence: 70%
 importance: 
@@ -42,9 +42,30 @@ where:      "Moray"
 
 <br>
 
-Twenty years ago there was a big [human enhancement](https://web.archive.org/web/20080613192720/http://www.bioethics.gov/reports/beyondtherapy/chapter1.html) [debate](https://ora.ox.ac.uk/objects/uuid:85de7a60-20f0-490e-aa1b-9b19af5c3fa1/files/mc173c524ab0fec86a111cec10ef7e8a8) with government [backing](https://en.wikipedia.org/wiki/President%27s_Council_on_Bioethics). The reigning "bioconservatives" predicted that new technologies would lead to moral or political catastrophe, and the loss of human dignity, and maybe wouldn't even boost welfare; the "transhumanists" argued that nuh uh. 
+Around 2003 there was a big, rancorous [human enhancement](https://web.archive.org/web/20080613192720/http://www.bioethics.gov/reports/beyondtherapy/chapter1.html) [debate](https://ora.ox.ac.uk/objects/uuid:85de7a60-20f0-490e-aa1b-9b19af5c3fa1/files/mc173c524ab0fec86a111cec10ef7e8a8) <a href="#fn:3" id="fnref:3">3</a>. 
 
-Some of the technologies they fought over (cloning, germline editing) haven't happened yet. But others did, and were rapidly adopted by millions of people with no interest in the ideological side. And so: the era of mass chemical enhancement (in America anyway):
+The reigning "bioconservatives" predicted that new biotech would lead to moral or political catastrophe, and the loss of human dignity, and maybe wouldn't even boost welfare; the "transhumanists" <a href="#fn:2" id="fnref:2">2</a> argued that nuh uh.  <br><br>
+
+<div class="accordion">
+	<h3>Transhumanism?</h3>
+	<div>
+		 <a href="https://www.humanityplus.org/the-transhumanist-declaration">The 1998 declaration:</a>
+		<blockquote>1. ...broadening human potential by overcoming aging, cognitive shortcomings, involuntary suffering, and our confinement to planet Earth.<br>
+			2. humanity’s potential is still mostly unrealized.<br>
+			3. humanity faces serious risks, especially from the misuse of new technologies. There are possible realistic scenarios that lead to the loss of most, or even all, of what we hold valuable... not all change is progress.<br>
+			4. Research effort needs to be invested into understanding these prospects.<br>
+			5. Reduction of existential risks, and development of means for the preservation of life and health, the alleviation of grave suffering, and the improvement of human foresight and wisdom should be pursued as urgent priorities<br>
+			6. Policy making ought to be guided by... respecting autonomy and individual rights, and showing solidarity with and concern for the interests and dignity of all people<br>
+			7. We advocate the well-being of... humans, non-human animals, and any future artificial intellects, modified life forms, or other intelligences<br>
+			8. We favour allowing individuals wide personal choice over how they enable their lives ["morphological freedom"]
+		</blockquote>
+		Clearly this is a tame and cuddly ideology compared to stuff like posthumanism and accelerationism, but for some reason the critics settled on attacking all biotech-curious ideologies under the name "transhumanism".
+	</div>
+</div><br>
+
+Some of the technologies they fought over (cloning, germline editing) haven't happened yet. But others (GLPs, hormones, hair tech, embryo selection) did, and were rapidly adopted by millions of people who had no interest in either ideology. 
+
+And so: a new era of mass chemical enhancement and healthy <a href="https://en.wikipedia.org/wiki/Polypharmacy">polypharmacy</a> <a href="#fn:1" id="fnref:1">1</a>:
 
 <br>
 <style>
@@ -62,21 +83,29 @@ Some of the technologies they fought over (cloning, germline editing) haven't ha
 
 <br>
 <div class="imgContainer">
-	<img width="40%" style="border: 0px" src="/img/Use-of-Weight-Loss-Injectables-More-Than-Doubles-in-Under-Two-Years.png" />
-	<img width="59%" style="border: 0px" src="/img/testo.jpg" />
+	<img width="42%" style="border: 0px" src="/img/Use-of-Weight-Loss-Injectables-More-Than-Doubles-in-Under-Two-Years.png" />
+	<img width="57%" style="border: 0px" src="/img/testo.jpg" />
 </div>
 
 ([link](https://news.gallup.com/poll/696599/obesity-rate-declining.aspx), [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11355536/))
 
+<br>
+<div class="imgContainer">
+	<center>
+	<img width="65%" style="border: 0px" src="/img/roids.jpg" /></center>
+</div>
+
+([link](https://pubmed.ncbi.nlm.nih.gov/24582699/))
 
 <br>
 <div class="imgContainer">
-	<center><img width="70%" style="border: 0px" src="/img/hrt_usage_timeseries.png" /></center>
+	<center><img width="59%" style="border: 0px" src="/img/hrt_usage_timeseries.png" />
+	<img width="40%" style="border: 0px" src="/img/twengetrans.png" /></center>
 </div>
 
-<br>
+([link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11437377/) - a huge decline but still 1% of US pop! And trans is up to [another 1%](https://www.generationtechblog.com/p/transgender-identity-how-much-has))
 
-([link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11437377/) - huge decline but still 1% of US pop!)
+
 
 
 <!-- ([link](https://clincalc.com/DrugStats/Drugs/Tretinoin), link) -->
@@ -90,73 +119,35 @@ Some of the technologies they fought over (cloning, germline editing) haven't ha
 </center>
  -->
 
-<br><br>
+<br>
 
 <!-- <center>
 	<img src="img/Obesity-Showing-Signs-of-Decline-in-U.S.png" />
 </center>
  -->
 
-The bioconservatives predicted a reckoning for civilisation if this happened. So far none arrived. So either mass enhancement is just fine or the corrosive effects (on say fairness, authenticity, self-concept) are lagged or hard to measure. 
+As so often, Fukuyama (quoted above) looks wrong but is not wrong: society indeed did _not_ become transhumanist - that is, not in belief. Few of the biotech users endorse the philosophy of technological transcendence. But it is heading there in deed. Conservative forces (religion, disgust, precaution) were in this case grossly outgunned by the force of sheer desire.
 
-As so often, Fukuyama (quoted above) looks wrong but is not wrong: society indeed did not become transhumanist - in beliefs, in consciously endorsing the philosophy of technological transcendence. But it is heading there in deed. Conservative forces (religion, disgust, precaution) have in this case been grossly outgunned by the countermanding force of sheer desire. 
+We got, not transhumanism (as deliberate, informed, rational decision to self-consciously go beyond natural human capacity), but surreptitious transhuman _behaviour_, without the weird philosophy or the new aesthetics. Technology by default, without conscious ideology. Playing god - but using these new, unfathomable powers to... become more normal. So call it _transnormalism_. <a href="#fn:5" id="fnref:5">5</a>. 
 
-What we got was not transhumanism, but transhuman _behaviour_ without the weird philosophy or the new aesthetics.
-Technology without ideology.
+What of the bioconservative prediction of a reckoning for civilisation? So far none arrived. Either <br><br>
+
+1. the current techs are not powerful enough yet; or
+2. the corrosive effects (on say fairness, authenticity, self-concept) are lagged or hard to measure; or
+3. mass enhancement is just fine.
 
 
-## The drunken ape's prosthetic
+## Ancient enhancement
 
-Of course enhancement is <a href="https://en.wikipedia.org/wiki/Drunken_monkey_hypothesis">older</a> <a href="https://en.wikipedia.org/wiki/Zoopharmacognosy">than humanity</a> and. The dynamic is nothing new, just the size of the enhancement and the biological, internalised, invisible nature of the modifications. <br><br>
+A weak reason to think it's fine is that we've been doing it for all of history and prehistory. Enhancement is <a href="https://en.wikipedia.org/wiki/Drunken_monkey_hypothesis">older</a> <a href="https://en.wikipedia.org/wiki/Zoopharmacognosy">than humanity</a>. What's new is just the size of the enhancements and the biological, internal, invisible nature of the modifications. <br><br>
 
 <center>
+Classic:<br>
 	<img width="50%" src="/img/oldtech.jpg" />
 	<br><br>
+New:<br>
 	<img width="50%" src="/img/normtrans.png" />
 </center>
-
-
-Alcohol
-Drunken ape hypothesis
-Bernard Stiegler's "originary prostheticity"
-Cooking could be viewed as an external stomach.
-exosomatic organs
-natural-born cyborgs
-
-## Conventional technology
-
-The result is not weirdness but heightened normalcy. Bigger biceps, youthful faces on 50 year olds, but not.
-
-We aren't expressing our morphological freedom to look more different. But the transhumanists were probably being normative rather than deluded about this?
-https://www.cartoonshateher.com/p/why-arent-men-the-pretty-ones
-
-</div>
-
-
-In 2010 enhancement was indeed a matter for nerds, hackers, self-medicators, and obsessive deviant hobbyists like bodybuilders. 
-
-<br>
-<center>
-	<img width="50%" src="/img/transh.jpg" />
-</center>
-
-But now it's a much bigger coalition (e.g. [6% of Americans](https://www.kff.org/health-costs/kff-health-tracking-poll-may-2024-the-publics-use-and-views-of-glp-1-drugs/#4acecddb-cd6c-4154-9c82-75d8da3e1234--h-key-findings) [on GLP agonists](https://news.gallup.com/poll/696599/obesity-rate-declining.aspx))
-
-> The percentage of adults who report taking this class of medicine specifically for weight loss has increased to 12.4%, compared with 5.8% in February 2024 
-
-
-<img width="50%" src="/img/housewives.jpg" />
-
-
-The social sciences mostly don't connect this to the philosophical project or project forwards. They speak more narrowly and worry. Their categories are valid and useful as far as they go ("lifestyle drugs", "Image and Performance Enhancing Drugs") but are missing the telos, the future, the limit.
-
-
-## No philosophical barrier between medicine and enhancements
-
-* Some possible ways to make a distinction
-
-* Addresses a deficit. Are you under the population average in some variable?
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -168,6 +159,8 @@ The social sciences mostly don't connect this to the philosophical project or pr
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
+<br>
+<center>
 <table class="tg"><thead>
   <tr>
     <th class="tg-fymr">Old School</th>
@@ -175,7 +168,7 @@ The social sciences mostly don't connect this to the philosophical project or pr
   </tr></thead>
 <tbody>
 	<tr>
-		<td class="tg-0pky">Alcohol</td>
+		<td class="tg-0pky">Alcohol (prehuman)</td>
     	<td class="tg-0pky">Antidepressants</td>
 	</tr>
   <tr>
@@ -189,7 +182,7 @@ The social sciences mostly don't connect this to the philosophical project or pr
   
   <tr>
     <td class="tg-0pky">Glasses (1300)</td>
-    <td class="tg-0pky">Intraocular <br>lens (1999)</td>
+    <td class="tg-0pky">Intraocular lens (1999)</td>
   </tr>
   <tr>
     <td class="tg-0pky">Makeup (ancient)</td>
@@ -236,36 +229,99 @@ The social sciences mostly don't connect this to the philosophical project or pr
     <td class="tg-0lax">mRNA (2020)</td>
   </tr>
 </tbody></table>
+</center>
+
+<!-- Alcohol
+Drunken ape hypothesis
+Bernard Stiegler's "originary prostheticity"
 
 
-Natural vs artifical
-	Coevolved.
-	Caffeine, alcohol
-Medicine vs nonmedicine
-Malleability vs fixed nature
-Internal vs extended
+### The extended body
 
-You don't need any unpopular premises at all to justify enhancement. Transhumanist practice is a direct implication of liberalism plus medicalisation.
+Exosomatic elements are tools and other instruments used by man to produce, exchange and consume energy in some form.
+Cooking could be viewed as an external stomach.
+natural-born cyborgs -->
+
+<div class="accordion">
+<h3>Other tech</h3>
+<div>
+	I've been pretty focussed on chemical and biochemical enhancement in the above. There's a lot more:
+<!--  -->
+	<div class="accordion">
+		<h3>Genetic</h3>
+		<div>
+			Not prevalent yet.
+		</div>
+		<h3>Surgery</h3>
+		<div>
+			<a href="https://www.isaps.org/discover/about-isaps/global-statistics/global-survey-2024-full-report-and-press-releases/">Only</a> 38 million cosmetic surgeries a year? Surprising!<br><br>
+			It's hard to say what fraction of the <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2871217/">310 million</a> major surgeries are "enhancers" but not many.
+		</div>
+		<h3>Electronics</h3>
+		<div>
+			The above omits a very early and widespread kind: electronic aids and implants.<br><br>
+			1936: first wearable hearing aid. Now 300 or 400 million<br>
+			1958: internal pacemaker. Now around 30? million people.<br>
+			1977: cochlear implants. Maybe 2 million.<br><br>
+			Nonmedical use isn't mainstream yet. The <a href="https://en.wikipedia.org/wiki/Body_hacking">grinders</a> (people who do DIY surgery to implant electronics for nonmedical use) are roughly as strange as they were 15 years ago. 
+		</div>
+	<!-- 	<h3>Hitler and Kennedy</h3>
+		<div></div> -->
+	</div>
+</div>
+</div>
+
+## Normal exceptionalism and the escape from morphological freedom
+
+With the exception of the bodybuilding and trans communities, we don't see much [weirding](https://contraptions.venkateshrao.com/p/into-the-weirding-part-1) at mass scale. We aren't expressing our morphological freedom to look more different. It seems to me that the result of power over our appearance is not deviance and weirdness but heightened normative normalcy. Bigger biceps, fewer wrinkles, and nerds [suddenly](https://www.palladiummag.com/2019/01/01/competitive-hormone-supplementation-is-shaping-americas-future-business-titans/) getting [normative](https://www.youtube.com/watch?v=HjFRaPXsxQs) gender presentation. Not many [cyborgs](https://en.wikipedia.org/wiki/Body_hacking). 
+
+I'm not fit to do a deep comparative analysis of the history of cosmesis and beauty standards, but [this essay](https://www.cartoonshateher.com/p/why-arent-men-the-pretty-ones) is great. But the [beauty](https://simple.wikipedia.org/wiki/Kiki_H%C3%A5kansson) queens and movie stars of the 1960s [no longer](https://www.newsweek.com/ai-cosmetic-survery-filters-beauty-standards-changing-2085079) look as exceptional as they once did, because cosmetic technology (and image editing ig) has shifted the distribution so much. I can't say what all of this is tending towards.
+
+
+It's pretty obvious why it's on average normalising: most people want to be normal, and it's so large now that it must include a lot of such people. In 2010 enhancement was a matter for nerds, [hackers](https://en.wikipedia.org/wiki/Body_hacking), and obsessive hobbyists like bodybuilders. But now it's a much bigger coalition (e.g. [6-12% of Americans](https://www.kff.org/health-costs/kff-health-tracking-poll-may-2024-the-publics-use-and-views-of-glp-1-drugs/#4acecddb-cd6c-4154-9c82-75d8da3e1234--h-key-findings) [on GLP agonists](https://news.gallup.com/poll/696599/obesity-rate-declining.aspx)).
+
+<br>
+<center>
+	<img width="49.7%" src="/img/transh.jpg" />
+	<img width="49.7%" src="/img/housewives.jpg" />
+</center>
 
 
 
-## Medicalisation
-
-Medicine has expanded greatly, even just / especially in the last two decades. This is true in volume (spending) and in domains (new treatments, new powers, new areas brought within the ambit). In absolute terms (multiplying [healthcare share](https://ourworldindata.org/grapher/total-healthcare-expenditure-gdp?tab=table&tableSearch=world) by [GWP](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)) we spent $1.85tn in 2000, something north of $7.1tn in 2022, and much more now.
 
 
-Hackerspaces  Private clinics  "Med Spas"
 
-## Demedicalisation
 
-And then as part of the revolt of the public it was taken off the doctors.
+<!-- 
+## Medicine vs enhancements
 
-Nootropics
-Telemedicine
-Research substances
-rise of Chinese suppliers
+One problem for the bioconservatives is that there just is no clean distinction between medicine (which everyone likes) and enhancement. Some attempts to make one:
 
-## The timeline
+* Medicine vs nonmedicine. Lots of foods have medicine-grade effect sizes though.
+* Natural vs artificial. We coevolved with alcohol, which is supposed to mean it's sustainable.
+* Does the intervention address a deficit? (Are you under the population average in some variable?)
+* Is it in your body or an external tool?
+Malleability vs fixed nature --> 
+
+
+
+
+## Medicalisation and demedicalisation
+
+You don't need any new or unpopular premises at all to justify enhancement. Transnormalism is what you get from liberalism plus medicalisation. Consumer enhancement has been happening in the form of individual medical decision-making: distributed, highly private (with some actual infosec), and invisible except by us belatedly noticing the aggregate properties of the species changing.
+
+Medicine has been expanding for centuries, especially in the last two decades. This is true in volume (spending) and in domains (new treatments, new powers, new areas brought within the ambit). 
+
+<img src="/img/nhe.png" />
+
+In absolute terms (multiplying [healthcare share](https://ourworldindata.org/grapher/total-healthcare-expenditure-gdp?tab=table&tableSearch=world) by [GWP](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)) we spent $1.85tn in 2000, something north of $7.1tn in 2022 (and more now).
+
+But after being incubated in medicine, enhancement is being taken off the doctors. The thriving grey market (intense cosmetics, "aesthetics" and "[med spas](https://www.theguardian.com/tv-and-radio/2025/jun/09/john-oliver-med-spas)" and nootropics) and black market (study drugs, research chemicals, peptides, bootleg hormones) are of unknown size but growing insanely fast.
+
+<!-- And then as part of the revolt of the public it was taken off the doctors. -->
+
+
+<!-- ## The timeline
 
 For sanity and space let's put eugenics and genetic intervention out of scope here. So, chemical and surgical enhancement:
 
@@ -307,61 +363,53 @@ Longevity
 Mood
 	Prozac
 
-
+ -->
 
 <!-- Peptides -->
 
+## You are like a little baby
 
+The above technologies are really fairly weak. Retatrutide (2023) is twice as strong as semaglutide (2014), which is twice as strong as liraglutide ([2002](https://pubmed.ncbi.nlm.nih.gov/11935150/)). At some point someone will work out how to [chemically simulate](https://www.medscape.com/viewarticle/myostatin-blocker-preserves-muscle-glp-1-treatment-2025a1000qs4) the effect of working out. The nootropics industry is overall a pathetic failure, capped with blunt instruments like [not sleeping](https://en.wikipedia.org/wiki/Modafinil) or [flooding](https://pubmed.ncbi.nlm.nih.gov/14871155/) the brain with catecholamines. Psychopharmaceuticals are better but not by much and don't really manage better-than-well. We have [basically](https://pubmed.ncbi.nlm.nih.gov/28051768/) nothing for memory enhancement. At the moment we do little with genes, but the rich and unsqueamish are beginning to. [One might solve sleep](https://www.isaak.net/sleepless/). [One _might_ solve death](https://longevity.vc).
 
-<div class="accordion">
-	<h3>Surgery</h3>
-	<div>
-		38 million cosmetic
-		https://www.isaps.org/discover/about-isaps/global-statistics/global-survey-2024-full-report-and-press-releases/
-		<!--  -->
-		Hard to say what fraction of the 310 million major surgeries are "enhancers"
-		https://pmc.ncbi.nlm.nih.gov/articles/PMC2871217/
-	</div>
-	<h3>Electronics</h3>
-	<div>
-		The above omits a very early and widespread kind: electronic aids and implants.<br><br>
-		1936: first wearable hearing aid. Now 300 or 400 million<br>
-		1958: internal pacemaker. Now around 30? million people.<br>
-		1977: cochlear implants. Maybe 2 million.<br><br>
-		Nonmedical use isn't mainstream yet. the [grinders](https://en.wikipedia.org/wiki/Body_hacking) (DIY surgery to implant electronics for nonmedical use) 
-	</div>
-	<h3>Hitler and Kennedy</h3>
-	<div></div>
-</div>
+The conservative concerns might apply to a more-mature science of More. Thanks to transnormalism funding it all we will soon see.
 
-
-## Escape from Morphological Freedom
-
-With the exception of the bodybuilders and trans communities, we don't see much weirding at mass scale. People usually use the freedom and power of biotech to look better _in normal and relatively inconspicuous_ ways. 
-
-consumer enhancement as individual medical decision-making, distributed, private, and therefore invisible as a collective phenomenon.
-
+<br>
 
 
 
 
 > We find sheer humanism to be unsatisfying. It shuts the windows, draws the blinds, and seeks artificial elegance - oblivious of the outer night and the stars. Instead, we boldly go out into darkness and find the superhuman everywhere... the story of evolution of life: its length, its wastefulness, its precariousness, its chanciness, its progressive release of potentiality, its incomprehensibility and ourselves as moments within it... man is transitional and scarcely a beginning.
 
-<center>- Olaf Stapleton on "Humanism and Superhuman" (1934)</center>
+<center>— Olaf Stapleton on "Humanism and Superhuman" (1934)</center>
 
 
 ## See also
 
-https://www.gleech.org/med
-https://vectorculture.substack.com/p/not-for-human-consumption
-https://bengoldhaber.substack.com/p/no-real-nattys
-https://christianangermayer.substack.com/p/the-future-is-enhanced
-https://web.archive.org/web/20250202101559/https://humanenhancementdrugs.com/
-https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8519.2005.00437.x
-https://web.archive.org/web/20210202180452/https://thingsvarious.medium.com/hormone-replacement-therapy-the-only-guide-you-need-2904aa48b7bd
-http://bactra.org/Medawar/technology-and-evolution/
-https://www.gleech.org/med
-https://vectorculture.substack.com/p/not-for-human-consumption
-https://bengoldhaber.substack.com/p/no-real-nattys
-https://web.archive.org/web/20080613192720/http://www.bioethics.gov/reports/beyondtherapy/chapter1.html
-https://nickbostrom.com/papers/a-history-of-transhumanist-thought/
+* [https://www.gleech.org/med](https://www.gleech.org/med)
+* [https://vectorculture.substack.com/p/not-for-human-consumption](https://vectorculture.substack.com/p/not-for-human-consumption)
+* [https://bengoldhaber.substack.com/p/no-real-nattys](https://bengoldhaber.substack.com/p/no-real-nattys)
+* [https://christianangermayer.substack.com/p/the-future-is-enhanced](https://christianangermayer.substack.com/p/the-future-is-enhanced)
+* [https://web.archive.org/web/20250202101559/https://humanenhancementdrugs.com/](https://web.archive.org/web/20250202101559/https://humanenhancementdrugs.com/)
+* [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8519.2005.00437.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8519.2005.00437.x)
+* [https://web.archive.org/web/20210202180452/https://thingsvarious.medium.com/hormone-replacement-therapy-the-only-guide-you-need-2904aa48b7bd](https://web.archive.org/web/20210202180452/https://thingsvarious.medium.com/hormone-replacement-therapy-the-only-guide-you-need-2904aa48b7bd)
+* [http://bactra.org/Medawar/technology-and-evolution/](http://bactra.org/Medawar/technology-and-evolution/)
+* [https://www.gleech.org/med](https://www.gleech.org/med)
+* [https://vectorculture.substack.com/p/not-for-human-consumption](https://vectorculture.substack.com/p/not-for-human-consumption)
+* [https://bengoldhaber.substack.com/p/no-real-nattys](https://bengoldhaber.substack.com/p/no-real-nattys)
+* [https://web.archive.org/web/20080613192720/http://www.bioethics.gov/reports/beyondtherapy/chapter1.html](https://web.archive.org/web/20080613192720/http://www.bioethics.gov/reports/beyondtherapy/chapter1.html)
+* [https://nickbostrom.com/papers/a-history-of-transhumanist-thought/](https://nickbostrom.com/papers/a-history-of-transhumanist-thought/)
+* [https://global.oup.com/academic/product/natural-born-cyborgs-9780195177510](https://global.oup.com/academic/product/natural-born-cyborgs-9780195177510)
+* [https://branko2f7.substack.com/p/dr-morell-and-the-patient-a](https://branko2f7.substack.com/p/dr-morell-and-the-patient-a)
+* [https://doctorzebra.com/prez/z_x35testosterone_g.htm](https://doctorzebra.com/prez/z_x35testosterone_g.htm)
+
+<div class="footnotes">
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">in America anyway</li>
+    <li class="footnote" id="fn:2">A more inclusive term might be "bioprogressives".</li>
+    <li class="footnote" id="fn:3">with one side <a href="https://en.wikipedia.org/wiki/President%27s_Council_on_Bioethics">backed</a> by an openly religious executive branch. </li>
+    <li class="footnote" id="fn:4">But the transhumanists were probably being normative rather than deluded about this.</li>
+    <li class="footnote" id="fn:5">The social sciences are watching quite closely, but they mostly don't connect any of it to the philosophical project, nor do they project forwards to the coming technologies or preference cascades. They speak narrowly and worry. Their categories are valid and useful as far as they go ("lifestyle drugs", "Image and Performance Enhancing Drugs") but are missing the future, the telos, the limit.</li>
+
+</ol>
+</div>
