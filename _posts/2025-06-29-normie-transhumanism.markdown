@@ -9,12 +9,12 @@ img:        /img/Cat3export_1182x.png
 
 visible:    1
 published:  true
-quality:    
+quality:    5
 
 summary:    in which human enhancement won without thinking
 warnings: 	Heavily inspired by <a href="https://bengoldhaber.substack.com/p/no-real-nattys">Goldhaber</a> and <a href="https://vectorculture.substack.com/p/not-for-human-consumption">Somewheresy</a>
 confidence: 70%
-importance: 
+importance: 7
 wordcount:  
 categories: transhumanism, biology, philosophy, ethics, scifi
 where:      "Moray"
@@ -63,7 +63,7 @@ The reigning "bioconservatives" predicted that new biotech would lead to moral o
 	</div>
 </div><br>
 
-Some of the technologies they fought over (cloning, germline editing) haven't happened yet. But others (GLPs, hormones, hair tech, embryo selection) did, and were rapidly adopted by millions of people who had no interest in either ideology. 
+Some of the technologies they fought over (cloning, germline editing) haven't happened at scale yet. But others (GLPs, hormones, hair tech, embryo selection) did, and were rapidly adopted by millions of people who had no interest in either ideology. 
 
 And so: a new era of mass chemical enhancement and healthy <a href="https://en.wikipedia.org/wiki/Polypharmacy">polypharmacy</a> <a href="#fn:1" id="fnref:1">1</a>:
 
@@ -209,6 +209,10 @@ New:<br>
     <td class="tg-0lax">Osseointegrated (c. 1970s)</td>
   </tr>
   <tr>
+  	<td class="tg-0lax">Anabolics (CDMT / Turinabol, 1968)</td>
+  	<td class="tg-0lax">HGH (1985), rhEPO (1993), cardarine (2001), ACP-105 (2009), bimagrumab (2013)</td>
+  </tr>
+  <tr>
     <td class="tg-0pky">The Pill (1960)</td>
     <td class="tg-0pky">IUDs (2000), subdermals (2006)</td>
   </tr>
@@ -218,7 +222,7 @@ New:<br>
   </tr>
   <tr>
     <td class="tg-0lax">Alarm clocks (c. 1904)</td>
-    <td class="tg-0lax">light-based smart alarms (2010s)</td>
+    <td class="tg-0lax">light alarms (2010s)</td>
   </tr>
   <tr>
     <td class="tg-0lax">Hearing aids (c. 1800)</td>
@@ -271,24 +275,20 @@ natural-born cyborgs -->
 </div>
 </div>
 
-## Normal exceptionalism and the escape from morphological freedom
+## Normal exceptionalism: the escape from morphological freedom
 
-With the exception of the bodybuilding and trans communities, we don't see much [weirding](https://contraptions.venkateshrao.com/p/into-the-weirding-part-1) at mass scale. We aren't expressing our morphological freedom to look more different. It seems to me that the result of power over our appearance is not deviance and weirdness but heightened normative normalcy. Bigger biceps, fewer wrinkles, and nerds [suddenly](https://www.palladiummag.com/2019/01/01/competitive-hormone-supplementation-is-shaping-americas-future-business-titans/) getting [normative](https://www.youtube.com/watch?v=HjFRaPXsxQs) gender presentation. Not many [cyborgs](https://en.wikipedia.org/wiki/Body_hacking). 
+With the exception of the bodybuilding and trans communities <a href="#fn:6" id="fnref:6">6</a>, we don't see much [weirding](https://contraptions.venkateshrao.com/p/into-the-weirding-part-1) at mass scale. We aren't expressing our morphological freedom to look more different. It seems to me that the result of power over our appearance is not deviance and weirdness but heightened normative normalcy. Bigger biceps, fewer wrinkles, and nerds [suddenly](https://www.palladiummag.com/2019/01/01/competitive-hormone-supplementation-is-shaping-americas-future-business-titans/) getting [normative](https://www.youtube.com/watch?v=HjFRaPXsxQs) gender presentation. Not many [cyborgs](https://en.wikipedia.org/wiki/Body_hacking). 
 
-I'm not fit to do a deep comparative analysis of the history of cosmesis and beauty standards, but [this essay](https://www.cartoonshateher.com/p/why-arent-men-the-pretty-ones) is great. But the [beauty](https://simple.wikipedia.org/wiki/Kiki_H%C3%A5kansson) queens and movie stars of the 1960s [no longer](https://www.newsweek.com/ai-cosmetic-survery-filters-beauty-standards-changing-2085079) look as exceptional as they once did, because cosmetic technology (and image editing ig) has shifted the distribution so much. I can't say what all of this is tending towards.
+I'm not fit to do any comparative analysis of the history of cosmesis and beauty standards. [This essay](https://www.cartoonshateher.com/p/why-arent-men-the-pretty-ones) is great. But it seems to me that the [beauty](https://simple.wikipedia.org/wiki/Kiki_H%C3%A5kansson) queens and movie stars of the 1960s [no longer](https://www.newsweek.com/ai-cosmetic-survery-filters-beauty-standards-changing-2085079) look as exceptional as they once did, because cosmetic technology (and image editing ig) has shifted the (top decile of the) distribution upwards so much. I can't say what all of this is tending towards. What is the intensified platonic ideal of a normal dude?
 
 
-It's pretty obvious why it's on average normalising: most people want to be normal, and it's so large now that it must include a lot of such people. In 2010 enhancement was a matter for nerds, [hackers](https://en.wikipedia.org/wiki/Body_hacking), and obsessive hobbyists like bodybuilders. But now it's a much bigger coalition (e.g. [6-12% of Americans](https://www.kff.org/health-costs/kff-health-tracking-poll-may-2024-the-publics-use-and-views-of-glp-1-drugs/#4acecddb-cd6c-4154-9c82-75d8da3e1234--h-key-findings) [on GLP agonists](https://news.gallup.com/poll/696599/obesity-rate-declining.aspx)).
+It's pretty obvious why tech which gives you options is used, on average, to normalise yourself: most people want to be normal, and the user population is so large now that it simply must include a lot of such people. In 2010 enhancement was a matter for [nerds](https://gwern.net/modafinil), [hackers](https://en.wikipedia.org/wiki/Body_hacking), and obsessive hobbyists like bodybuilders. But now it's a much bigger coalition (e.g. [6-12% of Americans](https://www.kff.org/health-costs/kff-health-tracking-poll-may-2024-the-publics-use-and-views-of-glp-1-drugs/#4acecddb-cd6c-4154-9c82-75d8da3e1234--h-key-findings) [on GLP agonists](https://news.gallup.com/poll/696599/obesity-rate-declining.aspx)).
 
 <br>
 <center>
 	<img width="49.7%" src="/img/transh.jpg" />
 	<img width="49.7%" src="/img/housewives.jpg" />
 </center>
-
-
-
-
 
 
 
@@ -369,7 +369,7 @@ Mood
 
 ## You are like a little baby
 
-The above technologies are really fairly weak. Retatrutide (2023) is twice as strong as semaglutide (2014), which is twice as strong as liraglutide ([2002](https://pubmed.ncbi.nlm.nih.gov/11935150/)). At some point someone will work out how to [chemically simulate](https://www.medscape.com/viewarticle/myostatin-blocker-preserves-muscle-glp-1-treatment-2025a1000qs4) the effect of working out. The nootropics industry is overall a pathetic failure, capped with blunt instruments like [not sleeping](https://en.wikipedia.org/wiki/Modafinil) or [flooding](https://pubmed.ncbi.nlm.nih.gov/14871155/) the brain with catecholamines. Psychopharmaceuticals are better but not by much and don't really manage better-than-well. We do nearly nothing directly to brains. We have [basically](https://pubmed.ncbi.nlm.nih.gov/28051768/) nothing for memory enhancement. At the moment we do little with [genes](https://www.pnas.org/doi/pdf/10.1073/pnas.2416042122), but the rich and unsqueamish are beginning to. [One might solve sleep](https://www.isaak.net/sleepless/). [One _might_ solve death](https://longevity.vc).
+The above technologies are really fairly weak. Retatrutide (2023) is twice as strong as semaglutide (2014), which is twice as strong as liraglutide ([2002](https://pubmed.ncbi.nlm.nih.gov/11935150/)). At some point someone will work out [how to](https://en.wikipedia.org/wiki/Exercise_mimetic) [chemically simulate](https://www.medscape.com/viewarticle/myostatin-blocker-preserves-muscle-glp-1-treatment-2025a1000qs4) the effect of working out. The nootropics industry is overall a pathetic failure, capped with blunt instruments like [not sleeping](https://en.wikipedia.org/wiki/Modafinil) or [flooding](https://pubmed.ncbi.nlm.nih.gov/14871155/) the brain with catecholamines. Psychopharmaceuticals are better but not by much and don't manage sustainbly-better-than-well. We are admittedly [really good](https://pubmed.ncbi.nlm.nih.gov/36229224/) at [things](https://en.wikipedia.org/wiki/Selective_androgen_receptor_modulator#Non-medical_use) which let people sprint for 6% longer, though at the expense of giving them [cancer](https://en.wikipedia.org/wiki/GW501516). We do nearly nothing directly to brains. We have [basically](https://pubmed.ncbi.nlm.nih.gov/28051768/) nothing for memory enhancement. At the moment we do little with [genes](https://www.pnas.org/doi/pdf/10.1073/pnas.2416042122), but the rich and unsqueamish are beginning to. [One might solve sleep](https://www.isaak.net/sleepless/). [One _might_ solve death](https://longevity.vc).
 
 The conservative concerns might apply to a more-mature science of More. Thanks to transnormalism funding it all we will soon see.
 
@@ -408,8 +408,9 @@ The conservative concerns might apply to a more-mature science of More. Thanks t
     <li class="footnote" id="fn:1">in America anyway</li>
     <li class="footnote" id="fn:2">A more inclusive term might be "bioprogressives".</li>
     <li class="footnote" id="fn:3">with one side <a href="https://en.wikipedia.org/wiki/President%27s_Council_on_Bioethics">backed</a> by an openly religious executive branch. </li>
-    <li class="footnote" id="fn:4">But the transhumanists were probably being normative rather than deluded about this.</li>
+    <!-- <li class="footnote" id="fn:4">But the transhumanists were probably being normative rather than deluded about this.</li> -->
     <li class="footnote" id="fn:5">The social sciences are watching quite closely, but they mostly don't connect any of it to the philosophical project, nor do they project forwards to the coming technologies or preference cascades. They speak narrowly and worry. Their categories are valid and useful as far as they go ("lifestyle drugs", "Image and Performance Enhancing Drugs") but are missing the future, the telos, the limit.</li>
+    <li class="footnote" id="fn:6">Though one could borrow an emic distinction from trans: that between "dolls" (a trans woman who aims to perfectly converge on normative femininity) and "bricks" (who are not converging, maybe not trying to) and note that a doll who doesn't go too hard is also a transnormalist!</li>
 
 </ol>
 </div>
