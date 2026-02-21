@@ -20,15 +20,15 @@
 
 <ul>
   <li><em>Antinomy</em>: it turns out that there is no answer because the question is circular or involves itself somehow (e.g. “Is this sentence false?”)</li>
-  <li><em>Incompleteness</em> (“Show that Peano arithmetic is consistent with Peano arithmetic”.) and <em><a href="https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem">undefinability</a></em> (e.g. “Is this sentence true in arithmetic?”) are about some proof answers being inaccessible inside systems powerful enough to be interesting and useful.</li>
+  <li><em>Incompleteness</em> (“Show that Peano arithmetic is consistent using Peano arithmetic”) <a href="#fn:6" id="fnref:6">6</a> and <em><a href="https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem">undefinability</a></em> (e.g. “Is this sentence true in arithmetic?”) are about some proof answers being inaccessible inside systems powerful enough to be interesting and useful. It doesn't come up in normal thought very often.</li>
   <li><em>Mathematical independence</em>: The question is neither provable nor disprovable with these axioms. (e.g. Is there a well-ordering of the reals? Is the continuum hypothesis true in ZFC? What is the value of <a href="https://www.ingo-blechschmidt.eu/assets/bachelor-thesis-undecidability-bb748.pdf">BB(748)</a> in ZFC?)</li>
-  <li><em>Various holes in social mathematics</em>. Important questions like "what's the optimal voting system?", "what does the majority prefer?", "what's a democratic system where people don't have an incentive to vote strategically?", "what's the perfect design for a market?" in general don't have an answer. See e.g. <a href="https://arxiv.org/pdf/2109.00484#page=5">here</a>.</li>
+  <li><em>Various holes in social mathematics</em>. Important questions like "what's the optimal voting system?", "what does the majority prefer?", "what's a democratic system where people don't have an incentive to vote strategically?", "what's the perfect design for a market?" in general don't have an answer. See e.g. <a href="https://arxiv.org/pdf/2109.00484#page=5">here</a>. <a href="#fn:8" id="fnref:8">8</a></li>
   <li><em>Anthropic self-locating effects</em>: you can’t get at the answer because you couldn’t exist to observe it. (e.g. “What’s the probability I’m a Boltzmann brain?”, or “What’s the prior probability of observer-permitting universes?”)</li>
 </ul>
 
 <!-- What would physics look like if the cosmological constant made stars impossible? -->
 <ul>
-  <li><em>Non-uniqueness</em> is only a problem for questions which ask for the one true answer. (e.g. “What is <a href="https://en.wikipedia.org/wiki/Gauge_fixing#Gauge_freedom">the</a> electromagnetic potential at this point?”)</li>
+  <li><em>Non-uniqueness</em> is only a problem for questions which ask for the one true answer. (e.g. “What is <a href="https://en.wikipedia.org/wiki/Gauge_fixing#Gauge_freedom">the</a> electromagnetic potential at this point?”). Many entries in this post are not strict failures to produce answers, they just have a non-unique answer. You can sometimes just parametrise the observer and then get your answer. If non-uniqueness is a failure, it’s a happy one; it just means that you get too many answers and have the nicer problem of picking one.</li>
 </ul>
 
 <h3 id="ontic-problems-the-answer-is-literally-inaccessible">Ontic problems (the answer is literally inaccessible)</h3>
@@ -118,7 +118,13 @@
   <li><em>Reflexivity and strange loops</em>: the thing in question is self-referential or causally dense, or it [changes](https://en.wikipedia.org/wiki/Demand_characteristics) when answered, and so can’t be picked apart. (e.g. “What’s the best method for finding the best method?”; “Which level of description is fundamental in this self-referential system?”, “Which part of your mind is the real you?”.) See also <i>antinomy</i>.</li>
 </ul>
 
-<p>You could view some of these as not failure but just having a non-unique answer; we don’t fail to answer the question, just parametrise the observer and then answer. If non-uniqueness is a failure, it’s a happy one; it just means that you get too many answers and have the nicer problem of picking one.</p>
+
+
+Finally there is the great risk this post takes (and all not-totally-technical writing):
+
+<ul>
+  <li><em>Model error leading to spurious impossibility</em>: you apply an analytic impossibility result (like the above) to a "synthetic" real system where it doesn't apply. You overinterpret a narrow thing; you assume the world fits the assumptions of the formal proof but it doesn't; you summarise a technical result in natural language and imply that it's more general than it is. Most invocations of Gödel are spurious; </li>
+</ul>
 
 <p><br /><br /></p>
 
@@ -154,7 +160,7 @@
         We could also pack in a very big one here, in principle: that all mathematics is only <a href="https://philosophy.stackexchange.com/questions/103031/a-problem-i-noticed-with-if-then-ism-in-the-philosophy-of-mathematics"><i>conditionally</i> true</a> (i.e. conditional on the axioms involved) and so it's logically possible that we are making some false assumption and that the whole thing is actually inconsistent. This is very unlikely, but not for mathematical reasons.
     </li>
     <li class="footnote" id="fn:2">
-        However: if determinism holds, then there is an answer; we just don't have epistemic access. If instead indeterminism holds, then there's no fact of the matter. 
+        However: if determinism holds, then there is an answer, we just don't have epistemic access. If indeterminism holds, then there is no fact of the matter. 
     </li>
     <li class="footnote" id="fn:3">
         Some other possible places for this entry:<br><br>
@@ -168,6 +174,16 @@
     </li>
     <li class="footnote" id="fn:5">
         This is assuming indeterminacy theory or vagueness nihilism. Epistemicism ("there is an answer, we just can't know what it is") obviously belongs in "epistemic problems", as does contextualism ("the boundary exists but varies, and we may not know the relevant contextual features that let us pick it"). Degree theory/fuzzy logic ("reality itself admits degrees of truth; the boundaries are objectively fuzzy") is obviously ontic.
+    </li>
+    <li class="footnote" id="fn:6">
+      Note that Gödel's proof uses an <a href="https://en.wikipedia.org/wiki/%CE%A9-consistent_theory">unintuitive, strong sense</a> of consistency, but I think <a href="https://en.wikipedia.org/wiki/Rosser%27s_trick">Rosser's</a> recovers the simple reading and makes the above discussion a sensible lossy statement.
+    </li>
+    <li class="footnote" id="fn:7">
+
+    </li>
+
+    <li class="footnote" id="fn:8">
+      Arrow's theorem only touches ordinal and deterministic voting systems, but Gibbard–Satterthwaite is general. David Sartor: "I don't think Earth has any important probabilistic elections, but cardinal elections happen in some cities, and in the LessWrong Review."
     </li>
 </ol>
 

@@ -125,7 +125,7 @@ This could be spectacular - feel the silt washing over me.<br>
 Hold me down: I'm not where I'm supposed to be.<br>
 When I left this town, the girls would not speak to me.<br>
 Hold on tight, grab the sides - careful, we might collide<br>
-Hold on now, mind that wave - my life will not be lived.<br>
+Hold on now, mind that wave - my life will not be saved.<br>
 Brave men find my boat, bottom up but still afloat...<br><br>
 The luxury cruise liner, the cargo ferry:<br>
 Both look the same at the bottom of the sea<br>
@@ -148,7 +148,7 @@ The rejection of bourgeois life is one thing. But it's shallow - __as if__ just 
 
 > Her indoors brings me a cup of tea whilst I light the fires<br>
 The engine screams fizzing cacophony as I climb inside <br>
-Leaving the earth far behind of me, danced them into dots -<br> 
+Leaving the earth far behind of me, towns turn into dots - <br> 
 Jupiter, Saturn, and Mercury! Wish you were here, love you lots.<br>
 
 <br>

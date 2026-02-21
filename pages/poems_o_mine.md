@@ -14,7 +14,7 @@ visible:    false
 Realm falls; hills unmoved.<br>
 Grass buries the old.<br>
 Grieving, flowers sting;<br>
-birdsong makes me cold.<br>
+birdsong, overbold.<br>
 Beacon fires, for months;<br>
 word from home is gold!<br>
 My white hair, scratched thin,<br>
@@ -95,7 +95,7 @@ Come, friends, to Leihberg's store! Surely come. See ya!<br><br><br>
 
 
 
-### Ugly Slave (by 辛棄疾)
+### Written on the rock on the road to Boshan (by 辛棄疾)
 
 When I was young and didn't know sorrow <br>
 I loved to scale the roofs<br>
@@ -103,13 +103,13 @@ Yes, I scaled the roofs<br>
 To compose new verses I feigned my woe.<br><br>
 
 Now I understand sorrow’s flavour<br>
-I can’t find the words<br>
-Yes, I can’t find the words<br>
-Instead: 'What a cool day! Such lovely autumn weather!'<br>
+I hold back the words<br>
+Yes, I hold back the words<br>
+Instead: 'nice autumn weather today'.<br>
  
 <br>
 
-([original](https://www.gushiwen.cn/shiwenv_2ee36eb2ccf7.aspx), c. 1180)
+(to the tune of '[Ugly Slave](https://zh-wikipedia-org.translate.goog/zh-hans/%E9%87%87%E6%A1%91%E5%AD%90?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)'. [original](https://www.gushiwen.cn/shiwenv_2ee36eb2ccf7.aspx), c. 1180)
 
 <br><br><br>
 
@@ -128,21 +128,21 @@ I row, and row, and startle a wave of herons.<br>
 <br><br><br>
 
 
-### Hunting in Mizhou - to the tune of 'Jiangchengzi' (by 苏轼)
+### Hunting in Mizhou (by 苏轼)
 
 I am old and reviving my youthful madness. <br>
 Yellow hound on my left and hawk on my right. <br>
 With splendid hat and sable coat I ride the plains with my thousand riders. <br>
 To repay the governor's kindness, I shoot tigers in the style of General Sun.<br>
 
-My stomach full of wine, my chest full of courage. <br>
+My stomach full of wine: my chest full of courage. <br>
 My temples are frosted grey? – so what! <br>
-Will the imperial seal never summon me to my potential?<br>
+Will the imperial seal _never_ summon me to my potential?<br>
 I will draw a carved bow full as the moon, look northwest, and shoot down Sirius.<br>
 
 <br>
 
-([original](https://www.gushiwen.cn/mingju/juv_bdaaeb21f139.aspx); thanks to Yiwa Xie for assistance)
+(to the tune of '[Jiangchengzi](https://poeticchinese.blogspot.com/2014/05/introduction-jiang-cheng-zi-su-shi.html)'. [original](https://www.gushiwen.cn/mingju/juv_bdaaeb21f139.aspx); thanks to Yiwa Xie for assistance)
 
 
 <br><br>

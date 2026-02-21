@@ -36,6 +36,7 @@ visible:	true
 <h2 class="post-title"> Preprint</h2>
 
 <table>
+	{%	include researches/sdtd1.html 	%}
 	{%	include researches/withhumans.html 	%}
 	{%	include researches/reversals.html	%}
 	{%  include researches/rdof.html	%}
@@ -54,7 +55,6 @@ visible:	true
 	{%	include researches/covid_neur.html	%}
 	{%	include researches/forrt.html	%}
 	{%	include researches/ilp.html	%}
-
 </table>
 
 
@@ -104,6 +104,7 @@ visible:	true
 	<div>
 		<ul>
 		<!--  -->
+		<li><a href="https://frontier.renaissancephilanthropy.org/">Breakthroughs of the year</a></li>
 		<li><a class="noline" href="https://press.stripe.com/scaling">The Scaling Era</a> (with Dwarkesh Patel)</li>
 		<li><a class="noline" href="{{shallow}}">Shallow review of live agendas in alignment</a> (2023)</li>
 		<li> <a class="noline" href="{{ifp}}">Can policymakers trust forecasters?</a> (2023)</li>
@@ -124,7 +125,7 @@ visible:	true
 			<li> Briefed the UK Cabinet Office <a href="{{ctf}}">COVID-19 Task Force</a> on mask policy.</li>
 			<li> Briefed the UK Cabinet Office on AI economics.</li>
 			<li> Briefed Ofcom on LLM evals.</li>
-			<li> Reviewer for <a href="{{neuripsite}}">NeurIPS</a> workshops, <a href="{{pnas}}">PNAS</a>, <a href="{{natty}}">Nature Scientific Reports</a>, <a href="{{ml}}">Machine Learning</a>, <a href="{{bmj}}">BMJ Global Health</a>, <a href="{{bmc}}">BMC Medicine</a>, <a href="{{plosg}}">PLoS Global Health</a>, <a href="{{aisc}}">AI Safety Camp</a>, <a href="{{pib}}">PIBBSS</a>, <a href="{{fli}}">FLI</a>.</li>
+			<li> Reviewer for <a href="{{icml}}">ICML</a>, <a href="{{neuripsite}}">NeurIPS</a>, <a href="{{pnas}}">PNAS</a>, <a href="{{natty}}">Nature Scientific Reports</a>, <a href="{{ml}}">Machine Learning</a>, <a href="{{bmj}}">BMJ Global Health</a>, <a href="{{bmc}}">BMC Medicine</a>, <a href="{{plosg}}">PLoS Global Health</a>, <a href="{{aisc}}">AI Safety Camp</a>, <a href="{{pib}}">PIBBSS</a>, <a href="{{fli}}">FLI</a>.</li>
 			<li> Created a <a href="{{zotero}}">1000-paper bibliography</a> on every angle of the AI problem.</li>
 		</ul>
 	</div>

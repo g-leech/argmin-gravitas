@@ -18,8 +18,9 @@ layout: default
     
     {%  include british_date.md   %}
 
+    <br>
     {% if page.summary %}
-        <br>{{t}}<i>{{  page.summary  }}</i>
+        {{t}}<i>{{  page.summary  }}</i>
     {% endif %}
 
     {% if page.confidence %}

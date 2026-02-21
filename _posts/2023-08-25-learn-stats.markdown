@@ -39,7 +39,7 @@ wordcount:
 {%  assign gcm = "http://bactra.org/notebooks/graphical-causal-models.html"  %}
 {%  assign shal = "https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/" %}
 {%  assign lam = "https://sites.math.rutgers.edu/~zeilberg/EM20/Lambert.pdf"   %}
-{%  assign uni = "https://cs.nyu.edu/~roweis/papers/NC110201.pdf" %}
+{%  assign uni = "https://web.archive.org/web/20250305044349/https://mlg.eng.cam.ac.uk/zoubin/papers/lds.pdf" %}
 {%  assign shal2 = "http://bactra.org/notebooks/" %}
 {%  assign dec = "https://gwern.net/research-criticism#beliefs-are-for-actions" %}
 {%  assign cinf = "https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf"   %}
