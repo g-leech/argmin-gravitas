@@ -1,0 +1,45 @@
+{%  assign id = "sdtdimg"  %}
+{%  assign sdtdd = "https://www.arxiv.org/pdf/2602.12413"	%}
+{%  assign sdtdtw = "https://x.com/g_leech_/status/2023384075537432662"  %}
+{%  assign sdtdgit = "https://github.com/AriSpiesberger/Soft-Contamination-Prevelance"  %}
+
+<tr>
+    <td class="logo">
+        <a href="{{sdtdd}}">
+            <div id="{{id}}"></div>
+        </a>
+    </td>
+    <td style="padding-left: 5px">
+        <h4>
+            <a class="nolink" style="font-size: 17px" href="{{sdtdd}}" target="_blank">
+                Soft Contamination and Local Generalization 
+                <span class="year">(2026)</span>
+            </a> 
+        </h4>
+        <div class="journo">
+            in review at ICML
+        </div>
+        
+        <span class="dropdown">
+          <button class="dropped" onclick="javascript:drop('sdtdd')">The point</button>,
+          
+          <div id="sdtdd" class="dropdown-content">
+            <br>
+            
+            <br><br>
+
+            <i>Authors</i>: Ari Spiesberger, Juan J Vazquez, Nicky Pochinkov, Tomáš Gavenciak, Peli Grietzer, <span class="me">Gavin Leech</span><sup>†</sup>, Nandi Schoots<sup>†</sup>
+            <br><br>
+            <i>Total hours I contributed</i>: 100
+            <br><br>
+          </div>
+        </span>
+        <a href="{{sdtdd}}" target="_blank">the paper</a>, <a href="{{sdtdtw}}">explainer</a>, <a href="{{sdtdgit}}">code</a>
+    </td>
+</tr>
+
+
+<script>  
+    var src="/img/panama.jpg"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

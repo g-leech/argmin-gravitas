@@ -1,0 +1,223 @@
+---
+layout:     post
+title:      "Pessoa"
+baselink:   /pessoa
+permalink:  /pessoa
+date:       2026-01-23
+author:     Gavin
+img:        /img/hat.jpg
+
+visible:    1
+published:  false
+quality:    
+
+summary:    
+warnings: 	
+confidence: 70%
+importance: 
+wordcount:  
+categories: greats, art, poem
+where:      "Lisbon and Moray"
+---
+
+<center>
+<img src="/img/pessoa.jpg" width="50%" />
+</center>
+<br>
+
+> We are unknown, we knowers, to ourselves... we remain strangers to ourselves, we don't understand ourselves... as far as ourselves are concerned, we are not knowers.
+
+<center>- Nietzsche</center>
+
+> Be orderly and ordinary in your life, like a bourgeois, so that you may be violent and original in your works.
+
+<center>- Flaubert</center>
+
+<br>
+
+Life as art, hypocrisy as art, idiot spirituality as art, crank bullshit as art, self-denial as art. Multiplication as negation. A funny little repressed balding poor bourgeois who is a little larger than the entire universe. Extraordinary fires, but burning deep underground. 
+
+The first thing you'd know about Fernando Pessoa is that he wrote under 72-137 different names. The second is that after his death they found a trunk and cabinet containing 29,000 pages of unpublished work, 97% of his life's work, which happened to be the best things anyone ever wrote in Portuguese and _at least in the running_ in English.
+
+
+
+His biography overwhelms and distracts us, but also entices:
+
+* he published maybe 3% of his work. 30000 pages. Great work came out 45 years after his death. An Anglophone writer, a language he almost never spoke aloud for the last thirty years of his life
+* Buddhist mystic by way of Rosicrucian. Astrologer
+English fantasist like Conan Doyle. Conglomerate, Portuguese cultural dominance
+Kafka Conspiracist
+Worker poet Constantly in debt. freelancer
+Fiercely criticised his own work in public under different names
+Aro. Loved one man Sa-Carneiro
+Asexual or volcel publisher of banned gay books; author of a gay epic. first gay imprint in Europe, 3 of his 5 titles. Bit homophobic. 
+Prizewinning nationalist poet adopted by the fascist propaganda office
+of Jewish descent 
+anti-Salazar
+Drank himself to death on most of a litre of brandy a day. few ever saw him drunk
+
+The museum made out of his house mentions none of this. A grotesque failure to show the grotesque
+
+
+
+## Heteronyms
+
+> Pseudonymous works are by the author in his own person, except in the name he signs; heteronymous works are by the author outside his own person. They proceed from a full-fledged individual created by him, like the lines spoken by a character in a drama he might write... They are beings with a sort-of-life-of-their-own, with
+feelings I do not have, and opinions I do not accept. While their writings are not mine, they do also happen to be mine
+
+> [the creation of the three primary alter-egos] seems, at first sight, an elaborate joke of the imagination. But it is not. It is a great act of intellectual magic, a magnum opus of the impersonal creative power.
+
+> The poet is a faker / Who’s so good at his act
+He even fakes the pain / Of pain he feels in fact.
+
+At first you wrinkle your nose at his fussy conceit of calling his characters and pseudonyms "heteronyms" and playing at them being real, as real as him. It stinks of fantasist, confusing the imaginary. But magical thinking, thinking that fiction is real, is only one way for a literary creation to be as real as its creator; the other way is if the creator is also a fiction, and they're all not real.
+
+
+Then you wrinkle your nose because _hetero-nym_ ("different name") is a category error; he meant heteront, heteroon.
+
+Are they identities? This is not DID. But it is much more than pseudonyms and imaginary friends
+
+Kierkegaard had 14.
+
+Here is a sensible ontology 
+
+<img src="/img/pessoa_flat.jpg" />
+
+Pessoa circle = Soares
+  Caeiro, Reis, Campos large
+  Little names
+
+Here is Zenith's one
+
+Here is Pizarro and Ferrari's one
+
+
+And here is what Pessoa would have us think 
+
+<img src="/img/no_ground.jpg" />
+
+
+Simulation but not dissimulation
+Running an agent swarm in his head
+How much did the orchestrator put in his own name?
+the agenta often failed
+
+To encompass his time, to contain all parts of the dialectic
+
+Mora for the Kaiser, Pessoa for the Brits
+
+At first you reject the conceit of calling pseudonyms, sockpuppets, and mere characters, heteronyms, and the mystical stuff about them being as real as their author. Brilliant literary gambit you say. But then you read about that time that one of them wrote to his gf and you start to wonder. Critique of Pessoa's poetry. Two ways they could be as real as he are
+
+1. mysticism. more real than other fictional characters
+2. if Pessoa was less real
+
+Then there is the structure inside
+no ground
+
+The Orthonym. Primao Fingidor. Pessoa is the character that interacts with family, employers, bureaucrats.
+Semi-heteronyms; nearly pseudonyms, nearly Pessoa (Soares, Teive)
+Het
+  Campos, Reis, Caeiro. Own astrological charts
+para-heteronym: subsidiary writers without their own original work. brothers, translators, and scholars
+  Frederico Reis
+  Charles James Search
+  Gervásio Guedes
+  Lucas Merrick
+  Navas (for Faber)
+  Michael Otto
+  Thomas Crosse and António Mora mostly exist to study and propagate Caeiro's poetry and message.
+    I. I. Crosse
+      Pessoa -> Caeiro -> Thomas Crosse -> I.I. Crosse
+
+Pseudo-authors (Moscow, Kisch)
+fictional authors
+    functions
+      Thomas Crosse #108, I.I. Crosse #125, Raphael Baldaya #105
+possessive Spirits
+Juvenile creations and Imaginary friends ()
+Characters 
+Fragmentary sketches 
+
+The master heteronym ( Caeiro)
+
+
+A whole movement in one body. It would be unfair to say that Pessoa invented 136 writers because the Lisbon scene was so sparse; but in fact he carried. As a child he made a newspaper and wrote all the pieces under different names; Orpheu was not so different. 
+
+Caesar Seek (= Alexander Search) whose character is without laughter, moving from deep thought and torturing to bitterness (bitterly joking sometimes???)
+Ferdinand Sumwan (= Fernando Pessoa, since Sumwan=Some one=Person=Pessoa). A normal, useless, lazy, careless, weak, individual.
+
+* as Buddhist abnegation
+* as wish fulfilment. Not really; Campos is much cooler than Pessoa but most of the others are losers 
+
+
+## Crank
+
+> Crowley’s co-conspirator was the writer Fernando Pessoa, long interested in occultism and at times himself a practitioner. Pessoa’s encounter with Crowley is the most remarkable episode in his outward life, otherwise almost without incident. The differences between the two men are telling. Both dismissed the ruling values of their day, but Pessoa was far too subtle to adopt a stance of mere contrarianism. The certainties against which Crowley staged his flamboyant revolt have long since evaporated. His final perplexity may have come from a well-founded suspicion that he had become an anachronism. Today he is not much more than an Edwardian curiosity. Pessoa, on the other hand, remains utterly contemporary.
+
+
+He was an astrologer, Rosicrucian, [Oxfordian](https://en.wikipedia.org/wiki/Oxfordian_theory_of_Shakespeare_authorship). Most of [his library](https://bibliotecaparticular.casafernandopessoa.pt/index/title/C.htm) is total tosh.
+
+how sincere? He had no use for the concept. Thinking about him, I came up with [this taxonomy](/insincerity).
+
+Nationalism is desperate enough and strong-stomached to ingest an existential pervert but not to digest him
+
+Fernando Pessoa was an experimentalist
+Ophelia died in 1991.
+
+
+## Gay volcel icon
+
+
+Oblivious to the carefree 
+
+Campos attacks Pessoa sodom
+
+Perverse. Preface page vii of this informs me that Pessoa planned to translate and publish the fucking Protocols. "right after he read".
+
+In writing he could defend war
+
+My love for Pessoa is based on Disquiet. But Soares is not quite him ("less rational and affectionate"). More Stirnerian. No one can love Pessoa directly, because he wasn't there.
+
+
+It was great art. Was it also a fraud?
+Carlos intermediary / decoy
+
+losercore
+fucking nonsense. astrological charts
+is he the most deluded of all greats?
+He said true things regardless, partly because he often (had them) said things he did not "believe"
+
+English fantasist in a country which doesn't read English
+
+## Fake frameworks
+
+On facing a great artist, I ask myself which false theory they used to do the new things they did 
+
+for Kierkegaard, this is Christ, Lessing, and a negation of Hegel
+for Joyce, this is Vico, Freud, Nietzsche, Aquinas
+for Eliot, Bradley, Frazer 
+for DFW, Rorty, Wittgenstein, Haslanger
+for Kurvitz, Luxembourg, Lukács, and Žižek
+for Pessoa, it's Stirner, Rosicrucianism
+
+Why was he so strange, so great? His first pseudonym was the Chevalier de Pas when he was 6
+
+Queerer than a merely gay person
+Aro but love poems
+Antinous
+Botto
+
+Soares depicts himself as a bookkeeper but Pessoa's main work was translating business orders
+
+Everyone calls him a poet, and sure about 80% of his work. But the great stuff is prose
+
+Museum is cowardly and presents nearly none of the vast bizarre, slightly dark hinterland 
+
+Stylometry: how distant are the heteronyms?
+
+## See also
+
+* http://arquivopessoa.net/
+* [Scans of Pessoa's notebooks](https://purl.pt/1000/1/cadernos/index.html), about a third in English
+* https://modernismo.pt/index.php/fernando-pessoa-english-heteronyms-db-2
+* https://www.registryofpseudonyms.com/fernando_pessoa.html

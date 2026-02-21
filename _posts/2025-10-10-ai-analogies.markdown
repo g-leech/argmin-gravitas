@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Four analogies for AGI"
-baselink:   /
-permalink:  /
+baselink:   /analogies
+permalink:  /analogies
 date:       2025-10-10
 author:     Gavin
 img:        /img/

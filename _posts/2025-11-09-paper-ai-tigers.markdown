@@ -533,6 +533,12 @@ outlier and outperforms the expected human-aligned performance by nearly 60%, in
     </div>
 	</div>
 </div>
+
+
+2026 EDIT: Igor Kotenkov [tests](https://www.ikot.blog/the-illusion-of-parity) Kimi 2.5T on every new benchmark released after its training and finds a huge -24pp deficit compared to OpenAI/Anthropic. 
+
+<img src="/img/kotenkov.jpg" width="50%" />
+
 <br>
 
 <big>Latent capabilities</big>
