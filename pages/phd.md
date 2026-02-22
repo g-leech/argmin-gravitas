@@ -27,7 +27,7 @@ visible:	false
 
 <center>
 	<a href="{{bris}}">
-		<img width="80%" src="/img/thesis.png" />
+		<img width="80%" src="/img/phdhi.jpg" />
 	</a>
 	<br><br>	
 </center>
@@ -90,14 +90,18 @@ _Undying thanks to Kristi Laurence Jan Jan Juan Tomáš Rian Matthijs Misha Dani
 	<h3>AI safety</h3>
 	<div>
 		<a href="/ai-risk">Here's my sceptic's guide to AI risk</a>. (For relative sceptics.) I also contributed a couple thousand words to the <a href="{{wiki}}">main wiki page</a>. I currently work with the <a href="{{acs}}">Alignment of Complex Systems Group</a>, Charles University.<br><br>
-		At the first AI Safety Camp I worked with a team on inverse reinforcement learning, <a href="/grids">designing environments</a> to probe the limits of such reward learning. Our work was reused by a <a href="{{krak}}">team</a> at Deepmind and in an <a href="{{aies}}">AIES paper</a>. <br><br>
-		Before starting on probabilistic programming, I played with an odd alternative ML paradigm called _<a href="/ilp">inductive logic programming</a>_. This led to my first paper, a negative result.<br><br>
-		I also helped on <a href="/lgfo">a wee paper</a> with a sort of counsel of despair about algorithmic fairness.<br><br>
+		At the first AI Safety Camp I worked with a team on inverse reinforcement learning, <a href="/grids">designing environments</a> to probe the limits of such reward learning. Our work was reused by a <a href="{{krak}}">team</a> at Deepmind. <br><br>
 		I've also <a href="/acais">written</a> about the likely overlap between work on current systems and future systems.
 	</div>
 	<h3>Metascience</h3>
 	<div>
 		Over Christmas, instead of studying for quals I started <a href="{{psy}}">listing</a> all the failed replications in psychology I'd heard of. This ballooned into a list of hundreds, and was taken up by the volunteer org <a href="{{fo}}">FORRT</a> for permanent maintenance.
+	</div>
+	<h3>Other</h3>
+	<div>
+		I took a lot of tangents, for instance into inductive logic, evolutionary game theory, algorithmic fairness.<br><br>
+		Before starting on probabilistic programming, I played with an odd alternative ML paradigm called _<a href="/ilp">inductive logic programming</a>_. This led to my first paper, a negative result.<br><br>
+		I also helped on <a href="/lgfo">a wee paper</a> with a sort of counsel of despair about algorithmic fairness.
 	</div>
 </div>
 

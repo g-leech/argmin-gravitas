@@ -32,38 +32,32 @@ wordcount:
 
 
 
-What does a phd cost you?
+What does a phd cost you? People are unwilling to tell you 
 
-People are unwilling to tell you - partly because the variance really is large (e.g. a history PhD will involve a full order of magnitude more solitary reading than a CS phd; e.g. some people lose an effective year of work and inner life to <a href="{{kuhn}}">environmental</a> depression; e.g. Americans tend to take <a href="{{nsf}}">7 whole</a> years where a Euro is often half that). 
+* partly because the variance really is large (e.g. a history phd will involve a full order of magnitude more solitary reading than a CS phd; e.g. some people lose an effective year of work and inner life to <a href="{{kuhn}}">environmental</a> depression; e.g. Americans tend to take <a href="{{nsf}}">7 whole</a> years where a Euro is often half that). 
 
-And partly because it's so hard to nail down the size of the intangibles (your counterfactual intellectual development, new virtues and vices, mental health, credibility, increased and decreased job opportunities, a permanent sense of possibility or incapacity). 
+* and partly because it's so hard to nail down the size of the intangibles (your counterfactual intellectual development, new virtues and vices, mental health, credibility, increased and decreased job opportunities, a permanent sense of possibility or incapacity). 
 
-With the usual caveats that I am not you and 2024 is not 2019 and my field and department are not your field and department:
+With the usual caveats that I am not you and now is not 2019 and my field, department, and advisor are not your field, department, and advisor:
 
 
-
-<br>
 
 ## Risk
 
-40-50% of my cohort dropped out. This is unusually bad for the UK but apparently square average for the US.
+40% of my cohort dropped out. This is unusually bad for the UK but apparently square average for the US.
 
-Obviously you could tell a happy story here - "_up to 50% of people are paying attention to their needs and are mature and self-esteeming enough to correct course when a bet ends up not paying off!_". But that ain't it:
-* 1 person hated the programme so much that they constantly railed against the director and the coursework and the administrators. He recovered quickly and got a PhD at a different university.
+Obviously you could tell a happy story here - "_up to 40% of people are paying attention to their needs and are mature and self-esteeming enough to correct course when a bet ends up not paying off!_". But that ain't it:
+* 1 person hated the programme so much that they constantly railed against the director and the coursework and the administrators. He recovered quickly and got a phd at a different university.
 * 1 person went full-blown hikikkomori and never attended any programme events in the last 3 years.
 * 1 person dropped out after a crushing paper-authorship drama
 * 2 people are <a href="{{kuhn}}">Just Not Okay</a> even years later
 
 One guy is now perfectly happy in industry and has no regrets that I can detect, though. <a href="#fn:7" id="fnref:7">7</a>
 
-<br>
-
-The above actually understates the personal risk, since it doesn't capture people who got disaffected, burned-out, depressed, helpless, clocked-out, cynical -- but who managed to tank the damage and finish. 
+This actually understates the personal risk, since it doesn't capture people who got disaffected, burned-out, depressed, helpless, clocked-out, cynical -- but who managed to tank the damage and finish. 
 <!-- Like me. -->
 
 
-
-<br>
 
 ## Time
 
@@ -123,11 +117,11 @@ This one's a lower bound: just capital-r-Research; the sum of the time I spent o
 
 <br>
 
-My best guess, triangulating between these, is 3500 hours. So 2.1 hours a day, or 3.0 per weekday.
+My best guess, trusting a high prior against the above low estimates, is 3500 hours. Which makes 2.1 hours a day, or 3.0 per weekday.
 
-I've met a small number of people who managed in much less (like 5 months total) by having a lot of ideas ready to go and going ruthlessly for a <a href="{{pub}}">PhD-by-publication</a>.
+I've met a small number of people who managed in much less (like 5 months total) by having a lot of ideas ready to go and going ruthlessly for a <a href="{{pub}}">phd-by-publication</a>.
 
-My examiner advised me to budget 6 months for writing up my papers into a coherent thesis. On the other hand, a friend of mine did his in 7 days (90 hours). I compromised and did it in a month (227h). 
+My examiner advised me to budget 6 months for writing up my papers into a coherent thesis. On the other hand, a friend of mine did his in 7 days (100 hours). I compromised and did it in a month (227h). 
 
 <br>
 
@@ -153,8 +147,8 @@ I didn't really keep a lab book like you're supposed to (I didn't really work ha
     - $4k laptop and monitors and such
     - Two grand making my gaming desktop into a DL rig, but it didn't really make much difference vs Azure, besides selling me on WSL.
     - Very hard to say what my share of the Bristol ACRC was, but not much.
-    - This is a large amount compared to most STEM PhDs, but I'd guess my spend was only half that of my ML peers and a third of my computer vision peers.
-- For March 2020 to April 2021 there was no particular fun-opportunity cost (Covid lockdown). Thus: among the best time to do a PhD. Particularly for [opportunists](https://www.pnas.org/doi/full/10.1073/pnas.2119266119). Newton at Woolsthorpe. 
+    - This is a large amount compared to most STEM phds, but I'd guess my spend was only half that of my ML peers and a third of my computer vision peers.
+- For March 2020 to April 2021 there was no particular fun-opportunity cost (Covid lockdown). Thus: among the best time to do a phd. Particularly for [opportunists](https://www.pnas.org/doi/full/10.1073/pnas.2119266119). Newton at Woolsthorpe. 
 - _Externalities_. I still believe that improving AI capabilities has a good chance of making things much worse for everyone. This is one reason I avoided certain types of work. But few individual researchers have much effect on the frontier (possible exceptions: RLHF, GELU, llama.cpp). At most you can speed things up a couple months or make things a bit cheaper. I don't flatter myself that any of my papers are strong enough to do damage.
 
 - Quals year: extraordinary pain and tedium, at times as much as a corporate job (but much more avoidable).
