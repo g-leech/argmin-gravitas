@@ -11,7 +11,7 @@ visible:    1
 published:  true
 quality:    7
 
-summary:    300 takes on AI and AI risk this year
+summary:    300 takes in search of an opinion
 confidence: 60%
 importance: 7
 wordcount:  6000

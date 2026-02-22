@@ -20,11 +20,11 @@ where:      "Munich"
 ---
 
 
-When someone accrues money and wants more, or fame or acclaim and wants more, or climbs the ladder of large organisations, or thinks everyone else is wrong and wants to establish their theory, we call them ambitious. Accumulate or dominate.
+When someone accrues money and wants more, or acclaim and wants more, or climbs the ladder of large organisations, or thinks everyone else is wrong and wants to establish their theory, we call them ambitious. Accumulate, dominate.
 
-I have large ambitions, but not this kind. None of my ambitions involve accumulating wealth (now that I have enough) and I am already as famous as I can stand (not at all).
+But I have large ambitions too, just not of this kind. None of my ambitions involve accumulating wealth (now that I have enough) and I am already as famous as I can stand (i.e. not at all).
 
-* I want to provide the great synthesis for my time. (What does this mean?)
+* I want to provide the great synthesis for my time. I want to work out what that even means.
 * I want to be a universal critic of all fields and mediums
 * I want to understand as much as I can: relativity, QFT, evolution, RL, active inference for a start.
 * I then want to drag the ladder down, to make it easier for all others to understand them
@@ -50,11 +50,11 @@ The obvious problem with this is that my attention is divided, so singular great
 <div class="accordion"> 
 	<h3>Definitions</h3>
 	<div>
-		You could make a bundle of ambitiousness out of various axes:
+		You could make a bundle of ambitiousness out of various axes:<br><br>
 		
-* _How many people it affects_. 
-* _How counterfactual it is_. ...Art is much more counterfactual than science, but I don't want to say that art is more ambitious than science.
-* _How novel it is_. Cutting apples out of your own mouth using a chainsaw doesn't have any effect on anyone else. But it is novel, or it was 20 years ago.
+* _How many people it affects_. <br>
+* _How counterfactual it is_. ...Art is much more counterfactual than science, but I don't want to say that art is more ambitious than science.<br>
+* _How novel it is_. Cutting apples out of your own mouth using a chainsaw doesn't have any effect on anyone else. But it is novel, or it was 20 years ago.<br>
 * _How hard it is_. 
 * ...
 	</div>
@@ -67,5 +67,4 @@ The obvious problem with this is that my attention is divided, so singular great
 
 
 
-## See also
 

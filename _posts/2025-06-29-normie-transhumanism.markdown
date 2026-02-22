@@ -58,7 +58,7 @@ The reigning "bioconservatives" predicted that new biotech would lead to moral o
 			6. Policy making ought to be guided by... respecting autonomy and individual rights, and showing solidarity with and concern for the interests and dignity of all people<br>
 			7. We advocate the well-being of... humans, non-human animals, and any future artificial intellects, modified life forms, or other intelligences<br>
 			8. We favour allowing individuals wide personal choice over how they enable their lives ["morphological freedom"]
-		</blockquote>
+		</blockquote><br><br>
 		Clearly this is a tame and cuddly ideology compared to stuff like posthumanism and accelerationism, but for some reason the critics settled on attacking all biotech-curious ideologies under the name "transhumanism".
 	</div>
 </div><br>
@@ -405,7 +405,7 @@ The conservative concerns might apply to a more-mature science of More. Thanks t
 <div class="footnotes">
 <ol>
     <!-- 1 -->
-    <li class="footnote" id="fn:1">in America anyway</li>
+    <li class="footnote" id="fn:1">I'm using an idiosyncratic definition of "mass use": >1% of Americans. But that's a leading indicator for the rest of the world following in the end.</li>
     <li class="footnote" id="fn:2">A more inclusive term might be "bioprogressives".</li>
     <li class="footnote" id="fn:3">with one side <a href="https://en.wikipedia.org/wiki/President%27s_Council_on_Bioethics">backed</a> by an openly religious executive branch. </li>
     <!-- <li class="footnote" id="fn:4">But the transhumanists were probably being normative rather than deluded about this.</li> -->

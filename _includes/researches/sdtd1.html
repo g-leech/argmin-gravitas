@@ -25,7 +25,14 @@
           
           <div id="sdtdd" class="dropdown-content">
             <br>
-            
+            1. Benchmark values are going up by X. This leads people to think that capabilities, latent performance on OOD, is going up X.<br>
+            2. But this might be confounded, since the training corpus size is also going up by a factor of 50,000x, and since corpuses contain test sets. The same argument undermines many “private” evals with a short description length.<br>
+            3. (Some) Labs make good-faith efforts to remove test sets.<br>
+            4. But semantic duplicates of test data are extremely hard to detect and therefore to remove.<br>
+            5. We show that semantic duplicates of the test data are in the (OLMo) corpus. This is an underestimate of the prevalence in closed corpuses, since one of the major synthetic data generation tasks is to rewrite training data.<br>
+            6. We show that semantic duplicates of test data spuriously boost performance on the test data<br>
+            7. We want to estimate the hidden interpolation share of apparent AI progress. It might be like a third.
+
             <br><br>
 
             <i>Authors</i>: Ari Spiesberger, Juan J Vazquez, Nicky Pochinkov, Tomáš Gavenciak, Peli Grietzer, <span class="me">Gavin Leech</span><sup>†</sup>, Nandi Schoots<sup>†</sup>
