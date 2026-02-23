@@ -16,13 +16,6 @@ window.__THAR_CONFIG = {
     "name" : "README.txt"
   },
   "dataTypes" : {
-    "account" : {
-      "files" : [ {
-        "fileName" : "data/account.js",
-        "globalName" : "YTD.account.part0",
-        "count" : "1"
-      } ]
-    },
     "accountCreationIp" : {
       "files" : [ {
         "fileName" : "data/account-creation-ip.js",
@@ -459,13 +452,6 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/periscope-profile-description.js",
         "globalName" : "YTD.periscope_profile_description.part0",
-        "count" : "1"
-      } ]
-    },
-    "personalization" : {
-      "files" : [ {
-        "fileName" : "data/personalization.js",
-        "globalName" : "YTD.personalization.part0",
         "count" : "1"
       } ]
     },
