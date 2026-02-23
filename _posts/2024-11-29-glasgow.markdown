@@ -136,11 +136,11 @@ where:      "Tallinn"
 
 * It remains pretty red. 
 	* After 1870 the "co-operative movement" built a substantial alternative economy, with [20%](https://sci-hub.st/10.1111/ehr.12340) of the entire Scottish population as members in 1930. It made food, furniture, clothing, cleaning products, medicine, 200,000 [bombs](https://www.google.co.uk/books/edition/History_of_the_Scottish_Co_operative_Who/co-7AAAAIAAJ?hl=en&gbpv=1&bsq=flying+dustbin+Mortar+shells+co-operative&dq=flying+dustbin+Mortar+shells+co-operative&printsec=frontcover). The SCWS had its own tea plantation in Sri Lanka. Supposedly three-quarters of all funerals in Scotland went through them. Hard to say what fraction of GDP this was; 5%?
-	* Glaswegian Keir Hardie was the first ~Labour MP in history. 
+	* Glaswegian Keir Hardie was the first ~Labour MP in the history of the world. 
 	* [This](https://en.wikipedia.org/wiki/Rector_of_the_University_of_Glasgow#List_of_rectors) is a fun list - see the shift starting 1931.
 	* It's extremely pro-immigration, with [47%](https://migrationpolicyscotland.org.uk/wp-content/uploads/2023/09/Attitudes_Scotland_Sept23.pdf) supporting more (compare Scotland's 38%, England's 22%, Bristol's 55%). Note though that the flow of international migration to Scotland is 20x lower than England.<br><br>
 
-* They're completely mad for gigs, twice more per capita as anyone else. Not sure if [this data](https://www.planetcruise.com/en/the-hottest-gig-tripping-destinations-for-2024) is any good but it chimes. (The second giggiest city is Dublin, but Glasgow's dominance still begs for a second explanatory variable besides "they're Irish".)<br><br>
+* They're completely mad for gigs, twice more per capita as anyone else in the world. Not sure if [this data](https://www.planetcruise.com/en/the-hottest-gig-tripping-destinations-for-2024) is any good but it chimes. (The second giggiest city is Dublin, but Glasgow's dominance still begs for a second explanatory variable besides "they're Irish".)<br><br>
 
 
 * Scotland defines itself partly by negating whatever England is; in the mind of Glasgow, Glasgow is the Scotland of Scotland, Edinburgh the [England of Scotland](https://www.youtube.com/watch?v=JzQiX_hD4FI). Glasgow was 54% "Yes" to Scottish independence from England; Edinburgh was 39%.<br><br>
