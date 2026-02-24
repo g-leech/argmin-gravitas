@@ -1,1 +1,1 @@
-window.YTD.audio_video_calls_in_dm_recipient_sessions.part0 = [ ]
+window.YTD.audio_video_calls_in_dm_recipient_sessions.part0 = []

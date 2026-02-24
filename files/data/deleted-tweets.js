@@ -1,2 +1,1 @@
-window.YTD.deleted_tweets.part0 = [
-]
+window.YTD.deleted_tweets.part0 = []

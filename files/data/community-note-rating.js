@@ -1,2 +1,1 @@
-window.YTD.community_note_rating.part0 = [
-]
+window.YTD.community_note_rating.part0 = []

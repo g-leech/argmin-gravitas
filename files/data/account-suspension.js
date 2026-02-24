@@ -1,1 +1,1 @@
-window.YTD.account_suspension.part0 = [ ]
+window.YTD.account_suspension.part0 = []

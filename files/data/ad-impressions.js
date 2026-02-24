@@ -1,1 +1,1 @@
-window.YTD.ad_impressions.part0 = [ ]
+window.YTD.ad_impressions.part0 = []

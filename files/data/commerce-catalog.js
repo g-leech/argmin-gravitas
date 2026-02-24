@@ -1,1 +1,1 @@
-window.YTD.commerce_catalog.part0 = [ ]
+window.YTD.commerce_catalog.part0 = []

@@ -1,1 +1,1 @@
-window.YTD.periscope_broadcast_metadata.part0 = [ ]
+window.YTD.periscope_broadcast_metadata.part0 = []

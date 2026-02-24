@@ -1,1 +1,1 @@
-window.YTD.shopify_account.part0 = [ ]
+window.YTD.shopify_account.part0 = []

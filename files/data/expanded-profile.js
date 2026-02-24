@@ -1,5 +1,1 @@
-window.YTD.expanded_profile.part0 = [
-  {
-    "expandedProfile" : { }
-  }
-]
+window.YTD.expanded_profile.part0 = []

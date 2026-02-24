@@ -1,1 +1,1 @@
-window.YTD.shop_module.part0 = [ ]
+window.YTD.shop_module.part0 = []

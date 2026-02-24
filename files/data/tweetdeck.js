@@ -1,1 +1,1 @@
-window.YTD.tweetdeck.part0 = [ ]
+window.YTD.tweetdeck.part0 = []

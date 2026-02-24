@@ -1,2 +1,1 @@
-window.YTD.account_creation_ip.part0 = [
-]
+window.YTD.account_creation_ip.part0 = []

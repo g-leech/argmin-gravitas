@@ -1,2 +1,1 @@
-window.YTD.community_note.part0 = [
-]
+window.YTD.community_note.part0 = []

@@ -1,1 +1,1 @@
-window.YTD.product_set.part0 = [ ]
+window.YTD.product_set.part0 = []

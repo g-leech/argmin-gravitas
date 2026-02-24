@@ -1,1 +1,1 @@
-window.YTD.periscope_followers.part0 = [ ]
+window.YTD.periscope_followers.part0 = []

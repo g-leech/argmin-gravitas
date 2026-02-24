@@ -1,1 +1,1 @@
-window.YTD.article.part0 = [ ]
+window.YTD.article.part0 = []

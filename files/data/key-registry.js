@@ -1,2 +1,1 @@
-window.YTD.key_registry.part0 = [
-]
+window.YTD.key_registry.part0 = []

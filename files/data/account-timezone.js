@@ -1,2 +1,1 @@
-window.YTD.account_timezone.part0 = [
-]
+window.YTD.account_timezone.part0 = []
