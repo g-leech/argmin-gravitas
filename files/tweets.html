@@ -5,7 +5,163 @@
       }
       #manifest-error {
         display: none;
-      }</style><link rel="icon" href="./assets/images/favicon.ico"></head><body><div id="root"></div><div id="manifest-error"><h3>Something went wrong, but don’t fret — let’s give it another shot</h3><p>You need to unzip your entire archive, not just individual folders, in order to view them here. If you keep experiencing errors, please <a href="https://help.twitter.com/forms/privacy" target="_blank">fill out this form.</a></p></div><div id="mobile-error"><h3>Your archive isn’t available here.</h3><p>You need to view this on a desktop browser in order to see your archive.</p></div><script>function showManifestError() {
+      }</style><link rel="icon" href="./assets/images/favicon.ico">
+<style>
+@font-face {
+  font-family: 'Berk';
+  src: url('data/gleech_fonts/BerkeleyMonoTrial-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* === gleech.org palette === */
+:root {
+  --gl-font: Arial, Helvetica, sans-serif;
+  --gl-mono: 'Berk', monospace;
+  --gl-text: #2d2d2d;
+  --gl-bg: #fdfdfd;
+  --gl-green: #006800;
+  --gl-theme: #2b661a;
+  --gl-dark-green: #343;
+  --gl-yellow: #FAC342;
+  --gl-grey: #828282;
+  --gl-grey-light: #BBBBBB;
+}
+
+/* === Base overrides === */
+body, html {
+  background: var(--gl-bg) !important;
+  color: var(--gl-text) !important;
+  font-family: var(--gl-font) !important;
+  font-size: 15px !important;
+  line-height: 1.5em !important;
+}
+
+/* === Hide Twitter logo and archive metadata === */
+/* The bird SVG and "Your archive includes..." text */
+
+/* === All text inherits === */
+div, span, p, article, section {
+  color: var(--gl-text) !important;
+  font-family: var(--gl-font) !important;
+}
+
+/* === Headings in Berkeley Mono === */
+h1, h2, h3, h4, h5, h6,
+[role="heading"] {
+  font-family: var(--gl-mono) !important;
+  font-weight: 200 !important;
+  color: var(--gl-green) !important;
+  letter-spacing: -1px !important;
+}
+
+/* === "Tweets" page title === */
+[class*="r-1vr29t4"],
+[class*="r-1qd0xha"] {
+  font-family: var(--gl-mono) !important;
+  font-weight: 200 !important;
+  color: var(--gl-green) !important;
+}
+
+/* === Tab bar (Tweets / Replies) === */
+[role="tab"],
+[role="tablist"] span,
+[role="tablist"] a {
+  font-family: var(--gl-mono) !important;
+  font-weight: 400 !important;
+}
+
+[role="tab"][aria-selected="true"] {
+  border-bottom-color: var(--gl-theme) !important;
+  color: var(--gl-theme) !important;
+}
+
+/* === Links === */
+a, a:link {
+  color: var(--gl-text) !important;
+}
+
+a:visited {
+  color: var(--gl-grey-light) !important;
+}
+
+a:hover, a:focus {
+  color: var(--gl-theme) !important;
+}
+
+/* === Tweet text === */
+[data-testid="tweetText"],
+[data-testid="tweetText"] span {
+  font-family: var(--gl-font) !important;
+  font-size: 15px !important;
+  line-height: 1.5em !important;
+  color: var(--gl-text) !important;
+}
+
+/* === Tweet metadata (date, ID, etc.) === */
+[class*="r-1re7ezh"],
+time, [datetime],
+[class*="r-1b43r93"] {
+  font-family: var(--gl-mono) !important;
+  color: var(--gl-grey) !important;
+  font-size: 0.9em !important;
+}
+
+/* === Green top bar to mimic gleech header === */
+body::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 6px;
+  background: linear-gradient(153deg, rgba(0,104,0,1) 0%, rgba(88,168,88,1) 91%, rgba(101,168,101,1) 99%);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+}
+
+/* === Buttons & interactive elements === */
+[role="button"] {
+  font-family: var(--gl-mono) !important;
+}
+
+/* === "View on Twitter" links === */
+a[href*="twitter.com"],
+a[href*="x.com"] {
+  color: var(--gl-theme) !important;
+}
+
+/* === Media cards === */
+img {
+  border: 1px solid #1a1a1a !important;
+  border-radius: 0 !important;
+}
+
+/* === Scrollbar === */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: var(--gl-bg); }
+::-webkit-scrollbar-thumb { background: var(--gl-grey-light); }
+
+
+/* === Hide tweet ID numbers === */
+.css-901oao.r-1re7ezh {  
+    display: none !important;
+}
+</style>
+<script>
+// Hide "ID ..." lines in tweets
+const obs = new MutationObserver(() => {
+  document.querySelectorAll('span, div, p').forEach(el => {
+    if (el.children.length === 0 && /^ID\s+\d{5,}/.test(el.textContent.trim())) {
+      el.parentElement.style.display = 'none';
+    }
+  });
+});
+obs.observe(document.body || document.documentElement, {childList: true, subtree: true});
+setTimeout(() => obs.disconnect(), 15000);
+</script>
+
+</head><body><div id="root"></div><div id="manifest-error"><h3>Something went wrong, but don’t fret — let’s give it another shot</h3><p>You need to unzip your entire archive, not just individual folders, in order to view them here. If you keep experiencing errors, please <a href="https://help.twitter.com/forms/privacy" target="_blank">fill out this form.</a></p></div><div id="mobile-error"><h3>Your archive isn’t available here.</h3><p>You need to view this on a desktop browser in order to see your archive.</p></div><script>function showManifestError() {
         document.getElementById('root').style.display = 'none';
         document.getElementById('manifest-error').style.display = 'block';
       }</script><script src="./data/manifest.js" onerror="showManifestError()"></script><script src="assets/js/runtime.9662ea169e7e46b859ee.js"></script><script src="assets/js/modules.9072ed6e90fe38c485fe.js"></script><script src="assets/js/i18n.e27e67d39fcc91627cab.js"></script><script src="assets/js/main.0506aebee0a5b8f83a32.js"></script></body></html>
