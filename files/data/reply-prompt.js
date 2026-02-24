@@ -1,1 +1,1 @@
-window.YTD.reply_prompt.part0 = [ ]
+window.YTD.reply_prompt.part0 = []

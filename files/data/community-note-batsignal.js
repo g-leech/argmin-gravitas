@@ -1,1 +1,1 @@
-window.YTD.community_note_batsignal.part0 = [ ]
+window.YTD.community_note_batsignal.part0 = []

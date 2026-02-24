@@ -1,1 +1,1 @@
-window.YTD.professional_data.part0 = [ ]
+window.YTD.professional_data.part0 = []

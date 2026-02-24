@@ -1,2 +1,1 @@
-window.YTD.like.part0 = [
-]
+window.YTD.like.part0 = []

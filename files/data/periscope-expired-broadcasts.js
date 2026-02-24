@@ -1,1 +1,1 @@
-window.YTD.periscope_expired_broadcasts.part0 = [ ]
+window.YTD.periscope_expired_broadcasts.part0 = []

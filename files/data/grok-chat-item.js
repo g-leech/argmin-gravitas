@@ -1,2 +1,1 @@
-window.YTD.grok_chat_item.part0 = [
-]
+window.YTD.grok_chat_item.part0 = []

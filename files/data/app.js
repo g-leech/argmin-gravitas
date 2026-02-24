@@ -1,1 +1,1 @@
-window.YTD.app.part0 = [ ]
+window.YTD.app.part0 = []

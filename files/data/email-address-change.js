@@ -1,2 +1,1 @@
-window.YTD.email_address_change.part0 = [
-]
+window.YTD.email_address_change.part0 = []

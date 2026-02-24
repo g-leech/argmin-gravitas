@@ -1,1 +1,1 @@
-window.YTD.ad_engagements.part0 = [ ]
+window.YTD.ad_engagements.part0 = []

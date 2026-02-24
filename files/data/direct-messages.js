@@ -1,2 +1,1 @@
-window.YTD.direct_messages.part0 = [
-]
+window.YTD.direct_messages.part0 = []

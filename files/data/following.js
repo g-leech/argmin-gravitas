@@ -1,2 +1,1 @@
-window.YTD.following.part0 = [
-]
+window.YTD.following.part0 = []

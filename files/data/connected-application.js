@@ -1,2 +1,1 @@
-window.YTD.connected_application.part0 = [
-]
+window.YTD.connected_application.part0 = []

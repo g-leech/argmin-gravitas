@@ -1,1 +1,1 @@
-window.YTD.branch_links.part0 = [ ]
+window.YTD.branch_links.part0 = []

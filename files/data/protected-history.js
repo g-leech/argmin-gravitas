@@ -1,1 +1,1 @@
-window.YTD.protected_history.part0 = [ ]
+window.YTD.protected_history.part0 = []

@@ -1,1 +1,1 @@
-window.YTD.smartblock.part0 = [ ]
+window.YTD.smartblock.part0 = []

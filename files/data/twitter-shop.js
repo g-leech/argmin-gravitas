@@ -1,1 +1,1 @@
-window.YTD.twitter_shop.part0 = [ ]
+window.YTD.twitter_shop.part0 = []

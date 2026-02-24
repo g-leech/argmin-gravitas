@@ -1,0 +1,1 @@
+window.YTD.message_event.part0 = []

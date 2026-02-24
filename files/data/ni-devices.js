@@ -1,2 +1,1 @@
-window.YTD.ni_devices.part0 = [
-]
+window.YTD.ni_devices.part0 = []

@@ -1,2 +1,1 @@
-window.YTD.direct_message_headers.part0 = [
-]
+window.YTD.direct_message_headers.part0 = []

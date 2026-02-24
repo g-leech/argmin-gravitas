@@ -1,1 +1,1 @@
-window.YTD.contact.part0 = [ ]
+window.YTD.contact.part0 = []

@@ -1,2 +1,1 @@
-window.YTD.personalization.part0 = [
-]
+window.YTD.personalization.part0 = []

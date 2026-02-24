@@ -1,2 +1,1 @@
-window.YTD.mute.part0 = [
-]
+window.YTD.mute.part0 = []

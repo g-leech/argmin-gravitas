@@ -1,1 +1,1 @@
-window.YTD.article_metadata.part0 = [ ]
+window.YTD.article_metadata.part0 = []

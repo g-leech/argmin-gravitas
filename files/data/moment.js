@@ -1,1 +1,1 @@
-window.YTD.moment.part0 = [ ]
+window.YTD.moment.part0 = []

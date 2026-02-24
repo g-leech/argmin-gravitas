@@ -1,1 +1,1 @@
-window.YTD.saved_search.part0 = [ ]
+window.YTD.saved_search.part0 = []

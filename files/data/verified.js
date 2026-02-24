@@ -1,2 +1,1 @@
-window.YTD.verified.part0 = [
-]
+window.YTD.verified.part0 = []
