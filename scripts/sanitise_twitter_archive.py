@@ -78,9 +78,176 @@ def patch_asset_js(raw: bytes) -> bytes:
         text = text.replace(f"'{label}'", "''")
     return text.encode("utf-8")
 
+GLEECH_STYLE = """
+<style>
+@font-face {
+  font-family: 'Berk';
+  src: url('data/gleech_fonts/BerkeleyMonoTrial-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* === gleech.org palette === */
+:root {
+  --gl-font: Arial, Helvetica, sans-serif;
+  --gl-mono: 'Berk', monospace;
+  --gl-text: #2d2d2d;
+  --gl-bg: #fdfdfd;
+  --gl-green: #006800;
+  --gl-theme: #2b661a;
+  --gl-dark-green: #343;
+  --gl-yellow: #FAC342;
+  --gl-grey: #828282;
+  --gl-grey-light: #BBBBBB;
+}
+
+/* === Base overrides === */
+body, html {
+  background: var(--gl-bg) !important;
+  color: var(--gl-text) !important;
+  font-family: var(--gl-font) !important;
+  font-size: 15px !important;
+  line-height: 1.5em !important;
+}
+
+/* === Hide Twitter logo and archive metadata === */
+/* The bird SVG and "Your archive includes..." text */
+
+/* === All text inherits === */
+div, span, p, article, section {
+  color: var(--gl-text) !important;
+  font-family: var(--gl-font) !important;
+}
+
+/* === Headings in Berkeley Mono === */
+h1, h2, h3, h4, h5, h6,
+[role="heading"] {
+  font-family: var(--gl-mono) !important;
+  font-weight: 200 !important;
+  color: var(--gl-green) !important;
+  letter-spacing: -1px !important;
+}
+
+/* === "Tweets" page title === */
+[class*="r-1vr29t4"],
+[class*="r-1qd0xha"] {
+  font-family: var(--gl-mono) !important;
+  font-weight: 200 !important;
+  color: var(--gl-green) !important;
+}
+
+/* === Tab bar (Tweets / Replies) === */
+[role="tab"],
+[role="tablist"] span,
+[role="tablist"] a {
+  font-family: var(--gl-mono) !important;
+  font-weight: 400 !important;
+}
+
+[role="tab"][aria-selected="true"] {
+  border-bottom-color: var(--gl-theme) !important;
+  color: var(--gl-theme) !important;
+}
+
+/* === Links === */
+a, a:link {
+  color: var(--gl-text) !important;
+}
+
+a:visited {
+  color: var(--gl-grey-light) !important;
+}
+
+a:hover, a:focus {
+  color: var(--gl-theme) !important;
+}
+
+/* === Tweet text === */
+[data-testid="tweetText"],
+[data-testid="tweetText"] span {
+  font-family: var(--gl-font) !important;
+  font-size: 15px !important;
+  line-height: 1.5em !important;
+  color: var(--gl-text) !important;
+}
+
+/* === Tweet metadata (date, ID, etc.) === */
+[class*="r-1re7ezh"],
+time, [datetime],
+[class*="r-1b43r93"] {
+  font-family: var(--gl-mono) !important;
+  color: var(--gl-grey) !important;
+  font-size: 0.9em !important;
+}
+
+/* === Green top bar to mimic gleech header === */
+body::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 6px;
+  background: linear-gradient(153deg, rgba(0,104,0,1) 0%, rgba(88,168,88,1) 91%, rgba(101,168,101,1) 99%);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+}
+
+/* === Buttons & interactive elements === */
+[role="button"] {
+  font-family: var(--gl-mono) !important;
+}
+
+/* === "View on Twitter" links === */
+a[href*="twitter.com"],
+a[href*="x.com"] {
+  color: var(--gl-theme) !important;
+}
+
+/* === Media cards === */
+img {
+  border: 1px solid #1a1a1a !important;
+  border-radius: 0 !important;
+}
+
+/* === Scrollbar === */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: var(--gl-bg); }
+::-webkit-scrollbar-thumb { background: var(--gl-grey-light); }
+
+
+/* === Hide tweet ID numbers === */
+.css-901oao.r-1re7ezh {  
+    display: none !important;
+}
+</style>
+<script>
+// Hide "ID ..." lines in tweets
+const obs = new MutationObserver(() => {
+  document.querySelectorAll('span, div, p').forEach(el => {
+    if (el.children.length === 0 && /^ID\s+\d{5,}/.test(el.textContent.trim())) {
+      el.parentElement.style.display = 'none';
+    }
+  });
+});
+obs.observe(document.body || document.documentElement, {childList: true, subtree: true});
+setTimeout(() => obs.disconnect(), 15000);
+</script>
+"""
+
+# Path to the Berkeley Mono font file, optionally provided via CLI.
+FONT_FILE: Path | None = None
+
+FONT_ARCHIVE_PATH = "data/gleech_fonts/BerkeleyMonoTrial-Regular.woff2"
+
+
 def patch_html(raw: str) -> str:
-    """No-op now — sidebar is handled by blanking labels in the JS bundle."""
-    return raw
+    """Inject gleech.org style overrides into the archive HTML."""
+    if "</head>" in raw:
+        return raw.replace("</head>", GLEECH_STYLE + "\n</head>", 1)
+    if "<body" in raw:
+        return raw.replace("<body", GLEECH_STYLE + "\n<body", 1)
+    return GLEECH_STYLE + raw
 
 
 def parse_twitter_js(text: str) -> tuple[str, list]:
@@ -155,10 +322,14 @@ def normalise_rel(path: str) -> str:
     return normed
 
 
-def sanitise_zip(src: Path, dst: Path):
+def sanitise_zip(src: Path, dst: Path, font: Path | None = None):
     emptied, kept_files = [], []
 
     with ZipFile(src, "r") as zin, ZipFile(dst, "w", ZIP_DEFLATED) as zout:
+        # Bundle the font file if provided
+        if font and font.is_file():
+            zout.writestr(FONT_ARCHIVE_PATH, font.read_bytes())
+
         for info in zin.infolist():
             if info.is_dir():
                 continue
@@ -203,7 +374,7 @@ def sanitise_zip(src: Path, dst: Path):
     print(f"→ {dst}  ({dst.stat().st_size / 1_048_576:.1f} MB)")
 
 
-def sanitise_dir(src: Path, dst: Path):
+def sanitise_dir(src: Path, dst: Path, font: Path | None = None):
     root = src
     if not (src / "data").is_dir():
         for sd in src.iterdir():
@@ -215,6 +386,12 @@ def sanitise_dir(src: Path, dst: Path):
 
     dst.mkdir(parents=True, exist_ok=True)
     emptied = []
+
+    # Bundle the font file if provided
+    if font and font.is_file():
+        font_dst = dst / FONT_ARCHIVE_PATH
+        font_dst.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(font, font_dst)
 
     for fpath in sorted(root.rglob("*")):
         if fpath.is_dir():
@@ -249,13 +426,17 @@ def main():
     ap = argparse.ArgumentParser(description="Sanitise a Twitter/X archive.")
     ap.add_argument("source", type=Path)
     ap.add_argument("-o", "--output", type=Path, default=None)
+    ap.add_argument("--font", type=Path, default=None,
+                    help="Path to Berkeley Mono .woff2 file to bundle")
     args = ap.parse_args()
 
     src = args.source.resolve()
+    font = args.font.resolve() if args.font else None
+
     if src.is_file() and src.suffix == ".zip":
-        sanitise_zip(src, args.output or src.with_name(src.stem + "_sanitised.zip"))
+        sanitise_zip(src, args.output or src.with_name(src.stem + "_sanitised.zip"), font)
     elif src.is_dir():
-        sanitise_dir(src, args.output or src.with_name(src.name + "_sanitised"))
+        sanitise_dir(src, args.output or src.with_name(src.name + "_sanitised"), font)
     else:
         ap.error(f"Need a .zip or directory: {src}")
 
