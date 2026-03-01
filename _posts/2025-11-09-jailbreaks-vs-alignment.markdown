@@ -84,6 +84,11 @@ I agree that value-loading is not enough for AGI intent alignment which is not e
  -->
 
 
+<br>
+
+[Good discussion on Bsky](https://bsky.app/profile/norvid-studies.bsky.social/post/3mfuezzko3c2y)
+
+
 ### Pressman's response
 
 I sent the above to him and he [kindly clarified](https://www.lesswrong.com/posts/aL3sCkFRCt3hjfWau/jdp-s-shortform?commentId=gcNMp8HuqQSvZTtuN), walked some of it back, and provided a vision of how to use a decent descriptive model even if it is imperfect and jailbreakable:
