@@ -61,6 +61,11 @@ The reigning "bioconservatives" predicted that new biotech would lead to moral o
 		</blockquote><br><br>
 		Clearly this is a tame and cuddly ideology compared to stuff like posthumanism and accelerationism, but for some reason the critics settled on attacking all biotech-curious ideologies under the name "transhumanism".
 	</div>
+	<h3>Dickey–Wicker</h3>
+	<div>
+			The big policy move from the debate, banning federal funding for embryonic stem cell research, was actually <a href="https://en.wikipedia.org/wiki/Dickey%E2%80%93Wicker_Amendment">passed in 1996</a> under Clinton. Bush's <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2001/08/20010809-1.html">2001 executive order</a> further restricted NIH funding to pre-existing cell lines, but was rescinded by Obama <a href="https://www.google.com/search?q=Executive+Order+13505&oq=Executive+Order+13505&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIzN2owajeoAgCwAgA&client=ubuntu-chr&sourceid=chrome&ie=UTF-8">in 2009</a>.<br><br>
+			We routed around some of the damage: in 2006, the invention of <a href="https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cell">induced pluripotency</a> allowed for the creation of (second-rate) stem cells without touching embryos.
+	</div>
 </div><br>
 
 Some of the technologies they fought over (cloning, germline editing) haven't happened at scale yet. But others (GLPs, hormones, hair tech, embryo selection) did, and were rapidly adopted by millions of people who had no interest in either ideology. 
@@ -382,6 +387,28 @@ The conservative concerns might apply to a more-mature science of More. Thanks t
 
 <center>— Olaf Stapledon (1934)</center>
 
+
+## Actual data
+
+[Leo Gao](https://nablatheta.substack.com/p/my-hobby-running-deranged-surveys) has been running informal n=200 surveys of random Americans. He finds, as I assumed above, that most people are indeed (incoherently) nontranshumanist, with the huge exception of immortality:
+
+> "If you had the option to live forever in perfect health and youth, would you choose to? (Assume you could still change your mind at any time if you ever got bored of it.)” ... 66% of respondents said Yes, with 14% saying No, and 20% saying “Not sure”. As a follow up, it turns out roughly a third of Americans think developing the technology to enable life extension should be a top priority... Since it seemed like overpopulation and inequality were the main things people were worried about, I also asked a version of the question where I stipulated that these things were solved. Surprisingly, this barely shifts people’s opinions, and we get almost exactly the same response! My guess is this is a sign that the real objection is more about the vibes than any specific issue. 
+
+> despite being very pro living forever, Americans are much more skeptical of cryonics — even if they could be revived a few decades after their death to live forever thereafter, only 27% are in favor of being preserved, and 46% are opposed (the rest are unsure). 
+
+> Space colonization also has pretty lukewarm support, coming in at 37% in favor and 16% opposed
+
+> and cognitive enhancement for all is only a little bit more popular (42% in favor, 19% opposed). 
+
+> Also, for some reason, people are really opposed to a hypothetical cheap, painless, and safe arbitrary modification of physical appearance (only 23% in favor, with 37% opposed!). In retrospect, the backlash against Ozempic is a sign, but I was still quite surprised. 
+
+> Terraforming other planets so that humans can live on them is also pretty unpopular, coming in at 37% in favor and 16% opposed. Thankfully, for most of these questions, a huge chunk of people are still undecided.
+
+>  only 51% of Americans are in favor of literal post-scarcity (complete freedom to work on anything you want, as much as you want, and still enjoy a high quality of life), with 25% opposing. I was so shocked by this result not being 80%+ in favor that I reran a variant of this question with different wording. My original question asked whether the world would be better or worse if everyone had the freedom to work on whatever they want, as long as they want, and still enjoy a high quality of life, and anything we don’t want to do is done for us by robots. I thought maybe that set off some “AI taking jobs bad” instincts; for the new question I took pains to clarify that the stuff is literally conjured out of nowhere with magic and is not taken from anyone else, and got an even worse result (38% support, 34% oppose). This is even more crazy, so I ran a third version on the hypothesis that people don’t like magic, or that not having to work sounded too crazy. This version asked whether it would be good if everyone made 10x more (inflation-adjusted) than they do currently. This polled only somewhat better, with 39% in favor and 19% opposing. I’m still pretty confused what conclusion to draw from this; this is probably worth digging more into.
+
+> Only 14% think that society is currently trending in a positive direction.
+
+<br>
 
 ## See also
 

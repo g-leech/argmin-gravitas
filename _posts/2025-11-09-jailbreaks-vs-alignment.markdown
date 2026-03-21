@@ -141,6 +141,7 @@ I'm sure there's some other deep confusion lurking in this list and I look forwa
 ## See also
 
 * [Paleka](https://newsletter.danielpaleka.com/p/the-two-types-of-llm-preferences)
+* [Value generalisation rate](https://arxiv.org/pdf/2511.02109)
 
 <br><br>
 
