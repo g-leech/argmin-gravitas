@@ -11,18 +11,27 @@ visible:    false
 
 ### Spring Prospect (by 杜甫)
 
+The government is destroyed. Land remains.<br>
+The city in spring is deep in the weeds.<br>
+In these times there are tears on the flowers.<br>
+Loathe to part, even birds startle the heart.<br>
+Beacon fires burn for three straight months. <br>
+A letter from home, worth ten thousand gold.  <br>
+Scratching at my white hair makes it sparser.<br>
+It's now nearly too scant for a hairpin.  <br><br>
+
 Realm falls; hills unmoved.<br>
 Grass buries the old.<br>
-Grieving, flowers sting;<br>
+Grieving, flowers weep;<br>
 birdsong, overbold.<br>
-Beacon fires, for months;<br>
+Signals flare for months;<br>
 word from home is gold!<br>
 My white hair, scratched thin,<br>
 grows too sparse to hold.<br>
 <br>
-King gone; land stays.<br>
+Realm wrecked; earth stands. <br>
 Town overgrown.<br>
-Hard times; blooms hurt.<br>
+Hard times; blooms cry.<br>
 Birds startle me.<br>
 Signals burn on;<br>
 letters are gold!<br>
@@ -35,13 +44,13 @@ Flowers, tears;<br>
 Birds startle.<br>
 Alarms blare;<br>
 Gold for words.<br>
-Hair torn out<br>
+Worried hair<br>
 holds no pin.<br>
 <br>
 Realm; hills.<br>
 Wild grass.<br>
 Blooms sting.<br>
-Birds hurt.<br>
+Birds fright.<br>
 War: months.<br>
 Words: gold.<br>
 Hair thins.<br>

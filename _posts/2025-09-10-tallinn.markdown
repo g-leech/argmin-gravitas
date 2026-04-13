@@ -577,8 +577,8 @@ Can't think of an elegant segue from that:
 <!-- * **Memoir**:  -->
 * **Blog**: [Flatfish](https://flatfish.ee/), by American expat Eric Johnson. He's been here since Soviet times, paying close attention to the food. Wonderful. http://elm.estinst.ee/ is good. [This one's](https://vellovikerkaar.blogspot.com/2010/07/normaalne.html) pretty good too.
 * **Art**: [Mägi](https://www.google.com/search?client=ubuntu-sn&hs=VSS&sca_esv=2f8ab8e866555e31&channel=fs&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmPgfe_7ak8LUsonpWCvT6w6csnyTymMQ2XHqFKxVhyiTsB7_xjE7pCrlhvgmABFb-qvUXFeXLKmP5HUMuOwzi3W7YDpORc67v9mLSkQHRt4AKqGi9dyO-keM7IQ79ZYnZFqT5u-Q65xNOQ8PY-9XmwIuX2eAQ&q=Konrad+M%C3%A4gi&sa=X&ved=2ahUKEwjU05q7m52QAxXqjIkEHfCiHpsQtKgLegQIFRAB&biw=1472&bih=836&dpr=2)
-* **Art music**: Pärt
-* **Popular music**: Vennaskond 
+* **Art music**: Pärt. Panfilov.
+* **Popular music**: Inga Copeland.
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4ZUniHnmEp0hvSWpwqWo97?utm_source=generator" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
