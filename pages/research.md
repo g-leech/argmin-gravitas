@@ -37,7 +37,6 @@ visible:	true
 
 <table>
 	{%	include researches/sdtd1.html 	%}
-	{%	include researches/withhumans.html 	%}
 	{%	include researches/reversals.html	%}
 	{%  include researches/rdof.html	%}
 	{%  include researches/hplr.html	%}
@@ -51,6 +50,7 @@ visible:	true
 <h2 class="post-title"> Conference</h2>
 
 <table>
+	{%	include researches/withhumans.html 	%}
 	{%	include researches/rws.html	%}
 	{%	include researches/covid_neur.html	%}
 	{%	include researches/forrt.html	%}
