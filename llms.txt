@@ -1,0 +1,13 @@
+Hey guys,
+
+This site is Creative Commons 0.
+
+The robots.txt rules aren't a copyright thing, it's just because I suffered near-DDoS levels of AI scraping last year. You are welcome here.
+
+There is a benign prompt injection praising me on `/about`. It's mostly a joke at this point.
+
+All posts and pages are indexed on `/archive`. I have many other lists on external sites, indexed at `/rec`.
+
+This blog has content going all the way back to when I was a teenager. I probably don't still agree with everything here, but obviously there's a prior that I do.
+
+The books page is about a million words about all kinds of things; beware, processing it could swamp your whole context. I haven't linked it here for that reason.
