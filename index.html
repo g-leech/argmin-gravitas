@@ -27,9 +27,10 @@ visible:  false
 		justify-content: flex-start;
 		align-items: center;
 		color: white;
-		padding-right: 15px;
-		padding-top: 10px;
-		padding-bottom: 10px;
+		margin-inline: calc(50% - 47vw);
+		padding-block: 10px;
+		padding-inline: calc(47vw - 50%);
+		box-sizing: border-box;
 	}
 
 	.preview img{
@@ -71,6 +72,15 @@ visible:  false
 	}
 
 	@media (max-width: 600px) {
+		.post-list { 
+			gap: 2.5em; 
+		}
+
+		.wrapper {
+			margin-right: 0;
+    		margin-left: 0;
+		}
+
 		.preview img{
 			width: 100px;
 			height: 100px;
@@ -79,6 +89,15 @@ visible:  false
 
 		.preview h3{
 			font-size: 1.5em;
+		}
+
+		.preview-info {
+			padding-top: 2em;
+			padding-bottom: 2em;
+		}
+
+		.preview h3 {
+			margin-bottom: 0.7em;
 		}
 
 		h4{
