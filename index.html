@@ -27,10 +27,6 @@ visible:  false
 		justify-content: flex-start;
 		align-items: center;
 		color: white;
-		margin-inline: calc(50% - 47vw);
-		padding-block: 10px;
-		padding-inline: calc(47vw - 50%);
-		box-sizing: border-box;
 	}
 
 	.preview img{
@@ -74,6 +70,13 @@ visible:  false
 	@media (max-width: 600px) {
 		.post-list { 
 			gap: 2.5em; 
+		}
+
+		.preview {
+			margin-inline: calc(50% - 48vw);
+			padding-block: 10px;
+			padding-inline: calc(48vw - 50%);
+			box-sizing: border-box;
 		}
 
 		.wrapper {
