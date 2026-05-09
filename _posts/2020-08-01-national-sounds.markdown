@@ -65,6 +65,7 @@ I aim to make one strong playlist per country in the world. Current count: 42 / 
 			{%	include nation/philipp.html %}
 			{%	include nation/hk.html	%}
 			{%	include nation/taiwan.html	%}		
+			{%	include nation/india.html	%}		
 		</div>
 	</div>
 	<!--  -->
