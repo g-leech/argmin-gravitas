@@ -5,10 +5,6 @@ User-agent: Googlebot
 Disallow: /css/main.css
 
 User-agent: *
-Allow: /
-
-
-User-agent: *
 Disallow:
 User-agent: AdsBot-Google
 User-agent: Amazonbot
@@ -37,3 +33,7 @@ User-agent: scoop.it
 User-agent: Seekr
 User-agent: YouBot
 Disallow: /
+
+User-agent: *
+Allow: /
+Crawl-delay: 1

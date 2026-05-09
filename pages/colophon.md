@@ -28,7 +28,7 @@ Some examples of the freedom of self-hosting, and the low-hanging fruit in all n
   * _Epistemic status_. Marking each post with the confidence level or literalness, genre. <a href="{{muf}}">Originator</a>.
   * _Argument_. <a href="{{arg}}">The thinking person's TL;DR</a>.
   * _Last page edit_. <a href="{{rb}}">Nice for emphasising that the content is changing. <br><br>
-
+  * _Backlinks_. I look in Common Crawl and then do an incremental ping on compile.
 * _Information hiding_. bigfoot and JQuery Accordions.
 
 * _Bug bounties_. <a href="{{bount}}">To keep me honest</a>.
