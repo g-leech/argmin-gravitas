@@ -781,6 +781,7 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 * [Disco Elysium 2](https://www.youtube.com/watch?v=Dde8H1YhP-U): Cuno and Cunoesse flee Revachol for Hamara Maa.
 * [ARTBOOK](https://archive.org/details/discoelysiumartbook/)<br><br>
 * https://joycemessier.tumblr.com/post/679243441467801600/disco-elysium-readings<br>
+* https://platypus1917.org/2025/02/01/forward-looking-return-an-interview-with-disco-elysium-writer-helen-hindpere/
 * https://backloggd.com/u/PHoovy/review/833332/
 * Most of the academic writing about it sucks.
 

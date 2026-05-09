@@ -26,7 +26,7 @@ He preserves us from [sets](https://en.wikipedia.org/wiki/Null_set) of measure z
 
 He makes the inaccessible cardinals. He stops the inaccessible cardinals from accessing us
 
-He is risen, he is lifted, and he is [Born](https://simons.berkeley.edu/talks/why-born-probabilities).
+He is risen, he is [lifted](https://en.wikipedia.org/wiki/Lift_(mathematics)), and he is [Born](https://simons.berkeley.edu/talks/why-born-probabilities).
 
 He transubstantiates our mortal filters into ultrafilters [for free](https://en.wikipedia.org/wiki/Ultrafilter_on_a_set#The_ultrafilter_lemma).
 

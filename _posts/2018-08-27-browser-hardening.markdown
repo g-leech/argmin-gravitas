@@ -10,7 +10,7 @@ img:        /img/attack.jpg
 published:  true
 visible:    1
 
-summary:    Passable browser security for almost no money or effort.
+summary:    Passable browser security for little money or effort
 confidence: 95% that this is worth the time and better than nothing.
 categories: long-content, computers, self-help, lists
 quality: 	8
