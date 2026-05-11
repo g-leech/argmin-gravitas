@@ -316,7 +316,6 @@ li{
 a {
     color: inherit;
     text-decoration: underline;
-    text-decoration-thickness: 0%;
     text-underline-offset: 3.5px;
 
     &:visited {
