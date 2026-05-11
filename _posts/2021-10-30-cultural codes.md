@@ -107,7 +107,7 @@ Three ways of relating to a genre, a medium, an art, a school of thought, a fiel
 
 <br>
 
-<img data-src="/img/cultural/spectrum.png" loading="lazy" /> 
+<img src="/img/cultural/spectrum.png" loading="lazy" /> 
 
 <br>
 
@@ -145,7 +145,7 @@ Pick something you're not open to. Ask:
 
 
 
-<!-- <img data-src="/img/cultural/loop.png" width="50%" loading="lazy" /> -->
+<!-- <img src="/img/cultural/loop.png" width="50%" loading="lazy" /> -->
 
 <!-- Deeper: deeper than you did before -->
 
@@ -174,8 +174,8 @@ Note that I do not mean the vanilla starter-pack consensus canon! For instance, 
 
 Too specific to say much about here. Critics again, or else a hard act of empiricism.<br><br>
 
-<img data-src="/img/cultural/mang.png" width="70%" loading="lazy" />
-<img data-src="/img/cultural/mang2.png" width="70%" loading="lazy" />
+<img src="/img/cultural/mang.png" width="70%" loading="lazy" />
+<img src="/img/cultural/mang2.png" width="70%" loading="lazy" />
 <br><br>
 
 ### 3. Material conditions

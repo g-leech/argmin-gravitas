@@ -118,7 +118,7 @@ The significance is that the animals are <i>aspects</i> of the human characters.
 <br><br>
 
 <center>
-	<img loading="lazy" data-src="/img/hoom/rous.jpg" width="80%" /><br>
+	<img loading="lazy" src="/img/hoom/rous.jpg" width="80%" /><br>
 	<small>Henri Rousseau, "The Dream" (1910)</small>
 </center>
 <br>
@@ -160,7 +160,7 @@ The album has an arc: from the courting of "Easy" to the final moving out of the
 ## Disc 1
 
 <center>
-	<img loading="lazy" data-src="/img/hoom/disc1.png" width="40%" />
+	<img loading="lazy" src="/img/hoom/disc1.png" width="40%" />
 </center>
 <br>
 
@@ -198,7 +198,7 @@ Chamber -&gt; Old chamber -&gt; Harp
 ## Disc 2
 
 <center>
-	<img loading="lazy" data-src="/img/hoom/disc2.jpg" width="50%" />
+	<img loading="lazy" src="/img/hoom/disc2.jpg" width="50%" />
 </center>
 <br>
 
@@ -240,7 +240,7 @@ Harp -&gt; Harp n horns -&gt; rustic Chamber-&gt; Harp -&gt; Harp -&gt; Piano
 ## Disc 3
 
 <center>
-	<img loading="lazy" data-src="/img/hoom/disc3.jpg" width="40%" />
+	<img loading="lazy" src="/img/hoom/disc3.jpg" width="40%" />
 </center>
 <br>
 
