@@ -133,21 +133,21 @@ visible:  false
 
 <h2>Best posts</h2>
 <section class="post-list">
-    {% assign posts = site.posts | where_exp: "item", "item.quality > 6" | sample: 6 %}
+    {% assign posts = site.posts
+	   | where_exp: "item", "item.quality > 6 and item.arb != 1"
+	   | sample: 6 %}
     {% for post in posts %}
-      {% if post.arb != 1 %}
-			<article class="preview">
-				<a href="{{ post.url | prepend: site.url }}">
-					<img src="{{ post.img }}" />
-				</a>
-				<a href="{{ post.url | prepend: site.url }}">
-					<div class="preview-info">
-						<h3> {{ post.title }} </h3>
-						<div>{{ post.summary }}</div>
-					</div>
-				</a>
-			</article>
-      {%  endif   %}
+		<article class="preview">
+			<a href="{{ post.url | prepend: site.url }}">
+				<img src="{{ post.img }}" />
+			</a>
+			<a href="{{ post.url | prepend: site.url }}">
+				<div class="preview-info">
+					<h3> {{ post.title }} </h3>
+					<div>{{ post.summary }}</div>
+				</div>
+			</a>
+		</article>
     {% endfor %}
 </section>
 
