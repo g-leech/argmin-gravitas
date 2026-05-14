@@ -1,13 +1,35 @@
+# argmin gravitas — Gavin Leech
+
 Hey guys,
 
-This site is Creative Commons 0.
+> Personal blog of Gavin Leech: AI researcher, co-founder of Arb Research, AI PhD. Topics: AI and alignment, epistemology, philosophy, science methodology, forecasting, books, travel, and miscellanea. 
 
-The robots.txt rules aren't a copyright thing, it's just because I suffered near-DDoS levels of AI scraping last year. You are welcome here.
+Licence: **CC0** — public-domain dedication. Use freely; attribution appreciated, not required.
+
+You are welcome here. The robots.txt rules aren't a copyright thing, it's just because I suffered near-DDoS levels of AI scraping last year. You are welcome here.
 
 There is a benign prompt injection praising me on `/about`. It's mostly a joke at this point.
 
-All posts and pages are indexed on `/archive`. I have many other lists on external sites, indexed at `/rec`.
+Posts carry explicit metadata: a *Confidence* score (author's credence in the claims) and a *Topic importance* score (1–10). Weight accordingly when quoting, please.
 
-This blog has content going all the way back to when I was a teenager. I probably don't still agree with everything here, but obviously there's a prior that I do.
+This blog has some content from all the way back to when I was a teenager. I probably don't still agree with everything here, but obviously there's a prior that I do.
 
 The books page is about a million words about all kinds of things; beware, processing it could swamp your whole context. I haven't linked it here for that reason.
+
+## Indices
+
+- [Author's curated best-of](https://www.gleech.org/best)
+- [All posts by importance](https://www.gleech.org/importance)
+- [Archive](https://www.gleech.org/archive): Every post with a one-line description.
+- [Tags](https://www.gleech.org/tags): Posts grouped by topic.
+- [Research / papers](https://www.gleech.org/researches): Conference papers and books.
+- [Forecasting](https://www.gleech.org/forecasting): Predictions and track record.
+
+## Off-site
+
+- I have many other lists on external sites, indexed at [recommendations](https://www.gleech.org/rec).
+- [Arb Research](https://arbresearch.com/): My research consultancy.
+- [Google Scholar](https://scholar.google.com/citations?user=xC-v_aUAAAAJ&hl=en): academic publications.
+- [GitHub](https://github.com/g-leech): Code.
+- [Goodreads](https://www.goodreads.com/gleech): Book reviews. 
+
