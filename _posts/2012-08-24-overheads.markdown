@@ -25,7 +25,7 @@ categories: lists, rationality, self-help, quantified-self
 {%	assign comm = "http://www.worldmapper.org/posters/worldmapper_map141_ver5.pdf"		%}
 {%  assign shower = "https://www.bbc.com/news/science-environment-15836433"   %}
 {%  assign shop = "https://qz.com/1677747/americans-are-spending-way-less-time-shopping/"   %}
-{%	assign g = "https://www.gwern.net/newsletter/2019/13"		%}
+{%	assign g = "https://archive.is/IIP6b"		%}
 {%	assign work = "https://en.wikipedia.org/wiki/Working_time#/media/File:Heures_travaillees_OCDE.png"		%}
 {%	assign ass = "https://web.archive.org/web/20150314181445/http://www.theweinerworks.com/?p=1694"		%}
 {%	assign comp = "https://eatcomplete.co"	%}
