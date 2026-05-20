@@ -226,7 +226,7 @@ This isn't the only example: love [stands](http://fayde.co.uk/dialojue/5240035) 
 
 An absurd example of hiding your shit behind a facade of noble politics: Harry calls his ex Dora a war criminal and identifies her with a mythical Europa figure (who I can't quite place. Justice?) Harry's enormous pain is hysteroid dysphoria from a bad breakup, PTSD from 20 years of hard policing and terrible acts, brain damage from [sticking his head into a radioactive singularity](http://fayde.co.uk/dialojue/11050788-11050925#11050925), and only fourthly the social pain of an undemocratic life, a humiliated populace, [poverty](https://discoelysium.fandom.com/wiki/Revachol#Decades), and a lost utopia. But give him the chance and he will attribute his problems to the Coalition and the war. Give others the chance and they will absurdly just call it alcoholism.
 
-Following the communism = love thread right to the end: Dros is Harry's future if he never gets over his breakup. A void where a person used to be; a person completely defined by his own failure, cast as the world failing him. Lashing out as his last mode of human interaction.
+Following the communism = love thread right to the end: [Dros is Harry's future](https://youtu.be/sD6ylocpcvk?t=1072) if he never gets over his breakup. A void where a person used to be; a person completely defined by his own failure, cast as the world failing him. Lashing out as his last mode of human interaction.
 
 <br><br>
 
@@ -863,7 +863,7 @@ But playing it I am reminded what is great about the left – the cussed rejecti
     <li class="footnote" id="fn:8">
         Actually 30 subpersonalities if we include your <a href="{{arb}}">Ancient Reptilian Brain</a> (self-preservation), <a href="{{arb}}">Limbic System</a> (emotional immune system), <a href="{{spine}}">Spinal Cord</a> (love of movement), <a href="{{horrific}}">Horrific Necktie</a> (love of fun), the <a href="{{bloat}}">Bloated Corpse of a Drunk</a> (death drive), and <a href="{{hanged}}">the Hanged Man you ventriloquise</a>.<br><br>(I'm not counting the hallucinated Dora. The Mysterious Pair of Eyes might also be you.)
         <br>
-        Note that when Harry sings karaoke, the voice which comes out is the ancient reptilian brain (and the performance is credited to it). We never hear Harry's voice otherwise, so I feel good about saying this is his normal voice.
+        Note that when Harry sings karaoke, the voice which comes out (in the success path) is the ancient reptilian brain (and the performance is credited to it). We never hear Harry's voice otherwise, so I feel good about saying this is his normal voice.
     </li>
     <!--  -->
     <li class="footnote" id="fn:9">
