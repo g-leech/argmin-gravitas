@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.croissanthology.archiver</string>
+
+  <!--
+    Replace REPLACE_ME_REPO_PATH below with the absolute path to this repo
+    on your MacBook (something like /Users/margot/code/croissanthology.github.io).
+    The wrapper script lives there; notifications go through Apple Mail +
+    macOS notification center, no SMTP creds required.
+  -->
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>-lc</string>
+    <string>REPLACE_ME_REPO_PATH/archiver/launchd/maintain.sh</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>REPLACE_ME_REPO_PATH</string>
+
+  <!-- Run nightly at 03:30 local time. If the Mac is asleep at that time,
+       launchd runs it as soon as the Mac wakes (lid open + on power). -->
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>3</integer>
+    <key>Minute</key>
+    <integer>30</integer>
+  </dict>
+
+  <key>RunAtLoad</key>
+  <false/>
+
+  <key>StandardOutPath</key>
+  <string>REPLACE_ME_REPO_PATH/archiver/launchd/maintain.log</string>
+  <key>StandardErrorPath</key>
+  <string>REPLACE_ME_REPO_PATH/archiver/launchd/maintain.log</string>
+</dict>
+</plist>

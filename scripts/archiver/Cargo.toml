@@ -1,0 +1,33 @@
+[package]
+name = "archiver"
+version = "0.1.0"
+edition = "2021"
+description = "Personal web archiver: capture outbound links from your essays, monitor for rot, rehost dead ones on your own site."
+license = "MIT"
+
+[[bin]]
+name = "archiver"
+path = "src/main.rs"
+
+[dependencies]
+anyhow = "1"
+chrono = { version = "0.4", features = ["serde"] }
+clap = { version = "4", features = ["derive"] }
+colored = "2"
+dialoguer = { version = "0.11", default-features = false }
+indicatif = "0.17"
+pulldown-cmark = "0.12"
+regex = "1"
+reqwest = { version = "0.12", default-features = false, features = ["blocking", "rustls-tls"] }
+scraper = "0.20"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+sha2 = "0.10"
+toml = "0.8"
+url = "2"
+walkdir = "2"
+
+[profile.release]
+opt-level = 3
+lto = "thin"
+strip = true

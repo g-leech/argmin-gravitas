@@ -1,0 +1,30 @@
+# archiver config — copy this to <repo>/.archiver/config.toml and edit.
+#
+#   cp archiver/config.example.toml .archiver/config.toml
+#   $EDITOR .archiver/config.toml
+#
+# This file is per-site. Your real config lives outside the published repo
+# (`.archiver/` is gitignored) so your email doesn't end up on GitHub.
+
+# Domains that count as "your own" — outbound links to these are skipped
+# during extraction (they're your own posts, not citations you need to
+# archive). Subdomains match too: `example.com` covers `www.example.com`.
+own_domains = [
+  "gleech.org",
+  "www.gleech.org",
+]
+
+# Recipient for the monthly "X dead substack link(s) need a manual patch"
+# email. Apple Mail uses whatever account Mail.app is signed into; no SMTP
+# setup needed. (Non-mac: this field is ignored until you wire your own
+# notifier into src/notify.rs.)
+notify_email = "g@gleech.org"
+
+# Public URL prefix for your site. Used to construct the "archive at: ..."
+# URLs in the monthly email + the SUBSTACK_DEAD_LINKS.md checklist.
+site_origin = "https://gleech.org"
+
+# Nitter mirror used to fetch tweets — monolith can't capture
+# twitter.com / x.com directly because they require client-side JS. If
+# nitter.net is unreliable, swap in xcancel.com or nitter.poast.org.
+nitter_host = "nitter.net"
