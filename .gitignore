@@ -2,6 +2,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.archiver
 files/pdf
 blog.sublime-workspace
 .DS_Store

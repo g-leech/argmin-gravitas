@@ -147,7 +147,7 @@ So it looks like there's a strong apriori case to prioritise x-risk, for anyone 
 
 ## See also 
 
-* Fyodorov's [original Common Cause](https://commontask.io/a-letter-about-nikolai-fyodorovich-fyodorov)
+* Fyodorov's [original Common Cause](https://web.archive.org/web/20240223163945/https://commontask.io/a-letter-about-nikolai-fyodorovich-fyodorov)
 
 <br><br>
 
