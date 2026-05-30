@@ -13,6 +13,8 @@ visible:	false
 
 - '[Lament for the Makaris](https://poets.org/poem/lament-makaris)' by Dunbar
 
+- '[Hymn to Proserpine](https://www.poetryfoundation.org/poems/45292/hymn-to-proserpine-after-the-proclamation-in-rome-of-the-christian-faith)' by Swinburne
+
 - '[Prayer Before Birth](https://poetryarchive.org/poem/prayer-before-birth/)' by MacNeice
 
 - '[Bavarian Gentians](https://poetryarchive.org/poem/bavarian-gentians/)' by Lawrence
@@ -215,5 +217,6 @@ visible:	false
 
 - '[Where the River Meets the Sea](https://troublingadvocacy.blogspot.com/2013/08/where-river-meets-sea-1997-by-john.html)' by John Mackay
 
+<!-- https://web.archive.org/web/20210214201014/http://www.augustpoetry.org/passage/men_at_forty.htm -->
 
 <br><br>

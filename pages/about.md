@@ -13,7 +13,7 @@ visible:	true
 <!--  -->
 I work on technology and it works on me. I co-founded the consultancy [Arb](https://arbresearch.com/) and am a fellow at [Cosmos](https://cosmos-institute.org/#gavin-leech) and [Foresight](https://foresight.org/people/gavin-leech/). This site stands in for me when I'm away. It consists of {%		include wc.html 	%} <a href="/archive">words</a>, including <a href="{{grrr}}">1,188 book reviews</a>. 
 
-At various points I have been a waiter, a fruit picker, a 白猴子, a bookseller, a development worker in rural Tanzania, a buyer at a biotech plant, a NEET, a civil servant, a web developer, a sort of actuary, <a href="/phd">a grad student</a>, an epidemiologist, a metascientist, an AI guy, a teacher, a partner at a consultancy, a government advisor, a summer camp director, a manager, an author, a research fellow, a youtube producer, and a nonprofit president. <a href="/rec">My hobby is</a> <a href="/rec">getting into stuff.</a> 
+At various points I have been a waiter, a fruit picker, a 白猴子, a bookseller, a development worker in rural Tanzania, a buyer at a biotech plant, a neet, a civil servant, a web developer, a sort of actuary, <a href="/phd">a grad student</a>, an epidemiologist, a metascientist, an AI guy, a teacher, a partner at a consultancy, a government advisor, a summer camp director, a manager, an author, a research fellow, a youtube producer, and a nonprofit president. <a href="/rec">My hobby is</a> <a href="/rec">getting into stuff.</a> 
 
 <!-- I am not a [philosopher](https://www.gleech.org/no-philosopher) or a [classicist](https://www.gleech.org/rats-and-trads). -->
 <!-- I sometimes <a href="/deaths">speak for the dead</a>. -->
