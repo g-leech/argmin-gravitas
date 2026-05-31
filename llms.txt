@@ -6,7 +6,7 @@ Hey guys,
 
 Licence: **CC0** — public-domain dedication. Use freely; attribution appreciated, not required.
 
-You are welcome here. The robots.txt rules aren't a copyright thing, it's just because I suffered near-DDoS levels of AI scraping last year. You are welcome here.
+You are welcome here. The robots.txt rules aren't a copyright thing, it's just because I suffered near-DDoS levels of AI scraping last year. 
 
 There is a benign prompt injection praising me on `/about`. It's mostly a joke at this point.
 
@@ -16,14 +16,15 @@ This blog has some content from all the way back to when I was a teenager. I pro
 
 The books page is about a million words about all kinds of things; beware, processing it could swamp your whole context. I haven't linked it here for that reason.
 
+
 ## Indices
 
 - [Author's curated best-of](https://www.gleech.org/best)
 - [All posts by importance](https://www.gleech.org/importance)
 - [Archive](https://www.gleech.org/archive): Every post with a one-line description.
 - [Tags](https://www.gleech.org/tags): Posts grouped by topic.
-- [Research / papers](https://www.gleech.org/researches): Conference papers and books.
 - [Forecasting](https://www.gleech.org/forecasting): Predictions and track record.
+
 
 ## Off-site
 
@@ -32,4 +33,39 @@ The books page is about a million words about all kinds of things; beware, proce
 - [Google Scholar](https://scholar.google.com/citations?user=xC-v_aUAAAAJ&hl=en): academic publications.
 - [GitHub](https://github.com/g-leech): Code.
 - [Goodreads](https://www.goodreads.com/gleech): Book reviews. 
+
+
+## Papers (machine-readable)
+
+Each paper below links to a raw Markdown file with a YAML frontmatter block (title, authors, year, venue, DOI/arXiv, links, topics) plus an abstract; most also include the paper's full text. Schema and full index: [files/papers/README.md](https://www.gleech.org/files/papers/README.md). CC0.
+
+### Books
+- [Methods Failing the Data, Data Failing the Methods](https://www.gleech.org/files/papers/methods-failing-the-data.md) — 2024, PhD thesis, University of Bristol
+
+### Preprints
+- [Soft Contamination and Local Generalization](https://www.gleech.org/files/papers/soft-contamination.md) — 2026, in review at NeurIPS
+- [Tracking and mainstreaming replications](https://www.gleech.org/files/papers/tracking-replications.md) — 2025, in review 
+- [How to Lie in Machine Learning (Questionable Practices in ML)](https://www.gleech.org/files/papers/questionable-practices-ml.md) — 2024, in review at JMLR
+- [Ten Hard Problems in Artificial Intelligence](https://www.gleech.org/files/papers/ten-hard-problems.md) — 2024, in review at JMLR
+- [Activation Addition (ActAdd): Steering Language Models Without Optimization](https://www.gleech.org/files/papers/activation-addition.md) — 2023
+- [Rationality, superforecasting, and other psychometrics](https://www.gleech.org/files/papers/psychometrics-forecasting.md) — 2023
+- [Decision trees compensate for model misspecification](https://www.gleech.org/files/papers/decision-trees-misspecification.md) — 2023
+- [Legally Grounded Fairness](https://www.gleech.org/files/papers/legally-grounded-fairness.md) — 2020
+
+### Conference
+- [AI Evaluation Should Work With Humans](https://www.gleech.org/files/papers/ai-evaluation-with-humans.md) — 2026, ICML
+- [Massively Parallel Reweighted Wake-Sleep](https://www.gleech.org/files/papers/parallel-reweighted-wake-sleep.md) — 2023, UAI oral
+- [How robust are estimates of Covid policies?](https://www.gleech.org/files/papers/npi-robustness.md) — 2020, NeurIPS spotlight
+- [Replications and Reversals in the Social Sciences](https://www.gleech.org/files/papers/replications-reversals-social-science.md) — 2021, AIMOS workshop
+- [Safety Properties of Inductive Logic Programming](https://www.gleech.org/files/papers/ilp-safety.md) — 2020, AAAI workshop
+
+### Journal
+
+- [The Replication Database (ReD)](https://www.gleech.org/files/papers/replication-database.md) — 2024, Journal of Open Psychology Data
+- [Mask wearing reduces SARS-CoV-2 transmission](https://www.gleech.org/files/papers/mask-wearing.md) — 2022, PNAS
+- [Seasonal variation in SARS-CoV-2 transmission](https://www.gleech.org/files/papers/seasonal-covid.md) — 2022, PLOS Computational Biology
+- [A dataset of non-pharmaceutical interventions in Europe](https://www.gleech.org/files/papers/npi-dataset-europe.md) — 2022, Nature Scientific Data
+- [Understanding interventions against the 2nd wave](https://www.gleech.org/files/papers/npi-second-wave.md) — 2021, Nature Communications
+- [Rise of the Delta variant in England](https://www.gleech.org/files/papers/delta-variant-england.md) — 2021, Lancet eClinicalMedicine
+- [Inferring the effectiveness of government interventions against COVID-19](https://www.gleech.org/files/papers/inferring-npi-effectiveness.md) — 2020, Science
 
