@@ -4,8 +4,24 @@
         url('../BerkeleyMonoTrial-Regular.woff') format('woff');
 }
 
+@font-face {
+  font-family: 'Valley';
+  src:  url('../ValleySans-VF.woff2') format('woff2-variations');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Valley';
+  src:  url('../ValleySans-Italic-VF.woff2') format('woff2-variations');
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Valley', 'Arial', sans-serif;
     font-size: var(--font-size);
     line-height: var(--line-height);
     font-weight: 0;
@@ -124,7 +140,7 @@ h1, h2 {
 
 
 h1, h2, h3, .accordion, .fancy, .site-title, .post-meta, .post-title, footer, nav, #tags {
-    font-family: 'Berk', sans-serif;
+    font-family: 'Valley', sans-serif;
 }
 
 
