@@ -32,6 +32,9 @@ This isn't true, but it's [morally](https://www.reddit.com/r/math/comments/925a8
 
 <br>
 
+
+It's not that they're not smart; let all grant that they are. It's not that I'm ignorant; I was there watching the monitor as they were born and know how they grew. It's something else. Every time a new model comes out, I say “ok Gav it’s finally time to cyborg up” -- and every time, it confidently makes an appalling error within 5 minutes and I completely lose my appetite.
+
 <div class="accordion">
 	<h3>October update</h3>
 	<div>
@@ -59,8 +62,6 @@ This isn't true, but it's [morally](https://www.reddit.com/r/math/comments/925a8
 
 <br>
 
-It's not that they're not smart; let all grant that they are. It's not that I'm ignorant; I was there watching the monitor as they were born and know how they grew. It's something else. Every time a new model comes out, I say “ok Gav it’s finally time to cyborg up” -- and every time, it confidently makes an appalling error within 5 minutes and I completely lose my appetite.
-
 But [people](https://www.lesswrong.com/posts/zuXo9imNKYspu9HGv/a-three-layer-model-of-llm-psychology#Limitations_and_Open_Questions:~:text=This%20post%20emerged%20from%20a%20collaboration%20between%20Jan%20Kulveit%20(JK)%20and%20Claude%20%223.6%22%20Sonnet) [I enormously](https://x.com/stanislavfort/status/1905195177544720663) respect have been using them happily for real thinking for a long time, sometimes [two](https://x.com/LauraDeming/status/1604914163892965376) full years, and the resulting output is good and deep. 
 
 Something's gotta give.
@@ -81,9 +82,9 @@ Something's gotta give.
 * [them not being actually able to read long things properly](https://www.tumblr.com/nostalgebraist/772798409412427776/even-setting-aside-the-need-to-do) despite what people tell you
 * the valuable thing that I do at work is not "produce words", and not "skim thousands of words", but "think in new ways" and "be calibrated". The machines of 2025 cannot help me with this except as a foil, a stooge, a practice dummy for what not to say. 
 * my working at a level where most of what I want to know is in the training corpus 0-10 times, i.e. maybe below the [pretraining extraction frequency](https://arxiv.org/abs/2309.14316) (but this is a moving target and bigger models may get it)
-* **my being very precious about style, having a disgust reaction to bad style** EDIT: In September this system prompt started working: <a href="#fn:1" id="fnref:1">1</a>
+* **my being very precious about style, having a disgust reaction to bad style** EDIT: In September my system prompt started working and removed the very worst of the 4o-style stench.
 * **my having a disgust reaction in response to being bullshitted** - which I endorse and which keeps me strong.
-* their incredibly annoying laziness training, e.g. where they process like 12 rows of a 1000 row dataset and then say "the rest of the rows have been omitted for brevity" or whatever
+* their incredibly annoying laziness ("length penalty") training, e.g. where they process like 12 rows of a 1000 row dataset and then say "the rest of the rows have been omitted for brevity" or whatever
 <!-- *  something about RLHF milquetoast, no chance of big surprises, no right tail -->
 * my knowing regex very well
 * my worrying about being deskilled by using them. (Later I will also worry about "cognitive security".)

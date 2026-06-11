@@ -14,7 +14,7 @@ visible:    false
 The government is destroyed. Land remains.<br>
 The city in spring is deep in the weeds.<br>
 In these times there are tears on the flowers.<br>
-Loathe to part, even birds startle the heart.<br>
+Loath to part, even birds startle the heart.<br>
 Beacon fires burn for three straight months. <br>
 A letter from home, worth ten thousand gold.  <br>
 Scratching at my white hair makes it sparser.<br>
@@ -39,7 +39,7 @@ White hair worn thin<br>
 won't hold a pin.<br>
 <br>
 No state, land.<br>
-Town mossy.<br>
+Town wilding.<br>
 Flowers, tears;<br>
 Birds startle.<br>
 Alarms blare;<br>
@@ -55,6 +55,8 @@ War: months.<br>
 Words: gold.<br>
 Hair thins.<br>
 No hold.<br>
+
+<!-- After. / Under. / Upon. / Apart. / Through. / Worth. / Away. / Without.  -->
 
 <br>
 
@@ -142,12 +144,12 @@ I row, and row, and startle a wave of herons.<br>
 I am old and reviving my youthful madness. <br>
 Yellow hound on my left and hawk on my right. <br>
 With splendid hat and sable coat I ride the plains with my thousand riders. <br>
-To repay the governor's kindness, I shoot tigers in the style of General Sun.<br>
+To repay the city's honouring me, I shoot tigers in the style of General Sun.<br>
 
 My stomach full of wine: my chest full of courage. <br>
 My temples are frosted grey? – so what! <br>
 Will the imperial seal _never_ summon me to my potential?<br>
-I will draw a carved bow full as the moon, look northwest, and shoot down Sirius.<br>
+I will draw a carved bow. Full as the moon. Look northwest. Shoot down Sirius.<br>
 
 <br>
 

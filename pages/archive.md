@@ -98,8 +98,9 @@ visible:  false
 
 
 <script async src="https://cse.google.com/cse.js?cx=942c04d4b5a4e68e0"></script>
-<div class="gcse-search"></div>
-
+<center>
+  <div class="gcse-search"></div>
+</center>
 
 <div class="post">      
       {% for post in site.posts %}
