@@ -1,9 +1,6 @@
 User-agent: Googlebot
 Disallow: /cv.pdf
 
-User-agent: Googlebot
-Disallow: /css/main.css
-
 User-agent: *
 Disallow:
 User-agent: AdsBot-Google
@@ -12,7 +9,6 @@ User-agent: Applebot-Extended
 User-agent: AwarioRssBot
 User-agent: AwarioSmartBot
 User-agent: Bytespider
-User-agent: CCBot
 User-agent: cohere-ai
 User-agent: DataForSeoBot
 User-agent: Diffbot
@@ -27,11 +23,18 @@ User-agent: omgili
 User-agent: omgilibot
 User-agent: peer39_crawler
 User-agent: peer39_crawler/1.0
-User-agent: PerplexityBot
 User-agent: PiplBot
 User-agent: scoop.it
 User-agent: Seekr
 User-agent: YouBot
+Allow: /llms.txt
+Allow: /files/papers/
+Allow: /best
+Allow: /importance
+Allow: /archive
+Allow: /tags
+Allow: /forecasting
+Allow: /rec
 Disallow: /
 
 User-agent: *

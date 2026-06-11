@@ -185,7 +185,7 @@ You can view any successful process as an amoral replicator. The real question i
 
 I praised the level of social development in the books. But his humans aren't _radically_ different from us. Critique (1) and (2) only hurt because human nature in the Culture is still recognisable as our nature.
 
-Culture citizens tend to not want to live more than 400 years for some reason. (Sheer deepity: "_death is regarded as part of life, and nothing, including the universe, lasts forever. It is seen as bad manners to try and pretend that death is somehow not natural; instead death is seen as giving shape to life._") I don't expect this to be true.
+Culture citizens tend to not want to live more than 400 years for some reason. (Sheer deepity: "_death is regarded as part of life, and nothing, including the universe, lasts forever. It is seen as bad manners to try and pretend that death is somehow not natural; instead death is seen as giving shape to life._") I don't expect this to be true. I choose to interpret this as a soft kind of protest, as "This place is good, but it's missing something and so I've had enough".
 
 They are not beyond suffering and competitive stress: note <a href="{{ulver}}">Ulver</a>'s whining and tantrums. Grief is common, sometimes lasting a century. They don't take wild-animal suffering seriously.
 
