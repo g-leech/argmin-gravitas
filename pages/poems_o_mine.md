@@ -86,7 +86,7 @@ Mum won't turn or look over, won't clatter the cupboard catch:<br>
 Too busy cutting me shoes from a leftover boot, clogs from scratch.<br>
 My father's reading news of Africa, then<br>
 bout Rothschild's latest views, a Rich Man the King of Angels, amen.<br>
-Go mad or go grey — no matter: your wage won't tide you over.<br>
+Go mad or go grey — no matter: your wage won't see you through.<br>
 As I thin the prices grow fatter — in Turkey the earth's shaking, too.<br>
 You order the paper and look – god! gossip and slander!<br>
 The bigguns have their big boots. I'll stay small and meander.<br>
