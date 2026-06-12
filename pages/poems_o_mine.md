@@ -11,15 +11,17 @@ visible:    false
 
 ### Spring Prospect (by 杜甫)
 
-The government is destroyed. Land remains.<br>
-The city in spring is deep in the weeds.<br>
-In these times there are tears on the flowers.<br>
-Loath to part, even birds startle the heart.<br>
-Beacon fires burn for three straight months. <br>
-A letter from home, worth ten thousand gold.  <br>
-Scratching at my white hair makes it sparser.<br>
-It's now nearly too scant for a hairpin.  <br><br>
 
+
+The state is destroyed; the mountains remain.<br>
+The city in spring is deep in the weeds.<br>
+In these times even the flowers wear tears.<br>
+Bereft, even birds can startle the heart.<br>
+The beacons have burned, three months at a stretch.<br>
+A letter from home worth thousands in gold.<br>
+I scratch my white hair; it's thinner each time,<br>
+and soon will not hold my state hairpin at all.<br>
+<br>
 Realm falls; hills unmoved.<br>
 Grass buries the old.<br>
 Grieving, flowers weep;<br>
@@ -47,7 +49,7 @@ Gold for words.<br>
 Worried hair<br>
 holds no pin.<br>
 <br>
-Realm; hills.<br>
+State; hills.<br>
 Wild grass.<br>
 Blooms sting.<br>
 Birds fright.<br>
@@ -56,11 +58,19 @@ Words: gold.<br>
 Hair thins.<br>
 No hold.<br>
 
-<!-- After. / Under. / Upon. / Apart. / Through. / Worth. / Away. / Without.  -->
+<!-- After. 
+    Under.
+    Upon.
+    Apart.
+    Through.
+    Worth.
+    Away.
+    Without.  -->
 
 <br>
 
-([original](https://en.wikipedia.org/wiki/Chunwang_(poem)#Structure).)
+([original](https://en.wikipedia.org/wiki/Chunwang_(poem)#Structure).) <a href="#fn:2" id="fnref:2">2</a>
+
 
 <br><br>
 
@@ -68,35 +78,34 @@ No hold.<br>
 
 ### I'm gonna sell stuff (by Betti Alver)
 
-Black shadow, behind the pane, and across the ceiling.<br>
-The kettle hums and strains. The pan won't be appealing.<br>
-Wind rattles the squares with branches from the avenue.<br>
-My body's pale, pale years. The rain speaks Latin too.<br>
-Mum won't look about, won't rattle the door.<br>
-She's cutting me shoes out of boots downworn.<br>
-Father's reading the paper for Africa news<br>
-And Rothschild's rich capers (he's king of angels too).<br>
-Go crazy, go grey; your wage won't give you wings.<br>
-Prices hiked today. In Turkey the earth's shaking.<br> 
-You order the paper and look – gossip and slander!<br>
+Beyond the window something comes — a black shade on the ceiling — gone.<br>
+Constantly the kettle hums — but our pan? s'no pancakes on.<br>
+The drummer wind, as it rages, marshals branches from the avenue.<br>
+My belly's been empty for ages — and the rain speaks Latin, too.<br>
+Mum won't turn or look over, won't clatter the cupboard catch:<br>
+Too busy cutting me shoes from a leftover boot, clogs from scratch.<br>
+My father's reading news of Africa, then<br>
+bout Rothschild's latest views, a Rich Man the King of Angels, amen.<br>
+Go mad or go grey — no matter: your wage won't tide you over.<br>
+As I thin the prices grow fatter — in Turkey the earth's shaking, too.<br>
+You order the paper and look – god! gossip and slander!<br>
 The bigguns have their big boots. I'll stay small and meander.<br>
 Everyone's off to town and town – city things all the rage.<br>
 Guess I too could settle down in sales for a Leihberg wage.<br><br>
-There I'll sell you flour and rice (gloves and hats),<br>
-sell randomly, at wholesale price (nuts, muscats),<br>
-Socks, shoes, scarves (saucepans),<br>
-harps and pearls and balls (and paper horsemen),<br>
-everything glittery (bread, sugar, and honey) – <br>
-half-off; completely free; use fallen leaves for money!<br><br>
+I'll sell flour and rice in sackfuls, sell gloves and sell hats and sell nuts,<br>
+sell almonds and raisins by stackful — haphazard and heapwise in gluts!<br>
+Sell socks and sell boots and sell shawls, and saucepans for soups and for sauces,<br>
+sell mouth-organs, pearls and balls, and herds of cardboard horses!<br>
+I'll sell ya whatever your eye alights on, sell gingerbread, sugar and honey,<br>
+Half-off — all off, forever — use fallen leaves for the money!<br>
 Who wipes away sweat? gets soap on the spot;<br>
 Who sighing buys sprats? gets herrings by lot.<br>
 Whose skirt is in tatters, or sleeve tarred with grime? –<br> 
 Fear not such matters: our cloth shelf's sublime –<br>
-Look here up high! Here's linen and jacquard.<br>
-Let the goods fly! Let em slap the counter!<br><br>
-Then Mr. Leihberg will thank us all like a man!...
-Maybe.<br>
-Come, friends, to Leihberg's store! Surely come. See ya!<br><br><br>
+Just look over here over yonder! Here's duck and dimity snap-snap<br>
+Let the goods fly, let the goods wander till the shop-counter slaps!<br><br>
+Then Mister Leihberg, all hearty, will thank us all like a man!... Perhaps.<br>
+Come, friends, shop! What a party! Surely come! See ya chaps!<br><br>
 
 ([original](https://sasslantis.ee/lyrics-vaiko_eplik-l_hen_m_jaks), 1965)
 
@@ -2378,6 +2387,9 @@ Yeahmeandmydadaretryingtofindit
 <br><br><br>
 
 
+> Poetry is just the evidence of life. If your life is burning well, poetry is just the ash.
+
+<center>— Leonard Cohen</center>
 
 
 
@@ -2445,12 +2457,11 @@ So komm nur wieder zu mir!«<br />
 </blockquote>
 <br /><br>
 (1922)<br />
-
 </li>
+    <!-- 2 -->
+    <li class="footnote" id="fn:2">
+      <a href="https://claude.ai/share/36592aa9-d318-452e-94ce-3663d7d0b6da">Interpretation</a>  
+    </li>
 </ol>
+
 </div>
-
-
-> Poetry is just the evidence of life. If your life is burning well, poetry is just the ash.
-
-<center>— Leonard Cohen</center>
