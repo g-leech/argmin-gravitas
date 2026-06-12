@@ -83,7 +83,7 @@ Constantly the kettle hums, but our pan's got no pancakes on.<br>
 The drummer wind, as it rages, marshals branches from the avenue.<br>
 My belly's been empty for ages. And the rain speaks Latin, too.<br>
 Mum won't turn or look over, won't clatter the cupboard catch:<br>
-Too busy cutting me shoes from a leftover boot, clogs from scratch.<br>
+Too busy cutting up a leftover boot to make me some shoes in a batch.<br>
 My father's reading news of Africa, then<br>
 bout Rothschild's views and the King of Angels (amen).<br>
 Go mad or go grey makes no matter: your wage won't see you through.<br>
