@@ -78,34 +78,34 @@ No hold.<br>
 
 ### I'm gonna sell stuff (by Betti Alver)
 
-Beyond the window something comes — a black shade on the ceiling — gone.<br>
-Constantly the kettle hums — but our pan? s'no pancakes on.<br>
+Beyond the window something comes, a shadow on the ceiling, gone.<br>
+Constantly the kettle hums, but our pan's got no pancakes on.<br>
 The drummer wind, as it rages, marshals branches from the avenue.<br>
-My belly's been empty for ages — and the rain speaks Latin, too.<br>
+My belly's been empty for ages. And the rain speaks Latin, too.<br>
 Mum won't turn or look over, won't clatter the cupboard catch:<br>
 Too busy cutting me shoes from a leftover boot, clogs from scratch.<br>
 My father's reading news of Africa, then<br>
 bout Rothschild's latest views, a Rich Man the King of Angels, amen.<br>
-Go mad or go grey — no matter: your wage won't see you through.<br>
-As I thin the prices grow fatter — in Turkey the earth's shaking, too.<br>
-You order the paper and look – god! gossip and slander!<br>
-The bigguns have their big boots. I'll stay small and meander.<br>
-Everyone's off to town and town – city things all the rage.<br>
+Go mad or go grey, makes no matter: your wage won't see you through.<br>
+As I thin the prices grow fatter. In Turkey the earth's shaking, too.<br>
+You order the paper and look – gossip and slander!<br>
+The bigguns have their big boots. I'd rather stay small and meander.<br>
+Everyone's off to town and town. City things all the rage.<br>
 Guess I too could settle down in sales for a Leihberg wage.<br><br>
-I'll sell flour and rice in sackfuls, sell gloves and sell hats and sell nuts,<br>
-sell almonds and raisins by stackful — haphazard and heapwise in gluts!<br>
+I'll sell em flour and rice in sackfuls, sell gloves and sell hats and sell nuts,<br>
+sell almonds and raisins by backhoe — haphazard and heapwise in gluts!<br>
 Sell socks and sell boots and sell shawls, and saucepans for soups and for sauces,<br>
 sell mouth-organs, pearls and balls, and herds of cardboard horses!<br>
-I'll sell ya whatever your eye alights on, sell gingerbread, sugar and honey,<br>
+I'll sell ya whatever your eye alights on, sell spice-cakes, sugar, and honey,<br>
 Half-off — all off, forever — use fallen leaves for the money!<br>
-Who wipes away sweat? gets soap on the spot;<br>
-Who sighing buys sprats? gets herrings by lot.<br>
+Who wipes away sweat? Gets soap on the spot;<br>
+Who sighing buys sprats? Gets herrings by lot.<br>
 Whose skirt is in tatters, or sleeve tarred with grime? –<br> 
 Fear not such matters: our cloth shelf's sublime –<br>
-Just look over here over yonder! Here's duck and dimity snap-snap<br>
+Look over here over yonder! Here's duckcloth and dimity, snap-snap<br>
 Let the goods fly, let the goods wander till the shop-counter slaps!<br><br>
-Then Mister Leihberg, all hearty, will thank us all like a man!... Perhaps.<br>
-Come, friends, shop! What a party! Surely come! See ya chaps!<br><br>
+Then Mister Leihberg, all hearty, will come and thank us like a man!... Perhaps.<br>
+Come, friends, to the party! Surely come! See yas chaps!<br><br>
 
 ([original](https://sasslantis.ee/lyrics-vaiko_eplik-l_hen_m_jaks), 1965)
 
