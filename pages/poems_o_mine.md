@@ -18,8 +18,8 @@ The city in spring is deep in the weeds.<br>
 In these times even the flowers wear tears.<br>
 Bereft, even birds can startle the heart.<br>
 The beacons have burned, three months at a stretch.<br>
-A letter from home worth thousands in gold.<br>
-I scratch my white hair; it's thinner each time,<br>
+A letter from home's worth thousands in gold.<br>
+I scratch my white hair; it's thinner each time<br>
 and soon will not hold my state hairpin at all.<br>
 <br>
 Realm falls; hills unmoved.<br>
@@ -50,7 +50,7 @@ Worried hair<br>
 holds no pin.<br>
 <br>
 State; hills.<br>
-Wild grass.<br>
+Green ruins.<br>
 Blooms sting.<br>
 Birds fright.<br>
 War: months.<br>
@@ -85,29 +85,29 @@ My belly's been empty for ages. And the rain speaks Latin, too.<br>
 Mum won't turn or look over, won't clatter the cupboard catch:<br>
 Too busy cutting me shoes from a leftover boot, clogs from scratch.<br>
 My father's reading news of Africa, then<br>
-bout Rothschild's latest views, a Rich Man the King of Angels, amen.<br>
-Go mad or go grey, makes no matter: your wage won't see you through.<br>
-As I thin the prices grow fatter. In Turkey the earth's shaking, too.<br>
+bout Rothschild's views and the King of Angels (amen).<br>
+Go mad or go grey makes no matter: your wage won't see you through.<br>
+As I thin the prices grow fatter. In Turkey the earth's shaking too.<br>
 You order the paper and look – gossip and slander!<br>
 The bigguns have their big boots. I'd rather stay small and meander.<br>
 Everyone's off to town and town. City things all the rage.<br>
 Guess I too could settle down in sales for a Leihberg wage.<br><br>
 I'll sell em flour and rice in sackfuls, sell gloves and sell hats and sell nuts,<br>
 sell almonds and raisins by backhoe — haphazard and heapwise in gluts!<br>
-Sell socks and sell boots and sell shawls, and saucepans for soups and for sauces,<br>
-sell mouth-organs, pearls and balls, and herds of cardboard horses!<br>
-I'll sell ya whatever your eye alights on, sell spice-cakes, sugar, and honey,<br>
-Half-off — all off, forever — use fallen leaves for the money!<br>
+Sell socks sell boots sell shawls, and saucepans for soups and for sauces,<br>
+sell mouth-organs, pearls, and balls, herds of cardboard horses!<br>
+I'll sell ya whatever alights your eye, sell spiced cake with sugar and honey,<br>
+Half-off — all off — forever my guy, use fallen leaves for the money!<br>
 Who wipes away sweat? Gets soap on the spot;<br>
 Who sighing buys sprats? Gets herrings by lot.<br>
 Whose skirt is in tatters, or sleeve tarred with grime? –<br> 
 Fear not such matters: our cloth shelf's sublime –<br>
-Look over here over yonder! Here's duckcloth and dimity, snap-snap<br>
-Let the goods fly, let the goods wander till the shop-counter slaps!<br><br>
-Then Mister Leihberg, all hearty, will come and thank us like a man!... Perhaps.<br>
-Come, friends, to the party! Surely come! See yas chaps!<br><br>
+Look here over yonder! Here's duckcloth and tulle, chop-chop<br>
+Let the goods wander: let the goods dance to the shop-counter hop!<br><br>
+Then Mister Leihberg, hearty, will come and thank us like a man!... Perhaps.<br>
+Come, friends, to the shop party! Surely come! See yas chaps!<br><br>
 
-([original](https://sasslantis.ee/lyrics-vaiko_eplik-l_hen_m_jaks), 1965)
+([original](https://sasslantis.ee/lyrics-vaiko_eplik-l_hen_m_jaks), 1965) <a href="#fn:3" id="fnref:3">3</a>
 
 <br><br>
 
@@ -2461,6 +2461,9 @@ So komm nur wieder zu mir!«<br />
     <!-- 2 -->
     <li class="footnote" id="fn:2">
       <a href="https://claude.ai/share/36592aa9-d318-452e-94ce-3663d7d0b6da">Interpretation</a>  
+    </li>
+    <li class="footnote" id="fn:3">
+      <a href="https://claude.ai/share/d4dfd325-563f-4d51-8448-ca243ecd3909">Interpretation</a>  
     </li>
 </ol>
 
