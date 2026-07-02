@@ -13,11 +13,11 @@ visible:    false
 
 
 
-The state is destroyed; the mountains remain.<br>
+The state is destroyed; the mountains remain;<br>
 The city in spring is deep in the weeds.<br>
-In these times even the flowers wear tears.<br>
+In these times even the flowers wear tears;<br>
 Bereft, even birds can startle the heart.<br>
-The beacons have burned, three months at a stretch.<br>
+The beacons have burned three months at a stretch;<br>
 A letter from home's worth thousands in gold.<br>
 I scratch my white hair; it's thinner each time<br>
 and soon will not hold my state hairpin at all.<br>
@@ -398,7 +398,7 @@ something to be watching, and that is as good as it gets.
 
 <br>
 
-### __uluburun__
+### __uluburun__ <a href="#fn:4" id="fnref:4">4</a>
 <!-- 2016-12-18 -->
 
 <br>
@@ -508,7 +508,7 @@ Where to? First contact?
 
 <br><br><br>
 
-### __generally__
+### __generally__ <a href="#fn:5" id="fnref:5">5</a>
 
 <!-- 2016-01-08 -->
 
@@ -811,7 +811,7 @@ enough for one interpretation more.
 <br><br><br>
 
 
-### __create table person__
+### __create table person__ <a href="#fn:7" id="fnref:7">7</a>
 <!-- 2014-03-12 -->
 
 CREATE TABLE person (<br />
@@ -1124,7 +1124,7 @@ It will impact you but not for long.
 <br><br><br>
 
 
-### __study in usb sticks lost at my workplace__
+### __study in usb sticks lost at my workplace__ <a href="#fn:6" id="fnref:6">6</a>
 <!-- 2013-04-11 -->
 
 Black telescopic macho toy, 4GB:<br />
@@ -2276,7 +2276,7 @@ Descend by skyhook and bitten tongue
 
 
 
-### __Timepoem 1: Independence Overrated (6/10/07)__
+### __Timepoem 1: Independence Overrated (6/10/07)__ <a href="#fn:8" id="fnref:8">8</a>
 
 _Being a minute-by-minute account of a shy lad with pretensions travelling to the Edinburgh University Open Day, and there enjoying a psychotic moment_
 
@@ -2460,10 +2460,30 @@ So komm nur wieder zu mir!«<br />
 </li>
     <!-- 2 -->
     <li class="footnote" id="fn:2">
-      <a href="https://claude.ai/share/36592aa9-d318-452e-94ce-3663d7d0b6da">Interpretation</a>  
+      {% include interp/spring-prospect.html %}
     </li>
     <li class="footnote" id="fn:3">
-      <a href="https://claude.ai/share/d4dfd325-563f-4d51-8448-ca243ecd3909">Interpretation</a>  
+      {% include interp/selling-stuff.html %}
+    </li>
+    <!-- 4 -->
+    <li class="footnote" id="fn:4">
+      {% include interp/uluburun.html %}
+    </li>
+    <!-- 5 -->
+    <li class="footnote" id="fn:5">
+      {% include interp/generally.html %}
+    </li>
+    <!-- 6 -->
+    <li class="footnote" id="fn:6">
+      {% include interp/usb-sticks.html %}
+    </li>
+    <!-- 7 -->
+    <li class="footnote" id="fn:7">
+      {% include interp/create-table-person.html %}
+    </li>
+    <!-- 8 -->
+    <li class="footnote" id="fn:8">
+      {% include interp/timepoem.html %}
     </li>
 </ol>
 
