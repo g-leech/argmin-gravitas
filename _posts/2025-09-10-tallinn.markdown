@@ -617,6 +617,7 @@ Can't think of an elegant segue from that:
 * **Delicacy**: Küüslauguleivad (fried garlic rye sticks). Muhu bread. Mulgipuder.
 * **Building**: [Zellulosi](www.aripaev.ee/uudised/2018/02/01/zelluloosi-kvartalist-saab-fahle-park). [Tondi barracks](www.postimees.ee/6977805/pulss-mida-teate-tallinna-tondist). 
 * **Street**: Pikk
+* **Phenomenon**: the illegal Paljasaare [garage city](https://forte.delfi.ee/artikkel/120255751/ullatus-paljassaare-poolsaarele-on-kerkinud-lausa-1300-ebaseaduslikust-garaazist-koosnev-linnak-ja-putkadega-kaib-hoogne-kauplemine)
 * **Church**: St. Simeon and St. Anne’s 
 * **Architect**: Aleksandr Jaron
 <!-- * **Walk**:  -->
