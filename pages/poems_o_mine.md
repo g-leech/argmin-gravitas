@@ -398,7 +398,7 @@ something to be watching, and that is as good as it gets.
 
 <br>
 
-### __uluburun__ <a href="#fn:4" id="fnref:4">4</a>
+### __uluburun__ 
 <!-- 2016-12-18 -->
 
 <br>
@@ -501,14 +501,14 @@ Where to? First contact?
 
 
 
-
+<a href="#fn:4" id="fnref:4">4</a>
 
 
 
 
 <br><br><br>
 
-### __generally__ <a href="#fn:5" id="fnref:5">5</a>
+### __generally__ 
 
 <!-- 2016-01-08 -->
 
@@ -563,7 +563,11 @@ symbolism people give it; ignores everything except pressures, gravities, van de
 
 and future soon.
 
-<br><br><br>
+<br><br>
+
+<a href="#fn:5" id="fnref:5">5</a>
+
+<br>
 
 
 <hr />
@@ -811,7 +815,7 @@ enough for one interpretation more.
 <br><br><br>
 
 
-### __create table person__ <a href="#fn:7" id="fnref:7">7</a>
+### __create table person__ 
 <!-- 2014-03-12 -->
 
 CREATE TABLE person (<br />
@@ -868,7 +872,11 @@ IF gender_identity=shrug, &amp; ethnicity=uncorrelated, &amp; body_policing=null
 quit;<br />
 run;
 
-<br /><br /><br />
+<br /><br />
+
+<a href="#fn:7" id="fnref:7">7</a>
+
+<br />
 
 
 
