@@ -92,7 +92,7 @@ On the other hand, it is normal for teenagers to make incredible music, such tha
 	<div>
 		Linley Junior, William Crotch, Mozart, Mendelssohn, the Schumanns, Bizet, Rossini, Arriaga, Schubert, Paganini, Prokofiev, Rachmaninoff, Chopin, Liszt, Scriabin, Saint-Saëns, Glazunov, Barber, Joseph Joachim, Strauss, Lili Boulanger, Nejiko Suwa, Fritz Kreisler, Yehudi Menuhin, Glenn Gould, Britten, Michael Rabin, Midori, Nino Rota.<br><br>
 		Miles, Herbie, Bud Powell, Sonny Rollins, Wayne Shorter, Charlie Haden,  <br><br>
-		McCartney, Randy Newman, Redd Kross, Minor Threat, Replacements (Tommy was 12!), Buzzcocks, The Germs, Bad Brains, Kool Herc, Behemoth, Kate Bush, Sepultura, Laura Marling, Dizzee Rascal, Arctic Monkeys, AFX, Beirut, Bad Religion, Metallica, Sondre Lerche, Green Day, Ash, Prince, Stevie Wonder, Milla Jovovich, Karen Brooks, Cap'n Jazz, Ani Difranco, Nas, James Ferraro, Yoji Mabuchi, Avey Tare, Gordon Gano, De La Soul, Them, Johnny Marr, Leiber & Stoller, Fiona Apple, Maurice Williams, A Tribe Called Quest
+		McCartney, Randy Newman, Björk, OutKast, Redd Kross, Minor Threat, Replacements (Tommy was 12!), Buzzcocks, The Germs, Bad Brains, Kool Herc, Behemoth, Death, Kate Bush, Sepultura, Laura Marling, Dizzee Rascal, Arctic Monkeys, AFX, Beirut, Bad Religion, Metallica, Sondre Lerche, Green Day, Os Mutantes, Ash, Prince, Stevie Wonder, Milla Jovovich, Karen Brooks, Cap'n Jazz, Ani Difranco, Nas, James Ferraro, Yoji Mabuchi, Avey Tare, Gordon Gano, Lil Wayne, Mobb Deep, Mike Oldfield, De La Soul, Them, Johnny Marr, Leiber & Stoller, Carole King, Conor Oberst, Fiona Apple, MJ, Frankie Lymon, Maurice Williams, Aretha, Alex Chilton, A Tribe Called Quest
 		<!-- Horsegirl, Squirrel Bait -->
 	</div>
 </div>

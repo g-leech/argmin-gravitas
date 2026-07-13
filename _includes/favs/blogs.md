@@ -2,23 +2,45 @@
 	My friends' sites:
 
 <ul>
-	<li><a href="{{milan}}">Milan Griffes</a></li> <br>
 	<li><a href="https://samenright.com/">Sam Enright</a></li><br>
 	<li><a href="https://www.uzpg.me/">Uzay Girit</a></li><br>
+	<li><a href="https://www.yudhister.me/notes/"></a>Yudhister Kumar</li><br>	
+	<li><a href="https://substack.com/@cuttyshark/posts">Molly Hickman</a></li><br>
 	<li><a href="https://zhengdongwang.com/">Zhengdong Wang/</a></li><br>
+	<li><a href="https://www.dwarkeshpatel.com/">Dwarkesh Patel</a></li><br>
+	<li><a href="https://bhauth.com/blog/">B Hauth</a></li><br>
+	<li><a href="{{milan}}">Milan Griffes</a></li> <br>
+	<li><a href="https://vgel.me/posts/">Theia Vogel</a></li><br>
+	<li><a href="https://herfingersbloomed.substack.com">Peter McLaughlin</a></li><br>
+	<li><a href="https://basilhalperin.com/essays/best-essays.html">Basil Halperin</a></li><br>
+	<li><a href="https://joodaloop.com/">Jooda</a></li><br>
+	<li><a href="https://mkodama.org/">Miles Kodama</a></li><br>
+	<li><a href="https://ulkaraghayeva.substack.com/">Ulkar Aghayeva</a></li><br>
+	<li><a href="https://yuxi.ml/essays">Yuxi Liu</a></li><br>
+	<li><a href="https://www.laurenpolicy.com/">Lauren Gilbert</a></li><br>
+	<li><a href="https://www.learningfromexamples.com/">Harry Law</a></li><br>	
+	<li><a href="https://mindthemanifold.substack.com/">Ethan Kuntz</a></li><br>
+	<li><a href="https://raymonddouglas.co.uk/about/">Raymond Douglas</a></li><br>
+	<li><a href="https://criticalmaas.substack.com/">Matthijs Maas</a></li><br>
+	<li><a href="https://mesityl.neocities.org/">Savva</a></li><br>
+	<li><a href="https://guzey.com/">Alexey Guzey</a></li><br>
+	<li><a href="https://julianrdcosta.com/writing/">Julian D'Costa</a></li><br>
+	<li><a href="https://notnottalmud.substack.com/">Dan Frank</a></li><br>
+	<li><a href="https://boundedlyrational.substack.com/">Jan Kulveit</a></li><br>
 	<li><a href=""></a></li><br>
 	<li><a href=""></a></li><br>
 	<li><a href=""></a></li><br>
+	<li><a href=""></a></li><br>
+	<li><a href="{{g}}">Gwern Branwen</a></li><br>
 </ul><br>
-	My favourite people with websites are: <br><br>
+	And classic websites: <br><br>
 	<div class="col-3">
-		<a href="{{g}}">Gwern Branwen</a>, <br>
 		<a href="{{gel}}">Andrew Gelman</a>, <br>
-		<a href="{{ord}}">Toby Ord</a>, <br>
-		<a href="{{ssc}}">Scott Alexander</a>, <br>
-		<a href="{{aaron}}">Scott Aaronson</a>, <br>
 		<a href="{{rob}}">Rob Nostalgebraist</a>, <br>
 		<a href="{{shaliz}}">Cosma Shalizi</a>, <br>
+		<a href="{{ord}}">Toby Ord</a>, <br>
+		<a href="https://scottsumner.substack.com/">Scott Sumner</a>, <br>
+		<a href="{{aaron}}">Scott Aaronson</a>, <br>
 		<!-- <a href="{{christ}}">Paul Christiano</a>, <br> -->
 		<a href="{{care}}">Kelsey Piper</a>, <br>
 		<a href="{{rpw}}">Robert Paul Wolff</a>, <br>
