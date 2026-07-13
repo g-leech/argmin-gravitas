@@ -1,7 +1,7 @@
 ---
 layout:     page
 title:      Blogroll
-permalink:  /blogroll
+permalink:  /friends
 visible:    false
 ---
 
