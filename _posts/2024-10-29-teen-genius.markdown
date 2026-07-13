@@ -47,6 +47,7 @@ It's mostly maths and music.
 <!-- Tao, 21 -->
 * Nash (games), 21
 <!-- * Clifford Cocks, 22 -->
+* Newton (calculus), 22
 <!-- Hannah Cairo https://arxiv.org/abs/2502.06137 -->
 * Dürer (painting), 13
 * Turner (painting), 15
@@ -57,6 +58,8 @@ It's mostly maths and music.
 * Velazquez (painting), 19
 * Bernini (sculpture), 13
 * Michelangelo (sculpture), 16
+* Westinghouse (rotary steam engine), 19
+* Marconi (telegraph),  20
 <!-- Vigée Le Brun -->
 <!-- Basquiat -->
 * Fermi?
@@ -66,6 +69,8 @@ It's mostly maths and music.
 * Maclaurin?
 
 In writing, we have Rimbaud, Chatterton, Joyce, the Shelleys, Pope.
+
+
 
 <!-- Orson Welles -->
 <!--Vermeer, van Gogh, Picasso, -->
@@ -85,7 +90,7 @@ On the other hand, it is normal for teenagers to make incredible music, such tha
 <div class="accordion">
 	<h3>Young music</h3>
 	<div>
-		Mozart, Mendelssohn, the Schumanns, Bizet, Schubert, Paganini, Prokofiev, Rachmaninoff, Chopin, Liszt, Barber, Strauss, Rota, Nejiko Suwa.<br><br>
+		Linley Junior, William Crotch, Mozart, Mendelssohn, the Schumanns, Bizet, Rossini, Arriaga, Schubert, Paganini, Prokofiev, Rachmaninoff, Chopin, Liszt, Scriabin, Saint-Saëns, Glazunov, Barber, Joseph Joachim, Strauss, Lili Boulanger, Nejiko Suwa, Fritz Kreisler, Yehudi Menuhin, Glenn Gould, Britten, Michael Rabin, Midori, Nino Rota.<br><br>
 		Miles, Herbie, Bud Powell, Sonny Rollins, Wayne Shorter, Charlie Haden,  <br><br>
 		McCartney, Randy Newman, Redd Kross, Minor Threat, Replacements (Tommy was 12!), Buzzcocks, The Germs, Bad Brains, Kool Herc, Behemoth, Kate Bush, Sepultura, Laura Marling, Dizzee Rascal, Arctic Monkeys, AFX, Beirut, Bad Religion, Metallica, Sondre Lerche, Green Day, Ash, Prince, Stevie Wonder, Milla Jovovich, Karen Brooks, Cap'n Jazz, Ani Difranco, Nas, James Ferraro, Yoji Mabuchi, Avey Tare, Gordon Gano, De La Soul, Them, Johnny Marr, Leiber & Stoller, Fiona Apple, Maurice Williams, A Tribe Called Quest
 		<!-- Horsegirl, Squirrel Bait -->

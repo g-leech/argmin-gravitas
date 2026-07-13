@@ -82,8 +82,15 @@ May-September music.
 <br>
 <br>
 
+- Solomon Burke (& Joe Henry) - on 2002's _Don't Give Up on Me_. 1,2,3,4.
 
-- <a href="http://www.metacritic.com/music/12-songs">Neil Diamond</a> (&amp; Rick Rubin)- on 2005's 12 Songs. <br>Satisfies 1,3,4,5 &amp; 6.<br>
+<center>
+	<iframe width="80%" height="200" src="https://www.youtube.com/embed/tbvZ6CawWEY" frameborder="0" allowfullscreen></iframe>
+</center>
+<br>
+<br>
+
+- <a href="http://www.metacritic.com/music/12-songs">Neil Diamond</a> (&amp; Rick Rubin)- on 2005's 12 Songs. <br>1,3,4,5 &amp; 6.<br>
 <center>
 	<iframe width="80%" height="200" src="https://www.youtube.com/embed/MGTNDwBhpx4" frameborder="0" allowfullscreen></iframe>
 </center>
@@ -217,7 +224,7 @@ Tucker Zimmerman (& Big Thief) on Dance of Love
 
 <br><br>
 
-Tom Jones continues to try, but he didn't rise anywhere in the first place, and so did not fall, and so cannot be renewed.<br>
+[Tom Jones](https://en.wikipedia.org/wiki/Reload_(Tom_Jones_album)) continues to try, but he didn't rise anywhere in the first place, and so did not fall, and so cannot be renewed.<br>
 <br>
 
 
