@@ -3,14 +3,16 @@
 
 <ul>
 	<li><a href="https://samenright.com/">Sam Enright</a></li><br>
+	<li><a href="https://witold.xyz/blog/">Witold Wiecek</a></li><br>
 	<li><a href="https://www.uzpg.me/">Uzay Girit</a></li><br>
-	<li><a href="https://www.yudhister.me/notes/"></a>Yudhister Kumar</li><br>	
 	<li><a href="https://substack.com/@cuttyshark/posts">Molly Hickman</a></li><br>
 	<li><a href="https://zhengdongwang.com/">Zhengdong Wang/</a></li><br>
+	<li><a href="https://nunosempere.com/">Nuno Sempere</a></li><br>
 	<li><a href="https://www.dwarkeshpatel.com/">Dwarkesh Patel</a></li><br>
-	<li><a href="https://bhauth.com/blog/">B Hauth</a></li><br>
+	<li><a href="https://boundedlyrational.substack.com/">Jan Kulveit</a></li><br>
 	<li><a href="{{milan}}">Milan Griffes</a></li> <br>
 	<li><a href="https://vgel.me/posts/">Theia Vogel</a></li><br>
+	<li><a href="https://www.yudhister.me/notes/">Yudhister Kumar</a></li><br>	
 	<li><a href="https://herfingersbloomed.substack.com">Peter McLaughlin</a></li><br>
 	<li><a href="https://basilhalperin.com/essays/best-essays.html">Basil Halperin</a></li><br>
 	<li><a href="https://joodaloop.com/">Jooda</a></li><br>
@@ -26,11 +28,7 @@
 	<li><a href="https://guzey.com/">Alexey Guzey</a></li><br>
 	<li><a href="https://julianrdcosta.com/writing/">Julian D'Costa</a></li><br>
 	<li><a href="https://notnottalmud.substack.com/">Dan Frank</a></li><br>
-	<li><a href="https://boundedlyrational.substack.com/">Jan Kulveit</a></li><br>
-	<li><a href=""></a></li><br>
-	<li><a href=""></a></li><br>
-	<li><a href=""></a></li><br>
-	<li><a href=""></a></li><br>
+	<li><a href="https://bhauth.com/blog/">B Hauth</a></li><br>
 	<li><a href="{{g}}">Gwern Branwen</a></li><br>
 </ul><br>
 	And classic websites: <br><br>
