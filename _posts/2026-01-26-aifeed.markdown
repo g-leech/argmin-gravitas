@@ -1,0 +1,73 @@
+---
+layout:     post
+title:      "AI feed"
+baselink:   /aifeed
+permalink:  /aifeed
+date:       2025-10-31
+author:     Gavin
+img:        /img/
+
+visible:    1
+published:  false
+quality:    4
+
+summary:    
+confidence: 
+importance: 6
+wordcount:  
+categories: 
+where:      "Bristol"
+---
+
+
+https://colab.research.google.com/drive/1VgG5pg9X5b5oRmti4-JlP5ye46PQgNzB#scrollTo=SbKrsvDlhcnH
+
+
+https://rss.app/
+
+* Here's a Twitter list you can follow in one click
+* TODO: Add a classifier to remove unrelated posts.
+
+
+Last week in AI (newsletter/podast) by Andrey Kurenkov, Jacky Liang et al: weekly updates on the latest AI research development. Also available as a podcast.
+Guide to AI (newsletter) by Nathan Benaich: in-depth monthly analysis of AI developments, from a commercial/startup/venture capital lense.
+Import AI (newsletter) by Jack Clark: provides a regular stream of very interesting research papers, with detailed summaries.
+
+Gillian Hadfield, Rory Greig, Tom Everitt, Tom Griffiths, Ayush Chopra, John David Pressman, Lumpen, Andrew Trask, Nitarshan Rajkumar, Herbie Bradley, Eric Drexler, Nora Amann, Joel Leibo, Lewis Hammond, Evan Miyazono, Davidad, Guive Assasi, 1a3orn, Nora Belrose, Nostalgebraist, Jan Kulveit, Jan Leike, Beren Millidge, Yo Shavit, Logan Graham, Quintin Pope, Eleni Angelou, Arthur Conmy, Miles Brundage, Charles Foster, Gustavs Zilgalvis, Alex Turner, Dylan Hadfield-Menell, Rohin Shah, Julian Hazell, Samuel Albanie, Matija Franklin...
+
+
+There's no way around Twitter I'm afraid. In exchange for your sanity you get to look a year into the future. Trick is to follow those someone you admire is [following](https://x.com/g_leech_/following), to mute accounts instantly for a single offence no matter how minor, (and to never look at the For You feed).
+
+## Safety-tilted:
+    - [Zvi](https://thezvi.substack.com/)
+    - [Drexler](https://aiprospects.substack.com/)
+    - I defer most often to [Jan Kulveit](https://www.lesswrong.com/users/jan_kulveit) and [Seb Krier](https://substack.com/@technologik/posts).
+    - [Richard Ngo](https://www.lesswrong.com/users/ricraz)
+
+- Scepticism-tilted:
+    - [Timothy Lee](https://www.understandingai.org/)
+    - [Steve Newman](https://secondthoughts.ai/)
+    - [Toby Ord](https://www.tobyord.com/writings)
+https://buildcognitiveresonance.substack.com/p/who-and-what-comprises-ai-skepticism
+    - [Robnost](https://nostalgebraist.tumblr.com/tagged/ai%20tag)
+
+- Acceleration-tilted:
+    - [1a3orn](https://1a3orn.com/)
+    - [Nato Lambert](https://www.interconnects.ai/t/interviews)
+    - https://simonwillison.net/
+    - https://epoch.ai/
+Mario Giulianelli, Bogdan Ionut Cirstea, Zvi Mowshowitz, David Pfau, Colin Fraser, Rohit Krishnan, Simon Willison, Yixin Lin, Zhengdong Wang, Jeffrey Ladish, Max Nadeau, Yuxi Liu, Charles Foster,
+
+
+
+
+## Policy
+
+## Anti-recommendation
+
+- More importantly you should ask people for anti-recommendations. Mine include [this guy](https://www.wheresyoured.at/) and [this guy](https://danfaggella.com/essays/).
+
+
+https://rss.app/feeds/WvlooXwBQkku1tX4.xml
+nitter.privacyredirect.com/g_leech_/rss
+https://www.greaterwrong.com/users/commander-zander?show=posts&format=rss
