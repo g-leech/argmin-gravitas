@@ -147,6 +147,7 @@ visible:  false
 * [Owen Lynch](https://forest.topos.site/public/foreign-topos-ocl-0028.xml)
 * [PIBBSS](https://awake-spring-b0d.notion.site/PIBBSS-Library-85765b0c0ce644cebf09fef1ec56d904)
 * [t'Hooft](https://www.goodtheorist.science/)
+* [Sheaf](https://sheafification.com/the-fast-track/)
 * [Pre-Cambridge](https://web.archive.org/web/20180219032905/https://mypages.iit.edu/~pelsmajer/cambridge-books.pdf)
 * [psych](https://web.archive.org/web/20250124112113/http://psychclassics.yorku.ca/topic.htm)
 * [physics](https://www.susanrigetti.com/physics)

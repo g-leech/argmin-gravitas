@@ -43,7 +43,7 @@ On a handful of days a year in Aberdeen when the sun comes out after the rain an
         * In the past, 33°C was a once-per-century event.
     * The entire month of December gets ~45 "sunshine hours". i.e. one hour of weak direct sunlight a day, or more often clustered, with days on end without any at all. 
     * Like San Francisco, the sea fog (the "haar") is thick, motile, and common. There's also occasionally huge amounts of sea foam blowing along the streets. Luckily I love fog. About 1/3 of days have some.
-    * You're stunned by colourlessness. The sky is bright grey, the buildings are dark grey, the people are pink-grey (97% white). In the weak light the polluted granite resembles breezeblocks more than crystal. [Meades](https://www.youtube.com/watch?v=PE6RH7APXfw) thinks that this stark monochrome outlook explains why Aberdeen has an unusual density of tattoo parlours even for a port. I was so used to the sky being flat white-grey that blue skies still thrill me a little.
+    * You're stunned by colourlessness. The sky and fog are bright grey, the buildings are dark grey, the people are pink-grey (97% white). In the weak light the polluted granite resembles breezeblocks more than crystal. [Meades](https://www.youtube.com/watch?v=PE6RH7APXfw) thinks that this stark monochrome outlook explains why Aberdeen has an unusual density of tattoo parlours even for a port. I was so used to the sky being flat white-grey that blue skies still thrill me a little.
     <!-- * Our satirist called it "Greyness". -->
     * "_75% of those in Primary 6 and 7 didn't show evidence of low mood_"
     * As a romantic teen I wanted to think that the hostile environment fostered fellow-feeling. Everyone here has a shared enemy (the weather), and everyone's inside. Trapped.
@@ -76,7 +76,7 @@ On a handful of days a year in Aberdeen when the sun comes out after the rain an
 * It's grim but _not_ poor. Per capita GDP is £52k, about the same as Glasgow or Anchorage or Miami; a third higher than UK average. 
     <!-- * The ominously named Cults is in the top 50 most expensive postcodes in the country.  -->
     * AB15 is the postcode with the most millionaires outside London. 
-    * During the 2009 financial crisis, Aberdeen was the only UK city beside London to completely avoid recession. It arrived in 2015 instead, when the American shale taps and the OPEC taps opened. Having half of all jobs in one sector ("energy") means it's absurdly cyclical, in lagged concert with global oil prices. Population is down 7% in the last ten years.
+    * During the 2009 financial crisis, Aberdeen was the only UK city beside London to completely avoid recession. It arrived in 2015 instead, when the American shale taps and the OPEC taps opened. Having half of all jobs in one sector ("energy") means it's absurdly cyclical, in lagged concert with global oil prices. Population is down 7% in the last ten years.<br><br>
     <img src="/img/abdn/ile.png" width="80%" />
 
 * 
@@ -307,7 +307,7 @@ constabulary force’.  -->
 
 <br>
 
-* I lived in the cheapest possible places. The old Hector Boece halls had single glazing. The 30W oven would take more than an hour to heat up to 200°. In Tillydrone I was attacked 3 times in 2 years, punched in the face for smiling - in fairness I was wearing a stupid hat - and bottled; it shattered right next to my head - and two teenage girls _on_ something clawed at my glasses and dragged my friend to the ground by her hair. 
+* I lived in the cheapest possible places. The old Hector Boece halls had single glazing. The 900W oven would take more than an hour to heat up to 200°. In Tillydrone I was attacked 3 times in 2 years, punched in the face for smiling - in fairness I was wearing a stupid hat - and bottled; it shattered right next to my head - and two teenage girls _on_ something clawed at my glasses and dragged my friend to the ground by her hair. 
 
 * On a long walk you'll see a procession of discarded umbrellas destroyed by the wind. Every year a new set of Chinese students arrive with them, not realising that Aberdeen has a different rule. I actually didn't use an umbrella until I was 25 years old; there wasn't any point. (This was also heavily gendered though.)
 
@@ -377,7 +377,11 @@ I played the Tunnels in an awful band with great lyrics. I [heckled](https://www
 
 * **Art music**: [Bob "Portland Vows" Plant](https://portlandvows.bandcamp.com/album/living-with-animals). Polar Bear. <!-- Edvard Grieg's granddad. -->
 
+<br>
+
 * **Popular music**: [Lockah](https://www.youtube.com/watch?v=GZJiu2DTeKw) or [Toxik Ephex](https://www.youtube.com/watch?v=6SDRd0rGg44).
+
+<br>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7Lq7HPiQEFuPFZSHTGBw61?utm_source=generator" width="100%" height="552" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

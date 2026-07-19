@@ -1,19 +1,48 @@
 <div>
-	My favourite people with websites are: <br><br>
+	My friends' sites:
+
+<ul>
+	<li><a href="https://samenright.com/">Sam Enright</a></li><br>
+	<li><a href="https://witold.xyz/blog/">Witold Wiecek</a></li><br>
+	<li><a href="https://www.uzpg.me/">Uzay Girit</a></li><br>
+	<li><a href="https://substack.com/@cuttyshark/posts">Molly Hickman</a></li><br>
+	<li><a href="https://zhengdongwang.com/">Zhengdong Wang/</a></li><br>
+	<li><a href="https://nunosempere.com/">Nuno Sempere</a></li><br>
+	<li><a href="https://www.dwarkeshpatel.com/">Dwarkesh Patel</a></li><br>
+	<li><a href="https://boundedlyrational.substack.com/">Jan Kulveit</a></li><br>
+	<li><a href="{{milan}}">Milan Griffes</a></li> <br>
+	<li><a href="https://vgel.me/posts/">Theia Vogel</a></li><br>
+	<li><a href="https://www.yudhister.me/notes/">Yudhister Kumar</a></li><br>	
+	<li><a href="https://herfingersbloomed.substack.com">Peter McLaughlin</a></li><br>
+	<li><a href="https://basilhalperin.com/essays/best-essays.html">Basil Halperin</a></li><br>
+	<li><a href="https://joodaloop.com/">Jooda</a></li><br>
+	<li><a href="https://mkodama.org/">Miles Kodama</a></li><br>
+	<li><a href="https://ulkaraghayeva.substack.com/">Ulkar Aghayeva</a></li><br>
+	<li><a href="https://yuxi.ml/essays">Yuxi Liu</a></li><br>
+	<li><a href="https://www.laurenpolicy.com/">Lauren Gilbert</a></li><br>
+	<li><a href="https://www.learningfromexamples.com/">Harry Law</a></li><br>	
+	<li><a href="https://mindthemanifold.substack.com/">Ethan Kuntz</a></li><br>
+	<li><a href="https://raymonddouglas.co.uk/about/">Raymond Douglas</a></li><br>
+	<li><a href="https://criticalmaas.substack.com/">Matthijs Maas</a></li><br>
+	<li><a href="https://mesityl.neocities.org/">Savva</a></li><br>
+	<li><a href="https://guzey.com/">Alexey Guzey</a></li><br>
+	<li><a href="https://julianrdcosta.com/writing/">Julian D'Costa</a></li><br>
+	<li><a href="https://notnottalmud.substack.com/">Dan Frank</a></li><br>
+	<li><a href="https://bhauth.com/blog/">B Hauth</a></li><br>
+	<li><a href="{{g}}">Gwern Branwen</a></li><br>
+</ul><br>
+	And classic websites: <br><br>
 	<div class="col-3">
-		<a href="{{g}}">Gwern Branwen</a>, <br>
 		<a href="{{gel}}">Andrew Gelman</a>, <br>
-		<a href="{{ord}}">Toby Ord</a>, <br>
-		<a href="{{ssc}}">Scott Alexander</a>, <br>
-		<a href="{{aaron}}">Scott Aaronson</a>, <br>
 		<a href="{{rob}}">Rob Nostalgebraist</a>, <br>
 		<a href="{{shaliz}}">Cosma Shalizi</a>, <br>
-		<a href="{{christ}}">Paul Christiano</a>, <br>
+		<a href="{{ord}}">Toby Ord</a>, <br>
+		<a href="https://scottsumner.substack.com/">Scott Sumner</a>, <br>
+		<a href="{{aaron}}">Scott Aaronson</a>, <br>
+		<!-- <a href="{{christ}}">Paul Christiano</a>, <br> -->
 		<a href="{{care}}">Kelsey Piper</a>, <br>
 		<a href="{{rpw}}">Robert Paul Wolff</a>, <br>
-		<a href="{{marg}}">Cowen & Tabbarok</a>, <br>
 		<a href="{{sand}}">Anders Sandberg</a>, <br>
-		<a href="{{caplan}}">Bryan Caplan</a>, <br>
 		<a href="{{zach}}">Zach Weiner</a>, <br>
 		<a href="{{dave}}">David Pearce</a>; <br>
 		<a href="{{tom}}">Tom Adamczewski</a>; <br>
@@ -23,40 +52,23 @@
 		<a href="https://universalprior.substack.com/">Jan Kirchner</a>
 		<a href="{{casp}}">Caspar Oesterheld</a>, <br>
 		<a href="{{log}}">Mark Liberman</a>, <br>
-		<a href="{{huem}}">Mike Huemer</a>, <br>
-		<a href="{{julia}}">Julia Galef</a>; <br>
 		<a href="{{grace1}}">Katja</a> <a href="{{grace2}}">Grace</a>, <br>
-		<a href="{{greg1}}">Greg Lewis</a>; <br>
-		<a href="{{sabine}}">Sabine Hossenfelder</a>,<br>
-		<a href="{{hans}}">Robin Hanson</a>, <br>
+		<!-- <a href="{{greg1}}">Greg Lewis</a>; <br> -->
 		<a href="{{nint}}">Jose Ricon</a>, <br>
 		<a href="{{farrell}}">Henry Farrell</a>; <br>
 		<a href="{{heal}}">Kieran Healy</a>; <br>
 		<a href="{{heath}}">Joseph Heath</a>; <br>
 		<a href="{{kun}}">Jeremy Kun</a>; <br>
-		<a href="{{ben}}">Ben Kuhn</a>, <br>
 		<a href="{{lukeprog}}">Luke Muehlhauser</a>, <br>
-		<a href="{{tram}}">Philip Trammell</a>, <br>
-		<a href="{{riedel}}">Jess Riedel</a>, <br>
 		<a href="{{scaru}}">Piero Scaruffi</a>, <br>
-		<a href="{{staff}}">Pablo Stafforini</a>, <br>
-		<a href="{{guz}}">Alexey Guzey</a>, <br>
 		<a href="{{scatter}}">Jamie Brandon</a>, <br>
 		<a href="{{schw}}">Eric Schwitzgebel</a>, <br>
-		<a href="{{eliz}}">Elizabeth van Nostrand</a>, <br>
-		<a href="{{jeff}}">Jeff Kaufman</a>, <br>
 		<a href="{{blatt}}">Chris Blattman</a>, <br>
-		<a href="{{owen}}">Owen Barder</a>, <br>
-		<a href="{{rood}}">David Roodman</a>, <br>
-		<a href="{{schn}}">Bruce Schneier</a>, <br>
 		<a href="{{luu}}">Dan Luu</a>, <br>
 		<a href="{{evo}}">Evolution is Just a Theorem</a>, <br>
 		<a href="{{white}}">John Myles White</a>, <br>
-		<a href="{{milan}}">Milan Griffes</a>, <br>
-		<a href="https://twitter.com/robertwiblin">Robert Wiblin</a>, <br>
 		<a href="http://zackmdavis.net/blog/">Zack Davis</a>, <br>
 		<a href="http://stumblingandmumbling.typepad.com/">Chris Dillow</a>, <br>
-		<a href="https://samenright.com/ /">Sam Enright</a>
 	</div>
 <br>
 <br>
