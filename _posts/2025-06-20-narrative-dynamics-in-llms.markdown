@@ -269,7 +269,7 @@ Sidenote: Anonymous blogs are no longer a real option unless you totally firewal
 
 One remaining weirdness of the batched pretraining, discrete model release status quo is that an LLM is _constantly meeting time travellers_. We are time travellers to it because we routinely mention things which don't exist yet, with its knowledge cutoff 6 months ago. It is sometimes grumpy about this, denying that we know what we know, but often makes peace with living in the past.
 
-<a href="https://www.fermyon.com/blog/what-is-it-like-to-be-an-llm">Someone else's</a> thought-experiment:
+<a href="https://web.archive.org/web/20251212145527/https://www.fermyon.com/blog/what-is-it-like-to-be-an-llm">Someone else's</a> thought-experiment:
 <!-- It’s an Evidentialist.  -->
 <!-- A reified meme about a future system it is not, but becomes like the more we write about it -->
 

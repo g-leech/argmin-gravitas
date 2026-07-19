@@ -288,7 +288,7 @@ Another is that melding public and private _destroys_ the private. Living in pub
 The music is generally a play for sympathy or (even more sympathetic!) a revenge fantasy. Possibly these bids are even sincere -- one imagines it's quite therapeutic to have a million people cheering you. But the one-sidedness makes me disdain them (e.g. recall the absurd premise of "Reputation", that she is a victim and needs defenders).
 
 
-Yet another strat: the pretence that TS is uncool, the victim of snobbery, mean girls, <a href="{{shake}}">haters</a>, paps, hacks, <a href="{{miso}}">misogyny</a>. (She's uncool, like you. She's bullied, like you. Being a fan of her is brave and kind.) Apparently this has an actual referent in Swift's misfit teen experience, but it becomes a grotesque pose in the light of TS' global <a href="{{obama}}">supremacy</a>. A side effect of the pretence is pre-empting essays like this. Haters are going to hate.
+Yet another strat: the pretence that TS is uncool, the victim of snobbery, mean girls, <a href="{{shake}}">haters</a>, paps, hacks, <a href="{{miso}}">misogyny</a>. (She's uncool, like you. She's bullied, like you. Being a fan of her is brave and kind.) Apparently this has an actual referent in Swift's misfit teen experience, but it becomes a grotesque pose in the light of TS' global <a href="{{obama}}">supremacy</a>. (Aretha started her music career at 14.) A side effect of the pretence is pre-empting essays like this. Haters are going to hate.
 
 <br>
 <div class="accordion">
@@ -334,12 +334,11 @@ Yet another strat: the pretence that TS is uncool, the victim of snobbery, mean 
 <br>
 
 
-> it’s a little foolish to knock Taylor Swift for basing her brand on authentic teenage experiences that she never actually had for the same reason that it’s naive to point out that William Shakespeare wasn’t an Italian teenager willing to die for love; the art is separate from the artist, and the better the artist the less likely they actually have any personal experience in what they’re arting.
+> it’s a little foolish to knock Taylor Swift for basing her brand on authentic teenage experiences that she never actually had for the same reason that it’s naive to point out that William Shakespeare wasn’t an Italian teenager willing to die for love; the art is separate from the artist, and the better the artist the less likely they actually have any personal experience in what they’re arting...
+
+> the lyrics of her songs are deeply introspective and relate to the experience of what it’s like to be a 47 year old Swedish music producer living in the body of an American teenage girl.
 
 <center>–  <a class="noline" href="{{arg}}">Argumate</a> </center>
-
-
-<!-- the lyrics of her songs are deeply introspective and relate to the experience of what it’s like to be a 47 year old Swedish music producer living in the body of an American teenage girl. https://argumate.tumblr.com/post/174555226934/argumate-amazing-that-britney-spears-and-taylor -->
 
 
 

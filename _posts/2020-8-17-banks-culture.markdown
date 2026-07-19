@@ -50,7 +50,9 @@ BANKS: If we're lucky.
 
 <br>
 
-The two worst omissions from sci-fi are social development and software development. In his <a href="{{cult}}">_Culture_</a> series Banks covers the first so memorably, so thrillingly, that the series is a permanent touchstone for me, even though each individual book is actually not that strong. The Culture is actually different from us - even though underneath their society revs our great alien machine, liberalism unbound.
+The two worst omissions from sci-fi are social development and software development. In his <a href="{{cult}}">_Culture_</a> series Banks covers the first so memorably, so thrillingly, that the series is a permanent touchstone for me, even though each individual book is actually not that strong. There's a reason his is the default win scenario among the powerful nerds of the world; no one has managed to be more persuasive. (And his deep misgivings and constant critique of his own imaginatory actually probably help it go down smooth.) 
+
+The Culture is actually different from us - even though underneath their society revs our great alien machine, liberalism unbound.
 
 <!-- Banks was always quite open about how didactic his sci-fi was; it is saved by his inventiveness and psychological realism amidst technological fantasy. -->
 
@@ -111,7 +113,15 @@ BANKS: I think a lot of the struggle is kind of pointless and is in itself borin
 
 <br>
 
-The humans are not the protagonists. Even when the books seem to have a human protagonist, doing large serious things, they are actually the agent of an AI's plan. (<a href="{{zak}}">Zakalwe</a> is a partial exception, because he can happily do immoral things the Minds don't want to do or make innocent Culture citizens do.) 
+The humans are not the protagonists. Even when the books seem to have a human protagonist, doing large serious things, they are actually the agent of an AI's plan. (<a href="{{zak}}">Zakalwe</a> is a partial exception, because he can happily do immoral things the Minds don't want to do, nor want to make innocent Culture citizens do.) 
+
+<div class="accordion">
+	<h3>What the Sma clone reveals</h3>
+	<div>
+		A very important moment comes at the start of <i>Use of Weapons</i>, when the human agent Diziet Sma is pulled away from a peace conference to address a larger brewing war elsewhere: with her consent, Contact put a zombie clone in her place. It's such a perfect simulacrum of her that it gives the same responses she would. But this tech confuses the whole role of humans in Special Circumstances in the whole series: what's the point?<br><br>
+		Previously we assumed that the point of the human agents was 1) interfacing with anti-machine civilisations, 2) giving heroic Culture humans something to do, 3) being able to recruit (from aliens) warlike and chaotic character traits that Culture breeding and education have stamped out. But the perfect machine-controlled clones threaten this logic. Human SC agents thus only make sense under a further constraint: that they don't want to lie to Contacted civs (to the extent of representing a machine as a human).
+	</div>
+</div>
 
 "The Minds in the Culture don't need the humans, and yet the humans need to be needed." (I think only a small number of humans need to be needed - or, only a small number of them need it enough to forgo the many comforts. Most people do not live on this scale. It's still a fine critique.)
 
@@ -356,7 +366,11 @@ Big reasons for hope:
 <!-- (I was considering whether lack of economic incentive would mean that the Culture would lack human volunteers - but the foregoing status games and the deeper urge to do something useful is more than enough, particularly when backed by decades of leisure, i.e. enough to get bored with. And few humans are needed by that stage anyway.) -->
 
 
-<br>
+
+There is a Scottish socialist. He is able to dream of something far better than communism. Moral clarity well beyond his time. But outside of that dream, down our gravity well, he is limited by his poverty (his society's poverty) and his aim is weak because there are so many easy targets around him at all times. It is the punk's critique: paper thin vibes, it being feelgood to point the finger at the feelbad. Unbeknownst to him, he lived at a local maximum of violent crime and unfreedom and peril and grot. It turned out that no one else had time to come up with a better answer for what victory looks like, with how humans could thrive despite being outclassed by their machine. Something was happening, and he had something to do with it.
+
+
+<br><br>
 
 > I know it's all nonsense, but you've got to admit it's impressive nonsense. 
 
