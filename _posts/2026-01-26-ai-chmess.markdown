@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "Chmessworld"
+baselink:   /mere-chess
+permalink:  /mere-chess
+date:       2025-10-31
+author:     Gavin
+img:        /img/
+
+visible:    1
+published:  false
+quality:    4
+
+summary:    
+confidence: 
+importance: 6
+wordcount:  
+categories: 
+where:      "Bristol"
+---
+
+
+
+“He read the veinings of a leaf, the pattern on a mushroom cap, and divined mysteries, relations, futures, possibilities: the magic of symbols, the foreshadowing of numbers and writing, the reduction of infinitudes and multiplicities to simplicity, to system, to concept. For all these ways of comprehending the world through the mind no doubt lay within him, nameless, unnamed, but not inconceivable, not beyond the bounds of presentiment, still in the germ, but essential to his nature, part of him, growing organically within him. And if we were to go still further back beyond this Rainmaker and his time which to us seems so early and primitive, if we were to go several thousand years further back into the past, wherever we found man we would still find - this is our firm belief - the mind of man, that mind which has no beginning and always has contained everything that it later produces.”
+― Hermann Hesse, The Glass Bead Game
+
+
+A few years ago someone asked me to imagine success, which was very difficult for me.
