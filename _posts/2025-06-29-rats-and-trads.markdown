@@ -9,7 +9,6 @@ img:        /img/defaced.jpg
 
 visible:    1
 published:  true
-quality:    
 summary:    Two types of intellectual fundamentalism
 confidence: 60%
 importance: 6

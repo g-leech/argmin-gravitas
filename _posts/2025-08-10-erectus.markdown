@@ -28,7 +28,7 @@ Here is a [plot](https://www.frontiersin.org/journals/ecology-and-evolution/arti
 	<a href="#fn:1" id="fnref:1">1</a>
 </center>
 
-i.e. brains got 10 times bigger, with most of this happening in the last 2 million years after a sudden changepoint. So... what's that elbow? What got the engine of _human_ intelligence going? 
+i.e. brains got 5-10 times bigger, with most of this happening in the last 2 million years after a sudden changepoint. So... what's that elbow? What got the engine of _human_ intelligence going? 
 <!-- the encephalisation regime -->
 
 
@@ -144,6 +144,7 @@ _This post is just a lightning talk version of theories by Boehm, DeSilva, Hawks
 <ol>
     <!-- 1 -->
     <li class="footnote" id="fn:1">
-    	Yes, admittedly some of the estimates <i>for entire millennia</i> are based on one data point (one skull). We'll get ten some day.
+    	Yes, admittedly some of the estimates <i>for entire millennia</i> are based on one data point (one skull). We'll get ten some day.<br><br>
+    	<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12929042/">Data</a> on a new brainy hominid, Rudapithecus, suggests that the Homo Gains were more like 5x than 10x. Told you it was a fragile estimate.
 	</li>
 </ol>

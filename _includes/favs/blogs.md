@@ -26,6 +26,7 @@
 	<li><a href="https://criticalmaas.substack.com/">Matthijs Maas</a></li><br>
 	<li><a href="https://mesityl.neocities.org/">Savva</a></li><br>
 	<li><a href="https://guzey.com/">Alexey Guzey</a></li><br>
+	<li><a href="https://space.ong.ac/">Euan Ong</a></li><br>
 	<li><a href="https://julianrdcosta.com/writing/">Julian D'Costa</a></li><br>
 	<li><a href="https://notnottalmud.substack.com/">Dan Frank</a></li><br>
 	<li><a href="https://bhauth.com/blog/">B Hauth</a></li><br>
