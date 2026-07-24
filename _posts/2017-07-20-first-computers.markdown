@@ -55,6 +55,8 @@ wordcount:	1039
 
 <p><b>Data</b>: A randomly selected atom is not a computer. A gun is not a computer. An abacus is not a computer, nor is its descendent the slide rule. A <a href="{{Monkey}}">primate doing addition</a> is not the <a href="{{wet}}">kind</a> <a href="{{homin}}">of computer</a> we are talking about. So we want the first <i>inorganic device that can do complex information-processing automatically, on demand</i>. <a href="#fn:2" id="fnref:2">2</a> </p>
 
+([Piccinini](https://library.agnescameron.info/philosophy%20of%20science/Physical%20Computation%20-%20A%20Mechanistic%20Account,%20Gualterio%20Piccinini%20(2015).pdf) says a computer is essentially teleological: computing systems are those functional mechanisms whose teleological function is to manipulate substrate-independent vehicles according to a rule. A teleological function is a stable contribution towards some goal of an organism. These are objective because they're stable causal contributions to goals, individuated by the organism plus its environment, not by an interpreter.)
+
 
 <p>(Electricity isn't key, though. The fact that we use <a href="{{volt}}">voltages</a> to conduct most of our computations is a matter of <a href="{{flow}}">convenience</a>, not <a href="{{xkcd}}">essence</a>.)</p>
 
