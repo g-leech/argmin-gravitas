@@ -145,6 +145,6 @@ _This post is just a lightning talk version of theories by Boehm, DeSilva, Hawks
     <!-- 1 -->
     <li class="footnote" id="fn:1">
     	Yes, admittedly some of the estimates <i>for entire millennia</i> are based on one data point (one skull). We'll get ten some day.<br><br>
-    	<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12929042/">Data</a> on a new brainy hominid, Rudapithecus, suggests that the Homo Gains were more like 5x than 10x. Told you it was a fragile estimate.
+    	<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12929042/">Data</a> on a new brainy hominine, Rudapithecus, weakly suggests that the Homo Gains were more like 5x than 10x. Told you it was a fragile estimate.
 	</li>
 </ol>
