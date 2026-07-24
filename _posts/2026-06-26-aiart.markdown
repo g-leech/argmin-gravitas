@@ -1,0 +1,34 @@
+---
+layout:     post
+title:      "Some notable AI art"
+baselink:   /aiart
+permalink:  /aiart
+date:       2026-02-13  <!--site.time-->
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:	false
+
+summary:    Examples which bear remembering
+confidence: 
+warnings:   
+categories: AI, art
+importance: 5
+quality:    4
+pride:      3
+---
+
+Currently there is some affirmative action: anything even slightly good is notable. This will change.
+
+## Poetry
+
+dickinson
+
+https://www.yudhister.me/am-i-an-llm/
+
+
+## Visual art
+
+* _Bits of human steering_: 
+* _Harsh scale_ (6 = just about worth reading, 10 = greatest poems of all time):
