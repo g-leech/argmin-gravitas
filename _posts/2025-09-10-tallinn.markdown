@@ -9,7 +9,7 @@ img:        /img/mustame.jpg
 
 visible:    1
 published:  true
-quality:    6
+quality:    7
 
 summary:    There and back again
 warnings: 	A foreign view. One year tour, plus borrowing other years by reading.

@@ -77,6 +77,41 @@ visible:	true
 
 
 <div class="accordion">
+	<h3>Students</h3>
+	<div>
+		I teach stats, anthropology, music, and maths at ESPR and other programmes. Some students I have worked with after:<br><br>
+		<ul>
+			<li>Juan Vazquez</li>
+			<li>Euan Ong</li>
+			<li>Neil Warren</li>
+			<li>Uzay Girit</li>
+			<li>Sam Enright</li>
+			<li>Dan Carey</li>
+			<li>Savva Grevtsev</li>
+			<li>Nikola Datkova</li>
+			<li>David Sartor</li>
+			<li>Xavi Costafreda</li>
+			<li>Nathan Chen</li>
+			<li>Catherine Brewer</li>
+			<li>Ashe Nunez</li>
+			<li>Daniel Vlasits</li>
+			<li>Hamidah Oderinwale</li>
+			<li>Jason Hausenloy</li>
+			<li>Miles Kodama</li>
+			<li>Duncan McClements</li>
+			<li>Sanskriti Shindadkar</li>
+			<li>Uli Mini</li>
+			<li>Yudhister Kumar</li>
+			<li>Lydia Nottingham</li>
+			<li>Matyáš Pokorný</li>
+			<li>Jaeho Lee</li>
+			<li>Zhibai Jia</li>
+			<li>Emaan Biabani</li>
+		</ul>
+		<br>
+		<b><a href="mailto:hi@arbresearch.com">Get in touch!</a></b>
+		<br><br><br>
+	</div>
 	<h3>Consulting</h3>
 	<div>
 		I run the research consultancy <a href="{{arb}}">Arb</a> with Misha Yagudin. Our team of 20 covers a good range of scientific and judgmental areas.<br><br>

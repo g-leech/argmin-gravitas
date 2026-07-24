@@ -11,25 +11,25 @@ visible:    false
 
 ### Spring Prospect (by 杜甫)
 
-The state is destroyed; the mountains remain;<br>
-The city in spring is deep in the weeds.<br>
+The state is destroyed, the mountains remain;<br>
+The city's in spring but deep in the weeds.<br>
 In these times even the flowers wear tears;<br>
 Bereft, even birds can startle the heart.<br>
 The beacons have burned three months at a stretch;<br>
 A letter from home's worth thousands in gold.<br>
 I scratch my white hair; it's thinner each time.<br>
-It soon will not hold my state hairpin at all.<br>
+It soon will not bear the weight of my pin.<br>
 <br>
-Realm falls; hills unmoved.<br>
-Grass buries the old.<br>
-Grieving, flowers weep;<br>
-birdsong, overbold.<br>
-Signals flare for months;<br>
+Realm falls; hills unmoved<br>
+Spring buries the old.<br>
+Grieving, flowers weep<br>
+birdsong turns me cold.<br> <!-- overbold -->
+Signals flare for months<br>
 word from home is gold!<br>
-My white hair, scratched thin.<br>
-Too sparse for a pin.<br>
+My white hair, scratched thin;<br>
+a pin that won't hold.<br>
 <br>
-Realm wrecked; earth stands. <br>
+Throne wrecked; earth stands. <br>
 Town overgrown.<br>
 Hard times; blooms cry.<br>
 Birds startle me.<br>
@@ -56,14 +56,7 @@ Words: gold.<br>
 Hair thins.<br>
 No hold.<br>
 
-<!-- After. 
-    Under.
-    Upon.
-    Apart.
-    Through.
-    For.
-    Away.
-    Without.  -->
+<!-- Spring prospect.  -->
 
 <br>
 
@@ -116,14 +109,14 @@ Come, friends, to the shop party! Surely come! See yas chaps!<br><br>
 ### Written on the rock on the road to Boshan (by 辛棄疾)
 
 When I was young and didn't know sorrow <br>
-I loved to scale the roofs<br>
-Yes, I scaled the roofs<br>
+I loved to scale the roofs alone<br>
+Yes, I scaled the roofs alone<br>
 To compose new verses I feigned my woe.<br><br>
 
 Now I understand sorrow’s flavour<br>
-I hold back the words<br>
+But I hold back the words<br>
 Yes, I hold back the words<br>
-Instead: 'nice autumn weather today'.<br>
+Instead 'nice autumn weather today'.<br>
  
 <br>
 
