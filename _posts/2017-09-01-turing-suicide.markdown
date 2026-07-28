@@ -8,7 +8,7 @@ author:		Gavin
 img:		/img/apple.jpeg
 
 visible:	1
-published: 	true
+published: 	false
 quality: 	7
 
 summary:	In which we ask, does a man who identifies unknown chemicals by tasting, won't wash his hands, and leaves cyanide evaporating in an unventilated room have >1% risk of accidental death?
