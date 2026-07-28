@@ -6,7 +6,7 @@ permalink:  /life
 date:       2026-07-03  <!--site.time-->
 author:     Gavin
 
-img:        /img/
+img:        /img/wings.png
 published:  true
 visible:    1
 quality:    
@@ -22,7 +22,7 @@ where:      "Somerset"
 ---
 
 
-This class is about a fatal trap that lies in wait for the brilliant but unwary young person: success; other people’s definitions of success
+This class is about a fatal trap that lies in wait for the brilliant but unwary young person: success; other people’s definitions of success.
 I have seen your CVs. They are too long. You are in danger.
 
 ### What do we mean by success
@@ -80,6 +80,7 @@ For most people, uncertainty is painful → ladders. Another way of saying this:
 
 You are born. You gain awareness and skill. You are faced with a huge practically-infinite-dimensional space of possible lives. How do you search such a thing?
 
+<br>
 <center>
   <img src="/img/inflife.png" />
 </center>

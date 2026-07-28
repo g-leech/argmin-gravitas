@@ -226,3 +226,6 @@ Even before we consider De Beauvoir's more <a href="http://www.goodreads.com/quo
 
 
 
+## See also
+
+* https://statsandsociety.substack.com/p/lessons-i-wish-id-learned-as-a-student
