@@ -124,6 +124,7 @@ How _do_ people spend their lives?
 
 Let’s look at the distribution of jobs in the global population; among "elite" undergraduates (R1s); among people like you (ESPR alumni); and among this year's ESPR instructors.
 
+<br><br>
 <table>
   <thead>
     <tr>
@@ -144,12 +145,11 @@ Let’s look at the distribution of jobs in the global population; among "elite"
     <tr><th scope="row">Charity</th><td>1%</td><td>10%</td><td>6%</td><td>15%</td></tr>
     <tr><th scope="row">Government</th><td>10%</td><td>5%</td><td>2%</td><td>8%</td></tr>
   </tbody>
-  <tfoot>
-    <tr><th scope="row"></th><td>100%</td><td>100%</td><td>100%</td><td>100%</td></tr>
-  </tfoot>
 </table>
 
-Crucially we are also 23% PhD holders and 23% PhD dropouts. Crucially we are also 50% full-time researchers. What does this gap between 0% and 46-50% tell you about us? About academia?
+<br><br>
+
+Despite being 0% full-time academics, crucially, we are _also_ 23% PhD holders plus 23% PhD dropouts. We know academia well. Crucially we are also 50% full-time researchers. We love research. What does this gap between 0% and 46-50% tell you about us? About academia?
 
 
 Now consider to instructors distribution. i.e. 70% of us rejected ladders. This should make you think both “ladders bad” and “ESPR are weirdos who I maybe shouldn't listen to”.

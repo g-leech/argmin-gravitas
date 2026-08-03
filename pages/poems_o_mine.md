@@ -12,8 +12,8 @@ visible:    false
 ### Spring Prospect (by 杜甫)
 
 The state is destroyed, the mountains remain;<br>
-The city's in spring but deep in the weeds.<br>
-In these times even the flowers wear tears;<br>
+The city's in spring, is deep in the weeds.<br>
+In these times even the flowers wear tears;<br> <!-- _these_ -->
 Bereft, even birds can startle the heart.<br>
 The beacons have burned three months at a stretch;<br>
 A letter from home's worth thousands in gold.<br>
@@ -70,7 +70,7 @@ No hold.<br>
 ### I'm gonna sell stuff (by Betti Alver)
 
 Beyond the window something comes, a shadow on the ceiling, gone.<br>
-Constantly the kettle hums, but our pan's got no pancakes on.<br>
+Constantly the kettle hums, but _our_ pan's got no pancakes on.<br>
 The drummer wind, as it rages, marshals branches from the avenue.<br>
 My belly's been empty for ages. And the rain speaks Latin, too.<br>
 Mum won't turn or look over, won't clatter the cupboard catch:<br>
