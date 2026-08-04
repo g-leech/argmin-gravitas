@@ -13,7 +13,7 @@ quality:
 emotion:    
 importance: 
 
-summary:    new version of my classic class on the meaning of life
+summary:    new version of my class on the meaning of life
 confidence: 70% 
 categories: education, meaning, becoming, warnings, my-classes
 warnings:   Polemic. I am ignoring AI for good reasons.
@@ -62,6 +62,7 @@ Same question rotated outwards. 3 minutes silent writing please.
 _Class share their examples_
 
 
+<br><br>
 
 # Quiet desperation
 
@@ -71,6 +72,8 @@ Right, I'm glad we agree.
 
 On average the world has a way of leading us away from greatness and self-fulfilment, even among the doubtless capable and unusually well-resourced adults in your unusual lives. There is a deep gravity well which leads towards dissatisfaction and mediocrity. It is actually deeper for talented people like you. But you also have more thrust to escape with.
 
+
+<br><br>
 
 # Why?
 
@@ -88,6 +91,7 @@ You are born. You gain awareness and skill. You are faced with a huge practicall
 **Interactive**: Well, how do you solve a problem with too many dimensions?
 
 * Many good suggestions like sampling, gradient descent, searching within a promising subspace, assuming linearity, using evolved or learned heuristics.
+* Sampling actually fails in theory but works in real life.
 
 Yes. However, I claim that the most common algorithm is instead _pick a single socially-reinforced axis and live within it_.
 
@@ -152,7 +156,9 @@ Let’s look at the distribution of jobs in the global population; among "elite"
 Despite being 0% full-time academics, crucially, we are _also_ 23% PhD holders plus 23% PhD dropouts. We know academia well. Crucially we are also 50% full-time researchers. We love research. What does this gap between 0% and 46-50% tell you about us? About academia?
 
 
-Now consider to instructors distribution. i.e. 70% of us rejected ladders. This should make you think both “ladders bad” and “ESPR are weirdos who I maybe shouldn't listen to”.
+Now consider the instructors distribution. i.e. 70% of us rejected ladders. This should make you think both “ladders bad” and “ESPR are weirdos who I maybe shouldn't listen to”. Staff differ from the global population at p=0.002. But you already knew that.
+
+That said, by KL-divergence, Jensen-Shannon and total variation, ESPR alumni and staff are the closest fit. So you just need to work out if you're not an atypical alum to listen. 
 
 
 ## Path dependency
@@ -253,6 +259,10 @@ But idiots use this as a status measure, and the corrupt use it as what passes f
 Riff on [this](https://www.lesswrong.com/posts/uGDtroD26aLvHSoK2/dear-self-we-need-to-talk-about-ambition-1).
 
 
+## Ways money makes things worse
+
+Riff on [this](https://forum.effectivealtruism.org/posts/YKEPXLQhYjm3nP7Td/ways-money-can-make-things-worse)
+
 
 ## You have options
 
@@ -311,3 +321,10 @@ Do not let me tell you what to do.
 Most work makes the world better in a small and quiet way. This is beautiful. Mihaly once worked on Google’s central TCP/IP code. He commented out one line and sped up every single web request that Google performs. A quadrillion of milliseconds saved every day = 11 years of human life every year. He says this is likely the most valuable work he ever did for them.
 
 Getting to L6 at Google, having 2 children, saying true things, retiring at 50, being kind. This is a lot. It is more than most humans who ever lived achieved 
+
+
+
+
+## See also 
+
+* [Escaping Flatland](https://space.ong.ac/escaping-flatland) (2D planes instead of 1D ladders)
