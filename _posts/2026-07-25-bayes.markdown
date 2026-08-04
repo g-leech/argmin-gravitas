@@ -444,7 +444,7 @@ probabilities are (nearly) a unique solution for sensible numerical beliefs
 
 <br>
 
-## Objections    
+## Fatal Objections to Bayesian Epistemology and Bayesianity
 
 [Full list](#objections)
 
