@@ -438,7 +438,7 @@ asymptotically a perfect Bayesian always predicts as well as the best expert, ev
 
 Conditionalisation is the unique updating rule that maximises expected epistemic utility. Briggs & Pettigrew (2020) upgrade to dominance\!
 
-### Paris-Cox theorem (1946 / 1994): 
+### Cox-Paris theorem (1946 / 1994): 
 
 probabilities are (nearly) a unique solution for sensible numerical beliefs 
 
@@ -541,14 +541,12 @@ P(\text{cancer} \mid \text{+supermamm}) &= \frac{P(\text{+supermamm} \mid \text{
 &\approx 0.48
 \end{aligned}$$
 
-You didn’t become any more intelligent in the last hour. The difference between your old wrong answer and the new correct one is this one equation you have installed. Homework: don’t let it go.
+You didn’t become any more intelligent in the last hour. The difference between your old wrong answer and the new correct one is this one equation you installed. Homework: don’t let it go.
 
 
 <br><br>
 
 # Appendices
-
-Reference material: the optimality arguments in full, the objections in full, the desiderata in full, further classes and reading, and a friend’s alternative presentation. Click to expand.
 
 <div class="accordion">
 <h3>Followup classes</h3>
