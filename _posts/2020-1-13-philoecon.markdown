@@ -13,6 +13,7 @@ published:  false
 summary:    Also why some people reject economic analysis so strongly.
 quality:    5
 confidence: 60%. When I wrote this I didn't really understand science.
+categories: economics, philosophy, philosophy-of-science
 importance: 4
 wordcount:  4000 
 argument:   
@@ -251,6 +252,10 @@ As a result of these(largely unintended) features, the paradigm could not shift 
 ## See also
 
 * https://www.overcomingbias.com/2020/08/common-econ-critiques.html
+* <a href="/econ">'Why study economics?'</a>
+* <a href="/econ-life">Economics as philosophy of life</a>
+* <a href="/demarcation">'The Unpersuadables' (2013) by Storr</a>
+* <a href="/grapes">Can you trust your methods?</a>
 
 <br>
 

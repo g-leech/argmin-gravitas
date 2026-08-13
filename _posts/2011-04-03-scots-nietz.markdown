@@ -17,7 +17,7 @@ importance: 3
 emotion:    5
 warnings:   Fiction!
 wordcount:  400
-categories: philosophy, scotland
+categories: philosophy, places
 argument:   
 ---
 
@@ -35,5 +35,10 @@ When a man does what his social circumstances are inimical to, he is shunned. Wh
 They have not so much as a false prophet, like our Wagner. Who might be their prophetaster? Scott, of the misty eyes and misty heart? Carlyle, of the involuntary farce and the noiseless rhetoric? They had Hume and have become Carlyle.
 
 But there is nothing _specially_ degenerate about them; all Europe swims the same fouled tributaries. Yet, perhaps, in their good Europeanism and their nihilism advanced beyond ours, are grounds for something higher, if only they could cast aside their camaraderie with sheep. Who can say what new -- slant -- daylight may lie in grey places?
+
+## See also
+
+* <a href="/deen">Aberdeen</a>
+* <a href="/glesga">Glasgow</a>
 
 <br><br>

@@ -221,3 +221,6 @@ Stylometry: how distant are the heteronyms?
 * [Scans of Pessoa's notebooks](https://purl.pt/1000/1/cadernos/index.html), about a third in English
 * https://modernismo.pt/index.php/fernando-pessoa-english-heteronyms-db-2
 * https://www.registryofpseudonyms.com/fernando_pessoa.html
+* <a href="/sincerity">Irony, sincerity, nostalgia, neoteny</a>
+* <a href="/theisms">theisms</a>
+* <a href="/perelman">Perelman</a>

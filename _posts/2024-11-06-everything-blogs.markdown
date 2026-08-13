@@ -15,7 +15,7 @@ summary:    a theory of everything
 confidence: 
 importance: 6
 wordcount:  
-categories: greats, blogging, 
+categories: greats, blogging
 ---
 
 Think tanks are blogs (slow blogs)

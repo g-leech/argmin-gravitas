@@ -166,4 +166,12 @@ So, in spite of them, I'm going to find the best of the field, to "[steel-man][S
 
 
 
+## See also
+
+* <a href="/grapes">Can you trust your methods?</a>
+* <a href="/demarcation">'The Unpersuadables' (2013) by Storr</a>
+* <a href="/piety">Present pieties</a>
+
+<br><br>
+
 {%  include anthro/foots.html %}

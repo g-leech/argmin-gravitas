@@ -15,7 +15,7 @@ summary:    Blocking the critical path
 confidence: Fiction.
 importance: 8
 wordcount:  
-categories:	bias, econ
+categories:	bias, economics
 ---
 
 
@@ -50,3 +50,9 @@ Based on Cotra
 https://drive.google.com/drive/u/1/folders/15ArhEPZSTYU8f012bs6ehPS6-xmhtBPP
 
 Horizon of a few minutes -> 10^30 FLOPs
+
+## See also
+
+* <a href="/maniac">'The Maniac' (2023) by Labatut</a>
+* <a href="/ai-risk">Why worry about future AI?</a>
+* <a href="/ceiling">A ceiling for human expertise</a>

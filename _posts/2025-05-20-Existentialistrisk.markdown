@@ -16,7 +16,7 @@ warnings:
 confidence: 
 importance: 8
 wordcount:  
-categories: 
+categories: ai, scary-futurism, meaning, philosophy
 where:      "Sevenoaks"
 ---
 
@@ -92,4 +92,10 @@ Atelic goods are complete in the moment: strolling through the woods, enjoying a
 
 Gavin: This account totally ignores the longtermist assumption of ripple effects, focussing entirely on subjective meaning, named legacy, permanent evidence, etc. It’s thus maybe contemptible – but it seems like a lot of current people run on this axiology, so it might persist and might cause suffering. 
 
-- MM: any straightforward ways by which to increase the legibility and/or duration of partcular impacts throughout time? e.g. get everyone to carve their sigil into their own Voyager probe; [though of course doesn’t extend indefinitely still].  
+- MM: any straightforward ways by which to increase the legibility and/or duration of partcular impacts throughout time? e.g. get everyone to carve their sigil into their own Voyager probe; [though of course doesn’t extend indefinitely still].
+
+## See also
+
+* <a href="/culture">Against the Culture</a>
+* <a href="/ai-risk">Why worry about future AI?</a>
+* <a href="/memoria">Legacy and the memory of legacy</a>

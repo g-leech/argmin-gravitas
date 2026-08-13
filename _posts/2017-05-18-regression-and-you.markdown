@@ -12,12 +12,17 @@ quality:
 summary:		A visualisation of when to use one of the many regressions 
 confidence:		90%
 importance: 4
-categories:		stats, machine learning
+categories:		stats, machine-learning
 ---
 
 
 
 The deep way to study stats is to start off learning a model or a distribution or an estimator and see how they dwindle under a more general method, when you relax its assumptions one by one.
+
+## See also
+
+* <a href="/stats">Learn stats without going mad</a>
+* <a href="/worst">The Worst Game Ever</a>
 
 
 

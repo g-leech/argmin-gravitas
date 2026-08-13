@@ -16,7 +16,7 @@ importance: 3
 emotion:    4
 warnings:   
 wordcount:  
-categories: art, status, subculture
+categories: art, social-science, subculture
 argument:   
 ---
 
@@ -179,6 +179,8 @@ See also my above skit on country as one of few places for male emoting in some 
 * https://www.publishersweekly.com/978-0-06-019047-7
 * https://www.goodreads.com/book/show/16033285-hidden-in-the-mix
 * https://www.goodreads.com/book/show/18723634-rednecks-queers-and-country-music
+* <a href="/svengali">Pop auteurs</a>
+* <a href="/nation-sound">The World Sound</a>
 
 
 <div class="footnotes">

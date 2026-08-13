@@ -13,7 +13,7 @@ best:		1
 
 summary:    Checking the replication of the science behind TED talks.
 confidence:	
-categories: 
+categories: science, criticism, review
 warnings:	
 importance: 6.
 wordcount:		
@@ -23,3 +23,8 @@ wordcount:
 Meta-meta-analysis.
 
 Compared to social science's average replication rate (50%)
+
+## See also
+
+* <a href="/watts">'Peter Watts is an Angry Sentient Tumor' (2019)</a>
+* <a href="/psych">Reversals in psychology</a>

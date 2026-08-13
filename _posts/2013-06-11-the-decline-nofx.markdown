@@ -208,6 +208,12 @@ Finally, an earnest and loveable 8 minute concept suite by NY's best oldest semi
     </div>
 </div>
 
+## See also
+
+* <a href="/ragan">Interview: Chuck Ragan</a>
+* <a href="/codes">Cracking cultures</a>
+* <a href="/country">Cracking country</a>
+
 <div class="footnotes">
 
 <ol>

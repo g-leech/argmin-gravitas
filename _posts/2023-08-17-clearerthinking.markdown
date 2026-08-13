@@ -62,4 +62,10 @@ Does this general education in cynicism and stats give me insight into fields I 
 
 There's also a human transcript if you are a man of taste.
 
+## See also
+
+* <a href="/bootstraps">Limits to self-invention</a>
+* <a href="/strength">'Starting Strength' by Rippetoe</a>
+* <a href="/demarcation">'The Unpersuadables' (2013) by Storr</a>
+
 <br>

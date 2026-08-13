@@ -13,7 +13,7 @@ quality:
 img:			/img/al-adli.png
 summary:		
 confidence: 	70% on equations' truth (because vague). 80% that it's worth doing.
-categories: 	code, 
+categories: 	code
 importance: 	5.
 wordcount: 			600
 ---
@@ -42,4 +42,8 @@ astronomers
 2012: Cars
 
 
+## See also
+
+* <a href="/benchmarks">brief history</a>
+* <a href="/data-science">Data Science FAQ</a>
 

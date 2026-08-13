@@ -12,7 +12,7 @@ visible:    1
 
 summary:    Two trends among academics looking at impacts of artificial intelligence.
 quality:    6
-categories: AI, ethics, longtermism
+categories: ai, ethics, longtermism
 importance: 9
 wordcount:  2000
 argument:   ai-ethics/argument.html
@@ -189,4 +189,7 @@ Returning to the epigram from Dyson: there is hope. Since 1979, respectable work
 ## See also
 
 * [Regulation of AI as power grab](https://emerj.com/ai-power/regulation-of-ai-power/)
+* <a href="/ai-risk">Why worry about future AI?</a>
+* <a href="/acais">AI alignment & academia</a>
+* <a href="/hplr">Ten Hard Problems in and around AI</a>
 

@@ -15,7 +15,7 @@ importance: 9
 
 summary:    A good attempt at the most important theme of the last 80 years
 confidence: 90% on AI bits.
-categories: AI, xrisk, computers, science, maths, greats
+categories: ai, scary-futurism, computers, science, maths, greats
 warnings:   War crimes, crimes against humanity, rationalised mental illness
 wordcount:  2291
 ---
@@ -140,5 +140,8 @@ Read <a href="https://www.gleech.org/jvn">Bhattacharya</a> first.
 ## See also
 
 * [My additions to Bhattacharya](https://www.gleech.org/jvn)
+* <a href="/ceiling">A ceiling for human expertise</a>
+* <a href="/enigma">Turing</a>
+* <a href="/uranverein">'Hitler's Uranium Club' (2008) by Bernstein</a>
 
 <br><br>

@@ -15,7 +15,7 @@ importance: 6
 
 summary:    taking it back from the pols
 confidence: 
-categories: the-two-cultures, maths, politics, history, language
+categories: science, maths, politics, history, language
 warnings:   
 wordcount:      
 argument: 	zhang-argument.html
@@ -91,5 +91,10 @@ I'm not insisting that usage (4) is best just because it's biggest. Consider the
 
 <br><br>(<i>Dissemination</i> does seems important: a full-blown intellectual should publish, and engage with incompatible views. So it's only the hostile takeover by social theorists and celebrity culture I'm actually opposing.)
 <br><br><br>
+
+## See also
+
+* <a href="/broadness">Broadness and philosophical rank</a>
+* <a href="/perelman">Perelman</a>
 
 </div>

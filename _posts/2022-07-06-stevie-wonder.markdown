@@ -14,7 +14,7 @@ summary:
 quality:    4
 importance: 5
 wordcount:  1000    
-categories: music, culture, rationality
+categories: music, rationality
 where:      "Nassau, Bahamas"
 ---
 

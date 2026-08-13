@@ -15,7 +15,7 @@ importance: 5
 
 summary:    
 confidence: 
-categories: 
+categories: economics, lists, bloggers
 warnings:   
 wordcount:      
 ---
@@ -28,3 +28,6 @@ wordcount:
 ## See also
 
 *  https://danfrank.ca/my-favourite-tyler-cowen-posts-and-ideas/
+* <a href="/siderea">The best of Siderea</a>
+* <a href="/aaronson">The best of Scott Aaronson (for laymen)</a>
+* <a href="/essays">My favourite essays</a>

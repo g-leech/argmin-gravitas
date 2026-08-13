@@ -15,7 +15,7 @@ summary:    The horror of bureaucracy, Goodhart's law, and other human depravity
 confidence: 80%
 importance: 5
 wordcount:  1000
-categories: review, goodhart
+categories: review, stats
 ---
 
 {%	assign hacker = "https://news.ycombinator.com/item?id=17521127&fbclid=IwAR1uFwE3NzWZMLp4v6VyJSuaXt9A5znB27peiHbndeg0k4ojVVVdHqUvEBg"	%}
@@ -111,3 +111,8 @@ I think this is the first 'true crime' book I've read. I don't know if this is t
 
 
 <br><br>
+
+## See also
+
+* <a href="/worst">The Worst Game Ever</a>
+* <a href="/esa-deaths">How lethal are the Tories? Part 1</a>

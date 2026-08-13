@@ -784,6 +784,9 @@ But playing it I am reminded what is great about the left – the cussed rejecti
 * https://platypus1917.org/2025/02/01/forward-looking-return-an-interview-with-disco-elysium-writer-helen-hindpere/
 * https://backloggd.com/u/PHoovy/review/833332/
 * Most of the academic writing about it sucks.
+* <a href="/theisms">theisms</a>
+* <a href="/culture">Against the Culture</a>
+* <a href="/codes">Cracking cultures</a>
 
 <div class="accordion">
     <h3>bad air guitar</h3>

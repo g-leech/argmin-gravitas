@@ -11,7 +11,7 @@ published:  false
 visible:    1
 
 summary:    The literature of change.
-categories: 
+categories: scifi, fiction, literature
 confidence: 60%
 importance: 8 to me, 3 to you
 wordcount:  
@@ -35,7 +35,14 @@ software
 	Dick tried to do social and moral but failed
 	Le Guin did social without much of the others
 	Vinge does software and social
-	Tchaikovsky science and 
+	Tchaikovsky science and
 	Egan
 	Chiang
 	Banks all about moral and social
+
+## See also
+
+* <a href="/culture">Against the Culture</a>
+* <a href="/blindsight">'Blindsight' (2006) by Watts</a>
+* <a href="/palmer">'Terra Ignota': the ecstasy of uncertainty</a>
+* <a href="/fermi">Drake, Hanson, and the meaning of life</a>

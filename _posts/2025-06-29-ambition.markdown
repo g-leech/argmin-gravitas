@@ -15,7 +15,7 @@ summary:    less-visible, less-conventional drives are still drives
 confidence: 
 importance: 7
 wordcount:  
-categories: philosophy-of-life, work, 
+categories: meaning, work
 where:      "Munich"
 ---
 
@@ -64,6 +64,12 @@ The obvious problem with this is that my attention is divided, so singular great
 		Becoming a parent is, currently, sorta ambitious. (I say currently because the onerous parenting time and safetyism and cost is historically novel.) It used to be unambitious to become a parent but ambitious to remain a parent, since they'd so often die.
 	</div>
 </div>
+
+## See also
+
+* <a href="/life">A Life Really Worth Living</a>
+* <a href="/pg">Great work</a>
+* <a href="/hype">get hype</a>
 
 
 

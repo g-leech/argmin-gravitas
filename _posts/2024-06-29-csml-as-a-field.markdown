@@ -15,7 +15,7 @@ importance: 6
 
 summary:    modern computer science and ML
 confidence: 
-categories: 
+categories: machine-learning, computers, phd, lists
 warnings:   
 wordcount:      
 ---
@@ -221,3 +221,6 @@ I would have done pretty well in an information studies or some social science p
 
 * http://www.cs.umd.edu/~oleary/gradstudy/
 * https://www.lesswrong.com/posts/AtfQFj8umeyBBkkxa/a-bird-s-eye-view-of-the-ml-field-pragmatic-ai-safety-2
+* <a href="/phdone">Piled higher and deeper</a>
+* <a href="/data-science">Data Science FAQ</a>
+* <a href="/benchmarks">brief history</a>

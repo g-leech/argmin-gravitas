@@ -29,5 +29,12 @@ where:      "Bristol"
     {%  include barriers/simple.html %}
 </div>
 
+## See also
+
+* <a href="/dark-math">Mathematical dark matter</a>
+* <a href="/god">What god has to do in mathematics</a>
+* <a href="/gut-epistemics">Does the gut cross the epistemic barrier?</a>
+* <a href="/ignorance">Crossing the ocean of my ignorance</a>
+
 
 

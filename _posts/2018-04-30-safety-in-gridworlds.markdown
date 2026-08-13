@@ -13,7 +13,7 @@ quality: 	4
 
 summary:    Work from the Gridworld team at AI Safety Camp Gran Canaria. 
 confidence:	DRAFT. Eventually, 90% because executable. 
-categories: AI, RL
+categories: ai, rl
 importance: 7
 wordcount:		888
 ---
@@ -224,6 +224,14 @@ We first implemented an amoral baseline agent. <a href="{{DQN}}">Code here</a>.
 	<center>
 		<a href="{{apply}}">Applications for the next AI Safety Camp will open around June</a>. I highly recommend it.
 	</center>
+<br><br>
+
+## See also
+
+* <a href="/ceiling">A ceiling for human expertise</a>
+* <a href="/ai-risk">Why worry about future AI?</a>
+* <a href="/acais">AI alignment & academia</a>
+
 <br><br>
 
 {%	include gridworlds/foots.html		%}

@@ -16,7 +16,7 @@ confidence:
 importance: 
 wordcount:  
 warnings: 	
-categories: 
+categories: science, stats, epistemology
 ---
 
 On contaminating data by looking at it 
@@ -46,3 +46,8 @@ https://en.wikipedia.org/wiki/Leakage_(machine_learning)
 
 
 People actually use "contamination" to mean noisy data or corrupted data.
+
+## See also
+
+* <a href="/grapes">Can you trust your methods?</a>
+* <a href="/masks">Do masks work against COVID, at scale?</a>

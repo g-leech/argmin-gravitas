@@ -45,4 +45,10 @@ Something is coming to understand but not her.
 
 ## [src](https://colab.research.google.com/drive/1V4cNKA9bLMuOHvsH1URhI6xV5DEWpTAS)
 
+## See also
+
+* <a href="/narratives">Psychology and fictions of language models</a>
+* <a href="/curate">Curate</a>
+* <a href="/jailbreak">The jailbreak argument against LLM values</a>
+
 <br><br><br>

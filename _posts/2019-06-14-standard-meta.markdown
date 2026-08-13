@@ -13,8 +13,9 @@ quality: 	4
 
 summary:    What are the background assumptions of contemporary analytic philosophy?
 confidence: 60%
+categories: philosophy, epistemology, conceptual-analysis
 importance: 2
-wordcount:      
+wordcount:
 ---
 
 The duration and depth of disagreement among philosophers - 2000 years, on many, many things - is funny. Why are we surprised by this failure?
@@ -38,6 +39,11 @@ How common is this view? The PhilPapers survey (of mainly Anglophone philosopher
 
 
 
+## See also
+
+* <a href="/no-philosopher">Why I'm not a philosopher</a>
+* <a href="/broadness">Broadness and philosophical rank</a>
+* <a href="/barriers">Ways we can fail to answer</a>
 
 
 <!-- %  include metaphil/foots.html %} -->

@@ -13,7 +13,7 @@ quality: 	5
 
 summary:    Elementary philosophy of mind with one original argument.
 confidence:	75%, but only because conclusion is wholly negative.
-categories: AI, philosophy, argument
+categories: ai, philosophy, argument
 warnings:	
 importance: 6
 wordcount:	1000
@@ -157,6 +157,12 @@ Despite Turing's inspiring attempt to sideline it, the metaphysics of mind is a 
 
 
 <br>
+
+## See also
+
+* <a href="/enigma">Turing</a>
+* <a href="/first-computers">Disambiguating the first computer</a>
+* <a href="/ceiling">A ceiling for human expertise</a>
 
 {%  include turing-searle/foots.html %}
 

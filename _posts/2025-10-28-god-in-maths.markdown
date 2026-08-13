@@ -59,6 +59,12 @@ Ultimately he makes it all [cohere](https://en.wikipedia.org/wiki/Hilbert%27s_se
 <br>
 <a href="#fn:1" id="fnref:1">1</a>
 
+## See also
+
+* <a href="/dark-math">Mathematical dark matter</a>
+* <a href="/barriers">Ways we can fail to answer</a>
+* <a href="/frege">Frege's grand failure</a>
+
 <div class="footnotes">
 
 <ol>

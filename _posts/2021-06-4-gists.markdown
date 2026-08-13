@@ -16,7 +16,7 @@ confidence:
 importance: 4
 wordcount:  500
 warnings: 	
-categories: code, science, 
+categories: code, science
 ---
 
 {% assign dnd = "https://gist.github.com/g-leech/05a106d425fe8477a86acfd0dd1c82d6"      %}
@@ -144,3 +144,9 @@ We know $$3^x \,\,\%\,\, 3^y = 0 $$  for y < x
 So for a near-constant time check, just ensure that you make $$3^x$$ definitionally larger than $$3^y$$. e.g. set it to the MAX int of your system, and then take the mod.
 
 <br>
+
+## See also
+
+* <a href="/masks">Do masks work against COVID, at scale?</a>
+* <a href="/bayes">Bayesianity</a>
+* <a href="/stats">Learn stats without going mad</a>

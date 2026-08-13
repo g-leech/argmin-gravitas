@@ -405,6 +405,9 @@ David Deutsches hate this one trick to stop trying to complete mathematics!!
 * https://x.com/YonderDavid/status/1796025541427868065
 * https://www.bhauth.com/blog/thinking/math%20intuition.html
 * https://linch.substack.com/p/why-reality-has-a-well-known-math
+* <a href="/barriers">Ways we can fail to answer</a>
+* <a href="/frege">Frege's grand failure</a>
+* <a href="/god">What god has to do in mathematics</a>
 
 <div class="footnotes">
 

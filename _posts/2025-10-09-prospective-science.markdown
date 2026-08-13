@@ -244,6 +244,9 @@ Most academic studies look backwards. (RCTs look forwards but at enormous expens
 
 * [Google-fu](https://www.gleech.org/google)
 * [Google as Epistemic Tool](https://philarchive.org/archive/DEVRGA)
+* [Comparing experts and generalists](/forecasters)
+* ['Peter Watts is an Angry Sentient Tumor' (2019)](/watts)
+* ['Curiosity' (2012) by Ball](/curiosity)
 
 
 <div class="footnotes">

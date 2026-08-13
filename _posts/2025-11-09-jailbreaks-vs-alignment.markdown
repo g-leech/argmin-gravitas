@@ -15,7 +15,7 @@ summary:    Writeup of a folk argument I didn't come up with
 confidence: 70%
 importance: 8
 wordcount:  
-categories: AI, alignment
+categories: ai, alignment
 where:      "Bristol"
 ---
 
@@ -142,6 +142,9 @@ I'm sure there's some other deep confusion lurking in this list and I look forwa
 
 * [Paleka](https://newsletter.danielpaleka.com/p/the-two-types-of-llm-preferences)
 * [Value generalisation rate](https://arxiv.org/pdf/2511.02109)
+* <a href="/actadd">LLM alignment via activations</a>
+* <a href="/ai-risk">Why worry about future AI?</a>
+* <a href="/grids">Preventing Side-effects in Gridworlds</a>
 
 <br><br>
 

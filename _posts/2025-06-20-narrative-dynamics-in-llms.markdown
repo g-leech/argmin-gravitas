@@ -15,7 +15,7 @@ summary:    explaining current AI with literary theory and psychology
 confidence: Very speculative and high-level and folksy
 importance: 7
 wordcount:  
-categories: AI, literature, my-classes
+categories: ai, literature, my-classes
 where:      "Tachov"
 ---
 
@@ -373,3 +373,6 @@ But your body is really pretty stable and your environment usually is too, which
 * [https://nautil.us/ai-already-knows-us-too-well-1220707/](https://nautil.us/ai-already-knows-us-too-well-1220707/)
 * https://link.springer.com/article/10.1007/s11097-025-10094-3
 * https://arxiv.org/abs/2503.16348
+* <a href="/ai-risk">Why worry about future AI?</a>
+* <a href="/jailbreak">The jailbreak argument against LLM values</a>
+* <a href="/editron">AI editing: a test</a>

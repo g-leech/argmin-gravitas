@@ -110,6 +110,9 @@ This doesn't mean that the flaws are justified and doesn't fully redeem the last
 * <a href="{{robnost}}">Robnost trying to understand why the bad bits are there</a>
 * <a href="{{dril}}">dril</a>
 * https://irradiate.space/worldbuilding/towards-utopia-terra-ignota/
+* <a href="/culture">Against the Culture</a>
+* <a href="/fermi">Drake, Hanson, and the meaning of life</a>
+* <a href="/big3">Scoring the Big Three</a>
 
 <br><br>
 

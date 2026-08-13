@@ -407,6 +407,9 @@ That is all.<br />
 * https://allhail.substack.com/p/1994-zopilote-machine
 * [The liberated mind](https://hooksexup.com/screeningroom/music/MountainGoats/)
 * https://web.archive.org/web/20140208135422/http://www.johndarnielle.com/
+* <a href="/codes">Cracking cultures</a>
+* <a href="/vegetables">'Trompettes de la Mort' (2005)</a>
+* <a href="/svengali">Pop auteurs</a>
 
 
 <br><br>

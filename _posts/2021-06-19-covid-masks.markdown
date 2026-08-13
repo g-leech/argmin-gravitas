@@ -66,3 +66,9 @@ Our definition of ‘mask-wearing' isn’t stringent: it’d apply to a person w
 Here's the [code](https://github.com/g-leech/masks_v_mandates) (end-to-end instructions).
 
 <br>
+
+## See also
+
+* <a href="/esa-deaths">How lethal are the Tories? Part 1</a>
+* <a href="/flu">'The Great Influenza' (2004) by Barry</a>
+* <a href="/worst">The Worst Game Ever</a>

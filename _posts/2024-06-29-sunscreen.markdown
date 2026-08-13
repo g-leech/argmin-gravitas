@@ -15,7 +15,7 @@ importance: 7
 
 summary:    A class I taught which is mostly just the word "heterogeneity" over and over
 confidence: 60%. IANAD
-categories: 
+categories: my-classes, health, quantified-self, epistemology
 warnings:   
 wordcount:      
 where:      "Bristol, Skyrje"
@@ -512,4 +512,7 @@ We got P(Ab+ | masks, , , , )
 
 ## See also
 
-* [gleech.org/med](https://www.gleech.org/med)  
+* [gleech.org/med](https://www.gleech.org/med)
+* <a href="/pills">The trouble with supplements</a>
+* <a href="/experi">Log of self-experiments</a>
+* <a href="/masks">Do masks work against COVID, at scale?</a>

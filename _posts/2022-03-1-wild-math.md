@@ -15,7 +15,7 @@ summary:
 confidence: 
 importance: 
 wordcount:  
-categories:	
+categories: maths, epistemology
 ---
 
 
@@ -28,4 +28,8 @@ Are most antiderivatives nonelementary??
 
 Most angles of sin x have no closed-form solution (because of the Abel–Ruffini theorem)
 	nah. true for rational form, not exponential i form
+
+## See also
+
+* <a href="/dark-math">Mathematical dark matter</a>
 

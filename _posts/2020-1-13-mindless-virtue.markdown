@@ -12,7 +12,8 @@ published:  false
 
 summary:    Do harmless things still erode character?
 quality:    3
-confidence: 
+confidence:
+categories: ethics, philosophy
 importance: 4
 wordcount:      4000 
 argument:	
@@ -24,3 +25,8 @@ Let's imagine that porn industry was safe and there were no survival sex workers
 Is watching porn unvirtuous independent
 
 What about shooting people in GTA?
+
+## See also
+
+* <a href="/consent">Consent as conclusive evidence</a>
+* <a href="/anti-ethics">'Why Moral Theory is Boring and Corrupt'</a>

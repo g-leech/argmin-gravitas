@@ -580,6 +580,9 @@ Washed up and ranting about the same old bitter things
 * https://notebook.substack.com/p/miss-americana-and-the-heartbreak
 * https://www.vulture.com/2017/08/taylor-swift-look-what-you-made-me-do-pure-trump-era-pop-art.html
 * https://bsky.app/profile/swiftonsecurity.com/post/3ljxnyv6aks23
+* <a href="/svengali">Pop auteurs</a>
+* <a href="/spotify">streaming vs listening</a>
+* <a href="/rubin">Rubinations</a>
 
 <div class="footnotes">
 

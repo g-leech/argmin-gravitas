@@ -14,8 +14,8 @@ quality:    4
 summary:    
 confidence: 
 importance: 6
-wordcount:  
-categories: 
+wordcount:
+categories: ai, philosophy
 where:      "Bristol"
 ---
 

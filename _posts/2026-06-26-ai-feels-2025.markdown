@@ -15,7 +15,7 @@ summary:
 confidence: 60%
 importance: 9
 wordcount:  
-categories: AI
+categories: ai
 where:      "Above the Atlantic"
 ---
 
@@ -103,3 +103,9 @@ https://x.com/tobyordoxford/status/1969078868855206318
 https://x.com/sebkrier/status/1968462081855730097
 
 https://docs.google.com/document/d/14GWzMaTVzqQ6752umS2M2319soUizuhL-b734Ijh6WA/edit?tab=t.0
+
+## See also
+
+* <a href="/ai2025">AI in 2025: gestalt</a>
+* <a href="/llms">How I don't use LLMs</a>
+* <a href="/ai-risk">Why worry about future AI?</a>

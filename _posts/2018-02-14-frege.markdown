@@ -368,6 +368,14 @@ As outlined, and by assumption (F), Frege holds that senses are objective and ab
 </ol>
 
 
+## See also
+
+* <a href="/perelman">Perelman</a>
+* <a href="/jvn">von Neumann</a>
+* <a href="/dark-math">Mathematical dark matter</a>
+* <a href="/barriers">Ways we can fail to answer</a>
+
+<br><br>
 
 {%	include frege/foots.html		%}
 

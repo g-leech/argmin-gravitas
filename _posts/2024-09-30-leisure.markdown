@@ -15,7 +15,7 @@ summary:
 confidence: 
 importance: 5
 wordcount:  
-categories: 
+categories: economics, social-science, work
 ---
 
 __A bleg is Tyler's coinage for a blog post begging for some particular information.__
@@ -42,3 +42,9 @@ Others have noted that the elite are now expected to work, and work pretty hard.
 * Step 1. Go on Google Scholar and look for 2024 works citing Veblen (1899)
 * Step 2. Look for who Ashley Mears cites.
 * Step 3. Look at _Deep Utopia_ when it looks for existing reference points for post-scarcity people
+
+## See also
+
+* <a href="/nonmoney">nonmonetary payoffs to starting a company</a>
+* <a href="/overheads">Existential overheads</a>
+* <a href="/corp">On inhabiting a giant corporation</a>

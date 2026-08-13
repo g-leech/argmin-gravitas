@@ -16,7 +16,7 @@ confidence: 70%
 importance: 7
 wordcount:  
 warnings:   "Obsolete by March 2026.<br>&nbsp;&nbsp;&nbsp;&nbsp;CoIs: I've been a contractor for the big Western labs in the past and am long Google."
-categories: AI, hypothesis-dump
+categories: ai, hypothesis-dump
 where:      "Bristol"
 ---
 
@@ -924,3 +924,9 @@ _Low adoption is overdetermined_:
         I was quite surprised to see powerful <a href="https://x.com/deanwball/status/1990434300781568311">people</a> publicly endorsing a mere blogpost. This is good news for the world; blogs remain the alpha of the internet.
     </div>
 </div>
+
+## See also
+
+* <a href="/ai2025">AI in 2025: gestalt</a>
+* <a href="/tplus">Transformer++</a>
+* <a href="/mitchell">Mitchell's open problems</a>

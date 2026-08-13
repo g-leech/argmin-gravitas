@@ -12,7 +12,6 @@ visible:    1
 quality:    6
 
 summary:    A compressed version of what's important to me.
-categories: 
 importance: 9
 wordcount:  1000
 categories: self-representation, lists, philosophy, becoming
@@ -163,5 +162,11 @@ as of early 2019:<br><br>
 Again, these aren't my <a href="https://www.goodreads.com/review/list/68316850-gavin-leech?shelf=favorites">favourite books</a>, or the <a href="https://www.goodreads.com/review/list/68316850-gavin-leech?shelf=highly-readable">ones I enjoyed most</a>, or the <a href="https://www.goodreads.com/review/list/68316850-gavin-leech?shelf=influential-but">books that most changed me</a>, or the books I think I'd include if I could understand them. (For instance, I got into anti-poverty through Peter Singer, heuristics and biases through Nassim Taleb, and longtermism through David Pearce.) They're what you could read if you wanted to understand me.
 
 <br><br>
+
+## See also
+
+* <a href="/life">A Life Really Worth Living</a>
+* <a href="/sweep">The sense of a start</a>
+* <a href="/essays">My favourite essays</a>
 
 {%  include fivebooks/foots.html %}

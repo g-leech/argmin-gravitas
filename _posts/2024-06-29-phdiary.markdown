@@ -15,7 +15,7 @@ importance: 2
 
 summary:    4 years, month by month, book by book
 confidence: 
-categories: phd, navel-gazing
+categories: phd, autobio
 warnings:   navel-gazing
 wordcount:      
 where:      "Bristol"
@@ -856,3 +856,10 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 </div>
 
 <br>
+
+## See also
+
+* <a href="/thesis">'Methods Failing the Data, Data Failing the Methods'</a>
+* <a href="/theorysis">things I didn't do for my thesis</a>
+* <a href="/phd-numbers">Grad school by numbers</a>
+* <a href="/phdone">Piled higher and deeper</a>

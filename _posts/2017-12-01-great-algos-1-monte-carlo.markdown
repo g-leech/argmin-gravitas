@@ -13,7 +13,7 @@ best:		1
 
 summary:    
 confidence:	
-categories: 
+categories: maths, stats, computers
 warnings:	
 importance: 7
 wordcount:		
@@ -49,5 +49,11 @@ local search of a distribution
 explore / exploit with temperature
 
 
-simple (direct) Monte Carlo requires direct simulation from the target dist 
+simple (direct) Monte Carlo requires direct simulation from the target dist
 Robert, C., & Casella, G. (2004). Monte Carlo statistical methods
+
+## See also
+
+* <a href="/bayes">Bayesianity</a>
+* <a href="/worst">The Worst Game Ever</a>
+* <a href="/stats">Learn stats without going mad</a>

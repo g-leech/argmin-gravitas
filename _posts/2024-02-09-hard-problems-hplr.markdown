@@ -13,7 +13,7 @@ arb:        1
 summary:    New paper on what it will take to make AI go well.
 confidence: 
 warnings:   
-categories: arb, AI
+categories: arb, ai
 importance: 9
 pride:      7
 ---
@@ -59,3 +59,9 @@ We inherited the framing (“Ten Hard Problems”) from Eric Schmidt and James M
 
 
 We put a huge amount of effort into the visualisations, which should make it possible for you to understand a good 30% of the paper's gist in about 3 minutes. Huge thanks to Anekdote Studio DK for making these look so good.
+
+## See also
+
+* <a href="/actadd">LLM alignment via activations</a>
+* <a href="/ai-risk">Why worry about future AI?</a>
+* <a href="/ai2025">AI in 2025: gestalt</a>

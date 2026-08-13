@@ -13,7 +13,7 @@ quality: 	6
 
 summary:    Some species of paying attention to yourself and how they fail.
 confidence:	90% that the bad ones are bad, 60% in the rest.
-categories: 
+categories: philosophy, epistemology, rationality, psychology
 importance: 5
 wordcount:		800
 ---
@@ -131,6 +131,8 @@ Justified uses for introspection, for me:
 * <a href="{{schw}}">Schwitzgebel on our broad ineptitude</a>
 * Boring (1953). <a href="{{boring}}">A history of introspectionism</a>
 * Danziger (1980). <a href="{{danz}}">The history of introspection reconsidered</a>
+* <a href="/meditation">'Waking Up' (2014) by Harris</a>
+* <a href="/bright">The brightness that comes before</a>
 <br><br>
 
 

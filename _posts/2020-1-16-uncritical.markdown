@@ -70,6 +70,13 @@ What's the construct they're measuring? Ability to pattern-match basic fallacies
 
 <br><br>
 
+## See also
+
+* <a href="/psych">Reversals in psychology</a>
+* <a href="/grapes">Can you trust your methods?</a>
+* <a href="/demarcation">'The Unpersuadables' (2013) by Storr</a>
+
+<br><br>
 
 <div class="footnotes">
 <ol>

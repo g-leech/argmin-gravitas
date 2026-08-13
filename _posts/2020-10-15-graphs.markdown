@@ -232,6 +232,9 @@ Graphviz is kinda painful to use without a live GUI, but <a href="{{viz}}">Sketc
 
 * [The Fascinating World](https://press.princeton.edu/books/paperback/9780691175638/the-fascinating-world-of-graph-theory)
 * [Unifying the Mind](https://mitpress.mit.edu/books/unifying-mind)
+* [Mathematical dark matter](/dark-math)
+* [Favourite maths tools](/tools)
+* [The ladder of abstraction](/ladder)
 
 <br><br>
 

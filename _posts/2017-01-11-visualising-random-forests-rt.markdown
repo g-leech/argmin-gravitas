@@ -16,7 +16,7 @@ summary:
 confidence:
 warnings: 
 importance: 6.
-categories:	machine learning, 
+categories:	machine-learning
 ---
 
 

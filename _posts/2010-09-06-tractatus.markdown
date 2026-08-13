@@ -16,7 +16,7 @@ confidence: 70%.
 importance: 3
 wordcount:  
 warnings: 	
-categories: 
+categories: philosophy, language, metaphysics
 argument:	
 where:      "Aberdeen, Scotland"
 ---
@@ -193,8 +193,14 @@ where:      "Aberdeen, Scotland"
 All the things in these pictures can easily be said: they all fit into a set of propositions (albeit a self-refuting set): it's called <em>Tractatus Logico-Philosophicus</em>. Drawing is only a kind of saying; the kind of reference that he means by <em>zeigen </em>is less concrete and more important than this.<br>  
 
 <center>
-	<img src="/img/tractatus/Untitled.png" /> 
+	<img src="/img/tractatus/Untitled.png" />
 </center>
+
+## See also
+
+* <a href="/dark-math">Mathematical dark matter</a>
+* <a href="/frege">Frege's grand failure</a>
+* <a href="/barriers">Ways we can fail to answer</a>
 
 
 

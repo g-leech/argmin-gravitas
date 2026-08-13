@@ -102,6 +102,12 @@ I used the dataset from <a href="{{sssv}}">Stuart-Smith et al (2015)</a> (hencef
 <br>
 <hr />
 
+## See also
+
+* <a href="/masks">Do masks work against COVID, at scale?</a>
+* <a href="/grapes">Can you trust your methods?</a>
+* <a href="/worst">The Worst Game Ever</a>
+
 {%  	include accommodation/biblio.html %}
 
 {%  	include comments.html %}

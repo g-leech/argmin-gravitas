@@ -15,7 +15,7 @@ confidence: 70%. The amount of mass death we have no direct evidence of is scary
 importance: 8
 warnings: 	social collapse, authoritarianism, predatory pseudoscience. I'm not a virologist or historian.
 wordcount:  3300
-categories: review, xrisk, epistemology, biorisk
+categories: review, scary-futurism, epistemology
 ---
 
 <center>
@@ -123,7 +123,11 @@ Here is a passage about just a tiny number of them, in the north:<br /><br>
 	In all of Labrador, at least one-third the total population died.
 </blockquote><br />
 
+## See also
 
+* <a href="/masks">Do masks work against COVID, at scale?</a>
+* <a href="/end">Rescuing an old book</a>
+* <a href="/uranverein">'Hitler's Uranium Club' (2008) by Bernstein</a>
 
 
 

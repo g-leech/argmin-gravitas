@@ -15,7 +15,7 @@ summary:    Stand tall
 confidence: 60%. A lot of this is based on less than five fossils.
 importance: 7
 wordcount:  
-categories: my-classes, humanism, biology, evolutionary
+categories: my-classes, humanism, biology
 where:      "Somerset"
 ---
 
@@ -138,6 +138,14 @@ Be proud! Become what you are! Stand tall! Stand tall!
 <br>
 
 _This post is just a lightning talk version of theories by Boehm, DeSilva, Hawks, [Shulman](https://www.dwarkesh.com/p/carl-shulman)._
+
+## See also
+
+* <a href="/enhance">Transnormalism</a>
+* <a href="/bayes">Bayesianity</a>
+* <a href="/life">A Life Really Worth Living</a>
+
+<br><br>
 
 <div class="footnotes">
 

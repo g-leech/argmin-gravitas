@@ -12,9 +12,10 @@ published:  false
 
 summary:    
 quality:    
-emotion:	
-confidence: 
-importance: 
+emotion:
+confidence:
+categories: phd, ai, uni
+importance:
 wordcount:  
 warnings:	I am still in this programme and so I have incentives to seem agreeable.
 ---

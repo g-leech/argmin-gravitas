@@ -283,6 +283,10 @@ Reading too much is dangerous past a certain point. IMO “oh apply Cauchy-Schwa
 * https://archive.is/VkFw8
 * https://www.youtube.com/watch?v=25LUF8GmbFU
 * https://www.monbiot.com/2000/06/09/choose-life/
+* <a href="/life">A Life Really Worth Living</a>
+* <a href="/google">Google-fu and Scihub-jutsu</a>
+* <a href="/pg">Great work</a>
+* <a href="/hype">get hype</a>
 
 <br><br>
 

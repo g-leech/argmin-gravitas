@@ -13,7 +13,7 @@ quality:
 
 summary:    List of people I trust on various topics. A glorified blogroll.
 confidence:	Varies.
-categories: 
+categories: lists, philosophy, epistemology, bloggers
 importance: 9?
 wordcount:		400
 ---
@@ -119,6 +119,12 @@ Kieran Healy
 This is a living list; please add your own outboard below.
 
 <br><br>
+
+## See also
+
+* <a href="/aaronson">The best of Scott Aaronson (for laymen)</a>
+* <a href="/siderea">The best of Siderea</a>
+* <a href="/essays">My favourite essays</a>
 
 {%	include exomind/foots.html		%}
 

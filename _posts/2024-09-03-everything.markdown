@@ -15,7 +15,7 @@ importance: 6
 
 summary:    
 confidence: 
-categories: 
+categories: philosophy, metaphysics, science
 warnings:   
 wordcount:      
 ---

@@ -91,6 +91,8 @@ He doesn't deserve too much credit, since he was happy to just assert this and n
 ## See also
 
 * <a href="{{nintil}}">Nintil's Longevity FAQ</a>
+* <a href="/stims">Stimulant tolerance, or, the tears of things</a>
+* <a href="/pills">The trouble with supplements</a>
 
 
 <br><br>

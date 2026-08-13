@@ -178,8 +178,14 @@ Second: "Time Adventure" has the characters directly address us, the audience.
 
 > _If there was some amazing force outside of time<br>to take us back to where we were<br> And hang each moment up like pictures on the wall<br> Inside a billion tiny frames so that we can see it all, all, all<br>It would look like:<br>Will happen, happening happened..._
 
-That force is you, e.g. watching favourite episodes out of sequence, e.g. writing long strange rants about headcanon. [Possibilist](https://plato.stanford.edu/entries/fictional-entities/#Poss) reference, if you like. Whatever its internal fate, Ooo is immortal already because we're outside their time. It's not gone until we're gone. It cushions the cancellation of a beloved show with a sermon on the serenity of a good philosophy of time and reference. 
+That force is you, e.g. watching favourite episodes out of sequence, e.g. writing long strange rants about headcanon. [Possibilist](https://plato.stanford.edu/entries/fictional-entities/#Poss) reference, if you like. Whatever its internal fate, Ooo is immortal already because we're outside their time. It's not gone until we're gone. It cushions the cancellation of a beloved show with a sermon on the serenity of a good philosophy of time and reference.
 <!-- I haven't seen an ending so grand and clean since _Cloud Atlas_. -->
+
+## See also
+
+* <a href="/heron">The Boy and the Heron: renunciations</a>
+* <a href="/memoria">Legacy and the memory of legacy</a>
+* <a href="/culture">Against the Culture</a>
 
 <br>
 

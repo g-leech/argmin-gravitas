@@ -15,7 +15,7 @@ summary:
 confidence: 
 importance: 
 wordcount:  
-categories:	
+categories:	lists, blogging
 ---
 
 Moloch

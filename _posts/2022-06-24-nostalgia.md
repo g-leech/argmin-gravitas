@@ -15,7 +15,7 @@ emotion: 	8
 summary:    a nice writing prompt
 importance: 4
 wordcount:	520
-categories: personal, meaning, fun, self-help, writing, becoming
+categories: autobio, meaning, fun, self-help, writing, becoming
 where:      "Bristol"
 ---
 
@@ -48,4 +48,11 @@ As work grew, my reading suffered. I was reading one book every 10 days and mayb
 K and I were doing well, nearly 8 years in. It was an effort to make time for each other, to give the due attention, and continue conversing after our five thousand rounds of conversation. But turmoil was rare and it was the kind of rock-solid love that people miss badly when without it. Laundry and taxes.
 
 Between my company, my students, and the friendly ambitious nerds, my all-consuming need for novelty and constant cognition was more or less met. The sky wasn't the colour of static, the sim was still running at full res, and the prime intellect wasn't. I was very lucky.
+
+## See also
+
+* <a href="/bristol">Bristol</a>
+* <a href="/2024">vignettes from 2024</a>
+* <a href="/ambitions">ambitions</a>
+
 <br><br>

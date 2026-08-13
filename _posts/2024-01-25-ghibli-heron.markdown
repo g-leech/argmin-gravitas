@@ -187,6 +187,8 @@ https://davidtitterington.medium.com/esoteric-symbolism-in-the-boy-and-the-heron
 
 * [Gwern on Eva's very similar attack on anime](https://gwern.net/otaku-essay)
 * [Film Crit Hulk](https://www.patreon.com/posts/hayao-miyazaki-94503153)
+* <a href="/adventure">hope dies last</a>
+* <a href="/disco">'Disco Elysium' (2019): Part 1</a>
 
 
 <br><br>

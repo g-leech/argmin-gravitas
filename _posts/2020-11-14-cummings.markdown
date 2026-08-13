@@ -11,7 +11,7 @@ published:  false
 visible:    1
 
 summary:    
-categories: 
+categories: politics, criticism
 confidence: 70%. Missing a lot, & will be til declassification in 2050 & beyond.
 importance: 5
 warnings: 	

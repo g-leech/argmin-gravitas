@@ -6,6 +6,7 @@ permalink:  /schoolbook
 date:       2024-07-05  <!--site.time-->
 author:     Gavin
 visible:    false
+categories: literature, lists, phd
 ---
 
 
@@ -45,6 +46,12 @@ visible:    false
 - Borges, Fune the Memorious
 
 
+
+## See also
+
+* <a href="/phdone">Piled higher and deeper</a>
+* <a href="/nograd">Against grad school</a>
+* <a href="/diary">phdiary</a>
 
 <!-- - Guo, The PhD Grind -->
 <!-- - Eco, "How to Write a Thesis" -->

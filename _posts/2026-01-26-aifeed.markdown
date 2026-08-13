@@ -15,7 +15,7 @@ summary:
 confidence: 
 importance: 6
 wordcount:  
-categories: 
+categories: ai, lists
 where:      "Bristol"
 ---
 
@@ -71,3 +71,9 @@ Mario Giulianelli, Bogdan Ionut Cirstea, Zvi Mowshowitz, David Pfau, Colin Frase
 https://rss.app/feeds/WvlooXwBQkku1tX4.xml
 nitter.privacyredirect.com/g_leech_/rss
 https://www.greaterwrong.com/users/commander-zander?show=posts&format=rss
+
+## See also
+
+* <a href="/llms">How I don't use LLMs</a>
+* <a href="/ai2025">AI in 2025: gestalt</a>
+* <a href="/ai-24-25">AI breakthroughs 2024-2025</a>

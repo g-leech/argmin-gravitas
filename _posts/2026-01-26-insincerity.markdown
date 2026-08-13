@@ -16,7 +16,7 @@ warnings: 	Surely not novel
 confidence: 80%
 importance: 
 wordcount:  
-categories: 
+categories: philosophy, epistemology, language
 where:      "Moray"
 ---
  
@@ -59,3 +59,8 @@ where:      "Moray"
     - Self-deception: misaligned, no access, inform (thinks), mutual, propositional
     - Aspiration: misaligned on current state, clear access, signal/perform, ambiguous, identity
     - Kink: often misaligned, clear access, perform, mutual fiction, attitude/identity
+
+## See also
+
+* <a href="/sincerity">Irony, sincerity, nostalgia, neoteny</a>
+* <a href="/brainwash">On calling people brainwashed</a>

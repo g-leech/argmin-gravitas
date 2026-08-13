@@ -15,7 +15,7 @@ confidence: Actually only the 1% that I can remember
 quality: 	3
 importance: 6
 wordcount:  
-categories: greats, blogging, 
+categories: greats, blogging
 where:      "Bristol, Taipei"
 ---
 
@@ -49,8 +49,10 @@ I only got 1% so far. I wish I could assure you it's the top 1% but it isn't.
 The [shortlist](https://docs.google.com/spreadsheets/d/1Vr67rBaFwTnEDeUOXYZRrP4QD34150P2HHE1QsAbfMI/edit?gid=1979535988#gid=1979535988) consists of some that changed my life in a large and obvious and lasting way. It's probably still only 5% of those.
 
 
-## See also 
+## See also
 
 * <a href="/blogging-theory-of-everything">it's all blogs</a>
+* <a href="/aaronson">The best of Scott Aaronson (for laymen)</a>
+* <a href="/siderea">The best of Siderea</a>
 
 <br><br>

@@ -11,7 +11,7 @@ visible:		1
 
 summary:		A catalogue of intuitive explanations I wish I'd had before getting into it. Plus, reading lists.
 confidence:		80%. Distillation of a few textbooks. borrowed authority.
-categories:		machine-learning, data-science
+categories:		machine-learning
 importance: 	4
 pride:			4
 quality:    	6
@@ -120,6 +120,9 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 
 
 * [Goodbye](https://ryxcommar.com/2022/11/27/goodbye-data-science/)
+* <a href="/stats">Learn stats without going mad</a>
+* <a href="/benchmarks">A brief history of ML benchmarks</a>
+* <a href="/bayes">Bayesianity</a>
 
 
 [Snot]: 		http://www.starling-software.com/employment/programmer-competency-matrix.html 

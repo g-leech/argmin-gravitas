@@ -198,5 +198,7 @@ Philosophy is just evidence like any other kind of inquiry. There's a limit on h
 * <a href="{{scott}}">Epistemic learned helplessness</a>
 * [Nāgārjuna, Nietzsche, and Rorty’s Strange Looping Trick](https://absoluteirony.wordpress.com/2014/09/17/nagarjuna-nietzsche-rorty-and-their-strange-looping-trick/)
 * [Reality is often underpowered](https://forum.effectivealtruism.org/posts/jSPGFxLmzJTYSZTK3/reality-is-often-underpowered).
+* <a href="/gut-epistemics">Does the gut cross the epistemic barrier?</a>
+* <a href="/demarcation">'The Unpersuadables' (2013) by Storr</a>
 
 <br>

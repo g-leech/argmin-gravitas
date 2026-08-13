@@ -15,7 +15,7 @@ summary:
 confidence: 70%
 importance: 7
 wordcount:  
-categories: 
+categories: ai, forecasting, machine-learning
 where:      "Kensington"
 ---
 
@@ -100,6 +100,9 @@ METR's central estimate is a 16-hour-long coder in 2027, and a 3-month-long code
 * Scholl, "[The Length of Horizons](https://www.lesswrong.com/posts/PzLSuaT6WGLQGJJJD/the-length-of-horizons)"
 * [Insane](https://www.lesswrong.com/posts/BrHv7wc6hiJEgJzHW/reactions-to-metr-task-length-paper-are-insane)
 * [Complaint](https://www.lesswrong.com/posts/5CGNxadG3JRbGfGfg/notes-on-the-long-tasks-metr-paper-from-a-hcast-task)
-* https://secondthoughts.ai/p/measuring-ai-progress 
-* https://www.lesswrong.com/posts/8aPyKyRrMAQatFSnG 
+* https://secondthoughts.ai/p/measuring-ai-progress
+* https://www.lesswrong.com/posts/8aPyKyRrMAQatFSnG
+* <a href="/ai2025">AI in 2025: gestalt</a>
+* <a href="/ceiling">A ceiling for human expertise</a>
+* <a href="/mitchell">Mitchell's open problems</a>
 

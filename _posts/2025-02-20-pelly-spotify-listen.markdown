@@ -15,7 +15,7 @@ summary:    Review of an alarmed book about Spotify
 confidence: 70%
 importance: 5
 wordcount:  2000
-categories: music, art, capitalism, economics
+categories: music, art, economics
 where:      "Bristol, UK"
 argument: 	spot/argument.html
 ---
@@ -161,6 +161,9 @@ So Pelly is not capable of analysing this huge messy new phenomenon (but does be
 * [Witt on piracy](https://www.goodreads.com/review/show/5463084418)
 * [Macdonald](https://www.goodreads.com/book/show/199504414-you-have-not-yet-heard-your-favourite-song)
 * https://www.cantgetmuchhigher.com/p/the-sportification-of-pop-music
+* [Pop auteurs](https://www.gleech.org/svengali)
+* [On 900 albums of 2024](https://www.gleech.org/music2024)
+* [Rubinations](https://www.gleech.org/rubin)
 
 <br><br>
 

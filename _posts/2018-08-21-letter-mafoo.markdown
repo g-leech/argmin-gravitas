@@ -11,8 +11,9 @@ visible:    1
 published:  false
 
 summary:    Exhortation to my brother, or really my younger self.
-confidence: 
-importance: 
+confidence:
+categories: self-help, maths, education, becoming
+importance:
 wordcount:  
 ---
 
@@ -39,3 +40,9 @@ I read "Math with Bad Drawings" myself, and even though I've been trying to lear
 This is an example of how stats can salve or remove emotional pain. We are naturally dramatic creatures, and we suffer for it.            
 
 everyone needs to learn at least one technical subject. Physics; computer science; evolutionary biology; or Bayesian probability theory, but something. Someone with no technical subjects under their belt has no referent for what it means to "explain" something. They may think "All is Fire" is an explanation.
+
+## See also
+
+* <a href="/instrument">to desperately instrumentalise myself</a>
+* <a href="/maximum">What's the highest moral wage?</a>
+* <a href="/self-help">Self-help, hard and soft</a>

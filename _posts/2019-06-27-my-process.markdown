@@ -13,6 +13,7 @@ visible:    1
 summary:    Techniques, concepts, hacks, frameworks I use to live.
 quality:    6
 confidence: 70%.
+categories: self-help, lists, quantified-self
 importance: 7
 wordcount:      
 ---
@@ -670,6 +671,14 @@ I've bolded the top 10, the ones that help most.
     Weirdness points
 
 
+
+## See also
+
+* <a href="/self-help">Self-help, hard and soft</a>
+* <a href="/stuff">Things I Use</a>
+* <a href="/overheads">Existential overheads</a>
+* <a href="/pg">Great work</a>
+* <a href="/pills">The trouble with supplements</a>
 
 {%  include process/critik.html     %}
 

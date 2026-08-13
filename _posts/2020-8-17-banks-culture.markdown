@@ -394,6 +394,10 @@ There is a Scottish socialist. He is able to dream of something far better than 
 * <a href="{{em}}">_The Age of Em_</a> is the hardest social science fiction I know, albeit written as nonfiction. What do our best nonphysical theories imply?
 * [Can Liberalism Survive Without a Wolf at the Door?](https://www.nytimes.com/2022/04/09/opinion/ukraine-russia-liberalism-religion.html)
 * https://www.learningfromexamples.com/p/culture-shock
+* <a href="/blindsight">'Blindsight' (2006) by Watts</a>
+* <a href="/fermi">Drake, Hanson, and the meaning of life</a>
+* <a href="/palmer">'Terra Ignota': the ecstasy of uncertainty</a>
+* <a href="/sweep">The sense of a start</a>
 
 
 <br><br>

@@ -15,7 +15,7 @@ summary:
 confidence: 
 importance: 
 wordcount:  
-categories: 
+categories: ai, criticism, lists
 where:      
 ---
 

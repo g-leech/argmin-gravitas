@@ -36,4 +36,10 @@ Hahaha yeah sure.
 
 The border between ludicrous unreality and banal ubiquity is crossed all the time. Unless a great writer happens to take notice of the crossing, we cross in silence, not realising what has happened to us. This is why Gwern can write [this list](https://www.gwern.net/Improvements) and we marvel and go "oh yeah" instead of "yeah yeah".
 
+## See also
+
+* <a href="/ifp">Can policymakers trust forecasters?</a>
+* <a href="/forecasters">Comparing experts and generalists</a>
+* <a href="/ai2025">AI in 2025: gestalt</a>
+
 <br><br><br><br>

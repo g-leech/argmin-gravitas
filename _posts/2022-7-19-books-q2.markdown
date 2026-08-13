@@ -14,7 +14,7 @@ summary:
 quality:    5
 importance: 3
 wordcount:     
-categories: books, me-me-me
+categories: books, autobio
 ---
 
 ### Xenocide (Ender's Saga, #3), Card, Orson Scott

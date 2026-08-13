@@ -15,7 +15,7 @@ summary:    300 takes in search of an opinion
 confidence: 60%
 importance: 7
 wordcount:  6000
-categories: AI, lists
+categories: ai, lists
 where:      "Somerset"
 cross:		  https://www.lesswrong.com/posts/Q9ewXs8pQSAX5vL7H/ai-in-2025-gestalt
 ---
@@ -475,3 +475,9 @@ This post doesn't much cover the [hyperactive](https://www.aiat.report/) and tal
 
 </div>
 </div>
+
+## See also
+
+* <a href="/hplr">Ten Hard Problems in and around AI</a>
+* <a href="/mitchell">Mitchell's open problems</a>
+* <a href="/llms">How I don't use LLMs</a>

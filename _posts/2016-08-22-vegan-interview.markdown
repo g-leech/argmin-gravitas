@@ -174,5 +174,8 @@ I'm not a joiner really; I only joined GWWC in order to commit myself to a nonse
 ## See also
 
 * [Ethics > climate in a small sample of Scottish vegans](https://www.researchgate.net/publication/325578961_A_New_Veganism_How_Climate_Change_Has_Created_More_Vegans)
+* <a href="/maximum">What's the highest moral wage?</a>
+* <a href="/strangers">'Strangers Drowning' (2015) by MacFarquhar</a>
+* <a href="/ea-origin">Virtue, work, and the world to come</a>
 
 <br><br>

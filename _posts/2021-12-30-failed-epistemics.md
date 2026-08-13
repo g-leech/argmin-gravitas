@@ -17,7 +17,7 @@ importance:
 emotion: 	
 warnings: 	
 wordcount:  
-categories: 
+categories: epistemology, rationality, forecasting
 argument:	
 ---
 
@@ -39,3 +39,8 @@ A public health for the information ecosystem. Some public health bodies and mou
 
 
 They failed to solve the whole problem. But why expect any one thing to do that?
+
+## See also
+
+* <a href="/forecasters">Comparing experts and generalists</a>
+* <a href="/ifp">Can policymakers trust forecasters?</a>

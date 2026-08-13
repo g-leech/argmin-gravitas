@@ -105,5 +105,8 @@ A pattern in the above musicians is that they were _melodic or lyrical or textur
 
 * <a href="/frank">Ramsey</a>
 * <a href="https://www.erichgrunewald.com/posts/child-prodigies/">Erich</a>
+* <a href="/jvn">von Neumann</a>
+* <a href="/broadness">Broadness and philosophical rank</a>
+* <a href="/perelman">Perelman</a>
 
 <br><br>

@@ -10,8 +10,8 @@ img:
 published:  false
 visible:    1
 
-summary:    
-categories: 
+summary:
+categories: ai, machine-learning, epistemology
 confidence: 
 importance: 
 quality:    
@@ -62,3 +62,9 @@ Recall that GPT-4 only beats GPT-3 in pairwise human preference like 70% of the 
 
 
 Thanks to Gytis for prompt engineering me.
+
+## See also
+
+* <a href="/benchmarks">brief history</a>
+* <a href="/hplr">Ten Hard Problems in and around AI</a>
+* <a href="/mitchell">Mitchell's open problems</a>

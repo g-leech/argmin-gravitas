@@ -16,7 +16,7 @@ confidence:
 importance: 6
 
 summary:    An overlooked source of suffering
-categories: 
+categories: psychology, autobio, self-representation
 wordcount:  500
 warnings:   Topic isn't easy to write about without self-pity or whining.
 where:      "Schelling, Prague, Czechia"
@@ -90,6 +90,12 @@ Before you go thinking of yourself as "shy" or "introverted" or "not socially sk
 </center>
 
 <br><br>
+
+## See also
+
+* <a href="/you">You do you</a>
+* <a href="/nonmoney">nonmonetary payoffs to starting a company</a>
+* <a href="/bright">The brightness that comes before</a>
 
 <div class="footnotes">
 

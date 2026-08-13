@@ -14,7 +14,7 @@ quality:    3
 summary:	
 confidence: 
 warnings: 	
-categories: 
+categories: history, politics, lists
 importance: 6.
 wordcount: 		
 ---

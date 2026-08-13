@@ -12,7 +12,7 @@ visible:    1
 
 summary:    Explaining the impossibility of algorithmic fairness to a high schooler.
 confidence: 80%
-categories: AI, ethics
+categories: ai, ethics
 quality: 	3
 importance: 3
 ---
@@ -64,6 +64,11 @@ All systems are biased, in the weak sense that you can't satisfy all fairness me
 There are lots of ways to extend it. One really easy way to turn a binary classifier into a multi-class classifier (e.g. from one which says "Hot / Cold" to "Hot / Warm / Lukewarm / Cold / Freezing") is to use "one-vs-rest": basically you train 5 binary classifiers and take the one with strongest confidence as the answer.
 
 I hope your project goes well!
+
+## See also
+
+* <a href="/ai-ethics">AI ethics for present & future</a>
+* <a href="/hplr">Ten Hard Problems in and around AI</a>
 
 <br>
 

@@ -227,6 +227,9 @@ We need clown geniuses like Ricky F and we need quiet backroom geniuses like Jas
 
 * [Labatut's half-fiction on him](/maniac)
 * https://www.youtube.com/watch?v=Oh31I1F2vds
+* <a href="/uranverein">'Hitler's Uranium Club' (2008) by Bernstein</a>
+* <a href="/einstein">Einstein</a>
+* <a href="/frank">Ramsey</a>
 
 <br>
 

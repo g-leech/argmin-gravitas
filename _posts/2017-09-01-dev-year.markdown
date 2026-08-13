@@ -13,7 +13,7 @@ quality:
 
 summary:     A nonrigorous test of how modern your programming practices are. 
 confidence:  
-categories:  programming, 
+categories:  code
 importance: 5.
 ---
 
@@ -22,6 +22,11 @@ importance: 5.
 * Version control
 * Continuous integration
 * Analytics
+
+## See also
+
+* <a href="/php">Learn PHP Without Going Mad</a>
+* <a href="/gist">Highlights from my Gists</a>
 
 
 

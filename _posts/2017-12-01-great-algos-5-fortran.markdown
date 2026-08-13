@@ -13,7 +13,7 @@ best:		1
 
 summary:    
 confidence:	
-categories: 
+categories: computers, code, history
 warnings:	
 importance: 7
 wordcount:		

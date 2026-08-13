@@ -13,6 +13,7 @@ visible:    1
 summary:    Examples of massive scientific innovation by non-academics.
 quality:    4
 confidence: 80%
+categories: science, history, research
 importance: 7
 wordcount:      
 ---
@@ -40,3 +41,8 @@ Thinktanks
     Neocons
     https://en.wikipedia.org/wiki/International_Institute_for_Applied_Systems_Analysis
 http://web.archive.org/web/20101119090716/https://www.aeaweb.org/rfe/showCat.php?cat_id=44
+
+## See also
+
+* <a href="/nograd">Against grad school</a>
+* <a href="/acais">AI alignment & academia</a>

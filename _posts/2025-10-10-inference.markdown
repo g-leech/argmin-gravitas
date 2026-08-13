@@ -16,7 +16,7 @@ warnings:
 confidence: 70%
 importance: 4
 wordcount:  
-categories: AI, language
+categories: ai, language
 where:      "Over the Atlantic"
 argument:   inference/argument.html
 ---
@@ -96,6 +96,12 @@ The old problem - which is the statisticians' fault - is that "infer" is ambiguo
 
 I should say it's a good thing that stats and ML are distinct. It allowed us [to move to](https://www2.math.uu.se/~thulin/mm/breiman.pdf) powerful black-box methods, sidestepping the powerful prejudice against them. It's totally fine to say "training" instead of "inference". But namespace collisions are lamentable and could have easily been avoided.
 
+
+## See also
+
+* <a href="/narratives">Psychology and fictions of language models</a>
+* <a href="/editron">AI editing: a test</a>
+* <a href="/ai2025">AI in 2025: gestalt</a>
 
 <div class="footnotes">
 

@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Punk in Drublic (1994)"
-baselink:   /nofx
-permalink:  /nofx
+baselink:   /nofx-as-art
+permalink:  /nofx-as-art
 date:       2022-09-26
 author:     Gavin   
 img:        /img/
@@ -95,3 +95,8 @@ Their greatest song. They imagine the comfort and ontological security of a fait
 ## Bonus: 'The Decline'
 
 https://afterallitcouldbeworse.blogspot.com/2013/06/the-decline-1999-by-nofx.html
+
+## See also
+
+* <a href="/punk">Punk as ideology</a>
+* <a href="/codes">Cracking cultures</a>

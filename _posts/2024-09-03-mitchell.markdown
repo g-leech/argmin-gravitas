@@ -15,7 +15,7 @@ importance: 7
 
 summary:    18 year followup on a list of open problems in ML
 confidence: 80%
-categories: AI
+categories: ai
 warnings:   
 wordcount:      
 ---
@@ -44,5 +44,11 @@ Still, in 2006, the great researcher Tom Mitchell [listed nine open problems](ht
 1. Can we design programming languages containing machine learning primitives? (some progress; [Weiss 2021](https://arxiv.org/abs/2106.06981), [Pyro 2020](https://docs.pyro.ai/en/stable/primitives.html))
 <br><br>
 1. **Solved: Will computer perception merge with machine learning? [i.e. multimodal systems]** ([Dosovitskiy 2021](https://arxiv.org/abs/2010.11929), [Radford 2021](https://arxiv.org/abs/2103.00020), [Radford 2022](https://arxiv.org/abs/2212.04356), [Zia](https://www.unite.ai/unveiling-of-large-multimodal-models-shaping-the-landscape-of-language-models-in-2024/)).
+
+## See also
+
+* <a href="/hplr">Ten Hard Problems in and around AI</a>
+* <a href="/benchmarks">brief history</a>
+* <a href="/ilp">Notes on inductive logic programming</a>
 
 <br><br><br>

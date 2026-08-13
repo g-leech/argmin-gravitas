@@ -433,6 +433,10 @@ The conservative concerns might apply to a more-mature science of More. Thanks t
 * [https://global.oup.com/academic/product/natural-born-cyborgs-9780195177510](https://global.oup.com/academic/product/natural-born-cyborgs-9780195177510)
 * [https://branko2f7.substack.com/p/dr-morell-and-the-patient-a](https://branko2f7.substack.com/p/dr-morell-and-the-patient-a)
 * [https://doctorzebra.com/prez/z_x35testosterone_g.htm](https://doctorzebra.com/prez/z_x35testosterone_g.htm)
+* <a href="/pills">The trouble with supplements</a>
+* <a href="/stims">Stimulant tolerance, or, the tears of things</a>
+* <a href="/strength">'Starting Strength' by Rippetoe</a>
+* <a href="/cornaro">Metabolism is violent</a>
 
 <div class="footnotes">
 <ol>

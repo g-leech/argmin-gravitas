@@ -14,7 +14,7 @@ summary:    Why many views should prioritise preventing the worst events.
 confidence:	70%.
 quality: 		6
 emotion: 		4
-categories: longtermism, philosophy, xrisk
+categories: longtermism, philosophy, scary-futurism
 importance: 10
 pride: 			7
 wordcount: 	1000
@@ -145,9 +145,13 @@ So it looks like there's a strong apriori case to prioritise x-risk, for anyone 
 
 <br><br>
 
-## See also 
+## See also
 
 * Fyodorov's [original Common Cause](https://web.archive.org/web/20240223163945/https://commontask.io/a-letter-about-nikolai-fyodorovich-fyodorov)
+* <a href="/fermi">Drake, Hanson, and the meaning of life</a>
+* <a href="/sweep">The sense of a start</a>
+* <a href="/ai-risk">Why worry about future AI?</a>
+* <a href="/end">Rescuing an old book</a>
 
 <br><br>
 

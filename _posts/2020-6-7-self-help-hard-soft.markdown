@@ -132,3 +132,9 @@ Examples:
 	</div>
 </div>
 
+## See also
+
+* <a href="/compare">Comparing up and down</a>
+* <a href="/you">You do you</a>
+* <a href="/pg">Great work</a>
+

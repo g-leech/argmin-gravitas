@@ -12,7 +12,7 @@ visible:    1
 quality:    4
 
 summary:    .
-categories: 
+categories: machine-learning, stats, my-classes
 confidence: 
 importance: 
 wordcount:      
@@ -55,5 +55,10 @@ wordcount:
 - Blithe recommendation of multiple comparisons (cheating).
 
 - Editing the response data, instead of binning or rescaling.
+
+## See also
+
+* <a href="/data-science/">Data Science FAQ</a>
+* <a href="/gist">Highlights from my Gists</a>
 
 <!-- %  include mistake/foots.html %} -->

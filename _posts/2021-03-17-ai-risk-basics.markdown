@@ -12,7 +12,7 @@ visible:    1
 
 summary:    Concrete reasons it might do extreme things.
 confidence: Written before LLMs; not obviously wrong but deprecated.
-categories: AI, xrisk
+categories: ai, scary-futurism
 warnings:   Not much original material.
 importance: 9
 quality: 	6
@@ -467,7 +467,13 @@ Most of the above are other people's ideas.
 
 <br>
 
+## See also
 
+* <a href="/hplr">Ten Hard Problems in and around AI</a>
+* <a href="/maniac">'The Maniac' (2023) by Labatut</a>
+* <a href="/jailbreak">The jailbreak argument against LLM values</a>
+
+<br>
 
 <div class="footnotes">
 

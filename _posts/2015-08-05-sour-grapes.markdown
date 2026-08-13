@@ -108,4 +108,10 @@ My saying 'methodology' in the above makes the point seem irrelevant to anyone b
 	<li>Philosophy: methodology largely qualitative (though with a distinct subculture of utter quants / <a href="http://plato.stanford.edu/entries/frege/#AnaStaNum">meta-quants</a>). Everyone's a methodologist.</li>
 </ul><br />
 
+## See also
+
+* <a href="/barriers">Ways we can fail to answer</a>
+* <a href="/demarcation">'The Unpersuadables' (2013) by Storr</a>
+* <a href="/gut-epistemics">Does the gut cross the epistemic barrier?</a>
+
 

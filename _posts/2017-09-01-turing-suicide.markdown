@@ -14,7 +14,7 @@ quality: 	7
 summary:	In which we ask, does a man who identifies unknown chemicals by tasting, won't wash his hands, and leaves cyanide evaporating in an unventilated room have >1% risk of accidental death?
 confidence: 80% that you don't know. The model below is only as good as its likelihood ratios, which are mine.
 warnings: 	suicide, homophobia
-categories: bio, computers, stats, epistemology, greats
+categories: greats, computers, stats, epistemology
 importance: 3
 pride: 		6
 wordcount: 		2200
@@ -413,6 +413,13 @@ That is not a finding. It is the absence of one, and it is exactly what the conf
 
 Given the weakness of the evidence, why is the suicide hypothesis the received wisdom? Eh, it makes for a better story. And it gives the event meaning - terrible, but morally straightforward meaning. It makes Turing's death about homophobia, rather than an absurd empty accident.
 
+## See also
+
+* <a href="/enigma">Turing</a>
+* <a href="/bayes">Bayesianity</a>
+* <a href="/worst">The Worst Game Ever</a>
+
+<br><br>
 
 <div class="footnotes">
 <ol>

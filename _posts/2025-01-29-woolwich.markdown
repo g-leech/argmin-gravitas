@@ -15,7 +15,7 @@ summary:
 confidence: 
 importance: 3
 wordcount:  
-categories: 
+categories: places, lists
 where:      "Tallinn"
 ---
 

@@ -16,7 +16,7 @@ confidence: 80%.
 warnings:   arguable dystopia
 importance: 8
 pride:		8
-categories: philosophy of science, scepticism
+categories: philosophy-of-science, scepticism
 wordcount: 798
 ---
 

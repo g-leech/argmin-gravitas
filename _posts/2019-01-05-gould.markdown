@@ -13,9 +13,10 @@ quality: 	2
 
 summary:    Why is pop science so often misleading?
 confidence: 70%
+categories: science, philosophy-of-science, criticism, biology
 importance: 5
 wordcount:  900
-argument:	
+argument:
 ---
 
 {%	assign bront = "https://en.wikipedia.org/wiki/Bully_for_Brontosaurus"	%}
@@ -58,6 +59,9 @@ Here is a fictional leaf from Gould's <i>ad hominem</i> book, to give you a sens
 (Read Midgley and Singer first if the politics scare you; they might stop you fleeing into Gould's dodgy arms.)<br /><br />
 
 
+## See also
 
+* <a href="/demarcation">'The Unpersuadables' (Storr)</a>
+* <a href="/curiosity">'Curiosity' (2012) by Ball</a>
 
 <br><br>

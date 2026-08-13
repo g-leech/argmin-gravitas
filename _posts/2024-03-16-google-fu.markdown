@@ -388,6 +388,9 @@ Here's the first big moral question, since authors are often deserving. I leave 
 * [Academia is also suffering a kind of SEO, with fake scholarship for jobs](https://www.benlandautaylor.com/p/the-ddos-attack-of-academic-bullshit) 
 * [Who likes me?](https://ahrefs.com/backlink-checker)
 * [FOR NOTICING](https://www.sixdegreesofwikipedia.com/?source=William%20James&target=Judea%20Pearl)
+* <a href="/bayes">Bayesianity</a>
+* <a href="/stopping">What's stopping you?</a>
+* <a href="/barriers">Ways we can fail to answer</a>
 
 <br><br>
 

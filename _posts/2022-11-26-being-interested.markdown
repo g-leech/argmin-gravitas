@@ -39,3 +39,6 @@ categories: becoming, meaning, fun, self-help
 ## See also
 
 * https://sashachapin.substack.com/p/how-to-like-everything-more
+* <a href="/nownost">prospective nostalgia</a>
+* <a href="/bright">The brightness that comes before</a>
+* <a href="/stopping">What's stopping you?</a>

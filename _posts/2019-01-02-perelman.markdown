@@ -15,7 +15,7 @@ warnings:	anti-semitism, cruelty to children, literary cruelty to adults
 summary:    Maths, morals, and character in the early work of Grigori Perelman.
 confidence: Empty speculation.
 wordcount:      920
-categories: bio, maths, ethics, review, greats
+categories: greats, maths, ethics, review
 ---
 
 
@@ -119,3 +119,9 @@ The clearest precedent is <a href="{{erd}}">Paul Erdos</a>: also rude, also mono
 
 
 _<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_<br><br>
+
+## See also
+
+* <a href="/jvn">von Neumann</a>
+* <a href="/zhang">Is Yitang Zhang an intellectual?</a>
+* <a href="/youth">acts of early genius</a>

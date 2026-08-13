@@ -15,7 +15,7 @@ importance: 3
 
 summary:    a throwaway philosophy of life
 confidence: 
-categories: 
+categories: scifi, vidya, fiction
 warnings:   
 wordcount:      
 ---

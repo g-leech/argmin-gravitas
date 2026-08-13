@@ -15,7 +15,7 @@ quality:    4
 emotion:    8
 importance: 6
 wordcount:  400
-categories: science, becoming, rationality, self-representation 
+categories: science, becoming, rationality, self-representation
 where:      "Prague, Czechia"
 ---
 
@@ -61,5 +61,11 @@ Since I was a teen, I realised:
 - that tasks and goals are not metaphysical, can be quantised
 - that rationality is not about rationality
 - that most ideas have not been had, most projects have never been done
+
+## See also
+
+* <a href="/bootstraps">Limits to self-invention</a>
+* <a href="/you">You do you</a>
+* <a href="/compare">Comparing up and down</a>
 
 <br><br>

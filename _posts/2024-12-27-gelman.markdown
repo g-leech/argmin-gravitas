@@ -192,6 +192,12 @@ Beyond power calculations: Assessing type s (sign) and type m (magnitude) errors
  
  Jon Zelner, Julien Riou, Ruth Etzioni, and Andrew Gelman.
  Accounting for uncertainty during a pandemic.
- 
+
 
 <br><br>
+
+## See also
+
+* <a href="/bayes">Bayesianity</a>
+* <a href="/siderea">The best of Siderea</a>
+* <a href="/aaronson">The best of Scott Aaronson (for laymen)</a>

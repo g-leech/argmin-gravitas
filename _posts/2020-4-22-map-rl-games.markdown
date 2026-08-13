@@ -17,7 +17,7 @@ confidence:	80%. Couple figurative bits.
 importance:	7
 emotion:	3
 wordcount:	1000
-categories:	RL, game-theory, economics, rosetta-stone, lists, encompassing
+categories:	rl, game-theory, economics, rosetta-stone, lists, encompassing
 argument:	
 ---
 
@@ -244,6 +244,9 @@ Reinforcement Learning</a>_ (2000)
 * Vanchurin (2022): <a href="https://www.pnas.org/doi/10.1073/pnas.2120042119#sec-1">Thermodynamics of evolution and the origin of life</a>
 * <a href="{{nlab}}">Proofs as programs, propositions as types, relational types as categories</a>
 * _<a href="{{baez}}">Physics, Topology, Logic and Computation: A Rosetta Stone</a>_ (2009)
+* <a href="/ceiling">A ceiling for human expertise</a>
+* <a href="/dota">Notes on OpenAI Five</a>
+* <a href="/grids">Preventing Side-effects in Gridworlds</a>
 <br><br>
 
 

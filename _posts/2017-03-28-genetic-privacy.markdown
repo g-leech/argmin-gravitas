@@ -155,6 +155,7 @@ Here are some things you might worry about if you did such a thing.<br><br>
 ## See also
 
 * https://siderea.dreamwidth.org/1552017.html
+* <a href="/enhance">Transnormalism</a>
 
 
 {%  include genes/foots.html %}

@@ -17,7 +17,7 @@ importance: 9
 emotion: 	9
 wordcount:  
 warnings:	suicide, people making the perfect the enemy of the good.
-categories: effective-altruism, becoming
+categories: the-maths-of-goodness, becoming
 ---
 
 {%		include ea/links.md		%}
@@ -260,6 +260,12 @@ What, then, is the highest wage one can justifiably allocate oneself? Or, to put
 <br>
 <br>
 With the caveat that I'd write critically about them, I joined Giving What We Can, anyway. With the caveat that it's messier than it looks, <a href="https://www.givingwhatwecan.org/get-involved/what-you-can-achieve">so should you</a>.
+
+## See also
+
+* <a href="/eagox">Effective Altruism Global: x: Oxford</a>
+* <a href="/strangers">'Strangers Drowning' (2015) by MacFarquhar</a>
+* <a href="/instrument">to desperately instrumentalise myself</a>
 
 <br><br>
 

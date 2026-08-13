@@ -13,7 +13,7 @@ quality:    	5
 
 summary:		An intuitive explanation of Norvig's advice to new programmers.
 confidence: 	70% on equations' truth (because vague). 80% that it's worth doing.
-categories: 	code, 
+categories: 	code
 importance: 3.
 wordcount: 			600
 ---
@@ -43,6 +43,11 @@ processor abstraction (Go)
 
 <br><br>
 * An extremely leaky abstraction, yes, but it's a leaky example of how it could work.
+
+## See also
+
+* <a href="/conversion">Conceptual conversions</a>
+* <a href="/ladder">The ladder of abstraction</a>
 
 
 

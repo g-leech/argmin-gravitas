@@ -11,8 +11,9 @@ visible:    1
 published:  false
 
 summary:    
-confidence: 
-quality:    
+confidence:
+categories: music, becoming, autobio, punk
+quality:
 importance: 
 emotion:    9
 wordcount:  

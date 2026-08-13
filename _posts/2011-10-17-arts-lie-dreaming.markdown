@@ -255,6 +255,14 @@ Eurgh. The inherent menace of the style was most recently realised in <a href="h
  -->
 
 
+## See also
+
+* <a href="/nofx">'The Decline' (1999) by NOFX</a>
+* <a href="/codes">Cracking cultures</a>
+* <a href="/rubin">Rubinations</a>
+
+<br><br>
+
 <div class="footnotes">
 <ol>
     <li class="footnote" id="fn:1">

@@ -194,4 +194,12 @@ So, what's the alternative? Don't I have to be radically manichaean? Am I not fa
 
 
 <br><br>
-<b>Disclosure:</b> Some time ago, I watched someone die of oesophegeal cancer, over the course of about a year. The experience was not salutary to his spirituality, personality or worldview, nor to mine. I write from the force of this anecdote, but not only that.<br><br />
+<b>Disclosure:</b> Some time ago, I watched someone die of oesophegeal cancer, over the course of about a year. The experience was not salutary to his spirituality, personality or worldview, nor to mine. I write from the force of this anecdote, but not only that.
+
+## See also
+
+* <a href="/quality">Why is quality rare?</a>
+* <a href="/culture">Against the Culture</a>
+* <a href="/association">On forced association</a>
+
+<br><br />

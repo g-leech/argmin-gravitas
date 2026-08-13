@@ -15,7 +15,7 @@ technical: 	true
 summary:    A new dataset and new analysis of all 234 (to Q1 2017).
 confidence: 80% that 
 importance: 5.
-categories: kaggle, machine-learning, science
+categories: machine-learning, science
 ---
 
 Kaggle-winning Algorithms, 2010-2016
@@ -42,6 +42,11 @@ If you had time, you could expand this analysis to the top 3 teams (who are requ
  
 
  CTF.
+
+## See also
+
+* <a href="/data-science/">Data Science FAQ</a>
+* <a href="/benchmarks">A brief history of ML benchmarks</a>
 
 
 

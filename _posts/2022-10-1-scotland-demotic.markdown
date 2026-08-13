@@ -16,7 +16,7 @@ emotion:
 confidence: 
 importance: 
 wordcount:  
-categories: 
+categories: language, places, literature
 ---
 
 {%  assign reg = "https://en.wikipedia.org/wiki/Register_(sociolinguistics)"    %}
@@ -49,3 +49,7 @@ When ended is that sudden choler strife.
 
 
 There is obviously still Scots poetry, and much of. My claim is that all of it sounds saltier and less classy than it would be.
+
+## See also
+
+* <a href="/accommodation/">Modelling linguistic accommodation</a>

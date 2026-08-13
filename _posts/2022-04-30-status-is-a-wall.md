@@ -13,7 +13,7 @@ quality:
 summary:    
 confidence: 
 warnings:   
-categories: 
+categories: social-science, psychology, becoming
 importance: 
 pride:      
 ---
@@ -34,3 +34,8 @@ Cynthia Haven
 
 
 https://samoburja.com/honors-fuel-achievement/
+
+## See also
+
+* <a href="/broadness">Broadness and philosophical rank</a>
+* <a href="/pg">Great work</a>

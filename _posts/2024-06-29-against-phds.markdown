@@ -401,6 +401,9 @@ Many of the best social scientists and statisticians have left academia, partly 
 * https://twitter.com/opinonhaver/status/1791158220846960912
 * https://eiko-fried.com/antidotes-to-cynicism-creep
 * https://www.goodreads.com/review/show/3025203866
+* [Piled higher and deeper](https://www.gleech.org/phdone)
+* [phdiary](https://www.gleech.org/diary)
+* ['Methods Failing the Data, Data Failing the Methods'](https://www.gleech.org/thesis)
 
 
 <!-- > COWEN: Do you think of it as an __advantage__ that you don’t have a PhD?

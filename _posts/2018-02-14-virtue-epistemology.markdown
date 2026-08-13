@@ -13,7 +13,7 @@ quality:
 
 summary:    What does virtue have to do with knowledge?
 confidence:	90%; unfalsifiable.
-categories: epistemology, virtue ethics, philosophy of science
+categories: epistemology, ethics, philosophy-of-science
 warnings:	
 importance: 5
 wordcount:		

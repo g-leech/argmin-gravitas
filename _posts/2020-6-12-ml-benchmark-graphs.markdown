@@ -12,7 +12,7 @@ published:  true
 summary:    A trend
 quality:    4
 importance: 8
-categories: machine-learning 
+categories: machine-learning
 ---
 
 {%	assign scinlp = "https://www.science.org/content/article/computers-ace-iq-tests-still-make-dumb-mistakes-can-different-tests-help"	%}
@@ -89,6 +89,9 @@ categories: machine-learning
 
 * [EFF](https://www.eff.org/ai/metrics)
 * [Vance](https://www.lesswrong.com/posts/G993PFTwqqdQv4eTg/is-ai-progress-impossible-to-predict)
+* <a href="/ceiling">A ceiling for human expertise</a>
+* <a href="/mitchell">Mitchell's open problems</a>
+* <a href="/dota">Notes on OpenAI Five</a>
 
 <br>
 <br>

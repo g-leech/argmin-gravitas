@@ -13,6 +13,7 @@ visible:    1
 quality: 	5
 importance: 7
 confidence: More in the rule than the example.
+categories: politics, ethics, the-maths-of-goodness, history
 emotion:	8
 summary:    What I learned from the Libyan Civil War.
 warnings:	War, rape, disinformation.
@@ -73,7 +74,9 @@ The consequentialist argument against seemingly good wars is simple: it just alm
 
 <br>
 
+## See also
 
-
+* <a href="/aid/">Should we abolish foreign aid?</a>
+* <a href="/esa-deaths/">How lethal are the Tories? Part 1</a>
 
 {%  include libya/foots.html %}

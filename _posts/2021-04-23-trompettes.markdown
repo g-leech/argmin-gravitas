@@ -159,6 +159,12 @@ Jupiter, Saturn, and Mercury! Wish you were here, love you lots.<br>
 
 I think it's my album of 2005 <a href="#fn:1" id="fnref:1">1</a>, and until I dug around in my ancient [wma](https://en.wikipedia.org/wiki/Windows_Media_Audio) rips and stuck it on Youtube, none of you could know it. Which <a href="{{lap}}">implies</a> that there is another album of the year out there, undiscoverable except to the 10 people who knew the artist personally. (The album of 2017 is definitely on Bandcamp or Youtube, but you'll never find it anyway.)
 
+## See also
+
+* <a href="/hoom">'Have One on Me' by Joanna Newsom</a>
+* <a href="/nofx">'The Decline' (1999) by NOFX</a>
+* <a href="/svengali">Pop auteurs</a>
+
 <div class="footnotes">
 
 <ol>

@@ -16,7 +16,7 @@ emotion:	4
 confidence: It doesn't solve the original problem, but it is quite fun.
 importance: 0 or 10
 wordcount:  400
-categories:	philosophy, epistemology, naturalism, argument, scepticism
+categories:	philosophy, epistemology, argument, scepticism
 ---
 
 {%	assign int = "https://plato.stanford.edu/entries/justep-intext/"	%}
@@ -55,6 +55,12 @@ Still, I (and the whole field) learned a lot about epistemology arguing about th
 
 
 Clearly this does not defeat the radical sceptic in her original, Cartesian <a href="{{int}}">internalist</a> problematic ("<i>it's an epistemic barrier, not a metaphysical one - I don't grant (1) or (2) or (4)</i>"). But one good candidate for a philosophical fact is: nothing can. The only way to win is <a href="{{prag}}">not to play</a>.
+
+## See also
+
+* <a href="/russell">Misreading Russell on radical scepticism</a>
+* <a href="/sceptic">The One True Sceptic</a>
+* <a href="/barriers">Ways we can fail to answer</a>
 
 <!-- 
 <blockquote>

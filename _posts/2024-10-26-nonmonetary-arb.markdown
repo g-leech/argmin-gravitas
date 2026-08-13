@@ -15,7 +15,7 @@ summary:    underdiscussed perks larger than dollars
 confidence: 
 importance: 6
 wordcount:  
-categories: money, becoming, freedom, self-representation, economics
+categories: economics, becoming, self-representation
 ---
 
 I actually haven't seen anyone write down my favourite things about running a company:
@@ -52,6 +52,8 @@ So probably 80% of people would be unhappy with these "perks". In the median cas
 ## See also
 
 * [Against investor-ridden hyperscaling Valley startups](https://kipp.ly/founding-bad/)
+* <a href="/corp">On inhabiting a giant corporation</a>
+* <a href="/pg">Great work</a>
 
 <br><br>
 

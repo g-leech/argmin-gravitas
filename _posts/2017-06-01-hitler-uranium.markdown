@@ -13,7 +13,7 @@ quality:	4
 summary:    The failure of Nazi nuclear research, and the farce after it.
 importance: 4
 wordcount:  940
-categories:	bio, history, physics
+categories:	greats, history, science
 ---
 
 <center>
@@ -96,3 +96,9 @@ Yet <i>even with these handicaps</i>, it looks like Harteck could have built a b
 		In this case, don't trust me much. I am no physicist, and only half a scientist.
 	</div>
 </div>
+
+## See also
+
+* <a href="/enigma">Turing</a>
+* <a href="/einstein">Einstein</a>
+* <a href="/flu">'The Great Influenza' (2004) by Barry</a>

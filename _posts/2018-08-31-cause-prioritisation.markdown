@@ -13,7 +13,7 @@ quality: 	7
 
 summary:    Current shoddy opinion on the most important goals, axiology.
 confidence:	50%
-categories: 
+categories: the-maths-of-goodness, scary-futurism, longtermism
 importance: 10
 wordcount:		
 ---
@@ -109,6 +109,12 @@ _I owe most of the ideas in this to Anders Sandberg, Toby Ord, and James Dama._
 
 
 
+
+## See also
+
+* <a href="/x-for-all">A common cause in a general end</a>
+* <a href="/econ">'Why study economics?'</a>
+* <a href="/ai-risk">Why worry about future AI?</a>
 
 <div class="footnotes">
 <ol>

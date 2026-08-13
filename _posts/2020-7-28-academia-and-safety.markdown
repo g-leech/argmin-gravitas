@@ -12,7 +12,7 @@ visible:    1
 
 summary:    Estimating safety work by academics in adjacent areas.
 quality:    6
-categories: AI, academia
+categories: ai, uni
 confidence: High that there is a notable contribution, low in the particular estimates. Lots of Fermi estimates.
 importance: 9
 wordcount:  3300
@@ -230,6 +230,13 @@ This argument depends on our luck holding, and moreover, on people (e.g. me) not
 * Intellectual impact is <a href="{{pat}}">not linear</a> <a href="{{cit}}">in people</a>. Also, the above treats all (non-EA) academic institutions as equally conducive to safety work, which is not true.
 
 * <a href="{{more}}">Even more caveats</a>.
+
+<br>
+
+## See also
+
+* <a href="/ai-risk">Why worry about future AI?</a>
+* <a href="/hplr">Ten Hard Problems in and around AI</a>
 
 <br>
 

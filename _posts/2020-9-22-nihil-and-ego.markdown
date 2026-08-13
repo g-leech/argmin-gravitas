@@ -12,7 +12,7 @@ visible:    1
 
 summary:    Arguments about two general kinds of moral failure.
 quality:    
-categories: 
+categories: ethics, philosophy, metaphysics
 confidence: 
 importance: 
 wordcount:  
@@ -107,3 +107,9 @@ Ethical egoism is different again: the idea that it is moral to not be altruisti
 		Agnetha . Vast power to help, omit to help.
 	</div>
 </div>
+
+## See also
+
+* <a href="/anti-ethics">'Why Moral Theory is Boring and Corrupt'</a>
+* <a href="/strangers">'Strangers Drowning' (2015) by MacFarquhar</a>
+* <a href="/consent">Consent as conclusive evidence</a>

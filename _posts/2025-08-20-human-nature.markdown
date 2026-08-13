@@ -16,7 +16,7 @@ confidence: 50%
 warnings: 	Derivative of Mary Midgley and Ervin Goffman
 importance: 8
 wordcount:  
-categories: social-science, philosophy, humanism, tools-for-thought, ESPR
+categories: social-science, philosophy, humanism, tools-for-thought, my-classes
 where:      "Somerset"
 ---
 
@@ -515,3 +515,10 @@ So let’s remind ourselves that we are also just ourselves. I find that the bes
 
 David Pinsof
     - https://osf.io/preprints/psyarxiv/avh9t_v1
+
+## See also
+
+* <a href="/erect">Origins of human intelligence</a>
+* <a href="/bayes">Bayesianity</a>
+* <a href="/life">A Life Really Worth Living</a>
+* <a href="/stopping">What's stopping you?</a>

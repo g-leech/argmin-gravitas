@@ -229,3 +229,6 @@ Even before we consider De Beauvoir's more <a href="http://www.goodreads.com/quo
 ## See also
 
 * https://statsandsociety.substack.com/p/lessons-i-wish-id-learned-as-a-student
+* <a href="/econ">'Why study economics?'</a>
+* <a href="/insurance">Insurance isn't necessarily a scam</a>
+* <a href="/maximum">What's the highest moral wage?</a>

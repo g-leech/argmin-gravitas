@@ -80,3 +80,9 @@ There are economies of scale to summarising and operationalising research, testi
 	https://elemental.medium.com/i-made-the-u-s-dietary-supplement-law-i-think-it-needs-to-be-rewritten-d9b06f8250ef 
 -->
 {%  include pills/foots.html %}
+
+## See also
+
+* <a href="/cornaro">Metabolism is violent</a>
+* <a href="/experi">Log of self-experiments</a>
+* <a href="/stims">Stimulant tolerance, or, the tears of things</a>

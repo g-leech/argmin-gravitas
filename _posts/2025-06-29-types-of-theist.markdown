@@ -16,7 +16,7 @@ confidence: anecdata.
 warnings: 	Absolutely not novel, surely.
 importance: 7
 wordcount:  
-categories: philosophy, religion, becoming, criticism, egregores, social-science, ethics-of-belief
+categories: philosophy, becoming, criticism, egregores, social-science, ethics-of-belief
 where:      "Munich"
 ---
 
@@ -88,6 +88,14 @@ The above very basic understanding helps me put up with religion, which is good 
 <!-- (It's also dishonest to exploit it for feels or cheap political gain, as some modern chuds do.)  -->
 
 But I appreciate the three types as a common way to be nice, thoughtful, or prudent. Go forth and chill.
+
+<br><br>
+
+## See also
+
+* <a href="/rats-and-trads">Rats and trads</a>
+* <a href="/mysticism">Staring at mystics</a>
+* <a href="/sceptic">The One True Sceptic</a>
 
 <br><br>
 

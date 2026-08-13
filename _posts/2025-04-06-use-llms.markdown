@@ -15,7 +15,7 @@ summary:    couples counselling for me and my machine
 confidence: I am an unusual case, they're probably more useful for you. Obsolete by Oct 2025.
 importance: 8
 wordcount:  
-categories: AI, lists
+categories: ai, lists
 where:      "Constellation, Berkeley"
 ---
 
@@ -257,6 +257,8 @@ Discussion on <a href="https://news.ycombinator.com/item?id=43688005">HN</a>
 - [Birgitta Böckeler](https://martinfowler.com/articles/exploring-gen-ai/13-role-of-developer-skills.html)
 - [Nicholas Carlini](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 - [Alberto Fortin](https://albertofortin.com/writing/coding-with-ai)
+- <a href="/narratives">Psychology and fictions of language models</a>
+- <a href="/ai2025">AI in 2025: gestalt</a>
 
 <br>
 

@@ -13,9 +13,9 @@ quality:
 
 summary:    
 confidence: 
-importance: 
-wordcount:  
-categories: 
+importance:
+wordcount:
+categories: self-representation, ethics-of-belief, becoming
 where:      
 ---
 
@@ -26,3 +26,8 @@ feminism
 LLM xrisk
 
 The latest way in which I am carried in the stream is that without realising it I am literally part of a recognisable artistic movement, programmer fic
+
+## See also
+
+* <a href="/piety">Present pieties</a>
+* <a href="/brainwash">On calling people brainwashed</a>

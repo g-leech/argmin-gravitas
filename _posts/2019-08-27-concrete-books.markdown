@@ -13,7 +13,7 @@ visible:    1
 summary:    
 quality:    
 confidence: N/A
-categories: 
+categories: books, lists, self-help
 importance: 7
 wordcount:      
 ---

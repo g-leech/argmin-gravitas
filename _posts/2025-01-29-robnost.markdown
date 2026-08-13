@@ -15,8 +15,13 @@ summary:
 confidence: 
 importance: 5
 wordcount:  
-categories: AI, science, philosophy, lists, bloggers
+categories: ai, science, philosophy, lists, bloggers
 where:      "Taipei"
 ---
 
 https://nostalgebraist.tumblr.com/
+
+## See also
+
+* <a href="/aaronson">The best of Scott Aaronson (for laymen)</a>
+* <a href="/siderea">The best of Siderea</a>

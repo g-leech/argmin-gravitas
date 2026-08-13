@@ -16,7 +16,7 @@ warnings:
 confidence: 
 importance: 
 wordcount:  
-categories: 
+categories: places, autobio
 where:      ""
 ---
 

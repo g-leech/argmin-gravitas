@@ -13,7 +13,7 @@ quality:
 
 summary:    Summaries of good papers I've read.
 confidence:	mu %; half essential speculation, half mathematical theorems.
-categories: AI
+categories: ai
 warnings:	
 importance: 9
 wordcount:		
@@ -51,6 +51,13 @@ wordcount:
 </div>
 
 </div>
+
+## See also
+
+* <a href="/ai-risk">Why worry about future AI?</a>
+* <a href="/grids">Preventing Side-effects in Gridworlds</a>
+* <a href="/acais">AI alignment & academia</a>
+* <a href="/ai-ethics">AI ethics for present & future</a>
 
 
 

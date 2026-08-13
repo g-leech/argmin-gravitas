@@ -13,7 +13,7 @@ published:	false
 summary:    
 confidence: 70%
 warnings:   
-categories: maths, ethics, risk
+categories: maths, ethics, scary-futurism
 importance: 8
 quality:    4
 pride:      3
@@ -97,3 +97,9 @@ https://onlinelibrary.wiley.com/doi/10.1111/rati.12448
 
 
 https://worldspiritsockpuppet.com/2024/06/09/what-if-tech-co-nyc.html
+
+## See also
+
+* <a href="/insurance">Insurance isn't necessarily a scam</a>
+* <a href="/consent">Consent as conclusive evidence</a>
+* <a href="/worst">The Worst Game Ever</a>

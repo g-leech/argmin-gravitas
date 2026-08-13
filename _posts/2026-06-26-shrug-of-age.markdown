@@ -12,7 +12,7 @@ quality:
 
 summary:    
 confidence:	
-categories: 
+categories: music, art, becoming, quantified-self
 warnings:	
 importance: 
 pride: 		
@@ -120,3 +120,9 @@ https://poems.com/poem/bounded-regret-algorithm/
 Plath is amazing. But 
 
 This is a general pattern: the epigones ruin everything.
+
+## See also
+
+* <a href="/nownost">Prospective nostalgia</a>
+* <a href="/music2024">On 900 albums of 2024</a>
+* <a href="/dreaming">The arts lie dreaming of the life to come</a>

@@ -102,4 +102,10 @@ _<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from 
 _<a href="https://gleech.org/demarcation">See also my review of Will Storr.</a>_<br>
 _<a href="https://gleech.org/psych">See also my list of false or weak psychology claims.</a>_
 
+## See also
+
+* <a href="/watts">'Peter Watts is an Angry Sentient Tumor' (2019)</a>
+* <a href="/turing-test">Neither Turing, neither Searle</a>
+* <a href="/quality">Why is quality rare?</a>
+
 

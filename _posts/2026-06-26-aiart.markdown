@@ -13,7 +13,7 @@ published:	false
 summary:    Examples which bear remembering
 confidence: 
 warnings:   
-categories: AI, art
+categories: ai, art
 importance: 5
 quality:    4
 pride:      3

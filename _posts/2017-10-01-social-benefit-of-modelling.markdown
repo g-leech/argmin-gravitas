@@ -14,7 +14,7 @@ quality:    7
 summary:	Weighing the social benefits of personal predictive models
 confidence: 
 warnings: 	
-categories: 
+categories: economics, ethics, social-science
 importance: 7
 wordcount: 		
 ---
@@ -58,6 +58,12 @@ Is Risk Classification Good for Society?
         Restrictions lead insurers to not offer coverage
         Leads to residual market (involuntary market) mechanisms
         Leads to additional costs
+
+## See also
+
+* <a href="/insurance">Insurance isn't necessarily a scam</a>
+* <a href="/lgfo">Using courts for algorithmic fairness</a>
+* <a href="/data-science/">Data Science FAQ</a>
 
 
 

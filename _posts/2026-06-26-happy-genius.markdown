@@ -11,10 +11,10 @@ visible:    1
 published:	false
 
 summary:    You don't have to be tortured to think
-confidence: 
-warnings:   
-categories: 
-importance: 
+confidence:
+warnings:
+categories: philosophy, psychology, greats
+importance:
 quality:    
 pride:      
 ---
@@ -117,3 +117,10 @@ almost certainly autistic by modern criteria. His father was emotionally abusive
 ## Honourable mentions
 
 Faraday (devout, stable marriage, no drama).
+
+## See also
+
+* <a href="/frank">Ramsey</a>
+* <a href="/jvn">von Neumann</a>
+* <a href="/einstein">Einstein</a>
+* <a href="/youth">acts of early genius</a>

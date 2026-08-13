@@ -15,7 +15,7 @@ summary:    My cabinet of curiosities
 confidence: N/A
 importance: 3
 wordcount:  
-categories: navel-gazing, becoming, art
+categories: autobio, becoming, art
 where:      "Bristol"
 ---
 
@@ -149,5 +149,11 @@ My academic life:
 <center>
 <img width="50%" src="/img/mementoes/aca.jpg" /><br>
 </center>
+
+## See also
+
+* <a href="/nownost">prospective nostalgia</a>
+* <a href="/diary">phdiary</a>
+* <a href="/bright">The brightness that comes before</a>
 
 <br><br>

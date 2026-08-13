@@ -15,7 +15,7 @@ confidence: 90% that the confidence of others is misplaced.
 quality:    4
 importance: 7
 wordcount:  
-categories: social-science, myths
+categories: social-science
 argument:   affluence/argument.html
 ---
 
@@ -126,6 +126,7 @@ How could this be? How could people make sweeping, highly counterintuitive claim
 * <a href="{{laudan}}">Rachel Laudan's great piece</a> started me on this trail.
 * <a href="/anthropology">My worries about cultural anthropology in general</a>.
 * <a href="{{stress}}">On Stress</a>
+* <a href="/erect">Origins of human intelligence</a>
 
 
 <!-- https://www.jstor.org/stable/3631086?seq=1 -->

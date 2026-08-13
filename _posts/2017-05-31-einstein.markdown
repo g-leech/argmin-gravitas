@@ -15,7 +15,7 @@ quality:    4
 
 wordcount:  1000
 warnings: 	I am not a physicist.
-categories: bio, science, greats
+categories: greats, science
 ---
 
 <center>
@@ -205,5 +205,8 @@ Isaacson read all the letters, formed a view on all the academic controversies (
 ## See also
 
 * <a href={{race}}>however, Asia</a>
+* <a href="/perelman">Perelman</a>
+* <a href="/frank">Ramsey</a>
+* <a href="/uranverein">'Hitler's Uranium Club' (2008) by Bernstein</a>
 
 <br><br>

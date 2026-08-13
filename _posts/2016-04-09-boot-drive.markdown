@@ -15,7 +15,7 @@ summary:    pain
 confidence: 
 importance: 4
 wordcount:  
-categories: comput
+categories: computers
 where:      "Glasgow"
 ---
 
@@ -35,4 +35,9 @@ Possible points of failure when using a USB boot drive, in order of likelihood:
 <li>You have two identical hard drives, they have the same name in the boot priority screen, so the UEFI is booting you into the completely blank one and fails to respond to any further input and feels very clever in itself. Physically detach one of them until your dual boot is finished.</li>
 <li value="xxxx">Your motherboard is fried, or the BIOS corrupted. Cry.</li>
 </ol>
+
+## See also
+
+* <a href="/php">Learn PHP Without Going Mad</a>
+* <a href="/browser">Hardening the browser</a>
 

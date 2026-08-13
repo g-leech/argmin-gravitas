@@ -13,7 +13,7 @@ quality:    5
 
 summary:    Does this auxiliary result from AlphaGo Zero have large implications?
 confidence:	60%; fairly speculative.
-categories: AI, forecasting, argument
+categories: ai, forecasting, argument
 warnings:	
 importance: 7
 pride:      4
@@ -56,5 +56,13 @@ This perhaps has implications for human expertise in general, by the following a
 <br><br>
 
 Regarding premise 4, <a href="{{ericsson}}">Ericsson</a> says learning occurs if people are "1) given a task with a well-defined goal, 2) motivated to improve, 3) provided with feedback, 4) provided with ample opportunities for repetition and gradual refinements of their performance"
+
+<br><br>
+
+## See also
+
+* <a href="/dota">Notes on OpenAI Five</a>
+* <a href="/grids">Preventing Side-effects in Gridworlds</a>
+* <a href="/ai-risk">Why worry about future AI?</a>
 
 

@@ -15,7 +15,7 @@ summary:    A model of science by reference to its unscientific origins
 confidence: 80% that I capture most of the axes
 importance: 7
 wordcount:  
-categories: review, science, history, philosophy, progress
+categories: review, science, history, philosophy
 ---
 
 <blockquote>...<br>
@@ -108,6 +108,14 @@ So the question is not "was Bacon the most original blah blah?": he wasn't, part
 		Stimulating as always.
 	</div>
 </div>
+
+## See also
+
+* <a href="/demarcation">'The Unpersuadables' (2013) by Storr</a>
+* <a href="/prospect">prospective science please</a>
+* <a href="/uranverein">'Hitler's Uranium Club' (2008) by Bernstein</a>
+
+<br><br>
 
 {%	include curio/foots.md	%}
 

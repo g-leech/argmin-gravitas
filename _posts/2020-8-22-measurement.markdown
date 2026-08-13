@@ -12,7 +12,7 @@ visible:    1
 
 summary:    Great achievements in expanding the reach of science.
 quality:    5
-categories: lists, science, quantification
+categories: lists, science, stats
 confidence: DRAFT
 importance: 6
 wordcount:  1200
@@ -233,6 +233,8 @@ Subjective probability
 
 * <a href="{{met}}">Metrology</a>: the science of measure
 * <a href="{{mea}}">Measurement theory</a>: the mathematics of when number relations can express object relations.
+* <a href="/stats">Learn stats without going mad</a>
+* <a href="/gist">Highlights from my Gists</a>
 <br><br>
 <!--  https://books.google.co.uk/books/about/The_Norm_Chronicles.html?id=QGehGTLcEKYC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false
 https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780198523420.001.0001/acprof-9780198523420

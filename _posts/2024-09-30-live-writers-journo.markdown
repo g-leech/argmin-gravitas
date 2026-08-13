@@ -15,7 +15,7 @@ summary:
 confidence: 
 importance: 7
 wordcount:  
-categories: 
+categories: bloggers, lists, writing
 ---
 
 People who write regularly 
@@ -35,6 +35,9 @@ I say "live writers" because "journalist" has the wrong connotation (shallowness
 
 
 
-## See also 
+## See also
 
 * https://gwern.net/matt-levine
+* <a href="/aaronson">The best of Scott Aaronson (for laymen)</a>
+* <a href="/siderea">The best of Siderea</a>
+* <a href="/essays">My favourite essays</a>

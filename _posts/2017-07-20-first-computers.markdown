@@ -76,5 +76,11 @@ I have to my satisfaction solved this historical question by enumeration. Why do
 
 Well, for a start most historical spaces aren't so cleanly definable. And without software to structure the data it would be tedious stuff.
 
+## See also
+
+* <a href="/enigma">Turing</a>
+* <a href="/turing-test">Neither Turing, neither Searle</a>
+* <a href="/conversion">Conceptual conversions</a>
+
 {%  include comput/foots.html %}
 

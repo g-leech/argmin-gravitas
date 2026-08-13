@@ -11,7 +11,7 @@ published:  false
 visible:    1
 
 summary:    Examples of long-lived misconceptions in science.
-categories: 
+categories: science, stats, epistemology
 confidence: 90%
 importance: 7
 warnings:   
@@ -24,3 +24,8 @@ This might be due to anchoring, but also the natural worship of founders.
 
 
 * Wunderlich on basal body temperature, 98.6 F. Formidable dataset - 1 million observations in 1860! Only discovered by testing the thermometers he used, miscalibrated by 3 F. 150 years later.
+
+## See also
+
+* <a href="/psych">Reversals in psychology</a>
+* <a href="/grapes">Can you trust your methods?</a>

@@ -103,6 +103,12 @@ categories: becoming
 
 </div>
 
+## See also
+
+* <a href="/memento">Memento</a>
+* <a href="/nownost">prospective nostalgia</a>
+* <a href="/bright">The brightness that comes before</a>
+
 <div class="footnotes">
 
 <ol>

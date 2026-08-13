@@ -13,7 +13,7 @@ quality:
 
 summary:	
 confidence:	
-categories:	
+categories:	politics, language, argument
 importance: 4
 ---
 

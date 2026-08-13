@@ -13,7 +13,7 @@ quality: 	5
 
 summary:    Reposting an anonymous essay attacking almost all academic ethical systems.
 confidence:	I do not agree with the linked essay.
-categories: 
+categories: philosophy, ethics, review
 importance: 6
 wordcount:		14,501
 ---
@@ -72,6 +72,12 @@ Also - if I'm allowed a circular comment: intuitionism generally leads to poor a
 
 
 Around 1800, the arch-rationalist Bentham predicted that <a href="{{gays}}">homosexuality</a> wasn't wrong, that <a href="{{animals}}">abusing animals</a> was wrong, that <a href="{{slaves}}">slavery was wrong</a>, <a href="{{women}}">that women deserved the vote</a>, that <a href="{{pun}}">retributive punishment</a> is wrong. These remained highly counterintuitive to most of the world for the next two hundred (three hundred?) years. (An imperfect reasoner like all of us, he was wrong about other things, e.g. <a href="{{slaves}}">the colonies</a>.) Was it reason that made us comply with these? At least partially, yes.
+
+## See also
+
+* <a href="/consent">Consent as conclusive evidence</a>
+* <a href="/strangers">'Strangers Drowning' (2015) by MacFarquhar</a>
+* <a href="/no-philosopher">Why I'm not a philosopher</a>
 
 <br><br><br>
 

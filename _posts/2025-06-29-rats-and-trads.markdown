@@ -16,7 +16,7 @@ quality:	7
 emotion: 	6
 warnings:	An attempt to analyse a way of life I don't have much experience with; worse, also an attempt to analyse a way of life I have too much experience with
 wordcount:  
-categories: education, rationality, book, ethics-of-belief, greats, humanism, literature, philosophy
+categories: education, rationality, books, ethics-of-belief, greats, humanism, literature, philosophy
 argument:   trads/argument.html
 where:      "Annapolis"
 ---
@@ -267,7 +267,10 @@ Added to the great conjunction of what-ifs that always encircles me is the warmi
 * [Katja on the real reason to read Aristotle](https://dailynous.com/2017/01/10/read-old-philosophy-guest-post-katja-grace/)
 * [History of the American neotrads](https://x.com/GrandBastion/status/1942075389867639167)
 * [Chris apologia](https://utilityhotbar.github.io/signal_flare/0.html)
-* The house of _Piranesi_ is the Classics. Closed, beautiful, dead. 
+* The house of _Piranesi_ is the Classics. Closed, beautiful, dead.
+* <a href="/no-philosopher">Why I'm not a philosopher</a>
+* <a href="/sceptic">The One True Sceptic</a>
+* <a href="/bayes">Bayesianity</a>
 
 <div class="footnotes">
 

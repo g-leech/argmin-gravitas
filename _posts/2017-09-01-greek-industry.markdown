@@ -13,7 +13,7 @@ quality:
 
 summary:    What minimal changes would have caused an Axial Age modernity?
 confidence: 50%
-categories: history, modernity, homebrew science
+categories: history, quantified-self
 importance: 6.
 ---
 

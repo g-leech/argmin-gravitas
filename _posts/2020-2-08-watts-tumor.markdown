@@ -15,7 +15,7 @@ quality:    4
 confidence: 90%
 importance: 6
 wordcount:  1400
-categories: review, epistemology, replication
+categories: review, epistemology, science
 warnings: 	unwarranted apocalypticism, antinatalism
 ---
 
@@ -105,5 +105,10 @@ I'm probably only so down on him because I got so excited by <i>Blindsight</i> a
 	</div>
 </div>
 
+## See also
+
+* <a href="/blindsight">'Blindsight' (2006) by Watts</a>
+* <a href="/demarcation">'The Unpersuadables' (2013) by Storr</a>
+* <a href="/culture">Against the Culture</a>
 
 <br><br>

@@ -13,7 +13,7 @@ quality: 	6
 
 summary:    Nonpragmatic reasons to internalise maths / logic / quantitative experiments.
 confidence:	50%.
-categories: 
+categories: philosophy, rationality, epistemology, maths
 importance: 8
 wordcount:		
 ---

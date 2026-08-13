@@ -12,7 +12,7 @@ visible:    1
 quality: 	
 
 summary:    .
-categories: 
+categories: lists, rationality, epistemology
 confidence: 
 importance: 
 wordcount:      

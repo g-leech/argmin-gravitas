@@ -34,5 +34,10 @@ The Institute for Progress just published [our elaboration](https://progress.ins
 * Most of the goodness is hidden in the links, like [the literature review](https://docs.google.com/document/d/1TEc53aKmy8uQwOMegdigCsvWsbJI_w41mlcFg4yuVCk/edit) which compares each pair of forecasting methods.
 * See also [this list](https://arbresearch.com/platforms/) of forecasting platforms open to you.
 
+## See also
+
+* <a href="/forecasters">Comparing experts and generalists</a>
+* <a href="/big3">Scoring the Big Three</a>
+* <a href="/hplr">Ten Hard Problems in and around AI</a>
 
 <br><br><br>

@@ -13,7 +13,7 @@ visible: 	1
 summary:    What does computability imply for metaphysics?
 quality:    
 confidence:	50%.
-categories: metaphysics, CS
+categories: metaphysics, computers
 importance: 2
 wordcount:		
 ---
@@ -65,3 +65,9 @@ So we could reply:
 <br><br>
 
 _This post is just context for ideas by John Morrice._
+
+## See also
+
+* <a href="/dark-math">Mathematical dark matter</a>
+* <a href="/god">What god has to do in mathematics</a>
+* <a href="/frege">Frege's grand failure</a>

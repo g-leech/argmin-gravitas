@@ -15,7 +15,7 @@ summary:    tweaking the great beast
 confidence: 70%
 importance: 7
 wordcount:  
-categories: AI
+categories: ai
 where:      "Cambridge"
 ---
 
@@ -129,8 +129,11 @@ Let the “Transformer++” be a Transformer with
 
 ### See also
 
-* https://arxiv.org/html/2410.16682v1  
+* https://arxiv.org/html/2410.16682v1
 * https://openreview.net/forum?id=d8w0pmvXbZ
+* <a href="/hplr">Ten Hard Problems in and around AI</a>
+* <a href="/paper">Paper AI Tigers</a>
+* <a href="/mitchell">Mitchell's open problems</a>
 
 <br><br>
 

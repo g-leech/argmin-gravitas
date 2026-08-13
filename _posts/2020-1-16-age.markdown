@@ -13,6 +13,7 @@ published:  true
 summary:    5 kinds of ageing I thought up.
 quality:    5
 confidence: N/A, definition chopping and social speculation.
+categories: philosophy, conceptual-analysis, transhumanism
 importance: 6
 warnings:   death, senescence, futurist nonsense
 argument:	
@@ -46,5 +47,12 @@ Some of you will be thinking 'Huh! The age-integer sucks. Let's not use numbers 
 <br><br>
 
 _This is surely not novel, but it was original, so I'm recording it as an early (2015) solid piece of conceptual analysis._
+
+<br><br>
+
+## See also
+
+* <a href="/enhance">Transnormalism</a>
+* <a href="/cornaro">Metabolism is violent</a>
 
 

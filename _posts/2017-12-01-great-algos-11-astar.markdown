@@ -13,6 +13,6 @@ published:  false
 summary:    
 confidence: 
 importance: 
-wordcount:      
-categories: 
+wordcount:
+categories: computers, code, maths
 ---

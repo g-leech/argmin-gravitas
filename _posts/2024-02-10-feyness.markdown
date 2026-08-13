@@ -15,7 +15,7 @@ importance:
 
 summary:    
 confidence: 
-categories: 
+categories: language, hypothesis-dump
 warnings:   
 wordcount:      
 ---

@@ -15,7 +15,7 @@ importance: 4
 
 summary:    What does the game say about history and society?
 confidence: 
-categories: history, vidya, fun, social-science, theory
+categories: history, vidya, fun, social-science
 warnings:   
 wordcount:      
 ---
@@ -109,3 +109,9 @@ You can still sell off the buildings in a city you are presently burning to the 
 - Banks' Cameron Colley</div>
 
 <br><br>
+
+## See also
+
+* <a href="/disco">'Disco Elysium' (2019): Part 1</a>
+* <a href="/games-of-life">Robots, Games, Life, Markets</a>
+* <a href="/piety">Present pieties</a>

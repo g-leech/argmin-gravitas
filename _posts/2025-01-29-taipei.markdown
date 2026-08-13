@@ -63,4 +63,11 @@ where:      "Tallinn"
 
 * **Bookshop**: 
 
-* **Cafe**: 
+* **Cafe**:
+
+## See also
+
+* <a href="/tallinn">Tallinn</a>
+* <a href="/deen">Aberdeen</a>
+* <a href="/bristol">Bristol</a>
+* <a href="/glesga">Glasgow</a>

@@ -15,7 +15,7 @@ importance: 6
 
 summary:    What did a phd take, quantitatively?
 confidence: 
-categories: phd, navel-gazing
+categories: phd, autobio
 warnings:   Navel-gazing
 wordcount:      
 ---
@@ -232,7 +232,10 @@ I cover this other side of the equation lazily (qualitatively) <a href="/phdone#
 
 <br><br>
 
+## See also
 
+* <a href="/theorysis">things I didn't do for my thesis</a>
+* <a href="/education">Is education worth it for society?</a>
 
 
 <div class="footnotes">

@@ -44,3 +44,9 @@ Grey tribe
 
 ### 2022
 
+## See also
+
+* <a href="/pol/">My politics</a>
+* <a href="/brainwash">On calling people brainwashed</a>
+* <a href="/bootstraps">Limits to self-invention</a>
+

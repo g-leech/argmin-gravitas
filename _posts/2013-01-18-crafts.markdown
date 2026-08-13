@@ -15,7 +15,7 @@ importance:
 
 summary:    Over-the-top song of praise for DIY
 confidence: N/A. Time capsule, moved past. 
-categories: agency, art
+categories: becoming, art
 warnings:   
 wordcount:      
 where:      "Hilton, Aberdeen"
@@ -92,4 +92,9 @@ Whatever radical story I can tell using crafts can also be obscured by the actua
 
 
 "Pretty things make the world a better place"; certainly, certainly. But the decorative arts onlyact on surfaces; they can have little bearing on the heart of things.
+
+## See also
+
+* <a href="/punk">Punk as ideology</a>
+* <a href="/codes">Cracking cultures</a>
 

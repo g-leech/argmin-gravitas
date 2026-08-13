@@ -15,7 +15,7 @@ importance: 6
 
 summary:    things I've tried on myself
 confidence: 
-categories: 
+categories: quantified-self, self-help, health
 warnings:   
 wordcount:      
 ---
@@ -53,7 +53,13 @@ wordcount:
 
 <br>
 
+## See also
 
+* <a href="/pills">The trouble with supplements</a>
+* <a href="/overheads">Existential overheads</a>
+* <a href="/stuff">Things I Use</a>
+
+<br><br>
 
 <!-- factorial analysis of supplements.
 No external validity sought.

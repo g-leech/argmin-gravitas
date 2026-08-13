@@ -14,6 +14,7 @@ quality:    6
 emotion:    6
 importance: 4
 confidence: 90%
+categories: autobio, work, economics, social-science
 
 summary:    Miscellaneous notes on working in tech in eC21st London. 
 wordcount:      
@@ -373,6 +374,9 @@ If, once you're financially secure and ensconced in a house and a family, you ha
 
 
 * <a href="{{src}}">How Much Work is Real?</a>
+* <a href="/nonmoney">nonmonetary payoffs to starting a company</a>
+* <a href="/instrument">Limits to self-instrumentalisation</a>
+* <a href="/pg">Great work</a>
 
 
 <br><br>

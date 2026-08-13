@@ -15,7 +15,7 @@ summary:    A little eval using this blog
 warnings: 	
 importance: 6
 wordcount:  
-categories: AI, writing
+categories: ai, writing
 where:      "Williamsburg, New York"
 ---
 
@@ -291,6 +291,12 @@ I'm still happy making the following claim in my About page: "no text computer-g
     </blockquote>
   </div>
 </div>
+
+## See also
+
+* <a href="/llms">How I don't use LLMs</a>
+* <a href="/narratives">Psychology and fictions of language models</a>
+* <a href="/ai2025">AI in 2025: gestalt</a>
 
 <div class="footnotes">
 

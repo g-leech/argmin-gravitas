@@ -15,7 +15,7 @@ importance: 6
 
 summary:    what I ran out of time or nerve for
 confidence: 
-categories: phd, navel-gazing
+categories: phd, autobio
 warnings:   navel-gazing
 wordcount:      
 ---
@@ -200,3 +200,9 @@ Privatisation of AI
 https://arxiv.org/abs/2110.04301
 https://openreview.net/forum?id=BcbwGQWB-Kd
 parrots
+
+## See also
+
+* <a href="/thesis">'Methods Failing the Data, Data Failing the Methods'</a>
+* <a href="/diary">phdiary</a>
+* <a href="/phd-numbers">Grad school by numbers</a>

@@ -13,7 +13,7 @@ quality:
 
 summary:    What killed people last year?
 confidence:	95%
-categories: computing, history
+categories: computers, history
 warnings:	Unfair posterity.
 importance: 8.
 wordcount:		

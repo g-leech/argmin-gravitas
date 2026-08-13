@@ -388,7 +388,11 @@ On the bright side, _HK_ prefigures several (of what we currently think of as ac
     </div>
 </div>
 
+## See also
 
+* <a href="/sceptic">The One True Sceptic</a>
+* <a href="/gut-epistemics">Does the gut cross the epistemic barrier?</a>
+* <a href="/no-philosopher">Why I'm not a philosopher</a>
 
 <!--
 

@@ -13,7 +13,7 @@ published: 	true
 summary:	Some vicious and potentially nonvicious responses to technological unemployment.
 confidence: 90% that the ones I call vicious would be. 60% that the ones I call nonvicious would be. Only about 40% that this scenario will come to pass in the first place.
 warnings: 	totalitarianism, denial of basic goods, obsolescence. Not actually worth working on.
-categories: AI, transhumanism, economics
+categories: ai, transhumanism, economics
 emotion:    4
 quality:    6
 importance: 7
@@ -111,5 +111,12 @@ I am not very sure of any of the above; the <a href="{{loGrowth}}">actual stats 
 
 <br><br>
 
+## See also
+
+* <a href="/ceiling">A ceiling for human expertise</a>
+* <a href="/ai-risk">Why worry about future AI?</a>
+* <a href="/maximum">What's the highest moral wage?</a>
+
+<br><br>
 
 {%  include nonvicious/foots.html %}

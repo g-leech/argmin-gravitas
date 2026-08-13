@@ -12,7 +12,7 @@ visible:    1
 quality:    6
 
 summary:    Two arguments against insurance, and where they fail.
-categories: utility, rationality, finance
+categories: economics, rationality
 confidence: 80%. Some details fuzzy.
 importance: 5
 warnings:   Past conflict - I used to work in insurance.
@@ -167,6 +167,10 @@ If everyone had a chunk of savings ($10k?), rationally speaking there would be n
 
 <br>
 
+## See also
 
+* <a href="/econ-life">Economics as philosophy of life</a>
+* <a href="/maximum">What's the highest moral wage?</a>
+* <a href="/worst">The Worst Game Ever</a>
 
 {%  include insurance/foots.html %}

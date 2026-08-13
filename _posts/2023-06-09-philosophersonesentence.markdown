@@ -37,3 +37,9 @@ argument:
 - Yudkowsky: The rational thing to do is to work on this one thing I have been obsessed with my whole life.
 - Taleb:
 - Bright: You ever notice how sexy Carnap is?
+
+## See also
+
+* <a href="/tractatus">Showing over saying</a>
+* <a href="/frege">Frege's grand failure</a>
+* <a href="/no-philosopher">Why I'm not a philosopher</a>

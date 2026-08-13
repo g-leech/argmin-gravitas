@@ -12,9 +12,9 @@ visible: 	1
 best:		1
 
 summary:    
-confidence:	
-categories: 
-warnings:	
+confidence:
+categories: computers, code, maths
+warnings:
 importance: 7.
 wordcount:		
 ---

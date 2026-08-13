@@ -11,7 +11,7 @@ published:	false
 visible: 	0
 
 summary:    Summary of 
-categories: AI, technical, concrete, reinforcement learning
+categories: ai, alignment, rl
 warnings:	
 importance: 8
 wordcount:		
@@ -86,4 +86,10 @@ Spec problems
             decoupled RL: allow agents to learn the reward of states different from the current state. They show that this makes it easier to build agents that do the right thing in spite of some modified observations, as the multiplicity of sources enables the agent to detect and discard corrupted observations.
             robust choice strategy significantly reduces regret. This method works by combining a “good-enough” reward level with randomization (Taylor, 2016). Hadfield-Menell et al. (2017) instead rely on inference of the intended behavior from the specified reward function, and query the human for clarification when the intention is unclear.
 Robustness problems
-    Nondualism. 
+    Nondualism.
+
+## See also
+
+* <a href="/grids">Preventing Side-effects in Gridworlds</a>
+* <a href="/ai-risk">Why worry about future AI?</a>
+* <a href="/hplr">Ten Hard Problems in and around AI</a>

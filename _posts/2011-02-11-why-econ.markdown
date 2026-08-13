@@ -14,7 +14,7 @@ summary:    The human urgency of the seemingly inhuman subject.
 quality:    4
 importance: 7
 warnings: 	Written for a competition, "Why study economics at university?" Pretty pompous but hey I won £50.
-categories: cause-prioritisation
+categories: the-maths-of-goodness
 argument:	
 ---
 
@@ -64,6 +64,10 @@ The good economist replies, “A better world.”
 
 <br><br>
 
+## See also
 
+* <a href="/econ-life">Economics as philosophy of life</a>
+* <a href="/education">Is education worth it for society?</a>
+* <a href="/maximum">What's the highest moral wage?</a>
 
 <br><br>

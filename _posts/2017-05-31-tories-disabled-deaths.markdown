@@ -258,5 +258,12 @@ Part 3 might be about the [mental health impact of WCA][mental], though maybe no
 [confu]: https://en.wikipedia.org/wiki/Sensitivity_and_specificity#Confusion_matrix
 
 
+## See also
+
+* <a href="/worst">The Worst Game Ever</a>
+* <a href="/masks">Do masks work against COVID, at scale?</a>
+* <a href="/grapes">Can you trust your methods?</a>
+
+<br><br>
 
 {%  include killer-tories/foots.html %}

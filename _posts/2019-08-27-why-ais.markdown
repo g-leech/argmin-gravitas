@@ -13,7 +13,7 @@ visible:    false
 summary:    
 quality:    
 confidence: 50%
-categories: 
+categories: ai, scary-futurism, autobio, phd
 importance: 9
 wordcount:      
 ---

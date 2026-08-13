@@ -12,6 +12,7 @@ quality: 	5
 
 summary:    Notes on some supreme short stories + basic combinatorics.
 confidence: 95%
+categories: literature, fiction, review
 importance: 3
 wordcount:      
 ---
@@ -127,3 +128,11 @@ And so a beautiful lesson: think what the incredible feat of writing any book - 
 
 
 _<a href="https://www.goodreads.com/user/show/68316850-gavin">Cross-posted from Goodreads.</a>_
+
+<br><br>
+
+## See also
+
+* <a href="/dark-math">Mathematical dark matter</a>
+* <a href="/barriers">Ways we can fail to answer</a>
+* <a href="/odyssey">'The Odyssey' (2017) by Emily Wilson</a>

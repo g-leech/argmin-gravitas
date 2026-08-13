@@ -175,7 +175,7 @@ You and I are apes. That is to say, we are intensely social and intensely status
 
 Status = doing things because other people value them
 
-e.g. You are all overrating college. It probably washes out to some degree - “employer learning”. 
+e.g. You are all overrating the [extrinsic rewards](https://arbresearch.com/files/elite_education.pdf) of college. It probably washes out to some degree - “employer learning”. 
 
 The terrible thing - the diabolical thing - about status is that talking about it creates pressure towards it. No way around it. I’m sorry. The best we can do is make intrinsic goods high-status.
 
@@ -186,7 +186,7 @@ The terrible thing - the diabolical thing - about status is that talking about i
 To stay sane, the minds of adults look like this over the course of their lives:
 
 <center>
-  <img src="/img/settling.png" />
+  <img width="70%" src="/img/settling.png" />
 </center>
 
 
@@ -221,7 +221,7 @@ I hope this class is the last permission you need. _I hereby give you permission
 
 ## the Egregores Lagrange (AKA checks and balances)
 
-One way of viewing yourself in society is that you are a tiny mote of dust in a system of vast grinding gears. Bureaucracies want your time and obedience. Corporations want your money. Governments want your taxes and your obedience.
+One way of viewing yourself in society is that you are a tiny mote of dust in a system of vast grinding gears. Bureaucracies want your time and obedience. Corporations want your money. Governments want your money and your obedience.
 
 It is tragic that we need governments, that we can’t trust markets to deliver what everyone needs.
 
@@ -325,6 +325,10 @@ Getting to L6 at Google, having 2 children, saying true things, retiring at 50, 
 
 
 
-## See also 
+## See also
 
 * [Escaping Flatland](https://space.ong.ac/escaping-flatland) (2D planes instead of 1D ladders)
+* <a href="/ambitions">ambitions</a>
+* <a href="/stopping">What's stopping you?</a>
+* <a href="/compare">Comparing up and down</a>
+* <a href="/pg">Great work</a>

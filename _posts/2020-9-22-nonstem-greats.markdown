@@ -16,7 +16,7 @@ quality:    5
 emotion:    6
 importance: 5
 wordcount:  1000
-categories: social-science, lists, quantification, 
+categories: social-science, lists, stats
 ---
 
 {%	include nonstem/links.md	%}
@@ -108,4 +108,7 @@ Sadly, Hite and Kinsey are not worth reading except for historical interest.
 ## See also
 
 * <a href="{{baud}}">Ben Hoffman</a> on extracting models of epistemic decay from Baudrillard
-* <a href="/anthropology">My discussion</a> of the anti-science turn in American cultural anthropology, and my resolve to read it anyway. 
+* <a href="/anthropology">My discussion</a> of the anti-science turn in American cultural anthropology, and my resolve to read it anyway.
+* <a href="/siderea">The best of Siderea</a>
+* <a href="/aaronson">The best of Scott Aaronson (for laymen)</a>
+* <a href="/piety">Present pieties</a>

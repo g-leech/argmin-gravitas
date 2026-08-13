@@ -170,6 +170,9 @@ One solution is to be sincerely truth-seeking, honestly critical. DFW is a model
 * [Notes on Infinite Jest](https://www.gleech.org/jest)
 * [Strangers Drowning](https://www.gleech.org/strangers)
 * [Blindsight](https://www.gleech.org/blindsight)
+* <a href="/piety">Present pieties</a>
+* <a href="/pomo">The typical language of postmodernism</a>
+* <a href="/rats-and-trads">Rats and trads</a>
 
 
 <br>

@@ -14,9 +14,9 @@ emotion:    5
 importance: 6
 
 summary:    My PhD in plain language
-confidence: 
-categories: 
-warnings:   
+confidence:
+categories: phd, machine-learning, ai, stats
+warnings:
 wordcount:      
 ---
 
@@ -195,3 +195,10 @@ The current publication process makes bad salesmen of scientists. One of the goo
 * https://csc.ucdavis.edu/~cmg/papers/Riechers.UCDDissertation2016.pdf
 * https://theses.gla.ac.uk/3258/1/2011CalderheadPhD.pdf
 * https://emmabluemke.com/phd-thesis
+
+## See also
+
+* <a href="/masks">Do masks work against COVID, at scale?</a>
+* <a href="/hplr">Ten Hard Problems in and around AI</a>
+* <a href="/actadd">LLM alignment via activations</a>
+* <a href="/ilp">Notes on inductive logic programming</a>

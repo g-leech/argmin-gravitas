@@ -11,7 +11,7 @@ published:  true
 visible:    1
 
 summary:    Examples of improved presentation
-categories: tools-for-thought, maths, academia
+categories: tools-for-thought, maths, uni
 confidence: I have lots of experience not understanding things, and none of improving matters.
 importance: 5
 wordcount:  
@@ -253,6 +253,9 @@ All of academic science is stuck on many of the above, stuck in the 90s. Maybe w
 * <a href="{{qc}}">Quantum Country</a>
 * https://www.bhauth.com/blog/thinking/terminology%20as%20convolution.html
 * <a href="{{dist}}">Communicating with Interactive Articles</a>
+* <a href="/ou">Maths at the Open University</a>
+* <a href="/stats">Learn stats without going mad</a>
+* <a href="/tools">Favourite maths tools</a>
 
 <br><br>
 

@@ -13,7 +13,7 @@ quality:    4
 
 summary:    Trying to read the philosophical underworld charitably.
 confidence:	60%. I am more comfortable with reductionism than I was when I wrote this.
-categories: philosophy, nonsense, rationality
+categories: philosophy, rationality
 warnings:	There is a lot of patent nonsense here.
 importance: 2
 pride: 		
@@ -118,6 +118,10 @@ It'd be a mistake to go to these people looking for The Answer. But this isn't w
 ## See also
 
 * Shalizi, <a href="http://bactra.org/notebooks/evil-twins.html">Philosophies' Evil Twins</a>
+* <a href="/demarcation">'The Unpersuadables' (2013) by Storr</a>
+* <a href="/sceptic">The One True Sceptic</a>
+* <a href="/no-philosopher">Why I'm not a philosopher</a>
+* <a href="/barriers">Ways we can fail to answer</a>
 
 <!-- Since I took such a broad definition of mysticism, here's something prickly to cleanse the palette:<br />
 <br />

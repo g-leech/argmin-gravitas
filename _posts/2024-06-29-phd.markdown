@@ -15,7 +15,7 @@ importance: 4
 
 summary:    On doctoral study and purgatory
 confidence: 90%
-categories: education, becoming, academia, machine-learning, phd
+categories: education, becoming, uni, machine-learning, phd
 warnings:   long and navel-gazing
 wordcount:      
 ---
@@ -552,6 +552,8 @@ Ever so indirectly, I even achieved most of my initial goals (and many, many sur
             <li><a href="https://research.wmz.ninja/projects/phd/index.html">The phd game</a></li>
             <li>https://turntrout.com/Essays/Looking-back-on-my-alignment-PhD</li>
             <li>https://www.math.uchicago.edu/~farb/papers/thurston.pdf</li>
+            <li><a href="/acais">AI alignment & academia</a></li>
+            <li><a href="/nonmoney">nonmonetary payoffs to starting a company</a></li>
         </ul>
     </div>
     <h3>Misc</h3>

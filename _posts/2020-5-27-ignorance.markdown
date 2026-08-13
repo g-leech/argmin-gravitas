@@ -287,6 +287,9 @@ The bureaucracies act as if you can only teach once you are a master. But I ofte
 <!-- * <a href="{{chapman}}">Chapman, 'How to do Research at the MIT AI Lab'</a> -->
 * <a href="{{holden}}">Holden, 'Why Can't I Reproduce Their Results?'</a>
 * <a href="{{soares}}">Soares, 'Stop trying to try and try'</a>
+* <a href="/pg">Great work</a>
+* <a href="/phdone">Piled higher and deeper</a>
+* <a href="/stopping">What's stopping you?</a>
 
 <br>
 

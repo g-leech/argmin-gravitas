@@ -12,11 +12,11 @@ published:  false
 quality:    3
 
 summary:    "Welcome to the free country"
-warnings: 	
-confidence: 
-importance: 
-wordcount:  
-categories: 
+warnings:
+confidence:
+importance:
+wordcount:
+categories: places, politics, history
 where:      ""
 ---
 
@@ -125,4 +125,10 @@ Am I the only one who finds the imperial eagle-snake slightly sinister?
 Is any culture both unfriendly and corrupt? America is both of the opposite.
 
 Some rich theory to be done about politeness vs generosity, bureaucracy vs relating, atomisation vs whisper net mob norms, warmth to family and warmth to strangers. Soviet Union.
+
+## See also
+
+* <a href="/tallinn">Tallinn</a>
+* <a href="/libya">Rebellion, and rebellion against rebellion</a>
+* <a href="/nysound">NY sounds</a>
 

@@ -182,5 +182,8 @@ That a book about the importance of sincerity became, first, the object of a che
 
 * <a href="/culture">Against the Culture</a>
 * <a href="{{sw}}">Aaron Swartz</a>, who had a similar disposition.
+* <a href="/sincerity">Irony, sincerity, nostalgia, neoteny</a>
+* <a href="/aubyn">'The Patrick Melrose Novels' by St Aubyn</a>
+* <a href="/blindsight">'Blindsight' (2006) by Watts</a>
 
 <br><br>

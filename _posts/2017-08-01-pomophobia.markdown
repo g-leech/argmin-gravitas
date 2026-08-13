@@ -13,7 +13,7 @@ quality:    6
 
 summary:    On the way we talk about the way postmodernists talk. 
 confidence:	70% that the accusations are overblown.
-categories: 
+categories: philosophy, criticism, language, epistemology
 warnings:	
 importance: 3
 quality:	4
@@ -220,6 +220,11 @@ Anyway, I don't take the criticisms above to be either a grand exposé or punchi
 	</div>
 
 </div>
+
+## See also
+
+* <a href="/mysticism">Staring at mystics</a>
+* <a href="/rats-and-trads">Rats and trads</a>
 
 <div class="footnotes">
 <ol>

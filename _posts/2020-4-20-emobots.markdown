@@ -15,7 +15,7 @@ summary:    a half-baked research agenda I never pursued
 confidence: 
 importance: 7
 wordcount:  
-categories: AI, predictions, biology, economics
+categories: ai, forecasting, biology, economics
 where:      "Bristol, UK"
 ---
 
@@ -323,6 +323,9 @@ Given sufficiently rich environments, it may be possible to adapt [psychometric 
 * [Broekens, J., Jacobs, E., & Jonker, C. M. (2015)](https://sci-hub.se/10.1080/09540091.2015.1031081)
 * https://en.wikipedia.org/wiki/Cooperative_game_theory
 * https://agentmodels.org/chapters/7-multi-agent.html
+* <a href="/games-of-life">Robots, Games, Life, Markets</a>
+* <a href="/turing-test">Neither Turing, neither Searle</a>
+* <a href="/dota">Notes on OpenAI Five</a>
 
 
 

@@ -16,7 +16,7 @@ confidence:
 importance: 
 
 summary:    How do the forms of intelligence structure society?
-categories: 
+categories: social-science, hypothesis-dump, lists
 wordcount:  500
 warnings:   At least partially culture war bullshit
 where:      "Florencia, CDMX"
@@ -49,3 +49,8 @@ Lacking the big picture.
 Really you should have one shape attribute and one word attribute.
 
 https://mobile.twitter.com/awprokop/status/1597713089121878016
+
+## See also
+
+* <a href="/zhang">Is Yitang Zhang an intellectual?</a>
+* <a href="/ladder">The ladder of abstraction</a>

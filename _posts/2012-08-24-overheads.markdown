@@ -116,8 +116,11 @@ The most effective strategy for preventing waste of life is hard to quantify in 
 </div>
 
 
-## See also 
+## See also
 
 * [Bennett](https://www.goodreads.com/book/show/4855.How_to_Live_on_24_Hours_a_Day)
+* <a href="/stuff">Things I Use</a>
+* <a href="/pills">The trouble with supplements</a>
+* <a href="/self-help">Self-help, hard and soft</a>
 
 <br><br> <br>

@@ -44,7 +44,11 @@ This machine is less hedonistic than Nozick's <a href="http://en.wikipedia.org/w
 
 <br /><br /><br>
 
+## See also
 
+* <a href="/consent">Consent as conclusive evidence</a>
+* <a href="/turing-test">Neither Turing, neither Searle</a>
+* <a href="/quality">Why is quality rare?</a>
 
 <div class="footnotes">
 <ol>

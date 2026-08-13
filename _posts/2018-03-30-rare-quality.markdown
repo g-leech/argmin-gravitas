@@ -190,3 +190,4 @@ But if we were stubbornly happy - if we often experienced joy for no particular 
 * [NOS](https://www.jstor.org/stable/45217248)
 * [Slatton](https://grantslatton.com/nobody-cares)
 * [Katja](https://meteuphoric.com/2012/04/28/value-realism/)
+* <a href="/barriers">Ways we can fail to answer</a>

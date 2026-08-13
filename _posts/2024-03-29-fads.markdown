@@ -14,8 +14,8 @@ emotion:
 importance: 
 
 summary:    
-confidence: 
-categories: 
+confidence:
+categories: self-representation, ethics-of-belief, becoming
 warnings:   
 wordcount:      
 where:      "London"
@@ -48,3 +48,8 @@ This doesn't strictly disqualify me, for reasons I model below. But it does sugg
 * Slightly ahead of the curve on AI (2016)
 * Bayes
 * Anti-woke (2014)
+
+## See also
+
+* <a href="/theisms">theisms</a>
+* <a href="/bright">The brightness that comes before</a>

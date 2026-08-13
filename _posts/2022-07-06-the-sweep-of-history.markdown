@@ -240,5 +240,8 @@ Sixty life times ago, a man named Abram left Ur of the Chaldees and took his fam
 * [The Great Span](https://kottke.org/tag/The%20Great%20Span)
 * https://www.youtube.com/watch?v=0fKBhvDjuy0
 * https://www.youtube.com/watch?v=YdOXS_9_P4U
+* <a href="/memoria">Legacy and the memory of legacy</a>
+* <a href="/fermi">Drake, Hanson, and the meaning of life</a>
+* <a href="/x-for-all">A common cause in a general end</a>
 
 <br><br>

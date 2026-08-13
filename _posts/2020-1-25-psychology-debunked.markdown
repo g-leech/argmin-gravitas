@@ -236,6 +236,9 @@ What now? When the next flashy <a href="{{weird}}">WEIRD</a> paper out of a worl
 
 * <a href="{{alvaro}}">A review of 2500 social science papers</a>, showing the lack of correlation between citations and replicability, between journal status and replicability, and the apparent lack of improvement since 2009.
 * Discussion on <a href="{{hz}}">Everything Hertz</a>, <a href="{{hn}}">Hacker News</a>, <a href="{{gel}}">Andrew Gelman</a>, <a href="{{jhtw}}">some star data thugs comment</a>.
+* <a href="/demarcation">'The Unpersuadables' (2013) by Storr</a>
+* <a href="/blindsight">'Blindsight' (2006) by Watts</a>
+* <a href="/scarcity">'Scarcity' (2013) by Shafir & Mullainathan</a>
 
 <br><br>
 

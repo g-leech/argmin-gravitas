@@ -11,7 +11,7 @@ published:  false
 visible:    1
 
 summary:    Rant about a pop song better misheard
-categories: 
+categories: music, poem, art
 confidence: 
 importance: 5
 warnings: 	
@@ -69,3 +69,8 @@ And boys are full and foreign to the pouch.
 I am the man your father was.
 We are the sons of flint and pitch.
 O see the poles are kissing as they cross.
+
+## See also
+
+* <a href="/nofx">'The Decline' (1999) by NOFX</a>
+* <a href="/hoom">'Have One on Me' by Joanna Newsom</a>

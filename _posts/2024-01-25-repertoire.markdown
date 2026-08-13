@@ -15,7 +15,7 @@ importance:
 
 summary:    standard repertoire in philosophy, economics, CS
 confidence: 
-categories: 
+categories: philosophy, economics, computers, my-classes
 warnings:   
 wordcount:      
 ---

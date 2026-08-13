@@ -16,7 +16,7 @@ emotion:    7
 confidence: 60%. Grounded in philosophy and anecdote, not the psychology of self-adjustment. 
 importance: 6
 wordcount:  1000
-categories: self-help, philosophy, becoming, false-framework
+categories: self-help, philosophy, becoming
 argument:   bootstraps/argument.md
 ---
 
@@ -203,6 +203,9 @@ Is bootstrapping obvious? I don't think so, judging by how static and <em>crudel
 ## See also
 
 * _<a href="{{tlp}}">The Question Isn't Why Do Babies Do It</a>_ (2007)
+* <a href="/self-help">Self-help, hard and soft</a>
+* <a href="/you">You do you</a>
+* <a href="/compare">Comparing up and down</a>
 
 <br><br>
 

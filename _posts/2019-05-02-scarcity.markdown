@@ -13,6 +13,7 @@ quality: 	6
 
 summary:    A practical theory of the mind's panic mode and its giant harm.
 confidence: 50%. (some failed replications.)
+categories: economics, psychology, review, social-science
 importance: 7
 wordcount:      
 ---
@@ -144,7 +145,11 @@ Their own rerun found that one of the effect didn't replicate, but "scarcity its
 
 <br /><br /><br />
 
+## See also
 
+* <a href="/psych">Reversals in psychology</a>
+* <a href="/overheads">Existential overheads</a>
+* <a href="/aid">Should we abolish foreign aid?</a>
 
 <div class="footnotes">
 

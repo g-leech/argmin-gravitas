@@ -11,7 +11,7 @@ published:  false
 visible:    1
 
 summary:    Results of trying things out on myself.
-categories: 
+categories: quantified-self, self-help, health
 confidence: 60%
 importance: 8 to me, 3 to you
 wordcount:  

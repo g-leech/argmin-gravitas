@@ -13,6 +13,7 @@ quality:    5
 
 summary:    The macroeconomics of the idea that government aid is harmful.
 confidence: 75% confident that aid is not harmful enough to abolish.
+categories: economics, the-maths-of-goodness, politics, history
 warnings:   poverty, inexorability, extremely tl;dr.
 wordcount: 	8821
 importance: 6
@@ -126,6 +127,12 @@ It has some good bits - I anticipate the <a href="{{itn}}">"Important/Neglected/
 
 
 {%		include aid/foots.html		%}
+
+## See also
+
+* <a href="/econ">'Why study economics?'</a>
+* <a href="/maximum/">What's the highest moral wage?</a>
+* <a href="/esa-deaths/">How lethal are the Tories? Part 1</a>
 
 
 

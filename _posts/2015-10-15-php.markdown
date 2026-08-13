@@ -116,4 +116,9 @@ Ways to learn PHP without hating everything:
 <li>PHP is the <a href="http://crashworks.org/if_programming_languages_were_vehicles/">Ford Pinto</a> of programming languages (or, depending on who you ask, the <a href="https://www.reddit.com/r/cars/comments/247ttf/what_would_be_the_ak47_of_cars/">Toyota Hilux</a>).</li>
 </ul>
 
+## See also
+
+* <a href="/boot">Troubleshooting a boot drive</a>
+* <a href="/browser">Hardening the browser</a>
+
 <br />

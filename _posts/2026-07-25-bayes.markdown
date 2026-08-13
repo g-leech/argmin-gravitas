@@ -26,11 +26,17 @@ where:      "Somerset"
 <div class="accordion">
 <h3>Lesson plan</h3>
 <div>
+<p><strong>Setup</strong></p>
+<ul>
+	<li>Start with philosophy of science to motivate the basic prob theory.</li>
+	<li>Interactive: what do we want from a theory of science?  </li>
+	<li>coherence; answers the actual question \(P(H \mid E)\); generality; quantified uncertainty and graded confirmation; falsification = \(LR \to 0\); reproducibility; mechanisms for the intuitions (total evidence, order &amp; stopping-rule invariance, surprise, variety, conservation of expected evidence, Hume&rsquo;s maxim, Cromwell&rsquo;s rule); experiment design; parsimony for free.  </li>
+</ul>
 <p><strong>Bug</strong></p>
 <ul>
-<li>Cancer calculation. Interactive  </li>
-<li>Correct answer 8%; doctors&rsquo; modal answer 95%; only ~20% right; unchanged for 50 yrs. Downstream costs.  </li>
-<li><em>smart people are not automatically rational.</em></li>
+	<li>Cancer calculation. Interactive  </li>
+	<li>Correct answer 8%; doctors&rsquo; modal answer 95%; only ~20% right; unchanged for 50 yrs. Downstream costs.  </li>
+	<li><em>smart people are not automatically rational.</em></li>
 </ul>
 <p><strong>Equation</strong></p>
 <ul>
@@ -55,15 +61,13 @@ where:      "Somerset"
 <p><em>you can do better even without calculating.</em></p>
 </li>
 </ul>
-<p><strong>As creed</strong></p>
+<p><strong>As optimal</strong></p>
 <ul>
-<li>The principles: credences; probabilism; conditionalisation; use priors.   </li>
-<li>Interactive: what do we want from a theory of science?  </li>
-<li>coherence; answers the actual question \(P(H \mid E)\); generality; quantified uncertainty and graded confirmation; falsification = \(LR \to 0\); reproducibility; mechanisms for the intuitions (total evidence, order &amp; stopping-rule invariance, surprise, variety, conservation of expected evidence, Hume&rsquo;s maxim, Cromwell&rsquo;s rule); experiment design; parsimony for free.  </li>
 <li>convergence; washout; unification with decision theory; optimality; uniqueness.  </li>
 <li>
 <p>Dutch book, accuracy dominance, complete class, bounded regret, epistemic utility, Cox.</p>
 </li>
+<li>The principles: credences; probabilism; conditionalisation; use priors.   </li>
 <li>
 <p><em>otherwise sure loss, inaccuracy, inadmissibility, regret.</em></p>
 </li>
@@ -96,7 +100,180 @@ where:      "Somerset"
 
 <br><br>
 
-# 1. Bug
+Assuming that we want a theory of rationality...
+
+<br>
+
+# 1. Desiderata
+
+
+### **Interactive**: What do we want from a theory of science? Epistemology more generally? Rationality more generally?
+
+
+(Let them speak for 10 mins. They know but they won't know the terminology)
+
+<br>
+
+* Coherence (the world is coherent, so our theory should be)
+
+* Answer the right goddamn question: $$P(H \mid E)$$, “How likely is the hypothesis given the data?”. Confirm hypotheses; degrees of actual confidence about the real question.
+
+* Generality. Be strictly larger than science: Answer any question. Cover all reasoning.  
+  * Handles unique events  
+    * What is the probability that Lincoln will be assassinated?  
+    * What is the probability that Trump will be assassinated?  
+  * Handles inadmissible evidence  
+  * We’d like one theory that covers science, good intuition, and maths and logic.
+
+* Uncertainty
+
+* Quantification  
+  * *Degrees* of confirmation  
+  * Exactness: specific values   
+  * Exactness: specific uncertainty
+
+* Falsification. Take out the trash  
+  * Just $$LR \to 0$$. The “asymmetry of science” to be explained by the asymmetry of *available* likelihood ratios.   
+  * Better\! disconfirmation is not binary
+
+* Reproducibility: unlike others, Bayes puts all its judgments into the model.
+
+* Mechanisms for our intuitions   
+  * “Always use *all* information. It’s always rational to look (at free evidence).”   
+  * “The order of evidence shouldn’t matter.”  
+  * “Experimenter intentions shouldn’t matter”: Bayesian inference is independent of when you stop collecting evidence\!  
+  * “surprising evidence confirms a hypothesis more” Lone anomalies can destroy theories.   
+  * Varied evidence confirms more. Different researchers, different fields, different instruments, different models, different statistical frameworks\!  
+  * “you can't reason your way to a predetermined conclusion." Conservation of expected evidence. capacity for confirmation is purchased with exposure to refutation.   
+  * “Extraordinary claims need extraordinary evidence”. Hume’s maxim. *how* extraordinary the evidence must be.  
+  * “There’s something wrong with putting 0 on a hypothesis”. Cromwell’s rule
+
+* Help us design experiments. Lindley (1956): expected information gain makes it a theory of *inquiry* (which question to ask), not just belief revision.
+
+* Parsimony. Automatic (marginal likelihood: a model that can fit anything assigns little to any particular dataset \- Jefferys & Berger 1992, MacKay) and explicit (complexity-weighted priors; Solomonoff as the limit). No razor axiom (but simplicity enters from our priors, a backdoor).
+
+<br>
+
+Finally consider some ultra-ambitious goals for such a theory:
+
+* Convergence guarantees. Intersubjectivity: priors should "wash out"
+* Unification of thought and act (not just epistemology, also decision theory). Beliefs are for acting: Savage integrates credence with utility, and Wald's complete-class theorems say every admissible decision rule is a (limit of) a Bayes rule
+* Optimality  
+* Uniqueness
+
+<br><br>
+
+<div class="accordion">
+<h3>Full list</h3>
+<div>
+<ul>
+	<li>
+		<p>Coherence (the world is coherent, so our theory should be)  </p>
+		<ul>
+		<li>synchronic coherence (probabilism)  </li>
+		<li>diachronic coherence (conditionalisation)  </li>
+		<li>Sequential coherence (Show: updating on (x₁,x₂) jointly = updating on x₁ then x₂. This coherence under decomposition is special - most ad hoc belief-revision rules fail it.)</li>
+		</ul>
+	</li>
+	<li>
+		<p>Answer the right goddamn question: \(P(H \mid E)\), “How likely is the hypothesis given the data?”. Confirm hypotheses; degrees of actual confidence about the real question.  </p>
+		<ul>
+			<li>Bayesianism is a quantitative confirmation theory: \(E\) confirms \(H\) iff \(P(H \mid E) &gt; P(H)\), i.e. iff \(P(E \mid H) &gt; P(E \mid \neg H)\).  </li>
+		</ul>
+	</li>
+	<li>
+		<p>Generality. Be strictly larger than science: Answer any question. Cover all reasoning.  </p>
+		<ul>
+		<li>Handles unique events  <ul>
+		<li>What is the probability that Lincoln will be assassinated?  </li>
+		<li>What is the probability that Trump will be assassinated?  </li>
+		<li>Not scientific questions, clearly. Bayes works fine.  </li>
+		</ul>
+	</li>
+	<li>We’d like one theory that covers science, intuition, and logic. Classical logic handles certainty; Bayes claims to be its unique extension to uncertainty (Cox: real-valued plausibilities are consistent with <em>propositional</em> logic).  </li>
+	<li>frequentism is a theory of procedures, not beliefs; falsificationism is qualitative and flees from the commonsensical idea of conformation; formal learning theory is about eventual convergence.  </li>
+	<li>Big problem: logical uncertainty</li>
+	</ul>
+	</li>
+	<li>
+		<p>Uncertainty</p>
+	</li>
+	<li>
+	<p>Quantification  </p>
+	<ul>
+	<li>Degrees of confirmation  </li>
+	<li>Exactness: specific values   </li>
+	<li>Exactness: specific uncertainty</li>
+	</ul>
+	</li>
+	<li>
+	<p>Falsification. Take out the trash  </p>
+	<ul>
+	<li>Just \(LR \to 0\). The “asymmetry of science” to be explained by the asymmetry of <em>available</em> likelihood ratios.   </li>
+	<li>Better! disconfirmation is not binary</li>
+	</ul>
+	</li>
+	<li>
+	<p>Reproducibility: unlike others, Bayes puts all its judgments into the model.</p>
+	</li>
+	<li>
+	<p>Mechanisms for our intuitions   </p>
+	<ul>
+	<li>Use <em>all</em> information. Combine information from multiple sources and related phenomena. Use your hunches. It’s always rational to look at free evidence. &ldquo;Consider all the evidence&rdquo; and &ldquo;looking is rational&rdquo;  </li>
+	<li>The order of evidence shouldn’t matter.  </li>
+	<li>Experimenter intentions shouldn’t matter: Bayesian inference is independent of when you stop collecting evidence!  <ul>
+	<li>Likelihood Principle: Inference shouldn’t depend on intentions, past analyses, stopping. In Bayes (and LLism) inference depends on the data only through the likelihood function. Birnbaum (1962) derived it from sufficiency plus conditionality.   </li>
+	</ul>
+	</li>
+	<li>Lone anomalies can destroy theories. “surprising evidence confirms a hypothesis more”  </li>
+	<li>varied evidence confirms more. Different researchers, different fields, different instruments, different models, different statistical frameworks!  <ul>
+	<li>Replications of the same kind share instruments, auxiliaries, and systematic errors, so they&rsquo;re highly correlated under the rivals too, so \(LR \approx 1\), a negligible boost to the posterior. Diverse evidence is evidence nearly independent conditional on each rival, so each new kind discriminates against a different chunk of ¬H.  </li>
+	</ul>
+	</li>
+	<li>“you can&rsquo;t reason your way to a predetermined conclusion.&rdquo; Conservation of expected evidence. \(\mathbb{E}[\text{posterior}] = \text{prior}\): no experiment can be expected to confirm, and if E would confirm then ¬E must disconfirm. No experiment can confirm under every outcome; capacity for confirmation is purchased with exposure to refutation.   </li>
+	<li>Qu antitative Hume’s maxim: “Extraordinary claims need extraordinary evidence.” Testimony establishes a miracle only if the testimony&rsquo;s falsehood would be more improbable than the miracle - i.e. the likelihood ratio must exceed the prior odds against. <em>how</em> extraordinary the evidence must be.  </li>
+	<li>“There’s something wrong with putting 0 on a hypothesis”. Cromwell’s rule</li>
+	</ul>
+	</li>
+	<li>
+	<p>Help us design experiments. Lindley (1956): expected information gain makes it a theory of <em>inquiry</em> (which question to ask), not just belief revision.</p>
+	</li>
+	<li>
+	<p>Parsimony. Automatic (marginal likelihood: a model that can fit anything assigns little to any particular dataset - Jefferys &amp; Berger 1992, MacKay) and explicit (complexity-weighted priors; Solomonoff as the limit). No razor axiom (but simplicity enters from our priors, a backdoor).</p>
+	</li>
+	<li>
+	<p><strong><s>De Finetti exchangeability.</s></strong> <s>Explains what iid models and &ldquo;objective chance&rdquo; talk mean in credence terms, bridge rationality theory and statistical practice (plus Lewis&rsquo;s Principal Principle for chance–credence coordination).</s></p>
+	</li>
+	<li>
+	<p>Handle classic puzzles:  </p>
+	<ul>
+	<li>Quantitative answer to the ravens paradox (a non-black non-raven confirms &ldquo;all ravens are black&rdquo; - a negligible amount; Hosiasson-Lindenbaum 1940),   </li>
+	<li>Tames irrelevant conjunction  </li>
+	<li>Handles Duhem–Quine: blame for a failed prediction is apportioned across theory and auxiliaries by their priors and likelihood contributions (Dorling 1979). </li>
+	</ul>
+	</li>
+	</ul>
+	<p>Finally, some ultra-ambitious goals for a theory:</p>
+	<ul>
+	<li>Optimality (guaranteed convergence to truth, adversarial robustness, epistemic efficiency)</li>
+	<li>Intersubjectivity: priors should wash out  </li>
+	<li>Unification of thought and act (not just epistemology, also decision theory)  <ul>
+	<li>Beliefs are for acting: Savage integrates credence with utility, and Wald&rsquo;s complete-class theorems say every admissible decision rule is a (limit of) a Bayes rule.   </li>
+	</ul>
+	</li>
+	<li>Uniqueness. The insane claim that no one else can compete with Bayes.</li>
+</ul>
+</div>
+</div>
+
+
+<br><br>
+
+Is there anything that gets us all of these at once?
+
+<br><br>
+
+# 2. Bug
 
 > Imagine you’re a doctor. A patient comes in for a routine screening without symptoms.
 > * The prevalence of breast cancer in her cohort is 1%.
@@ -151,6 +328,8 @@ Something makes us fail here, and it's not lack of talent. Humans fail here beca
 
 # 2. Equation
 
+<br>
+
 <div class="accordion">
 	<h3>Proof</h3>
 	<div>
@@ -200,6 +379,8 @@ Something makes us fail here, and it's not lack of talent. Humans fail here beca
 		$$P(B) = P(B \mid A)\,P(A) + P(B \mid \neg A)\,P(\neg A)$$
 	</div>
 </div>
+
+<br>
 
 This is famous so every part of it has a name
 
@@ -346,64 +527,6 @@ If you don’t have a prior, you’re often just silently assuming a uniform pri
 	(4) occasionally state credences as numbers and score yourself 
 
 
-<br><br>
-
-Assuming that we want a theory of rationality, what do we want from it?
-
-<br>
-
-# 4. Philosophically   
-
-[Full list](#full-list-of-epistemic-desiderata)
-
-### **Interactive**: What do we want from a theory of science? Epistemology more generally? 
-
-* Coherence (the world is coherent, so our theory should be)
-
-* Answer the right goddamn question: $$P(H \mid E)$$, “How likely is the hypothesis given the data?”. Confirm hypotheses; degrees of actual confidence about the real question.
-
-* Generality. Be strictly larger than science: Answer any question. Cover all reasoning.  
-  * Handles unique events  
-    * What is the probability that Lincoln will be assassinated?  
-    * What is the probability that Trump will be assassinated?  
-  * Handles inadmissible evidence  
-  * We’d like one theory that covers science, intuition, and logic. Classical logic handles certainty; Bayes claims to be its unique extension to uncertainty (Cox: real-valued plausibilities are consistent with *propositional* logic).
-
-* Uncertainty
-
-* Quantification  
-  * *Degrees* of confirmation  
-  * Exactness: specific values   
-  * Exactness: specific uncertainty
-
-* Falsification. Take out the trash  
-  * Just $$LR \to 0$$. The “asymmetry of science” to be explained by the asymmetry of *available* likelihood ratios.   
-  * Better\! disconfirmation is not binary
-
-* Reproducibility: unlike others, Bayes puts all its judgments into the model.
-
-* Mechanisms for our intuitions   
-  * “Always use *all* information. It’s always rational to look (at free evidence).”   
-  * “The order of evidence shouldn’t matter.”  
-  * “Experimenter intentions shouldn’t matter”: Bayesian inference is independent of when you stop collecting evidence\!  
-  * “surprising evidence confirms a hypothesis more” Lone anomalies can destroy theories.   
-  * Varied evidence confirms more. Different researchers, different fields, different instruments, different models, different statistical frameworks\!  
-  * “you can't reason your way to a predetermined conclusion." Conservation of expected evidence. capacity for confirmation is purchased with exposure to refutation.   
-  * “Extraordinary claims need extraordinary evidence”. Hume’s maxim. *how* extraordinary the evidence must be.  
-  * “There’s something wrong with putting 0 on a hypothesis”. Cromwell’s rule
-
-* Help us design experiments. Lindley (1956): expected information gain makes it a theory of *inquiry* (which question to ask), not just belief revision.
-
-* Parsimony. Automatic (marginal likelihood: a model that can fit anything assigns little to any particular dataset \- Jefferys & Berger 1992, MacKay) and explicit (complexity-weighted priors; Solomonoff as the limit). No razor axiom (but simplicity enters from our priors, a backdoor).
-
-<br>
-
-Finally consider some ultra-ambitious goals for such a theory:
-
-* Convergence guarantees. Intersubjectivity: priors should "wash out"
-* Unification of thought and act (not just epistemology, also decision theory). Beliefs are for acting: Savage integrates credence with utility, and Wald's complete-class theorems say every admissible decision rule is a (limit of) a Bayes rule
-* Optimality  
-* Uniqueness
 
 
 <br><br>
@@ -914,7 +1037,7 @@ Seven independent arguments lead to the same arithmetic. Surprising convergence 
 </li>
 </ul>
 </div>
-<h3 id="full-list-of-epistemic-desiderata">Full list of epistemic desiderata</h3>
+<h3 id="full-list-of-epistemic-desiderata">Bayes principles</h3>
 <div>
 <p>Bayes tells you how beliefs must hang together; not what to believe. An agent with a coherent but idiotic prior is coherently idiotic. The theory is silent about where priors come from and whether priors are good. Generality and emptiness go together. Still, humans are bad enough that an empty skeleton can still help us.</p>
 <h3>The principles</h3>
@@ -925,108 +1048,6 @@ Seven independent arguments lead to the same arithmetic. Surprising convergence 
 <li>Use priors. Don’t pretend you’re a baby: summarise all your past evidence into one big lump. Lets you turn the crank on any question.</li>
 </ol>
 <p>What this gets you: a ~unique, quantitative, normative theory of rationality.</p>
-<h3><strong>Interactive</strong>: What do we want in science? In epistemology more generally?</h3>
-<ul>
-<li>
-<p>Coherence (the world is coherent, so our theory should be)  </p>
-<ul>
-<li>synchronic coherence (probabilism)  </li>
-<li>diachronic coherence (conditionalisation)  </li>
-<li>Sequential coherence (Show: updating on (x₁,x₂) jointly = updating on x₁ then x₂. This coherence under decomposition is special - most ad hoc belief-revision rules fail it.)</li>
-</ul>
-</li>
-<li>
-<p>Answer the right goddamn question: \(P(H \mid E)\), “How likely is the hypothesis given the data?”. Confirm hypotheses; degrees of actual confidence about the real question.  </p>
-<ul>
-<li>Bayesianism is a quantitative confirmation theory: \(E\) confirms \(H\) iff \(P(H \mid E) &gt; P(H)\), i.e. iff \(P(E \mid H) &gt; P(E \mid \neg H)\).  </li>
-</ul>
-</li>
-<li>
-<p>Generality. Be strictly larger than science: Answer any question. Cover all reasoning.  </p>
-<ul>
-<li>Handles unique events  <ul>
-<li>What is the probability that Lincoln will be assassinated?  </li>
-<li>What is the probability that Trump will be assassinated?  </li>
-<li>Not scientific questions, clearly. Bayes works fine.  </li>
-</ul>
-</li>
-<li>We’d like one theory that covers science, intuition, and logic. Classical logic handles certainty; Bayes claims to be its unique extension to uncertainty (Cox: real-valued plausibilities are consistent with <em>propositional</em> logic).  </li>
-<li>frequentism is a theory of procedures, not beliefs; falsificationism is qualitative and flees from the commonsensical idea of conformation; formal learning theory is about eventual convergence.  </li>
-<li>Big problem: logical uncertainty</li>
-</ul>
-</li>
-<li>
-<p>Uncertainty</p>
-</li>
-<li>
-<p>Quantification  </p>
-<ul>
-<li>Degrees of confirmation  </li>
-<li>Exactness: specific values   </li>
-<li>Exactness: specific uncertainty</li>
-</ul>
-</li>
-<li>
-<p>Falsification. Take out the trash  </p>
-<ul>
-<li>Just \(LR \to 0\). The “asymmetry of science” to be explained by the asymmetry of <em>available</em> likelihood ratios.   </li>
-<li>Better! disconfirmation is not binary</li>
-</ul>
-</li>
-<li>
-<p>Reproducibility: unlike others, Bayes puts all its judgments into the model.</p>
-</li>
-<li>
-<p>Mechanisms for our intuitions   </p>
-<ul>
-<li>Use <em>all</em> information. Combine information from multiple sources and related phenomena. Use your hunches. It’s always rational to look at free evidence. &ldquo;Consider all the evidence&rdquo; and &ldquo;looking is rational&rdquo;  </li>
-<li>The order of evidence shouldn’t matter.  </li>
-<li>Experimenter intentions shouldn’t matter: Bayesian inference is independent of when you stop collecting evidence!  <ul>
-<li>Likelihood Principle: Inference shouldn’t depend on intentions, past analyses, stopping. In Bayes (and LLism) inference depends on the data only through the likelihood function. Birnbaum (1962) derived it from sufficiency plus conditionality.   </li>
-</ul>
-</li>
-<li>Lone anomalies can destroy theories. “surprising evidence confirms a hypothesis more”  </li>
-<li>varied evidence confirms more. Different researchers, different fields, different instruments, different models, different statistical frameworks!  <ul>
-<li>Replications of the same kind share instruments, auxiliaries, and systematic errors, so they&rsquo;re highly correlated under the rivals too, so \(LR \approx 1\), a negligible boost to the posterior. Diverse evidence is evidence nearly independent conditional on each rival, so each new kind discriminates against a different chunk of ¬H.  </li>
-</ul>
-</li>
-<li>“you can&rsquo;t reason your way to a predetermined conclusion.&rdquo; Conservation of expected evidence. \(\mathbb{E}[\text{posterior}] = \text{prior}\): no experiment can be expected to confirm, and if E would confirm then ¬E must disconfirm. No experiment can confirm under every outcome; capacity for confirmation is purchased with exposure to refutation.   </li>
-<li>Qu antitative Hume’s maxim: “Extraordinary claims need extraordinary evidence.” Testimony establishes a miracle only if the testimony&rsquo;s falsehood would be more improbable than the miracle - i.e. the likelihood ratio must exceed the prior odds against. <em>how</em> extraordinary the evidence must be.  </li>
-<li>“There’s something wrong with putting 0 on a hypothesis”. Cromwell’s rule</li>
-</ul>
-</li>
-<li>
-<p>Help us design experiments. Lindley (1956): expected information gain makes it a theory of <em>inquiry</em> (which question to ask), not just belief revision.</p>
-</li>
-<li>
-<p>Parsimony. Automatic (marginal likelihood: a model that can fit anything assigns little to any particular dataset - Jefferys &amp; Berger 1992, MacKay) and explicit (complexity-weighted priors; Solomonoff as the limit). No razor axiom (but simplicity enters from our priors, a backdoor).</p>
-</li>
-<li>
-<p><strong><s>De Finetti exchangeability.</s></strong> <s>Explains what iid models and &ldquo;objective chance&rdquo; talk mean in credence terms, the bridge from rationality theory to statistical practice (plus Lewis&rsquo;s Principal Principle for chance–credence coordination).</s></p>
-</li>
-<li>
-<p>Handles classic puzzles:  </p>
-<ul>
-<li>Quantitative answer to the ravens paradox (a non-black non-raven confirms &ldquo;all ravens are black&rdquo; - a negligible amount; Hosiasson-Lindenbaum 1940),   </li>
-<li>Tames irrelevant conjunction  </li>
-<li>Handles Duhem–Quine: blame for a failed prediction is apportioned across theory and auxiliaries by their priors and likelihood contributions (Dorling 1979). </li>
-</ul>
-</li>
-</ul>
-<p>Finally some ultra-ambitious goals for a theory:</p>
-<ul>
-<li>Convergence guarantees  <ul>
-<li>Intersubjectivity: priors should wash out  </li>
-</ul>
-</li>
-<li>Unification of thought and act (not just epistemology, also decision theory)  <ul>
-<li>Beliefs are for acting: Savage integrates credence with utility, and Wald&rsquo;s complete-class theorems say every admissible decision rule is a (limit of) a Bayes rule.   </li>
-</ul>
-</li>
-<li>Optimality  </li>
-<li>Uniqueness</li>
-</ul>
-<p>These are much less assured - but the coincidence that many results point the same way is striking (surprising evidence!).</p>
 </div>
 <h3>Induction and the prior</h3>
 <div>
@@ -1074,6 +1095,13 @@ Seven independent arguments lead to the same arithmetic. Surprising convergence 
 </ul>
 </div>
 </div>
+
+## See also
+
+* <a href="/dark-math">Mathematical dark matter</a>
+* <a href="/barriers">Ways we can fail to answer</a>
+* <a href="/forecasters">Comparing experts and generalists</a>
+* <a href="/demarcation">'The Unpersuadables' (Storr)</a>
 
 [image1]: <data:image/png;base64,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xc/y8vLUoHc26cDp06f1+szMTH0g9Jo1IWpBfPyrg8w/+ujnTU1N+jbsixYt1A8SE3NWP8hb7R7J/3e9QD94j7d96/Xk7YeUt6eX2r725MmTTZs2/vOf/yX92brb+ttp62/hrXbeQLs3/l09dy5GL/jww5+a023pxibuN+1Je22/G7+sefNefTj1VstVJL80p93uQYO+0Qto+wAAABg47L3bYWj7rezcuUNvu3DhAuvU06dP9dQnn3ys65x3NumA9QJ7Umt1mb96NUUtqKmpefvtt9RgbGysXhwbe04/iHEt9PT01/dmU6qqqt599229QF89vsfb/u7du/TgF1/83bpJB3q77WvyZlqP8Jd3W43fv//6BApJRkZG6+1afukRERFHjx6RX4G+Od8b/64aD6vuX9ixbmziftOetNf2u/HLsp5I8uGHP7Xe1EC4XA3WGwrQ9gEAADBAZGdnZWbesVdvJxmgbV8a1/r161SOHz+ux0tKSt5550dq208//b2+ULy7dUXfsiXMy5t0TJ+ZP2rUq+v5v/feO9YLvAcGBqhx63HURg/8y1/+rKfs79vx48f07FuWyw30eNu3Xr3v7bffst60z+255du+fXsvXbr46FFWXV2dHu/Zti+/kaysrIsXL+zatVPvmJW+Y/xPf/oTNdLU1PSnP/1RP8vatWus660f4kgePnyoxt/4d1Ue9ve//0SvMV5aZWXljh3bY2LO3rlzp7y8vNubuN+0J+21/W78svTtIVVSU1OtmxiXGKTtAwAAYICIizsbExNtr95OMkDbvnVNUNBI69SkSRMtU6Pu379XWloaGbn//fffU4Pvvvu2/m7Wm5t0QN9hTn+HP2LEcOsCfYV5veC///vVWf3a1aspepfeeedHR45E6amCgoI///n1fdGGDRui79zW423f3frNkefSf82kMX722ad6Kjx8m96kZ9u+vvaBZNmypcZse7estzbVDz74SVraq+MjXK4G6/nt1u/AO/N3VQqzXvPJJx9bG/WMGdP0lPWvcTc26XhP2mv77q7/soqKiqy3ABw5coS8P2oqKyvr449/a30i2j4AAAAGCNp+26w36O44ERERapMO2r4+y729zJ8fbF3vtU06cP7869uhq2zfHm5dcP16urFg1aqV1gWKtZRK/vrXz6XrTp78rb6l31ue9lhW9rqZ90bbv3v3rnXq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>
 

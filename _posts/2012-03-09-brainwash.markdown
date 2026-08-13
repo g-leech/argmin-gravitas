@@ -217,5 +217,8 @@ Two problems with treating it as an end:
 * <a href="{{heath}}">The great Joseph Heath</a>
 * [Mako Shen](https://deaexmachinus.substack.com/p/machines-society-16-mass-sleeping) on dream arguments, false consciousness, and the nervous energy currently called woke.
 * https://www.newyorker.com/magazine/2024/04/22/dont-believe-what-theyre-telling-you-about-misinformation
+* <a href="/piety">Present pieties</a>
+* <a href="/pomo">The typical language of postmodernism</a>
+* <a href="/rats-and-trads">Rats and trads</a>
 
 <br><br>

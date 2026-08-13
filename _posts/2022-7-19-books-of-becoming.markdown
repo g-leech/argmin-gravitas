@@ -14,7 +14,7 @@ summary:
 quality:    5
 importance: 6
 wordcount:      
-categories: 
+categories: becoming, lists, books
 ---
 
 
@@ -136,3 +136,11 @@ This is my name for one of the most important emotions in the world: the love of
 * Cromartie High School
 * Philip Larkin
 * What Matters Most is How Well You Walk Through the Fire
+
+## See also
+
+* <a href="/strength">'Starting Strength' by Rippetoe</a>
+* <a href="/frank">Ramsey</a>
+* <a href="/enigma">Turing</a>
+* <a href="/strangers">'Strangers Drowning' (2015) by MacFarquhar</a>
+* <a href="/homicide">'Homicide' (1991) by Simon</a>

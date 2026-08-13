@@ -16,7 +16,7 @@ quality:    5
 emotion:    5
 importance: 4
 wordcount:  1300
-categories: self-help, lists, quantification, becoming
+categories: self-help, lists, stats, becoming
 ---
 
 <img src="/img/still-life.jpg" /><br>
@@ -329,6 +329,9 @@ Why write this? One of the big bottlenecks to improving your life is just knowin
 * <a href="{{ara}}">Arataki 1</a>, <a href="{{ara2}}">and 2</a>
 * <a href="https://moultano.wordpress.com/2024/09/22/small-products-that-improved-my-life/">Moultano</a>
 <!-- https://tynan.com/gear2024/ -->
+* <a href="/overheads">Existential overheads</a>
+* <a href="/pills">The trouble with supplements</a>
+* <a href="/experi">Log of self-experiments</a>
 
 <br><br>
 

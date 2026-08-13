@@ -15,7 +15,7 @@ summary:    Elegy for a porn baron
 confidence: 80%. 
 importance: 6
 wordcount:  
-categories:	obit
+categories:	death
 where:      "Nassau"
 ---
 
@@ -67,3 +67,9 @@ Harvey's path - from development worker, to entrepreneur, to philanthropist, to 
 		* He also wrote <a href="http://philharveylit.org/wip.php">romance novels</a> about aid workers.<br><br>
 	</div>
 </div>
+
+## See also
+
+* <a href="/strangers">'Strangers Drowning' (2015) by MacFarquhar</a>
+* <a href="/maximum/">What's the highest moral wage?</a>
+* <a href="/aid/">Should we abolish foreign aid?</a>

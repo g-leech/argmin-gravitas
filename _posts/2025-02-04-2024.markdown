@@ -14,8 +14,8 @@ quality:
 summary:    true stories, by which I mean boring stories
 confidence: 
 importance: 2
-wordcount:  
-categories: 
+wordcount:
+categories: autobio, places, arb
 where:      "Bristol and Paris"
 ---
 
@@ -204,5 +204,11 @@ Obviously the airport connection portal is completely broken, slow, god knows wh
 
 
 Dec: My company is having bank issues. I take a friend out to lunch, analyst at Wise, who is kindly able to tell me what happened (my bank dropped out of a partnership programme and incurred a more stringent level of KYC/AML they had no API to handle) when no one else on earth could.
+
+## See also
+
+* <a href="/diary">phdiary</a>
+* <a href="/memento">Memento</a>
+* <a href="/nownost">prospective nostalgia</a>
 
 <br><br>

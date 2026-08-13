@@ -17,7 +17,7 @@ importance: 7
 emotion:    9
 wordcount:  
 warnings:   vague, sentimental, never endorsed. 
-categories: effective-altruism, becoming
+categories: the-maths-of-goodness, becoming
 ---
 
 
@@ -136,6 +136,9 @@ Our culture&nbsp;focusses on&nbsp;practicality. Good. But it expends that accumu
 ## See also
 
 * <blockquote>what Henry Sidgwick called “rational hedonism” and “rational benevolence”—the tension being between insisting that all human beings seek individual pleasure for themselves while also claiming that they should put aside private gratification where necessary to secure the greatest happiness for the greatest number.</blockquote>
+* <a href="/anti-ethics">'Why Moral Theory is Boring and Corrupt'</a>
+* <a href="/strangers">'Strangers Drowning' (2015) by MacFarquhar</a>
+* <a href="/instrument">Existentially instrumentalising myself</a>
 
 
 

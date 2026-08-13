@@ -116,9 +116,12 @@ Similarly, you don't benefit from doing game theory on an unpredictable opponent
 
 <br><br>
 
-## See also 
+## See also
 
 * _<a href="{{rpw}}">The Use and Abuse of Formal Models in Political Philosophy</a>_, Robert Paul Wolff.
+* <a href="/games-of-life">Robots, Games, Life, Markets</a>
+* <a href="/grapes">Can you trust your methods?</a>
+* <a href="/forecasters">Comparing experts and generalists</a>
 
 
 

@@ -15,7 +15,7 @@ summary:
 confidence: 80%
 importance: 8
 wordcount:  
-categories: 
+categories: ai, machine-learning, lists
 where:      "Trajan"
 ---
 
@@ -109,3 +109,9 @@ This list is biased towards discrete changes. While the story of AI does have st
 
 
 PS: That title should be "LLM breakthroughs", sorry; [see](https://nitter.net/g_leech_/status/1864349307345731614#m) [here](https://docs.google.com/spreadsheets/d/1A5r83AfPwF1_sljzbz12OuZBysjip5F6WiTnMI3IxBA/edit?usp=sharing) for other AI.
+
+## See also
+
+* <a href="/ai2025">AI in 2025: gestalt</a>
+* <a href="/mitchell">Mitchell's open problems</a>
+* <a href="/hplr">Ten Hard Problems in and around AI</a>

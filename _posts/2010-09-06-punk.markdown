@@ -236,6 +236,9 @@ It is a style, it became an ideology, and it remains a community. All in all, a 
 
 * https://thesublemon.tumblr.com/post/172019295202/punk-is-the-non-institutional
 * https://suspendedreason.com/2018/04/03/punk-ethos-the-blog-an-interview-with-a-d-jameson-pt-1/
+* <a href="/nofx">'The Decline' (1999) by NOFX</a>
+* <a href="/codes">Cracking cultures</a>
+* <a href="/sincerity">Irony, sincerity, nostalgia, neoteny</a>
 
 {%	include punk/foots.md	%}
 

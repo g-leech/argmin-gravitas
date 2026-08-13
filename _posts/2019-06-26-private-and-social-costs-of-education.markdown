@@ -251,6 +251,9 @@ You could maybe do this by funding (voluntary) international service; basically 
 * The counterintuitively humane <a href="{{cap}}">Bryan Caplan</a>
 * <a href="{{dan}}">Alex Danco</a> on alternative academic communication and gatekeeping.
 * <a href="{{linda}}">Linda on PhDs</a>
+* <a href="/phdone">Piled higher and deeper</a>
+* <a href="/phd-numbers">Grad school by numbers</a>
+* <a href="/stopping">What's stopping you?</a>
 
 <br>
 

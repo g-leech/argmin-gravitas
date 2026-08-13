@@ -14,7 +14,7 @@ quality:
 summary:	Linguistic analysis of my own writing. 
 confidence: 98% in the descriptive bits, 90% in the inferences.
 warnings: 	navel-gazing
-categories: NLP
+categories: machine-learning
 importance: 4.
 wordcount: 		
 ---
@@ -59,6 +59,11 @@ CountVectorizer (bag of words model) and TfidfVectorizer (tf-idf weighting for t
 
 
 
+
+## See also
+
+* <a href="/accommodation">Modelling linguistic accommodation</a>
+* <a href="/gist">Highlights from my Gists</a>
 
 {%  include idiolect/foots.html %}
 

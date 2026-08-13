@@ -13,7 +13,7 @@ quality:
 
 summary:    Which projects break things most often?
 confidence:	
-categories: 
+categories: code, computers
 warnings:	
 importance: 6.
 wordcount:		

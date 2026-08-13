@@ -13,7 +13,7 @@ quality:    4
 
 summary:    A pointless feud as metaphor for your view of everything that is and could be.
 confidence:	Just an analogy (society is a tad different from maths). But 70% in a significant correlation.
-categories: maths, reason, politics
+categories: maths, rationality, politics
 warnings:	totalitarianism, slavery, famine, scrupulosity
 importance: 3
 pride:      5
@@ -110,7 +110,13 @@ In a world with <i>no actually pressing problems</i> (like malaria, adversarial 
 
 <br><br><br>
 
+## See also
 
+* <a href="/zhang">Is Yitang Zhang an intellectual?</a>
+* <a href="/pol/">My politics</a>
+* <a href="/dark-math">Mathematical dark matter</a>
+
+<br><br>
 
 
 <div class="footnotes">

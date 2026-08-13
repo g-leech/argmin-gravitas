@@ -248,6 +248,7 @@ where:      "Tallinn"
 * <a href="/bristol">Bristol</a>
 * Taipei
 * <a href="/deen">Aberdeen</a>
+* <a href="/tallinn">Tallinn</a>
 * Prague
 * [Glasgow on Film](https://glasgowonfilmdotcom.wordpress.com/)
 * https://alfierobinson.substack.com/p/robinson-and-the-problem-of-glasgow

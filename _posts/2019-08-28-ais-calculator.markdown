@@ -12,6 +12,7 @@ visible: 	false
 
 summary:    Extremely rough calculator for ranking kinds of Safety work.
 confidence:	60%
+categories: ai, alignment, scary-futurism, machine-learning
 quality:    
 warnings:	The list I'm working off didn't exist a week ago, and will change soon. The field isn't simple enough to take numbers literally. GIGO.
 importance: 9
@@ -116,6 +117,12 @@ Do corrigible AI systems have a broad basin of attraction to intent alignment? C
 15. Creeping failure?
 
 Would gradual gains in the influence of AI allow small problems to accumulate to catastrophe? The gradual aspect affords opportunity to recognise failures and think about solutions. Yet for any given incremental change in the use of AI, the economic incentives could outweigh the problems, such that we become more entangled in, and reliant on, a complex system that can collapse suddenly or drift from our values.
+
+## See also
+
+* <a href="/ai-risk">Why worry about future AI?</a>
+* <a href="/hplr">Ten Hard Problems in and around AI</a>
+* <a href="/grids">Preventing Side-effects in Gridworlds</a>
 
 
 

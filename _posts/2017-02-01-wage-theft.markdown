@@ -16,6 +16,7 @@ technical:	true
 pride:		4
 
 summary: How do some employers steal wages? How prevalent is this in the UK?
+categories: economics, ethics, work
 
 ---
 

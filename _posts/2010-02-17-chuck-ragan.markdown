@@ -89,3 +89,8 @@ I'm as solid as I can be my friend. The day I don't feel that is the day it's do
 <div align="left">
 <br />
 <strong>Thanks for your headspace and good luck with all three and everything,</strong></div>
+
+## See also
+
+* <a href="/punk">Punk as ideology</a>
+* <a href="/nofx">'The Decline' (1999) by NOFX</a>

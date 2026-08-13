@@ -15,7 +15,7 @@ summary:    <i>The End of the World</i> (1930) by Geoffrey Dennis
 confidence: 
 importance: 6
 wordcount:  
-categories: xrisk, book
+categories: scary-futurism, books
 ---
 
 I've rescued an amazing old book: "<a href="/dennis">The End of the World</a>" (1930) by Geoffrey Dennis. It's interwar pop-science in the form of a sermon (the best sermon you've ever heard). 
@@ -39,5 +39,11 @@ It's hard to know how serious he's being. Most of the book is history and poetry
 <br>
 
 Thanks to Paul and Rian for OCR and to [Mark Pilgrim](https://meyerweb.com/eric/thoughts/2011/10/04/searching-for-mark-pilgrim/) for CSS.
+
+## See also
+
+* <a href="/flu">'The Great Influenza' (2004) by Barry</a>
+* <a href="/uranverein">'Hitler's Uranium Club' (2008) by Bernstein</a>
+* <a href="/x-for-all">A common cause in a general end</a>
 
 <br><br>

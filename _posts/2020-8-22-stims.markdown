@@ -258,6 +258,9 @@ Release your fear; fame will bring you some safety.
 
 * <a href="{{gwern}}">Gwern</a>, who gave me the idea
 * <a href="{{redd}}">Lovely collection of links and questions</a>.
+* <a href="/pills">The trouble with supplements</a>
+* <a href="/experi">Log of self-experiments</a>
+* <a href="/overheads">Existential overheads</a>
 
 <br><br>
 

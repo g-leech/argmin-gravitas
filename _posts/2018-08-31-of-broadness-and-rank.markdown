@@ -13,7 +13,7 @@ quality: 	3
 
 summary:    Investigating one possible predictor of long-term intellectual status.
 confidence:	60%. The data are a convenience sample from a skewed subpopulation.
-categories: 
+categories: philosophy, stats, rationality, greats
 importance: 4
 wordcount:	1100
 where: 		"Berkeley"
@@ -189,3 +189,10 @@ Can you be explanatory if you aren't predictive? The converse happens all the ti
 
 
 <img src="/img/poll-poll.png" style="border:5px solid black" /><br><br>
+
+## See also
+
+* <a href="/frank">Ramsey</a>
+* <a href="/jvn">von Neumann</a>
+* <a href="/youth">acts of early genius</a>
+* <a href="/zhang">Is Yitang Zhang an intellectual?</a>

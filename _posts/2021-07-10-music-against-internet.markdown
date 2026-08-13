@@ -402,3 +402,6 @@ None succeed in capturing the internet's aesthetics and logics as well as Dril. 
 ## See also
 
 * [Tyler on music as vehicle for ideas - formerly](https://marginalrevolution.com/marginalrevolution/2022/01/a-simple-theory-of-culture.html).
+* <a href="/spotify">streaming vs listening</a>
+* <a href="/spotify-trawl">Spotify is not a social network</a>
+* <a href="/svengali">Pop auteurs</a>

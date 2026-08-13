@@ -15,7 +15,7 @@ summary:
 confidence: 
 importance: 6
 wordcount:  
-categories: 
+categories: language, ai
 ---
 
 

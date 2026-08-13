@@ -15,7 +15,7 @@ quality:    6
 summary:    Estimate of how much money a maximizing consequentialist is allowed.
 confidence:	90% in the numbers, 50% in the ethics.
 warnings:   scrupulosity
-categories: effective-altruism, economics, ethics
+categories: the-maths-of-goodness, economics, ethics
 importance: 8
 pride:		5
 wordcount: 	2169
@@ -32,6 +32,12 @@ started:    2013
 <div id="stylised" class="tabContent defaultOpen">
 	{%	include maxwage/max-stylised.html	%}
 </div>
+
+## See also
+
+* <a href="/strangers">'Strangers Drowning' (2015) by MacFarquhar</a>
+* <a href="/consent">Consent as conclusive evidence</a>
+* <a href="/instrument">Limits to self-instrumentalisation</a>
 
 <br><br>
 

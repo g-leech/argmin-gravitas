@@ -18,7 +18,7 @@ confidence:	70%. I am not a computer scientist.
 quality:    8
 importance: 6
 pride:		7
-categories:	philosophy of science, language, machine learning
+categories:	philosophy-of-science, language, machine-learning
 ---
 
 <!-- https://github.com/acmi-lab/cmu-10721-philosophy-machine-intelligence -->
@@ -179,6 +179,13 @@ Computational Learning Theory and radical scepticism
 
 
 <!--  -->
+
+## See also
+
+* <a href="/turing-test">Neither Turing, neither Searle</a>
+* <a href="/barriers">Ways we can fail to answer</a>
+* <a href="/dark-math">Mathematical dark matter</a>
+
 <div class="footnotes">
 <ol>
     <!-- 1 -->

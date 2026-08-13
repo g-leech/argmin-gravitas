@@ -38,4 +38,10 @@ wordcount:      400
 
 
 
+## See also
+
+* <a href="/games-of-life">Robots, Games, Life, Markets</a>
+* <a href="/dark-math">Mathematical dark matter</a>
+* <a href="/ladder">The ladder of abstraction</a>
+
 {%  include conversion/foots.html    %}

@@ -17,7 +17,7 @@ importance: 5
 emotion: 	8
 warnings: 	
 wordcount:  400
-categories: becoming, work, philosophy, academia, effective-altruism
+categories: becoming, work, philosophy, uni, the-maths-of-goodness
 argument:	
 where: 		"Aberdeen"
 ---
@@ -96,6 +96,11 @@ Long story short; let's go make ourselves useful:
 <li>or Economic methodology (statistical/empirical tests of the most sophisticated models of fiscal impact)</li>
 <li>or Econophysics, University of Houston</li></ul>
 
+## See also
+
+* <a href="/bootstraps">Limits to self-invention</a>
+* <a href="/ea-origin">Virtue, work, and the world to come</a>
+* <a href="/ambitions">Ambitions</a>
 
 <br><br>
 

@@ -14,7 +14,7 @@ quality:
 summary:	
 confidence: 
 warnings: 	
-categories: 
+categories: history, computers, greats
 importance: 3
 wordcount: 		
 ---
@@ -27,6 +27,11 @@ This post conducts a static analysis on Analytical Engine pseudocode, to see if 
 
 
 (Implement in rotor assembly? Same accumulator, same operation sequence.)
+
+## See also
+
+* <a href="/first-computers">Disambiguating the first computer</a>
+* <a href="/enigma">Turing</a>
 
 
 

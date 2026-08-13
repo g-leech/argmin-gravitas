@@ -14,7 +14,7 @@ quality:    5
 summary:    
 confidence: 
 warnings:   
-categories: 
+categories: philosophy, lists, epistemology
 wordcount: 
 importance: 5.
 started:    2009

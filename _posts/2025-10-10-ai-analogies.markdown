@@ -16,7 +16,7 @@ warnings:
 confidence: 
 importance: 
 wordcount:  
-categories: 
+categories: ai, alignment, scary-futurism, longtermism
 where:      "Nettlecombe"
 ---
 
@@ -100,3 +100,6 @@ https://docs.google.com/document/d/17u2c6eLdNomtNURErN19NTOlmScTj2MKJrvERDZ9Ebs/
 * [Matthijs' metaphors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4612468)
 * Scott Viteri
 * https://arxiv.org/abs/2509.20050
+* <a href="/ai-risk">Why worry about future AI?</a>
+* <a href="/narratives">Psychology and fictions of language models</a>
+* <a href="/maniac">'The Maniac' (2023) by Labatut</a>

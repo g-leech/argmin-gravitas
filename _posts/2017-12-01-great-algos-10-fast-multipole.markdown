@@ -13,7 +13,7 @@ best:		1
 
 summary:    
 confidence:	
-categories: 
+categories: greats, maths, computers
 warnings:	
 importance: 7.
 wordcount:		

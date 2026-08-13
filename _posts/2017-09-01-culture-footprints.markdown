@@ -13,7 +13,7 @@ quality:
 
 summary:    Per-capita estimations of the cultural impact of various places.
 confidence: 
-categories: 
+categories: places, stats, social-science
 importance: 5.
 ---
 

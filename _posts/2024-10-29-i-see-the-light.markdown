@@ -87,6 +87,11 @@ I still can't dance.
 
 _Thanks to [James](https://kid-reflux.blogspot.com/), whose receptiveness and antipretentiousness fixed something rotten in my character, eventually._
 
+## See also
+
+* <a href="/codes">Cracking cultures</a>
+* <a href="/country">Cracking country</a>
+* <a href="/swift">Taylor Swift as blurry jpeg</a>
 
 <br><br>
 

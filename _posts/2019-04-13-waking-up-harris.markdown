@@ -13,6 +13,7 @@ quality: 	6
 
 summary:    Some pros and cons, practical and philosophical, of reclaiming meditation.
 confidence: 70%
+categories: philosophy, review, self-help, mental-health
 importance: 5
 wordcount:  1500
 argument:	
@@ -212,5 +213,10 @@ _See also my thoughts on <a href="/introspect">ways introspection fails</a>.<br>
 	</div>
 </div>
 
+## See also
+
+* <a href="/why-yoga">Yoga hypothesis dump</a>
+* <a href="/strength">'Starting Strength' by Rippetoe</a>
+* <a href="/pills">The trouble with supplements</a>
 
 <br><br>

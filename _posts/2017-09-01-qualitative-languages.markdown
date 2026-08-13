@@ -13,7 +13,7 @@ quality:
 
 summary:    
 confidence: 80% that 
-categories: 
+categories: computers, code, lists
 importance: 4
 ---
 

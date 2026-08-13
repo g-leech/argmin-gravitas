@@ -11,6 +11,7 @@ visible:    1
 published:  true
 
 summary:    Some of the best English novels of the century.
+categories: literature, review, books, psychology
 warnings: 	child abuse, wrongful blame
 importance: 4
 quality: 	3
@@ -85,3 +86,9 @@ I don't know what in these is totally fictional and I don't need to know. The ar
 		Because they haven't noticed that many things are getting better? Because it doesn't suit their political programme to say so?
 	</div>
 </div>
+
+## See also
+
+* <a href="/strangers">'Strangers Drowning' (2015) by MacFarquhar</a>
+* <a href="/palmer">'Terra Ignota': the ecstasy of uncertainty</a>
+* <a href="/odyssey">'The Odyssey' (2017) by Emily Wilson</a>

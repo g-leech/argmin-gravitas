@@ -17,7 +17,7 @@ importance: 4
 emotion: 	8
 warnings: 	
 wordcount:  5300
-categories: travel, becoming, places
+categories: places, becoming
 argument:	
 where: 		"Elgin"
 ---
@@ -458,5 +458,11 @@ The train undoes a month's work in a quarter of a day.As is my new habit, take t
 
 <div style="text-align: center;">What should they know of Scotland who only Scotland know?</div>
 
+
+## See also
+
+* <a href="/deen">Aberdeen</a>
+* <a href="/tallinn">Tallinn</a>
+* <a href="/florence">Florence</a>
 
 <br><br>

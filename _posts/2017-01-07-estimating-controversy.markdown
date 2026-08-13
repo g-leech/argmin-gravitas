@@ -17,7 +17,7 @@ confidence: 70% that the equations are true (because vague). 50% that it's worth
 warnings: 	terrorism, inexorable ideologies. 
 importance: 7
 pride:		3
-categories: cause-prioritisation, quantification
+categories: the-maths-of-goodness, stats
 wordcount: 900
 ---
 
@@ -31,5 +31,11 @@ wordcount: 900
 <div id="technical" class="tabContent defaultOpen">
 	{%	include controversy/controversy-technical.html	%}
 </div>
+
+## See also
+
+* <a href="/esa-deaths">How lethal are the Tories? Part 1</a>
+* <a href="/worst">The Worst Game Ever</a>
+* <a href="/accommodation">Modelling linguistic accommodation</a>
 
 

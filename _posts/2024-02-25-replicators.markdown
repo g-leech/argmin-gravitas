@@ -14,9 +14,9 @@ emotion:
 importance: 
 
 summary:    things that copy themselves and why
-confidence: 
-categories: 
-warnings:   
+confidence:
+categories: biology, ai, science, scary-futurism
+warnings:
 wordcount:      
 ---
 
@@ -131,4 +131,7 @@ https://metr.org/blog/2023-08-01-new-report/
 
 * Nathan (2000), https://www.tripzine.com/listing.php?id=corporate_metabolism
 * Beniger (1986), http://bactra.org/reviews/beniger/
+* <a href="/fermi">Drake, Hanson, and the meaning of life</a>
+* <a href="/erect">Origins of human intelligence</a>
+* <a href="/maniac">'The Maniac' (2023) by Labatut</a>
 

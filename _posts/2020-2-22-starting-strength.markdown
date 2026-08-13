@@ -170,5 +170,10 @@ I've been doing a derivative of this program since October last year: no trainer
 	</div>
 </div>
 
+## See also
+
+* <a href="/meditation">'Waking Up' (2014) by Harris</a>
+* <a href="/why-yoga">Yoga hypothesis dump</a>
+* <a href="/pills">The trouble with supplements</a>
 
 <br><br><br>

@@ -11,7 +11,7 @@ visible:    1
 
 summary:    A neglected paradigm in AI and its struggles.
 quality:    4
-categories: AI
+categories: ai
 confidence: 70%. Not my area. I played with a couple systems and read a dozen papers.
 importance: 4
 wordcount:  6000
@@ -210,6 +210,9 @@ One of the dirty secrets of computer science is that formal proofs about computa
 ## See also
 
 * <a href="{{paper}}">Our paper looking at ILP from an AI safety perspective.</a>
+* <a href="/grids">Preventing Side-effects in Gridworlds</a>
+* <a href="/mitchell">Mitchell's open problems</a>
+* <a href="/hplr">Ten Hard Problems in and around AI</a>
 
 <br><br>
 

@@ -14,7 +14,7 @@ quality: 	5
 summary:    Dissolving a thought-experiment about consequentialism.
 confidence:	80%. Surely not original.
 warnings:	euthanasia, murder, antinatalism, rights violation
-categories: 
+categories: philosophy, ethics, epistemology
 importance: 8
 wordcount:	1000
 argument: 	consent/argument.html
@@ -141,6 +141,11 @@ This is not a post-hoc fix; <a href="{{benth}}">Bentham himself said it</a>:
 
 _Thanks to Saulius Šimčikas, Jan Kulveit and Hugh Panton for conversations on this._
 
+
+## See also
+
+* <a href="/anti-ethics">'Why Moral Theory is Boring and Corrupt'</a>
+* <a href="/introspect">Bad introspections</a>
 
 
 <div class="footnotes">

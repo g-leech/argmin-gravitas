@@ -11,7 +11,7 @@ visible:    0
 quality:    7
 arb:        1
 summary:    New paper on engineering activations in large language models
-categories: arb, alignment, AI
+categories: arb, alignment, ai
 importance: 7
 where:      "Tallinn"
 cross:      https://arxiv.org/abs/2308.10248
@@ -35,3 +35,9 @@ We get control over high-level properties of the output without damaging the mod
 This is the first(?) alignment method which doesn’t need training data or gradient descent, just user iteration.
 
 We designed the experiments and wrote most of the resulting top conference submission including the figures and formalisations.
+
+## See also
+
+* <a href="/hplr">Ten Hard Problems in and around AI</a>
+* <a href="/jailbreak">The jailbreak argument against LLM values</a>
+* <a href="/grids">Preventing Side-effects in Gridworlds</a>
