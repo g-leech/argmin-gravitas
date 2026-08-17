@@ -85,7 +85,7 @@ _Cost per year_: £50 if you have space / £250 if renting a space with two othe
 <br><br>
 
 * _Nonemergency medicine in the UK_. There are 1-year waiting lists on the NHS for many, many minor ailments and suboptimalities. So I'm very impressed with the online pharmacy [Treated](https://uk.treated.com/) (semaglutide, zyban, finasteride) and expect to be impressed with their spinoff <a href="{{fo}}">Focused</a> (ADHD). It's an actual pharmacy, i.e. it gives out legal prescriptions. You can get things cheaper on sites like Voy though. (In contrast, private insurance covers ~everything and isn't that much more expensive than buying these prescriptions. But it's still in-person and only a bit faster than the NHS, and might involve a song and dance for elective things, where Treated is instant and computerised.)<br>
-_Cost per year_: £500-£2000 per year depending on what you get.
+_Cost per year_: depends on what you get. Semaglutide is like £50 a month if you skimp the doses. (Sorry to the Americans reading.)
 
 * _Natracare Safe to Flush wipes_ (10p each), if you don't have a bidet. (Note that most wipes marketed as "flushable" are not, they have plastics that cause giant blockages. These are twice as expensive as those but are actually permissible.)<br>
 _Cost per year_: £75.
