@@ -11,8 +11,8 @@ visible:    false
 
 ### Spring Prospect (by 杜甫)
 
-The state is destroyed, the mountains remain;<br>
-The city's in spring, is deep in the weeds.<br>
+The state is destroyed; the mountains remain;<br>
+The city in spring is deep in the weeds.<br>
 In these times even the flowers wear tears;<br> <!-- _these_ -->
 Bereft, even birds can startle the heart.<br>
 The beacons have burned three months at a stretch;<br>

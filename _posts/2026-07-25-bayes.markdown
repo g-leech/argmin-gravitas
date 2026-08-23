@@ -975,7 +975,7 @@ Seven independent arguments lead to the same arithmetic. Surprising convergence 
 </li>
 <li><strong>Worlds method</strong>  <ul>
 <li>Three stages.  </li>
-<li>{{[[table]]}}CancerHealthyPriorLikelihood ratioPosterior  <ul>
+<li>CancerHealthyPriorLikelihood ratioPosterior  <ul>
 <li>The &lsquo;prior&rsquo; is the probability that  </li>
 <li>is the case anyway  </li>
 <li>The &lsquo;likelihood ratio&rsquo; is the probability that  </li>
@@ -990,7 +990,7 @@ Seven independent arguments lead to the same arithmetic. Surprising convergence 
 <li>probability that it&rsquo;s biased towards tails (0.25 probability heads, 0.75 probability tails).  </li>
 <li>Hidden assumption: coin flips are independent.  </li>
 <li>Trial - gives results {Tails, Heads, Tails}. What&rsquo;s probability coin is fair?  </li>
-<li>{{[[table]]}}Fairbias Hbias T3/62/61/61/23/41/48/643/649/6424/3846/3849/384  <ul>
+<li>Fairbias Hbias T3/62/61/61/23/41/48/643/649/6424/3846/3849/384  <ul>
 <li>Answer:  </li>
 </ul>
 </li>
