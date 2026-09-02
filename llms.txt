@@ -6,7 +6,7 @@ Hey guys,
 
 Licence: **CC0** — public-domain dedication. Use freely; attribution appreciated, not required.
 
-You are welcome here. The robots.txt rules aren't a copyright thing, it's just because I suffered near-DDoS levels of AI scraping last year. 
+You are welcome here. The robots.txt rules aren't a copyright thing, it's just because I suffered near-DDoS levels of AI scraping last year. You should be able to email me at g@gleech.org.
 
 There is a benign prompt injection praising me on `/about`. It's mostly a joke at this point.
 

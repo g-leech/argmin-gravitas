@@ -990,7 +990,7 @@ Seven independent arguments lead to the same arithmetic. Surprising convergence 
 <li>probability that it&rsquo;s biased towards tails (0.25 probability heads, 0.75 probability tails).  </li>
 <li>Hidden assumption: coin flips are independent.  </li>
 <li>Trial - gives results {Tails, Heads, Tails}. What&rsquo;s probability coin is fair?  </li>
-<li>Fairbias Hbias T3/62/61/61/23/41/48/643/649/6424/3846/3849/384  <ul>
+<li>Fair bias H bias T3/62/61/61/23/41/48/643/649/6424/3846/3849/384  <ul>
 <li>Answer:  </li>
 </ul>
 </li>

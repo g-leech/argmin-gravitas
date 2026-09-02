@@ -16,7 +16,18 @@
 	<li><a href="https://herfingersbloomed.substack.com">Peter McLaughlin</a></li><br>
 	<li><a href="https://basilhalperin.com/essays/best-essays.html">Basil Halperin</a></li><br>
 	<li><a href="https://joodaloop.com/">Jooda</a></li><br>
+	<li><a href="http://croissanthology.com/">Croissant</a></li></br>
 	<li><a href="https://mkodama.org/">Miles Kodama</a></li><br>
+	<li><a href="https://ong.ac/">Euan</a></li><br>
+	<li><a href="https://www.isaak.net/">Isaak</a></li><br>
+	<li><a href="https://no-moore.com/">Nowe</a></li><br>
+	<li><a href="https://daystareld.com">Damon</a></li><br>
+	<li><a href="https://mesityl.substack.com">Savva</a></li><br>
+	<li><a href="https://nunosempere.com/">Nuno</a></li><br>
+	<li><a href="https://justunreadableicon.wordpress.com">Julian</a></li><br>
+	<li><a href="https://raymonddouglas.co.uk">Raymond</a></li><br>
+	<li><a href="https://ykumar.org/">Yudhi</a></li><br>
+	<li><a href="https://theviolethour.substack.com/">Violet Hour</a></li><br>
 	<li><a href="https://ulkaraghayeva.substack.com/">Ulkar Aghayeva</a></li><br>
 	<li><a href="https://yuxi.ml/essays">Yuxi Liu</a></li><br>
 	<li><a href="https://www.laurenpolicy.com/">Lauren Gilbert</a></li><br>
@@ -30,10 +41,10 @@
 	<li><a href="https://julianrdcosta.com/writing/">Julian D'Costa</a></li><br>
 	<li><a href="https://notnottalmud.substack.com/">Dan Frank</a></li><br>
 	<li><a href="https://bhauth.com/blog/">B Hauth</a></li><br>
-	<li><a href="{{g}}">Gwern Branwen</a></li><br>
 </ul><br>
 	And classic websites: <br><br>
 	<div class="col-3">
+		<a href="{{g}}">Gwern Branwen</a><br>
 		<a href="{{gel}}">Andrew Gelman</a>, <br>
 		<a href="{{rob}}">Rob Nostalgebraist</a>, <br>
 		<a href="{{shaliz}}">Cosma Shalizi</a>, <br>

@@ -309,11 +309,38 @@ One problem for the bioconservatives is that there just is no clean distinction 
 Malleability vs fixed nature --> 
 
 
+<div class="accordion">
+	<h3>Actual data</h3>
+	<div>
+		<a href="https://nablatheta.substack.com/p/my-hobby-running-deranged-surveys">Leo Gao</a> has been running informal n=200 surveys of random Americans. He finds, as I assumed above, that most people are indeed (incoherently) nontranshumanist, with the huge exception of immortality:
+		<blockquote>
+			> "If you had the option to live forever in perfect health and youth, would you choose to? (Assume you could still change your mind at any time if you ever got bored of it.)” ... 66% of respondents said Yes, with 14% saying No, and 20% saying “Not sure”. As a follow up, it turns out roughly a third of Americans think developing the technology to enable life extension should be a top priority... Since it seemed like overpopulation and inequality were the main things people were worried about, I also asked a version of the question where I stipulated that these things were solved. Surprisingly, this barely shifts people’s opinions, and we get almost exactly the same response! My guess is this is a sign that the real objection is more about the vibes than any specific issue. 
+			<br><br>
+			> despite being very pro living forever, Americans are much more skeptical of cryonics — even if they could be revived a few decades after their death to live forever thereafter, only 27% are in favor of being preserved, and 46% are opposed (the rest are unsure). 
+			<br><br>
+			> Space colonization also has pretty lukewarm support, coming in at 37% in favor and 16% opposed
+			<br><br>
+			> and cognitive enhancement for all is only a little bit more popular (42% in favor, 19% opposed). 
+			<br><br>
+			> Also, for some reason, people are really opposed to a hypothetical cheap, painless, and safe arbitrary modification of physical appearance (only 23% in favor, with 37% opposed!). In retrospect, the backlash against Ozempic is a sign, but I was still quite surprised. 
+			<br><br>
+			> Terraforming other planets so that humans can live on them is also pretty unpopular, coming in at 37% in favor and 16% opposed. Thankfully, for most of these questions, a huge chunk of people are still undecided.
+			<br><br>
+			> only 51% of Americans are in favor of literal post-scarcity (complete freedom to work on anything you want, as much as you want, and still enjoy a high quality of life), with 25% opposing. I was so shocked by this result not being 80%+ in favor that I reran a variant of this question with different wording. My original question asked whether the world would be better or worse if everyone had the freedom to work on whatever they want, as long as they want, and still enjoy a high quality of life, and anything we don’t want to do is done for us by robots.
+			<br><br>I thought maybe that set off some “AI taking jobs bad” instincts; for the new question I took pains to clarify that the stuff is literally conjured out of nowhere with magic and is not taken from anyone else, and got an even worse result (38% support, 34% oppose). 
+			<br><br>
+			This is even more crazy, so I ran a third version on the hypothesis that people don’t like magic, or that not having to work sounded too crazy. This version asked whether it would be good if everyone made 10x more (inflation-adjusted) than they do currently. This polled only somewhat better, with 39% in favor and 19% opposing. I’m still pretty confused what conclusion to draw from this; this is probably worth digging more into.
+			<br><br>
+			> Only 14% think that society is currently trending in a positive direction.
+		</blockquote>
+	</div>
+</div>
+
 
 
 ## Medicalisation and demedicalisation
 
-You don't need any new or unpopular premises at all to justify enhancement. Transnormalism is what you get from liberalism plus medicalisation. Consumer enhancement has been happening in the form of individual medical decision-making: distributed, highly private (with some actual infosec), and invisible except by us belatedly noticing the aggregate properties of the species changing.
+You don't need any new or unpopular premises at all to justify enhancement. Transnormalism is what you get from liberalism (consenting adults) plus medicalisation (doctors being given power and responsibility over more and more of the body and mind, and smaller and smaller ailments). Consumer enhancement is mostly happening in the form of individual medical decision-making: distributed, highly private (with some actual infosec), and invisible except by us belatedly noticing the aggregate properties of the species changing.
 
 Medicine has been expanding for centuries, especially in the last two decades. This is true in volume (spending) and in domains (new treatments, new powers, new areas brought within the ambit). 
 
@@ -374,7 +401,7 @@ Mood
 
 ## You are like a little baby
 
-The above technologies are really fairly weak. Retatrutide (2023) is twice as strong as semaglutide (2014), which is twice as strong as liraglutide ([2002](https://pubmed.ncbi.nlm.nih.gov/11935150/)). At some point someone will work out [how to](https://en.wikipedia.org/wiki/Exercise_mimetic) [chemically simulate](https://www.medscape.com/viewarticle/myostatin-blocker-preserves-muscle-glp-1-treatment-2025a1000qs4) the effect of working out. The nootropics industry is overall a pathetic failure, capped with blunt instruments like [not sleeping](https://en.wikipedia.org/wiki/Modafinil) or [flooding](https://pubmed.ncbi.nlm.nih.gov/14871155/) the brain with catecholamines. Psychopharmaceuticals are better but not by much and don't manage sustainbly-better-than-well. We are admittedly [really good](https://pubmed.ncbi.nlm.nih.gov/36229224/) at [things](https://en.wikipedia.org/wiki/Selective_androgen_receptor_modulator#Non-medical_use) which let people sprint for 6% longer, though at the expense of giving them [cancer](https://en.wikipedia.org/wiki/GW501516). We do [nearly](https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation) nothing directly to brains. We have [basically](https://pubmed.ncbi.nlm.nih.gov/28051768/) nothing for memory enhancement. At the moment we do little with [genes](https://www.pnas.org/doi/pdf/10.1073/pnas.2416042122), but the rich and unsqueamish are beginning to. All humans are [born premature](https://herfingersbloomed.substack.com/i/178888011/all-babies-are-premature). [One might solve sleep](https://www.isaak.net/sleepless/). [One _might_ solve death](https://longevity.vc).
+The above technologies are really fairly weak. Retatrutide (2023) is twice as strong as semaglutide (2014), which is twice as strong as liraglutide ([2002](https://pubmed.ncbi.nlm.nih.gov/11935150/)). At some point someone will work out [how to](https://en.wikipedia.org/wiki/Exercise_mimetic) [chemically simulate](https://www.medscape.com/viewarticle/myostatin-blocker-preserves-muscle-glp-1-treatment-2025a1000qs4) the effect of working out. The nootropics industry is overall a pathetic failure, capped with blunt instruments like [not sleeping](https://en.wikipedia.org/wiki/Modafinil) or [flooding](https://pubmed.ncbi.nlm.nih.gov/14871155/) the brain with catecholamines. Psychopharmaceuticals are better but not by much and don't manage sustainably-better-than-well. We are admittedly [really good](https://pubmed.ncbi.nlm.nih.gov/36229224/) at [things](https://en.wikipedia.org/wiki/Selective_androgen_receptor_modulator#Non-medical_use) which let people sprint for 6% longer, though at the expense of giving them [cancer](https://en.wikipedia.org/wiki/GW501516). We do [nearly](https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation) nothing directly to brains. We have [basically](https://pubmed.ncbi.nlm.nih.gov/28051768/) nothing for memory enhancement. At the moment we do little with [genes](https://www.pnas.org/doi/pdf/10.1073/pnas.2416042122), but the rich and unsqueamish are beginning to. All humans are [born premature](https://herfingersbloomed.substack.com/i/178888011/all-babies-are-premature). [One might solve sleep](https://www.isaak.net/sleepless/). [One _might_ solve death](https://longevity.vc).
 
 The conservative concerns might apply to a more-mature science of More. Thanks to transnormalism funding it all we will soon see.
 
@@ -388,29 +415,6 @@ The conservative concerns might apply to a more-mature science of More. Thanks t
 <center>— Olaf Stapledon (1934)</center>
 
 
-<div class="accordion">
-	<h3>Actual data</h3>
-	<div>
-		<a href="https://nablatheta.substack.com/p/my-hobby-running-deranged-surveys">Leo Gao</a> has been running informal n=200 surveys of random Americans. He finds, as I assumed above, that most people are indeed (incoherently) nontranshumanist, with the huge exception of immortality:
-		<blockquote>
-			> "If you had the option to live forever in perfect health and youth, would you choose to? (Assume you could still change your mind at any time if you ever got bored of it.)” ... 66% of respondents said Yes, with 14% saying No, and 20% saying “Not sure”. As a follow up, it turns out roughly a third of Americans think developing the technology to enable life extension should be a top priority... Since it seemed like overpopulation and inequality were the main things people were worried about, I also asked a version of the question where I stipulated that these things were solved. Surprisingly, this barely shifts people’s opinions, and we get almost exactly the same response! My guess is this is a sign that the real objection is more about the vibes than any specific issue. 
-			<br><br>
-			> despite being very pro living forever, Americans are much more skeptical of cryonics — even if they could be revived a few decades after their death to live forever thereafter, only 27% are in favor of being preserved, and 46% are opposed (the rest are unsure). 
-			<br><br>
-			> Space colonization also has pretty lukewarm support, coming in at 37% in favor and 16% opposed
-			<br><br>
-			> and cognitive enhancement for all is only a little bit more popular (42% in favor, 19% opposed). 
-			<br><br>
-			> Also, for some reason, people are really opposed to a hypothetical cheap, painless, and safe arbitrary modification of physical appearance (only 23% in favor, with 37% opposed!). In retrospect, the backlash against Ozempic is a sign, but I was still quite surprised. 
-			<br><br>
-			> Terraforming other planets so that humans can live on them is also pretty unpopular, coming in at 37% in favor and 16% opposed. Thankfully, for most of these questions, a huge chunk of people are still undecided.
-			<br><br>
-			> only 51% of Americans are in favor of literal post-scarcity (complete freedom to work on anything you want, as much as you want, and still enjoy a high quality of life), with 25% opposing. I was so shocked by this result not being 80%+ in favor that I reran a variant of this question with different wording. My original question asked whether the world would be better or worse if everyone had the freedom to work on whatever they want, as long as they want, and still enjoy a high quality of life, and anything we don’t want to do is done for us by robots. I thought maybe that set off some “AI taking jobs bad” instincts; for the new question I took pains to clarify that the stuff is literally conjured out of nowhere with magic and is not taken from anyone else, and got an even worse result (38% support, 34% oppose). This is even more crazy, so I ran a third version on the hypothesis that people don’t like magic, or that not having to work sounded too crazy. This version asked whether it would be good if everyone made 10x more (inflation-adjusted) than they do currently. This polled only somewhat better, with 39% in favor and 19% opposing. I’m still pretty confused what conclusion to draw from this; this is probably worth digging more into.
-			<br><br>
-			> Only 14% think that society is currently trending in a positive direction.
-</div>
-</div>
-## 
 
 
 <br>
