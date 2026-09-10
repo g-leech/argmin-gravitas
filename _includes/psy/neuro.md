@@ -11,7 +11,7 @@
 	<li><span class="b">Critiques</span>: <a href="{{hawks}}">Hawks 2007</a>; <a href="{{neurosk}}">Neuroskeptic 2015</a>; <a href="{{branwen}}">Gwern 2019</a> <br>
 	(total citations: )</li><br><br>
 
-	Alex Maier writes in with <a href="{{hydro}}">a cool 2007 case study</a> of a man who got to 44 years old before anyone realised his severe hydrocephaly, through marriage and employment. IQ 75 (i.e. d=-1.7), which is higher than I expected, but still far short of the original claim, d=0.
+	Alex Maier writes in with <a href="{{hydro}}">a cool 2007 case study</a> of a married, employed 44-year-old with severe hydrocephaly who had received shunt treatment in infancy and a revision at age 14. IQ 75 (i.e. d=-1.7), which is higher than I expected, but still far short of the original claim, d=0.
 	</ul>
 	</div>
 </div><br>
