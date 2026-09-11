@@ -78,7 +78,7 @@ In short, we value increasing amounts of any particular thing less and less per 
     <img width="40%" src="/img/insurance/log.png" />
 </div>
 
-with a steep drop as you approach zero. As a result, it can be rational to purchase insurance, _for things you can't afford to replace_. <a href="#fn:7" id="fnref:7">7</a>
+with a steep drop as you approach zero. As a result, it can be rational to purchase insurance for losses that are large relative to your total wealth. <a href="#fn:7" id="fnref:7">7</a>
 
 Some people think this is foolish, because people "shouldn't" have log utility in money: more is objectively better.<a href="#fn:3" id="fnref:3">3</a>  But this is illegitimate, because economic rationality is defined _relative_ to a given utility function (and, more practically, because one mostly doesn't get to choose what one values). <a href="#fn:8" id="fnref:8">8</a>
 
@@ -92,7 +92,7 @@ This is a classic modelling mistake: to maximise <i>x</i> rather than <i>U(x)</i
 <!--  -->
         When reaching 'zero' (bankruptcy or death) is much worse than similar-sized losses above zero, you don't use expected value, but instead the conservative <a href="{{kelly}}">Kelly criterion</a>. Given a few assumptions, this tells you how much you should pay for bets / insurance policies, <i>given your current wealth</i>:<br><br>
 <!--  -->
-        Say your house is worth <i>V</i> = £100,000 and that you have other assets worth <i>W</i> = £120,000. Say also that you know the annual probability of a house of your vintage in your area burning down, <i>p</i> = <a href="{{fire}}">1/10000</a> or something. Then you buy insurance if the cost of it, <i>C</i>, beats
+        Say your house is worth <i>V</i> = £100,000 and that your total wealth, including the house, is <i>W</i> = £120,000. Say also that you know the annual probability of a house of your vintage in your area burning down, <i>p</i> = <a href="{{fire}}">1/10000</a> or something. Then you buy insurance if the cost of it, <i>C</i>, beats
 <!-- -->
         $$
             \log(W - C) > p \times \log(W - V) + (1 - p) \times \log(W)
@@ -148,7 +148,7 @@ Functions are an analogy for the (fairly solid) psychological regularities invol
 
 ## 2. Argument from regressive burden
 
-So, insurance only makes sense for things you can't afford to replace (unless you have asymmetric info, unusual preferences, subsidy, regulation...). But this means that the poorer you are, the more insurance you can rationally use! Insurance can be seen as the rich selling the poor a bit of resilience.
+So, insurance makes the most sense for losses that are large relative to your wealth (unless you have asymmetric info, unusual preferences, subsidy, regulation...). But this means that the poorer you are, the more insurance you can rationally use! Insurance can be seen as the rich selling the poor a bit of resilience.
 
 If everyone had a chunk of savings ($10k?), rationally speaking there would be no petty insurance - for things like household contents, warranties, flights, luggage. And this would reduce deadweight (wasted economic activity). 
 
