@@ -180,6 +180,8 @@ some themes I've spotted so far:
 
 The world's problems mirror Harry's personal problems. Revachol used to be great and full of dreams, but was broken. The island has no government. A violent past, first brutalising others and then waging war on itself. The past threatens to consume all of Elysium. Dolores the Innocence / Dora Ingerlund has forsaken us. All of these recur in our rudderless lieutenant.
 
+And with the Pale, the world is forgetting itself. It has Harry's disease.
+
 <br><br>
 
 ### The political is personal
@@ -522,6 +524,16 @@ Embodied cognition: What you're wearing in-game has an absurdly dramatic effect 
 
 
 <br><br>
+
+### Structural triumphs
+
+The dialogue - and the reduction of interiority to dialogue - is first-class. But is the storytelling, the structure also as good?
+
+Well, besides the microcosmy above, there are multiple subversions of the whodunnit: the killer is not introduced until the end; the detective is the main mystery (who did this to him?); and the killer and the detective are symmetrical (Dros is Harry if he never pulls up). 
+
+You are stuck in a tiny corner of a large ultra-detailed world. Wanting to leave Martinaise to go see it, but you can't.
+
+
 
 ### the unreliable narrator of your own life
 

@@ -8,7 +8,7 @@ author:     Gavin
 img:        /img/
 
 visible:    1
-published:  true
+published:  false
 quality:    6
 
 summary:    

@@ -22,83 +22,7 @@ where:      "Somerset"
 ---
 
 
-
-<div class="accordion">
-<h3>Lesson plan</h3>
-<div>
-<p><strong>Setup</strong></p>
-<ul>
-	<li>Start with philosophy of science to motivate the basic prob theory.</li>
-	<li>Interactive: what do we want from a theory of science?  </li>
-	<li>coherence; answers the actual question \(P(H \mid E)\); generality; quantified uncertainty and graded confirmation; falsification = \(LR \to 0\); reproducibility; mechanisms for the intuitions (total evidence, order &amp; stopping-rule invariance, surprise, variety, conservation of expected evidence, Hume&rsquo;s maxim, Cromwell&rsquo;s rule); experiment design; parsimony for free.  </li>
-</ul>
-<p><strong>Bug</strong></p>
-<ul>
-	<li>Cancer calculation. Interactive  </li>
-	<li>Correct answer 8%; doctors&rsquo; modal answer 95%; only ~20% right; unchanged for 50 yrs. Downstream costs.  </li>
-	<li><em>smart people are not automatically rational.</em></li>
-</ul>
-<p><strong>Equation</strong></p>
-<ul>
-<li>Venn: conditioning = assuming true = zooming in. Ivy  </li>
-<li>Bayes&rsquo; theorem; three-line proof from the product rule; law of total probability (discrete case).  </li>
-<li>Posterior ∝ likelihood × prior: how well you predicted the data × what you believed before.   </li>
-<li>the quantitative theory of aggregating evidence; H lives in the map, E is the territory&rsquo;s only channel  </li>
-<li>educated guess; shift when surprised; model everything; keep all info; never be certain; no ratchets.  </li>
-<li><em>there is a way to be rational. Guess, let the world in, and compare likelihood.</em></li>
-</ul>
-<p><strong>Debugging</strong></p>
-<ul>
-<li>Biases as broken Bayes:   </li>
-<li>base-rate neglect = deleting the prior (cf. p-value misreading); interactive: conjunction (Linda);   </li>
-<li>interactive: conservatism (bookbags)   </li>
-<li>confirmation bias as distorted likelihood, repaired by the likelihood ratio;   </li>
-<li>interactive: overconfidence   </li>
-<li>
-<p>Four heuristics: base rate first; likelihood ratio, not likelihood; move a little; keep score.</p>
-</li>
-<li>
-<p><em>you can do better even without calculating.</em></p>
-</li>
-</ul>
-<p><strong>As optimal</strong></p>
-<ul>
-<li>convergence; washout; unification with decision theory; optimality; uniqueness.  </li>
-<li>
-<p>Dutch book, accuracy dominance, complete class, bounded regret, epistemic utility, Cox.</p>
-</li>
-<li>The principles: credences; probabilism; conditionalisation; use priors.   </li>
-<li>
-<p><em>otherwise sure loss, inaccuracy, inadmissibility, regret.</em></p>
-</li>
-</ul>
-<p><strong>As incomplete</strong></p>
-<ul>
-<li>1. Silent on inputs: priors are personal and unconstrained and unexplained. hidden vs visible subjectivity; washout honest but weaker than advertised.  </li>
-<li>2. Intractable, violated in practice: NP-hard, incomputable; incoherent approximations; improper priors and marginalisation paradoxes.  </li>
-<li>3. Justification gap: finite vs countable additivity; nonconglomerability; elicitation indeterminacy; the precision regress; coherent rivals  </li>
-<li>4. Closed hypothesis space: grain of truth; confidently wrong under misspecification; no native model criticism; blind to new hypotheses.  </li>
-<li>
-<p>5. Lonely: a single-agent theory of a social enterprise.</p>
-</li>
-<li>
-<p><em>every theory has fatal problems; this theory is not finished.</em></p>
-</li>
-</ul>
-<p><strong>Nonetheless (3 min)</strong></p>
-<ul>
-<li>Supermammogram: re-vote, calculate, 48%.  </li>
-<li>Exhortation: same intelligence; one equation installed. don&rsquo;t let it go.</li>
-</ul>
-<p>Notation note:</p>
-<ul>
-<li>“A” and “B” denote abstract sets with areas in [0,1] part of a space with area 1.  </li>
-<li>“H” and “E” denote the epistemic interpretation of probabilities</li>
-</ul>
-</div>
-</div>
-
-<br><br>
+<br>
 
 Assuming that we want a theory of rationality...
 
@@ -114,18 +38,18 @@ Assuming that we want a theory of rationality...
 
 <br>
 
-* Coherence (the world is coherent, so our theory should be)
+* Coherence (the world is coherent, so our theory should be)<br>
 
-* Answer the right goddamn question: $$P(H \mid E)$$, “How likely is the hypothesis given the data?”. Confirm hypotheses; degrees of actual confidence about the real question.
+* Answer the right goddamn question: $$P(H \mid E)$$, “How likely is the hypothesis given the data?”. Confirm hypotheses; degrees of actual confidence about the real question.<br>
 
 * Generality. Be strictly larger than science: Answer any question. Cover all reasoning.  
   * Handles unique events  
     * What is the probability that Lincoln will be assassinated?  
     * What is the probability that Trump will be assassinated?  
   * Handles inadmissible evidence  
-  * We’d like one theory that covers science, good intuition, and maths and logic.
+  * We’d like one theory that covers science, good intuition, and maths and logic.<br>
 
-* Uncertainty
+* Uncertainty. Always have other hypotheses; always consider how strong the evidence is.<br>
 
 * Quantification  
   * *Degrees* of confirmation  
@@ -185,9 +109,11 @@ Finally consider some ultra-ambitious goals for such a theory:
 		<p>Generality. Be strictly larger than science: Answer any question. Cover all reasoning.  </p>
 		<ul>
 		<li>Handles unique events  <ul>
-		<li>What is the probability that Lincoln will be assassinated?  </li>
-		<li>What is the probability that Trump will be assassinated?  </li>
-		<li>Not scientific questions, clearly. Bayes works fine.  </li>
+			<li>What is the probability that Lincoln was assassinated?</li>
+			<li>In 1865, what was the probability that Lincoln will be assassinated?  </li>
+			<li>What is the probability that Trump will be assassinated?  </li>
+			<li>What is the probability that the defendant is guilty?</li>
+			<li>Not scientific questions, clearly. Bayes works fine.  </li>
 		</ul>
 	</li>
 	<li>We’d like one theory that covers science, intuition, and logic. Classical logic handles certainty; Bayes claims to be its unique extension to uncertainty (Cox: real-valued plausibilities are consistent with <em>propositional</em> logic).  </li>

@@ -27,7 +27,7 @@ birdsong turns me cold.<br> <!-- overbold -->
 Signals flare for months<br>
 word from home is gold!<br>
 My white hair, scratched thin;<br>
-a pin that won't hold.<br>
+soon the pin won't hold.<br>
 <br>
 Throne wrecked; earth stands. <br>
 Town overgrown.<br>
@@ -38,8 +38,8 @@ letters are gold!<br>
 White hair worn thin.<br>
 Won't hold a pin.<br>
 <br>
-No state, land.<br>
-Town wilding.<br>
+No state; land.<br>
+Green ruins.<br>
 Flowers, tears;<br>
 Birds startle.<br>
 Alarms blare;<br>
@@ -48,7 +48,7 @@ Worried hair.<br>
 Holds no pin.<br>
 <br>
 State; hills<br>
-Green ruins.<br>
+Town wild.<br>
 Blooms sting<br>
 Birds fright.<br>
 War: months<br>

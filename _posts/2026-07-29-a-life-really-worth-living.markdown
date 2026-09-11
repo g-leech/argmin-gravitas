@@ -103,7 +103,7 @@ From the perspective of reducing fear, they have many nice properties:
 * Static
 * Low-dimension. Often close to 1 dimensional (promotion through the ranks)
 * Piecewise
-* Unambigous 
+* Unambiguous 
 
 People get scared or fail to search for themselves so they climb ladders.
 
