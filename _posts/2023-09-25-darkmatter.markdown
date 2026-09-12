@@ -55,7 +55,7 @@ This is most obvious in the success of mathematical physics, which has succeeded
 
 prediction of grav waves, size \(10^{-20} \,\mathrm{m}\); nailed it<br><br>
 
-<a href="{{el}}">atomic mass of the electron</a>: \(3 \times 10^{-11} \,\mathrm{kg}\quad \pm 94\, \mathrm{ppt}\) <a href="#fn:2" id="fnref:2">2</a><br><br>
+<a href="{{el}}">atomic mass of the electron</a>: \(9.1093837139(28) \times 10^{-31} \,\mathrm{kg}\) <a href="#fn:2" id="fnref:2">2</a><br><br>
 
 anomalous magnetic moment of the electron g: to 11 sf <br><br>
 
