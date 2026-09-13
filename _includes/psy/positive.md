@@ -55,7 +55,7 @@ After the initial backlash, it focussed on subjective effect, a claim about "<a 
 </div><br>
 
 
-* <a href="{{halstead}}">Reason to be cautious</a> about <span class="b">mindfulness</span> for mental health. Most studies are low quality and use inconsistent designs, there's higher heterogeneity than other mental health treatments, and there's <a href="{{coron}}">strong reason</a> to suspect reporting bias. None of the 36 meta-analyses before 2016 mentioned publication bias. The hammer may fall.<br>
+* <a href="{{halstead}}">Reason to be cautious</a> about <span class="b">mindfulness</span> for mental health. Most studies are low quality and use inconsistent designs, there's higher heterogeneity than other mental health treatments, and there's <a href="{{coron}}">strong reason</a> to suspect reporting bias. Most of the 36 meta-analyses before 2016 failed to mention publication bias. The hammer may fall.<br>
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>

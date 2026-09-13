@@ -27,11 +27,11 @@
 	<h3>Stats</h3>
 	<div>
 		<ul>
-		<li><span class="b">Original paper</span>: '<a href="{{mischel}}">Attention in Delay of Gratification</a>', Mischel 1970, n=68, all children of Stanford academics or their friends.<br>
+		<li><span class="b">Original paper</span>: '<a href="{{mischel}}">Attention in Delay of Gratification</a>', Mischel 1970, n=32, all children of Stanford academics or their friends.<br>
 	(&#126; 1000 citations).</li><br>
 		<li><span class="b">Critiques</span>: <a href="{{marsh}}">Watts et al 2018</a> (n=918), <a href="{{mischel2}}">Benjamin & Mischel 2020 (n=113 of the original participants!)</a> 
 		<br>(total citations: &#126; 120)</li><br>
-		<li><span class="b">Original effect size</span>: r= [0.42, 0.57] for SAT </li><br>
+		<li><span class="b">Original effect size</span>: r= [0.42, 0.57] for SAT (Shoda, Mischel & Peake 1990)</li><br>
 		<li><span class="b">Replication effect size</span>: Watts: r=0.28. But after controlling for the socioeconomic status of the child's family, the Marshmallow effect is r=0.05 or d=0.1, one-tenth of a standard deviation for an additional minute delay, 'nonsignificant' p-values. And since it's usually easier to get SES data...</li><br><br>
 		B&M (2020) note that preschool self-control is not predictive for success at 46.    
 		<!--  -->

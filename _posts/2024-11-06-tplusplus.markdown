@@ -75,7 +75,7 @@ Let the “Transformer++” be a Transformer with
 | __Attention__ | prefill KV cache | Yes | ? | ? | No? | ? |
 | __Attention__ | low-rank KV cache compression | No | No | No | Yes | No |
 | __Attention__ | Biases in QKV projection | No? | ? | QKV biases | ? | No |
-| __Attention__ | QK Normalization | No? | No? | ? | No? | No |
+| __Attention__ | QK Normalization | No? | No? | ? | No? | Yes |
 |  |  | | | | | |
 | __Block sequence__ | [Parallel layers](https://github.com/kingoflolz/mesh-transformer-jax) | No | No? | No? | No? | No? |
 |  |  | | | | | |
@@ -134,6 +134,8 @@ Let the “Transformer++” be a Transformer with
 * <a href="/hplr">Ten Hard Problems in and around AI</a>
 * <a href="/paper">Paper AI Tigers</a>
 * <a href="/mitchell">Mitchell's open problems</a>
+* https://kellerjordan.github.io/posts/muon/
+* https://epochai.substack.com/p/how-has-deepseek-improved-the-transformer
 
 <br><br>
 
@@ -165,7 +167,3 @@ Let the “Transformer++” be a Transformer with
 
 
 
-Maybe
-
-https://kellerjordan.github.io/posts/muon/
-https://epochai.substack.com/p/how-has-deepseek-improved-the-transformer

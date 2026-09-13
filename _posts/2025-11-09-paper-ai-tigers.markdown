@@ -567,7 +567,7 @@ If just impressing people with your average score is your goal, you can to some 
 
 <big>'Hacking</big>
 
-Another way to be misleading is to [volkswagen](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal) it: put special and unrepresentative effort in during testing, "[hacking](https://arxiv.org/abs/2407.12220)". e.g. Kimi's benchmarks come from "Heavy mode" (8 parallel instances with an aggregation instance on top). You can't do this via the API or out of the box with the weights. (Could you say the same for OpenAI?)
+Another way to be misleading is to [volkswagen](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal) it: put special and unrepresentative effort in during testing, "[hacking](https://arxiv.org/abs/2407.12220)". e.g. some of Kimi's benchmarks come from "Heavy mode" (8 parallel instances with an aggregation instance on top). You can't do this via the API or out of the box with the weights. (Could you say the same for OpenAI?)
 
 Or you can run the test on a model which is better than the one you serve. Moonshot credibly claim to have reported their benchmarks at the same low-precision quantization (INT4) that they serve users, but others don't claim this.
 

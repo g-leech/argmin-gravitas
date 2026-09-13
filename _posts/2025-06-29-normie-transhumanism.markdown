@@ -234,7 +234,7 @@ New:<br>
     <td class="tg-0lax">Cochlear implants (1984)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Inactivated vaccines (1796)</td>
+    <td class="tg-0lax">Live vaccines (1796)</td>
     <td class="tg-0lax">mRNA (2020)</td>
   </tr>
 </tbody></table>

@@ -71,7 +71,7 @@ But after about 3 months we got used to the hard benchmark values being 70% or 8
 
 * _🚨 Apr_: o3 is the first LLM ever that is actually worth using for me
 
-* _May_: The first video generator which creates synched audio (Veo 3). Makes the psychological effect 100x stronger.
+* _May_: The first good video generator which creates synched audio (Veo 3). Makes the psychological effect 100x stronger.
 
 * ¯\\_(ツ)\_/¯ In _June 2024_, 4o got 5% on ARC-AGI. By Apr 2025 o4-mini got 41%. Also for the first time you can convert $3m _per-run_ into 80% on it. (Human is “98%”)
 

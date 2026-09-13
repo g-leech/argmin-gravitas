@@ -89,7 +89,7 @@ I [complain](https://www.gleech.org/psych) [about](https://pmc.ncbi.nlm.nih.gov/
 		<ul>
 			<li>29% of frontpage Google results had affiliate links compared to the random-page baseline of 2%. (The other two search engines were even worse.)</li>
 			<li>That's not totally damning - Dwarkesh has affiliate links - but it is a warning sign: pages with more affiliate links were worse on a mechanical measure of quality. </li>
-			<li>23%% of frontpage Google results were outright spam/review farms compared to the random-page baseline of 13%. (The other two search engines were even worse.) This is based on manual annotation, god bless them.</li>
+			<li>23%% of frontpage Google results were outright spam/review farms compared to the random-page baseline of 13%. (The other two search engines were even worse.) This is based on manual annotation, god bless them. (NB: This is strictly speaking Startpage, a Google proxy, rather than Google, and ChatNoir, slightly better than a random sample.)</li>
 			<li>The buried conclusion is that the very worst spam on Google actually <b>decreased</b> over the study period. The 95th percentile of affiliate links per page fell from 50(!) to 35(!).</li>
 			<li>But improvements are short-lived. They found that spam is cyclical (what they call "breathing patterns", like the rise and fall of your chest when you breathe): spam gets into results, the engines update their algorithms to squash them, spam returns in new forms.</li>
 			<li>"Text quality" was decreasing in all search engines.</li>

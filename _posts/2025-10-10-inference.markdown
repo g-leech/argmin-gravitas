@@ -36,7 +36,7 @@ Before stats, it was mostly just another word for logical deduction. In logic it
 
 <!-- The Bayesian ML people use it right -->
 
-Bishop's [classic](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) 2006 ML-and-stats textbook uses "inference" strictly to mean training, and uses "decision" for concrete predictions. [Murphy (2012)](https://raw.githubusercontent.com/kerasking/book-1/master/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf) is much the same with "prediction". The 1995 Helmholtz machine [paper](https://pubmed.ncbi.nlm.nih.gov/7584891/) is an interesting example of using "inference" for a generative model but it's still properly probabilistic.
+Bishop's [classic](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) 2006 ML-and-stats textbook uses "inference" strictly to mean ~training (and/or posterior or marginal computation), and uses "decision" for concrete predictions. [Murphy (2012)](https://raw.githubusercontent.com/kerasking/book-1/master/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf) is much the same with "prediction". The 1995 Helmholtz machine [paper](https://pubmed.ncbi.nlm.nih.gov/7584891/) is an interesting example of using "inference" for a generative model but it's still properly probabilistic.
 
 (The ML framework people, constrained perhaps by taste or backwards-compatibility, still call the relevant function `.predict()` or `.eval()` or `.forward()` rather than `.infer()`.)
 
