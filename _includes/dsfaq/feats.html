@@ -60,7 +60,7 @@ Or, <i>column curation</i>. The terminology for FE hasn't settled down yet - tha
 					<li><i>efficiency</i>: providing faster (and so cost-effective) predictors</li>
 				</ol>
 
-				You can't have everything though: feature selection which maximises accuracy isn’t necessarily good for interpretability. Model-based feature selection (like linear regression and random forest) are easily intepreted; univariate feature selection often give the most accurate results, since they factor in interactions between features.
+				You can't have everything though: feature selection which maximises accuracy isn’t necessarily good for interpretability. Model-based feature selection (like linear regression and random forest) are easily intepreted; univariate feature selection scores each feature separately and can miss useful combinations, so interactions may require constructed features or a method that evaluates features together.
 
 			</div>
 
@@ -110,7 +110,7 @@ Or, <i>column curation</i>. The terminology for FE hasn't settled down yet - tha
 			e.g. recursive feature elimination.
 			</li><br><br>
 
-			<li>Embedding. Find the best features as you construct the final model. e.g. Random forests do feature selection as part of their construction. The most common kind of embedding is regularisation: constrained optimization, to bias the constructed model toward lower complexity (that is, fewer coefficients).
+			<li>Embedding. Find the best features as you construct the final model. e.g. Random forests do feature selection as part of their construction. The most common kind of embedding is regularisation: constrained optimization, to bias the constructed model toward lower complexity. Some penalties, such as LASSO's L1 penalty, can set coefficients to zero and select features, while Ridge shrinks coefficients but generally keeps them nonzero.
 
 			<br><br>e.g. LASSO, Elastic Net, Ridge Regression.
 			</li>
@@ -131,4 +131,3 @@ Or, <i>column curation</i>. The terminology for FE hasn't settled down yet - tha
 
 <br><br>
 <a href="#fn:10" id="fnref:10">10</a>
-
