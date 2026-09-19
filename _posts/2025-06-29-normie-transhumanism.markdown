@@ -187,7 +187,7 @@ New:<br>
   
   <tr>
     <td class="tg-0pky">Glasses (1300)</td>
-    <td class="tg-0pky">Intraocular lens (1999)</td>
+    <td class="tg-0pky">Intraocular lens (1949)</td>
   </tr>
   <tr>
     <td class="tg-0pky">Makeup (ancient)</td>
