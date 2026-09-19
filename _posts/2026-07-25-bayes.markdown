@@ -344,16 +344,16 @@ Evidence is the only channel by which the world should rewrite a mind\*, Bayes i
 	<!--  -->
 	<h3>Eddington's confirmation of gravitational lensing</h3>
 	<div>
-		Who knows how general relativity was confirmed as a replacement for Newtonian mechanics? Right, Eddington went to Antarctica and took like 8 crude photographs during an eclipse, to see how much the sun bends light.<br><br>
+		Who knows how general relativity was confirmed as a replacement for Newtonian mechanics? Right, Eddington went to Príncipe and took like 8 crude photographs during an eclipse, to see how much the sun bends light.<br><br>
 		Identify H and E, write down the likelihoods, turn the crank:<br><br>
 		Einsteinian $$H_E$$: $$\delta = 1.75''$$<br>
 		Newtonian $$H_N$$: $$\delta = 0.87''$$<br>
 		Null $$H_0$$: $$\delta = 0''$$<br><br>
 		Observed: $$E = 1.98''$$ (arcseconds)<br><br>
 		<!--  -->
-		Bayes factor $$P(\text{GR} \mid E) \,/\, P(\text{Newton} \mid E) \approx 10^8$$<br><br>
-		THEREFORE the prior doesn't really matter. Take an illustrative 1919 prior, $$P(H_E) = 0.2$$, $$P(H_N) = 0.7$$, $$P(H_0) = 0.1$$<br><br>
-		$$P(H_E \mid E) = \frac{0.2 \times 0.44}{0.2 \times 0.44 \,+\, 0.7 \times 5 \times 10^{-9}} \approx 0.99$$<br><br>
+		The Bayes factor (likelihood ratio) $$B_{EN} = \frac{P(E \mid H_E)}{P(E \mid H_N)} = \frac{0.44}{5 \times 10^{-9}} \approx 8.8 \times 10^7$$; with the illustrative prior odds $$P(H_E) / P(H_N) = 0.2 / 0.7$$, the posterior odds are $$\frac{P(H_E \mid E)}{P(H_N \mid E)} \approx 2.51 \times 10^7$$.<br><br>
+		This is very strong evidence, but the prior still enters through the posterior odds. Take an illustrative 1919 prior, $$P(H_E) = 0.2$$, $$P(H_N) = 0.7$$, $$P(H_0) = 0.1$$<br><br>
+		In the simplified Einstein-versus-Newton comparison, conditioning on those two hypotheses, $$P(H_E \mid E, H_E \lor H_N) = \frac{0.2 \times 0.44}{0.2 \times 0.44 \,+\, 0.7 \times 5 \times 10^{-9}} \approx 0.99999996$$. A full three-hypothesis posterior would also require $$P(E \mid H_0)$$.<br><br>
 		Unbelievably strong evidence from one instrument.
 	</div>
 	<!--  -->
