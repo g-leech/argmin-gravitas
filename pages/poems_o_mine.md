@@ -11,21 +11,21 @@ visible:    false
 
 ### Spring Prospect (by 杜甫)
 
-The state is destroyed; the mountains remain;<br>
+The state is destroyed; the mountains remain<br>
 The city in spring is deep in the weeds.<br>
-In these times even the flowers wear tears;<br> <!-- _these_ -->
-Bereft, even birds can startle the heart.<br>
-The beacons have burned three months at a stretch;<br>
+In these times even the flowers wear tears<br> <!-- _these_ -->
+and even the birds can startle the heart.<br>
+The beacons have burned three months at a stretch<br>
 A letter from home's worth thousands in gold.<br>
-I scratch my white hair; it's thinner each time.<br>
-It soon will not bear the weight of my pin.<br>
+I scratch my white hair; it's thinner each time<br>
+Soon it will not bear my pin of office.<br>
 <br>
 Realm falls; hills unmoved<br>
 Spring buries the old.<br>
 Grieving, flowers weep<br>
-birdsong turns me cold.<br> <!-- overbold -->
+birdsong turns one cold.<br> 
 Signals flare for months<br>
-word from home is gold!<br>
+word from home is gold.<br>
 My white hair, scratched thin;<br>
 soon the pin won't hold.<br>
 <br>
@@ -34,9 +34,9 @@ Town overgrown.<br>
 Hard times; blooms cry.<br>
 Birds startle me.<br>
 Signals burn on;<br>
-letters are gold!<br>
+letters are gold.<br>
 White hair worn thin.<br>
-Won't hold a pin.<br>
+Won't wear a pin.<br>
 <br>
 No state; land.<br>
 Green ruins.<br>
@@ -47,10 +47,10 @@ Gold for words.<br>
 Worried hair.<br>
 Holds no pin.<br>
 <br>
-State; hills<br>
-Town wild.<br>
-Blooms sting<br>
-Birds fright.<br>
+State, hills<br>
+Weeds bold.<br>
+Blooms weep<br>
+Birds scold.<br>
 War: months<br>
 Words: gold.<br>
 Hair thins.<br>
