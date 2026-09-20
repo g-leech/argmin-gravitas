@@ -62,7 +62,7 @@ What to say about the stereotypically great? Start by scrubbing off the accumula
 
 <li>Implies the first modern <a href="https://en.wikipedia.org/wiki/General_relativity#Cosmology">cosmology</a></li><br>
 
-<li><a href="https://en.wikipedia.org/wiki/Einstein_ring">Gravitational lensing</a> (confirmed 1998)</li><br>
+<li><a href="https://en.wikipedia.org/wiki/Einstein_ring">Gravitational lensing</a> (confirmed 1979)</li><br>
 
 <li>Inadvertently predicted <a href="https://en.wikipedia.org/wiki/Cosmological_constant">dark energy</a>. </li><br>
 

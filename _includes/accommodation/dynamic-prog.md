@@ -136,10 +136,10 @@ $$
 
 (That is, the inverse of the total likelihood multiplied by the forward-backward product, E21.)
 
-We can then set the means for each Gaussian of each state: the estimated mean $$ \hat{\mu}_{jg} $$ of the $$g$$th Gaussian of state $$j$$ is a weighted average of the probability of this vector $$o_t$$ given $$L_j(t)$$: 
+We can then set the means for each Gaussian of each state: the estimated mean $$ \hat{\mu}_{jg} $$ of the $$g$$th Gaussian of state $$j$$ is a weighted average of the observation vectors $$o_t$$, weighted by the state-occupation probabilities $$L_j(t)$$: 
 
 $$
-	\hat{\mu}_{jg} = \frac{ \sum^T_{t=1} {L_j(t)} \,\times\, p(o_t)  } { \sum^T_{t=1} {L_j(t)} }
+	\hat{\mu}_{jg} = \frac{ \sum^T_{t=1} {L_j(t)} \,\times\, o_t  } { \sum^T_{t=1} {L_j(t)} }
 	\qquad\qquad \text{(E23)}
 $$
 

@@ -143,10 +143,12 @@ The speaker-distance thus serves as a point estimate of the relative distance of
 
 
 $$
-	\rho \, \large(\,d_i^{(A)}, t_i^{(A)} \, \large) \,=\, 1 - \frac{6 \,\times\, \Sigma(d_i^{(A)})}  { N_k (N_k^2 - 1) }
+	\rho \, \large(\,d_i^{(A)}, t_i^{(A)} \, \large) \,=\, 1 - \frac{6 \,\times\, \sum_i D_i^2}  { N_k (N_k^2 - 1) }
 	
 	\qquad\qquad \text{(E27)}
 $$
+
+where $$D_i$$ is the difference in ranks, $$\operatorname{rank}(d_i^{(A)}) - \operatorname{rank}(t_i^{(A)})$$.
 
 At last, then, we've derived our final target variable: the time correlation (E27) of the conditional word-likelihood ratios. If is
 statistically significant, it is possible to say that A is converging to (for negative ), or diverging from
