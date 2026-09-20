@@ -78,7 +78,7 @@ In short, we value increasing amounts of any particular thing less and less per 
     <img width="40%" src="/img/insurance/log.png" />
 </div>
 
-with a steep drop as you approach zero. As a result, it can be rational to purchase insurance, _for things you can't afford to replace_. <a href="#fn:7" id="fnref:7">7</a>
+with a steep drop as you approach zero. As a result, it can be rational to pay more than the expected loss for insurance - and the more so, _the larger the loss is relative to your total wealth_. (Affordability alone doesn't settle it: even a replaceable loss can be worth insuring at a small markup. But the markup worth paying on small risks is tiny.) <a href="#fn:7" id="fnref:7">7</a>
 
 Some people think this is foolish, because people "shouldn't" have log utility in money: more is objectively better.<a href="#fn:3" id="fnref:3">3</a>  But this is illegitimate, because economic rationality is defined _relative_ to a given utility function (and, more practically, because one mostly doesn't get to choose what one values). <a href="#fn:8" id="fnref:8">8</a>
 
@@ -95,9 +95,9 @@ This is a classic modelling mistake: to maximise <i>x</i> rather than <i>U(x)</i
         Say your house is worth <i>V</i> = £100,000 and that you have other assets worth <i>W</i> = £120,000. Say also that you know the annual probability of a house of your vintage in your area burning down, <i>p</i> = <a href="{{fire}}">1/10000</a> or something. Then you buy insurance if the cost of it, <i>C</i>, beats
 <!-- -->
         $$
-            \log(W - C) > p \times \log(W - V) + (1 - p) \times \log(W)
+            \log(W + V - C) > p \cdot \log(W) + (1-p) \cdot \log(W+V)
         $$
-        i.e. <a href="{{gist}}">£22</a> is the most you'd pay per year, by one rational measure.<br><br>
+        i.e. <a href="{{gist}}">£13</a> is the most you'd pay per year, by one rational measure.<br><br>
 <!--  -->
         (Don't take this too literally. It is tricky to use the criterion properly: <a href="{{zvi}}">this post</a> explains all the dubious assumptions involved, including that (in this case) it values losing your house as <i>infinitely</i> bad. But it's a good way of bounding things.)<br><br>
 <!--  -->
@@ -148,9 +148,9 @@ Functions are an analogy for the (fairly solid) psychological regularities invol
 
 ## 2. Argument from regressive burden
 
-So, insurance only makes sense for things you can't afford to replace (unless you have asymmetric info, unusual preferences, subsidy, regulation...). But this means that the poorer you are, the more insurance you can rationally use! Insurance can be seen as the rich selling the poor a bit of resilience.
+So, insurance mostly makes sense for losses which are large relative to your total wealth (unless you have asymmetric info, unusual preferences, subsidy, regulation...); the markup worth paying shrinks towards zero as your wealth grows relative to the loss. But this means that the poorer you are, the more insurance you can rationally use! Insurance can be seen as the rich selling the poor a bit of resilience.
 
-If everyone had a chunk of savings ($10k?), rationally speaking there would be no petty insurance - for things like household contents, warranties, flights, luggage. And this would reduce deadweight (wasted economic activity). 
+If everyone had a chunk of savings ($10k?), rationally speaking there would be no petty insurance - for things like household contents, warranties, flights, luggage - since the markup worth paying on such small risks is far below what insurers charge. And this would reduce deadweight (wasted economic activity).
 
 "There could be a better world than our present one," this says. This is true and good to remember, but not helpful: a world in which the poor didn't insure themselves against things they can't afford to replace is worse than our present one.
 

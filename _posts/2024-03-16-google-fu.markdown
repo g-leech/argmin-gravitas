@@ -92,7 +92,7 @@ Hard for you to see, because you don't know how good it used to be.
     <ol>
         <li>Crawling</li>
             <ul>
-                <li>There actually is no central register of all websites. ICANN only gives out IP ranges. Root servers are autonomous</li>
+                <li>There actually is no central register of all websites. ICANN only gives out IP ranges and stuff. Root servers are autonomous</li>
                 <li>So send trillions of requests every day to find new sites / check if anything changed</li>
             </ul><br>
         <li>Indexing</li> Throw it all into one data structure so you can find it again. <a href="#fn:7" id="fnref:7">7</a><br><br><br>

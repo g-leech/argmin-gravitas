@@ -206,7 +206,7 @@ New:<br>
     <td class="tg-0pky">Proton pump inhibitors (1989)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Statins (1989)</td>
+    <td class="tg-0lax">Statins (1987)</td>
     <td class="tg-0lax">PCSK9 inhibitors (2015)</td>
   </tr>
   <tr>

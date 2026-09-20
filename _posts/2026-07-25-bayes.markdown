@@ -344,7 +344,7 @@ Evidence is the only channel by which the world should rewrite a mind\*, Bayes i
 	<!--  -->
 	<h3>Eddington's confirmation of gravitational lensing</h3>
 	<div>
-		Who knows how general relativity was confirmed as a replacement for Newtonian mechanics? Right, Eddington went to Antarctica and took like 8 crude photographs during an eclipse, to see how much the sun bends light.<br><br>
+		Who knows how general relativity was confirmed as a replacement for Newtonian mechanics? Right, Eddington went to the equator and took like 8 crude photographs during an eclipse, to see how much the sun bends light.<br><br>
 		Identify H and E, write down the likelihoods, turn the crank:<br><br>
 		Einsteinian $$H_E$$: $$\delta = 1.75''$$<br>
 		Newtonian $$H_N$$: $$\delta = 0.87''$$<br>

@@ -183,7 +183,7 @@ Slightly better than a coin flip; and the conditional probability that someone i
 
 	P(H | ~E) =  P(~E| H) x P(H)  / P(~E|H) x P(H) + P(~E|~H) x P(~H)
 		  = (0.59 x 0.21) / (0.59 x 0.21 + 0.9 x 0.79)
-		  = 16%
+		  = 15%
 
 <br>
 i.e. Under these estimates, the test is fairly weak evidence. (Don't rely on this; there are too many assumptions, and of necessity I've used the UK population rather than the test-taking population, which is bound to have a higher base rate.)
