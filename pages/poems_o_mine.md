@@ -13,14 +13,14 @@ visible:    false
 
 The state is destroyed; the mountains remain<br>
 The city in spring is deep in the weeds.<br>
-In these times even the flowers wear tears<br> <!-- _these_ -->
-and even the birds can startle the heart.<br>
+In these times, even the flowers wear tears<br> 
+and even the birds startle the heart.<br>
 The beacons have burned three months at a stretch<br>
 A letter from home's worth thousands in gold.<br>
 I scratch my white hair; it's thinner each time<br>
 Soon it will not bear my pin of office.<br>
 <br>
-Realm falls; hills unmoved<br>
+Walls fall; hills unmoved<br>
 Spring buries the old.<br>
 Grieving, flowers weep<br>
 birdsong turns one cold.<br> 
@@ -29,31 +29,31 @@ word from home is gold.<br>
 My white hair, scratched thin;<br>
 soon the pin won't hold.<br>
 <br>
-Throne wrecked; earth stands. <br>
+Throne wrecked; earth stands<br>
 Town overgrown.<br>
-Hard times; blooms cry.<br>
-Birds startle me.<br>
+Hard times; blooms cry<br>
+Home far; birds shriek.<br>
 Signals burn on;<br>
 letters are gold.<br>
-White hair worn thin.<br>
+White hair worn thin<br>
 Won't wear a pin.<br>
 <br>
-No state; land.<br>
+No state; land<br>
 Green ruins.<br>
 Flowers, tears;<br>
 Birds startle.<br>
 Alarms blare;<br>
 Gold for words.<br>
-Worried hair.<br>
+Worried hair<br>
 Holds no pin.<br>
 <br>
-State, hills<br>
+Realm, hills<br>
 Weeds bold.<br>
 Blooms weep<br>
 Birds scold.<br>
 War: months<br>
 Words: gold.<br>
-Hair thins.<br>
+Hair thins<br>
 No hold.<br>
 
 <!-- Spring prospect.  -->

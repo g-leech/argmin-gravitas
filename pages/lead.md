@@ -5,7 +5,7 @@ permalink:  /lead/
 visible:    false
 ---
 
-{%  assign alert = "https://forum.effectivealtruism.org/posts/sgcxDwyD2KL6BHH2C/case-for-emergency-response-teams" %}
+{%  assign alert = "https://ea.greaterwrong.com/posts/sgcxDwyD2KL6BHH2C/case-for-emergency-response-teams" %}
 {%  assign arb = "https://arbresearch.com" %}
 {%  assign espr = "https://espr-camp.org/"    %}
 {%  assign pnas = "https://pnas.org/doi/full/10.1073/pnas.2119266119"    %}

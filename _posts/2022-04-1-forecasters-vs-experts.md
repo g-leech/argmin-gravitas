@@ -19,7 +19,7 @@ pride:      6
 ---
 
 {%	assign arb = "https://twitter.com/ArbResearch"	%}
-{%	assign eaf = "https://forum.effectivealtruism.org/posts/qZqvBLvR5hX9sEkjR/comparing-top-forecasters-and-domain-experts"	%}
+{%	assign eaf = "https://ea.greaterwrong.com/posts/qZqvBLvR5hX9sEkjR/comparing-top-forecasters-and-domain-experts"	%}
 {%	assign non = "https://open.spotify.com/episode/3JCZpe1qBuuKiDLgzJ08XH?si=b2acd8c554b94dc0"	%}
 
 

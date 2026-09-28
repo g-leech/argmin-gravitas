@@ -45,7 +45,7 @@ It's not just that what you were doing before is less good than you thought; at 
 
 
 
-https://forum.effectivealtruism.org/posts/NQR5x3rEQrgQHeevm/what-new-ea-project-or-org-would-you-like-to-see-created-in#too3tJZWC74jzhiSj
+https://ea.greaterwrong.com/posts/NQR5x3rEQrgQHeevm/what-new-ea-project-or-org-would-you-like-to-see-created-in/comment/too3tJZWC74jzhiSj
 
 
 

@@ -34,9 +34,9 @@
 {%	assign rl = "http://www.jmlr.org/papers/volume16/garcia15a/garcia15a.pdf" 		%} 	
 {%	assign fair = "https://science.sciencemag.org/content/366/6468/999.full?ijkey=sfV6zLc.FeEZI&keytype=ref&siteid=sci" 		%} 	
 {%	assign ask = "https://distill.pub/2019/safety-needs-social-scientists/" 		%} 	
-{%	assign kaj = "https://forum.effectivealtruism.org/posts/WdMnmmqqiP5zCtSfv/cognitive-science-psychology-as-a-neglected-approach-to-ai" 		%} 	
+{%	assign kaj = "https://ea.greaterwrong.com/posts/WdMnmmqqiP5zCtSfv/cognitive-science-psychology-as-a-neglected-approach-to-ai" 		%} 	
 {%	assign wei = "https://www.alignmentforum.org/posts/rASeoR7iZ9Fokzh7L/problems-in-ai-alignment-that-philosophers-could-potentially" 		%} 	
-{%	assign ngo = "https://forum.effectivealtruism.org/posts/2e9NDGiXt8PjjbTMC/technical-agi-safety-research-outside-ai" 		%} 	
+{%	assign ngo = "https://ea.greaterwrong.com/posts/2e9NDGiXt8PjjbTMC/technical-agi-safety-research-outside-ai" 		%} 	
 {%	assign spec = "https://vkrakovna.wordpress.com/2018/04/02/specification-gaming-examples-in-ai/" 		%} 	
 {%	assign af = "https://docs.google.com/document/d/105cpwXCNABZwNr4J1KVAGGZkFpA4H1zqQYEFjnJJ4kY/edit?usp=sharing" 		%} 	
 {%	assign lark = "https://www.alignmentforum.org/posts/SmDziGM9hBjW9DKmf/2019-ai-alignment-literature-review-and-charity-comparison" 		%} 	

@@ -8,7 +8,7 @@
 {%	assign maas = "https://www.researchgate.net/profile/Charlotte_Stix/publication/339843307_Crossing_the_gulf_between_’near-term’_and_’long-term’_AI_policy_Towards_an_’Incompletely_Theorized_Agreement’/links/5e68b405299bf1744f72dfae/Crossing-the-gulf-between-near-term-and-long-term-AI-policy-Towards-an-Incompletely-Theorized-Agreement.pdf"	%}
 {%	assign prunkl = "https://arxiv.org/abs/2001.04335"	%}
 {%	assign krak = "https://futureoflife.org/2018/01/29/trade-off-immediate-longer-term-ai-safety-efforts/?cn-reloaded=1"	%}
-{%	assign xrisk = "https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause"	%}
+{%	assign xrisk = "https://ea.greaterwrong.com/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause"	%}
 {%	assign bost = "https://onlinelibrary.wiley.com/doi/abs/10.1111/1758-5899.12002"	%}
 {%	assign dyson = "https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.51.447"	%}
 {%	assign facct = "https://facctconference.org/"	%}
@@ -18,11 +18,11 @@
 {%	assign krueger = "https://www.alignmentforum.org/posts/bd2K3Jdz82csjCFob/a-list-of-good-heuristics-that-the-case-for-ai-x-risk-fails"	%}
 {%	assign timeline = "https://aiimpacts.org/ai-timeline-surveys/#Time_to_a_10_chance_and_a_50_chance_of_human-level_AI"	%}
 {%	assign krakovna = "https://vkrakovna.wordpress.com/2018/04/02/specification-gaming-examples-in-ai/"	%}
-{%	assign greg = "https://forum.effectivealtruism.org/posts/dfiKak8ZPa46N7Np6/the-person-affecting-value-of-existential-risk-reduction"	%}
+{%	assign greg = "https://ea.greaterwrong.com/posts/dfiKak8ZPa46N7Np6/the-person-affecting-value-of-existential-risk-reduction"	%}
 {%	assign fort = "http://www.project-disco.org/innovation/020320-ai-fortress-europe/"	%}
 {%	assign ord = "https://blogs.sciencemag.org/books/2020/05/04/the-precipice/"	%}
 {%	assign improv = "https://trends.google.com/trends/explore?date=2012-03-06%202020-07-03&geo=US&q=%2Fm%2F0134_90x" %}
 {%	assign dreyfus = "https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence"		%}
-{%	assign climate = "https://forum.effectivealtruism.org/posts/eJPjSZKyT4tcSGfFk/climate-change-is-in-general-not-an-existential-risk"		%}
+{%	assign climate = "https://ea.greaterwrong.com/posts/eJPjSZKyT4tcSGfFk/climate-change-is-in-general-not-an-existential-risk"		%}
 {%	assign mesa = "https://arxiv.org/abs/1906.01820"		%}
 {%	assign appg = "https://www.appgfuturegenerations.com/"	%}

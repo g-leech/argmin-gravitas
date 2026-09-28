@@ -6,10 +6,9 @@ permalink:	/now/
 visible:	false
 ---
 
-{%	assign obit = "https://forum.effectivealtruism.org/tag/obituary"		%}
-{%	assign alert = "https://forum.effectivealtruism.org/posts/sgcxDwyD2KL6BHH2C/case-for-emergency-response-teams"	%}
-{%	assign ideas = "https://forum.effectivealtruism.org/users/arb/replies"	%}
-{%	assign offroad = "https://forum.effectivealtruism.org/posts/8ekqxkowckzEKu3uG/off-road-support-for-eas-struggling-at-uni"	%}
+{%	assign obit = "https://ea.greaterwrong.com/tag/obituary"		%}
+{%	assign alert = "https://ea.greaterwrong.com/posts/sgcxDwyD2KL6BHH2C/case-for-emergency-response-teams"	%}
+{%	assign offroad = "https://ea.greaterwrong.com/posts/8ekqxkowckzEKu3uG/off-road-support-for-eas-struggling-at-uni"	%}
 {%	assign iiasa = "https://en.wikipedia.org/wiki/International_Institute_for_Applied_Systems_Analysis"	%}
 {%	assign work = "https://arbresearch.com/work/"	%}
 

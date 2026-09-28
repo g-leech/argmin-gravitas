@@ -129,7 +129,7 @@
 {%	assign knoll = "https://journals.sagepub.com/doi/full/10.1177/2053168015621328"		%}
 {%	assign knoll2 = "https://www.ncbi.nlm.nih.gov/pubmed/27620075"		%}
 {%	assign willing = "https://journals.sagepub.com/doi/abs/10.1177/0098628315589505"		%}
-{%	assign halstead = "https://forum.effectivealtruism.org/posts/eryaF6RPtepDs9KdP/is-mindfulness-good-for-you"	%}
+{%	assign halstead = "https://ea.greaterwrong.com/posts/eryaF6RPtepDs9KdP/is-mindfulness-good-for-you"	%}
 {%	assign jama = "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1809754"	%}
 {%	assign coron = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153220"		%}
 {%	assign hus = "https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ase.1777"		%}

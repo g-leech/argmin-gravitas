@@ -16,7 +16,7 @@ categories: ai, uni
 confidence: High that there is a notable contribution, low in the particular estimates. Lots of Fermi estimates.
 importance: 9
 wordcount:  3300
-cross:		https://forum.effectivealtruism.org/posts/8ErtxW7FRPGMtDqJy/the-academic-contribution-to-ai-safety-seems-large
+cross:		https://ea.greaterwrong.com/posts/8ErtxW7FRPGMtDqJy/the-academic-contribution-to-ai-safety-seems-large
 argument:   acais/argument.html
 ---
 

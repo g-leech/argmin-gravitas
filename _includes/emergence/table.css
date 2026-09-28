@@ -1,0 +1,103 @@
+  .table-wrapper.emg {
+    margin: 1.8em 0;
+    border-radius: 12px;
+    box-shadow: 0 12px 28px rgba(0, 40, 0, 0.18);
+    overflow-x: auto;
+    background: #fff;
+  }
+  .table-wrapper.emg table {
+    width: 100%;
+    min-width: 620px;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 0.86em;
+    line-height: 1.35;
+  }
+  .table-wrapper.emg th,
+  .table-wrapper.emg td {
+    border: none;
+    border-bottom: 1px solid #000;
+    padding: 0.75em 0.9em;
+    vertical-align: top;
+    text-align: left;
+    background: #fff;
+  }
+  /* header: the /paper gradient, painted once across the whole row */
+  .table-wrapper.emg thead tr {
+    background: linear-gradient(135deg, #006800 0%, #3a943a 100%);
+  }
+  .table-wrapper.emg thead th {
+    background: transparent;
+    color: #fff;
+    font-size: 0.78em;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    white-space: nowrap;
+    border-bottom: none;
+    padding: 1em 0.9em;
+  }
+  .table-wrapper.emg thead th:first-child {
+    background: #006800;
+    position: sticky;
+    left: 0;
+    z-index: 2;
+  }
+  /* year column: steps from light to pak-green as the years go by */
+  .table-wrapper.emg tbody th {
+    color: #fff;
+    font-size: 1.15em;
+    font-weight: 700;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    position: sticky;
+    left: 0;
+    z-index: 1;
+  }
+  .table-wrapper.emg tbody tr:nth-child(1) th { background: #3a943a; }
+  .table-wrapper.emg tbody tr:nth-child(2) th { background: #328e32; }
+  .table-wrapper.emg tbody tr:nth-child(3) th { background: #298729; }
+  .table-wrapper.emg tbody tr:nth-child(4) th { background: #218121; }
+  .table-wrapper.emg tbody tr:nth-child(5) th { background: #197b19; }
+  .table-wrapper.emg tbody tr:nth-child(6) th { background: #117511; }
+  .table-wrapper.emg tbody tr:nth-child(7) th { background: #086e08; }
+  .table-wrapper.emg tbody tr:nth-child(8) th { background: #006800; }
+  .table-wrapper.emg tbody tr:last-child td,
+  .table-wrapper.emg tbody tr:last-child th { border-bottom: none; }
+  .table-wrapper.emg tbody tr:hover td { background: #f3f9f3; }
+  .table-wrapper.emg td.none { color: #c3d4c3; }
+  /* one item per line: the <br>s stay in the markup for feed readers */
+  .table-wrapper.emg td br { display: none; }
+  .table-wrapper.emg td a:link,
+  .table-wrapper.emg td a:visited {
+    display: block;
+    position: relative;
+    padding-left: 0.95em;
+    color: #2d3a2d;
+    text-decoration: none;
+    animation: none;
+  }
+  .table-wrapper.emg td a:hover,
+  .table-wrapper.emg td a:focus {
+    color: #006800;
+    text-decoration: underline;
+    text-decoration-color: #3a943a;
+    transform: none;
+  }
+  .table-wrapper.emg td a::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.49em;
+    width: 0.38em;
+    height: 0.38em;
+    border-radius: 50%;
+    background: #3a943a;
+  }
+  .table-wrapper.emg td a ~ a { margin-top: 0.45em; }
+  .table-wrapper.emg td a.not { color: #8a968a; font-style: italic; }
+  .table-wrapper.emg td a.not::before {
+    background: none;
+    border: 1px solid #8a968a;
+    box-sizing: border-box;
+  }

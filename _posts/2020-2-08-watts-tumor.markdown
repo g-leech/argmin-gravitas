@@ -29,7 +29,7 @@ warnings: 	unwarranted apocalypticism, antinatalism
 {%	assign bay = "https://rationalwiki.org/wiki/Extraordinary_claims_require_extraordinary_evidence#Probability_theory"		%}
 {%	assign hals = "https://docs.google.com/document/d/1qmHh-cshTCMT8LX0Y5wSQm8FMBhaxhQ8OlOeRLkXIF0"		%}
 {%	assign kel = "https://www.vox.com/future-perfect/2019/6/13/18660548/climate-change-human-civilization-existential-risk"		%}
-{%	assign ozy = "https://forum.effectivealtruism.org/posts/eJPjSZKyT4tcSGfFk/climate-change-is-in-general-not-an-existential-risk"		%}
+{%	assign ozy = "https://ea.greaterwrong.com/posts/eJPjSZKyT4tcSGfFk/climate-change-is-in-general-not-an-existential-risk"		%}
 {%	assign sand = "https://www.newsweek.com/will-climate-change-wipe-out-humanity-opinion-1440384"		%}
 {%	assign ssc = "https://slatestarcodex.com/2014/08/14/beware-isolated-demands-for-rigor"		%}
 {%	assign sdg = "https://sdg-tracker.org"		%}

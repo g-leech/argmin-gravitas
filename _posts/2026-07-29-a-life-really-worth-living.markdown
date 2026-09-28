@@ -261,7 +261,7 @@ Riff on [this](https://www.lesswrong.com/posts/uGDtroD26aLvHSoK2/dear-self-we-ne
 
 ## Ways money makes things worse
 
-Riff on [this](https://forum.effectivealtruism.org/posts/YKEPXLQhYjm3nP7Td/ways-money-can-make-things-worse)
+Riff on [this](https://ea.greaterwrong.com/posts/YKEPXLQhYjm3nP7Td/ways-money-can-make-things-worse)
 
 
 ## You have options

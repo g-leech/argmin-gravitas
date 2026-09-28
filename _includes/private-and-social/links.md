@@ -7,7 +7,7 @@
 {%		assign olah = "http://colah.github.io/posts/2020-05-University/"		%}
 {%		assign sk = "https://quillette.com/2018/11/23/the-case-for-dropping-out-of-college/"		%}
 {%		assign o = "https://en.wikipedia.org/wiki/Oracle_machine"		%}
-{%		assign linda = "https://forum.effectivealtruism.org/posts/xfN3zwaxuf6uaycv7/should-you-do-a-phd"		%}
+{%		assign linda = "https://ea.greaterwrong.com/posts/xfN3zwaxuf6uaycv7/should-you-do-a-phd"		%}
 {%		assign r = "https://www.insidehighered.com/news/2014/04/09/research-shows-professors-work-long-hours-and-spend-much-day-meetings"		%}
 {%		assign dan = "https://alexdanco.com/2020/02/15/can-twitter-save-science/"		%}
 {%		assign ssc = "https://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/"		%}

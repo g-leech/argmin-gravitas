@@ -27,7 +27,7 @@
 {%		assign city = "https://en.wikipedia.org/wiki/City_of_London"			%}
 {%		assign umesh = "https://www.scottaaronson.com/blog/?p=40"		%}
 {%		assign rpa = "https://en.wikipedia.org/wiki/Robotic_process_automation"		%}
-{%		assign direct = "https://forum.effectivealtruism.org/ea/zy/earning_to_give_v_pursuing_your_passiondirect_work/"		%}
+{%		assign direct = "https://ea.greaterwrong.com/ea/zy/earning_to_give_v_pursuing_your_passiondirect_work/"		%}
 {%		assign bore = "https://en.wikipedia.org/wiki/Boreout"		%}
 {%		assign blow = "https://news.ycombinator.com/threads?id=jblow&next=7789438"		%}
 {%		assign marx = "https://en.m.wikipedia.org/wiki/Marx%27s_theory_of_alienation"		%}

@@ -426,7 +426,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
 <h3>Jul 21: founder</h3>
 <div>
     We get a devoted heckler of our masks model. He's much better than most academic reviewers, <a href="https://www.lesswrong.com/posts/J7RnKXcyCNdrdAus4/we-have-some-evidence-that-masks-work">but wrong</a>.
-    <li><i>Project</i>: In response to <a href="https://forum.effectivealtruism.org/posts/CwFyTacABbWuzdYwB/ea-needs-consultancies">Luke</a>, me and my mate meme each other into starting our first company. My life changes forever.</li>
+    <li><i>Project</i>: In response to <a href="https://ea.greaterwrong.com/posts/CwFyTacABbWuzdYwB/ea-needs-consultancies">Luke</a>, me and my mate meme each other into starting our first company. My life changes forever.</li>
     <br><br>     <li><i>Colleagues</i>: Laurence, Charlie, Misha</li>
     <br><li><i>Reading</i>: </li>
 </div>
@@ -515,7 +515,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
     <br>
     <li>my advisor makes an AI safety research proposal. I submit it for funding despite misgivings</li>
     <li>launch a mental health support thing</li>
-    <li>take on <a href="https://forum.effectivealtruism.org/posts/sgcxDwyD2KL6BHH2C/case-for-emergency-response-teams">ALERT</a></li>
+    <li>take on <a href="https://ea.greaterwrong.com/posts/sgcxDwyD2KL6BHH2C/case-for-emergency-response-teams">ALERT</a></li>
     <li>work some 13 hour days, gladly, eagerly</li>
     <li>start bupropion</li>
     <li>Charge a client $300/h.</li>
@@ -541,7 +541,7 @@ Spend most of the year abroad launching my company (Nassau, Prague, Mexico) in t
 
 <h3>Mar 22: off </h3>
 <div>
-    <a href="https://forum.effectivealtruism.org/s/dr4yccYeH6Zs7J82s">Write a huge sequence</a> on Covid and EA for Jan.<br>
+    <a href="https://ea.greaterwrong.com/s/dr4yccYeH6Zs7J82s">Write a huge sequence</a> on Covid and EA for Jan.<br>
     <br><br>     <li><i>Colleagues</i>: </li><br>
     <br><li><i>Reading</i>: 
         <ul>

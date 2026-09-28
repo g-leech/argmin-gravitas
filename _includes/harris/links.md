@@ -8,7 +8,7 @@
 {% 	assign psych = "https://www.gresham.ac.uk/lecture/transcript/download/psychologising-and-neurologising-about-religion-facts-fallacies-and-the-future"		%}
 
 {% 	assign maha = "https://www.accesstoinsight.org/tipitaka/dn/dn.22.0.than.html"		%}
-{% 	assign halstead = "https://forum.effectivealtruism.org/posts/eryaF6RPtepDs9KdP/is-mindfulness-good-for-you"		%}
+{% 	assign halstead = "https://ea.greaterwrong.com/posts/eryaF6RPtepDs9KdP/is-mindfulness-good-for-you"		%}
 {% 	assign nn = "https://web.archive.org/web/20170217133601/https://stats.stackexchange.com/questions/205757/neural-network-how-are-number-of-parameters-calculated"		%}
 {% 	assign bundle = "https://www.rep.routledge.com/articles/thematic/mind-bundle-theory-of/v-1"		%}
 {% 	assign trike = "https://tricycle.org/trikedaily/tibetan-monks-found-chanting-text-oxford-philosopher/"		%}

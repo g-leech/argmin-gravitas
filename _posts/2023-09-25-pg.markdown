@@ -20,7 +20,7 @@ wordcount:
 ---
 
 {%  assign pg = "http://www.paulgraham.com/greatwork.html"    %}
-{%  assign bor = "https://forum.effectivealtruism.org/posts/J7nmbqcWncPMZFhGC/want-to-make-a-difference-on-policy-and-governance-become-an"  %}
+{%  assign bor = "https://ea.greaterwrong.com/posts/J7nmbqcWncPMZFhGC/want-to-make-a-difference-on-policy-and-governance-become-an"  %}
 
 
 Like so much of Paul Graham's writing, <a href="{{pg}}">his new piece</a> seems shallow and unsupported on first reading. But there's a great model of the world in it, and rare suitably-hedged advice. You don't need to believe that any of YCombinator's reflected glories are actually glorious to take something from it.

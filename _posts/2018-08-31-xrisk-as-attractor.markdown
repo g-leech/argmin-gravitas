@@ -18,7 +18,7 @@ categories: longtermism, philosophy, scary-futurism
 importance: 10
 pride: 			7
 wordcount: 	1000
-cross:			https://forum.effectivealtruism.org/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause
+cross:			https://ea.greaterwrong.com/posts/2pNAPEQ8av3dQyXBX/existential-risk-as-common-cause
 ---
 
 {%	include xriskAll/links.md		%}
