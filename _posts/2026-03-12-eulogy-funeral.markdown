@@ -5,10 +5,10 @@ baselink:   /eulogy
 permalink:  /eulogy
 date:       2026-03-12
 author:     Gavin
-img:        /img/
+img:        /img/mam.jpg
 
 visible:    1
-published:  false
+published:  true
 quality:    6
 
 summary:    
