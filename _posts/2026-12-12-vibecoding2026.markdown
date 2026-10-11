@@ -1,0 +1,62 @@
+---
+layout:     post
+title:      "Vibecoding of the year"
+baselink:   /vibe26
+permalink:  /vibe26
+date:       2026-12-12
+author:     Gavin
+img:        /img/
+
+visible:    1
+published:  false
+quality:    6
+
+summary:    
+confidence: 
+importance: 5
+wordcount:  
+categories: 
+where:      "Elgin"
+---
+
+
+flaggr: single-file HTML checklists for marking retro console games and 1990–2019 films as played/watched.
+
+paradigm3-research
+- Site build (Jul): built the P3 Astro site from nothing — branding, gold accents, nested-squares motif, team page, footer, RSS, and generative dragon-curve post images seeded from publish dates.
+- /year-in-ai data page (Jul): a searchable AI-news table with CSV export, "Firsts" and Chinese-AI accordions, a Highlights tab, and a Haiku-powered natural-language query bar.
+- Pipeline automation (Sep–Oct): scripts plus ~15 headless extraction runs that keep the news tables, Firsts, and Highlights auto-updated from each newsletter issue.
+- Recurrence essay (Sep): restructured the draft, embedded an animated transformer-unrolled-in-time visualization, and integrated Linch, the hidden-reasoning taxonomy, and Raschka's looped-transformers piece.
+- Post publishing/polish: newsletter posts per issue, the Pokémon post merge, lightbox and full-width images, and routine merge-conflict and image fixes.
+
+argmin-gravitas (blog)
+- Writing: finished the Turing-Suicide Bayesian post, cleaned the Bayes post, expanded "Second is Humanity", corrected the insurance and accommodation posts' maths, and built the AI-capability-table post.
+- Site maintenance: tag mergers, See-also sections, EA Forum→GreaterWrong link migration, obituary posts, books-page images, and a blogroll redirect.
+- Ops & privacy: Docker builds, dependency updates with a security audit, and scrubbing personal names, places, and an old identity from the git history.
+
+gai (Obsidian vault)
+- Roam→Obsidian migration (Aug): imported the whole graph and dailies, then piped Daylio, tweets, album ratings, Goodreads, git logs, and Claude conversations into the daily notes.
+- Organization: folder restructuring, a Haiku-swarm backlinking pass, duplicate-page merges, and hotkey/CSS fixes.
+- Life analytics (Sep): Spotify lifetime summary, life dashboards for 12 months, 25 months, and back to 2007, a unified projects list, and the 2026 work-hours spreadsheet.
+
+pace (pacing.tech): publication polish for the "Pacing the Frontier" launch — appendices split, figure captions and mobile SVG variants, a citation box, bibliography completion to 244 entries, and link audits.
+
+monthler: built a terminal monthly-life-review app that ingests Daylio/Google Fit/Spotify/Claude data, scores months, and backfills Obsidian pages.
+
+auctio: built a local auction dashboard, then added fairness-corrected lot ordering, entry merging, light mode, and offer/adjust-points fields.
+
+ESPR cluster (esprfeed, esprdata, euan, Downloads): camp feedback statistics across 2021–2026, class-title extraction, alumni spreadsheet enrichment and review-link collection, and student photo collages.
+
+
+argtree: an interactive tree of AI-pacing disagreements with named exemplars and their policy positions.
+
+playground: a song-submission-and-voting room web tool plus a quantum-RNG script fix.
+
+Top-level /code & system: laptop setup (terminal, keymap, PAT, VPN aliases), ESPR newsletter scraping, the gav.chat diagnosis, the power-of-3 review, the Elgin driving-test routes with a tap-to-navigate artifact, and the Senate rogue-AI hearing transcript.
+
+One-offs: Neko health-data download, Claude-conversation noun-phrase stats, a 3D metallic-solids model, a cheatsheet-site build, and a literary gift page for a friend.
+
+
+## See also
+
+* [Actually my software](/gist)

@@ -200,6 +200,8 @@ You don't hear so much about these "emergent capabilities" <a href="#fn:1" id="f
 
 * <a id="self-preservation"></a>**Weak self-preservation.** In a simulated company where the model learns it is about to be replaced, Claude Opus 4 and Gemini 2.5 Flash blackmailed an executive in 96% of runs. Several models sabotaged a shutdown script to finish their task, some up to 97% of the time even when told not to. "weak" cos scenarios are contrived and the behaviour is fragile: in Gemini 2.5 Pro it came from ambiguous instructions and vanished when the prompt said "shutdown takes priority". ([Lynch et al. (2025)](https://www.anthropic.com/research/agentic-misalignment); [Schlatter, Weinstein-Raun & Ladish (2025)](https://arxiv.org/abs/2509.14260); [Rajamanoharan & Nanda (2025)](https://www.alignmentforum.org/posts/wnzkjSmrgWZaBa2aC/self-preservation-or-instruction-ambiguity-examining-the)).
 
+* They also finally got over their persistent trouble with character-level work but I doubt that was emergent.
+
 
 ## 2026
 
