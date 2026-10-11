@@ -263,13 +263,13 @@ natural-born cyborgs -->
 		</div>
 		<h3>Surgery</h3>
 		<div>
-			<a href="https://www.isaps.org/discover/about-isaps/global-statistics/global-survey-2024-full-report-and-press-releases/">Only</a> 38 million cosmetic surgeries a year? Surprising!<br><br>
+			<a href="https://www.isaps.org/discover/about-isaps/global-statistics/global-survey-2024-full-report-and-press-releases/">Only</a> 38 million surgeon-grade cosmetic procedures a year? Surprising!<br><br>
 			It's hard to say what fraction of the <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2871217/">310 million</a> major surgeries are "enhancers" but not many.
 		</div>
 		<h3>Electronics</h3>
 		<div>
 			The above omits a very early and widespread kind: electronic aids and implants.<br><br>
-			1936: first wearable hearing aid. Now 300 or 400 million<br>
+			1936: first wearable hearing aid. Now 40 or 70 million, out of the 400 million that could benefit from them<br>
 			1958: internal pacemaker. Now around 30? million people.<br>
 			1977: cochlear implants. Maybe 2 million.<br><br>
 			Nonmedical use isn't mainstream yet. The <a href="https://en.wikipedia.org/wiki/Body_hacking">grinders</a> (people who do DIY surgery to implant electronics for nonmedical use) are roughly as strange as they were 15 years ago. 
