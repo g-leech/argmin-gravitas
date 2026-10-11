@@ -76,16 +76,16 @@ Though generated in passing, \(\alpha_N(T)\) is actually our target variable in 
 	<li><h4>Calculating the backward probability</h4><br>
 		The backward probability \(\beta_j(t) \)is the conditional probability of observing the remainder of the observation sequence from now to the end ( \( O_r = o_{t+1}, ..., o_T \) ), given that the model is in state \(j\) at time \(t\):
 		$$
-			\beta_j(T) = P(\,  O_r \,|\, s(t)=j, \, \theta_A)
+			\beta_j(t) = P(\,  O_r \,|\, s(t)=j, \, \theta_A)
 			\qquad\qquad \text{(E19)}
 		$$
 
 		Again, in practice an efficient recursion is used to compute
 		$$
-			\beta_j(T) = \sum_{j=1}^N \,\, P(S_j \,|\, S_i) \,\times\, P(o_{t+1} \,|\, S_j ) \,\times\, \beta_j(t+1)
+			\beta_i(t) = \sum_{j=1}^N \,\, P(S_j \,|\, S_i) \,\times\, P(o_{t+1} \,|\, S_j ) \,\times\, \beta_j(t+1)
 			\qquad\qquad \text{(E20)}
 		$$
-		Where the computation begins at the final time \(\beta_j(T)\) and ends by computing the backward probability of the first frame \(\beta_j(1)\).
+		Where the computation begins at the final time with \(\beta_i(T) = 1\) and ends by computing the backward probability of the first frame \(\beta_i(1)\).
 	</li><br><br>
 
 

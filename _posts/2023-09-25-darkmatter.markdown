@@ -55,7 +55,7 @@ This is most obvious in the success of mathematical physics, which has succeeded
 
 prediction of grav waves, size \(10^{-20} \,\mathrm{m}\); nailed it<br><br>
 
-<a href="{{el}}">atomic mass of the electron</a>: \(3 \times 10^{-11} \,\mathrm{kg}\quad \pm 94\, \mathrm{ppt}\) <a href="#fn:2" id="fnref:2">2</a><br><br>
+<a href="{{el}}">atomic mass of the electron</a>: known to a precision of \(3 \times 10^{-11} \,\mathrm{kg} \mathrm{ppt}\) <a href="#fn:2" id="fnref:2">2</a><br><br>
 
 anomalous magnetic moment of the electron g: to 11 sf <br><br>
 
@@ -73,7 +73,7 @@ Fiber bundles invented by mathematicians 60 years before they were needed for ga
 <br><br><br>
 
 <h3>Rule of cool</h3>
-6 burns total to launch from Earth, land on an asteroid and return: <a href="{{osiris}}">OSIRIS-REX</a>. They launched it two years before it arrived. It did exactly 3 burns in 2 years, plus lots of slingshots and avoiding stuff.<br><br>
+6 burns total to launch from Earth, touch an asteroid and return a sample: <a href="{{osiris}}">OSIRIS-REX</a>. They launched it two years before it arrived. It did exactly 3 burns in 2 years, plus lots of slingshots and avoiding stuff.<br><br>
 
 8th Sep 2016 launch to 3 December 2018 arrival, vs predicted November 23rd 2018. a week off!
 Very likely to land within hours of predicted end 24 September 2023, 15:00 UTC  

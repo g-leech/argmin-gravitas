@@ -318,7 +318,7 @@ You should view this as a PARTIAL argument for trying an independent life. The f
 Ladders are useful. Most useful work takes place inside them, despite them. You can't scale without a ladder
 Do not let me tell you what to do.
 
-Most work makes the world better in a small and quiet way. This is beautiful. Mihaly once worked on Google’s central TCP/IP code. He commented out one line and sped up every single web request that Google performs. A quadrillion of milliseconds saved every day = 11 years of human life every year. He says this is likely the most valuable work he ever did for them.
+Most work makes the world better in a small and quiet way. This is beautiful. Mihaly once worked on Google’s central TCP/IP code. He commented out one line and sped up every single web request that Google performs. If it's a billion milliseconds saved every day, that would be 11 years of ~human life "saved" every year. He says this is likely the most valuable work he ever did for them.
 
 Getting to L6 at Google, having 2 children, saying true things, retiring at 50, being kind. This is a lot. It is more than most humans who ever lived achieved 
 

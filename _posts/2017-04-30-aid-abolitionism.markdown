@@ -56,68 +56,65 @@ It has some good bits - I anticipate the <a href="{{itn}}">"Important/Neglected/
 
 
 <div class="accordion">
-
 	<h3>tl;dr</h3>
 	<div>
 		Government-to-government aid was pretty bad for like fifty straight years, 1950 through 2005. This conclusion doesn't depend on your ideological stance <a href="#fn:0" id="fnref:0">0</a>. <a href="{{bucket}}" target="_blank">Lots got wasted, lots got stolen, lots was thrown at stupid ideas, lots was used for naked realpolitik</a>, and almost no one measured what almost any of it actually ending up doing. It still did a lot of good, surprisingly.<br><br>
-
+<!--  -->
 		Various clever people have claimed aid is so bad it has to stop. (For literally hundreds of different little reasons, but the big main one is<br><br>
-
+<!--  -->
 		<ol>
 			<li>Aid increased greatly over the C20th.</li>
 			<li>Poverty among recipients mostly didn't decrease.</li>
 			<li>Nudge nudge wink wink, quite a correlation eh?</li>
 		</ol>
-
+<!--  -->
 		.) However, the evidence about aid is even weaker than usual for economics, so this claim isn't warranted by the crap evidence. Sorry.<br><br>
-
+<!--  -->
 		Health interventions are the only aid we can confidently say is <i>really</i> good, though other things could be. Eradicating smallpox was such an amazing thing to do that it balances out literally everything bad about aid. Not that bad aid should get away with it.<br><br>
-
+<!--  -->
 		ODA probably is still pretty bad, but people started making encouraging noises in 2005. Haven't checked since 2012, soz.
 	</div>
-
 	<h3>Introductions</h3>
 	<div>
 		{%		include aid/intros.html		%}
 	</div>
-
+<!--  -->
 	<h3>Why aid?</h3>
 	<div>
 		{%		include aid/rationale.html	%}
 	</div>
-
+<!--  -->
 	<h3>Types of aid abolitionist</h3>
 	<div>
-
 		<div class="accordion">
 			<h3>Peter T Bauer: empiricist, radical</h3>
 			<div>
 				{%		include aid/bauer.html		%}	
 			</div>
-
+<!--  -->
 			<h3>William Easterly: empiricist, moderate</h3>
 			<div>
 				{%		include aid/easterly.html		%}
 			</div>
-
+<!--  -->
 			<h3>Dambisa Moyo: ideologue, neoliberal</h3>
 			<div>
 				{%		include aid/moyo.html		%}
 			</div>
-
+<!--  -->
 			<h3>Teresa Hayter: ideologue, neo-Marxist</h3>
 			<div>
 				{%		include aid/hayter.html		%}
 			</div>
 		</div>
-		
+		<!--  -->
 	</div>
-
+<!--  -->
 	<h3>Seeking a zero lower bound on aid impact</h3>
 	<div>
 		{%		 include aid/analysis.html		%}
 	</div>
-
+<!--  -->
 	<h3>Bibliography</h3>
 	<div>
 		{%		 include aid/biblio.html		%}

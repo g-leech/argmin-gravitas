@@ -347,7 +347,7 @@ Our societies are increasingly vulnerable to hacking. Last month someone tried t
 
 https://www.theguardian.com/world/2023/aug/29/air-passengers-face-further-delays-after-uk-air-traffic-control-failure
 
-The American nuclear launch code was, for 20 years, "<a href="{{giz}}">0000000</a>". Here's a [long list](https://nintil.com/ai-safety/#cybersecurity) of past incidents, some more worrying than others. What else is currently wide open?
+The American nuclear launch code was, for 20 years, "<a href="{{giz}}">00000000</a>". Here's a [long list](https://nintil.com/ai-safety/#cybersecurity) of past incidents, some more worrying than others. What else is currently wide open?
 
 <br>
 

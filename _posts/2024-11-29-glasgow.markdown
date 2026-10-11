@@ -123,7 +123,7 @@ where:      "Tallinn"
 * Like [Bristol](https://www.gleech.org/bristol) it was at some point "second city" of the Empire. 
 	* In the C18th, Glasgow merchants controlled [40%](https://sci-hub.st/10.2307/1922038) of the American (i.e. slave) tobacco trade with Britain, more than London. The modern art gallery is now in the mansion of one of these "Tobacco Lords".
 	* At the peak around 1900, Clyde shipbuilding produced [~20%](https://www.export.org.uk/insights/trade-news/uks-trade-cities-glasgow/) of all the world's ships.
-	* But between 1960 and 1990 it _halved_ in population. The New Towns (East Kilbride, Glenrothes, Cumbernauld) that received the people cleared from the Gorbals slums are basically more Glasgow. Even after this clearance, the city is still twice as dense as Edinburgh, though less than London.
+	* But between 1960 and 1990 it roughly _halved_ in population. The New Towns (East Kilbride, Glenrothes, Cumbernauld) that received the people cleared from the Gorbals slums are basically more Glasgow. Even after this clearance, the city is still twice as dense as Edinburgh, though less than London.
 	* Let me ignore mere municipal boundaries and [strict contiguity](https://en.wikipedia.org/wiki/Greater_Glasgow) and call the real cultural unit Mega-Glasgow:
 
 	<img src="/img/megaglasgow.png" />

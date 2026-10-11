@@ -138,7 +138,7 @@ You don't hear so much about these "emergent capabilities" <a href="#fn:1" id="f
 
 * <a id="zero-shot-cot"></a>**CoT: prompting reasoning.** Moreover, instruct-tuning something for dialogue and helpfulness also began the great "reasoning" (inference scaling) turn: the ability to make the model run for longer. Merely appending the string "Let's think step by step" at runtime took InstructGPT from 17.7% to 78.7% on some maths word problems. ([Kojima et al. (2022)](https://arxiv.org/abs/2205.11916)).
 
-* <a id="zero-shot-cot"></a>**Few-shot CoT.** Moreover, giving the model a few worked examples of spelling out your reasoning steps gave it a large boost on multi-step maths and logic. The gains only appear around 100B parameters; for models below that, it hurts performance. ([Wei et al. (2022)](https://arxiv.org/abs/2201.11903)).
+* <a id="zero-shot-cot"></a>**Few-shot CoT.** Moreover, giving the model a few worked examples of spelling out your reasoning steps gave it a large boost on multi-step maths and logic. The gains only appear around 10B parameters; for models below that, it hurts performance. ([Wei et al. (2022)](https://arxiv.org/abs/2201.11903)).
 
 
 * <a id="grokking"></a>**Grokking.** Small transformers trained on instances of clock arithmetic first memorise the training set, then - long afterwards - suddenly generalise. This is emergence over training time rather than over scale; following manual inspection of the weights, the circuit turned out to be a tidy Fourier-based algorithm that had been forming gradually. ([Power et al. (2022)](https://arxiv.org/abs/2201.02177); [Nanda et al. (2023)](https://arxiv.org/abs/2301.05217)).

@@ -1,4 +1,4 @@
----
+A3:---
 layout:     math_post
 title:      "Bayesianity"
 baselink:   /bayes
@@ -300,7 +300,7 @@ Something makes us fail here, and it's not lack of talent. Humans fail here beca
 		<!--  -->
 		<b>Interactive:</b> What's missing from line 1? $$P(B) \neq 0$$<br><br>
 		<b>A3:</b> $$P\Big(\bigcup_i A_i\Big) = \sum_i P(A_i)$$<br><br>
-		with $$P(B) = \sum_i P(B \mid A_i)\,P(A_i)$$ (law of total probability)<br><br>
+		if disjoint, with $$P(B) = \sum_i P(B \mid A_i)\,P(A_i)$$ (law of total probability)<br><br>
 		($$\neg$$ = "not", negation)<br><br>
 		$$P(B) = P(B \mid A)\,P(A) + P(B \mid \neg A)\,P(\neg A)$$
 	</div>
@@ -351,10 +351,10 @@ Evidence is the only channel by which the world should rewrite a mind\*, Bayes i
 		Null $$H_0$$: $$\delta = 0''$$<br><br>
 		Observed: $$E = 1.98''$$ (arcseconds)<br><br>
 		<!--  -->
-		Bayes factor $$P(\text{GR} \mid E) \,/\, P(\text{Newton} \mid E) \approx 10^8$$<br><br>
+		Bayes factor $$P(E \mid \text{GR}) \,/\, P(E \mid \text{Newton}) \approx 10^8$$<br><br>
 		THEREFORE the prior doesn't really matter. Take an illustrative 1919 prior, $$P(H_E) = 0.2$$, $$P(H_N) = 0.7$$, $$P(H_0) = 0.1$$<br><br>
 		$$P(H_E \mid E) = \frac{0.2 \times 0.44}{0.2 \times 0.44 \,+\, 0.7 \times 5 \times 10^{-9}} \approx 0.99$$<br><br>
-		Unbelievably strong evidence from one instrument.
+		Unbelievably strong evidence from one instrument. (Don't take this literally because we are ignoring model error among other complications.)
 	</div>
 	<!--  -->
 	<h3>The Bayesian backpack</h3>
@@ -468,11 +468,11 @@ No time to go into these but ask me later: Six arguments from four unrelated pre
 
 ### Dutch book theorem (Ramsey 1926): 
 
-if you’re not Bayesian, you are mathematically guaranteed to not gain money against a clever bookie even if you get to set prices. 
+if you’re not ~Bayesian, you are mathematically guaranteed to not gain money against a clever bookie even if you get to set prices. 
 
 ### Accuracy dominance  (Joyce 1998): 
 
-If you’re not Bayesian, then you're throwing away accuracy: there exists an alternative assignment that obeys the probability laws and is closer to the truth.
+If you’re not ~Bayesian, then you're throwing away accuracy: there exists an alternative assignment that obeys the probability laws and is closer to the truth.
 
 ### Complete class (Wald 1950\): 
 

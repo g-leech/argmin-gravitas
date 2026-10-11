@@ -42,7 +42,7 @@ where:      "Moray"
 
 <br>
 
-Around 2003 there was a big, rancorous [human enhancement](https://web.archive.org/web/20080613192720/http://www.bioethics.gov/reports/beyondtherapy/chapter1.html) [debate](https://ora.ox.ac.uk/objects/uuid:85de7a60-20f0-490e-aa1b-9b19af5c3fa1/files/mc173c524ab0fec86a111cec10ef7e8a8) <a href="#fn:3" id="fnref:3">3</a>. 
+ Around 2003 there was a big, rancorous [human enhancement](https://web.archive.org/web/20080613192720/http://www.bioethics.gov/reports/beyondtherapy/chapter1.html) [debate](https://ora.ox.ac.uk/objects/uuid:85de7a60-20f0-490e-aa1b-9b19af5c3fa1/files/mc173c524ab0fec86a111cec10ef7e8a8) <a href="#fn:3" id="fnref:3">3</a>.
 
 The reigning "bioconservatives" predicted that new biotech would lead to moral or political catastrophe, and the loss of human dignity, and maybe wouldn't even boost welfare; the "transhumanists" <a href="#fn:2" id="fnref:2">2</a> argued that nuh uh.  <br><br>
 
@@ -92,7 +92,7 @@ And so: a new era of mass chemical enhancement and healthy <a href="https://en.w
 	<img width="57%" style="border: 0px" src="/img/testo.jpg" />
 </div>
 
-([link](https://news.gallup.com/poll/696599/obesity-rate-declining.aspx), [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11355536/))
+([link](https://news.gallup.com/poll/712157/glp-usage-reaches-new-high.aspx), [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11355536/))
 
 <br>
 <div class="imgContainer">
@@ -131,9 +131,9 @@ And so: a new era of mass chemical enhancement and healthy <a href="https://en.w
 </center>
  -->
 
-As so often, Fukuyama (quoted above) looks wrong but is not wrong: society indeed did _not_ become transhumanist - that is, not in belief. Few of the biotech users endorse the philosophy of technological transcendence. But society is heading there in deed. Conservative forces (religion, disgust, precaution) were in this case grossly outgunned by the force of sheer desire.
+As so often, Fukuyama (quoted above) looks wrong but is not wrong: society did _not_ become transhumanist - not in belief. Few of the biotech users endorse any philosophy of technological transcendence. But in _deed_, society is well on its way there. Conservative forces (religion, disgust, precaution) were in this case grossly outgunned by sheer desire.
 
-We got, not transhumanism (as deliberate, informed, rational decision to self-consciously go beyond natural human capacity), but surreptitious transhuman _behaviour_, without the weird philosophy or the new aesthetics. Technology by default, without conscious ideology. Playing god - but using these new, unfathomable powers to... become more normal. So call it _transnormalism_. <a href="#fn:5" id="fnref:5">5</a>. 
+We got, not transhumanism (the deliberate self-conscious project of going beyond natural human capacity), but surreptitious transhuman _behaviour_: the tech without the weird philosophy or new aesthetics. Playing god - but largely spending this quasi-divine power on reifying our normality. Leaner, less anxious, less nerdy, less bald, less mopey. So call it _transnormalism_. <a href="#fn:5" id="fnref:5">5</a>.
 
 What of the bioconservative prediction of a reckoning for civilisation? So far none arrived. Either <br><br>
 
@@ -215,7 +215,7 @@ New:<br>
   </tr>
   <tr>
   	<td class="tg-0lax">Anabolics (CDMT / Turinabol, 1968)</td>
-  	<td class="tg-0lax">HGH (1985), rhEPO (1993), cardarine (2001), ACP-105 (2009), bimagrumab (2013)</td>
+  	<td class="tg-0lax">HGH (1985), rhEPO (1989), cardarine (2001), ACP-105 (2009), bimagrumab (2013)</td>
   </tr>
   <tr>
     <td class="tg-0pky">The Pill (1960)</td>
@@ -227,7 +227,7 @@ New:<br>
   </tr>
   <tr>
     <td class="tg-0lax">Alarm clocks (c. 1904)</td>
-    <td class="tg-0lax">light alarms (2010s)</td>
+    <td class="tg-0lax">light alarms (1990s)</td>
   </tr>
   <tr>
     <td class="tg-0lax">Hearing aids (c. 1800)</td>
@@ -346,7 +346,7 @@ Medicine has been expanding for centuries, especially in the last two decades. T
 
 <img src="/img/nhe.png" />
 
-In absolute terms (multiplying [healthcare share](https://ourworldindata.org/grapher/total-healthcare-expenditure-gdp?tab=table&tableSearch=world) by [GWP](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)) we spent $1.85tn in 2000, something north of $7.1tn in 2022 (and more now).
+In absolute terms (multiplying [healthcare share](https://ourworldindata.org/grapher/total-healthcare-expenditure-gdp?tab=table&tableSearch=world) by [GWP](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)) we spent maybe $2-3tn in 2000, maybe $7-10tn in 2022 (and more now).
 
 But after being incubated in medicine, enhancement is being taken off the doctors. The thriving grey market (intense cosmetics, "aesthetics" and "[med spas](https://www.theguardian.com/tv-and-radio/2025/jun/09/john-oliver-med-spas)" and nootropics) and black market (study drugs, research chemicals, peptides, bootleg hormones) are of unknown size but growing insanely fast.
 

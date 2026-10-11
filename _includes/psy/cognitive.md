@@ -92,7 +92,7 @@
 </div><a name="dk"></a><br>
 
 
-* Questionable evidence for the "<span class="b">hungry judge</span>" effect, of massively reduced acquittals (d=2) just before lunch. Case order isn't independent of acquittal probability ("unrepresented prisoners usually go last and are less likely to be granted parole"); favourable cases may take predictably longer and so are pushed until after recess; effect size is implausible on priors; explanation involved ego depletion.
+* Questionable evidence for the "<span class="b">hungry judge</span>" effect, of massively reduced favourable parole-board decisions (d=2) just before lunch. Case order isn't independent of the probability of a favourable decision ("unrepresented prisoners usually go last and are less likely to be granted parole"); favourable cases may take predictably longer and so are pushed until after recess; effect size is implausible on priors; explanation involved ego depletion.
 <div class="accordion">
 	<h3>Stats</h3>
 	<div>
