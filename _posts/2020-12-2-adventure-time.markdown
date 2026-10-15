@@ -137,7 +137,7 @@ While fin doesn't get  it since he was a baby then
  -->
 
 
-## Lemonhope dies last
+## Melody of Certain Damaged Lemons
 
 The most startling episode in the whole series is [Lemonhope II](https://adventuretime.fandom.com/wiki/Lemonhope_Part_2). A thousand years after the events of the main series, Lemonhope wanders through an empty wasteland, passing abandoned cities and fallen landmarks. We see no other life. Then alone he dies.
 
