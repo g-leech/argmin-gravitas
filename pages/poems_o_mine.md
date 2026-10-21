@@ -9,6 +9,85 @@ visible:    false
 
 ## 2026
 
+### Research Excellence Framework
+
+epistemic entitlement <br>
+epistemic closure <br>
+epistemic transmission<br>
+epistemic priority<br>
+epistemic standing<br>
+epistemic parity <br>
+epistemic luck <br>
+epistemic risk <br>
+epistemic safety <br>
+epistemic sensitivity <br>
+epistemic akrasia <br>
+epistemic anxiety <br>
+epistemic angst <br>
+epistemic vertigo<br>
+epistemic insouciance <br>
+epistemic norm<br>
+epistemic permissibility<br>
+epistemic expressivism <br>
+epistemic supervenience <br>
+epistemic goods <br>
+epistemic credit <br>
+epistemic decision theory <br>
+epistemic bribe <br>
+epistemic permissivism <br>
+epistemic communism <br>
+epistemic entrenchment <br>
+epistemic hell <br>
+epistemic modesty<br>
+epistemic courage<br>
+epistemic malevolence <br>
+epistemic justice<br>
+epistemic trespassing <br>
+epistemic paternalism <br>
+epistemic violence <br>
+epistemic labour<br>
+epistemic privilege<br>
+epistemic disobedience<br>
+epistemic decolonisation<br>
+epistemic crisis<br>
+epistemic immunity<br>
+epistemic liberalism<br>
+epistemic learned helplessness <br>
+epistemic effort<br>
+epistemic immune system <br>
+epistemic analyticity <br>
+epistemic future<br>
+epistemic engine and territories <br>
+epistemic upgrade and downgrade <br>
+epistemic responsibilities <br>
+epistemic operator<br>
+epistemic arithmetic <br>
+epistemic characterisation<br>
+epistemic foraging<br>
+epistemic virtues <br>
+epistemic vigilance <br>
+epistemic petrification <br>
+epistemic trust <br>
+epistemic freezing <br>
+epistemic unfreezing<br>
+epistemic needs<br>
+epistemic games <br>
+epistemic fluency <br>
+epistemic cut <br>
+epistemic distance <br>
+epistemic murk <br>
+epistemicide<br>
+epistemicism<br>
+epistemological break<br>
+epistemological disjunctivism<br>
+<br>
+epistemic status: epistemic communist hell <br>
+epistemic step-paternalism<br>
+epistemic labour theory of value<br>
+epistemic achievement: epistemic learned helplessness<br>
+Epistemic Epistemic Insouciance as Epistemic Defence Mechanism in Epistemic Communist Hell: An Epistemic Network Analysis<br>
+
+
 ### Spring Prospect (by 杜甫)
 
 The state is destroyed; the mountains remain<br>
