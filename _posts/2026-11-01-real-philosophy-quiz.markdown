@@ -126,7 +126,7 @@ categories: philosophy
 <div id="philquiz">
 <div class="intro">
 
-<p>Every so often I see a <a href="https://x.com/Will_Hackspeare/status/2116262041115935144">really bad</a> "choose your philosopher" quiz. This hasn't been getting much better despite the (by all accounts very well-read) AIs now writing the quizzes. But if we're going to reduce philosophy to a series of binary forced choices, then we should really use the king of binary forced choice: the PhilPapers Survey! </p>
+<p>Every so often I see a <a href="https://x.com/Will_Hackspeare/status/2116262041115935144">really bad</a> "choose your philosopher" quiz. This hasn't been getting much better despite the (by all accounts very well-read) AIs now writing the quizzes. But if we're going to reduce philosophy to a series of binary forced choices, then we should really use the king of binary forced choice: <a href="https://survey2020.philpeople.org/">the PhilPapers Survey</a>! </p>
 <br>
 <p>To reward you, I've mapped your position to the closest match among the <span id="ledeN">contemporary philosophers</span> that made their answers public, and to which of <span id="ledeC">the classics</span> probably would have agreed with you.</p>
 <br>
