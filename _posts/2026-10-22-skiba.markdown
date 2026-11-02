@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "Matt Skiba, Time Traveller"
+baselink:   /skiba
+permalink:  /skiba
+date:       2023-06-08
+author:     Gavin
+
+img:        /img/
+published:  false
+visible:    1
+
+summary:    
+categories: music, AI
+confidence: 
+importance: 
+quality:    
+wordcount:  
+argument:   
+---

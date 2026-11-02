@@ -1,0 +1,9 @@
+# Netlify response headers (https://docs.netlify.com/routing/headers/).
+# Permissions-Policy only switches off features nothing here uses; the YouTube
+# iframes still need fullscreen, autoplay, picture-in-picture etc.
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Content-Security-Policy: frame-ancestors 'self'; base-uri 'self'; object-src 'none'
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()

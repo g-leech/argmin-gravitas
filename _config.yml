@@ -9,3 +9,4 @@ highlighter: none
 
 # Build settings
 markdown: kramdown
+include: [_headers] # Jekyll skips _-prefixed files; Netlify needs this one in _site
