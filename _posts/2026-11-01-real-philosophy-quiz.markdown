@@ -15,7 +15,7 @@ summary:    You could always do this, but now there's a quiz so you might actual
 confidence: 70% for imputed positions to the ancients.
 importance:
 wordcount:
-warnings: 	Some AI text. Claude did the imputing.
+warnings: 	Some AI text. Claude did the imputing of binary views to the classic philosophers.
 categories: philosophy
 ---
 
