@@ -146,7 +146,7 @@ categories: philosophy
 <details class="dropdown">	
 	<summary>Questions and percentages</summary><p>The <a href="https://survey2020.philpeople.org/survey/results/all">2020 PhilPapers Survey</a> (David Bourget and David Chalmers), target-faculty respondents, "accept or lean towards". Individual answers: the public Philosophical Views on <a href="https://philpeople.org/find-philosopher/search?must_have_public_views=on">PhilPeople profiles</a>, retrieved 30 October 2026. Philosophers can update their public views at any time, so a profile may differ from what it said in 2020.</p>
 <p>The question explanations (behind each green "?") and the "Arguments and sources" notes were written by Claude as short orientations to each debate. Every source link was checked to resolve to the work cited; for fuller treatments, follow the Stanford Encyclopedia of Philosophy entries.</p>
-<p>It wouldn't be an Internet Quiz without some spurious celebrities. For the 99 historical philosophers, Claude guessed their answer from their writings and standard scholarship. Two models (Opus and Fable) imputed independently; where they disagreed with no clear winner, the cell was left blank, as were questions too anachronistic for a given figure.</p>
+<p>It wouldn't be an Internet Quiz without some spurious celebrities. For the 99 historical philosophers, Claude guessed their answer from their writings and standard scholarship. Three models (Opus, Fable, and <a href="https://www.alphaxiv.org/pdf/2606.29661">Grok</a>) imputed views to them independently; where they disagreed with no clear winner, the cell was left blank, as were questions too anachronistic for a given figure.</p>
 </details>
 </div>
 </div>
