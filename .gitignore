@@ -2,7 +2,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-.archiver
+.linkrot.json
 files/pdf
 blog.sublime-workspace
 .DS_Store
