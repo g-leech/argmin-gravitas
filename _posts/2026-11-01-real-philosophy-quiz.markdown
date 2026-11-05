@@ -92,6 +92,7 @@ categories: philosophy
 #philquiz .matches .pc { margin-left: .35em; font-weight: 600; font-variant-numeric: tabular-nums; }
 #philquiz .matches .sub { display: block; }
 #philquiz .matches .step { display: inline-block; margin-top: .3em; }
+#philquiz .actions { display: flex; flex-wrap: wrap; gap: 1em; }
 #philquiz .erase { padding: .7em 1.6em; border: 2px solid var(--fg); border-radius: 10px; font-size: 1.2em; font-weight: 600; }
 #philquiz .erase:hover { background: var(--fg); color: var(--bg); }
 #philquiz .erase:disabled { border-color: var(--faint); color: var(--faint); background: none; cursor: default; }
@@ -137,7 +138,7 @@ categories: philosophy
 <hr>
 <section id="board" aria-label="Closest matches"></section>
 <hr>
-<p><button type="button" class="erase" id="erase">Erase my answers</button></p>
+<p class="actions"><button type="button" class="erase" id="export">Export my answers</button><button type="button" class="erase" id="erase">Erase my answers</button></p>
 <br>
 <div class="notes">
 <details class="dropdown">

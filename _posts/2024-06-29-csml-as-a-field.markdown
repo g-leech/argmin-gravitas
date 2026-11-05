@@ -93,7 +93,7 @@ I would have done worse in a philosophy degree - the standards are higher, I'm n
 
 I would have done pretty well in an information studies or some social science programme - but I would have lost out, since I need to be surrounded by more rigorous people and be forced to not indulge.
 
-<!-- https://davidstutz.de/thoughts-on-academia-and-industry-in-machine-learning-research/ -->
+<!-- https://web.archive.org/web/20240819142319/https://davidstutz.de/thoughts-on-academia-and-industry-in-machine-learning-research/ -->
 
 
 > a computer science PhD student who does not especially like mathematics attained approximately 40% on MATH, while a three-time IMO gold medalist attained 90%, indicating that MATH can be challenging for humans as
@@ -134,7 +134,7 @@ I would have done pretty well in an information studies or some social science p
 
 
 - Jacob Steinhardt
-- [James Betker](https://nonint.com/about/)
+- [James Betker](https://web.archive.org/web/20240705042041/https://nonint.com/about/)
 - Lilian Weng
 - Vincent Conitzer
 - Michael Osborne

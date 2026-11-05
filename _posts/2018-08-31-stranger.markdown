@@ -23,7 +23,7 @@ wordcount:
 </center><br>
 
 <blockquote>I don’t know whether there are any moral saints. But if there are, I am glad that neither I nor those about whom I care most are among them... The moral virtues, present... to an extreme degree, are apt to crowd out the non-moral virtues, as well as many of the interests and personal characteristics that we generally think contribute to a healthy, well-rounded, richly developed character...<br> there seems to be a limit to how much morality we can stand.</blockquote>
-<center>	<a href="http://philosophyfaculty.ucsd.edu/faculty/rarneson/Courses/susanwolfessay1982.pdf">– Susan Wolf</a></center>
+<center>	<a href="https://web.archive.org/web/20180413021303/http://philosophyfaculty.ucsd.edu:80/faculty/rarneson/Courses/susanwolfessay1982.pdf">– Susan Wolf</a></center>
 <br>
 
 
@@ -42,7 +42,7 @@ wordcount:
 <br>
 <br>
 
-Twelve profiles of recent radical altruists, and the backlash they receive from the rest of us. (^) Besides, MacFarquhar has some deep reflections on the good life and human nature to work through. So: There are people who shape their lives around the need of the world – in particular around strangers who are <a href="http://apps.who.int/immunization_monitoring/diseases/en/">constantly</a>, in some sense, drowning. This category of person does more than just work a caring job and be dead nice to those around them: instead, their entire lives are dominated by the attempt to do the <i>most</i> good.<br><br>
+Twelve profiles of recent radical altruists, and the backlash they receive from the rest of us. (^) Besides, MacFarquhar has some deep reflections on the good life and human nature to work through. So: There are people who shape their lives around the need of the world – in particular around strangers who are <a href="https://web.archive.org/web/20170228093154/http://apps.who.int/immunization_monitoring/diseases/en/">constantly</a>, in some sense, drowning. This category of person does more than just work a caring job and be dead nice to those around them: instead, their entire lives are dominated by the attempt to do the <i>most</i> good.<br><br>
 
 <div class="accordion">
 	<h3>Profiled altruists</h3>
@@ -56,11 +56,11 @@ Twelve profiles of recent radical altruists, and the backlash they receive from 
 
 <li><a href="http://www.newyorker.com/magazine/2009/07/27/the-kindest-cut">A real Christian</a>, who opened her church to the homeless (over the hostility of her flock) and donated a kidney anonymously.</li><a name="data"></a><br>
 
-<li><a href="https://en.wikipedia.org/wiki/Baba_Amte">A charismatic, outcaste social worker and jungle statesman</a>, who created <a href="http://anandwan.in/anandwan/">a self-sustaining leper ashram</a>, 5000-strong, out of nothing. Also his <a href="https://en.wikipedia.org/wiki/Vikas_Amte">equally</a> <a href="https://en.wikipedia.org/wiki/Prakash_Amte">hardcore</a> descendents.</li><br>
+<li><a href="https://en.wikipedia.org/wiki/Baba_Amte">A charismatic, outcaste social worker and jungle statesman</a>, who created <a href="http://anandwan.in/anandwan/">a self-sustaining leper ashram</a>, 5000-strong, out of nothing. Also his <a href="https://web.archive.org/web/20161023201640/https://en.wikipedia.org/wiki/Vikas_Amte">equally</a> <a href="https://en.wikipedia.org/wiki/Prakash_Amte">hardcore</a> descendents.</li><br>
 
-<li><a href="https://twitter.com/itte2nemo10">A Buddhist monk</a> who created the largest suicide counselling site in Japan, stressing himself into heart disease.</li><br>
+<li><a href="https://web.archive.org/web/20220221045512/https://twitter.com/itte2nemo10">A Buddhist monk</a> who created the largest suicide counselling site in Japan, stressing himself into heart disease.</li><br>
 
-<li><a href="http://www.badeaufamily.com/ouradoptionstory.htm">The omni-parents of Vermont</a>, who adopted 24 of the least cute and easy children on the lists.</li><br>
+<li><a href="https://web.archive.org/web/20180114100240/http://www.badeaufamily.com:80/ouradoptionstory.htm">The omni-parents of Vermont</a>, who adopted 24 of the least cute and easy children on the lists.</li><br>
 
 <li>A taciturn altruistic kidney donor.</li><br>
 <li>A burned-out idealist.<a href="#fn:4" id="fnref:4">4</a></li>
@@ -75,7 +75,7 @@ Twelve profiles of recent radical altruists, and the backlash they receive from 
 MacFarquhar appears suspicious about these people, whose lives are taken over by their morals. She calls them "do-gooders" while admitting the term is dismissive.<a href="#fn:2" id="fnref:2">2</a> Even the most humble and quiet do-gooder is, she thinks, making an extremely arrogant claim: that the moral intuitions of the whole species - i.e. family favouritism, <a href="https://en.wikipedia.org/wiki/Supererogation">supererogation</a>, the right to ignore the suffering of strangers - are totally wrong. She leaves no-one unsuspected.
 <br>
 <blockquote><i>an extreme morality [such] as Singer's or Godwin's can seem not just oppressively demanding but actually evil, because it violates your duty to yourself. To require a person to think of himself as a tool for the general good could be seen as equivalent of kidnapping a person off the street and harvesting his organs to save three or four lives... even to ask this of yourself seems wrong, even perverted. Impartial, universal love seems the antithesis of what we value about deep human attachment.</i></blockquote>
-<br>But these lives are victory laps: the victory of broad reason over narrow animality. MacFarquhar is more nuanced, less willing to dismiss particularism, nepotism and speciesism – which are together known as common sense. (Though I have only a mild case of the radicals: for instance, I am mostly immune to misery about the state of the world, and I help my loved ones without much guilt. I'm <a href="https://webcache.googleusercontent.com/search?q=cache:YclKt_ybNHMJ:https://www.givingwhatwecan.org/about-us/members/+&cd=1&hl=en&ct=clnk&gl=uk">giving 10% now</a> and 50% eventually, but I am such a bookish scruff that the absence of luxuries does not really cramp my life at all.)
+<br>But these lives are victory laps: the victory of broad reason over narrow animality. MacFarquhar is more nuanced, less willing to dismiss particularism, nepotism and speciesism – which are together known as common sense. (Though I have only a mild case of the radicals: for instance, I am mostly immune to misery about the state of the world, and I help my loved ones without much guilt. I'm <a href="https://web.archive.org/web/20180808174352/https://www.givingwhatwecan.org/about-us/members/">giving 10% now</a> and 50% eventually, but I am such a bookish scruff that the absence of luxuries does not really cramp my life at all.)
 <br>
 <br>
 
@@ -161,7 +161,7 @@ An amazing book, anyway: charged, critical, structurally ingenious, and filled w
 		Philosophy - e.g. Peter Singer, Will MacAskill, Toby Ord, Mark Lee, Geoff Anders, Stephanie Wykstra - <a href="https://books.google.co.uk/books?id=Su7GCAAAQBAJ&pg=PT6&dq=strangers+drowning&hl=en&sa=X&redir_esc=y#v=onepage&q=philosoph&f=false">looms large here</a>, in this little corner of the species; larger than organised religion. Since all of the philosophers are from Analytic departments, this gives the lie to <a href="http://opinionator.blogs.nytimes.com/2016/01/11/when-philosophy-lost-its-way/?_r=1">the generalised standard criticism</a> of academic philosophy (: that they are fatally detached from the concerns of society, dehumanised, etc).
 	</li>
     <li class="footnote" id="fn:4">
-		MacFarquhar's account of Stephanie is misleading: she makes it seem like she has opted for ordinary amoral innocence, where <a href="https://twitter.com/swykstr">the real Stephanie</a> has taken on <a href="http://www.senseaboutscienceusa.org/hanging-onto-hope-what-its-like-to-participate-in-a-clinical-trial/">an incredibly high-impact job</a>, activism for oversight of pharmaceutical clinical trial data. 
+		MacFarquhar's account of Stephanie is misleading: she makes it seem like she has opted for ordinary amoral innocence, where <a href="https://web.archive.org/web/20200608122039/https://twitter.com/swykstr">the real Stephanie</a> has taken on <a href="http://www.senseaboutscienceusa.org/hanging-onto-hope-what-its-like-to-participate-in-a-clinical-trial/">an incredibly high-impact job</a>, activism for oversight of pharmaceutical clinical trial data. 
 	</li>
 </ol>
 

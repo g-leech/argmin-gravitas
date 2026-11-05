@@ -267,7 +267,7 @@ I asked my labmates what it was all about. They didn't really know how to answer
 
 ## Going Rogue
 
-Again, there's this whole other orientation to grad school, the rogueish one. Treat it like a <a href="https://acritch.com/deliberate-grad-school/">windfall</a> of freedom and basic income. Work on your art or startup or basic understanding, while doing research on the side. This does requires you to be a fundamentally disloyal person.
+Again, there's this whole other orientation to grad school, the rogueish one. Treat it like a <a href="https://web.archive.org/web/20241208165225/https://acritch.com/deliberate-grad-school/">windfall</a> of freedom and basic income. Work on your art or startup or basic understanding, while doing research on the side. This does requires you to be a fundamentally disloyal person.
 
 - publishing covers sins
     - my first workshop paper written Feb 2020, 6 months into quals year
@@ -359,7 +359,7 @@ My current guess is that the set of people who should do a PhD is exhausted by
 - People who are really remarkably chill and really want to become a "PI" (research lead)
 - __Love__: People who are obsessed with their specific topic. You'd do it for free (you nearly are). We used to call them amateurs. Do not get a PhD in anything you are not obsessed with. Intrinsic interestingness, like AI, is a poor but workable substitute.
 - __Hermits__: People who do not feel at home in society except in the regimented and half-real sanctuary of academia. (You should consider being a campus IT guru instead though, much less bullshit.)
-- __Rogue__: <a href="https://acritch.com/deliberate-grad-school/">People</a> who need a basic income to work on their art or their startup or their basic understanding, while doing research on the side. Requires nerves of steel.
+- __Rogue__: <a href="https://web.archive.org/web/20241208165225/https://acritch.com/deliberate-grad-school/">People</a> who need a basic income to work on their art or their startup or their basic understanding, while doing research on the side. Requires nerves of steel.
 - Maybe a short stint for very arrogant people, to knock the stuffing out 
 
 
@@ -399,7 +399,7 @@ Many of the best social scientists and statisticians have left academia, partly 
 * https://x.com/BasilHalperin/status/1799138501356904652
 * https://x.com/hyhieu226/status/1793686585067942142
 * https://twitter.com/opinonhaver/status/1791158220846960912
-* https://eiko-fried.com/antidotes-to-cynicism-creep
+* https://web.archive.org/web/20240715233539/https://eiko-fried.com/antidotes-to-cynicism-creep/
 * https://www.goodreads.com/review/show/3025203866
 * [Piled higher and deeper](https://www.gleech.org/phdone)
 * [phdiary](https://www.gleech.org/diary)

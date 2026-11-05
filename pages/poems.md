@@ -15,7 +15,7 @@ visible:	false
 
 - '[Hymn to Proserpine](https://www.poetryfoundation.org/poems/45292/hymn-to-proserpine-after-the-proclamation-in-rome-of-the-christian-faith)' by Swinburne
 
-- '[Prayer Before Birth](https://poetryarchive.org/poem/prayer-before-birth/)' by MacNeice
+- '[Prayer Before Birth](https://web.archive.org/web/20260714162851/https://poetryarchive.org/poem/prayer-before-birth/)' by MacNeice
 
 - '[Bavarian Gentians](https://poetryarchive.org/poem/bavarian-gentians/)' by Lawrence
 
@@ -116,7 +116,7 @@ visible:	false
 
 - '[Aurora Leigh](https://www.poetryfoundation.org/poems/145567/aurora-leigh-book-1)' by Elizabeth Barrett Browning
 
-- '[Israel](http://roothogordie.wordpress.com/2009/01/07/briefly-off-message-from-leonard-cohens-book-of-mercy/)' by Leonard Cohen
+- '[Israel](https://web.archive.org/web/20110826092433/http://roothogordie.wordpress.com/2009/01/07/briefly-off-message-from-leonard-cohens-book-of-mercy/)' by Leonard Cohen
 
 - '[A Working Man](http://books.google.co.uk/books?id=kyCVRKtQ5H0C&pg=PT201&lpg=PT201&dq=%22I+was+proud+to+be+a+working+man%22+leonard+cohen&source=bl&ots=uP4YphqCD_&sig=74iwCedUszd0Hx7rTg-4ubcFaME&hl=en&sa=X&ei=Sl6wUZLWOomg0QXQnoHQAQ&ved=0CCwQ6AEwAA)' by Leonard Cohen
 
@@ -167,7 +167,7 @@ visible:	false
 
 - '[Sad Steps](https://www.poetryfoundation.org/poems/47594/an-arundel-tomb)' by Philip Larkin
 
-- '[Summers and Springs](https://sci-hub.se/10.1177/030437540002500315)' by Jaan Kaplinski
+- '[Summers and Springs](https://web.archive.org/web/20250119233538/https://sci-hub.se/10.1177/030437540002500315)' by Jaan Kaplinski
 
 - '[The Whitsun Weddings](https://www.poetryfoundation.org/poems/48411/the-whitsun-weddings)' by Philip Larkin
 

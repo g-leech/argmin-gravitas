@@ -125,7 +125,7 @@ Inspired by <a href="{{Snot}}">this</a> long list of things that separate a fres
 * <a href="/bayes">Bayesianity</a>
 
 
-[Snot]: 		http://www.starling-software.com/employment/programmer-competency-matrix.html 
+[Snot]: 		https://web.archive.org/web/20161120101322/http://www.starling-software.com:80/employment/programmer-competency-matrix.html 
 
 
 {%  include dsfaq/foots.html %}

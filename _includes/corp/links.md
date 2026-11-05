@@ -1,4 +1,4 @@
-{%		assign kafka = "http://us.milliman.com/uploadedFiles/insight/life-published/pdfs/from-the-office.pdf"		%}
+{%		assign kafka = "https://web.archive.org/web/20190919205245/http://us.milliman.com/uploadedFiles/insight/life-published/pdfs/from-the-office.pdf"		%}
 {%		assign zed = "https://learnpythonthehardway.org/python3/advice.html"		%}
 {%		assign rao = "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/"		%}
 {%		assign bakan = "https://en.wikiquote.org/wiki/Joel_Bakan"		%}
@@ -6,7 +6,7 @@
 {%		assign chomsky = "http://www.ontheissues.org/Celeb/Noam_Chomsky_Corporations.htm"		%}
 		
 {%		assign mujo = "http://mujoco.org/"		%}
-{%		assign garden = "http://www.iambeingfired.co.uk/gardenleave.html"		%}
+{%		assign garden = "https://web.archive.org/web/20190401040451/http://www.iambeingfired.co.uk:80/gardenleave.html"		%}
 {%		assign age = "https://www.cnbc.com/2017/08/24/technology-killing-off-corporations-average-lifespan-of-company-under-20-years.html"		%}
 {%		assign immort = "https://fortune.com/longform/fortune-500-through-the-ages/"		%}
 {%		assign baum = "https://www.goodreads.com/review/show/2876187626"		%}

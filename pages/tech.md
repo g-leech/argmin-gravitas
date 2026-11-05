@@ -89,7 +89,7 @@ visible:  false
 - Paradigms of Artificial Intelligence Programming: Case Studies in Common LISP
 - Nielsen on Neural Networks
 - [Bayesian optimisation](https://bayesoptbook.com/), Garnett
-- [Principles of Deep Learning Theory](https://deeplearningtheory.com/PDLT.pdf)
+- [Principles of Deep Learning Theory](https://web.archive.org/web/20210904142627/https://deeplearningtheory.com/PDLT.pdf)
 - AIMA
 
 <br>
@@ -152,7 +152,7 @@ visible:  false
 * [psych](https://web.archive.org/web/20250124112113/http://psychclassics.yorku.ca/topic.htm)
 * [physics](https://www.susanrigetti.com/physics)
 * [Chicago undergrad](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
-* [Chauvenet Prize](https://www.maa.org/programs-and-communities/member-communities/maa-awards/writing-awards/chauvenet-prizes)
+* [Chauvenet Prize](https://web.archive.org/web/20240524194657/https://maa.org/programs-and-communities/member-communities/maa-awards/writing-awards/chauvenet-prizes)
 * [Reinh](https://web.archive.org/web/20210928175536/http://reinh.com/notes/posts/2014-07-25-recommended-reading-material.html)
 * [David Valdman](https://github.com/dmvaldman/library)
 * [Sutskever to Carmack](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)

@@ -25,4 +25,4 @@
 {%	assign dreyfus = "https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence"		%}
 {%	assign climate = "https://ea.greaterwrong.com/posts/eJPjSZKyT4tcSGfFk/climate-change-is-in-general-not-an-existential-risk"		%}
 {%	assign mesa = "https://arxiv.org/abs/1906.01820"		%}
-{%	assign appg = "https://www.appgfuturegenerations.com/"	%}
+{%	assign appg = "https://web.archive.org/web/20251216015958/https://www.appgfuturegenerations.com/"	%}

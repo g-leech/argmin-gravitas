@@ -8,7 +8,7 @@
 {%	assign potato = "http://www.ox.ac.uk/news/2019-01-15-technology-use-explains-most-04-adolescent-wellbeing"	%}
 {%	assign himmi = "https://www.sciencedirect.com/science/article/pii/S2212094715300517"	%}
 {%	assign inglis = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267699"	%}
-{%	assign sem = "http://laplab.ucsd.edu/articles/RohrerPashlerHarris2015JEPG.pdf"	%}
+{%	assign sem = "https://web.archive.org/web/20260107170711/https://laplab.ucsd.edu/articles/RohrerPashlerHarris2015JEPG.pdf"	%}
 {%	assign wreck = "https://replicationindex.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-went-of-the-rails/"	%}
 {%	assign zim1 = "http://pdf.prisonexp.org/ijcp1973.pdf"		%}
 {%	assign zim2 = "https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=9776461194085021745"		%}
@@ -24,8 +24,8 @@
 {%	assign stapIt = "http://retractiondatabase.org/RetractionSearch.aspx?AspxAutoDetectCookieSupport=1#?auth%3dStapel%252c%2bDiederik%2bA"		%}
 {%	assign halv = "https://etiennelebel.com/documents/osc(2015,science).pdf"		%}
 {%	assign whyPsy = "https://statmodeling.stat.columbia.edu/2016/09/22/why-is-the-scientific-replication-crisis-centered-on-psychology/"		%}
-{%	assign denny = "https://sci-hub.se/10.1016/j.jtbi.2007.11.004"		%}
-{%	assign gla = "https://sci-hub.se/10.1016/j.tics.2018.10.008"		%}
+{%	assign denny = "https://web.archive.org/web/20260112050849/https://sci-hub.se/10.1016/j.jtbi.2007.11.004"		%}
+{%	assign gla = "https://web.archive.org/web/20240527084520/https://sci-hub.se/10.1016/j.tics.2018.10.008"		%}
 {%	assign arms = "https://pdfs.semanticscholar.org/b63e/25900013605c16f4ad74c636cfbd8e9a3e8e.pdf"		%}
 {%	assign maths1 = "https://www.sciencedirect.com/science/article/pii/S0022440514000831"		%}
 {%	assign maths2 = "https://psycnet.apa.org/record/2013-02693-001"		%}
@@ -38,8 +38,8 @@
 
 {%	assign criterion = "https://onlinelibrary.wiley.com/doi/abs/10.1111/sjop.12288"		%}
 {%	assign jussim = "https://journals.sagepub.com/doi/abs/10.1207/s15327957pspr0902_3"		%}
-{%	assign oswald = "https://sci-hub.se/10.1037/a0032734"		%}
-{%	assign linnae = "https://lnu.se/globalassets/lmdswp201511.pdf"		%}
+{%	assign oswald = "https://web.archive.org/web/20241231035237/https://sci-hub.se/10.1037/a0032734"		%}
+{%	assign linnae = "https://web.archive.org/web/20211117143001/https://lnu.se/globalassets/lmdswp201511.pdf"		%}
 {%	assign ret = "https://www.researchgate.net/publication/309563293_Temporal_Stability_of_Implicit_and_Explicit_Measures_A_Longitudinal_Analysis/link/5c8a8f1d92851c1df94197eb/download"		%}
 
 {%	assign prof = "https://journals.sagepub.com/doi/abs/10.1177/1745691618755704?journalCode=ppsa"		%}
@@ -51,7 +51,7 @@
 
 {%	assign hungry = "https://www.pnas.org/content/108/42/E833.long"		%}
 {%	assign hung = "http://journal.sjdm.org/16/16823/jdm16823.html"		%}
-{%	assign jud = "http://nautil.us/blog/impossibly-hungry-judges"		%}
+{%	assign jud = "https://web.archive.org/web/20220121225818/https://nautil.us/blog/impossibly-hungry-judges"		%}
 
 {%	assign bem = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033423"		%}
 {%	assign elder1 = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029081#s2"		%}
@@ -63,13 +63,13 @@
 {%	assign zim = "https://en.wikipedia.org/wiki/Stanford_prison_experiment#Criticism_and_response"		%}
 
 {%	assign dnb = "https://www.gwern.net/DNB-meta-analysis#moderators"	%}
-{%	assign merby = "https://sci-hub.se/10.1037/a0028228"		%}
+{%	assign merby = "https://web.archive.org/web/20241004123032/https://sci-hub.se/10.1037/a0028228"		%}
 {%	assign lamp = "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001756"		%}
-{%	assign dwee = "https://www.motsd.org/cmsAdmin/uploads/blackwell-theories-of-intelligence-child-dev-2007.pdf"	%}
+{%	assign dwee = "https://web.archive.org/web/20210909052806/https://www.motsd.org/cmsAdmin/uploads/blackwell-theories-of-intelligence-child-dev-2007.pdf"	%}
 {%	assign dweck = "https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0604_1"		%}
 
 {%	assign preg = "https://en.wikipedia.org/wiki/Preregistration"		%}
-{%	assign soto = "https://sci-hub.se/10.1177/0956797619831612"		%}
+{%	assign soto = "https://web.archive.org/web/20241231035230/https://sci-hub.se/10.1177/0956797619831612"		%}
 {%	assign blue = "https://www.theguardian.com/science/brain-flapping/2013/jan/21/blue-monday-depressing-day-nonsense-science"		%}
 {%	assign wagen = "https://www.ejwagenmakers.com/2016/WagenmakersEtAl2016Strack.pdf"		%}
 
@@ -95,7 +95,7 @@
 
 
 {%	assign psychiatry = "https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.2011.11020191"		%}
-{%	assign jbg = "https://sci-hub.se/10.1007/s10519-011-9504-z"		%}
+{%	assign jbg = "https://web.archive.org/web/20260106060613/https://sci-hub.se/10.1007/s10519-011-9504-z"		%}
 
 {%	assign gwas = "https://www.biorxiv.org/content/10.1101/261081v2.full"		%}
 
@@ -117,14 +117,14 @@
 {%	assign shel = "https://en.wikipedia.org/wiki/Rupert_Sheldrake#Career"		%}
 
 {%	assign gwern = "https://www.gwern.net/newsletter/2019/13#what-progress"		%}
-{%	assign repcog = "https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-all-passed-a-stringent-test-of-their-replicability"		%}
+{%	assign repcog = "https://web.archive.org/web/20220617234508/https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-all-passed-a-stringent-test-of-their-replicability/"		%}
 {%	assign pet = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1798773"		%}
 
-{%	assign phys = "https://sci-hub.se/10.1016/j.cobeha.2020.01.001"		%}
+{%	assign phys = "https://web.archive.org/web/20241231035220/https://sci-hub.se/10.1016/j.cobeha.2020.01.001"		%}
 {%	assign ox = "https://www.ncbi.nlm.nih.gov/pubmed/18801995"	%}
 
 {%	assign bakk = "https://psyarxiv.com/vdpyt"		%}
-{%	assign smith = "https://sci-hub.se/10.1016/j.cobeha.2020.01.001"	%}
+{%	assign smith = "https://web.archive.org/web/20241231035220/https://sci-hub.se/10.1016/j.cobeha.2020.01.001"	%}
 {%	assign den = "https://psyarxiv.com/49hfg"		%}
 {%	assign knoll = "https://journals.sagepub.com/doi/full/10.1177/2053168015621328"		%}
 {%	assign knoll2 = "https://www.ncbi.nlm.nih.gov/pubmed/27620075"		%}
@@ -143,7 +143,7 @@
 {%	assign trz = "https://journals.sagepub.com/doi/abs/10.1177/1745691609356789"		%}
 {%	assign robe = "https://journals.sagepub.com/doi/abs/10.1177/1745691609357019"		%}
 {%	assign twen2 = "https://journals.sagepub.com/doi/abs/10.1177/1948550609355719"		%}
-{%	assign twengehaidt = "https://drive.google.com/file/d/17kVfI5zG_bc1souME54aQOhxfTYx9Mk-/view"		%}
+{%	assign twengehaidt = "https://web.archive.org/web/20221225172956/https://drive.google.com/file/d/17kVfI5zG_bc1souME54aQOhxfTYx9Mk-/view"		%}
 
 {% 	assign brown = "https://twitter.com/sTeamTraen"		%}
 {% 	assign meehl = "https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0102_1"		%}
@@ -164,7 +164,7 @@
 
 {%		assign kolb	= "https://scholar.google.co.uk/scholar?cites=6850783624494276594&as_sdt=2005&sciodt=0,5&hl=en"	%}
 {%		assign bargh	= "https://scholar.google.com/scholar?cluster=3335859380278379099&hl=en&as_sdt=0,5&sciodt=0,5"	%}
-{%		assign direct	= "http://blog.dansimons.com/2013/06/direct-replication-and-conceptual.html"	%}
+{%		assign direct	= "https://web.archive.org/web/20240613014025/http://blog.dansimons.com/2013/06/direct-replication-and-conceptual.html"	%}
 {%		assign branwen	= "https://www.gwern.net/Hydrocephalus"	%}
 {%		assign hawks	= "https://www.gwern.net/docs/www/johnhawks.net/98da7879009865e89fba1c50898faad86a14ecd9.html"	%}
 {%		assign forsdyke	= "https://web.archive.org/web/20160315051631/http://link.springer.com/article/10.1007%2Fs13752-015-0219-x"	%}
@@ -190,11 +190,11 @@
 {%		assign griggs = "https://journals.sagepub.com/doi/abs/10.1177/0098628316677644"		%}
 {%		assign orben = "https://www.nature.com/articles/s41562-018-0506-1"		%}
 {%		assign christ = "https://www.pnas.org/content/111/34/E3497"		%}
-{%		assign smith2 = "https://sci-hub.se/10.1016/j.wace.2015.11.006"		%}
+{%		assign smith2 = "https://web.archive.org/web/20260106082728/https://sci-hub.se/10.1016/j.wace.2015.11.006"		%}
 {%		assign herric = "https://www.google.co.uk/search?source=hp&ei=HC1yXtKbBqeRlwTgzplw&q=41.84+%2F+15.15+&oq=41.84+%2F+15.15+&gs_l=psy-ab.3...606.10628..10753...0.0..0.91.412.5......3....1..gws-wiz.......0i7i30j0.raVAib7H4Jk&ved=0ahUKEwjSmciGm6ToAhWnyIUKHWBnBg4Q4dUDCAg&uact=5"		%}
 {%		assign jung = "https://www.pnas.org/content/111/24/8782"		%}
 {%		assign greenwald = "https://psycnet.apa.org/doiLanding?doi=10.1037%2F0022-3514.74.6.1464"		%}
-{%		assign carlsson = "https://lnu.se/globalassets/lmdswp201511.pdf"		%}
+{%		assign carlsson = "https://web.archive.org/web/20211117143001/https://lnu.se/globalassets/lmdswp201511.pdf"		%}
 
 {%		assign gan = "https://psycnet.apa.org/record/2013-02693-001"		%}
 {%		assign flore = "https://www.sciencedirect.com/science/article/pii/S0022440514000831"		%}
@@ -203,9 +203,9 @@
 {%		assign stoet = "https://journals.sagepub.com/doi/10.1037/a0026617"		%}
 {%		assign donnel1 = "https://www.sciencedirect.com/science/article/abs/pii/S0092656608001712"	%}
 
-{%		assign rethinking = "https://sci-hub.se/10.1177/1745691609356789"		%}
+{%		assign rethinking = "https://web.archive.org/web/20221225110913/https://sci-hub.se/10.1177/1745691609356789"		%}
 
-{%		assign strack = "https://sci-hub.se/10.1037/0022-3514.54.5.768"		%}
+{%		assign strack = "https://web.archive.org/web/20221225110920/https://sci-hub.se/10.1037/0022-3514.54.5.768"		%}
 {%		assign mischel = "https://pdfs.semanticscholar.org/2934/6b98f0947a822b8744f4792bcf1a297f01d3.pdf"		%}
 {%		assign bau = "https://www.ncbi.nlm.nih.gov/pubmed/9599441"	%}
 {%		assign jaeggi = "https://www.pnas.org/content/105/19/6829"		%}
@@ -219,7 +219,7 @@
 {%	assign greenberg = "https://www.facebook.com/spencer.greenberg/posts/10104093568422862"		%}
 {%	assign mtstupid = "https://www.google.com/search?q=mount+stupid+dunning&source=lnms&tbm=isch&sa=X&ved=2ahUKEwia5taF8LLoAhUdURUIHTtZC3EQ_AUoAXoECAwQAw&biw=1280&bih=654"		%}
 {%	assign weird = "https://www.apa.org/monitor/2010/05/weird"		%}
-{%	assign dk = "https://sci-hub.se/10.1037/0022-3514.77.6.1121"	%}
+{%	assign dk = "https://web.archive.org/web/20241211123425/https://sci-hub.se/10.1037/0022-3514.77.6.1121"	%}
 {%	assign dkmath = "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect#Mathematical_critique"		%}
 {%	assign sup = "https://en.wikipedia.org/wiki/Illusory_superiority"		%}
 {%	assign nuh = "https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1215&context=numeracy"		%}
@@ -243,7 +243,7 @@
 {%	assign ariely = "https://www.pnas.org/content/pnas/117/13/7103.full.pdf"	%}
 {%	assign nudge = "https://www.nber.org/system/files/working_papers/w27594/w27594.pdf"	%}
 {%	assign kelsey = "https://www.vox.com/future-perfect/2020/2/26/21154466/research-education-behavior-psychology-nudging"	%}
-{%	assign jc1 = "https://jasoncollins.blog/2020-04-07-the-limits-of-behavioural-science-coronavirus-edition/"	%}
+{%	assign jc1 = "https://web.archive.org/web/20220819070858/https://www.jasoncollins.blog/2020-04-07-the-limits-of-behavioural-science-coronavirus-edition/"	%}
 {%	assign jc2 = "https://jasoncollins.blog/arent-we-smart-fellow-behavioural-scientists/
 "	%}
 {%	assign stu = "https://unherd.com/2020/03/dont-trust-the-psychologists-on-coronavirus/"		%}
@@ -256,9 +256,9 @@
 {%	assign hz = "https://everythinghertz.com/135"	%}
 {%	assign hn = "https://news.ycombinator.com/item?id=27709266"		%}
 {%	assign gel = "https://statmodeling.stat.columbia.edu/2021/06/28/reversals-in-psychology/"		%}
-{%	assign jhtw = "https://twitter.com/jamesheathers/status/1409520677120405505"		%}
+{%	assign jhtw = "https://web.archive.org/web/20221225110925/https://twitter.com/jamesheathers/status/1409520677120405505"		%}
 {%	assign hydro = "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)61127-1/fulltext"	%}
-{%	assign trainrct = "https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2657279/DP%2009.pdf?sequence=1&isAllowed=y"		%}
+{%	assign trainrct = "https://web.archive.org/web/20210727185232/https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2657279/DP%2009.pdf?sequence=1&isAllowed=y"		%}
 
 {%	assign dunedin = "https://www.pnas.org/content/108/7/2693#T1"	%}
 {%	assign f = "https://forrt.org/reversals/"		%}

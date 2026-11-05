@@ -24,9 +24,9 @@ argument:   banks/argument.html
 	http://www.vavatch.co.uk/books/banks/cultnote.htm
 https://www.lesswrong.com/posts/vwnSPgwtmLjvTK2Wa/amputation-of-destiny
 https://www.sciphijournal.org/index.php/2017/11/12/why-the-culture-wins-an-appreciation-of-iain-m-banks/
-https://manuelaantao.blogspot.com/2017/07/gaming-all-nighters-player-of-games-by.html
-https://manuelaantao.blogspot.com/2017/07/post-scarcity-society-consider-phlebas.html
-https://manuelaantao.blogspot.com/2017/07/dark-underbelly-of-utopia-use-of.html
+https://web.archive.org/web/20191013205547/https://manuelaantao.blogspot.com/2017/07/gaming-all-nighters-player-of-games-by.html
+https://web.archive.org/web/20210508101948/https://manuelaantao.blogspot.com/2017/07/post-scarcity-society-consider-phlebas.html
+https://web.archive.org/web/20210901162327/http://manuelaantao.blogspot.com/2017/07/dark-underbelly-of-utopia-use-of.html
 http://www.eruditorumpress.com/blog/cultural-marxism-1-consider-phlebas/
 https://www.thenewatlantis.com/publications/the-ambiguous-utopia-of-iain-m-banks 
 -->
@@ -347,7 +347,7 @@ Big reasons for hope:
 
 * The Culture are against terraforming - an odd apparent bit of bioconservative ideology. But this seems to be mostly a matter of efficiency: <a href="{{hab}}">artificial habitats are much more efficient</a>.
 
-* If there is anything to the neocolonialism / <a href="http://www.e-ir.info/2013/10/30/liberalism-another-tool-of-western-hegemony/">'liberal hegemony'</a> suspicion, the sad fact remains that it's a less bad hegemony than the others.
+* If there is anything to the neocolonialism / <a href="https://web.archive.org/web/20201227052207/https://www.e-ir.info/2013/10/30/liberalism-another-tool-of-western-hegemony/">'liberal hegemony'</a> suspicion, the sad fact remains that it's a less bad hegemony than the others.
 
 * There are no religions in the Culture, not even relatively rational ones like simulationism (shown in a different Banks book) or panpsychism or deism. With so much free time, alongside sports, art, and philosophy, I expect humans to get into unprecedently odd metaphysics.
 
@@ -393,7 +393,7 @@ There is a Scottish socialist. He is able to dream of something far better than 
 * Gillis, '[anarchism](https://humaniterations.net/2008/08/13/a-few-notes-on-the-culture-anarchism/)'
 * <a href="{{em}}">_The Age of Em_</a> is the hardest social science fiction I know, albeit written as nonfiction. What do our best nonphysical theories imply?
 * [Can Liberalism Survive Without a Wolf at the Door?](https://www.nytimes.com/2022/04/09/opinion/ukraine-russia-liberalism-religion.html)
-* https://www.learningfromexamples.com/p/culture-shock
+* https://web.archive.org/web/20240419033129/https://www.learningfromexamples.com/p/culture-shock
 * <a href="/blindsight">'Blindsight' (2006) by Watts</a>
 * <a href="/fermi">Drake, Hanson, and the meaning of life</a>
 * <a href="/palmer">'Terra Ignota': the ecstasy of uncertainty</a>

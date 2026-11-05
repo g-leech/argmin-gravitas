@@ -44,15 +44,15 @@ categories:	philosophy-of-science, language, machine-learning
 Here is a toy model of aesthetics with just two binary variables, 'classiness' and 'busyness' <a href="#fn:1" id="fnref:1">1</a>:<br><br>
 
 <ul>
-<li><a href="http://cdn.freshome.com/wp-content/uploads/2016/01/minimalism-freshome-1.png"><i>Minimalism</i></a>: Simple Classy</li>
-<li><i><a href="http://www.hotpress.cz/wp-content/uploads/2015/09/klementinum-praha-0.jpg">Baroque</a></i>: Busy Classy</li>
-<li><i><a href="http://googlesightseeing.com/wp-content/ryugyong.jpg">Brutalism</a></i>: Simple Vulgar</li>
-<li><i><a href="http://www.macklowegallery.com/images/CMS/Glossary%20of%20Terms/Rococo.jpg">Rococo</a></i>: Busy Vulgar</li>
+<li><a href="https://web.archive.org/web/20170209125113/http://cdn.freshome.com/wp-content/uploads/2016/01/minimalism-freshome-1.png"><i>Minimalism</i></a>: Simple Classy</li>
+<li><i><a href="https://web.archive.org/web/20160807090949/http://hotpress.cz/wp-content/uploads/2015/09/klementinum-praha-0.jpg">Baroque</a></i>: Busy Classy</li>
+<li><i><a href="https://web.archive.org/web/20161203211206/http://googlesightseeing.com/wp-content/ryugyong.jpg">Brutalism</a></i>: Simple Vulgar</li>
+<li><i><a href="https://web.archive.org/web/20170627074244/http://www.macklowegallery.com/images/CMS/Glossary%20of%20Terms/Rococo.jpg">Rococo</a></i>: Busy Vulgar</li>
 </ul><br>
 
 Are these descriptions <i>true</i>? Well, they are incomplete, and are <i>not</i> definitions (i.e. <a href="https://en.wikipedia.org/wiki/Injective_function">one-to-one mappings</a>), but yes. Are they helpful? As a start, absolutely. 
 
-<br><br>Now, the labels on the left are vague and intuitive <a href="https://en.wikipedia.org/wiki/Family_resemblance">family resemblances</a>; it is a fool's game to imagine they could ever be nailed down as <a href="http://www.iva.dk/bh/lifeboat_ko/CONCEPTS/monothetic.htm">monothetic</a> definitions (the philosopher's ideal of neat, necessary and sufficient sets of attributes). We can still model usefully and harmlessly, even if the models can never be complete. <a href="#fn:2" id="fnref:2">2</a><br><br>
+<br><br>Now, the labels on the left are vague and intuitive <a href="https://en.wikipedia.org/wiki/Family_resemblance">family resemblances</a>; it is a fool's game to imagine they could ever be nailed down as <a href="https://web.archive.org/web/20160715221033/http://www.iva.dk:80/bh/lifeboat_ko/CONCEPTS/monothetic.htm">monothetic</a> definitions (the philosopher's ideal of neat, necessary and sufficient sets of attributes). We can still model usefully and harmlessly, even if the models can never be complete. <a href="#fn:2" id="fnref:2">2</a><br><br>
 
 But the critics and art academics I know spend far more time muddying the water: deconstructing our use of the problematic term "classy"; and who gets to say what 'simplicity' is anyway? They don't seem to <i>want</i> to explain things, even <a href="https://en.wikipedia.org/wiki/Fuzzy_logic">fuzzily</a>.<a href="#fn:3" id="fnref:3">3</a> Or, maybe they do, but refuse to accept anything but a perfect final omniperspectival explanation (the like that can never be supplied), maybe to keep themselves in work.<br /><br />
 

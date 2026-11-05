@@ -7,7 +7,7 @@ visible:    false
 
 {%	assign muf = "https://web.archive.org/web/2014*/http://muflax.com/episteme"	%}
 {%	assign cud = "https://github.com/g-leech/argmin-gravitas/blob/master/scripts/psych/cuddy2010.ipynb"		%}
-{%	assign sass = "https://github.com/g-leech/argmin-gravitas/blob/master/css/main.scss"	%}
+{%	assign sass = "https://github.com/g-leech/argmin-gravitas/blob/5313fbcc6dbd723d7179c0e1f280dfff3e09f297/css/main.scss"	%}
 {%	assign yam = "https://raw.githubusercontent.com/g-leech/argmin-gravitas/master/_posts/2012-08-24-overheads.markdown"	%}
 {%	assign arg = "https://github.com/g-leech/argmin-gravitas/blob/master/_includes/sites/argument.html"		%}
 {%	assign comm = "http://creativecommons.org/licenses/by-sa/4.0/"	%}

@@ -20,7 +20,7 @@
 	<li><a href="https://mkodama.org/">Miles Kodama</a></li><br>
 	<li><a href="https://ong.ac/">Euan</a></li><br>
 	<li><a href="https://www.isaak.net/">Isaak</a></li><br>
-	<li><a href="https://no-moore.com/">Nowe</a></li><br>
+	<li><a href="https://web.archive.org/web/20240730020129/https://no-moore.com/">Nowe</a></li><br>
 	<li><a href="https://daystareld.com">Damon</a></li><br>
 	<li><a href="https://mesityl.substack.com">Savva</a></li><br>
 	<li><a href="https://nunosempere.com/">Nuno</a></li><br>
@@ -95,9 +95,9 @@
 		<!--  -->
 		<h3>We could be friends</h3>
 		<div>
-			https://metabstract.squarespace.com/
+			https://web.archive.org/web/20251104062502/https://metabstract.squarespace.com/
 			<br>
-			https://www.drmaciver.com/blog/
+			https://web.archive.org/web/20260314025821/https://www.drmaciver.com/blog/
 			<br>
 			naml.us
 			<br>

@@ -17,7 +17,7 @@ importance: 4
 pride:		7
 wordcount:	3000
 categories: long-content, philosophy, becoming
-cross: 		https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philosopher
+cross: 		https://web.archive.org/web/20190823112748/https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philosopher
 ---
 
 

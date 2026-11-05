@@ -71,7 +71,7 @@ WORKERS = 16
 
 URL_RE = re.compile(r"https?://[^\s<>\"`{}|^\[\]“”]+")
 HOST_RE = re.compile(r"[\w-]+(\.[\w-]+)+")
-POST_DATE_RE = re.compile(r"_posts/(\d{4})-(\d\d)-(\d\d)-")
+POST_DATE_RE = re.compile(r"_posts/(\d{4})-(\d\d?)-(\d\d?)-")
 WAYBACK_RE = re.compile(r"https://web\.archive\.org/web/\d{14}/")
 TRAILING = ".,;:!?*'’"
 
@@ -147,7 +147,7 @@ def get(url, timeout):
 
 def cited_on(entry):
     """YYYYMMDD of the earliest post citing this link, else when we first saw it."""
-    dates = ["".join(m.groups()) for s in entry["sources"] if (m := POST_DATE_RE.match(s))]
+    dates = [f"{m[1]}{int(m[2]):02}{int(m[3]):02}" for s in entry["sources"] if (m := POST_DATE_RE.match(s))]
     return min(dates) if dates else entry["first_seen"].replace("-", "")
 
 
@@ -247,26 +247,30 @@ def archive(state, lookup_only=False, limit=None):
             try:
                 snap = with_backoff(cdx_lookup, url, cited_on(entry))
                 time.sleep(CDX_DELAY)
+                last = entry["save_requested"]
                 if snap:
                     entry["snapshot"] = snap
                     found += 1
-                    continue
-                last = entry["save_requested"]
-                if lookup_only or (last and today - date.fromisoformat(last) < RESUBMIT_AFTER):
-                    continue
-                entry["save_requested"] = today.isoformat()
-                entry["snapshot"] = with_backoff(request_save, url)
-                requested += 1
-                time.sleep(SAVE_DELAY)
+                    status = "found"
+                elif lookup_only:
+                    status = "none"
+                elif last and today - date.fromisoformat(last) < RESUBMIT_AFTER:
+                    status = "pending"  # asked recently; waiting for it to show up in CDX
+                else:
+                    entry["save_requested"] = today.isoformat()
+                    entry["snapshot"] = with_backoff(request_save, url)
+                    requested += 1
+                    status = "requested"
+                    time.sleep(SAVE_DELAY)
             except RateLimited as e:
                 print(f"archive: rate-limited by {e} twice, stopping; next run resumes")
                 break
             except Exception as e:
                 failed += 1
-                print(f"  ! {url}: {type(e).__name__}: {e}")
+                status = f"error ({type(e).__name__}: {e})"[:80]
+            print(f"  [{i}/{len(todo)}] {status:9} {url}", flush=True)
             if i % 25 == 0:
                 save(state)
-                print(f"  {i}/{len(todo)}")
     finally:
         save(state)
     print(f"archive: {found} snapshots found, {requested} saves requested, {failed} errors")
@@ -358,22 +362,26 @@ def fix(state, dry_run=False):
             r"(?:(?<=[(\s\"'<=\[])|^)" + re.escape(url) + r"(?=[" + re.escape(TRAILING) + r"]*(?:[)\s\"'<>\]]|$))",
             re.M,
         )
+        # CDX returns the capture without the fragment; keep the #page=40 or #section
+        frag = urllib.parse.urlsplit(url).fragment
+        snapshot = e["snapshot"].replace("&", "&amp;") if "&amp;" in url else e["snapshot"]
+        snapshot += f"#{frag}" if frag and "#" not in snapshot else ""
         for s in e["sources"]:
-            edits.setdefault(s, []).append((pattern, e["snapshot"], url))
+            edits.setdefault(s, []).append((pattern, snapshot, url))
 
     total = changed = 0
     for rel, subs in sorted(edits.items()):
         path = REPO / rel
-        original = text = path.read_text()
+        original = text = path.read_bytes().decode()  # not read_text: keep CRLF files CRLF
         for pattern, snapshot, url in subs:
-            text, n = pattern.subn(snapshot, text)
+            text, n = pattern.subn(lambda _: snapshot, text)
             total += n
             if n:
                 print(f"{rel}: {url}\n  -> {snapshot}")
         if text != original:
             changed += 1
             if not dry_run:
-                path.write_text(text)
+                path.write_bytes(text.encode())
     verb = "would replace" if dry_run else "replaced"
     print(f"fix: {verb} {total} dead links across {changed} files"
           + ("" if dry_run else "; review with git diff"))

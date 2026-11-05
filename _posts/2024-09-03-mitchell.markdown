@@ -27,9 +27,9 @@ Still, in 2006, the great researcher Tom Mitchell [listed nine open problems](ht
 <br><br>
 
 
-1. **Solved: Can unlabelled data be helpful for supervised learning?** ([Mikolov 2013](https://arxiv.org/abs/1310.4546), [Devlin 2018](https://arxiv.org/abs/1810.04805), [Radford 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf));
+1. **Solved: Can unlabelled data be helpful for supervised learning?** ([Mikolov 2013](https://arxiv.org/abs/1310.4546), [Devlin 2018](https://arxiv.org/abs/1810.04805), [Radford 2019](https://web.archive.org/web/20240823033856/https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf));
 <br><br>
-1. **Solved: How can we transfer what is learned for one task to improve learning in other related tasks?** ([Devlin 2018](https://arxiv.org/abs/1810.04805), [Alammar](https://jalammar.github.io/illustrated-bert/), [Radford 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [Raffel 2020](https://arxiv.org/abs/1910.10683), [Zhuang 2020](https://arxiv.org/abs/1911.02685));
+1. **Solved: How can we transfer what is learned for one task to improve learning in other related tasks?** ([Devlin 2018](https://arxiv.org/abs/1810.04805), [Alammar](https://jalammar.github.io/illustrated-bert/), [Radford 2019](https://web.archive.org/web/20240823033856/https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [Raffel 2020](https://arxiv.org/abs/1910.10683), [Zhuang 2020](https://arxiv.org/abs/1911.02685));
 <br><br>
 1. What is the relationship between different learning algorithms, and which should be used when? (some progress, but somewhat obviated by the dominance of the Transformer: [Hu 2022](https://hdsr.mitpress.mit.edu/pub/zkib7xth/release/2), [Tsai 2019](https://arxiv.org/abs/1908.11775));
 <br><br>

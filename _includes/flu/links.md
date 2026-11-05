@@ -1,4 +1,4 @@
-{%	assign w = "https://en.wikipedia.org/wiki/List_of_wars_and_anthropogenic_disasters_by_death_toll"	%}
+{%	assign w = "https://web.archive.org/web/20240701133249/https://en.wikipedia.org/wiki/List_of_wars_and_anthropogenic_disasters_by_death_toll"	%}
 {%	assign epid = "https://en.wikipedia.org/wiki/List_of_epidemics"		%}
 
 {%	assign vir = "http://www.virology.ws/2009/08/14/the-problems-with-barrys-the-great-influenza/"		%}
@@ -11,7 +11,7 @@
 {%	assign terr = "https://www.statista.com/statistics/202871/number-of-fatalities-by-terrorist-attacks-worldwide"	%}
 {%	assign book = "https://www.goodreads.com/book/show/29036.The_Great_Influenza"	%}
 {%	assign swine = "https://en.wikipedia.org/wiki/2009_flu_pandemic"	%}
-{%	assign displac = "http://news.nationalgeographic.com/news/2014/01/140123-spanish-flu-1918-china-origins-pandemic-science-health"	%}
+{%	assign displac = "https://web.archive.org/web/20190416224940/https://news.nationalgeographic.com/news/2014/01/140123-spanish-flu-1918-china-origins-pandemic-science-health/"	%}
 {%	assign wrong = "https://en.wikipedia.org/wiki/Haemophilus_influenzae"	%}
 {%	assign em = "https://en.wikipedia.org/wiki/Richard_Friedrich_Johannes_Pfeiffer"	%}
 {%	assign money = "https://youtu.be/Z8Nj_sRNgFQ?t=345"	%}

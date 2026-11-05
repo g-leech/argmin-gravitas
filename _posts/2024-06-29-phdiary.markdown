@@ -69,7 +69,7 @@ In retrospect it was a mistake to not find at least one colleague and to not sti
 
 ## Quals (Sep 2019 - Jul 2020)
 
-My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/developing-people-and-skills/nerc/nerc-studentships/directed-training/centres-for-doctoral-training-cdt/)", where you have a year of classes and advisor matching with no real research. We were the first cohort in a new centre, so there were some teething troubles (like the mandatory entrepreneurship course, or there being _no_ deep learning course).
+My programme is an American-style "[CDT](https://web.archive.org/web/20240713191859/https://www.ukri.org/what-we-do/developing-people-and-skills/nerc/nerc-studentships/directed-training/centres-for-doctoral-training-cdt/)", where you have a year of classes and advisor matching with no real research. We were the first cohort in a new centre, so there were some teething troubles (like the mandatory entrepreneurship course, or there being _no_ deep learning course).
 
 <br>
 
@@ -133,7 +133,7 @@ My programme is an American-style "[CDT](https://www.ukri.org/what-we-do/develop
     <br>
     <li><i>Q</i>: If I don't read textbooks now, will I ever? </li>
     <br><br>     <li><i>Colleagues</i>: Dan, Nandi, Tomas</li>
-    <br><li><i>Reading</i>: <a href="https://www.youtube.com/watch?v=2pWv7GOvuf0">Silver lectures</a>. Nilsson.  <a href="https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf">CAIS</a> and Kosoy.  </li>
+    <br><li><i>Reading</i>: <a href="https://www.youtube.com/watch?v=2pWv7GOvuf0">Silver lectures</a>. Nilsson.  <a href="https://web.archive.org/web/20240714122447/https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf">CAIS</a> and Kosoy.  </li>
     <br>
     <li><i>Project</i>: Skive two weeks of class to do some actual research at <a href="https://aisrp.org/index.html">AISRP</a>. </li>
 </div>

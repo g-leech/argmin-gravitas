@@ -52,9 +52,9 @@ Given that people very often adjust their desires to their opportunities, and gi
 
 The inverted forms – seeing what you're good at as a superior insight into the world ("sweet lemons" and "<a href="{{jaynes}}">mind projection</a>") – are as important, but hopefully get captured in the first correlation.
 
-One could use the SAT or <a href="https://www.ets.org/research/policy_research_reports/rr-87-11">GRE</a> to obtain a proxy of verbal and mathematical reasoning ability; people would object to this, 1) rightly because timed tests are an artificial measure of research ability – they can prove ability, but they can’t really disprove <i>real-life</i> ability – and 2) wrongly, because it threatened their status. 
+One could use the SAT or <a href="https://web.archive.org/web/20150918203313/http://www.ets.org/research/policy_research_reports/rr-87-11">GRE</a> to obtain a proxy of verbal and mathematical reasoning ability; people would object to this, 1) rightly because timed tests are an artificial measure of research ability – they can prove ability, but they can’t really disprove <i>real-life</i> ability – and 2) wrongly, because it threatened their status. 
 
-By combining the two studies <a href="http://web.mst.edu/~psyworld/within_subjects.htm">within-subjects</a>, we could derive a <i>general factor of adaptive methodology</i>: how much a given person is swayed by their own lack of skill. This could be a proxy for how rationally they conduct themselves in general.
+By combining the two studies <a href="https://web.archive.org/web/20150711024743/http://web.mst.edu:80/~psyworld/within_subjects.htm">within-subjects</a>, we could derive a <i>general factor of adaptive methodology</i>: how much a given person is swayed by their own lack of skill. This could be a proxy for how rationally they conduct themselves in general.
 
 <br>
 
@@ -62,7 +62,7 @@ By combining the two studies <a href="http://web.mst.edu/~psyworld/within_subjec
 
 <br>
 
-I respect Putnam’s and Rorty's criticisms of positivism because I know <a href="http://www.kva.se/globalassets/priser/schock/2011/pop_schock_logik_eng_2011.pdf">they are</a> profoundly skilled in logic; I trust <a href="http://www.smh.com.au/business/economist-deirdre-mccloskey-playing-both-sides-of-the-street-20131201-2ygwu.html">Deirdre McCloskey</a> much more in her postmodern libertarian feminism because she was both a quantitative historian and a socialist in her youth.
+I respect Putnam’s and Rorty's criticisms of positivism because I know <a href="https://web.archive.org/web/20160316165636/http://www.kva.se/globalassets/priser/schock/2011/pop_schock_logik_eng_2011.pdf">they are</a> profoundly skilled in logic; I trust <a href="http://www.smh.com.au/business/economist-deirdre-mccloskey-playing-both-sides-of-the-street-20131201-2ygwu.html">Deirdre McCloskey</a> much more in her postmodern libertarian feminism because she was both a quantitative historian and a socialist in her youth.
 
 <br>
 

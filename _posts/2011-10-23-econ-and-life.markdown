@@ -169,7 +169,7 @@ Ideology is too powerful and illiberal to ignore; sometimes people really are in
 
 The commodity view of existence is disturbing. Economists have viewed healthy life as a stock of capital to offer for sale (aka "labour"); babies as the <a href="http://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;frm=1&amp;source=web&amp;cd=1&amp;ved=0CEAQFjAA&amp;url=http%3A%2F%2Fwww.nber.org%2Fchapters%2Fc2387.pdf&amp;ei=ptwfUZemGIfkswbFtoCgCg&amp;usg=AFQjCNGtMqNJhbqApKFxmaGflLo8NVQP2g&amp;sig2=CcbWR54qvyCc_bbVWB4lKw&amp;bvm=bv.42553238,d.d2k">investment capital of the poor</a>; immigrants as <a href="http://en.wikipedia.org/wiki/Michael_Sandel#2009_immigration_commentary">human pollution</a>; and any outcome below the utter numerical maximum that you squeeze out as a <em>loss</em> ("opportunity cost"). 
 
-There's <a href="http://blogs.lse.ac.uk/europpblog/2012/06/17/book-review-what-money-cant-buy-the-moral-limits-of-markets/">obvious reason</a> to think that this framework does harm when it becomes commonsensical. But provided it's kept contained as <em>one</em> perspective among many, the commodity perspective has some important moral and policy implications:
+There's <a href="https://web.archive.org/web/20120719092904/http://blogs.lse.ac.uk:80/europpblog/2012/06/17/book-review-what-money-cant-buy-the-moral-limits-of-markets/">obvious reason</a> to think that this framework does harm when it becomes commonsensical. But provided it's kept contained as <em>one</em> perspective among many, the commodity perspective has some important moral and policy implications:
 
 Every pound you spend is a vote for whatever you're buying. Every seven pounds you spend is another hour of your life sold.
 
@@ -199,7 +199,7 @@ This loss of moral charge is a mistake: the economical is ecological! Simple <a 
 
 A common idea: "capitalism sucks but it probably sucks less than the other current options".
 
-Since we are talking about the replacement of capitalism on capitalist keyboards paid for with capitalist pounds: capitalism obviously doesn't <em>totally</em> stifle <a href="http://www.ssc.wisc.edu/~wright/ERU.htm">future systems</a>. 
+Since we are talking about the replacement of capitalism on capitalist keyboards paid for with capitalist pounds: capitalism obviously doesn't <em>totally</em> stifle <a href="https://web.archive.org/web/20111015153310/http://www.ssc.wisc.edu:80/~wright/ERU.htm">future systems</a>. 
 
 And remember #3: it <em>accidentally</em> clothes and feeds us, it accidentally enables state spending on education and health and law. It was <a href="http://en.wikipedia.org/wiki/Eight-hour_day">forced</a> to grant us surplus time in which to think, sometimes in which to think about alternatives. For all else that it callously does, do not deny this.
 
@@ -209,7 +209,7 @@ And remember #3: it <em>accidentally</em> clothes and feeds us, it accidentally 
 
 ## 8. Most things fail.
 
-Even before we consider De Beauvoir's more <a href="http://www.goodreads.com/quotes/show/14593">fatal sense</a>: things don't work. Worse, most fail <a href="http://kmci.org/alllifeisproblemsolving/archives/black-swan-ideas-silent-evidence-confirmation-error-epistemic-arrogance-and-future-blindness/">silently</a>, creating a false sense of security. Watch <a href="http://www.paulormerod.com/pdf/naturereview.pdf">its space</a>.
+Even before we consider De Beauvoir's more <a href="http://www.goodreads.com/quotes/show/14593">fatal sense</a>: things don't work. Worse, most fail <a href="http://kmci.org/alllifeisproblemsolving/archives/black-swan-ideas-silent-evidence-confirmation-error-epistemic-arrogance-and-future-blindness/">silently</a>, creating a false sense of security. Watch <a href="https://web.archive.org/web/20110927155047/http://www.paulormerod.com/pdf/naturereview.pdf">its space</a>.
 
 <br />
 

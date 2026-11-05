@@ -22,7 +22,7 @@ argument:
 {%	assign jang = "https://blog.evjang.com/2018/08/dijkstras.html"		%}
 {%	assign sym = "https://en.wikipedia.org/wiki/History_of_mathematical_notation#Symbolic_stage"	%}
 {%	assign tao = "https://mathoverflow.net/questions/366070/what-are-the-benefits-of-writing-vector-inner-products-as-langle-u-v-rangle/366118#366118" 	%}
-{%	assign meyer = "https://pbs.twimg.com/media/FwYdeB7WcAABYuH?format=jpg&name=large"	%}
+{%	assign meyer = "https://web.archive.org/web/20230523014855/https://pbs.twimg.com/media/FwYdeB7WcAABYuH?format=jpg&name=large"	%}
 {%	assign tao2 = "https://terrytao.wordpress.com/advice-on-writing-papers/use-good-notation/" 	%}
 {%	assign qc = "https://quantum.country/"		%}
 {%	assign di = "https://en.wikipedia.org/wiki/Dependency_inversion_principle"	 %}

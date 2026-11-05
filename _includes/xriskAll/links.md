@@ -1,6 +1,6 @@
 {%		assign gcr = "https://en.wikipedia.org/wiki/Global_catastrophic_risk"		%}
 {%		assign ord = "http://www.amirrorclear.net/academic/ideas/negative-utilitarianism/"		%}
-{%		assign pettit = "https://www.princeton.edu/~ppettit/papers/Consequentialism_Ethics_1989.pdf"	%}
+{%		assign pettit = "https://web.archive.org/web/20250107224243/https://www.princeton.edu/~ppettit/papers/Consequentialism_Ethics_1989.pdf"	%}
 {%		assign piece = "https://en.wikipedia.org/wiki/Piecewise"	%}
 {%		assign e2g = "https://en.wikipedia.org/wiki/Earning_to_give"	%}
 {%		assign volunt = "https://en.wikipedia.org/wiki/Voluntary_Human_Extinction_Movement"		%}
@@ -25,10 +25,10 @@
 {%		assign gov = "https://ourworldindata.org/public-spending"		%}
 {%		assign rfmf = "https://concepts.effectivealtruism.org/concepts/room-for-more-funding/"	%}
 {%		assign was = "https://en.wikipedia.org/wiki/Wild_animal_suffering"	%}
-{%		assign lewis = "http://effective-altruism.com/ea/1n0/the_personaffecting_value_of_existential_risk/"	%}
-{%		assign suspic = "http://effective-altruism.com/ea/st/beware_surprising_and_suspicious_convergence/"		%}
+{%		assign lewis = "https://web.archive.org/web/20181010162832/http://effective-altruism.com:80/ea/1n0/the_personaffecting_value_of_existential_risk/"	%}
+{%		assign suspic = "https://web.archive.org/web/20181005070154/http://effective-altruism.com:80/ea/st/beware_surprising_and_suspicious_convergence/"		%}
 {%		assign ev = "https://en.wikipedia.org/wiki/Expected_return"			%}
 {%		assign term = "https://en.wikipedia.org/wiki/Rokeach_Value_Survey#Terminal_Values"		%}
 {%		assign oes = "https://casparoesterheld.com/2017/02/10/a-non-comprehensive-list-of-human-values/"		%}
 {%		assign snyder = "https://www.ncbi.nlm.nih.gov/pubmed/28806130"		%}
-{%		assign person = "http://effective-altruism.com/ea/1n0/the_personaffecting_value_of_existential_risk/"		%}
+{%		assign person = "https://web.archive.org/web/20181010162832/http://effective-altruism.com:80/ea/1n0/the_personaffecting_value_of_existential_risk/"		%}

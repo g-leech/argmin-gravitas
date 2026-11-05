@@ -26,7 +26,7 @@ wordcount:
 {%  assign osiris = "https://en.wikipedia.org/wiki/OSIRIS-REx"    %}
 {%  assign lagrang = "https://www.symmetrymagazine.org/article/the-deconstructed-standard-model-equation"    %}
 {%  assign yuk = "https://en.wikipedia.org/wiki/Yukawa_interaction"    %}
-{%  assign chaitin = "https://jillian.rootaction.net/~jillian/science/chaitin/www.cs.umaine.edu/chaitin/sciamer.html"   %}
+{%  assign chaitin = "https://web.archive.org/web/20230930003908/https://jillian.rootaction.net/~jillian/science/chaitin/www.cs.umaine.edu/chaitin/sciamer.html"   %}
 {%  assign count = "https://cs.stackexchange.com/questions/10780/why-is-this-true-there-are-countably-many-turing-machines"   %}
 
 

@@ -8,7 +8,7 @@
 {%	assign taleb = "http://glineq.blogspot.com/2018/01/the-importance-of-talebs-system-from.html"	%}
 
 {%	assign maths = "https://en.wikipedia.org/wiki/Principia_Mathematica"	%}
-{%	assign abc = "http://www.naturalthinker.net/trl/texts/Russell,Bertrand/Science/Bertrand%20Russell%20%20-%20ABC%20of%20Relativity.pdf"	%}
+{%	assign abc = "https://web.archive.org/web/20221206085929/http://www.naturalthinker.net/trl/texts/Russell,Bertrand/Science/Bertrand%20Russell%20%20-%20ABC%20of%20Relativity.pdf"	%}
 {%	assign epis = "https://www.gutenberg.org/files/37090/37090-h/37090-h.htm"		%}
 {%	assign politics = "http://www.gutenberg.org/ebooks/17350"		%}
 {%	assign ethics = "https://plato.stanford.edu/entries/russell-moral/"	%}
@@ -33,4 +33,4 @@
 {%	assign zeroth = "https://www.scottaaronson.com/blog/?p=3766"		%}
 {%	assign cite = "https://kieranhealy.org/blog/archives/2013/06/19/lewis-and-the-women/"	%}
 
-{%	assign anders = "http://aleph.se/andart2/"	%}
+{%	assign anders = "https://web.archive.org/web/20260706164100/https://aleph.se/andart2/"	%}

@@ -8,7 +8,7 @@
 	<ul>
 		<li>Many good <a href="http://www.economist.com/news/essays/21600451-finance-not-merely-prone-crises-it-shaped-them-five-historical-crises-show-how-aspects-today-s-fina">economists</a>.</li>
 <!--  -->
-		<li>The <a href="http://www.effective-altruism.com/ea/4n/what_is_earning_to_give/">effective altruists</a> (in deed). A greater question than finance's marginal harm, is whether working in finance does more harm than xx thousand pounds of anti-famine donations per year is good. The piety would have you think so, but it is supremely unlikely.</li>
+		<li>The <a href="https://web.archive.org/web/20181027044830/http://effective-altruism.com/ea/4n/what_is_earning_to_give/">effective altruists</a> (in deed). A greater question than finance's marginal harm, is whether working in finance does more harm than xx thousand pounds of anti-famine donations per year is good. The piety would have you think so, but it is supremely unlikely.</li>
 	</ul>
 	</div>
 </div>

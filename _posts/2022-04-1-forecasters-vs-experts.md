@@ -28,7 +28,7 @@ pride:      6
 
 
 <img width="9%" src="/img/arb.png" />
-_<a href="{{arb}}">Arb</a> is my research consultancy. We are usually <a href="https://arbresearch.com/jobs">hiring</a>._
+_<a href="{{arb}}">Arb</a> is my research consultancy. We are usually <a href="https://web.archive.org/web/20230209035547/https://arbresearch.com/jobs/">hiring</a>._
 
 <br>
 

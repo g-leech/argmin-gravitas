@@ -1,4 +1,4 @@
-{%		assign maimo = "http://www.on1foot.org/text/rambam-laws-gifts-poor-107-cf-shulchan-aruch-yoreh-deah-249-6-13"		%}
+{%		assign maimo = "https://web.archive.org/web/20120203194352/http://on1foot.org:80/text/rambam-laws-gifts-poor-107-cf-shulchan-aruch-yoreh-deah-249-6-13"		%}
 {%		assign malthus = "http://www.econlib.org/library/Malthus/malPlong35.html#Bk.IV,Ch.X"		%}
 
 {%		assign itn = "https://80000hours.org/2013/12/a-framework-for-strategically-selecting-a-cause/"		%}
@@ -11,7 +11,7 @@
 {%		assign signal = "https://en.wikipedia.org/wiki/Signalling_(economics)"			%}
 {%		assign harrod = "https://en.wikipedia.org/wiki/Harrod%E2%80%93Domar_model"			%}
 {%		assign ord = "https://www.givingwhatwecan.org/sites/givingwhatwecan.org/files/attachments/moral_imperative.pdf"		%}
-{%		assign easter = "http://www.nyudri.org/aidwatcharchive/2009/02/some-cite-good-news-on-aid"		%}
+{%		assign easter = "https://web.archive.org/web/20250615195057/https://www.nyudri.org/aidwatcharchive/2009/02/some-cite-good-news-on-aid"		%}
 {%		assign lmgtfy = "https://www.google.co.uk/?q=2700000000000+/+60000000"		%}
 {%		assign nyt = "http://www.nytimes.com/2011/02/17/business/economy/17regulation.html"		%}
 {%		assign vsl = "http://www.oxera.com/Latest-Thinking/Agenda/2015/You%E2%80%99re-worth-it!-The-economics-of-life-valuation.aspx"		%}

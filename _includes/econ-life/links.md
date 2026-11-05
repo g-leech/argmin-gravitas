@@ -4,8 +4,8 @@
 {%	assign perv = "http://en.wikipedia.org/wiki/Perverse_incentive"	%}
 {%	assign gov = "http://en.wikipedia.org/wiki/Government_failure"	%}
 {%	assign prog = "http://www.utilitarian.net/singer/by/1999----02.htm"	%}
-{%	assign clim = "http://www.economist.com/node/21533360"	%}
-{%	assign poll = "http://www.nature.org/greenliving/gogreen/everydayenvironmentalist/harris-poll-on-green-living.xml"	%}
+{%	assign clim = "https://web.archive.org/web/20190919145142/http://www.economist.com/node/21533360"	%}
+{%	assign poll = "https://web.archive.org/web/20160703083128/http://www.nature.org:80/greenliving/gogreen/everydayenvironmentalist/harris-poll-on-green-living.xml?"	%}
 {%	assign dil = "http://vu-nl.academia.edu/RichardTol/Papers/91625/Post-2012_climate_policy_dilemmas_a_review_of_proposals"	%}
 {%	assign rad = "http://www.hup.harvard.edu/resources/educators/pdf/MARDIS.pdf"	%}
 {%	assign dsge = "http://en.wikipedia.org/wiki/Dynamic_stochastic_general_equilibrium#Controversy"	%}
@@ -14,7 +14,7 @@
 {%	assign opec = "http://econlog.econlib.org/archives/2007/07/opec_and_global.html"	%}
 {%	assign dep = "https://www.washingtonexaminer.com/opinion/the-two-things-you-need-to-know-about-economics"	%}
 {%	assign sen = "http://en.wikipedia.org/wiki/Development_as_Freedom"	%}
-{%	assign red = "http://www.economist.com/node/15641802"	%}
+{%	assign red = "https://web.archive.org/web/20190820192824/http://www.economist.com/node/15641802"	%}
 {%	assign pol = "http://www.calvert-henderson.com/energy.htm"	%}
 {%	assign con = "http://marketurbanism.com/2009/03/19/undead-ideas-rent-control/"	%}
 {%	assign char = "http://en.wikipedia.org/wiki/Principle_of_charity"	%}

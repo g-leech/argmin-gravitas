@@ -7,12 +7,12 @@
 {%	assign mead = "https://www.youtube.com/user/MeadesShrine"		%}
 {% assign heath = "https://www.sciphijournal.org/index.php/2017/11/12/why-the-culture-wins-an-appreciation-of-iain-m-banks/"		%}
 {% assign kun = "https://github.com/j2kun/essays"		%}
-{% assign buck = "http://shlegeris.com/posts"	%}
+{% assign buck = "https://web.archive.org/web/20220829135849/https://shlegeris.com/posts"	%}
 {% assign greg1 = "https://thepolemicalmedic.wordpress.com/"	%}
 {% assign tram = "https://philiptrammell.com/blog"	%}
 {% assign care = "http://theunitofcaring.tumblr.com/"	%}
 {% assign ngo = "https://thinkingcomplete.blogspot.com/"	%}
-{% assign sand = "http://aleph.se/andart2/"		%}
+{% assign sand = "https://web.archive.org/web/20260706164100/https://aleph.se/andart2/"		%}
 {% assign lib = "https://languagelog.ldc.upenn.edu/nll/"	%}
 {% assign nint = "https://nintil.com/"	%}
 {% assign ozy = "https://thingofthings.wordpress.com"	%}
@@ -88,7 +88,7 @@
 {%		assign back = "https://www.threecandles.org/archive/ljenkins.html"		%}
 {%		assign aber = "https://troublingadvocacy.blogspot.com/2020/04/aberdeen-by-iain-crichton-smith.html"		%}
 {%		assign flo = "https://halfmanhalfbiscuit.uk/this-leaden-pall-1993/floreat-inertia/"		%}
-{%		assign kap = "https://sci-hub.se/10.1177/030437540002500315"	%}
+{%		assign kap = "https://web.archive.org/web/20250119233538/https://sci-hub.se/10.1177/030437540002500315"	%}
 {%		assign rich = "https://poetrying.wordpress.com/2008/12/15/cartographies-of-silence-adrienne-rich/"	%}
 
 {%		assign sittler = "https://fragile-credences.github.io/ps/"				%}

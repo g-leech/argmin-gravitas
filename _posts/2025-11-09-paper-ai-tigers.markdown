@@ -651,7 +651,7 @@ I won't [use](https://artificialanalysis.ai/#cost) AA's efficiency estimates, be
 
 <big>Out of Context</big>
 
-A <a href="https://www.the-information-bottleneck.com/ep16-ai-news-and-papers/">rule of</a> <a href="https://arxiv.org/pdf/2404.06654">thumb</a> in ML is that the effective context window is about 5-10 times shorter than the theoretical maximum context window you get sold (also I hope there's nothing important to you in the middle third). 
+A <a href="https://web.archive.org/web/20251201025146/https://www.the-information-bottleneck.com/ep16-ai-news-and-papers/">rule of</a> <a href="https://arxiv.org/pdf/2404.06654">thumb</a> in ML is that the effective context window is about 5-10 times shorter than the theoretical maximum context window you get sold (also I hope there's nothing important to you in the middle third). 
 
 By "effective" I mean the latent amount of context which gets simultaneously _understood_, as opposed to the observed size of the data type. (This doesn't affect "needle in a haystack" retrieval, at which they have been superhuman for a while now.)<br><br>
 

@@ -236,7 +236,7 @@ I wanted to be a researcher very badly. When I got my first citation (for a <a h
             - https://www.bbc.co.uk/sounds/play/m000xkz8
         - BBC Radio Bristol (L)
         - Coverage on Marginal Revolution
-        - [Wired](https://www.wired.co.uk/article/face-mask-mandate-uk)
+        - [Wired](https://web.archive.org/web/20221206195615/https://www.wired.co.uk/article/face-mask-mandate-uk)
         <li>
 - *Conferences**
     - 3 presentations

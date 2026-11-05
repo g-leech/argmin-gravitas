@@ -25,7 +25,7 @@ wordcount:		870
 
 {%	assign laws = "https://www.quora.com/What-are-the-main-differences-between-English-Common-Law-and-the-Napoleonic-Code/answer/Ralph-Lohmann"	%}
 {%	assign adapt = "https://en.wikipedia.org/wiki/Adaptationism#Debate"		%}
-{%	assign raar =  "https://yougov.co.uk/news/2015/08/06/support-radical-left-and-right/" 		%}
+{%	assign raar =  "https://web.archive.org/web/20170225075928/https://yougov.co.uk/news/2015/08/06/support-radical-left-and-right/" 		%}
 {%	assign photo = "https://en.wikipedia.org/wiki/Photosynthetic_efficiency" %}
 {%	assign nietz = "http://pastehtml.com/view/crz4xb2u4.html"		%}
 {%	assign soviet = "https://en.wikipedia.org/wiki/Collectivization_in_the_Soviet_Union#Results"		%}
@@ -102,7 +102,7 @@ That is, you can tie in the maths feud as follows:<br><br>
 
 You might wonder how 'French' I am. Boringly, I don't know. <a href="#fn:6" id="fnref:6">6</a> 
 
-Traditions are often internally incoherent, just because they are a giant heap of ideas all added without editorial care. <a href="#fn:5" id="fnref:5">5</a> Not everything which persists a long time is <a href="{{adapt}}">adaptive</a> : bad local maxima <a href="{{photo}}">exist</a> all over nature and <a href="{{christ}}">society</a>. <a href="#fn:1" id="fnref:1">1</a> And the <a href="http://apps.who.int/immunization_monitoring/diseases/en/">status quo</a> is <a href="http://www.globalslaveryindex.org/findings/">monstrous</a> and <a href="https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#List_of_countries_and_dependencies">intolerable</a> in <a href="https://www.tauday.com/">many</a>, <a href="http://www.syriahr.com/en/?p=56923">many</a> <a href="https://en.wikipedia.org/wiki/Death">obvious</a> ways.
+Traditions are often internally incoherent, just because they are a giant heap of ideas all added without editorial care. <a href="#fn:5" id="fnref:5">5</a> Not everything which persists a long time is <a href="{{adapt}}">adaptive</a> : bad local maxima <a href="{{photo}}">exist</a> all over nature and <a href="{{christ}}">society</a>. <a href="#fn:1" id="fnref:1">1</a> And the <a href="https://web.archive.org/web/20170228093154/http://apps.who.int/immunization_monitoring/diseases/en/">status quo</a> is <a href="http://www.globalslaveryindex.org/findings/">monstrous</a> and <a href="https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#List_of_countries_and_dependencies">intolerable</a> in <a href="https://www.tauday.com/">many</a>, <a href="http://www.syriahr.com/en/?p=56923">many</a> <a href="https://en.wikipedia.org/wiki/Death">obvious</a> ways.
 
 But <a href="{{columbian}}">large</a>, <a href="{{dayuejin}}">sudden</a> <a href="{{soviet}}">social</a> <a href="{{vijiji}}">changes</a> have probably been destructive more often than constructive. I am instinctively top-down, but I'd like to be more empirical. 
 

@@ -197,7 +197,7 @@ Brutal system prompts help a bit.
 
 <br>
 
-Anyway I'm not too proud to think I might be doing it wrong. (For instance, I'm overdue a sojourn into the [base model](https://app.hyperbolic.xyz/models/llama31-405b-base-bf-16) [Zones](https://stalker.fandom.com/wiki/The_Zone).)
+Anyway I'm not too proud to think I might be doing it wrong. (For instance, I'm overdue a sojourn into the [base model](https://web.archive.org/web/20250401133222/https://app.hyperbolic.xyz/models/llama31-405b-base-bf-16) [Zones](https://stalker.fandom.com/wiki/The_Zone).)
 
 
 

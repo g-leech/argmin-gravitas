@@ -51,7 +51,7 @@ My problem with economics stretches to every major question of scientific method
 
 Call the dominant paradigm _purist economics_ (PE).
 
-<!-- How many heterodox are there? Data is sparse. One historian of economics, Frederic Lee, estimates the proportion of contemporary dissenters as “5 or 10 percent” (in Hayes, Christopher (2007), ‘Hip Heterodoxy’, The Nation, http://www.thenation.com/article/hip-heterodoxy?page=0,1) -->
+<!-- How many heterodox are there? Data is sparse. One historian of economics, Frederic Lee, estimates the proportion of contemporary dissenters as “5 or 10 percent” (in Hayes, Christopher (2007), ‘Hip Heterodoxy’, The Nation, https://web.archive.org/web/20150627134953/http://www.thenation.com/article/hip-heterodoxy?page=0,1) -->
 
 Call the dominant theories in the paradigm mainstream economics. The more common name is ‘neoclassical’ economics, but this obscures its object in two respects – firstly historically (because the original ‘neoclassicals’ were C19th economists, and were quite different from our contemporaries) and, secondly, because the term is made to cover two orders of explanation (‘neoclassical economics’ being used for both the dominant theories, and the meta-theory that orchestrates them). Problems with economics fall into three groups: the technical, the philosophical and the institutional. These sets are not independent, and might be characterised by the causal chain:
 
@@ -99,7 +99,7 @@ Say that purist economics is a cluster centred on the following beliefs:
 Edward Lazear, a powerful policy-maker, gives PE's understanding of itself: 
 <blockquote>Economics is not only a science, it is a genuine science. Like the physical sciences, economics uses a methodology that produces refutable implications and tests these implications using solid statistical techniques...
 </blockquote>
- <!-- Lazear, Edward (1999), ‘Economic Imperialism’ http://faculty-gsb.stanford.edu/lazear/personal/pdfs/economic%20imperialism.pdf  --> 
+ <!-- Lazear, Edward (1999), ‘Economic Imperialism’ https://web.archive.org/web/20130112210915/http://faculty-gsb.stanford.edu/lazear/personal/pdfs/economic%20imperialism.pdf  --> 
  Let us see.  
 
 Here is a general schema for evaluating a science:
@@ -264,13 +264,13 @@ As a result of these(largely unintended) features, the paradigm could not shift 
     <div>
     • Arrow, Kenneth (1951), 'An Extension of the Basic Theorems of Classical Welfare Economics', Proceedings of the Second Berkeley Symposium on Math. Statist. and Prob. (Univ. of Calif. Press, 1951), p.507-532. 
     • Colander, David (2004) ‘Economics as an Ideologically Challenged Science’ , working paper, http://rocky.middlebury.edu/econ/repec/mdl/ancoec/0411.pdf 
-    • Colander, David (2007) ‘Pluralism and Heterdox Economics’, working paper, http://sandcat.middlebury.edu/econ/repec/mdl/ancoec/0724.pdf  
+    • Colander, David (2007) ‘Pluralism and Heterdox Economics’, working paper, https://web.archive.org/web/20210413103450/https://sandcat.middlebury.edu/econ/repec/mdl/ancoec/0724.pdf  
     • Colander et al (2009) ‘The Financial Crisis and the Systemic Failure of Academic Economics’, Kiel Institute for the World Economy Working Paper, http://goo.gl/93f3O 
     • Dow, Sheila (1997), ‘Mainstream economic methodology’, Cambridge Journal of Economics vol. 21, p. 73-93  
     • Friedman, Milton (1968), ‘The Role of Monetary Policy’, American Economic Review 58, No.1 (March 1968), p.1-17
     • Friedman, Milton (1953) "The Methodology of Positive Economics" in his Essays In Positive Economics (Chicago: Univ. of Chicago Press, 1966), pp. 3-16
     • Hausman, Daniel (1992), The Inexact and Separate Science of Economics, (Cambridge; Cambridge UP; 1992)
-    • Hayes, Christopher (2007), ‘Hip Heterodoxy’, The Nation, http://www.thenation.com/article/hip-heterodoxy?page=0,1
+    • Hayes, Christopher (2007), ‘Hip Heterodoxy’, The Nation, https://web.archive.org/web/20150627134953/http://www.thenation.com/article/hip-heterodoxy?page=0,1
     • Lanchester, John (2012) ‘Marx at 193’, London Review of Books, http://www.lrb.co.uk/v34/n07/john-lanchester/marx-at-193
     • Latsis, Spiro (1972), ‘Situational Determinism in Economics’, British Journal for the Philosophy of Science 23, p.207-45
     • Maki, Uskali (2008) ‘Realism from the ‘lands of Kaleva’: an interview with Uskali Mäki’, Erasmus Journal for Philosophy and Economics, 1, Autumn 2008, p.124-146.

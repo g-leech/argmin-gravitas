@@ -356,19 +356,19 @@ On the bright side, _HK_ prefigures several (of what we currently think of as ac
 <div class="accordion">
     <h3>Bibliography</h3>
     <div>
-    * Axtell, Guy (2006), ‘Epistemic Virtue’, Janusblog, http://goo.gl/1jBfL
+    * Axtell, Guy (2006), ‘Epistemic Virtue’, Janusblog, https://web.archive.org/web/20120527072928/http://janusblog.squarespace.com/janusbloglibraryofpapersd/Axtell%20Epistemic%20Virtue%20for%20Steup1.doc
     * Brueckner, Anthony (1992), Mind , New Series, Vol. 101, No. 402 (Apr., 1992), pp. 309-317 
     * Descartes, Rene (1716), Meditations on First Philosophy, Cambridge University Press
     * Fairweather, Abrol (2012), ‘Duhem-Quine Virtue Epistemology’, for Synthese, http://philpapers.org/archive/FAIP.1.pdf
     * Feldman, Richard (2001), ‘Naturalized Epistemology’, Stanford Encyclopaedia, http://plato.stanford.edu/entries/epistemology-naturalized/ 
-    * Goldman & Olsson (2009), ‘Reliabilism and the Value of Knowledge’, http://goo.gl/zb1BU
+    * Goldman & Olsson (2009), ‘Reliabilism and the Value of Knowledge’, https://web.archive.org/web/20171210022550/http://fas-philosophy.rutgers.edu:80/goldman/Reliabilism%20and%20the%20Value%20of%20Knowledge.pdf
     * Greco, John (2011), ‘Virtue Epistemology’, Stanford Encyclopaedia of Philosophy, http://plato.stanford.edu/entries/epistemology-virtue/ 
     * Hellie, Benj (2000), ‘Acquaintance’, in the Oxford 
     * Kitcher, Philip (1992), ‘The Naturalists Return’, Philosophical Review 101 (1) p.53-114
     * Klein, Peter (2005) ‘Epistemology’, in Craig (ed.), Routledge Encyclopedia of Philosophy (London; Routledge; 2011)
-    * Pritchard, Duncan (2001), lecture notes for ‘Scepticism and the Structure of Knowledge’ http://goo.gl/7Gwm1 
+    * Pritchard, Duncan (2001), lecture notes for ‘Scepticism and the Structure of Knowledge’ http://www.philosophy.stir.ac.uk/old/staff/pritchard/71L5%20Scepticism%20&%20Knowledge/2001%20Lecture%201.html 
     * Quine, W.V.O. (1986), ‘Reply to Morton White’ in The Philosophy of W V. Quine, ed. Hahn and Schilpp, (La Salle, Ill.: Open Court, 1986); p.666-7
-    * Robinson, Alistair (2010), http://critique-of-pure-reason.com/crispin-wrights-scepticism-and-dreaming-imploding-the-demon/
+    * Robinson, Alistair (2010), https://web.archive.org/web/20180406065417/http://critique-of-pure-reason.com:80/crispin-wrights-scepticism-and-dreaming-imploding-the-demon/
     * Russell, Bertrand (1912), The Problems of Philosophy (Suffolk; Oxford University Press; 1985)
     * Russell, Bertrand (1914), Our Knowledge of the External World (London; Routledge; 1993)
     * Russell, Bertrand (1940), An Inquiry into Meaning and Truth (New York; Norton & Co; 1940)
@@ -376,7 +376,7 @@ On the bright side, _HK_ prefigures several (of what we currently think of as ac
     * Russell, Bertrand (1960), The Autobiography of Bertrand Russell, (Padstow; Routledge; 1998)
     * Sinclair, Robert (2009), ‘Quine’s Philosophy of Science’, Internet Encyclopaedia of Philosophy, http://www.iep.utm.edu/quine-sc/ 
     * Sosa, Ernest (1980), ‘The Raft and the Pyramid’, Midwest Studies In Philosophy, Volume 5, Issue 1, September 1980, p.3–26
-    * Sosa, Ernest (2007), Virtue Epistemology , Oxford Bibliographies Online, http://goo.gl/qbuK5 
+    * Sosa, Ernest (2007), Virtue Epistemology , Oxford Bibliographies Online, https://web.archive.org/web/20120214140103/http://oxfordbibliographiesonline.com/view/document/obo-9780195396577/obo-9780195396577-0123.xml 
     * Sosa, Ernest (2009), ‘Descartes and Virtue Epistemology’, in New Essays on the Philosophy of Alvin Plantinga , p.107-127
     * Stich, Stephen (1988). ‘Reflective Equilibrium, Analytic Epistemology and the Problem of Cognitive Diversity’, Synthese 74 (3), p.391-413.
     * Strawson, P.F. 1985: Skepticism and Naturalism: Some Varieties, Routledge

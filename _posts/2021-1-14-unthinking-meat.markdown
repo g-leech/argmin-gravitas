@@ -46,7 +46,7 @@ argument:
 
 ## See also
 
-* <a href="https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html">Bisson</a>
+* <a href="https://web.archive.org/web/20210128025451/https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html">Bisson</a>
 * [The melancholy of pareidolia](https://www.gleech.org/psych#melancholy)
 * [Why is quality rare?](https://www.gleech.org/quality)
 * [Pieties](https://www.gleech.org/piety)

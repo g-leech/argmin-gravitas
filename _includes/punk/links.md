@@ -39,7 +39,7 @@
 
 {%	assign dri = "https://www.youtube.com/watch?v=lcZO6gudw5k"		%}
 {%	assign into = "https://en.wikipedia.org/wiki/Into_the_Unknown_(Bad_Religion_album)#Legacy"		%}
-{%	assign bangs = "https://www.villagevoice.com/2020/01/05/the-white-noise-supremacists/"		%}
+{%	assign bangs = "https://web.archive.org/web/20230703170333/https://www.villagevoice.com/2020/01/05/the-white-noise-supremacists/"		%}
 {%	assign hard = "https://thehardtimes.net/blog/only-black-guy-at-this-show-really-wishes-id-stop-calling-him-that/"		%}
 {%	assign pil = "https://en.wikipedia.org/wiki/Public_Image_Ltd"		%}
 {%	assign bad = "https://en.wikipedia.org/wiki/Big_Audio_Dynamite"		%}

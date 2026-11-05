@@ -16,7 +16,7 @@
 {%   assign rey = "https://www.google.co.uk/books/edition/Rip_it_Up_and_Start_Again/dK-F43T8V0wC"  %}
 {%   assign hitch = "https://www.lrb.co.uk/the-paper/v20/n23/christopher-hitchens/moderation-or-death"    %}
 {%   assign greek = "https://slimemoldtimemold.com/2022/04/11/disco-elysium-breaks-the-looms-of-rpgs/"  %}
-{%   assign bangs = "https://www.villagevoice.com/2020/01/05/the-white-noise-supremacists"  %}
+{%   assign bangs = "https://web.archive.org/web/20230703170333/https://www.villagevoice.com/2020/01/05/the-white-noise-supremacists/"  %}
 {%   assign alvaro = "https://fantasticanachronism.com/2021/03/23/two-paths-to-the-future"   %}
 {%   assign pale = "http://fayde.co.uk/dialojue/7620521"        %}
 {%   assign anode = "https://en.wikipedia.org/wiki/Anodic_protection"        %}

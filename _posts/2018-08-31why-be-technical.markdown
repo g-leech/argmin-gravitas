@@ -68,4 +68,4 @@ We had the knowledge, but it was too clumsy heavy to use, much less build upon. 
 See also <a href="{{soph}}">here</a>. Quite a lot of philosophy is literally technical now, in the sense of "containing formal symbolic arguments".
 
 
-{%	assign soph = "https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philosopher" %}
+{%	assign soph = "https://web.archive.org/web/20190823112748/https://www.sophiamag.co.uk/single-post/2017/12/10/Why-I-Am-Not-A-Philosopher" %}

@@ -13,18 +13,18 @@
 {%	assign gelman =	"http://andrewgelman.com/2015/10/10/latest-gay-gene-tabloid-hype/"		%}
 {%	assign gelman =	""		%}
 {%	assign forty =	"http://link.springer.com/article/10.1007%2Fs10508-008-9386-1"		%}
-{%	assign lg =	"http://www.lgbtscience.org/genetic-factors/"		%}
+{%	assign lg =	"https://web.archive.org/web/20171002140822/http://www.lgbtscience.org:80/genetic-factors/"		%}
 {%	assign atlan =	"https://www.theatlantic.com/science/archive/2015/10/no-scientists-have-not-found-the-gay-gene/410059/"		%}
 {%	assign broker = "https://www.propublica.org/article/everything-we-know-about-what-data-brokers-know-about-you"			%}
 
 {%	assign symm = "http://www.asu.edu/lib/tutorials/empirical/quantitative.pdf"		%}
 {%	assign hyst = "https://en.wikipedia.org/wiki/Hysterical_strength" 		%}
-{%	assign chunk =	"http://ilga.org/wp-content/uploads/2014/08/04_ILGA_WorldMap_ENGLISH_Crime_May2016.png"		%}
+{%	assign chunk =	"https://web.archive.org/web/20170126164414/http://ilga.org/wp-content/uploads/2014/08/04_ILGA_WorldMap_ENGLISH_Crime_May2016.png"		%}
 
 
 {% 	assign weapon = 	"https://en.wikipedia.org/wiki/List_of_U.S._biological_weapons_topics#Weaponized_biological_agents" %}
 {%	assign warrant = "https://www.local10.com/news/police-can-legally-use-23andme-other-ancestry-tools-to-obtain-your-dna?"	%}
 {%	assign falsePos = "https://www.themarshallproject.org/2018/04/19/framed-for-murder-by-his-own-dna" 		%}
 {%	assign collision = "https://en.wikipedia.org/wiki/Collision_(computer_science)"		%}
-{%	assign ged = "https://www.gedmatch.com/login1.php"		%}
+{%	assign ged = "https://web.archive.org/web/20210508062536/https://www.gedmatch.com/login1.php"		%}
 {%	assign goldenkiller = "https://www.nytimes.com/2018/04/27/us/golden-state-killer-case-joseph-deangelo.html"		%}

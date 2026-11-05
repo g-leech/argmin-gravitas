@@ -57,7 +57,7 @@ wordcount:
 {%  assign jul = "https://open.spotify.com/playlist/37i9dQZF1EFBMy7yWCGG3R?si=7cfd5c6ec54f4823"  %}
 {%  assign now = "https://open.spotify.com/playlist/37i9dQZF1EFP5rPNdU4A8C?si=3cdee94903174556"  %}
 {%  assign nep = "https://open.spotify.com/playlist/3gC3qkmGsyEMIfgsiynDPP?si=9af60e24a1e04804"  %}
-{%  assign vig = "https://open.spotify.com/playlist/6uiuHbI9zlr5lyLbKxiA7F?si=d58ac27618384c5a" %}
+{%  assign vig = "https://web.archive.org/web/20260426070140/https://open.spotify.com/playlist/6uiuHbI9zlr5lyLbKxiA7F?si=d58ac27618384c5a" %}
 {%  assign diane = "https://open.spotify.com/playlist/37i9dQZF1EFC5Q0Qd39sZn?si=730e41d2cc9b4721" %}
 
 

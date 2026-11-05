@@ -243,13 +243,13 @@ Part 3 might be about the [mental health impact of WCA][mental], though maybe no
 [kilodeath]: https://www.gov.uk/government/statistics/mortality-statistics-esa-ib-and-sda-claimants
 [totalEsa]: https://www.gov.uk/performance/dwp-incapacity-benefit-employment-support-allowance-esa-claims-maintained
 [public]: https://stat-xplore.dwp.gov.uk/webapi/jsf/login.xhtml
-[struggle]: https://ico.org.uk/media/action-weve-taken/decision-notices/2015/1424160/fs_50557638.pdf 
+[struggle]: https://web.archive.org/web/20170103011303/https://ico.org.uk/media/action-weve-taken/decision-notices/2015/1424160/fs_50557638.pdf 
 [cancer]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/cancersurvivalratescancersurvivalinenglandadultsdiagnosed
 [foundFit]: https://www.gov.uk/government/news/million-new-esa-claimants-found-fit-for-work
 [wcaResults]: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/274091/esa_wca_140122.xls
 [noHome]: https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/deathsduetohomelessness
 [elder]: https://www.ncbi.nlm.nih.gov/pubmed/28208027
-[mental]: http://www.advocard.org.uk/wp-content/uploads/2017/02/2017-02-Heriot-Watt-Mental-Health-Report-on-WCA.pdf
+[mental]: https://web.archive.org/web/20201031052047/http://www.advocard.org.uk/wp-content/uploads/2017/02/2017-02-Heriot-Watt-Mental-Health-Report-on-WCA.pdf
 [bmj]: http://bmjopen.bmj.com/content/7/11/e017722
 [homeless]: https://www.crisis.org.uk/media/236799/crisis_homelessness_kills_es2012.pdf
 [jones]: https://www.theguardian.com/commentisfree/2016/mar/17/disabled-people-government-vulnerable-budget-labour

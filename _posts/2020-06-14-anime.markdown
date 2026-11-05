@@ -645,7 +645,7 @@ Brutal.
         - Voices: 7
             - comedy is easier to ham up
         - Script: 7
-    - https://vrv.co/series/G675N3ENR
+    - https://web.archive.org/web/20210619222434/https://vrv.co/series/G675N3ENR
     - **tags**
         - #highschool
         - #[[fourth wall]]

@@ -81,7 +81,7 @@ I'd been vegetarian since I was 16, for utilitarian and anti-capitalist reasons 
 <ul>
 	<li>since the dairy and egg industries are either the selfsame companies that form the meat industry, or their operations share profits and harmful processes with the meat industry;</li>
 	<li>since surprising amounts of harm are an essential part of even nonlethal factory farming (e.g. male chicks <a href="https://en.wikipedia.org/wiki/Chick_culling">electrocuted to death</a> at birth, calves <a href="https://www.sciencedaily.com/releases/2015/04/150428081801.htm">separated from mothers</a> at birth).</li>
-	<li>Environmental vegetarianism is also inconsistent: cow's cheese causes <a href="http://www.fao.org/news/story/en/item/197623/icode/">more CO2 equivalent emissions</a> than chicken meat.</li>
+	<li>Environmental vegetarianism is also inconsistent: cow's cheese causes <a href="https://web.archive.org/web/20160828154852/http://www.fao.org/news/story/en/item/197623/icode/">more CO2 equivalent emissions</a> than chicken meat.</li>
 </ul>
 
 Veganism appeals because it prevents most harm, and because it is consistent where ethical vegetarianism is not.<br><br>

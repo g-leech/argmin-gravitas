@@ -63,7 +63,7 @@ Against Me! are a great example of many phenomena that haunt counterculture band
 </ul>
 <br><br>
 
-AM! lived in a place where "major label debut" means not "the beginning of your pro musical career", but <i>its spiritual end</i>. They got out, though only via the most impressive fanbase alienation of recent years. They went from Crass to blink-182, <a href="http://www.plan-it-x.org/faq/#q6">Plan-it X</a> to <a href="http://www.boingboing.net/2009/05/04/warner-music-to-warn.html">Sire</a> (and <a href="https://againstme.myshopify.com/">back to DIY</a>) <br><br>
+AM! lived in a place where "major label debut" means not "the beginning of your pro musical career", but <i>its spiritual end</i>. They got out, though only via the most impressive fanbase alienation of recent years. They went from Crass to blink-182, <a href="https://web.archive.org/web/20120106082238/http://www.plan-it-x.org:80/faq/#q6">Plan-it X</a> to <a href="https://web.archive.org/web/20260201033356/https://boingboing.net/2009/05/04/warner-music-to-warn.html">Sire</a> (and <a href="https://web.archive.org/web/20260302034829/https://againstme.myshopify.com/">back to DIY</a>) <br><br>
 
 <!-- Just how hard can you hit an acoustic guitar? Even as young and hardcore as they are, there's "experiment" (compare the structure of this with Crass' "<a href="http://www.youtube.com/watch?v=xjJ-y2zMz7Q">G Song</a>" - each beguiling, lonely piano intros followed by thrash). Gabel's vox don't merit the word 'lyrics'; we are excess teen passion. Note that even as early as this EP there's "whoooooah"s and nice unison melody bits. Hey, what if we went quiet <i>and then went loud!</i> -->
 <!-- 
@@ -96,7 +96,7 @@ There's anxious self-consciousness throughout the AM! discography; <a href="http
  
 <h2>2003:</h2>
 
-Upon signing to Fat Wreck Chords, though - a successful, famously <a href="http://www.punknews.org/label.php?topic=151">socially progressive</a>, non-corporate, non-<a href="http://techdailydose.nationaljournal.com/2007/10/riaa-wins-big-in-court-faces-c.php">RIAA</a> entity that apparently doesn't bother with contracts - there was ideological blood in the water. <br><br>
+Upon signing to Fat Wreck Chords, though - a successful, famously <a href="http://www.punknews.org/label.php?topic=151">socially progressive</a>, non-corporate, non-<a href="https://web.archive.org/web/20111106065443/http://techdailydose.nationaljournal.com/2007/10/riaa-wins-big-in-court-faces-c.php">RIAA</a> entity that apparently doesn't bother with contracts - there was ideological blood in the water. <br><br>
 
 <blockquote>
 	Disgruntled fans slashed the tires of their tour van in one town and graffitied it in another (scrawling “remember when you mattered” but misspelling “Against”). At a concert in Texas a protest band called Against Us! played in the parking lot outside the club. A writer for Maximum RocknRoll, the grand­daddy of DIY zines, went so far as to issue a fatwa against the band, listing tips readers might find handy for disrupting Against Me! shows (like pouring bleach on their T–shirt table).<br><br> 
@@ -135,7 +135,7 @@ The really funny thing is that at no point did they stop being politically radic
 
 So it's not <i>lyrical</i> dilution. The last album even calls out old <a href="http://en.wikipedia.org/wiki/Robert_McNamara#Vietnam_War">Robert McNamara's war crimes</a>, in a massive pop-punk chorus.<br><br>
 
-"Aha!" cries our strawman purist. "But they are <i>politically</i> diluted! Deed over word! <a href="http://www.plan-it-x.org/release/against-me-/crime-as-forgiven-by-/">Look what they did to Plan-it X</a>! In profiteering, they have abandoned DIY!"<br><br>
+"Aha!" cries our strawman purist. "But they are <i>politically</i> diluted! Deed over word! <a href="https://web.archive.org/web/20111005092113/http://www.plan-it-x.org/release/against-me-/crime-as-forgiven-by-/">Look what they did to Plan-it X</a>! In profiteering, they have abandoned DIY!"<br><br>
 
 No. This view is an analogue of admitting that you do not listen to <i>music</i> at all; you listen instead to artists, scenes and Propositions.<br><br>
 

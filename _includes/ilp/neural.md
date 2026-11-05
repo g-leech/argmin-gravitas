@@ -44,7 +44,7 @@ From the safety perspective, this unification often loses the properties we orig
 % other names to search for
 % Statistical Relational Learning, Probabilistic Logic Learning ...
 
-% Francesca Toni wrote Explanatory predictions with artificial neural networks and argumentation https://spiral.imperial.ac.uk/bitstream/10044/1/62202/2/main.pdf
+% Francesca Toni wrote Explanatory predictions with artificial neural networks and argumentation https://web.archive.org/web/20200710132129/https://spiral.imperial.ac.uk/bitstream/10044/1/62202/2/main.pdf
 
 %"principled hybrids of structure-based methods and deep learning" https://arxiv.org/pdf/1806.01261.pdf#page=25
 % In the spirit of numerous recent examples of principled hybrids of structure-based methods and deep learning e.g.:
@@ -61,7 +61,7 @@ From the safety perspective, this unification often loses the properties we orig
             
     %         - [Real Logic abduction](https://arxiv.org/abs/1606.04422)
             
-    %         - [HMMs](https://www.aaai.org/Papers/JAIR/Vol25/JAIR-2512.pdf), one atom at a time
+    %         - [HMMs](https://web.archive.org/web/20151026160343/http://www.aaai.org/Papers/JAIR/Vol25/JAIR-2512.pdf), one atom at a time
             
     %         - 'Covers' as conditional probability. [Naive Bayes](https://people.csail.mit.edu/kersting/ecmlpkdd05_pilp/pilp.pdf) for single nonrecursive clauses
             

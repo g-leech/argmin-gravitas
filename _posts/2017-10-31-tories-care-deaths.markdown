@@ -25,7 +25,7 @@ wordcount:
 https://www.ncbi.nlm.nih.gov/pubmed/28208027
 http://www.dannydorling.org/?page_id=5942
 https://www.rsm.ac.uk/about-us/media-information/2017-media-releases/new-analysis-links-30000-excess-deaths-in-2015-to-cuts-in-health-and-social-care.aspx
-http://www.geog.ox.ac.uk/news/articles/170217-ddorling-cuts-excess-deaths.html
+https://web.archive.org/web/20171026095626/http://www.geog.ox.ac.uk/news/articles/170217-ddorling-cuts-excess-deaths.html
 
 ## See also
 

@@ -298,7 +298,7 @@ This idea comes from bizarre radicals, but it ironically provides one of the few
 > all the Tribes are waging the same war the same ways. They all believe they are fated to win, because they are morally correct, which justifies tearing societies apart. Trying even harder to stomp on the Bad Tribe is the fuel for the dynamic... Realistically, your side can never gain enough power to silence them, nor will your propaganda ever convert them. No side can win the culture war. We all lose. It’s better to see the war itself, and the technology that stokes it, as the enemy.
 
 <center>
-    – <a href="https://betterwithout.ai/AI-is-out-of-control" class="noline">David Chapman</a>
+    – <a href="https://web.archive.org/web/20230213183744/https://betterwithout.ai/AI-is-out-of-control" class="noline">David Chapman</a>
 </center>
 
 <br>
@@ -734,7 +734,7 @@ The game is enhanced further by the extremely on-the-nose drama that befell the 
 
 The [PMG analysis](https://www.youtube.com/watch?v=JGIGA8taN-M) of the situation has its merits, but leans far too far into false balance, naively swallowing filtered evidence, and sanctimony. The vid is a paradigm of journalism's strengths and weaknesses: it is good to let people speak, but it is absurd to take them at face value and to give all evidence equal weight. I am _more_ sympathetic to KHR after seeing this tape: long absences, lying to avoid some work, and going to a meeting he was not invited to is the worst mud that the suits could find, from years of operation, with years of prep. 
 
-That black comedy is ready to birth another: the new owners sold the film rights. Capitalist realism, brought to you by [the creators](https://www.dj2entertainment.com/blog/https/varietycom/2020/tv/news/disco-elysium-tv-series-1234690455) of "Sonic the Hedgehog: The Movie" (2020).
+That black comedy is ready to birth another: the new owners sold the film rights. Capitalist realism, brought to you by [the creators](https://web.archive.org/web/20230117161826/https://www.dj2entertainment.com/blog/https/varietycom/2020/tv/news/disco-elysium-tv-series-1234690455) of "Sonic the Hedgehog: The Movie" (2020).
 
 
 

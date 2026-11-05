@@ -90,7 +90,7 @@
 			1952: <i>Number theory</i>:<br> Numerical evidence (computed on the Manchester Baby) for thousands of values of the zeta-function.
 		</li><br>
 		<li>
-			1952: <i>Pattern formation</i>:<br> <a href="http://people.bath.ac.uk/jhpd20/publications/after1952.pdf">Construction</a> of the "Swift-Hohenberg" equation, 23 years before them. 
+			1952: <i>Pattern formation</i>:<br> <a href="https://web.archive.org/web/20220211182034/https://people.bath.ac.uk/jhpd20/publications/after1952.pdf">Construction</a> of the "Swift-Hohenberg" equation, 23 years before them. 
 		</li><br>
 	</ul>
 </div>

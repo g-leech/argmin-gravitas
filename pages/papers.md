@@ -19,7 +19,7 @@ visible:  false
 {%	assign dm_graph = "https://arxiv.org/abs/1806.01261"		%}
 {%	assign gwern_decade = "https://www.gwern.net/newsletter/2019/13#what-progress"		%}
 {%	assign ssc = "https://slatestarcodex.com/2020/04/14/a-failure-but-not-of-prediction"		%}
-{%	assign bor = "http://wayback.cecm.sfu.ca/personal/jborwein/apaper.pdf"		%}
+{%	assign bor = "https://web.archive.org/web/20230206070748/http://wayback.cecm.sfu.ca/personal/jborwein/apaper.pdf"		%}
 {%	assign oates = "https://arxiv.org/abs/1901.04457"		%}
 {%	assign gup = "https://docs.google.com/document/d/1PwRpfJiqus_h8Hyj006wtsLJDClsdWcb/edit"	%}
 {%	assign chris = "https://sideways-view.com/2020/01/26/hedonic-asymmetries/"	%}
@@ -42,7 +42,7 @@ Grand. Sweeping the furls and swarf of conferences into a dense block.
 * Khovanova & Radu, [Jewish Problems](https://arxiv.org/pdf/1110.1556.pdf). An example of a precise mechanism of intentional discrimination.
 <!-- Banholzer NPI  -->
 * Calderhead, [A general construction for parallelizing Metropolis−Hastings algorithms](https://www.pnas.org/content/111/49/17408)
-* Harden, [“Reports of My Death Were Greatly Exaggerated”: Behavior Genetics in the Postgenomic Era](https://sci-hub.se/10.1146/annurev-psych-052220-103822)
+* Harden, [“Reports of My Death Were Greatly Exaggerated”: Behavior Genetics in the Postgenomic Era](https://web.archive.org/web/20250408155851/https://sci-hub.se/10.1146/annurev-psych-052220-103822)
 
 * [Stunning, crazy, worrying](https://evjang.com/2021/10/23/generalization.html)
 * https://advances.sciencemag.org/content/5/9/eaaw2594
@@ -58,13 +58,13 @@ https://royalsocietypublishing.org/doi/10.1098/rsfs.2021.0017
 
 * Jang, '<a href="{{jang}}">Dijkstra's in Disguise</a>'. Just astounding, technical acrobatics.
 * Daswani & Leike, '<a href="{{leike}}">A Definition of Happiness for Reinforcement Learning Agents</a>'
-* Brundage et plus al, _[The Malicious Use of AI](https://arxiv.org/ftp/arxiv/papers/1802/1802.07228.pdf)_
+* Brundage et plus al, _[The Malicious Use of AI](https://web.archive.org/web/20260209061353/https://arxiv.org/ftp/arxiv/papers/1802/1802.07228.pdf)_
 * Amodei et al, '<a href="https://arxiv.org/abs/1606.06565">Concrete Problems in AI Safety</a>'. Life-changing. The face that launched 100 PhDs.
 * Ziebart, _[Maximum Causal Entropy](http://www.cs.cmu.edu/~bziebart/publications/thesis-bziebart.pdf)_
 * Lundberg, Lee, '<a href="http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf">A Unified Approach to Interpreting Model Predictions</a>'. So elegant, so useful.
 * Carey, Ryan: [Incorrigibility in the CIRL Framework](https://arxiv.org/abs/1709.06275). A model paper: brief, definitive, lucid. Read it in half an hour and got it. I look forward to reading it again.
 * Shah & Cottier: [Clarifying Some Key Hypotheses in AI alignment](https://www.alignmentforum.org/posts/mJ5oNYnkYrd4sD5uE/clarifying-some-key-hypotheses-in-ai-alignment). A first step towards explicit agenda selection.
-* Schoelkopf et al: ['A Discussion of Semi-Supervised Learning and Transduction'](http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf).
+* Schoelkopf et al: ['A Discussion of Semi-Supervised Learning and Transduction'](https://web.archive.org/web/20240416081204/http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf).
 * Merity, Stephen: [Single-Headed Attention](https://arxiv.org/pdf/1911.11423.pdf)
 * The Lottery Ticket Hypothesis
 * Double Descent

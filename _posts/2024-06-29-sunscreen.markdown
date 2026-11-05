@@ -272,7 +272,7 @@ Naltrexone blocks the opioid receptors. At low doses, painkiller
 Chlorpromazine, major tranquilizer, may cause agitation, hallucinations, excitement, insomnia
 
     
-https://en.wikipedia.org/wiki/Hardgainer 
+https://web.archive.org/web/20241202084151/https://en.wikipedia.org/wiki/Hardgainer 
 
 “Rare disease” is a broad medical term for ailments that affect less than 1 in 2000 people, with over 7000 such identified rare diseases existing and an estimated 350 million people suffering from them globally
 

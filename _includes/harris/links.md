@@ -13,4 +13,4 @@
 {% 	assign bundle = "https://www.rep.routledge.com/articles/thematic/mind-bundle-theory-of/v-1"		%}
 {% 	assign trike = "https://tricycle.org/trikedaily/tibetan-monks-found-chanting-text-oxford-philosopher/"		%}
 {% 	assign para = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC300808/"		%}
-{% 	assign berk = "https://berkleycenter.georgetown.edu/responses/sam-harris-buddhism-doesn-t-want-you-either"		%}
+{% 	assign berk = "https://web.archive.org/web/20250117080043/https://berkleycenter.georgetown.edu/responses/sam-harris-buddhism-doesn-t-want-you-either"		%}

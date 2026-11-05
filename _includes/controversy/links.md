@@ -8,10 +8,10 @@
 {%	assign 80k =		"https://80000hours.org/2014/01/which-cause-is-most-effective-300/#TheList" 	%}
 {%	assign Garim-Twitter =	"https://arxiv.org/pdf/1512.05550.pdf" 	%}
 {%	assign Garim2 =		"https://arxiv.org/pdf/1507.05224v1.pdf"	%}
-{%	assign CB2 =		"https://www.fhi.ox.ac.uk/estimating-cost-effectiveness/"	%}
+{%	assign CB2 =		"https://web.archive.org/web/20250717152944/https://www.fhi.ox.ac.uk/estimating-cost-effectiveness/"	%}
 {% 	assign Kittur = 	"http://www-users.cs.umn.edu/~echi/papers/2009-CHI2009/p1509.pdf" %}
 {% 	assign Steen = 		"http://content.csbs.utah.edu/~burbank/steenbergen2003.pdf" %}
 {% 	assign Kahan = 		"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703011" %}
 {% 	assign Rad = 		"http://www.math.iit.edu/~rellis/teaching/454553All/GoodModules/WikipediaEditWars.pdf" %}
-{% 	assign Wib = 		"http://effective-altruism.com/ea/ss/the_importantneglectedtractable_framework_needs/" %}
+{% 	assign Wib = 		"https://web.archive.org/web/20180814011321/http://effective-altruism.com:80/ea/ss/the_importantneglectedtractable_framework_needs/" %}
 {% 	assign TheTerritory = "https://en.wikipedia.org/wiki/Data_generating_process" %}

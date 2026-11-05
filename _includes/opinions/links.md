@@ -4,7 +4,7 @@
 {%	assign morph = "https://ebn.bmj.com/content/7/3/84#ref-3"	%}
 {%	assign dent = "https://www.cochrane.org/CD004625/ORAL_routine-scale-and-polish-periodontal-health-adults"		%}
 {%	assign io = "https://www.ukiodine.org/iodine-in-the-uk/"	%}
-{%	assign uk = "https://sci-hub.se/10.1017/S0029665113001006"	%}
+{%	assign uk = "https://web.archive.org/web/20221001055537/https://sci-hub.se/10.1017/S0029665113001006"	%}
 {%	assign long = "https://nintil.com/longevity/#intermittent-fasting"		%}
 {%	assign nnt = "https://www.statnews.com/2016/06/15/medication-number-needed-to-treat"		%}
 {%	assign ignore = "https://www.cmaj.ca/content/179/6/549"	%}
@@ -32,13 +32,13 @@
 {%	assign liv = "https://pmj.bmj.com/content/81/953/148.long"		%}
 {%	assign op = "https://www.ncbi.nlm.nih.gov/pubmed/10796810"		%}
 {%	assign coch = "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008040.pub3/epdf/full"		%}
-{%	assign asp = "https://www.nhs.uk/news/medication/migraine-relief-from-aspirin/"		%}
+{%	assign asp = "https://web.archive.org/web/20201111194550/https://www.nhs.uk/news/medication/migraine-relief-from-aspirin/"		%}
 {%	assign ibu = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6457940/"		%}
 {%	assign sch = "https://faculty.ucr.edu/~eschwitz/SchwitzPapers/SelfUcs-101118.htm"		%}
-{%	assign jama = "https://sci-hub.se/10.1001/jamaneurol.2019.3780"		%}
+{%	assign jama = "https://web.archive.org/web/20221001053202/https://sci-hub.se/10.1001/jamaneurol.2019.3780"		%}
 {%	assign cell = "https://www.cell.com/current-biology/pdf/S0960-9822(19)31678-1.pdf"		%}
 {%	assign nz = "https://www.sciencedirect.com/science/article/abs/pii/S0001457517304256"		%}
-{%	assign pain = "http://www.bandolier.org.uk/booth/painpag/Acutrev/Analgesics/lftab.html"		%}
+{%	assign pain = "https://web.archive.org/web/20240120005926/http://www.bandolier.org.uk/booth/painpag/Acutrev/Analgesics/lftab.html"		%}
 {%	assign ace = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7156914/"	%}
 {%	assign thia = "https://www.cochrane.org/CD003824/HTN_thiazide-diuretics-for-the-treatment-of-high-blood-pressure"		%}
 {%	assign sodium = "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004022.pub4/full"	%}

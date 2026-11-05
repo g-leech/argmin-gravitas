@@ -172,7 +172,7 @@ Keywords: "withdrawal reversal", "net [beneficial] effects of chronic administra
 
 #### The real deal
 
-I found one good recent study with strong pre-hoc controls for confounding: <a href="https://sci-hub.se/10.1007/s00213-012-2889-4">Rogers (2013)</a>, n=369, blinded:
+I found one good recent study with strong pre-hoc controls for confounding: <a href="https://web.archive.org/web/20220221045536/https://sci-hub.se/10.1007/s00213-012-2889-4">Rogers (2013)</a>, n=369, blinded:
 
 <center>
 	<img src="/img/caff.png" />
@@ -204,7 +204,7 @@ For a beyond-eyeball summary, [see Michael Dickens' cool analysis](https://mdick
 
  > Caffeine did not increase alertness in [low-intake] participants. With frequent consumption, substantial tolerance develops to the anxiogenic effect of caffeine, even in genetically susceptible individuals, but no net benefit for alertness is gained, as caffeine abstinence reduces alertness and consumption merely returns it to baseline.
 
-<a href="https://sci-hub.se/10.1016/j.pbb.2014.05.019">James (2014)</a> is methodology showing how difficult we find it to get rid of the withdrawal confounder (for just one: caffeine crosses the placenta, so there may be very few humans who are _truly_ caffeine naive!).
+<a href="https://web.archive.org/web/20220221045532/https://sci-hub.se/10.1016/j.pbb.2014.05.019">James (2014)</a> is methodology showing how difficult we find it to get rid of the withdrawal confounder (for just one: caffeine crosses the placenta, so there may be very few humans who are _truly_ caffeine naive!).
 <br>
 
 

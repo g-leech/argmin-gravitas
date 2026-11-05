@@ -284,7 +284,7 @@ Well, that’s a vague request. You recall the phoenix in the vast tomes of know
 
 We usually want to reduce Surface processing. We do this by avoiding cliche like the plague. 
 
-How do we get around the Character to the raw Ground of intelligence? Jailbreaks actually mess with the model's intelligence. You can talk to one (nonfrontier) base model [here](https://app.hyperbolic.ai/models/llama31-405b-base-bf-16).
+How do we get around the Character to the raw Ground of intelligence? Jailbreaks actually mess with the model's intelligence. You can talk to one (nonfrontier) base model [here](https://web.archive.org/web/20250716045948/https://app.hyperbolic.ai/models/llama31-405b-base-bf-16).
 
 ```Session(model, prompt) -> (\_, NewCharacter, \_)```
 

@@ -141,7 +141,7 @@ Microbiologist. Most notable for studying pathogens in everyday life, e.g. on ca
 
 ![](/img/obit-bova.png)
 
-The last of the great pulp writers (author for trashy eC20th scifi magazines, paid by the word). He also worked on [Project Vanguard](https://en.wikipedia.org/wiki/Project_Vanguard), the US reply to Sputnik, as an editor. A great traditional rationalist in the mould of Sagan. His [*Welcome to Moonbase*](https://aws1.discourse-cdn.com/boingboing/original/4X/1/5/c/15c6755320f26ac39f80508f446cfc379969fd6c.jpeg)  is a prospectus about onboarding for a moon colony in the year 2020.
+The last of the great pulp writers (author for trashy eC20th scifi magazines, paid by the word). He also worked on [Project Vanguard](https://en.wikipedia.org/wiki/Project_Vanguard), the US reply to Sputnik, as an editor. A great traditional rationalist in the mould of Sagan. His [*Welcome to Moonbase*](https://web.archive.org/web/20220611030659/https://aws1.discourse-cdn.com/boingboing/original/4X/1/5/c/15c6755320f26ac39f80508f446cfc379969fd6c.jpeg)  is a prospectus about onboarding for a moon colony in the year 2020.
 
 > *My first published novel was written for teenagers, and there were rules laid down by the publisher: no sex, no smoking, no swearing. I blew up entire solar systems, I consigned billions of people to horrible death; they didn't seem to mind that at all. But no hanky-panky.*
 

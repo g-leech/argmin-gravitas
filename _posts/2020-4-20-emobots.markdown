@@ -139,7 +139,7 @@ One convenient way of characterising emotions is by their evolutionary age (and 
 The so-called `primal' emotions are the most promising for our purposes, since they may reflect simple contexts, less contingent on particular facts about humans.
 
 
-(Needlessly broad claim: Psychology (or anyway its cognitive, social, and positive subfields) has [tended](https://sci-hub.se/10.1177/05390184070460030105) to focus on feelings.)
+(Needlessly broad claim: Psychology (or anyway its cognitive, social, and positive subfields) has [tended](https://web.archive.org/web/20250410161033/https://sci-hub.se/10.1177/05390184070460030105) to focus on feelings.)
 
 The categorisation of particular emotions into particular classes is highly contentious. (As is the question of which, if any, emotions can be considered '[basic emotions](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01217/full)'.) (Note the connection to Omohundro's theory though.) We do not rely on any particular account, just an associated premise: that common social problems (or Games) are a plausible explanation for emotions in common across cultures and species.
 
@@ -312,7 +312,7 @@ Given sufficiently rich environments, it may be possible to adapt [psychometric 
 <!-- * https://docs.google.com/document/d/1aiGsGBzDyHUoUG3TB8BV6iuiMgzrH-t3rAe7HqyHJvk/edit -->
 * https://arxiv.org/pdf/1807.08941.pdf
 * http://ii.tudelft.nl/~joostb/files/BroekensDai2019.pdf
-* https://sci-hub.se/10.1080/09540091.2015.1031081
+* https://web.archive.org/web/20250410153334/https://sci-hub.se/10.1080/09540091.2015.1031081
 * https://medium.com/datadriveninvestor/reinforcement-learning-towards-an-emotion-based-behavior-system-73e833c1ba75
 * https://arxiv.org/pdf/1705.05172.pdf
 * http://www.sscnet.ucla.edu/polisci/faculty/boneill/emotions.html
@@ -320,7 +320,7 @@ Given sufficiently rich environments, it may be possible to adapt [psychometric 
 * https://longtermrisk.org/research-agenda?fbclid=IwAR2ZbewpfBxoy5mUeZzukfYViJCzpZ660o_SJRi8a2MVBoEfdRcoajK4ZUY#5_Contemporary_AI_architectures
 * https://en.wikipedia.org/wiki/Non-credible_threat
 * http://ii.tudelft.nl/~joostb/files/Moerland%20Broekens%20Jonker%202017.pdf
-* [Broekens, J., Jacobs, E., & Jonker, C. M. (2015)](https://sci-hub.se/10.1080/09540091.2015.1031081)
+* [Broekens, J., Jacobs, E., & Jonker, C. M. (2015)](https://web.archive.org/web/20250410153334/https://sci-hub.se/10.1080/09540091.2015.1031081)
 * https://en.wikipedia.org/wiki/Cooperative_game_theory
 * https://agentmodels.org/chapters/7-multi-agent.html
 * <a href="/games-of-life">Robots, Games, Life, Markets</a>

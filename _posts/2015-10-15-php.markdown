@@ -29,7 +29,7 @@ where:      "Glasgow"
 </div>
 <br /><br>
 
-PHP, the language which runs <a href="http://w3techs.com/technologies/details/pl-php/all/all">80% of the known internet</a>, is renowned for its <a href="http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/">fundamentally poor design</a>. The language began as a few little functions letting non-programmers manage rudimentary web forms. But it has expanded into the <a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html">7th most popular language</a> there is, a <a href="https://www.reddit.com/r/PHP/comments/2u4nq7/phpng_has_improved_speed_by_another_15_since/">very</a> <a href="http://benchmarksgame.alioth.debian.org/u64q/php.html">fast</a>, mature object-oriented thing which tries hard to manage <a href="http://phpthegoodparts.tumblr.com/">its primary burden: itself</a>. (Much of the horror has been <a href="http://programmers.stackexchange.com/questions/140147/how-to-break-the-php-is-a-bad-language-paradigm">patched over since PHP5</a>, I am told by grizzled veterans.) The lead dev at my work, who's spent 10 years with it, admits that it "<a href="http://zestyping.livejournal.com/124503.html?thread=690519">keeps you on your toes</a>". (However, one would prefer that one's tools were transparent, an extension of the arm.) 
+PHP, the language which runs <a href="http://w3techs.com/technologies/details/pl-php/all/all">80% of the known internet</a>, is renowned for its <a href="http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/">fundamentally poor design</a>. The language began as a few little functions letting non-programmers manage rudimentary web forms. But it has expanded into the <a href="https://web.archive.org/web/20151017060322/http://www.tiobe.com:80/index.php/content/paperinfo/tpci/index.html">7th most popular language</a> there is, a <a href="https://www.reddit.com/r/PHP/comments/2u4nq7/phpng_has_improved_speed_by_another_15_since/">very</a> <a href="https://web.archive.org/web/20150914055629/http://benchmarksgame.alioth.debian.org:80/u64q/php.html">fast</a>, mature object-oriented thing which tries hard to manage <a href="http://phpthegoodparts.tumblr.com/">its primary burden: itself</a>. (Much of the horror has been <a href="http://programmers.stackexchange.com/questions/140147/how-to-break-the-php-is-a-bad-language-paradigm">patched over since PHP5</a>, I am told by grizzled veterans.) The lead dev at my work, who's spent 10 years with it, admits that it "<a href="http://zestyping.livejournal.com/124503.html?thread=690519">keeps you on your toes</a>". (However, one would prefer that one's tools were transparent, an extension of the arm.) 
 <br><br>
 Neal Stephenson notes that source code comments (the backstage cribs of your software) 
 
@@ -80,7 +80,7 @@ Ways to learn PHP without hating everything:
 
 <ul>
 <li><a href="http://phpbench.com/">An objective performance guide</a> for winnowing the many duplicate functions.</li>
-<li>Writing <a href="http://php.net/manual/en/internals2.php">PHP for the low level</a>, by the PHP Group.</li>
+<li>Writing <a href="https://web.archive.org/web/20151015190126/http://php.net/manual/en/internals2.php">PHP for the low level</a>, by the PHP Group.</li>
 <li>Writing <a href="http://phpsecurity.readthedocs.org/en/latest/index.html">PHP for security</a>, by Padraic Brady.</li>
 </ul>
 <br />
@@ -99,8 +99,8 @@ Ways to learn PHP without hating everything:
 
 <ul>
 <li>vs <a href="https://wiki.python.org/moin/PythonVsPhp">Python</a></li>
-<li>vs <a href="http://www.leonardteo.com/2012/07/ruby-on-rails-vs-php-the-good-the-bad/">Ruby</a></li>
-<li>vs <a href="http://www.infoworld.com/article/2866712/php/php-vs-node-js-an-epic-battle-for-developer-mind-share.html
+<li>vs <a href="https://web.archive.org/web/20151018143713/http://www.leonardteo.com:80/2012/07/ruby-on-rails-vs-php-the-good-the-bad/">Ruby</a></li>
+<li>vs <a href="https://web.archive.org/web/20151015060614/http://www.infoworld.com:80/article/2866712/php/php-vs-node-js-an-epic-battle-for-developer-mind-share.html
 ">Node</a></li>
 <li><a href="https://blog.udemy.com/modern-language-wars/">TMI</a></li>
 </ul>
@@ -113,7 +113,7 @@ Ways to learn PHP without hating everything:
 <li>"PHP is the <a href="https://twitter.com/codinghorror/status/190943243511406592">Nickelback</a> of programming languages"</li>
 <li>"PHP is <a href="http://qr.ae/R4tVBH">the Orc</a> of programming languages. Ugly. Doesn't respect the rules. A big headache to a lot of people who manage them. But still dominates most of the Middle Earth."</li>
 <li>"PHP is <a href="https://www.quora.com/In-laymans-terms-what-are-the-major-programming-languages-and-what-are-they-used-for?share=1">your teenage sweetheart</a>, the girl you first awkwardly fumbled around with that one summer. Think twice about a more serious relationship though - this girl has serious issues."</li>
-<li>PHP is the <a href="http://crashworks.org/if_programming_languages_were_vehicles/">Ford Pinto</a> of programming languages (or, depending on who you ask, the <a href="https://www.reddit.com/r/cars/comments/247ttf/what_would_be_the_ak47_of_cars/">Toyota Hilux</a>).</li>
+<li>PHP is the <a href="https://web.archive.org/web/20151007033459/http://crashworks.org:80/if_programming_languages_were_vehicles/">Ford Pinto</a> of programming languages (or, depending on who you ask, the <a href="https://www.reddit.com/r/cars/comments/247ttf/what_would_be_the_ak47_of_cars/">Toyota Hilux</a>).</li>
 </ul>
 
 ## See also

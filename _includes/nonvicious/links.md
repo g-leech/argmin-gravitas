@@ -1,6 +1,6 @@
-{%		assign truckSafety = "http://www.vtti.vt.edu/PDFs/Automated%20Vehicle%20Crash%20Rate%20Comparison%20Using%20Naturalistic%20Data_Final%20Report_20160107.pdf"		%}
+{%		assign truckSafety = "https://web.archive.org/web/20251007221413/https://www.vtti.vt.edu/PDFs/Automated%20Vehicle%20Crash%20Rate%20Comparison%20Using%20Naturalistic%20Data_Final%20Report_20160107.pdf"		%}
 
-{%		assign truckEfficient = "http://www.freightlinerinspiration.com/newsroom/press/autonomous-vehicle-backgrounder/"		%}
+{%		assign truckEfficient = "https://web.archive.org/web/20170905205403/http://www.freightlinerinspiration.com/newsroom/press/autonomous-vehicle-backgrounder/"		%}
 {%		assign usDrivers = "https://www.theguardian.com/technology/2016/jun/17/self-driving-trucks-impact-on-drivers-jobs-us"		%}
 {%		assign usDrivers2 = "https://www.google.co.uk/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=3.5%20million%20%2F%20159%20million&oq=3.5%20million%20%2F%20159%20million&aqs=chrome..69i57j69i64.4927j0j7"		%}
 {%		assign usDrivers3 = "http://www.dlt.ri.gov/lmi/laus/us/usadj.htm"		%}
@@ -24,7 +24,7 @@
 {%		assign solo = "https://en.wikipedia.org/wiki/Hydra_(chess)#Tournaments_and_matches"		%}
 {%		assign cam1 = "http://www.jstor.org/stable/3184857?seq=1#page_scan_tab_contents"		%}
 {%		assign cats = "https://en.wikipedia.org/wiki/Cataract_(beam_engine)"		%}
-{%		assign vaucans = "http://history-computer.com/Dreamers/Vaucanson.html"		%}
+{%		assign vaucans = "https://web.archive.org/web/20200703122642/https://history-computer.com/Dreamers/Vaucanson.html"		%}
 {%		assign depreCost = "https://www.google.co.uk/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=15000%20*%200.88&oq=15000%20*%200.88&aqs=chrome..69i57j69i64.3391j0j7"		%}
 
 {%		assign rnd = "http://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS"			%}
@@ -44,7 +44,7 @@
 {%		assign allWealth = "http://waitbutwhy.com/2014/03/combined-wealth-world.html" 		%}
 {%		assign runsDry = "https://www.google.co.uk/search?espv=2&q=241+trillion+%2F+7+billion+%2F+11000&oq=241+trillion+%2F+7+billion+%2F+11000&gs_l=serp.3...14409.15723.0.15818.4.4.0.0.0.0.171.409.3j1.4.0....0...1c.1.64.serp..0.0.0.suPUOPMQUlM" 		%}
 
-{%		assign tangora = "http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/speechreco/" 		%}
+{%		assign tangora = "https://web.archive.org/web/20181105052913/http://www-03.ibm.com:80/ibm/history/ibm100/us/en/icons/speechreco/" 		%}
 {%		assign dragon = "https://en.wikipedia.org/wiki/Dragon_NaturallySpeaking#History" 		%}
 {%		assign rabiner = "http://onlinelibrary.wiley.com/doi/10.1002/j.1538-7305.1985.tb00272.x/abstract" 		%}
 {%		assign experim = "http://annotation.exmaralda.org/index.php?title=Linguistic_Annotation" 		%}
@@ -58,5 +58,5 @@
 {%		assign depre = "http://www.ecb.europa.eu/events/pdf/conferences/oulton.pdf"		%}	
 {%		assign household = "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_households"		%}
 {%		assign socialSpend = "https://stats.oecd.org/Index.aspx?DataSetCode=SOCX_AGG"			%}
-{%		assign roose = "http://rooseveltinstitute.org/wp-content/uploads/2017/08/Modeling-the-Macroeconomic-Effects-Report-Brief.pdf"		%}
+{%		assign roose = "https://web.archive.org/web/20190808182520/http://rooseveltinstitute.org/wp-content/uploads/2017/08/Modeling-the-Macroeconomic-Effects-Report-Brief.pdf"		%}
 {%		assign cnc = "https://en.wikipedia.org/wiki/Consumption_of_fixed_capital"		%}

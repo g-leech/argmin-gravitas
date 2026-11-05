@@ -14,7 +14,7 @@
 
 {% 	assign obs = "https://en.wikipedia.org/wiki/Observational_study"		%}
 {%	assign ffwGist = "https://gist.github.com/g-leech/7f0c01795861c81cc55f9f23ec36a928"		%}
-{%	assign transition = "http://www.cpag.org.uk/content/benefit-during-employment-and-support-allowance-dispute"		%}
+{%	assign transition = "https://web.archive.org/web/20190613010520/http://www.cpag.org.uk:80/content/benefit-during-employment-and-support-allowance-dispute"		%}
 
 {%	assign camClegg = "https://en.wikipedia.org/wiki/Cameron%E2%80%93Clegg_coalition"		%}
 {%	assign a2008to2012 = "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/223050/incap_decd_recips_0712.pdf"		%}

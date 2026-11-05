@@ -253,7 +253,7 @@ Besides a gross waste of money and an injustice, it is just a giant pain. I have
 - Your country may ban it. VPN is totally fine. 
 - The address changes all the time. To find the currently alive mirrors, go [here](https://www.reddit.com/r/scihub)
 - Search using the DOI. Here’s how to get the DOI for each paper.
-- [https://annas-archive.org/](https://annas-archive.org/) have SciDB but it rarely works for my queries.
+- [https://annas-archive.org/](https://web.archive.org/web/20240317031158/https://annas-archive.org/) have SciDB but it rarely works for my queries.
 - \[April 2024 edit: As of right now, Sci-hub are fighting an Indian lawsuit and to show willing they've disabled parts of their database.\]
 
 <br>
@@ -291,7 +291,7 @@ This is the one I'm in full alert waiting for. AI bullshit.
 <br><br>
 
 - Maybe [76%](https://mashable.com/article/x-twitter-elon-musk-bots-fake-traffic) of Twitter is bots, at least at peak times
-- Botnet prevalence: [11%](https://www.cs.jhu.edu/~fabian/papers/botnets.pdf) of all traffic???? This has obviously exploded since last Feb
+- Botnet prevalence: [11%](https://web.archive.org/web/20230131004349/https://www.cs.jhu.edu/~fabian/papers/botnets.pdf) of all traffic???? This has obviously exploded since last Feb
 - [47% of internet traffic is by bots](https://securitytoday.com/articles/2023/05/17/report-47-percent-of-internet-traffic-is-from-bots.aspx)
 - "Clarkesworld, a sci-fi magazine, said 500 out of 1,200 submissions in a single month were created by AI. The problem got so bad the magazine had to suspend submissions."
 - [Dead internet theory](https://arxiv.org/abs/2401.05749) was a laughable conspiracy theory.
@@ -344,7 +344,7 @@ People say to be careful what you put on the internet, because it'll be there fo
 
 Here's the first big moral question, since authors are often deserving. I leave it to your conscience and optimiser.
 
-- [https://annas-archive.org/](https://annas-archive.org/)
+- [https://annas-archive.org/](https://web.archive.org/web/20240317031158/https://annas-archive.org/)
 - [https://libgen.rs/](https://libgen.rs/)
 - [Mirrors](https://www.reddit.com/r/libgen/)
 
@@ -383,7 +383,7 @@ Here's the first big moral question, since authors are often deserving. I leave 
 * https://www.reddit.com/r/scihub/wiki/index/#wiki_solution_1
 * https://www.404media.co/google-search-really-has-gotten-worse-researchers-find/
 * https://1.1.1.1/
-* https://siboehm.com/articles/22/tools-I-like
+* https://web.archive.org/web/20240515025931/https://siboehm.com/articles/22/tools-I-like
 * [hatchet job with a grain of truth](https://www.wheresyoured.at/the-men-who-killed-google/)
 * [Academia is also suffering a kind of SEO, with fake scholarship for jobs](https://www.benlandautaylor.com/p/the-ddos-attack-of-academic-bullshit) 
 * [Who likes me?](https://ahrefs.com/backlink-checker)
@@ -406,7 +406,7 @@ Here's the first big moral question, since authors are often deserving. I leave 
         You might think this is obvious or patronising but there's reliably a couple of smart teens who don't have an adblocker.
     </li>
     <li class="footnote" id="fn:4">
-        The ecosystem is mature enough to have hyperparasites: <a href="https://blog.optickssecurity.com/click-injection">click injection</a> or <a href="https://www.google.com/search?client=ubuntu-chr&hs=pKT&sca_esv=959a59c8beda7f19&sxsrf=ACQVn0-1NRn9eklf13NyVGeZdvD4MOCCJg:1712244016123&q=click+farms&uds=AMwkrPvi6Fn774vFV8erJs7Dhp5EA00cl-Uy6zi4BH867yZd-B_-VlUzVufSagh5HhfjRQBx30di2KXFflUJ_1P1grfhBWAJsTEJEpsra2Pyt0FPsxIgDe_8LuWWBGCkiOdEckCjtA-OBFn2PyN5WqOWEk80ekeet_yD-exUIElYcyN1LTIh_BujWw7Uxt2PmT3fSunweabRNLLzuON_OJO3Q-3Fn6kF0Pn19w7JlzjYElUCx3tIW_zk3biD6wnNQ8fkIrNG7JxIm9suHa4s2UW0XF7SDoDwkcQSYc2wIoTfErGYExA6r4c&udm=2&prmd=ivnmbtz&sa=X&ved=2ahUKEwiT6-WC7qiFAxVkR0EAHR0wDxwQtKgLegQIFhAB&biw=1229&bih=699&dpr=2.5">click farming</a>. As in biology, this helps a bit but not enough.
+        The ecosystem is mature enough to have hyperparasites: <a href="https://web.archive.org/web/20240618192117/https://blog.optickssecurity.com/click-injection">click injection</a> or <a href="https://www.google.com/search?client=ubuntu-chr&hs=pKT&sca_esv=959a59c8beda7f19&sxsrf=ACQVn0-1NRn9eklf13NyVGeZdvD4MOCCJg:1712244016123&q=click+farms&uds=AMwkrPvi6Fn774vFV8erJs7Dhp5EA00cl-Uy6zi4BH867yZd-B_-VlUzVufSagh5HhfjRQBx30di2KXFflUJ_1P1grfhBWAJsTEJEpsra2Pyt0FPsxIgDe_8LuWWBGCkiOdEckCjtA-OBFn2PyN5WqOWEk80ekeet_yD-exUIElYcyN1LTIh_BujWw7Uxt2PmT3fSunweabRNLLzuON_OJO3Q-3Fn6kF0Pn19w7JlzjYElUCx3tIW_zk3biD6wnNQ8fkIrNG7JxIm9suHa4s2UW0XF7SDoDwkcQSYc2wIoTfErGYExA6r4c&udm=2&prmd=ivnmbtz&sa=X&ved=2ahUKEwiT6-WC7qiFAxVkR0EAHR0wDxwQtKgLegQIFhAB&biw=1229&bih=699&dpr=2.5">click farming</a>. As in biology, this helps a bit but not enough.
     </li>
     <li class="footnote" id="fn:5">
         <a href="https://www.searchnurture.com/blog/google-ads-exact-match-is-dead-what-to-do-about-it/">This change is actually kinda bad for advertisers</a>

@@ -320,10 +320,36 @@ function renderCompare() {
   $sheet.innerHTML = h;
 }
 
+// ---------- export ----------
+// Your matches (as on the board) and every answered question, as a plain-text download.
+function exportText() {
+  const ranks = POOLS.map(k => ({ k, ...rankAll(S.answers, k) }));
+  const answered = ranks[0].answered;
+  const L = ['PhilPapers Survey quiz: my answers and matches', location.origin + location.pathname, 'Exported ' + new Date().toISOString().slice(0, 10), '', 'CLOSEST MATCHES'];
+  if (answered < 3) L.push('', 'Answer at least 3 questions to get matches.');
+  else for (const { k, rows } of ranks) {
+    L.push('', k === 'live' ? COUNT.live + ' contemporaries (actual data)' : COUNT.classic + ' classics (imputed)');
+    if (!rows.length) { L.push('  None shares 3 of your answers yet.'); continue; }
+    rows.slice(0, 8).forEach((r, i) => L.push('  ' + (i + 1) + '. ' + r.p.name + ', ' + pct(r.pct) + ' (' + [r.p.aff, r.n + ' shared positions'].filter(Boolean).join(' · ') + ')'));
+    if (rows.length > 8) L.push('  Furthest: ' + rows[rows.length - 1].p.name + ', ' + pct(rows[rows.length - 1].pct));
+  }
+  const prof = profession();
+  if (prof.n) L.push('', prof.maj + ' of your ' + prof.n + ' answers match the most popular answer among contemporary philosophers.' + (prof.rare ? ' Your rarest: ' + prof.rare + '.' : ''));
+  L.push('', 'MY ANSWERS (' + answered + ' of ' + Q.length + ')', '');
+  Q.forEach((q, qi) => { if (isReal(S.answers[qi])) L.push((qi + 1) + '. ' + q.title + ': ' + fmt(qi, S.answers[qi])); });
+  const url = URL.createObjectURL(new Blob([L.join('\n') + '\n'], { type: 'text/plain;charset=utf-8' }));
+  const a = Object.assign(document.createElement('a'), { href: url, download: 'philquiz-answers.txt' });
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 0);
+}
+
 function render() {
   if (S.view === 'cmp') renderCompare(); else renderQuestion();
   renderBoard();
   document.getElementById('erase').disabled = !Object.keys(S.answers).length;
+  document.getElementById('export').disabled = !Object.values(S.answers).some(isReal);
   save();
 }
 
@@ -378,6 +404,7 @@ document.addEventListener('click', (e) => {
   if (t.dataset.jump != null) { S.view = 'quiz'; S.idx = +t.dataset.jump; render(); scrollTop(); return; }
   if (t.dataset.cmp) { S.view = 'cmp'; S.cmp = t.dataset.cmp; render(); scrollTop(); return; }
   if (t.id === 'backQuiz') { S.view = 'quiz'; render(); return; }
+  if (t.id === 'export') return exportText();
   if (t.id === 'erase') {
     if (confirm('Erase all your answers? This cannot be undone.')) { Object.assign(S, { idx: 0, answers: {}, view: 'quiz', cmp: null }); render(); scrollTop(); }
     return;

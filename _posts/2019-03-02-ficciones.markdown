@@ -25,8 +25,8 @@ wordcount:
 
 {%  assign mein = "https://en.wikipedia.org/wiki/Meinong%27s_jungle"		%}
 {%  assign parei = "https://en.wikipedia.org/wiki/Pareidolia"		%}
-{%  assign tlon = "http://art.yale.edu/file_columns/0000/0066/borges.pdf"		%}
-{%  assign bab = "http://libraryofbabel.info/Borges/libraryofbabel.pdf"		%}
+{%  assign tlon = "https://web.archive.org/web/20190208210137/http://art.yale.edu/file_columns/0000/0066/borges.pdf"		%}
+{%  assign bab = "https://web.archive.org/web/20190409072603/https://libraryofbabel.info/Borges/libraryofbabel.pdf"		%}
 {%  assign ext = "https://en.wikipedia.org/wiki/Semantic_externalism"		%}
 
 
@@ -53,7 +53,7 @@ I am often not sure of the significance of Borges' sentences. But for once the c
 
 
 
-A banal idea: "language is composite". Characters go into words into sentences into works into worldviews. Here Borges stretches this fact until you see horror in it, the <a href="http://www.singularitysymposium.com/exponential-growth.html">shock</a> of exponentiation on the tiny scale of a human life. 
+A banal idea: "language is composite". Characters go into words into sentences into works into worldviews. Here Borges stretches this fact until you see horror in it, the <a href="https://web.archive.org/web/20190224005409/http://www.singularitysymposium.com:80/exponential-growth.html">shock</a> of exponentiation on the tiny scale of a human life. 
 
 In the simple idea of mechanically generating all strings of length <i>n=1,312,000</i>, Borges finds a Gothic, claustrophobic closed nightmare. The story is not 8 pages long and contains more thinking than many books.<br/>
 

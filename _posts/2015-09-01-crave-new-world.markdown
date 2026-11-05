@@ -52,7 +52,7 @@ The world is rammed full of suffering. How can we cope with this?<br />
 	<li>Lacrimism </li>
 	<li>e.g. Stoicism</li>
 	<li>e.g.&nbsp;Theodicy</li>
-	<li><a href="http://en.wikipedia.org/wiki/Abolitionism_%28bioethics%29">Abolitionism</a>.</li>
+	<li><a href="https://web.archive.org/web/20150819030404/https://en.wikipedia.org/wiki/Abolitionism_(bioethics)">Abolitionism</a>.</li>
 </ol>
 <br />
 

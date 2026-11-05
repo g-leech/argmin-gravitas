@@ -1,4 +1,4 @@
-{%	assign Snot = "http://www.starling-software.com/employment/programmer-competency-matrix.html" 	%}
+{%	assign Snot = "https://web.archive.org/web/20161120101322/http://www.starling-software.com:80/employment/programmer-competency-matrix.html" 	%}
 {%	assign AIAI = "https://www.cbinsights.com/blog/artificial-intelligence-startup-hype-ai-suffix/" %}
 {%	assign logReg = "https://en.wikipedia.org/wiki/Logistic_regression" %}
 {%	assign spoilers = "https://docs.google.com/spreadsheets/d/1JOeYyhlhfq0YM1ipfoRfcnXO6_3JtoVybFPrIeJSO-Q/pubhtml?single=true"		%}
@@ -24,9 +24,9 @@
 
 
 <!-- CODE -->
-{%	assign kernel = "https://www.linuxfoundation.org/news-media/announcements/2008/10/linux-foundation-publishes-study-estimating-value-linux"	%}
+{%	assign kernel = "https://web.archive.org/web/20160423202928/http://www.linuxfoundation.org/news-media/announcements/2008/10/linux-foundation-publishes-study-estimating-value-linux"	%}
 {%	assign bibviz = "http://bibviz.com/" 	%}
-{%	assign marx = "http://www.stephenhicks.org/2010/03/02/marxs-three-failed-predictions-ep/" 	%}
+{%	assign marx = "https://web.archive.org/web/20210426051918/http://www.stephenhicks.org/2010/03/02/marxs-three-failed-predictions-ep/" 	%}
 {%	assign freud = "http://articles.latimes.com/2004/feb/18/opinion/oe-dufresne18"	%}
 {%	assign src = "https://github.com/torvalds/linux"	%}
 {%	assign defined = "https://en.wikipedia.org/wiki/Well-defined"		%}
@@ -40,7 +40,7 @@
 <!-- foots -->
 {%  assign leemis = "http://www.math.wm.edu/~leemis/chart/UDR/UDR.html" %}
 {%  assign otto = "https://www.automaticstatistician.com/index/"      %}
-{%  assign pearl = "http://digital.library.lse.ac.uk/objects/lse:xom745gab"     %}
+{%  assign pearl = "https://web.archive.org/web/20210726020511/https://digital.library.lse.ac.uk/objects/lse:xom745gab"     %}
 {%  assign bishopp = "https://www.microsoft.com/en-us/research/people/cmbishop/"     %}
 {%  assign bishBib = "https://docs.google.com/spreadsheets/d/1kmj9uXCyvzxnBhNGmH6iUMUvs-_0HevyhRDv2N7MxT0/pubhtml"     %}
 {%  assign scor = "http://www.worldprivacyforum.org/wp-content/uploads/2014/04/WPF_Scoring_of_America_April2014_fs.pdf"     %}
@@ -59,7 +59,7 @@
 <!-- modelling -->
 {%	assign Induct = "https://en.wikipedia.org/wiki/Problem_of_induction"										%}
 {%	assign crit = "https://en.wikipedia.org/wiki/Critical_point_(thermodynamics)"								%}
-{%	assign loMu = "http://lfe.mit.edu/wp-content/uploads/2015/08/WarningPhysicsEnvy2010.pdf"					%}
+{%	assign loMu = "https://web.archive.org/web/20221127054559/http://lfe.mit.edu/wp-content/uploads/2015/08/WarningPhysicsEnvy2010.pdf"					%}
 
 
 <!-- BOOKS -->
@@ -73,7 +73,7 @@
 {%	assign oreilly =	"http://shop.oreilly.com/category/browse-subjects/data.do"								%}
 {%	assign shaw =	"https://learnpythonthehardway.org/book/"													%}
 {%	assign downey =	"http://www.greenteapress.com/thinkstats/"													%}
-{%	assign blais =	"https://bblais.github.io/statistical-inference-for-everyone-sie.html"						%}
+{%	assign blais =	"https://web.archive.org/web/20210124000656/https://bblais.github.io/statistical-inference-for-everyone-sie.html"						%}
 {%	assign bayes =	"http://greenteapress.com/wp/think-bayes/"													%}
 {%	assign davison =	"https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/"		%}
 {%	assign cam =	"https://www.maths.cam.ac.uk/system/files/workbook2016.pdf"									%}
@@ -81,12 +81,12 @@
 {%	assign mitchell =	"http://www.cs.cmu.edu/~tom/mlbook.html"												%}
 {%	assign efron =	"https://www.cambridge.org/core/books/computer-age-statistical-inference/E32C1911ED937D75CE159BBD21684D37"		%}
 {%	assign grus =	"https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/"			%}
-{%	assign ross =	"http://zalsiary.kau.edu.sa/Files/0009120/Files/119387_A_First_Course_in_Probability_8th_Edition.pdf"		%}
+{%	assign ross =	"https://web.archive.org/web/20230324123642/https://zalsiary.kau.edu.sa/Files/0009120/Files/119387_A_First_Course_in_Probability_8th_Edition.pdf"		%}
 {%	assign pearl =	"http://bayes.cs.ucla.edu/BOOK-2K/"															%}
 {%	assign oehler =	"http://users.stat.umn.edu/~gary/book/fcdae.pdf"											%}
 {%	assign etz =	"https://www.researchgate.net/publication/301981861_How_to_become_a_Bayesian_in_eight_easy_steps_An_annotated_reading_list"		%}
 {%	assign nielsen =	"http://neuralnetworksanddeeplearning.com/"												%}
-{%	assign mattuck =	"http://math.mit.edu/~apm/book.html"													%}
+{%	assign mattuck =	"https://web.archive.org/web/20240801142601/https://math.mit.edu/~apm/book.html"													%}
 {%	assign schutz =	"https://github.com/oreillymedia/doing_data_science"										%}
 {%	assign strang =	"https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm"		%}
 {%	assign chen =	"http://www.datasciencequestions.com/"														%}
@@ -97,7 +97,7 @@
 {%	assign shalizi =	"http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/"											%}
 {%	assign hastie =	"http://waxworksmath.com/Authors/G_M/Hastie/hastie.html"									%}
 {%	assign bishop =	"https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning"		%}
-{%	assign sargent =	"http://lectures.quantecon.org/"														%}
+{%	assign sargent =	"https://web.archive.org/web/20190810201504/https://lectures.quantecon.org/"														%}
 
 
 

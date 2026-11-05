@@ -33,9 +33,9 @@ argument:	agi-intro/argument.html
 {%	assign arm = "https://www.youtube.com/watch?v=WLXuZtWoRcE"	%}
 {%	assign ny = "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai"	%}
 {%	assign zi = "https://www.defenseone.com/technology/2019/11/secdef-china-exporting-killer-robots-mideast/161100/" %}
-{%	assign robo = "https://arxiv.org/ftp/arxiv/papers/1507/1507.03518.pdf"	%}
+{%	assign robo = "https://web.archive.org/web/20210506115420/https://arxiv.org/ftp/arxiv/papers/1507/1507.03518.pdf"	%}
 {%	assign gpt = "https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html"	%}
-{%	assign ipcc = "https://www.givewell.org/shallow/climate-change/extreme-risks#The_problem_Risk_of_worse-than-expected_impacts"	%}
+{%	assign ipcc = "https://web.archive.org/web/20210315150944/https://www.givewell.org/shallow/climate-change/extreme-risks#The_problem_Risk_of_worse-than-expected_impacts"	%}
 {%	assign agi = "http://gcrinstitute.org/2020-survey-of-artificial-general-intelligence-projects-for-ethics-risk-and-policy/" %}
 {%	assign oai = "https://www.technologyreview.com/2020/02/17/844721/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/"		%}
 {%	assign wino = "https://en.wikipedia.org/wiki/Winograd_Schema_Challenge"	%}
@@ -70,7 +70,7 @@ Could AI be a risk to humans? Well it already is:
 
 * Consider also things like the <a href="{{zi}}">Ziyan Blowfish</a>, an autonomous Chinese military drone currently under export to the Middle East.
 
-* <a href="{{aiaa}}">Here's</a> a list of other relatively bad cases, and [here's](https://betterwithout.ai/AI-already-at-war) a (melodramatic but largely valid) look at the power and scale of our existing automation of surveillance and influence.
+* <a href="{{aiaa}}">Here's</a> a list of other relatively bad cases, and [here's](https://web.archive.org/web/20230213183744/https://betterwithout.ai/AI-already-at-war) a (melodramatic but largely valid) look at the power and scale of our existing automation of surveillance and influence.
 
 <br>
 
@@ -448,7 +448,7 @@ Most of the above are other people's ideas.
 * [Nick Bostrom](https://nickbostrom.com/ethics/ai.html)
 * [Eliezer Yudkowsky](https://intelligence.org/2017/10/13/fire-alarm/)
 * [Viktoria Krakovna](https://vkrakovna.wordpress.com/)
-* [Andrew Critch](http://acritch.com/arches/)
+* [Andrew Critch](https://web.archive.org/web/20210825193239/http://acritch.com/arches/)
 * [Nate Soares](https://intelligence.org/2017/04/12/ensuring/)
 * [David Krueger](https://www.alignmentforum.org/posts/bd2K3Jdz82csjCFob/a-list-of-good-heuristics-that-the-case-for-ai-x-risk-fails)
 * <a href="{{omo}}">Steve Omohundro</a>

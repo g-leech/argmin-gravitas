@@ -67,7 +67,7 @@ Examples:
       <td>Legible</td>
       <td>
         supplements, exercise, <br>
-        <a href="https://www.gleech.org/stuff">Things I Use</a>, Quantified Self, <br>checklists, Anki,<br><a href="https://hiverhq.com/blog/productivity-approaches-gtd-pomodoro-and-more">time management</a>,<br>
+        <a href="https://www.gleech.org/stuff">Things I Use</a>, Quantified Self, <br>checklists, Anki,<br><a href="https://web.archive.org/web/20170512080228/http://hiverhq.com:80/blog/productivity-approaches-gtd-pomodoro-and-more/">time management</a>,<br>
         <a href="https://80000hours.org/podcast/episodes/brian-christian-algorithms-to-live-by">Algos to Live By</a>,</td>
       <td>
         <a href="https://fs.blog/mental-models">Models</a>, <a href="https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy">CBT</a>, <br>
@@ -79,7 +79,7 @@ Examples:
       <td>
         brainstorming, <a href="https://www.lesswrong.com/posts/c5wFM7KJLtuMnLFsH/hammertime-day-5-comfort-zone-expansion">CoZe</a>,<br>
         <a href="https://en.wikipedia.org/wiki/Oblique_Strategies">Oblique Strategies</a>,<br>
-        '<a href="https://www.lesswrong.com/posts/WLJwTJ7uGPA5Qphbp/trying-to-try">Actually Try</a>', '<a href="http://mindingourway.com/dive-in">Dive In'</a>,<br>
+        '<a href="https://www.lesswrong.com/posts/WLJwTJ7uGPA5Qphbp/trying-to-try">Actually Try</a>', '<a href="https://web.archive.org/web/20200609204452/http://mindingourway.com:80/dive-in/">Dive In'</a>,<br>
         <a href="https://www.lesswrong.com/posts/ximou2kyQorm6MPjX/rest-days-vs-recovery-days">going with your gut</a>
       </td>
       <td>

@@ -12,7 +12,7 @@
 {%    assign mix = "https://www.wired.com/story/eternalblue-leaked-nsa-spy-tool-hacked-world/"		%}
 {%    assign krebs = "https://krebsonsecurity.com/2018/12/what-the-marriott-breach-says-about-security/"	%}
 {%    assign chrome = "https://lifehacker.com/5763452/what-data-does-chrome-send-to-google-about-me"	%}
-{%    assign safari = "https://www.pcworld.com/article/250213/googles_safari_tracking_dilemma_reality_check.html"	%}
+{%    assign safari = "https://web.archive.org/web/20210417063626/https://www.pcworld.com/article/250213/googles_safari_tracking_dilemma_reality_check.html"	%}
 {%    assign protonChrome = "https://old.reddit.com/r/ProtonMail/comments/9yl94k/never_connect_to_protonmail_using_chrome/"	%}
 {%    assign chromeCookies = "https://news.softpedia.com/news/chrome-69-does-not-delete-google-cookies-when-clearing-all-website-data-522884.shtml"		%}
 {%    assign pwned = "https://haveibeenpwned.com/PwnedWebsites" 		%}

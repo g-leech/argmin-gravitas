@@ -26,7 +26,7 @@ wordcount:
 {%	assign zvi = "https://thezvi.wordpress.com/2017/09/30/slack/"	%}
 {%	assign chok = "https://en.wikipedia.org/wiki/Choke_(sports)"		%}
 {%	assign moral = "https://scholar.harvard.edu/files/bfriedman/files/the_moral_consequences_of_economic_growth_0.pdf"		%}
-{%	assign z = "http://www.nonzero.org/app1.htm"		%}
+{%	assign z = "https://web.archive.org/web/20160603222307/http://www.nonzero.org/app1.htm"		%}
 {%	assign jung = "http://www.sebastianjunger.com/tribe-by-sebastian-junger"		%}
 {%	assign lil = "https://en.wikipedia.org/wiki/Little's_law"		%}
 {%	assign hospit = "https://www.strategy-business.com/article/00229?gko=a073f"		%}

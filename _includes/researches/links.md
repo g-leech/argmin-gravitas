@@ -7,8 +7,8 @@
 {%	assign goog = "https://scholar.google.com/citations?user=xC-v_aUAAAAJ"		%}
 {%	assign orcid = "https://orcid.org/0000-0002-9298-1488"		%}
 {%  assign arb = "https://arbresearch.com"    %}
-{%	assign cam = "https://www.lcfi.ac.uk/people/gavin-leech"	%}
-{%	assign bris = "https://www.bristol.ac.uk/people/person/Gavin-Leech-16c2a616-ecbe-4d2d-90d7-87bc3252aa02"	%}
+{%	assign cam = "https://web.archive.org/web/20250823091635/https://www.lcfi.ac.uk/people/gavin-leech"	%}
+{%	assign bris = "https://web.archive.org/web/20240224063632/https://www.bristol.ac.uk/people/person/Gavin-Leech-16c2a616-ecbe-4d2d-90d7-87bc3252aa02/"	%}
 {%	assign covid = "https://www.science.org/doi/10.1126/science.abd9338"		%}
 {%	assign coviddata = "https://www.nature.com/articles/s41597-022-01175-y"		%}
 {%  assign rws = "https://proceedings.mlr.press/v216/heap23a.html"       %}
@@ -43,7 +43,7 @@
 {%	assign seasontw = "https://twitter.com/jankulveit/status/1404369971334070273"	%}
 {%	assign maskspp = "https://doi.org/10.1073/pnas.2119266119"		%}
 {%	assign maskstw = "https://twitter.com/g_leech_/status/1531691152327458819"	%}
-{%	assign rex = "https://twitter.com/RexDouglass/status/1406336179973152768"		%}
+{%	assign rex = "https://web.archive.org/web/20220602171210/https://twitter.com/RexDouglass/status/1406336179973152768"		%}
 {%	assign vsmike = "https://www.lesswrong.com/posts/J7RnKXcyCNdrdAus4/we-have-some-evidence-that-masks-work"	%}
 {%	assign espr = "https://espr-camp.org/"		%}
 {%	assign aisc = "https://aisafety.camp/"	%}
@@ -51,7 +51,7 @@
 {%	assign bmj = "http://web.archive.org/web/20220127185926/https://gh.bmj.com/pages/thank-you-to-our-reviewers/"	%}
 {%	assign ml = "https://www.springer.com/journal/10994"	%}
 {%	assign maskscode = "https://zenodo.org/record/6385347"	%}
-{%	assign wired = "https://www.wired.co.uk/article/face-mask-mandate-uk"	%}
+{%	assign wired = "https://web.archive.org/web/20221206195615/https://www.wired.co.uk/article/face-mask-mandate-uk"	%}
 {%	assign guardian = "https://www.theguardian.com/world/2021/aug/13/common-myths-about-covid-debunked"	%}
 {%	assign mr = "https://marginalrevolution.com/marginalrevolution/2021/06/the-best-mask-wearing-study-so-far.html"	%}
 {%	assign mails = "https://www.mailonsunday.co.uk/wires/pa/article-9779677/Face-masks-Should-continue-wearing-them.html"	%}
@@ -72,7 +72,7 @@
 {%	assign aimos= "http://web.archive.org/web/20220130224512/https://www.aimosconference.com/schedule.html"	%}
 {%	assign kulveit = "https://ea.greaterwrong.com/posts/by8u954PjM2ctcve7/experimental-longtermism-theory-needs-data"	%}
 {%	assign supers = "https://ea.greaterwrong.com/posts/qZqvBLvR5hX9sEkjR/comparing-top-forecasters-and-domain-experts"	%}
-{%	assign janvidataexplainer = "https://twitter.com/jn_ahuja/status/1512010901175558144"	%}
+{%	assign janvidataexplainer = "https://web.archive.org/web/20220407101516/https://twitter.com/jn_ahuja/status/1512010901175558144"	%}
 {%	assign big3 = "https://www.cold-takes.com/the-track-record-of-futurists-seems-fine/"	%}
 {%  assign wiki = "https://en.wikipedia.org/wiki/AI_alignment"      %}
 {%  assign bmc = "https://bmcmedicine.biomedcentral.com"  %}

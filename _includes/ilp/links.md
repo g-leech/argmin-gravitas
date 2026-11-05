@@ -5,7 +5,7 @@
 {%		assign bair = "https://bair.berkeley.edu/students.html"		%}
 {%		assign induc = "https://plato.stanford.edu/entries/logic-inductive/"		%}
 {%		assign flach = "https://book.simply-logical.space/"		%}
-{%		assign cl = "https://www.doc.ic.ac.uk/~cclw05/topics1/clausal.html"		%}
+{%		assign cl = "https://web.archive.org/web/20250914121521/https://www.doc.ic.ac.uk/~cclw05/topics1/clausal.html"		%}
 {%		assign elsk = "http://jmlr.org/papers/v20/18-598.html"		%}
 {%		assign sys = "http://www-ai.ijs.si/~ilpnet2/systems/"		%}
 {%		assign adv = "https://arxiv.org/pdf/1710.03667.pdf"		%}

@@ -1,6 +1,6 @@
 {%		assign gwas = "https://en.wikipedia.org/wiki/Genome-wide_association_study" 	%}
-{%		assign chem = "http://chemistry.about.com/od/periodictable/fl/Scientists-Complete-the-Periodic-Table.htm" 	%}
-{%		assign cern = "https://home.cern/about/experiments" 	%}
+{%		assign chem = "https://web.archive.org/web/20161220054228/http://chemistry.about.com/od/periodictable/fl/Scientists-Complete-the-Periodic-Table.htm" 	%}
+{%		assign cern = "https://web.archive.org/web/20180921213240/https://home.cern/about/experiments" 	%}
 {%		assign hay = "https://en.wikipedia.org/wiki/Ibn_al-Haytham#Scientific_method" 	%}
 {%		assign bigb = "https://en.wikipedia.org/wiki/Francis_Bacon" 	%}
 {%		assign phys = "https://en.wikipedia.org/wiki/Charles_Scarborough" 	%}

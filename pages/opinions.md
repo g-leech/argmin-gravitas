@@ -29,7 +29,7 @@ There's no point in listing my mundane views, so these are my unusual views. I'm
 # See also
 
 {%	assign brian = "https://reducing-suffering.org/summary-beliefs-values-big-questions/" 	%}
-{%	assign pablo = "http://www.stafforini.com/blog/what_i_believe/" 	%}
+{%	assign pablo = "https://web.archive.org/web/20200806043505/http://www.stafforini.com:80/blog/what_i_believe/" 	%}
 {%	assign katja = "https://meteuphoric.com/opinion/"		%}
 {%	assign phil = "https://philpapers.org/surveys/public_respondents.html"	%}
 {%	assign julia1 = "https://juliagalef.com/2017/09/21/unpopular-ideas-about-children/"	%}

@@ -137,7 +137,7 @@ Most countries seem to have local Indie Gods: Tragically Hip (Canada), Microdisn
 ## See also
 
 * https://app.radiooooo.com/
-* https://musicmapify.com/
+* https://web.archive.org/web/20251030084631/https://www.musicmapify.com/
 * <a href="/nysound">NY sounds</a>
 * <a href="/music2024">On 900 albums of 2024</a>
 * <a href="/svengali">Pop auteurs</a>

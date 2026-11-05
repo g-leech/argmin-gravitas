@@ -13,7 +13,7 @@ The driver of disastrous trends: the one by which more jobs <a href="http://en.w
 	<ul>
 		<li><a href="http://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/">Scott Alexander</a></li>
 		<li><a href="http://econlog.econlib.org/archives/2015/04/educational_sig_1.html">Bryan</a> <a href="http://econlog.econlib.org/archives/2007/03/page_one_of_my.html">Caplan</a> <a href="http://econlog.econlib.org/archives/2012/10/economic_models_1.html">Caplan</a> <a href="http://econlog.econlib.org/archives/2011/10/stably_wasteful.html">Caplan</a> <a href="http://econlog.econlib.org/archives/2012/06/toga_toga.html">Caplan</a> (...)</li>
-		<li><a href="http://www.straitstimes.com/news/opinion/more-opinion-stories/story/too-much-education-bad-dont-over-educate-the-young-nassim-ta">Taleb again</a>.</li>
+		<li><a href="https://web.archive.org/web/20150112162027/http://www.straitstimes.com/news/opinion/more-opinion-stories/story/too-much-education-bad-dont-over-educate-the-young-nassim-ta">Taleb again</a>.</li>
 		<li><a href="http://www.washingtonpost.com/opinions/peter-thiel-thinking-too-highly-of-higher-ed/2014/11/21/f6758fba-70d4-11e4-893f-86bd390a3340_story.html">Peter Thiel</a>.</li>
 		<li>Left critics are mostly only against the brute vocational and corporate side of universities - not the core piety of inherent value. An exception is the wonderful <a href="https://haquelebac.wordpress.com/les-erudits-maudits-2/">John Emerson</a>.</li>
 		<li>'<a href="http://thelastpsychiatrist.com/2012/11/hipsters_on_food_stamps.html">The Last Psychiatrist</a>', a lurid and brutal writer.</li>

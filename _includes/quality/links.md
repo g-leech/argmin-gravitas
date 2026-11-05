@@ -3,7 +3,7 @@
 {%	assign law2 = "http://en.wikipedia.org/wiki/Entropy#Second_law_of_thermodynamics" 	%}
 {% 	assign work = "http://en.wikipedia.org/wiki/Work_(thermodynamics)"	%}
 {% 	assign satis = "http://en.wikipedia.org/wiki/Satisficing" %}
-{% 	assign eea = "http://www.anth.ucsb.edu/projects/human/epfaq/eea.html"	%}
+{% 	assign eea = "https://web.archive.org/web/20190314000922/http://www.anth.ucsb.edu:80/projects/human/epfaq/eea.html"	%}
 {% 	assign christ = "https://sideways-view.com/2020/01/26/hedonic-asymmetries/"		%}
 {% 	assign jo = "https://www.newyorker.com/magazine/2020/01/13/a-world-without-pain?verso=true"		%}
 {% 	assign hyp = "https://en.wikipedia.org/wiki/Hyperthymic_temperament"		%}

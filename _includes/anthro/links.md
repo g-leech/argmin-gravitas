@@ -27,7 +27,7 @@
 [Batshitste]:       http://www.academia.edu/3375020/Indigenous_Knowledge_Foundations_for_First_Nations
 [Desapar]:          https://en.wikipedia.org/wiki/Forced_disappearance
 [Bush]:             http://www.nytimes.com/2004/10/17/magazine/faith-certainty-and-the-presidency-of-george-w-bush.html
-[Dcosta]:           http://www.anthropologyinpractice.com/2010/12/anthropology-just-says-no-to-science.html
+[Dcosta]:           https://web.archive.org/web/20200927192725/http://www.anthropologyinpractice.com/2010/12/anthropology-just-says-no-to-science.html
 [Influx]:           https://books.google.co.uk/books?id=MfDnCwAAQBAJ&pg=PA196&lpg=PA196&dq=influx+of+foreigners+rousseau&source=bl&ots=s0fP7min2c&sig=eJnatuX5NgvLoKDWUsua8Q8-y_4&hl=en&sa=X&ved=0ahUKEwiOk_DciLvRAhUCG5oKHUVJCJcQ6AEIGjAA#v=onepage&q=influx%20of%20foreigners&f=false
 
 [Weber]:            https://en.wikipedia.org/wiki/Verstehen
@@ -42,7 +42,7 @@
 {%	 assign feans = "http://www.flickr.com/photos/37563893@N00/4108809278/"		%}
 {%   assign JHJ = "http://monkeysuncle.stanford.edu/?p=697" %}
 {%   assign French = "http://ndpr.nd.edu/news/23732-french-theory-how-foucault-derrida-deleuze-co-transformed-the-intellectual-life-of-the-united-states/"   %}
-{%   assign Dcosta = "http://www.anthropologyinpractice.com/2010/12/anthropology-just-says-no-to-science.html"   %}
+{%   assign Dcosta = "https://web.archive.org/web/20200927192725/http://www.anthropologyinpractice.com/2010/12/anthropology-just-says-no-to-science.html"   %}
 {%   assign Batshitste = "http://www.academia.edu/3375020/Indigenous_Knowledge_Foundations_for_First_Nations"   %}
 
 {%   assign Desapar = "https://en.wikipedia.org/wiki/Forced_disappearance"   %}

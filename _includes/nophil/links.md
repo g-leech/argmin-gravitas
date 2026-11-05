@@ -49,7 +49,7 @@
 {%		assign jez = "https://en.wikipedia.org/wiki/Jeremy_Bentham" %}
 {%		assign mill = "https://en.wikipedia.org/wiki/John_Stuart_Mill"		%}
 {%		assign will = "https://en.wikipedia.org/wiki/William_MacAskill" %}
-{%		assign midg = "http://sci-hub.se/10.1017/S1358246100002319"		%}
+{%		assign midg = "https://web.archive.org/web/20211201162255/https://sci-hub.se/10.1017/S1358246100002319"		%}
 {%		assign symb = "https://en.wikipedia.org/wiki/History_of_mathematical_notation#Symbolic_stage"	%}
 {%		assign rdof = "https://en.wikipedia.org/wiki/Researcher_degrees_of_freedom"		%}
 {%		assign trivial = "https://en.wikipedia.org/wiki/Trivialism"		%}
@@ -58,7 +58,7 @@
 {%		assign hue = "https://fakenous.net/?p=1130"		%}
 {%		assign sitt = "https://fragile-credences.github.io/ps/"		%}
 {%		assign diary = "https://www.hedweb.com/diarydav/2008.html"		%}
-{%		assign pig2 = "https://rationallyspeaking.blogspot.com/search/label/progress%20in%20philosophy"	%}
+{%		assign pig2 = "https://web.archive.org/web/20231124100443/https://rationallyspeaking.blogspot.com/search/label/progress%20in%20philosophy"	%}
 {%		assign prog = "https://www.lesswrong.com/posts/FwiPfF8Woe5JrzqEu/philosophy-a-diseased-discipline" %}
 {%		assign suspended = "https://www.lesswrong.com/posts/9iA87EfNKnREgdTJN/conceptual-engineering-the-revolution-in-philosophy-you-ve"		%}
 {%		assign quant = "https://quantitativephilosophy.wordpress.com/"		%}

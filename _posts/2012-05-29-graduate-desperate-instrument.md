@@ -47,7 +47,7 @@ Turns out that a degree - even one on 'real world' topics like, supposedly, econ
 
 Is that too reductive? I might not have such a quantity of good intentions without my years among the humanities; they only suck for obtaining <em><a href="http://en.wikipedia.org/wiki/Soft_skills">hard</a></em> skills. And 'hydraulics' means just narrow technical skills. To have those is to be able to instrumentalise oneself: to have the option of <em>production</em>. (More often, you're made to get credentials that imply you are productive.)
 
-What spiritual costs does this instrumentalisation levy? I was at a <a href="http://www.york.ac.uk/modernstudies/conferences/authenticity/">conference</a> the other day where people were banging on in the <a href="http://plato.stanford.edu/entries/horkheimer/#CriInsRea">Frankfurt</a> way about 'instrumentalisation'. I do sympathise with their background theory - which attributes modern atrocity and mental illness to the reign of scientism and the cult of practicality - but not in the uncritical, almost superstitious, way it gets invoked. Useful things are abhorrent to a certain mindset. Since they following Horkheimer who followed Kant, what I've read of Cultural Studies tends to bear an awful, watery stance, where an agent or project's being <em>problematic </em>implies that it's taboo, irredeemable, a moral medusa.</div>
+What spiritual costs does this instrumentalisation levy? I was at a <a href="https://web.archive.org/web/20120326110620/http://www.york.ac.uk:80/modernstudies/conferences/authenticity/">conference</a> the other day where people were banging on in the <a href="http://plato.stanford.edu/entries/horkheimer/#CriInsRea">Frankfurt</a> way about 'instrumentalisation'. I do sympathise with their background theory - which attributes modern atrocity and mental illness to the reign of scientism and the cult of practicality - but not in the uncritical, almost superstitious, way it gets invoked. Useful things are abhorrent to a certain mindset. Since they following Horkheimer who followed Kant, what I've read of Cultural Studies tends to bear an awful, watery stance, where an agent or project's being <em>problematic </em>implies that it's taboo, irredeemable, a moral medusa.</div>
 
 
 In discussing the 'white saviour complex', one speaker implied that objectifying someone you are trying to help is <em>such</em> an evil process that it negates any good your action might cause. Teju Cole: 
@@ -55,7 +55,7 @@ In discussing the 'white saviour complex', one speaker implied that objectifying
 <blockquote>From the colonial project to <em>Out of Africa</em> to <em>The Constant Gardener</em> and Kony 2012, Africa has provided a space onto which white egos can conveniently be projected ... The banality of evil transmutes into the banality of sentimentality. 'The world is nothing but a problem to be solved by enthusiasm'.</blockquote>
 <br>
 
-This conflict leads to condemning the attempts of all kinds of liberal structures (<a href="http://leftcentral.org.uk/2012/03/07/the-radical-argument-against-welfare-benefits-for-young-people/">welfare state</a>, <a href="http://en.wikipedia.org/wiki/Postdevelopment_theory">NGOs</a>, the UN), and from there, passivity. Because they rightly probe the mixed motives and identify unconscious power structures in do-gooders, the scholar can feel satisfied in holy inaction. This is the accidental turn of the '<a href="http://en.wikipedia.org/wiki/New_Left#Attacking_liberalism">New</a>' Left ; reading is not only political, but <em>political enough</em>. The only labour you owe to the disadvantaged is your intellectual labour; since everything else you might try is tainted.
+This conflict leads to condemning the attempts of all kinds of liberal structures (<a href="https://web.archive.org/web/20120510112829/http://leftcentral.org.uk:80/2012/03/07/the-radical-argument-against-welfare-benefits-for-young-people/">welfare state</a>, <a href="http://en.wikipedia.org/wiki/Postdevelopment_theory">NGOs</a>, the UN), and from there, passivity. Because they rightly probe the mixed motives and identify unconscious power structures in do-gooders, the scholar can feel satisfied in holy inaction. This is the accidental turn of the '<a href="http://en.wikipedia.org/wiki/New_Left#Attacking_liberalism">New</a>' Left ; reading is not only political, but <em>political enough</em>. The only labour you owe to the disadvantaged is your intellectual labour; since everything else you might try is tainted.
 
 But as long as it is chosen, as long as it's not the only thing you get to be, there's little wrong with objectifying yourself, choosing to become, among other things, an instrument. The trick is to retain your radical goals even with a prosaic, professional, instrumentalised exterior. 
 
@@ -72,7 +72,7 @@ Long story short; let's go make ourselves useful:
 <ul><li> Knots (1 week; £minimal)</li>
 <li>First aid (1 month; £minimal)</li>
 <li>Driving (4 months; £400)</li>
-<li>Databasing. (a <a href="http://www.ptr.co.uk/database-courses.htm">month</a> or so; £2000)</li>
+<li>Databasing. (a <a href="https://web.archive.org/web/20120616063332/http://www.ptr.co.uk:80/database-courses.htm">month</a> or so; £2000)</li>
 <li>PGDE (1 year)</li>
 <li>MA African Studies in Nairobi or Makerere (1 year; £1000)</li>
 <li>MSc Maths, Open University (takes 2 years part-time; £2500)</li>
@@ -85,7 +85,7 @@ Long story short; let's go make ourselves useful:
 <ul><li>PhD in Irrationality (designing cognitive bias education programmes)</li>
 <li>or Development (new metrics and meta-analysis for aid dependency)</li>
 <li>or Animal rights law </li>
-<li>or Nutrition/Biochemistry (on the prospects of <a href="http://psychcentral.com/news/2012/12/11/new-fast-acting-antidepressant-glyx-13-shows-promise-in-clinical-trials/48877.html">nootropics</a>)</li>
+<li>or Nutrition/Biochemistry (on the prospects of <a href="https://web.archive.org/web/20121211205504/http://psychcentral.com:80/news/2012/12/11/new-fast-acting-antidepressant-glyx-13-shows-promise-in-clinical-trials/48877.html">nootropics</a>)</li>
 <li>or Transhumanism in general (on theodicy and the love of suffering)</li>
 <li>or Epistemology (radical scepticism's influence on contemporary philosophy)</li>
 <!-- <li>or Gender (the most recent backlash against feminism, and the term)</li> -->

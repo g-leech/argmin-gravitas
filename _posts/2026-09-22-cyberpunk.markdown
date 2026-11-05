@@ -58,7 +58,7 @@ Since September 2024 I've kept <a href="https://x.com/gleech/status/183897421665
 <ul>
 	<li><a href="https://x.com/ekstasis/status/1866625130409103877">Mech suits vs robot dogs</a>, and crypto agents.</li>
 	<li>Indian soundsystem culture as <a href="https://pbs.twimg.com/media/Gbo7KcwXsAAS72M.jpg">homegrown cyberpunk</a>.</li>
-	<li><a href="https://pbs.twimg.com/media/GedQramWgAEeG0h.png">Abilify MyCite</a>: an antipsychotic with an ingestible Bluetooth chip to report compliance. <a href="https://x.com/MvonRen/status/1866864396217278641">Via MvonRen</a>.</li>
+	<li><a href="https://pbs.twimg.com/media/GedQramWgAEeG0h.png">Abilify MyCite</a>: an antipsychotic with an ingestible Bluetooth chip to report compliance. <a href="https://web.archive.org/web/20241219193020/https://x.com/MvonRen/status/1866864396217278641">Via MvonRen</a>.</li>
 	<li>@Mechanical_Dodo <a href="https://pbs.twimg.com/media/GerlFX9b0AAxRFF.png">imagines police tracking swallowed MyCite sensors</a> all the way out to sea; I add <a href="https://pbs.twimg.com/media/Ger0jVmXUAAjuDN.png">a</a> <a href="https://pbs.twimg.com/media/Ger0yR1XkAALAZs.png">pair</a> of side-by-side tweets to the same effect.</li>
 </ul>
 

@@ -22,7 +22,7 @@ Stevie Wonder is known first of all as a supplier of catchy sappy shit. But abou
 
 ## _Superstition_: against fake frameworks
 https://www.lesswrong.com/posts/wDP4ZWYLNj7MGXWiW/in-praise-of-fake-frameworks
-https://brianlui.dog/2018/02/15/wrong-models-are-good/
+https://web.archive.org/web/20220625082659/https://brianlui.dog/2018/02/15/wrong-models-are-good/
 
 ---
 

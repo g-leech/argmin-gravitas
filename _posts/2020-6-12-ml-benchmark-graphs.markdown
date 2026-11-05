@@ -17,7 +17,7 @@ categories: machine-learning
 
 {%	assign scinlp = "https://www.science.org/content/article/computers-ace-iq-tests-still-make-dumb-mistakes-can-different-tests-help"	%}
 {%	assign sevilla = "https://arxiv.org/abs/2202.05924"	%}
-{%	assign coles = "https://www.drdobbs.com/parallel/computer-chess-the-drosophila-of-ai/184405171?pgno=2"	%}
+{%	assign coles = "https://web.archive.org/web/20201020202406/https://www.drdobbs.com/parallel/computer-chess-the-drosophila-of-ai/184405171?pgno=2"	%}
 {%	assign chin = "https://arxiv.org/pdf/2203.15556.pdf"	%}
 {%	assign strang = "https://arxiv.org/pdf/2112.15594.pdf"	%}
 {%	assign flam = "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/tackling-multiple-tasks-with-a-single-visual-language-model/flamingo.pdf"	%}
@@ -87,7 +87,7 @@ categories: machine-learning
 
 ## See also
 
-* [EFF](https://www.eff.org/ai/metrics)
+* [EFF](https://web.archive.org/web/20200721062655/https://www.eff.org/ai/metrics)
 * [Vance](https://www.lesswrong.com/posts/G993PFTwqqdQv4eTg/is-ai-progress-impossible-to-predict)
 * <a href="/ceiling">A ceiling for human expertise</a>
 * <a href="/mitchell">Mitchell's open problems</a>

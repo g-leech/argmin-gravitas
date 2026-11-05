@@ -4,7 +4,7 @@
 {%	assign dahon = "https://www.bikefolded.com/dahon-espresso-d24-folding-bike-review/"	%}
 {%	assign green = "https://www.bulkpowders.co.uk/complete-greens.html"		%}
 {%	assign oxy = "https://www.amazon.co.uk/Vicks-Micromist-Nasal-Pump-Spray/dp/B004GKG6MQ/"	%}
-{%	assign fil = "https://www.keyboardco.com/keyboard/filco-convertible-2-tenkeyless-silent-soft-linear-action-uk-iso-keyboard.asp"		%}
+{%	assign fil = "https://web.archive.org/web/20260712154846/https://www.keyboardco.com/keyboard/filco-convertible-2-tenkeyless-silent-soft-linear-action-uk-iso-keyboard.asp"		%}
 {%	assign beu = "https://www.amazon.com/Beurer-BR60-Chemical-Free-Treatment-Non-Toxic/dp/B08MT4Z89C"	%}
 {%	assign nasal = "https://www.amazon.com/Breathe-Right-Drug-Free-Congestion-Allergies/dp/B01JH15SOU?ref_=ast_sto_dp"	%}
 
@@ -16,7 +16,7 @@
 {%	assign noo = "https://www.amazon.co.uk/Nutritional-Yeast-Flakes-Tasting-Premium/dp/B07LBRN88S/ref=sr_1_12?crid=38KW28E63F8FA&dchild=1&keywords=nutritional+yeast&qid=1586604191&sprefix=nutritional+%2Caps%2C187&sr=8-12"		%}
 {%	assign bow = "https://www.fitness-superstore.co.uk/bowflex-2-24-kg-selecttech-dumbbells-pair.html"		%}
 {%	assign etf = "https://www.vanguardinvestor.co.uk/what-we-offer/etf-products"		%}
-{%	assign simp = "https://theescapeartist.me/2015/07/28/the-simplicity-portfolio/"		%}
+{%	assign simp = "https://web.archive.org/web/20210226001713/https://theescapeartist.me/2015/07/28/the-simplicity-portfolio/"		%}
 {%	assign zinc2 = "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012808/epdf/full"		%}
 {%	assign mask = "https://www.amazon.co.uk/Dream-Essentials-Dreams-Contoured-Earplugs/dp/B005BD7AHC?th=1"		%}
 {%	assign zinc1 = "https://www.lifeextensioneurope.com/enhanced-zinc-lozenges-30-vegetarian-lozenges"		%}
@@ -41,13 +41,13 @@
 {%	assign jp = "http://www.filcokeyboards.co.uk/"	%}
 
 {%	assign mcc = "http://www.bayesianinvestor.com/blog/index.php/2019/01/17/bundle-your-experiments/"		%}
-{%	assign thriv = "https://app.thriva.co/health-survey/sections/intro"	%}
+{%	assign thriv = "https://web.archive.org/web/20220221045538/https://app.thriva.co/health-survey/sections/intro"	%}
 {%	assign guz = "https://guzey.com/tools-gear/"		%}
 {%	assign jos = "https://nintil.com/1-stuff-i-own-and-use/"		%}
 {%	assign proton = "https://protonmail.com/"		%}
 {%	assign logs = "https://www.privateinternetaccess.com/forum/discussion/26284/pia-looks-like-you-were-not-turthful-in-the-announcement-request-for-info"		%}
 {%	assign pi = "https://pi-hole.net/"		%}
-{%	assign berg = "https://www.berghaus.com/mens-freeflow-35-%2B-8-rucksack/434549.html"	%}
+{%	assign berg = "https://web.archive.org/web/20200930023150/https://www.berghaus.com/mens-freeflow-35-%2B-8-rucksack/434549.html"	%}
 {%	assign moto = "https://www.techradar.com/uk/reviews/moto-g7-review"		%}
 {%	assign use = "https://usesthis.com/"		%}
 {%	assign ben = "https://medium.com/@louis.dixon/things-i-use-and-recommend-9b9f488bbe07"		%}
@@ -61,20 +61,20 @@
 
 {%	assign time = "https://www.amazon.co.uk/Yunbaoit-60-Minute-Countdown-Ticking-Management/dp/B07PG1SR9C/"		%}
 {%	assign ether = "https://www.jefftk.com/p/ethernet-is-worth-it-for-video-calls"	%}
-{%	assign bread = "https://www.amazon.co.uk/Morphy-Richards-48280-Fastbake-Breadmaker/dp/B00008WFDG"		%}
+{%	assign bread = "https://web.archive.org/web/20220423180817/https://www.amazon.co.uk/Morphy-Richards-48280-Fastbake-Breadmaker/dp/B00008WFDG/"		%}
 {%	assign shoe = "https://www.amazon.co.uk/adidas-Powerlift-Fitness-Shoes-White/dp/B07JPFL8RV/ref=pd_lpo_309_t_1/261-1865713-8474857?_encoding=UTF8&pd_rd_i=B083GC37X7&pd_rd_r=cd92f593-fb76-4e33-99e7-bbf5dc7001d8&pd_rd_w=sYRkw&pd_rd_wg=5bh2K&pf_rd_p=da0677f5-a47b-4543-8b54-10be576b8f26&pf_rd_r=84FF0AEJPDMC7Q337C3T&refRID=84FF0AEJPDMC7Q337C3T&th=1&psc=1"		%}
 {%	assign mh = "https://eaforum.issarice.com/posts/o7E47dNfeArTTQh74/10-things-i-bought-and-recommend-2020"	%}
 {%	assign arden = "https://docs.google.com/document/d/1ZrSzGLuwIEWeQJ_2zL5vpYDyV-LmC-8SBy-Q4WPF318/edit"	%}
 {%	assign xu = "https://markxu.com/things"	%}
 {%	assign james = "https://www.facebook.com/jimmieaung/posts/10212664121438278"	%}
-{%	assign dmn = "https://davidmn.org/things-i-recommend-you-buy-2020-edition/"	%}
+{%	assign dmn = "https://web.archive.org/web/20220601001027/https://davidmn.org/things-i-recommend-you-buy-2020-edition/"	%}
 {%	assign mm = "https://cookerymonster.substack.com/p/the-2020-annual-kitchen-gift-guide"	%}
 {%	assign yuriy = "https://yakopov.me/things-i-recommend-you-buy-and-use"	%}
 {%	assign yuriy2 = "https://yakopov.me/things-i-recommend-you-buy-and-use-2"	%}
 {%	assign schif = "https://ea.greaterwrong.com/posts/BnnDRy2yFzJqJ4Mvz/things-i-recommend-you-buy-and-use"	%}
 {%	assign berg = "https://ea.greaterwrong.com/posts/fwtoEN5pZpDfQQLKz/stuff-i-buy-and-use-a-listicle-to-boost-your-consumer"	%}
-{%	assign v = "https://vitalik.ca/general/2022/06/20/backpack.html"		%}
-{%  assign en = "https://samenright.com/2022/09/21/things-i-recommend-you-buy-and-use-sam-edition/"      %}
+{%	assign v = "https://web.archive.org/web/20231105084121/https://vitalik.ca/general/2022/06/20/backpack.html"		%}
+{%  assign en = "https://web.archive.org/web/20230619053923/https://samenright.com/2022/09/21/things-i-recommend-you-buy-and-use-sam-edition/"      %}
 {%  assign alac = "https://alacritty.org/" %}
 {%  assign conner = "https://andrewconner.com/recommendations/things/"    %}
 {%  assign arjun = "https://arjunpanickssery.substack.com/p/stuff-i-recommend-you-use" %}
