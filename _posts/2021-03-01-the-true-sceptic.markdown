@@ -17,6 +17,7 @@ warnings:
 importance: 5
 emotion: 	7
 wordcount:  1200
+argument:   sceptic/argument.html
 ---
 
 {% 	assign dunc =	"https://ndpr.nd.edu/reviews/epistemic-angst-radical-skepticism-and-the-groundlessness-of-our-believing/"		%}

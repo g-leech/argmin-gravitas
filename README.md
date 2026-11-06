@@ -24,7 +24,7 @@ Hosted at [www.gleech.org](https://www.gleech.org)
 
 # Github actions
 
-Github actions are included for netlify and cloudflare deploys.  These use the build scripts to ensure version compatibility and reproducibility.
+Github actions are included for netlify deploys.  These use the build scripts to ensure version compatibility and reproducibility.
 
 A Github action for checking pull requests is included.
 
